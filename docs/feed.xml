@@ -3,15 +3,15 @@
 <channel>
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
-<description>Site update feed</description>
-<lastBuildDate>Mon, 11 May 2026 00:00:00 GMT</lastBuildDate>
+<description>Test Auto Update</description>
+<lastBuildDate>Mon, 11 May 2026 08:33:09 GMT</lastBuildDate>
 
 <item>
-<title>TEST Feed</title>
+<title>Auto Test Update</title>
 <link>https://example.com</link>
-<guid>test-1</guid>
-<pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
-<description>Test feed item</description>
+<guid>Mon, 11 May 2026 08:33:09 GMT</guid>
+<pubDate>Mon, 11 May 2026 08:33:09 GMT</pubDate>
+<description>GitHub Actions test</description>
 </item>
 
 </channel>
