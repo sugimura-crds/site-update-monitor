@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
 <title>Site Update Monitor</title>
-<link>https://github.com/</link>
-<description>Test Auto Update</description>
-<lastBuildDate>Mon, 11 May 2026 08:53:10 GMT</lastBuildDate>
+<link>https://example.com</link>
+<description>Simple RSS Feed</description>
 
 <item>
-<title>Auto Test Update 20260511085310</title>
-<link>https://example.com/test-20260511085310</link>
-<guid isPermaLink="false">test-20260511085310</guid>
-<pubDate>Mon, 11 May 2026 08:53:10 GMT</pubDate>
-<description>GitHub Actions test 20260511085310</description>
+<title>Test 20260511091831</title>
+<link>https://example.com/20260511091831</link>
+<guid>test-20260511091831</guid>
+<pubDate>Mon, 11 May 2026 09:18:31 GMT</pubDate>
+<description>Test item 20260511091831</description>
 </item>
 
 </channel>
