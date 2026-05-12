@@ -232,13 +232,13 @@ def main():
         except Exception as e:
             print(f"SITE ERROR {row['url']} {e}")
 
+    save_state(state)
+    
     if not new_items:
         print("No new items")
         return
 
     write_feed(new_items)
-
-    save_state(state)
 
     print(f"{len(new_items)} items updated")
 
