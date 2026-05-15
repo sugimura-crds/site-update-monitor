@@ -114,9 +114,12 @@ def check_no_rss_site(category, url, selector, state):
     headers = {
         "User-Agent": "Mozilla/5.0"
     }
-
+    
     r = requests.get(url, headers=headers, timeout=30)
     r.raise_for_status()
+
+    if not r.encoding or r.encoding.lower() in ["iso-8859-1", "windows-1252"]:
+        r.encoding = r.apparent_encoding
 
     soup = BeautifulSoup(r.text, "html.parser")
 
