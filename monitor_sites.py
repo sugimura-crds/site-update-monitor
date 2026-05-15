@@ -150,11 +150,7 @@ def check_no_rss_site(category, url, state):
 def make_item_xml(item):
     title = f"【{item['category']}】 {item['title']}"
 
-    description = (
-        f"更新日時: {item['published']}<br>"
-        f"出典元: {html.escape(item['source'])}<br>"
-        f"概要: {html.escape(item['summary'])}"
-    )
+    description = html.escape(item["summary"])
 
     guid = hashlib.sha256(
         (item["link"] + item["published"]).encode("utf-8")
