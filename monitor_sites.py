@@ -30,7 +30,6 @@ def save_state(state):
         encoding="utf-8"
     )
 
-
 def load_csv(path):
     rows = []
 
@@ -40,15 +39,16 @@ def load_csv(path):
         for row in reader:
             category = (row.get("Category") or "").strip()
             url = (row.get("URL") or "").strip()
+            selector = (row.get("Selector") or "").strip()
 
             if category and url:
                 rows.append({
                     "category": category,
-                    "url": url
+                    "url": url,
+                    "selector": selector
                 })
 
     return rows
-
 
 def clean_text(text, max_len=300):
     text = " ".join((text or "").split())
@@ -97,8 +97,7 @@ def check_rss_feed(category, feed_url, state):
 
     return new_items
 
-
-def check_no_rss_site(category, url, state):
+def check_no_rss_site(category, url, selector, state):
     headers = {
         "User-Agent": "Mozilla/5.0"
     }
@@ -114,10 +113,21 @@ def check_no_rss_site(category, url, state):
         else url
     )
 
-    for tag in soup(["script", "style", "noscript"]):
+    target = None
+
+    if selector:
+        target = soup.select_one(selector)
+
+    if target is None:
+        target = soup.find("main")
+
+    if target is None:
+        target = soup.body or soup
+
+    for tag in target(["script", "style", "noscript", "nav", "footer", "header"]):
         tag.decompose()
 
-    body_text = clean_text(soup.get_text(" "), 1000)
+    body_text = clean_text(target.get_text(" "), 1000)
 
     digest = hashlib.sha256(
         body_text.encode("utf-8")
@@ -219,6 +229,7 @@ def main():
             item = check_no_rss_site(
                 row["category"],
                 row["url"],
+                row.get("selector", ""),
                 state
             )
 
