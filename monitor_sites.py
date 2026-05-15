@@ -9,6 +9,8 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 
+from urllib.parse import urljoin
+
 RSS_CSV = "rss_sites.csv"
 NO_RSS_CSV = "no_rss_sites.csv"
 
@@ -114,7 +116,7 @@ def check_no_rss_site(category, url, selector, state):
     headers = {
         "User-Agent": "Mozilla/5.0"
     }
-    
+
     r = requests.get(url, headers=headers, timeout=30)
     r.raise_for_status()
 
@@ -123,30 +125,38 @@ def check_no_rss_site(category, url, selector, state):
 
     soup = BeautifulSoup(r.text, "html.parser")
 
-    title = (
-        soup.title.get_text(strip=True)
-        if soup.title
-        else url
-    )
-
-    target = None
+    targets = []
 
     if selector:
-        target = soup.select_one(selector)
+        targets = soup.select(selector)
 
-    if target is None:
-        target = soup.find("main")
-
-    if target is None:
-        target = soup.body or soup
+    if targets:
+        target = targets[0]
+    else:
+        target = soup.find("main") or soup.body or soup
 
     for tag in target(["script", "style", "noscript", "nav", "footer", "header"]):
         tag.decompose()
 
-    body_text = clean_text(target.get_text(" "), 1000)
+    a = target.find("a", href=True)
+    article_link = a["href"] if a else url
+    article_link = urljoin(url, article_link)
+
+    text = clean_text(target.get_text(" "), 1000)
+
+    title = clean_text(text, 120)
+
+    if not title:
+        title = (
+            soup.title.get_text(strip=True)
+            if soup.title
+            else url
+        )
+
+    digest_base = article_link + text
 
     digest = hashlib.sha256(
-        body_text.encode("utf-8")
+        digest_base.encode("utf-8")
     ).hexdigest()
 
     key = f"site::{url}"
@@ -161,8 +171,8 @@ def check_no_rss_site(category, url, selector, state):
     if old_digest != digest:
         return {
             "title": title,
-            "link": url,
-            "summary": body_text[:400],
+            "link": article_link,
+            "summary": text[:400],
             "published": datetime.now(timezone.utc).strftime(
                 "%a, %d %b %Y %H:%M:%S GMT"
             ),
