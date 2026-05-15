@@ -33,22 +33,35 @@ def save_state(state):
 def load_csv(path):
     rows = []
 
-    with open(path, "r", encoding="cp932") as f:
-        reader = csv.DictReader(f)
+    encodings = ["utf-8-sig", "utf-8", "cp932"]
 
-        for row in reader:
-            category = (row.get("Category") or "").strip()
-            url = (row.get("URL") or "").strip()
-            selector = (row.get("Selector") or "").strip()
+    last_error = None
 
-            if category and url:
-                rows.append({
-                    "category": category,
-                    "url": url,
-                    "selector": selector
-                })
+    for enc in encodings:
+        try:
+            with open(path, "r", encoding=enc, newline="") as f:
+                reader = csv.DictReader(f)
 
-    return rows
+                for row in reader:
+                    category = (row.get("Category") or "").strip()
+                    url = (row.get("URL") or "").strip()
+                    selector = (row.get("Selector") or "").strip()
+
+                    if category and url:
+                        rows.append({
+                            "category": category,
+                            "url": url,
+                            "selector": selector
+                        })
+
+            print(f"Loaded {path} with encoding {enc}")
+            return rows
+
+        except UnicodeDecodeError as e:
+            last_error = e
+            rows = []
+
+    raise last_error
 
 def clean_text(text, max_len=300):
     text = " ".join((text or "").split())
