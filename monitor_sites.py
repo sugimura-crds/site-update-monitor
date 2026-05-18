@@ -144,7 +144,8 @@ def check_no_rss_site(category, url, selector, state):
 
     text = clean_text(target.get_text(" "), 1000)
 
-    title = clean_text(text, 120)
+    h = target.find(["h1", "h2", "h3"])
+    title = clean_text(h.get_text(" "), 120) if h else clean_text(text, 120)
 
     if not title:
         title = (
