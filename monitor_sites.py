@@ -2,6 +2,7 @@ import csv
 import hashlib
 import html
 import json
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -84,6 +85,11 @@ def check_rss_feed(category, feed_url, state):
                 "html.parser"
             ).get_text(" "),
             400
+        )
+        summary = re.sub(
+            r"^Nature.*?doi:[^ ]+\s*",
+            "",
+            summary
         )
 
         published = (
