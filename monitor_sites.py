@@ -144,9 +144,23 @@ def check_no_rss_site(category, url, selector, state):
     for tag in target(["script", "style", "noscript", "nav", "footer", "header"]):
         tag.decompose()
 
-    a = target.find("a", href=True)
-    article_link = a["href"] if a else url
-    article_link = urljoin(url, article_link)
+    a_tags = target.find_all("a", href=True)
+
+    article_link = url
+
+    for a in a_tags:
+        href = a["href"]
+
+        if href.startswith("mailto:"):
+            continue
+
+        if "/article" in href or "/articles/" in href:
+            article_link = urljoin(url, href)
+            break
+
+        if href.startswith("http"):
+            article_link = href
+            break
 
     text = clean_text(target.get_text(" "), 1000)
 
