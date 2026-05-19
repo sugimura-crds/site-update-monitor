@@ -150,8 +150,15 @@ def check_no_rss_site(category, url, selector, state):
 
     text = clean_text(target.get_text(" "), 1000)
 
-    h = target.find(["h1", "h2", "h3"])
-    title = clean_text(h.get_text(" "), 120) if h else clean_text(text, 120)
+    h = target.find(["h1", "h2", "h3", "a"])
+
+    title = ""
+
+    if h:
+        title = clean_text(h.get_text(" "), 120)
+
+    if not title:
+        title = clean_text(text, 120)
 
     if not title:
         title = (
@@ -160,6 +167,16 @@ def check_no_rss_site(category, url, selector, state):
             else url
         )
 
+    p = target.find("p")
+
+    summary = ""
+
+    if p:
+        summary = clean_text(p.get_text(" "), 600)
+
+    if not summary:
+        summary = clean_text(text, 600)
+    
     digest_base = article_link + text
 
     digest = hashlib.sha256(
@@ -179,7 +196,7 @@ def check_no_rss_site(category, url, selector, state):
         return {
             "title": title,
             "link": article_link,
-            "summary": text[:400],
+            "summary": summary,
             "published": datetime.now(timezone.utc).strftime(
                 "%a, %d %b %Y %H:%M:%S GMT"
             ),
