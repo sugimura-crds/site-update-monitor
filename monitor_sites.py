@@ -136,8 +136,35 @@ def check_no_rss_site(category, url, selector, state):
     if selector:
         targets = soup.select(selector)
 
+    target = None
+
     if targets:
-        target = targets[0]
+        best_score = -1
+
+        for t in targets:
+            txt = clean_text(t.get_text(" "), 500)
+
+            score = 0
+
+            if len(txt) > 80:
+                score += 1
+
+            if t.find("p"):
+                score += 1
+
+            if t.find(["h1", "h2", "h3"]):
+                score += 2
+
+            if t.find("a", href=True):
+                score += 1
+
+            if score > best_score:
+                best_score = score
+                target = t
+
+    if target is None:
+        target = soup.find("main") or soup.body or soup
+        
     else:
         target = soup.find("main") or soup.body or soup
 
