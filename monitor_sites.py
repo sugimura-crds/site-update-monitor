@@ -208,12 +208,58 @@ def check_no_rss_site(category, url, selector, state):
             else url
         )
 
-    p = target.find("p")
-
     summary = ""
 
-    if p:
-        summary = clean_text(p.get_text(" "), 600)
+    try:
+        article_response = requests.get(
+            article_link,
+            headers=headers,
+            timeout=20
+        )
+
+        if (
+            not article_response.encoding
+            or article_response.encoding.lower()
+            in ["iso-8859-1", "windows-1252"]
+        ):
+            article_response.encoding = (
+                article_response.apparent_encoding
+            )
+
+        article_soup = BeautifulSoup(
+            article_response.text,
+            "html.parser"
+        )
+
+        meta = (
+            article_soup.find(
+                "meta",
+                attrs={"name": "description"}
+            )
+            or
+            article_soup.find(
+                "meta",
+                attrs={"property": "og:description"}
+            )
+        )
+
+        if meta and meta.get("content"):
+            summary = clean_text(
+                meta["content"],
+                1200
+            )
+
+    except Exception:
+        pass
+
+    if not summary:
+        p = target.find("p")
+
+        if p:
+            summary = clean_text(
+                p.get_text(" "),
+                600
+            )
 
     if not summary:
         summary = clean_text(text, 600)
