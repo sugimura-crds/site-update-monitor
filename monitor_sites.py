@@ -185,6 +185,15 @@ def check_no_rss_site(category, url, selector, state):
             article_link = urljoin(url, href)
             break
 
+        if "facebook.com" in href:
+            continue
+
+        if "twitter.com" in href:
+            continue
+
+        if "x.com" in href:
+            continue
+        
         if href.startswith("http"):
             article_link = href
             break
