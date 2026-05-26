@@ -4,217 +4,84 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 26 May 2026 19:29:48 GMT</lastBuildDate>
+<lastBuildDate>Tue, 26 May 2026 23:44:11 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【35歳未経験でも理解できた】Ruby on Rails 前編</title>
-<link>https://qiita.com/wata-sho/items/34010e35cd35c797d258?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>925a5fd2b5f2875bee79290f0b195ceed1ae8390dd0f356e30dd30e8deac85e8</guid>
-<pubDate>2026-05-26T10:21:11+09:00</pubDate>
-<description>こんにちは。 35歳未経験からWebエンジニアを目指し、日々ステートレスな自分の脳みそと毎日戦っている者です。 この記事では、Railsの基礎からユーザー登録機能までを分かりやすく解説します！ 結論（先にシンプルに） Railsの仕組みを一言でいうと、「超優秀なレ...</description>
+<title>【Qiita】 文系未経験エンジニアが研修で学んだLinuxコマンド備忘録</title>
+<link>https://qiita.com/s-sakaguchis/items/6303ef4ef36779011972?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>b7db2b4312dd3fd9dbb3c6c2cfd33cb183009ac1da2d373b3924193fd6203fd9</guid>
+<pubDate>2026-05-26T08:54:45+09:00</pubDate>
+<description>はじめに 新卒研修でLinuxを触る機会があったので、研修中によく使ったコマンドを備忘録としてまとめます。 私は文系出身・未経験で、Linuxはもちろん、CUIの黒い画面を操作するのも今回が初めてでした。最初は「今どこのディレクトリにいるのかわからない」「コマンドを1...</description>
 </item>
 <item>
-<title>【Qiita】 会社が変わっても消えないスキルとスタートアップという選択肢</title>
-<link>https://qiita.com/masa20057/items/fa1f6b0db92e497796ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>e4ad13613d30aa9627245735319be52b750956aef7efdb1b413196f527524436</guid>
-<pubDate>2026-05-26T11:42:24+09:00</pubDate>
-<description>こんにちは。 株式会社 PRUMのmasaです。 今日は「エンジニアスキルがなぜ会社を超えて通用するのか」と、キャリアを加速させるスタートアップ企業という選択肢について、一緒に考えていきましょう。 エンジニアのスキルは「どこへ行っても通用する武器」になる 会社が変わって...</description>
+<title>【Qiita】 TurbonomicのEKSデプロイで「externalDbIP」設定ミスにハマった話</title>
+<link>https://qiita.com/HinanoKawahori/items/34b1eb467da3062d18a1</link>
+<guid>fbfd3298b19955a00c58000d6dfa137566248383bee0cb27af2ad03c7f0bea60</guid>
+<pubDate>2026-05-27T07:22:44+09:00</pubDate>
+<description>はじめに Turbonomic（IBM製のリソース最適化ツール）をAWS EKS上にデプロイする際、内部データベースが使われず、全Podが起動しないという問題に遭遇しました。 原因は、Custom Resource（CR）に設定したexternalDbIPという1行の設定...</description>
 </item>
 <item>
-<title>【Qiita】 EKSにアプリを展開してみる（個人メモ）</title>
-<link>https://qiita.com/HinanoKawahori/items/5b28bc1920377458e22d</link>
-<guid>075e05af56183a1f241a675fb78a3bba6e52f4a2bdac5b65abc01a3ab8fad05b</guid>
-<pubDate>2026-05-26T07:21:23+09:00</pubDate>
-<description>はじめに EKS上に、サンプルアプリを展開してみました。手順通りにすれば10分あれば終わります！EKS上にアプリを展開する簡単な流れがつかめます。 サンプルアプリ： https://github.com/aws-containers/retail-store-sample...</description>
+<title>【Qiita】 【IBM Bob】ルールやカスタム機能、どう始める？今すぐ使えるサンプルファイル集</title>
+<link>https://qiita.com/mu-perori/items/1783daff23cf42ee97de</link>
+<guid>a9244e5d6056768f9dbaaafd919442eb82d47c20ce4500738b397af2660fa522</guid>
+<pubDate>2026-05-27T05:35:35+09:00</pubDate>
+<description>本記事は2026年5月27日に開催したウェビナー「ルールやカスタム機能、どう使う？理想の出力を引き出すために今知りたいIBM Bob 5つの機能」でご紹介した5つの機能（AGENTS.md、rules、スラッシュコマンド、カスタム・モード、Skills）の今すぐ使えるサンプ...</description>
 </item>
 <item>
-<title>【Qiita】 あの手この手を試してもダメで、結局「読ませる形式」が問題だった話――CSVをYAMLに変えたら処理時間60%・使用量70%削減できた</title>
-<link>https://qiita.com/inaba-yoshiko/items/410d83f31e8d8b606ba9</link>
-<guid>97734e5b80ff5ae34716714077d4247e5611b81e73fe9e92bd9d4ba6be54ae82</guid>
-<pubDate>2026-05-26T12:34:26+09:00</pubDate>
-<description>はじめに 最近、システム連携のIF定義書（Excel）をLLMで自動生成する仕組みを作って使っています。 （TIPS：AIを検索ツールで終わらせない：Javaコード解析スラッシュコマンド化で学んだ5つのTIPS） かなり便利なんですが、1回の実行で5時間分の使用量を20〜...</description>
+<title>【Qiita】 Chatから指示出すとサイトが変更されるWebサイト作った</title>
+<link>https://qiita.com/barcarunrun/items/7c5cfad6f62d73abb73a</link>
+<guid>868c83dd15511b8df4984c6b5763d2f01f613d2359e81a5273a35f9a8d839af2</guid>
+<pubDate>2026-05-27T08:30:51+09:00</pubDate>
+<description>「この文言を変えて」みたいな要望を、チャットで送るだけでWebサイトに反映される仕組みを作りました。 今回は、実際に作った prompt-to-app の構成と、どこを工夫したかをまとめます。 何を作ったのか 以下の体験を目指したコンセプトサイトです。 ユーザーが自然文...</description>
 </item>
 <item>
-<title>【Qiita】 AIへの依頼で毎回手戻りに疲れたので、指示書の作成自体をAIに任せた話</title>
-<link>https://qiita.com/hirashima-gmoconnect/items/cd1ab7d541cc3047ae70</link>
-<guid>07d152049e098a3117b3883a7b16bc28f3469001f6b9aaa05255290e9db4fab9</guid>
-<pubDate>2026-05-26T11:43:45+09:00</pubDate>
-<description>はじめに GMOコネクトの平島です。 Claude Codeを業務で使い始めてしばらく経ち、簡単なタスクは安定して任せられるようになりました。一方で、設計書を書かせる・複雑なデータ加工を頼むといった「判断が多い」タスクは、ざっくり投げると毎回違うアウトプットが返ってきて😇...</description>
+<title>【Qiita】 「AIが書いたコードなので中身は分かりません」と言うシニアエンジニアが、チームの信頼をすべて失う理由</title>
+<link>https://qiita.com/fe1ix/items/91cc7503489fa751ed9d</link>
+<guid>cfd45b2532c701e229337afe74de35e401ec61775f08960bf780012024055000</guid>
+<pubDate>2026-05-27T08:28:59+09:00</pubDate>
+<description>ある障害対応の現場にて 本番サーバーで重大なバグが発生し、緊急のデバッグ会議が開かれました。 バグが混入したのは、1週間前にリリースされたばかりの新機能のコードです。 リーダーであるシニアエンジニアのAさんに、メンバーが質問します。 「Aさん、ここの変数の代入ロジック、な...</description>
 </item>
 <item>
-<title>【Qiita】 とりあえずC:\に置いたら動かなくて、Windowsのパス権限を学んだ話</title>
-<link>https://qiita.com/aoyama-gmoconnect/items/2ab00e74c78ed9c427a8</link>
-<guid>a32316afa02fa202eadcad3e3baa6680c77667cbcf8345f7356ce5754d569c94</guid>
-<pubDate>2026-05-26T11:41:15+09:00</pubDate>
-<description>はじめに GMOコネクトの青山です。bat ファイルを作って実行したら、コマンドプロンプトが一瞬表示されてすぐ消える——そんな経験はありませんか 😵 ログも残らず途方に暮れたのですが、原因は実装ではなく「C:\ 直下に置いていたこと」でした。 先にまとめ 結論：bat ...</description>
+<title>【Qiita】 AG-UI Protocolとは──MicrosoftもGoogleも採用したエージェントUI標準</title>
+<link>https://qiita.com/Yushi88/items/c0848fb0942a3d91f742</link>
+<guid>6947efe83db100cf50afd70a8f0d51db4acfc20a3c915e6916232c60004d08b6</guid>
+<pubDate>2026-05-27T08:05:48+09:00</pubDate>
+<description>2026年5月5日、CopilotKitが27Mドル(約42億円)のSeries Aを調達した。注目は資金額ではなく、彼らが推進する AG-UI Protocol だ。これは Agentic UI(エージェントが画面要素を能動的に動かすUI設計)と Generative U...</description>
 </item>
 <item>
-<title>【Qiita】 AIのハルシネーションを見破る『セカンドオピニオン』調査術：Claude CodeとGitHub Copilotの比較検証フロー</title>
-<link>https://qiita.com/oguri-gmoconnect/items/53986a41bfd50eee264e</link>
-<guid>52fc131dbd335f2757831f0a0cb6a52de1a27f730d27d9f4cf2840963a802194</guid>
-<pubDate>2026-05-26T11:36:37+09:00</pubDate>
-<description>はじめに 「このコード、どこが問題ですか？」とAIに聞くと、根拠付きで詳細な修正案が返ってくる——そんな体験が当たり前になってきました。 しかし先日、こんな出来事がありました。あるメニュー画面の4件のバグを Claude Code に横断調査してもらい、コードの根拠を示し...</description>
+<title>【Qiita】 なぜClaude Code AgentでTask・Agent Team・メインスレッドを使い分けるのか</title>
+<link>https://qiita.com/YujiNaramoto/items/eae30c01261ec42bad82</link>
+<guid>3b42f69a1b752001ed015712bc1af69a52dc7d3feddf41c697ab1e2d980d2422</guid>
+<pubDate>2026-05-27T07:06:24+09:00</pubDate>
+<description>この記事は playpark Blog からの転載です。 この記事で分かること Task / Agent Team / メインスレッドそれぞれを選ぶ理由と背景 3つの選択肢の特性の違い（通信方向・コンテキスト消費・起動コスト） どういう場面でどれを採用すべきかの...</description>
 </item>
 <item>
-<title>【Qiita】 SPReAD-1000 に挑む研究者のための AI for Science 実践ガイド — GPU サーバー・LLM API の利用だけでは不十分な理由</title>
-<link>https://qiita.com/hisaho/items/bf19ff1d607d5965bf12</link>
-<guid>0e30552cf42b09d2b6c7cb62ec1c0046d87bee1943e8b898078de8f80061864e</guid>
-<pubDate>2026-05-26T13:57:58+09:00</pubDate>
-<description>対象読者: SPReAD-1000（第2回公募: 2026年6月）への応募を検討している大学の研究者 キーワード: AI for Science, SPReAD-1000, 研究設計, AI駆動型科学, AIRA, Co-Scientist はじめに 文部科学省が...</description>
-</item>
-<item>
-<title>【Qiita】 AIに研究ドラフトを100本生成させてわかった「AI for Science」の本当の姿 ── 革命ではなく、研究者との共進化だった</title>
-<link>https://qiita.com/hisaho/items/8158b699ffb98e9bb64b</link>
-<guid>543f16c85cde0becde00afa6e7c68b796f7be177481800d4cf72ffe392477816</guid>
-<pubDate>2026-05-26T13:07:25+09:00</pubDate>
-<description>この記事は誰向け？: AI for Scienceに興味はあるが、自分の研究にどう使えるか分からない研究者向けです。AIが自律的に科学的発見をしたという主張をする記事ではありません。 TL;DR 筆者が開発しているAI研究アシスタント「AIRA」に100の科学研...</description>
-</item>
-<item>
-<title>【Qiita】 クラウドを取り戻せ。AIを、あなたのデータがある場所で動かす。</title>
-<link>https://qiita.com/hokutosei/items/bc96d380572c3ac91fc3</link>
-<guid>833971847f9ce3becb60d557ef9bd87b7efb86a3a5a9e8875848e0fb10326716</guid>
-<pubDate>2026-05-26T22:18:06+09:00</pubDate>
-<description>ベアメタルをKubernetes搭載のデータ基盤に変える、完全セルフホスト型AIプラットフォーム — AWSの請求書も、ベンダーロックインも、妥協もいらない。 誰も語らない「クラウドの真実」 クラウドネイティブに乗り出したチームが、必ずぶつかる疑問がある。 「なんで...</description>
-</item>
-<item>
-<title>【Qiita】 OpenCodeでgit commit --no-verifyやpushを許可制にする</title>
-<link>https://qiita.com/yoshi-taka/items/c94adc5be8f9386376f2</link>
-<guid>20f8cc87c8617b1f585d0aed89e903737f427b882f94df120454d7701cfb2721</guid>
-<pubDate>2026-05-26T22:13:17+09:00</pubDate>
-<description>AIがlintなどを迂回しようとgit commit --no-verifyを連発してきてお疲れの皆さん Permissionでno-verityやpushなど任意のコマンドを拒否や許可制にできます。 opencode.jsonなどconfigを修正しましょう AIになげれ...</description>
-</item>
-<item>
-<title>【Qiita】 AIDLC（AI-Driven Development Lifecycle）を学んで感じたこと ─ AIは開発ライフサイクルをどう変えるのか？</title>
-<link>https://qiita.com/mucunhongdao/items/79b2b8f542d5a31de95d</link>
-<guid>07c6f8df31c774478c4dbe548f67c0d32c2c46ef675b20a8ab9b779d0f7ea93b</guid>
-<pubDate>2026-05-26T21:00:45+09:00</pubDate>
-<description>はじめに 最近、社内の勉強会でAIDLC（AI-Driven Development Lifecycle）というテーマが上がった。 最初に聞いたとき、「まあAIでコード補完するやつでしょ」くらいに思っていた。でも調べてみると、それは全然一部の話でしかなくて、要件定義からリ...</description>
-</item>
-<item>
-<title>【Qiita】 【完全無料】開発体験を爆上げする！知らなきゃ損な最新OSSツール5選</title>
-<link>https://qiita.com/Dragon1208/items/afed240d9cf62530d96d</link>
-<guid>6f584a37d6cff3fefa83fc23316f65ac8ac7eaa588f234bae4c53491679a5db4</guid>
-<pubDate>2026-05-26T19:29:21+09:00</pubDate>
-<description>日々の開発において「本当にこれを無料で使っていいのか？」と感じるほど優秀なツールに出会うことが、AIが誕生して増えてきました。 その中でも今回紹介するものは、プレミアムツールにも引けを取らない、完全無料かつオープンソースの優秀なプロジェクトを5つ厳選してご紹介します。日々の...</description>
-</item>
-<item>
-<title>【Qiita】 Gemini CLI廃止ガイド — Antigravity CLIへの移行手順と6月18日期限</title>
-<link>https://qiita.com/kai_kou/items/ac09d94c1ee95faba8f4</link>
-<guid>06be03199c3119ef709914aa287bfd6672b938084f5cb8cb7d195e0d282d6603</guid>
-<pubDate>2026-05-27T01:45:50+09:00</pubDate>
-<description>はじめに 2026年5月19日（Google I/O 2026）、GoogleはGemini CLIを2026年6月18日に終了し、後継のAntigravity CLIへ移行するよう開発者に呼びかけました。 Gemini CLIは2025年6月にApache 2.0ライ...</description>
-</item>
-<item>
-<title>【Qiita】 Salesforce Data 360 MCPサーバー入門 — 190のAPIをAIエージェントから操作する</title>
-<link>https://qiita.com/kai_kou/items/e62d96c7f7998203c094</link>
-<guid>0a6f39d7eeaa7585ae35770a0c4dfb3489bf77da53164d9cc5b5dfacd337087b</guid>
-<pubDate>2026-05-27T01:45:48+09:00</pubDate>
-<description>はじめに Salesforceは2026年5月、Data 360 MCPサーバーをDeveloper Previewとしてオープンソース公開しました。このサーバーは、約190のSalesforce Data 360 REST API操作をModel Context Pr...</description>
-</item>
-<item>
-<title>【Qiita】 Cursor Composer 2.5入門 — Opus 4.7と同等性能を1/10コストで実現する仕組み</title>
-<link>https://qiita.com/kai_kou/items/b7adde1f35dfdf942382</link>
-<guid>945079904a92e215c7563f578c68b629eb0532382ab7eeb2b6b5973e3eb6f48e</guid>
-<pubDate>2026-05-27T01:45:45+09:00</pubDate>
-<description>はじめに 2026年5月18日、CursorはAIコーディングモデル「Composer 2.5」を発表しました。 注目すべきは、Claude Opus 4.7とほぼ同等のベンチマーク性能を、約1/10のコストで実現している点です。SWE-bench Multilingua...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントの記憶ファイルにOptimistic Concurrencyを実装して並行書き込み競合を防いだ</title>
-<link>https://qiita.com/Tadashi_Kudo/items/00dcf0a6e2f89dd9e77a</link>
-<guid>8316054929f00fd5df6aee1e99424101cddfca37f4fe903f0b8fc4c4f3ae163a</guid>
-<pubDate>2026-05-26T07:38:58+09:00</pubDate>
-<description>AIエージェントの記憶ファイルにOptimistic Concurrencyを実装して並行書き込み競合を防いだ はじめに Claude Codeで複数のAIエージェントセッションを並列実行すると、共有の記憶ファイル（working-memory.md や skill-t...</description>
-</item>
-<item>
-<title>【農業】 Strait of Hormuz: Time running out to avert global food security crisis, FAO warns</title>
-<link>https://www.fao.org/newsroom/detail/strait-of-hormuz--time-running-out-to-avert-global-food-security-crisis--fao-warns/en</link>
-<guid>fb40c1c06fe912d7971ec71c6ca9a352a7cfd6b22ecc14ad2c672aaf3ca4694e</guid>
-<pubDate>Tue, 26 May 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【環境】 The long environmental shadow of war</title>
-<link>https://www.nature.com/articles/s41893-026-01857-0</link>
-<guid>20ecc9c5c44f508d494df6af239787a144784bc48ff6e020e60bc634454b2bf6</guid>
-<pubDate>2026-05-26</pubDate>
-<description>Fuel and water infrastructure are increasingly becoming the targets of military conflicts. These attacks pose not only a direct threat to civilian health and safety, but an ongoing threat to the environment that may persist for decades. Military strikes on civilian-critical infrastructure must be condemned if we a</description>
-</item>
-<item>
-<title>【自動自律実験】 Bottom-Up Synthesis of Molecular Nanodiamond from Nanographene</title>
-<link>https://www.nature.com/articles/s41586-026-10669-3</link>
-<guid>58ded0869946578b9b8fa3b9a1ff6adb6840b34e57282827486f8d431e372e77</guid>
-<pubDate>2026-05-26</pubDate>
-<description>Bottom-Up Synthesis of Molecular Nanodiamond from Nanographene</description>
-</item>
-<item>
-<title>【自動自律実験】 Author Correction: In vitro characterization of the human segmentation clock</title>
-<link>https://www.nature.com/articles/s41586-026-10651-z</link>
-<guid>af3f8933e2876362a7eb9cda848e8bd5222d76affe68a0e8a76ed5959e08cdd8</guid>
-<pubDate>2026-05-26</pubDate>
-<description>Author Correction: In vitro characterization of the human segmentation clock</description>
-</item>
-<item>
-<title>【自動自律実験】 Poland’s economy is thriving, but its science is dying</title>
-<link>https://www.nature.com/articles/d41586-026-01664-9</link>
-<guid>172b10e198aba602cfe7e64891b05ccf27ff6fc403417ae850a5a1dbdc019cbe</guid>
-<pubDate>2026-05-26</pubDate>
-<description>Poland’s economy is thriving, but its science is dying</description>
-</item>
-<item>
-<title>【自動自律実験】 Conservation gains should not be at the mercy of political changes</title>
-<link>https://www.nature.com/articles/d41586-026-01665-8</link>
-<guid>d3eb41f9ac3015822022de9dc96db145247ff3a291693635dd49cb3ce371a4f1</guid>
-<pubDate>2026-05-26</pubDate>
-<description>Conservation gains should not be at the mercy of political changes</description>
-</item>
-<item>
-<title>【自動自律実験】 A cautious voice on the closure of China’s journal ranking list</title>
-<link>https://www.nature.com/articles/d41586-026-01663-w</link>
-<guid>b3df9b1aba28a8efe63df917c554383127e1529ecaf13b5e92545ab0a02711d7</guid>
-<pubDate>2026-05-26</pubDate>
-<description>A cautious voice on the closure of China’s journal ranking list</description>
+<title>【Qiita】 SupabaseでAIエージェントの共有記憶を作る——Optimistic Concurrencyで並行書き込み競合を防ぐ実装</title>
+<link>https://qiita.com/Tadashi_Kudo/items/7c817e6e10c789aa5732</link>
+<guid>fd16104eb8c43c1e0c5f65ec896cca82d2b5d5bd4549b6a50317c35f705aef4f</guid>
+<pubDate>2026-05-27T07:13:19+09:00</pubDate>
+<description>SupabaseでAIエージェントの共有記憶を作る——Optimistic Concurrencyで並行書き込み競合を防ぐ実装 はじめに 複数のAIエージェントが協調して動く「マルチエージェントシステム」では、エージェント間で状態を共有する**共有記憶（Shared M...</description>
 </item>
 <item>
 <title>【Google Research】 Publications</title>
-<link>https://research.google/pubs/crop-token-efficient-reasoning-in-large-language-models-via-regularized-prompt-optimization/</link>
-<guid>b01226c3c42f1041f854694e0000a2214969a303b9203650c6bc2af27f09b6c1</guid>
-<pubDate>Tue, 26 May 2026 19:29:11 GMT</pubDate>
+<link>https://research.google/pubs/snpeek-side-channel-analysis-for-privacy-applications-on-confidential-vms/</link>
+<guid>c75a4ebdfdbd81650a315b0ca6dec97a3b07a59e78047efbc86da7f578381159</guid>
+<pubDate>Tue, 26 May 2026 23:43:39 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Skip to main content</title>
 <link>https://www.nature.com/articles/s41467-026-73088-y</link>
-<guid>03d8266547f7635dd8b5c591b747cb9815bd63112249ecdcb749c6bf1d95ced0</guid>
-<pubDate>Tue, 26 May 2026 19:29:14 GMT</pubDate>
+<guid>685ee905179a26d3a2be2a8c0910ec6b691177ba6872c9c55a023bc78132b6d3</guid>
+<pubDate>Tue, 26 May 2026 23:43:42 GMT</pubDate>
 <description>Treatment selection in breast cancer is guided by risk assessment using molecular subtypes and clinicopathological characteristics. However, current approaches lack the precision required for optimal clinical decision-making. To address this, we use data from 8161 patients to develop and evaluate an AI test integrating digital pathology with clinical data. The AI test provides a robust method for predicting disease-free interval (C-index: 0.71 [0.68-0.75], HR: 3.63 [3.02-4.37, p&amp;nbsp;&amp;lt;&amp;nbsp;0.001]). In a direct comparison, the AI test displays numerically higher discrimination (C-index: 0.67 [0.61–0.74]) than the standard-of-care 21-gene assay (C-index: 0.61 [0.49–0.73]). Across molecular subtypes, the AI test demonstrates robust prognostic performance, including in triple negative breast cancer (C-index: 0.71 [0.62-0.81], HR: 3.81 [2.35-6.17, p=0.02]), where no guideline-recommended assays currently exist. These findings highlight the potential of AI-based pathology tests as a promising tool for improved risk stratification across all major subtypes, with implications for clinical decision-making. Selecting appropriate treatment for breast cancer is guided by molecular subtypes</description>
 </item>
 <item>
 <title>【AI agent】 Skip to main content</title>
 <link>https://www.nature.com/articles/s41586-026-10652-y</link>
-<guid>5d0d9f6f3ccfb1a00b09bdc8efab028742b0e1c25d0499165e4862a729210618</guid>
-<pubDate>Tue, 26 May 2026 19:29:17 GMT</pubDate>
+<guid>0ba7859ac1cdb7a03ba0447b700e531eeb085ac9e650417d2579c6e15cbead96</guid>
+<pubDate>Tue, 26 May 2026 23:43:44 GMT</pubDate>
 <description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>21832d972457ec2f8a807c4b6f602b97ce2a558030c96d4742c9e6c6af9cf8b0</guid>
-<pubDate>Tue, 26 May 2026 19:29:18 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【UK】 Department for Science, Innovation and Technology</title>
-<link>https://www.linkedin.com/company/scitechgovuk</link>
-<guid>d0f83154965cf3a28fde7cc3cca6eaaeeb0904f9af57be903dc9f0d8e399faf8</guid>
-<pubDate>Tue, 26 May 2026 19:29:25 GMT</pubDate>
-<description>Department for Science, Innovation and Technology | 265,106 followers on LinkedIn. Positioning the UK at the forefront of global scientific and technological advancement. | Follow this profile to stay up-to-date with our mission: improving people&amp;#39;s lives by maximising the potential of science &amp;amp; technology.</description>
-</item>
-<item>
-<title>【農業】 作物の撮影から解析まで内製化できる、作物画像解析AIソリューション「SWALO」提供開始 SMART AGRI編集部</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>963dad09b8c0fd77ec2769ca0903844693c7f2f6adb1685236f390886eb01f79</guid>
-<pubDate>Tue, 26 May 2026 19:29:27 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
