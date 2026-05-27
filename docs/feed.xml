@@ -4,84 +4,182 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 26 May 2026 23:44:11 GMT</lastBuildDate>
+<lastBuildDate>Wed, 27 May 2026 12:34:23 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 文系未経験エンジニアが研修で学んだLinuxコマンド備忘録</title>
-<link>https://qiita.com/s-sakaguchis/items/6303ef4ef36779011972?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>b7db2b4312dd3fd9dbb3c6c2cfd33cb183009ac1da2d373b3924193fd6203fd9</guid>
-<pubDate>2026-05-26T08:54:45+09:00</pubDate>
-<description>はじめに 新卒研修でLinuxを触る機会があったので、研修中によく使ったコマンドを備忘録としてまとめます。 私は文系出身・未経験で、Linuxはもちろん、CUIの黒い画面を操作するのも今回が初めてでした。最初は「今どこのディレクトリにいるのかわからない」「コマンドを1...</description>
+<title>【Qiita】 【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する</title>
+<link>https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>a4b63f4d6f7cfda0fde46eafb9790ef8b8940fb39fb05e23375ef7bd91a5aee8</guid>
+<pubDate>2026-05-26T18:51:29+09:00</pubDate>
+<description>先日の記事「100万台のAIサービスをスキャンしたら史上最悪のセキュリティだった」が大きな反響をいただいた。 76いいね、62ストック、8万PV超え。 コメントで「もっと詳しく知りたい」「具体的な対策を教えて」という声を多数いただいたので、完全版の深掘り記事を書くことにした...</description>
 </item>
 <item>
-<title>【Qiita】 TurbonomicのEKSデプロイで「externalDbIP」設定ミスにハマった話</title>
-<link>https://qiita.com/HinanoKawahori/items/34b1eb467da3062d18a1</link>
-<guid>fbfd3298b19955a00c58000d6dfa137566248383bee0cb27af2ad03c7f0bea60</guid>
-<pubDate>2026-05-27T07:22:44+09:00</pubDate>
-<description>はじめに Turbonomic（IBM製のリソース最適化ツール）をAWS EKS上にデプロイする際、内部データベースが使われず、全Podが起動しないという問題に遭遇しました。 原因は、Custom Resource（CR）に設定したexternalDbIPという1行の設定...</description>
+<title>【Qiita】 1割の“信頼される”エンジニアがやっている「何の話かを省略しない説明」</title>
+<link>https://qiita.com/hitomin_poke/items/a8c2c14a72a417619c1d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>1d7eb6477011e6f18fc69eeb97e6903f419ce49b5c5835f8be746a2a38b3fd8f</guid>
+<pubDate>2026-05-27T14:52:26+09:00</pubDate>
+<description>はじめまして。株式会社PRUMでエンジニアをしているひとみです。 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、 仕事で起きやすい“ズレ”について整理して発信しています。 誰かの助けになれば幸いです。 1割の“信頼される”エンジニアがやっている「主語を消...</description>
 </item>
 <item>
-<title>【Qiita】 【IBM Bob】ルールやカスタム機能、どう始める？今すぐ使えるサンプルファイル集</title>
-<link>https://qiita.com/mu-perori/items/1783daff23cf42ee97de</link>
-<guid>a9244e5d6056768f9dbaaafd919442eb82d47c20ce4500738b397af2660fa522</guid>
-<pubDate>2026-05-27T05:35:35+09:00</pubDate>
-<description>本記事は2026年5月27日に開催したウェビナー「ルールやカスタム機能、どう使う？理想の出力を引き出すために今知りたいIBM Bob 5つの機能」でご紹介した5つの機能（AGENTS.md、rules、スラッシュコマンド、カスタム・モード、Skills）の今すぐ使えるサンプ...</description>
+<title>【Qiita】 PythonとJavaのコードの違い</title>
+<link>https://qiita.com/karusifa2/items/75b8ff55095604bd48b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>9a08cbcc8fe3767b59edd6d178f3682a3266d476b4a545dd2dbea0e695b57be6</guid>
+<pubDate>2026-05-27T09:03:09+09:00</pubDate>
+<description>はじめに 4月に入社した入社1年目の人間です。 今回は研修で学んだ言語の中でもPythonとJavaに注目をおいて構成やコードの違いについて紹介します。 目次 1. きっかけ 2. 実行環境 3. コードの比較 3-1 計算文 3-2 基本構造の有無 3-3 変数宣言 ...</description>
 </item>
 <item>
-<title>【Qiita】 Chatから指示出すとサイトが変更されるWebサイト作った</title>
-<link>https://qiita.com/barcarunrun/items/7c5cfad6f62d73abb73a</link>
-<guid>868c83dd15511b8df4984c6b5763d2f01f613d2359e81a5273a35f9a8d839af2</guid>
-<pubDate>2026-05-27T08:30:51+09:00</pubDate>
-<description>「この文言を変えて」みたいな要望を、チャットで送るだけでWebサイトに反映される仕組みを作りました。 今回は、実際に作った prompt-to-app の構成と、どこを工夫したかをまとめます。 何を作ったのか 以下の体験を目指したコンセプトサイトです。 ユーザーが自然文...</description>
+<title>【Qiita】 Pythonの制御構造について【基礎】</title>
+<link>https://qiita.com/sakurada110/items/d39b79afdbfadf5a2267?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>eade4611e74c5b556cbe317070d847847babffde39583b794fe7cc29b11f7482</guid>
+<pubDate>2026-05-27T09:01:59+09:00</pubDate>
+<description>今回は、Python研修で学んだ 「制御構造」についてまとめていきます。 私自身Pythonを学習するのは久しぶりなので、思い出しながら書いていきます！ はじめに 制御構造とは、プログラムの文を特定の順序で実行することを表現する形式のことです。 プログラムは、複数の並...</description>
 </item>
 <item>
-<title>【Qiita】 「AIが書いたコードなので中身は分かりません」と言うシニアエンジニアが、チームの信頼をすべて失う理由</title>
-<link>https://qiita.com/fe1ix/items/91cc7503489fa751ed9d</link>
-<guid>cfd45b2532c701e229337afe74de35e401ec61775f08960bf780012024055000</guid>
-<pubDate>2026-05-27T08:28:59+09:00</pubDate>
-<description>ある障害対応の現場にて 本番サーバーで重大なバグが発生し、緊急のデバッグ会議が開かれました。 バグが混入したのは、1週間前にリリースされたばかりの新機能のコードです。 リーダーであるシニアエンジニアのAさんに、メンバーが質問します。 「Aさん、ここの変数の代入ロジック、な...</description>
+<title>【Qiita】 【新入社員研修】Linuxの基本操作</title>
+<link>https://qiita.com/cookiepunch/items/f02c34ae6dc994cd3084?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>dec3b1a652ef0475d8980bbe8354074fe8e42d2d10acd170756b3bc94b1faaf1</guid>
+<pubDate>2026-05-27T09:00:22+09:00</pubDate>
+<description>★はじめに！！ はじめまして！新入社員のクッキーパンチと申します。 この記事では新人社員研修のうちの一つで取り扱われたサーバ研修でのLinuxの基本操作についてまとめたいと思います。 ・ Linuxとは オープンソース(※商用サポートは有料)で、幅広い用途で使用されて...</description>
 </item>
 <item>
-<title>【Qiita】 AG-UI Protocolとは──MicrosoftもGoogleも採用したエージェントUI標準</title>
-<link>https://qiita.com/Yushi88/items/c0848fb0942a3d91f742</link>
-<guid>6947efe83db100cf50afd70a8f0d51db4acfc20a3c915e6916232c60004d08b6</guid>
-<pubDate>2026-05-27T08:05:48+09:00</pubDate>
-<description>2026年5月5日、CopilotKitが27Mドル(約42億円)のSeries Aを調達した。注目は資金額ではなく、彼らが推進する AG-UI Protocol だ。これは Agentic UI(エージェントが画面要素を能動的に動かすUI設計)と Generative U...</description>
+<title>【Qiita】 IBM Bobで実装しながら理解する：HashiCorp Vault PKI External CA機能 - Vault 2.0新機能</title>
+<link>https://qiita.com/fitz/items/d1d71789d8990a27544e</link>
+<guid>20c1a91802f202c67f1e19c7b278b82a5529eccb9bf5ecb138bd96a7718ec04c</guid>
+<pubDate>2026-05-27T19:46:19+09:00</pubDate>
+<description>IBM Bobで実装しながら理解する：HashiCorp Vault PKI External CA機能 - Vault 2.0新機能をTerraformで構築 1. はじめに 本記事は、HashiCorp Vault 2.0で追加されたPKI External C...</description>
 </item>
 <item>
-<title>【Qiita】 なぜClaude Code AgentでTask・Agent Team・メインスレッドを使い分けるのか</title>
-<link>https://qiita.com/YujiNaramoto/items/eae30c01261ec42bad82</link>
-<guid>3b42f69a1b752001ed015712bc1af69a52dc7d3feddf41c697ab1e2d980d2422</guid>
-<pubDate>2026-05-27T07:06:24+09:00</pubDate>
-<description>この記事は playpark Blog からの転載です。 この記事で分かること Task / Agent Team / メインスレッドそれぞれを選ぶ理由と背景 3つの選択肢の特性の違い（通信方向・コンテキスト消費・起動コスト） どういう場面でどれを採用すべきかの...</description>
+<title>【Qiita】 ふたつの Claude（Code と Cowork） — 個人開発者の使い分けガイド【2026年5月版】</title>
+<link>https://qiita.com/ryoji9702/items/e0607178425da45656b4</link>
+<guid>96171af37e13deb6d87f73d390d2829ed551f709b2f2efa482d585271254e3dd</guid>
+<pubDate>2026-05-27T18:33:28+09:00</pubDate>
+<description>はじめに Claude Code がリリースされてから 1 年以上が経過していますが、今年に入って Claude Cowork というものが出てきました。Claude Code と何が違うの？と疑問に思っていたので調査してみました。 2026 年時点、Anthropic ...</description>
 </item>
 <item>
-<title>【Qiita】 SupabaseでAIエージェントの共有記憶を作る——Optimistic Concurrencyで並行書き込み競合を防ぐ実装</title>
-<link>https://qiita.com/Tadashi_Kudo/items/7c817e6e10c789aa5732</link>
-<guid>fd16104eb8c43c1e0c5f65ec896cca82d2b5d5bd4549b6a50317c35f705aef4f</guid>
-<pubDate>2026-05-27T07:13:19+09:00</pubDate>
-<description>SupabaseでAIエージェントの共有記憶を作る——Optimistic Concurrencyで並行書き込み競合を防ぐ実装 はじめに 複数のAIエージェントが協調して動く「マルチエージェントシステム」では、エージェント間で状態を共有する**共有記憶（Shared M...</description>
+<title>【Qiita】 日刊IETF (2026-05-11): OAuth・SASL・C509など認証と暗号の周辺が活況 (Part 1/2)</title>
+<link>https://qiita.com/tetsuko_room/items/c17e42b99383dc825ee9</link>
+<guid>b08fd5a0821f1b484322053a0ff2bd26792bdc0f293b10cd0bbd87bfc25f6454</guid>
+<pubDate>2026-05-27T14:27:57+09:00</pubDate>
+<description>こんにちは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-11（UTC基準）に公開されたInte...</description>
+</item>
+<item>
+<title>【Qiita】 日刊IETF (2026-05-10): PoSME・HiAEで暗号プリミティブ前線、IKEv2は脱TCP-in-TCPへ</title>
+<link>https://qiita.com/tetsuko_room/items/0aa8d6c0f85dc1bd2990</link>
+<guid>d3bc95221cda219ca9b13c52aa23895fd0c011bdf5dff66f72b8983ec7868846</guid>
+<pubDate>2026-05-27T10:49:16+09:00</pubDate>
+<description>こんにちは、GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-10（UTC基準）に公開されたInter...</description>
+</item>
+<item>
+<title>【Qiita】 これがいいとは言わないが。私が普段 Vibe Coding で実際に投入しているPromptを晒す</title>
+<link>https://qiita.com/dahatake/items/ef5cb2ad8d0e27dd976a</link>
+<guid>0e7444a0492d8a8a4482e2a87d3833c8ec7e92c78f192edcee6d72b5f7d6cc58</guid>
+<pubDate>2026-05-27T15:22:55+09:00</pubDate>
+<description>背景 ツールの使い方やら、「xxx Engineering」の方法論を多く目にしていますが。 具体性に欠けることもあるため、実際Copilot君を目の前にすると「何を入力すればいい?」と躊躇される方も多く目にしています。つまり実用性に欠けることもあります。 ここでは「例」...</description>
+</item>
+<item>
+<title>【Qiita】 OpenClaw を実務で活用するには？おすすめのオープンソースツール 5 選</title>
+<link>https://qiita.com/TianqiYuan/items/e450f00fbaa7d1de954f</link>
+<guid>d373275719f8b984792dc23021fd17e911808b58006538efae0354155229070a</guid>
+<pubDate>2026-05-27T18:29:17+09:00</pubDate>
+<description>オリジナルの公開場所:https://www.nocobase.com/ja/blog/openclaw-open-source-enterprise-tools OpenClaw が最初に注目を集めたのは、AI に実際の作業を任せたいという期待に応えたからです。 以前、私...</description>
+</item>
+<item>
+<title>【Qiita】 ClaudeでHTMLを継ぎ足し編集して画面にJSが漏れた話と、私の対処5箇条</title>
+<link>https://qiita.com/Ngen/items/80d96b38ac5982316088</link>
+<guid>a35d3171de1084a2ab6fe0f0dac6ca0a999ed2a4d99cb3533bb9e72c74446bd5</guid>
+<pubDate>2026-05-27T12:36:49+09:00</pubDate>
+<description>Claude Cowork を社内AXの相棒として毎日使っているエンジニアの実践ログです。社内固有名・個人名は伏せています。 最初、Claude に「ちょっとここだけ書き足して」を3回繰り返せばラクできると思っていた。実際は逆。ブラウザを開いたら、本文の真ん中に JS ...</description>
+</item>
+<item>
+<title>【Qiita】 長時間AIエージェントを放置しないためのRunbook：Memory・Model・Remote承認の実装チェックリスト</title>
+<link>https://qiita.com/YushiYamamoto/items/d13ded6520594df94fb7</link>
+<guid>baa8e5960fbf4c09667d909c8ba458a377fd49244d9ca8ae73571dd72c85dfd1</guid>
+<pubDate>2026-05-27T12:33:46+09:00</pubDate>
+<description>AIエージェントは「1回のチャットで補助する道具」から、長時間動き、複数画面をまたぎ、記憶を保持し、途中で人間の承認を待つ実行主体へ変わりつつあります。 2026年5月下旬の英語圏一次情報では、GitHub Copilot Memoryのスコープ制御、Copilot mo...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeのエージェント3体を1体に統合した実録——「増やすより削るほうが難しい」の正体</title>
+<link>https://qiita.com/saitoko/items/3bb2546747300cb92003</link>
+<guid>c91985b63f92c4f50b90017d0d5f67ebd9de1c7c27298287a61c731d61a58068</guid>
+<pubDate>2026-05-27T12:32:29+09:00</pubDate>
+<description>この記事の実施記録（2026年4月）: Claude Code で運用していた todo-dev / health-dev / blog-dev の3エージェントを skill-dev 1体に統合した。統合作業のコアコミット（0c8f4c3）で変更されたファイルは実測28件...</description>
+</item>
+<item>
+<title>【環境】 Widespread range contraction of carnivores in protected areas of China</title>
+<link>https://www.nature.com/articles/s41893-026-01855-2</link>
+<guid>f51f4849b1cfb470a1255e49a3b7deebebf479c9ae93c4c68ca255260f4f55a1</guid>
+<pubDate>2026-05-27</pubDate>
+<description>Protected areas can be important in conserving key mammal species that help maintain ecosystem functioning. The authors examine how well protected areas achieve this, in the context of historical habitat loss and human–wildlife conflict, for 82 mammal species across China.</description>
+</item>
+<item>
+<title>【環境】 Upcycling of plastic garbage bags to graphene@silica fabric for sensing platforms</title>
+<link>https://www.nature.com/articles/s41893-026-01837-4</link>
+<guid>d9395551bcd5e935152d1622f9e7ed4a859506d40eddec609c91f442cdcf8ba3</guid>
+<pubDate>2026-05-27</pubDate>
+<description>Most flexible sensors are fabricated using polymer-based substrates, which are intrinsically unsustainable and insufficiently robust. This study shows a strategy for using waste plastic to fabricate graphene-based flexible sensors that can address the drawbacks of polymer-based sensors.</description>
+</item>
+<item>
+<title>【自動自律実験】 Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models</title>
+<link>https://www.nature.com/articles/s41586-026-10700-7</link>
+<guid>52c1778948cf1d0fb07126142b69ec51e6655b27b23214fe4e176c6baa7d9fde</guid>
+<pubDate>2026-05-27</pubDate>
+<description>Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models</description>
+</item>
+<item>
+<title>【自動自律実験】 Nests in an egg cell: structures of protein-storage units in oocytes</title>
+<link>https://www.nature.com/articles/d41586-026-01414-x</link>
+<guid>61cf4ee8ab2ef40e741891ff2b5ba23881eff83961fd48c1c806e0aca28a6b73</guid>
+<pubDate>2026-05-27</pubDate>
+<description>A fertilized egg’s first few divisions rely on proteins stored in fibrous structures. The ordered nature of these structures and clues about their function are revealed.</description>
+</item>
+<item>
+<title>【自動自律実験】 Meet the biologists deciphering marine-mammal histories from baleen, whiskers and tusks</title>
+<link>https://www.nature.com/articles/d41586-026-01622-5</link>
+<guid>792063ea3509bff15f1469180cc7015a809627e2a5b742995517f952f2759413</guid>
+<pubDate>2026-05-27</pubDate>
+<description>The nascent field of wildlife endocrinology is upending scientists’ understanding of pregnancies and stress</description>
+</item>
+<item>
+<title>【自動自律実験】 Memory on trial: the new science of when to trust eyewitness testimony</title>
+<link>https://www.nature.com/articles/d41586-026-01618-1</link>
+<guid>290e17c376907afebca3b1bf37b23c12ac7a5b96ab30b78544beabea9f8b7ef7</guid>
+<pubDate>2026-05-27</pubDate>
+<description>Innocent people are frequently convicted of crimes on the basis of a witness’s false memories. Emerging science poses a surprising solution.</description>
+</item>
+<item>
+<title>【自動自律実験】 GDP and beyond: why treating nature as capital cannot save the planet</title>
+<link>https://www.nature.com/articles/d41586-026-01628-z</link>
+<guid>6df48a29f3bddfc821c41309e67cab2bf20e091099b4f8f7c01a02f259130b6b</guid>
+<pubDate>2026-05-27</pubDate>
+<description>Global risks are too great for markets alone to curb. Political considerations must come before economic ones.</description>
 </item>
 <item>
 <title>【Google Research】 Publications</title>
-<link>https://research.google/pubs/snpeek-side-channel-analysis-for-privacy-applications-on-confidential-vms/</link>
-<guid>c75a4ebdfdbd81650a315b0ca6dec97a3b07a59e78047efbc86da7f578381159</guid>
-<pubDate>Tue, 26 May 2026 23:43:39 GMT</pubDate>
+<link>https://research.google/pubs/mining-attribute-subspaces-for-efficient-fine-tuning-of-3d-foundation-models/</link>
+<guid>08922f73825f98bbeea11a9b1e9de22115dc761860aa4053d93fb1d1f0b42adb</guid>
+<pubDate>Wed, 27 May 2026 12:33:46 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Skip to main content</title>
 <link>https://www.nature.com/articles/s41467-026-73088-y</link>
-<guid>685ee905179a26d3a2be2a8c0910ec6b691177ba6872c9c55a023bc78132b6d3</guid>
-<pubDate>Tue, 26 May 2026 23:43:42 GMT</pubDate>
+<guid>05d217ff1979df0e84d46e326cec9e1ed7a7f69d1a44383faf3119ad2047b3da</guid>
+<pubDate>Wed, 27 May 2026 12:33:50 GMT</pubDate>
 <description>Treatment selection in breast cancer is guided by risk assessment using molecular subtypes and clinicopathological characteristics. However, current approaches lack the precision required for optimal clinical decision-making. To address this, we use data from 8161 patients to develop and evaluate an AI test integrating digital pathology with clinical data. The AI test provides a robust method for predicting disease-free interval (C-index: 0.71 [0.68-0.75], HR: 3.63 [3.02-4.37, p&amp;nbsp;&amp;lt;&amp;nbsp;0.001]). In a direct comparison, the AI test displays numerically higher discrimination (C-index: 0.67 [0.61–0.74]) than the standard-of-care 21-gene assay (C-index: 0.61 [0.49–0.73]). Across molecular subtypes, the AI test demonstrates robust prognostic performance, including in triple negative breast cancer (C-index: 0.71 [0.62-0.81], HR: 3.81 [2.35-6.17, p=0.02]), where no guideline-recommended assays currently exist. These findings highlight the potential of AI-based pathology tests as a promising tool for improved risk stratification across all major subtypes, with implications for clinical decision-making. Selecting appropriate treatment for breast cancer is guided by molecular subtypes</description>
 </item>
 <item>
 <title>【AI agent】 Skip to main content</title>
-<link>https://www.nature.com/articles/s41586-026-10652-y</link>
-<guid>0ba7859ac1cdb7a03ba0447b700e531eeb085ac9e650417d2579c6e15cbead96</guid>
-<pubDate>Tue, 26 May 2026 23:43:44 GMT</pubDate>
-<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
+<link>https://www.nature.com/articles/s41591-026-04403-9</link>
+<guid>d3573c744dcbdd9431f32a44af596046de038333c0b114f02e102c9e6c146d6e</guid>
+<pubDate>Wed, 27 May 2026 12:33:55 GMT</pubDate>
+<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+</item>
+<item>
+<title>【農業】 プレスリリース</title>
+<link>https://www.chiba-u.ac.jp/news/research-collab/post_674.html</link>
+<guid>44e8b8c4cd2bc79ed6a5eda230fc36ea3979376b4f067757f2562ab4d7ea9718</guid>
+<pubDate>Wed, 27 May 2026 12:34:08 GMT</pubDate>
+<description>研究所別一覧</description>
 </item>
 
 </channel>
