@@ -4,28 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 27 May 2026 23:55:12 GMT</lastBuildDate>
+<lastBuildDate>Thu, 28 May 2026 02:08:52 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 AIエージェントに権限を渡す前に決める5つの実行境界</title>
+<link>https://qiita.com/YushiYamamoto/items/d45ebb2ca6f07992e31c</link>
+<guid>ce7d8a0d0fd698420a8ba2f8b8be31d2843bce7a2b02f0848aab2519bcb3442b</guid>
+<pubDate>2026-05-28T11:00:14+09:00</pubDate>
+<description>AIエージェントを本番や社内業務に入れるとき、最初に決めるべきなのは「どのモデルを使うか」ではありません。 先に決めるべきなのは、どこまで読めるか、どこへ書けるか、どこへ通信できるか、どの能力を読み込めるか、何を記憶してよいか です。 この数日から直近1週間程度の英語圏一...</description>
+</item>
+<item>
+<title>【Qiita】 AI時代、コードを読みやすくするべき本当の理由</title>
+<link>https://qiita.com/BaspisKawaE/items/0ba18ff11f493b4b5919</link>
+<guid>2a3c10777919ea414e0f1d62903bfa0033b95ab026b01479a70c217cffd6e392</guid>
+<pubDate>2026-05-28T10:52:12+09:00</pubDate>
+<description>株式会社パレットリンクの @BaspisKawaE です。 今回は、AI時代における「読みやすいコード」の意義について、自身の整理を兼ねて論じていきます。 よろしくお願いします! 第0章 本記事の概要と到達点 0.1 本記事を読むための前提知識 本記事は複数の読...</description>
+</item>
+<item>
+<title>【Qiita】 〖考察〗2026年5月、AIは「チャット」から「常時稼働する実行基盤」になった</title>
+<link>https://qiita.com/YushiYamamoto/items/bcf76a1e3fe1e80de17e</link>
+<guid>67a9a61745415cf790463858db1b5b50c806a678b3ba32321f7bcb415029344a</guid>
+<pubDate>2026-05-28T10:08:48+09:00</pubDate>
+<description>MCP・Antigravity・GPT-5.5から見るエージェント時代の設計課題 はじめに：AI活用が「便利なチャット欄」で終わる前に 2026年5月のAI業界を追っていて、かなりはっきり感じたことがあります。 もうAIは「チャット欄で返事をしてくれる便利ツール」では...</description>
+</item>
+<item>
+<title>【Qiita】 GPT image 2.0 on Codex Part2 - ゼロから始めるAIシステム開発 #26</title>
+<link>https://qiita.com/shominai2024/items/fa1d19f9d71a4943861e</link>
+<guid>7be7bae07396b94109ba92a7f8ce51be1df6d38ebcfccc214fe0ca14ceb9dfe6</guid>
+<pubDate>2026-05-28T10:02:46+09:00</pubDate>
+<description>Codexで画像生成 Part2 前回の続き。CodexのアップデートがありGPTimageも2.0になったので実力を確かめつつ、Codexアプリ上で画像生成を行う利点・ユースケースについて書く記事です。前回の続きに加えて、仕様図作成にも有用かどうか試してみる。 エージ...</description>
+</item>
+<item>
 <title>【Google Research】 Publications</title>
-<link>https://research.google/pubs/elephants-goldfish-and-the-new-golden-age-of-software-engineering/</link>
-<guid>d97fea22ddc97e5158e06fa56129bbdb9baf66dac7511b21195ed84c9ba1bf19</guid>
-<pubDate>Wed, 27 May 2026 23:54:36 GMT</pubDate>
+<link>https://research.google/pubs/gs-offload-scalable-3d-gaussian-splatting-training-system-via-host-memory-offloading/</link>
+<guid>23b250d39f52b2755fbec8848d048423300f01934878e173188d22ffd4129f3d</guid>
+<pubDate>Thu, 28 May 2026 02:08:01 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Skip to main content</title>
-<link>https://www.nature.com/articles/s41467-026-73088-y</link>
-<guid>5fbd321d255fa4a331e2091fb975ed17704502feebd3ff321ba3f4fcceb9fd37</guid>
-<pubDate>Wed, 27 May 2026 23:54:38 GMT</pubDate>
-<description>Treatment selection in breast cancer is guided by risk assessment using molecular subtypes and clinicopathological characteristics. However, current approaches lack the precision required for optimal clinical decision-making. To address this, we use data from 8161 patients to develop and evaluate an AI test integrating digital pathology with clinical data. The AI test provides a robust method for predicting disease-free interval (C-index: 0.71 [0.68-0.75], HR: 3.63 [3.02-4.37, p&amp;nbsp;&amp;lt;&amp;nbsp;0.001]). In a direct comparison, the AI test displays numerically higher discrimination (C-index: 0.67 [0.61–0.74]) than the standard-of-care 21-gene assay (C-index: 0.61 [0.49–0.73]). Across molecular subtypes, the AI test demonstrates robust prognostic performance, including in triple negative breast cancer (C-index: 0.71 [0.62-0.81], HR: 3.81 [2.35-6.17, p=0.02]), where no guideline-recommended assays currently exist. These findings highlight the potential of AI-based pathology tests as a promising tool for improved risk stratification across all major subtypes, with implications for clinical decision-making. Selecting appropriate treatment for breast cancer is guided by molecular subtypes</description>
+<title>【AI agent】 Skip to main content</title>
+<link>https://www.nature.com/articles/s41586-026-10652-y</link>
+<guid>718fd2e903c6bc42612756670df6c820f23a21a169a7471c3de00dcc63c47668</guid>
+<pubDate>Thu, 28 May 2026 02:08:06 GMT</pubDate>
+<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=AI+agent&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>162dda5b6fbeea3854af577c073af6c3dfdf98ac15d8efd272185efdaa9d0ebf</guid>
-<pubDate>Wed, 27 May 2026 23:54:39 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Skip to main content</title>
+<link>https://www.nature.com/articles/s41591-026-04403-9</link>
+<guid>3066ab8828e3c9cdc73689d4ea0d8b7f4f45bc67da50608ee240b596eec5fae4</guid>
+<pubDate>Thu, 28 May 2026 02:08:10 GMT</pubDate>
+<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
 </item>
 
 </channel>
