@@ -4,62 +4,41 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 28 May 2026 22:15:47 GMT</lastBuildDate>
+<lastBuildDate>Thu, 28 May 2026 23:48:26 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 オンチップ学習可能なエンドポイントAI IPのPythonシミュレータを公開しました</title>
-<link>https://qiita.com/nhnhnh/items/243d9adbd4e79c44ca29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>0cff5b3b47047833754ecdcbdd9b309486a06357068ee74b4d345a85f75cc0cc</guid>
-<pubDate>2026-05-27T09:36:38+09:00</pubDate>
-<description>本記事は、生成AIの出力をもとに執筆・編集しています。 はじめに はじめまして、メイビスデザイン のnhです。 弊社では、SAMACT（サマクト）というエンドポイント向けAI IPコアの研究・開発をクローズドで進めてきました。このたび、SAMACTのPoC（概念実...</description>
+<title>【Qiita】 プロフェッショナルTLS＆PKI (Bulletproof TLS and PKI) 改題第2版を読む⑥ 第1章-6 暗号技術に対する攻撃</title>
+<link>https://qiita.com/gomAnomalocaris/items/efc42d2284395f30aff6</link>
+<guid>f9d43ec9a286f30bae04214a8201c48d083099e8ab896019a145e22bd0e5adef</guid>
+<pubDate>2026-05-29T08:08:03+09:00</pubDate>
+<description>⑤セキュリティプロトコルの必要性の続きです。 書籍 1.4.3章 暗号技術に対する攻撃 以降で掲題の解説がありますが、ここでは記事内容を基に私の解釈による暗号技術の注意点としてまとめてみます。 暗号技術に対する攻撃方法 1.暗号鍵に対する攻撃 暗号鍵の探索空間(＝...</description>
 </item>
 <item>
-<title>【Qiita】 【Claude Code / Codex × GAS】コピペ脱出！Google Workspace自動化レシピ7選</title>
-<link>https://qiita.com/TMiyamoto/items/47a13155032f716a43bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>1c58ad94a2d170ae9d859f5cd1b7498d3486e59a8b0fd4f3f0369462d9ab96ec</guid>
-<pubDate>2026-05-27T13:39:16+09:00</pubDate>
-<description>「毎週の会議前に、議事録テンプレートを手で作っている」 「請求書や見積書を、スプレッドシートから手作業で PDF 化している」 「フォーム申請が来るたびに、承認者へメールを手で送っている」 …こういう作業、まだ手でやってませんか？ 僕はやってました。むしろ「効率化のための...</description>
+<title>【Qiita】 Daytonaが作る『AIエージェント専用の計算機』──60ms起動と1日85万ランの設計</title>
+<link>https://qiita.com/Yushi88/items/a38d1e73011620adec23</link>
+<guid>a1167237a7d60f0b8156fb62cc00fae5d53857c0b6c056762322f29184fad70c</guid>
+<pubDate>2026-05-29T07:52:22+09:00</pubDate>
+<description>60ミリ秒で1個、75秒で5万個──米DaytonaのAIエージェント用サンドボックスの起動速度だ。最大顧客の1社では1日85万回がさばかれ続けている。同社は2025年4月に人間の開発者向けツールからエージェント特化へ全面ピボットし、月次成長は74%を維持する。何を再発明し...</description>
 </item>
 <item>
-<title>【Qiita】 6/12(金)開催! 誰でも参加できるデータサイエンス・カンファレンス「Women in Data Science Tokyo @ IBM 2026」へのお誘い!</title>
-<link>https://qiita.com/nishikyon/items/ac6db97b289ee1b4038c</link>
-<guid>3a21c12a8f7cb7f23587d6db1e6927b5e48cc984ada4eef786290c16277df392</guid>
-<pubDate>2026-05-29T07:02:52+09:00</pubDate>
-<description>みなさん、「Women in Data Science(WiDS)Tokyo @ IBM」 というイベントをご存知ですか？ データサイエンスやAIの分野で活躍する人たちが、実務事例・最新技術・キャリアのリアルを共有しあう、1日まるごとのカンファレンスです。日本IBMの有志...</description>
-</item>
-<item>
-<title>【Qiita】 シンギュラリティの麓に立つ——ハサビスが示したAGI・エージェント・科学の羅針盤</title>
-<link>https://qiita.com/mhamadajp/items/43650dcef573d62b77e0</link>
-<guid>8508e453685158908c436030f2b806fcb1bd89e2725cefc8e2b6f4e710c1ff39</guid>
-<pubDate>2026-05-29T05:10:12+09:00</pubDate>
-<description>2026年5月の Google I/O で、製品の発表が2時間以上続いたあと、キーノートの締めくくりに登場したのは Demis Hassabis（Google DeepMind CEO）でした。彼は、いまの時代を「シンギュラリティの麓（foothills of the si...</description>
-</item>
-<item>
-<title>【Qiita】 自社サービスをAIから「呼ばれる側」にする前に決めておきたいMCPツール設計の観点</title>
-<link>https://qiita.com/lovanaut/items/a1e97e4f172a7e6d68e9</link>
-<guid>2dfb7ffd8391ea33ca4b35a7f81dc8049b8b50da37d86ca7a6037a304c464b9f</guid>
-<pubDate>2026-05-29T05:50:24+09:00</pubDate>
-<description>自社のサービスを、ClaudeやChatGPTといったAIエージェントから呼び出せるようにする。MCP（Model Context Protocol、AIと外部サービスをつなぐ共通の接続規格です）への対応を検討する会社が、急に増えてきました。 このとき、いちばん最初にやり...</description>
-</item>
-<item>
-<title>【自動自律実験】 Gene therapies to fix failing hearts gain steam after years in the doldrums</title>
-<link>https://www.nature.com/articles/d41586-026-01598-2</link>
-<guid>05bf2561804353d69ccf6f320123cbbffd0fc35c5594635e8718507656c1b8af</guid>
-<pubDate>2026-05-28</pubDate>
-<description>Treatments aim to bulk up failing hearts to restore their vigour – but can the field move on from past controversy?</description>
+<title>【Qiita】 AIコーディングエージェントを見張るOSSを、Claudeから『危険な設定どれ?』と聞けるようにした（MCP対応）</title>
+<link>https://qiita.com/Ju571nK/items/5b6a3f05e7e7de20e3ee</link>
+<guid>521371f67371158664bcdab66fa8179dacdadbe49c46f95b4a324b15593eff70</guid>
+<pubDate>2026-05-29T07:33:40+09:00</pubDate>
+<description>この記事は、Zenn に書いた「AIコーディングエージェントの本当の攻撃面は設定ファイルだった」の続きです。前回が「なぜ設定ファイルが危ないのか」という話だったのに対し、今回は実際に動かして、最後に Claude から MCP 経由でフリートの状態を聞くところまでやって...</description>
 </item>
 <item>
 <title>【Google Research】 Publications</title>
-<link>https://research.google/pubs/scaling-telemetry-to-terabytes-applying-googles-principles-to-opentelemetry-with-opamp/</link>
-<guid>4617bd166349692bfdc4ed63d0a7221a04a81a70ed78caf36c9f28d203f56d07</guid>
-<pubDate>Thu, 28 May 2026 22:15:15 GMT</pubDate>
+<link>https://research.google/pubs/discrepancy-beyond-additive-functions-with-applications-to-fair-division/</link>
+<guid>ce326194b5a40a361d746b229ce8c894351fedadc831545bfd889c43af7ea7a9</guid>
+<pubDate>Thu, 28 May 2026 23:47:50 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Skip to main content</title>
 <link>https://www.nature.com/articles/s41467-026-73813-7</link>
-<guid>64389bb78c6536acdd918c30c3402b9033354fa4f4f8f35894b555e241e35fab</guid>
-<pubDate>Thu, 28 May 2026 22:15:18 GMT</pubDate>
+<guid>0355c68e6007969167e515df912710f8fa432ae0a810140004fea1d75121a78b</guid>
+<pubDate>Thu, 28 May 2026 23:47:53 GMT</pubDate>
 <description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
 </item>
 
