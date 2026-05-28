@@ -4,35 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 28 May 2026 20:07:21 GMT</lastBuildDate>
+<lastBuildDate>Thu, 28 May 2026 22:15:47 GMT</lastBuildDate>
 
 <item>
-<title>【自動自律実験】 Bridget Ogilvie obituary: parasitologist who championed biomedical labs and scientific evidence</title>
-<link>https://www.nature.com/articles/d41586-026-01733-z</link>
-<guid>529075c6c73ec4f4b16cfdf07905ff58048bb83872be2b4a891ca072a9079fcf</guid>
+<title>【Qiita】 オンチップ学習可能なエンドポイントAI IPのPythonシミュレータを公開しました</title>
+<link>https://qiita.com/nhnhnh/items/243d9adbd4e79c44ca29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>0cff5b3b47047833754ecdcbdd9b309486a06357068ee74b4d345a85f75cc0cc</guid>
+<pubDate>2026-05-27T09:36:38+09:00</pubDate>
+<description>本記事は、生成AIの出力をもとに執筆・編集しています。 はじめに はじめまして、メイビスデザイン のnhです。 弊社では、SAMACT（サマクト）というエンドポイント向けAI IPコアの研究・開発をクローズドで進めてきました。このたび、SAMACTのPoC（概念実...</description>
+</item>
+<item>
+<title>【Qiita】 【Claude Code / Codex × GAS】コピペ脱出！Google Workspace自動化レシピ7選</title>
+<link>https://qiita.com/TMiyamoto/items/47a13155032f716a43bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>1c58ad94a2d170ae9d859f5cd1b7498d3486e59a8b0fd4f3f0369462d9ab96ec</guid>
+<pubDate>2026-05-27T13:39:16+09:00</pubDate>
+<description>「毎週の会議前に、議事録テンプレートを手で作っている」 「請求書や見積書を、スプレッドシートから手作業で PDF 化している」 「フォーム申請が来るたびに、承認者へメールを手で送っている」 …こういう作業、まだ手でやってませんか？ 僕はやってました。むしろ「効率化のための...</description>
+</item>
+<item>
+<title>【Qiita】 6/12(金)開催! 誰でも参加できるデータサイエンス・カンファレンス「Women in Data Science Tokyo @ IBM 2026」へのお誘い!</title>
+<link>https://qiita.com/nishikyon/items/ac6db97b289ee1b4038c</link>
+<guid>3a21c12a8f7cb7f23587d6db1e6927b5e48cc984ada4eef786290c16277df392</guid>
+<pubDate>2026-05-29T07:02:52+09:00</pubDate>
+<description>みなさん、「Women in Data Science(WiDS)Tokyo @ IBM」 というイベントをご存知ですか？ データサイエンスやAIの分野で活躍する人たちが、実務事例・最新技術・キャリアのリアルを共有しあう、1日まるごとのカンファレンスです。日本IBMの有志...</description>
+</item>
+<item>
+<title>【Qiita】 シンギュラリティの麓に立つ——ハサビスが示したAGI・エージェント・科学の羅針盤</title>
+<link>https://qiita.com/mhamadajp/items/43650dcef573d62b77e0</link>
+<guid>8508e453685158908c436030f2b806fcb1bd89e2725cefc8e2b6f4e710c1ff39</guid>
+<pubDate>2026-05-29T05:10:12+09:00</pubDate>
+<description>2026年5月の Google I/O で、製品の発表が2時間以上続いたあと、キーノートの締めくくりに登場したのは Demis Hassabis（Google DeepMind CEO）でした。彼は、いまの時代を「シンギュラリティの麓（foothills of the si...</description>
+</item>
+<item>
+<title>【Qiita】 自社サービスをAIから「呼ばれる側」にする前に決めておきたいMCPツール設計の観点</title>
+<link>https://qiita.com/lovanaut/items/a1e97e4f172a7e6d68e9</link>
+<guid>2dfb7ffd8391ea33ca4b35a7f81dc8049b8b50da37d86ca7a6037a304c464b9f</guid>
+<pubDate>2026-05-29T05:50:24+09:00</pubDate>
+<description>自社のサービスを、ClaudeやChatGPTといったAIエージェントから呼び出せるようにする。MCP（Model Context Protocol、AIと外部サービスをつなぐ共通の接続規格です）への対応を検討する会社が、急に増えてきました。 このとき、いちばん最初にやり...</description>
+</item>
+<item>
+<title>【自動自律実験】 Gene therapies to fix failing hearts gain steam after years in the doldrums</title>
+<link>https://www.nature.com/articles/d41586-026-01598-2</link>
+<guid>05bf2561804353d69ccf6f320123cbbffd0fc35c5594635e8718507656c1b8af</guid>
 <pubDate>2026-05-28</pubDate>
-<description>As a director of the Wellcome Trust and charity founder, the labs she built sequenced the human genome and more.</description>
+<description>Treatments aim to bulk up failing hearts to restore their vigour – but can the field move on from past controversy?</description>
 </item>
 <item>
 <title>【Google Research】 Publications</title>
-<link>https://research.google/pubs/taming-the-variants-multi-architecture-continuous-testing-at-google/</link>
-<guid>e4575d6f2f2a9dc0251d7b395f02ad6719d199eb91b4b5afe2921f7cef91b7f1</guid>
-<pubDate>Thu, 28 May 2026 20:06:41 GMT</pubDate>
+<link>https://research.google/pubs/scaling-telemetry-to-terabytes-applying-googles-principles-to-opentelemetry-with-opamp/</link>
+<guid>4617bd166349692bfdc4ed63d0a7221a04a81a70ed78caf36c9f28d203f56d07</guid>
+<pubDate>Thu, 28 May 2026 22:15:15 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Skip to main content</title>
 <link>https://www.nature.com/articles/s41467-026-73813-7</link>
-<guid>2ace2afd1787715a48cc101fc7ee3ea9f3111a1e2c63c7148017ad8dee6bb0fb</guid>
-<pubDate>Thu, 28 May 2026 20:06:46 GMT</pubDate>
+<guid>64389bb78c6536acdd918c30c3402b9033354fa4f4f8f35894b555e241e35fab</guid>
+<pubDate>Thu, 28 May 2026 22:15:18 GMT</pubDate>
 <description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
-</item>
-<item>
-<title>【環境】 Filters</title>
-<link>https://grist.org/?s=AI</link>
-<guid>418fef2d1a35817f5b1683452324564764deb81ee74114c00f0e6b5f5fc05711</guid>
-<pubDate>Thu, 28 May 2026 20:07:09 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
