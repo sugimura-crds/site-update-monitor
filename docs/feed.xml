@@ -4,77 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 28 May 2026 14:30:22 GMT</lastBuildDate>
+<lastBuildDate>Thu, 28 May 2026 17:50:14 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【Codex】ダウンロード不要。ブラウザだけでAIコーディングエージェントを使い始める方法</title>
-<link>https://qiita.com/devet-official/items/0f2ff94c362bce6a4a45</link>
-<guid>61d2cb4e4fb8bdcd3550684ec289ae0ea6211bdd12606569edb4659b286e28d0</guid>
-<pubDate>2026-05-28T22:43:27+09:00</pubDate>
-<description>【Codex】ダウンロード不要。ブラウザだけでAIコーディングエージェントを使い始める方法 🔰 まずこれを見てください 「Codexって面白そうだけど、インストールが面倒…」 「CLIとか言われても、エンジニアじゃないし…」 「ブラウザだけでAIにコード書いてもらえない...</description>
+<title>【Qiita】 AWS CLIでのMFA認証手順（個人メモ）</title>
+<link>https://qiita.com/Horiiii/items/5f996f1cecfc6034bcb6</link>
+<guid>e3e3ab63535269cad191fa59f3fc434e9ff582c4a05a57bc2f56cd5aea02ff94</guid>
+<pubDate>2026-05-28T23:58:19+09:00</pubDate>
+<description>AWS CLIでのMFA認証コマンドまとめ 1. get-session-token を使ってMFAセッションを取得 aws sts get-session-token --serial-number arn:aws:iam::mfa/</description>
 </item>
 <item>
-<title>【Qiita】 【実戦】TypeScriptで独自の「MCPサーバー」を自作して、ローカルのSQLiteデータをAIに直接操作させてみる</title>
-<link>https://qiita.com/fe1ix/items/5784d4373b37d61652c0</link>
-<guid>466887e753584508c96e11e7fee22723a9c3f7fad055718e4964f36f6fcff6a4</guid>
-<pubDate>2026-05-28T21:12:00+09:00</pubDate>
-<description>はじめに：AIに「自社データ」を触らせる最も簡単な方法 「CursorなどのAIツールに、ローカルにある特定のSQLiteデータベースの中身を直接クエリさせて、データ分析やデバッグをさせたい」 これを実現するための新しい世界標準がMCP（Model Context Pro...</description>
+<title>【農業】 Availability, accessibility and affordability of quality food are vital for food security, says FAO</title>
+<link>https://www.fao.org/newsroom/detail/availability--accessibility-and-affordability-of-quality-food-are-vital-for-food-security--says-fao/en</link>
+<guid>dbc4e672b5e496cb9e9dedbfe68e641eb67e89af50daa10f7698e862d4cd4cac</guid>
+<pubDate>Thu, 28 May 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【Qiita】 【システム開発】Claude OpusとSonnetをどう使い分ける？工数と品質を両立する「実戦的フロー」</title>
-<link>https://qiita.com/kens_/items/9177d8130e1e69b6aef8</link>
-<guid>eede0fc3636d13b9634eebab6f864ef40c228bb505aa61f784b721930438e7f9</guid>
-<pubDate>2026-05-28T21:04:36+09:00</pubDate>
-<description>システム開発の現場でAI（Claude）を活用する際、「どのモデルを、どの工程で使うべきか」は非常に悩ましい問題です。 「すべてOpus（最上位モデル）だとコストや速度が気になるが、Sonnet（高速モデル）だとドキュメントの質が落ちる……」 そんな悩みを解決するための、...</description>
-</item>
-<item>
-<title>【Qiita】 コードを書かずに複数AIをエージェント的に協調させる ── 自然言語で roles / memory / audit / routing を組むGitHubテンプレートを公開した</title>
-<link>https://qiita.com/dosanko_tousan/items/0da62a1ac9226370c42b</link>
-<guid>980cafcbf0da17ece065864b41a170ca1ef1bf429ac45d41029f454ee7b8d6ee</guid>
-<pubDate>2026-05-28T20:11:39+09:00</pubDate>
-<description>コードを書かずに複数AIをエージェント的に協調させる ── 自然言語で roles / memory / audit / routing を組み、GitHubに公開するまで はじめに ── 「AIエージェント、コード書けないと無理」で止まった人へ 「複数のAIを役割分担...</description>
-</item>
-<item>
-<title>【Qiita】 RAGはもう古い？ — Claude CodeのAgentic Searchを体験してわかった3つの違い</title>
-<link>https://qiita.com/kenimo49/items/dcd8777da985567dddcc</link>
-<guid>450c9299f83a3b24356e771db7ffa4b5d3cfff46ab76fa072af92e27d4d0338e</guid>
-<pubDate>2026-05-28T22:30:00+09:00</pubDate>
-<description>半年前、私は社内ナレッジ用にRAGパイプラインを組んでいました。LangChain、ベクトルDBはQdrant、embeddingはOpenAI、リランカーはCohere、チャンクサイズは512トークン。3週間かけて構築して、社内QAの精度が体感で40%→65%に上がった...</description>
-</item>
-<item>
-<title>【環境】 Incorporating air quality health impacts into the social cost of carbon</title>
-<link>https://www.nature.com/articles/s41558-026-02653-6</link>
-<guid>3cc1b0b5350daf517b70a427cdeba02b44f63f045ab7b54cd65cd6648fa29f2f</guid>
-<pubDate>2026-05-28</pubDate>
-<description>Climate change worsens air pollution, posing major health risks, yet current social cost of carbon (SCC) models exclude these damages. This Review outlines a framework for including air quality impacts in the SCC and reviews existing evidence to inform near-term modelling efforts.</description>
-</item>
-<item>
-<title>【自動自律実験】 Share the highs and lows of your career in science: take &lt;i&gt;Nature&lt;/i&gt;’s global survey</title>
-<link>https://www.nature.com/articles/d41586-026-01589-3</link>
-<guid>656b317b584e748f5cd314b866342b31eed8983c37699b21948e5fdc6993a1f6</guid>
-<pubDate>2026-05-28</pubDate>
-<description>Science and society are undergoing rapid change. Nature wants to know how this is affecting careers, workplace culture and salaries.</description>
+<title>【Anthropic】 Newsroom</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>fee988b2bbc03e65ad1a2f5abc0140059debb71f8ab2ecff75627b1948da7984</guid>
+<pubDate>Thu, 28 May 2026 17:49:35 GMT</pubDate>
+<description>An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.</description>
 </item>
 <item>
 <title>【Google Research】 Publications</title>
-<link>https://research.google/pubs/ai-identity-and-ethical-governance-building-trust-in-high-stakes-systems/</link>
-<guid>1bb7bf7b2319b68f5d3e9ac994b38c2e4833bde6cdfe440d8e8fec7be15ba10d</guid>
-<pubDate>Thu, 28 May 2026 14:29:47 GMT</pubDate>
+<link>https://research.google/pubs/alps-activation-based-length-prediction-for-intelligent-llm-inference-scheduling-2/</link>
+<guid>56689637e27cd49409a99266c7772d4aa4ffb9513ee8a99829c6de81fea22a93</guid>
+<pubDate>Thu, 28 May 2026 17:49:38 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Skip to main content</title>
 <link>https://www.nature.com/articles/s41467-026-73813-7</link>
-<guid>19dc19acda639784b0dc9ce5836290c2ad71bf1a38e3ce9d5af427607b995ef9</guid>
-<pubDate>Thu, 28 May 2026 14:29:50 GMT</pubDate>
+<guid>9c3dcd6a8315e4715dd3e3170d3dfcfc585bee560b384ae255b36c0c995d26fb</guid>
+<pubDate>Thu, 28 May 2026 17:49:41 GMT</pubDate>
 <description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
 </item>
 <item>
-<title>【EU】 Play carousel Pause carousel 1 2 3 Gateway to Access EuroHPC AI Factories Get Started Access EuroHPC Supercomputers Get </title>
-<link>https://www.eurohpc-ju.europa.eu/index_en</link>
-<guid>f7828105cf791a9be6a0ff17c31125e153ee1cf6778c4ff3b152f0ca8e32803c</guid>
-<pubDate>Thu, 28 May 2026 14:29:56 GMT</pubDate>
-<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
+<title>【農業】 作物の撮影から解析まで内製化できる、作物画像解析AIソリューション「SWALO」提供開始 SMART AGRI編集部</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>1d1b803aca33a3848e390f7643915e724afa8dc8d36bf92a289327bc18af4a9e</guid>
+<pubDate>Thu, 28 May 2026 17:49:56 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
