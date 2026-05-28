@@ -4,84 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 28 May 2026 10:46:31 GMT</lastBuildDate>
+<lastBuildDate>Thu, 28 May 2026 14:30:22 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 文系東大生が、GPT型モデルをフルスクラッチで開発する話 Part.1 【株式会社ハイレゾ協力】</title>
-<link>https://qiita.com/UT_AI_CLUB/items/fae636ab3a9b75ebf930?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>1dd7bd1a67a5b567bee55d4eddaf336ef0caad29b53b62171875bd28197d263a</guid>
-<pubDate>2026-05-27T12:51:14+09:00</pubDate>
-<description>【機材協力について】 本記事（および本連載プロジェクト）は、株式会社ハイレゾ様よりGPUのクラウドサービス「GPUSOROBAN」の計算資源（NVIDIA A100 80GB）を無償でご提供いただき、開発・検証を行っています。 0.はじめに こんにちは！東京大学文科3類2...</description>
+<title>【Qiita】 【Codex】ダウンロード不要。ブラウザだけでAIコーディングエージェントを使い始める方法</title>
+<link>https://qiita.com/devet-official/items/0f2ff94c362bce6a4a45</link>
+<guid>61d2cb4e4fb8bdcd3550684ec289ae0ea6211bdd12606569edb4659b286e28d0</guid>
+<pubDate>2026-05-28T22:43:27+09:00</pubDate>
+<description>【Codex】ダウンロード不要。ブラウザだけでAIコーディングエージェントを使い始める方法 🔰 まずこれを見てください 「Codexって面白そうだけど、インストールが面倒…」 「CLIとか言われても、エンジニアじゃないし…」 「ブラウザだけでAIにコード書いてもらえない...</description>
 </item>
 <item>
-<title>【Qiita】 16万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術</title>
-<link>https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>f8d5551c1c5be34a68929723ec7dc961276e34095a9437ffc8e82319a8eea98f</guid>
-<pubDate>2026-05-26T22:39:19+09:00</pubDate>
-<description>Claude Code を使っていて、最近かなり重要だと感じているのが CLAUDE.md の運用です。 Claude Code は非常に強力ですが、既存コードベースで長時間動かすと、次のような問題が起きやすくなります。 勝手にリファクタする 関係ないファイルまで変更する...</description>
+<title>【Qiita】 【実戦】TypeScriptで独自の「MCPサーバー」を自作して、ローカルのSQLiteデータをAIに直接操作させてみる</title>
+<link>https://qiita.com/fe1ix/items/5784d4373b37d61652c0</link>
+<guid>466887e753584508c96e11e7fee22723a9c3f7fad055718e4964f36f6fcff6a4</guid>
+<pubDate>2026-05-28T21:12:00+09:00</pubDate>
+<description>はじめに：AIに「自社データ」を触らせる最も簡単な方法 「CursorなどのAIツールに、ローカルにある特定のSQLiteデータベースの中身を直接クエリさせて、データ分析やデバッグをさせたい」 これを実現するための新しい世界標準がMCP（Model Context Pro...</description>
 </item>
 <item>
-<title>【Qiita】 Claude に E2E 回帰試験を振ったら呼び戻され続けた話 ── &quot;段取り八分&quot; を地で行く現場ノウハウ</title>
-<link>https://qiita.com/ntaka329/items/af9551596ea5fa7a6f30</link>
-<guid>720fdaa699ab8ce16231af6c645d605fa4106dd24926d254f7ef66225fb6c922</guid>
-<pubDate>2026-05-28T16:52:27+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 「既存システムに E2E 回帰試験を自動化したい。試験項目は揃っている、AI に任せれば早いはず」── そう思って Claude に振ったら、数ステップおきに「この画面ってどの URL ですか？」「OK 条件は？」「このデータって事...</description>
+<title>【Qiita】 【システム開発】Claude OpusとSonnetをどう使い分ける？工数と品質を両立する「実戦的フロー」</title>
+<link>https://qiita.com/kens_/items/9177d8130e1e69b6aef8</link>
+<guid>eede0fc3636d13b9634eebab6f864ef40c228bb505aa61f784b721930438e7f9</guid>
+<pubDate>2026-05-28T21:04:36+09:00</pubDate>
+<description>システム開発の現場でAI（Claude）を活用する際、「どのモデルを、どの工程で使うべきか」は非常に悩ましい問題です。 「すべてOpus（最上位モデル）だとコストや速度が気になるが、Sonnet（高速モデル）だとドキュメントの質が落ちる……」 そんな悩みを解決するための、...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントの怖さを体験できるWebサイトを作った【間接プロンプトインジェクション】</title>
-<link>https://qiita.com/Kogia_sima/items/d9120e42c543b8dc41b3</link>
-<guid>ddb0af77cc9ce776524f9fb88870528c727c296979ddf25ccc1f5b8c9b97a6d7</guid>
-<pubDate>2026-05-28T18:05:49+09:00</pubDate>
-<description>はじめに 「次のWebサイトを要約して」 こう頼んだ数秒後、AIが攻撃者に乗っ取られ、破壊の限りを尽くす。 数分後には、あなたの会社のサーバーから重要なファイルがすべて消失する。 これは2026年現在、すでに現実に存在している攻撃手法です。 確かにAIは便利なツールで...</description>
+<title>【Qiita】 コードを書かずに複数AIをエージェント的に協調させる ── 自然言語で roles / memory / audit / routing を組むGitHubテンプレートを公開した</title>
+<link>https://qiita.com/dosanko_tousan/items/0da62a1ac9226370c42b</link>
+<guid>980cafcbf0da17ece065864b41a170ca1ef1bf429ac45d41029f454ee7b8d6ee</guid>
+<pubDate>2026-05-28T20:11:39+09:00</pubDate>
+<description>コードを書かずに複数AIをエージェント的に協調させる ── 自然言語で roles / memory / audit / routing を組み、GitHubに公開するまで はじめに ── 「AIエージェント、コード書けないと無理」で止まった人へ 「複数のAIを役割分担...</description>
 </item>
 <item>
-<title>【Qiita】 Codexのコンテキスト圧縮はなぜ優秀なのか — ソースコードから読み解く設計</title>
-<link>https://qiita.com/nogataka/items/9b71285a9dd448e53bb1</link>
-<guid>8cac6ddd7f900a4b9b3ac651173306673f8e401efda835249da9f0ad7efe529d</guid>
-<pubDate>2026-05-28T17:59:29+09:00</pubDate>
-<description>はじめに LLMベースのコーディングエージェントを長時間動かしたことがある方なら、一度は「途中で文脈を見失って急に的外れな動きを始める」現象に遭遇したはずです。この崩壊の多くは、コンテキストウィンドウの管理に起因します。 Codex CLIは、この問題に対して単なる「古い...</description>
+<title>【Qiita】 RAGはもう古い？ — Claude CodeのAgentic Searchを体験してわかった3つの違い</title>
+<link>https://qiita.com/kenimo49/items/dcd8777da985567dddcc</link>
+<guid>450c9299f83a3b24356e771db7ffa4b5d3cfff46ab76fa072af92e27d4d0338e</guid>
+<pubDate>2026-05-28T22:30:00+09:00</pubDate>
+<description>半年前、私は社内ナレッジ用にRAGパイプラインを組んでいました。LangChain、ベクトルDBはQdrant、embeddingはOpenAI、リランカーはCohere、チャンクサイズは512トークン。3週間かけて構築して、社内QAの精度が体感で40%→65%に上がった...</description>
 </item>
 <item>
-<title>【Qiita】 【論文徹底解説】LLMの記憶は更新するほど壊れる</title>
-<link>https://qiita.com/Simon_Zhang/items/f77494c2f7ccc7e6325e</link>
-<guid>20ac7da1cf4647cd50885e5a0ee11577cc5b4dbc520c6747c60427fa3915ef46</guid>
-<pubDate>2026-05-28T16:14:45+09:00</pubDate>
-<description>&quot;Useful Memories Become Faulty When Continuously Updated by LLMs&quot; Dylan Zhang, Yanshan Lin, Zhengkun Wu, Yihang Sun, Bingxuan Li, Dianqi...</description>
-</item>
-<item>
-<title>【Qiita】 【論文解説】Agentic Harness Engineering (AHE) — 観測可能性駆動によるコーディングエージェントハーネスの自動進化</title>
-<link>https://qiita.com/Simon_Zhang/items/40f3f07fee13a13d9f7a</link>
-<guid>81e26567e7a6e889ff31bb41aca187f3800db9e3b0e84d75047f1927100b54e4</guid>
-<pubDate>2026-05-28T15:57:55+09:00</pubDate>
-<description>論文: Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses 著者: Jiahang Lin, Shichun Liu, Chengj...</description>
-</item>
-<item>
-<title>【環境】 Upgrading glycerol to sorbose via a tandem photoelectrocatalysis–enzyme catalysis relay</title>
-<link>https://www.nature.com/articles/s41893-026-01856-1</link>
-<guid>3ee03286bf761445bcaf14878d13e698e4909ee101aee3f0bd680b7914021e0f</guid>
+<title>【環境】 Incorporating air quality health impacts into the social cost of carbon</title>
+<link>https://www.nature.com/articles/s41558-026-02653-6</link>
+<guid>3cc1b0b5350daf517b70a427cdeba02b44f63f045ab7b54cd65cd6648fa29f2f</guid>
 <pubDate>2026-05-28</pubDate>
-<description>As a low-cost by-product of biodiesel production, glycerol is an attractive feedstock for the sustainable manufacturing of high-value chemicals. This study demonstrates a method to convert glycerol into sorbose, a valuable sugar used in the food and pharmaceutical industries.</description>
+<description>Climate change worsens air pollution, posing major health risks, yet current social cost of carbon (SCC) models exclude these damages. This Review outlines a framework for including air quality impacts in the SCC and reviews existing evidence to inform near-term modelling efforts.</description>
 </item>
 <item>
-<title>【環境】 Driving a green energy transition with halide perovskite solar cells</title>
-<link>https://www.nature.com/articles/s41893-026-01844-5</link>
-<guid>b14058dd2ad537df16f99404d0b50329f7d00892251cd38a1c2ef3a215debbab</guid>
+<title>【自動自律実験】 Share the highs and lows of your career in science: take &lt;i&gt;Nature&lt;/i&gt;’s global survey</title>
+<link>https://www.nature.com/articles/d41586-026-01589-3</link>
+<guid>656b317b584e748f5cd314b866342b31eed8983c37699b21948e5fdc6993a1f6</guid>
 <pubDate>2026-05-28</pubDate>
-<description>This Review shifts the focus of research on perovskite solar cells from efficiency to industrial reliability, scalability and circularity, providing a strategic roadmap for sustainable manufacturing by analysing life-cycle impacts and fail-safe scaling strategies.</description>
+<description>Science and society are undergoing rapid change. Nature wants to know how this is affecting careers, workplace culture and salaries.</description>
 </item>
 <item>
 <title>【Google Research】 Publications</title>
-<link>https://research.google/pubs/adversarial-attacks-on-multimodal-large-language-models-a-comprehensive-survey/</link>
-<guid>240d30838840c0ca78ce29069ac50cc81e55cddfbc591cc832f1eedf4950d363</guid>
-<pubDate>Thu, 28 May 2026 10:45:25 GMT</pubDate>
+<link>https://research.google/pubs/ai-identity-and-ethical-governance-building-trust-in-high-stakes-systems/</link>
+<guid>1bb7bf7b2319b68f5d3e9ac994b38c2e4833bde6cdfe440d8e8fec7be15ba10d</guid>
+<pubDate>Thu, 28 May 2026 14:29:47 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Skip to main content</title>
-<link>https://www.nature.com/articles/s41467-026-73088-y</link>
-<guid>cbee9329b00a9a5ca871198cf496535bc67eee3d13b6b9468ee2342ca4ab133e</guid>
-<pubDate>Thu, 28 May 2026 10:45:28 GMT</pubDate>
-<description>Treatment selection in breast cancer is guided by risk assessment using molecular subtypes and clinicopathological characteristics. However, current approaches lack the precision required for optimal clinical decision-making. To address this, we use data from 8161 patients to develop and evaluate an AI test integrating digital pathology with clinical data. The AI test provides a robust method for predicting disease-free interval (C-index: 0.71 [0.68-0.75], HR: 3.63 [3.02-4.37, p&amp;nbsp;&amp;lt;&amp;nbsp;0.001]). In a direct comparison, the AI test displays numerically higher discrimination (C-index: 0.67 [0.61–0.74]) than the standard-of-care 21-gene assay (C-index: 0.61 [0.49–0.73]). Across molecular subtypes, the AI test demonstrates robust prognostic performance, including in triple negative breast cancer (C-index: 0.71 [0.62-0.81], HR: 3.81 [2.35-6.17, p=0.02]), where no guideline-recommended assays currently exist. These findings highlight the potential of AI-based pathology tests as a promising tool for improved risk stratification across all major subtypes, with implications for clinical decision-making. Selecting appropriate treatment for breast cancer is guided by molecular subtypes</description>
+<link>https://www.nature.com/articles/s41467-026-73813-7</link>
+<guid>19dc19acda639784b0dc9ce5836290c2ad71bf1a38e3ce9d5af427607b995ef9</guid>
+<pubDate>Thu, 28 May 2026 14:29:50 GMT</pubDate>
+<description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
+</item>
+<item>
+<title>【EU】 Play carousel Pause carousel 1 2 3 Gateway to Access EuroHPC AI Factories Get Started Access EuroHPC Supercomputers Get </title>
+<link>https://www.eurohpc-ju.europa.eu/index_en</link>
+<guid>f7828105cf791a9be6a0ff17c31125e153ee1cf6778c4ff3b152f0ca8e32803c</guid>
+<pubDate>Thu, 28 May 2026 14:29:56 GMT</pubDate>
+<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
 </item>
 
 </channel>
