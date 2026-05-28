@@ -4,56 +4,112 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 28 May 2026 02:08:52 GMT</lastBuildDate>
+<lastBuildDate>Thu, 28 May 2026 06:35:54 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントに権限を渡す前に決める5つの実行境界</title>
-<link>https://qiita.com/YushiYamamoto/items/d45ebb2ca6f07992e31c</link>
-<guid>ce7d8a0d0fd698420a8ba2f8b8be31d2843bce7a2b02f0848aab2519bcb3442b</guid>
-<pubDate>2026-05-28T11:00:14+09:00</pubDate>
-<description>AIエージェントを本番や社内業務に入れるとき、最初に決めるべきなのは「どのモデルを使うか」ではありません。 先に決めるべきなのは、どこまで読めるか、どこへ書けるか、どこへ通信できるか、どの能力を読み込めるか、何を記憶してよいか です。 この数日から直近1週間程度の英語圏一...</description>
+<title>【Qiita】 さわってみよう Db2 AI エディション #5 〜エージェント型AIアシスタント編 Part#5〜</title>
+<link>https://qiita.com/ibm_tk/items/e2583b00f624e351ce02</link>
+<guid>9314abd23898e694404d1823c70dc66d04c42cfb62cec2e4e745b3acfc5ac770</guid>
+<pubDate>2026-05-28T13:54:25+09:00</pubDate>
+<description>AIアシスタントでクエリのスループットを取得 これまでのPart#1〜Part#4記事に引き続き、当記事でもDb2 AIエディションで利用できるようになったDb2 Genius Hubの主たる機能のうち、 (1)統合Db2管理 (2)エージェント型AIアシスタント (3)...</description>
 </item>
 <item>
-<title>【Qiita】 AI時代、コードを読みやすくするべき本当の理由</title>
-<link>https://qiita.com/BaspisKawaE/items/0ba18ff11f493b4b5919</link>
-<guid>2a3c10777919ea414e0f1d62903bfa0033b95ab026b01479a70c217cffd6e392</guid>
-<pubDate>2026-05-28T10:52:12+09:00</pubDate>
-<description>株式会社パレットリンクの @BaspisKawaE です。 今回は、AI時代における「読みやすいコード」の意義について、自身の整理を兼ねて論じていきます。 よろしくお願いします! 第0章 本記事の概要と到達点 0.1 本記事を読むための前提知識 本記事は複数の読...</description>
+<title>【Qiita】 日刊IETF (2026-05-12): ATP・AGTPでエージェント基盤が活発、NEMOPSとCareful Resumeも (Part 2/2)</title>
+<link>https://qiita.com/tetsuko_room/items/0637a917ca0f6f8f1796</link>
+<guid>bafd20ea7dee17bf15f75af839f83fa346cbd0d9610035030c82722da59afa4f</guid>
+<pubDate>2026-05-28T11:53:16+09:00</pubDate>
+<description>おはようございます！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-12（UTC基準）に公開され...</description>
 </item>
 <item>
-<title>【Qiita】 〖考察〗2026年5月、AIは「チャット」から「常時稼働する実行基盤」になった</title>
-<link>https://qiita.com/YushiYamamoto/items/bcf76a1e3fe1e80de17e</link>
-<guid>67a9a61745415cf790463858db1b5b50c806a678b3ba32321f7bcb415029344a</guid>
-<pubDate>2026-05-28T10:08:48+09:00</pubDate>
-<description>MCP・Antigravity・GPT-5.5から見るエージェント時代の設計課題 はじめに：AI活用が「便利なチャット欄」で終わる前に 2026年5月のAI業界を追っていて、かなりはっきり感じたことがあります。 もうAIは「チャット欄で返事をしてくれる便利ツール」では...</description>
+<title>【Qiita】 Azure Budget で Foundry を自動 Pause</title>
+<link>https://qiita.com/FukuharaYohei/items/a708d08afddcb4003ef7</link>
+<guid>046e5dc644b0f933d0943c5b082696b08b1df887f5220557940d64367d14da04</guid>
+<pubDate>2026-05-28T13:56:44+09:00</pubDate>
+<description>本記事記述および実装内容は、多くの部分をAIで処理しており、人間チェックは甘いです 結論 Subscription レベルの Azure Budget を非常ブレーキにして、サブスクリプションのコストが閾値を超えたら タグ AutoPauseOnBudget=tr...</description>
 </item>
 <item>
-<title>【Qiita】 GPT image 2.0 on Codex Part2 - ゼロから始めるAIシステム開発 #26</title>
-<link>https://qiita.com/shominai2024/items/fa1d19f9d71a4943861e</link>
-<guid>7be7bae07396b94109ba92a7f8ce51be1df6d38ebcfccc214fe0ca14ceb9dfe6</guid>
-<pubDate>2026-05-28T10:02:46+09:00</pubDate>
-<description>Codexで画像生成 Part2 前回の続き。CodexのアップデートがありGPTimageも2.0になったので実力を確かめつつ、Codexアプリ上で画像生成を行う利点・ユースケースについて書く記事です。前回の続きに加えて、仕様図作成にも有用かどうか試してみる。 エージ...</description>
+<title>【Qiita】 Logic Apps閉域とMI認証</title>
+<link>https://qiita.com/FukuharaYohei/items/f89557b580d01ab1245a</link>
+<guid>ced275368c8a48a19310f1b4acc6642e83f09c843fa06b6a3932594259d01a48</guid>
+<pubDate>2026-05-28T11:19:21+09:00</pubDate>
+<description>Logic Apps閉域とMI認証 本記事記述および実装内容は、多くの部分をAIで処理しており、人間チェックは甘いです はじめに Logic Apps Standard を閉域化したいとき、ASE v3 を使うべきか、 host storage を Manage...</description>
+</item>
+<item>
+<title>【Qiita】 【2026年版】Google I/O 2026 開発者目線まとめ - Geminiは「会話AI」から「エージェントOS」になった</title>
+<link>https://qiita.com/ronitsachdev/items/7cbf9c1985d11e225c6c</link>
+<guid>36dfa71158979d4904afd0f2ee7d4c1a2ec9c60d729dbfdc3f8e982ace116726</guid>
+<pubDate>2026-05-28T15:01:05+09:00</pubDate>
+<description>はじめに：今年のI/Oは「AIアプリの年」じゃない、「エージェント基盤の年」だ 毎年I/Oの記事は山ほど出るが、ほとんどが「Geminiがすごい」「新機能の紹介」で終わる。 それじゃ意味がない。 現場のエンジニアが本当に知りたいのはこの3つだ： 自分の使っているツールは...</description>
+</item>
+<item>
+<title>【Qiita】 How Long Does MVP Product Development Take for Startups?</title>
+<link>https://qiita.com/neuradynamics/items/0c81f38104a041585bab</link>
+<guid>fe29f6c6c0f3c2b3742fc9c15e71947e90e0fe85e02d51b5da748d7e8020a8e7</guid>
+<pubDate>2026-05-28T14:43:00+09:00</pubDate>
+<description>Launching a startup product quickly is often the difference between leading the market and falling behind competitors. This is why many s...</description>
+</item>
+<item>
+<title>【Qiita】 Copilot Studioの評価機能とは？</title>
+<link>https://qiita.com/suna_h/items/fc5b9b920c24f1fbe494</link>
+<guid>bfeea230cbf7502d23643e46ccdbda06b8e7be2a783d15e3cb273ad35fefae12</guid>
+<pubDate>2026-05-28T13:31:58+09:00</pubDate>
+<description>Copilot Studioでエージェントを作成していると、「想定通り動いているか？」といった確認は避けて通れません。 手動テスト（チャットテスト）でも確認できますが、テストパターンが増えてくると確認漏れや品質のばらつきが出てきます。そこで活用したいのが、評価（テスト）機能...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code /code-review完全ガイド — GitHub PRへインライン自動レビューを実現する</title>
+<link>https://qiita.com/kai_kou/items/70bfc17b996aec655199</link>
+<guid>0d984427d64d56267ac1021770a0656487820b764ee16c09f42a8bc37bd95f10</guid>
+<pubDate>2026-05-28T14:13:53+09:00</pubDate>
+<description>はじめに Claude Code v2.1.147（2026年5月21日リリース）で、コードレビュー機能が大幅に刷新されました。 旧コマンド /simplify（コードの簡素化・修正）から /code-review（バグ検出・レポート）に名称と目的が変わり、--comm...</description>
+</item>
+<item>
+<title>【Qiita】 Google Antigravity 2.0入門 — Go製CLIとサンドボックスで安全なAI開発</title>
+<link>https://qiita.com/kai_kou/items/a900c59cdab87e18eae7</link>
+<guid>02f279f1cab57c99187b223316f94f935e227d7f743d7f6dfbc54e9363f68e52</guid>
+<pubDate>2026-05-28T14:13:51+09:00</pubDate>
+<description>はじめに 2026年5月19日、Google I/O 2026でGoogleはAntigravity 2.0を正式リリースしました。 Antigravity 2.0は単なるバージョンアップではありません。2025年11月に登場したv1が「VS CodeフォークにGemi...</description>
+</item>
+<item>
+<title>【Qiita】 Google Genkit Middleware完全ガイド — 本番AIエージェントを3層ミドルウェアで堅牢化する</title>
+<link>https://qiita.com/kai_kou/items/0ecbe3fb91d457908968</link>
+<guid>6172c7b9eecfbecf5cbbba1c2c7e6a1812976593e540e3e99348dac1c2cc7198</guid>
+<pubDate>2026-05-28T14:13:48+09:00</pubDate>
+<description>はじめに 本番環境でAIエージェントを運用すると、次のような問題が発生します。 APIのトランジェントエラーでエージェントがクラッシュする レートリミットで一次モデルが応答できなくなる 機密データに触れるツールが承認なく実行される どのモデル呼び出しで何が起きたか追跡...</description>
+</item>
+<item>
+<title>【Qiita】 Fujitsu × Anthropic 戦略的提携完全解説 — 10万人Claude導入とFDE型日本エンタープライズAI</title>
+<link>https://qiita.com/kai_kou/items/ce9d612d1d1ce61336e9</link>
+<guid>957cfe4a069b0bc37c06cab9d61aa7a7e036946fbc95832c8a06a6f75ec0c8b5</guid>
+<pubDate>2026-05-28T14:13:46+09:00</pubDate>
+<description>はじめに 2026年5月27日、富士通（Fujitsu Limited）とAnthropicが戦略的パートナーシップを正式締結しました。公式発表によると、富士通グループの社員約10万人がClaudeを活用し、1,000名規模のエンジニアリングチームを組成して顧客企業への...</description>
 </item>
 <item>
 <title>【Google Research】 Publications</title>
-<link>https://research.google/pubs/gs-offload-scalable-3d-gaussian-splatting-training-system-via-host-memory-offloading/</link>
-<guid>23b250d39f52b2755fbec8848d048423300f01934878e173188d22ffd4129f3d</guid>
-<pubDate>Thu, 28 May 2026 02:08:01 GMT</pubDate>
+<link>https://research.google/pubs/rs-ovc-open-vocabulary-counting-for-remote-sensing-data/</link>
+<guid>e3793acf63fa76632e383300be17db42c93203ea30ec3cb84808e2395f4f1531</guid>
+<pubDate>Thu, 28 May 2026 06:35:24 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Skip to main content</title>
+<link>https://www.nature.com/articles/s41467-026-73088-y</link>
+<guid>e9fdb509b9ba916804de7b78ce1e4a6627a885add061ddba22d72924c4c6aea7</guid>
+<pubDate>Thu, 28 May 2026 06:35:27 GMT</pubDate>
+<description>Treatment selection in breast cancer is guided by risk assessment using molecular subtypes and clinicopathological characteristics. However, current approaches lack the precision required for optimal clinical decision-making. To address this, we use data from 8161 patients to develop and evaluate an AI test integrating digital pathology with clinical data. The AI test provides a robust method for predicting disease-free interval (C-index: 0.71 [0.68-0.75], HR: 3.63 [3.02-4.37, p&amp;nbsp;&amp;lt;&amp;nbsp;0.001]). In a direct comparison, the AI test displays numerically higher discrimination (C-index: 0.67 [0.61–0.74]) than the standard-of-care 21-gene assay (C-index: 0.61 [0.49–0.73]). Across molecular subtypes, the AI test demonstrates robust prognostic performance, including in triple negative breast cancer (C-index: 0.71 [0.62-0.81], HR: 3.81 [2.35-6.17, p=0.02]), where no guideline-recommended assays currently exist. These findings highlight the potential of AI-based pathology tests as a promising tool for improved risk stratification across all major subtypes, with implications for clinical decision-making. Selecting appropriate treatment for breast cancer is guided by molecular subtypes</description>
 </item>
 <item>
 <title>【AI agent】 Skip to main content</title>
 <link>https://www.nature.com/articles/s41586-026-10652-y</link>
-<guid>718fd2e903c6bc42612756670df6c820f23a21a169a7471c3de00dcc63c47668</guid>
-<pubDate>Thu, 28 May 2026 02:08:06 GMT</pubDate>
+<guid>4cc71f47d1447fe1922bd654ffacdd2c62598c287862696eea2b79b1309614a0</guid>
+<pubDate>Thu, 28 May 2026 06:35:29 GMT</pubDate>
 <description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
 </item>
 <item>
-<title>【AI agent】 Skip to main content</title>
-<link>https://www.nature.com/articles/s41591-026-04403-9</link>
-<guid>3066ab8828e3c9cdc73689d4ea0d8b7f4f45bc67da50608ee240b596eec5fae4</guid>
-<pubDate>Thu, 28 May 2026 02:08:10 GMT</pubDate>
-<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>51597d5d4e08505d38394be2f34c93534809996708e97193a8d389a1077bcba9</guid>
+<pubDate>Thu, 28 May 2026 06:35:30 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
