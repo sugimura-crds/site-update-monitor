@@ -4,70 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 29 May 2026 06:37:15 GMT</lastBuildDate>
+<lastBuildDate>Fri, 29 May 2026 07:59:24 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 自分のメモを全部 RAG に食わせたら、AI が顧客名を喋り出した</title>
-<link>https://qiita.com/noracorn92/items/6eb9ad20882a501b92da</link>
-<guid>7c0d33ee87bad0b4987a3267cb0865aafc3f901322a22ef86b388378db648a11</guid>
-<pubDate>2026-05-29T14:40:22+09:00</pubDate>
-<description>ローカル RAG を作った。自分の議事録・ノート・設計メモを丸ごとベクトル DB に放り込んで、「過去の俺、なんて言ってたっけ？」を AI に聞ける仕組み。便利だった。便利すぎた。 テスト質問を投げた。「先月の方針って何だっけ」。返ってきた答えに、取引先の社名がフルネームで...</description>
+<title>【Qiita】 【Copilot】Copilot Coworkとは？</title>
+<link>https://qiita.com/TND_MK/items/29500f7fd528573621db</link>
+<guid>3eaaca59963e1013ab401f97ba3e2d7c3b88a7fe3e96b42f4c23a5486d55afe7</guid>
+<pubDate>2026-05-29T16:39:38+09:00</pubDate>
+<description>はじめに 2026年3月下旬からMicrosoft 365 Copilotに「Copilot Cowork」がFrontier プログラムで利用可能になりました。 これまでのCopilotは「文章を作る」「要約する」など、作業を手伝うAIでしたが、Copilot Cowo...</description>
 </item>
 <item>
-<title>【Qiita】 Gemini 3.5 Flash コーディングエージェント入門 — MCP Atlas首位・4倍高速・API移行ガイド</title>
-<link>https://qiita.com/kai_kou/items/1bae739164fc674b7bce</link>
-<guid>f0571ee3237b6af0bd1710c65eb2008124e385ce918cd710d1cc9a0901c26a19</guid>
-<pubDate>2026-05-29T14:16:20+09:00</pubDate>
-<description>はじめに 2026年5月19日、Google I/O 2026でGemini 3.5 Flashが正式リリースされました。エージェントとコーディングに特化した本モデルは、Gemini 3.1 Proを複数の主要ベンチマークで上回りながら、他のフロンティアモデルの4倍の出...</description>
+<title>【Qiita】 【図解】Sequoia「This is AGI」AI Ascent 2026 の要点 — AI は計算革命</title>
+<link>https://qiita.com/mguozhen/items/251c66b841a8ef1ee323</link>
+<guid>5a16b479fd52bf249394f4d3701d30abd8bfeba95de4932a81fa5ae7a01b47eb</guid>
+<pubDate>2026-05-29T16:35:42+09:00</pubDate>
+<description>Sequoia の AI Ascent 2026 基調講演「This is AGI」を、開発者目線で要点だけ図解的にまとめます。数字や比喩より、「何が作り方を変えるか」に絞りました。 この記事は誰向けか モデルの上にプロダクトを作っている開発者・ファウンダー AI エー...</description>
 </item>
 <item>
-<title>【Qiita】 Qwen3.7 Max入門 — Claude Codeのバックエンドで使えるAlibaba製エージェントAI</title>
-<link>https://qiita.com/kai_kou/items/c631ca7ef11c8eb05541</link>
-<guid>561882e32746f12a1b555e163cb42444e443a04db7356169f2c413ee856a75e8</guid>
-<pubDate>2026-05-29T14:16:18+09:00</pubDate>
-<description>はじめに 2026年5月20日、Alibaba Cloud Summit にて Qwen3.7 Max が発表されました。エージェントタスク特化で設計された同モデルは、Anthropic API プロトコルをネイティブにサポートしており、環境変数を数行変えるだけで Cl...</description>
+<title>【Qiita】 気づいたらOpus 4.8が登場していたので、新機能／今までとの違いをまとめてみた</title>
+<link>https://qiita.com/nolanlover0527/items/7de867c9720858aaf30f</link>
+<guid>2e71391b66ad87b4af4b93a2b809006c8028d4dd315bcded4e476e0e0d1753ce</guid>
+<pubDate>2026-05-29T16:29:48+09:00</pubDate>
+<description>前世代からわずか6週間でOpus 4.8が登場 2026年5月28日、AnthropicがClaude Opus 4.8をリリースしました。 前バージョンのOpus 4.7から約6週間でのアップデートです。さすがに速すぎる... 私自身の備忘録としての意味もありつつ、今回...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Opus 4.8入門 — Dynamic Workflowsとエフォート制御APIの全貌</title>
-<link>https://qiita.com/kai_kou/items/70cdb50e3abe6fe775f2</link>
-<guid>7b484dfa4f7b3a92ba5a1e97b565e9c809ee3b2fe0f1f6033302149feeb189c4</guid>
-<pubDate>2026-05-29T14:16:15+09:00</pubDate>
-<description>はじめに 2026年5月28日、AnthropicがClaude Opus 4.8（APIモデルID: claude-opus-4-8）をリリースしました。Opus 4.7から41日という短サイクルのアップデートで、SWE-bench Proで**69.2%**を達成（...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Code Dynamic Workflows入門 — 並列サブエージェントで大規模タスクを自動化する</title>
-<link>https://qiita.com/kai_kou/items/fe9b0e65e2252af773c9</link>
-<guid>fe58e922a88d5e8c3832fe49e4368c905e814ad9d782ea67ca1827e040250c65</guid>
-<pubDate>2026-05-29T14:16:13+09:00</pubDate>
-<description>はじめに 2026年5月28日、AnthropicはClaude Opus 4.8のリリースと同時に、Claude Codeの新機能Dynamic Workflowsをリサーチプレビューとして公開しました。 従来のClaude Codeは1つのチャットターンを起点に順番...</description>
+<title>【Qiita】 なぜ今“ハーネスエンジニアリング”なのか？初心者向けに仕組みから整理してみた</title>
+<link>https://qiita.com/choongsils/items/226766c9ce8cacabca16</link>
+<guid>9e4ae0c46c10c77d23aa2dc8c3af7ab92c547f7bc39f5b78f6f1bd06593335bc</guid>
+<pubDate>2026-05-29T16:34:28+09:00</pubDate>
+<description>はじめに 本稿では、ハーネスエンジニアリングを、背景・定義・よく使われる構成・今後の展望の順に紹介します。あわせて、シンプルなハンズオンを通じて、最小限かつ本質的な内容をすばやく体感できる構成にしました。ハーネスエンジニアリングを初めて耳にする方を主な対象とした記事です。...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/raman-spectroscopy-pre-trained-encoder-a-self-supervised-learning-approach-for-data-efficient-domain-independent-spectroscopy-analysis/</link>
-<guid>41035e604e647fcf1b03d24b830bdd8916d6416637a9255a0b4be47a940e9829</guid>
-<pubDate>Fri, 29 May 2026 06:36:33 GMT</pubDate>
+<link>https://research.google/pubs/it-didnt-feel-right-but-i-needed-a-job-so-desperately-understanding-peoples-emotions-help-needs-during-financial-scams-2/</link>
+<guid>b8e55a80ca5297e1010bc909d41288028607e011314ae60b62641b1af5346aea</guid>
+<pubDate>Fri, 29 May 2026 07:58:42 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73813-7</link>
-<guid>14a6597ed8255a6f361ca5b79930c4e4b77bfcc22f1eebab237201c7d60fc969</guid>
-<pubDate>Fri, 29 May 2026 06:36:35 GMT</pubDate>
+<guid>8eb9ef0018ce1fdd29a0158fce0855fa07f2a1aaff5b8d4e90a69f2cd2b20417</guid>
+<pubDate>Fri, 29 May 2026 07:58:45 GMT</pubDate>
 <description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04403-9</link>
-<guid>39de2d2a6213291062176e4e1fa3bbde3689fed970acc40b6276d2950bc018a1</guid>
-<pubDate>Fri, 29 May 2026 06:36:40 GMT</pubDate>
-<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
-</item>
-<item>
-<title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.chiba-u.ac.jp/news/research-collab/post_674.html</link>
-<guid>91a9a7907e74e033a7d83b82af769f0c1fc0f8eb691e8cc58eb04834ca268e3f</guid>
-<pubDate>Fri, 29 May 2026 06:36:56 GMT</pubDate>
-<description>研究所別一覧</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>0cf44d95a0efcc42685e1f4b18d3d0d5a0b1227d3ca95023d395ba5821be0667</guid>
+<pubDate>Fri, 29 May 2026 07:58:48 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
