@@ -4,56 +4,91 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 29 May 2026 10:39:58 GMT</lastBuildDate>
+<lastBuildDate>Fri, 29 May 2026 13:54:09 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 1割の“信頼される”エンジニアが実行している『問題の出し方』</title>
-<link>https://qiita.com/hitomin_poke/items/48b1eca9c48f05839692?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>cf9f3dc725189607c0453d3df6eae7ff2a307fa82a5ad1a199d546f4c2c4f316</guid>
-<pubDate>2026-05-29T14:26:44+09:00</pubDate>
-<description>はじめまして。株式会社PRUMでエンジニアをしている人見です。 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、 仕事で起きやすい“ズレ”について整理して発信しています。 誰かの助けになれば幸いです。 1割の信頼されるエンジニアが実行している“問題の出し方...</description>
+<title>【Qiita】 【Db2 Genius Hub】Trial エディション使ってみた</title>
+<link>https://qiita.com/ISE_Db2LUW_Club/items/e194baecf6b729a1a7a1</link>
+<guid>b3e01f59d6557b7356fc5338bbfa0eeb9156043a897cd382f413df8873fdce93</guid>
+<pubDate>2026-05-29T20:26:02+09:00</pubDate>
+<description>目次 はじめに Db2 Genius Hub Trialエディションでできること Db2 Genius Hubを使い始めるには (1) インストール (2) コンソールを開く Db2 Genius Hub の機能を使ってみよう (1) モニターのグラフ (2...</description>
 </item>
 <item>
-<title>【Qiita】 出たてほやほやのClaude Opus 4.8を整理してみた</title>
-<link>https://qiita.com/kaichan_dot/items/a5234436a61194e24df7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>35166558ffb4d757cee4886d88edf18dc2cd851c78011fae050f1a3c5a1864b0</guid>
-<pubDate>2026-05-29T04:38:36+09:00</pubDate>
-<description>出典：Anthropic公式ブログ「Introducing Claude Opus 4.8」 より引用 今回の記事は、「また新しいClaude出たけど、結局なにが変わったん？」を、サクッと要点キャッチアップする記事です。 はじめに Claude Opus 4.8が公開さ...</description>
+<title>【Qiita】 Claude Opus 4.8のプロンプトガイド：初心者が押さえるべきeffort・adaptive thinking・ツール利用の基本</title>
+<link>https://qiita.com/ochtum/items/0c0fa6f4fbcc2094f8c1</link>
+<guid>2e25e0d4dc45e76af9ca968623582e24d20a894fa72c89705d6504312e86b518</guid>
+<pubDate>2026-05-29T22:51:44+09:00</pubDate>
+<description>※お役に立てたらストック、いいねをよろしくお願いします！！ ＜本記事のターゲット層＞ Claude Opus 4.8をこれから使い始める人 Claude 4.7からClaude Opus 4.8へ移行したい人 生成AIへの依頼文を安定させたい人 AIエージェントや...</description>
 </item>
 <item>
-<title>【Qiita】 「並列エージェント、前からあったよね?」と思った人へ。Claude Codeの動的Workflowsで本当に新しいのは何か</title>
-<link>https://qiita.com/insei_99/items/2652f8169ca35fdf6582</link>
-<guid>d86ae3c090afb9588c765d67635c4c43c279afbda8e43042039a5083bc2b5e14</guid>
-<pubDate>2026-05-29T17:09:43+09:00</pubDate>
-<description>既視感の正体 複数のサブエージェントを並列で走らせる。それなら去年からやっている。だから動的Workflows（dynamic workflows）の発表を見たときの第一声は「で、何が新しいんだ?」だった。 公式ドキュメントによれば、本体の差はオーケストレーション（計画）...</description>
+<title>【Qiita】 従来の「セカンドブレイン」対AI「セカンドブレイン」：Kollabがナレッジベースを、先を見越して思考するインテリジェントな存在へと変える仕組み</title>
+<link>https://qiita.com/kollabjp/items/d1baf54e7b3e51d691f8</link>
+<guid>f76c864846edd1785599051622fc3aa9eaec939f4a319ce8fc61f36c4be93716</guid>
+<pubDate>2026-05-29T21:13:13+09:00</pubDate>
+<description>こんな状況に遭遇したことはありませんか？Obsidianを開くと2,000件以上のノートがあるのに、3ヶ月前に書いた「競合製品分析」がどこにあるのか見当もつかない； Notionで美しいナレッジベースを構築したものの、検索するたびにディレクトリを手動でスクロールしなければ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code から日本の SaaS を操作したくて、MCP 対応状況を全部調べてみた</title>
-<link>https://qiita.com/michie_yamaguchi/items/091d3d0c879fb1b8d9fe</link>
-<guid>483acadc7cec9165c157a01f745e00e776f6ecccea07d38fc42bd64a83b28f40</guid>
-<pubDate>2026-05-29T18:52:50+09:00</pubDate>
-<description>はじめに 私は普段、Claude Code や Cursor を使って SaaS の API 連携を書いているんですが、毎回こんなことで時間を溶かしてます： 「このSaaS、MCP サーバーあるっけ？」→ 公式サイト見に行く → 見つからない → GitHub 検索 →...</description>
+<title>【Qiita】 Claude Codeのマルチエージェント組織は「作ったら腐る」——244ファイル整理後の健康診断全記録</title>
+<link>https://qiita.com/saitoko/items/e0cb0a91b47eaaa1994b</link>
+<guid>3720a6ebbb2196b290e671b91c67282aeebaeb5443802eef17c7bc03cba63988</guid>
+<pubDate>2026-05-29T19:55:37+09:00</pubDate>
+<description>この記事の実施記録（2026年4月）: Claude Code のマルチエージェント組織でディレクトリ構造を整理した直後（244ファイル移動、git commit 9121fc6）、「ついで」の健康診断を実施した。パス参照・責務・権限の3カテゴリで8件の不整合を発見。あわせ...</description>
+</item>
+<item>
+<title>【自動自律実験】 Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe&lt;sub&gt;2&lt;/sub&gt; bilayers</title>
+<link>https://www.nature.com/articles/s41586-026-10717-y</link>
+<guid>4860cca85f3b5f686a9599a7f30ea90fe4e77b829d3e5974568b4f2e87fbae9a</guid>
+<pubDate>2026-05-29</pubDate>
+<description>Author Correction: Hidden states and dynamics of fractional fillings in twisted MoTe 2 bilayers</description>
+</item>
+<item>
+<title>【自動自律実験】 Author Correction: US oil and gas system emissions from nearly one million aerial site measurements</title>
+<link>https://www.nature.com/articles/s41586-026-10605-5</link>
+<guid>28cc3f507bf6e7b34623f6f4669ad4eccb0d95b8094e0b68262ed1934e0b9572</guid>
+<pubDate>2026-05-29</pubDate>
+<description>Author Correction: US oil and gas system emissions from nearly one million aerial site measurements</description>
+</item>
+<item>
+<title>【自動自律実験】 Author Correction: Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant</title>
+<link>https://www.nature.com/articles/s41586-026-10665-7</link>
+<guid>a583a13354e38271235f02b70cd11b5fec65786d5f31e861678830214ee15acf</guid>
+<pubDate>2026-05-29</pubDate>
+<description>Author Correction: Attenuated fusogenicity and pathogenicity of SARS-CoV-2 Omicron variant</description>
+</item>
+<item>
+<title>【自動自律実験】 Gold keeps glittering courtesy of surface chemistry</title>
+<link>https://www.nature.com/articles/d41586-026-01671-w</link>
+<guid>72b7881fc9595ba4873fa25ebe2835e6e0d3949f7b644367a861617dddc904fb</guid>
+<pubDate>2026-05-29</pubDate>
+<description>Hexagonal patterns on the surface of gold crystals are an unfavourable environment for reactions.</description>
+</item>
+<item>
+<title>【自動自律実験】 How common bacteria fasten their armour</title>
+<link>https://www.nature.com/articles/d41586-026-01668-5</link>
+<guid>9956d7aee7db9b14ad753e104f958e6bf75b6dbd6b8e69cddf968e64a3b925d0</guid>
+<pubDate>2026-05-29</pubDate>
+<description>Analysis reveals the enzyme that allows some microorganisms to anchor their outer membrane to their cell wall.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-probabilistic-framework-for-learning-nonintrusive-corrections-to-longtime-climate-simulations-from-shorttime-training-data/</link>
-<guid>2935fd53a312c6fd8887305f1f0a7252d00f369cafee094489f7453c412a8dde</guid>
-<pubDate>Fri, 29 May 2026 10:38:46 GMT</pubDate>
+<link>https://research.google/pubs/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients-2/</link>
+<guid>6b4c86f59fb551110ab843f5ad1d17e2967d468663265f06872ace024e4eb045</guid>
+<pubDate>Fri, 29 May 2026 13:53:28 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73813-7</link>
-<guid>56b287d3c28589cab38c92141460a3c3fcb27d450930e443f9f9386ea5f06580</guid>
-<pubDate>Fri, 29 May 2026 10:38:48 GMT</pubDate>
+<guid>cd3e2f82a721b72b9b3c3bcb11a00b63525d7e778081c076767a050ce419b504</guid>
+<pubDate>Fri, 29 May 2026 13:53:31 GMT</pubDate>
 <description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 AI Predictive Maintenance for Lab Instruments: From Reactive Alerts to Proactive Agents</title>
-<link>https://qpillars.com/blog</link>
-<guid>d0b676381a0e1954e7c750ddf6998fd5de533fc4dce9468866ea0bd0056f14fb</guid>
-<pubDate>Fri, 29 May 2026 10:38:51 GMT</pubDate>
-<description>Technical insights from building intelligent laboratory infrastructure. Engineering deep dives, product updates, and industry analysis from the QPillars team.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-10652-y</link>
+<guid>919ca4af0458a228cf1bbf1a39a925a444a03087c3ed3f2b03948bd4beba098d</guid>
+<pubDate>Fri, 29 May 2026 13:53:34 GMT</pubDate>
+<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
 </item>
 
 </channel>
