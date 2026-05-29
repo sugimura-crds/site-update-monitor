@@ -4,91 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 29 May 2026 04:38:42 GMT</lastBuildDate>
+<lastBuildDate>Fri, 29 May 2026 06:37:15 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 （QA集）HMCから5250コンソールを起動したら英語5250画面が表示 （ほか追記予定）</title>
-<link>https://qiita.com/gomAnomalocaris/items/f659705611f6b9350964</link>
-<guid>2f6ab20da04d97e87563f0b8d45607ecf3ee9063c8a2f820d172bb4a1ce4707d</guid>
-<pubDate>2026-05-29T12:13:12+09:00</pubDate>
-<description>Q1.HMCから5250コンソールを起動したら英語5250画面になった A1. HMCが英語環境にセットされていました。結果5250コンソールもデフォルト英語で起動されたようです。 5250コンソールのウィンドウからホストコードページを930（または939）とすることで日...</description>
+<title>【Qiita】 自分のメモを全部 RAG に食わせたら、AI が顧客名を喋り出した</title>
+<link>https://qiita.com/noracorn92/items/6eb9ad20882a501b92da</link>
+<guid>7c0d33ee87bad0b4987a3267cb0865aafc3f901322a22ef86b388378db648a11</guid>
+<pubDate>2026-05-29T14:40:22+09:00</pubDate>
+<description>ローカル RAG を作った。自分の議事録・ノート・設計メモを丸ごとベクトル DB に放り込んで、「過去の俺、なんて言ってたっけ？」を AI に聞ける仕組み。便利だった。便利すぎた。 テスト質問を投げた。「先月の方針って何だっけ」。返ってきた答えに、取引先の社名がフルネームで...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-05-13): 転送系拡張とWeb基盤、エージェント信頼設計が並走する後半戦(Part 2)</title>
-<link>https://qiita.com/tetsuko_room/items/08f6c3ad687ef0d638e6</link>
-<guid>7067c3b7ccc555eb9521a64c3b55a656756e3f26b718b2e98e8021598414ab91</guid>
-<pubDate>2026-05-29T13:05:38+09:00</pubDate>
-<description>こんにちは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-13（UTC基準）に公開されたInt...</description>
+<title>【Qiita】 Gemini 3.5 Flash コーディングエージェント入門 — MCP Atlas首位・4倍高速・API移行ガイド</title>
+<link>https://qiita.com/kai_kou/items/1bae739164fc674b7bce</link>
+<guid>f0571ee3237b6af0bd1710c65eb2008124e385ce918cd710d1cc9a0901c26a19</guid>
+<pubDate>2026-05-29T14:16:20+09:00</pubDate>
+<description>はじめに 2026年5月19日、Google I/O 2026でGemini 3.5 Flashが正式リリースされました。エージェントとコーディングに特化した本モデルは、Gemini 3.1 Proを複数の主要ベンチマークで上回りながら、他のフロンティアモデルの4倍の出...</description>
 </item>
 <item>
-<title>【Qiita】 AIRA + ToolUniverse + NatureLM で始める AI 駆動科学研究 — 研究パイプライン別プロンプトガイド</title>
-<link>https://qiita.com/hisaho/items/ce0c571070c7c8314cf8</link>
-<guid>f856302fecdd4a860a7e421a45ce1ac57ff43cbbe80aa818fb288db42f2f395a</guid>
-<pubDate>2026-05-29T12:34:59+09:00</pubDate>
-<description>はじめに: AI で研究ワークフローはどう変わるか 「BACE1 阻害剤の候補分子を設計したい」— この研究課題に対して、AI に一つのプロンプトを渡すだけで、以下が自動的に実行される。 PubMed・ChEMBL から先行研究と既知阻害剤の構造活性相関データを取得 科...</description>
+<title>【Qiita】 Qwen3.7 Max入門 — Claude Codeのバックエンドで使えるAlibaba製エージェントAI</title>
+<link>https://qiita.com/kai_kou/items/c631ca7ef11c8eb05541</link>
+<guid>561882e32746f12a1b555e163cb42444e443a04db7356169f2c413ee856a75e8</guid>
+<pubDate>2026-05-29T14:16:18+09:00</pubDate>
+<description>はじめに 2026年5月20日、Alibaba Cloud Summit にて Qwen3.7 Max が発表されました。エージェントタスク特化で設計された同モデルは、Anthropic API プロトコルをネイティブにサポートしており、環境変数を数行変えるだけで Cl...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeに任せてこの1週間で私が手放した3つの仕事</title>
-<link>https://qiita.com/Ngen/items/24b2926754c6123aa2a3</link>
-<guid>17dd1315829749385cde06832bf730917958fad29e8a447dd2b0ba06ed5ecd1f</guid>
-<pubDate>2026-05-29T12:10:21+09:00</pubDate>
-<description>Claude Cowork を社内AXに使っている私の実践ログです。社内固有名・個人名は伏せています。 「今週いちばん時間を食ったタスク、何だっけ？」と金曜の夜に振り返るのが、最近の習慣になっている。今週はその答えに、3つくらい詰まった。詰まったというか——出てこなかっ...</description>
+<title>【Qiita】 Claude Opus 4.8入門 — Dynamic Workflowsとエフォート制御APIの全貌</title>
+<link>https://qiita.com/kai_kou/items/70cdb50e3abe6fe775f2</link>
+<guid>7b484dfa4f7b3a92ba5a1e97b565e9c809ee3b2fe0f1f6033302149feeb189c4</guid>
+<pubDate>2026-05-29T14:16:15+09:00</pubDate>
+<description>はじめに 2026年5月28日、AnthropicがClaude Opus 4.8（APIモデルID: claude-opus-4-8）をリリースしました。Opus 4.7から41日という短サイクルのアップデートで、SWE-bench Proで**69.2%**を達成（...</description>
 </item>
 <item>
-<title>【Qiita】 競合のInstagramアカウントを監視して構造化データを取得したいですか？</title>
-<link>https://qiita.com/cynthia-brightdata/items/a8f0c00051b995315c8a</link>
-<guid>ca75d89d566c116c278e90d3df47f84fd433e19e74913fd6ca507be620289cc9</guid>
-<pubDate>2026-05-29T11:56:59+09:00</pubDate>
-<description>はじめに：Instagramデータ収集はブランドのソーシャル競争における核心的なニーズ グローバルなソーシャルマーケティングの勢力図において、Instagramは20億人を超える月間アクティブユーザー、強力な視覚的伝播属性、そして成熟したECエコシステムを備えています。こ...</description>
-</item>
-<item>
-<title>【Qiita】 「全部 Next.js に入れたい」から始まった時間のかかる非同期処理の話</title>
-<link>https://qiita.com/Verdent-Akira/items/b5055dca5d9da27c9482</link>
-<guid>2507fb48eec94e947387bc4d6838cfcaaaf44a46db1fbd5d91a09ab5b6c73f05</guid>
-<pubDate>2026-05-29T11:51:43+09:00</pubDate>
-<description>はじめに Next.js は、フロントエンドとバックエンドを一つのプロジェクトで管理できる非常に便利なフレームワークです。 一方で、多くの開発者が一度は直面する問題があります。 それが、「長時間実行される非同期タスクをどう扱うか」 という問題です。 画像処理、大規模なデー...</description>
-</item>
-<item>
-<title>【Google Research】 Addressing critical healthcare challenges</title>
-<link>https://research.google/pubs/promise-or-peril-exploring-black-adults-perspectives-on-the-use-of-artificial-intelligence-in-health-contexts/</link>
-<guid>98ecfe37d5b125e2feb4c8b4f8ad8f54289398c8ee7c83ffc8828d9860460f26</guid>
-<pubDate>Fri, 29 May 2026 04:38:05 GMT</pubDate>
-<description>AI has the potential to accelerate innovation and unlock new solutions to global health challenges, to help billions of people live longer, healthier lives.</description>
-</item>
-<item>
-<title>【Google Research】 Collaborative and open science Our history of scientific contributions is rooted in highly collaborative research that p</title>
-<link>https://labs.google/science/</link>
-<guid>b2be69672ee561eea5315c1fd88242f70cc39b45d7446b12eca4cb4006e9e99d</guid>
-<pubDate>Fri, 29 May 2026 04:38:06 GMT</pubDate>
-<description>A collection of experimental science tools designed to complement the scientific method and explore how general agents can help to accelerate discovery across every domain.</description>
+<title>【Qiita】 Claude Code Dynamic Workflows入門 — 並列サブエージェントで大規模タスクを自動化する</title>
+<link>https://qiita.com/kai_kou/items/fe9b0e65e2252af773c9</link>
+<guid>fe58e922a88d5e8c3832fe49e4368c905e814ad9d782ea67ca1827e040250c65</guid>
+<pubDate>2026-05-29T14:16:13+09:00</pubDate>
+<description>はじめに 2026年5月28日、AnthropicはClaude Opus 4.8のリリースと同時に、Claude Codeの新機能Dynamic Workflowsをリサーチプレビューとして公開しました。 従来のClaude Codeは1つのチャットターンを起点に順番...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/multi-agent-design-optimizing-agents-with-better-prompts-and-topologies/</link>
-<guid>8100601568cae857079e9ba4788015bfdf06d5a88e11f1becf0407965c77bd8c</guid>
-<pubDate>Fri, 29 May 2026 04:38:07 GMT</pubDate>
+<link>https://research.google/pubs/raman-spectroscopy-pre-trained-encoder-a-self-supervised-learning-approach-for-data-efficient-domain-independent-spectroscopy-analysis/</link>
+<guid>41035e604e647fcf1b03d24b830bdd8916d6416637a9255a0b4be47a940e9829</guid>
+<pubDate>Fri, 29 May 2026 06:36:33 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>5b178a34129ff1181d4280f43cf810526287467123042b6ab64a0004fa2e4a7d</guid>
-<pubDate>Fri, 29 May 2026 04:38:07 GMT</pubDate>
-<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、技術開発主体として採択されている総務省事業「インターネット上の偽・誤情報等への対策技術の開発・実証事業（令和7年度）」において、SNS空間の可視化、総合的な偽情報判定、対策案の立案までを支援するシステム開発を完了しました。 read more read more AIサイエンティストは、多くの可能性の「木」を自律的に探索しながら、科学的ブレイクスルーを見つけだす。Credit: Artwork by CERTO, Inc. read more read more Namazuシリーズ（α版）を搭載したチャットサービス Sakana Chat を公開 read more 画像提供：読売新聞（2026年3月23日） read more read more read more read more read more read more read more read more read more read more read more read more read more Survival of th</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73813-7</link>
-<guid>7fad85e5614d08c6c8adab576b039964b19b94e805ea4af840b695af799a6bc2</guid>
-<pubDate>Fri, 29 May 2026 04:38:10 GMT</pubDate>
+<guid>14a6597ed8255a6f361ca5b79930c4e4b77bfcc22f1eebab237201c7d60fc969</guid>
+<pubDate>Fri, 29 May 2026 06:36:35 GMT</pubDate>
 <description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-10652-y</link>
-<guid>b405e7bf6ceb909c240295fd857921cdc7a33f2b1811b8e4df1636a4a7343374</guid>
-<pubDate>Fri, 29 May 2026 04:38:12 GMT</pubDate>
-<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
+<link>https://www.nature.com/articles/s41591-026-04403-9</link>
+<guid>39de2d2a6213291062176e4e1fa3bbde3689fed970acc40b6276d2950bc018a1</guid>
+<pubDate>Fri, 29 May 2026 06:36:40 GMT</pubDate>
+<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+</item>
+<item>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.chiba-u.ac.jp/news/research-collab/post_674.html</link>
+<guid>91a9a7907e74e033a7d83b82af769f0c1fc0f8eb691e8cc58eb04834ca268e3f</guid>
+<pubDate>Fri, 29 May 2026 06:36:56 GMT</pubDate>
+<description>研究所別一覧</description>
 </item>
 
 </channel>
