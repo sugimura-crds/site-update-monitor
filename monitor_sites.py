@@ -193,6 +193,12 @@ def check_no_rss_site(category, url, selector, state):
 
         if "x.com" in href:
             continue
+
+        if "chat.sakana.ai" in href:
+            continue
+
+        if "/blog" in href:
+            continue
         
         if href.startswith("http"):
             article_link = href
@@ -200,8 +206,11 @@ def check_no_rss_site(category, url, selector, state):
 
     text = clean_text(target.get_text(" "), 1000)
 
-    h = target.find(["h1", "h2", "h3", "a"])
+    h = target.find(["h2", "h3"])
 
+    if not h:
+        h = target.find("a")
+    
     title = ""
 
     if h:
