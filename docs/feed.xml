@@ -4,42 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 28 May 2026 23:48:26 GMT</lastBuildDate>
+<lastBuildDate>Fri, 29 May 2026 02:12:51 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 プロフェッショナルTLS＆PKI (Bulletproof TLS and PKI) 改題第2版を読む⑥ 第1章-6 暗号技術に対する攻撃</title>
-<link>https://qiita.com/gomAnomalocaris/items/efc42d2284395f30aff6</link>
-<guid>f9d43ec9a286f30bae04214a8201c48d083099e8ab896019a145e22bd0e5adef</guid>
-<pubDate>2026-05-29T08:08:03+09:00</pubDate>
-<description>⑤セキュリティプロトコルの必要性の続きです。 書籍 1.4.3章 暗号技術に対する攻撃 以降で掲題の解説がありますが、ここでは記事内容を基に私の解釈による暗号技術の注意点としてまとめてみます。 暗号技術に対する攻撃方法 1.暗号鍵に対する攻撃 暗号鍵の探索空間(＝...</description>
+<title>【Qiita】 日刊IETF (2026-05-13): AIエージェント識別と委譲、PQC関連が縦横に揃った日(Part 1)</title>
+<link>https://qiita.com/tetsuko_room/items/f7eeb1c953965fa6f55e</link>
+<guid>53e133bdb412442ef7b0d0cec54eed0e619b5000779065dcad6744c5bb95a214</guid>
+<pubDate>2026-05-29T10:30:16+09:00</pubDate>
+<description>こんにちは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-13（UTC基準）に公開されたInte...</description>
 </item>
 <item>
-<title>【Qiita】 Daytonaが作る『AIエージェント専用の計算機』──60ms起動と1日85万ランの設計</title>
-<link>https://qiita.com/Yushi88/items/a38d1e73011620adec23</link>
-<guid>a1167237a7d60f0b8156fb62cc00fae5d53857c0b6c056762322f29184fad70c</guid>
-<pubDate>2026-05-29T07:52:22+09:00</pubDate>
-<description>60ミリ秒で1個、75秒で5万個──米DaytonaのAIエージェント用サンドボックスの起動速度だ。最大顧客の1社では1日85万回がさばかれ続けている。同社は2025年4月に人間の開発者向けツールからエージェント特化へ全面ピボットし、月次成長は74%を維持する。何を再発明し...</description>
+<title>【Qiita】 科学基盤モデルはAIの批判力を高めるか？ — NatureLM×汎用LLM 200実験が示した意外な逆転現象</title>
+<link>https://qiita.com/hisaho/items/c37e8f8964b9a1ca9bca</link>
+<guid>cfa29ee20846f88bb29556248ae13b9bb1a739b7bb41bb451db3efd572154a11</guid>
+<pubDate>2026-05-29T10:11:32+09:00</pubDate>
+<description>「AIに科学研究をやらせたら、自分の結果を批判的に評価し始めた」——そんな現象を観測したとき、筆者は AI for Science の新たな可能性を見たと思った。しかし、200件の対照実験が明かしたのは、予想とは異なる結論だった。 何が起きたのか 筆者が開発してい...</description>
 </item>
 <item>
-<title>【Qiita】 AIコーディングエージェントを見張るOSSを、Claudeから『危険な設定どれ?』と聞けるようにした（MCP対応）</title>
-<link>https://qiita.com/Ju571nK/items/5b6a3f05e7e7de20e3ee</link>
-<guid>521371f67371158664bcdab66fa8179dacdadbe49c46f95b4a324b15593eff70</guid>
-<pubDate>2026-05-29T07:33:40+09:00</pubDate>
-<description>この記事は、Zenn に書いた「AIコーディングエージェントの本当の攻撃面は設定ファイルだった」の続きです。前回が「なぜ設定ファイルが危ないのか」という話だったのに対し、今回は実際に動かして、最後に Claude から MCP 経由でフリートの状態を聞くところまでやって...</description>
+<title>【Qiita】 【論文解説】Continual Harness：AIエージェントが自分自身を改善し続ける「継続的ハーネス」の全貌</title>
+<link>https://qiita.com/Simon_Zhang/items/2759f26cb5ffcbeb2a73</link>
+<guid>0ad63d4da3820c0adcb64e4a9769049dc862e6135bc382764253ca4784dbe8b6</guid>
+<pubDate>2026-05-29T09:44:39+09:00</pubDate>
+<description>📝 論文: &quot;Continual Harness: Online Adaptation for Self-Improving Foundation Agents&quot;（Karten et al., 2026, arXiv:2605.09998） 📌 まとめ コーディン...</description>
+</item>
+<item>
+<title>【Qiita】 【速報・図解】Claude Opus 4.8 が出た — ベンチマークより「正直さ」が本命</title>
+<link>https://qiita.com/mguozhen/items/c6c01c1f6e19f33ca7c0</link>
+<guid>da28ba2ea0acd21a3430b08c6a5d7fb993ec8fc378d15cb09ac2699f9ba148db</guid>
+<pubDate>2026-05-29T09:00:38+09:00</pubDate>
+<description>Anthropic が本日 Claude Opus 4.8 をリリースしました。ベンチマークは順当に伸びていますが、この記事で一番伝えたいのは「数字」ではなく「正直さ」のアップグレードです。 この記事は誰向けか Claude Code や AI エージェントで実際にコー...</description>
 </item>
 <item>
 <title>【Google Research】 Publications</title>
-<link>https://research.google/pubs/discrepancy-beyond-additive-functions-with-applications-to-fair-division/</link>
-<guid>ce326194b5a40a361d746b229ce8c894351fedadc831545bfd889c43af7ea7a9</guid>
-<pubDate>Thu, 28 May 2026 23:47:50 GMT</pubDate>
+<link>https://research.google/pubs/the-ontic-epistemic-distinction-implications-for-robust-machine-intelligence/</link>
+<guid>2cd66850975905744237c6529b6a9af1ec9af3f659558dafd8027b2ac0b0252a</guid>
+<pubDate>Fri, 29 May 2026 02:11:55 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Skip to main content</title>
-<link>https://www.nature.com/articles/s41467-026-73813-7</link>
-<guid>0355c68e6007969167e515df912710f8fa432ae0a810140004fea1d75121a78b</guid>
-<pubDate>Thu, 28 May 2026 23:47:53 GMT</pubDate>
-<description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
+<title>【AI4S】 read more</title>
+<link>https://chat.sakana.ai/</link>
+<guid>562f55b13b9c7872fab83005de2085bcc39c41a0632c9160a77ceeff6213e5da</guid>
+<pubDate>Fri, 29 May 2026 02:11:56 GMT</pubDate>
+<description>Sakana Chat - Chat app powered by Sakana AI</description>
 </item>
 
 </channel>
