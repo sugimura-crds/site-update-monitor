@@ -4,21 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 30 May 2026 18:36:54 GMT</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 20:03:55 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 AI が Windows を自律操作するって本当？ Project Opal (Frontier) を試して分かった「実用的な使いどころ」</title>
+<link>https://qiita.com/carol0226/items/a78a888ce0c4d2364232</link>
+<guid>76f8f06e9e1c0e924ccc68915a7c6520566bbf874f52773709c1d27b38469b29</guid>
+<pubDate>2026-05-31T04:35:58+09:00</pubDate>
+<description>はじめに 最近、AI が人の代わりに業務を実行する「AIエージェント」というコンセプトをよく目にするようになってきました。 そんな中で、くらう道（牛上さん）の記事 Project Opal ― VDIの延長線にAIエージェント基盤があった！ https://www.clo...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/how-google-sres-use-gemini-cli-to-solve-real-world-outages/</link>
-<guid>1535a59a06e0d2a549bb45dc75f9cfe0fb96b663131f122581b5c81b7d436a10</guid>
-<pubDate>Sat, 30 May 2026 18:36:20 GMT</pubDate>
+<link>https://research.google/pubs/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients-2/</link>
+<guid>c4a2a1c474e5fecf4705f00e986f25112b1a3da281457008ff2de3b436184958</guid>
+<pubDate>Sat, 30 May 2026 20:03:10 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73813-7</link>
-<guid>83e49dd0076ed4c83babd71284aac048be17219a2f0e804bf4874a8ec1ae933d</guid>
-<pubDate>Sat, 30 May 2026 18:36:22 GMT</pubDate>
+<guid>754627d5ee7d1012c9b50f98420c599550eff507d3bd4e3a2f751ba36e3fb486</guid>
+<pubDate>Sat, 30 May 2026 20:03:12 GMT</pubDate>
 <description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-49558-0</link>
+<guid>b251b32874896aa4221a75461ebf4e86e733c5dd3d8cf06f85be9c8f482c3971</guid>
+<pubDate>Sat, 30 May 2026 20:03:14 GMT</pubDate>
+<description>Forecasting the stock market is a difficult task because of the volatile price movements and complex temporal dependencies. Established models frequently do not realize these unstable trends, which leads to changeable forecasting. This paper introduces a comfortable AI-driven framework that incorporates a sequence-to-prediction transformer model with LLM-based decision-making for accurate and understandable stock price prediction. The prediction starts with a transformer-enabled deep learning approach, which forecasts closing prices for the NIFTY Consumer Durables index based on multi-head attention mechanisms for trend identification. The predicted results are then provided to two decision-making approaches: Neuro-Symbolic AI and an Advanced AI Agent Architecture, to check for accuracy as well as interpretability in financial forecasting. The NSAI model is focused on predictions that are derived from rule-based reasoning, and thus, it ensures that they are in line with actual market behaviors and risk factors. On the other hand, the design of Advanced AI Agent Architecture aimed at enhancing the quality of decisions by utilizing the LLM-based information, bringing in external fina</description>
 </item>
 
 </channel>
