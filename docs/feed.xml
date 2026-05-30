@@ -4,42 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 30 May 2026 13:04:38 GMT</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 14:51:26 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Kubernetesのリソース管理：request/limitの概念理解</title>
-<link>https://qiita.com/Horiiii/items/a91f53fac4362ad85f21</link>
-<guid>69885805c0f2168ba52e065bd1ec94144c2e660756459a7b4bbb1c283fcb61f4</guid>
-<pubDate>2026-05-30T21:53:01+09:00</pubDate>
-<description>はじめに Kubernetesのリソース管理について、その基本であるrequestとlimitの概念を初めて知ったのでまとめます。 リソース管理が必要な理由 Kubernetesでは、複数のpodが同じnode（サーバ）上で動きます。 もし1つのpodが独占すると他のp...</description>
+<title>【Qiita】 VSCode で Liberty アプリを開発</title>
+<link>https://qiita.com/keniooi/items/006c5b8a0856487b5548</link>
+<guid>9b80c0ae81b44c800ece6cc4eb8c79a61141c700082c9dc7b6bafb197a9d5be6</guid>
+<pubDate>2026-05-30T23:20:33+09:00</pubDate>
+<description>目的 EclipseでこれまでEAR開発やLibertyサーバー管理をしてきましたが、VSCodeを使いたくなり移行をこころみます。 VSCodeの導入 からダウンロードして導入します。 2026/5/26 現在 code-1.121.0-1779186559.e...</description>
 </item>
 <item>
-<title>【Qiita】 Hermes で内部ツールの効率を高める：おすすめのオープンソースプロジェクト 5 選</title>
-<link>https://qiita.com/TianqiYuan/items/4122e9f348b1f3ef2382</link>
-<guid>2f7ca844e32b5e4f0b63889c6ba90726672fe20eb9ff9e5d95d829331faa9d1a</guid>
-<pubDate>2026-05-30T21:46:57+09:00</pubDate>
-<description>オリジナルの公開場所:https://www.nocobase.com/ja/blog/open-source-internal-tools-self-hosted-ai-agent-hermes AI Agent の注目は、もはや開発領域だけにとどまりません。 Claud...</description>
+<title>【Qiita】 Obsidian × Claude スキルで作る個人ナレッジベース</title>
+<link>https://qiita.com/ryoji9702/items/3cb7f2bcfa3ecdfdc4c2</link>
+<guid>d80acf46820fc1a03cb491082ba42185b14c87ba36a46aa8a9643a95ffdce8cc</guid>
+<pubDate>2026-05-30T22:59:44+09:00</pubDate>
+<description>はじめに 個人のナレッジベース（PKM）に Obsidian を使っている人は多いと思います。 筆者の場合、Obsidian Vault を 「Claude スキル群の入出力先」 として再設計してみたら、ナレッジベースが半自動で育つ状態にだいぶ近づきました。 そのとき効い...</description>
+</item>
+<item>
+<title>【Qiita】 Stripe vs x402 — AI エージェント時代の API 課金はどっちを選ぶか【完全比較 2026 年版】</title>
+<link>https://qiita.com/LemonCake/items/cf570dc428b7f093730a</link>
+<guid>e75937675ea97b697acfd1fc9cbd7deba66a0604e88ee7115b02170b8c505f16</guid>
+<pubDate>2026-05-30T23:33:14+09:00</pubDate>
+<description>この記事は AI エージェント向け API の課金方式を選ぶときの判断材料です。x402 実装には @lemon-cake/x402-server を使います。 npm: https://www.npmjs.com/package/@lemon-cake/x402-...</description>
+</item>
+<item>
+<title>【Qiita】 サブエージェントでは！コミュニケーションを定義したい！（ClaudeCodeとOTel計測で実測する！）</title>
+<link>https://qiita.com/wasssse/items/15792cf3737cea7801c5</link>
+<guid>6237891bc62f721965d8cbd8fe147c9546aee7e5d10890382a8f78483e53f0b7</guid>
+<pubDate>2026-05-30T23:09:23+09:00</pubDate>
+<description>サブエージェントでタスクを効率的に進めたい！ ClaudeCode のサブエージェント、便利ですよね！ 最近は Anthropic の公式ブログや ClaudeCode Docs を読む機会が多いのですが、以下リンクを例に、様々なページでサブエージェントの使い方について実...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/snpeek-side-channel-analysis-for-privacy-applications-on-confidential-vms/</link>
-<guid>c09905b79e0b99b946157a0ce2293b1a3ed8b11877452d1cbe3c3a2bffcb0f18</guid>
-<pubDate>Sat, 30 May 2026 13:04:03 GMT</pubDate>
+<link>https://research.google/pubs/visual-planning-lets-think-only-with-images/</link>
+<guid>f60f00603ea3cd56364c267a95c6ced9f3bc62038df1e5c72818372e81ca376d</guid>
+<pubDate>Sat, 30 May 2026 14:50:51 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-73813-7</link>
-<guid>98edf9b4a03597daf425a547b9ddced53e0bc1b51b59c0e3c28301d9d2d26620</guid>
-<pubDate>Sat, 30 May 2026 13:04:06 GMT</pubDate>
-<description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
-</item>
-<item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-49558-0</link>
-<guid>84a5046d1bbd1c6743b0466b2368d8da9377be487582c1b17e66fa36001c6085</guid>
-<pubDate>Sat, 30 May 2026 13:04:08 GMT</pubDate>
-<description>Forecasting the stock market is a difficult task because of the volatile price movements and complex temporal dependencies. Established models frequently do not realize these unstable trends, which leads to changeable forecasting. This paper introduces a comfortable AI-driven framework that incorporates a sequence-to-prediction transformer model with LLM-based decision-making for accurate and understandable stock price prediction. The prediction starts with a transformer-enabled deep learning approach, which forecasts closing prices for the NIFTY Consumer Durables index based on multi-head attention mechanisms for trend identification. The predicted results are then provided to two decision-making approaches: Neuro-Symbolic AI and an Advanced AI Agent Architecture, to check for accuracy as well as interpretability in financial forecasting. The NSAI model is focused on predictions that are derived from rule-based reasoning, and thus, it ensures that they are in line with actual market behaviors and risk factors. On the other hand, the design of Advanced AI Agent Architecture aimed at enhancing the quality of decisions by utilizing the LLM-based information, bringing in external fina</description>
+<link>https://www.nature.com/articles/s41591-026-04403-9</link>
+<guid>259680c7db727608a63f95bffec6b3446afefb7c56644793c5e72619009e8551</guid>
+<pubDate>Sat, 30 May 2026 14:50:59 GMT</pubDate>
+<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
 </item>
 
 </channel>
