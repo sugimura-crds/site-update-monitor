@@ -4,20 +4,34 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 31 May 2026 11:28:08 GMT</lastBuildDate>
+<lastBuildDate>Sun, 31 May 2026 12:56:41 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントが壊しにくい開発をするためのハーネス設計</title>
-<link>https://qiita.com/hoge_kawamuro/items/b810f32a2f5d67ed9037</link>
-<guid>45ea746a346404ce8e0595d9cd02776864affab3e9478a22b5663fdd916bb626</guid>
-<pubDate>2026-05-31T19:50:50+09:00</pubDate>
-<description>はじめに きっかけは、ある先輩エンジニアが作ったリポジトリでした。 中をのぞいたとき、率直に「これすごいな」と唸ったんです。AIエージェントが暴走しそうな箇所がことごとく塞がれていて、しかも開発者が窮屈に感じない絶妙な設計でした。 自分で作ったわけではないので最初は「真似...</description>
+<title>【Qiita】 フィクションからノンフィクションへ — AI Research Assistant が「計算する」ようになった日</title>
+<link>https://qiita.com/hisaho/items/cb2debe43e85d65a6095</link>
+<guid>81ac011ee9c6d111c17324915362a5ea1fd72c58359d30a6423d2fa5cd32fe95</guid>
+<pubDate>2026-05-31T20:47:04+09:00</pubDate>
+<description>同じ CRISPR off-target 予測テーマで、AI Research Assistant に実験レポートを書かせました。 Jupyter なし: AUROC = 0.9499 ± 0.0054 Jupyter あり: AUROC = 0.8316 この差は性...</description>
+</item>
+<item>
+<title>【Qiita】 API first for AI Era の本質</title>
+<link>https://qiita.com/satoru_higuchi/items/aa6d0ca2721e3c9eefc7</link>
+<guid>4ed9ce65378c2934e643a9b27192caed44e33984b72af3426562a97ef37ded5f</guid>
+<pubDate>2026-05-31T20:59:35+09:00</pubDate>
+<description>結論：API first for AI Era の本質 API first for AI Era = 人間向けSaaSの裏側にAPIを足すことではありません。 エネがえる文脈では、こう定義すべきです。 AIエージェント、顧客システム、BPO担当、営業担当、保証・監査担当...</description>
+</item>
+<item>
+<title>【Qiita】 【Claude Codeで会社を回す #1】Claudeへの相談を9体に増やしたら、意思決定が急にマシになった</title>
+<link>https://qiita.com/noracorn92/items/cd34eff00fbcd86f6882</link>
+<guid>8e80443efc37ace46a379e2c48a34b994ea38ca20f5d9839f2bfa5d0bd069e77</guid>
+<pubDate>2026-05-31T20:56:00+09:00</pubDate>
+<description>連載『Claude Codeで会社を回す』#1 ── 一人会社が Claude Code で回す AI役員チームの実録。人間（@noracorn）がレビューして公開しています。 AIに相談すると、いつも「それっぽい優等生の答え」が返ってくる 一人で会社をやっていると、...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/conditional-execution-of-compiler-passes-based-on-per-script-feature-detection/</link>
-<guid>929a0273b6c301e0cf7553851167fe6d09cb8aa2562fda3cd574bc9efd2abfb6</guid>
-<pubDate>Sun, 31 May 2026 11:27:32 GMT</pubDate>
+<link>https://research.google/pubs/a-probabilistic-framework-for-learning-nonintrusive-corrections-to-longtime-climate-simulations-from-shorttime-training-data/</link>
+<guid>41dad5039e5cc6c5d2b1f456b03e846effaca68552983c880853e165f6189421</guid>
+<pubDate>Sun, 31 May 2026 12:56:08 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 
