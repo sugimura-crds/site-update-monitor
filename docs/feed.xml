@@ -4,34 +4,34 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 31 May 2026 22:51:07 GMT</lastBuildDate>
+<lastBuildDate>Sun, 31 May 2026 23:58:15 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 プロフェッショナルTLS＆PKI (Bulletproof TLS and PKI) 改題第2版を読む⑦ 第1章-7 能動的な攻撃例</title>
-<link>https://qiita.com/gomAnomalocaris/items/0d84f34b3c69fe4f1d4d</link>
-<guid>3f72d1f70288c11beffa04609d09b4f4f28d17e57f1b2b412012e3ee796686bd</guid>
-<pubDate>2026-06-01T07:38:24+09:00</pubDate>
-<description>前記事は受動的な攻撃についてでした、こちらでは能動的な攻撃例の解説を独自に図式化も加えてまとめてみます。 能動的な攻撃例 能動的な攻撃、の典型例はマロリーが何らかの形でアリスとボブの通信を乗っ取ること。アリスはボブにデータを送信している、ボブはアリスからデータを受信して...</description>
+<title>【Qiita】 IBM Bob Shell の Sandbox とは？ — 概要・使い方・カスタマイズ</title>
+<link>https://qiita.com/c_u/items/52e343822f4b389eedcd</link>
+<guid>8e56ef8a76597d63fc7c8a57603c3dce802877a3266a74e031844690e6cad1d2</guid>
+<pubDate>2026-06-01T08:04:35+09:00</pubDate>
+<description>はじめに AI コーディングエージェントをターミナルから使うときの不安は「勝手にコマンドを実行されてホスト(PC)環境を壊されないか」です。 IBM の Bob Shell（bobshell） には、この不安を解消する Sandbox（サンドボックス） 機能が用意されてい...</description>
 </item>
 <item>
-<title>【Qiita】 MCP Appsの基本構造：Resources・Prompts・Toolsの役割分担からマルチエージェント、Smitheryへの展望</title>
-<link>https://qiita.com/jjking/items/4c0825aad6fdd1a84a80</link>
-<guid>f74c7409c9b0848676653a8aa01f072ff15658053aa860311b9be1f80b4f0483</guid>
-<pubDate>2026-06-01T07:43:26+09:00</pubDate>
-<description>LLM外部連携における「密結合」の限界とMCPの登場 現在のLLMアプリケーション開発において、外部データや既存システムとの連携は避けて通れません。しかし、これまでの開発手法では、特定のLLMやAPIに依存した「個別最適化された密結合なシステム」になりがちでした。クライア...</description>
+<title>【Qiita】 さらばAIスクラムチーム</title>
+<link>https://qiita.com/shyamagu/items/ee8630f496b096f9a968</link>
+<guid>46cb0ec1ca36e9e8fae95e382740468e03bf391c69f05ff0a71a999b0d08c360</guid>
+<pubDate>2026-06-01T08:18:31+09:00</pubDate>
+<description>AIスクラムチームのこれまでの軌跡 これまで10本のAIスクラムチームの記事を書いてきました。諸般の事情で途中からZennに投稿していたのですが、Qiitaから始まったAIスクラムチームはQiitaで終わらせようと思い、最終回としてこちらに投稿します。 これまでのAIスク...</description>
 </item>
 <item>
-<title>【Qiita】 Codex - AIエージェント時代のソフトウェア設計 ~ コード生成と変換</title>
-<link>https://qiita.com/mellowlaunch/items/1ba4900d8695180d6678</link>
-<guid>2599c1dd9569de4ff62f9daf930b75201e763d03810b729db4298e5d64b1155d</guid>
-<pubDate>2026-06-01T06:58:08+09:00</pubDate>
-<description>📚 関連書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は 書籍の中でまとめているので、気になる方はそちらもどうぞ。 「ゼロから触ってわかった！Codex - AIエージェント時代のソフトウェア設計」 本書は、AIエージ...</description>
+<title>【Qiita】 【Claude Codeで会社を回す #2】Claudeのペルソナは口調より「判断軸とタブー」で決まる</title>
+<link>https://qiita.com/noracorn92/items/7acf5d06073e17cb121f</link>
+<guid>5abfd3ee8351585a960696a5766132731583c820292703ca94827b3fb948a0c7</guid>
+<pubDate>2026-06-01T08:13:24+09:00</pubDate>
+<description>連載『Claude Codeで会社を回す』#2 ── 一人会社が Claude Code で回す AI役員チームの実録。人間（@noracorn）がレビューして公開しています。 前回（#1）、Claude に経営判断を相談するのに「1体に全部聞く」のをやめて、役職を持っ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/what-happens-when-technical-debt-vanishes/</link>
-<guid>34097d6e0cc2d0838b1cafb7de00ff3ba6c5f52bd8dfc8e54776f0db4d53b434</guid>
-<pubDate>Sun, 31 May 2026 22:50:32 GMT</pubDate>
+<link>https://research.google/pubs/how-google-sres-use-gemini-cli-to-solve-real-world-outages/</link>
+<guid>1b0da814b8b9d4a358df09f803a3f234b33d53178d47b64d12a7b44feda854ac</guid>
+<pubDate>Sun, 31 May 2026 23:57:45 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 
