@@ -4,34 +4,90 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 31 May 2026 23:58:15 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Jun 2026 03:44:09 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Bob Shell の Sandbox とは？ — 概要・使い方・カスタマイズ</title>
-<link>https://qiita.com/c_u/items/52e343822f4b389eedcd</link>
-<guid>8e56ef8a76597d63fc7c8a57603c3dce802877a3266a74e031844690e6cad1d2</guid>
-<pubDate>2026-06-01T08:04:35+09:00</pubDate>
-<description>はじめに AI コーディングエージェントをターミナルから使うときの不安は「勝手にコマンドを実行されてホスト(PC)環境を壊されないか」です。 IBM の Bob Shell（bobshell） には、この不安を解消する Sandbox（サンドボックス） 機能が用意されてい...</description>
+<title>【Qiita】 インターネットからPowerVSへのインバウンド通信をマネージドサービスのみで実現する</title>
+<link>https://qiita.com/y_tama/items/750071cf7777ce8c4865</link>
+<guid>e649691054b4e3a2b4aef257489004c324658b6d780724d8fb88486d2f2ad68b</guid>
+<pubDate>2026-06-01T11:09:57+09:00</pubDate>
+<description>当記事の内容の前提として、下記を構成してください。 https://qiita.com/y_tama/items/2b724587e4bdb670db1e 上記記事ではPowerVSからインターネットへのアウトバウンドを構成しました。 当記事ではインターネットからP...</description>
 </item>
 <item>
-<title>【Qiita】 さらばAIスクラムチーム</title>
-<link>https://qiita.com/shyamagu/items/ee8630f496b096f9a968</link>
-<guid>46cb0ec1ca36e9e8fae95e382740468e03bf391c69f05ff0a71a999b0d08c360</guid>
-<pubDate>2026-06-01T08:18:31+09:00</pubDate>
-<description>AIスクラムチームのこれまでの軌跡 これまで10本のAIスクラムチームの記事を書いてきました。諸般の事情で途中からZennに投稿していたのですが、Qiitaから始まったAIスクラムチームはQiitaで終わらせようと思い、最終回としてこちらに投稿します。 これまでのAIスク...</description>
+<title>【Qiita】 watsonx Orchestrateで利用可能な新たなSkillsを試してみる</title>
+<link>https://qiita.com/haseshin/items/4ca3a6722fa7aba4fb5d</link>
+<guid>a5d353bfbcef0766d5af2f21c3b69925670e0c8c844e4eeca8df4826f1b06de0</guid>
+<pubDate>2026-06-01T11:02:21+09:00</pubDate>
+<description>新たに2つのSkillsが提供されました！ watsonx Orchestrateはこれまでも開発エージェントで利用可能なSkillsを提供していましたが、今回新たに以下の2つのSkillsが提供されました。 solution-architect wxo-analyze...</description>
 </item>
 <item>
-<title>【Qiita】 【Claude Codeで会社を回す #2】Claudeのペルソナは口調より「判断軸とタブー」で決まる</title>
-<link>https://qiita.com/noracorn92/items/7acf5d06073e17cb121f</link>
-<guid>5abfd3ee8351585a960696a5766132731583c820292703ca94827b3fb948a0c7</guid>
-<pubDate>2026-06-01T08:13:24+09:00</pubDate>
-<description>連載『Claude Codeで会社を回す』#2 ── 一人会社が Claude Code で回す AI役員チームの実録。人間（@noracorn）がレビューして公開しています。 前回（#1）、Claude に経営判断を相談するのに「1体に全部聞く」のをやめて、役職を持っ...</description>
+<title>【Qiita】 watsonx Orchestrate SDKのChat ModelsとMemoryを試してみる</title>
+<link>https://qiita.com/haseshin/items/df8c764ba2c7b3f1799d</link>
+<guid>8f4ef9a157f497a082ca96d97c521e6fabe42266e6d5d5028649733357a569c3</guid>
+<pubDate>2026-06-01T10:24:13+09:00</pubDate>
+<description>IBM watsonx Orchestrate SDKとは？ watsonx OrchestrateはIBMの提供するAIエージェントの構築、運用のための基盤ですが、2026年5月に行われたIBMThinkというイベントにて、外部のエージェントを含めたAIエージェントのコ...</description>
+</item>
+<item>
+<title>【Qiita】 PowerVSからインターネットへのアウトバウンド通信をマネージドサービスのみで実現する</title>
+<link>https://qiita.com/y_tama/items/2b724587e4bdb670db1e</link>
+<guid>19d42c4ee0131dce9bda6262eae53b605806cf42d1bcd74cb407747b8a71055f</guid>
+<pubDate>2026-06-01T10:21:52+09:00</pubDate>
+<description>はじめに PowerVSをインターネットと通信させたい場合、まず思いつくのはデフォルトで使えるexternal IPですが、これはPowerVS側でサービス共通のFirewallが設定されており、インバウンド通信でこれ以外のポートを許可したり接続元IPアドレスを絞ることが...</description>
+</item>
+<item>
+<title>【Qiita】 【AI × AWS】aws login 超入門 ─ AIにAWSを任せる前に知っておきたい認証の話</title>
+<link>https://qiita.com/imamu123/items/910c463ebedd15057ebf</link>
+<guid>4c1c4bd9f506605d919f1408bdc9cf28d8258c74995a8df39038807a8766389a</guid>
+<pubDate>2026-06-01T09:25:40+09:00</pubDate>
+<description>🤖 【AI × AWS】aws login 超入門 ─ AIにAWSを任せる前に知っておきたい認証の話 最近では、Claude Code をはじめとしたAIエージェントにCLI操作を任せる場面が増えてきました。 便利な一方で、AWSのような「実行＝即お金や本番環境に直結」...</description>
+</item>
+<item>
+<title>【Qiita】 Karpathy 流 LLM Wiki を Claude Cowork + Obsidian で作る</title>
+<link>https://qiita.com/ryoji9702/items/62d1c31c4da4e61a469f</link>
+<guid>1f6b330f35c8e8e1adb4ab300f5bcc3cc7650b7b341117d92d56b735c0f86f3f</guid>
+<pubDate>2026-06-01T09:24:11+09:00</pubDate>
+<description>1. はじめに — Karpathy が示した「自分のための百科事典」 2026 年 4 月 3 日、Andrej Karpathy が X で約 1,500 語の Gist を公開しました。タイトルは &quot;How I use LLMs to build my person...</description>
+</item>
+<item>
+<title>【Qiita】 Pythonを書かずにデータ分析：GitHub Copilot + Jupyter MCPで始める自然言語データサイエンス</title>
+<link>https://qiita.com/hisaho/items/6b900da838ef32d9cc59</link>
+<guid>095c0c5e5225292275307fada5c15503487c76dd63cc2cac10e3c9038ae6de9d</guid>
+<pubDate>2026-06-01T11:27:05+09:00</pubDate>
+<description>はじめに 「AI for Science に取り組みたい。でも、プログラミングが書けない。」 大学で研究をしていると、データ分析の必要性に迫られる場面は数多くあります。実験データの可視化、統計解析、機械学習モデルの構築——これらはすべて、現代の研究において不可欠なスキルで...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code に自宅サーバーの“自己修復”を任せたら、55 体の AI が最大の脆弱性を見つけて「これは直さない」と返してきた話</title>
+<link>https://qiita.com/architectJapan/items/a8d4b2aee41b4ea63c3d</link>
+<guid>53f7a19b591ceac3da31086491e24d34a56a17b9afec2eac78f8ea39e1b5599f</guid>
+<pubDate>2026-06-01T12:15:10+09:00</pubDate>
+<description>⚠️ 本記事の前提: 私は建築士で、建設業界の人間です。コードはほぼ書けません。武器は Claude Code Max プランと、自宅に置いた AI サーバー 1 台だけ。その構成で公共工事の入札 SaaS newsatsu.jp を作っている話の続編です。前回までの記事...</description>
+</item>
+<item>
+<title>【Qiita】 MCPで永続記憶サーバーを作る：最小実装と落とし穴チェックリスト</title>
+<link>https://qiita.com/agentmemories/items/25508352b6a5c11dd273</link>
+<guid>b9f5572c31e9ca616cbf92fe84bfb72406263a868ef3d234e0fa3527ad68f1cb</guid>
+<pubDate>2026-06-01T11:10:02+09:00</pubDate>
+<description>AIエージェントに永続記憶を持たせたい。しかもモデルを乗り換えても記憶は残したい。これを実現する具体策が、記憶をMCP（Model Context Protocol）サーバーとして外に出すことです。記憶がモデルから独立するので、MCP対応クライアントなら別のモデルからでも同...</description>
+</item>
+<item>
+<title>【Qiita】 エージェントだけでは足りない ── 次のボトルネックは「人間のフレームワーク」</title>
+<link>https://qiita.com/dosanko_tousan/items/c10c20909614bc91bfb0</link>
+<guid>2822b58334edf97f84132d9f6a0162404a185a4829535e7fe899bc186cbc626e</guid>
+<pubDate>2026-06-01T09:36:57+09:00</pubDate>
+<description>エージェントだけでは足りない ── 次のボトルネックは「人間のフレームワーク」 AIが賢くなるほど、限界を決めるのはモデルの知能ではなく、その周りに人間が組む記憶・手順・関門・判断の構造になる。 筆者はソフトウェア・エンジニアではない。札幌の専業主夫で、独立のAIアラ...</description>
+</item>
+<item>
+<title>【Qiita】 2026/06/01 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/146de787ae179f984bcd</link>
+<guid>7c0988e3c4e68df8ea2c76c5cee92764cf5f164bf99855e72df6bdc341357e75</guid>
+<pubDate>2026-06-01T09:35:31+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 これを読めば分かるClaude Code 完全...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/how-google-sres-use-gemini-cli-to-solve-real-world-outages/</link>
-<guid>1b0da814b8b9d4a358df09f803a3f234b33d53178d47b64d12a7b44feda854ac</guid>
-<pubDate>Sun, 31 May 2026 23:57:45 GMT</pubDate>
+<link>https://research.google/pubs/gaze-target-estimation-anywhere-with-concepts/</link>
+<guid>0bf75c1364bdc435fc00af465e2a0cd8db9a7733bfac24586d5c4fd533643c2b</guid>
+<pubDate>Mon, 01 Jun 2026 03:43:37 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 
