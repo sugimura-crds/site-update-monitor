@@ -4,91 +4,112 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 01 Jun 2026 03:44:09 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Jun 2026 09:13:35 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 インターネットからPowerVSへのインバウンド通信をマネージドサービスのみで実現する</title>
-<link>https://qiita.com/y_tama/items/750071cf7777ce8c4865</link>
-<guid>e649691054b4e3a2b4aef257489004c324658b6d780724d8fb88486d2f2ad68b</guid>
-<pubDate>2026-06-01T11:09:57+09:00</pubDate>
-<description>当記事の内容の前提として、下記を構成してください。 https://qiita.com/y_tama/items/2b724587e4bdb670db1e 上記記事ではPowerVSからインターネットへのアウトバウンドを構成しました。 当記事ではインターネットからP...</description>
+<title>【Qiita】 「CPU？メモリ？SSD？」PCが重い時、何を疑えばいいのか整理してみる</title>
+<link>https://qiita.com/prum_hitomi/items/8703b051c3b8519996d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>4fd91b27758747a525dadd1489ecea86523b05a2cc4932325232cff27301701a</guid>
+<pubDate>2026-06-01T12:59:53+09:00</pubDate>
+<description>はじめまして。株式会社PRUMでエンジニアをしているひとみです。 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、 仕事で起きやすい“ズレ”について整理して発信しています。 誰かの助けになれば幸いです。 「CPU？メモリ？SSD？」PCが重い時、何を疑えば...</description>
 </item>
 <item>
-<title>【Qiita】 watsonx Orchestrateで利用可能な新たなSkillsを試してみる</title>
-<link>https://qiita.com/haseshin/items/4ca3a6722fa7aba4fb5d</link>
-<guid>a5d353bfbcef0766d5af2f21c3b69925670e0c8c844e4eeca8df4826f1b06de0</guid>
-<pubDate>2026-06-01T11:02:21+09:00</pubDate>
-<description>新たに2つのSkillsが提供されました！ watsonx Orchestrateはこれまでも開発エージェントで利用可能なSkillsを提供していましたが、今回新たに以下の2つのSkillsが提供されました。 solution-architect wxo-analyze...</description>
+<title>【Qiita】 Claude Code Action と Copilot レビューで GitHub Actions の失敗を自己修復するパイプラインを作った話</title>
+<link>https://qiita.com/jqit-yukiono/items/04b86ec7601e055c6fe8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>be311599a44688957f3675e9dec5ccd17e7f98f8fbc131afaa77242628f7b5d4</guid>
+<pubDate>2026-06-01T11:36:12+09:00</pubDate>
+<description>Claude Code Action と Copilot レビューで GitHub Actions の失敗を自己修復するパイプラインを作った話 OSS の上流を追いかけながら日本語化したフォークを、できれば人手をかけずに継続リリースしたいですよね。とはいえメンテに張り付く...</description>
 </item>
 <item>
-<title>【Qiita】 watsonx Orchestrate SDKのChat ModelsとMemoryを試してみる</title>
-<link>https://qiita.com/haseshin/items/df8c764ba2c7b3f1799d</link>
-<guid>8f4ef9a157f497a082ca96d97c521e6fabe42266e6d5d5028649733357a569c3</guid>
-<pubDate>2026-06-01T10:24:13+09:00</pubDate>
-<description>IBM watsonx Orchestrate SDKとは？ watsonx OrchestrateはIBMの提供するAIエージェントの構築、運用のための基盤ですが、2026年5月に行われたIBMThinkというイベントにて、外部のエージェントを含めたAIエージェントのコ...</description>
+<title>【Qiita】 Enable inbound traffic from the Internet to PowerVS using managed services only</title>
+<link>https://qiita.com/y_tama/items/67c13b30623b9be6b8f2</link>
+<guid>0b24578f48fcb12fef8ee7f6e0de1aa632edcc40e0f4febe12126d77d8a4e357</guid>
+<pubDate>2026-06-01T18:10:27+09:00</pubDate>
+<description>To start with this post, please set up the configuration on this. In the article above, we configured outbound traffic from PowerVS t...</description>
 </item>
 <item>
-<title>【Qiita】 PowerVSからインターネットへのアウトバウンド通信をマネージドサービスのみで実現する</title>
-<link>https://qiita.com/y_tama/items/2b724587e4bdb670db1e</link>
-<guid>19d42c4ee0131dce9bda6262eae53b605806cf42d1bcd74cb407747b8a71055f</guid>
-<pubDate>2026-06-01T10:21:52+09:00</pubDate>
-<description>はじめに PowerVSをインターネットと通信させたい場合、まず思いつくのはデフォルトで使えるexternal IPですが、これはPowerVS側でサービス共通のFirewallが設定されており、インバウンド通信でこれ以外のポートを許可したり接続元IPアドレスを絞ることが...</description>
+<title>【Qiita】 Enable outbound communication from PowerVS to the Internet using only managed services</title>
+<link>https://qiita.com/y_tama/items/fe6081ec14d7d0fd4d5d</link>
+<guid>50bbd06d59d533b6bb859e6bc26ba9e099cbab1134e0814d714e8f25bda6547b</guid>
+<pubDate>2026-06-01T17:00:40+09:00</pubDate>
+<description>Introduction If we want to connect PowerVS to the internet, the first thing that comes to mind is using the default external IP address....</description>
 </item>
 <item>
-<title>【Qiita】 【AI × AWS】aws login 超入門 ─ AIにAWSを任せる前に知っておきたい認証の話</title>
-<link>https://qiita.com/imamu123/items/910c463ebedd15057ebf</link>
-<guid>4c1c4bd9f506605d919f1408bdc9cf28d8258c74995a8df39038807a8766389a</guid>
-<pubDate>2026-06-01T09:25:40+09:00</pubDate>
-<description>🤖 【AI × AWS】aws login 超入門 ─ AIにAWSを任せる前に知っておきたい認証の話 最近では、Claude Code をはじめとしたAIエージェントにCLI操作を任せる場面が増えてきました。 便利な一方で、AWSのような「実行＝即お金や本番環境に直結」...</description>
+<title>【Qiita】 Linux コマンド中級編 — find / grep・awk・sed / ジョブ管理</title>
+<link>https://qiita.com/K_TAKETO/items/5674ef42d594efa68b34</link>
+<guid>22de6d242c550d61d1340da356b6e499db59018d0f9935673b88b6ef1fd33e19</guid>
+<pubDate>2026-06-01T17:21:24+09:00</pubDate>
+<description>Linux コマンド中級編 — find / grep・awk・sed / ジョブ管理 対象読者: ls cd cat などの基本コマンドは使えるが、もう一段階上のCLI操作を身につけたい方 動作確認環境: Ubuntu 22.04 / bash 5.1 はじ...</description>
 </item>
 <item>
-<title>【Qiita】 Karpathy 流 LLM Wiki を Claude Cowork + Obsidian で作る</title>
-<link>https://qiita.com/ryoji9702/items/62d1c31c4da4e61a469f</link>
-<guid>1f6b330f35c8e8e1adb4ab300f5bcc3cc7650b7b341117d92d56b735c0f86f3f</guid>
-<pubDate>2026-06-01T09:24:11+09:00</pubDate>
-<description>1. はじめに — Karpathy が示した「自分のための百科事典」 2026 年 4 月 3 日、Andrej Karpathy が X で約 1,500 語の Gist を公開しました。タイトルは &quot;How I use LLMs to build my person...</description>
+<title>【Qiita】 Azure で AI Ready Data を整備する 3 つの方法</title>
+<link>https://qiita.com/ayumito/items/283b28c2dad78a8aec53</link>
+<guid>ba1ff90cb89217e9910923bccdb48faf8ae8163e7160c0b08579adc7fe6164f1</guid>
+<pubDate>2026-06-01T14:33:11+09:00</pubDate>
+<description>やりたいこと 社内に散らばっているドキュメント（SharePoint、ファイルサーバー、業務 DB 等）を AI が読めるようにして、社員が質問したら的確に答えてくれる仕組みを作りたい。 この仕組みを実現するには 2 つのステップ が必要です： ステップ やること ...</description>
 </item>
 <item>
-<title>【Qiita】 Pythonを書かずにデータ分析：GitHub Copilot + Jupyter MCPで始める自然言語データサイエンス</title>
-<link>https://qiita.com/hisaho/items/6b900da838ef32d9cc59</link>
-<guid>095c0c5e5225292275307fada5c15503487c76dd63cc2cac10e3c9038ae6de9d</guid>
-<pubDate>2026-06-01T11:27:05+09:00</pubDate>
-<description>はじめに 「AI for Science に取り組みたい。でも、プログラミングが書けない。」 大学で研究をしていると、データ分析の必要性に迫られる場面は数多くあります。実験データの可視化、統計解析、機械学習モデルの構築——これらはすべて、現代の研究において不可欠なスキルで...</description>
+<title>【Qiita】 Azure Update 2026年5月まとめ</title>
+<link>https://qiita.com/ManabuYamamoto/items/51993192f0793d0fa771</link>
+<guid>bd57b9a8cb8e5c2ce774da88cba60242c6600b91a960e8b6fefa198a607ee7cd</guid>
+<pubDate>2026-06-01T13:01:13+09:00</pubDate>
+<description>本記事は GitHub Copilot および Microsoft Foundry を活用して作成されています。内容の正確性については各公式ドキュメントをご確認ください。 概要 2026年5月は、Networking、Storage、Integration を中心に ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code に自宅サーバーの“自己修復”を任せたら、55 体の AI が最大の脆弱性を見つけて「これは直さない」と返してきた話</title>
-<link>https://qiita.com/architectJapan/items/a8d4b2aee41b4ea63c3d</link>
-<guid>53f7a19b591ceac3da31086491e24d34a56a17b9afec2eac78f8ea39e1b5599f</guid>
-<pubDate>2026-06-01T12:15:10+09:00</pubDate>
-<description>⚠️ 本記事の前提: 私は建築士で、建設業界の人間です。コードはほぼ書けません。武器は Claude Code Max プランと、自宅に置いた AI サーバー 1 台だけ。その構成で公共工事の入札 SaaS newsatsu.jp を作っている話の続編です。前回までの記事...</description>
+<title>【Qiita】 Inside Modern Workflow Automation Software: Orchestration, Data Layers, and AI Agents</title>
+<link>https://qiita.com/lbm_solutions/items/068d267a2479a624bbc4</link>
+<guid>6bfcc5b402495cd0cb6e44ec0719888231db59d52fb2df1e69df24d25651400c</guid>
+<pubDate>2026-06-01T16:47:44+09:00</pubDate>
+<description>Most AI automation projects fail at the seams. Individual agents work. Individual integrations work. But when multiple agents need to sh...</description>
 </item>
 <item>
-<title>【Qiita】 MCPで永続記憶サーバーを作る：最小実装と落とし穴チェックリスト</title>
-<link>https://qiita.com/agentmemories/items/25508352b6a5c11dd273</link>
-<guid>b9f5572c31e9ca616cbf92fe84bfb72406263a868ef3d234e0fa3527ad68f1cb</guid>
-<pubDate>2026-06-01T11:10:02+09:00</pubDate>
-<description>AIエージェントに永続記憶を持たせたい。しかもモデルを乗り換えても記憶は残したい。これを実現する具体策が、記憶をMCP（Model Context Protocol）サーバーとして外に出すことです。記憶がモデルから独立するので、MCP対応クライアントなら別のモデルからでも同...</description>
+<title>【Qiita】 Claude Code Dynamic Workflows を技術的に整理する</title>
+<link>https://qiita.com/OctoPool/items/da04f57a1d33d61153b1</link>
+<guid>9bea485a8a5a281029c2cf8c9a43e1200c0ec575754845c4bace7f3e61563c2f</guid>
+<pubDate>2026-06-01T15:05:02+09:00</pubDate>
+<description>この記事でわかること Dynamic Workflows がどういう仕組みで動くか 何が得意で、何が苦手か（コスト面含む） 使いはじめるときの注意点 前提・環境 対象: Claude Code（CLI / Desktop / VS Code拡張） 必要プラン: M...</description>
 </item>
 <item>
-<title>【Qiita】 エージェントだけでは足りない ── 次のボトルネックは「人間のフレームワーク」</title>
-<link>https://qiita.com/dosanko_tousan/items/c10c20909614bc91bfb0</link>
-<guid>2822b58334edf97f84132d9f6a0162404a185a4829535e7fe899bc186cbc626e</guid>
-<pubDate>2026-06-01T09:36:57+09:00</pubDate>
-<description>エージェントだけでは足りない ── 次のボトルネックは「人間のフレームワーク」 AIが賢くなるほど、限界を決めるのはモデルの知能ではなく、その周りに人間が組む記憶・手順・関門・判断の構造になる。 筆者はソフトウェア・エンジニアではない。札幌の専業主夫で、独立のAIアラ...</description>
+<title>【Qiita】 Codexで画像からVoxelアートを生成するパイプラインを作ってみた</title>
+<link>https://qiita.com/Tks_Yoshinaga/items/0a8545de9f3d68d310a1</link>
+<guid>0827a7eb6a49fb5db5e0851808629fc70a49fa355c7391c578dfc8af06225ee2</guid>
+<pubDate>2026-06-01T13:49:11+09:00</pubDate>
+<description>昨今、CodexやClaude CodeのようなAIエージェントツールが非常に話題になっています。私自身も使うことはありますが、まだコーディングのサポート用途が中心で、もう少し色々な使い方を試してみたいと思っていました。 そこで、基本的な考え方を一から学ぼうと思い、Clau...</description>
 </item>
 <item>
-<title>【Qiita】 2026/06/01 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/146de787ae179f984bcd</link>
-<guid>7c0988e3c4e68df8ea2c76c5cee92764cf5f164bf99855e72df6bdc341357e75</guid>
-<pubDate>2026-06-01T09:35:31+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 これを読めば分かるClaude Code 完全...</description>
+<title>【Qiita】 Strands Agents を Databricks の基盤モデル + MLflow Tracing で動かす(stream_options のハマりどころつき)</title>
+<link>https://qiita.com/taka_yayoi/items/aeca263a6ce6cfdcc3a6</link>
+<guid>02eab5e4afb157be2f927b418e44157f793538f49134a7156416cd759630a32b</guid>
+<pubDate>2026-06-01T13:22:15+09:00</pubDate>
+<description>Strands Agents SDK とは Strands Agents SDK は、AWS が公開しているオープンソースのAIエージェント構築用SDKです (GitHub: strands-agents/sdk-python)。外部のツールやAPIを呼び出しながら自律的...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/gaze-target-estimation-anywhere-with-concepts/</link>
-<guid>0bf75c1364bdc435fc00af465e2a0cd8db9a7733bfac24586d5c4fd533643c2b</guid>
-<pubDate>Mon, 01 Jun 2026 03:43:37 GMT</pubDate>
+<link>https://research.google/pubs/reasoning-driven-synthetic-data-generation-and-evaluation/</link>
+<guid>86c358d4cdd056ba769de0744ed311d85480305ef62da8b458a81a095be21828</guid>
+<pubDate>Mon, 01 Jun 2026 09:12:58 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-73813-7</link>
+<guid>bda10ab78d470facb2805347cddf21c21e6b74eb016226cc0bb93bba5ab06591</guid>
+<pubDate>Mon, 01 Jun 2026 09:13:01 GMT</pubDate>
+<description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-49558-0</link>
+<guid>e88c43b71b10f1dcdc5ace9f668b05ad3c3518c324757eff89635c65bee155d2</guid>
+<pubDate>Mon, 01 Jun 2026 09:13:03 GMT</pubDate>
+<description>Forecasting the stock market is a difficult task because of the volatile price movements and complex temporal dependencies. Established models frequently do not realize these unstable trends, which leads to changeable forecasting. This paper introduces a comfortable AI-driven framework that incorporates a sequence-to-prediction transformer model with LLM-based decision-making for accurate and understandable stock price prediction. The prediction starts with a transformer-enabled deep learning approach, which forecasts closing prices for the NIFTY Consumer Durables index based on multi-head attention mechanisms for trend identification. The predicted results are then provided to two decision-making approaches: Neuro-Symbolic AI and an Advanced AI Agent Architecture, to check for accuracy as well as interpretability in financial forecasting. The NSAI model is focused on predictions that are derived from rule-based reasoning, and thus, it ensures that they are in line with actual market behaviors and risk factors. On the other hand, the design of Advanced AI Agent Architecture aimed at enhancing the quality of decisions by utilizing the LLM-based information, bringing in external fina</description>
+</item>
+<item>
+<title>【UK】 Featured</title>
+<link>https://www.linkedin.com/company/scitechgovuk</link>
+<guid>9fada0a6513444f12c91d912708d6ef7ca70c8e60088f11a6bb13a270f5e39a8</guid>
+<pubDate>Mon, 01 Jun 2026 09:13:12 GMT</pubDate>
+<description>Department for Science, Innovation and Technology | 265,473 followers on LinkedIn. Positioning the UK at the forefront of global scientific and technological advancement. | Follow this profile to stay up-to-date with our mission: improving people&amp;#39;s lives by maximising the potential of science &amp;amp; technology.</description>
 </item>
 
 </channel>
