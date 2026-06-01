@@ -4,112 +4,91 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 01 Jun 2026 09:13:35 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Jun 2026 15:42:43 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「CPU？メモリ？SSD？」PCが重い時、何を疑えばいいのか整理してみる</title>
-<link>https://qiita.com/prum_hitomi/items/8703b051c3b8519996d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>4fd91b27758747a525dadd1489ecea86523b05a2cc4932325232cff27301701a</guid>
-<pubDate>2026-06-01T12:59:53+09:00</pubDate>
-<description>はじめまして。株式会社PRUMでエンジニアをしているひとみです。 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、 仕事で起きやすい“ズレ”について整理して発信しています。 誰かの助けになれば幸いです。 「CPU？メモリ？SSD？」PCが重い時、何を疑えば...</description>
+<title>【Qiita】 VS Code で .git が見えない？ Explorer に表示する最短手順</title>
+<link>https://qiita.com/aktsmm/items/440f0f0a485134323565</link>
+<guid>6bad425ac78e88ed8cf593193b05f70bfe31a279710d531f4646e5e33fc19eb2</guid>
+<pubDate>2026-06-01T23:36:03+09:00</pubDate>
+<description>こんにちは、「これ地味に不便だなー」と思っていた設定を 1 つ直したアーキテクトのやまぱん！です 😊 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ TL;DR VS Code では files.exclude によっ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code Action と Copilot レビューで GitHub Actions の失敗を自己修復するパイプラインを作った話</title>
-<link>https://qiita.com/jqit-yukiono/items/04b86ec7601e055c6fe8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>be311599a44688957f3675e9dec5ccd17e7f98f8fbc131afaa77242628f7b5d4</guid>
-<pubDate>2026-06-01T11:36:12+09:00</pubDate>
-<description>Claude Code Action と Copilot レビューで GitHub Actions の失敗を自己修復するパイプラインを作った話 OSS の上流を追いかけながら日本語化したフォークを、できれば人手をかけずに継続リリースしたいですよね。とはいえメンテに張り付く...</description>
+<title>【Qiita】 GitHub Copilotにおけるモデル選択と課金体系の整理 (GitHub Copilot AIクレジット化 1日目の感想)</title>
+<link>https://qiita.com/masakinihirota/items/c3d71cabfa8ad3f09433</link>
+<guid>13352c403e48842102bc2e6688bfd6c21ac039d6f696ca6f39916b29fd468e16</guid>
+<pubDate>2026-06-01T23:37:53+09:00</pubDate>
+<description>GitHub Copilotの利用環境は、モデルの多様化と「AIクレジット」による従量課金的な仕組みの導入により、以前よりも複雑な選択が求められるようになっています。現在の課金体系と、用途に応じたモデル選びの基準について、公式ドキュメントのデータに基づき整理しました。 や...</description>
 </item>
 <item>
-<title>【Qiita】 Enable inbound traffic from the Internet to PowerVS using managed services only</title>
-<link>https://qiita.com/y_tama/items/67c13b30623b9be6b8f2</link>
-<guid>0b24578f48fcb12fef8ee7f6e0de1aa632edcc40e0f4febe12126d77d8a4e357</guid>
-<pubDate>2026-06-01T18:10:27+09:00</pubDate>
-<description>To start with this post, please set up the configuration on this. In the article above, we configured outbound traffic from PowerVS t...</description>
+<title>【Qiita】 【Claude Codeで会社を回す #3】Claudeに判断させる前に「それ、いつの数字？」を強制する</title>
+<link>https://qiita.com/noracorn92/items/5878adf354f763e72c30</link>
+<guid>a0885012b84fbccbe5c1d9d6fd6a59f21d23107fc786fa8e7636f94292b1cf2c</guid>
+<pubDate>2026-06-01T23:01:48+09:00</pubDate>
+<description>連載『Claude Codeで会社を回す』#3 ── 一人会社が Claude Code で回す AI役員チームの実録。人間（@noracorn）がレビューして公開しています。 前回（#2）、Claude のペルソナは口調じゃなく「判断軸とタブー」で決まる、という話を書...</description>
 </item>
 <item>
-<title>【Qiita】 Enable outbound communication from PowerVS to the Internet using only managed services</title>
-<link>https://qiita.com/y_tama/items/fe6081ec14d7d0fd4d5d</link>
-<guid>50bbd06d59d533b6bb859e6bc26ba9e099cbab1134e0814d714e8f25bda6547b</guid>
-<pubDate>2026-06-01T17:00:40+09:00</pubDate>
-<description>Introduction If we want to connect PowerVS to the internet, the first thing that comes to mind is using the default external IP address....</description>
+<title>【Qiita】 AIを使うほど、コードを読む力が重要だと感じた</title>
+<link>https://qiita.com/tk-111/items/1ee1a39a66bbb4b5e0c9</link>
+<guid>3e587d31a56847f2898db481746006675335c7203992d789e7c0861009e90bfc</guid>
+<pubDate>2026-06-01T21:11:35+09:00</pubDate>
+<description>AIを使うほど、コードを読む力が重要だと感じた 最近、個人でChatGPTのGitHub連携とCodex Appを触り始めた。 少し前までの自分は、 実装 → Copilot 調べ物 → ChatGPT という使い方をしていた。 わからないことがあればChatGPTで...</description>
 </item>
 <item>
-<title>【Qiita】 Linux コマンド中級編 — find / grep・awk・sed / ジョブ管理</title>
-<link>https://qiita.com/K_TAKETO/items/5674ef42d594efa68b34</link>
-<guid>22de6d242c550d61d1340da356b6e499db59018d0f9935673b88b6ef1fd33e19</guid>
-<pubDate>2026-06-01T17:21:24+09:00</pubDate>
-<description>Linux コマンド中級編 — find / grep・awk・sed / ジョブ管理 対象読者: ls cd cat などの基本コマンドは使えるが、もう一段階上のCLI操作を身につけたい方 動作確認環境: Ubuntu 22.04 / bash 5.1 はじ...</description>
+<title>【自動自律実験】 Enantioselective hydrogen atom relay via non-covalent catalyst assembly</title>
+<link>https://www.nature.com/articles/s41586-026-10692-4</link>
+<guid>9e6f3284f0071af970c9f2362f8e81937e41430b6f4c387721486e9a397fb370</guid>
+<pubDate>2026-06-01</pubDate>
+<description>Enantioselective hydrogen atom relay via non-covalent catalyst assembly</description>
 </item>
 <item>
-<title>【Qiita】 Azure で AI Ready Data を整備する 3 つの方法</title>
-<link>https://qiita.com/ayumito/items/283b28c2dad78a8aec53</link>
-<guid>ba1ff90cb89217e9910923bccdb48faf8ae8163e7160c0b08579adc7fe6164f1</guid>
-<pubDate>2026-06-01T14:33:11+09:00</pubDate>
-<description>やりたいこと 社内に散らばっているドキュメント（SharePoint、ファイルサーバー、業務 DB 等）を AI が読めるようにして、社員が質問したら的確に答えてくれる仕組みを作りたい。 この仕組みを実現するには 2 つのステップ が必要です： ステップ やること ...</description>
+<title>【自動自律実験】 Passive heart-rate monitoring during smartphone use in everyday life</title>
+<link>https://www.nature.com/articles/s41586-026-10507-6</link>
+<guid>b25576f0c7110860b2b5e1b64c685dafb581ab8b80b3f626e3d63ce7eccae336</guid>
+<pubDate>2026-06-01</pubDate>
+<description>A machine-learning model that uses smartphone cameras to measure heart rate in the background during normal daily phone use and subsequently estimate resting heart rate could make it easier for people to monitor heart health.</description>
 </item>
 <item>
-<title>【Qiita】 Azure Update 2026年5月まとめ</title>
-<link>https://qiita.com/ManabuYamamoto/items/51993192f0793d0fa771</link>
-<guid>bd57b9a8cb8e5c2ce774da88cba60242c6600b91a960e8b6fefa198a607ee7cd</guid>
-<pubDate>2026-06-01T13:01:13+09:00</pubDate>
-<description>本記事は GitHub Copilot および Microsoft Foundry を活用して作成されています。内容の正確性については各公式ドキュメントをご確認ください。 概要 2026年5月は、Networking、Storage、Integration を中心に ...</description>
+<title>【自動自律実験】 Can Polymarket predict the progress of science, or are subject-experts better?</title>
+<link>https://www.nature.com/articles/d41586-026-01688-1</link>
+<guid>e88851a2a165cd5c559051c4b1c5c9ec0eed9f81716fa152d38772dfbd1c729b</guid>
+<pubDate>2026-06-01</pubDate>
+<description>Online prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.</description>
 </item>
 <item>
-<title>【Qiita】 Inside Modern Workflow Automation Software: Orchestration, Data Layers, and AI Agents</title>
-<link>https://qiita.com/lbm_solutions/items/068d267a2479a624bbc4</link>
-<guid>6bfcc5b402495cd0cb6e44ec0719888231db59d52fb2df1e69df24d25651400c</guid>
-<pubDate>2026-06-01T16:47:44+09:00</pubDate>
-<description>Most AI automation projects fail at the seams. Individual agents work. Individual integrations work. But when multiple agents need to sh...</description>
+<title>【自動自律実験】 How long can humans live? We simply don’t know</title>
+<link>https://www.nature.com/articles/d41586-026-01728-w</link>
+<guid>e9042abf9d20878c619cdc2aa0667973dee8c44e21bdfca0496aa8d44f0d3cef</guid>
+<pubDate>2026-06-01</pubDate>
+<description>Claims about the upper limits to human lifespan are characterized by hype, deficient data and shoddy science, says longevity researcher Saul Newman.</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code Dynamic Workflows を技術的に整理する</title>
-<link>https://qiita.com/OctoPool/items/da04f57a1d33d61153b1</link>
-<guid>9bea485a8a5a281029c2cf8c9a43e1200c0ec575754845c4bace7f3e61563c2f</guid>
-<pubDate>2026-06-01T15:05:02+09:00</pubDate>
-<description>この記事でわかること Dynamic Workflows がどういう仕組みで動くか 何が得意で、何が苦手か（コスト面含む） 使いはじめるときの注意点 前提・環境 対象: Claude Code（CLI / Desktop / VS Code拡張） 必要プラン: M...</description>
-</item>
-<item>
-<title>【Qiita】 Codexで画像からVoxelアートを生成するパイプラインを作ってみた</title>
-<link>https://qiita.com/Tks_Yoshinaga/items/0a8545de9f3d68d310a1</link>
-<guid>0827a7eb6a49fb5db5e0851808629fc70a49fa355c7391c578dfc8af06225ee2</guid>
-<pubDate>2026-06-01T13:49:11+09:00</pubDate>
-<description>昨今、CodexやClaude CodeのようなAIエージェントツールが非常に話題になっています。私自身も使うことはありますが、まだコーディングのサポート用途が中心で、もう少し色々な使い方を試してみたいと思っていました。 そこで、基本的な考え方を一から学ぼうと思い、Clau...</description>
-</item>
-<item>
-<title>【Qiita】 Strands Agents を Databricks の基盤モデル + MLflow Tracing で動かす(stream_options のハマりどころつき)</title>
-<link>https://qiita.com/taka_yayoi/items/aeca263a6ce6cfdcc3a6</link>
-<guid>02eab5e4afb157be2f927b418e44157f793538f49134a7156416cd759630a32b</guid>
-<pubDate>2026-06-01T13:22:15+09:00</pubDate>
-<description>Strands Agents SDK とは Strands Agents SDK は、AWS が公開しているオープンソースのAIエージェント構築用SDKです (GitHub: strands-agents/sdk-python)。外部のツールやAPIを呼び出しながら自律的...</description>
+<title>【自動自律実験】 Science fiction: nine lab-life novels for your holiday reading</title>
+<link>https://www.nature.com/articles/d41586-026-01730-2</link>
+<guid>edf553a7717b0b017aca1c4570ea59961510873811d073d6ee659ba8d096593e</guid>
+<pubDate>2026-06-01</pubDate>
+<description>With a summer break looming for many researchers, Nature’s careers team suggests science-themed page-turners.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/reasoning-driven-synthetic-data-generation-and-evaluation/</link>
-<guid>86c358d4cdd056ba769de0744ed311d85480305ef62da8b458a81a095be21828</guid>
-<pubDate>Mon, 01 Jun 2026 09:12:58 GMT</pubDate>
+<link>https://research.google/pubs/unveiling-the-global-landscape-of-android-security-updates/</link>
+<guid>72cca50c9a566ba3df55f8efa62aec2cab4faa413559262c21801f81a1ca3890</guid>
+<pubDate>Mon, 01 Jun 2026 15:42:03 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73813-7</link>
-<guid>bda10ab78d470facb2805347cddf21c21e6b74eb016226cc0bb93bba5ab06591</guid>
-<pubDate>Mon, 01 Jun 2026 09:13:01 GMT</pubDate>
+<guid>09f3bdebdd5be7174949064a574ad49607cb5c90f14cc3344bc5e27fbc8e3c3b</guid>
+<pubDate>Mon, 01 Jun 2026 15:42:06 GMT</pubDate>
 <description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-49558-0</link>
-<guid>e88c43b71b10f1dcdc5ace9f668b05ad3c3518c324757eff89635c65bee155d2</guid>
-<pubDate>Mon, 01 Jun 2026 09:13:03 GMT</pubDate>
+<guid>f95fb947cb2f1b2e8afc788cf071533f012479c0d5d274f81828a8da261f2dc9</guid>
+<pubDate>Mon, 01 Jun 2026 15:42:08 GMT</pubDate>
 <description>Forecasting the stock market is a difficult task because of the volatile price movements and complex temporal dependencies. Established models frequently do not realize these unstable trends, which leads to changeable forecasting. This paper introduces a comfortable AI-driven framework that incorporates a sequence-to-prediction transformer model with LLM-based decision-making for accurate and understandable stock price prediction. The prediction starts with a transformer-enabled deep learning approach, which forecasts closing prices for the NIFTY Consumer Durables index based on multi-head attention mechanisms for trend identification. The predicted results are then provided to two decision-making approaches: Neuro-Symbolic AI and an Advanced AI Agent Architecture, to check for accuracy as well as interpretability in financial forecasting. The NSAI model is focused on predictions that are derived from rule-based reasoning, and thus, it ensures that they are in line with actual market behaviors and risk factors. On the other hand, the design of Advanced AI Agent Architecture aimed at enhancing the quality of decisions by utilizing the LLM-based information, bringing in external fina</description>
-</item>
-<item>
-<title>【UK】 Featured</title>
-<link>https://www.linkedin.com/company/scitechgovuk</link>
-<guid>9fada0a6513444f12c91d912708d6ef7ca70c8e60088f11a6bb13a270f5e39a8</guid>
-<pubDate>Mon, 01 Jun 2026 09:13:12 GMT</pubDate>
-<description>Department for Science, Innovation and Technology | 265,473 followers on LinkedIn. Positioning the UK at the forefront of global scientific and technological advancement. | Follow this profile to stay up-to-date with our mission: improving people&amp;#39;s lives by maximising the potential of science &amp;amp; technology.</description>
 </item>
 
 </channel>
