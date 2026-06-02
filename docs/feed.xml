@@ -4,49 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 01 Jun 2026 22:40:29 GMT</lastBuildDate>
+<lastBuildDate>Tue, 02 Jun 2026 00:07:40 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Code x Obsidianで、LLM Wiki構築 | セッションを切り替えても会話を続けられる方法</title>
-<link>https://qiita.com/usayamadausako/items/c8b5cca97554f6f64782?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>503507029e4b1712db1e285986289e0034b74e824767dea11892db950353b172</guid>
-<pubDate>2026-05-30T13:17:32+09:00</pubDate>
-<description>Claude Code を使っていて、「この機能の構造、前に調べたのにまた一から調べさせてる」とか「セッションをまたぐたびに同じ説明をしている」と感じたことはありませんか？ LLM はセッションをまたぐとそれまで教えた情報を持ち越せないので、毎回ゼロから説明し直すことになり...</description>
+<title>【Qiita】 AIが書いた論文の「出典」は信用できるか？—— AIRA v3.2.0 vs v3.3.0 100本勝負</title>
+<link>https://qiita.com/hisaho/items/75b3e1bbbbed3811014d</link>
+<guid>871fb606ab4b0a748de460d1df099905ca443297ffa1c1b58c8f4cf0523d8f90</guid>
+<pubDate>2026-06-02T08:26:43+09:00</pubDate>
+<description>はじめに：なぜ「出典の追跡」が重要なのか AI に科学論文を書かせると、もっともらしい数値が並ぶ。だが、その数値はどこから来たのか？ 「精度 0.95」「p &lt; 0.001」——こうした主張がノートブックのどのセルで計算されたものなのか追跡できなければ、AI が生成した研...</description>
 </item>
 <item>
-<title>【環境】 Farming needs more hands</title>
-<link>https://www.nature.com/articles/s41893-026-01841-8</link>
-<guid>c2fefca262206d036d120b181a5c69fdb4b3f63732673f304d4eb06589a13eb5</guid>
-<pubDate>2026-06-01</pubDate>
-<description>Climate change may shift where crops can grow, but it will not determine who farms the land. A modelling study suggests that shrinking agricultural workforces could leave climatically suitable large areas practically unavailable for cultivation.</description>
+<title>【Qiita】 【いまさら聞けない】AIエディタの限界を突破する「MCP（Model Context Protocol）」サーバー超入門</title>
+<link>https://qiita.com/fe1ix/items/e4872d99351e8bf725c7</link>
+<guid>24707e64eed65e854566568ad7a286170344a0ba1c79064d6e4774abe2e70d0d</guid>
+<pubDate>2026-06-02T08:16:23+09:00</pubDate>
+<description>はじめに：AIの「目と手」を増やす技術 CursorやGitHub CopilotなどのAIツールを使っていて、こう思ったことはありませんか？ 「AIに『Slackの履歴からバグの仕様を探して修正して』って頼めたらいいのに」 「ローカルのデータベースの中身を見て、テストデ...</description>
 </item>
 <item>
-<title>【環境】 The stability–activity tension in metal–organic framework catalysis</title>
-<link>https://www.nature.com/articles/s41893-026-01840-9</link>
-<guid>8112e1bf84516853bbfc0dc050b4781a365c752f6ae58ec49eab76948cbacf2e</guid>
-<pubDate>2026-06-01</pubDate>
-<description>As materials with highly versatile and tunable architectures and functionalities, metal–organic frameworks offer precise control over catalyst structures. We discuss how their sustainable and economically viable use depends on balancing activity, stability and scale through improved metrics and informed material </description>
-</item>
-<item>
-<title>【環境】 Agricultural workforce as a potential bottleneck of future cropland availability</title>
-<link>https://www.nature.com/articles/s41893-026-01824-9</link>
-<guid>237edf272de0764b00e4bc575d6a6e7a4a342f1571296f8d90026e885d34f66c</guid>
-<pubDate>2026-06-01</pubDate>
-<description>Future food demand is expected to drive cropland expansion, but emerging agricultural workforce shortages, contributing to local cropland abandonment, might limit food production. This study models the future impacts of labour constraints on cropland use under socioeconomic and climate scenarios.</description>
+<title>【Qiita】 MCP (Model Context Protocol) の内部仕様を深掘り：JSON-RPC 2.0とStreamable HTTPを用いたClient-Server通信の実践</title>
+<link>https://qiita.com/jjking/items/db77ca406d21460f8a02</link>
+<guid>91cfc8903eb62da04293401559bb431aa1127144f276171c930ed7a1beb4ed1d</guid>
+<pubDate>2026-06-02T07:59:31+09:00</pubDate>
+<description>LLM統合における密結合の課題とMCPの登場 LLM（大規模言語モデル）を実務に適用する際、外部データやAPIと連携させる「AIエージェント」の構築が不可欠となっています。しかし、従来のシステム統合には大きな課題が存在していました。それは、各LLMや外部ツールごとに、個別...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/improving-low-vision-chart-accessibility-via-on-cursor-visual-context/</link>
-<guid>053a0048a4733f28c3c8bfa6df0201d907a2cc6825099d79f5ad55bbcb3369be</guid>
-<pubDate>Mon, 01 Jun 2026 22:39:52 GMT</pubDate>
+<link>https://research.google/pubs/elephants-goldfish-and-the-new-golden-age-of-software-engineering/</link>
+<guid>fa9d460d82644e045b1b594aae795b704e4fcc82fa446e05fd6443e5eafa8c29</guid>
+<pubDate>Tue, 02 Jun 2026 00:07:04 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-10652-y</link>
-<guid>8c7e4d31f5b5b92b2ca96bc7fe53e04691954fef1fbdb91223a69823113001d5</guid>
-<pubDate>Mon, 01 Jun 2026 22:39:57 GMT</pubDate>
-<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
+<link>https://www.nature.com/articles/s41598-026-49558-0</link>
+<guid>8b342ebf1c9e617cfde5c9df05ee71dbca638aa4e2f0ca684dfc1889c85ff207</guid>
+<pubDate>Tue, 02 Jun 2026 00:07:10 GMT</pubDate>
+<description>Forecasting the stock market is a difficult task because of the volatile price movements and complex temporal dependencies. Established models frequently do not realize these unstable trends, which leads to changeable forecasting. This paper introduces a comfortable AI-driven framework that incorporates a sequence-to-prediction transformer model with LLM-based decision-making for accurate and understandable stock price prediction. The prediction starts with a transformer-enabled deep learning approach, which forecasts closing prices for the NIFTY Consumer Durables index based on multi-head attention mechanisms for trend identification. The predicted results are then provided to two decision-making approaches: Neuro-Symbolic AI and an Advanced AI Agent Architecture, to check for accuracy as well as interpretability in financial forecasting. The NSAI model is focused on predictions that are derived from rule-based reasoning, and thus, it ensures that they are in line with actual market behaviors and risk factors. On the other hand, the design of Advanced AI Agent Architecture aimed at enhancing the quality of decisions by utilizing the LLM-based information, bringing in external fina</description>
 </item>
 
 </channel>
