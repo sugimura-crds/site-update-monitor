@@ -4,105 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 02 Jun 2026 05:08:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 02 Jun 2026 09:46:42 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 PowerVS IBM i 日記(105): IBM Cloud CLIでPowerVSのDCの利用可能な機能やいろいろな情報を確認する</title>
-<link>https://qiita.com/6onoda/items/9742661e033b511b7a23</link>
-<guid>d4d71154bae38939673c2d50e2118a306c1e1b0a810c5911697382b5a7066d49</guid>
-<pubDate>2026-06-02T13:46:56+09:00</pubDate>
-<description>「(104): 東京(TOK04)・大阪(OSA21)でPower11(S1122)が利用可能 - 2026/05/20」でTOK04/OSA21で日本のDCでもPower11が使えることをお知らせしたのですが、CLIでPowerVSの各DCの利用可能な機能が確認できるので...</description>
+<title>【Qiita】 「コードを書く人」から「課題を解決するエンジニア」になるためには</title>
+<link>https://qiita.com/masa20057/items/eaa2afeffa262687b892?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>dbdd211caa039fc63cd68d8384021438aadc0638eb1a26dfd0fa7cbf62bafa0a</guid>
+<pubDate>2026-06-02T11:28:48+09:00</pubDate>
+<description>株式会社PRUMのmasaです。 エンジニアに転職したあと「技術を覚えたら終わり」じゃないことに気づいたのは現場に出てからでした。 今回は今のエンジニアに求められること、成長を早める思考習慣を一緒に見ていきましょう。 「コードが書ければ良い」時代は終わりつつある 求めら...</description>
 </item>
 <item>
-<title>【Qiita】 IBM i のソースをSSHを使わずにシュッとダウンロードしてBobで検証したい</title>
-<link>https://qiita.com/KOINULIB/items/7190fa44b2d23d591827</link>
-<guid>0d3e09fc1ef9c2712a7be534d550b8940f6378891c866eb507da0a9951051257</guid>
-<pubDate>2026-06-02T09:29:45+09:00</pubDate>
-<description>前置き ✋ IBM iの開発者なら誰もが一度は通る（かもしれない）道、ソースファイルの一括ダウンロードについてです。 「BobでIBM i のソースを使った検証をしてみたい、1個ずつソースメンバーをダウンロードするの面倒…FTPでもいいけど、もっとGUIでシュッとできな...</description>
+<title>【Qiita】 エンジニアの「コミュ力」って、たぶんそういう意味じゃない</title>
+<link>https://qiita.com/ALeX_EXVS/items/f6f07d88478dd571f970?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>94c7b7faf464e435190db8237c2e10528ff08c057a48367d75af4f40e3a42225</guid>
+<pubDate>2026-06-01T14:55:06+09:00</pubDate>
+<description>エンジニアに必要な「コミュ力」の正体 「エンジニアに必要なのはコミュ力」 よく聞く言葉ですが、かなり雑だと思うし、違和感を感じませんか？ ここでいうコミュ力は、雑談がうまいとか、明るく話せるとか、飲み会で盛り上げられるとか、そういう話ではありません。 エンジニアに必要な...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-05-17): AIエージェントの身元・統治とDNSアンカーの暗号</title>
-<link>https://qiita.com/tetsuko_room/items/fc332c2aff6c32d16831</link>
-<guid>e55aa1d07919a33de153a3e3896177e349af379c08df7b42328a77aa59895798</guid>
-<pubDate>2026-06-02T12:12:32+09:00</pubDate>
-<description>こんにちは、GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-17（UTC基準）に公開されたInter...</description>
+<title>【Qiita】 Polyfill.ioを放置したサイトで不審なダイアログが表示されている件</title>
+<link>https://qiita.com/Robot-Inventor/items/2f32a66f087a3bf7eaa5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>dc4d3f1b80dbe69c148f4f0b2a929ced33610ebc3a617099eeffaf6116be5fc8</guid>
+<pubDate>2026-06-02T02:28:01+09:00</pubDate>
+<description>この記事は筆者のブログに投稿した記事をQiita向けに再構成したものです。 2024年にサプライチェーン攻撃に使われたpolyfill.ioを放置していたWebサイトで現在、polyfill.ioのユーザー名とパスワードの入力を求める不審なダイアログが表示されるよう...</description>
 </item>
 <item>
-<title>【Qiita】 本番環境で震えないためのシェルスクリプト術：${VAR:?}による防壁とSSH/SCPの権限エラー解消</title>
-<link>https://qiita.com/kane_ryu/items/bb3d1da5c231e4dc3c47</link>
-<guid>2212d26aad883c6bd632d1698e9e06aec3d821067cbfc0c69413e154bd0e26e0</guid>
-<pubDate>2026-06-02T11:57:13+09:00</pubDate>
-<description>はじめに データ移行という「ミスが許されない現場」でシェルスクリプトと向き合い続けて気づいたことがあります。 スクリプトの問題は「書いたコマンドが間違っていること」より、「意図しない状態で実行されること」の方が圧倒的に多い。 典型的な「意図しない実行」のパターンは2つ...</description>
+<title>【Qiita】 ちょっと気になったので、決済サービス各社はカード情報をどう守っているのか調べてみた</title>
+<link>https://qiita.com/miruky/items/b9d9dd83f33b4c837d63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>a8b068cb7a511113cf825b8b9e40ae8ce99c79ec8f095ae0c30cdeceffb0d695</guid>
+<pubDate>2026-06-01T17:16:46+09:00</pubDate>
+<description>はじめに こんばんは、mirukyです。 ネットで買い物をするとき、クレジットカードを直接入力することもあれば、Apple Pay、Google Pay、PayPal、Amazon Pay、PayPay、楽天ペイ、d払い、au PAY、メルペイなど、様々な決済サービスを...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-05-16): エージェント時代のHTTP同期と、生成AIの出所追跡PAIT</title>
-<link>https://qiita.com/tetsuko_room/items/6f01488cc2218e3e9bf2</link>
-<guid>881f0c18ed13d4798e71317ae907892580f8b3f39655a5aca302b7a139b3df94</guid>
-<pubDate>2026-06-02T11:03:59+09:00</pubDate>
-<description>おはようございます！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-16（UTC基準）に公開された...</description>
+<title>【Qiita】 さわってみよう Db2 AI エディション #6 〜モニタリング編 Part#1〜</title>
+<link>https://qiita.com/ibm_tk/items/cdedc3a878998199cfee</link>
+<guid>e8307db6961a867eb3842f143c6b1bc9daffa0b76a79b8580f152037d4fedaa5</guid>
+<pubDate>2026-06-02T16:43:48+09:00</pubDate>
+<description>Db2 Genius Hubのモニタリング機能を使ってみよう 当記事では、Db2 AIエディションで利用できるようになったDb2 Genius Hubの主たる機能のうち、 (1)統合Db2管理 (2)エージェント型AIアシスタント (3)ログ分析 (4)異常検出 (5)深...</description>
 </item>
 <item>
-<title>【Qiita】 2026/06/02 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/6667142285c7c57d6f4c</link>
-<guid>0ae646cc1cb04cc0bf097c6c1ff8f2bcebf66d3442f166db43a4aeebbc4ea63f</guid>
-<pubDate>2026-06-02T09:39:54+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 これを読めば分かるClaude Code 完全...</description>
+<title>【Qiita】 proto3の「1ファイル1package」制約：gRPCビルドの失敗原因</title>
+<link>https://qiita.com/otami25/items/3932ad8abc2b3e424bbd</link>
+<guid>51ac0a313ecdebb38432cdf2864549631f1aa9a8939cb32e28e11e3dd88615dd</guid>
+<pubDate>2026-06-02T18:20:10+09:00</pubDate>
+<description>はじめに gRPCプロジェクトで mvn compile を実行したとき、こんなエラーが出たことはないでしょうか。 [ERROR] Failed to execute goal org.xolstice.maven.plugins:protobuf-maven-plugi...</description>
 </item>
 <item>
-<title>【Qiita】 2つのMCPを1つのチャットにつないで、広告KPIとフォーム成果を突き合わせる最短手順</title>
-<link>https://qiita.com/lovanaut/items/e7196a71c093898ffb95</link>
-<guid>df0cdf692a77a5f65fe33f550ce04baf1b8407cda6b0f17ff56c55201955ffd8</guid>
-<pubDate>2026-06-02T09:14:29+09:00</pubDate>
-<description>広告を回す画面と、フォームの成果を見る画面は、ふだん別々の場所にあります。私は広告の数字を見て、それからフォームの管理画面を開き直して、回答を見て、また広告に戻る。この往復を何度も繰り返してきました。 この記事では、その往復をなくす最短の手順を書きます。やることは1つだけ...</description>
+<title>【Qiita】 Excel手順書の自動生成をClaude Codeに丸投げしたら、プロンプトの書き方が9割だった</title>
+<link>https://qiita.com/hirashima-gmoconnect/items/b3c1a210368518a257ae</link>
+<guid>49c7ea5c20348eeb90404483dcd65b60d14bc000dadeaa42179e999da574f0cb</guid>
+<pubDate>2026-06-02T15:44:51+09:00</pubDate>
+<description>はじめに GMOコネクトの平島です。 複数シナリオ×2パターンで複数シートのExcel手順書、Claude Codeに丸投げしてみたら最初は全然うまくいきませんでした😇 プロンプトの書き方を変えたら動いた、という話です。 具体的には、Markdownで書かれた調査手順を「...</description>
 </item>
 <item>
-<title>【農業】 Principles for guiding and unlocking transformation of the European Union agrifood system</title>
-<link>https://www.nature.com/articles/s43016-026-01360-x</link>
-<guid>478dadd37026d298f9f76c60218a2603cb4a7692087550dc1d0a014c01100ba1</guid>
-<pubDate>2026-06-01</pubDate>
-<description>European agrifood systems face sustainability and resilience challenges. This Perspective identifies five systemic lock-ins hindering transformation and proposes guiding principles to address these issues for healthier food systems.</description>
+<title>【Qiita】 GPT-4.1でアンケート自由記述を自動分類してみたら、制約違反が発生した話</title>
+<link>https://qiita.com/h-yoshimoto/items/2fcb0653678ba8c79055</link>
+<guid>ece00a21fbd2b1eac5238ba93fcd231f4ecdb548f9b9e4668c81541be5e78026</guid>
+<pubDate>2026-06-02T17:16:35+09:00</pubDate>
+<description>はじめに あるプロジェクトで大量ドキュメントの分析のためにLLMによるテキストの分類・集計の検証を行いました。 プロンプトエンジニアリングガイドのWEBサイトでは、&quot;テキスト分類&quot;という例で紹介されているケースを少し応用した形式になります。参考:Prompt Engine...</description>
 </item>
 <item>
-<title>【農業】 A lack of clean drinking water is associated with lacking food and experiencing food safety threats in 121 countries across the globe</title>
-<link>https://www.nature.com/articles/s43016-026-01363-8</link>
-<guid>44db61b2818c87b67bee705642b3ce2441a7315906913d8cf2b1755e4828420f</guid>
-<pubDate>2026-06-01</pubDate>
-<description>Food preparation typically requires access to clean drinking water. This Analysis of data from the World Risk Poll explores the links between food sufficiency, clean drinking water availability and their impact on food safety threats across low-, middle- and high-income regions.</description>
+<title>【Qiita】 AIエージェント業務に「予期せぬ出会い」を — セレンディピティ機能の導入</title>
+<link>https://qiita.com/tamabe/items/8699b29d3d8a933e6ad9</link>
+<guid>a66530d6857d41917812797305f8a7cb887cfd82c1530a2f6df9ca69c671a9ea</guid>
+<pubDate>2026-06-02T18:24:15+09:00</pubDate>
+<description>はじめに AIエージェント業務の中で、「予期せぬ出会い（セレンディピティ）」を意図的に届ける仕組みを、スキルとして作って運用してみました。 要点：エージェントは指示したことを的確にこなす一方、ユーザーが知らないことには手が届きにくい。 その「届かなさ」を埋める仕掛けを試...</description>
+</item>
+<item>
+<title>【Qiita】 LLMの「記憶喪失」を防ぐアーキテクチャ：推論と記憶を分離するメモリ設計パターン</title>
+<link>https://qiita.com/memorylakeai/items/ea8fbf0d1b26f270f5af</link>
+<guid>7b8ae4eb4cf620d72d305cf9765e246e9d8c652cea1c1483d63951c572bb082b</guid>
+<pubDate>2026-06-02T16:28:15+09:00</pubDate>
+<description>はじめに：モデル切り替え時の「初期化」問題 LLMの進化スピードが加速する昨今、昨日までClaude 3を使っていたワークフローを、今日はGPT-4o、あるいはGeminiやローカルLLM（Llama 3など）に切り替える意思決定が日常的に行われるようになりました。Mo...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/uncovering-relationships-between-android-developers-user-privacy-and-developer-willingness-to-reduce-fingerprinting-risks/</link>
-<guid>990cf26a35bf54f361f5796ac2d3b16e2d79e5015f9ccfa4109738f92cd167c6</guid>
-<pubDate>Tue, 02 Jun 2026 05:07:34 GMT</pubDate>
+<link>https://research.google/pubs/a-computer-vision-problem-in-flatland/</link>
+<guid>06b5bf33d5273c6f456c69a9065a0ea20f2f7496f5a23bf913018321d5955f8b</guid>
+<pubDate>Tue, 02 Jun 2026 09:45:37 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-73813-7</link>
-<guid>ac90e14d142db2ff4ba8480b072e2fda369d11c8fe4acc7be3e39afd3b7e7415</guid>
-<pubDate>Tue, 02 Jun 2026 05:07:36 GMT</pubDate>
-<description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
-</item>
-<item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-10652-y</link>
-<guid>b387c9632ef5ce1520cd2cb3e4af9964b7ad9cf2bf64e0ee3cdd62cf0f2d20d3</guid>
-<pubDate>Tue, 02 Jun 2026 05:07:38 GMT</pubDate>
-<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
+<link>https://www.nature.com/articles/s41598-026-49558-0</link>
+<guid>8f79096ac331fe93790f31a1f6beecb5065093bf64a8c457447e72ba90a1d879</guid>
+<pubDate>Tue, 02 Jun 2026 09:45:42 GMT</pubDate>
+<description>Forecasting the stock market is a difficult task because of the volatile price movements and complex temporal dependencies. Established models frequently do not realize these unstable trends, which leads to changeable forecasting. This paper introduces a comfortable AI-driven framework that incorporates a sequence-to-prediction transformer model with LLM-based decision-making for accurate and understandable stock price prediction. The prediction starts with a transformer-enabled deep learning approach, which forecasts closing prices for the NIFTY Consumer Durables index based on multi-head attention mechanisms for trend identification. The predicted results are then provided to two decision-making approaches: Neuro-Symbolic AI and an Advanced AI Agent Architecture, to check for accuracy as well as interpretability in financial forecasting. The NSAI model is focused on predictions that are derived from rule-based reasoning, and thus, it ensures that they are in line with actual market behaviors and risk factors. On the other hand, the design of Advanced AI Agent Architecture aimed at enhancing the quality of decisions by utilizing the LLM-based information, bringing in external fina</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04403-9</link>
-<guid>b0265dac93a7be3feaae30a1ee9d708fcbaef846793e817f374e160088dc7607</guid>
-<pubDate>Tue, 02 Jun 2026 05:07:41 GMT</pubDate>
-<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
-</item>
-<item>
-<title>【環境】 Search Results for: Artificial Intelligence</title>
-<link>https://earth.org/wp-global-styles-hivelife-wp/</link>
-<guid>6d52fc81fc932af9ca6837f5f9274fc37864b4f70b4b15ec19995131632f8d63</guid>
-<pubDate>Tue, 02 Jun 2026 05:08:10 GMT</pubDate>
-<description>{“version”: 3, “isGlobalStylesUserThemeJSON”: true }</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>c830dae206e56b354b1ba64fb0c90809810ccc3946da6f558c6a988d835b941c</guid>
+<pubDate>Tue, 02 Jun 2026 09:45:43 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
