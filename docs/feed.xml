@@ -4,42 +4,105 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 02 Jun 2026 00:07:40 GMT</lastBuildDate>
+<lastBuildDate>Tue, 02 Jun 2026 05:08:17 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIが書いた論文の「出典」は信用できるか？—— AIRA v3.2.0 vs v3.3.0 100本勝負</title>
-<link>https://qiita.com/hisaho/items/75b3e1bbbbed3811014d</link>
-<guid>871fb606ab4b0a748de460d1df099905ca443297ffa1c1b58c8f4cf0523d8f90</guid>
-<pubDate>2026-06-02T08:26:43+09:00</pubDate>
-<description>はじめに：なぜ「出典の追跡」が重要なのか AI に科学論文を書かせると、もっともらしい数値が並ぶ。だが、その数値はどこから来たのか？ 「精度 0.95」「p &lt; 0.001」——こうした主張がノートブックのどのセルで計算されたものなのか追跡できなければ、AI が生成した研...</description>
+<title>【Qiita】 PowerVS IBM i 日記(105): IBM Cloud CLIでPowerVSのDCの利用可能な機能やいろいろな情報を確認する</title>
+<link>https://qiita.com/6onoda/items/9742661e033b511b7a23</link>
+<guid>d4d71154bae38939673c2d50e2118a306c1e1b0a810c5911697382b5a7066d49</guid>
+<pubDate>2026-06-02T13:46:56+09:00</pubDate>
+<description>「(104): 東京(TOK04)・大阪(OSA21)でPower11(S1122)が利用可能 - 2026/05/20」でTOK04/OSA21で日本のDCでもPower11が使えることをお知らせしたのですが、CLIでPowerVSの各DCの利用可能な機能が確認できるので...</description>
 </item>
 <item>
-<title>【Qiita】 【いまさら聞けない】AIエディタの限界を突破する「MCP（Model Context Protocol）」サーバー超入門</title>
-<link>https://qiita.com/fe1ix/items/e4872d99351e8bf725c7</link>
-<guid>24707e64eed65e854566568ad7a286170344a0ba1c79064d6e4774abe2e70d0d</guid>
-<pubDate>2026-06-02T08:16:23+09:00</pubDate>
-<description>はじめに：AIの「目と手」を増やす技術 CursorやGitHub CopilotなどのAIツールを使っていて、こう思ったことはありませんか？ 「AIに『Slackの履歴からバグの仕様を探して修正して』って頼めたらいいのに」 「ローカルのデータベースの中身を見て、テストデ...</description>
+<title>【Qiita】 IBM i のソースをSSHを使わずにシュッとダウンロードしてBobで検証したい</title>
+<link>https://qiita.com/KOINULIB/items/7190fa44b2d23d591827</link>
+<guid>0d3e09fc1ef9c2712a7be534d550b8940f6378891c866eb507da0a9951051257</guid>
+<pubDate>2026-06-02T09:29:45+09:00</pubDate>
+<description>前置き ✋ IBM iの開発者なら誰もが一度は通る（かもしれない）道、ソースファイルの一括ダウンロードについてです。 「BobでIBM i のソースを使った検証をしてみたい、1個ずつソースメンバーをダウンロードするの面倒…FTPでもいいけど、もっとGUIでシュッとできな...</description>
 </item>
 <item>
-<title>【Qiita】 MCP (Model Context Protocol) の内部仕様を深掘り：JSON-RPC 2.0とStreamable HTTPを用いたClient-Server通信の実践</title>
-<link>https://qiita.com/jjking/items/db77ca406d21460f8a02</link>
-<guid>91cfc8903eb62da04293401559bb431aa1127144f276171c930ed7a1beb4ed1d</guid>
-<pubDate>2026-06-02T07:59:31+09:00</pubDate>
-<description>LLM統合における密結合の課題とMCPの登場 LLM（大規模言語モデル）を実務に適用する際、外部データやAPIと連携させる「AIエージェント」の構築が不可欠となっています。しかし、従来のシステム統合には大きな課題が存在していました。それは、各LLMや外部ツールごとに、個別...</description>
+<title>【Qiita】 日刊IETF (2026-05-17): AIエージェントの身元・統治とDNSアンカーの暗号</title>
+<link>https://qiita.com/tetsuko_room/items/fc332c2aff6c32d16831</link>
+<guid>e55aa1d07919a33de153a3e3896177e349af379c08df7b42328a77aa59895798</guid>
+<pubDate>2026-06-02T12:12:32+09:00</pubDate>
+<description>こんにちは、GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-17（UTC基準）に公開されたInter...</description>
+</item>
+<item>
+<title>【Qiita】 本番環境で震えないためのシェルスクリプト術：${VAR:?}による防壁とSSH/SCPの権限エラー解消</title>
+<link>https://qiita.com/kane_ryu/items/bb3d1da5c231e4dc3c47</link>
+<guid>2212d26aad883c6bd632d1698e9e06aec3d821067cbfc0c69413e154bd0e26e0</guid>
+<pubDate>2026-06-02T11:57:13+09:00</pubDate>
+<description>はじめに データ移行という「ミスが許されない現場」でシェルスクリプトと向き合い続けて気づいたことがあります。 スクリプトの問題は「書いたコマンドが間違っていること」より、「意図しない状態で実行されること」の方が圧倒的に多い。 典型的な「意図しない実行」のパターンは2つ...</description>
+</item>
+<item>
+<title>【Qiita】 日刊IETF (2026-05-16): エージェント時代のHTTP同期と、生成AIの出所追跡PAIT</title>
+<link>https://qiita.com/tetsuko_room/items/6f01488cc2218e3e9bf2</link>
+<guid>881f0c18ed13d4798e71317ae907892580f8b3f39655a5aca302b7a139b3df94</guid>
+<pubDate>2026-06-02T11:03:59+09:00</pubDate>
+<description>おはようございます！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-16（UTC基準）に公開された...</description>
+</item>
+<item>
+<title>【Qiita】 2026/06/02 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/6667142285c7c57d6f4c</link>
+<guid>0ae646cc1cb04cc0bf097c6c1ff8f2bcebf66d3442f166db43a4aeebbc4ea63f</guid>
+<pubDate>2026-06-02T09:39:54+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 これを読めば分かるClaude Code 完全...</description>
+</item>
+<item>
+<title>【Qiita】 2つのMCPを1つのチャットにつないで、広告KPIとフォーム成果を突き合わせる最短手順</title>
+<link>https://qiita.com/lovanaut/items/e7196a71c093898ffb95</link>
+<guid>df0cdf692a77a5f65fe33f550ce04baf1b8407cda6b0f17ff56c55201955ffd8</guid>
+<pubDate>2026-06-02T09:14:29+09:00</pubDate>
+<description>広告を回す画面と、フォームの成果を見る画面は、ふだん別々の場所にあります。私は広告の数字を見て、それからフォームの管理画面を開き直して、回答を見て、また広告に戻る。この往復を何度も繰り返してきました。 この記事では、その往復をなくす最短の手順を書きます。やることは1つだけ...</description>
+</item>
+<item>
+<title>【農業】 Principles for guiding and unlocking transformation of the European Union agrifood system</title>
+<link>https://www.nature.com/articles/s43016-026-01360-x</link>
+<guid>478dadd37026d298f9f76c60218a2603cb4a7692087550dc1d0a014c01100ba1</guid>
+<pubDate>2026-06-01</pubDate>
+<description>European agrifood systems face sustainability and resilience challenges. This Perspective identifies five systemic lock-ins hindering transformation and proposes guiding principles to address these issues for healthier food systems.</description>
+</item>
+<item>
+<title>【農業】 A lack of clean drinking water is associated with lacking food and experiencing food safety threats in 121 countries across the globe</title>
+<link>https://www.nature.com/articles/s43016-026-01363-8</link>
+<guid>44db61b2818c87b67bee705642b3ce2441a7315906913d8cf2b1755e4828420f</guid>
+<pubDate>2026-06-01</pubDate>
+<description>Food preparation typically requires access to clean drinking water. This Analysis of data from the World Risk Poll explores the links between food sufficiency, clean drinking water availability and their impact on food safety threats across low-, middle- and high-income regions.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/elephants-goldfish-and-the-new-golden-age-of-software-engineering/</link>
-<guid>fa9d460d82644e045b1b594aae795b704e4fcc82fa446e05fd6443e5eafa8c29</guid>
-<pubDate>Tue, 02 Jun 2026 00:07:04 GMT</pubDate>
+<link>https://research.google/pubs/uncovering-relationships-between-android-developers-user-privacy-and-developer-willingness-to-reduce-fingerprinting-risks/</link>
+<guid>990cf26a35bf54f361f5796ac2d3b16e2d79e5015f9ccfa4109738f92cd167c6</guid>
+<pubDate>Tue, 02 Jun 2026 05:07:34 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-73813-7</link>
+<guid>ac90e14d142db2ff4ba8480b072e2fda369d11c8fe4acc7be3e39afd3b7e7415</guid>
+<pubDate>Tue, 02 Jun 2026 05:07:36 GMT</pubDate>
+<description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
+</item>
+<item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-49558-0</link>
-<guid>8b342ebf1c9e617cfde5c9df05ee71dbca638aa4e2f0ca684dfc1889c85ff207</guid>
-<pubDate>Tue, 02 Jun 2026 00:07:10 GMT</pubDate>
-<description>Forecasting the stock market is a difficult task because of the volatile price movements and complex temporal dependencies. Established models frequently do not realize these unstable trends, which leads to changeable forecasting. This paper introduces a comfortable AI-driven framework that incorporates a sequence-to-prediction transformer model with LLM-based decision-making for accurate and understandable stock price prediction. The prediction starts with a transformer-enabled deep learning approach, which forecasts closing prices for the NIFTY Consumer Durables index based on multi-head attention mechanisms for trend identification. The predicted results are then provided to two decision-making approaches: Neuro-Symbolic AI and an Advanced AI Agent Architecture, to check for accuracy as well as interpretability in financial forecasting. The NSAI model is focused on predictions that are derived from rule-based reasoning, and thus, it ensures that they are in line with actual market behaviors and risk factors. On the other hand, the design of Advanced AI Agent Architecture aimed at enhancing the quality of decisions by utilizing the LLM-based information, bringing in external fina</description>
+<link>https://www.nature.com/articles/s41586-026-10652-y</link>
+<guid>b387c9632ef5ce1520cd2cb3e4af9964b7ad9cf2bf64e0ee3cdd62cf0f2d20d3</guid>
+<pubDate>Tue, 02 Jun 2026 05:07:38 GMT</pubDate>
+<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04403-9</link>
+<guid>b0265dac93a7be3feaae30a1ee9d708fcbaef846793e817f374e160088dc7607</guid>
+<pubDate>Tue, 02 Jun 2026 05:07:41 GMT</pubDate>
+<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+</item>
+<item>
+<title>【環境】 Search Results for: Artificial Intelligence</title>
+<link>https://earth.org/wp-global-styles-hivelife-wp/</link>
+<guid>6d52fc81fc932af9ca6837f5f9274fc37864b4f70b4b15ec19995131632f8d63</guid>
+<pubDate>Tue, 02 Jun 2026 05:08:10 GMT</pubDate>
+<description>{“version”: 3, “isGlobalStylesUserThemeJSON”: true }</description>
 </item>
 
 </channel>
