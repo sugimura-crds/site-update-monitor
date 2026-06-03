@@ -4,126 +4,105 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 03 Jun 2026 10:17:13 GMT</lastBuildDate>
+<lastBuildDate>Wed, 03 Jun 2026 15:13:07 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【環境構築不要】誰かのためにアプリを作ってみよう #1</title>
-<link>https://qiita.com/hitomin_poke/items/334b0b9c3ee457dfa8c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>1cf5a515e2015b686b0ee1e47ed27fc001f0e0699d7db7ba83b5f4ed63029053</guid>
-<pubDate>2026-06-03T13:15:28+09:00</pubDate>
-<description>はじめまして。株式会社PRUMでエンジニアをしている人見です。 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、 仕事で起きやすい“ズレ”について整理して発信しています。 誰かの助けになれば幸いです。 誰かのためにアプリを作ろう #1 -なぜアプリを作るの...</description>
+<title>【Qiita】 mattpocock/skills 18 個から学ぶ Claude Skill 設計</title>
+<link>https://qiita.com/ryoji9702/items/fdd5e0ac1ce6718fb680</link>
+<guid>4accbce34a9111f1058743bcd60195c63085a5d558d0b617bde44ef47a3f3a6f</guid>
+<pubDate>2026-06-03T23:43:39+09:00</pubDate>
+<description>はじめに mattpocock/skills は、Total TypeScript で知られる Matt Pocock 氏が「自分の .claude/ ディレクトリそのものを公開した」リポジトリです。公開から短期間で GitHub Stars 10 万超、Fork 9.6...</description>
 </item>
 <item>
-<title>【Qiita】 SPAのトークン、localStorageに置いていい? OWASP ASVS 5.0で変わった答え</title>
-<link>https://qiita.com/ntaka329/items/bf692f00526de0795160</link>
-<guid>3251df014f6110ceaedb250f0c8d1cad90baf639066e1b89a59c46504ea3490b</guid>
-<pubDate>2026-06-03T17:25:34+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 「SPAのアクセストークン、localStorage に置いていいんでしたっけ?」と聞かれて、「ダメだった気がする」と答えかけて手が止まりました。自分の知識が数年前で止まっていたからです😇 確認したら、答えは変わっていました。OWAS...</description>
+<title>【Qiita】 【2026年】AIエージェント設計 用語集｜Prompt・Context・Harness とその周辺</title>
+<link>https://qiita.com/ryukiebe0911/items/1c26c591868718fb2f6b</link>
+<guid>5670283cd7cd89e4702c23ed36ac9ce9c8013093603a3769b43f74090a0614da</guid>
+<pubDate>2026-06-03T23:57:32+09:00</pubDate>
+<description>AIエージェント設計 用語集｜Prompt・Context・Harness とその周辺 先日 note に公開した記事「AIエージェント設計を支える3つのエンジニアリング：Prompt・Context・Harness」で触れた用語を、リファレンスとして一気にまとめておき...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-05-19): BGP SR PolicyとStateful-TCP、eap.arpaやIAB AI-CONTROL報告などのRFC公開（Part 2）</title>
-<link>https://qiita.com/tetsuko_room/items/4c5663e60fd2247a2f14</link>
-<guid>1696acb20ce93c4ba977e90e865e32d9c54334d005d9a071915df2dd3f3eb3f1</guid>
-<pubDate>2026-06-03T15:34:22+09:00</pubDate>
-<description>こんにちは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-19（UTC基準）に公開されたInt...</description>
+<title>【Qiita】 AIエージェント活用でわかった、密にコミュニケーションすることの大事さ</title>
+<link>https://qiita.com/makotodaxi5/items/60a543c7448da8244ef3</link>
+<guid>7580dca435c527626172b6d95a76d093db1d0c4e8f5f79b25e569f0238f258ff</guid>
+<pubDate>2026-06-03T23:56:08+09:00</pubDate>
+<description>はじめに AIエージェントを使うと、仕様書からExcel、PowerPoint、テスト項目などの中間成果物をかなり速く作れ、次どうするかを考え実行できるようになった。 しかし、やってみて思ったのは、AIで速く作れるからこそ、最終アウトプットを早く作り込みすぎると後戻りが重...</description>
 </item>
 <item>
-<title>【Qiita】 2026年のマルチモーダルAI開発における「メディア処理の罠」と構造的解耦（デカップリング）の重要性</title>
-<link>https://qiita.com/yy2639566052/items/c5a35dad32f9f16eb86e</link>
-<guid>6616c1d3c586329beafdc04a8523df1fd58021617b253470784b54ead8a91623</guid>
-<pubDate>2026-06-03T18:43:13+09:00</pubDate>
-<description>テキスト生成（LLM）の統合から、画像・動画生成といったマルチモーダルAIのプロダクト開発へと移行する際、多くのエンジニアがこれまで経験したことのない巨大な「アーキテクチャの壁」に直面することになります。 マルチモーダル開発における最大の違いは、生成されるコンテンツのデータ...</description>
+<title>【Qiita】 Home Assistant MCP で 陽キャAI エージェントがビーム（物理）を放つまで</title>
+<link>https://qiita.com/Tatsuya2501/items/35929903f9d9efe52e97</link>
+<guid>8b2baa80389850d7e52878fbe7f605754c6b13f81b866009e270d345d495f016</guid>
+<pubDate>2026-06-03T23:33:43+09:00</pubDate>
+<description>はじめに Switchbot Hubで自宅のスマートホーム化をしています。先日、Matter対応フロアライトを買ってありました。 電球色の間接照明が欲しかっただけなのですが、（無駄に）1600万色の調光が可能なRGBライトです。一体どこのクラブに行ったらお目にかかれ...</description>
 </item>
 <item>
-<title>【Qiita】 【Generative UI】3Dアバターとの対話体験を壊さない設計 - ホワイトボードAIエージェントを作った話</title>
-<link>https://qiita.com/Takenoko4594/items/a39a8123a6d4e4962022</link>
-<guid>6a700a776655941d1389fdea53c380a6ee636a7f2ca028e086d542ab5b323196</guid>
-<pubDate>2026-06-03T18:29:31+09:00</pubDate>
-<description>はじめに 今回、3D空間上でアバターと対話しながら、必要に応じてUIを生成するAIエージェントアプリを作りました。(まだ試作ですが...) Generative UIでは、チャット欄の中にテキスト応答とUIを一緒に表示することが多いと思います。今回は少し変えて、会話はチャ...</description>
+<title>【Qiita】 コードベースの「地形」を可視化する Structure Heatmap を作った</title>
+<link>https://qiita.com/kunikada/items/78775edd868db76ec577</link>
+<guid>6811c364c4cd39977360f7226de0f87ed1f8ba418886e911f359201f50b8131a</guid>
+<pubDate>2026-06-03T22:46:01+09:00</pubDate>
+<description>最近は Claude Code や Codex などのAIエージェントを利用して開発する機会が増えてきました。AIによって実装速度は大きく向上しましたが、その一方で別の課題も感じています。 それは、コードが増える速度に対して構造レビューが追いつかない、ということです。 そこ...</description>
 </item>
 <item>
-<title>【Qiita】 巨大なレポジトリをAIエージェントに扱わせるときの差分管理</title>
-<link>https://qiita.com/vast-cow/items/6345a89c9f286a793087</link>
-<guid>2c82f9c86d8b1601c4480df9be4493fe80e0bf4bff4f7ccb933458a813533c93</guid>
-<pubDate>2026-06-03T17:14:42+09:00</pubDate>
-<description>AIエージェントに巨大なレポジトリを操作させる場合、作業前後の差分を管理することは重要です。エージェントがどのファイルを変更したのか、どの時点に戻せるのかを把握できなければ、安全に作業を進めることが難しくなります。 通常、このような差分管理にはGitを使うことが多いです。し...</description>
-</item>
-<item>
-<title>【Qiita】 【Claude Codeで会社を回す #4】Claudeが書いたコードを、別のClaudeに3段階レビューさせる</title>
-<link>https://qiita.com/noracorn92/items/17c74317202d759f373d</link>
-<guid>85976a1fe93c935a78498ed20ade1c9e324af4ec772dfca9d63927444f3fffb7</guid>
-<pubDate>2026-06-03T17:10:02+09:00</pubDate>
-<description>連載『Claude Codeで会社を回す』#4 ── 一人会社が Claude Code で回す AI役員チームの実録。人間（@noracorn）がレビューして公開しています。 Claude にコードを書かせた。動いた。嬉しくなって、同じ Claude に続けて聞いた。...</description>
-</item>
-<item>
-<title>【Qiita】 Top 10 Agentic AI Development Companies in USA for AI-Driven Financial Platforms (2026)</title>
-<link>https://qiita.com/intellectyx/items/6ee30bbc1c83a4dce55e</link>
-<guid>68329e9bc7ef709c93cb283f9da4d5ec88c483118b7dbca3d566e3205331de29</guid>
-<pubDate>2026-06-03T15:11:00+09:00</pubDate>
-<description>Introduction As financial institutions accelerate AI adoption in 2026, demand for agentic AI development partners is growing rapidly. Ba...</description>
-</item>
-<item>
-<title>【農業】 FAO report highlights long-term economic case for tackling antimicrobial resistance in livestock</title>
-<link>https://www.fao.org/newsroom/detail/fao-report-highlights-long-term-economic-case-for-tackling-antimicrobial-resistance-in-livestock/en</link>
-<guid>7df1e98ed1a07f2ba4becbf9908e4621af000fee7469c3ded43530351c6c3297</guid>
-<pubDate>Wed, 03 Jun 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【環境】 Shifting hail hazard under global warming and effects on crop hail risk</title>
-<link>https://www.nature.com/articles/s41558-026-02660-7</link>
-<guid>75900038274187da2d124c3b463f21219b50d88a6b03472043fc4d6432e0fa27</guid>
+<title>【自動自律実験】 Why a synthetic human genome is still worth building</title>
+<link>https://www.nature.com/articles/d41586-026-01725-z</link>
+<guid>2b4015d23c48238dd556a863deac43c46d3f10c5656e9e1dc35475fa60e98eb9</guid>
 <pubDate>2026-06-03</pubDate>
-<description>How hailstorms change with warming is not well understood. Here the authors use global projections with different hail proxies to show that hail-prone conditions shift polewards under warming, also shifting crop risk related to hail hazards.</description>
+<description>A decade on from the launch of an ambitious project, it’s time to revisit the reasons for constructing a human genome from scratch.</description>
 </item>
 <item>
-<title>【環境】 Grassland restoration increases crop yields through local climate regulation</title>
-<link>https://www.nature.com/articles/s41558-026-02663-4</link>
-<guid>38a7a0db8811043b2f77d9fd3468ce431f3ab7c1ea4e8403d31337a4db8f9d23</guid>
+<title>【自動自律実験】 Book of Cron Job</title>
+<link>https://www.nature.com/articles/d41586-026-01716-0</link>
+<guid>b0a093fe239ebb3b645a2279e78e4d8e9ca6b1b456d528f18e8bacbddcd51eb5</guid>
 <pubDate>2026-06-03</pubDate>
-<description>The authors assess the impacts of China’s Grassland Ecological Compensation Policy on climate and maize yields. They demonstrate reduced temperature and increased precipitation, which are linked to increased crop yields that partially offset restoration costs.</description>
+<description>Code of conduct.</description>
 </item>
 <item>
-<title>【環境】 High-latitude Southern Ocean warming hotspot induced by ocean mesoscale eddies</title>
-<link>https://www.nature.com/articles/s41558-026-02652-7</link>
-<guid>de66c3d0dc664abb7f7a9bb86c070427a68dd0f7d5b648d7f764065a0d538f3c</guid>
+<title>【自動自律実験】 Microsoft upgrades controversial quantum chip — researchers are still sceptical</title>
+<link>https://www.nature.com/articles/d41586-026-01788-y</link>
+<guid>6c2088c0e9f39cf682566fcc776a4fccd59abfe2c586b67c6ab8b94568a2dbfc</guid>
 <pubDate>2026-06-03</pubDate>
-<description>The Southern Ocean is important for anthropogenic heat uptake, and this regional analysis shows an area with enhanced warming in the high-latitude Indian sector. Model analyses indicate that mesoscale eddies drive upward heat transport, linked to a strengthening of the Antarctic Circumpolar Current.</description>
-</item>
-<item>
-<title>【環境】 A circular hydrothermal refinery for sustainable aviation fuel from food waste</title>
-<link>https://www.nature.com/articles/s41893-026-01848-1</link>
-<guid>fa817b6cebf73f8b355577063ba855bea06a88477f9fe62fbe6c4c0af483b0ce</guid>
-<pubDate>2026-06-03</pubDate>
-<description>Decarbonizing aviation is critical for global sustainability. The authors show a circular hydrothermal refinery transforming food waste into a 100% drop-in sustainable aviation fuel rich in cycloalkanes.</description>
-</item>
-<item>
-<title>【自動自律実験】 Can an army of babies and dogs rescue psychology from its reproducibility crisis?</title>
-<link>https://www.nature.com/articles/d41586-026-01727-x</link>
-<guid>52228085e7567fdb268864559435e4cc8ef2d26537f75d2fd42c8e8ef389328c</guid>
-<pubDate>2026-06-03</pubDate>
-<description>Labs are teaming up to run a host of huge projects that aim to bring rigour to cognitive science.</description>
+<description>The tech giant says it will make ‘topological’ quantum computers that can be scaled up faster than competing technologies.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/approximate-vs-precise-an-experiment-in-what-impacts-user-choice-when-apps-request-location-access/</link>
-<guid>7824ef8ef66397be37fb411cfc065ea888aee590ed810701abba743a4449c4f3</guid>
-<pubDate>Wed, 03 Jun 2026 10:16:29 GMT</pubDate>
+<link>https://research.google/pubs/beyond-vector-similarity-hierarchical-context-aware-graph-rag-vs-standard-rag-in-enterprise-code-migration/</link>
+<guid>b19381f17d911e1a89d387d8c009d506c1a523e45d1512656fafe5600e408c9b</guid>
+<pubDate>Wed, 03 Jun 2026 15:12:19 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73813-7</link>
-<guid>8b2a5466ca23db337ebe82321083ecacbf39123dc76dab1a95b3f036e5209415</guid>
-<pubDate>Wed, 03 Jun 2026 10:16:31 GMT</pubDate>
+<guid>2bfeef2e9b84e7705b6c5923df8800b72e668aa401c26b2c4dd7521ca3c64a44</guid>
+<pubDate>Wed, 03 Jun 2026 15:12:22 GMT</pubDate>
 <description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
 </item>
 <item>
-<title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.chiba-u.ac.jp/news/research-collab/post_674.html</link>
-<guid>8a8f843681c68e187a6a4e87b0cc9cde9116e914b0633dcf18cfa396c6d76aae</guid>
-<pubDate>Wed, 03 Jun 2026 10:16:56 GMT</pubDate>
-<description>研究所別一覧</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-10652-y</link>
+<guid>e354f806aaa011c5d9c693d94772e9242fe250d7f8461dbec2d787c018ad6ec4</guid>
+<pubDate>Wed, 03 Jun 2026 15:12:25 GMT</pubDate>
+<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04403-9</link>
+<guid>5cb7481ec4db48d18bb7aa508131a8063d46a0af04291f6cf35fff516ba7dde4</guid>
+<pubDate>Wed, 03 Jun 2026 15:12:28 GMT</pubDate>
+<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+</item>
+<item>
+<title>【EU】 AI Continent Action Plan</title>
+<link>https://digital-strategy.ec.europa.eu/en/policies/ecosystem-ai-innovation-europe</link>
+<guid>0cb72dfc407de928d4f279978bebe39d0ca76cae03a562d6fb4aae4c4bf5656e</guid>
+<pubDate>Wed, 03 Jun 2026 15:12:40 GMT</pubDate>
+<description>Explore the Commission&#x27;s AI ecosystem, where through initiatives like European Digital Innovation Hubs, AI Factories, or the AI Skills Academy, we foster innovation and drive Europe&#x27;s leadership in AI.</description>
+</item>
+<item>
+<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
+<link>https://www.eurohpc-ju.europa.eu/index_en</link>
+<guid>bf7a90f1bc9c29b12fd1110b06e25171cbe03c85a436b329c29dc037b61ed662</guid>
+<pubDate>Wed, 03 Jun 2026 15:12:41 GMT</pubDate>
+<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
 </item>
 
 </channel>
