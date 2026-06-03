@@ -4,105 +4,126 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 03 Jun 2026 15:13:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 03 Jun 2026 19:05:27 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 mattpocock/skills 18 個から学ぶ Claude Skill 設計</title>
-<link>https://qiita.com/ryoji9702/items/fdd5e0ac1ce6718fb680</link>
-<guid>4accbce34a9111f1058743bcd60195c63085a5d558d0b617bde44ef47a3f3a6f</guid>
-<pubDate>2026-06-03T23:43:39+09:00</pubDate>
-<description>はじめに mattpocock/skills は、Total TypeScript で知られる Matt Pocock 氏が「自分の .claude/ ディレクトリそのものを公開した」リポジトリです。公開から短期間で GitHub Stars 10 万超、Fork 9.6...</description>
+<title>【Qiita】 AIエージェント時代に、人月受託会社はどう壊れるのか</title>
+<link>https://qiita.com/MarkInada/items/5d5da328ba7c58cb09ef</link>
+<guid>b4ff6fa852d2a145ed1b851ffef6e4b4ae48391545fed031c032790b8cfebf28</guid>
+<pubDate>2026-06-04T03:30:56+09:00</pubDate>
+<description>AIエージェント時代に、人月受託会社はどう壊れるのか 生成AIやAIコーディングエージェントによって、ソフトウェア開発の生産性は大きく変わりつつあります。 Claude Code、Cursor、GitHub Copilot、Devin、Gemini Code Assist...</description>
 </item>
 <item>
-<title>【Qiita】 【2026年】AIエージェント設計 用語集｜Prompt・Context・Harness とその周辺</title>
-<link>https://qiita.com/ryukiebe0911/items/1c26c591868718fb2f6b</link>
-<guid>5670283cd7cd89e4702c23ed36ac9ce9c8013093603a3769b43f74090a0614da</guid>
-<pubDate>2026-06-03T23:57:32+09:00</pubDate>
-<description>AIエージェント設計 用語集｜Prompt・Context・Harness とその周辺 先日 note に公開した記事「AIエージェント設計を支える3つのエンジニアリング：Prompt・Context・Harness」で触れた用語を、リファレンスとして一気にまとめておき...</description>
+<title>【Qiita】 Microsoft Scoutとは？常時稼働するAIエージェント「Autopilot」とFrontierプログラムをわかりやすく解説</title>
+<link>https://qiita.com/ochtum/items/a07a30dd7dc39b1f2051</link>
+<guid>de30ee4f7c8afa3653dcf5bdbdbf70e348f22e61fd4f2a94e756afa08f4392f6</guid>
+<pubDate>2026-06-04T01:44:52+09:00</pubDate>
+<description>※お役に立てたらストック、いいねをよろしくお願いします！！ ＜本記事のターゲット層＞ Microsoft 365 Copilotの新機能を追っている人 AIエージェントの最新動向を知りたいエンジニア 企業でMicrosoft 365やCopilotを管理しているI...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント活用でわかった、密にコミュニケーションすることの大事さ</title>
-<link>https://qiita.com/makotodaxi5/items/60a543c7448da8244ef3</link>
-<guid>7580dca435c527626172b6d95a76d093db1d0c4e8f5f79b25e569f0238f258ff</guid>
-<pubDate>2026-06-03T23:56:08+09:00</pubDate>
-<description>はじめに AIエージェントを使うと、仕様書からExcel、PowerPoint、テスト項目などの中間成果物をかなり速く作れ、次どうするかを考え実行できるようになった。 しかし、やってみて思ったのは、AIで速く作れるからこそ、最終アウトプットを早く作り込みすぎると後戻りが重...</description>
-</item>
-<item>
-<title>【Qiita】 Home Assistant MCP で 陽キャAI エージェントがビーム（物理）を放つまで</title>
-<link>https://qiita.com/Tatsuya2501/items/35929903f9d9efe52e97</link>
-<guid>8b2baa80389850d7e52878fbe7f605754c6b13f81b866009e270d345d495f016</guid>
-<pubDate>2026-06-03T23:33:43+09:00</pubDate>
-<description>はじめに Switchbot Hubで自宅のスマートホーム化をしています。先日、Matter対応フロアライトを買ってありました。 電球色の間接照明が欲しかっただけなのですが、（無駄に）1600万色の調光が可能なRGBライトです。一体どこのクラブに行ったらお目にかかれ...</description>
-</item>
-<item>
-<title>【Qiita】 コードベースの「地形」を可視化する Structure Heatmap を作った</title>
-<link>https://qiita.com/kunikada/items/78775edd868db76ec577</link>
-<guid>6811c364c4cd39977360f7226de0f87ed1f8ba418886e911f359201f50b8131a</guid>
-<pubDate>2026-06-03T22:46:01+09:00</pubDate>
-<description>最近は Claude Code や Codex などのAIエージェントを利用して開発する機会が増えてきました。AIによって実装速度は大きく向上しましたが、その一方で別の課題も感じています。 それは、コードが増える速度に対して構造レビューが追いつかない、ということです。 そこ...</description>
-</item>
-<item>
-<title>【自動自律実験】 Why a synthetic human genome is still worth building</title>
-<link>https://www.nature.com/articles/d41586-026-01725-z</link>
-<guid>2b4015d23c48238dd556a863deac43c46d3f10c5656e9e1dc35475fa60e98eb9</guid>
+<title>【農業】 People without clean drinking water face increased food insecurity and food safety threats</title>
+<link>https://www.nature.com/articles/s43016-026-01377-2</link>
+<guid>23eb2862705bbec80477af79d13424db7a285f388b9e314452d6902b4b19f70a</guid>
 <pubDate>2026-06-03</pubDate>
-<description>A decade on from the launch of an ambitious project, it’s time to revisit the reasons for constructing a human genome from scratch.</description>
+<description>Across 121 countries, survey respondents without clean drinking water were more likely to report lacking food and experiencing threats to food safety. This pattern was consistent across all country‑income levels. Because of these interlinkages, water insecurity, food insecurity and food safety threats should be addressed t</description>
 </item>
 <item>
-<title>【自動自律実験】 Book of Cron Job</title>
-<link>https://www.nature.com/articles/d41586-026-01716-0</link>
-<guid>b0a093fe239ebb3b645a2279e78e4d8e9ca6b1b456d528f18e8bacbddcd51eb5</guid>
+<title>【農業】 Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink</title>
+<link>https://www.nature.com/articles/s43016-026-01361-w</link>
+<guid>005cc81e7a3aa8f00e3d3f618925e04b9ca526631d68d34b95a28060be4eee60</guid>
 <pubDate>2026-06-03</pubDate>
-<description>Code of conduct.</description>
+<description>Organic waste mismanagement can degrade soils and increase pollution. A machine learning approach using data from 848 global composting experiments reveals 19 key management parameters and strategies to transform composting from a net emitter to a carbon sink.</description>
 </item>
 <item>
-<title>【自動自律実験】 Microsoft upgrades controversial quantum chip — researchers are still sceptical</title>
-<link>https://www.nature.com/articles/d41586-026-01788-y</link>
-<guid>6c2088c0e9f39cf682566fcc776a4fccd59abfe2c586b67c6ab8b94568a2dbfc</guid>
+<title>【農業】 FAO MuNe expands beyond Rome with first installation at Venice Climate Week</title>
+<link>https://www.fao.org/newsroom/detail/fao-mune-expands-beyond-rome-with-first-installation-at-venice-climate-week/en</link>
+<guid>272731411d5d08c29a9ce113a7d3ad93beeb298bf4386f22d1477cef10bd70f9</guid>
+<pubDate>Wed, 03 Jun 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【自動自律実験】 Editorial Expression of Concern: Functional proteomic identification of DNA replication proteins by induced proteolysis &lt;i&gt;in vivo&lt;/i&gt;</title>
+<link>https://www.nature.com/articles/s41586-026-10727-w</link>
+<guid>3acf143cbb809c9c8e25940281283dbfe9168aeb119318684e0bb97cc81f4404</guid>
 <pubDate>2026-06-03</pubDate>
-<description>The tech giant says it will make ‘topological’ quantum computers that can be scaled up faster than competing technologies.</description>
+<description>Editorial Expression of Concern: Functional proteomic identification of DNA replication proteins by induced proteolysis in vivo</description>
+</item>
+<item>
+<title>【自動自律実験】 AI in science recruitment: friend or foe? Join our free webinar</title>
+<link>https://www.nature.com/articles/d41586-026-01774-4</link>
+<guid>f8d7c6f052662d98c6b3e662762982cf97f96dbc031112f06c45f6a4ac886f45</guid>
+<pubDate>2026-06-03</pubDate>
+<description>Discover the strengths, limitations and risks associated with using artificial intelligence in your science job applications.</description>
+</item>
+<item>
+<title>【自動自律実験】 Your phone can use tiny skin-colour changes to measure your heart rate</title>
+<link>https://www.nature.com/articles/d41586-026-01793-1</link>
+<guid>7b9b38d8cf3cc257cc72d02d5b10a5aee4ce66f95a25a4d9f35282679b5b084e</guid>
+<pubDate>2026-06-03</pubDate>
+<description>Passive heart-rate monitoring during regular phone use could provide early warning of health issues — plus, testing Richard Feynman’s solution to the ‘restaurant dilemma’ problem.</description>
+</item>
+<item>
+<title>【自動自律実験】 Reply to: The size of tropical vegetation gross primary production</title>
+<link>https://www.nature.com/articles/s41586-026-10561-0</link>
+<guid>5dca11ed1583218260b17d293a3ba16557e4f920d57d29cefc4cd652a364cf35</guid>
+<pubDate>2026-06-03</pubDate>
+<description>Reply to: The size of tropical vegetation gross primary production</description>
+</item>
+<item>
+<title>【自動自律実験】 The size of tropical vegetation gross primary production</title>
+<link>https://www.nature.com/articles/s41586-026-10562-z</link>
+<guid>ad0cc576cd9818b9bac03d4d850844d3215ee5d697c8498c70b8273da1a912f8</guid>
+<pubDate>2026-06-03</pubDate>
+<description>The size of tropical vegetation gross primary production</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/beyond-vector-similarity-hierarchical-context-aware-graph-rag-vs-standard-rag-in-enterprise-code-migration/</link>
-<guid>b19381f17d911e1a89d387d8c009d506c1a523e45d1512656fafe5600e408c9b</guid>
-<pubDate>Wed, 03 Jun 2026 15:12:19 GMT</pubDate>
+<link>https://research.google/pubs/elephants-goldfish-and-the-new-golden-age-of-software-engineering/</link>
+<guid>661ed4efb342c1da7d11df034a881425392baec7dfc068e4ac13a589cddbb120</guid>
+<pubDate>Wed, 03 Jun 2026 19:04:21 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73813-7</link>
-<guid>2bfeef2e9b84e7705b6c5923df8800b72e668aa401c26b2c4dd7521ca3c64a44</guid>
-<pubDate>Wed, 03 Jun 2026 15:12:22 GMT</pubDate>
+<guid>85e5bd61a1c5b86cac97e826366e814d149b49458ca398bad59242ef5e12f502</guid>
+<pubDate>Wed, 03 Jun 2026 19:04:23 GMT</pubDate>
 <description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10652-y</link>
-<guid>e354f806aaa011c5d9c693d94772e9242fe250d7f8461dbec2d787c018ad6ec4</guid>
-<pubDate>Wed, 03 Jun 2026 15:12:25 GMT</pubDate>
+<guid>804ed23253e0c25ee64f37b1052c612aa2ca1589f0188b7524112eb53ae8d9eb</guid>
+<pubDate>Wed, 03 Jun 2026 19:04:25 GMT</pubDate>
 <description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04403-9</link>
-<guid>5cb7481ec4db48d18bb7aa508131a8063d46a0af04291f6cf35fff516ba7dde4</guid>
-<pubDate>Wed, 03 Jun 2026 15:12:28 GMT</pubDate>
+<guid>ab259f83a3af1af96a65a1c31f8e2e339ba4bd5de2a20e0f0f6a15dc2f38e7e1</guid>
+<pubDate>Wed, 03 Jun 2026 19:04:27 GMT</pubDate>
 <description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
 </item>
 <item>
-<title>【EU】 AI Continent Action Plan</title>
-<link>https://digital-strategy.ec.europa.eu/en/policies/ecosystem-ai-innovation-europe</link>
-<guid>0cb72dfc407de928d4f279978bebe39d0ca76cae03a562d6fb4aae4c4bf5656e</guid>
-<pubDate>Wed, 03 Jun 2026 15:12:40 GMT</pubDate>
-<description>Explore the Commission&#x27;s AI ecosystem, where through initiatives like European Digital Innovation Hubs, AI Factories, or the AI Skills Academy, we foster innovation and drive Europe&#x27;s leadership in AI.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>8aa68e08c11265209037ccb890fd7e928c195ee01e39a0fa67094af9d736e497</guid>
+<pubDate>Wed, 03 Jun 2026 19:05:07 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 <item>
-<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
-<link>https://www.eurohpc-ju.europa.eu/index_en</link>
-<guid>bf7a90f1bc9c29b12fd1110b06e25171cbe03c85a436b329c29dc037b61ed662</guid>
-<pubDate>Wed, 03 Jun 2026 15:12:41 GMT</pubDate>
-<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>51290ec1e238cdaa4a83457aad7e36c948766c029aeeb84c89541eafbdca66f2</guid>
+<pubDate>Wed, 03 Jun 2026 19:05:15 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+</item>
+<item>
+<title>【環境】 233 Results</title>
+<link>https://www.canarymedia.com/search?q=artificial+intelligence</link>
+<guid>f34c1b3e6f8403a35bbd067fc6e920ca7479867bbb4fe8ebbde7f112af3c8ba0</guid>
+<pubDate>Wed, 03 Jun 2026 19:05:27 GMT</pubDate>
+<description>The leading newsroom covering the transition to clean energy, electrification and climate solutions. We report on how the world is decarbonizing with a…</description>
 </item>
 
 </channel>
