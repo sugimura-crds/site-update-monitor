@@ -4,70 +4,119 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 03 Jun 2026 00:24:12 GMT</lastBuildDate>
+<lastBuildDate>Wed, 03 Jun 2026 05:24:11 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Microsoft Discovery App インストールガイド</title>
-<link>https://qiita.com/hisaho/items/98a3dcb7c9ff5dbc9fee</link>
-<guid>a05f837426b7f2c5f16d7bca3022d5a364d7c1bf1b3f5c6c1f48ad433f01fef4</guid>
-<pubDate>2026-06-03T09:20:50+09:00</pubDate>
-<description>対象読者: Microsoft Discovery App を初めてインストールする方 所要時間: 約10分 参照元: microsoft/discovery - docs/discovery-app 🎉 Microsoft Discovery App は Mi...</description>
+<title>【Qiita】 watsonx OrchestrateでElevenLabsを使ってエージェントを自分の声でしゃべらせてみる</title>
+<link>https://qiita.com/haseshin/items/3e3250ad02b014350120</link>
+<guid>ecbc2de9e57ce4a31e5efd9c5977d0e03b63178ab367555653e2b0efb0bf441b</guid>
+<pubDate>2026-06-03T12:10:10+09:00</pubDate>
+<description>watsonx Orchestrateは様々なチャネル機能を提供しますが、Genesysのオーディオ・コネクターやSIPトランクを用いて電話回線と接続し、音声によってエージェントを使用することも可能です。Speech to TextやText to Speech、VAD(V...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントのトークン代を節約するNetflixのエンジニアが作ったツール「Headroom」について調べてみた</title>
-<link>https://qiita.com/shinkai_/items/61b10d10c63db47a64e7</link>
-<guid>acdf0210b249013ef450a87844ed6ba31aa335da7c4a5e33ec58281f031f67b3</guid>
-<pubDate>2026-06-03T09:19:10+09:00</pubDate>
-<description>Claude CodeなどのAIエージェントを日常的に使っていると、あっという間に制限に引っ掛かることがありませんか？ Netflixのシニアエンジニアがオープンソースとしてリリースした「Headroom」というトークン削減ツールが、数日で 5k stars・400 for...</description>
+<title>【Qiita】 日刊IETF (2026-05-19): AIエージェントの委任・受領記録とSRv6/ACME周辺の地ならし（Part 1）</title>
+<link>https://qiita.com/tetsuko_room/items/1c0a4afd3edc3ec33ed6</link>
+<guid>cb1e75b7991358e4a7293eacfd3646460e06d225ae4aaa9c124ea9cb5c32b9c8</guid>
+<pubDate>2026-06-03T13:48:17+09:00</pubDate>
+<description>こんにちは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-19（UTC基準）に公開されたInte...</description>
 </item>
 <item>
-<title>【Qiita】 [Microsoft Build 2026 基調講演まとめ] 第2部: Foundry・Microsoft IQ とエージェント基盤</title>
-<link>https://qiita.com/Nobuhiro_Okamoto/items/8a8fc64e1a7b24f87bea</link>
-<guid>920e98fdefe567f8d101c145427d3123840a9f89cef0fa73fe9c0aa14392c2a6</guid>
-<pubDate>2026-06-03T09:15:33+09:00</pubDate>
-<description>前回（第1部）はエッジ〜クラウドのインフラでした。 今回はその上の層、モデル・コンテキスト・ツールと、それを動かすエージェントランタイム / セキュリティを扱います。今年のキーノートで一番ボリュームがあったのがこの領域でした。 インテリジェンス層: データとコンテキスト...</description>
+<title>【Qiita】 日刊IETF (2026-05-18): AIエージェントの記憶・発見と、継続性エンベロープCEP三部作、CBOR診断表記CDN（Part2/2）</title>
+<link>https://qiita.com/tetsuko_room/items/a6e1460e9541a72411a7</link>
+<guid>2f63cca7ef39f64a15035164ae81660f29e5c46b1d7c99c9f3a783be3741e818</guid>
+<pubDate>2026-06-03T12:25:15+09:00</pubDate>
+<description>こんにちは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-18（UTC基準）に公開されたInt...</description>
 </item>
 <item>
-<title>【Qiita】 [Microsoft Build 2026 基調講演まとめ] 第1部: エッジからクラウドまで ― AIインフラの全体像</title>
-<link>https://qiita.com/Nobuhiro_Okamoto/items/ee06b8f6da065ac1592f</link>
-<guid>ee120197b9702a4b7938cdc9eb7fa891d83cf65cba4adf25469c1bfb02b3cbf9</guid>
-<pubDate>2026-06-03T09:05:09+09:00</pubDate>
-<description>2026年6月2日、サンフランシスコの Fort Mason で開催された Microsoft Build 2026 のオープニング基調講演（Satya Nadella 登壇、約2時間20分）を視聴したので、内容を3部構成でまとめます。 第1部（本記事）: AIスタック...</description>
+<title>【Qiita】 日刊IETF (2026-05-18): AIエージェントの監査・行動制御と、RATS証明・家庭内プライバシー宣言PPD（Part1/2）</title>
+<link>https://qiita.com/tetsuko_room/items/b8b73be8337e680ce9fd</link>
+<guid>4d06821326e864b5de98779507b91e79608e9cf5c465d2bd636e179e014c5bbb</guid>
+<pubDate>2026-06-03T10:25:42+09:00</pubDate>
+<description>こんにちは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-18（UTC基準）に公開されたInte...</description>
 </item>
 <item>
-<title>【Qiita】 Microsoft Foundry の Workflow エージェント実践ガイド</title>
-<link>https://qiita.com/wfan/items/56a56df162bde0127a8d</link>
-<guid>237de927469d24bd7505d2dbf8abce6f6954c3ec6dd270f6f0134303f77c96fe</guid>
-<pubDate>2026-06-03T08:46:01+09:00</pubDate>
-<description>はじめに Microsoft Foundry Agent Service には、エージェントを組み合わせて業務フローを自動化するための Workflow エージェント という仕組みがあります。GUI デザイナー上でノードを並べ、Power Fx で変数や条件を書きながら、...</description>
+<title>【Qiita】 俺的 Book of News キーノート編: Microsoft Build 2026 は『Agent を動かす層』が全部そろった回だった</title>
+<link>https://qiita.com/aktsmm/items/4cc75c8bf629edfd0413</link>
+<guid>4cc662764a34fb398412e1e46ca4d3379d7ab3a146f65eea2dda817a89797e25</guid>
+<pubDate>2026-06-03T14:16:16+09:00</pubDate>
+<description>こんにちは、Build を追いすぎて寝不足気味のアーキテクトのやまぱん！です。 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ 今回は、Microsoft Build 2026 の keynote を起点に、X、Micro...</description>
+</item>
+<item>
+<title>【Qiita】 「聞く AI」から「進める AI」へ: OpenClaw / ClawPilot / Microsoft Scout が見せる仕事エージェントの未来🦞</title>
+<link>https://qiita.com/aktsmm/items/90781d7e263eec2b6c27</link>
+<guid>25f1cf86f447b06ba0802537c4d41b75fc1be91992e22dc6e5f3146a6a796eba</guid>
+<pubDate>2026-06-03T10:26:55+09:00</pubDate>
+<description>こんにちは、最近 AI エージェントに仕事を任せすぎて自分の仕事量が分からなくなってきたアーキテクトのやまぱん！です。 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ 今回は、Microsoft の公開情報と、実際に触れた...</description>
+</item>
+<item>
+<title>【Qiita】 Microsoft Discovery App を使ってみた｜AI科学プラットフォームの6つの機能を徹底解説</title>
+<link>https://qiita.com/hisaho/items/14ec3b30d0c79bc1aa2a</link>
+<guid>6f44b47cdff9ed970216f6361686168838559642b3f751547f1caa95a9ab85de</guid>
+<pubDate>2026-06-03T10:58:44+09:00</pubDate>
+<description>はじめに 研究プロジェクトで、こんな経験はありませんか？ 📚 関連論文が100本以上あって、「あの論文にあの記述あったはず…」が見つからない 📋 研究タスクの依存関係が頭の中にしかなくて、チームで共有できない 🤖 文献サーベイを AI に任せたいが、手動で1つずつ検索・...</description>
+</item>
+<item>
+<title>【Qiita】 Agentic AI Foundationが示す、AIエージェント時代の相互運用性</title>
+<link>https://qiita.com/goofmint/items/00a8506246eb67bb1aa7</link>
+<guid>f3d615f6b0167757636f8049c2693fe4ef8fca2fba2c231db27c90115dd6abd4</guid>
+<pubDate>2026-06-03T13:33:06+09:00</pubDate>
+<description>本記事はCodeRabbitのポッドキャストTHE MERGEより、Agentic AI Foundation Explained: Angie Jones on What It Means for Developers - YouTubeの日本語解説記事です。 TL;D...</description>
+</item>
+<item>
+<title>【Qiita】 事業の「運営」を AI 組織に任せてみた — 発散して、畳んで、固定費にするまで</title>
+<link>https://qiita.com/bokuno_log/items/d158de8925415359ba91</link>
+<guid>760a8a78af419c5c8e05ef862119333c8052c9e7f38f0bc9b843a572e6360835</guid>
+<pubDate>2026-06-03T13:31:49+09:00</pubDate>
+<description>この記事は Zenn にも掲載しています。 開発の次に残っていたのは「運営」だった ひとりで小さなサービスを動かしていると、AI で開発がかなり回るようになったことを実感する。仕様を渡せば実装が上がってくるし、レビューも走る。コードを書く時間は、確かに短くなった。 そ...</description>
+</item>
+<item>
+<title>【Qiita】 「AIは若手のオモチャ」と見下しているシニアエンジニアこそ、今すぐAIを触るべきこれだけの理由</title>
+<link>https://qiita.com/fe1ix/items/c2e947ec1f610121ed61</link>
+<guid>57a296b3307dea1a9bc9e969298625308e5d9cf4050e348acf429793c1f93ceb</guid>
+<pubDate>2026-06-03T13:13:14+09:00</pubDate>
+<description>「コードなら自分で書いたほうが早い」の罠 「AIツール？ ああ、GitHub Copilot とか Cursor でしょ。若手がコードをコピペして動かすのには便利なんじゃない？ でも、俺たちのレベルになると自分で書いたほうが早いし、AIのバグを直すほうが面倒だよ」 そう言...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェント基盤の選定基準 — Dify / LangGraph / Mastra / カスタムグラフを「ドメイン × レイヤー」で切り分ける</title>
+<link>https://qiita.com/takish/items/a9d11317c3280df6be59</link>
+<guid>a1bf8a90c7fe06260474aab5e46b4f52fe00f20159f7a4116dc332ce6f36a706</guid>
+<pubDate>2026-06-03T11:33:45+09:00</pubDate>
+<description>「ノーコードの Dify？ コードで書くなら LangGraph？ TypeScript 一本なら Mastra？ それとも全部自前？」 PoC を動かすたびに、この 4択で足踏みしているチームをよく見かけます。機能比較表を並べても結論が出ないのは、「何に工数を割きたいか」...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/adcanvas-accessible-and-conversational-audio-description-authoring-for-blind-and-low-vision-creators/</link>
-<guid>4d28d411c37949a1bc062b0fe4bea07ae8dd2920677b0669ddf069494ff70e21</guid>
-<pubDate>Wed, 03 Jun 2026 00:23:21 GMT</pubDate>
+<link>https://research.google/pubs/pixel-watch-robust-heart-rate-sensing-from-multipath-ppg-and-on-device-deep-learning-trained-on-10000-hours-of-free-living-and-fitness-data/</link>
+<guid>691b87c953c877389ac545a50996b150bc250c04466dac383dc1d04f0407f17b</guid>
+<pubDate>Wed, 03 Jun 2026 05:23:34 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73813-7</link>
-<guid>696b06b87d8dd21d71aea99bc7ca0984edd1500ea46fcf5d0b705b1c07290c28</guid>
-<pubDate>Wed, 03 Jun 2026 00:23:24 GMT</pubDate>
+<guid>3c5d5e1b1db7108c7aaa35e3659b245bd4dd91c45058f3d78717fb3cda8e3de7</guid>
+<pubDate>Wed, 03 Jun 2026 05:23:37 GMT</pubDate>
 <description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10652-y</link>
-<guid>7619bd2b82eb2151769411b15cbd3ea3c6161595e60c5ccd4dc8c6f23407fa3b</guid>
-<pubDate>Wed, 03 Jun 2026 00:23:26 GMT</pubDate>
+<guid>c596308789eca7e3ccb9d5cb4083b91ba96dfc637dcc27f46473b54c8bc5bf2a</guid>
+<pubDate>Wed, 03 Jun 2026 05:23:40 GMT</pubDate>
 <description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>c46b9108b028536cc3c28016e7c6978b535470153db22e976f6994a3ffecfa8d</guid>
-<pubDate>Wed, 03 Jun 2026 00:23:26 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>0e775ff72aa960cdd25e58109126dc7760a67c4eb57e0410fa6ab73a017c9dce</guid>
+<pubDate>Wed, 03 Jun 2026 05:23:44 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+</item>
+<item>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.chiba-u.ac.jp/news/research-collab/post_674.html</link>
+<guid>f25bfa529e6079e382111111060080f3fe9aa576976d88f9e7dcf1d941e9a9eb</guid>
+<pubDate>Wed, 03 Jun 2026 05:23:54 GMT</pubDate>
+<description>研究所別一覧</description>
 </item>
 
 </channel>
