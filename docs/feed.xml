@@ -4,70 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 04 Jun 2026 05:19:26 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 Jun 2026 09:09:05 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 日刊IETF (2026-05-20): BGP-LSの相互接続拡張とAGTP監査ログ、DMARC三部作の発行（Part 2）</title>
-<link>https://qiita.com/tetsuko_room/items/46a4c14cab5d1c4b42fc</link>
-<guid>83ac05f96f59693fa76fc2381aa47495c7a2e620714752874670e3d1ab5d3661</guid>
-<pubDate>2026-06-04T13:22:21+09:00</pubDate>
-<description>こんにちは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-20（UTC基準）に公開されたInt...</description>
+<title>【Qiita】 日本酒記録アプリをAWSを使って作ってみた</title>
+<link>https://qiita.com/yo_arai/items/c61eb886faa1cee69054?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>e054f19b6b830ef95ccc3782d4365db07c5642e9be521bfea58562861210c685</guid>
+<pubDate>2026-06-03T00:17:43+09:00</pubDate>
+<description>はじめに 日本酒を飲むたびに「この銘柄・スペック、前も飲んだっけ？」「あのとき飲んだやつ何だったっけ？」と思うことが増えてきました。メモアプリに記録するのは面倒、SNSに投稿するのはちょっと違う、専用アプリはUIが好みでない。。。ということで、自分用に「酒ファイル」という...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-05-20): エージェント間の信頼モデルとPQC署名、家庭内プライバシー宣言（Part 1）</title>
-<link>https://qiita.com/tetsuko_room/items/186e57e33c628e5499c9</link>
-<guid>f7b4a8cdb926a633696922d5232e83bde4985f11cda93a8f77edeb280e7e4fa1</guid>
-<pubDate>2026-06-04T11:06:34+09:00</pubDate>
-<description>こんにちは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-20（UTC基準）に公開されたInte...</description>
+<title>【Qiita】 Codex + Oracle DB SkillsでOracle Databaseの実行計画レビューをしてみてみた</title>
+<link>https://qiita.com/shirok/items/45e2c49630fd002cf493?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>e5d883f073c472d48a531fc2c7eaf59c15c8655fdda7640f9ecda49370a910f9</guid>
+<pubDate>2026-06-04T06:56:27+09:00</pubDate>
+<description>Oracle DB Skills は、Oracle Database向けの AIエージェント用ナレッジ集 / Skill集 です。 Codex や Claude Code のようなAIコーディングエージェントに「Oracle DBではこう考える・こう書く・こう確認する」と...</description>
 </item>
 <item>
-<title>【Qiita】 さくらライトプラン×GitHub Copilot、初心者の自分にはかなり良かった話</title>
-<link>https://qiita.com/MacSnowDaddy/items/57e0c732e621564e33af</link>
-<guid>8135f3cafa6c81f0a545c4e8ca0e61dffc97fbd65f8308cf1ef3aab30b935d48</guid>
-<pubDate>2026-06-04T13:36:14+09:00</pubDate>
-<description>「AWS EC2、使ってたことあるけど、設定間違っちゃたらとんでもない請求される？？サーバーあれば便利な気がするけど、日々のコストも気になるし。。。結局放置しちゃうんだよね。WordPress？やっぱり必要なのかな？？」 最初はなんとなくそう思っていました。 なんとなく知っ...</description>
+<title>【Qiita】 Cursorで使えるAIモデル比較 2026/06</title>
+<link>https://qiita.com/yashi84/items/da416a141ef1e7867dd3</link>
+<guid>554f6bbce9d6f7fd9c65011d9156c46d49b3fe0102c2abb1fc287dc05480427f</guid>
+<pubDate>2026-06-04T17:54:54+09:00</pubDate>
+<description>はじめに こんにちは、やしまです。 先月の記事（Cursor利用モデル比較 2026/05）を書いてから1ヶ月も経っていないのに、モデルが更新されまくっているので早速アップデートしておこうと思います。 モデルのサイクルが速すぎて備忘録の更新が忙しいという謎の時代になってき...</description>
 </item>
 <item>
-<title>【Qiita】 「LLMの出力が安定しない問題」を「まずモジュールを作る」でかなり改善できたという話</title>
-<link>https://qiita.com/Verdent-Akira/items/44c098775c9151bd72af</link>
-<guid>ee5a5689e30401c82f0162d6b7283c2aed67262a52a502aeaec06b00aa7e855e</guid>
-<pubDate>2026-06-04T11:23:15+09:00</pubDate>
-<description>はじめに LLMを使って開発していると、こんなことが増えてきませんか？ 無限プロンプト地獄： 最初の出力で80%はできているのに、細かい仕様の調整やバグ修正のために、20回以上もやり取り（微調整）を繰り返すことになる。 パターンの重複： 似たような機能を作るたびに、...</description>
+<title>【Qiita】 【まとめ】AI生成コードのセキュリティレビューで見るべきポイント</title>
+<link>https://qiita.com/miruky/items/81d93feece154fb4b89a</link>
+<guid>3c7bb62c4103acd59bf5d7d191a193d894094dd8e1ce288507ea11bf62567b28</guid>
+<pubDate>2026-06-04T17:14:18+09:00</pubDate>
+<description>はじめに こんばんは、mirukyです。 ここ一年ほど、バイブコーディングで作られたアプリの脆弱性が話題になる場面が非常に増えている印象があります。AIに実装を任せやすくなったからこそ、生成されたコードをどうレビューするかが重要になっています。 この記事では、AI生成コー...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント事故の初動が遅れるチーム向け 30分インシデントRunbook</title>
-<link>https://qiita.com/YushiYamamoto/items/4927543a353712fa9aa3</link>
-<guid>b517ecbeab388407db47df8b31f8952a872819c914bfeeecf46cc8675484b7a5</guid>
-<pubDate>2026-06-04T10:45:29+09:00</pubDate>
-<description>AIエージェントを本番で回し始めると、問題は「賢いかどうか」よりも、異常なセッション、暴走した自動化、説明できない差分、止める判断の遅れに移ります。 2026年6月1日から6月3日に公開された英語の一次情報を見ると、事故対応の重心はかなり明確です。OpenAIはセッション...</description>
+<title>【Qiita】 「API管理」では足りない——AIエージェントを止め方・見張り方・責任から設計する</title>
+<link>https://qiita.com/mhamadajp/items/4b46de8e932fbe1f803a</link>
+<guid>bf9fa6670c4bf6b7342ebe1bc8a64d2dc1375f0624a04a7bdf3cd91134eaf239</guid>
+<pubDate>2026-06-04T16:53:49+09:00</pubDate>
+<description>2026年5月21日、Gartner Japan はAIエージェントのセキュリティで注力すべき6つのアクションを発表しました（プレスリリース）。同社の国内調査では、AIエージェント活用の議論が先行し、セキュリティの議論が後手に回っていると答えた割合が59.3% にのぼります...</description>
 </item>
 <item>
-<title>【自動自律実験】 This mysterious lung disease affects millions of people – a drug tested in mice shows promise</title>
-<link>https://www.nature.com/articles/d41586-026-01789-x</link>
-<guid>14950ec3169cad736b2e54e5e19652fe4c6d4e300db1a2f5424b9991c6486e4d</guid>
-<pubDate>2026-06-04</pubDate>
-<description>The therapy activates a protein that could stop pulmonary fibrosis from progressing.</description>
+<title>【Qiita】 AIコーディングにおける「文脈健忘税」問題と、持続的記憶層（Agent Memory）の必要性</title>
+<link>https://qiita.com/memorylakeai/items/c5038fbff854234df94c</link>
+<guid>2bce8c7c4586b011be3b99fc932f712cf77db36dee644617262118e5a4e7d26f</guid>
+<pubDate>2026-06-04T15:51:28+09:00</pubDate>
+<description>はじめに ここ最近のLLMの推論能力（Reasoning）の向上により、CursorやClaude Code、各種OSS系AI Agentを日々の開発ワークフローに組み込むエンジニアが急速に増えています。 エージェントがより複雑なタスクを自律的に解決できるようになる一方で...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code入門 | mode, model, effort からCLAUDE.mdまで。初めての方が一通り使えるようになるガイド</title>
+<link>https://qiita.com/Ryotaro-namaketAI/items/43619874303949059b54</link>
+<guid>6a7a63add81fe836a3055f7e2137b92a1dfd8e14186a7be9d2fdfd26a8d54c1e</guid>
+<pubDate>2026-06-04T17:20:53+09:00</pubDate>
+<description>この記事について Claude Codeをはじめて触るエンジニア向けの入門記事です。 上から読めば自分の手で動かせるようになり、つまずいたときに何を調べればいいかも分かる状態を目指しました。 わかること インストールから最初のセッション 必ず出会うplanとautoの...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code Routines入門 — スケジュール・GitHub・APIで自律化するAIワークフロー</title>
+<link>https://qiita.com/kai_kou/items/0146f85aefa7b0063df0</link>
+<guid>b56e49ea19c74fdbfd24e683fe6f72e12aef88e94a3550faea16bf9068687db3</guid>
+<pubDate>2026-06-04T15:00:38+09:00</pubDate>
+<description>はじめに 「毎晩バックログを整理してほしい」「PRが開くたびにコードレビューを自動実行したい」「監視アラートが来たら即座に原因調査と修正PRを作ってほしい」——そうしたタスクを、自分のマシンを起動しておかなくても自動実行できる仕組みが Claude Code Routin...</description>
+</item>
+<item>
+<title>【Qiita】 Microsoft Foundry Agent Service入門 — Build 2026の新機能とエージェント本番運用ガイド</title>
+<link>https://qiita.com/kai_kou/items/cfbd421f110f14032457</link>
+<guid>9b6b44e9a8e49c4109e246593c3995dfd653d8decaf79d0fe3b4af9f9d672cca</guid>
+<pubDate>2026-06-04T15:00:36+09:00</pubDate>
+<description>はじめに 2026年6月2〜3日に開催された Microsoft Build 2026 では、AIエージェントを本番環境で運用するための基盤として Microsoft Foundry Agent Service の大型アップデートが発表されました。ホスト型エージェント、A...</description>
+</item>
+<item>
+<title>【Qiita】 Grok Build CLI入門 — xAIのコーディングエージェントを使いこなす</title>
+<link>https://qiita.com/kai_kou/items/fb7d4fd9b739fccccba2</link>
+<guid>436df1113a4b79f926694489d6902d5ff5beb4f6cffa30d304c55b8a2e960a4d</guid>
+<pubDate>2026-06-04T15:00:34+09:00</pubDate>
+<description>はじめに xAI が、ターミナルで動作するコーディングエージェント Grok Build を公開しました。Claude Code（Anthropic）や Codex CLI（OpenAI）と同じ「ターミナル常駐型のAIコーディングエージェント」というカテゴリに、xAI が...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/conditional-execution-of-compiler-passes-based-on-per-script-feature-detection/</link>
-<guid>81d5831abd810654d42593f5a79d51a5e0fe3d9df5c4b2613cc0fad270592484</guid>
-<pubDate>Thu, 04 Jun 2026 05:18:18 GMT</pubDate>
+<link>https://research.google/pubs/robust-wireless-resource-allocation-against-adversarial-jamming/</link>
+<guid>fd22f40ff447c567cdc126303290d8d18ba9190bf19700ddf2f4a84ca41ad958</guid>
+<pubDate>Thu, 04 Jun 2026 09:08:16 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73813-7</link>
-<guid>8f44223cfb8b651923b22082a66fddfeb7190bc287595d026b12be22ffc855f8</guid>
-<pubDate>Thu, 04 Jun 2026 05:18:21 GMT</pubDate>
+<guid>309d05d2576498ddc79b6a6787396d0b13fe55ac3f47308b94b9d9114b32de3f</guid>
+<pubDate>Thu, 04 Jun 2026 09:08:18 GMT</pubDate>
 <description>Making the decision between technically challenging partial nephrectomy (PN) and radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant challenge for urologists. Rapid glomerular filtration rate (GFR) decline (annual decline &amp;gt;3 mL/min/1.73 m²) after RN is considered an abnormal renal function state, and if this risk can be predicted preoperatively, PN may be pursued even when technically demanding. We retrospectively analyze contrast-enhanced computed tomography images and clinical data from 1621 patients across multiple centers. A multimodal deep learning model is developed to predict rapid GFR decline after RN. The model achieves an area under the curve of 0.788–0.873 in external test sets. It stratifies patients into high- and low-risk groups with significantly different risks of chronic kidney disease progression. Here we show that the model demonstrates potential for assisting treatment decisions in patients with complex RCC for whom PN is challenging but feasible. Deciding between partial nephrectomy (PN) or radical nephrectomy (RN) in patients with complex renal cell carcinoma (RCC) remains a significant clinical challenge. Here</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-10652-y</link>
-<guid>669ffb9f534f88526aa7a634a06ad95def8e9b8b30f35d5d1c2eddc2f7a3055d</guid>
-<pubDate>Thu, 04 Jun 2026 05:18:23 GMT</pubDate>
-<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.niigata-u.ac.jp/news/2026/1132665/</link>
+<guid>824c7f67a4c396dffbafc900421ab2ed8617f74a6cb69ebc84cea48c6ada922a</guid>
+<pubDate>Thu, 04 Jun 2026 09:08:49 GMT</pubDate>
+<description>本研究成果のポイント ダイズではDDM1が失われると発芽後に生育できなくなる。 エダマメ（未熟種子）では、光合成に関わる遺伝子の発現にDDM1が必要である。 DDM1量の低下による影響は、ヘテロクロマチンよりもユークロマ […]</description>
 </item>
 
 </channel>
