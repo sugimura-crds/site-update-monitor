@@ -4,28 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 04 Jun 2026 23:43:49 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Jun 2026 02:32:26 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた</title>
-<link>https://qiita.com/shinkai_/items/626dfa7857f2d554784e</link>
-<guid>0847f9c69818f8057e4641ca5ff662b195f3d5dc4f699c48a982893c0fb24a13</guid>
-<pubDate>2026-06-05T07:06:07+09:00</pubDate>
-<description>2026年6月1日から GitHub Copilot の課金体系が変わりました。 X（Twitter）では日本でも海外でも辛辣な意見ばかり出ていました。Claude Sonnetのクレジット消費量が旧制度の9倍、Claude Opusにいたっては27倍という数字が一部ユーザ...</description>
+<title>【Qiita】 AIを社内データにつなぐ前に決める5つの分離ルール</title>
+<link>https://qiita.com/YushiYamamoto/items/9e82e266dcd02e729a02</link>
+<guid>03451ef498d96da93c97bd996dc69bbb79dd4669c3f54dc46f59328e731239a8</guid>
+<pubDate>2026-06-05T10:41:56+09:00</pubDate>
+<description>AI機能を導入するとき、議論はつい「どのモデルが強いか」に寄りがちです。ですが、2026年6月1日から6月4日に公開された英語の一次情報を並べると、実装現場のボトルネックは別の場所にあります。 モデルの記憶がどこまで自動的に育つのか 社内コンテキストをどの境界で渡すのか...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-framework-for-interactive-machine-learning-and-enhanced-conversational-systems/</link>
-<guid>9fc2764a6dea8dc3f81554e317a466b17ef9baf108a7d5a1df49a757bd085279</guid>
-<pubDate>Thu, 04 Jun 2026 23:43:12 GMT</pubDate>
+<link>https://research.google/pubs/towards-ai-as-a-collaborative-partner-a-taxonomy-of-ai-agent-behavior-in-software-engineering/</link>
+<guid>deac6e1c2f076fb47e07ae95c6c00a1dfc3e94320eb93119b08ff1c94c93b053</guid>
+<pubDate>Fri, 05 Jun 2026 02:31:50 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>dc548ac67b9723de77b164b4bb35705ff0356ceb3d6059e934e16158ea20691e</guid>
-<pubDate>Thu, 04 Jun 2026 23:43:15 GMT</pubDate>
-<description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 
 </channel>
