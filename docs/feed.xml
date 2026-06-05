@@ -4,70 +4,161 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 05 Jun 2026 10:48:03 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Jun 2026 13:49:48 GMT</lastBuildDate>
 
 <item>
-<title>【農業】 FAO study: Global meat supply quadrupled over six decades, but uneven distribution persists</title>
-<link>https://www.fao.org/newsroom/detail/fao-study--global-meat-supply-quadrupled-over-six-decades--but-uneven-distribution-persists/en</link>
-<guid>ac12e2afacf7c2ae357ee4673171b3517778519607f7bab133f051d0a8d3c698</guid>
+<title>【Qiita】 AI時代、“ITを知らない”が普通に危険になってきた話</title>
+<link>https://qiita.com/prum_hitomi/items/01defe8188de2123b25c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>33c82c9558b0b476802d0c82a3671142791070dd8c5d152dfe20adaf3da023c4</guid>
+<pubDate>2026-06-05T13:33:19+09:00</pubDate>
+<description>はじめまして。株式会社PRUMでエンジニアをしているひとみです。 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、 仕事で起きやすい“ズレ”について整理して発信しています。 誰かの助けになれば幸いです。 AI時代、“ITを知らない”が普通に危険になってきた...</description>
+</item>
+<item>
+<title>【Qiita】 非エンジニアでもAIで小さなシステム修正はできる。Claude Code・Cursor時代の依頼術</title>
+<link>https://qiita.com/yamadagenki/items/bc59607d940a9e87c189?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>73856c4ac6dda5ecb9fe09d6399909d7f4e1e5cf1192aca479df749ee45822c4</guid>
+<pubDate>2026-06-05T09:50:46+09:00</pubDate>
+<description>自己紹介 はじめまして。株式会社シンシアの徐 聖博です。 株式会社シンシアでは、Webシステム・モバイルアプリの受託開発、IT人材紹介、そして現在は新規事業として「Dandori AI」というサービスの開発を行っています。 Dandori AIは、イベント業界向けに...</description>
+</item>
+<item>
+<title>【Qiita】 IBM Bob Shell を IBM Cloud Code Engine で REST API として動かしてみた</title>
+<link>https://qiita.com/Tomoyuki_Hori/items/d18410ccc6917e716844</link>
+<guid>e538cc5959b8c6248997ab1f88bef053ce4c3a75d4b6bde07e3cddb26a41103b</guid>
+<pubDate>2026-06-05T17:27:13+09:00</pubDate>
+<description>はじめに IBM Bob は IBM が提供する AI コーディングアシスタントで、VS Code 拡張の Bob IDE と CLI 版の Bob Shell の 2 形態を提供しています。 Bob IDE については利用者が多いものの、Bob Shell はまだ少ない...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントの操作ログは残さないと怖い。ClickHouseで監査できる形にする設計メモ</title>
+<link>https://qiita.com/harupython/items/ebc50b27b6c47209f7b3</link>
+<guid>55a8c4b909bce886d650f12ad823327c9dfbd937c1e86fb7118bc3f887a7aeda</guid>
+<pubDate>2026-06-05T21:52:34+09:00</pubDate>
+<description>この記事は、AIエージェントを本番で動かすときのログ設計についてのメモです。ClickHouseを「速いログ置き場」としてだけではなく、あとから説明できる監査基盤として見る話です。SQLは設計例です。 はじめに AIエージェントは便利です。 ユーザーの依頼を受けて...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeで11回やらかした。Zennが落ちてブログのURLが消えた1か月の全記録</title>
+<link>https://qiita.com/saitoko/items/af5f0cd4076375140684</link>
+<guid>4d5fb11ca846f4677ed440078a723cf1223aa7de2d2610a3f0ce9f60a97a9afe</guid>
+<pubDate>2026-06-05T21:13:32+09:00</pubDate>
+<description>この記事の実施記録（2026年4月〜5月）: Claude Code でCOO・writer・researcher・reviewer・reader の5役を分担する多エージェント組織を1か月運用した。その間に発生したガバナンスインシデントを全11件記録し、原因類型・被害範囲...</description>
+</item>
+<item>
+<title>【Qiita】 「調べますね」— AI当直アナリスト ケイティ：見た目ゆるふわ中身は超エキスパートSOC（Sysdig × Claude × OpenAI）</title>
+<link>https://qiita.com/takao-shimizu/items/bcaff119caea77ec75ba</link>
+<guid>bea603efcb5aaa6dfa68e53990e5230a275a5b6d106d0b5500d1bc6f9920b996</guid>
+<pubDate>2026-06-05T19:57:15+09:00</pubDate>
+<description>深夜2時。アラートが鳴る。眠い目をこすってログを開き、プロセスツリーを辿り、「これは本物か、誤検知か」を判断する。 ——この一次対応を、AIに任せられないか？ 本稿は、そんな問いから始めた PoC 「AI SOC Avatar Duty Officer」 の設計と実装の記...</description>
+</item>
+<item>
+<title>【Qiita】 CodeXはどこまで自走できるのか？オーケストレーターを整備してシステム開発を任せてみた</title>
+<link>https://qiita.com/Take-a-valley/items/71b3a8075a89b0ab29d9</link>
+<guid>c2b05e6e1aac50e694697dc0e2107fd05637b78053f2afc6b8dbabe291beaac6</guid>
+<pubDate>2026-06-05T17:16:51+09:00</pubDate>
+<description>はじめに 前回、 未経験エンジニアがCodexを「プログラミング学習メンター」として使うためのプロンプト設計 という記事を書きました。 その後、AIエージェントに関するニュースをあれこれ調べていると、「オーケストレーター」というワードを目にすることがありました。 詳細は...</description>
+</item>
+<item>
+<title>【Qiita】 &quot;Let me look into that&quot; — Katie, the soft-looking but seriously expert AI on-call SOC analyst (Sysdig × Claude × OpenAI)</title>
+<link>https://qiita.com/takao-shimizu/items/93db209b5f42a94bcfcc</link>
+<guid>84b8f9d46e9ea8e04cb65f4b170e6b73510ce09bd536556eb6f627b7af967847</guid>
+<pubDate>2026-06-05T20:11:48+09:00</pubDate>
+<description>2 a.m. An alert fires. You rub your eyes, open the logs, walk the process tree, and decide: real, or false positive? ——Could an AI handl...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Mythos Preview入門 — Project GlasswingとAIゼロデイ発見の全貌</title>
+<link>https://qiita.com/kai_kou/items/4e148a06b540c4266108</link>
+<guid>86fcf3968598c4d5db55339d3331f3087bb1ac66c4986daa5e7d9b7994f234ef</guid>
+<pubDate>2026-06-05T19:51:35+09:00</pubDate>
+<description>はじめに 2026年4月7日、Anthropicは異例の発表を行いました。新しいフロンティアモデル「Claude Mythos Preview」が、全主要OS・全主要ブラウザでゼロデイ脆弱性を大量発見できるレベルに到達したというものです。 同時に発表された「Projec...</description>
+</item>
+<item>
+<title>【Qiita】 Warp入門 — ターミナルから生まれたオープンソースAIエージェント開発環境の全貌</title>
+<link>https://qiita.com/kai_kou/items/3f4ebb326e1655092a40</link>
+<guid>058cb557e48dfcbd55b18cdf8e2ee8abf96ea7c5bff169f97a4b573344d46c2c</guid>
+<pubDate>2026-06-05T19:51:32+09:00</pubDate>
+<description>はじめに 2026年4月28日、Warpはターミナルクライアントをオープンソース化し、「AIエージェント開発環境（Agentic Development Environment）」として再定義しました。 700K+の開発者が利用するWarpは、単なるターミナルエミュレー...</description>
+</item>
+<item>
+<title>【Qiita】 Microsoft Agent 365入門 — AIエージェントを全社ガバナンスするGA完全解説</title>
+<link>https://qiita.com/kai_kou/items/6c9b4fb086d598d7e79c</link>
+<guid>9aad111ce25e7c5d971d4229f6867d685fa7973cf124cb2ba7e432472e8c7d97</guid>
+<pubDate>2026-06-05T19:51:30+09:00</pubDate>
+<description>はじめに 2026年5月1日、Microsoftは Microsoft Agent 365 を商用向けに一般提供（GA）しました。 Agent 365 は、企業内に急増する AI エージェントを「観察（Observe）」「統制（Govern）」「保護（Secure）」す...</description>
+</item>
+<item>
+<title>【農業】 From record growth to impact: FAO welcomes ambitious new funding cycle of Global Environment Facility</title>
+<link>https://www.fao.org/newsroom/detail/from-record-growth-to-impact--fao-welcomes-ambitious-new-funding-cycle-of-global-environment-facility/en</link>
+<guid>b1e721fe9ade776bea1b21a7678bcb10fe7ad4a31d976562243be66293b7eb42</guid>
 <pubDate>Fri, 05 Jun 2026 12:00:00 Z</pubDate>
 <description></description>
 </item>
 <item>
-<title>【農業】 FAO Food Price Index broadly stable in May even as cereal quotations increase</title>
-<link>https://www.fao.org/newsroom/detail/fao-food-price-index-broadly-stable-in-may-even-as-cereal-quotations-increase/en</link>
-<guid>40d1cc88055e4eafc3ee77c6811f0a1e94e16e956aadae095999f92ebe2d637b</guid>
-<pubDate>Fri, 05 Jun 2026 12:00:00 Z</pubDate>
-<description></description>
+<title>【環境】 Uniting forces for green carbon chemicals</title>
+<link>https://www.nature.com/articles/s41893-026-01852-5</link>
+<guid>bcd6fd16a6e547cdeb044efe66395c205949c62eda5e29e8c08db4acfd6d1917</guid>
+<pubDate>2026-06-05</pubDate>
+<description>The shift towards renewable carbon for producing everyday chemicals hinges on innovative strategies to utilize sustainable feedstocks. By synergizing catalysis and reaction engineering, scientists can now incorporate renewable fatty acids into high-value end products, enhancing the potential of a circular bioecon</description>
 </item>
 <item>
-<title>【環境】 Methane eaters cannot speed up enough</title>
-<link>https://www.nature.com/articles/s41558-026-02656-3</link>
-<guid>bd608d1e3d9e3c246a105af471c1e7de468232f7ce43274920ad33144e933fa8</guid>
+<title>【環境】 Forcing self-metathesis reaction beyond thermodynamic equilibrium for green chemicals</title>
+<link>https://www.nature.com/articles/s41893-026-01847-2</link>
+<guid>6229d6f907e097b6785890a403cd1ac113c2310e2581535069c02fc27f68ed52</guid>
 <pubDate>2026-06-05</pubDate>
-<description>Global warming boosts freshwater methane production. Now, a study shows that methane oxidizing bacteria cannot increase their methane consumption rates enough in response to warming-induced enhancement of methane availability, leading to higher emissions.</description>
+<description>The self-cross metathesis of oleic acid esters enables synthesis of valuable, fully biosourced chemicals, but its productivity is thermodynamically limited to 50%. Here the authors overcome this limit to double the reaction yield by using a reactive distillation set-up.</description>
 </item>
 <item>
-<title>【環境】 Blue carbon projects must uphold the land and sea rights of coastal peoples</title>
-<link>https://www.nature.com/articles/s41558-026-02643-8</link>
-<guid>755a9234de993f067ab1bcb3c96fa357a29b6e4593820d14647e2df6ebb1f411</guid>
+<title>【環境】 Global patterns of reservoir sedimentation and overlooked risks in small reservoirs</title>
+<link>https://www.nature.com/articles/s41893-026-01859-y</link>
+<guid>63fb2aa559443199f19c4dcb8a5fcad96c85e43df2d8676e6099eb3af46088db</guid>
 <pubDate>2026-06-05</pubDate>
-<description>Blue carbon brings new interest in the land and sea rights of coastal communities, small-scale fishers and Indigenous peoples. While promises of climate mitigation, conservation and economic benefits are compelling, blue carbon projects must uphold local agency and rights as a legal and ethical duty, not just as </description>
+<description>Global reservoirs are under threat from increasing sedimentation rates, which threaten infrastructure function and storage capacity. A focus on large reservoirs underestimates the scale of the problem and the importance of resilient small reservoirs for global water security.</description>
 </item>
 <item>
-<title>【環境】 A fixed methane filter maximizes freshwater emissions under warming</title>
-<link>https://www.nature.com/articles/s41558-026-02649-2</link>
-<guid>f3a666ce3c1c18e7d9412d935f88bfb8b0219ed8d3dd796b602a39dd0946d4a2</guid>
+<title>【自動自律実験】 Europe is ditching US tech — what does this mean for researchers?</title>
+<link>https://www.nature.com/articles/d41586-026-01610-9</link>
+<guid>3da49f9a00d682b23541db0acf805d7e08b0acf458effea39f50705657fa1f33</guid>
 <pubDate>2026-06-05</pubDate>
-<description>How the balance of microbial methane production and oxidation in freshwater systems will change with warming is unclear. This study uses natural warming experiments to demonstrate that methane emissions increase because oxidation keeps pace with, but cannot exceed, warming-accelerated production.</description>
+<description>European governments are choosing European digital tools — and some universities and researchers are doing the same.</description>
 </item>
 <item>
-<title>【環境】 Respecting tenure and the bundle of rights in blue carbon guidance</title>
-<link>https://www.nature.com/articles/s41558-026-02651-8</link>
-<guid>598566854d0f7d7de7e16f56d6d6bea61d24c2f9d2a52b53d872460628832e1a</guid>
+<title>【自動自律実験】 See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May&#x27;s best science images</title>
+<link>https://www.nature.com/articles/d41586-026-01609-2</link>
+<guid>5832d4d199efdb5de18bc9e380f4dc3ab0c745a0fae81d7e680ed2c5a1a8025d</guid>
 <pubDate>2026-06-05</pubDate>
-<description>Blue carbon projects are expanding, yet their implications for tenure security remain uncertain. Analysis of 122 guidance documents reveals that rights are narrowly interpreted and key international obligations are overlooked, leaving rightsholders vulnerable to dispossession and exclusion.</description>
+<description>The month’s sharpest science shots, selected by Nature’s photo team.</description>
+</item>
+<item>
+<title>【自動自律実験】 Electric vehicles cut pollution in China – and prevent 260,000 premature deaths</title>
+<link>https://www.nature.com/articles/d41586-026-01781-5</link>
+<guid>2cb444735298b16712c1f21b16bdd514437049700a7645d7b01fc6ca3c2619ec</guid>
+<pubDate>2026-06-05</pubDate>
+<description>Having fewer fossil-fuel powered cars on the road is reducing some pollutants, but not others.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/who-controls-the-curriculum-for-ai-the-limits-of-participatory-design-for-educational-ai/</link>
-<guid>213e2a085c4906e63f4301e936426db8c867d0350966e52f3bb47cc3cd966329</guid>
-<pubDate>Fri, 05 Jun 2026 10:47:00 GMT</pubDate>
+<link>https://research.google/pubs/semantic-data-modeling-graph-query-and-sql-together-at-last/</link>
+<guid>958a89ba8d8746b03592390b313998cc29e86efa28d206c04763574d5f59814d</guid>
+<pubDate>Fri, 05 Jun 2026 13:48:46 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>98bda4033a1fb0dc5791992b6300f942a5c82a0925f558b04cbd94f241427739</guid>
-<pubDate>Fri, 05 Jun 2026 10:47:02 GMT</pubDate>
+<guid>628b6be853941b9fb905627ac2b98588c9bb88e0ac30627ff7510b1121f15666</guid>
+<pubDate>Fri, 05 Jun 2026 13:48:49 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04403-9</link>
-<guid>1fdc783a5f53ae66f1722ceb36dc6ba97670d8857f4ccb1325492cb3bd0d9ac7</guid>
-<pubDate>Fri, 05 Jun 2026 10:47:06 GMT</pubDate>
-<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>35d88ee7bcbba11d343e10477c2cbb38f56c61f1c97c4ed87ff0cecdbc04714d</guid>
+<pubDate>Fri, 05 Jun 2026 13:48:51 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>8e4cdfe7edaa6bc1f55199672d4e15e18f09d5a52d12b2a40d9cdfe1bab6d0f4</guid>
+<pubDate>Fri, 05 Jun 2026 13:49:22 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 
 </channel>
