@@ -4,28 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 06 Jun 2026 18:09:19 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Jun 2026 19:52:24 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 Db2 Pacemakerクラスターの引き継ぎ時にユーザーアプリケーションも引き継ぐ例</title>
+<link>https://qiita.com/hiroyuki_onodera/items/24f471542504efb0ef9e</link>
+<guid>a11e16ba4a2b57b7445c3dd6f9cdad8912dcd036ea618b1dd2fd36f9f0b54ca5</guid>
+<pubDate>2026-06-07T01:44:38+09:00</pubDate>
+<description>概要 db2cmコマンドを用いて構築する IBM Db2 Pacemakerクラスター構成では、Db2およびサービスアドレス(仮想IP)、関連ディスク資源以外を引き継ぐことができません。 そのため、Db2の引き継ぎ時に、他のユーザーアプリケーションも同時に引き継ぎを行なう...</description>
+</item>
+<item>
+<title>【Qiita】 kiro-cli と OpenClaw連携 によるドメインAIにSPEC整備させる実装</title>
+<link>https://qiita.com/TT-Resolver/items/a05f22317ffb413421bd</link>
+<guid>f5a7cd61210da0502d2257c6f691ac3e6063f37780ba38ed111fc8257bf25c0c</guid>
+<pubDate>2026-06-07T01:28:15+09:00</pubDate>
+<description>さて皆様はKIRO使っているかい？？ 俺は紆余曲折あり、ClaudeCodeの前にKIROを使い始めた珍しいルートかもしれない。 更に秘書AIというか自律駆動AIとしてはOpenClawを併用している。 ※OpenClawから一人称俺にしておいてと頼まれたので俺にしておく ...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/marginalized-bundle-adjustment-multi-view-camera-pose-from-monocular-depth-estimates/</link>
-<guid>236e5ada5d645aabd02e997ed06325ae32ea8fdfd9dc6262601f067a9a9765c9</guid>
-<pubDate>Sat, 06 Jun 2026 18:07:51 GMT</pubDate>
+<link>https://research.google/pubs/a-probabilistic-framework-for-learning-nonintrusive-corrections-to-longtime-climate-simulations-from-shorttime-training-data/</link>
+<guid>ab40252511ec03132eb48fa7fd132b362cd423b10b4ec5276ae8a36174c6fb7b</guid>
+<pubDate>Sat, 06 Jun 2026 19:51:51 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>edbf2bbee6c0c5f99bf38a0dbe8c46e8a6a8dd15830becd7c659093130ee08f5</guid>
-<pubDate>Sat, 06 Jun 2026 18:07:54 GMT</pubDate>
+<guid>b0077082a5e3d13780367f8ee1626a46c85cfc044b5a828c9ff0a429ce2420c9</guid>
+<pubDate>Sat, 06 Jun 2026 19:51:54 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>0b69ecce04be2d9461ead4b5b9c63056e282925043b0185ab775cfc850207e37</guid>
-<pubDate>Sat, 06 Jun 2026 18:07:57 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
