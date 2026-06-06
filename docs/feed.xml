@@ -4,35 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 06 Jun 2026 11:18:16 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Jun 2026 12:50:34 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「個人開発アプリ投稿サイトを作って」で始めたら、ほぼ完成した話</title>
-<link>https://qiita.com/sweetfish_river/items/c5a534f46c28a4fa4f3a</link>
-<guid>b856dffdf4606907519bf6b90bded000067a1acc134cc974de3fbadb03d3ba6f</guid>
-<pubDate>2026-06-06T20:05:36+09:00</pubDate>
-<description>最近、AIエージェントを使った開発が話題になっています。 とはいえ、 「LPくらいなら作れるでしょ」 「実際のサービスは無理じゃない？」 と思っていました。 そこで試しに、Antigravity CLIにこんな指示を出してみました。 AppPortというまだ世の中に知られ...</description>
+<title>【Qiita】 OpenAI on Amazon Bedrock入門 — GPT-5.5・Codex・Managed Agentsを実装する</title>
+<link>https://qiita.com/kai_kou/items/52ede47d75d3976bb2da</link>
+<guid>b5c76e0c3ad4defd5a24409df43f6e6657ab6ecc91069b1560ad85c75d0eae33</guid>
+<pubDate>2026-06-06T20:28:38+09:00</pubDate>
+<description>はじめに 2026年4月28日、OpenAIとAmazon Web Services（AWS）はパートナーシップの大幅な拡大を発表しました。これにより、OpenAIのモデル群・Codexコーディングエージェント・マネージドエージェントサービスが、Amazon Bedroc...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/mars-modular-agent-with-reflective-search-for-automated-ai-research/</link>
-<guid>89f68366700684e2d6851597f54df2ea7b4fdb61968a3bc1344f320e4d68ee50</guid>
-<pubDate>Sat, 06 Jun 2026 11:17:13 GMT</pubDate>
+<link>https://research.google/pubs/reasoning-driven-synthetic-data-generation-and-evaluation/</link>
+<guid>cddb3106c01fabbc755d7a2d84e5737b0a3be1daf0882534e2a6eeef838cd015</guid>
+<pubDate>Sat, 06 Jun 2026 12:49:34 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>b0b27176b794868aaae74cb0eabdf594e024f56d5855f26d381d4a7994a57230</guid>
+<pubDate>Sat, 06 Jun 2026 12:49:35 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、技術開発主体として採択されている総務省事業「インターネット上の偽・誤情報等への対策技術の開発・実証事業（令和7年度）」において、SNS空間の可視化、総合的な偽情報判定、対策案の立案までを支援するシステム開発を完了しました。 read more read more AIサイエンティストは、多くの可能性の「木」を自律的に探索しながら、科学的ブレイクスルーを見つけだす。Credit: Artwork by CERTO, Inc. read more read more Namazuシリーズ（α版）を搭載したチャットサービス Sakana Chat を公開 read more 画像提供：読売新聞（2026年3月23日） read more read more read more read more read more read more read more read more read more read more read more read more read</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>7820ca8628df9aeb9718fa15a75cb5f6a1d17cd23e4c2204ca77d6eff08ad26d</guid>
-<pubDate>Sat, 06 Jun 2026 11:17:16 GMT</pubDate>
+<guid>ce49ac1a12c8c8f6afec3e42887413ab56ca4e7b01510227d581f6b5891f0883</guid>
+<pubDate>Sat, 06 Jun 2026 12:49:37 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-10652-y</link>
-<guid>737ececc871a2be63066efdf463a7cd7db4fdd93c982ebec2f5c5ab55c8e425a</guid>
-<pubDate>Sat, 06 Jun 2026 11:17:18 GMT</pubDate>
-<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
 </item>
 
 </channel>
