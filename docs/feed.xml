@@ -4,35 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 06 Jun 2026 12:50:34 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Jun 2026 14:24:47 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 OpenAI on Amazon Bedrock入門 — GPT-5.5・Codex・Managed Agentsを実装する</title>
-<link>https://qiita.com/kai_kou/items/52ede47d75d3976bb2da</link>
-<guid>b5c76e0c3ad4defd5a24409df43f6e6657ab6ecc91069b1560ad85c75d0eae33</guid>
-<pubDate>2026-06-06T20:28:38+09:00</pubDate>
-<description>はじめに 2026年4月28日、OpenAIとAmazon Web Services（AWS）はパートナーシップの大幅な拡大を発表しました。これにより、OpenAIのモデル群・Codexコーディングエージェント・マネージドエージェントサービスが、Amazon Bedroc...</description>
+<title>【Qiita】 【用語集】AWSのAIエージェント基盤を読み解く ── Bedrock・AgentCore・Kiro・MCP</title>
+<link>https://qiita.com/ryukiebe0911/items/6c5bc9873cdee16667b6</link>
+<guid>4292d373acdfad0aff0f08e1041c54b9c9e06d339ec74fb1d93a706d5c326c4b</guid>
+<pubDate>2026-06-06T22:23:28+09:00</pubDate>
+<description>本記事は、本編「AWSのAIエージェント基盤を三層で読む ── Bedrock(モデル)・AgentCore(運用)・Kiro(開発)を貫くMCP」の 用語集（companion） です。本編に出てくる用語を、層ごとに整理しました。リファレンスとして拾い読みできます。 ...</description>
+</item>
+<item>
+<title>【Qiita】 Claudeがコードの80%超を書く？Anthropic速報——Mythos 52倍速・RSI 64%の衝撃数字と全ての留保</title>
+<link>https://qiita.com/kinamocchi_tech/items/44987550adf1b1a40fda</link>
+<guid>49114b1ed51f0a56659622f81021bfd6e15ed9f0e3d0e43b7067472cb4d675bb</guid>
+<pubDate>2026-06-06T22:14:10+09:00</pubDate>
+<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → Claudeがコードの80%超を書く？Anthropic速報——Mythos 52倍速・RSI 64%の衝撃数字と全ての留保 はじめに 📊 図: ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/reasoning-driven-synthetic-data-generation-and-evaluation/</link>
-<guid>cddb3106c01fabbc755d7a2d84e5737b0a3be1daf0882534e2a6eeef838cd015</guid>
-<pubDate>Sat, 06 Jun 2026 12:49:34 GMT</pubDate>
+<link>https://research.google/pubs/uncovering-relationships-between-android-developers-user-privacy-and-developer-willingness-to-reduce-fingerprinting-risks/</link>
+<guid>a50e0f1ea603e992d620c278dd5e557efa0f2e5a5042dc7812346d7f2eb251ad</guid>
+<pubDate>Sat, 06 Jun 2026 14:24:14 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>b0b27176b794868aaae74cb0eabdf594e024f56d5855f26d381d4a7994a57230</guid>
-<pubDate>Sat, 06 Jun 2026 12:49:35 GMT</pubDate>
-<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、技術開発主体として採択されている総務省事業「インターネット上の偽・誤情報等への対策技術の開発・実証事業（令和7年度）」において、SNS空間の可視化、総合的な偽情報判定、対策案の立案までを支援するシステム開発を完了しました。 read more read more AIサイエンティストは、多くの可能性の「木」を自律的に探索しながら、科学的ブレイクスルーを見つけだす。Credit: Artwork by CERTO, Inc. read more read more Namazuシリーズ（α版）を搭載したチャットサービス Sakana Chat を公開 read more 画像提供：読売新聞（2026年3月23日） read more read more read more read more read more read more read more read more read more read more read more read more read</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>ce49ac1a12c8c8f6afec3e42887413ab56ca4e7b01510227d581f6b5891f0883</guid>
-<pubDate>Sat, 06 Jun 2026 12:49:37 GMT</pubDate>
+<guid>6b1620093681ac1e225a8aaa787202c8f056224746742415a8a6ed7f4e87f6d2</guid>
+<pubDate>Sat, 06 Jun 2026 14:24:17 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04403-9</link>
+<guid>739e628ea131a9ee052fa82d2439bdf97d5de5727b8fb721ee0276d50a1f398c</guid>
+<pubDate>Sat, 06 Jun 2026 14:24:20 GMT</pubDate>
+<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
 </item>
 
 </channel>
