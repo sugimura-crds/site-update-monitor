@@ -4,42 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 06 Jun 2026 14:24:47 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Jun 2026 15:48:11 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【用語集】AWSのAIエージェント基盤を読み解く ── Bedrock・AgentCore・Kiro・MCP</title>
-<link>https://qiita.com/ryukiebe0911/items/6c5bc9873cdee16667b6</link>
-<guid>4292d373acdfad0aff0f08e1041c54b9c9e06d339ec74fb1d93a706d5c326c4b</guid>
-<pubDate>2026-06-06T22:23:28+09:00</pubDate>
-<description>本記事は、本編「AWSのAIエージェント基盤を三層で読む ── Bedrock(モデル)・AgentCore(運用)・Kiro(開発)を貫くMCP」の 用語集（companion） です。本編に出てくる用語を、層ごとに整理しました。リファレンスとして拾い読みできます。 ...</description>
-</item>
-<item>
-<title>【Qiita】 Claudeがコードの80%超を書く？Anthropic速報——Mythos 52倍速・RSI 64%の衝撃数字と全ての留保</title>
-<link>https://qiita.com/kinamocchi_tech/items/44987550adf1b1a40fda</link>
-<guid>49114b1ed51f0a56659622f81021bfd6e15ed9f0e3d0e43b7067472cb4d675bb</guid>
-<pubDate>2026-06-06T22:14:10+09:00</pubDate>
-<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → Claudeがコードの80%超を書く？Anthropic速報——Mythos 52倍速・RSI 64%の衝撃数字と全ての留保 はじめに 📊 図: ...</description>
+<title>【Qiita】 205kスターのECCに学ぶエージェントハーネス最適化と安全な導入手順</title>
+<link>https://qiita.com/ryoji9702/items/7e9bfc507e383f6172c9</link>
+<guid>2d9e7124b81d6371955038d8d6557684b3a0703faafb158d41e2d6fcc8c65995</guid>
+<pubDate>2026-06-07T00:47:12+09:00</pubDate>
+<description>はじめに GitHub で 205k スターを集めている affaan-m/ECC というリポジトリをご存じでしょうか。「The agent harness performance optimization system」を名乗る、Claude Code・Codex・Cu...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/uncovering-relationships-between-android-developers-user-privacy-and-developer-willingness-to-reduce-fingerprinting-risks/</link>
-<guid>a50e0f1ea603e992d620c278dd5e557efa0f2e5a5042dc7812346d7f2eb251ad</guid>
-<pubDate>Sat, 06 Jun 2026 14:24:14 GMT</pubDate>
+<link>https://research.google/pubs/mars-modular-agent-with-reflective-search-for-automated-ai-research/</link>
+<guid>d43e9c8310c21fd29a55d0f22ddf59ab87090ec582c3eba2436ff87566dc7c6b</guid>
+<pubDate>Sat, 06 Jun 2026 15:47:42 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>6b1620093681ac1e225a8aaa787202c8f056224746742415a8a6ed7f4e87f6d2</guid>
-<pubDate>Sat, 06 Jun 2026 14:24:17 GMT</pubDate>
+<guid>0b24d4767e9bf25b57cec587eedfb94ec0ff6167695a8411453a1f3a71a28162</guid>
+<pubDate>Sat, 06 Jun 2026 15:47:44 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04403-9</link>
-<guid>739e628ea131a9ee052fa82d2439bdf97d5de5727b8fb721ee0276d50a1f398c</guid>
-<pubDate>Sat, 06 Jun 2026 14:24:20 GMT</pubDate>
-<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+<link>https://www.nature.com/articles/s41586-026-10652-y</link>
+<guid>99b76bdd4f7fb443610b152dda6a235b66ebc074d8a1e15336857dea40370ba6</guid>
+<pubDate>Sat, 06 Jun 2026 15:47:46 GMT</pubDate>
+<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>62a8f08b3fbb30398bb6d29f2e866c44134c22b0e6e6cf9e69504ee061383ef8</guid>
+<pubDate>Sat, 06 Jun 2026 15:47:47 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
