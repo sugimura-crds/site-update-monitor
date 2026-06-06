@@ -4,48 +4,34 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 06 Jun 2026 09:55:17 GMT</lastBuildDate>
+<lastBuildDate>Sat, 06 Jun 2026 11:18:16 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントに絶対に任せてはいけないことと、私がプロジェクトで使っているAGENTS.mdのルール</title>
-<link>https://qiita.com/TOMOSIA-HieuNT/items/411d47f0d03b2fc7d20b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>e25e8fd0bc51c2ada0620b8f97b0fd34076e6029f32ac31817a0010a3175ed41</guid>
-<pubDate>2026-06-05T17:33:15+09:00</pubDate>
-<description>※ この記事の日本語には、少し不自然な部分があるかもしれません。AIの言語サポートを利用しながら作成しています。 目次 はじめに 権限マトリックス：いつエージェントに任せ、いつ人間がレビューするか リスクレベル別の実例 AIエージェントに絶対に任せてはいけない6つのこ...</description>
-</item>
-<item>
-<title>【Qiita】 AI運用はモデル比較より責務設計。実装前に決める5つの境界</title>
-<link>https://qiita.com/YushiYamamoto/items/5621b07927581239bc7a</link>
-<guid>351fc7f676295999644b28a12a8f9371022f678a448a2e5b6c229517d8a81736</guid>
-<pubDate>2026-06-06T18:10:28+09:00</pubDate>
-<description>2026年6月上旬の英語AIニュースを横断すると、勝負どころは「どのモデルが強いか」ではありません。先に決めるべきなのは、AIにどこまで覚えさせ、何につなぎ、どこまで動かし、誰が責任を持つかです。 OpenAI の memory 更新、AWS 上でのフロンティアモデル提供...</description>
-</item>
-<item>
-<title>【Qiita】 AI エージェント時代には「コードで書ける Durable Workflow」が重要になると思う</title>
-<link>https://qiita.com/SoundOrion/items/55ca62d89fd6b58e971a</link>
-<guid>b1797c3f809b07332efbd734597f64131a8b66856486e268c4f66b0bac837f99</guid>
-<pubDate>2026-06-06T17:41:48+09:00</pubDate>
-<description>はじめに 最近、AI エージェントや業務自動化の話を見ていて、ずっと思っていることがあります。 それは、AI 時代に本当に必要になるのは、単なるチャット UI やノーコード自動化だけではなく、コードで書けて、落ちても再開できて、人間が必要なところで介入できる Durabl...</description>
+<title>【Qiita】 「個人開発アプリ投稿サイトを作って」で始めたら、ほぼ完成した話</title>
+<link>https://qiita.com/sweetfish_river/items/c5a534f46c28a4fa4f3a</link>
+<guid>b856dffdf4606907519bf6b90bded000067a1acc134cc974de3fbadb03d3ba6f</guid>
+<pubDate>2026-06-06T20:05:36+09:00</pubDate>
+<description>最近、AIエージェントを使った開発が話題になっています。 とはいえ、 「LPくらいなら作れるでしょ」 「実際のサービスは無理じゃない？」 と思っていました。 そこで試しに、Antigravity CLIにこんな指示を出してみました。 AppPortというまだ世の中に知られ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/elephants-goldfish-and-the-new-golden-age-of-software-engineering/</link>
-<guid>75b3188deda4bd2c837e7e21141bd3325dac745689a4d6d391de8dac242c70cb</guid>
-<pubDate>Sat, 06 Jun 2026 09:54:45 GMT</pubDate>
+<link>https://research.google/pubs/mars-modular-agent-with-reflective-search-for-automated-ai-research/</link>
+<guid>89f68366700684e2d6851597f54df2ea7b4fdb61968a3bc1344f320e4d68ee50</guid>
+<pubDate>Sat, 06 Jun 2026 11:17:13 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>74bb8c6154aa61b423dec3a11052303d87f11ee0d7d1eb13d99496ebaabe1967</guid>
-<pubDate>Sat, 06 Jun 2026 09:54:48 GMT</pubDate>
+<guid>7820ca8628df9aeb9718fa15a75cb5f6a1d17cd23e4c2204ca77d6eff08ad26d</guid>
+<pubDate>Sat, 06 Jun 2026 11:17:16 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10652-y</link>
-<guid>d6383a27bdb8a580e33de2830627abe64e710487d765ab9c3d15c14eb164e3af</guid>
-<pubDate>Sat, 06 Jun 2026 09:54:50 GMT</pubDate>
+<guid>737ececc871a2be63066efdf463a7cd7db4fdd93c982ebec2f5c5ab55c8e425a</guid>
+<pubDate>Sat, 06 Jun 2026 11:17:18 GMT</pubDate>
 <description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
 </item>
 
