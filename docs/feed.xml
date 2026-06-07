@@ -4,35 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 07 Jun 2026 14:49:11 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 Jun 2026 16:07:49 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Microsoft Build 2026 Keynote -Infrastructureまとめ</title>
-<link>https://qiita.com/000604mai/items/4f0c1556326d6688ecb7</link>
-<guid>e7ad34dd7c691a05b4ddb8d5731d4137e8de90bfc0f085c56c7b641b92af2fc9</guid>
-<pubDate>2026-06-07T22:57:02+09:00</pubDate>
-<description>はじめに Microsoft Build 2026 Keynoteのうち、Infrastructureの主要アップデートをいくつかピックアップしてまとめています。 ※本記事の一部は、AIによって抽出および要約された情報に基づき作成されています。 はじめに：全体像とInf...</description>
+<title>【Qiita】 AI に「失敗を隠す自由」を与えない設計 — 確率的な Agent と決定論的な Pipeline の境界</title>
+<link>https://qiita.com/tadokoro88/items/cc7e62ad88cd73a02ee2</link>
+<guid>e9550171310adfeb7e92eb1486ab2f206b53c2a91fee4895c9a89d99f0a13cbd</guid>
+<pubDate>2026-06-08T00:27:54+09:00</pubDate>
+<description>以前、自分用のニュース解析ツール News Prism を Amazon Bedrock で作った話を書きました。 そしてアプリの実装中に、 「これ、ChatGPT Plus + プロジェクトの固定プロンプト + GitHub コネクタで全部再現できるのでは？」 とい...</description>
 </item>
 <item>
-<title>【Qiita】 エンジニアの考え方をAI用にルール化したいけど、技術の変化が速すぎて全然安定しない</title>
-<link>https://qiita.com/tikomo/items/405bbdc84e1179224e09</link>
-<guid>1328989722734df98d38c7f93f3fadb74ec3dcaada5d73374bb5cc4e97621360</guid>
-<pubDate>2026-06-07T23:30:52+09:00</pubDate>
-<description>この記事は、2026年6月時点での自分の考えを整理したものです。 世の中の意見や別の立場を否定したいわけではなく、あくまで今の自分にはこう見えている、という話として書いています。 AIや開発現場を取り巻く状況は変化が速いので、今後の経験や環境によって、自分の考え方も変わ...</description>
+<title>【Qiita】 やっぱりAIエージェント時代、プログラマーの仕事は“書く”から“任せて確認する”へ変わるの？</title>
+<link>https://qiita.com/tikomo/items/3cfa8fff6af3fb426c6e</link>
+<guid>1930bd5c5cead2c359ad7824ad9886f35781868b0cba9cea133935e0a28f9a7d</guid>
+<pubDate>2026-06-08T00:22:17+09:00</pubDate>
+<description>この記事は、2026年5月時点での自分の考えを整理したものです。 世の中の意見や別の立場を否定したいわけではなく、あくまで今の自分にはこう見えている、という話として書いています。 AIや開発現場を取り巻く状況は変化が速いので、今後の経験や環境によって、自分の考え方も変わ...</description>
 </item>
 <item>
-<title>【Qiita】 実装は速くなった...でも仕事は？...速くなってないかも</title>
-<link>https://qiita.com/tikomo/items/b01e22f51676908768fd</link>
-<guid>a9abc9848646e3f30196a71a127cb726c8a1c3409895f3709ff9748b7f07abcb</guid>
-<pubDate>2026-06-07T23:00:14+09:00</pubDate>
-<description>この記事は、2026年6月時点での自分の考えを整理したものです。 AIエージェントや開発現場の変化について、世の中の正解としてではなく、今の自分にはこう見えている、という話として書いています。 今後の経験や環境によって、自分の考え方も変わっていくと思っています。 ...</description>
+<title>【Qiita】 AIはプログラミングは得意だけど、正解のないものは苦手だよね</title>
+<link>https://qiita.com/tikomo/items/d6a9a7b4e9b4b1493213</link>
+<guid>c7fc211fbd8941ff4eac3d6b3ec0e539e6c06290d66f69ae98eab12a5d1dae84</guid>
+<pubDate>2026-06-08T00:22:17+09:00</pubDate>
+<description>この記事は、2026年6月時点での自分の考えを整理したものです。 世の中の意見や別の立場を否定したいわけではなく、あくまで今の自分にはこう見えている、という話として書いています。 生成AIや創作を取り巻く状況は変化が速いので、今後の経験や環境によって、自分の考え方も変わ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/how-tech-workers-contend-with-hazards-of-humanlikeness-in-generative-ai/</link>
-<guid>92dfd2e18da598ab10f9571881312412984ec9d07357fab7a6b9e8331c2ca73d</guid>
-<pubDate>Sun, 07 Jun 2026 14:48:40 GMT</pubDate>
+<link>https://research.google/pubs/the-dual-mode-privacy-guard-a-framework-for-augmented-compliance-in-managing-sensitive-people-operations-data/</link>
+<guid>2aea3fe153aeb848a0eba8f6f72bed16564bd12b6aab70707efe5ec74f61957b</guid>
+<pubDate>Sun, 07 Jun 2026 16:06:48 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-73320-9</link>
+<guid>3cff95eeef1a2bb593ef1f5c7c0331d1ec24395d7c428686b38b22af6de48384</guid>
+<pubDate>Sun, 07 Jun 2026 16:06:50 GMT</pubDate>
+<description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 
 </channel>
