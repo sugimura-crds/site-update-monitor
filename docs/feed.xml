@@ -4,14 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 07 Jun 2026 00:06:25 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 Jun 2026 05:03:08 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 Foundry BYO VNet + Private Endpoints plus tools のデプロイ(Template19)</title>
+<link>https://qiita.com/FukuharaYohei/items/d975319abb48f464d756</link>
+<guid>566b494458b0ec46423d01b45a858eb009077ee613da99f4bb80531a1c928d1b</guid>
+<pubDate>2026-06-07T11:24:37+09:00</pubDate>
+<description>以下のGitHubにあるテンプレートを確認してみましたのでその記録です。Ubuntuでテンプレートをダウンロードして動かしています。 このテンプレートの位置づけです。 Standard Agent Setup with E2E Network Isolation w...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントのトークン代を節約する CLAUDE.md と copilot-instructions.md 完全ガイド －AIエージェントでは毎ターン何が起きているのか－</title>
+<link>https://qiita.com/shinkai_/items/ff70d0d882f7880c2ac0</link>
+<guid>b6c18db264c466ba8c3f3d9bcc72a9ef6ad310f0580717d9d8d665ee7767e764</guid>
+<pubDate>2026-06-07T13:36:21+09:00</pubDate>
+<description>CLAUDE.md や copilot-instructions.md は、AIエージェントに「このプロジェクトのルールを最初から教える」ためのファイルです。 一度書いたら終わり、という扱いをしている人が多いと思いますが、実はこれが 毎ターン・毎リクエストにしれっとコンテキ...</description>
+</item>
+<item>
+<title>【Qiita】 Kiro CLI v2.0.0がやってきた!</title>
+<link>https://qiita.com/kamogashira/items/b074998644127dbfa31c</link>
+<guid>01256092a84e9c59ac3c1fb4f7cf3d1ff0f90663aa8ea61c9c7686a1e8af4585</guid>
+<pubDate>2026-06-07T13:30:30+09:00</pubDate>
+<description>はじめに 本記事は、2026年5月28日(水)に開催された「JAWS-UG AI/ML #38：AIエージェントとAI-DLCで加速する！AI/ML実践LT大会」で発表した 「Kiro CLI v2.0.0がやってきた!」 の紹介記事です。 記事内容について タイトルは...</description>
+</item>
+<item>
+<title>【Qiita】 コラム：ビジネスパーソンにこそトライしてほしいMARI 〜「AIを “物覚えの悪い部下” にするな」</title>
+<link>https://qiita.com/otoyo0318/items/258b5fc488b1f6668cc6</link>
+<guid>a4074d3a7daa7e209c35905308494ea4a4dcfba57fad0e43eb7ca369de965f31</guid>
+<pubDate>2026-06-07T13:01:04+09:00</pubDate>
+<description>1.はじめに：AIは馬鹿ではない、有能なパートナーである。 AI(LLM:大規模言語モデル)にあれこれ指示する事多くないですか? 色々なルールで縛っていませんか? いつの頃からかAI(LLM)に対し「事細かく指示をし、何度も復唱させ、チェックリストで縛り、前置きを強要す...</description>
+</item>
+<item>
+<title>【Qiita】 2026年のマルチモーダルAI実装における「アダプター負荷（Adapter Burden）」の解体：密結合コードからの脱却</title>
+<link>https://qiita.com/yy2639566052/items/f5144a7732917ec8f2d1</link>
+<guid>811e657890b1cae2d8486708b73db6a613a0f29a887849cd704078fe9b4d0d30</guid>
+<pubDate>2026-06-07T11:48:54+09:00</pubDate>
+<description>マルチモーダル大模型の急速な普及に伴い、多くのプロダクト開発チームやSaaSスタートアップは、アプリケーション内部に画像生成や動画生成、音声合成のAPIを積極的に統合し始めています。しかし、初期のプロトタイプ の段階を過ぎ、本番環境で10種類以上の異構なAIモデルを同時に制...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/approximate-vs-precise-an-experiment-in-what-impacts-user-choice-when-apps-request-location-access/</link>
-<guid>8638eecdc3e211f3862081d8f51800e744355d46f1e9ca1d7c306b9681ee2613</guid>
-<pubDate>Sun, 07 Jun 2026 00:05:24 GMT</pubDate>
+<link>https://research.google/pubs/convapparel-a-benchmark-dataset-and-validation-framework-for-user-simulators-in-conversational-recommenders/</link>
+<guid>9262dfae8038ca16370b2cbc5c7d029c95dc0a82cf0177139db4fee4607b20ad</guid>
+<pubDate>Sun, 07 Jun 2026 05:02:36 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-73320-9</link>
+<guid>2e873e349da0868251468f8cce8b4d155742ff310120b4af1a6b9015445996a9</guid>
+<pubDate>Sun, 07 Jun 2026 05:02:38 GMT</pubDate>
+<description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-10652-y</link>
+<guid>45121126fb4ea13f5846ea2fe8f22962588914381a95331bce6c3e16b847abf2</guid>
+<pubDate>Sun, 07 Jun 2026 05:02:40 GMT</pubDate>
+<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
 </item>
 
 </channel>
