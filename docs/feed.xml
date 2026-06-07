@@ -4,28 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 07 Jun 2026 21:59:14 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 Jun 2026 23:04:24 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 コード理解・改善・品質強化 ― コード理解はすべての起点 ―AIエージェント時代のソフトウェア設計</title>
-<link>https://qiita.com/mellowlaunch/items/66c0b85cd898284383a8</link>
-<guid>85c7b50fe718232ea214d8fe1d1abf464347462d608d95ff0db044f8dc81d2a6</guid>
-<pubDate>2026-06-08T06:23:40+09:00</pubDate>
-<description>📚 関連書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は 書籍の中でまとめているので、気になる方はそちらもどうぞ。 「ゼロから触ってわかった！Codex - AIエージェント時代のソフトウェア設計」 本書は、AIエージ...</description>
+<title>【Qiita】 Ansible Automation Platform (コンテナ版)のジョブログをホストに出力する方法</title>
+<link>https://qiita.com/c_u/items/b21fb0afed11a820826f</link>
+<guid>ebc72b27c8b892a14eb2ff6ae065e297195e8fb76d2090a572f334eb0051b07e</guid>
+<pubDate>2026-06-08T07:58:40+09:00</pubDate>
+<description>はじめに Ansible Automation Platform (コンテナ版) でジョブ実行時のログを、ホスト VM 上のファイルに書き出す方法をまとめました。 コンテナ版の AAP ではジョブが隔離された環境 (isolated job) で動くため、ログをホスト側に...</description>
+</item>
+<item>
+<title>【Qiita】 プロフェッショナルTLS＆PKI (Bulletproof TLS and PKI) 改題第2版を読む⑧ 第2章-1 TLS 1.3</title>
+<link>https://qiita.com/gomAnomalocaris/items/25f6d760fed648e419c5</link>
+<guid>1cc739b8c8b3c93c03842e6fdee608a00ba900e709cff22733b4372e6bf0ab6d</guid>
+<pubDate>2026-06-08T07:30:21+09:00</pubDate>
+<description>TLS1.3 はTLS1.2以前のバージョンの問題を踏まえ、セキュリティとパフォーマンスを両立しつつ広報互換性のあるプロトコルとして設計されました。原書では第2章の最後にまとめとしてTLS 1.3の重要な改善点が記されています。 TLS 1.3の改善点 TLS 1.3はT...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/phoenix-rowhammer-attacks-on-ddr5-with-self-correcting-synchronization/</link>
-<guid>e54b57821182696560786221b09a01b1f9ef124ffd97d2c222ac6d3a34b23649</guid>
-<pubDate>Sun, 07 Jun 2026 21:58:12 GMT</pubDate>
+<link>https://research.google/pubs/crosscheck-input-validation-for-wan-control-systems/</link>
+<guid>93f725efc0221ebc8d74cd79d324b9a79f6a6f9ca7e24591f82fac7ae6f8729e</guid>
+<pubDate>Sun, 07 Jun 2026 23:03:51 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04403-9</link>
-<guid>464ba9044db49fbecc52e492d22d5f47dfebebcf18872a4f06b4d5179312d8b7</guid>
-<pubDate>Sun, 07 Jun 2026 21:58:19 GMT</pubDate>
-<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
 </item>
 
 </channel>
