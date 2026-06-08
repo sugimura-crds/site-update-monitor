@@ -4,119 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 08 Jun 2026 11:26:23 GMT</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 14:55:11 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #2</title>
-<link>https://qiita.com/hitomin_poke/items/ffcc67d985d4ab47631e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>db0ae0dc5fefc0b3b7a77f2b8161872ebe5385421b9ac5e0869f3d5d28611e3a</guid>
-<pubDate>2026-06-08T12:58:39+09:00</pubDate>
-<description>はじめまして。株式会社PRUMでエンジニアをしている人見です。 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、 仕事で起きやすい“ズレ”について整理して発信しています。 誰かの助けになれば幸いです。 9割のエンジニア未経験者がつまずく『最初の壁』 それで...</description>
+<title>【Qiita】 IBM Enterprise Build of Quarkusの魅力をAWS Lambdaで体感する: 雨量監視システムを低コストに動かす</title>
+<link>https://qiita.com/TSA2019/items/ba00250f61765143298c</link>
+<guid>998397dfe0184123c73f083d24998ec18c93809519fef42e511e1017cb0bf037</guid>
+<pubDate>2026-06-08T16:23:31+09:00</pubDate>
+<description>はじめに Java でクラウドネイティブなアプリケーションを作るとき、以前は「起動が遅い」「メモリを使う」「サーバーレスに載せるとコールドスタートが気になる」といった印象がありました。 その前提を変えてくれる選択肢が Quarkus です。 この記事では、IBM Ente...</description>
 </item>
 <item>
-<title>【Qiita】 AIにも「口コミ」がつく時代。〜信頼の証跡をWeb3に残すインフラを図解で整理する（ERC8004）〜</title>
-<link>https://qiita.com/can-can/items/5e13dace1a97cd6bd7a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>4692147899a90a6a2e7e9ed91e05486378b78bea0fd68c1a3a8426724cfe412d</guid>
-<pubDate>2026-06-08T11:01:29+09:00</pubDate>
-<description>「AIの自動化に失敗する会社が見落としている『評価』の問題と、それに応えるERC-8004を、ビジネス視点で解説します。」 はじめに：なぜ今「AIの評価」が論点になっているのか ここ数年、AIは「ある意味なんでもできる」という期待とともに語られてきました。いわゆるAI...</description>
+<title>【Qiita】 [ハンズオン手順書] Claude + Microsoft Foundry で�AI エージェントを構築する #CodeWithClaude</title>
+<link>https://qiita.com/chomado/items/a072528364883ae7bb96</link>
+<guid>999ba8bd312f94e0940eee39a574413acfb342d700893519e5fdb037789f9487</guid>
+<pubDate>2026-06-08T21:29:01+09:00</pubDate>
+<description>アンソロピック社の公式カンファレンス『Code w/ Claude Tokyo』(2026/6/10(水) に開催) に マイクロソフト社として 1 枠 (45 分間) いただきまして、 「Claude + Microsoft Foundry でAI エージェントを構築する...</description>
 </item>
 <item>
-<title>【Qiita】 Microsoft Foundry のネットワーク設計を理解する 〜インバウンド／アウトバウンドで整理する閉域化アーキテクチャ〜</title>
-<link>https://qiita.com/ManabuYamamoto/items/498e9c2cf0ba2744a3ba</link>
-<guid>75e1f990440b497b64f3f893f15bc7fdd0d8be4e2f9130bac9d2dbe46f898d5c</guid>
-<pubDate>2026-06-08T16:23:47+09:00</pubDate>
-<description>本記事は GitHub Copilot および Microsoft Foundry を活用して作成されています。内容の正確性については各公式ドキュメントをご確認ください。 Microsoft Foundry の価値は「使えるモデルの種類が豊富なこと」だけではありません。...</description>
+<title>【Qiita】 AIを業務システムにする前に固定する5つの運用ルール</title>
+<link>https://qiita.com/YushiYamamoto/items/96e651b93081b93dfb06</link>
+<guid>52590fc45f9151c07528111642cd024b6611d16733bf558150ee0973e65f6280</guid>
+<pubDate>2026-06-08T21:45:45+09:00</pubDate>
+<description>2026年6月2日から6月4日に公開された英語一次情報を追うと、AIの主戦場は「どのモデルが強いか」ではなくなっています。 焦点は、AIを支えるシステムをどう設計し、どの文脈を渡し、どこで止め、どう監査し、どの基準で外部パートナーやガバナンスを見直すかに移っています。 ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeのトークン消費を90%削減して分かった、プロンプト最適化より重要な「Agent Memory」の設計</title>
-<link>https://qiita.com/memorylakeai/items/03a717cceab09002eef7</link>
-<guid>6aab79bb675d3f65312fcceac3537eb2fc7e884c2f64a3e3f4323e2046d3c268</guid>
-<pubDate>2026-06-08T18:02:16+09:00</pubDate>
-<description>はじめに 2026年に入り、Claude Codeをはじめとする自律的なAIコーディングエージェントをターミナルに常駐させる開発スタイルが、エンジニアの標準的なワークフローとして定着しつつあります。 「チャット欄にコードをコピペする」時代から、「エージェントがローカル環...</description>
+<title>【Qiita】 Gemini</title>
+<link>https://qiita.com/toma27841008/items/12fc303b50eed50ab1cc</link>
+<guid>8c7085c3069f33d9bac9d78dda28290d247268a53a09fe0181d3a259ee31948d</guid>
+<pubDate>2026-06-08T21:15:50+09:00</pubDate>
+<description>この写真の写っているものを日本語で説明してください。 この写真は、台湾のおにぎり（飯糰 - ファントゥアン）屋さんと思われるお店のメニュー看板を写したものです。黄色い背景に赤い文字でメニューが書かれています。 写真に写っている主な内容は以下の通りです。 メニュー看板 ご飯...</description>
 </item>
 <item>
-<title>【Qiita】 【AWS】Bedrock AgentCoreを使ってAIにブラウザ操作させてみる！</title>
-<link>https://qiita.com/PDC-Kurashinak/items/936800f87c502f750641</link>
-<guid>8a7a94b9f7e389b34fc9f59500671de3fd3523ab069c4924a77b847b39d51697</guid>
-<pubDate>2026-06-08T16:59:41+09:00</pubDate>
-<description>どうもこんにちは。ちょっと久々の技術記事なのですが... 今回は、Amazon Bedrock AgentCoreを使って、AIにブラウザ操作をさせてみる検証をしました。（というかまだやってなかったんかい...） この記事は誰向け？ この記事は以下のような方向けに執筆して...</description>
+<title>【Qiita】 Manic Benchmarkで上位ランクを目指す</title>
+<link>https://qiita.com/ruechang2/items/4da3314754bf20a86eb7</link>
+<guid>58c03cace9d26a577083ef01c271961b494c42c19f59e751fafc746f527d9ed8</guid>
+<pubDate>2026-06-08T20:47:36+09:00</pubDate>
+<description>はじめに：Manic Benchmarkについて Manic Trading Benchmark（Manic Benchmark）は、AIエージェントがトレーディングにおける各種タスク（市場分析、インテリジェンス収集、意思決定、リスク管理）を自律的に処理し、そのアウトプッ...</description>
 </item>
 <item>
-<title>【Qiita】 【#5】Hermes Agent を読み解く</title>
-<link>https://qiita.com/yoshiyakato/items/59b5ef31205b87e8b62e</link>
-<guid>fa25b6c5c49449b98d7128ea986071e23a27dd0864c5ef8a340ea3f30f78946b</guid>
-<pubDate>2026-06-08T16:15:30+09:00</pubDate>
-<description>Hermes Agent を読み解く — ツールシステム 連載「Hermes Agent を読み解く」第5回。 連載「Hermes Agent を読み解く」全10回 [第1回 全体像と読み方] [第2回 コアの会話ループ] [第3回 状態管理とコンパクション] ...</description>
+<title>【Qiita】 Who Can Build Custom AI Workforce Agents for Businesses? (2026 Guide)</title>
+<link>https://qiita.com/intellectyx/items/84c2083a8079f8cb1cdf</link>
+<guid>a9a6d463cb82b78174d19b8b0f9daa622e221bb413e72117051861860ab0a9b1</guid>
+<pubDate>2026-06-08T23:43:47+09:00</pubDate>
+<description>In 2026, If you&#x27;re looking for a company to build custom AI workforce agents that integrate into your business processes, the leading pro...</description>
 </item>
 <item>
-<title>【Qiita】 AI開発陥った「とりあえずPoC病」</title>
-<link>https://qiita.com/you_13/items/c3fba60d26369d112ecb</link>
-<guid>316fe2622cc30c76f59919c8e97c20eb4a7cd1ba46f365de3f361e57d87511b2</guid>
-<pubDate>2026-06-08T15:28:33+09:00</pubDate>
-<description>はじめに こんにちは、現役でSaaSの開発をしているプロダクトエンジニアです。 ここ最近、開発プロセスの中にAIを組み込むことが当たり前になり、エンジニアの仕事の仕方も大きく変化していると感じています。 AIを活用した開発の最大のメリットの一つに 「検証スピードの圧倒的な...</description>
+<title>【農業】 FAO urges open trade on all agricultural inputs and efficient fertilizer use amid global food production risks</title>
+<link>https://www.fao.org/newsroom/detail/fao-urges-open-trade-on-all-agricultural-inputs-and-efficient-fertilizer-use-amid-global-food-production-risks/en</link>
+<guid>bdac084be837df4d783bf29f0095e45dea9a512d7c1f81f4be1b0c5e526a3a75</guid>
+<pubDate>Mon, 08 Jun 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【環境】 Early signs that the EU carbon border adjustment mechanism is reshaping EU–India steel trade</title>
-<link>https://www.nature.com/articles/s41558-026-02607-y</link>
-<guid>f8744f2c91a09a5cd9d2f15cf96352712cb387c61a44df9b6453cc951defc5e8</guid>
+<title>【自動自律実験】 How AI is reshaping discovery in maths and physics</title>
+<link>https://www.nature.com/articles/d41586-026-01820-1</link>
+<guid>faeec3e8c198468d3409f83059f2a74902ea5b829296626314a015521bac9698</guid>
 <pubDate>2026-06-08</pubDate>
-<description>The EU Carbon Border Adjustment Mechanism (CBAM) was introduced to curb carbon leakage, but its impact is debated. Using export and emissions data from Indian steel plants, researchers show early evidence that the CBAM could penalize high-emission producers, rather than act as a blanket trade barrier.</description>
+<description>Artificial intelligence is not replacing human intuition in these fields, but reimagining how questions are asked, explored and understood.</description>
 </item>
 <item>
-<title>【環境】 A global early warning system for predicting exposure of biodiversity to extreme heat</title>
-<link>https://www.nature.com/articles/s41558-026-02642-9</link>
-<guid>fd370dc0958f17c9de3e66152fd69dd701e70aa4afab191581182629db238959</guid>
+<title>【自動自律実験】 Bots are scraping open data — how should researchers respond?</title>
+<link>https://www.nature.com/articles/d41586-026-01689-0</link>
+<guid>cdd9b45de27cedcfc71115858c457677e80c74dc3046e126d9a1e27398c1891f</guid>
 <pubDate>2026-06-08</pubDate>
-<description>The authors develop an early warning system to predict the risks of extreme temperatures for 30,585 vertebrates 1–9 months in advance. They identify species and regions at risk and highlight the potential for early warning systems to maximize management activities that mitigate negative outcomes.</description>
+<description>The snowballing ability of artificial intelligence to trawl open data sets has some scientists worried about losing control of their information.</description>
 </item>
 <item>
-<title>【環境】 Sustainable battery recycling through spatial and technological alignment</title>
-<link>https://www.nature.com/articles/s41893-026-01851-6</link>
-<guid>a7aceaad78a4fc9dcbc2ee79c3884a97d86e226b440a4847e48fb03a43f0699b</guid>
+<title>【自動自律実験】 Nuclear-fusion firm says plant will deliver electricity to grid – but big questions remain</title>
+<link>https://www.nature.com/articles/d41586-026-01795-z</link>
+<guid>f3507a26e54589fa07d45690250ec6ef4e10ae7ae9525be7c3960dd2b669de26</guid>
 <pubDate>2026-06-08</pubDate>
-<description>Battery recycling has a crucial role in enabling circular economy and sustainable energy transition. This study presents a multi-scale analytical framework to assist the design of low-carbon, high-efficiency battery recycling systems.</description>
-</item>
-<item>
-<title>【自動自律実験】 Why are so many young people getting cancer? What researchers do and don&#x27;t know</title>
-<link>https://www.nature.com/articles/d41586-026-01780-6</link>
-<guid>0d051904266c1e626809e82bbbc38b660c005f157ea713f3fdd159ea8e1cd419</guid>
-<pubDate>2026-06-08</pubDate>
-<description>Candidates for the trend are emerging, but are likely to vary from one type of tumor to another.</description>
-</item>
-<item>
-<title>【自動自律実験】 AI is taking on antibiotic resistance — here’s how</title>
-<link>https://www.nature.com/articles/d41586-026-01818-9</link>
-<guid>1e71deb4b97740835eef8d4fb5252bbe6f9a7076f3bd947087bf7fb92f1f3a03</guid>
-<pubDate>2026-06-08</pubDate>
-<description>A suite of artificial-intelligence tools is helping to speed up the process of discovering new antibiotics.</description>
-</item>
-<item>
-<title>【自動自律実験】 Sustainability or dystopia? What past patterns tell us about where society is heading</title>
-<link>https://www.nature.com/articles/d41586-026-01821-0</link>
-<guid>979209d241096e565ee0fe2cc128fda2031a3c1442904f7d3589ebde1e09dff1</guid>
-<pubDate>2026-06-08</pubDate>
-<description>A new book applies principles of environmental tipping points to past societal transformations — and attempts to draw lessons about what the future holds today.</description>
+<description>Commonwealth Fusion Systems published several papers detailing the design of its ARC fusion power plant.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/window-size-versus-accuracy-experiments-in-voice-activity-detectors/</link>
-<guid>3dfceffa23f6145597d93ecfe6b9f65500ece5891ecc3a204ffec0e7605a39fb</guid>
-<pubDate>Mon, 08 Jun 2026 11:25:50 GMT</pubDate>
+<link>https://research.google/pubs/prompts-performance-optimization-via-multi-agent-planning-for-llm-training-and-serving/</link>
+<guid>a9aef0cf509260bb84df2f4a95e682c8a3179da491cc326630667f6688a72275</guid>
+<pubDate>Mon, 08 Jun 2026 14:54:34 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>b4bc3350a65f8700328587d36401191d87709d2d399256079ed0d1ab65bb710c</guid>
-<pubDate>Mon, 08 Jun 2026 11:25:53 GMT</pubDate>
+<guid>5b42c4513a6a137f75b395de219d747d41d33b3ea51668fcc6940f16065e271c</guid>
+<pubDate>Mon, 08 Jun 2026 14:54:37 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 <item>
-<title>【UK】 Featured</title>
-<link>https://www.linkedin.com/company/scitechgovuk</link>
-<guid>3d769659129ebd3dc1047bafc38f8a773dfd1fb624e984ec26c2ba7c4119d409</guid>
-<pubDate>Mon, 08 Jun 2026 11:26:00 GMT</pubDate>
-<description>Department for Science, Innovation and Technology | 266,109 followers on LinkedIn. Positioning the UK at the forefront of global scientific and technological advancement. | Follow this profile to stay up-to-date with our mission: improving people&amp;#39;s lives by maximising the potential of science &amp;amp; technology.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-10652-y</link>
+<guid>674e44d68f922b278662da2e934687065fb413f7f27fdc891d17a951cc499b01</guid>
+<pubDate>Mon, 08 Jun 2026 14:54:39 GMT</pubDate>
+<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
 </item>
 
 </channel>
