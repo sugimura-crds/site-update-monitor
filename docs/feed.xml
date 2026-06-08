@@ -4,28 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 07 Jun 2026 23:04:24 GMT</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 01:39:22 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Ansible Automation Platform (コンテナ版)のジョブログをホストに出力する方法</title>
-<link>https://qiita.com/c_u/items/b21fb0afed11a820826f</link>
-<guid>ebc72b27c8b892a14eb2ff6ae065e297195e8fb76d2090a572f334eb0051b07e</guid>
-<pubDate>2026-06-08T07:58:40+09:00</pubDate>
-<description>はじめに Ansible Automation Platform (コンテナ版) でジョブ実行時のログを、ホスト VM 上のファイルに書き出す方法をまとめました。 コンテナ版の AAP ではジョブが隔離された環境 (isolated job) で動くため、ログをホスト側に...</description>
+<title>【Qiita】 【#1】Hermes Agent を読み解く</title>
+<link>https://qiita.com/yoshiyakato/items/25df44106082d2d1432d</link>
+<guid>4ad48d39da74bd109b8884f5a10fbc0878a96606f3de64c100b215e86117898d</guid>
+<pubDate>2026-06-08T10:26:23+09:00</pubDate>
+<description>Hermes Agent を読み解く — 全体像と読み方 連載「Hermes Agent を読み解く」第1回。 連載「Hermes Agent を読み解く」全10回 [第1回 全体像と読み方]（本記事） [第2回 コアの会話ループ] [第3回 状態管理とコンパク...</description>
 </item>
 <item>
-<title>【Qiita】 プロフェッショナルTLS＆PKI (Bulletproof TLS and PKI) 改題第2版を読む⑧ 第2章-1 TLS 1.3</title>
-<link>https://qiita.com/gomAnomalocaris/items/25f6d760fed648e419c5</link>
-<guid>1cc739b8c8b3c93c03842e6fdee608a00ba900e709cff22733b4372e6bf0ab6d</guid>
-<pubDate>2026-06-08T07:30:21+09:00</pubDate>
-<description>TLS1.3 はTLS1.2以前のバージョンの問題を踏まえ、セキュリティとパフォーマンスを両立しつつ広報互換性のあるプロトコルとして設計されました。原書では第2章の最後にまとめとしてTLS 1.3の重要な改善点が記されています。 TLS 1.3の改善点 TLS 1.3はT...</description>
+<title>【Qiita】 CLAUDE.md と AGENTS.md はいつ読まれるのか</title>
+<link>https://qiita.com/kirozero/items/e64c607f657613da8f4a</link>
+<guid>164c13c25dc8210f57087c9fc18782fbf0d89856f0acb1f316cbc8d703e161c1</guid>
+<pubDate>2026-06-08T09:42:17+09:00</pubDate>
+<description>Claude Code や Codex を使う際、AIは CLAUDE.md や AGENTS.md を読みます。 ただ、実際にこれらのドキュメントが読み込まれるタイミングはいつなのでしょうか。 具体的には、セッション開始時だけ読まれるのか、それともユーザーがメッセージを送...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントの「記憶」とは？種類・仕組み・運用設計を実例で解説</title>
+<link>https://qiita.com/agentmemories/items/ca4dc2742e058a3d2b11</link>
+<guid>f11f1b4740bcde052e8982a780183d58e0d0e465352b266bf7b677cff1c0ce17</guid>
+<pubDate>2026-06-08T09:23:03+09:00</pubDate>
+<description>AIエージェントの「記憶」とは、会話のたびに消えてしまう情報の中から、残すべき前提・決定・好みを抽出して保持し、別の会話でも取り出せるようにした仕組みのことです。会話履歴が「流れ」だとすれば、記憶は「積み上がるもの」です。 この記事では、記憶と会話履歴の違いから、記憶の種類...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントのトークン代を節約する CLAUDE.md と copilot-instructions.md 実践ガイド AIエージェントでは毎ターン何が起きているのか</title>
+<link>https://qiita.com/shinkai_/items/8f88307b7cb13b748e57</link>
+<guid>0bc686cc1e2d5440f00ecbf8368fd89df25b904bd06d2c82d67ba074b865e67f</guid>
+<pubDate>2026-06-08T08:17:13+09:00</pubDate>
+<description>CLAUDE.md や copilot-instructions.md は、AIエージェントに「このプロジェクトのルールを最初から教える」ためのファイルです。 一度書いたら終わり、という扱いをしている人が多いと思いますが、実はこれが 毎ターン・毎リクエストにしれっとコンテキ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/crosscheck-input-validation-for-wan-control-systems/</link>
-<guid>93f725efc0221ebc8d74cd79d324b9a79f6a6f9ca7e24591f82fac7ae6f8729e</guid>
-<pubDate>Sun, 07 Jun 2026 23:03:51 GMT</pubDate>
+<link>https://research.google/pubs/compact-conformal-subgraphs/</link>
+<guid>1e872cc82d750a51467fb12dded4856c69c573cf6f35e12e8bb01d4fb67aa727</guid>
+<pubDate>Mon, 08 Jun 2026 01:38:19 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>ef8ce606a8e609cefc38dddc217d82c24d4c435b0ace34795730516ab4be567c</guid>
+<pubDate>Mon, 08 Jun 2026 01:38:24 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
