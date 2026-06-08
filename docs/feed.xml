@@ -4,27 +4,34 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 08 Jun 2026 20:02:23 GMT</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 22:08:40 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【脱・従量課金】CPUローカルLLM×Microsoft Agent Frameworkで始める次世代マルチエージェント開発 (Vol.1 導入／01-get-started編)</title>
-<link>https://qiita.com/KazutoMakino/items/b7664ec375d6c9014350</link>
-<guid>955f3260c9831dbf25b325532e91fa0a7a09ff05c7dbe903039da9a008263e86</guid>
-<pubDate>2026-06-09T03:45:45+09:00</pubDate>
-<description>はじめに 昨今、クラウドのフロンティアモデルを利用したLLMサービスにおいて、値上げであったり、定額制から従量課金制へと移行する動きが活発になっています（例えば https://qiita.com/yun_bow/items/3c920416555c8c31dfeb を参...</description>
+<title>【Qiita】 Claude Codeと一緒に、MagicPodのWebAPI × TypeScript自動テストを作った話</title>
+<link>https://qiita.com/ayshiina/items/8965ba4f5840807031cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>685c4cbfa844670ad950813eb9e8f1cc1fe06e4b0c353dd09734692cd166ec71</guid>
+<pubDate>2026-06-08T10:02:05+09:00</pubDate>
+<description>はじめに こんにちは！KIYOラーニングでQAエンジニアをしている@ayshiinaです。 私は普段テスト設計・実行を主業務としており、プログラミングコードについての知識はなく、書くことができません。 そんな私が今回、MagicPodでWebAPIステップやTypeScr...</description>
+</item>
+<item>
+<title>【Qiita】 消えそうな思考を逃がさないために、0.04秒で開く付箋アプリを Tauri 2 + Rust で作った</title>
+<link>https://qiita.com/hirobu/items/85b68f9f856f6c81af39</link>
+<guid>0702ec175e2a1d50e1f086ea6dcc27a06f90835d13710f46a44446210bb73657</guid>
+<pubDate>2026-06-09T06:41:31+09:00</pubDate>
+<description>はじめに 会議中、コードのビルド待ち、あるいは散歩中。 「あ、この設計でいこう」 「このバグ、もしかしてあそこが原因では？」 そう閃いたのに、数分後には綺麗さっぱり消え去っている。 人間のワーキングメモリは驚くほど脆く、特にエンジニアの頭をよぎる閃きは一瞬で揮発します。 ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/neural-general-circulation-models-for-modeling-precipitation/</link>
-<guid>e53da54a48cd3bc3503b2fc84f62c63778eaf63e884ec37696939227f0739afc</guid>
-<pubDate>Mon, 08 Jun 2026 20:01:44 GMT</pubDate>
+<link>https://research.google/pubs/on-the-fly-ovd-adaptation-with-flame-few-shot-localization-via-active-marginal-samples-exploration/</link>
+<guid>bda8471fd949ad83d3f2af2d0fcb26ffc24771defd087c9e655b7aa0951455c5</guid>
+<pubDate>Mon, 08 Jun 2026 22:07:58 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>b8cc37b4231d56ca6dc56ee635d418deb79c508a63ae5bc1cde3f053dc3e837f</guid>
-<pubDate>Mon, 08 Jun 2026 20:01:47 GMT</pubDate>
+<guid>e00ebd0547bace4564fd1cb5340f24dca77653d69c8361f45b74acda7dce5f1f</guid>
+<pubDate>Mon, 08 Jun 2026 22:08:00 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 
