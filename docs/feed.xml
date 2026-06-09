@@ -4,70 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 09 Jun 2026 13:25:52 GMT</lastBuildDate>
+<lastBuildDate>Tue, 09 Jun 2026 16:17:08 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 npx skills は GitHub Enterprise でも使えそうだった</title>
-<link>https://qiita.com/optimisuke/items/eb6d83dcb75642b444e2</link>
-<guid>dadeca11154c5fbf56bb58e20756bac265a060595229bdf1c0d583724bc77c1e</guid>
-<pubDate>2026-06-09T20:17:30+09:00</pubDate>
-<description>はじめに AI Agent 向けの Skill を、チームやプロジェクトで共有しやすくできないかを検証しました。 使ったのは npx skills です。 npx skills は、Skill を GitHub repo や別フォルダから取得して、各 Agent の sk...</description>
+<title>【Qiita】 Claude Code / Codex時代の開発フロー──Plan、Work、Review、CompoundでAIを工程に入れる 第0回</title>
+<link>https://qiita.com/gaop2560/items/a9fdd8653e1951beb8b9</link>
+<guid>f62b79a50b7a884dd076b12809af70b205daee3bec141d03e1843d4928423fe5</guid>
+<pubDate>2026-06-09T23:07:27+09:00</pubDate>
+<description>この記事は「AIエージェントを工程に入れる」シリーズの第0回です。 Claude Code、Codex、Cursor、Gemini CLI のような coding agent を、単なるコード生成ツールではなく、開発工程に組み込むための考え方を整理します。 この記事の想...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-05-25): AIコンテキスト中継からRPKI経路検証、TLSの耐量子署名まで</title>
-<link>https://qiita.com/tetsuko_room/items/f0f102399179017aed05</link>
-<guid>8ee63d0a2e4153418ac543e6e7348346fe4c47f136772be0a10e3f64b2d95687</guid>
-<pubDate>2026-06-09T21:13:50+09:00</pubDate>
-<description>こんばんは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-25（UTC基準）に公開されたInte...</description>
+<title>【Qiita】 HTMLやMarkdownプレビュー画面に直接コメントして、そのままAIへの修正プロンプトにするVS Code拡張を作った</title>
+<link>https://qiita.com/ponchuchu/items/96a156487d98177da2db</link>
+<guid>1ead16144107fd52f26d12998e2788c8cda7d138ad18c30a56c90ac561c65233</guid>
+<pubDate>2026-06-09T22:42:56+09:00</pubDate>
+<description>背景 最近は AI に HTML や Markdown でドキュメントを書かせる機会も増えました。レビューはレンダリングされた見た目を見て行いたいのに、修正指示は AI に対してソース（どの要素・どの行か）を正確に伝える必要があり、地味に面倒でした。 この「見た目を見てレ...</description>
 </item>
 <item>
-<title>【Qiita】 AIが賢いのに仕事できないのは、渡した道具のせいかもしれない — AIエージェントに持たせるツール（Function / MCP）設計の実践ガイド</title>
-<link>https://qiita.com/akira_papa_AI/items/9657fbbd9150c31a693d</link>
-<guid>bde1e9a0fa8ee52f358487413a26c412ababfa41db4681b415254d8e00684d88</guid>
-<pubDate>2026-06-09T22:11:52+09:00</pubDate>
-<description>はじめに：AIが失敗した時、つい「AIがアホやな」と思ってしまうけど AIエージェントを動かしていて、こんな経験ないですか。 「ちゃんと指示したのに、変なところを検索しに行った」 「引数を勝手に間違えた」 「やらなくていい確認を何回もしてくる」 「逆に、消したらアカンもの...</description>
-</item>
-<item>
-<title>【Qiita】 【生成AI】設計書から一発でアプリが完成した日。Android開発者が実感した「個人開発のパラダイムシフト」</title>
-<link>https://qiita.com/highcom/items/8145f535e7ff09358b1f</link>
-<guid>144f18831e8109fdbace4925c95c1f28e8c97bc306cf605ca85c12ac2b1787ab</guid>
-<pubDate>2026-06-09T21:21:48+09:00</pubDate>
-<description>はじめに 組み込み開発や通信プロトコルの解析現場で、以下のような作業に頭を悩ませたことはありませんか？ 「ログに出力された 0xAA0F という16進数。これ、構造体のビットフィールドに当てはめると、各フィールドの値って10進数でいくつになるんだ…？」 通常の関数電卓...</description>
-</item>
-<item>
-<title>【Qiita】 コラム：プログラマの多くが知らない「アセンブラの本質」〜なぜAIへの指示は3種類で足りるのか？</title>
-<link>https://qiita.com/otoyo0318/items/1a94cc4cc0e0b189d770</link>
-<guid>a01857860bebb19de33d92d06eb20000477963f3e017dcf2f7eec1b6b5a71cd2</guid>
-<pubDate>2026-06-09T21:10:13+09:00</pubDate>
-<description>▲ コンピュータ黎明期を支えた銘石たち。彼女たちのシンプルな魂は現代のAI（GPU）にも脈々と受け継がれている。▲ 「アイキャッチを見て『うわ、懐かしい！』と指が止まったベテランエンジニアの皆様、ようこそ。 今回は、Z80や6809に熱狂したあの頃の「無駄を削ぎ落とすカタ...</description>
-</item>
-<item>
-<title>【Qiita】 連載：AIに仕事を奪われる不安から始めるハーネス作成入門 第3回 AIにコードを書かせるだけでは足りない理由</title>
-<link>https://qiita.com/singula/items/d0b24100bc5561950be9</link>
-<guid>3c80b534746d4141d40a3a48bf62173b5d5edaae7ba391eaf0b780c474f7793a</guid>
-<pubDate>2026-06-09T20:50:19+09:00</pubDate>
-<description>AIにコードを書かせるだけでは足りない理由 連載：AIに仕事を奪われる不安から始めるハーネス作成入門 全24回（週2回・12週間）｜第3回 / 24 この連載は、AIによるキャリア不安を持つプログラマ・SEに向けて、AIエージェントを安全に制御・検証・運用するための「ハ...</description>
-</item>
-<item>
-<title>【自動自律実験】 Author Correction: PTC-bearing mRNA elicits a genetic compensation response via Upf3a and COMPASS components</title>
-<link>https://www.nature.com/articles/s41586-026-10769-0</link>
-<guid>7f9e7016b361f0e73406e23480092eab7f52e7407899c16887a6709a8872a982</guid>
+<title>【自動自律実験】 A unicellular relative links aggregative multicellularity to animal origins</title>
+<link>https://www.nature.com/articles/s41586-026-10748-5</link>
+<guid>1181d9045aadcc61f1e36e1d0774b51f8f043ecc9f70c703929c4759b309bf54</guid>
 <pubDate>2026-06-09</pubDate>
-<description>Author Correction: PTC-bearing mRNA elicits a genetic compensation response via Upf3a and COMPASS components</description>
+<description>A unicellular relative links aggregative multicellularity to animal origins</description>
+</item>
+<item>
+<title>【自動自律実験】 A treasure trove of Neolithic necklace beads</title>
+<link>https://www.nature.com/articles/d41586-026-01810-3</link>
+<guid>bf575ba1e6917c59338ff8a7b073bf070ae14fb955278fc54206a1c0a9ce5ee3</guid>
+<pubDate>2026-06-09</pubDate>
+<description>Archaeological findings from Italy, and machines with a life of their own, in our weekly dip into Nature’s archive.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-computer-vision-problem-in-flatland/</link>
-<guid>7ef2278f90e3df5a76b521fb7357485898cefc481b82a2a2b026f5dd80cc7d8c</guid>
-<pubDate>Tue, 09 Jun 2026 13:24:03 GMT</pubDate>
+<link>https://research.google/pubs/what-makes-a-good-productivity-metric/</link>
+<guid>113460474fbe842abcbe02d4ee2c7a8cbce7e357a4774eaaf93cba0b87ccceae</guid>
+<pubDate>Tue, 09 Jun 2026 16:16:14 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>73fd3d71f5465c7c0ba814c4de433c2b57108a92ad22c7efccbeaa6a1bdcb00a</guid>
-<pubDate>Tue, 09 Jun 2026 13:24:20 GMT</pubDate>
+<guid>681500a54f3824e35ca5298c478386b3771e4213552839a3820bc4c974a7d40e</guid>
+<pubDate>Tue, 09 Jun 2026 16:16:16 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-10652-y</link>
+<guid>12d49535d05e1e21d0e70ec6f6db73cb1aa72d246a51a70ac1d283220cae1ed2</guid>
+<pubDate>Tue, 09 Jun 2026 16:16:18 GMT</pubDate>
+<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
 </item>
 
 </channel>
