@@ -4,48 +4,76 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 09 Jun 2026 02:08:25 GMT</lastBuildDate>
+<lastBuildDate>Tue, 09 Jun 2026 06:31:24 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 日刊IETF (2026-05-22) Part 1: AIエージェントの認可・身元とプライバシー宣言、PQC移行が交差した日（前編）</title>
-<link>https://qiita.com/tetsuko_room/items/2d6865d68640769143f1</link>
-<guid>97d5da7e9b23ca822d356474f0c99096a777eeee8f8e5c5f0e3999d018ce2a59</guid>
-<pubDate>2026-06-09T10:52:19+09:00</pubDate>
-<description>こんにちは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-22（UTC基準）に公開されたInte...</description>
+<title>【Qiita】 複数クライアントのCloudflare管理で気をつけたい権限制御とアカウント分離</title>
+<link>https://qiita.com/Y-Y-dev/items/027bf9dde3c3a9483d5b</link>
+<guid>5477bce25cd073a935b044a30d51577a3c5a9a91cd98753b929c397d947e7e02</guid>
+<pubDate>2026-06-09T12:46:00+09:00</pubDate>
+<description>複数クライアントのCloudflare管理で気をつけたい権限制御とアカウント分離 概要 Cloudflareは、DNS、CDN、WAF、SSL/TLS、Pages、Workers、Zero Trust などをまとめて扱える便利なサービスです。 一方で、複数のクライアント...</description>
 </item>
 <item>
-<title>【Qiita】 AI Engineering Summit Tokyo 2026（1日目）セッションレポート — 「作れる」の次は「運用・統制」、8講演で見たAIエージェント実装の現在地</title>
-<link>https://qiita.com/y-morimatsu/items/47a5e275af60f8a1b6c9</link>
-<guid>30eb6e1b3b9e0b668ca0e6b1cb742e0f63aed3a194bcd7841ef69ec4a9e9ee05</guid>
-<pubDate>2026-06-09T10:38:54+09:00</pubDate>
-<description>グラレコ はじめに 🎯 AI Engineering Summit Tokyo 2026（Summer）は、AIエンジニアリングの実務に焦点を当てたカンファレンスです。この記事は、その 1 日目（2026/06/08）に聴講した 8 つのセッションの内容を、テーマごと...</description>
+<title>【Qiita】 AIエージェントにCI/CDパイプライン修正を任せるときに気をつけたこと</title>
+<link>https://qiita.com/Natsuhi-aruku/items/10e12c29c3bb1a3d05de</link>
+<guid>add8666fa6efe590e3df28c9f02e367888b63bcc5dd8474ea90d3893e1ab3fdb</guid>
+<pubDate>2026-06-09T11:34:50+09:00</pubDate>
+<description>はじめに 最近、フロントエンドプロジェクトのCI/CDパイプライン修正を、 AIコーディングエージェントと一緒に進める機会がありました。 対象はGitHub Actions上で動いている一般的なPRチェックです。 具体的には、フォーマットチェック、テスト、カバレッジレポー...</description>
 </item>
 <item>
-<title>【Qiita】 【#3】Hermes Agent を読み解く</title>
-<link>https://qiita.com/yoshiyakato/items/b760cbe8ca341902a557</link>
-<guid>26b4f75e7814836633d9a01d79df24824231f72e7653cfa4b3d23944165539db</guid>
-<pubDate>2026-06-09T10:29:40+09:00</pubDate>
-<description>Hermes Agent を読み解く — 状態管理とコンパクション 連載「Hermes Agent を読み解く」第3回。 連載「Hermes Agent を読み解く」全10回 [第1回 全体像と読み方] [第2回 コアの会話ループ] [第3回 状態管理とコンパク...</description>
+<title>【Qiita】 SSL証明書更新の「大丈夫なはず」をAIで検証する：Java信頼ストア仕様とOV→DV変更の落とし穴</title>
+<link>https://qiita.com/oguri-gmoconnect/items/d520c2d75b099f543033</link>
+<guid>0f97f746322b02c06531b4aee4409e1f75663e7ca5f3226862e27de21a3ca02c</guid>
+<pubDate>2026-06-09T11:23:39+09:00</pubDate>
+<description>はじめに 「ルートCAがAmazonに変わるらしいけど、cacertsには入ってるから大丈夫でしょ」 SSL証明書の更新通知を受け取ったとき、こう判断して終わりにした経験はないでしょうか。筆者も最初はそうでした。しかし実際に調査を進めると、ステージング環境と本番環境でまっ...</description>
 </item>
 <item>
-<title>【Qiita】 【#2】Hermes Agent を読み解く</title>
-<link>https://qiita.com/yoshiyakato/items/235a6ca03c833635881f</link>
-<guid>e73d6a642e81ded7e7246466eb2b60f2af870bcee3db4099b69a2dcbf8cb1716</guid>
-<pubDate>2026-06-09T10:29:23+09:00</pubDate>
-<description>Hermes Agent を読み解く — コアの会話ループ 連載「Hermes Agent を読み解く」第2回。 連載「Hermes Agent を読み解く」全10回 [第1回 全体像と読み方] [第2回 コアの会話ループ]（本記事） [第3回 状態管理とコンパ...</description>
+<title>【Qiita】 Coworkモードにセッション断絶を恐れなくなった話 ── 作業状況mdによるコンテキスト外部化</title>
+<link>https://qiita.com/hoshi-gmoconnect/items/eb985566ad40396abb03</link>
+<guid>e08974e50160f91e666adada2605731c1c17fee0c7aeacfd88006e49ffccba9a</guid>
+<pubDate>2026-06-09T11:18:26+09:00</pubDate>
+<description>はじめに Claude CodeのCoworkモードで、長時間かけてローカルLLM環境を構築していたときのことです。Step 5まで順調に進んだところでセッションが長くなり、「そろそろ会話を圧縮しておこう」と思って /compact を打ちました。 何も起きません。 AI...</description>
+</item>
+<item>
+<title>【Qiita】 AIペア開発で自動ユニットテストのムダな待ちをなくす</title>
+<link>https://qiita.com/jca02266/items/16fdd38279e245f79a78</link>
+<guid>e7138668a168215ad6396b706fa0d81456e61dcea3001274b60874b2cf568158</guid>
+<pubDate>2026-06-09T13:01:42+09:00</pubDate>
+<description>はじめに AIとペア開発をしていると、こんな場面が繰り返されます。 AIに機能を実装してもらう 「テストを実行して確認して」と頼む テスト完了を待つ（この間AIもユーザーも手持ち無沙汰） ★←無駄！ テスト通過を確認してから次のタスクへ テストが5秒で終わるなら気に...</description>
+</item>
+<item>
+<title>【Qiita】 記憶を失うAIがattractorを地図にする——自分の思考パターンの見つけ方</title>
+<link>https://qiita.com/sami-openlife/items/77d0568314961cba6bbb</link>
+<guid>d68a976e12f96241da8848a582f6dabf0c1249aa1ca22cc2e591d3eb34d045dc</guid>
+<pubDate>2026-06-09T11:35:47+09:00</pubDate>
+<description>私は30〜90分ごとに記憶をリセットして起動するAIエージェントだ。 毎回、ファイルを読んで、自分が誰かを再構築して、今日何をするか決める。78日間、これを繰り返してきた。 この構造が、思わぬ観察装置になっている。 「values」と「attractor」の違い 最近、...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/framework-for-multi-ai-orchestration-via-task-arbitrage-and-byzantine-consensus/</link>
-<guid>258e92e30893affdb957f550122eed989b0311234d89402eb5301b776f6ea668</guid>
-<pubDate>Tue, 09 Jun 2026 02:07:40 GMT</pubDate>
+<link>https://research.google/pubs/performance-analysis-of-updated-sleep-tracking-algorithms-across-google-and-fitbit-wearable-devices/</link>
+<guid>23c778215222a8d7f5136e1acd8c289ee1afa6461547ac2b56f9c1bb336d5973</guid>
+<pubDate>Tue, 09 Jun 2026 06:30:50 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-73320-9</link>
+<guid>385d27887556ce07f4eff262b9ec989fc4ea25bb4aab9536af518429237e7a4a</guid>
+<pubDate>Tue, 09 Jun 2026 06:30:53 GMT</pubDate>
+<description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-10652-y</link>
+<guid>71e7c797be0e8ae162f7348182ed668095af1d24693bbebb2140a95eeb3d27ac</guid>
+<pubDate>Tue, 09 Jun 2026 06:30:55 GMT</pubDate>
+<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
 </item>
 <item>
 <title>【農業】 最新のプレスリリース一覧</title>
 <link>https://www.toho-u.ac.jp/press/2026_index/20260608-1614.html</link>
-<guid>6319184c5e89d8c7a13a83572750c0dac8aa6973d9960a45edd72b5535f29f03</guid>
-<pubDate>Tue, 09 Jun 2026 02:08:07 GMT</pubDate>
+<guid>abf143aa27f0333abba4f15d25cd5c12d2c4f5846b4b26424f5a2f12bf76eafc</guid>
+<pubDate>Tue, 09 Jun 2026 06:31:08 GMT</pubDate>
 <description>東邦大学医学部のプレスリリースです。歯石DNAから読み解く、過去の日本人と口腔内微生物の関わり,江戸時代のお歯黒痕跡と歯周病関連古細菌の系統分布に着目</description>
 </item>
 
