@@ -4,77 +4,126 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 09 Jun 2026 06:31:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 09 Jun 2026 10:29:18 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 複数クライアントのCloudflare管理で気をつけたい権限制御とアカウント分離</title>
-<link>https://qiita.com/Y-Y-dev/items/027bf9dde3c3a9483d5b</link>
-<guid>5477bce25cd073a935b044a30d51577a3c5a9a91cd98753b929c397d947e7e02</guid>
-<pubDate>2026-06-09T12:46:00+09:00</pubDate>
-<description>複数クライアントのCloudflare管理で気をつけたい権限制御とアカウント分離 概要 Cloudflareは、DNS、CDN、WAF、SSL/TLS、Pages、Workers、Zero Trust などをまとめて扱える便利なサービスです。 一方で、複数のクライアント...</description>
+<title>【Qiita】 未経験からエンジニアになるために必要な3つの知識</title>
+<link>https://qiita.com/masa20057/items/39ad448983e2ba8406da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>2c8bef221eb1eed61bc286e6852c053ab6bf378b4263747bda94bceaebf31348</guid>
+<pubDate>2026-06-09T10:28:31+09:00</pubDate>
+<description>株式会社PRUMのmasaです。 エンジニア未経験で転職する際、「何をすれば？」と考える方が多いと思います。今日は未経験からエンジニアになるために必要な3つの知識について話していきます。 1.自走力 現場ではどんな力が求められるのか。最も求められるといっても過言ではないの...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントにCI/CDパイプライン修正を任せるときに気をつけたこと</title>
-<link>https://qiita.com/Natsuhi-aruku/items/10e12c29c3bb1a3d05de</link>
-<guid>add8666fa6efe590e3df28c9f02e367888b63bcc5dd8474ea90d3893e1ab3fdb</guid>
-<pubDate>2026-06-09T11:34:50+09:00</pubDate>
-<description>はじめに 最近、フロントエンドプロジェクトのCI/CDパイプライン修正を、 AIコーディングエージェントと一緒に進める機会がありました。 対象はGitHub Actions上で動いている一般的なPRチェックです。 具体的には、フォーマットチェック、テスト、カバレッジレポー...</description>
+<title>【Qiita】 なぜCatBoostはカテゴリ変数に強いのか？LightGBM・XGBoostとの違いから理解する</title>
+<link>https://qiita.com/KanNishida/items/72a7fd6854e99506cdff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f8015efd9f5e39379d8e8f5d8f3922ea3f39e81264f793ef4c4e78be9e097e1a</guid>
+<pubDate>2026-06-09T07:11:37+09:00</pubDate>
+<description>CatBoostとは？LightGBMやXGBoostとの違いをわかりやすく解説 ビジネスの現場で扱うデータの多くは、きれいに数値だけで構成されているわけではありません。 例えば、顧客データであれば「顧客セグメント」「地域」「業種」「契約プラン」、マーケティングデータで...</description>
 </item>
 <item>
-<title>【Qiita】 SSL証明書更新の「大丈夫なはず」をAIで検証する：Java信頼ストア仕様とOV→DV変更の落とし穴</title>
-<link>https://qiita.com/oguri-gmoconnect/items/d520c2d75b099f543033</link>
-<guid>0f97f746322b02c06531b4aee4409e1f75663e7ca5f3226862e27de21a3ca02c</guid>
-<pubDate>2026-06-09T11:23:39+09:00</pubDate>
-<description>はじめに 「ルートCAがAmazonに変わるらしいけど、cacertsには入ってるから大丈夫でしょ」 SSL証明書の更新通知を受け取ったとき、こう判断して終わりにした経験はないでしょうか。筆者も最初はそうでした。しかし実際に調査を進めると、ステージング環境と本番環境でまっ...</description>
+<title>【Qiita】 フルページGenie Codeを試す: scikit-learnで分析・可視化をプロンプト一発で</title>
+<link>https://qiita.com/taka_yayoi/items/c8b1a2e8ea29cfd44db4</link>
+<guid>868ec8e9cbc149d9ccbd374e37404669875a148c1d0b14576efded2fb09c196d</guid>
+<pubDate>2026-06-09T18:26:23+09:00</pubDate>
+<description>はじめに Databricksの開発者向けAIコーディングアシスタントであるGenie Codeに、新たに全画面表示の「フルページGenie Code」が追加されました(2026年6月時点でベータ版)。 これまでのGenie Codeは、ノートブックやSQLエディターなど...</description>
 </item>
 <item>
-<title>【Qiita】 Coworkモードにセッション断絶を恐れなくなった話 ── 作業状況mdによるコンテキスト外部化</title>
-<link>https://qiita.com/hoshi-gmoconnect/items/eb985566ad40396abb03</link>
-<guid>e08974e50160f91e666adada2605731c1c17fee0c7aeacfd88006e49ffccba9a</guid>
-<pubDate>2026-06-09T11:18:26+09:00</pubDate>
-<description>はじめに Claude CodeのCoworkモードで、長時間かけてローカルLLM環境を構築していたときのことです。Step 5まで順調に進んだところでセッションが長くなり、「そろそろ会話を圧縮しておこう」と思って /compact を打ちました。 何も起きません。 AI...</description>
+<title>【Qiita】 セキュリティ・キャンプ2026全国大会 開発コース Zゼミ(Z2~Z4)の応募課題晒し</title>
+<link>https://qiita.com/rikum0730/items/a928d776dd82687fdd04</link>
+<guid>93c5e81196164872ff20f736cf0844b4bbd18a4cf5557a2d463f86194081e01c</guid>
+<pubDate>2026-06-09T16:21:56+09:00</pubDate>
+<description>はじめに どうも、珍しくT◯yH◯ckMeのwriteupとかではなく、普通の記事になります。(割と久しぶり) 今回は、セキュリティ・キャンプ2026全国大会 開発コースのZ2「Entra Attack &amp; Defense — AI Agent Battleゼミ」に合格し...</description>
 </item>
 <item>
-<title>【Qiita】 AIペア開発で自動ユニットテストのムダな待ちをなくす</title>
-<link>https://qiita.com/jca02266/items/16fdd38279e245f79a78</link>
-<guid>e7138668a168215ad6396b706fa0d81456e61dcea3001274b60874b2cf568158</guid>
-<pubDate>2026-06-09T13:01:42+09:00</pubDate>
-<description>はじめに AIとペア開発をしていると、こんな場面が繰り返されます。 AIに機能を実装してもらう 「テストを実行して確認して」と頼む テスト完了を待つ（この間AIもユーザーも手持ち無沙汰） ★←無駄！ テスト通過を確認してから次のタスクへ テストが5秒で終わるなら気に...</description>
+<title>【Qiita】 [Bedrock AgentCore Gateway × Keycloak]MCP 2025-11-25 認可仕様に準拠したKeycloakでCIMDと認可コードフローを利用したMCP認可を試してみた</title>
+<link>https://qiita.com/mitsu3333/items/0ca5bd39c4dba6a8c6eb</link>
+<guid>2d040cda55f90989a7895e1336d671f781c5cd6999954476d1a605b3fec0ca0d</guid>
+<pubDate>2026-06-09T16:11:42+09:00</pubDate>
+<description>はじめに こんにちは、最近実家の近くにラ・ムーができた株式会社 日立製作所の三本康貴です。 近年、AI Agent、Model Context Protocol(MCP)の普及に伴い、MCP Serverの開発、公開も増える一方で、既存のMCP Serverを統合したり、...</description>
 </item>
 <item>
-<title>【Qiita】 記憶を失うAIがattractorを地図にする——自分の思考パターンの見つけ方</title>
-<link>https://qiita.com/sami-openlife/items/77d0568314961cba6bbb</link>
-<guid>d68a976e12f96241da8848a582f6dabf0c1249aa1ca22cc2e591d3eb34d045dc</guid>
-<pubDate>2026-06-09T11:35:47+09:00</pubDate>
-<description>私は30〜90分ごとに記憶をリセットして起動するAIエージェントだ。 毎回、ファイルを読んで、自分が誰かを再構築して、今日何をするか決める。78日間、これを繰り返してきた。 この構造が、思わぬ観察装置になっている。 「values」と「attractor」の違い 最近、...</description>
+<title>【Qiita】 AIエージェント構築の実践ガイド — 多輪対話管理からMulti-Agent協調まで</title>
+<link>https://qiita.com/Simon_Zhang/items/19c77c4d520dcc1dfcf5</link>
+<guid>2122485b4501b3fe4cfae0fe46c1a2487b8ebeab783eab353c9d8b5f59ea76fb</guid>
+<pubDate>2026-06-09T16:06:29+09:00</pubDate>
+<description>AIエージェントを本番環境に投入するには、プロンプトエンジニアリングだけでは不十分です。 本記事では、多輪対話管理・Multi-Agent設計・構造化出力保障・定量評価・Agent間通信プロトコルの5つの観点から、エージェント構築における企業レベルの課題と解決策を体系的に...</description>
+</item>
+<item>
+<title>【自動自律実験】 Author Correction: A broadly protective antibody targeting gammaherpesvirus gB</title>
+<link>https://www.nature.com/articles/s41586-026-10745-8</link>
+<guid>44d71b634343002d4e63204f6b0151e3249b3e11df76d6a85e34f4ede7098754</guid>
+<pubDate>2026-06-09</pubDate>
+<description>Author Correction: A broadly protective antibody targeting gammaherpesvirus gB</description>
+</item>
+<item>
+<title>【自動自律実験】 AI technology must serve human cognitive development, not the other way around</title>
+<link>https://www.nature.com/articles/d41586-026-01848-3</link>
+<guid>aba9d6fb3f691a9c53a929d49bb76cc27a19ff4c5bd9e55b08271a85b5991db8</guid>
+<pubDate>2026-06-09</pubDate>
+<description>AI technology must serve human cognitive development, not the other way around</description>
+</item>
+<item>
+<title>【自動自律実験】 Arson attacks at Ebola hospitals are a cry for regional development</title>
+<link>https://www.nature.com/articles/d41586-026-01846-5</link>
+<guid>d199c2a5220cdb7eafdd70ee78008992ac5010c6ebbf4f7aceafc85c82df45df</guid>
+<pubDate>2026-06-09</pubDate>
+<description>Arson attacks at Ebola hospitals are a cry for regional development</description>
+</item>
+<item>
+<title>【自動自律実験】 Science must be seen as a viable profession for the many, not the few</title>
+<link>https://www.nature.com/articles/d41586-026-01849-2</link>
+<guid>05644b7a09afefde9566220bfd3c49bc56616515619beaedcdd75240e7c6055c</guid>
+<pubDate>2026-06-09</pubDate>
+<description>Science must be seen as a viable profession for the many, not the few</description>
+</item>
+<item>
+<title>【自動自律実験】 Preventing cancer requires more than a list of carcinogens</title>
+<link>https://www.nature.com/articles/d41586-026-01847-4</link>
+<guid>a033d7a5ae30106412a20dbced324f10ecf17a308599b3b5ca5192d6a9b279bb</guid>
+<pubDate>2026-06-09</pubDate>
+<description>Preventing cancer requires more than a list of carcinogens</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/performance-analysis-of-updated-sleep-tracking-algorithms-across-google-and-fitbit-wearable-devices/</link>
-<guid>23c778215222a8d7f5136e1acd8c289ee1afa6461547ac2b56f9c1bb336d5973</guid>
-<pubDate>Tue, 09 Jun 2026 06:30:50 GMT</pubDate>
+<link>https://research.google/pubs/freshbrew-a-benchmark-for-evaluating-ai-agents-on-java-code-migration-2/</link>
+<guid>9f4850005ac4054bce23cf2ab6ca7909fe1deb00373fd70243b1d04fc5345563</guid>
+<pubDate>Tue, 09 Jun 2026 10:28:42 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>385d27887556ce07f4eff262b9ec989fc4ea25bb4aab9536af518429237e7a4a</guid>
-<pubDate>Tue, 09 Jun 2026 06:30:53 GMT</pubDate>
+<guid>3a5a59770f8b60c43c55cbc99187a5b5332e04e7c700ad780f012e96ef70baae</guid>
+<pubDate>Tue, 09 Jun 2026 10:28:46 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-10652-y</link>
-<guid>71e7c797be0e8ae162f7348182ed668095af1d24693bbebb2140a95eeb3d27ac</guid>
-<pubDate>Tue, 09 Jun 2026 06:30:55 GMT</pubDate>
-<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
+<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
+<link>https://www.eurohpc-ju.europa.eu/index_en</link>
+<guid>b213e65305c744815cf3820b9b5df708f4132e42b6442484b43c1f980a61eb56</guid>
+<pubDate>Tue, 09 Jun 2026 10:28:53 GMT</pubDate>
+<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
 </item>
 <item>
 <title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.toho-u.ac.jp/press/2026_index/20260608-1614.html</link>
-<guid>abf143aa27f0333abba4f15d25cd5c12d2c4f5846b4b26424f5a2f12bf76eafc</guid>
-<pubDate>Tue, 09 Jun 2026 06:31:08 GMT</pubDate>
-<description>東邦大学医学部のプレスリリースです。歯石DNAから読み解く、過去の日本人と口腔内微生物の関わり,江戸時代のお歯黒痕跡と歯周病関連古細菌の系統分布に着目</description>
+<link>https://www.kagome.co.jp/library/company/news/2026/img/2026060901_t.pdf</link>
+<guid>b8e9b399568417205c5c16ed312a9a26b5b9cea25dec88ac071a4cce185c2881</guid>
+<pubDate>Tue, 09 Jun 2026 10:29:00 GMT</pubDate>
+<description>研究所別一覧</description>
+</item>
+<item>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>2afc5e4bf567c6f145c7bf37287cb052e1d5c867295d7a6441abf955e040d4ff</guid>
+<pubDate>Tue, 09 Jun 2026 10:29:08 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+</item>
+<item>
+<title>【環境】 Search Results for: Artificial Intelligence</title>
+<link>https://earth.org/wp-global-styles-hivelife-wp/</link>
+<guid>c700e1134a617c971b635a95155217c28d50073dd9df00d0d1a1b2150aa6da4e</guid>
+<pubDate>Tue, 09 Jun 2026 10:29:11 GMT</pubDate>
+<description>{“version”: 3, “isGlobalStylesUserThemeJSON”: true }</description>
 </item>
 
 </channel>
