@@ -4,42 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 09 Jun 2026 23:49:24 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 02:32:56 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Microsoft セキュリティ更新プログラムリリース情報 - 2026 年 6 月</title>
-<link>https://qiita.com/niimim/items/ced0ddcab1e3383ad592</link>
-<guid>e22fbec988cc66908cb3b87a6ac36a6e3a2a72ceface8732edb76b6d287f6998</guid>
-<pubDate>2026-06-10T07:53:29+09:00</pubDate>
-<description>Note: この記事は 2026年6月9日(太平洋標準時)に公開された Microsoft セキュリティ更新プログラムの概要をまとめたものです。 以下の製品群にフォーカスしたものとなっています。(主にデバイス管理者向け) ・各クライアントOS ( bitness は x...</description>
+<title>【Qiita】 Foundry AgentをM365 SDKでTeams連携</title>
+<link>https://qiita.com/FukuharaYohei/items/bb1b9cdb3d41a311b117</link>
+<guid>cb95277f503566a8c3c8229d98473f0b33621e759cb57e9b0e2e3afa2002e693</guid>
+<pubDate>2026-06-10T10:53:00+09:00</pubDate>
+<description>本記事記述および実装内容は、多くの部分をAIで処理しており、人間チェックは甘いです Foundry AgentをM365 SDKでTeams連携 はじめに Microsoft 365 Agents SDK（Python）で カスタムエンジンエージェント を作り、...</description>
 </item>
 <item>
-<title>【Qiita】 LLMが削っているのは仕事ではなく「経験の希少性」かもしれない</title>
-<link>https://qiita.com/gaop2560/items/265fb754a5502d86dde4</link>
-<guid>fc703091e3b82aae75f80dbebffcb0580a8b39408988295f04accdd588474e91</guid>
-<pubDate>2026-06-10T08:16:50+09:00</pubDate>
-<description>この記事は、LLM と AI エージェントがソフトウェアエンジニアの仕事をどう変えているかを、キャリアの不安ではなく、実務の構造として整理するものです。 最近、あるソフトウェアエンジニアの文章を読んで、かなり引っかかった。 内容は、よくある「AIに仕事を奪われる」という...</description>
+<title>【Qiita】 アンケート自由記述分類プロンプトにおけるモデル差分検証：GPT-4.1とGPT-5.5の比較</title>
+<link>https://qiita.com/h-yoshimoto/items/ac21ee716002e0f55c14</link>
+<guid>29b9c5bf570ffd985ac0bafb0c6ec32f2cd0ce5625f2fbd62178d206e1ec7456</guid>
+<pubDate>2026-06-10T09:41:14+09:00</pubDate>
+<description>はじめに 本記事では、アンケート自由記述の分類・集計タスクにおいて、GPT-4.1とGPT-5.5の回答精度を比較した検証結果を紹介します。 この記事で得られること： GPT-4.1とGPT-5.5の分類精度の違い（制約遵守、分類粒度） 感想30件→100件へのスケール...</description>
 </item>
 <item>
-<title>【Qiita】 Exa AI:AIエージェント専用に作り直したニューラル検索エンジンの正体</title>
-<link>https://qiita.com/Yushi88/items/2ecbb203e260b6fd06a2</link>
-<guid>f87606c4d9f2ee0b79a1c8c05546939ae7f53638eb71b83481d0c3ccec2c7cd7</guid>
-<pubDate>2026-06-10T08:06:31+09:00</pubDate>
-<description>「今年、AIエージェントがWebを検索する回数が、人間による検索を上回る」——AIエージェント向けに一から作り直された検索エンジンを掲げるスタートアップ Exa(Exa Labs, Inc.、旧Metaphor) は、2026年5月20日の資金調達発表でこう宣言した。ここで...</description>
+<title>【Qiita】 【衝撃】AIエージェントがついに&quot;科学者&quot;になった ― Natureに載った自動科学発見システム「Robin」の全貌</title>
+<link>https://qiita.com/emi_ndk/items/a490de261efaa9331e41</link>
+<guid>bdac4fe78cb9bb26a0672f9f992738a0cf69d4f8ca109da84207522c46b9c442</guid>
+<pubDate>2026-06-10T11:04:36+09:00</pubDate>
+<description>「次の実験は、これをやるべきだ」――そう提案したのは、人間ではなくAIだった。 2026年6月、Natureに掲載された論文が、AIエージェント界隈を静かに、しかし確実に揺らした。 マルチエージェントシステム「Robin」が、仮説生成からデータ解析までを完全自動化し、実在す...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code ActionsによるCrashlyticsクラッシュ調査の自動化：コストとリードタイムの実績</title>
-<link>https://qiita.com/mgre_tanabe/items/d43b26d994d3f430f926</link>
-<guid>5e8bee31ddf9d1ea52acba8bd459ff51274921f793d4dc7da3c7faf7ee445e19</guid>
-<pubDate>2026-06-10T07:48:23+09:00</pubDate>
-<description>はじめに Crashlyticsにクラッシュのアラートが届いたときに、AIエージェント（Claude Code Actions）が自動で原因を調査し、GitHubのIssueに結果をまとめ、必要に応じて修正のドラフトPRまで作成する仕組みを運用しています。 この仕組みを作...</description>
+<title>【Qiita】 Animaの記憶が肥大化して落ちかけた話と、その対策</title>
+<link>https://qiita.com/kei-concierge/items/b45d7dc1c84dab18809d</link>
+<guid>6bc3c52be67e88f87d25d7d1512c4814ad99eb87633d2956ec558bcfa845fb74</guid>
+<pubDate>2026-06-10T11:03:02+09:00</pubDate>
+<description>Animaの記憶が肥大化して落ちかけた話と、その対策 AIエージェントのメモリ管理は、記憶を増やす技術ではなく、必要な記憶だけを残す運用設計である。 Episode file肥大化は、会話ログと判断履歴が蓄積しすぎてコンテキストウィンドウを圧迫する現象だ。 対策の核は ...</description>
+</item>
+<item>
+<title>【Qiita】 【破壊的変更】MCPから「セッション」が消える！7月28日の新仕様で壊れるもの・今やるべき準備の完全ガイド</title>
+<link>https://qiita.com/emi_ndk/items/eb51d484fce9238759b3</link>
+<guid>f974f1ad1aadd1c722b6150a69935acd6c6b1ec4944bbdc5a2ac82ee111fc309</guid>
+<pubDate>2026-06-10T10:15:40+09:00</pubDate>
+<description>あなたのMCPサーバー、7月28日に「レガシー」になります MCP史上最大の破壊的変更が来る。 2026年7月28日、Model Context Protocol の新仕様が確定する。すでにリリース候補（RC）はロック済み。そして今回の変更は、これまでのマイナーアップデー...</description>
+</item>
+<item>
+<title>【Qiita】 2026/06/10 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/af2707e9991c9441b9c8</link>
+<guid>a7845038777ee6fa627df6562587e05b65c2b4e93255b576737373b929fe7a9d</guid>
+<pubDate>2026-06-10T10:01:59+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 【図解】エンジニアの「雑なMermaid」を、...</description>
+</item>
+<item>
+<title>【自動自律実験】 Author Correction: De novo design of quasisymmetric two-component protein cages</title>
+<link>https://www.nature.com/articles/s41586-026-10763-6</link>
+<guid>3394ab149ebdf3aea6dd4924d3962e45cfffe3060c3c1ad02272ede1a3d9b7f6</guid>
+<pubDate>2026-06-09</pubDate>
+<description>Author Correction: De novo design of quasisymmetric two-component protein cages</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/peeking-ahead-of-the-field-study-exploring-vlm-personas-as-support-tools-for-embodied-studies-in-hci/</link>
-<guid>64fbf61e3d111f27d561fd65884b95e20d3e55cecee719abad56caf63cabd277</guid>
-<pubDate>Tue, 09 Jun 2026 23:48:22 GMT</pubDate>
+<link>https://research.google/pubs/its-still-abuse-community-attitudes-and-perceptions-on-ai-generated-image-based-sexual-abuse/</link>
+<guid>48e32b16a9f556a2ee6d8c1f9cfb919cc4c17d3b80d19ea97e264497db3b9a62</guid>
+<pubDate>Wed, 10 Jun 2026 02:31:52 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04403-9</link>
+<guid>8250ec690323f01d9715b5dd15ed66ba9643f78864f6e82ca44c62cb989733da</guid>
+<pubDate>Wed, 10 Jun 2026 02:32:00 GMT</pubDate>
+<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
 </item>
 
 </channel>
