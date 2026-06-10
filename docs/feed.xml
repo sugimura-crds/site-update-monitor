@@ -4,70 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 10 Jun 2026 02:32:56 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 07:00:11 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Foundry AgentをM365 SDKでTeams連携</title>
-<link>https://qiita.com/FukuharaYohei/items/bb1b9cdb3d41a311b117</link>
-<guid>cb95277f503566a8c3c8229d98473f0b33621e759cb57e9b0e2e3afa2002e693</guid>
-<pubDate>2026-06-10T10:53:00+09:00</pubDate>
-<description>本記事記述および実装内容は、多くの部分をAIで処理しており、人間チェックは甘いです Foundry AgentをM365 SDKでTeams連携 はじめに Microsoft 365 Agents SDK（Python）で カスタムエンジンエージェント を作り、...</description>
+<title>【Qiita】 ECCのスキル設計と運用ルーチンを主要SKILL.mdから読み解く</title>
+<link>https://qiita.com/ryoji9702/items/1c1b39a272c5021f4769</link>
+<guid>aa529c8eba83a7946e34fac1c269a9546463073c8469170e1e56d6911f7df798</guid>
+<pubDate>2026-06-10T13:21:35+09:00</pubDate>
+<description>はじめに GitHub で 205k スターを集める affaan-m/ECC は、Claude Code・Codex・Cursor などのエージェントハーネスを横断する「ハーネス性能最適化システム」です。公称 63 agents / 249 skills / 79 le...</description>
 </item>
 <item>
-<title>【Qiita】 アンケート自由記述分類プロンプトにおけるモデル差分検証：GPT-4.1とGPT-5.5の比較</title>
-<link>https://qiita.com/h-yoshimoto/items/ac21ee716002e0f55c14</link>
-<guid>29b9c5bf570ffd985ac0bafb0c6ec32f2cd0ce5625f2fbd62178d206e1ec7456</guid>
-<pubDate>2026-06-10T09:41:14+09:00</pubDate>
-<description>はじめに 本記事では、アンケート自由記述の分類・集計タスクにおいて、GPT-4.1とGPT-5.5の回答精度を比較した検証結果を紹介します。 この記事で得られること： GPT-4.1とGPT-5.5の分類精度の違い（制約遵守、分類粒度） 感想30件→100件へのスケール...</description>
+<title>【Qiita】 【#6】Hermes Agent を読み解く</title>
+<link>https://qiita.com/yoshiyakato/items/6abd8fb01b594c442367</link>
+<guid>3693447e82fee4661957d60e472d0959190509ac49723b7fb6ea399789c136d2</guid>
+<pubDate>2026-06-10T13:36:33+09:00</pubDate>
+<description>Hermes Agent を読み解く — マルチエージェント並列 連載「Hermes Agent を読み解く」第6回。 連載「Hermes Agent を読み解く」全10回 第1回 全体像と読み方 第2回 コアの会話ループ 第3回 状態管理とコンパクション 第4...</description>
 </item>
 <item>
-<title>【Qiita】 【衝撃】AIエージェントがついに&quot;科学者&quot;になった ― Natureに載った自動科学発見システム「Robin」の全貌</title>
-<link>https://qiita.com/emi_ndk/items/a490de261efaa9331e41</link>
-<guid>bdac4fe78cb9bb26a0672f9f992738a0cf69d4f8ca109da84207522c46b9c442</guid>
-<pubDate>2026-06-10T11:04:36+09:00</pubDate>
-<description>「次の実験は、これをやるべきだ」――そう提案したのは、人間ではなくAIだった。 2026年6月、Natureに掲載された論文が、AIエージェント界隈を静かに、しかし確実に揺らした。 マルチエージェントシステム「Robin」が、仮説生成からデータ解析までを完全自動化し、実在す...</description>
+<title>【Qiita】 【徹底解説】AIエージェントの5大メモリフレームワーク — Text2Mem / Mem0 / Letta / ReMe / MemU</title>
+<link>https://qiita.com/Simon_Zhang/items/7fe2c65f24f1c68811dc</link>
+<guid>984e2c5f76e7034b8ebb2acedca60e80d08b84c78418973fbb3a1959e36ee4f2</guid>
+<pubDate>2026-06-10T13:32:49+09:00</pubDate>
+<description>Text2Mem / Mem0 / Letta / ReMe / MemU を横断比較し、それぞれの設計思想・アーキテクチャ・使い方を深掘りします。 🧠 はじめに ― なぜAIエージェントに「メモリ」が必要なのか？ LLM（大規模言語モデル）は本質的に ステートレス ...</description>
 </item>
 <item>
-<title>【Qiita】 Animaの記憶が肥大化して落ちかけた話と、その対策</title>
-<link>https://qiita.com/kei-concierge/items/b45d7dc1c84dab18809d</link>
-<guid>6bc3c52be67e88f87d25d7d1512c4814ad99eb87633d2956ec558bcfa845fb74</guid>
-<pubDate>2026-06-10T11:03:02+09:00</pubDate>
-<description>Animaの記憶が肥大化して落ちかけた話と、その対策 AIエージェントのメモリ管理は、記憶を増やす技術ではなく、必要な記憶だけを残す運用設計である。 Episode file肥大化は、会話ログと判断履歴が蓄積しすぎてコンテキストウィンドウを圧迫する現象だ。 対策の核は ...</description>
+<title>【Qiita】 【#4】Hermes Agent を読み解く</title>
+<link>https://qiita.com/yoshiyakato/items/fe439ec4f8470172fa93</link>
+<guid>549b7bfe332bf381e29d6cc8e99a3b48a936474ea544486ef6d2751a3acc9d56</guid>
+<pubDate>2026-06-10T13:29:14+09:00</pubDate>
+<description>Hermes Agent を読み解く — 記憶アーキテクチャと人格 連載「Hermes Agent を読み解く」第4回。 連載「Hermes Agent を読み解く」全10回 第1回 全体像と読み方 第2回 コアの会話ループ 第3回 状態管理とコンパクション 第...</description>
 </item>
 <item>
-<title>【Qiita】 【破壊的変更】MCPから「セッション」が消える！7月28日の新仕様で壊れるもの・今やるべき準備の完全ガイド</title>
-<link>https://qiita.com/emi_ndk/items/eb51d484fce9238759b3</link>
-<guid>f974f1ad1aadd1c722b6150a69935acd6c6b1ec4944bbdc5a2ac82ee111fc309</guid>
-<pubDate>2026-06-10T10:15:40+09:00</pubDate>
-<description>あなたのMCPサーバー、7月28日に「レガシー」になります MCP史上最大の破壊的変更が来る。 2026年7月28日、Model Context Protocol の新仕様が確定する。すでにリリース候補（RC）はロック済み。そして今回の変更は、これまでのマイナーアップデー...</description>
-</item>
-<item>
-<title>【Qiita】 2026/06/10 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/af2707e9991c9441b9c8</link>
-<guid>a7845038777ee6fa627df6562587e05b65c2b4e93255b576737373b929fe7a9d</guid>
-<pubDate>2026-06-10T10:01:59+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 【図解】エンジニアの「雑なMermaid」を、...</description>
-</item>
-<item>
-<title>【自動自律実験】 Author Correction: De novo design of quasisymmetric two-component protein cages</title>
-<link>https://www.nature.com/articles/s41586-026-10763-6</link>
-<guid>3394ab149ebdf3aea6dd4924d3962e45cfffe3060c3c1ad02272ede1a3d9b7f6</guid>
-<pubDate>2026-06-09</pubDate>
-<description>Author Correction: De novo design of quasisymmetric two-component protein cages</description>
+<title>【Qiita】 Claude Codeを「貼り付いて見守る」運用から卒業する：/goal・agentsビュー・auto mode実務導入ガイド</title>
+<link>https://qiita.com/YushiYamamoto/items/184014b9a041fd3e88fd</link>
+<guid>0745b18b80d6db28e7d6ff77643435629313ae761e91ed022ef2dbf3885998c7</guid>
+<pubDate>2026-06-10T12:51:28+09:00</pubDate>
+<description>この記事でわかること Claude Codeに2026年春以降追加された「放置運用」系機能（claude agents / /goal / auto mode / Monitor / Routines）の役割分担 複数セッションを並列で走らせるときに、どの機能をどの順で...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/its-still-abuse-community-attitudes-and-perceptions-on-ai-generated-image-based-sexual-abuse/</link>
-<guid>48e32b16a9f556a2ee6d8c1f9cfb919cc4c17d3b80d19ea97e264497db3b9a62</guid>
-<pubDate>Wed, 10 Jun 2026 02:31:52 GMT</pubDate>
+<link>https://research.google/pubs/mogen-detailed-neuronal-morphology-generation-via-point-cloud-flow-matching/</link>
+<guid>6d80368df36da2c7aac21c972d571784c354456fd646bfa313ed5b53c93cd34a</guid>
+<pubDate>Wed, 10 Jun 2026 06:59:03 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04403-9</link>
-<guid>8250ec690323f01d9715b5dd15ed66ba9643f78864f6e82ca44c62cb989733da</guid>
-<pubDate>Wed, 10 Jun 2026 02:32:00 GMT</pubDate>
-<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-73320-9</link>
+<guid>7bc77044dfce1a6495f5f75e2e60b4634e0b23e9eef203c05666cf13978cdc8e</guid>
+<pubDate>Wed, 10 Jun 2026 06:59:05 GMT</pubDate>
+<description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
+</item>
+<item>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>9e7f2026624aac1d5baad7441e9fbebaae325db292c0a4aaa34a07f26b95630b</guid>
+<pubDate>Wed, 10 Jun 2026 07:00:00 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
