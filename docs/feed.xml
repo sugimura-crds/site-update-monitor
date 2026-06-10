@@ -4,91 +4,84 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 10 Jun 2026 14:20:30 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 17:41:36 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Teamsタブに Streamlit を Entra認証で載せる</title>
-<link>https://qiita.com/FukuharaYohei/items/ffa42d0175780605ac00</link>
-<guid>7a582a585b244d62c24bf3fc2f0f31633897687ad08d827e6b47cb2b603bf657</guid>
-<pubDate>2026-06-10T22:24:04+09:00</pubDate>
-<description>本記事記述および実装内容は、多くの部分をAIで処理しており、人間チェックは甘いです はじめに 「Microsoft Teams のタブから、自前の Web アプリ（Azure App Service）を呼び出したい。しかも Teams のサインインユーザー（Ent...</description>
+<title>【Qiita】 11体のAIエージェントに、チームナレッジを勝手に育ててもらっている</title>
+<link>https://qiita.com/kedama-t/items/25e2e6e6f68b62f04f99</link>
+<guid>8347baca776de8cb10103eb339c7d47bd7c3fbedc1183e5d3c06169a0f9e4c14</guid>
+<pubDate>2026-06-11T00:12:41+09:00</pubDate>
+<description>序 ドキュメントは書く人によって粒度も、品質もばらつく 詳しい人に負荷が偏り、その人の書いた文章が他のメンバーにとって読みやすいとも限らない 古い記事のメンテナンスがされておらず情報が古い 気がつくと俺しか書いてない チームでナレッジを運用していこうと思うと、必ずこ...</description>
 </item>
 <item>
-<title>【Qiita】 AI Agentの足取りを読み解く ── OSINT・SIGINT・MASINTで構築する &quot;AI Agentic Intelligence&quot;（私案）</title>
-<link>https://qiita.com/etale_cohomology/items/eb6c683de65cfbeaab54</link>
-<guid>4e7e3c7742821bf7104af5bc4057ad9f507bc0b34a93c8102ca258fc9fbff321</guid>
-<pubDate>2026-06-10T22:36:05+09:00</pubDate>
-<description>AIエージェントは今後、人間と並ぶウェブ空間の行為主体として、さらには、身体を持つAIエージェント（フィジカルAI）として現実空間の行為主体 として、その存在感を高めていく可能性が高いと考えられます。 そこで、これまで生身の人間の行動履歴や行動特性を関心の対象に据えてきた...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Codeのultracodeとultraplanの違いとは？使い分けを初心者向けに解説</title>
-<link>https://qiita.com/ochtum/items/893e0f0806beab699387</link>
-<guid>9b8e0b4aa2b027894e7a892320864934a6120964ab32ad608afbeada354edf14</guid>
-<pubDate>2026-06-10T22:20:06+09:00</pubDate>
-<description>※お役に立てたらストック、いいねをよろしくお願いします！！ ＜📝本記事のターゲット層＞ Claude Codeを使い始めたばかりのエンジニア ultracodeとultraplanの違いを短時間で理解したい人 AIエージェントを使った大規模な開発作業に関心がある...</description>
-</item>
-<item>
-<title>【Qiita】 賞味期限管理システムをCopilot＆VBAで作成！</title>
-<link>https://qiita.com/show0909/items/0513fbaf744286ae8716</link>
-<guid>2cc51eb9717cc7ab223eb82faf8247aac1ed45f0318cc2b0c792077964e40587</guid>
-<pubDate>2026-06-10T22:18:39+09:00</pubDate>
-<description>こんにちは！showと申します！ ２回目の投稿になります 最近改善してほしい点を一緒に働いている部門の方に聞いているのですが、ほぼ全員が言っていたことがありましたので、そちらの改善に挑戦してみようと思います。 毎日３時間かかる賞味期限の管理を楽にしたい 私は現在スーパーマ...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Fable 5のプロンプト設計入門｜特徴・書き方・長時間タスクの注意点を解説</title>
-<link>https://qiita.com/ochtum/items/cb1407cc43b1422316fd</link>
-<guid>6308ecd4fede21d25220e22aa769a3ab380d9f09b8ca6848361e4c48f74663ea</guid>
-<pubDate>2026-06-10T21:44:30+09:00</pubDate>
-<description>※お役に立てたらストック、いいねをよろしくお願いします！！ ＜📝本記事のターゲット層＞ Claude Fable 5の特徴を短時間で把握したい生成AI初心者 Claude向けのプロンプトを作成・改善したいエンジニア 調査や開発などの長時間タスクをAIエージェントに...</description>
-</item>
-<item>
-<title>【環境】 Increasing tropical cyclone rainfall and landslide risk in Southern California</title>
-<link>https://www.nature.com/articles/s41558-026-02633-w</link>
-<guid>d93f34b5343b60b65177a81b695176580eb2e7b0264fa2c4e63bc9f0cf91dda0</guid>
+<title>【環境】 Author Correction: Rising temperatures increase added sugar intake disproportionately in disadvantaged groups in the USA</title>
+<link>https://www.nature.com/articles/s41558-026-02689-8</link>
+<guid>cc1291628f974a8c8a00e78c6565df6ce4929c0c34855f616c976721db2d45b3</guid>
 <pubDate>2026-06-10</pubDate>
-<description>Southern California is rarely affected by tropical cyclones at present. Here the authors show that this could change with warming, leading to an increase in landslide risk that is expected to disproportionately affect low-income households.</description>
+<description>Author Correction: Rising temperatures increase added sugar intake disproportionately in disadvantaged groups in the USA</description>
 </item>
 <item>
-<title>【自動自律実験】 The Amazon can be saved — with concerted action inside and outside Brazil</title>
-<link>https://www.nature.com/articles/d41586-026-01824-x</link>
-<guid>762ef0e33c3c59c17dd7bdacf77bacc1118b03d3033fd79ddff52394caca2354</guid>
+<title>【自動自律実験】 Giant crustacean of the deep sea steals a trick from bacteria</title>
+<link>https://www.nature.com/articles/d41586-026-01832-x</link>
+<guid>2d3704287d8bc08472d258833c59b518691e404c8e116534dab6fd0954fad83c</guid>
 <pubDate>2026-06-10</pubDate>
-<description>As deforestation in the Amazon falls, fresh evidence shows that the rainforest can withstand global warming, but only if there is a worldwide effort to stop cutting it down.</description>
+<description>Organisms called bathynomids boast a bacterial gene that helps them to regulate their metabolism in the cold depths.</description>
 </item>
 <item>
-<title>【自動自律実験】 When drug discovery fails: scientists share their frustrations with the process</title>
-<link>https://www.nature.com/articles/d41586-026-01797-x</link>
-<guid>ebc4bb8a7fa51a29aab4a80eafc50037f380e1141b6761d94ceb561b3e1b8324</guid>
+<title>【自動自律実験】 Newly discovered whale graveyard dates back millions of years</title>
+<link>https://www.nature.com/articles/d41586-026-01864-3</link>
+<guid>82c178d3d96e2bd526d4d1fa3d6c8d78a053a6abb31e85bab413a79ae02a7245</guid>
 <pubDate>2026-06-10</pubDate>
-<description>In clinical trials, there are many times (and ways) a therapeutic can come up short.</description>
+<description>Submarine dives reveal complex deep-sea ecosystems living on whale remains — plus, a way to turn plant material into nylon.</description>
 </item>
 <item>
-<title>【自動自律実験】 Gen Z scepticism towards AI is a wake-up call — universities must take it seriously</title>
-<link>https://www.nature.com/articles/d41586-026-01814-z</link>
-<guid>2682b7f7dfa58570b356b890630e3511466a13a15d4f600ec7695d33110eaae2</guid>
+<title>【自動自律実験】 Structural basis for chaperone-guided assembly of RNA-induced silencing complex</title>
+<link>https://www.nature.com/articles/s41586-026-10640-2</link>
+<guid>388b59623f0778257f196cf25c6ffd791376c3bd567af7439a96d9395625ea15</guid>
 <pubDate>2026-06-10</pubDate>
-<description>The challenge for universities is not adopting artificial intelligence, but doing so in ways that the current generation of students can trust.</description>
+<description>Structures of the AGO maturation complex reveal how chaperones and an RNA duplex drive assembly of the RNA-induced silencing complex.</description>
+</item>
+<item>
+<title>【自動自律実験】 SIRT7 regulates dosage compensation and safeguards the female X&amp;#xa0;chromosome</title>
+<link>https://www.nature.com/articles/s41586-026-10645-x</link>
+<guid>989f3f80bc05d67d51408f49bb6c7ec74187b2f753b8882bdefd74395f1e6da4</guid>
+<pubDate>2026-06-10</pubDate>
+<description>SIRT7 safeguards X-chromosome integrity and dosage balance with autosomes.</description>
+</item>
+<item>
+<title>【自動自律実験】 A 5.3-million-year-old deep-sea whale necropolis in the Diamantina Zone</title>
+<link>https://www.nature.com/articles/s41586-026-10546-z</link>
+<guid>7248ffff79d2fa31659609de8842ab8689493ffd9518a889d8132d60bb09c8a0</guid>
+<pubDate>2026-06-10</pubDate>
+<description>Researchers uncovered an enormous deep-sea accumulation of whale remains in the southeastern Indian Ocean, showing long-term, specialized ecosystems and an extensive fossil record that offers new insight into deep-ocean biodiversity and whale evolutionary history.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/conditional-execution-of-compiler-passes-based-on-per-script-feature-detection/</link>
-<guid>b17386eb758c95f12e5bef5ebce595173c26fe96d6a534afd8a6eb3445b44e81</guid>
-<pubDate>Wed, 10 Jun 2026 14:19:56 GMT</pubDate>
+<link>https://research.google/pubs/solving-an-open-problem-in-theoretical-physics-using-ai-assisted-discovery/</link>
+<guid>c27b3086afd33c781e4067f2f811df6bff4483ad1638a7be953e478683ab2a31</guid>
+<pubDate>Wed, 10 Jun 2026 17:41:03 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>b6c1e124e88866a637f942df395a2014b61ef6fde08e6d65faaa106ab92ecaf3</guid>
-<pubDate>Wed, 10 Jun 2026 14:19:59 GMT</pubDate>
+<guid>84ffe8ea9a73638fab47652fd6fe8818366958fbe2775128e88bd5f769dd164c</guid>
+<pubDate>Wed, 10 Jun 2026 17:41:06 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-10652-y</link>
-<guid>d30a3fde16fb6e03841c7db216a70364256c483f302357a5d77627da486f529f</guid>
-<pubDate>Wed, 10 Jun 2026 14:20:00 GMT</pubDate>
-<description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
+<link>https://www.nature.com/articles/s41524-026-02103-z</link>
+<guid>afc77eec515cbc4e12715be24d25bf268fcf2c0d8d305113bf67843e70b71912</guid>
+<pubDate>Wed, 10 Jun 2026 17:41:08 GMT</pubDate>
+<description>Recent improvements in large language models (LLMs) have had a dramatic effect on capabilities and productivity across many disciplines involving critical thinking and writing. The development of the model context protocol (MCP) provides a way to extend the power of LLMs to a specific set of tasks or scientific equipment with help from curated tools and resources. Here, we describe a framework called TEM Agent designed for transmission electron microscopy (TEM) that leverages the benefits of LLMs through a MCP approach. We simultaneously access and control several subsystems of the TEM, a data management platform, and high-performance computing resources through text-based instructions. We demonstrate the abilities of the TEM Agent to set up and complete intricate workflows using a simplified set of MCP tools and resources accompanying a commercial LLM without any additional training. The use of a framework such as the TEM Agent simplifies access to complex microscope ecosystems comprised of several vendor and custom systems enhancing the ability of users to accomplish microscopy experiments across a range of difficulty levels.</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>459f671777e8d3cd2d2ee2a87cdff6859c59993718c174d8ab93045c8bba4147</guid>
+<pubDate>Wed, 10 Jun 2026 17:41:18 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
