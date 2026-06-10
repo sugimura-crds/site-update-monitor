@@ -4,105 +4,91 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 10 Jun 2026 10:57:18 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 14:20:30 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 経験浅いエンジニアが AI に React 書かせてると、進化に取り残される説</title>
-<link>https://qiita.com/Yamada040/items/be9684ba52ae88f76dda?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>e03ee96f4ce2abe1b9d33e6ae5969e2a2bee05ada55b58f50ebc92859c1aab9a</guid>
-<pubDate>2026-06-08T13:09:54+09:00</pubDate>
-<description>📝 はじめに こんにちは、シュートです。前回は「就活中のジュニアエンジニアが面接で痛感した『力不足』の話」を書きました。読んでくださった方、ありがとうございました。 その記事の最後で、「AIに頼って速さだけで進まず、一つひとつちゃんと理解してから次に進む」と書きました。今...</description>
+<title>【Qiita】 Teamsタブに Streamlit を Entra認証で載せる</title>
+<link>https://qiita.com/FukuharaYohei/items/ffa42d0175780605ac00</link>
+<guid>7a582a585b244d62c24bf3fc2f0f31633897687ad08d827e6b47cb2b603bf657</guid>
+<pubDate>2026-06-10T22:24:04+09:00</pubDate>
+<description>本記事記述および実装内容は、多くの部分をAIで処理しており、人間チェックは甘いです はじめに 「Microsoft Teams のタブから、自前の Web アプリ（Azure App Service）を呼び出したい。しかも Teams のサインインユーザー（Ent...</description>
 </item>
 <item>
-<title>【Qiita】 週末なにしてますか？忙しいですか？非IT業界の友達に「燃える」が通じなかったので、IT業界の謎用語を教えてもらってもいいですか？</title>
-<link>https://qiita.com/miruky/items/2d4fcb9ed4bee7ee25fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>4db1ca0fd5528ec55075da492bf6bfb39930afe20259634ef6de1d065fc8a0b8</guid>
-<pubDate>2026-06-09T17:51:01+09:00</pubDate>
-<description>前置き Qiita上には素晴らしい先人の方の記事として、「不思議の国のSE用語」というものがあります。網羅度を重視する方は、@t_nakayama0714さんのこの記事をお読みください。当記事では、もっとラフに、社会人歴数年（IT業界）の目線でよく聞くものをピックしよう...</description>
+<title>【Qiita】 AI Agentの足取りを読み解く ── OSINT・SIGINT・MASINTで構築する &quot;AI Agentic Intelligence&quot;（私案）</title>
+<link>https://qiita.com/etale_cohomology/items/eb6c683de65cfbeaab54</link>
+<guid>4e7e3c7742821bf7104af5bc4057ad9f507bc0b34a93c8102ca258fc9fbff321</guid>
+<pubDate>2026-06-10T22:36:05+09:00</pubDate>
+<description>AIエージェントは今後、人間と並ぶウェブ空間の行為主体として、さらには、身体を持つAIエージェント（フィジカルAI）として現実空間の行為主体 として、その存在感を高めていく可能性が高いと考えられます。 そこで、これまで生身の人間の行動履歴や行動特性を関心の対象に据えてきた...</description>
 </item>
 <item>
-<title>【Qiita】 「これ、実行まで許したの？」を英語の形で確認する</title>
-<link>https://qiita.com/Ken_Voss/items/770e7940a746a7639094</link>
-<guid>266d9340748e8f738e561be6b3ddd4033ad88d8d2f2b1b3c081806f075469984</guid>
-<pubDate>2026-06-10T18:58:23+09:00</pubDate>
-<description>MCPサーバーや agent tool の設定をレビューしていると、PRや設定コメントの中に expose, grant access to, allow the agent to call のような表現が並んで出てくることがあります。 どれも一見すると、「エージェントがそ...</description>
+<title>【Qiita】 Claude Codeのultracodeとultraplanの違いとは？使い分けを初心者向けに解説</title>
+<link>https://qiita.com/ochtum/items/893e0f0806beab699387</link>
+<guid>9b8e0b4aa2b027894e7a892320864934a6120964ab32ad608afbeada354edf14</guid>
+<pubDate>2026-06-10T22:20:06+09:00</pubDate>
+<description>※お役に立てたらストック、いいねをよろしくお願いします！！ ＜📝本記事のターゲット層＞ Claude Codeを使い始めたばかりのエンジニア ultracodeとultraplanの違いを短時間で理解したい人 AIエージェントを使った大規模な開発作業に関心がある...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Fable 5 は「賢いチャットボット」ではなく、高複雑度タスク用モデルとして見るべき</title>
-<link>https://qiita.com/mguozhen/items/05df11c2fd9fb330efc2</link>
-<guid>e59bcc664f1e3e4014d43ad786033342ad856f0ded7a0e727d4077932efa5f1c</guid>
-<pubDate>2026-06-10T17:56:23+09:00</pubDate>
-<description>この記事は誰向けか Claude Code / Cursor / AI エージェントで実際にコードを書かせているエンジニア 高価なモデルをどのタスクに使うべきか迷っている人 「新モデルすごい」で終わらない実務目線の評価軸が欲しい人 フロントエンド、UI、動画生成、長文分...</description>
+<title>【Qiita】 賞味期限管理システムをCopilot＆VBAで作成！</title>
+<link>https://qiita.com/show0909/items/0513fbaf744286ae8716</link>
+<guid>2cc51eb9717cc7ab223eb82faf8247aac1ed45f0318cc2b0c792077964e40587</guid>
+<pubDate>2026-06-10T22:18:39+09:00</pubDate>
+<description>こんにちは！showと申します！ ２回目の投稿になります 最近改善してほしい点を一緒に働いている部門の方に聞いているのですが、ほぼ全員が言っていたことがありましたので、そちらの改善に挑戦してみようと思います。 毎日３時間かかる賞味期限の管理を楽にしたい 私は現在スーパーマ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Fable 5時代のAI Agentアーキテクチャ：「推論」と「記憶」の分離がなぜ必須なのか</title>
-<link>https://qiita.com/memorylakeai/items/9ad6502b8d958ca5d7b5</link>
-<guid>f00ed33a9400024c736f264443e0f824e0d5b494a173a266e0ff5c91699bc5dc</guid>
-<pubDate>2026-06-10T17:17:44+09:00</pubDate>
-<description>AnthropicによるClaude Fable 5およびClaude Mythos 5の発表は、LLMアプリケーション開発、とりわけAI Agent領域に大きなパラダイムシフトをもたらしました。特にFable 5が示した「長周期の自律タスク（Long-horizon t...</description>
+<title>【Qiita】 Claude Fable 5のプロンプト設計入門｜特徴・書き方・長時間タスクの注意点を解説</title>
+<link>https://qiita.com/ochtum/items/cb1407cc43b1422316fd</link>
+<guid>6308ecd4fede21d25220e22aa769a3ab380d9f09b8ca6848361e4c48f74663ea</guid>
+<pubDate>2026-06-10T21:44:30+09:00</pubDate>
+<description>※お役に立てたらストック、いいねをよろしくお願いします！！ ＜📝本記事のターゲット層＞ Claude Fable 5の特徴を短時間で把握したい生成AI初心者 Claude向けのプロンプトを作成・改善したいエンジニア 調査や開発などの長時間タスクをAIエージェントに...</description>
 </item>
 <item>
-<title>【Qiita】 各コーディングエージェントがコードを「どう把握」しているのか差異と特徴を調べた</title>
-<link>https://qiita.com/hokutoh/items/cb6344af8c76b2672338</link>
-<guid>36b9cbf045ce78c6272b7dfcf437bb7ebfa37cccb03baed796889eae838576c8</guid>
-<pubDate>2026-06-10T17:14:20+09:00</pubDate>
-<description>はじめに 「Claude Code や GitHub Copilot にコードを直してもらうと、毎回プロジェクト全体を読み込んでトークンをガンガン消費してるんでしょ？」 と質問を受け 「いやそうじゃないよ」と言いかけて「あれ？でもそれぞれ具体的にどう把握しているんだ？」と...</description>
-</item>
-<item>
-<title>【自動自律実験】 Nature Index 2026 Research Leaders rankings: are China’s East Asian neighbours keeping pace with it?</title>
-<link>https://www.nature.com/articles/d41586-026-01662-x</link>
-<guid>0efabcdc3f835db3f1c7016b1b6dd84aeb369c955523ad067ca88e79049c8776</guid>
+<title>【環境】 Increasing tropical cyclone rainfall and landslide risk in Southern California</title>
+<link>https://www.nature.com/articles/s41558-026-02633-w</link>
+<guid>d93f34b5343b60b65177a81b695176580eb2e7b0264fa2c4e63bc9f0cf91dda0</guid>
 <pubDate>2026-06-10</pubDate>
-<description>Japan and South Korea are challenging Western peers in a shifting research landscape.</description>
+<description>Southern California is rarely affected by tropical cyclones at present. Here the authors show that this could change with warming, leading to an increase in landslide risk that is expected to disproportionately affect low-income households.</description>
 </item>
 <item>
-<title>【自動自律実験】 Is the peptide craze backed by science? The promise behind the hype</title>
-<link>https://www.nature.com/articles/d41586-026-01816-x</link>
-<guid>d9fddcac9c08b916ff06c651017757170e8f6705e47a13dc2b14d75739eab137</guid>
+<title>【自動自律実験】 The Amazon can be saved — with concerted action inside and outside Brazil</title>
+<link>https://www.nature.com/articles/d41586-026-01824-x</link>
+<guid>762ef0e33c3c59c17dd7bdacf77bacc1118b03d3033fd79ddff52394caca2354</guid>
 <pubDate>2026-06-10</pubDate>
-<description>Peptide injections are the hottest trend in wellness. Researchers say enthusiasm for these unregulated drugs has got ahead of the science.</description>
+<description>As deforestation in the Amazon falls, fresh evidence shows that the rainforest can withstand global warming, but only if there is a worldwide effort to stop cutting it down.</description>
+</item>
+<item>
+<title>【自動自律実験】 When drug discovery fails: scientists share their frustrations with the process</title>
+<link>https://www.nature.com/articles/d41586-026-01797-x</link>
+<guid>ebc4bb8a7fa51a29aab4a80eafc50037f380e1141b6761d94ceb561b3e1b8324</guid>
+<pubDate>2026-06-10</pubDate>
+<description>In clinical trials, there are many times (and ways) a therapeutic can come up short.</description>
+</item>
+<item>
+<title>【自動自律実験】 Gen Z scepticism towards AI is a wake-up call — universities must take it seriously</title>
+<link>https://www.nature.com/articles/d41586-026-01814-z</link>
+<guid>2682b7f7dfa58570b356b890630e3511466a13a15d4f600ec7695d33110eaae2</guid>
+<pubDate>2026-06-10</pubDate>
+<description>The challenge for universities is not adopting artificial intelligence, but doing so in ways that the current generation of students can trust.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/observing-long-lived-longwave-contrail-forcing/</link>
-<guid>f0e60901047ba8697c9ac9a6f4a494cce410f1fc0b26e4ea95af5bfd7bc4ab63</guid>
-<pubDate>Wed, 10 Jun 2026 10:56:42 GMT</pubDate>
+<link>https://research.google/pubs/conditional-execution-of-compiler-passes-based-on-per-script-feature-detection/</link>
+<guid>b17386eb758c95f12e5bef5ebce595173c26fe96d6a534afd8a6eb3445b44e81</guid>
+<pubDate>Wed, 10 Jun 2026 14:19:56 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>5040edf2a54ba3bc5c9a24ebb4b405a4efc5587a4c8c095e704b7a9a84a6e849</guid>
-<pubDate>Wed, 10 Jun 2026 10:56:44 GMT</pubDate>
+<guid>b6c1e124e88866a637f942df395a2014b61ef6fde08e6d65faaa106ab92ecaf3</guid>
+<pubDate>Wed, 10 Jun 2026 14:19:59 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10652-y</link>
-<guid>9092b5cd3aa749601cc1239b848b399b6882e0e6cef70ff9584750cffb0a7657</guid>
-<pubDate>Wed, 10 Jun 2026 10:56:46 GMT</pubDate>
+<guid>d30a3fde16fb6e03841c7db216a70364256c483f302357a5d77627da486f529f</guid>
+<pubDate>Wed, 10 Jun 2026 14:20:00 GMT</pubDate>
 <description>Scientific discovery is driven by the iterative process of observation, hypothesis generation, experimentation, and data analysis. Despite recent advancements in applying artificial intelligence to biology, no system has yet automated all these stages [1, 2, 3]. Here, we introduce Robin, the first multi-agent system capable of fully automating both hypothesis generation and data analysis for experimental biology. By integrating literature search agents with data analysis agents, Robin can generate hypotheses, propose experiments, interpret experimental results, and generate updated hypotheses, achieving a semi-autonomous approach to scientific discovery. By applying this system, we were able to identify promising therapeutic candidates for dry age-related macular degeneration (dAMD), the major cause of blindness in the developed world [4, 5]. Robin proposed enhancing retinal pigment epithelium phagocytosis as a therapeutic strategy, and identified and confirmed in vitro efficacy for ripasudil and KL001. Ripasudil is a clinically-used Rho kinase (ROCK) inhibitor that has never previously been proposed for treating dAMD. To elucidate the mechanism of ripasudil-induced upregulation of</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>a7401a5644bc5a9995adacf54d5818914439cb4d485d203a4ee0af3507113ae6</guid>
-<pubDate>Wed, 10 Jun 2026 10:56:47 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【UK】 Featured</title>
-<link>https://www.linkedin.com/company/scitechgovuk</link>
-<guid>4c41f14987c506a1f3b22c527a6673a1d095109a443d75923c074e35bb46c9ab</guid>
-<pubDate>Wed, 10 Jun 2026 10:56:55 GMT</pubDate>
-<description>Department for Science, Innovation and Technology | 266,446 followers on LinkedIn. Positioning the UK at the forefront of global scientific and technological advancement. | Follow this profile to stay up-to-date with our mission: improving people&amp;#39;s lives by maximising the potential of science &amp;amp; technology.</description>
-</item>
-<item>
-<title>【環境】 234 Results</title>
-<link>https://www.canarymedia.com/search?q=artificial+intelligence</link>
-<guid>e0ff11d18ce40de07f48a2611f1f6624545171a5e904447b991666bf258916ca</guid>
-<pubDate>Wed, 10 Jun 2026 10:57:18 GMT</pubDate>
-<description>The leading newsroom covering the transition to clean energy, electrification and climate solutions. We report on how the world is decarbonizing with a…</description>
 </item>
 
 </channel>
