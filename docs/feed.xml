@@ -4,91 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 11 Jun 2026 15:36:04 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Jun 2026 18:41:23 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AI/LLM年表と補論 2026.06</title>
-<link>https://qiita.com/yokoto/items/e110fea5892c56946826</link>
-<guid>c0afd6631eb56068c85461a591d3d0eefa0743e968647b60b70b20d58deb3e49</guid>
-<pubDate>2026-06-12T00:06:34+09:00</pubDate>
-<description>この記事はAIで書かれました。 はじめに 生成AIのエージェント領域は、論文・フレームワーク・プロダクト・記事・標準が短期間に積み上がり、いまや各概念の「出自」を追うのが難しくなっています。「context engineering はいつ・誰が言い出したのか」「har...</description>
-</item>
-<item>
-<title>【Qiita】 Agent instruction の `should` と `must` を「強弱」だけで読まない</title>
-<link>https://qiita.com/Ken_Voss/items/e84e46608598b112ab5d</link>
-<guid>97396cb0801a2628f55ba2c81de300a450ccaf3d486bbc7055858bf02d6a38c2</guid>
-<pubDate>2026-06-11T23:41:34+09:00</pubDate>
-<description>Agent instruction の wording をレビューしていると、should、must、may、required が、単なる強弱や丁寧さの違いのように並んでいることがあります。ただ、instruction では tone の違いに見える語が、そのまま obli...</description>
-</item>
-<item>
-<title>【Qiita】 OWASP Agentic Top 10対策：AIエージェントのゼロトラスト実装ガイド</title>
-<link>https://qiita.com/0h-n0/items/211d421bfcd563e213c0</link>
-<guid>919bf4a1604c1de9b5a29e9e74b7335d036057f277736df31a8fdb31c77e0ba5</guid>
-<pubDate>2026-06-11T23:06:01+09:00</pubDate>
-<description>OWASP Agentic Top 10対策：AIエージェントのゼロトラスト実装ガイド AIエージェントが自律的にツールを呼び出し、データにアクセスし、他のエージェントと連携する時代が到来しています。しかし、従来のゼロトラストアーキテクチャはエージェント固有のリスクに対応...</description>
-</item>
-<item>
-<title>【Qiita】 既存リポジトリ調査で使う──実装前に読ませる、再現させる、止める 第6回</title>
-<link>https://qiita.com/gaop2560/items/3c40808bcaadc24c92b7</link>
-<guid>c81f37a63e5c332da0b89b5ad3e0ec8d464e704ddad6efabc9e6baf88dbdb8fd</guid>
-<pubDate>2026-06-11T21:23:41+09:00</pubDate>
-<description>AIエージェントに仕事を頼むとき、多くの人はすぐ実装を頼みます。 このバグを直して。 この機能を追加して。 このエラーを解決して。 もちろん、動くこともあります。 でも既存リポジトリでは、いきなり実装に入るほど事故が増えます。 似た名前のファイルがある。 古い実装が残...</description>
-</item>
-<item>
-<title>【農業】 FAO calls for stronger prevention and global action as transboundary animal diseases spread across regions</title>
-<link>https://www.fao.org/newsroom/detail/fao-calls-for-stronger-prevention-and-global-action-as-transboundary-animal-diseases-spread-across-regions/en</link>
-<guid>f6bcd8f7aa2ee2a0aee16bfe67e91df3c512e1feac0db309dcbb4f72ee7ab771</guid>
-<pubDate>Thu, 11 Jun 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【自動自律実験】 Whale graveyard discovered 7km under the sea</title>
-<link>https://www.nature.com/articles/d41586-026-01886-x</link>
-<guid>ed25a0f57effccab0e879230a1d67a0f33afa4932924b63be7aad2dbd0d431df</guid>
+<title>【自動自律実験】 Author Correction: Plasticity and language in the anaesthetized human hippocampus</title>
+<link>https://www.nature.com/articles/s41586-026-10784-1</link>
+<guid>d016d5baa528e69087a499599b0b27889fc19c88268d92ed5a475265fcf3d0d6</guid>
 <pubDate>2026-06-11</pubDate>
-<description>The treasure trove of fossils and bones has already revealed a new species of extinct whale.</description>
-</item>
-<item>
-<title>【自動自律実験】 My diverse academic background is affecting my PhD studies — what do I do?</title>
-<link>https://www.nature.com/articles/d41586-026-01129-z</link>
-<guid>7404284a0b89022f9b0edf21b6a2515900ba9782f2c5c6f7c4f6466c62dccf52</guid>
-<pubDate>2026-06-11</pubDate>
-<description>A PhD student in China who has changed his focus twice since obtaining his undergraduate degree is struggling to keep up.</description>
-</item>
-<item>
-<title>【自動自律実験】 This World Cup could be the most high-tech yet — the innovations to watch for</title>
-<link>https://www.nature.com/articles/d41586-026-01866-1</link>
-<guid>b89102814f2b79b26f6461d2dbd5ddaae6299b2db20735d1623b7e9ed77c0874</guid>
-<pubDate>2026-06-11</pubDate>
-<description>Nature asked a football-journal chief about emerging trends in the sport, from AI tools to PhD students embedded with teams.</description>
-</item>
-<item>
-<title>【Anthropic】 Claude Fable 5 and Claude Mythos 5</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>807da3429971a16f43da719b654a1dd87817af48b02e8d2f36a6b00287475c71</guid>
-<pubDate>Thu, 11 Jun 2026 15:35:32 GMT</pubDate>
-<description>Our next generation of intelligence for the hardest knowledge work and coding problems.</description>
+<description>Author Correction: Plasticity and language in the anaesthetized human hippocampus</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/who-controls-the-curriculum-for-ai-the-limits-of-participatory-design-for-educational-ai/</link>
-<guid>afa53cdd099b294ce497fa3f51e970de84a537fb00e48270ef644fe9cd98a65c</guid>
-<pubDate>Thu, 11 Jun 2026 15:35:35 GMT</pubDate>
+<link>https://research.google/pubs/phoenix-rowhammer-attacks-on-ddr5-with-self-correcting-synchronization/</link>
+<guid>d0ecbf87e401f8e5a7251f233c695433eb5b3a2a271199f03134d9362239d47f</guid>
+<pubDate>Thu, 11 Jun 2026 18:40:49 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>933133ca92095a6e98a845bc723a8297218182cf2abcfbc62fb7f4ac590a3d1c</guid>
-<pubDate>Thu, 11 Jun 2026 15:35:37 GMT</pubDate>
+<guid>9b6a9d743bd6f4bb946e57303da135c9f5c743934a8be64b02d87307c5517305</guid>
+<pubDate>Thu, 11 Jun 2026 18:40:53 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41524-026-02103-z</link>
-<guid>961074da4d15cd2d7838d8bc390bbc45d812f87c68812e8db52cdccef3376be7</guid>
-<pubDate>Thu, 11 Jun 2026 15:35:39 GMT</pubDate>
-<description>Recent improvements in large language models (LLMs) have had a dramatic effect on capabilities and productivity across many disciplines involving critical thinking and writing. The development of the model context protocol (MCP) provides a way to extend the power of LLMs to a specific set of tasks or scientific equipment with help from curated tools and resources. Here, we describe a framework called TEM Agent designed for transmission electron microscopy (TEM) that leverages the benefits of LLMs through a MCP approach. We simultaneously access and control several subsystems of the TEM, a data management platform, and high-performance computing resources through text-based instructions. We demonstrate the abilities of the TEM Agent to set up and complete intricate workflows using a simplified set of MCP tools and resources accompanying a commercial LLM without any additional training. The use of a framework such as the TEM Agent simplifies access to complex microscope ecosystems comprised of several vendor and custom systems enhancing the ability of users to accomplish microscopy experiments across a range of difficulty levels.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>97396ec93377864cc4bf0e3f7df44c13a398ae01045bbe211b08dd8d2665149b</guid>
+<pubDate>Thu, 11 Jun 2026 18:41:04 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
