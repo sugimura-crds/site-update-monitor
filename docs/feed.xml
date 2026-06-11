@@ -4,13 +4,76 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 10 Jun 2026 23:54:30 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Jun 2026 02:43:17 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 watsonx.data の WebコンソールからSpark job を実行してみた</title>
+<link>https://qiita.com/hkanba/items/07934ae7ec01e6348c39</link>
+<guid>205bf6bd6c09437760c2b74fbecff8c0cfed0b11b317cef80f1c8da848aa24ec</guid>
+<pubDate>2026-06-11T09:45:46+09:00</pubDate>
+<description>はじめに watsonx.data の Webコンソールから Spark アプリケーションを手動で実行する事ができます。マニュアルの記述のみでは判りにくい所があるので手順をご紹介します。 参照マニュアル コンソールからSparkアプリケーションを送信する 事前準備 ...</description>
+</item>
+<item>
+<title>【Qiita】 AIとの「対話型」業務棚卸し：自動化候補がわからない人のためのナレッジ抽出術</title>
+<link>https://qiita.com/gmo-co-kitaura/items/cd4c3072c09215896277</link>
+<guid>e1e2df8d2e39c3c0ae7f24543a83889fe6f65d075e63445bba2931d4b607a7c6</guid>
+<pubDate>2026-06-11T10:24:17+09:00</pubDate>
+<description>はじめに 「AIを使って業務を効率化・自動化しましょう」 こういった号令が飛んでくるようになって久しいですが、実際に動けている人は少数派ではないでしょうか。 問題は「自動化したいかどうか」ではなく、「何を自動化すればいいかわからない」という状態です。 自動化の対象を選ぶた...</description>
+</item>
+<item>
+<title>【Qiita】 第3回 ローカルLLM、どのモデルをどう動かす? ── 選定とハード構成【モデル・構成編・2026年6月】</title>
+<link>https://qiita.com/M_Ozu/items/34c20af371a81cd24928</link>
+<guid>23c4cf2c88f05308979845cc9cccd9c46c4c6612c7b779ba7fd554e811037aad</guid>
+<pubDate>2026-06-11T09:10:46+09:00</pubDate>
+<description>📚 3部構成： ① コスト編 ／ ② キャパ・速度編 ／ ③ モデル・構成編（本記事） ※ 各記事は単体で読めます。 この連載について 「自前でLLMを動かすと、いくら／何人で／何が載るか」を現場で説明できる粒度で整理する3部構成です。 型番・モデル名・価格は 202...</description>
+</item>
+<item>
+<title>【Qiita】 第2回 ローカルLLMは何人で使えて何が載る? ── VRAMと速さの読み方【キャパ・速度編・2026年6月】</title>
+<link>https://qiita.com/M_Ozu/items/1797bef0210d51b30d00</link>
+<guid>2a2c07d3ad2617a116722d333efa65299b88ca081c3132e4208db9ac1b20de7b</guid>
+<pubDate>2026-06-11T09:09:35+09:00</pubDate>
+<description>📚 3部構成： ① コスト編 ／ ② キャパ・速度編（本記事） ／ ③ モデル・構成編 ※ 各記事は単体で読めます。 この連載について 「自前でLLMを動かすと、いくら／何人で／何が載るか」を現場で説明できる粒度で整理する3部構成です。 型番・モデル名・価格は 202...</description>
+</item>
+<item>
+<title>【Qiita】 第1回 ローカルLLMは結局いくら? ── 3つの「持ち方」と価格【コスト編・2026年6月】</title>
+<link>https://qiita.com/M_Ozu/items/e8be4dafd0950874ccc8</link>
+<guid>af516cffe340052df925e39997fbac5bed614f9c52964373ede779c44d60a403</guid>
+<pubDate>2026-06-11T09:07:58+09:00</pubDate>
+<description>📚 3部構成： ① コスト編（本記事） ／ ② キャパ・速度編 ／ ③ モデル・構成編 ※ 各記事は単体で読めます。 この連載について 「自前でLLMを動かすと、いくら／何人で使えるか／何が載るか」を現場で説明できる粒度で整理する3部構成です。 型番・モデル名・価格は...</description>
+</item>
+<item>
+<title>【Qiita】 Codexを数ヶ月使って感じたこと</title>
+<link>https://qiita.com/kono02/items/3c76c2243d9fe3643949</link>
+<guid>4079c89fed10020e58c98dd2a0a66e07d24b88ffcb61bf436cbb15767c170a00</guid>
+<pubDate>2026-06-11T11:29:47+09:00</pubDate>
+<description>Codexを数ヶ月使って感じたこと はじめに ここ数ヶ月、業務や個人開発の中で Codex を使う機会が増えました。 最初は「コードを書かせるAI」くらいの感覚で使っていましたが、実際に使い続けてみると、単純な実装支援だけではなく、既存コードの読解、改修方針の整理、軽量...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントに実行させる前に──Sandbox、権限、ファイル境界の考え方 第4回</title>
+<link>https://qiita.com/gaop2560/items/f236140223932782eaaa</link>
+<guid>007b38db495efcf93ef7e6122e79b8ec7e86680200cc774aebfd2258fcd94f2e</guid>
+<pubDate>2026-06-11T10:59:19+09:00</pubDate>
+<description>AIエージェントにコードを書かせる話は、だいぶ普通になりました。 でも、実務で本当に効いてくるのは、その一歩手前です。 どこで実行させるか。 何を読ませるか。 何を書き換えてよいか。 どのコマンドを許すか。 ネットワークに出してよいか。 secret を見せてよいか。 ここ...</description>
+</item>
+<item>
+<title>【Qiita】 【#7】Hermes Agent を読み解く</title>
+<link>https://qiita.com/yoshiyakato/items/c19a4105f7b7db176e3e</link>
+<guid>2cc15a1c4cffccc95939ba327d7d89f3862c3b52b570f035b49b0fbd4e70daa4</guid>
+<pubDate>2026-06-11T10:50:54+09:00</pubDate>
+<description>Hermes Agent を読み解く — Kanban 永続タスクボード 連載「Hermes Agent を読み解く」第7回。 連載「Hermes Agent を読み解く」全10回 第1回 全体像と読み方 第2回 コアの会話ループ 第3回 状態管理とコンパクショ...</description>
+</item>
+<item>
+<title>【Qiita】 2026/06/11 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/2d12c1abcb2265de1766</link>
+<guid>36009112a971c543fdea69ae6966f5534ef056310cde1e05dd94c6cde97b0712</guid>
+<pubDate>2026-06-11T09:31:03+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 なぜBraveは拡張機能なしで広告を消せるのか...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/agentic-coding-needs-proactivity-not-just-autonomy/</link>
-<guid>077ec035fa295f7dff7d587f28e7ddedf1c0a7f34b9c4d239b176ce3f3f08bac</guid>
-<pubDate>Wed, 10 Jun 2026 23:53:58 GMT</pubDate>
+<link>https://research.google/pubs/on-the-fly-ovd-adaptation-with-flame-few-shot-localization-via-active-marginal-samples-exploration/</link>
+<guid>a3757647ffb08741659f015cc0637d626519879e0e855d0f5cf521489e031b37</guid>
+<pubDate>Thu, 11 Jun 2026 02:42:16 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 
