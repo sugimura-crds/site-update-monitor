@@ -4,105 +4,91 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 11 Jun 2026 11:54:17 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Jun 2026 15:36:04 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 信頼されるエンジニアが実践する「聴く技術」4選</title>
-<link>https://qiita.com/prum_hitomi/items/77e2a48e4189bd5ddc3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>e3f694629c30d3b8260f204ff57de98327abf6fd8b9a1cc0d4170358eb5564fd</guid>
-<pubDate>2026-06-11T15:28:12+09:00</pubDate>
-<description>はじめまして。株式会社PRUMでエンジニアをしているひとみです。 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、 仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。 誰かの助けになれば幸いです。 信頼されるエンジニアが実践する「聴く技術」4選 ...</description>
+<title>【Qiita】 AI/LLM年表と補論 2026.06</title>
+<link>https://qiita.com/yokoto/items/e110fea5892c56946826</link>
+<guid>c0afd6631eb56068c85461a591d3d0eefa0743e968647b60b70b20d58deb3e49</guid>
+<pubDate>2026-06-12T00:06:34+09:00</pubDate>
+<description>この記事はAIで書かれました。 はじめに 生成AIのエージェント領域は、論文・フレームワーク・プロダクト・記事・標準が短期間に積み上がり、いまや各概念の「出自」を追うのが難しくなっています。「context engineering はいつ・誰が言い出したのか」「har...</description>
 </item>
 <item>
-<title>【Qiita】 VPNなしで社外から社内へ：Cloudflare Zero Trust（無料枠）ZTNA構築手順</title>
-<link>https://qiita.com/BrainDirection/items/5215ea3cd1ec635a1636?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>586d76188780c6439731ddd7796cc125adba3f743fe29a713930229c0b9ed9ba</guid>
-<pubDate>2026-06-10T10:35:30+09:00</pubDate>
-<description>はじめに 「社外から社内システムに入る手段がVPNしかない」「VPN装置の脆弱性対応に追われている」——中小規模の情シスでよくある悩みです。 本記事では、Cloudflare Zero Trust を使って、VPNを使わずに社外から社内リソース（社内Web・RDPなど）へ...</description>
+<title>【Qiita】 Agent instruction の `should` と `must` を「強弱」だけで読まない</title>
+<link>https://qiita.com/Ken_Voss/items/e84e46608598b112ab5d</link>
+<guid>97396cb0801a2628f55ba2c81de300a450ccaf3d486bbc7055858bf02d6a38c2</guid>
+<pubDate>2026-06-11T23:41:34+09:00</pubDate>
+<description>Agent instruction の wording をレビューしていると、should、must、may、required が、単なる強弱や丁寧さの違いのように並んでいることがあります。ただ、instruction では tone の違いに見える語が、そのまま obli...</description>
 </item>
 <item>
-<title>【Qiita】 【freee MCP】経理にClaudeを雇う時代？請求書下書きワークフローをSkill化してみた</title>
-<link>https://qiita.com/TMiyamoto/items/62dd7aabb4e043c61046?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>89b1c79563c1e21cd137ea46a603deb7ed9233eafae3148ef5ac47b6e27b0b4d</guid>
-<pubDate>2026-06-11T10:49:31+09:00</pubDate>
-<description>はじめに 「この請求書作成、Claudeに頼めないかな？」 経理やバックオフィスの仕事には、毎月くり返す作業がたくさんあります。 スプレッドシートの請求対象リストを確認する freeeで請求書や見積書の下書きを作る 作成済み/未作成を売上管理表に戻す 未回収や入金状況...</description>
+<title>【Qiita】 OWASP Agentic Top 10対策：AIエージェントのゼロトラスト実装ガイド</title>
+<link>https://qiita.com/0h-n0/items/211d421bfcd563e213c0</link>
+<guid>919bf4a1604c1de9b5a29e9e74b7335d036057f277736df31a8fdb31c77e0ba5</guid>
+<pubDate>2026-06-11T23:06:01+09:00</pubDate>
+<description>OWASP Agentic Top 10対策：AIエージェントのゼロトラスト実装ガイド AIエージェントが自律的にツールを呼び出し、データにアクセスし、他のエージェントと連携する時代が到来しています。しかし、従来のゼロトラストアーキテクチャはエージェント固有のリスクに対応...</description>
 </item>
 <item>
-<title>【Qiita】 【保存版】Linux作業を爆速化する便利コマンド5選</title>
-<link>https://qiita.com/K_TAKETO/items/66d70ce4ed54139998a9</link>
-<guid>3c26347a854825f75ad6fcf1596412425822ff4c4b557dfd4b4fb7d9de55e02b</guid>
-<pubDate>2026-06-11T17:09:12+09:00</pubDate>
-<description>この記事では「知ってる人は知ってる、でも意外と使われていない」実用コマンドを厳選して紹介します。 コピペしてすぐ使える形でまとめたので、ぜひターミナルを開きながら読んでみてください。 はじめに Linuxを日常的に使っていると、「もっと速くできないか？」と感じる場...</description>
+<title>【Qiita】 既存リポジトリ調査で使う──実装前に読ませる、再現させる、止める 第6回</title>
+<link>https://qiita.com/gaop2560/items/3c40808bcaadc24c92b7</link>
+<guid>c81f37a63e5c332da0b89b5ad3e0ec8d464e704ddad6efabc9e6baf88dbdb8fd</guid>
+<pubDate>2026-06-11T21:23:41+09:00</pubDate>
+<description>AIエージェントに仕事を頼むとき、多くの人はすぐ実装を頼みます。 このバグを直して。 この機能を追加して。 このエラーを解決して。 もちろん、動くこともあります。 でも既存リポジトリでは、いきなり実装に入るほど事故が増えます。 似た名前のファイルがある。 古い実装が残...</description>
 </item>
 <item>
-<title>【Qiita】 AI Engineering Summit Tokyo 2026 Summer 参加レポート</title>
-<link>https://qiita.com/Kitasan_White/items/c3d87ea0bca882b56965</link>
-<guid>53b192423c99bc09fc0c449637c4dcfa1fad3b3f0ac9eaa39843dd29bf8bbe15</guid>
-<pubDate>2026-06-11T18:59:59+09:00</pubDate>
-<description>AI Engineering Summit Tokyo 2026 Summer 参加レポート 2026年6月8日〜9日に浜松町コンベンションホールで開催された「AI Engineering Summit Tokyo 2026 Summer」に参加してきました。主催はファイ...</description>
+<title>【農業】 FAO calls for stronger prevention and global action as transboundary animal diseases spread across regions</title>
+<link>https://www.fao.org/newsroom/detail/fao-calls-for-stronger-prevention-and-global-action-as-transboundary-animal-diseases-spread-across-regions/en</link>
+<guid>f6bcd8f7aa2ee2a0aee16bfe67e91df3c512e1feac0db309dcbb4f72ee7ab771</guid>
+<pubDate>Thu, 11 Jun 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【Qiita】 `CI passed` だけで `fixed` と書いてよいか迷ったときの見方</title>
-<link>https://qiita.com/Ken_Voss/items/8197c27deab0d9e048a8</link>
-<guid>92f817b6235fbdd5bde37c2531483c86f027cc8347a467bad383d27f2c31cca2</guid>
-<pubDate>2026-06-11T18:24:50+09:00</pubDate>
-<description>agent が作った PR summary に CI passed と The issue is fixed が並んでいると、つい「もう直った」と読みたくなります。ただ、CI が通ったことと、issue が本当に解決したことは、同じ強さの根拠ではありません。 CI は ...</description>
-</item>
-<item>
-<title>【Qiita】 【#8】Hermes Agent を読み解く</title>
-<link>https://qiita.com/yoshiyakato/items/680bdc0ae8721a895aea</link>
-<guid>c1d2ebb05553a9f7638995291f8ccab0ddb87f9c5eba57f2dae1bee7b7f74798</guid>
-<pubDate>2026-06-11T16:47:25+09:00</pubDate>
-<description>Hermes Agent を読み解く — 接続層とインタフェース総覧 連載「Hermes Agent を読み解く」第8回。 連載「Hermes Agent を読み解く」全10回 第1回 全体像と読み方 第2回 コアの会話ループ 第3回 状態管理とコンパクション ...</description>
-</item>
-<item>
-<title>【Qiita】 OpenAI Codex 全機能ガイド — Computer Use・スケジュール自動化・90+プラグインの全貌</title>
-<link>https://qiita.com/kai_kou/items/fe089a7afb3498b94325</link>
-<guid>226372aa43f9cf9a30dad46c0d68fc15993d036f7bd878712278cca8e272b55e</guid>
-<pubDate>2026-06-11T20:27:45+09:00</pubDate>
-<description>はじめに 2026年4月16日、OpenAIはCodexの大規模アップデート「Codex for (almost) everything」を発表しました。これは単なる機能追加ではなく、コーディング専用ツールから汎用AI作業環境への本格的な転換を意味します。 週400万人...</description>
-</item>
-<item>
-<title>【Qiita】 Microsoft Agent Framework 1.0入門 — Semantic Kernel後継のマルチエージェントSDK全解説</title>
-<link>https://qiita.com/kai_kou/items/6264164801b04d14436b</link>
-<guid>a00137e224b9e0a6370b44006d0579653a36feb3f64d557bfcb440b0b91adf99</guid>
-<pubDate>2026-06-11T20:27:43+09:00</pubDate>
-<description>はじめに 2026年4月3日、Microsoftは Agent Framework 1.0 を正式リリース（GA）しました。このSDKは、これまで別々に開発されていた Semantic Kernel と AutoGen の後継となる統合フレームワークで、.NET と P...</description>
-</item>
-<item>
-<title>【自動自律実験】 ‘Footballers are not superheroes’: we must tackle the mental and physical pressures of elite sport</title>
-<link>https://www.nature.com/articles/d41586-026-01865-2</link>
-<guid>0931bbebc5c059ce482fc12fd12d6159ff24887c32815a1d92a47edb4f980b81</guid>
+<title>【自動自律実験】 Whale graveyard discovered 7km under the sea</title>
+<link>https://www.nature.com/articles/d41586-026-01886-x</link>
+<guid>ed25a0f57effccab0e879230a1d67a0f33afa4932924b63be7aad2dbd0d431df</guid>
 <pubDate>2026-06-11</pubDate>
-<description>As the men’s football World Cup gets under way, how the game weighs on the health of athletes still isn’t talked about enough, says player-turned-medic Vincent Gouttebarge.</description>
+<description>The treasure trove of fossils and bones has already revealed a new species of extinct whale.</description>
+</item>
+<item>
+<title>【自動自律実験】 My diverse academic background is affecting my PhD studies — what do I do?</title>
+<link>https://www.nature.com/articles/d41586-026-01129-z</link>
+<guid>7404284a0b89022f9b0edf21b6a2515900ba9782f2c5c6f7c4f6466c62dccf52</guid>
+<pubDate>2026-06-11</pubDate>
+<description>A PhD student in China who has changed his focus twice since obtaining his undergraduate degree is struggling to keep up.</description>
+</item>
+<item>
+<title>【自動自律実験】 This World Cup could be the most high-tech yet — the innovations to watch for</title>
+<link>https://www.nature.com/articles/d41586-026-01866-1</link>
+<guid>b89102814f2b79b26f6461d2dbd5ddaae6299b2db20735d1623b7e9ed77c0874</guid>
+<pubDate>2026-06-11</pubDate>
+<description>Nature asked a football-journal chief about emerging trends in the sport, from AI tools to PhD students embedded with teams.</description>
+</item>
+<item>
+<title>【Anthropic】 Claude Fable 5 and Claude Mythos 5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>807da3429971a16f43da719b654a1dd87817af48b02e8d2f36a6b00287475c71</guid>
+<pubDate>Thu, 11 Jun 2026 15:35:32 GMT</pubDate>
+<description>Our next generation of intelligence for the hardest knowledge work and coding problems.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/the-dual-mode-privacy-guard-a-framework-for-augmented-compliance-in-managing-sensitive-people-operations-data/</link>
-<guid>90596ba00df87a743d98d0f3a7326dc671b17da9d69e22bfbe7e7f425de7dbe4</guid>
-<pubDate>Thu, 11 Jun 2026 11:53:12 GMT</pubDate>
+<link>https://research.google/pubs/who-controls-the-curriculum-for-ai-the-limits-of-participatory-design-for-educational-ai/</link>
+<guid>afa53cdd099b294ce497fa3f51e970de84a537fb00e48270ef644fe9cd98a65c</guid>
+<pubDate>Thu, 11 Jun 2026 15:35:35 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>cae7722483cd450e4ba7083455ab8f1fa0528fbf51cc6bd9d99182aa031c6de7</guid>
-<pubDate>Thu, 11 Jun 2026 11:53:15 GMT</pubDate>
+<guid>933133ca92095a6e98a845bc723a8297218182cf2abcfbc62fb7f4ac590a3d1c</guid>
+<pubDate>Thu, 11 Jun 2026 15:35:37 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41524-026-02103-z</link>
-<guid>8f1d62810bf95f9efe0f3e3c5ee4118a91f820cfa3acae317db2637d5e7d3d2a</guid>
-<pubDate>Thu, 11 Jun 2026 11:53:17 GMT</pubDate>
+<guid>961074da4d15cd2d7838d8bc390bbc45d812f87c68812e8db52cdccef3376be7</guid>
+<pubDate>Thu, 11 Jun 2026 15:35:39 GMT</pubDate>
 <description>Recent improvements in large language models (LLMs) have had a dramatic effect on capabilities and productivity across many disciplines involving critical thinking and writing. The development of the model context protocol (MCP) provides a way to extend the power of LLMs to a specific set of tasks or scientific equipment with help from curated tools and resources. Here, we describe a framework called TEM Agent designed for transmission electron microscopy (TEM) that leverages the benefits of LLMs through a MCP approach. We simultaneously access and control several subsystems of the TEM, a data management platform, and high-performance computing resources through text-based instructions. We demonstrate the abilities of the TEM Agent to set up and complete intricate workflows using a simplified set of MCP tools and resources accompanying a commercial LLM without any additional training. The use of a framework such as the TEM Agent simplifies access to complex microscope ecosystems comprised of several vendor and custom systems enhancing the ability of users to accomplish microscopy experiments across a range of difficulty levels.</description>
-</item>
-<item>
-<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
-<link>https://www.eurohpc-ju.europa.eu/index_en</link>
-<guid>8ee3357bd0b94695ab8219a2a16f643228d85855b29a589363dc3f4f5161382d</guid>
-<pubDate>Thu, 11 Jun 2026 11:53:22 GMT</pubDate>
-<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
 </item>
 
 </channel>
