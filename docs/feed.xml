@@ -4,28 +4,84 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 12 Jun 2026 01:43:57 GMT</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 06:26:21 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 OpenClawで「確認中です」「後で報告します」が消える問題をプロンプト運用で防ぐ</title>
-<link>https://qiita.com/yousan/items/85fa063d1e292fb9a677</link>
-<guid>f2c79417711ea4dd1b7e7c9a6fe715387d5a047af0a8ec3110cb379bcd33a537</guid>
-<pubDate>2026-06-12T10:17:27+09:00</pubDate>
-<description>はじめに OpenClaw は AI エージェントを継続的なタスク実行に使うためのフレームワークです。cron によるスケジュール実行、sessions_spawn によるサブセッション、HEARTBEAT.md による定期巡回など、長時間動作するエージェントのための仕組...</description>
+<title>【Qiita】 IBM Cloud: VSI for VPCで250GB以上を利用している場合のCドライブの拡張方法</title>
+<link>https://qiita.com/shiyasu/items/f4cdb85e0ae014158efe</link>
+<guid>cbc3a1c64d9251d235cf0723002ddefe31a02f6abde7a5cddfb6bab53cea9ef7</guid>
+<pubDate>2026-06-12T13:53:06+09:00</pubDate>
+<description>1. はじめに sdp profileがサポートされることにより、250GB以上のboot diskもサポートされるようになりました。 試しに1500GBで注文したサーバーが以下の通り。 注文時のBoot Volumeの構成(1500GB) でも、、、 あれ、15...</description>
+</item>
+<item>
+<title>【Qiita】 GitHub Copilot への「頼み方」を3段階に分類してみた ― 自分のチャット履歴を振り返って見えたこと</title>
+<link>https://qiita.com/dahatake/items/2ca49376cc53b3727b14</link>
+<guid>c3c17ae04263a0b0df31e5365c03ef2763cabbcdb642fdcf20e99ae2f56226a2</guid>
+<pubDate>2026-06-12T11:59:05+09:00</pubDate>
+<description>背景 もうずっと。そうですね1年以上。コーディングエージェント（私の場合は GitHub Copilot）にかなりの量のタスクを投げています。 Template化しているPromptはこちらのBlog Postでも共有しました。 機能の実装、バグの根本原因の調査、設...</description>
+</item>
+<item>
+<title>【Qiita】 コーディングエージェント、続けて話すか? 立て直すか?</title>
+<link>https://qiita.com/hokutoh/items/5d05145f8c0bf351a457</link>
+<guid>a8870fe70d8da309313ce7312165c986ff11334879d679578f16f5f7a2372f8d</guid>
+<pubDate>2026-06-12T13:49:43+09:00</pubDate>
+<description>コーディングエージェントを使っていて「同じスレッドで指示し続けるか? それとも新しくスレッドを立て直すか?」で迷われた方いらっしゃると思います。 「いや、完成するまでずっと同じスレッドだよ」「いや、1タスク1スレッドだよ」という方もいらっしゃるかもしれませんが・・・ 同じス...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントのループエンジニアリング徹底解説 ── 「プロンプトを打つ」時代の終わり</title>
+<link>https://qiita.com/Simon_Zhang/items/68d5f31bfaec6e8ac748</link>
+<guid>2712aee1e0c4512bdd8293b1dddaf12b39f89a8587f012b7cf65d942c9a75010</guid>
+<pubDate>2026-06-12T12:44:12+09:00</pubDate>
+<description>「私はもうClaudeにプロンプトを打っていない。プロンプトを打って次に何をすべきか考えるループを走らせているだけだ。私の仕事はループを書くことだ」 ── Boris Cherny（Anthropic Claude Code 責任者）, 2026年6月 目次 はじめ...</description>
+</item>
+<item>
+<title>【Qiita】 商用サービスをAI前提で開発する。技術広報がIssueを書くだけでPRまで自動生成するGitHub Actions活用術</title>
+<link>https://qiita.com/yitaya/items/a3d1cc1f7522af0f0c64</link>
+<guid>b132ee627ac18f9ed42f8b32b0c65f94c393a670a0f6ff7595f31c91e995c4b0</guid>
+<pubDate>2026-06-12T12:04:05+09:00</pubDate>
+<description>はじめに この記事は、エンジニアのリソース不足に悩むプロダクトマネージャーや、AIを活用して他職種との協働をスムーズにしたいエンジニア向けの記事です。結論として、Issueの運用ルールを整え、GitHub ActionsとAIを組み合わせることで、エンジニア以外でも安全に...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントを利用したイベントレポートの書き方</title>
+<link>https://qiita.com/Kitasan_White/items/dcd2939760fc445ce64e</link>
+<guid>ebaecea7c006db43aea7be317334d5dabee92ba9368062cb83d92d49719c2f65</guid>
+<pubDate>2026-06-12T11:59:32+09:00</pubDate>
+<description>はじめに AI Engineering Summit Tokyo 2026 Summerに参加しました。2日間で13セッション＋20社以上のブースを回ったレポートを、AIエージェントを活用して書きました。2日後には公開できたのは、異常な速さだと自負しています。 完成した記...</description>
+</item>
+<item>
+<title>【Qiita】 オブジェクト指向のその先へ。エージェント指向プログラミングという考え方</title>
+<link>https://qiita.com/ohta_masaki/items/3f5ee728d25ed441355e</link>
+<guid>866e92b3341c4476c660336f3fef428005d5244fac2885282b962f3f6b602bc9</guid>
+<pubDate>2026-06-12T10:50:22+09:00</pubDate>
+<description>オブジェクト指向のその先へ。エージェント指向プログラミングという考え方 AIエージェント開発では、いつの間にか「ノードで組む」ことが当然のように扱われるようになりました。 ノードベースの設計は便利です。処理の見通しがよくなり、関係者への説明もしやすくなります。抽象的なAI...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/twenty-years-of-bigtable/</link>
-<guid>9fb7fc42f8af335182730baed0764be77556fb39acc6c831b66121c160505cd3</guid>
-<pubDate>Fri, 12 Jun 2026 01:42:57 GMT</pubDate>
+<link>https://research.google/pubs/freshbrew-a-benchmark-for-evaluating-ai-agents-on-java-code-migration-2/</link>
+<guid>d11a7f4be895c0ce2faab160fa729138cd63a9128f8e07c3d3320ff6c176785e</guid>
+<pubDate>Fri, 12 Jun 2026 06:25:50 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>1ea1e0da9902ba352d6a6ec9b3d5e85e028d439160df96a77e9705d8908f2592</guid>
-<pubDate>Fri, 12 Jun 2026 01:43:00 GMT</pubDate>
+<guid>fab25014d8144e2f37b705e677ece07647e376be239d7c587794804ee750787c</guid>
+<pubDate>Fri, 12 Jun 2026 06:25:52 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41524-026-02103-z</link>
+<guid>153aa1b4bdbfbfe12f22e476e83a6963af090ee9aedafa30292d8a9c3deafb6b</guid>
+<pubDate>Fri, 12 Jun 2026 06:25:54 GMT</pubDate>
+<description>Recent improvements in large language models (LLMs) have had a dramatic effect on capabilities and productivity across many disciplines involving critical thinking and writing. The development of the model context protocol (MCP) provides a way to extend the power of LLMs to a specific set of tasks or scientific equipment with help from curated tools and resources. Here, we describe a framework called TEM Agent designed for transmission electron microscopy (TEM) that leverages the benefits of LLMs through a MCP approach. We simultaneously access and control several subsystems of the TEM, a data management platform, and high-performance computing resources through text-based instructions. We demonstrate the abilities of the TEM Agent to set up and complete intricate workflows using a simplified set of MCP tools and resources accompanying a commercial LLM without any additional training. The use of a framework such as the TEM Agent simplifies access to complex microscope ecosystems comprised of several vendor and custom systems enhancing the ability of users to accomplish microscopy experiments across a range of difficulty levels.</description>
+</item>
+<item>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.kagome.co.jp/library/company/news/2026/img/2026060901_t.pdf</link>
+<guid>c3aa3ee94c874cc0f09e73f1015f1543dabc2c6991f460252cc74b6cccd7a033</guid>
+<pubDate>Fri, 12 Jun 2026 06:26:08 GMT</pubDate>
+<description>研究所別一覧</description>
 </item>
 
 </channel>
