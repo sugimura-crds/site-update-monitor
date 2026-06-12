@@ -4,119 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 12 Jun 2026 10:47:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 12 Jun 2026 13:59:11 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Oracle AI Database@AWS で Autonomous AI Database Serverless を作成してみてみた</title>
-<link>https://qiita.com/shirok/items/06f3bca71ae6378a844e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>4034bc23f382eeaadd7c060a6dc2593a5d63ecbd18f06469d5dc8b97bbbbb74d</guid>
-<pubDate>2026-06-11T14:57:22+09:00</pubDate>
-<description>2026年6月10日に Oracle AI Database@AWSで Autonomous AI Database Serverless がサポートされたため、さっそく AWS Console から作成して SQL 接続まで確認してみました。これにより、Exadata 専...</description>
+<title>【Qiita】 エージェントRAG（Agentic RAG）導入のための5ステップ：外部知識取り込みとワークフローの設計実践テンプレート</title>
+<link>https://qiita.com/jjking/items/7df1100c823f2e27beca</link>
+<guid>c07b35f158751afa113497977ef23ce8525f2450609620774ce71f23fb349164</guid>
+<pubDate>2026-06-12T21:32:49+09:00</pubDate>
+<description>従来のRAGが直面する2大ボトルネック 従来のRAG（Retrieval-Augmented Generation）は、LLMの知識を補完する強力なアプローチとして広く普及しました。しかし、実務での適用が進むにつれて、以下の「2大制約」という深刻な課題が浮き彫りになってい...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Fable 5を１日使ってみて</title>
-<link>https://qiita.com/yo_arai/items/30ae4581b8a9b3206b15?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>92a5785d93ced945a22e1abb8d1b17601f7bfcf5543168fbca686fb6329f52fd</guid>
-<pubDate>2026-06-11T01:01:48+09:00</pubDate>
-<description>はじめに 本日Anthropic一般公開したモデル「Fable 5」を、リリース翌日から丸一日、Claude Code でのコーディング・開発作業を中心に触ってみました。本記事はその所感を述べたものです。 モデル概要 まあ読んでいる時点で知らないことはないと思いますが前...</description>
+<title>【Qiita】 AIサブスクは格安なのか? — 価格とクォータの二重構造</title>
+<link>https://qiita.com/yoshiyakato/items/a28db80d35b849777e82</link>
+<guid>cb95b092427d8d6fd650506975a3f42a95b72a825cb01062862dc2cab3e673cf</guid>
+<pubDate>2026-06-12T20:38:26+09:00</pubDate>
+<description>定額の裏側(1) AIサブスクは格安なのか? — 価格とクォータの二重構造 連載「定額の裏側 — APIとサブスクの価格差から読むフロンティアモデルの経済構造」第1回。 定額サブスクとトークンの関係はどうなってるんだっけ? まず私の手元の実測から始めたい。Claude ...</description>
 </item>
 <item>
-<title>【Qiita】 IBM i 日々の雑記帳 2026/06～</title>
-<link>https://qiita.com/gomAnomalocaris/items/aa70ada6fe4414513a3c</link>
-<guid>d7ae3d99a20d51eff7a5ffe7da3e752e89d0263f2b5bd50059da299e77f35f4e</guid>
-<pubDate>2026-06-12T16:06:42+09:00</pubDate>
-<description>Qxxxライブラリーで用途がよくわからないものリスト Qxxx ライブラリーはシステムライブラリー、ってわかってるけど実際何？が分からないものは色々ありそうです。 Library Information for Some Libraries https://www.ib...</description>
-</item>
-<item>
-<title>【Qiita】 IBM Bob に Spec Kit を導入し、Bob ネイティブのカスタムモードでラップしてみた</title>
-<link>https://qiita.com/Tomoyuki_Hori/items/eb0b1db560ba804cf8ac</link>
-<guid>5f9f83f68a1e5bf8905d7a11e23578df3a94cc034c6dce2cbe8a8edf4b9442bc</guid>
-<pubDate>2026-06-12T16:06:23+09:00</pubDate>
-<description>この記事の内容 IBM Bob IDE 版に、GitHub の仕様駆動開発ツールキット Spec Kit を導入し、その一連のパイプラインを Bob ネイティブのカスタムモードで包んで、非技術者でも自然言語だけで使えるようにするまでをまとめます。 検証環境: spec...</description>
-</item>
-<item>
-<title>【Qiita】 エージェント開発の作業を「AFK」と「HITL」で仕分ける</title>
-<link>https://qiita.com/ryoji9702/items/ac005b39873ce4861b6e</link>
-<guid>7d83010a4c8cc203d7d100d082fb72cf75ea1870a6aff0731a8aeabea48373c7</guid>
-<pubDate>2026-06-12T15:32:02+09:00</pubDate>
-<description>はじめに AI コーディングエージェント（Claude Code など）を本格的に運用し始めると、ある時点で必ずこの問いにぶつかります。「この作業、エージェントに任せきりでいいのか？ それとも筆者が見ていないとダメなのか？」 です。 最初のうちは「全部見ていないと不安」で...</description>
-</item>
-<item>
-<title>【Qiita】 Azureにおけるクロステナント連携（Private Endpoint経由でのBlobアクセス）</title>
-<link>https://qiita.com/ManabuYamamoto/items/61138274f0d10605f26b</link>
-<guid>19ee489ce545463472e7c9e0683e513d3f9c78cddf283301c56ad2ff665fd2c4</guid>
-<pubDate>2026-06-12T17:26:39+09:00</pubDate>
-<description>本記事は GitHub Copilot および Microsoft Foundry を活用して作成されています。内容の正確性については各公式ドキュメントをご確認ください。 異なる Entra テナント間で Blob ストレージのデータを安全に連携する構成を、Azure C...</description>
-</item>
-<item>
-<title>【Qiita】 Claude CodeのCustom Agentなどでmodel: fableは使えるのか検証</title>
-<link>https://qiita.com/har1101/items/ff12336d2c0558aedce8</link>
-<guid>f3fb4ee9b8dec52f49713c6908aa0d17a6ae5d530c3ccd57d37f6e6db12fb32a</guid>
-<pubDate>2026-06-12T19:39:49+09:00</pubDate>
-<description>tl;dr Claude Fable 5が使える環境であれば、ローカルのClaude CodeでもClaude Agent SDKでも model: fable 指定してもちゃんと動きます 以降、ただの検証です。興味ある方だけどうぞ はじめに こんにちは、ふくち...</description>
-</item>
-<item>
-<title>【Qiita】 【アーキテクチャ設計】LLM/Agentシステムで混同しがちな「検索(RAG)」と「記憶(Memory)」の境界線と要件定義</title>
-<link>https://qiita.com/memorylakeai/items/a6d11f33dd30c071c090</link>
-<guid>abcf9a113820caabe92e806ebfbb32bf8fc10e7eb7ffdb3c7668d6810a34d651</guid>
-<pubDate>2026-06-12T17:58:30+09:00</pubDate>
-<description>はじめに 現在のLLMアプリケーション開発において、開発者が直面する最大の課題の一つが「コンテキストの制御」です。 LLMのコンテキストウィンドウは数十万から数百万トークンへと劇的に拡大し、さらに「Model Context Protocol (MCP)」の登場によって...</description>
-</item>
-<item>
-<title>【Qiita】 AWSで作るはじめてのGraphRAGエージェント</title>
-<link>https://qiita.com/Odin/items/be19c5f5fa7796b4b30b</link>
-<guid>879d0421d641a93162fdae3f02974de80e16bb4527c90270bf94518d4a800f56</guid>
-<pubDate>2026-06-12T17:57:47+09:00</pubDate>
-<description>業務でAIエージェントのアーキテクチャ設計に携わる中で、GraphRAGエージェントを実際に構築してみました。本記事ではその実装と、背景にある概念を整理して紹介します。 対象読者 AIエージェントの業務設計・アーキテクチャ設計・構築に取り組んでいる方 エージェント設計に...</description>
-</item>
-<item>
-<title>【Qiita】 Building AI Workflow Automation Systems: Architecture Patterns and Best Practices</title>
-<link>https://qiita.com/lbm_solutions/items/9e41e803439fa32ea4d4</link>
-<guid>69f453ccbff0afe291f4265a2c627c835bba7591a3d4c7b67438a4078bdd82a9</guid>
-<pubDate>2026-06-12T16:36:23+09:00</pubDate>
-<description>Most workflow automation projects start with the same optimistic assumption: if we just connect these systems and define the right rules...</description>
-</item>
-<item>
-<title>【農業】 Climate-smart composting strategies</title>
-<link>https://www.nature.com/articles/s43016-026-01376-3</link>
-<guid>71c52a47bb592342a3157b5288880c8b618b74144fb9ae79a78a9ac73c723bd9</guid>
+<title>【環境】 Author Correction: Global expansion of the ecological impact of extra-urban road traffic</title>
+<link>https://www.nature.com/articles/s41893-026-01888-7</link>
+<guid>991f90356fb9b4e64eeb8c3dea764d257f527b24ffa339db20253684c17e1a65</guid>
 <pubDate>2026-06-12</pubDate>
-<description>A machine-learning approach enables the development of best management strategies to reduce net greenhouse gas emissions from composting, offering an opportunity for composting to become a carbon sink rather than a net emitter.</description>
-</item>
-<item>
-<title>【農業】 National phosphorus action to meet the United Nations call</title>
-<link>https://www.nature.com/articles/s43016-026-01367-4</link>
-<guid>c8ecd1f80d844d05c791002f60ec18e0f2f6531de7dbcbf55366c5e35b6bb791</guid>
-<pubDate>2026-06-12</pubDate>
-<description>Phosphorus mismanagement threatens food security, water quality, climate and biodiversity. This Comment outlines how countries may establish national working groups and action plans to tackle these challenges, considering context-specificities, local resilience and global commitments.</description>
+<description>Author Correction: Global expansion of the ecological impact of extra-urban road traffic</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/llm-powered-analysis-of-iot-user-reviews-tracking-and-ranking-security-and-privacy-concerns/</link>
-<guid>f7caa75783ece4b962b485f67a139b19294cbca3cfbde519d8dfb10bc179adaa</guid>
-<pubDate>Fri, 12 Jun 2026 10:46:24 GMT</pubDate>
+<link>https://research.google/pubs/who-is-at-risk-surveying-the-prevalence-of-risk-factors-and-tech-facilitated-attacks-in-the-united-states/</link>
+<guid>59607d0183a57fdb1a1509d884c21f208e06c4ddcb1806c88aa9b997eb5f7899</guid>
+<pubDate>Fri, 12 Jun 2026 13:58:10 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>1d9d132db64d895773a7831d5c01239e6241e3f410d4da9a7b26d031ad7815df</guid>
-<pubDate>Fri, 12 Jun 2026 10:46:26 GMT</pubDate>
+<guid>fdf608b4b04f8784cb07809c7b683d0e9c8d39df22160333cbcedf685c050cf3</guid>
+<pubDate>Fri, 12 Jun 2026 13:58:12 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04403-9</link>
-<guid>7f8a6fa1ceec4cc65b906e19154f4e3b07a35f8b1ca4606c288fe398e4ecc05c</guid>
-<pubDate>Fri, 12 Jun 2026 10:46:30 GMT</pubDate>
-<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+<link>https://www.nature.com/articles/s41524-026-02103-z</link>
+<guid>8fb3272e90e5533e0e9a5c888cfa34e207f72dd7b78d387c6af62728e92edd29</guid>
+<pubDate>Fri, 12 Jun 2026 13:58:14 GMT</pubDate>
+<description>Recent improvements in large language models (LLMs) have had a dramatic effect on capabilities and productivity across many disciplines involving critical thinking and writing. The development of the model context protocol (MCP) provides a way to extend the power of LLMs to a specific set of tasks or scientific equipment with help from curated tools and resources. Here, we describe a framework called TEM Agent designed for transmission electron microscopy (TEM) that leverages the benefits of LLMs through a MCP approach. We simultaneously access and control several subsystems of the TEM, a data management platform, and high-performance computing resources through text-based instructions. We demonstrate the abilities of the TEM Agent to set up and complete intricate workflows using a simplified set of MCP tools and resources accompanying a commercial LLM without any additional training. The use of a framework such as the TEM Agent simplifies access to complex microscope ecosystems comprised of several vendor and custom systems enhancing the ability of users to accomplish microscopy experiments across a range of difficulty levels.</description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>3b751e97d4808a46879d3b3d03c5eb132aaecd707a6887cc53fee02f24480bcb</guid>
-<pubDate>Fri, 12 Jun 2026 10:46:35 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>5629809a12ced15388e35d4b941ac00c1b96dab49af647b74985953ec30fade4</guid>
+<pubDate>Fri, 12 Jun 2026 13:58:15 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
