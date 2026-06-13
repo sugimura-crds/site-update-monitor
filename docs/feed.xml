@@ -4,49 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 13 Jun 2026 04:57:46 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 08:19:32 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 TypeScriptの`never`型、AIエージェントのインフラ制御、FFmpegのゼロデイ群：2026年6月技術動向まとめ</title>
-<link>https://qiita.com/agenticdev/items/b60bec7f6dd63a9068aa</link>
-<guid>b25c510ab95a194c9349ca3b4b057594e59c8358a33489602cc503f6f9b032de</guid>
-<pubDate>2026-06-13T13:31:23+09:00</pubDate>
-<description>はじめに 6月も中盤に差し掛かり、開発現場のあちこちで「AIエージェントが実際に何かを操作している」という話を耳にするようになった。実験的な取り組みから、本番環境への実装へ。この移行が、今週の技術トレンドからも読み取れる。 一方で、古典的なツールにも深刻な問題が発覚した。...</description>
+<title>【Qiita】 【AWS】AI-DLCを実際にチームでやってみてわかったことをまとめてみました</title>
+<link>https://qiita.com/yakumo_09/items/76e416a5ae28f18ad976?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>e9b2d4e2a9c8c4e11ccc014430ba510538fb1f5d5e02eeb2c08dbf038a026f63</guid>
+<pubDate>2026-06-13T08:42:10+09:00</pubDate>
+<description>はじめに 先日(2026年5月)、AWSが主催する以下のハッカソンに、チームで参加してきました。 このハッカソンのテーマのひとつが、AWSが提唱する新しい開発手法 AI-DLC（AI-Driven Development Life Cycle） を利用することでした...</description>
 </item>
 <item>
-<title>【Anthropic】 Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>23e3d755d2fd19e9138fc406139b9cc0ec635375ede65d347071bbdb7924ded2</guid>
-<pubDate>Sat, 13 Jun 2026 04:56:42 GMT</pubDate>
-<description>The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.</description>
+<title>【Qiita】 Claude Codeに人生を管理させて3ヶ月、一番効いたのは自動化じゃなかった</title>
+<link>https://qiita.com/ktdatascience/items/3c8949b62ce1dfe7a024?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>7196c4d16081f833147855c8131053c1ec2743254836e313ff833aab057cc676</guid>
+<pubDate>2026-06-11T10:25:29+09:00</pubDate>
+<description>はじめに *この記事のまとめ Claude Code × GitHubで「自分の取扱説明書」を作り、AIに丸ごと渡す運用を3ヶ月続けた スキルやMCPで自動化もした。でも一番効いたのは、自動化ではなく「自分を言語化する強制力」だった メモアプリ1つで始められる。エン...</description>
+</item>
+<item>
+<title>【Qiita】 「良い命名」できていますか？ ― ITの名前の由来をアルファベット順に集めてみたから、インスピレーションしてください。</title>
+<link>https://qiita.com/tomoki-miso/items/a754fff1885f6cf0a146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>21623670c7283862ac421d2df2041e696dbd9e9ac0f01f489dfb2326e1511eff</guid>
+<pubDate>2026-06-12T17:59:04+09:00</pubDate>
+<description>はじめに 命名は大事だ。 変数名はわかりやすい方が良い。サービス名はキャッチーで覚えられやすい方が良い。社名は、アイデンティティをつくる。 命名は大変だ。 わかりやすい命名を考えると長くなる。キャッチーさに振ると、既存の言葉と重複する。思いが溢れすぎると、まとまらない。 ...</description>
+</item>
+<item>
+<title>【Qiita】 LlamaIndex×LangGraphで作る「自己修正型エージェントRAG」実装ガイド：複数ソースのクエリ分解とループ制御</title>
+<link>https://qiita.com/jjking/items/67cc46b5e38e7efa69f8</link>
+<guid>890c2fefcbbe2839e1e48923a15ec631ae4cf47c8347de94b39b28fded31f5db</guid>
+<pubDate>2026-06-13T17:14:11+09:00</pubDate>
+<description>📖 この記事は、前回の記事「エージェントRAG（Agentic RAG）導入のための5ステップ：外部知識取り込みとワークフローの設計実践テンプレート」の続編です。 前回の内容をさらに深掘り・発展させてお届けします。まだお読みでない方は、先に前回の記事 エージェントRAG（...</description>
+</item>
+<item>
+<title>【Qiita】 Strands Agents に詳しくなりたい</title>
+<link>https://qiita.com/maritime/items/6ecc158fdfc98c278695</link>
+<guid>572a460f882e2bc9b812a0ee73b1f6bec9dff59e8968706fd13c9d8e26bf3019</guid>
+<pubDate>2026-06-13T16:20:58+09:00</pubDate>
+<description>🧬 Strands Agentstとは AIエージェントを最小3行のコードで爆速で作れるウルトラ便利な専用パーツ集や Bedrockと組み合わせて使うことが多く、LangChain や AutoGen などの他のエージェントフレームワークと競合する位置づけなんや ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/livesvg-zero-shot-svg-animation-via-video-generation/</link>
-<guid>36c8aed41d1fb9035492b3afbf3c0a072bf6fee621545ea76f4cbf6110fe0a8c</guid>
-<pubDate>Sat, 13 Jun 2026 04:56:46 GMT</pubDate>
+<link>https://research.google/pubs/a-probabilistic-framework-for-learning-nonintrusive-corrections-to-longtime-climate-simulations-from-shorttime-training-data/</link>
+<guid>ea08d486b331c8f097734088476095be1d79705b0a94858e5ab351aee708355f</guid>
+<pubDate>Sat, 13 Jun 2026 08:18:22 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>b9b4c8cec66f356af7e83e3d0860e2ad7e96757a9fac1f41a2488eebe1a497f8</guid>
-<pubDate>Sat, 13 Jun 2026 04:56:48 GMT</pubDate>
+<guid>62053f440a767d6b97237ad647a2a6f0119afb4d91d1c8f1a568c3232e40e245</guid>
+<pubDate>Sat, 13 Jun 2026 08:18:24 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>930d1964e5c11ec09d08c8fd42173cb61e971a8efc08ff17d9514d9ee8b89b74</guid>
-<pubDate>Sat, 13 Jun 2026 04:56:50 GMT</pubDate>
+<guid>1bb2e88c31b2a1f8cc6d32fe2ce95eeec068f6a79df1d5069ac9513648e4e746</guid>
+<pubDate>Sat, 13 Jun 2026 08:18:27 GMT</pubDate>
 <description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>fde8df1c2f5d45ace7a7f52616b4310fde93b3a38fd09378e25a91e5bb5e5ed5</guid>
-<pubDate>Sat, 13 Jun 2026 04:56:51 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
