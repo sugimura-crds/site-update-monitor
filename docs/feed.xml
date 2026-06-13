@@ -4,28 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 13 Jun 2026 00:14:35 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 04:57:46 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 GoogleのSREチームは、AI エージェントをこう使っている</title>
-<link>https://qiita.com/asayan_mana/items/69f30e20db2b4a08198b</link>
-<guid>af7cee34af4dc0cdd1983c0471adea6ce8b43cbaa67d4f21bee065f3a78f5991</guid>
-<pubDate>2026-06-13T08:50:37+09:00</pubDate>
-<description>はじめに 2026年5月29日、Google Cloudの公式ブログに興味深い記事が公開されました。Google社内のSRE（Site Reliability Engineering）チームが、どのように AI エージェントを本番運用に導入しているかを詳細に解説したもので...</description>
+<title>【Qiita】 TypeScriptの`never`型、AIエージェントのインフラ制御、FFmpegのゼロデイ群：2026年6月技術動向まとめ</title>
+<link>https://qiita.com/agenticdev/items/b60bec7f6dd63a9068aa</link>
+<guid>b25c510ab95a194c9349ca3b4b057594e59c8358a33489602cc503f6f9b032de</guid>
+<pubDate>2026-06-13T13:31:23+09:00</pubDate>
+<description>はじめに 6月も中盤に差し掛かり、開発現場のあちこちで「AIエージェントが実際に何かを操作している」という話を耳にするようになった。実験的な取り組みから、本番環境への実装へ。この移行が、今週の技術トレンドからも読み取れる。 一方で、古典的なツールにも深刻な問題が発覚した。...</description>
+</item>
+<item>
+<title>【Anthropic】 Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>23e3d755d2fd19e9138fc406139b9cc0ec635375ede65d347071bbdb7924ded2</guid>
+<pubDate>Sat, 13 Jun 2026 04:56:42 GMT</pubDate>
+<description>The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/unveiling-the-global-landscape-of-android-security-updates/</link>
-<guid>7a4ceed720f4ff95e95e254cd64331f84f148ee5d718f465f8454b1016b8889e</guid>
-<pubDate>Sat, 13 Jun 2026 00:13:30 GMT</pubDate>
+<link>https://research.google/pubs/livesvg-zero-shot-svg-animation-via-video-generation/</link>
+<guid>36c8aed41d1fb9035492b3afbf3c0a072bf6fee621545ea76f4cbf6110fe0a8c</guid>
+<pubDate>Sat, 13 Jun 2026 04:56:46 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-73320-9</link>
+<guid>b9b4c8cec66f356af7e83e3d0860e2ad7e96757a9fac1f41a2488eebe1a497f8</guid>
+<pubDate>Sat, 13 Jun 2026 04:56:48 GMT</pubDate>
+<description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
+</item>
+<item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04403-9</link>
-<guid>00b66e57579e5004d48397d3ebca3f398b9d3859b144544b50380debf8f605c5</guid>
-<pubDate>Sat, 13 Jun 2026 00:13:38 GMT</pubDate>
-<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+<link>https://www.nature.com/articles/s41746-026-02869-y</link>
+<guid>930d1964e5c11ec09d08c8fd42173cb61e971a8efc08ff17d9514d9ee8b89b74</guid>
+<pubDate>Sat, 13 Jun 2026 04:56:50 GMT</pubDate>
+<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>fde8df1c2f5d45ace7a7f52616b4310fde93b3a38fd09378e25a91e5bb5e5ed5</guid>
+<pubDate>Sat, 13 Jun 2026 04:56:51 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
