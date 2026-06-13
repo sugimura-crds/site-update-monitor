@@ -4,36 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 13 Jun 2026 14:35:22 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 16:09:15 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Code v2.1.172 でサブエージェントが「孫エージェント」を生成可能に</title>
-<link>https://qiita.com/leomarokun/items/a7f45395473f6b829969</link>
-<guid>5675118e965cc33d1634a5a230a3768fff9e5380b0ff52ee04e9e053a7f19e91</guid>
-<pubDate>2026-06-13T22:59:55+09:00</pubDate>
-<description>忙しいあなたのための要約 Claude Code v2.1.172 で、サブエージェントがさらにサブエージェント（いわば「孫エージェント」）を生成できるようになった これまでは「メイン → サブエージェント」の1段まで。複雑なタスクの再分割がやりやすくなった 中間のやり...</description>
+<title>【Qiita】 IBM BobからObsidianを操作する（MCP）</title>
+<link>https://qiita.com/teruq/items/b2d0eb1108cf757827f1</link>
+<guid>1d5e46487e34dcad9e95c3f599df62629835ddd8d8df3ed3dd79ecca07f4fe18</guid>
+<pubDate>2026-06-14T01:05:30+09:00</pubDate>
+<description>目的 自分のPCで動いているObsidianをIBM BobからMCPで利用出来るようにする。 手順 ObsidianにLocal REST API with MCPプラグインをインストール プラグインの設定 Local REST API with MCPプラグイ...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeのマルチエージェント組織は、何もしなくても腐っていく——CLAUDE.md増殖とPlaybook孤立、2つの腐敗パターン</title>
+<link>https://qiita.com/saitoko/items/23f6709fc0de71332f91</link>
+<guid>72169e4aade44f6efcbf55b3b110802293390ac2fda4cf987574b7b05defac9d</guid>
+<pubDate>2026-06-14T00:42:17+09:00</pubDate>
+<description>Claude Codeのマルチエージェント組織は、大きな変更をしていなくても静かに腐敗が進む。本記事では、誤ったディレクトリでの起動によってCLAUDE.mdが意図せず増殖したケースと、参照元が切れたまま誰にも呼ばれなくなったPlaybookというケースを実例で記録する。い...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/mull-tokens-modality-agnostic-latent-thinking/</link>
-<guid>d01fb16bb3498954e9a504a82b61d10d83fbb4152e779e0e99f0808429607d6e</guid>
-<pubDate>Sat, 13 Jun 2026 14:34:41 GMT</pubDate>
+<link>https://research.google/pubs/who-am-i-talking-to-a-large-scale-measurement-of-surface-attribution-across-real-world-security-and-privacy-interfaces/</link>
+<guid>bbbe3d4ca7a712fc4b879bb128342fb01bcf0ec36147e714f465bcbfc5f78f60</guid>
+<pubDate>Sat, 13 Jun 2026 16:08:14 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>78f23d41847505a83f66398bbe18b3629497997a07be4d5e2aa964160a21a161</guid>
-<pubDate>Sat, 13 Jun 2026 14:34:44 GMT</pubDate>
+<guid>d2ad55bcd938f5077a5c0021f2383371ce4617adafc57df5b75ab60a03e16d5d</guid>
+<pubDate>Sat, 13 Jun 2026 16:08:16 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>7ba591d8a13ecfe2d159622d3a1fe02f2ba9be274b1ef9a8ea935bba776ceacd</guid>
-<pubDate>Sat, 13 Jun 2026 14:35:04 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
