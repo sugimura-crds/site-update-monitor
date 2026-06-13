@@ -4,20 +4,27 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 13 Jun 2026 10:43:57 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 12:21:48 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 AIX rootvg バックアップ手法のまとめ</title>
+<link>https://qiita.com/c_u/items/9f6f5d704f42192d6219</link>
+<guid>30b60a5b1460b91da95e8dbc83d42bfcc044686cb68e9a522d7e45ad24ddfb6f</guid>
+<pubDate>2026-06-13T20:01:31+09:00</pubDate>
+<description>はじめに AIX の OS 領域である rootvg のバックアップ方法は、mksysb 以外にも複数の選択肢が存在します。本記事では、OS 標準機能からストレージ・仮想化基盤の機能まで、rootvg を保護するための代表的な手段を整理しました。 最後にユースケース別の推...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/reasoning-driven-synthetic-data-generation-and-evaluation/</link>
-<guid>bf7e652bccfd81ffa260a4ecb43cea40d7b6c11e8b2092e06ee936af9ec7c8f1</guid>
-<pubDate>Sat, 13 Jun 2026 10:42:55 GMT</pubDate>
+<link>https://research.google/pubs/dedubb-binary-code-size-reduction-via-post-link-basic-block-de-duplication/</link>
+<guid>bca195d3b69c612c1914ac91a43d94267dcddcb4515f80b43e39c58047414e5d</guid>
+<pubDate>Sat, 13 Jun 2026 12:20:17 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>52d988a29fca6de17c47f01e1f9e28a55d7f25dac95043f6be40f03bcd9b9ac9</guid>
-<pubDate>Sat, 13 Jun 2026 10:42:58 GMT</pubDate>
+<guid>b477e0c7d6f8cfc6611b1de19df61b9244615a8c2023bbdc66904ef456f7416a</guid>
+<pubDate>Sat, 13 Jun 2026 12:20:20 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 
