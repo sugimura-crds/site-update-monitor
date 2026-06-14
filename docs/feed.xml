@@ -4,62 +4,34 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 14 Jun 2026 08:53:40 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 11:24:11 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AI Readyな設計書を目指して。人もAIも読みやすい設計書管理</title>
-<link>https://qiita.com/grhg/items/eee10528b403baf89631?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>ff106c9323f5b7bc5291dc378f0353b4fc3318a5ca9146c18df5e3434690be54</guid>
-<pubDate>2026-06-13T04:48:08+09:00</pubDate>
-<description>はじめに 以前、設計書はMarkdownで管理してPDFに自動変換しよう！ という記事で、設計書を Markdown で管理していく話を書きました。 ここではその発展形として、Markdown で管理した設計書を HTML として公開し、GitHub 上でのレビューや A...</description>
+<title>【Qiita】 Zed・Cursor・VS Code を「速度 / AI深度 / エコシステム」の3軸で選ぶ</title>
+<link>https://qiita.com/ryoji9702/items/8c16133c13d0af096693</link>
+<guid>24dbcf1d670096de2ca40e2f3e79bfce907a7fed3d954d5fdd7e21d8e3acce96</guid>
+<pubDate>2026-06-14T18:06:44+09:00</pubDate>
+<description>はじめに 「Cursor が話題だけど、Zed や VS Code はどうなの？ 乗り換えるべき？」という相談を最近よく受けます。筆者自身、普段は VS Code をベースにしつつ Cursor と Zed を並行して試してきましたが、2026年に入ってこの選択の前提が大...</description>
 </item>
 <item>
-<title>【Qiita】 自治体のガバメントクラウド AWS 環境で現在 Bedrock をどこまで使えるのか（2026 年 6 月版）</title>
-<link>https://qiita.com/takeda_h/items/b5ccdb0f2f7c6c09f0b2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>7e1ef1cc2f3672c7fc627691989062d58d632c6463ee64a31ddb6bb0d1f33272</guid>
-<pubDate>2026-06-13T16:48:04+09:00</pubDate>
-<description>地方自治体のガバメントクラウド AWS 環境で、Amazon Bedrock をどこまで使えるの？という質問を受けることが多いので、公開情報から分かる範囲だけで整理してみようと思います。 2026/06/13 現在の情報ですのでご注意ください。 最初に自治体ガバメ...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントのトークンを6〜9割減らすCLI「bdo」を公開してみた</title>
-<link>https://qiita.com/tedorigawa001/items/99a60f45473562b9dbee</link>
-<guid>d2cb2dcee0ccf6d7c4c544d50dce79b1e73eebdd39a60bd11a01f006b54bad3b</guid>
-<pubDate>2026-06-14T17:03:56+09:00</pubDate>
-<description>これは何 AIコーディングエージェント（Claude Code など）は git status や cat の生出力をそのままコンテキストに飲み込むため、トークンを無駄に使います。 bdo (Bushido) はコマンドとLLMの間に挟まるフィルタ・プロキシ。出力を圧縮し...</description>
-</item>
-<item>
-<title>【Qiita】 Anthropic「Fable 5 / Mythos 5」全面停止事件が示したもの</title>
-<link>https://qiita.com/yoshiyakato/items/df0069fa5866be5d53c8</link>
-<guid>f6c69b8b32ad6e0c4520653456ad23f18a71dd5af12c3e98e69c400fa008292a</guid>
-<pubDate>2026-06-14T16:54:25+09:00</pubDate>
-<description>Anthropic「Fable5 / Mythos5」全面停止事件が示したもの このトピックはニュース性が強いですが開発技術とも深く関係していると考えて記事にしました。 今回の記事の関連記事 所有の民主化 — AI を開く、もう一つの戦線 AIサブスクは格安なのか?...</description>
-</item>
-<item>
-<title>【Qiita】 検索システムでロボティクスとAIエージェントを繋ぐ</title>
-<link>https://qiita.com/cvusk/items/06ce3f59f1f5570268a1</link>
-<guid>ceaab91ad46e50300b82d8f64e4a9671dce21650bbf06e5295eaeb56344c5b3f</guid>
-<pubDate>2026-06-14T16:31:14+09:00</pubDate>
-<description>Research Question ロボティクスを触り始めたエンジニアが、「ロボットとAIエージェントと業務システムって、結局みんなバラバラのデータで喋ってるよね？」という疑問を勝手に課題にして、シミュレータの中で全員が同じ検索システムを通して情報をやり取りする世界を...</description>
-</item>
-<item>
-<title>【Qiita】 Amazon Bedrock AgentCore に詳しくなりたい</title>
-<link>https://qiita.com/maritime/items/3cd0f995f564f769eb2b</link>
-<guid>d91b1ee577c647cf3f0c321520ab40ec05ded8d891691f17423c3093204f682f</guid>
-<pubDate>2026-06-14T16:27:08+09:00</pubDate>
-<description>AgentCoreとは エージェントが目標に向かって 「考える ➔ 道具を選ぶ ➔ 実行する ➔ 結果を確かめる」 という自律ループをコントロールする脳みそのロジックのこと ※技術的な文脈によっては、Bedrock Agentsの内部の思考エンジンのことを指したり...</description>
+<title>【Qiita】 Jetson Orin Nano Super開発者キットとOpenClawでサーボモーターを動かす</title>
+<link>https://qiita.com/toika_wa1424/items/90fde612e8d60e89d2ac</link>
+<guid>a40727db3c67a5e26f8e9ec7e673bfbe23c6666901d556091f3a0a9c38ea37b1</guid>
+<pubDate>2026-06-14T18:56:05+09:00</pubDate>
+<description>はじめに 本記事では、Jetson Orin Nano Super開発者キットにサーボモーターを接続し、「OpenClaw」から指示を出して動かすまでの手順を解説します。 実行環境 ボード: Jetson Orin Nano Super 開発者キット OS/Jet...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/kvcis-activation-based-token-importance-prediction-for-intelligent-kv-cache-compression-2/</link>
-<guid>ac2f0e753b568d9e0dcc0c45574ae3153e5ebbe8cabf3c476fd7f5d994cdf108</guid>
-<pubDate>Sun, 14 Jun 2026 08:52:40 GMT</pubDate>
+<link>https://research.google/pubs/a-framework-for-interactive-machine-learning-and-enhanced-conversational-systems/</link>
+<guid>00a23a1b882041e9ca30bed31e97f4349956a84d6babf8980047a0527f758eff</guid>
+<pubDate>Sun, 14 Jun 2026 11:23:36 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>dc7346ba5526cfa03ae438ae479705e94c634a37d38d89cd224e8d822fcb3a0e</guid>
-<pubDate>Sun, 14 Jun 2026 08:52:42 GMT</pubDate>
+<guid>712b52df8ab9c0e0bd6f6b8ebf7ccc88b5066fccf61570e6424774db145d8412</guid>
+<pubDate>Sun, 14 Jun 2026 11:23:39 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 
