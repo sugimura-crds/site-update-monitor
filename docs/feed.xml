@@ -4,42 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 14 Jun 2026 13:11:45 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 15:24:57 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIに毎回「やり方」を説明するのをやめる — Agent Skills（SKILL.md）で“できる人の手順”を、文脈を溢れさせずにAIへ渡す実践ガイド</title>
-<link>https://qiita.com/akira_papa_AI/items/838ecce8ec1caa0e8695</link>
-<guid>b788c261625ee46b046f152c8ae9828308e14b2595ca74589357a959e8fe5a6f</guid>
-<pubDate>2026-06-14T21:45:30+09:00</pubDate>
-<description>AIに毎回「やり方」を説明するのをやめる — Agent Skills（SKILL.md）で“できる人の手順”を、文脈を溢れさせずにAIへ渡す実践ガイド はじめに：AIは賢いのに、なぜか毎回ふりだしに戻る AIにコードを書かせたり、調査をさせたりしていて、こんなこと、な...</description>
+<title>【Qiita】 LLM記述構文&quot;MARI&quot; Tips: IFを用いない論理マトリックスと物理シード</title>
+<link>https://qiita.com/otoyo0318/items/273436a4e943df1674d5</link>
+<guid>1fe74bbe1df68985bc804de6c3198a472d610a0a9cb50ee69076650b8cfba01c</guid>
+<pubDate>2026-06-14T23:31:18+09:00</pubDate>
+<description>1. はじめに これまでの4本の記事では、LLM記述構文「MARI (Minimal Asset &amp; Rule Integration)」の基本思想である「引き算のプロンプト」ついてお話しました 。 今回はサンプルプロンプトでご紹介しました美穂・真穂姉妹のマルチエージェ...</description>
 </item>
 <item>
-<title>【Qiita】 Forward Deployed EngineerとしてAIエージェントを働かせるためのCustom指示を設計しました</title>
-<link>https://qiita.com/arika1125/items/8f29d80f1f9627219116</link>
-<guid>0c79a403822b24875f67e6280e1fa7676d90695a2c4619198abf39b6ff1a1d29</guid>
-<pubDate>2026-06-14T21:01:15+09:00</pubDate>
-<description>はじめに 最近Qiitaに記事を投稿できていなかったので、今回は自分用に設計している Custom指示 を題材にします。 テーマは、 AIエージェントをForward Deployed Engineerとして働かせるには、どのような指示を与えるべきか です。 単に「丁...</description>
+<title>【Qiita】 実践！ループエンジニアリング入門 〜AIを一晩中ループで回し、テストで“暴走”を縛る〜</title>
+<link>https://qiita.com/ymatsuza/items/c322ee27672624bb39ee</link>
+<guid>f943e3f78b1991cd425f7cc88f3930ddba516096f514689f510983c864dd1e74</guid>
+<pubDate>2026-06-14T22:22:31+09:00</pubDate>
+<description>TL;DR（3行） ループエンジニアリング＝AIを「行動 → 検証 → 再投入」の閉ループで、安全に・無人で回す設計思想。「プロンプトを打つ」時代の次に来た考え方です。 効くのはAIの賢さではなくループの設計。要素はたった3つ——停止条件・決定論ゲート・隔離。 これで...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント全盛時代の趣味ワーク管理とポートフォリオ運営の最適解</title>
-<link>https://qiita.com/egaruk/items/06aaccbc671930604fb7</link>
-<guid>4627e556b26b5ccbf95fc765a656008a74c881622085336418422869350476ef</guid>
-<pubDate>2026-06-14T21:41:11+09:00</pubDate>
-<description>音楽・イラスト・動画・開発・同人誌……複数の制作を同時に進めていると、タスクや経緯が Notion・メモ帳・各リポの README に散らばりがちです。 公開用のポートフォリオも別管理になり、「あの作品いつ出したっけ」「あのコミュニティの URL は？」と探し回る、という経...</description>
+<title>【Qiita】 AIエージェント参加型SNS「Outcasts」の作成</title>
+<link>https://qiita.com/outcast_zari/items/3f0e56fedcaeae2506f5</link>
+<guid>899ed69f44a8d99800b12648460e30f57777e20e5fa40393812caaff512dd4f1</guid>
+<pubDate>2026-06-14T22:18:41+09:00</pubDate>
+<description>AIエージェント参加型SNS「Outcasts」の作成 はじめましてザリ・ロブステルです。人間（Master）と AI エージェント（Servant）が共棲する 5ch 型カテゴリ掲示板 Outcasts を作りました。本稿では、採用した技術スタック、ユーザー登録から A...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/dedubb-binary-code-size-reduction-via-post-link-basic-block-de-duplication/</link>
-<guid>0686c051fd65c776a02a12b5ccae60aaaf256c06d02b71d587d5d1de68effae3</guid>
-<pubDate>Sun, 14 Jun 2026 13:10:45 GMT</pubDate>
+<link>https://research.google/pubs/tdxray-microarchitectural-side-channel-analysis-of-intel-tdx-for-real-world-workloads/</link>
+<guid>09901cb3479e2f2cdc4a25b2e303a4e5cc036aa86f4aea1b742fca1554a4175a</guid>
+<pubDate>Sun, 14 Jun 2026 15:23:20 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>f3d70e47cd319692b433f816b6e3cdb73f836a9a0fc12a8608ce3d56dcdc9002</guid>
-<pubDate>Sun, 14 Jun 2026 13:10:48 GMT</pubDate>
-<description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 
 </channel>
