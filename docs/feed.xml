@@ -4,21 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 14 Jun 2026 00:09:16 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 05:14:58 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 メタハーネスとは何か ― Databricks発のOSS『Omnigent』が解決しようとしていること</title>
-<link>https://qiita.com/taka_yayoi/items/2ff51f2df46cc1285ba3</link>
-<guid>b86d326d52e5664310e9608e79cb071e9170ae97e28e318f7a5a46f137e84fc0</guid>
-<pubDate>2026-06-14T08:10:40+09:00</pubDate>
-<description>複数のAIエージェントを「束ねる」という発想 Claude Code、Codex、Pi、Gemini。コーディングや調査に使えるAIエージェントが一気に増えました。便利になった一方で、こんな状態に心当たりはないでしょうか。 エージェントを4つも5つも同時に開いて、片方の出...</description>
+<title>【Qiita】 🔥 GitHub Copilot なにもしてないのにこわれた 2 〜system prompt を約 90% 減らした話〜</title>
+<link>https://qiita.com/aktsmm/items/b335cd0e343c717f0841</link>
+<guid>9b124910bd822ffdd94d00a3b3c569ed6250f37854e6ee3d0caebb02d5664747</guid>
+<pubDate>2026-06-14T13:21:39+09:00</pubDate>
+<description>こんにちは、自作の カスタムエージェント を呼んだ瞬間に Copilot が「何を進めますか？」マシーンに退化して、また冷や汗をかいたアーキテクトのやまぱん！です 😇 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ TL...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeを今すぐ始めたい（インストールから初期設定方法まで）</title>
+<link>https://qiita.com/NakanakaPierrot/items/d5a309c8e0c096aa1f4d</link>
+<guid>e6659b5325f15f99a0094ab9274479033bd61579d7f340cf83150e1a23cbe5f6</guid>
+<pubDate>2026-06-14T14:03:42+09:00</pubDate>
+<description>Claude Codeのインストールから初期設定方法について記述しておきます。 参考になれば幸いです。 準備 Claudeを利用するには、まずClaudeのサイトに行ってアカウント登録する必要があります。そしてClaude Codeを利用するには、Proプラン以上に加入す...</description>
+</item>
+<item>
+<title>【Qiita】 Converse API に詳しくなりたい</title>
+<link>https://qiita.com/maritime/items/f264f2e8c5af2a861d1f</link>
+<guid>c461e78e99162ece62f5895b6249f72e81cf4d2c1e4ef365c900cc698c30a3d7</guid>
+<pubDate>2026-06-14T13:35:13+09:00</pubDate>
+<description>⚙️ Converse APIとは 世界中の家電（AIモデル）をそのまま挿せる『万能マルチ変換プラグ』 AWSのAmazon Bedrockには、Anthropic社のClaudeとか、Meta社のLlamaとか、いろんな会社の優秀なAIモデルが集まっとる。 昔は...</description>
+</item>
+<item>
+<title>【Qiita】 N番煎じでOmnigentをWindows(WSL2)から使ってみる</title>
+<link>https://qiita.com/isanakamishiro2/items/eb74a98f942e448ebbb2</link>
+<guid>646c78db496f0b8e8ee26f35d5d3535e61c335cf8ce6a19060471f1cbf9fcd66</guid>
+<pubDate>2026-06-14T12:10:09+09:00</pubDate>
+<description>久しぶりのN番煎じ記事。 はじめに Databricks社がOSSとしてomnigentを発表しました。 Databricks社公式のblogでも案内されています。 また、安定の弥生さん記事ももう出ています。いつも通り速い！ 非常に関心を持ったので、私も...</description>
+</item>
+<item>
+<title>【Qiita】 Stagehand:壊れるコードか予測不能なAIか、二択を終わらせるブラウザ自動化</title>
+<link>https://qiita.com/Yushi88/items/d445d44f257df70b5f89</link>
+<guid>93fe81954eed16f33b3fb17728e4515934d9a52546f8941dcf30b67044c0eed8</guid>
+<pubDate>2026-06-14T12:08:10+09:00</pubDate>
+<description>月500万件を超えるレシート処理をAIが肩代わりし、財務エージェント全体で月あたり約4,200時間もの手作業を減らす——米国の支出管理サービス Ramp(ランプ)の事例だ(数値は開発元の公式事例による)。調達のエージェントを立ち上げたのは、わずか3人のチームだった。 相手の...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/beyond-vector-similarity-hierarchical-context-aware-graph-rag-vs-standard-rag-in-enterprise-code-migration/</link>
-<guid>a92809c52bc0c2a8d6f5037e1144cfce669b3790051d3ec0c07bdf85f0e315e1</guid>
-<pubDate>Sun, 14 Jun 2026 00:08:35 GMT</pubDate>
+<link>https://research.google/pubs/llm-powered-analysis-of-iot-user-reviews-tracking-and-ranking-security-and-privacy-concerns/</link>
+<guid>e1c15151f1bf83f45c1cf681ac0e1423c850476faead3ab6c243e87155bf9637</guid>
+<pubDate>Sun, 14 Jun 2026 05:13:57 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-73320-9</link>
+<guid>f88364987a4493b047587f008b1720d927cb83e0e33967df74e1f51a73b8879b</guid>
+<pubDate>Sun, 14 Jun 2026 05:14:00 GMT</pubDate>
+<description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02869-y</link>
+<guid>59b3abcd6a4fa934dbd7428fbe78fc1230d62a163e8658801185a92b9817f2d4</guid>
+<pubDate>Sun, 14 Jun 2026 05:14:02 GMT</pubDate>
+<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
 </item>
 
 </channel>
