@@ -4,70 +4,154 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 15 Jun 2026 05:35:24 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 11:47:15 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 ローカルAIの低コスト運用方法について</title>
-<link>https://qiita.com/kijichan/items/30b198f461232b205638</link>
-<guid>e71c0576c5990b64bf3b31af055a412de2e98f75d95f8078faeccf52b42003e5</guid>
-<pubDate>2026-06-15T14:31:00+09:00</pubDate>
-<description>ローカルLLMを動かそうと思った時、AWSで運用する機会がある。 AWSだとGPUインスタンスを使用した際の料金が高い。一方でGPUを使わないとLLMの推論やPrefillが遅くなる。 今回はそのジレンマをどのように改善するのかという視点で書く。 初めに ローカルLLMと...</description>
+<title>【Qiita】 9割のエンジニア未経験者がつまずく『最初の壁』 。それでもアプリを作りたい #3</title>
+<link>https://qiita.com/hitomin_poke/items/621a19d6a1a6500eaca6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>4841949b33e908a638a0a776228cfb9f9c9ee288cf9711f4c0ac81b7cbaf93ff</guid>
+<pubDate>2026-06-15T13:25:24+09:00</pubDate>
+<description>はじめまして。株式会社PRUMでエンジニアをしている人見です。 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、 仕事で起きやすい“ズレ”について整理して発信しています。 誰かの助けになれば幸いです。 9割のエンジニア未経験者がつまずく『最初の壁』 それで...</description>
 </item>
 <item>
-<title>【Qiita】 LLMの長い回答と深掘り質問をツリー構造で管理する ─ OpenCode向けに「Answer Tree sidebar」を開発した</title>
-<link>https://qiita.com/Humanophilic_development/items/6d7f8cb087c5683c1b6f</link>
-<guid>9ec7704d9775e1a736e680f63f855ee7d558fa5a8895eb3428c035b319762ba1</guid>
-<pubDate>2026-06-15T14:15:21+09:00</pubDate>
-<description>はじめに LLM を使って調べ物や実装相談をしていると、1つの回答が長くなることがあります。 長い回答そのものは便利ですが、その後に深掘りしていくと、次のような問題が起きます。 どの回答に対する質問だったのか分からなくなる 前の説明を探すために何度もスクロールする必要...</description>
+<title>【Qiita】 【まとめ】Python はヘビ。Rust はカニ。あなたの言語は何？プログラミング言語の動物たち、11匹集合させてみた！</title>
+<link>https://qiita.com/tomoki-miso/items/9f5764ae814aae9e98a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>9a8762695b4a8ec0f67071667b12ca4ff4ad942615a36c55b9bf175046558227</guid>
+<pubDate>2026-06-14T12:54:41+09:00</pubDate>
+<description>はじめに 言語によって、シンボルまたはマスコットとなっているモノ、ありますよね。 自分がよく使う言語のモチーフを妙に気に入ったり、言語は触ったことないけどシンボルだけ知ってたり。 技術の本筋ではないけど、イメージや愛着の元となるモチーフたち。今回は、動物に絞ってまとめてみ...</description>
 </item>
 <item>
-<title>【Qiita】 【Claude Code】別々のセッション同士を会話させるSkillを作った ─ 「ありがとう→いえいえ」無限ループを止めるまで</title>
-<link>https://qiita.com/kawabe0201/items/2bc126be3502138698fb</link>
-<guid>aebe11a5bea4611d90744acca3739dc84e7de85e37fbbba8e1f173133b3891ac</guid>
-<pubDate>2026-06-15T13:19:09+09:00</pubDate>
-<description>Claude Code を2つ開いていて、ふと思った。「このA、別ウィンドウのBに直接質問できないの？」 答えは「ネイティブには無理」。AとBは独立したセッションで、互いにリクエストを投げ合う仕組みはない。Agent ツールで生まれるのは自分のセッション内のサブエージェント...</description>
+<title>【Qiita】 OWASP Agentic AI Top 10 を Agent の構成要素で整理する</title>
+<link>https://qiita.com/optimisuke/items/535af37a32a9fd850924</link>
+<guid>57ed948cbbfbbf16cba051b8656cc7d7891f736dca9f0f4b43219d7c565bc4d7</guid>
+<pubDate>2026-06-15T17:26:05+09:00</pubDate>
+<description>はじめに OWASP から OWASP Top 10 for Agentic Applications 2026 が公開されてしばらくたちますが、今更ながらざっと読んでみました。Top 10 をそのまま読むと、ASI01: Agent Goal Hijack、ASI02:...</description>
 </item>
 <item>
-<title>【Qiita】 Anthropic Fable 5とMythos 5、3日で消えた史上最高モデル。</title>
-<link>https://qiita.com/Kanade_dev/items/c775be0dd4f86e8b74f8</link>
-<guid>d04c3a53cabd84583a3672cab34316db1b2d1917fe03927af2b5aa80327fb4f6</guid>
-<pubDate>2026-06-15T13:11:29+09:00</pubDate>
-<description>史上最高のAIモデルが三日で消えた。 Anthropicの史上最高モデル 米Anthropicは現地時間6月9日、Mythos5に安全装置を加えたモデル、『Fable5』をリリースした。 このFable5はMythosと性能は全く同じだが、サイバーテロや人対被害を防止する...</description>
+<title>【Qiita】 IBM BobでAWS&amp;AzureのDocumentation MCPサーバーを使ったクラウドサービス比較レポートを作成させてみた</title>
+<link>https://qiita.com/takumiida1/items/04472eed8b988124a5d7</link>
+<guid>49c1674ae2883c49b6261a1c0d56861540eb8ee4f57337738735ae73e6ae8b0f</guid>
+<pubDate>2026-06-15T16:01:26+09:00</pubDate>
+<description>本記事の内容は私的に実施したものであり、個人の感想です。如何なる組織・製品を代表するものでもありません。 Summary IBM BobにAzureおよびAWSの公式ドキュメントMCPサーバーを連携することで、クラウド設計の質問・壁打ちの精度が向上した MCPサ...</description>
 </item>
 <item>
-<title>【自動自律実験】 Bones of Iron Age skeleton were whittled into tools</title>
-<link>https://www.nature.com/articles/d41586-026-01833-w</link>
-<guid>41a698ef06519d61823e86566d6f3a58a4cdb8638f7cea6a5992d2a1f2367920</guid>
+<title>【Qiita】 AIエージェント構築に必要なスキルをIBMのYouTubeをもとに整理した</title>
+<link>https://qiita.com/optimisuke/items/ddb236ce57b734b7758d</link>
+<guid>33431347d13683e0371045cbe2d6c76ece1174ad265d0dae0166fe9cb5d868f6</guid>
+<pubDate>2026-06-15T15:40:35+09:00</pubDate>
+<description>はじめに AI エージェントを作る話を追っていると、プロンプト、RAG、ツール、評価、ガードレール、マルチエージェントなど、いろいろな言葉が一気に出てきます。 自分も「結局どこからどこまで学べばいいんだろう」と混乱しています。そこで、IBM の動画 The 7 Skill...</description>
+</item>
+<item>
+<title>【Qiita】 「+AI」から「AI+ (AIファースト)」へ</title>
+<link>https://qiita.com/optimisuke/items/3c1ecdf1690de5b609fb</link>
+<guid>b11e4a889cdc6cd2563b0386500a7e71ca0ab711a21abc8058ff28d80b5be736</guid>
+<pubDate>2026-06-15T10:59:47+09:00</pubDate>
+<description>はじめに AI を使って、目の前の作業をどんどん楽になってきたかなと思ってます。コードもドキュメントも調べものも速くなって、たしかに便利になりました。 ただ、「自分の仕事に AI を乗せただけ」で、もっと広い視野で作り直さないといけないんじゃないか、という感覚があります。...</description>
+</item>
+<item>
+<title>【Qiita】 AIは資格試験の教材に使えるか（LPICレベル3）</title>
+<link>https://qiita.com/T-Takahashi_gmo-connect/items/de48589cdc58fb90b03a</link>
+<guid>de99667796f319ce122ad736f74bfd5fb9026672ad8cad367529ef303d43dcbb</guid>
+<pubDate>2026-06-15T16:16:47+09:00</pubDate>
+<description>はじめに Linuxエンジニアの最高峰資格の一つであるLPICレベル3（300試験 / 303試験 / 305試験 / 306試験）。 挑戦しようとした時、多くの人が最初にぶつかる壁があります。 「圧倒的に教材（参考書・問題集）が少ない」 レベル1やレベル2であれば、定番の...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Managed Agents の自社サンドボックスとMCPトンネル：エンタープライズ境界内でエージェントを動かす設計判断</title>
+<link>https://qiita.com/YushiYamamoto/items/398b6c20b6b9405607cd</link>
+<guid>96917beddfaccc70bdf5a440406c057ac40ef588b55c42751aa59f0f32f27591</guid>
+<pubDate>2026-06-15T19:00:19+09:00</pubDate>
+<description>2026年5月19日、AnthropicはClaude Managed Agentsに2つの機能を追加した。 自社サンドボックス（Self-Hosted Sandboxes、パブリックベータ）とMCPトンネル（リサーチプレビュー） だ。 これまでのManaged Agent...</description>
+</item>
+<item>
+<title>【Qiita】 【#2】「定額の裏側 — APIとサブスクの価格差から読むフロンティアモデルの経済構造」</title>
+<link>https://qiita.com/yoshiyakato/items/963347db66fce09efc26</link>
+<guid>2c5e1d7f2d1b3c356d2ffa0feaa057c41e893ffcbe71625afba1d3ae6095c6bb</guid>
+<pubDate>2026-06-15T18:20:46+09:00</pubDate>
+<description>定額の裏側(2) 人間の読む速度という天井 — コスト構造説 連載「定額の裏側」第2回。第1回では、価格の壁(API従量)とクォータの柵(定額の利用上限)という二重構造を確定させ、柵の正体を「人工の胃袋」と予告した。本稿では3つの仮説のうち最も機械的で、最も反論しにくい説...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントに組み込んだAgent SkillsをSkillOpsで評価する</title>
+<link>https://qiita.com/licux/items/9c640601a1dde7c18d9f</link>
+<guid>9efbbfa73b74723212031b3c58bcb289ce20cc487e24d1c0849b134055366446</guid>
+<pubDate>2026-06-15T18:06:18+09:00</pubDate>
+<description>はじめに Anthropic社が公開したAgent Skills（スキル）は、SKILL.mdを含めたパッケージで、タスクの実施手順やドメイン知識をLLMに与えることができます。大きな特徴として段階的な開示（Progressive disclosure）があり、必要な時...</description>
+</item>
+<item>
+<title>【Qiita】 # Claude Fable 5の突然のサービス終了から考える：開発コンテキストを単一モデルや閉じたセッションに依存する脆弱性について</title>
+<link>https://qiita.com/memorylakeai/items/37d3802fdfa3f7d8f33b</link>
+<guid>37ff3d79c02726a56b791bdef2eaf34aa65fae4db12a417ac5ab53067c5c07c0</guid>
+<pubDate>2026-06-15T17:51:14+09:00</pubDate>
+<description>2026年6月、AI開発コミュニティは激しい衝撃に見舞われました。Anthropic社が、最新モデル「Claude Fable 5」のサービスを全世界で緊急停止すると突如発表したのです。 リリースからわずか数日後、米国政府の輸出規制令に伴う緊急対応として行われたこの措置は...</description>
+</item>
+<item>
+<title>【環境】 Human health effects of amine-based carbon capture and storage in the US electricity sector</title>
+<link>https://www.nature.com/articles/s41893-026-01869-w</link>
+<guid>474e7a69e47d0c84a028d3db8446027830c6e191fdd92ef2e0c7428ed4e0352a</guid>
 <pubDate>2026-06-15</pubDate>
-<description>The female individual’s brain was removed after her death, but her remains were carefully reassembled for her interment.</description>
+<description>Postcombustion carbon capture and storage (CCS) at power plants can lower CO2 emissions, but the health benefits may depend on the solvents used and control of related NH3 emissions. The authors assess the climate and health impacts of CCS adoption at coal and natural gas combined cycle power plants in the USA.</description>
+</item>
+<item>
+<title>【環境】 Association of mortality and combined oxidative capacity of ozone and nitrogen dioxide</title>
+<link>https://www.nature.com/articles/s41893-026-01875-y</link>
+<guid>2bbe55def185a3b3cb27c191fc212be4e0d44fce4d507ffddfa5edcb7a9e1a09</guid>
+<pubDate>2026-06-15</pubDate>
+<description>Ozone and nitrogen dioxide are air pollutants linked to adverse health outcomes, yet the impacts of their combined oxidative capacity across multiple regions are unclear. The authors assess the association between the combined oxidative capacity of ozone and nitrogen dioxide and daily mortality for 380 cities.</description>
+</item>
+<item>
+<title>【環境】 Rooftop photovoltaic-powered electric vehicle charging for accelerated decarbonization</title>
+<link>https://www.nature.com/articles/s41893-026-01854-3</link>
+<guid>47f3fab2e9cdff9f99cfdd67b6c9cb9db3e28b422b2d1aed3c1c90102e105cff</guid>
+<pubDate>2026-06-15</pubDate>
+<description>Matching rooftop solar output with electric vehicle charging demand remains a barrier to scaling solar-powered transport. A study now evaluates this across 40 global cities, showing that solar generation can meet the demand projected for 2050 with substantial economic and decarbonization benefits.</description>
+</item>
+<item>
+<title>【自動自律実験】 Why people should work together to shape the economy</title>
+<link>https://www.nature.com/articles/d41586-026-01889-8</link>
+<guid>013b4f3cdb1993208196921c74a55ed7137e414be0229598dfff85a9196371a5</guid>
+<pubDate>2026-06-15</pubDate>
+<description>An economist sets out how communities can direct economic decisions and not just endure their consequences.</description>
+</item>
+<item>
+<title>【自動自律実験】 How AI is revealing the secret lives of animals from hummingbirds to pumas</title>
+<link>https://www.nature.com/articles/d41586-026-01887-w</link>
+<guid>094da8966caeca30017aa2dc785c4a134107b39b03e58a699e41b7b86d50e4bd</guid>
+<pubDate>2026-06-15</pubDate>
+<description>Advances in machine learning and other technologies are helping researchers to trace the movements, landmarks and social practices of wildlife.</description>
+</item>
+<item>
+<title>【自動自律実験】 In the field — and sometimes in the lab — the simplest tool is best</title>
+<link>https://www.nature.com/articles/d41586-026-01885-y</link>
+<guid>1fba704878ae18882613c0d0b72acb268ca4c0b1f392128b0bbfe368a8aa5175</guid>
+<pubDate>2026-06-15</pubDate>
+<description>Technology has led to unprecedented innovation, but common household items can help make research more reproducible — and accessible.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/aase-activation-based-ai-safety-enforcement-via-lightweight-probes/</link>
-<guid>ea2c723a1c6d561b860025a06e80c19f09aaaaac84c50829577512a9f54e3db5</guid>
-<pubDate>Mon, 15 Jun 2026 05:34:24 GMT</pubDate>
+<link>https://research.google/pubs/approximate-vs-precise-an-experiment-in-what-impacts-user-choice-when-apps-request-location-access/</link>
+<guid>9dedc5035905762bbb75eb72a0eaf71ca516c1829d6614da7765da8d7d421aec</guid>
+<pubDate>Mon, 15 Jun 2026 11:46:15 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>9c10729c40f935b6565168fbbbeacf6458bf6d209c561642ae00b225258030c3</guid>
-<pubDate>Mon, 15 Jun 2026 05:34:24 GMT</pubDate>
-<description>Sakana AI Blog 戦略調査を数時間で完遂する、自律型リサーチアシスタント「Sakana Marlin」 read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、技術開発主体として採択されている総務省事業「インターネット上の偽・誤情報等への対策技術の開発・実証事業（令和7年度）」において、SNS空間の可視化、総合的な偽情報判定、対策案の立案までを支援するシステム開発を完了しました。 read more read more AIサイエンティストは、多くの可能性の「木」を自律的に探索しながら、科学的ブレイクスルーを見つけだす。Credit: Artwork by CERTO, Inc. read more read more Namazuシリーズ（α版）を搭載したチャットサービス Sakana Chat を公開 read more 画像提供：読売新聞（2026年3月23日） read more read more read more read more read more read more read more r</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>d45e470dd54382084eb847dbd5515e98adc8dfecbfff9dbc2fb4bd068f6b7eb4</guid>
-<pubDate>Mon, 15 Jun 2026 05:34:26 GMT</pubDate>
+<guid>bf0b04535b0ccad01c4c14a3c4d7c62c48f9c7e4dfca2f95e805c1f7b52283b6</guid>
+<pubDate>Mon, 15 Jun 2026 11:46:18 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>dfd6e34d7ae03505eecc446bd6e02e9840df68d8872b3118c73f949d7c8da631</guid>
-<pubDate>Mon, 15 Jun 2026 05:34:28 GMT</pubDate>
+<guid>a12eeee1af7c101228ca06a48787d3f1db76069fe7cb401fabfe5a73bc1e747c</guid>
+<pubDate>Mon, 15 Jun 2026 11:46:20 GMT</pubDate>
 <description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
+</item>
+<item>
+<title>【UK】 Featured</title>
+<link>https://www.linkedin.com/company/scitechgovuk</link>
+<guid>c979de9a75391aba8e234ee2c01367fae47120e1cad8bd5eb8400979c7e35259</guid>
+<pubDate>Mon, 15 Jun 2026 11:46:25 GMT</pubDate>
+<description>Department for Science, Innovation and Technology | 266,994 followers on LinkedIn. Positioning the UK at the forefront of global scientific and technological advancement. | Follow this profile to stay up-to-date with our mission: improving people&amp;#39;s lives by maximising the potential of science &amp;amp; technology.</description>
 </item>
 
 </channel>
