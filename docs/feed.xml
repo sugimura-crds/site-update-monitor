@@ -4,50 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 15 Jun 2026 00:12:15 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 05:35:24 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Qxxxライブラリーで用途がよく知られていないもの</title>
-<link>https://qiita.com/gomAnomalocaris/items/c86350f6fbe3cbe1093f</link>
-<guid>343ff18fa045c58705c52fd49873d15f8b6571a00694e61bb4bc84113ba7fc77</guid>
-<pubDate>2026-06-15T08:30:10+09:00</pubDate>
-<description>雑記帳にメモ書きしたものをもう少し調べてみます。 Library Information for Some Libraries https://www.ibm.com/support/pages/node/644837 ライブラリー名 説明 コメント QDCT...</description>
+<title>【Qiita】 ローカルAIの低コスト運用方法について</title>
+<link>https://qiita.com/kijichan/items/30b198f461232b205638</link>
+<guid>e71c0576c5990b64bf3b31af055a412de2e98f75d95f8078faeccf52b42003e5</guid>
+<pubDate>2026-06-15T14:31:00+09:00</pubDate>
+<description>ローカルLLMを動かそうと思った時、AWSで運用する機会がある。 AWSだとGPUインスタンスを使用した際の料金が高い。一方でGPUを使わないとLLMの推論やPrefillが遅くなる。 今回はそのジレンマをどのように改善するのかという視点で書く。 初めに ローカルLLMと...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Bob / Claude Code でブラウザプレゼンを自動生成するスキル「browser-presentation」</title>
-<link>https://qiita.com/c_u/items/775ab7a411f587456bdf</link>
-<guid>65f3927050acc36d2a2b21462beef79e979bc65ac4dfa033514c9c299491f7f7</guid>
-<pubDate>2026-06-15T08:21:41+09:00</pubDate>
-<description>はじめに 「スライド作り、AI に簡単にお任せできたらいいな」と色々な手法を試す中で、 Claude Code と IBM Bob で動くスキル browser-presentation を作りました。トピックやアウトラインを渡すだけで、ブラウザで動くスライドショーを 3...</description>
+<title>【Qiita】 LLMの長い回答と深掘り質問をツリー構造で管理する ─ OpenCode向けに「Answer Tree sidebar」を開発した</title>
+<link>https://qiita.com/Humanophilic_development/items/6d7f8cb087c5683c1b6f</link>
+<guid>9ec7704d9775e1a736e680f63f855ee7d558fa5a8895eb3428c035b319762ba1</guid>
+<pubDate>2026-06-15T14:15:21+09:00</pubDate>
+<description>はじめに LLM を使って調べ物や実装相談をしていると、1つの回答が長くなることがあります。 長い回答そのものは便利ですが、その後に深掘りしていくと、次のような問題が起きます。 どの回答に対する質問だったのか分からなくなる 前の説明を探すために何度もスクロールする必要...</description>
 </item>
 <item>
-<title>【Qiita】 VS CodeでローカルLLMを使ってAIコーディングする方法</title>
-<link>https://qiita.com/BlackFox/items/09dfaa56a82ed115a3cd</link>
-<guid>e598730f5e5f4921184612c8d66750f518cca5fb6f4b0caa5e1c848c4c219f2a</guid>
-<pubDate>2026-06-15T08:50:31+09:00</pubDate>
-<description>VS Code の AI チャットで、Ollama 上のローカル LLM を選べるようにしたので、設定手順と使いどころをまとめます。 この記事では、VS Code の GitHub Copilot Chat / Chat ビューから Ollama のモデルを選び、ローカルモ...</description>
+<title>【Qiita】 【Claude Code】別々のセッション同士を会話させるSkillを作った ─ 「ありがとう→いえいえ」無限ループを止めるまで</title>
+<link>https://qiita.com/kawabe0201/items/2bc126be3502138698fb</link>
+<guid>aebe11a5bea4611d90744acca3739dc84e7de85e37fbbba8e1f173133b3891ac</guid>
+<pubDate>2026-06-15T13:19:09+09:00</pubDate>
+<description>Claude Code を2つ開いていて、ふと思った。「このA、別ウィンドウのBに直接質問できないの？」 答えは「ネイティブには無理」。AとBは独立したセッションで、互いにリクエストを投げ合う仕組みはない。Agent ツールで生まれるのは自分のセッション内のサブエージェント...</description>
 </item>
 <item>
-<title>【Qiita】 Loop Engineering徹底解説：自律エージェントを「動く」から「運用できる」へ</title>
-<link>https://qiita.com/Simon_Zhang/items/388cd1125860591f5c8d</link>
-<guid>772c4bb25d41a14c6268c940f4b9c46eb49ff0e21b65ee31e185c15adf3f14bf</guid>
-<pubDate>2026-06-15T08:59:08+09:00</pubDate>
-<description>AIエージェント開発において、単に「LLMにツールを渡す」だけでは本番運用に耐えません。重要なのは、エージェントが 何を見て、どう判断し、どう行動し、いつ止まり、どう改善するか を制御する「Loop（ループ）」の設計です。本記事では、Loop Engineeringを体系...</description>
+<title>【Qiita】 Anthropic Fable 5とMythos 5、3日で消えた史上最高モデル。</title>
+<link>https://qiita.com/Kanade_dev/items/c775be0dd4f86e8b74f8</link>
+<guid>d04c3a53cabd84583a3672cab34316db1b2d1917fe03927af2b5aa80327fb4f6</guid>
+<pubDate>2026-06-15T13:11:29+09:00</pubDate>
+<description>史上最高のAIモデルが三日で消えた。 Anthropicの史上最高モデル 米Anthropicは現地時間6月9日、Mythos5に安全装置を加えたモデル、『Fable5』をリリースした。 このFable5はMythosと性能は全く同じだが、サイバーテロや人対被害を防止する...</description>
+</item>
+<item>
+<title>【自動自律実験】 Bones of Iron Age skeleton were whittled into tools</title>
+<link>https://www.nature.com/articles/d41586-026-01833-w</link>
+<guid>41a698ef06519d61823e86566d6f3a58a4cdb8638f7cea6a5992d2a1f2367920</guid>
+<pubDate>2026-06-15</pubDate>
+<description>The female individual’s brain was removed after her death, but her remains were carefully reassembled for her interment.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/rethinking-context-enriched-time-series-forecasting-evaluation/</link>
-<guid>ce3fa27e5849d3b5883f578eb7ef1faaa5a541d7f118b24e014aa28d02aa97b6</guid>
-<pubDate>Mon, 15 Jun 2026 00:11:44 GMT</pubDate>
+<link>https://research.google/pubs/aase-activation-based-ai-safety-enforcement-via-lightweight-probes/</link>
+<guid>ea2c723a1c6d561b860025a06e80c19f09aaaaac84c50829577512a9f54e3db5</guid>
+<pubDate>Mon, 15 Jun 2026 05:34:24 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>04a6baa1d26b51f5a26a662fe62287d180453f4cb21d3cfcf3ea0c81273b66d6</guid>
-<pubDate>Mon, 15 Jun 2026 00:11:58 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>9c10729c40f935b6565168fbbbeacf6458bf6d209c561642ae00b225258030c3</guid>
+<pubDate>Mon, 15 Jun 2026 05:34:24 GMT</pubDate>
+<description>Sakana AI Blog 戦略調査を数時間で完遂する、自律型リサーチアシスタント「Sakana Marlin」 read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、技術開発主体として採択されている総務省事業「インターネット上の偽・誤情報等への対策技術の開発・実証事業（令和7年度）」において、SNS空間の可視化、総合的な偽情報判定、対策案の立案までを支援するシステム開発を完了しました。 read more read more AIサイエンティストは、多くの可能性の「木」を自律的に探索しながら、科学的ブレイクスルーを見つけだす。Credit: Artwork by CERTO, Inc. read more read more Namazuシリーズ（α版）を搭載したチャットサービス Sakana Chat を公開 read more 画像提供：読売新聞（2026年3月23日） read more read more read more read more read more read more read more r</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-73320-9</link>
+<guid>d45e470dd54382084eb847dbd5515e98adc8dfecbfff9dbc2fb4bd068f6b7eb4</guid>
+<pubDate>Mon, 15 Jun 2026 05:34:26 GMT</pubDate>
+<description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02869-y</link>
+<guid>dfd6e34d7ae03505eecc446bd6e02e9840df68d8872b3118c73f949d7c8da631</guid>
+<pubDate>Mon, 15 Jun 2026 05:34:28 GMT</pubDate>
+<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
 </item>
 
 </channel>
