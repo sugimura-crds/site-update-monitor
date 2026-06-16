@@ -4,63 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 16 Jun 2026 19:28:36 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 22:00:46 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Google A2UI入門 — AIエージェントがUIを直接生成するオープン標準をPythonで実装する</title>
-<link>https://qiita.com/kai_kou/items/e4f81badcceec8801b75</link>
-<guid>06a5d2d01c8d34d5b6d39da9be48dd306350c3c98fd429f1c85f7ff5367656d1</guid>
-<pubDate>2026-06-17T03:06:40+09:00</pubDate>
-<description>はじめに AIエージェントがAPIを呼び出したりデータを取得したりするのは、もはや当たり前の時代です。では、エージェントが ユーザーインターフェース（UI）自体を動的に生成する とどうなるでしょうか？ Googleが2026年4月17日に発表した A2UI（Agent ...</description>
+<title>【Qiita】 「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話</title>
+<link>https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>c34200d2994aa1e979fce8e4206bc1caf4f8388e9562851efbe8b6c024dca99c</guid>
+<pubDate>2026-06-14T17:08:05+09:00</pubDate>
+<description>この記事は Qiita Tech Festa 2026「この記事誰得？ 私しか得しないニッチな技術で記事投稿！」 の参加記事です。 はじめに みなさん、文字列の全角・半角判定、どうやってますか？ 大半の人はこう答えるでしょう。 「正規表現で /[^\x20-\x7E]/ ...</description>
 </item>
 <item>
-<title>【Qiita】 A2A Protocol v1.0入門 — 150組織採用のエージェント間通信標準をPythonで実装する</title>
-<link>https://qiita.com/kai_kou/items/2da6858dd90525b03c12</link>
-<guid>06a2cbfc16c83395a720ded946e7c1d908d1dac26d8be1f62c3e3c1ac549ea74</guid>
-<pubDate>2026-06-17T03:06:37+09:00</pubDate>
-<description>はじめに 2025年4月9日にGoogleが発表した Agent2Agent（A2A）プロトコル が、1周年を迎えた2026年4月に v1.0正式リリース を達成しました。 AWS、Microsoft、Salesforce、SAP、ServiceNow を含む 150以上...</description>
+<title>【Qiita】 VRAM 12GBでQwen 35Bを動かす — エキスパートをGPUに載せないほど速くなった話</title>
+<link>https://qiita.com/kenimo49/items/dff3c8a2a0ee563ca16f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>55958725056bb5de4f2c17c0b516bf2d0c199687cc28813396c968194a458d38</guid>
+<pubDate>2026-06-15T10:27:14+09:00</pubDate>
+<description>3か月前、私は同じRTX 4070でこんな検証記事を書きました。結論は「35BのMoEモデルは、待てるなら動く」。測ったのは10.6 tok/s。動くには動くが、チャットで使うには指が止まる速度です。 先週、同じGPU・同じモデルで測り直したら34.6 tok/sが出ました...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントがスケールしない本当の理由——価値プールから逆算する投資判断フレームワーク</title>
-<link>https://qiita.com/ariefwara/items/52b04938b88011e3eff5</link>
-<guid>5975b5c90cd81c375f2e9a145f142a077cac6a7bc30015a768747cd50d2c850c</guid>
-<pubDate>2026-06-17T01:15:19+09:00</pubDate>
-<description>この記事で扱うこと AIエージェントのPoC（概念実証）は通った。デモは盛り上がった。しかし「本番でどのくらいの価値が出るのか？」と聞かれて答えに窮した経験はないだろうか。 本記事では、「パイロット地獄（pilot purgatory）」から脱出するための実践的な投資判断...</description>
+<title>【Qiita】 経験20年のエンジニアがAIと1年協働して変わったこと・変わらなかったこと</title>
+<link>https://qiita.com/vcmacky/items/660d6405dd4fb64a617d</link>
+<guid>9453de0da550a95ec7564e617d292dd47d49b2473e9ab52311ee0902b6a20364</guid>
+<pubDate>2026-06-17T05:54:36+09:00</pubDate>
+<description>「AIに仕事を奪われる」ではなく「AIと一緒に考える」に切り替えたら、働き方が根本から変わった。 筆者はフルスタックエンジニア歴20年超。金融系Webサービスを主戦場にしてきた。 Claude（Anthropicが提供するAI）を本格的に業務導入して約1年が経った今、 ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/guide-a-benchmark-for-user-context-understanding-and-assistance-in-gui-workflow-videos/</link>
-<guid>58d5ae69002fb2075b36b2f257d0db11c582bbfb5f3ebeceac6fefbb847508d7</guid>
-<pubDate>Tue, 16 Jun 2026 19:28:00 GMT</pubDate>
+<link>https://research.google/pubs/unveiling-the-global-landscape-of-android-security-updates/</link>
+<guid>2d9f030d7d753c7c6ba8c0e9455cb5491a951c96872607cb424dc07120c2a887</guid>
+<pubDate>Tue, 16 Jun 2026 21:59:40 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>25787872c5e9a4ab2df5ee5500152b0ab71845bde861919a3f3d2697618003e4</guid>
-<pubDate>Tue, 16 Jun 2026 19:28:03 GMT</pubDate>
+<guid>26a01fd07fd69233b8016f1da65e11d7689369c441edebb0dc6378de179233b6</guid>
+<pubDate>Tue, 16 Jun 2026 21:59:43 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>1fea3b54561a92445314bfc45cd296ef9385f707574e85e14b8eb379e670e20b</guid>
-<pubDate>Tue, 16 Jun 2026 19:28:05 GMT</pubDate>
-<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>89914b4abf6d524ec39f414d49cbbdac7fef3ed8ecf7f502c3e9ab7816d0c98e</guid>
-<pubDate>Tue, 16 Jun 2026 19:28:17 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>d1dcfb39e6219f4b634ef4bc00262ebb50bfcb110b770dfc750afa596190fc4f</guid>
-<pubDate>Tue, 16 Jun 2026 19:28:26 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
