@@ -4,119 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 16 Jun 2026 15:50:03 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 19:28:36 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントは開発組織をどう変えるのか、調査結果から整理した</title>
-<link>https://qiita.com/optimisuke/items/5f52683bb775b23c8e31</link>
-<guid>3c7d055bccc3f07602a861f25673cf49e512b7351a1ecef494a07bff5bc7da8d</guid>
-<pubDate>2026-06-16T22:00:17+09:00</pubDate>
-<description>はじめに Claude Code、Codex、Devin などの AI コーディングエージェントを使う組織が増えてきていると思います。実装、調査、テスト追加、レビュー観点の洗い出しなど、すでに開発の進め方はかなり変わっています。 一方で、「AI があるから開発組織は小さく...</description>
+<title>【Qiita】 Google A2UI入門 — AIエージェントがUIを直接生成するオープン標準をPythonで実装する</title>
+<link>https://qiita.com/kai_kou/items/e4f81badcceec8801b75</link>
+<guid>06a5d2d01c8d34d5b6d39da9be48dd306350c3c98fd429f1c85f7ff5367656d1</guid>
+<pubDate>2026-06-17T03:06:40+09:00</pubDate>
+<description>はじめに AIエージェントがAPIを呼び出したりデータを取得したりするのは、もはや当たり前の時代です。では、エージェントが ユーザーインターフェース（UI）自体を動的に生成する とどうなるでしょうか？ Googleが2026年4月17日に発表した A2UI（Agent ...</description>
 </item>
 <item>
-<title>【Qiita】 日本のお客様向け Azure Policy 実践ガイド ～Built-in だけで始めるガバナンス～</title>
-<link>https://qiita.com/ManabuYamamoto/items/2ebd3670261449364b1e</link>
-<guid>dead609ad93c128067b495b38e614a4424a3c1123f70d81f515da043d36aa908</guid>
-<pubDate>2026-06-16T22:25:20+09:00</pubDate>
-<description>本記事は GitHub Copilot および Microsoft Foundry を活用して作成されています。内容の正確性については各公式ドキュメントをご確認ください。 クラウドのガバナンスを語るうえで避けて通れないのが Azure Policy です。 本記事では「...</description>
+<title>【Qiita】 A2A Protocol v1.0入門 — 150組織採用のエージェント間通信標準をPythonで実装する</title>
+<link>https://qiita.com/kai_kou/items/2da6858dd90525b03c12</link>
+<guid>06a2cbfc16c83395a720ded946e7c1d908d1dac26d8be1f62c3e3c1ac549ea74</guid>
+<pubDate>2026-06-17T03:06:37+09:00</pubDate>
+<description>はじめに 2025年4月9日にGoogleが発表した Agent2Agent（A2A）プロトコル が、1周年を迎えた2026年4月に v1.0正式リリース を達成しました。 AWS、Microsoft、Salesforce、SAP、ServiceNow を含む 150以上...</description>
 </item>
 <item>
-<title>【Qiita】 実戦テンプレート集──Plan、Work、Review、Compoundをそのまま貼って使う 第8回</title>
-<link>https://qiita.com/gaop2560/items/dab71d0b30e3be13cb3f</link>
-<guid>1cee8d31f8311ab9ce45e357f4130a914a3bfad0a55ef4536b44f02d2600559a</guid>
-<pubDate>2026-06-16T22:31:15+09:00</pubDate>
-<description>ここまで、AIエージェントを開発工程に入れる方法を分けて書いてきました。 Plan。 Work。 Review。 Compound。 sandbox。 tools。 調査。 Codex App。 今回はテンプレート集です。 考え方だけでは、毎日の作業に戻りにくい。 だから、...</description>
-</item>
-<item>
-<title>【Qiita】 2026年上半期を振り返る — Claude Code・生成AI界隈の個人開発者目線まとめ</title>
-<link>https://qiita.com/kotaro_ai_lab/items/b34f4ec28737255a669e</link>
-<guid>9df3cd62c98dc2751f7995f581b6246d9118e0fd89661b4a836c634235faccfc</guid>
-<pubDate>2026-06-16T21:40:32+09:00</pubDate>
-<description>株式会社Good Labでエンジニアをしている コータロー です。 日々、Java・SQL・Gitなどの技術情報や、新人エンジニア向けの学習ノウハウ、 AI活用についての情報を発信しています。 Good Labについて気になった方は、コーポレートサイトもぜひご覧ください。 ...</description>
-</item>
-<item>
-<title>【Qiita】 MXC、OpenClaw、Microsoft Scoutの違いとは？WindowsでAIエージェントを安全に動かす仕組みを整理する</title>
-<link>https://qiita.com/ochtum/items/b633f25bb9e1aa05a09c</link>
-<guid>702346cfe4dd0026203d3249530be8791c2aae0fed6fa24fd386cda63f5bbc06</guid>
-<pubDate>2026-06-16T21:14:27+09:00</pubDate>
-<description>※お役に立てたらストック、いいねをよろしくお願いします！！ ＜本記事のターゲット層＞ Microsoft Build 2026の発表内容を追っていて、MXCとScoutの違いを整理したい人 OpenClawやローカルAIエージェントをWindowsで試してみたい人...</description>
-</item>
-<item>
-<title>【Qiita】 CAPTCHAを突破するのが、もう人間より得意なのはAIかもしれない</title>
-<link>https://qiita.com/abkkk/items/a2379402dd562affb5ff</link>
-<guid>cc0fe60f876ba161a3db2ca2dad60b62ace470b3799c157bb007f70adfd1ff72</guid>
-<pubDate>2026-06-16T20:16:50+09:00</pubDate>
-<description>「信号機のある画像をすべて選んでください」 このメッセージを見たことのない開発者はほとんどいないだろう。reCAPTCHAはGoogleが提供するボット判別の仕組みで、長年Webサービスの標準的なスパム対策として使われてきた。しかし2024年以降、その前提が静かに崩れ始めて...</description>
-</item>
-<item>
-<title>【農業】 SOFIA 2026: Global fisheries and aquaculture production reaches new highs</title>
-<link>https://www.fao.org/newsroom/detail/sofia-2026--global-fisheries-and-aquaculture-production-reaches-new-highs/en</link>
-<guid>5fae53d50bfc813b2c20f640962345a5c809d850ed072166c837be6da3db6232</guid>
-<pubDate>Tue, 16 Jun 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【自動自律実験】 Author Correction: Ontogeny and transcriptional regulation of Thetis cells</title>
-<link>https://www.nature.com/articles/s41586-026-10770-7</link>
-<guid>2f9d98729751507a21104894fd2b16cb13f695e018859be6f3afe7d43177f2f9</guid>
-<pubDate>2026-06-16</pubDate>
-<description>Author Correction: Ontogeny and transcriptional regulation of Thetis cells</description>
-</item>
-<item>
-<title>【自動自律実験】 Terms of endearment? Bias in first-name eponyms for species named after people</title>
-<link>https://www.nature.com/articles/d41586-026-01916-8</link>
-<guid>6346b55fb792725b6c2707f618c371d89065a47494a4a8dcf229ff0473fcf7ca</guid>
-<pubDate>2026-06-16</pubDate>
-<description>Terms of endearment? Bias in first-name eponyms for species named after people</description>
-</item>
-<item>
-<title>【自動自律実験】 The Haber–Bosch fertilizer production process should be taught through a social-ecological lens</title>
-<link>https://www.nature.com/articles/d41586-026-01914-w</link>
-<guid>7e1657e74c2152fb78614b767aba9d4c19a75b7351953f2cb68a01d0eca407e4</guid>
-<pubDate>2026-06-16</pubDate>
-<description>The Haber–Bosch fertilizer production process should be taught through a social-ecological lens</description>
-</item>
-<item>
-<title>【自動自律実験】 How do researchers choose what to work on?</title>
-<link>https://www.nature.com/articles/d41586-026-01811-2</link>
-<guid>928bc94d52beca98e172845a4283d0b251b2bb3f09ba76d2278a56feb936aa49</guid>
-<pubDate>2026-06-16</pubDate>
-<description>A scientist’s account of switching focus to tackle pressing problems, and researchers consider the best way to preserve eggs, in our weekly dip into Nature’s archive.</description>
-</item>
-<item>
-<title>【自動自律実験】 El Niño in a thermally saturated world</title>
-<link>https://www.nature.com/articles/d41586-026-01915-9</link>
-<guid>b9eddae2696f02a2a851c4bcd2a6f52a211f6580541f71f2026852826a41b289</guid>
-<pubDate>2026-06-16</pubDate>
-<description>El Niño in a thermally saturated world</description>
+<title>【Qiita】 AIエージェントがスケールしない本当の理由——価値プールから逆算する投資判断フレームワーク</title>
+<link>https://qiita.com/ariefwara/items/52b04938b88011e3eff5</link>
+<guid>5975b5c90cd81c375f2e9a145f142a077cac6a7bc30015a768747cd50d2c850c</guid>
+<pubDate>2026-06-17T01:15:19+09:00</pubDate>
+<description>この記事で扱うこと AIエージェントのPoC（概念実証）は通った。デモは盛り上がった。しかし「本番でどのくらいの価値が出るのか？」と聞かれて答えに窮した経験はないだろうか。 本記事では、「パイロット地獄（pilot purgatory）」から脱出するための実践的な投資判断...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/smarter-tools-weaker-minds-introducing-the-ctrl-theory-of-youthai-dependency/</link>
-<guid>f3ccd1e9394a1191a5257c38e013e35b08d26efaf0ee4be8a5a6f89ca3d5a060</guid>
-<pubDate>Tue, 16 Jun 2026 15:48:58 GMT</pubDate>
+<link>https://research.google/pubs/guide-a-benchmark-for-user-context-understanding-and-assistance-in-gui-workflow-videos/</link>
+<guid>58d5ae69002fb2075b36b2f257d0db11c582bbfb5f3ebeceac6fefbb847508d7</guid>
+<pubDate>Tue, 16 Jun 2026 19:28:00 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>72d2e325c10c72d701b013ba7099e3f06f4484372611076b796a1545e61f6c9e</guid>
-<pubDate>Tue, 16 Jun 2026 15:49:01 GMT</pubDate>
+<guid>25787872c5e9a4ab2df5ee5500152b0ab71845bde861919a3f3d2697618003e4</guid>
+<pubDate>Tue, 16 Jun 2026 19:28:03 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>f991ea39729c5d79823bd9398ad4bd5ed29790820a0be6ec4cc01e3c5fb0cad3</guid>
-<pubDate>Tue, 16 Jun 2026 15:49:03 GMT</pubDate>
+<guid>1fea3b54561a92445314bfc45cd296ef9385f707574e85e14b8eb379e670e20b</guid>
+<pubDate>Tue, 16 Jun 2026 19:28:05 GMT</pubDate>
 <description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
 </item>
 <item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>755ddcf401b2e9101812fca1a09386f0e05f567d58f9cd869b0da20a0e2421c2</guid>
-<pubDate>Tue, 16 Jun 2026 15:49:50 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>89914b4abf6d524ec39f414d49cbbdac7fef3ed8ecf7f502c3e9ab7816d0c98e</guid>
+<pubDate>Tue, 16 Jun 2026 19:28:17 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+</item>
+<item>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>d1dcfb39e6219f4b634ef4bc00262ebb50bfcb110b770dfc750afa596190fc4f</guid>
+<pubDate>Tue, 16 Jun 2026 19:28:26 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
