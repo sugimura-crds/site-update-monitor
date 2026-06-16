@@ -4,56 +4,127 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 16 Jun 2026 00:24:55 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 05:43:49 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 プロフェッショナルTLS＆PKI (Bulletproof TLS and PKI) 改題第2版を読む⑨ 第3章-14 SSL, TLSのバージョン間の相違点</title>
-<link>https://qiita.com/gomAnomalocaris/items/7227a3d5067a60866d94</link>
-<guid>53c1f4119afe31ba213eb9fde3ca5802ff8f9a36f96bb85ab7f270d84b17af95</guid>
-<pubDate>2026-06-16T08:35:54+09:00</pubDate>
-<description>原書ちょっとスキップしましてSSL3からTLS 1.3までの発展の歴史（相違点）についてまとめてみます。他に有益、詳細な記事が多数ありますので詳細はそちらを参照いただくとして、まずは個人の学習メモです。 SSL3以降、プロトコルの中核には大きな変更はないものの具体的に見てい...</description>
+<title>【Qiita】 IBM Cloud: RackWare Management Module(RMM)を使ったVMware環境からのVPCへの移行</title>
+<link>https://qiita.com/shiyasu/items/8ae2107b924ce10cfc79</link>
+<guid>b9fd88e29969dfc82e211565268cd402e72445a6d5cf1ed178910f42a5fa2532</guid>
+<pubDate>2026-06-16T10:46:27+09:00</pubDate>
+<description>1. はじめに IBM Cloudでは、RackWare Management Module(RMM)というSelf Managedの移行ツールが提供されています。本稿では、このツールを使って、IBM CloudのVMware環境上のVM(source server)から...</description>
 </item>
 <item>
-<title>【Qiita】 AIを使うようになって、エンジニアの仕事の見え方が変わってきた</title>
-<link>https://qiita.com/tikomo/items/3aa4a0b09c81dd359e87</link>
-<guid>75e7c8c8bb5881d4e70ac4f9cc489e460c9e39754ffea70c551a9415977734e4</guid>
-<pubDate>2026-06-16T09:06:02+09:00</pubDate>
-<description>この記事は、これまで自分が書いてきたAI活用・AIエージェント・エンジニアの役割に関する記事を、自分なりの流れで並べたインデックスです。 最初から連載として設計していたわけではありません。 そのときどきに、自分がAIを使いながら感じた違和感や変化を、少しずつ言葉にしてき...</description>
+<title>【Qiita】 大規模レガシー移行（Java8 EOL）の品質保証をAIとIPA統計データで科学する：指標抽出から妥当性検証までの自動化プロセス</title>
+<link>https://qiita.com/kane_ryu/items/4aea3933cbd0c3b3a973</link>
+<guid>509cfc2c3c532dddee9ed37a6ac4451022746e043d21ea48b0a376ed0123b137</guid>
+<pubDate>2026-06-16T11:32:25+09:00</pubDate>
+<description>はじめに 「このプロジェクトのテスト密度は業界平均と比べてどうですか？」 大規模なフレームワーク刷新プロジェクトのレビューで、こういう質問が飛んでくることがあります。「感覚的には十分テストしています」では通らない場面です。 今回のプロジェクトは Java8 EOL対応のフ...</description>
 </item>
 <item>
-<title>【Qiita】 LlamaIndexとLangGraphで構築する「自己修正型RAG」：サブクエリ分解と自律評価による高度な外部知識統合</title>
-<link>https://qiita.com/jjking/items/8ee692f2709474d5561c</link>
-<guid>997171b994b504a03f7486f01586eb7c4812ea70492b683d7335da2cc359c0a1</guid>
-<pubDate>2026-06-16T07:43:27+09:00</pubDate>
-<description>📖 この記事は、前回の記事「エージェントRAG（Agentic RAG）導入のための5ステップ：外部知識取り込みとワークフローの設計実践テンプレート」の続編です。 前回の内容をさらに深掘り・発展させてお届けします。まだお読みでない方は、先に前回の記事 エージェントRAG（...</description>
+<title>【Qiita】 手作業のメンテ設定をやめたい DB更新・定期作業を自動化</title>
+<link>https://qiita.com/gmo-connect-ogawa/items/a64519d20df28f14d16f</link>
+<guid>ef5a8818457542943d72339fc971ab06ba989a28ac4e1d0fc6997497d30486b8</guid>
+<pubDate>2026-06-16T11:20:53+09:00</pubDate>
+<description>はじめに GMOコネクトの小川です。 「手順書どおりにSQLを手で書いて、cronを手で直して、台帳に記録して……」という&quot;決まりきっているのに自動化されていない作業&quot;、現場にありませんか😇 今回はそれをPythonツール1本に畳み込んだ話です。 システム運用の現場には、...</description>
 </item>
 <item>
-<title>【Qiita】 そのAIエージェント、デフォルトで安全？ Codex / Claude Code / Antigravity を3つの姿勢で比較</title>
-<link>https://qiita.com/Ju571nK/items/cfba243a6f1c49681224</link>
-<guid>3733de8114403953ad3f25023d5e2aef6b6b8a8158bdaf52bf6992b1db7a2c31</guid>
-<pubDate>2026-06-16T07:38:17+09:00</pubDate>
-<description>by Ju571nK · 2026 この記事は比較表の項目「そのものの概念とリスク」を説明するもので、特定製品を評価するものではない。 基準日: 2026-06 AIコーディングエージェントのセキュリティを語るとき、よく「プロキシでトラフィックを監視する」を思い浮かべる...</description>
+<title>【Qiita】 Claude Code Coworkモードの制約を克服する：作業状況md化によるコンテキスト永続化テクニック</title>
+<link>https://qiita.com/hoshi-gmoconnect/items/ee79b670d7913567f84c</link>
+<guid>bba396b73d9f8d46fbfb0e4fad80b1ee5871fc263067293f0165f025dd8bdb41</guid>
+<pubDate>2026-06-16T11:15:15+09:00</pubDate>
+<description>はじめに 「昨日の続きをやって」 そう伝えると、Claudeはこう返します。 「どのような作業を続けますか？詳しく教えてください」 ……思わずため息が出ます。昨日あれだけ説明したのに、また最初から？ Claude CodeのCoworkモードは、ドキュメント作成・リサ...</description>
 </item>
 <item>
-<title>【自動自律実験】 ‘Every box has been opened’: London botanic gardens digitizes 7 million specimens</title>
-<link>https://www.nature.com/articles/d41586-026-01917-7</link>
-<guid>2273995b65a6f9d3888703e7abc09157f10b02d94fbe1b8d6e98b6d52933ce9c</guid>
-<pubDate>2026-06-15</pubDate>
-<description>As Kew Botanic Gardens completes a scan of its collections, AI tools could help in the fight against biodiversity loss.</description>
+<title>【Qiita】 日刊IETF (2026-05-23): エージェント決済の説明責任と遠隔の環境証明、そして宇宙のIPv6</title>
+<link>https://qiita.com/tetsuko_room/items/3ed30cfb6f654a4776c6</link>
+<guid>c1c813fdb7ac3fb178801424dcd2ea08921dd8bebfd2ff38483fd686038208e0</guid>
+<pubDate>2026-06-16T10:42:12+09:00</pubDate>
+<description>こんにちは、GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-23（UTC基準）に公開されたInter...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェント時代に「MBSE (モデルベースシステムズエンジニアリング) と アプリケーションライフサイクル管理基盤」は生き残るか</title>
+<link>https://qiita.com/optimisuke/items/724ba0805c887a42d9ab</link>
+<guid>22a6ebd846612688078a3c6ff940f76ac9d5cd712739021cb4246dbe2b256ab1</guid>
+<pubDate>2026-06-16T13:09:32+09:00</pubDate>
+<description>はじめに AIエージェントやコーディングAIが当たり前になってくると、MBSE (モデルベースシステムズエンジニアリング)や、要求・設計・テストを管理する基盤はこの先どうなるのか、というのが気になっていました。 コードはAIがかなり書いてくれるようになりつつあります。一...</description>
+</item>
+<item>
+<title>【Qiita】 仕様書どうりですけど何か？</title>
+<link>https://qiita.com/jbgoode-social/items/bc721a8f229d518e4aea</link>
+<guid>3797f969365c389a3414fb4c51768a4fed2ef94f9e869f8a74f2c16a3b3e5784</guid>
+<pubDate>2026-06-16T13:06:12+09:00</pubDate>
+<description>システム開発の現場にいると、たまに「誰も悪くないのに、誰も幸せにならないシステム」が完成してしまう瞬間に出会う。 PMは、現場の要望を丁寧にヒアリングして完璧な要件定義書を作った。 ディレクターは、その仕様をきれいにBacklogのチケットに分解した。 デザイナーは、美しい...</description>
+</item>
+<item>
+<title>【Qiita】 ソフトウェアとプログラマーに、まだ未来はあるのか</title>
+<link>https://qiita.com/TianqiYuan/items/56faf0f5a1510ad3c5bb</link>
+<guid>bf553cc995dcbda6485d8815de805f1bbf7bba2bf94536a471c3b9eb9b2eae46</guid>
+<pubDate>2026-06-16T12:49:36+09:00</pubDate>
+<description>オリジナルの公開場所: https://www.nocobase.com/ja/blog/future-of-software-programmers-revenue-doubled はじめに 半年前、NocoBase 2.0 をリリースしたとき、私たちは2本目の総括記事...</description>
+</item>
+<item>
+<title>【Qiita】 【#3】「定額の裏側 — APIとサブスクの価格差から読むフロンティアモデルの経済構造」</title>
+<link>https://qiita.com/yoshiyakato/items/4da513f8347f00852039</link>
+<guid>6908e437ccac175a46a0c27f7d2d00cfe69cb8b4c51ed7a20c7b30a8fd19e1f8</guid>
+<pubDate>2026-06-16T11:49:21+09:00</pubDate>
+<description>定額の裏側(3) Pay Attention Is All You Need to use — 認知吸収説 連載「定額の裏側」第3回。第2回「人間の読む速度が天井である」のコスト構造説は「なぜサブスクが安くても破綻しないか」を説明した。しかし「なぜ破綻しない程度に安くする...</description>
+</item>
+<item>
+<title>【Qiita】 How AI Is Transforming Packaging Efficiency in Modern Businesses</title>
+<link>https://qiita.com/intellectyx/items/cc14b9812f8da394a1c6</link>
+<guid>907a36648cac7c9e12c2c724e7789edca84e76f52121c2b78a34c6d0360bed3c</guid>
+<pubDate>2026-06-16T13:53:31+09:00</pubDate>
+<description>Packaging has become a critical cost and sustainability factor in modern supply chains. As e-commerce and global logistics continue to gr...</description>
+</item>
+<item>
+<title>【Qiita】 SurrealDB・ArangoDB・ArcadeDB比較で学ぶマルチモデルDB選定ガイド</title>
+<link>https://qiita.com/0h-n0/items/e26c664d93bda7694a41</link>
+<guid>63aa1aa2e62b8335c6a595ed0bfb2fdfdf288e5f3e5898a7ded7077fa00a907d</guid>
+<pubDate>2026-06-16T11:28:13+09:00</pubDate>
+<description>SurrealDB・ArangoDB・ArcadeDB比較で学ぶマルチモデルDB選定ガイド この記事でわかること マルチモデルデータベースの5つのアーキテクチャ分類と、それぞれの設計思想の違い SurrealDB 3.0・ArangoDB 3.12・ArcadeDBの...</description>
+</item>
+<item>
+<title>【Qiita】 AI Video Effectsで静止画を動画化：クリエイターのための次世代ビジュアルストーリーテリング</title>
+<link>https://qiita.com/Eshion/items/5da9cb496d98c445daa9</link>
+<guid>dbdae4994f758217796489ac291c8b43b07a26198e7939accb8eca102e6c3b8f</guid>
+<pubDate>2026-06-16T11:23:43+09:00</pubDate>
+<description>AI Video Effectsで静止画を動画化：クリエイターのための次世代ビジュアルストーリーテリング はじめに 写真（静止画）は、これまで強力なストーリーテリングの手段として定着してきました。しかし現在、主要なデジタルプラットフォームやSNS（Instagram R...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/unveiling-the-global-landscape-of-android-security-updates/</link>
-<guid>cb55beea7f6dc2813958b183f78220272c7549b0bc19f60abbac5a36aeaba755</guid>
-<pubDate>Tue, 16 Jun 2026 00:23:50 GMT</pubDate>
+<link>https://research.google/pubs/a-framework-for-interactive-machine-learning-and-enhanced-conversational-systems/</link>
+<guid>da9019696305dbdc2cb739f35929edab3010736e696fb590408803c396a82d9e</guid>
+<pubDate>Tue, 16 Jun 2026 05:42:58 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04403-9</link>
-<guid>8ffd28c5f12c49e9b000a84d59015ec4f7e02272774cb9c18fdf8b583f560fed</guid>
-<pubDate>Tue, 16 Jun 2026 00:24:00 GMT</pubDate>
-<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-73320-9</link>
+<guid>dfe3dabd460573a423510cc90e8b5d67c897903f8883a62f8cd38349c1a72a01</guid>
+<pubDate>Tue, 16 Jun 2026 05:43:00 GMT</pubDate>
+<description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>d4b74671df133333ed0c02d730138439ee20bf2692a229b7e8f5e250b166d51e</guid>
+<pubDate>Tue, 16 Jun 2026 05:43:03 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>91d04570e6ad0403a433137ebdf61d188a2e82aec4d6b6f17073d61665ba2878</guid>
+<pubDate>Tue, 16 Jun 2026 05:43:04 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>077f22a7d3ea528ea343426be209e4554f596f00a7b460b13a860fc6ab226a4b</guid>
+<pubDate>Tue, 16 Jun 2026 05:43:31 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
