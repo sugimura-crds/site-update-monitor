@@ -4,41 +4,27 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 16 Jun 2026 22:00:46 GMT</lastBuildDate>
+<lastBuildDate>Tue, 16 Jun 2026 23:25:46 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話</title>
-<link>https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>c34200d2994aa1e979fce8e4206bc1caf4f8388e9562851efbe8b6c024dca99c</guid>
-<pubDate>2026-06-14T17:08:05+09:00</pubDate>
-<description>この記事は Qiita Tech Festa 2026「この記事誰得？ 私しか得しないニッチな技術で記事投稿！」 の参加記事です。 はじめに みなさん、文字列の全角・半角判定、どうやってますか？ 大半の人はこう答えるでしょう。 「正規表現で /[^\x20-\x7E]/ ...</description>
-</item>
-<item>
-<title>【Qiita】 VRAM 12GBでQwen 35Bを動かす — エキスパートをGPUに載せないほど速くなった話</title>
-<link>https://qiita.com/kenimo49/items/dff3c8a2a0ee563ca16f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>55958725056bb5de4f2c17c0b516bf2d0c199687cc28813396c968194a458d38</guid>
-<pubDate>2026-06-15T10:27:14+09:00</pubDate>
-<description>3か月前、私は同じRTX 4070でこんな検証記事を書きました。結論は「35BのMoEモデルは、待てるなら動く」。測ったのは10.6 tok/s。動くには動くが、チャットで使うには指が止まる速度です。 先週、同じGPU・同じモデルで測り直したら34.6 tok/sが出ました...</description>
-</item>
-<item>
-<title>【Qiita】 経験20年のエンジニアがAIと1年協働して変わったこと・変わらなかったこと</title>
-<link>https://qiita.com/vcmacky/items/660d6405dd4fb64a617d</link>
-<guid>9453de0da550a95ec7564e617d292dd47d49b2473e9ab52311ee0902b6a20364</guid>
-<pubDate>2026-06-17T05:54:36+09:00</pubDate>
-<description>「AIに仕事を奪われる」ではなく「AIと一緒に考える」に切り替えたら、働き方が根本から変わった。 筆者はフルスタックエンジニア歴20年超。金融系Webサービスを主戦場にしてきた。 Claude（Anthropicが提供するAI）を本格的に業務導入して約1年が経った今、 ...</description>
+<title>【Qiita】 AIエージェントをPoC止まりで終わらせたくない実装者に、次の一手をくれる本</title>
+<link>https://qiita.com/yasu1109/items/65a8aa0d9673281d65af</link>
+<guid>3e5b4e359ba2f736016f66cce8c15b48f2c1b913d1187aa2bd3d4bdafe302f76</guid>
+<pubDate>2026-06-17T07:42:50+09:00</pubDate>
+<description>AIエージェントを試し始めても、デモは動くのに現場投入できる形まで持っていくのが難しい。 そのままだと、実装だけが増えて評価や改善の設計が追いつかず、PoC止まりの資産が積み上がりやすいです。 構築だけでなく、評価・改善・運用まで含めてAIエージェントを実務に載せる流れを整...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/unveiling-the-global-landscape-of-android-security-updates/</link>
-<guid>2d9f030d7d753c7c6ba8c0e9455cb5491a951c96872607cb424dc07120c2a887</guid>
-<pubDate>Tue, 16 Jun 2026 21:59:40 GMT</pubDate>
+<link>https://research.google/pubs/on-the-ptas-complexity-of-multidimensional-knapsack/</link>
+<guid>974aee385a9e575f3ab5249f62ce950a6822a7a76af0b051576139ed1f4939e8</guid>
+<pubDate>Tue, 16 Jun 2026 23:25:07 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>26a01fd07fd69233b8016f1da65e11d7689369c441edebb0dc6378de179233b6</guid>
-<pubDate>Tue, 16 Jun 2026 21:59:43 GMT</pubDate>
+<guid>03b8af7c012d4f3470a3579231f9d23750e586f958f564339f7e58585f9ad464</guid>
+<pubDate>Tue, 16 Jun 2026 23:25:10 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 
