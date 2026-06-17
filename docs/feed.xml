@@ -4,120 +4,147 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 17 Jun 2026 12:01:55 GMT</lastBuildDate>
+<lastBuildDate>Wed, 17 Jun 2026 16:10:43 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 技術力だけでは選ばれない。未経験エンジニアが現場で差をつける「対話の技術」5選</title>
-<link>https://qiita.com/prum_hitomi/items/aedc1409d1f19c4d14f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>0e053c2cf20c1eee9ad4b4ce58c693833d270066e54179dcc11b5f5e0587cdbf</guid>
-<pubDate>2026-06-17T13:39:48+09:00</pubDate>
-<description>はじめまして。株式会社PRUMでエンジニアをしているひとみです。 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、 仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。 誰かの助けになれば幸いです。 伝わらないのは話し方の問題じゃなかった。相手を「見る...</description>
+<title>【Qiita】 Claude Code × Figma MCPで作る&quot;自分専用AIエージェントチーム&quot; 第1話：環境構築を自動化して、爆速フロント開発の土台を整えるまで</title>
+<link>https://qiita.com/enmizu1013-del/items/160ff916c869dec85fc2</link>
+<guid>5aded39152d86a8947ed44ba1d5cb973b0a3b34fe4c7f0dac120a9980837cddb</guid>
+<pubDate>2026-06-17T21:16:26+09:00</pubDate>
+<description>AIに開発を任せたい。でも、出来上がる画面が毎回ちょっとずつ違う。 その原因は「AIの精度」ではなく、もっと手前にありました。 はじめに 同一案件内で複数PJが並走している中で、私はそのうちの1つ（後述する Stellar PJ）のフロント実装を担当しています。最...</description>
 </item>
 <item>
-<title>【Qiita】 Headroomのインストール手順</title>
-<link>https://qiita.com/keyhole0/items/540fc26c8bd235d44899</link>
-<guid>835d40cc3b0ec967fa1098aad87c535602893c5d77ca92545427d75e37509e3e</guid>
-<pubDate>2026-06-17T18:00:48+09:00</pubDate>
-<description>この記事について Headroomでトークン節約を手っ取り早く試したい方向け 自分が動作確認できたインストール手順の共有です この記事で取り扱わないこと Headroomの細かな説明はしません codex以外のAIツールの説明はしません。適宜読み替えてください 確...</description>
+<title>【Qiita】 日本のお客様向け Azure Policy 実践ガイド 第二弾 ～Microsoft Cloud Security Benchmark v2 大解剖～</title>
+<link>https://qiita.com/ManabuYamamoto/items/999e6e0164d150ba9fb0</link>
+<guid>1bd32e800fd9332846c84e3a59e3e045beeec745750cf11eec6904df2ff1ac7a</guid>
+<pubDate>2026-06-17T21:48:09+09:00</pubDate>
+<description>本記事は GitHub Copilot および Microsoft Foundry を活用して作成されています。内容の正確性については各公式ドキュメントをご確認ください。 前回の日本のお客様向け Azure Policy 実践ガイド ～Built-in だけで始めるガバ...</description>
 </item>
 <item>
-<title>【Qiita】 MCP仕様2026-07-28リリース候補：ステートレス化・MCP Apps・Tasks拡張で何が変わり、何を直すか</title>
-<link>https://qiita.com/YushiYamamoto/items/382cb9c5b18fd95e5775</link>
-<guid>551100c49a0bfc6ec025d4f9446e1bef41e6f5204bacb4eb5ce07d57a7321c4f</guid>
-<pubDate>2026-06-17T16:16:02+09:00</pubDate>
-<description>2026年5月21日、Model Context Protocol（MCP）の次期仕様がリリース候補（RC）として確定した。最終版の公開は2026年7月28日。公式は「launch以来最大の改訂」と位置づけており、トランスポートをステートレスへ作り替え、UI・長時間処理を...</description>
+<title>【Qiita】 変更レビューを1コマンドに ―― トークン削減CLI「bdo」に `bdo review` を足した</title>
+<link>https://qiita.com/tedorigawa001/items/e5b622063879795f0f41</link>
+<guid>6adb8e00b0102735cab7c04f5b64b42ad1147fc3120b9a56589284f438838479</guid>
+<pubDate>2026-06-18T00:25:51+09:00</pubDate>
+<description>これは何 bdo (Bushido) は、AIコーディングエージェント（Claude Code など）とコマンドの間に挟まり、git status や cat の出力を圧縮してから LLM に渡すフィルタ・プロキシです（代表コマンドで 60〜90% のトークン削減）。 今...</description>
 </item>
 <item>
-<title>【Qiita】 GitHub CLIでCodespaceを操作し、AIエージェントにLinuxサンドボックスをプレゼントしよう！</title>
-<link>https://qiita.com/DaisukeDaisuke/items/0491690d478375de8f49</link>
-<guid>87eccb36034615c4f0cccd58fad61cae4259ee41885a947b0db12bad82292326</guid>
-<pubDate>2026-06-17T18:54:09+09:00</pubDate>
-<description>記事は頑張りません。ご了承ください。 GitHubに課金設定がある場合、Codespace利用時の課金に注意してください。 趣味でEmscriptenを使いたいものの、DockerやWSL2、仮想環境をこのためだけに準備するのは面倒です。 ということで、Gi...</description>
+<title>【Qiita】 AIエージェントが「働く仲間」になる時代。求められるのは効率ではなくインクルージョン</title>
+<link>https://qiita.com/Agora_io/items/77ea1c8ba6a6582c8401</link>
+<guid>882ce96b6385445ac1ef2aaabfe3f9e183332d5577eee3000e65f6bfaeed8231</guid>
+<pubDate>2026-06-17T21:52:12+09:00</pubDate>
+<description>近年、多くの企業がカスタマーサポートの自動化を進めてきました。 その目的は明確です。 応答時間を短縮する 問い合わせ対応コストを削減する オペレーターの負荷を軽減する しかし、生成AIとAIエージェントの進化によって、この前提そのものが変わりつつあります。 AIはもはや...</description>
 </item>
 <item>
-<title>【Qiita】 Closing the loop on runtime threats with Claude Code × Sysdig remote MCP: investigate → remediate (deep dive)</title>
-<link>https://qiita.com/takao-shimizu/items/786fc1a03710ff0ca0fb</link>
-<guid>3bf4c584b32f0f4448988499b9d06d75af993df71f5f91c02026ab951dddb973</guid>
-<pubDate>2026-06-17T17:39:00+09:00</pubDate>
-<description>Introduction Using the Sysdig Secure remote MCP server newly added to Claude Code, together with the Agent Skills distributed as a plugi...</description>
+<title>【Qiita】 SpaceXはなぜCursorを買うのか──Grok BuildとAIエージェント戦略を整理する</title>
+<link>https://qiita.com/comty/items/ec5aed071b7e5d4f866f</link>
+<guid>1498e9cb7f22ccb1a45c16b71389698e598e5c9ef9c72e2005a9d82bb02293a9</guid>
+<pubDate>2026-06-17T21:36:34+09:00</pubDate>
+<description>はじめに AIコーディングツールを使っていると、だんだん見えてくることがあります。 賢いモデルがあるだけでは、開発現場は変わりません。 リポジトリを読み、差分を作り、ターミナルを叩き、テストを回し、Pull Requestを見て、Slackで相談し、失敗したら巻き戻す。...</description>
 </item>
 <item>
-<title>【環境】 Author Correction: Priority science can accelerate agroforestry as a natural climate solution</title>
-<link>https://www.nature.com/articles/s41558-026-02693-y</link>
-<guid>fd8267c52c2ad5f7dbad8da47808bb78cf5ea65becc8fc37b51a821f60347a2d</guid>
+<title>【Qiita】 Enterprise Workflow Automation Architecture: APIs, Events, and AI Agents</title>
+<link>https://qiita.com/lbm_solutions/items/9223d95cb569f18ee31b</link>
+<guid>7654d125c8e6fef2f014c6a58b1c763fceed5bb1c0b704b017090f402f22fcec</guid>
+<pubDate>2026-06-17T21:19:32+09:00</pubDate>
+<description>Most enterprise workflow automation projects start with ambition and end with regret. The ambition is real. Eliminate the manual handoff...</description>
+</item>
+<item>
+<title>【Qiita】 【図解】3961本を RAG で運用して分かった ―「検索して答える仕組み」では足りない理由（第1回）</title>
+<link>https://qiita.com/gaop2560/items/401ca5d0d6074c1418df</link>
+<guid>d753ea4b7f76528452618d67792518911eee44a9e0a300cef16f4938982c7f27</guid>
+<pubDate>2026-06-17T22:31:42+09:00</pubDate>
+<description>最先端AIを技術の中身まで読み解く「AIウォッチ」の連載記事です（RAG 全10回・第1回）。初出・全10回の一覧は本サイトにあります → https://aiwatch-jp.pages.dev/rag-overview-01 まず、具体的な話からします。 私は ...</description>
+</item>
+<item>
+<title>【農業】 Cropland edges influence climate resilience</title>
+<link>https://www.nature.com/articles/s43016-026-01374-5</link>
+<guid>af48c7f445e50e46285a9baeee7cf75007b8efd73fc0abad5d3c0a393c41dd5a</guid>
 <pubDate>2026-06-17</pubDate>
-<description>Author Correction: Priority science can accelerate agroforestry as a natural climate solution</description>
+<description>Management of micro-scale cropland edges, by reducing edge density and expanding buffer zones, can improve yield stability under climate extremes, but edge-effect mechanisms are context-dependent.</description>
 </item>
 <item>
-<title>【環境】 Attributing carbon to capital owners</title>
-<link>https://www.nature.com/articles/s41558-026-02654-5</link>
-<guid>f857742abdf0ed0c62486dc56d3954bbbbadc6d12d3c3d52d9725af65095c0e3</guid>
+<title>【農業】 Cropland edge management enhances the adaptability of cropland productivity to extremely dry events</title>
+<link>https://www.nature.com/articles/s43016-026-01366-5</link>
+<guid>7eb0056b9575e03ec570a26b332f6af7596304d7ee93b0264fe4379490ca1c2c</guid>
 <pubDate>2026-06-17</pubDate>
-<description>Greenhouse gas emissions are typically attributed to where they are produced or consumed. A recent analysis traces them to capital owners, revealing a stronger concentration and offering new perspectives on how they are distributed — and why it matters.</description>
+<description>Climate change and rapid urbanization are fragmenting periurban cropland, increasing edge disturbance and vulnerability to hydrological extremes. This study shows that cropland edge reduction and ecological buffer expansion can reduce productivity loss and improve resilience to future drought risk.</description>
 </item>
 <item>
-<title>【環境】 Globally constrained forest biophysical cooling benefits under rising atmospheric dryness</title>
-<link>https://www.nature.com/articles/s41558-026-02677-y</link>
-<guid>cdbf5437256ba23455b33d993135bfb682bf17786cdeeab8a554900603f51225</guid>
-<pubDate>2026-06-17</pubDate>
-<description>The biophysical effects of forests on climate are important for mitigation, but the impacts of climate change on these effects are unclear. This study shows that vapour pressure deficit is the primary driver of trends in forest biophysical cooling, regulated by plant anisohydricity.</description>
+<title>【農業】 New FAO-WFP report warns worsening hunger puts 13 hotspots at significant risk</title>
+<link>https://www.fao.org/newsroom/detail/new-fao-wfp-report-warns-worsening-hunger-puts-13-hotspots-at-significant-risk/en</link>
+<guid>5bda91e2e50e31e4e94ca9ca565a00efd6ef148494888bb86b8acc54ba156ae1</guid>
+<pubDate>Wed, 17 Jun 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【環境】 Global inequalities in ownership-based carbon footprints</title>
-<link>https://www.nature.com/articles/s41558-026-02662-5</link>
-<guid>f7a8d1f32d052ac528783e9da98626ab6f4f413c40d8296344741f54f1f0f084</guid>
+<title>【環境】 Author Correction: Effects of forestry decentralization on rural inequality in Nepal</title>
+<link>https://www.nature.com/articles/s41893-026-01893-w</link>
+<guid>10673294acd362d5663f9ad89d48cd629cdcf74763fe8c31842fda578b7126a1</guid>
 <pubDate>2026-06-17</pubDate>
-<description>An ownership-based approach to carbon accounting is emerging alongside production- and consumption-based frameworks. This study provides global estimates, identifies which countries are net owners of emissions abroad and traces the concentration of ownership emissions among top wealth groups.</description>
+<description>Author Correction: Effects of forestry decentralization on rural inequality in Nepal</description>
 </item>
 <item>
-<title>【環境】 Limited reach of zero-deforestation commitments to Indonesian oil palm smallholders</title>
-<link>https://www.nature.com/articles/s41893-026-01861-4</link>
-<guid>c91cd31c1167e79886ef592c4cce0d61055dbc05fa7de66ffcd7f063b3adc603</guid>
+<title>【自動自律実験】 Towards Conversational AI for Disease Management</title>
+<link>https://www.nature.com/articles/s41586-026-10764-5</link>
+<guid>95ddd53cf36fbf99d6a8fd6d8459b1fe038e41831715f8cb9026bd1297d8456d</guid>
 <pubDate>2026-06-17</pubDate>
-<description>Zero-deforestation commitments in the Indonesian palm oil sector have limited reach among smallholders. This study combines surveys and interviews to assess market access and deforestation, finding limited smallholder inclusion and minimal differences in forest outcomes.</description>
+<description>Towards Conversational AI for Disease Management</description>
 </item>
 <item>
-<title>【環境】 Neighbourhood design and the environmental and social costs of suburbanization</title>
-<link>https://www.nature.com/articles/s41893-026-01842-7</link>
-<guid>f4085b1938086d6ca51553907f1251d8b642a55103f00962a6778c06dc09e510</guid>
+<title>【自動自律実験】 Emergent decadal predictability in Antarctic contribution to sea-level rise</title>
+<link>https://www.nature.com/articles/s41586-026-10614-4</link>
+<guid>337c2762c90c0139bf4b2f2891a905f8e693b0adfb3b23c021eae8e48082c747</guid>
 <pubDate>2026-06-17</pubDate>
-<description>The growth of suburban areas increases car use, raises emissions and affects social cohesion, but it is unclear whether this is driven by suburban design or distance from the city centre. This study estimates the social and environmental effects of the garden city design concept on neighbourhoods in the USA.</description>
+<description>Although Antarctic ice loss projections diverge widely by 2100, this Perspective shows that present-day rates robustly predict mid-century sea level rise, providing a firm basis for near-term planning, while highlighting priorities for model development aimed at resolving longer-term sea level rise uncertainty.</description>
 </item>
 <item>
-<title>【自動自律実験】 The EU needs to back its ambition to end animal testing with cash</title>
-<link>https://www.nature.com/articles/d41586-026-01882-1</link>
-<guid>9f4453ba0d112bc9695c68d1554e915322b3cb495e597d97a595a37d53207f5f</guid>
+<title>【自動自律実験】 A distant brown dwarf coplanar to a warm Jupiter and a hot super-Earth</title>
+<link>https://www.nature.com/articles/s41586-026-10586-5</link>
+<guid>b02c6fb64d649152e5b8ce2624aeeafdb345a789f81cbcd249ed12755fcbaa76</guid>
 <pubDate>2026-06-17</pubDate>
-<description>The European Union has declared that it wants to stop using animals in chemical safety testing. Its goal will need a timeline and a serious funding commitment.</description>
+<description>Analysis of long-term radial velocity data and transit time variations, induced by a super-Earth, a warm Jupiter and a brown dwarf in a coplanar orbit around the relatively young star TOI201.</description>
 </item>
 <item>
-<title>【自動自律実験】 These ‘master’ proteins protect us from deadly mutations — and could inspire new drugs</title>
-<link>https://www.nature.com/articles/d41586-026-01883-0</link>
-<guid>2906e1854dc03c46d49be8ea94a38ed849b4421026026cb9c1be8d3a2ff33e07</guid>
+<title>【自動自律実験】 Probing picometre-scale interlayer deformations via hyperbolic polaritons</title>
+<link>https://www.nature.com/articles/s41586-026-10638-w</link>
+<guid>369a95c7f42a951ecbf94840ef9b8105439e1acc3a32f041d5deb2e78fb35f74</guid>
 <pubDate>2026-06-17</pubDate>
-<description>Biology has clever ways to mask the effects of potentially harmful gene mutations. Scientists are investigating how this ‘buffering’ works — and how to exploit it.</description>
+<description>A new polaritonic optical method that uses the mid-infrared out-of-plane hyperbolic polaritons mode is described and experimentally validated to allow the examination of picometre-scale interlayer deformations, providing a bridge between nanomechanics and photonics.</description>
+</item>
+<item>
+<title>【自動自律実験】 Optical fibre gripper for high-performance 3D micromanipulation</title>
+<link>https://www.nature.com/articles/s41586-026-10673-7</link>
+<guid>619c85f3e8225990d3c2d63101db1d1e59739352e8c6da1307f97ad606894665</guid>
+<pubDate>2026-06-17</pubDate>
+<description>A miniature three-dimensional optical fibre gripper enables powerful, precise micromanipulation of particles and single cells in confined spaces, bridging the gap between optical and mechanical tweezers.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/its-still-abuse-community-attitudes-and-perceptions-on-ai-generated-image-based-sexual-abuse/</link>
-<guid>de3b9f403fd62b8b914c20bf543d9aa42f21f1c31453c16198f69cd0ed09a2d4</guid>
-<pubDate>Wed, 17 Jun 2026 12:01:13 GMT</pubDate>
+<link>https://research.google/pubs/spatialstack-layered-geometry-language-fusion-for-3d-vlm-spatial-reasoning/</link>
+<guid>003647a0c1dc16c791ecf6da123605b6fde3c19702701a21281d8321c7d780e7</guid>
+<pubDate>Wed, 17 Jun 2026 16:09:39 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-73320-9</link>
-<guid>c0683be1298dcb1f96440eb37786fee16dbeba7ca02d88911c290b1c882e9ab7</guid>
-<pubDate>Wed, 17 Jun 2026 12:01:16 GMT</pubDate>
+<guid>4176509d08dd031b89934a3c4b5198d65eae9699251e81b7a4f17e5d88c128f6</guid>
+<pubDate>Wed, 17 Jun 2026 16:09:44 GMT</pubDate>
 <description>X-ray imaging serves as a fundamental tool for non-destructive inspection. Although conventional radiography is well suited for two-dimensional imaging, it cannot provide volumetric structure. Computed tomography provides three-dimensional reconstruction but remains constrained by bulky instrumentation, high radiation exposure, and cost. Here we demonstrate a patch-type scintillator integrated with multi-stage neural network that segments and reconstructs three-dimensional volumes from sparse angular two-dimensional radiographs. The scintillator is fabricated by electrospraying cellulose nanocrystals onto a bulk cellulose matrix, followed by dip-coating of perovskite, yielding a composite with enhanced radioluminescence under X-ray excitation. This flexible film conforms to complex geometries, enabling distortion-free and multi-angle imaging. Neural networks are trained on synthetic datasets and validated on experimentally acquired avian tibiotarsus radiographs, accurately reconstructing volumetric bone structures. This approach serves as a proof-of-concept for low-dose, accessible artificial intelligence-enabled three-dimensional X-ray imaging, demonstrating the feasibility of rec</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>5b3d047c5baf09c44029ef44bb51993f1648402630b508fc1fcaa2f5918a04ca</guid>
-<pubDate>Wed, 17 Jun 2026 12:01:37 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02869-y</link>
+<guid>d750e2fb87c6e24ffc7dcd469f7504110398ed42f88ee47cc4bd3ef5490d0e90</guid>
+<pubDate>Wed, 17 Jun 2026 16:09:46 GMT</pubDate>
+<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
+</item>
+<item>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>234d9e24845374baf7ec4ccbe99c5570db65419ce2a85f4afcccb407ed2d999c</guid>
+<pubDate>Wed, 17 Jun 2026 16:10:31 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
