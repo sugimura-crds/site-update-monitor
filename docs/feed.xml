@@ -4,84 +4,105 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 18 Jun 2026 05:13:21 GMT</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 09:51:13 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 ノーコードNode-RED永続化とIBM Cloud Code Engine上での稼働をIBM Bobで実現してみた</title>
-<link>https://qiita.com/masaffff/items/b5549bfe60a531114282</link>
-<guid>5a01cecba76d987526d1acab56de38cb2a5fb65b065bd08ed5861a60a6ba313f</guid>
-<pubDate>2026-06-18T13:59:03+09:00</pubDate>
-<description>はじめに 本記事では、IBM Bobを用いてNode-REDをIBM Cloud Code Engine上に構築しました。 結果として、アプリのコードを書く必要はありませんでしたが、 試行錯誤はそれなりに必要 プロンプトの精度が非常に重要 という知見が得られました。 ...</description>
+<title>【Qiita】 「そのコード、勝手に使って大丈夫？」IT初心者が最初に知るべき“著作権”の話</title>
+<link>https://qiita.com/prum_hitomi/items/c69fab7dfb1d48ba8b31?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>9427c5bf3b1b46ba4d66b412d55a27742cbe38344dd6ec18bd2db45ea8a86745</guid>
+<pubDate>2026-06-18T13:47:16+09:00</pubDate>
+<description>はじめまして。株式会社PRUMでエンジニアをしているひとみです。 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、 仕事で起きやすい“ズレ”について整理して発信しています。 誰かの助けになれば幸いです。 「そのコード、勝手に使って大丈夫？」IT初心者が最初...</description>
 </item>
 <item>
-<title>【Qiita】 懐かしのCocos2dxの後継、Axmol Engine を Mac で導入して iPhone 実機ビルドするまでの手順</title>
-<link>https://qiita.com/OnuuuumaX/items/c2e464ef65fa9d0e9a57</link>
-<guid>fbf8828fd343e71d0e2867b08ecb3c3c3d52a3aecc1e7923df076881b4332177</guid>
-<pubDate>2026-06-18T08:37:25+09:00</pubDate>
-<description>はじめに 一世を風靡した Cocos2d 、廃れたとは思っておりましたが、新たにフォークされて Axmol Engine として開発が進められているようなので、Claudeと共にインストール〜実機確認まで試してみました。 この記事では、Axmol Engine（Cocos...</description>
+<title>【Qiita】 ダッシュボードを作ったのに誰も見てくれないので、オントロジーについて考えてみた</title>
+<link>https://qiita.com/KYoshiyama/items/52dc298122587969b39c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>dd62dbf9b7030e069c8a78dd3ad283b4959424224d07e1b61c38a0b42dda9cbf</guid>
+<pubDate>2026-06-18T10:24:07+09:00</pubDate>
+<description>はじめに ダッシュボードを作った。 毎日見てもらうために、メールやSlackで日次配信もするようにした。 ...だけど、誰も見てくれていない。 バラバラだったデータをまとめて、せっかくダッシュボードで見やすくしたのに。 この数ヶ月はなんだったんだ。 似たような経験をした...</description>
 </item>
 <item>
-<title>【Qiita】 論文を読むAIの精度を90%に引き上げた — AI for Scienceのための知識グラフRAGシステム開発記</title>
-<link>https://qiita.com/hisaho/items/4dbbcd41e83f9575cd28</link>
-<guid>190ce6f8a0dda1928bd10844e3fa7c40f02633c47f121e34d2de45d1617fb836</guid>
-<pubDate>2026-06-18T08:41:09+09:00</pubDate>
-<description>概要 HotpotQA ベンチマーク 90.0% を達成（論文の公式実装 71.6% を +18.4% 上回る） KDD 2026 論文 MemGraphRAG（Xiang et al.） を TypeScript でクリーンルーム実装 31万ノード・68万エッジ ...</description>
+<title>【Qiita】 Mac で Flutter 開発環境をセットアップする手順（iOS / Android 対応）</title>
+<link>https://qiita.com/OnuuuumaX/items/8a9cf360857c2ada39f2</link>
+<guid>d09dae13cd8c64f25e7f7939ad57652c0148bdbd69c3bb014aa68d5db0165a65</guid>
+<pubDate>2026-06-18T18:43:49+09:00</pubDate>
+<description>はじめに 本記事では、Mac（Apple Silicon / Intel）で Flutter の開発環境をゼロからセットアップする手順をclaudeに手伝ってもらいましてまとめています。 実際のセットアップ作業で遭遇したエラーと解決策も合わせて紹介します。 対象環境 ...</description>
 </item>
 <item>
-<title>【Qiita】 AI 社員 ─ エージェントに「身元」を持たせる話</title>
-<link>https://qiita.com/narumaru2001/items/23711a05203bad783dba</link>
-<guid>f66f97d4d814b32523c24140d30b8efdb3760f0f5a4e9b517da7f828070b4773</guid>
-<pubDate>2026-06-18T12:21:55+09:00</pubDate>
-<description>AI 社員 ─ エージェントに「身元」を持たせる話 はじめに 前回までの記事で、既存の .NET 資産を AI から呼び出せる形にし、サーバーとして常時稼働させる構成ができました。 しかし実際に動かし始めてすぐ、ある問題に気づきます。 「これ、誰がやったの？」 メー...</description>
+<title>【Qiita】 AIエージェント疲れの正体は「出力」ではない。真の課題と「永続的メモリ層」という解</title>
+<link>https://qiita.com/memorylakeai/items/15d4d54cb083041eb552</link>
+<guid>91105df832dc12602d4b4d5f0b698014633a41dc59ce2583a752ffac25527697</guid>
+<pubDate>2026-06-18T17:01:45+09:00</pubDate>
+<description>はじめに ここ数ヶ月、CursorやClaude Codeに代表されるAIコーディングエージェントの進化は凄まじく、私たちの開発パラダイムは「AIにコードスニペットを生成させる」フェーズから「ターミナルに統合されたAgentと協働でプロジェクトを推進する」フェーズへと移...</description>
 </item>
 <item>
-<title>【Qiita】 【#6】「定額の裏側 — APIとサブスクの価格差から読むフロンティアモデルの経済構造」</title>
-<link>https://qiita.com/yoshiyakato/items/10c472fb6568fd62c8b4</link>
-<guid>ce3e3793fd55c3087dd2f2a183e0815ada29dbe719d2b89cebbeab5251285f39</guid>
-<pubDate>2026-06-18T10:45:18+09:00</pubDate>
-<description>定額の裏側(6・最終回) 染み出しを前提に設計する — 価値と組織の結合問題 連載「定額の裏側」も、これで最終回を迎える。第1回に立てた問いは、いま思えばずいぶん散文的なものであった——なぜ API とサブスクの価格は、あれほどまでに違うのか。だがその一点を掘り進めてゆく...</description>
+<title>【Qiita】 reCAPTCHAはもう限界？AIがボット検証を突破する時代の新しい「人間証明」</title>
+<link>https://qiita.com/abkkk/items/9c0aaf90c373ee0211cf</link>
+<guid>c71d539c31d989fa0f22de5c259c029c6761edb477b07b72b9ac870ea6b7afa3</guid>
+<pubDate>2026-06-18T16:00:19+09:00</pubDate>
+<description>「あなたは人間ですか？」という問いが、もう意味をなさなくなってきた 信号機の画像を選ぶ。横断歩道をクリックする。「私はロボットではありません」にチェックを入れる。 reCAPTCHA（リキャプチャ）はGoogleが提供するボット対策ツールで、長年Webサービスの標準的なbo...</description>
 </item>
 <item>
-<title>【Qiita】 超簡略版Anomali Agentic SOC Platform</title>
-<link>https://qiita.com/hisashiyamaguchi/items/c413b8fd23c72d1561c9</link>
-<guid>730273f177fcab7aa69769c4d24ae370d7f639b3481191c8edc84648cf5a0fda</guid>
-<pubDate>2026-06-18T10:01:42+09:00</pubDate>
-<description>Anomali Agentic SOC Platform(以下AASP)を利用した、脅威インテリジェンスネイティブなセキュリティ運用のサンプルシナリオです。プラットフォームは、Entities &amp; Groups, Case Management, Agentic Fleet...</description>
+<title>【Qiita】 AI エージェントのルールマネージメント - 2026年のメタパターン</title>
+<link>https://qiita.com/shatolin/items/5c18619d3474b7962021</link>
+<guid>1db566592323f5fc6173227b944bad9550562869fd1809969a44f0cc82bb2ea2</guid>
+<pubDate>2026-06-18T18:10:16+09:00</pubDate>
+<description>はじめに Claude Code、Codex、Antigravity CLI（旧 Gemini CLI）などのAIコーディングエージェントを使っていると、各ツール向けの「ルールファイル」をどう管理するかで悩みます。 たとえば次のようなファイルです。 CLAUDE.md ...</description>
 </item>
 <item>
-<title>【Qiita】 MUSE-Autoskill徹底解説：自己進化型エージェントスキルは、AIエージェントをどう変えるのか</title>
-<link>https://qiita.com/Simon_Zhang/items/13b89cbea8617addffd2</link>
-<guid>efccec7d73629375cd7e6458aa500bcc8223dc310bde3c9df6a6f8038877bea2</guid>
-<pubDate>2026-06-18T09:36:05+09:00</pubDate>
-<description>タイトル：MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation arXiv：https://arxiv.org/abs/2605.27366 ...</description>
+<title>【農業】 FAO Food Outlook: Global food commodity market trends face rising geopolitical and weather risks</title>
+<link>https://www.fao.org/newsroom/detail/fao-food-outlook--global-food-commodity-market-trends-face-rising-geopolitical-and-weather-risks/en</link>
+<guid>5d963c563286ac3e59568dc1202ec3d8fb2fc2e597c5e784ce8256e3fd1e6bf7</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【農業】 Bracing for El Niño: FAO and WFP launch joint appeal to protect 8.8 million people from extreme weather events</title>
+<link>https://www.fao.org/newsroom/detail/bracing-for-el-ni%C3%B1o--fao-and-wfp-launch-joint-appeal-to-protect-8.8-million-people-from-extreme-weather-events/en</link>
+<guid>2520399b263efb00086e231013ba5fa1439e5d5643abe0eaaa4116b739f7db16</guid>
+<pubDate>Thu, 18 Jun 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【農業】 FAO releases most comprehensive dataset to date on women in agrifood systems</title>
+<link>https://www.fao.org/newsroom/detail/fao-releases-most-comprehensive-dataset-to-date-on-women-in-agrifood-systems/en</link>
+<guid>653be27c9e6c7cd05228b28373c6ff545b72dffb50b7ccc4d29ef99da22a8e20</guid>
+<pubDate>Wed, 17 Jun 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【自動自律実験】 Cell transplant across the tree of life hints at how animals emerged</title>
+<link>https://www.nature.com/articles/d41586-026-01910-0</link>
+<guid>65d5011e243b14755b560fb440a808c8d5810a5e20c784f6c1b8474cbcf3a43c</guid>
+<pubDate>2026-06-18</pubDate>
+<description>Embryonic ‘organizer cells’ can tell embryos of various phyla what kind of body to build.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/genai-on-google-cloud-enterprise-generative-ai-systems-and-ai-agents/</link>
-<guid>4252f7a40c6ead58bc2ce3dda586b8d5641702dd4f542298320dbf6e0e5b8342</guid>
-<pubDate>Thu, 18 Jun 2026 05:12:20 GMT</pubDate>
+<link>https://research.google/pubs/its-still-abuse-community-attitudes-and-perceptions-on-ai-generated-image-based-sexual-abuse/</link>
+<guid>6d8defd26e2f71cd297695f5e5c6ed3b6912fae8a7c8b11a4a0015e5f6ac7461</guid>
+<pubDate>Thu, 18 Jun 2026 09:50:29 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>96541596b330697db9d19e598d91a84b056b347661d3c3db809f404e1bfe4435</guid>
-<pubDate>Thu, 18 Jun 2026 05:12:22 GMT</pubDate>
+<guid>f9268d15515cfa8099f583cd27a4d88785f140a2e9dedfc8ee324bbaf8a49ae8</guid>
+<pubDate>Thu, 18 Jun 2026 09:50:31 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>9bf3ce36576f49ddf414800764e8a2960da710b3b4331777c406f51ba599802a</guid>
-<pubDate>Thu, 18 Jun 2026 05:12:24 GMT</pubDate>
+<guid>076aa47d6544f3a2bafc92947640a770f7df1aff2f11ba8fb083b7a8b29d8047</guid>
+<pubDate>Thu, 18 Jun 2026 09:50:33 GMT</pubDate>
 <description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04403-9</link>
-<guid>d066c7c684465d8df09091ef83d14222c6c3e1d4253595bb0ef833aca399935d</guid>
-<pubDate>Thu, 18 Jun 2026 05:12:26 GMT</pubDate>
-<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>e17f1cb6238fc87aa49c759b55e319c932d7f9e6bba8b995cb6dc35c88b842df</guid>
+<pubDate>Thu, 18 Jun 2026 09:51:04 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
