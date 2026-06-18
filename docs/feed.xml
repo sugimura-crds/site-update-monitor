@@ -4,28 +4,84 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 18 Jun 2026 00:09:17 GMT</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 05:13:21 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 ノーコードNode-RED永続化とIBM Cloud Code Engine上での稼働をIBM Bobで実現してみた</title>
+<link>https://qiita.com/masaffff/items/b5549bfe60a531114282</link>
+<guid>5a01cecba76d987526d1acab56de38cb2a5fb65b065bd08ed5861a60a6ba313f</guid>
+<pubDate>2026-06-18T13:59:03+09:00</pubDate>
+<description>はじめに 本記事では、IBM Bobを用いてNode-REDをIBM Cloud Code Engine上に構築しました。 結果として、アプリのコードを書く必要はありませんでしたが、 試行錯誤はそれなりに必要 プロンプトの精度が非常に重要 という知見が得られました。 ...</description>
+</item>
+<item>
+<title>【Qiita】 懐かしのCocos2dxの後継、Axmol Engine を Mac で導入して iPhone 実機ビルドするまでの手順</title>
+<link>https://qiita.com/OnuuuumaX/items/c2e464ef65fa9d0e9a57</link>
+<guid>fbf8828fd343e71d0e2867b08ecb3c3c3d52a3aecc1e7923df076881b4332177</guid>
+<pubDate>2026-06-18T08:37:25+09:00</pubDate>
+<description>はじめに 一世を風靡した Cocos2d 、廃れたとは思っておりましたが、新たにフォークされて Axmol Engine として開発が進められているようなので、Claudeと共にインストール〜実機確認まで試してみました。 この記事では、Axmol Engine（Cocos...</description>
+</item>
+<item>
+<title>【Qiita】 論文を読むAIの精度を90%に引き上げた — AI for Scienceのための知識グラフRAGシステム開発記</title>
+<link>https://qiita.com/hisaho/items/4dbbcd41e83f9575cd28</link>
+<guid>190ce6f8a0dda1928bd10844e3fa7c40f02633c47f121e34d2de45d1617fb836</guid>
+<pubDate>2026-06-18T08:41:09+09:00</pubDate>
+<description>概要 HotpotQA ベンチマーク 90.0% を達成（論文の公式実装 71.6% を +18.4% 上回る） KDD 2026 論文 MemGraphRAG（Xiang et al.） を TypeScript でクリーンルーム実装 31万ノード・68万エッジ ...</description>
+</item>
+<item>
+<title>【Qiita】 AI 社員 ─ エージェントに「身元」を持たせる話</title>
+<link>https://qiita.com/narumaru2001/items/23711a05203bad783dba</link>
+<guid>f66f97d4d814b32523c24140d30b8efdb3760f0f5a4e9b517da7f828070b4773</guid>
+<pubDate>2026-06-18T12:21:55+09:00</pubDate>
+<description>AI 社員 ─ エージェントに「身元」を持たせる話 はじめに 前回までの記事で、既存の .NET 資産を AI から呼び出せる形にし、サーバーとして常時稼働させる構成ができました。 しかし実際に動かし始めてすぐ、ある問題に気づきます。 「これ、誰がやったの？」 メー...</description>
+</item>
+<item>
+<title>【Qiita】 【#6】「定額の裏側 — APIとサブスクの価格差から読むフロンティアモデルの経済構造」</title>
+<link>https://qiita.com/yoshiyakato/items/10c472fb6568fd62c8b4</link>
+<guid>ce3e3793fd55c3087dd2f2a183e0815ada29dbe719d2b89cebbeab5251285f39</guid>
+<pubDate>2026-06-18T10:45:18+09:00</pubDate>
+<description>定額の裏側(6・最終回) 染み出しを前提に設計する — 価値と組織の結合問題 連載「定額の裏側」も、これで最終回を迎える。第1回に立てた問いは、いま思えばずいぶん散文的なものであった——なぜ API とサブスクの価格は、あれほどまでに違うのか。だがその一点を掘り進めてゆく...</description>
+</item>
+<item>
+<title>【Qiita】 超簡略版Anomali Agentic SOC Platform</title>
+<link>https://qiita.com/hisashiyamaguchi/items/c413b8fd23c72d1561c9</link>
+<guid>730273f177fcab7aa69769c4d24ae370d7f639b3481191c8edc84648cf5a0fda</guid>
+<pubDate>2026-06-18T10:01:42+09:00</pubDate>
+<description>Anomali Agentic SOC Platform(以下AASP)を利用した、脅威インテリジェンスネイティブなセキュリティ運用のサンプルシナリオです。プラットフォームは、Entities &amp; Groups, Case Management, Agentic Fleet...</description>
+</item>
+<item>
+<title>【Qiita】 MUSE-Autoskill徹底解説：自己進化型エージェントスキルは、AIエージェントをどう変えるのか</title>
+<link>https://qiita.com/Simon_Zhang/items/13b89cbea8617addffd2</link>
+<guid>efccec7d73629375cd7e6458aa500bcc8223dc310bde3c9df6a6f8038877bea2</guid>
+<pubDate>2026-06-18T09:36:05+09:00</pubDate>
+<description>タイトル：MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation arXiv：https://arxiv.org/abs/2605.27366 ...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/moxart-audio-visual-object-guided-sound-interaction-for-xr/</link>
-<guid>b5b32edda087c9f888dbd5b48eb0c3e384f79c4108df83bdfe939f358d48f3ec</guid>
-<pubDate>Thu, 18 Jun 2026 00:08:05 GMT</pubDate>
+<link>https://research.google/pubs/genai-on-google-cloud-enterprise-generative-ai-systems-and-ai-agents/</link>
+<guid>4252f7a40c6ead58bc2ce3dda586b8d5641702dd4f542298320dbf6e0e5b8342</guid>
+<pubDate>Thu, 18 Jun 2026 05:12:20 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>eeb76e87ddf1859dda05e06cb91fda30667609c66c429c7d0db838d10e713d2e</guid>
-<pubDate>Thu, 18 Jun 2026 00:08:07 GMT</pubDate>
+<guid>96541596b330697db9d19e598d91a84b056b347661d3c3db809f404e1bfe4435</guid>
+<pubDate>Thu, 18 Jun 2026 05:12:22 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>3cf9a9647d7aaf41f7e5287e85eafa1c15d110e6260ef4e8dc627cbc568eacbe</guid>
-<pubDate>Thu, 18 Jun 2026 00:08:10 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02869-y</link>
+<guid>9bf3ce36576f49ddf414800764e8a2960da710b3b4331777c406f51ba599802a</guid>
+<pubDate>Thu, 18 Jun 2026 05:12:24 GMT</pubDate>
+<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04403-9</link>
+<guid>d066c7c684465d8df09091ef83d14222c6c3e1d4253595bb0ef833aca399935d</guid>
+<pubDate>Thu, 18 Jun 2026 05:12:26 GMT</pubDate>
+<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
 </item>
 
 </channel>
