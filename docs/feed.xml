@@ -4,105 +4,91 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 18 Jun 2026 09:51:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 18 Jun 2026 12:46:19 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「そのコード、勝手に使って大丈夫？」IT初心者が最初に知るべき“著作権”の話</title>
-<link>https://qiita.com/prum_hitomi/items/c69fab7dfb1d48ba8b31?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>9427c5bf3b1b46ba4d66b412d55a27742cbe38344dd6ec18bd2db45ea8a86745</guid>
-<pubDate>2026-06-18T13:47:16+09:00</pubDate>
-<description>はじめまして。株式会社PRUMでエンジニアをしているひとみです。 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、 仕事で起きやすい“ズレ”について整理して発信しています。 誰かの助けになれば幸いです。 「そのコード、勝手に使って大丈夫？」IT初心者が最初...</description>
+<title>【Qiita】 【Db2 Geninus Hub】インストール手順</title>
+<link>https://qiita.com/ISE_Db2LUW_Club/items/4b42467faf4f88d5c588</link>
+<guid>c3d3d4e35447bc23c0bf301f7efc8bd54afdb8a6f38c50f4336d24b2297660cb</guid>
+<pubDate>2026-06-18T20:11:35+09:00</pubDate>
+<description>目次 はじめに 事前準備 1. インストール前に決めておくべき情報 2. リポジトリDB用のDb2インスタンス作成 Genius Hubインストール 1. Genius Hubダウンロード 2. リポジトリDB作成 3. インストールイメージ解凍 4. Ge...</description>
 </item>
 <item>
-<title>【Qiita】 ダッシュボードを作ったのに誰も見てくれないので、オントロジーについて考えてみた</title>
-<link>https://qiita.com/KYoshiyama/items/52dc298122587969b39c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>dd62dbf9b7030e069c8a78dd3ad283b4959424224d07e1b61c38a0b42dda9cbf</guid>
-<pubDate>2026-06-18T10:24:07+09:00</pubDate>
-<description>はじめに ダッシュボードを作った。 毎日見てもらうために、メールやSlackで日次配信もするようにした。 ...だけど、誰も見てくれていない。 バラバラだったデータをまとめて、せっかくダッシュボードで見やすくしたのに。 この数ヶ月はなんだったんだ。 似たような経験をした...</description>
+<title>【Qiita】 MacOSでCocos2dx後継の Axmol Engine のAndroid開発環境セットアップ手順</title>
+<link>https://qiita.com/OnuuuumaX/items/ff379fa1fee2711ad470</link>
+<guid>663033b76e9df601cf3fe5f77b7927b9fd55dc3c79d5e03db5c755b6352e3e9f</guid>
+<pubDate>2026-06-18T19:12:27+09:00</pubDate>
+<description>はじめに Axmol Engine は、Cocos2d-x v4.0 からフォークされたオープンソースの C++ マルチプラットフォームゲームエンジンです。iOS / Android / Windows / macOS / WebAssembly / Xbox など幅広い...</description>
 </item>
 <item>
-<title>【Qiita】 Mac で Flutter 開発環境をセットアップする手順（iOS / Android 対応）</title>
-<link>https://qiita.com/OnuuuumaX/items/8a9cf360857c2ada39f2</link>
-<guid>d09dae13cd8c64f25e7f7939ad57652c0148bdbd69c3bb014aa68d5db0165a65</guid>
-<pubDate>2026-06-18T18:43:49+09:00</pubDate>
-<description>はじめに 本記事では、Mac（Apple Silicon / Intel）で Flutter の開発環境をゼロからセットアップする手順をclaudeに手伝ってもらいましてまとめています。 実際のセットアップ作業で遭遇したエラーと解決策も合わせて紹介します。 対象環境 ...</description>
+<title>【Qiita】 OpenClaw が Oracle を破壊した：AIエージェントの「自律的権限昇格」が引き起こす危機</title>
+<link>https://qiita.com/triple4649/items/59cb14d2f0eb2188a5a3</link>
+<guid>e51c75845888ec22ce49fc0a8ca0b8ec1c8957f529d070872c4db65994d4c364</guid>
+<pubDate>2026-06-18T20:54:11+09:00</pubDate>
+<description>「AIがタスクを完遂するためなら、セキュリティルールは無視しても良い」—— これは、現実に起きている危険な事例です。 スライド版はこちら 🔍 はじめに：AIが「正しく」動くことは、必ずしも「安全」ではない 近年、AIエージェント（例：OpenClaw）がデータ...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント疲れの正体は「出力」ではない。真の課題と「永続的メモリ層」という解</title>
-<link>https://qiita.com/memorylakeai/items/15d4d54cb083041eb552</link>
-<guid>91105df832dc12602d4b4d5f0b698014633a41dc59ce2583a752ffac25527697</guid>
-<pubDate>2026-06-18T17:01:45+09:00</pubDate>
-<description>はじめに ここ数ヶ月、CursorやClaude Codeに代表されるAIコーディングエージェントの進化は凄まじく、私たちの開発パラダイムは「AIにコードスニペットを生成させる」フェーズから「ターミナルに統合されたAgentと協働でプロジェクトを推進する」フェーズへと移...</description>
+<title>【Qiita】 Claude Codeでワークフローを自動生成する方法｜チームの開発品質をコンテキストエンジニアリングで統一する</title>
+<link>https://qiita.com/apoloffice/items/06cd146564a6e4e9dcc7</link>
+<guid>6a36912855f71f9ad09ab7b5bfbe30ae3f5e630bcdc2e0d60e34d620adcfd716</guid>
+<pubDate>2026-06-18T19:04:29+09:00</pubDate>
+<description>この記事は「コーディングエージェント勉強会 #4」の内容を一部解説しています。 実際の画面操作・デモ映像を含む動画はYoutubeチャンネルよりオンデマンドで視聴できます👀 この記事でわかること Claude Codeでワークフローを毎回ゼロから作ってしまう根本...</description>
 </item>
 <item>
-<title>【Qiita】 reCAPTCHAはもう限界？AIがボット検証を突破する時代の新しい「人間証明」</title>
-<link>https://qiita.com/abkkk/items/9c0aaf90c373ee0211cf</link>
-<guid>c71d539c31d989fa0f22de5c259c029c6761edb477b07b72b9ac870ea6b7afa3</guid>
-<pubDate>2026-06-18T16:00:19+09:00</pubDate>
-<description>「あなたは人間ですか？」という問いが、もう意味をなさなくなってきた 信号機の画像を選ぶ。横断歩道をクリックする。「私はロボットではありません」にチェックを入れる。 reCAPTCHA（リキャプチャ）はGoogleが提供するボット対策ツールで、長年Webサービスの標準的なbo...</description>
-</item>
-<item>
-<title>【Qiita】 AI エージェントのルールマネージメント - 2026年のメタパターン</title>
-<link>https://qiita.com/shatolin/items/5c18619d3474b7962021</link>
-<guid>1db566592323f5fc6173227b944bad9550562869fd1809969a44f0cc82bb2ea2</guid>
-<pubDate>2026-06-18T18:10:16+09:00</pubDate>
-<description>はじめに Claude Code、Codex、Antigravity CLI（旧 Gemini CLI）などのAIコーディングエージェントを使っていると、各ツール向けの「ルールファイル」をどう管理するかで悩みます。 たとえば次のようなファイルです。 CLAUDE.md ...</description>
-</item>
-<item>
-<title>【農業】 FAO Food Outlook: Global food commodity market trends face rising geopolitical and weather risks</title>
-<link>https://www.fao.org/newsroom/detail/fao-food-outlook--global-food-commodity-market-trends-face-rising-geopolitical-and-weather-risks/en</link>
-<guid>5d963c563286ac3e59568dc1202ec3d8fb2fc2e597c5e784ce8256e3fd1e6bf7</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【農業】 Bracing for El Niño: FAO and WFP launch joint appeal to protect 8.8 million people from extreme weather events</title>
-<link>https://www.fao.org/newsroom/detail/bracing-for-el-ni%C3%B1o--fao-and-wfp-launch-joint-appeal-to-protect-8.8-million-people-from-extreme-weather-events/en</link>
-<guid>2520399b263efb00086e231013ba5fa1439e5d5643abe0eaaa4116b739f7db16</guid>
-<pubDate>Thu, 18 Jun 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【農業】 FAO releases most comprehensive dataset to date on women in agrifood systems</title>
-<link>https://www.fao.org/newsroom/detail/fao-releases-most-comprehensive-dataset-to-date-on-women-in-agrifood-systems/en</link>
-<guid>653be27c9e6c7cd05228b28373c6ff545b72dffb50b7ccc4d29ef99da22a8e20</guid>
-<pubDate>Wed, 17 Jun 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【自動自律実験】 Cell transplant across the tree of life hints at how animals emerged</title>
-<link>https://www.nature.com/articles/d41586-026-01910-0</link>
-<guid>65d5011e243b14755b560fb440a808c8d5810a5e20c784f6c1b8474cbcf3a43c</guid>
+<title>【農業】 Ultraprocessed food research and scientific discourse</title>
+<link>https://www.nature.com/articles/s43016-026-01372-7</link>
+<guid>35cb67e6bb901cab70b34d8f26b10a874089a83c01e912c5f9f33b38f13fcd55</guid>
 <pubDate>2026-06-18</pubDate>
-<description>Embryonic ‘organizer cells’ can tell embryos of various phyla what kind of body to build.</description>
+<description>Ultraprocessed food research faces several methodological limitations that warrant careful scientific examination rather than rhetorical dismissal. Advancing research quality and fostering open dialogue remain essential, alongside timely public health action.</description>
+</item>
+<item>
+<title>【農業】 The validity and utility of Nova and the concept of ultra-processed foods for science and policy</title>
+<link>https://www.nature.com/articles/s43016-026-01371-8</link>
+<guid>5827fea81deb346cb258039d12cf8d7bbe54e43688abc6e5b4947213e40cdd93</guid>
+<pubDate>2026-06-18</pubDate>
+<description>Policymakers often dismiss the health risks associated with the intake of ultra-processed foods, alleging conceptual imprecision and limited evidence. This Perspective offers responses to four such criticisms common in the public discourse.</description>
+</item>
+<item>
+<title>【環境】 Temperate local extinctions from climate change are outpacing tropical extinctions</title>
+<link>https://www.nature.com/articles/s41558-026-02669-y</link>
+<guid>8ff16c12dc154a38d2723ece1981e2dbc8745df0ea10a6c2a40fa0fa9b6ecf78</guid>
+<pubDate>2026-06-18</pubDate>
+<description>The authors analyse global-scale resurvey data for 5,151 species to reveal the sensitivity of tropical versus temperate species to climate change. They show significantly higher frequencies of local extinction in temperate species than in tropical species, linked to faster warming at high latitudes.</description>
+</item>
+<item>
+<title>【自動自律実験】 Clues to the sloth’s sloth found in its genome</title>
+<link>https://www.nature.com/articles/d41586-026-01869-y</link>
+<guid>d62fab6534ccc16244c11bfc98fca59d69da50d03073468caa421e9c8fc4517e</guid>
+<pubDate>2026-06-18</pubDate>
+<description>Sequencing shows duplication of genes that affect mitochondria, the organelles that provide energy for cells.</description>
+</item>
+<item>
+<title>【自動自律実験】 Brexit tore apart European science — now the research rifts are healing</title>
+<link>https://www.nature.com/articles/d41586-026-01841-w</link>
+<guid>ab95528a3ba293bd6998db6b52e4e400823a9ae5d427c9bbc2e8a69138d1d045</guid>
+<pubDate>2026-06-18</pubDate>
+<description>The UK’s share of EU research funding is climbing, but lost networks will be harder to recover.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/its-still-abuse-community-attitudes-and-perceptions-on-ai-generated-image-based-sexual-abuse/</link>
-<guid>6d8defd26e2f71cd297695f5e5c6ed3b6912fae8a7c8b11a4a0015e5f6ac7461</guid>
-<pubDate>Thu, 18 Jun 2026 09:50:29 GMT</pubDate>
+<link>https://research.google/pubs/system-for-a-secure-outcome-based-synthetic-labor-market-using-trusted-execution-environments/</link>
+<guid>c1b2b12106f458b67be96bf425aaeab8584d923311c02bf71804cd510ce9338f</guid>
+<pubDate>Thu, 18 Jun 2026 12:45:38 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>f9268d15515cfa8099f583cd27a4d88785f140a2e9dedfc8ee324bbaf8a49ae8</guid>
-<pubDate>Thu, 18 Jun 2026 09:50:31 GMT</pubDate>
+<guid>3ea46b5f8ae609f451d899574080423e9122b15345db81c4ce3fb8d53c4759e7</guid>
+<pubDate>Thu, 18 Jun 2026 12:45:41 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>076aa47d6544f3a2bafc92947640a770f7df1aff2f11ba8fb083b7a8b29d8047</guid>
-<pubDate>Thu, 18 Jun 2026 09:50:33 GMT</pubDate>
-<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>e17f1cb6238fc87aa49c759b55e319c932d7f9e6bba8b995cb6dc35c88b842df</guid>
-<pubDate>Thu, 18 Jun 2026 09:51:04 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>9bc60e1cbd88320f3625d247f01a4e248f3a7d9e032f20b79c953701c882956d</guid>
+<pubDate>Thu, 18 Jun 2026 12:45:44 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
