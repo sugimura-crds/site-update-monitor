@@ -4,63 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 19 Jun 2026 17:29:36 GMT</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 19:15:22 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 リポジトリ全体に散らばった「残骸」を検出するCLIを作ってみた</title>
-<link>https://qiita.com/tedorigawa001/items/3d1fdeac5d72bf6742e4</link>
-<guid>45771498d42e2227524c5acad7dfe1364905fa4d70830cc844b93b3e77b6824e</guid>
-<pubDate>2026-06-20T02:20:24+09:00</pubDate>
-<description>これは何 bdo (Bushido) は、AIコーディングエージェント（Claude Code など）の出力を圧縮してから LLM に渡すフィルタ・プロキシです。 今回はそこに足した新コマンド bdo stale ―― リポジトリ全体に散らばった「残骸」を検出する lin...</description>
-</item>
-<item>
-<title>【Qiita】 Chat to HTML Converter for Antigravity 公開しました</title>
-<link>https://qiita.com/nobukz/items/dac7fa8e3e149b1e4719</link>
-<guid>4c457301e03d9211992ff7032683fbdcb298d29a937094e0e964decb9ee16a67</guid>
-<pubDate>2026-06-20T00:22:41+09:00</pubDate>
-<description>怒涛のAI環境変化について行けない この半年で、生成AIを利用した開発環境は恐ろしいほどに変貌を遂げました。 Github Copilot &amp; VSCode &amp; Claude Sonnet4.5で俺TUEEと浮かれまくっていたあの頃、こんな記事を書きました。 祭り...</description>
-</item>
-<item>
-<title>【農業】 Oil crop supply chains drive rising global biodiversity loss and outsource impacts to the tropics</title>
-<link>https://www.nature.com/articles/s43016-026-01375-4</link>
-<guid>422ada1e34e80953f668d35383d279be1243f178a7cab3875103c45880b14d7d</guid>
-<pubDate>2026-06-19</pubDate>
-<description>Spatial assessments reveal that oil crop expansion, particularly in tropical regions, threaten global biodiversity. Hotspots of production and consumption are identified, showing that consumption-side interventions can aid in developing strategies to reduce biodiversity impacts.</description>
+<title>【Qiita】 goalコマンドはなぜ仕様を収束させられないのか〜AIエージェントにおける意味ドリフト問題〜</title>
+<link>https://qiita.com/ADHD66502327/items/c239213b39d1e6f851bc</link>
+<guid>f73de81372bd383dd7d2c26e25e9880c5bbe7be221e2c4a5a697bb80c283a72a</guid>
+<pubDate>2026-06-20T02:51:31+09:00</pubDate>
+<description>はじめに 最近のAIエージェントはかなり強い。 少し前までのAIコーディングは、どちらかというと「短い指示に対して短い作業を返す」ものだった。 ところが最近は、長めの作業を自走できるエージェントが増えてきた。 その象徴の一つが、いわゆる /goal コマンドである。 目的...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients-2/</link>
-<guid>6d745146b6a146ba7a2618738cfa83acd4f5591ea242f32a54fab4997725c797</guid>
-<pubDate>Fri, 19 Jun 2026 17:28:59 GMT</pubDate>
+<link>https://research.google/pubs/fair-allocation-of-indivisible-goods-with-variable-groups/</link>
+<guid>a81f2be0d118d20014359577700752a7876c963946cce948a7a213885ee0465e</guid>
+<pubDate>Fri, 19 Jun 2026 19:14:22 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>2877c934512cd611abaeb13b7df25bc1bc32a464ff2ef9fac375dd713adcbfba</guid>
-<pubDate>Fri, 19 Jun 2026 17:29:03 GMT</pubDate>
+<guid>42707f649eb364255d2a8542cf517752ed0da737c0258ed7b0397d5463c77206</guid>
+<pubDate>Fri, 19 Jun 2026 19:14:26 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>d82adc9899ab46fcde43d9bd5601435a977fe6760dcef6bfdbb78e89315239fc</guid>
-<pubDate>Fri, 19 Jun 2026 17:29:05 GMT</pubDate>
-<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>45cb10e9b3c2ba7cc08b633b72cc49eaf51ae341e077d4608cc69290df97622f</guid>
-<pubDate>Fri, 19 Jun 2026 17:29:16 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
-</item>
-<item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>e8094ecb34f849cb91e861960d8c87bff86a137c04950068c30d67a316b4da1d</guid>
-<pubDate>Fri, 19 Jun 2026 17:29:25 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
