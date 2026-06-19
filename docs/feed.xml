@@ -4,63 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 19 Jun 2026 02:13:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 07:36:11 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【Axmol Engine】macOSでVSCodeを使ってiOS/Androidアプリを開発する（プロジェクト作成〜Claude Code連携まで）</title>
-<link>https://qiita.com/OnuuuumaX/items/265c2d0b2b9b131b4aa6</link>
-<guid>1c54719d4be2a7c385ac4e6cd6bd3d1554a08cce8935173ef029477d415cf00e</guid>
-<pubDate>2026-06-19T08:24:03+09:00</pubDate>
-<description>はじめに この記事では、macOS + VSCode を使って Cocos2d-xの後継のAxmol Engine プロジェクトを作成し、Claude Code と連携するまでを解説します。 前提として、以下がすでに完了していることを想定しています。 Homebrew ...</description>
+<title>【Qiita】 【Db2 Genius Hub】起動・停止・稼働確認方法</title>
+<link>https://qiita.com/ISE_Db2LUW_Club/items/3cd3aa08a423d5c0cfc0</link>
+<guid>443aaf347f7a0b0dcdf285ff78cc1f73f751886b292ad14797309aea62afbcb0</guid>
+<pubDate>2026-06-19T15:17:45+09:00</pubDate>
+<description>目次 はじめに Db2 Genius Hub 起動方法 Db2 Genius Hub 稼働確認方法 Db2 Genius Hub停止方法 参考情報 はじめに Db2 Genius Hub は、AIエージェントを搭載し、Db2データベースの監視、パフォーマンス分析、問...</description>
 </item>
 <item>
-<title>【Qiita】 ブラウザ操作AIはオワコン？Project Mariner終了とAPIファースト</title>
-<link>https://qiita.com/kinamocchi_tech/items/6440a661640fe310f494</link>
-<guid>44cf0fd7beddc191eab51c3c6063a944d9db57fad80396a79005f87a296bbc58</guid>
-<pubDate>2026-06-19T10:12:37+09:00</pubDate>
-<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → ブラウザ操作AIはオワコン？Project Mariner終了とAPIファースト はじめに 🐹 もっちー「ねえきなこ、AIエージェントって、ブラウザ...</description>
+<title>【Qiita】 GCP SCCの脆弱性JSONを丸投げしたら、Claude Codeが「npmごと削除」という解法を出してきた</title>
+<link>https://qiita.com/hirashima-gmoconnect/items/04e41905d184997433d9</link>
+<guid>8d76a3c9f4eae7f3534aabf7c6bf9ed9ec61625afa1e0bbd33da5b95e030314e</guid>
+<pubDate>2026-06-19T15:34:58+09:00</pubDate>
+<description>はじめに GMOコネクトの平島です。 GCP Security Command Center（SCC）からコンテナスキャンのアラートが来るたびに、JSONを読み解くのに10〜15分かかっていました。nextSteps フィールドを読んでも汎用的なGCPコンソール操作の手順...</description>
 </item>
 <item>
-<title>【Qiita】 Gemini CLIが6月18日でサービス終了：Antigravity CLI（agy）への45分移行ガイドとサイレント障害3つ</title>
-<link>https://qiita.com/YushiYamamoto/items/478e08e5b55f4bd05b1b</link>
-<guid>ddb776ed7ade7548a046d98c60e3b73d11d91e6f31efb981528cdc596a681d0d</guid>
-<pubDate>2026-06-19T10:03:16+09:00</pubDate>
-<description>2026-06-19 / 昨日（6月18日）、Google の Gemini CLI が個人向けサービスを終了した。後継は Antigravity CLI（バイナリ名：agy）――Go で書き直されたクローズドソースの新ツールだ。本稿は終了翌日時点で確認できる事実を整理し、...</description>
+<title>【Qiita】 GitHub Issue をタスクとして Github Copilotに割り当てる方法</title>
+<link>https://qiita.com/shigeshigeshige/items/80c9fb1141f34cfb6771</link>
+<guid>5e9cb61aaacd7b920cbeb216e3f3b188f95d1ab531a5c50d3ea660bad080e694</guid>
+<pubDate>2026-06-19T15:54:52+09:00</pubDate>
+<description>はじめに 「AI にコードを書かせたいが、どこから始めればいいかわからない」——そんな悩みをよく聞きます。 GitHub Issue を唯一のタスク起点 として、AI エージェントが Issue を読んで自律的に実装・テスト・PR 作成まで進める仕組みを構築しました。本記...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code MCPサーバー接続ガイド（2026年6月）：リモートHTTP・ローカルstdio・スコープ別設定と運用パターン</title>
-<link>https://qiita.com/YushiYamamoto/items/c98df253458fab2cb235</link>
-<guid>5be7e986ebbaa5c598a061d465571a61d0df7bb1782d35bee91212803ee7b251</guid>
-<pubDate>2026-06-19T10:01:24+09:00</pubDate>
-<description>2026年6月時点でModel Context Protocol（MCP）のサーバー数は公式レジストリだけで9,400以上に達した。Claude Code は claude mcp add 1コマンドでこれらのサーバーに接続でき、GitHubのissue・Slackのメッ...</description>
+<title>【Qiita】 なぜAIエージェントは東南アジアの顧客体験を変えるのか？</title>
+<link>https://qiita.com/Agora_io/items/e237756514dca82bd9d9</link>
+<guid>25c0502b525409a052682f546f268804e50037b7369ad7c07aa070a43365a870</guid>
+<pubDate>2026-06-19T14:23:30+09:00</pubDate>
+<description>Agora Japan AIエージェントは単なるカスタマーサポートの自動化ツールではありません。 特に東南アジアでは、顧客との接点そのものを再定義する存在になりつつあります。 その理由はシンプルです。 東南アジアの顧客行動は、欧米市場とは大きく異なるからです。 東南アジ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code のコンテキストとトークン代を節約する実践ガイド。何が毎ターン乗っているかを測ってから減らす【2026年6月版】</title>
-<link>https://qiita.com/Rapls/items/df5a5dcff403343ad9c4</link>
-<guid>d8a75d00cb56df6458fad95d0682a6c21f6612d93760c5507dd88223c8f8fed5</guid>
-<pubDate>2026-06-19T08:26:02+09:00</pubDate>
-<description>WordPress プラグインを Claude Code で開発していて、長いセッションの途中から、応答が雑になり、トークンも気になってきました。6月の料金まわりの話もあって、まず減らそうと考えた。最初に手をかけたのは MCP でした。重いと聞いていたので、接続を切ろうとし...</description>
+<title>【Qiita】 NotionAI使ってみた</title>
+<link>https://qiita.com/masuiti/items/7c05b6b6e2c95da0b95e</link>
+<guid>8d56f24279f3a08ac66a65614f91512babc6fc296b681b8dc626aaad62a5cdaf</guid>
+<pubDate>2026-06-19T14:16:24+09:00</pubDate>
+<description>今回は、NotionAIを使って、ページのレイアウト調整を行ったので、それについてまとめていこうと思います。 記事の構成 1.なぜやったのか 2.どうやるのか 3.結果 4.いいと思った点 5.今後よりどう使えそうか 1.なぜやったのか 私のバンドでは、Notionで...</description>
 </item>
 <item>
-<title>【自動自律実験】 Stem cells banish severe autoimmune disease for 15 years</title>
-<link>https://www.nature.com/articles/d41586-026-01925-7</link>
-<guid>a7cba339fe62b5b97dcf71d7dc225050758d1d3825d8deffc89b93dfc978fd04</guid>
-<pubDate>2026-06-19</pubDate>
-<description>Two people were the first to receive the therapy for a condition that damages the spinal cord and optic nerve.</description>
+<title>【Qiita】 Claude Code のスキルで個人開発アプリの iOS リリースを楽にした話</title>
+<link>https://qiita.com/_it_/items/45127d2e41cafff8477c</link>
+<guid>6e5a3874df920c47fbc277255bcfe923afdd3de3d46036e876629539f175934c</guid>
+<pubDate>2026-06-19T12:46:56+09:00</pubDate>
+<description>概要 【参考】親記事 React Native + Expo（EAS）で開発している iOS アプリのリリース作業について、開発を続けていく中でいくつか自動化できる箇所が出てきました。具体的には、①リリースノート作成（GitHub） と ②iOSアプリ提出（App ...</description>
+</item>
+<item>
+<title>【Qiita】 AIコーディングをシニアエンジニアに変える「Agent Skills」 – SDLCへの実践的適用</title>
+<link>https://qiita.com/TOMOSIA-HieuNT/items/df3e8552e7ff1a9b79ba</link>
+<guid>0024d4acf3dc2bbc5aedf7615a917ff5ff79ef91e11abdadf2f029c914b9b073</guid>
+<pubDate>2026-06-19T16:02:45+09:00</pubDate>
+<description>※ この記事の日本語には、少し不自然な部分があるかもしれません。AIの言語サポートを利用しながら作成しています。 目次 はじめに 1. Agent Skills とは 2. SDLCへの完璧なマッピング 3. 実プロジェクトでの適用方法（私のワークフロー） フェー...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/scaling-telemetry-to-terabytes-applying-googles-principles-to-opentelemetry-with-opamp/</link>
-<guid>389243daebe2b57609cd50a4a701fa2f0f652ba9bf633a83d86c890b73ff2772</guid>
-<pubDate>Fri, 19 Jun 2026 02:12:12 GMT</pubDate>
+<link>https://research.google/pubs/scalable-detection-of-adversarial-synthetic-slop-and-coordinated-media-abuse-a-lora-enabled-multimodal-defense-system/</link>
+<guid>97624aa100f96d8ee95771b1fe307090f7504bdd6302cb9b48f31b7bc8bbf290</guid>
+<pubDate>Fri, 19 Jun 2026 07:35:12 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>8c72ce0b26da31567f539e51cd0fc27fb10f53fc2e68e44308ea3d5fa7358b1c</guid>
-<pubDate>Fri, 19 Jun 2026 02:12:23 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-10764-5</link>
+<guid>5bf25d5f18cc021e7fcbcd6082aee36d9e545fc312e115730ee79288121f82c3</guid>
+<pubDate>Fri, 19 Jun 2026 07:35:14 GMT</pubDate>
+<description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02869-y</link>
+<guid>5122083aa7a77c85ce133e47bebeab2059fb41d1c271a9f49acbcdd16dc9081a</guid>
+<pubDate>Fri, 19 Jun 2026 07:35:16 GMT</pubDate>
+<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
 </item>
 
 </channel>
