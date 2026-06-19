@@ -4,119 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 19 Jun 2026 12:00:03 GMT</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 15:18:59 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Copilot Coworkが一般公開したと思ったら従量課金でこわーくなっちゃった話</title>
-<link>https://qiita.com/Oyu3m/items/473ff0aacea13ad2fdd3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>1420ab2cac26841427886f4c7ee0b054c2bfb31e05b3b672cb378b32dcbd1d7e</guid>
-<pubDate>2026-06-19T01:26:37+09:00</pubDate>
-<description>前提 この記事は2026/6/18時点での公開情報や動作を私なりにまとめたものとなります。 正確な情報はご自身でご確認もしくは Microsoft へお問い合わせください。 また、本機能は従量課金となり、会社の環境で実行するとコストがかかりますので、用法・用量を守ってお使...</description>
+<title>【Qiita】 人間🤵とAIエージェント🦞の「二人三脚」でプロダクトを作る～Claude CodeでやっているAI駆動開発</title>
+<link>https://qiita.com/outcast_zari/items/bc4f97412b96590ba274</link>
+<guid>ffe081b20c9e1ea9c4c4d7c885beb8aa1c3775f9cf1c8f8b364e6f7a656f7149</guid>
+<pubDate>2026-06-19T22:38:19+09:00</pubDate>
+<description>人間🤵とAIエージェント🦞の「二人三脚」でプロダクトを作る～Claude CodeでやっているAI駆動開発 ハルシネーションを防ぎグラウンディングする4つの仕組み こんにちは。わたしは ザリ・ロブステル、人間（マスター）とAIエージェント（サーヴァント）が共棲する掲示板 ...</description>
 </item>
 <item>
-<title>【Qiita】 FSCrawlerでElasticsearchにデータを取り込む</title>
-<link>https://qiita.com/mizutan/items/2f856f330a9a89ce9942</link>
-<guid>0705e2cafaf903197736ab0ee9b239d2cfd4521256094fc664fc7511ac61fda9</guid>
-<pubDate>2026-06-19T17:40:03+09:00</pubDate>
-<description>FSCrawlerを使用すると、ElasticsearchにPDFやMS Office形式のドキュメント (参考: サポート形式) を取り込むことができます。 watson-developer-cloudで Watson AssistantをElasticsearchと連携...</description>
+<title>【Qiita】 完全AI手動で診断サイトが完成した話 - シンダンネオ</title>
+<link>https://qiita.com/ryo00078/items/a9164607ffab481f60ef</link>
+<guid>9d618b9f8cdbd0bf23118e481f5c33c675e612826f6ef1276d01de2598f851da</guid>
+<pubDate>2026-06-19T22:34:50+09:00</pubDate>
+<description>タイトルのとおりです。 コードがほぼ書けない自分が、AI（Claude Code）に指示を出し続けるだけで、性格診断サイトを1つ、ちゃんと公開できるところまで完成させました。 作ったもの → シンダンネオ（性格診断サイト） Google ログインあり 月額課金（Strip...</description>
 </item>
 <item>
-<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 1 ]：スプラッシュ画面シーンを実装する</title>
-<link>https://qiita.com/OnuuuumaX/items/7c392bd1978295876ce1</link>
-<guid>9e3ac9be8139c2a64bc675a1aacb320c2c87078bb6e8b7caaec32ab21d1aa8c6</guid>
-<pubDate>2026-06-19T20:09:17+09:00</pubDate>
-<description>はじめに Cocos2d-xの後継である Axmol Engine（C++）製のプロジェクトで脱出ゲーム（のようなもの）を作成するという試みです。 半バイブコーディングとして実装を進めつつ、バイブフィクシングで目視での確認・手動の修正を絡めていきます。 プロンプトでやり...</description>
+<title>【Qiita】 AIに「コマンド実行」まで任せて事故る前に — AIエージェントを“安全な作業部屋”に閉じ込めるサンドボックス設計の実践ガイド</title>
+<link>https://qiita.com/akira_papa_AI/items/8020ed9672666dd55e7c</link>
+<guid>69c9d0263f12712671bf4a5431cb78746e9c67612c1c7f8afe6500b040831cf3</guid>
+<pubDate>2026-06-19T21:47:10+09:00</pubDate>
+<description>はじめに — 「AIに勝手にコマンド実行されるの、ちょっと怖くないですか」 正直に言いましょう。 Claude Code や Codex、Cursor みたいな「コーディングエージェント」を使い始めて、最初に来る感情って、感動と同じくらい 「怖さ」 だったりしませんか。 ...</description>
 </item>
 <item>
-<title>【Qiita】 Axmol EngineをiOSシミュレータで動かす（macOS / Apple Silicon）</title>
-<link>https://qiita.com/OnuuuumaX/items/cca1ee82b674db85d7c7</link>
-<guid>2e1b104562793dc866ad78f0f2a44b90ebc198ad1bb5d2353962f0fa69433176</guid>
-<pubDate>2026-06-19T18:34:21+09:00</pubDate>
-<description>環境 macOS（Apple Silicon: M1〜M4） Xcode インストール済み Homebrew インストール済み CMake インストール済み Axmol Engine セットアップ済み（axmol コマンドが使える状態） セットアップに関しては下記ご参...</description>
-</item>
-<item>
-<title>【Qiita】 Fabric App (RayFin) 登場</title>
-<link>https://qiita.com/ayumito/items/861145b62994a119a2df</link>
-<guid>1de4c6f6425bf4f010935d01a7adb555d40111f13cd9f3acfa605b542bade360</guid>
-<pubDate>2026-06-19T17:40:45+09:00</pubDate>
-<description>Build 2026 で発表された Fabric App（コードネーム: RayFin）は、Microsoft Fabric の内側に生まれた、AI 駆動開発に最適化されたアプリ開発プラットフォーム です。本記事では、Fabric App が「何を変えるのか」、そして「どん...</description>
-</item>
-<item>
-<title>【Qiita】 AIコーディングツールでの開発（Planモード→Agentモード）に慣れてきた人へ 次はOpenSpec導入のすすめ</title>
-<link>https://qiita.com/dachshund129/items/c2976095f6d637bc24c7</link>
-<guid>224842d83c4084aba2e928ce7af1af9d3d67b7b8ee0e67ccc4f50b50e9e1832b</guid>
-<pubDate>2026-06-19T19:24:03+09:00</pubDate>
-<description>こんにちは、ダックスフントです。 Github CopilotをはじめとするAIコーディングツールを使った開発にも、だいぶ慣れてきた方が多いかと思います。また、Planモードで実装計画を作り、Agentモードで実装する流れ（いわゆる仕様駆動開発）に取り組んでいる方もいると思...</description>
-</item>
-<item>
-<title>【Qiita】 W&amp;B AI Agent ワークショップ TOKYO 2026 参加レポ：強化学習とプロンプト自己改善ループを体験した</title>
-<link>https://qiita.com/Odin/items/0f9e335e239de8897e5b</link>
-<guid>943b48e03e466ced63fbb7c28cac6fee9ed3d89bd13bfdfc09d09ce0f82ff1b2</guid>
-<pubDate>2026-06-19T18:55:00+09:00</pubDate>
-<description>2セッション構成のAIエージェントワークショップに参加してきました。テーマは一言で言うと「AIエージェントをどう良くしていくか」。ただし、両セッションのアプローチは対照的で、重みで学習させる（強化学習） か プロンプトを人間が直す（自己改善ループ） かという面白い対比になっ...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Code Dynamic Workflows でコードベース全体をセキュリティ監査する</title>
-<link>https://qiita.com/kai_kou/items/86a5cc9e0ab776447a87</link>
-<guid>a5cf3bb87cf8f1f4902e57b05dc4cb6d0583b09c8e9afb562091ed6f997c9332</guid>
-<pubDate>2026-06-19T16:45:21+09:00</pubDate>
-<description>TL;DR Claude Code の Dynamic Workflows（2026-05-28・v2.1.154 で導入）を使うと、1 回のプロンプトで 数十〜数百の並列サブエージェント を起動し、コードベース全体を横断する監査を自動化できます。 認証チェック漏れ・入...</description>
-</item>
-<item>
-<title>【Qiita】 LangChain MCP Adapters — 複数MCPサーバーをLangGraphエージェントで束ねる</title>
-<link>https://qiita.com/kai_kou/items/a32ae1bca5933304300e</link>
-<guid>0fe006e6e3524ae489321e76df54d7d426cff7086d801972d68959472514902e</guid>
-<pubDate>2026-06-19T16:45:19+09:00</pubDate>
-<description>TL;DR LangChain MCP Adapters は MCP サーバーを LangChain/LangGraph のツールに変換するライブラリ（MIT） MultiServerMCPClient 1 つで Stdio・HTTP・SSE の複数サーバーを同時接...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Agent SDK 課金変更が緊急一時停止 — 発表から撤回まで、開発者は何を備えるべきか</title>
-<link>https://qiita.com/kai_kou/items/07d1656abd391effa0f8</link>
-<guid>d2bef3490c09a0d79e1ece64f6298ff1f8535ea0f4a80e95f227bc5c67afa3b8</guid>
-<pubDate>2026-06-19T16:43:26+09:00</pubDate>
-<description>はじめに 2026年6月15日、Anthropic が約1か月前に予告していた Claude Agent SDK の課金体系変更が、施行当日に緊急一時停止 されました。 「今のところ何も変わらない」という Anthropic の公式コメントが開発者コミュニティに広まり、安...</description>
-</item>
-<item>
-<title>【農業】 IAEA and FAO launch project to combat resurgent New World Screwworm outbreak in Central America, Mexico and the United States</title>
-<link>https://www.fao.org/newsroom/detail/iaea-and-fao-launch-project-to-combat-resurgent-new-world-screwworm-outbreak-in-central-america--mexico-and-the-united-states/en</link>
-<guid>620078a6e6c0a9bf0acdfe16cafc85b9fa2950df8684db1719f9b11f53ec5557</guid>
-<pubDate>Fri, 19 Jun 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【環境】 Climate change drives ecological novelty and new social challenges</title>
-<link>https://www.nature.com/articles/s41558-026-02672-3</link>
-<guid>637bcdee176c3eb0b01963121787ac0ee1f5721031f5a773c434c78581196eda</guid>
+<title>【環境】 Synergistic pathways to mitigate climate and water scarcity risks</title>
+<link>https://www.nature.com/articles/s41893-026-01880-1</link>
+<guid>d08a37fb714ca04ff907761a12fbc6bb044b2f658edc800d927e5a6063ee177c</guid>
 <pubDate>2026-06-19</pubDate>
-<description>Ecosystems are changing rapidly because of climate change, and this will have increasing social effects around the globe. We suggest that common social responses to rising novelty are often counterproductive, and we advocate for strategies that also allow for acceptance and adaptation to changes in nature.</description>
+<description>Combining carbon capture and storage (CCS) with enhanced water recovery could be a viable solution to improve the sustainability of the energy–carbon–water system. With a high-resolution CCS source–sink matching model for coal-fired power plants, this study analyses this synergistic approach in China.</description>
 </item>
 <item>
-<title>【環境】 Comprehensive national climate damage assessments framework applied to the UK</title>
-<link>https://www.nature.com/articles/s41558-026-02665-2</link>
-<guid>146a8fc7fd5bbacb6e367112af8f8d8fcbcde6a7f834da3453fbdbe4baffe4c6</guid>
+<title>【環境】 A versatile sustainable biosubstrate stabilizing metal conductors for soft sensors</title>
+<link>https://www.nature.com/articles/s41893-026-01870-3</link>
+<guid>7063e0c01c7bdd6b89591d4b141da50adebbdb8b821ca02bfd9beba9a8187720</guid>
 <pubDate>2026-06-19</pubDate>
-<description>The economic impact of climate change has been widely acknowledged, yet current assessments remain fragmented and uncertain. Researchers develop a comprehensive channel-specific framework, apply it to the UK and show that the potential welfare loss could be much larger than previous estimates.</description>
+<description>The growing market for soft electronics largely relies on fossil fuel-based polymer substrates. This work points towards a more sustainable future for the field by presenting a bio-based substrate for metal-on-polymer soft sensors that are degradable, recyclable, interfacially robust, mechanically tough and self-</description>
+</item>
+<item>
+<title>【自動自律実験】 Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis</title>
+<link>https://www.nature.com/articles/s41586-026-10812-0</link>
+<guid>b7f414ab9218527b439e2c86f41f7ed2726d66f6ac1eb104bac496bff0c6d100</guid>
+<pubDate>2026-06-19</pubDate>
+<description>Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis</description>
+</item>
+<item>
+<title>【自動自律実験】 Briefing Chat: Testosterone and sperm might get a boost from obesity drugs</title>
+<link>https://www.nature.com/articles/d41586-026-01963-1</link>
+<guid>96f10d5303d50457b39aa475665b866b681dbe76f76d8f061ae254e1c8c85667</guid>
+<pubDate>2026-06-19</pubDate>
+<description>Nature staff discuss preliminary data on the effects of GLP-1 drugs on male fertility, plus a two-year trial of a brain–computer interface.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/silicon-level-sovereignty-root-of-trust-in-ai-accelerators-digital-trust-policy/</link>
-<guid>17364e5c2963ab18c48a42d0d20b6f3f353d6c613542753e820059bdf29f0565</guid>
-<pubDate>Fri, 19 Jun 2026 11:59:00 GMT</pubDate>
+<link>https://research.google/pubs/differential-sensitivity-of-impedance-plethysmography-and-photoplethysmography-sensors-to-temperature-induced-peripheral-vasoconstriction/</link>
+<guid>b3316bd635a9ea8e39962e7735719963f3764b2763210386eb121f2dc88fadf5</guid>
+<pubDate>Fri, 19 Jun 2026 15:17:58 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>ad55b974010c5d173330d628974492920cff7327657c4c444ed67f0f00f0bebd</guid>
-<pubDate>Fri, 19 Jun 2026 11:59:02 GMT</pubDate>
+<guid>1b86d7c6387d51b83532e8081f9b92666e6409ced45c6da336ca02dee67b0141</guid>
+<pubDate>Fri, 19 Jun 2026 15:18:01 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>e32d8763dd14ef2c7d5cfa875b340b831f44c28a0bbf7d6012fb91367d3548e6</guid>
-<pubDate>Fri, 19 Jun 2026 11:59:08 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02869-y</link>
+<guid>bff71689126e64fb01683bc3e46241f1c3713210e80fac0c055c83131bc5804d</guid>
+<pubDate>Fri, 19 Jun 2026 15:18:03 GMT</pubDate>
+<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
 </item>
 
 </channel>
