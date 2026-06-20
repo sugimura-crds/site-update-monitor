@@ -4,42 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 20 Jun 2026 14:39:13 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 16:12:46 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 note だけに書いていた記事スキルを Qiita・Zenn にも対応させた話</title>
-<link>https://qiita.com/ishizakahiroshi/items/562da7ecf9bc4dc18f96</link>
-<guid>bbbd928fc5e9912e623435f04e85b631faa2cbe65d4d04d3badf3db750426d79</guid>
-<pubDate>2026-06-20T23:14:50+09:00</pubDate>
-<description>note だけに投稿していたことに気づいた Claude Code に /write-article というカスタムスキルを作っていて、記事の下書きをAIに書かせている。 しばらく使っていて気づいたのが、出力先がずっと note だったこと。ハウツー記事も、デバッグ記録...</description>
+<title>【Qiita】 ローカル LLM で AI コーディング支援環境を構築する⑤ (ボトルネック解析)</title>
+<link>https://qiita.com/koutaro_harada/items/f4c1984526cda5409d9e</link>
+<guid>e4336db16c2bab466354ac90d88fa0a3a2cba82e47af287340c6d85f5b7a5d79</guid>
+<pubDate>2026-06-20T23:54:22+09:00</pubDate>
+<description>はじめに !!!!! モデルおよびコードの利用は自己責任でお願いします !!!!! 本稿は「ローカル LLM で AI コーディング支援環境を構築する」シリーズの第 5 回です。 第 4 回では EvaPlus ベンチマークの結果を整理しましたが、その中で下記 2 点が...</description>
 </item>
 <item>
-<title>【Qiita】 総務が&quot;カーナビ式&quot;でAIを運転したら、退職者の引継ぎが見積8営業日→4営業日になった話</title>
-<link>https://qiita.com/akasatan_1/items/da2305cac69a079a3332</link>
-<guid>e56c3807bfa7037d938cb65cc3cf59a675ac217d6deaa721aa0f45c574b4f197</guid>
-<pubDate>2026-06-20T23:11:34+09:00</pubDate>
-<description>なぜこの記事を書くか：「Copilotは使えない」と言う前に 社内で生成AIの話をすると、「Copilotは使えない」「どうせおもちゃでしょ」という声をよく聞く。 でも、自分の実感は逆だ。ツールの素の賢さより、こっちの&quot;運転の仕方&quot;のほうがよっぽどボトルネックだった。同じ...</description>
+<title>【Qiita】 AIが「社員」になって、オフィスで働き出した話</title>
+<link>https://qiita.com/haru-qiita/items/99a9a019323a161aff93</link>
+<guid>e831421512b6cf9c40dc43076fbc98a38753df65622c33ee8d8b468a1a571812</guid>
+<pubDate>2026-06-21T00:27:44+09:00</pubDate>
+<description>AIに仕事を任せる。もう、特別なことではなくなってきましたよね。 文章を書かせる、調べさせる、資料の下書きを作らせる。気づけば日々の業務に、AIがちょこちょこ顔を出すようになりました。経営者やマネージャーの方なら、「うちでもそろそろ本格的に」と考えている方も多いと思います。...</description>
 </item>
 <item>
-<title>【Qiita】 コーディングエージェントを「ループ」で動かす ― “もう一段”自動化したい人のための設計入門</title>
-<link>https://qiita.com/nogataka/items/60c1a9ba6b2cdebacc1f</link>
-<guid>7b850f79084e7be278dccb2afd5444ef8ff3eca713222b00fc94589c4c2b74a9</guid>
-<pubDate>2026-06-20T22:04:33+09:00</pubDate>
-<description>はじめに この記事は、コーディングエージェントとの付き合い方を「1回ずつプロンプトを書く」から「自動で回るループを設計する」へ切り替える、という考え方についての解説と実践メモです。 きっかけは、DAIR.AI の elvis（@omarsar0）さんが書いた「From P...</description>
-</item>
-<item>
-<title>【Qiita】 ハンドラーとして、AIと並走する — ドッグアジリティに学ぶエージェント時代の付き合い方</title>
-<link>https://qiita.com/taka_yayoi/items/4f9f482a7615c73c7bd1</link>
-<guid>95f035bda215aee01bb85bb330f2f4b504c5b1370591a19c325670770e958680</guid>
-<pubDate>2026-06-20T21:26:25+09:00</pubDate>
-<description>「自分で考える力が落ちそう」 あるゲスト講義に向けて、約80名の学生に生成AIに関する事前アンケートを取りました。生成AIを使うことへの不安として最も多かった回答は何だったと思いますか。 「将来仕事が奪われるのが不安」ではありません。それを選んだ学生は25%でした。 最...</description>
+<title>【Qiita】 Coro Code 実践 — Rust製OSSコーディングエージェントをDeepSeekバックエンドで動かす</title>
+<link>https://qiita.com/kai_kou/items/709ef1ef7f5bd8ebcafa</link>
+<guid>dca381ec342448e6057b86e4b51b42c17614dca9bbf3cb8e6c5b0e39771ebec9</guid>
+<pubDate>2026-06-21T00:27:11+09:00</pubDate>
+<description>はじめに 「Claude Code は便利だが、サブスクやAPI課金に縛られず、任意のLLMで動く軽量なCLIエージェントが欲しい」——そう感じたことはないでしょうか。 本記事では、Rust製のOSS CLIコーディングエージェント Coro Code を、ソースからビル...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/bi-level-hierarchical-neural-contextual-bandits-for-online-recommendation/</link>
-<guid>5d6cb679409fb592192068938568240e253f0c4b3f7015a47d16e5dea7c488ba</guid>
-<pubDate>Sat, 20 Jun 2026 14:38:05 GMT</pubDate>
+<link>https://research.google/pubs/window-size-versus-accuracy-experiments-in-voice-activity-detectors/</link>
+<guid>071d32aba2edd072f52ad05cc8f21adf8dea630ec2458efb4ff9e5ce5b48e4ce</guid>
+<pubDate>Sat, 20 Jun 2026 16:11:45 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-10764-5</link>
+<guid>0536e375e57a3b20dd20c467c3d8b09b2e555ac88971aaecacd438282caee1bc</guid>
+<pubDate>Sat, 20 Jun 2026 16:11:48 GMT</pubDate>
+<description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 
 </channel>
