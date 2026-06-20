@@ -4,42 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 20 Jun 2026 16:12:46 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 17:52:40 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 ローカル LLM で AI コーディング支援環境を構築する⑤ (ボトルネック解析)</title>
-<link>https://qiita.com/koutaro_harada/items/f4c1984526cda5409d9e</link>
-<guid>e4336db16c2bab466354ac90d88fa0a3a2cba82e47af287340c6d85f5b7a5d79</guid>
-<pubDate>2026-06-20T23:54:22+09:00</pubDate>
-<description>はじめに !!!!! モデルおよびコードの利用は自己責任でお願いします !!!!! 本稿は「ローカル LLM で AI コーディング支援環境を構築する」シリーズの第 5 回です。 第 4 回では EvaPlus ベンチマークの結果を整理しましたが、その中で下記 2 点が...</description>
+<title>【Qiita】 AIエージェント戦略比較：OpenAI、Anthropic、Google、GitHub、Microsoftは何を目指しているのか</title>
+<link>https://qiita.com/ochtum/items/fa98860c76460188a01f</link>
+<guid>f7779870f60cea5d7fe847056cd003f714aa7665042ae590b377d01d5219619c</guid>
+<pubDate>2026-06-21T01:19:32+09:00</pubDate>
+<description>※お役に立てたらストック、いいねをよろしくお願いします！！ ＜📝本記事のターゲット層＞ AIエージェントの基本と各社戦略を知りたい人 エージェント開発基盤を比較したい開発者 業務自動化やAI導入を検討する企業担当者 目次ページ 🔷AIエージェント戦略比較：O...</description>
 </item>
 <item>
-<title>【Qiita】 AIが「社員」になって、オフィスで働き出した話</title>
-<link>https://qiita.com/haru-qiita/items/99a9a019323a161aff93</link>
-<guid>e831421512b6cf9c40dc43076fbc98a38753df65622c33ee8d8b468a1a571812</guid>
-<pubDate>2026-06-21T00:27:44+09:00</pubDate>
-<description>AIに仕事を任せる。もう、特別なことではなくなってきましたよね。 文章を書かせる、調べさせる、資料の下書きを作らせる。気づけば日々の業務に、AIがちょこちょこ顔を出すようになりました。経営者やマネージャーの方なら、「うちでもそろそろ本格的に」と考えている方も多いと思います。...</description>
-</item>
-<item>
-<title>【Qiita】 Coro Code 実践 — Rust製OSSコーディングエージェントをDeepSeekバックエンドで動かす</title>
-<link>https://qiita.com/kai_kou/items/709ef1ef7f5bd8ebcafa</link>
-<guid>dca381ec342448e6057b86e4b51b42c17614dca9bbf3cb8e6c5b0e39771ebec9</guid>
-<pubDate>2026-06-21T00:27:11+09:00</pubDate>
-<description>はじめに 「Claude Code は便利だが、サブスクやAPI課金に縛られず、任意のLLMで動く軽量なCLIエージェントが欲しい」——そう感じたことはないでしょうか。 本記事では、Rust製のOSS CLIコーディングエージェント Coro Code を、ソースからビル...</description>
+<title>【Qiita】 GitHub Agentic Workflows 実践 — gh aw でリポジトリ運用を自動化する</title>
+<link>https://qiita.com/kai_kou/items/ceeb508742bbc1e0ce57</link>
+<guid>81f3682d5a53d312d1537f8636fa01828c272b6e86d29455702878add5e3f782</guid>
+<pubDate>2026-06-21T01:58:11+09:00</pubDate>
+<description>TL;DR GitHub Agentic Workflows は、.github/workflows/ に Markdown でエージェントの指示を書くと、gh aw CLI がそれを通常の GitHub Actions ワークフロー（.lock.yml）にコンパイル...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/window-size-versus-accuracy-experiments-in-voice-activity-detectors/</link>
-<guid>071d32aba2edd072f52ad05cc8f21adf8dea630ec2458efb4ff9e5ce5b48e4ce</guid>
-<pubDate>Sat, 20 Jun 2026 16:11:45 GMT</pubDate>
+<link>https://research.google/pubs/agentic-coding-needs-proactivity-not-just-autonomy/</link>
+<guid>abd05bb6a97db42f5b8bcf0ab9576bc27682a2b5dbb85b687e7ecd72812ecdb9</guid>
+<pubDate>Sat, 20 Jun 2026 17:52:03 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>0536e375e57a3b20dd20c467c3d8b09b2e555ac88971aaecacd438282caee1bc</guid>
-<pubDate>Sat, 20 Jun 2026 16:11:48 GMT</pubDate>
+<guid>f65d9e6aebfca4260601961abc3fcd5fc187add2305cb54780208ff3f165314a</guid>
+<pubDate>Sat, 20 Jun 2026 17:52:05 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 How to Build a Lab Automation Orchestration Platform</title>
+<link>https://qpillars.com/blog</link>
+<guid>bc5a9f26540b397ca1f57a5f3dffa54583ce65984a52da804c3645b96e334cdf</guid>
+<pubDate>Sat, 20 Jun 2026 17:52:09 GMT</pubDate>
+<description>Technical insights from building intelligent laboratory infrastructure. Engineering deep dives, product updates, and industry analysis from the QPillars team.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>3fc8829776769c18bb9cb2a08ef0e8dd21bd8d34091cf30376c9e3599c9f6322</guid>
+<pubDate>Sat, 20 Jun 2026 17:52:18 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>ecb04f94b937f4060d24fda8fb1852acbe9fbee7dfc2bb7161c938e91ea73137</guid>
+<pubDate>Sat, 20 Jun 2026 17:52:20 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
