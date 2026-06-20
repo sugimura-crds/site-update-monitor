@@ -4,56 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 20 Jun 2026 08:18:20 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 10:45:22 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 ベテランさんが教えてくれない「クリーンアーキテクチャー」を小学生でもわかるように解説</title>
-<link>https://qiita.com/Hashimoto-Noriaki/items/f451a4ecb49a9476f09b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>d0b9ab73c8b25561c9b13218d696f2111b3b6506ac93860d5d99bafe94ce344b</guid>
-<pubDate>2026-06-18T17:28:23+09:00</pubDate>
-<description>概要 クリーンアーキテクチャーってよく聞くけど、なんやねんって思う人いますよね💦 ベテランさんとかもなかなか教えてくれたりしないです。 なのでその内容を小学生にもわかるレベルで、解説していきます。 今回はRailsで実装してますが、 皆さんが使っている言語に置き換えて学ん...</description>
+<title>【Qiita】 LLM記述構文&quot;MARI&quot; Tips: 4体起動の限界に挑むためのスコープ安定性</title>
+<link>https://qiita.com/otoyo0318/items/1be04ec042aa8e8381ab</link>
+<guid>8b56aa5bdd1ac82d106b363ffdee4dac63b55a2e6435e9be8e0ab6f81371a0f6</guid>
+<pubDate>2026-06-20T18:13:04+09:00</pubDate>
+<description>1. はじめに 前回の記事(LLM記述構文&quot;MARI&quot; Tips: IFを用いない論理マトリックスと物理シード)では二体のマルチエージェント(美穂と真穂)を駆動して、MDテーブルの応用例と物理シードの挙動についてご紹介しました。 今回はこの美穂、真穂の双子の姉妹に神戸か...</description>
 </item>
 <item>
-<title>【Qiita】 【AI駆動開発】AIに「図を描いて」と頼むと“それっぽいけど使えない図”が出てくる問題を、draw.io生成スキルで倒した</title>
-<link>https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>dc5e1fbfc750701dd02ecd5d6fcd0a5f50dbd38ca355e9a233eee74f7b023459</guid>
-<pubDate>2026-06-18T02:16:47+09:00</pubDate>
-<description>はじめに 受託開発やSESの現場にいると、とにかく「図」を作る場面が多いんですよね。 業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、...</description>
+<title>【Qiita】 コラム：Claud AI-過剰セーフティガードがもたらす「道具としての予測可能性」の崩壊</title>
+<link>https://qiita.com/otoyo0318/items/b92103091ff69d585c7b</link>
+<guid>ea8fb7bbb539111655c8a50efd507d068933d786d51aba0668eab4d90e3358c0</guid>
+<pubDate>2026-06-20T18:12:50+09:00</pubDate>
+<description>本コラムはLLM記述構文&quot;MARI&quot; Tips: 4体起動で限界に挑むためのスコープ安定性 からの派生となります。 1. 過剰なセーフティガードレール投入の影響 日本時間2026年6月19日09:00頃、AnthropicはClaude AIのOpus及びSonnetモ...</description>
 </item>
 <item>
-<title>【Qiita】 Java 8 と Java 26 を書き比べる — LTS塩漬けプロジェクト脱出ガイド</title>
-<link>https://qiita.com/ryoji9702/items/3a026b7aaabbc143cedb</link>
-<guid>786e710e8395833f67cf5ee153d28cda0aaf59f1782c8d460e589f6e0d7650d8</guid>
-<pubDate>2026-06-20T16:10:42+09:00</pubDate>
-<description>はじめに 2026年3月17日に Java 26 がリリースされました。一方で、現場にはいまだに Java 8 で動き続けるプロジェクトが数多く残っており、筆者自身 Java 8 の学習はしてきましたが Java 26 までは追い切れていません。 本記事では、Java 8...</description>
+<title>【Qiita】 Claude Code Managed Agents入門 — スケジュール実行とCLI統合の実装ガイド</title>
+<link>https://qiita.com/kai_kou/items/337eb235da9b9a081836</link>
+<guid>9fb2df10db164097215e3fc276f8c0aceb29bc3c7d6dc911897e4347e1170772</guid>
+<pubDate>2026-06-20T18:57:28+09:00</pubDate>
+<description>TL;DR 2026年6月、Anthropic が Claude Code Managed Agents をパブリックベータリリース。 スケジュール実行（cron）・CLI tools 安全統合・Vault管理の環境変数が組み込まれた エージェント自動化基盤が登場しました...</description>
 </item>
 <item>
-<title>【Qiita】 `devin` を対話で使うのに疲れた人へ：非対話モード（`devin -p`）でスクリプトに組み込む（Devin for Terminal）</title>
-<link>https://qiita.com/startdevin/items/156e289cb22674f79709</link>
-<guid>be0e4ba4067c6b05d1c0326d62a3df7f04f3e6aa61a11dbf229b87d15d417057</guid>
-<pubDate>2026-06-20T15:36:52+09:00</pubDate>
-<description>はじめに 前回の記事では、Devin for Terminal（devin コマンド）の機能をClaude Codeと並べて紹介しました。Skills、Subagents、Hooks、/handoff——ターミナルに座って対話しながら使う前提の話が中心でした。 ただ、しば...</description>
+<title>【Qiita】 Claude Code 6月新機能 — 5段階エージェントと/cdコマンドで自律開発を実現する</title>
+<link>https://qiita.com/kai_kou/items/81cee59a85d82535e986</link>
+<guid>b913fc4188c7741b33e110f27ab5d9c992325e2bb116973fe729aa47cbb0992d</guid>
+<pubDate>2026-06-20T17:26:50+09:00</pubDate>
+<description>Claude Code の2026年6月アップデートでは、大規模エージェント開発に直結する機能が複数追加されました。本記事では、ネストサブエージェント5段階対応（v2.1.172） と /cd コマンド（v2.1.169） を中心に、実際のコードと使用例でどこまで実践的に使...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/reasoning-driven-synthetic-data-generation-and-evaluation/</link>
-<guid>a9c510cd69f85cf26412f47102e1ddf3fdd3cb40f8571d7698dc4802544b86b5</guid>
-<pubDate>Sat, 20 Jun 2026 08:17:18 GMT</pubDate>
+<link>https://research.google/pubs/peeking-ahead-of-the-field-study-exploring-vlm-personas-as-support-tools-for-embodied-studies-in-hci/</link>
+<guid>e1507cc5e9989990288a179346afce98da11f2db13680212adc5a42a41e3ef27</guid>
+<pubDate>Sat, 20 Jun 2026 10:44:22 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>f1438ad746977d395a286b133cc2426c663df9a50662697e8eeb381434bad5ea</guid>
-<pubDate>Sat, 20 Jun 2026 08:17:20 GMT</pubDate>
+<guid>961f900ca7e6dbfa0c3e79be5561d62f6377d85e177ee7b6c520f4792694f315</guid>
+<pubDate>Sat, 20 Jun 2026 10:44:24 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04403-9</link>
-<guid>fb5e00d5845d63bac703e16145b38329ebe3afe251bdf48a678b88cc07c98765</guid>
-<pubDate>Sat, 20 Jun 2026 08:17:25 GMT</pubDate>
-<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>8be77134981b7a92efd8218f4907b09e135b49659e17949de9df5d6a38cb7905</guid>
+<pubDate>Sat, 20 Jun 2026 10:44:27 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
