@@ -4,56 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 20 Jun 2026 04:49:01 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 08:18:20 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 散らばったライフログを、行動提案に変える仕組みを作ってみた</title>
-<link>https://qiita.com/pyon3/items/beaaf1ec252871efc474</link>
-<guid>8d0ca3de1e457fbc58ccbb6299c3c4ec931406583009f070a556406ed3524ffa</guid>
-<pubDate>2026-06-20T12:10:42+09:00</pubDate>
-<description>はじめに おっさんになると、仕事の予定は放っておいても増えるのに、遊びの予定は「いつかやる」のまま残りがちです。 仕事やPC作業は何年後でも続けられるかもしれない。一方で、身体を使う趣味やアクティビティは、体力、回復力、季節によって実行の難しさが変わります。 明確な「限界...</description>
+<title>【Qiita】 ベテランさんが教えてくれない「クリーンアーキテクチャー」を小学生でもわかるように解説</title>
+<link>https://qiita.com/Hashimoto-Noriaki/items/f451a4ecb49a9476f09b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>d0b9ab73c8b25561c9b13218d696f2111b3b6506ac93860d5d99bafe94ce344b</guid>
+<pubDate>2026-06-18T17:28:23+09:00</pubDate>
+<description>概要 クリーンアーキテクチャーってよく聞くけど、なんやねんって思う人いますよね💦 ベテランさんとかもなかなか教えてくれたりしないです。 なのでその内容を小学生にもわかるレベルで、解説していきます。 今回はRailsで実装してますが、 皆さんが使っている言語に置き換えて学ん...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeで業務効率化に役立つサブエージェント5選｜設定例つきで解説</title>
-<link>https://qiita.com/kamome_susume/items/d0deee260abce30e1f89</link>
-<guid>d25f3e0b659f1e97f57c3f8917c102d3c0cbf1afe5ed6db1ccd895d09bb941b8</guid>
-<pubDate>2026-06-20T10:58:16+09:00</pubDate>
-<description>複雑な開発タスクをClaude Codeに頼んでいて、会話が長くなるほど話が噛み合わなくなってきた……そんな経験はありませんか？コードレビュー、テスト実行、ドキュメント作成など、毎回似たような作業を頼んでいるなら、それぞれ専用の「サブエージェント」を用意するだけで、会話の質...</description>
+<title>【Qiita】 【AI駆動開発】AIに「図を描いて」と頼むと“それっぽいけど使えない図”が出てくる問題を、draw.io生成スキルで倒した</title>
+<link>https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>dc5e1fbfc750701dd02ecd5d6fcd0a5f50dbd38ca355e9a233eee74f7b023459</guid>
+<pubDate>2026-06-18T02:16:47+09:00</pubDate>
+<description>はじめに 受託開発やSESの現場にいると、とにかく「図」を作る場面が多いんですよね。 業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeで設計書作成に使えるサブエージェントの作り方｜要件定義から詳細設計まで</title>
-<link>https://qiita.com/kamome_susume/items/467446c5a6cbd10a5ffa</link>
-<guid>fa9b466df265fe13e0b11bf66f10849b4aa9842bea3c5c0f71b0a8c59cdfa704</guid>
-<pubDate>2026-06-20T10:56:09+09:00</pubDate>
-<description>設計書を書くたびに「フォーマットがバラバラになる」「前回と書き方が違う」と感じていませんか？要件定義書、基本設計書、詳細設計書、DB設計書……それぞれ求められる粒度や観点が違うのに、毎回ゼロから指示を書き直すのは正直しんどい作業です。この記事では、Claude Codeで設...</description>
+<title>【Qiita】 Java 8 と Java 26 を書き比べる — LTS塩漬けプロジェクト脱出ガイド</title>
+<link>https://qiita.com/ryoji9702/items/3a026b7aaabbc143cedb</link>
+<guid>786e710e8395833f67cf5ee153d28cda0aaf59f1782c8d460e589f6e0d7650d8</guid>
+<pubDate>2026-06-20T16:10:42+09:00</pubDate>
+<description>はじめに 2026年3月17日に Java 26 がリリースされました。一方で、現場にはいまだに Java 8 で動き続けるプロジェクトが数多く残っており、筆者自身 Java 8 の学習はしてきましたが Java 26 までは追い切れていません。 本記事では、Java 8...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeで作るAIエージェント入門｜エージェントSDKの基本と実装例</title>
-<link>https://qiita.com/kamome_susume/items/733300cbdc302ae7e4f7</link>
-<guid>3b5e77ef6adf999ad756f4fe8c8db8f8fa30972d6be9cdef3d6a32288be4be87</guid>
-<pubDate>2026-06-20T10:53:00+09:00</pubDate>
-<description>「AIエージェント」という言葉はよく聞くけれど、実際に自分のコードから動かすにはどうすればいいのかわからない……そう感じていませんか？Claude Codeの裏側で動いている仕組みは、実は自分のPythonやTypeScriptのコードからそのまま呼び出すことができます。こ...</description>
+<title>【Qiita】 `devin` を対話で使うのに疲れた人へ：非対話モード（`devin -p`）でスクリプトに組み込む（Devin for Terminal）</title>
+<link>https://qiita.com/startdevin/items/156e289cb22674f79709</link>
+<guid>be0e4ba4067c6b05d1c0326d62a3df7f04f3e6aa61a11dbf229b87d15d417057</guid>
+<pubDate>2026-06-20T15:36:52+09:00</pubDate>
+<description>はじめに 前回の記事では、Devin for Terminal（devin コマンド）の機能をClaude Codeと並べて紹介しました。Skills、Subagents、Hooks、/handoff——ターミナルに座って対話しながら使う前提の話が中心でした。 ただ、しば...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/convapparel-a-benchmark-dataset-and-validation-framework-for-user-simulators-in-conversational-recommenders/</link>
-<guid>a44ab93a5db779a08427d858d5b620df7a0fccac46d650c2f3b1512c25771a1d</guid>
-<pubDate>Sat, 20 Jun 2026 04:48:05 GMT</pubDate>
+<link>https://research.google/pubs/reasoning-driven-synthetic-data-generation-and-evaluation/</link>
+<guid>a9c510cd69f85cf26412f47102e1ddf3fdd3cb40f8571d7698dc4802544b86b5</guid>
+<pubDate>Sat, 20 Jun 2026 08:17:18 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>88c1e487b6a02d7d62411bc612224b819ab8f8fa2ed84c9757dedede0be1ffb1</guid>
-<pubDate>Sat, 20 Jun 2026 04:48:07 GMT</pubDate>
+<guid>f1438ad746977d395a286b133cc2426c663df9a50662697e8eeb381434bad5ea</guid>
+<pubDate>Sat, 20 Jun 2026 08:17:20 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>6debfd6f109edf0d148e81b7de3203097d9dd1106437dc26ee6ca7d1777b7d00</guid>
-<pubDate>Sat, 20 Jun 2026 04:48:09 GMT</pubDate>
-<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
+<link>https://www.nature.com/articles/s41591-026-04403-9</link>
+<guid>fb5e00d5845d63bac703e16145b38329ebe3afe251bdf48a678b88cc07c98765</guid>
+<pubDate>Sat, 20 Jun 2026 08:17:25 GMT</pubDate>
+<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
 </item>
 
 </channel>
