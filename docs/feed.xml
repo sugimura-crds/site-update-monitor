@@ -4,21 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 20 Jun 2026 00:02:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 04:49:01 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【Strands Agents】AWS DevOps Agent を Strands のツールとして組み込んでみた</title>
-<link>https://qiita.com/ryu-ki/items/c5dfe22c21cb1c52df69</link>
-<guid>cef109d1713f70c802fc72aa6963a12fb9ab98269971c75eef225fa0de0352f9</guid>
-<pubDate>2026-06-20T08:29:18+09:00</pubDate>
-<description>はじめに 以前、DevOps Agent のハンズオン記事を書いて Web アプリ上での操作を試しました。 今回は一歩踏み込んで、Strands Agents から DevOps Agent を boto3 経由でツールとして呼び出す方法を試してみたいと思います。 ...</description>
+<title>【Qiita】 散らばったライフログを、行動提案に変える仕組みを作ってみた</title>
+<link>https://qiita.com/pyon3/items/beaaf1ec252871efc474</link>
+<guid>8d0ca3de1e457fbc58ccbb6299c3c4ec931406583009f070a556406ed3524ffa</guid>
+<pubDate>2026-06-20T12:10:42+09:00</pubDate>
+<description>はじめに おっさんになると、仕事の予定は放っておいても増えるのに、遊びの予定は「いつかやる」のまま残りがちです。 仕事やPC作業は何年後でも続けられるかもしれない。一方で、身体を使う趣味やアクティビティは、体力、回復力、季節によって実行の難しさが変わります。 明確な「限界...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeで業務効率化に役立つサブエージェント5選｜設定例つきで解説</title>
+<link>https://qiita.com/kamome_susume/items/d0deee260abce30e1f89</link>
+<guid>d25f3e0b659f1e97f57c3f8917c102d3c0cbf1afe5ed6db1ccd895d09bb941b8</guid>
+<pubDate>2026-06-20T10:58:16+09:00</pubDate>
+<description>複雑な開発タスクをClaude Codeに頼んでいて、会話が長くなるほど話が噛み合わなくなってきた……そんな経験はありませんか？コードレビュー、テスト実行、ドキュメント作成など、毎回似たような作業を頼んでいるなら、それぞれ専用の「サブエージェント」を用意するだけで、会話の質...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeで設計書作成に使えるサブエージェントの作り方｜要件定義から詳細設計まで</title>
+<link>https://qiita.com/kamome_susume/items/467446c5a6cbd10a5ffa</link>
+<guid>fa9b466df265fe13e0b11bf66f10849b4aa9842bea3c5c0f71b0a8c59cdfa704</guid>
+<pubDate>2026-06-20T10:56:09+09:00</pubDate>
+<description>設計書を書くたびに「フォーマットがバラバラになる」「前回と書き方が違う」と感じていませんか？要件定義書、基本設計書、詳細設計書、DB設計書……それぞれ求められる粒度や観点が違うのに、毎回ゼロから指示を書き直すのは正直しんどい作業です。この記事では、Claude Codeで設...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeで作るAIエージェント入門｜エージェントSDKの基本と実装例</title>
+<link>https://qiita.com/kamome_susume/items/733300cbdc302ae7e4f7</link>
+<guid>3b5e77ef6adf999ad756f4fe8c8db8f8fa30972d6be9cdef3d6a32288be4be87</guid>
+<pubDate>2026-06-20T10:53:00+09:00</pubDate>
+<description>「AIエージェント」という言葉はよく聞くけれど、実際に自分のコードから動かすにはどうすればいいのかわからない……そう感じていませんか？Claude Codeの裏側で動いている仕組みは、実は自分のPythonやTypeScriptのコードからそのまま呼び出すことができます。こ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/usability-hasnt-peaked-exploring-how-expressive-design-overcomes-the-usability-plateau/</link>
-<guid>7f67c1753ee6b49debf1a215b7b43be04e8827a43b0d20f13fb93e382fb56317</guid>
-<pubDate>Sat, 20 Jun 2026 00:00:57 GMT</pubDate>
+<link>https://research.google/pubs/convapparel-a-benchmark-dataset-and-validation-framework-for-user-simulators-in-conversational-recommenders/</link>
+<guid>a44ab93a5db779a08427d858d5b620df7a0fccac46d650c2f3b1512c25771a1d</guid>
+<pubDate>Sat, 20 Jun 2026 04:48:05 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-10764-5</link>
+<guid>88c1e487b6a02d7d62411bc612224b819ab8f8fa2ed84c9757dedede0be1ffb1</guid>
+<pubDate>Sat, 20 Jun 2026 04:48:07 GMT</pubDate>
+<description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02869-y</link>
+<guid>6debfd6f109edf0d148e81b7de3203097d9dd1106437dc26ee6ca7d1777b7d00</guid>
+<pubDate>Sat, 20 Jun 2026 04:48:09 GMT</pubDate>
+<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
 </item>
 
 </channel>
