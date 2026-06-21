@@ -4,35 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 21 Jun 2026 21:51:13 GMT</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 23:01:37 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【draw.io】エンジニアの「雑なMermaid」を、綺麗な図解に変換する【アップデート版】</title>
-<link>https://qiita.com/ktdatascience/items/735ebfa8504fc658c812?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>9f15f15ad7accd20eb2d105a439d9a3ea00f890e17da98a57b32dcb820da8bff</guid>
-<pubDate>2026-06-20T14:34:06+09:00</pubDate>
-<description>はじめに この記事の対象読者はこんな人です。 構成図やフロー図を生成AIに清書させているが、「画像だと後から直せない」と感じている人（前回の記事は未読でも大丈夫です） 説明するための図を全部AIで作りたい人 AWSの構成図をAIに描かせたいけど、アイコンや体裁が崩れる...</description>
+<title>【Qiita】 RHEL10 (AnsibleAutomationPlatformサーバー) ログファイルのローテーション設定</title>
+<link>https://qiita.com/c_u/items/fc9b1a7cf112885c9f27</link>
+<guid>8254511bb3d763de9914bb553235bf2ad4dbf9c1d48561f1e7e6c603557f0163</guid>
+<pubDate>2026-06-22T07:58:01+09:00</pubDate>
+<description>はじめに 前の記事(↓)で設定した Ansible Automation Platform (AAP) のログファイル出力について、ログローテーション設定を OS 機能で実装した記録です。 IBM Bob（AI アシスタント）にファイルのログローテートの手順を確認し...</description>
 </item>
 <item>
-<title>【Qiita】 Kiroの仕様駆動開発でチーム分けアプリを1時間で作ってみた</title>
-<link>https://qiita.com/YSasago/items/2ed101acdacd5c9e3fc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>d46b53732e8d30d6d386a5527bc319103b3cb884c83706f60d2c910eb75f1687</guid>
-<pubDate>2026-06-21T11:47:34+09:00</pubDate>
-<description>はじめに AWS Kiro を使って、コードを一切書かずにチーム分けアプリをつくり、デプロイするまでの手順をまとめました。無料プランで簡単なアプリなら開発可能なので、Kiro を試してみたい人の参考になればうれしいです。 今回つくったのは、こんなアプリです。 メンバーを...</description>
+<title>【Qiita】 生成AIを雰囲気で使っている人へ。RAGとAIエージェントまで最短でつながる入門書</title>
+<link>https://qiita.com/yasu1109/items/20d3cc4ce8cf5b7397bf</link>
+<guid>fcbd3cea4efce9a6be4bade2ee9dd374c125a6a22e547fe9dcf2b717d31ac29d</guid>
+<pubDate>2026-06-22T07:32:19+09:00</pubDate>
+<description>ChatGPTは使っているのに、RAGやAIエージェントの話になると急に理解が曖昧になる。 そのままだと、導入判断もプロンプト改善も場当たりになり、仕事で使えるラインまで持っていきにくいです。 生成AIの仕組みからRAG、AIエージェント、導入アクションまで一気につなげて整...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/crosscheck-input-validation-for-wan-control-systems/</link>
-<guid>600ef7b0fe6d181b8b5c2de838e8ad071f55e3cec8670310896af2b7adf602fb</guid>
-<pubDate>Sun, 21 Jun 2026 21:50:14 GMT</pubDate>
+<link>https://research.google/pubs/solving-an-open-problem-in-theoretical-physics-using-ai-assisted-discovery/</link>
+<guid>a3f94a1ed04fd81ed200a59503b310946374243bec5e19e84959a3ef0e91a75d</guid>
+<pubDate>Sun, 21 Jun 2026 23:00:57 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>b26f6b3dbcf7caa734df2258b99beb18bcb31242ebc963427207c9fc17fed371</guid>
-<pubDate>Sun, 21 Jun 2026 21:50:17 GMT</pubDate>
-<description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 
 </channel>
