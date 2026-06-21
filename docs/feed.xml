@@ -4,92 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 21 Jun 2026 12:24:32 GMT</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 14:39:36 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【後編】Guardium Collector HWアプライアンス更改時に知っておくべき導入と廃棄の実作業</title>
-<link>https://qiita.com/N_M_vc/items/b1d9d6aaf7a14e2c6933</link>
-<guid>cbcb24bc7e65dcb425ad599dc2b440cd3844f54b7f92c34f48e8f28c13734311</guid>
-<pubDate>2026-06-21T21:21:36+09:00</pubDate>
-<description>はじめに（前提の整理） Guardium Collector の HWアプライアンスは、 見た目は物理サーバーですが、製品としては SW です。 そのため、更改作業では 契約・問い合わせ・製品整理は SW 前提 実際の導入・更改・廃棄作業は 物理サーバー前提 という二...</description>
+<title>【Qiita】 【魔法の記事】Claude Code ハーネスエンジニアリング 完全ガイド</title>
+<link>https://qiita.com/muryodecode/items/27325f232b602290b8bc</link>
+<guid>97003da044edc7e1e11883be3dc00e4000ac69fa986ff9f95f9a03754abfb872</guid>
+<pubDate>2026-06-21T21:27:15+09:00</pubDate>
+<description>この記事は「魔法の記事」です。 読者のみなさんのコメントが、AIの多段レビューを経て自動的に本文へ反映されます（不適切・無関係な内容は反映されません）。 更新はおおよそ 毎日 0:30 / 8:30 / 16:30 ごろ（JST） です。あなたのコメントが、この記事を...</description>
 </item>
 <item>
-<title>【Qiita】 【前編】Guardium HWアプライアンスは「サーバーの姿をしたSW」である、という整理</title>
-<link>https://qiita.com/N_M_vc/items/14ff014be991ca2e6e31</link>
-<guid>50aee505a32fdad51fd7613f5ac70f482b77d89b8d253277823dba796d6f4c66</guid>
-<pubDate>2026-06-21T21:11:02+09:00</pubDate>
-<description>はじめに Guardium Collector の HWアプライアンスを初めて触ったとき、 「どう見ても普通の物理サーバーでは？」と感じる人は多いと思います。 ラックに載り、BMC（XCC）があり、BIOS操作も必要。 それにもかかわらず、IBM の製品分類上は SW で...</description>
-</item>
-<item>
-<title>【Qiita】 Claudeアクセス障害から紐解く『一強依存の不安』と、マルチAI時代へのシフト、その先は？</title>
-<link>https://qiita.com/m_koishikawa/items/0f0cc15a557a7c88b4e6</link>
-<guid>57100e3a15ac8d946bf88f75502fa56f950851baf0b67b77554de8266c22c115</guid>
-<pubDate>2026-06-21T21:00:59+09:00</pubDate>
-<description>6月18日にClaudeのサービス障害が発生しました。 日本時間の午後4時ごろから、XをはじめとしてSNSで声が上がり障害発生のステータスが表示され、一時的に話題になりました。 URL：https://japan.cnet.com/article/35249117/...</description>
-</item>
-<item>
-<title>【Qiita】 商業書籍の出版をCodexで爆速化するノウハウ</title>
-<link>https://qiita.com/minorun365/items/9059f26629e0976bc0e2</link>
-<guid>3df1585c0c81dd296e18c3feeb0ac86a22dc954697cae5daac07bb32f0b01ddb</guid>
-<pubDate>2026-06-21T20:35:48+09:00</pubDate>
-<description>私はこれまで、ありがたいことに複数の商業技術書を出版させてもらう機会に恵まれました。 長年ライターをやっていたりするわけではなく、エンジニア業務の傍ら、半分趣味で2年ほど執筆を行なっています。 元々Qiitaを書き慣れていて筆が速いというのもありますが、特にここ半年ほ...</description>
-</item>
-<item>
-<title>【Qiita】 Paperclipで並列AI開発を回すと、詰まるのは生成じゃなくレビューだった</title>
-<link>https://qiita.com/tkanata-sugoi/items/548325c5b4eb01d8fab7</link>
-<guid>8c0edb1920fb46b414fc1d61a7c58465cfe0073f53b66a4cffe4e5d13fb536d7</guid>
-<pubDate>2026-06-21T20:10:21+09:00</pubDate>
-<description>やりたかったこと Paperclip は、AI エージェントで構成されたチームを簡単に作れる無料の仕組みです。 まず「会社」の役割とゴールを決めると、それに合わせた AI エージェントが自動で作られ、ゴールに向けてタスクを進めていきます。 私が決めた役割は「編集社」...</description>
-</item>
-<item>
-<title>【Qiita】 ローカルLLMおじさん、OpenRouterに敗北する</title>
-<link>https://qiita.com/mofuteq/items/8447b3070600a0c2ee2d</link>
-<guid>d362c1599d6b619b1e26ea723d79bd838829a5c835126bda3db22e7cdd677f51</guid>
-<pubDate>2026-06-21T20:06:25+09:00</pubDate>
-<description>どうも、ローカルLLMおじさんです。 GPUにモデルを載せる。 Ollamaで動かす。 vLLMでスループットを出す。 量子化して、VRAMに押し込む。 全部、自分の手元で動く。 くぅ〜、たまらねぇ。 ……と思っていた時期がありました。 気づけば、Agentを作っていたはず...</description>
-</item>
-<item>
-<title>【Qiita】 PCを閉じても作業が続くCLI：Devin for Terminal の `/handoff` でローカルとクラウドを往復する</title>
-<link>https://qiita.com/startdevin/items/882f4e4a761a119b8df2</link>
-<guid>b2995f0e05416658949d9279e8de228d5bcbdaee8bdacdb503f3b6dbd896a746</guid>
-<pubDate>2026-06-21T20:04:54+09:00</pubDate>
-<description>🚀 Devin専門の解説メディア「StartDevin」を運営中！ Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています。 👉 StartDevin をチェックする（startdevin.jp） はじめに ローカルで動くコーディングCLI...</description>
-</item>
-<item>
-<title>【Qiita】 AIが書いたコードをレビューする時間が、自分で書く時間を超えた——2026年の開発者事情を整理する</title>
-<link>https://qiita.com/long-910/items/e7aa269e81c8274ded62</link>
-<guid>867ecf011de8d4ea4aca0145186620bfb6cfaf00dd4a9135f5e8cc15a90c5ff9</guid>
-<pubDate>2026-06-21T20:11:48+09:00</pubDate>
-<description>はじめに 「AIにコードを書かせる」ではなく「AIが書いたコードをレビューする」が開発者の主な仕事になりつつある——そんな変化が数字として表れ始めました。 2026年の調査によると、開発者が AI 生成コードのレビューに使う時間は週 11.4時間、一方で自分でコードを書く...</description>
+<title>【Qiita】 grep が強くなる条件 ― Agent 時代の検索設計（RAG 第3回）</title>
+<link>https://qiita.com/gaop2560/items/67de779fc08144fe6b9c</link>
+<guid>a70388f06bcbcbfad71b259e8fce1f32accb9f3f5d0dc2b713e641d57c9e8c72</guid>
+<pubDate>2026-06-21T21:47:56+09:00</pubDate>
+<description>最先端AIを技術の中身まで読み解く「AIウォッチ」の連載記事です（RAG 全10回・第3回）。初出は本サイトです。全10回の一覧もそちらに。 → https://aiwatch-jp.pages.dev/rag-overview-03 前回は、BM25 とベクトル検...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/system-for-a-secure-outcome-based-synthetic-labor-market-using-trusted-execution-environments/</link>
-<guid>e6187174695aa2e16b872e47549ec4b39d455a081f633e06cd78876f0f13eb54</guid>
-<pubDate>Sun, 21 Jun 2026 12:23:42 GMT</pubDate>
+<link>https://research.google/pubs/scaling-telemetry-to-terabytes-applying-googles-principles-to-opentelemetry-with-opamp/</link>
+<guid>f27ec163ec01d05d648da2932053b66e89b92278d0d8f031663c15bb6a311237</guid>
+<pubDate>Sun, 21 Jun 2026 14:38:36 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>e1f3f9f951a225d8c872e4bfc15625a6afb49b901427824b0f73611fd233295a</guid>
-<pubDate>Sun, 21 Jun 2026 12:23:45 GMT</pubDate>
-<description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>2e0af7a746d036093bc017ad1b056cdaeb88fcedfa580d7c7f5e93aa59210f9b</guid>
-<pubDate>Sun, 21 Jun 2026 12:23:48 GMT</pubDate>
-<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>1981bdb0f56457dd10b102942adf29fa762e881a2ab38bbeeb57b9246a93bad7</guid>
-<pubDate>Sun, 21 Jun 2026 12:24:12 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
