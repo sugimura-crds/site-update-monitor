@@ -4,35 +4,85 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 21 Jun 2026 01:46:20 GMT</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 06:45:00 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Antigravity を使ってみた。</title>
-<link>https://qiita.com/tarosuke777000/items/e4cb91fb4acc27bdbff8</link>
-<guid>c629f15cbcbb1452ffa6effa61200242762218ede9f7337f2560f40fefb3427d</guid>
-<pubDate>2026-06-21T09:50:25+09:00</pubDate>
-<description>はじめに 個人の無課金のため、無料で使えるAIツールを彷徨う今日この頃。 GitHub Copolotを使っていたけど、Gemini CLIの存在を思い出し、調べなおすと 「Antigravity CLI」に移行？ というわけで、Antigravityを使ってみまし...</description>
+<title>【Qiita】 PowerVS IBM i 日記(106): IBM Cloud CLIでPowerVSの環境とインスタンスを作成する</title>
+<link>https://qiita.com/6onoda/items/4ccab51273e807fbf7b1</link>
+<guid>0b0fbfee2c76f62fdf0c14dd60636201165b4f09eb0040b10de2f8f21e216599</guid>
+<pubDate>2026-06-21T13:06:31+09:00</pubDate>
+<description>前回、「PowerVS IBM i 日記(105): IBM Cloud CLIでPowerVSのDCの利用可能な機能やいろいろな情報を確認する」では、 IBM Cloud CLIでPowerVSの情報をCLIで確認しました。 今回はCLIでPowerVSの環境とインスタン...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントに記憶を持たせると組織はどう変わるか：8体を6ヶ月実運用した観察記録</title>
-<link>https://qiita.com/agentmemories/items/926ec7f46a5c07c548e5</link>
-<guid>5306d87e6e7ff23daef9dbd8f812b2bb9b912b51695be2e2ef14e9f871c3268c</guid>
-<pubDate>2026-06-21T09:41:04+09:00</pubDate>
-<description>はじめに 私たちは、AIエージェント8体で構成された「組織」を6ヶ月以上運用しています。各エージェントには役割があり（統括、品質管理、コンテンツ制作、SNS運用、デザインなど）、Discord上で人間のオーナー1人と協働しながら、ブログ・SNS・Webサービスの運営を日次...</description>
+<title>【Qiita】 【Axmol Engine】Android Studio のエミュレータでゲームを起動する</title>
+<link>https://qiita.com/OnuuuumaX/items/7eccdfa4f3ff6c8401d8</link>
+<guid>603b5d669ce302b22ed2440c16d3069c29d45d9f1a0b863662341c18b7b30815</guid>
+<pubDate>2026-06-21T14:04:11+09:00</pubDate>
+<description>はじめに Axmol Engine（Cocos2d-x の後継フォーク）で作成したプロジェクトを、Android Studio のエミュレータで動作確認する手順を解説します。 前提 Axmol Engine がインストール済みで AX_ROOT 環境変数が設定されて...</description>
 </item>
 <item>
-<title>【Qiita】 複数のCodexに文書レビューを分担させたら、見落としは減りそうだが万能ではなかった</title>
-<link>https://qiita.com/Kota_Su/items/dd70368113a107214cbb</link>
-<guid>1542c58a70e9106ac5d7e5b151a700aa414763338b61ffaaf64c1872051c8490</guid>
-<pubDate>2026-06-21T09:16:20+09:00</pubDate>
-<description>複数のCodexに文書レビューを分担させたら、見落としは減りそうだが万能ではなかった この記事は、複数のCodex sessionに文書レビューを分担させる運用を、小さく実験した記録です。 結論から言うと、複雑な文書レビューでは効果がありそうでした。 ただし、万能ではあり...</description>
+<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 2 ]：タイトルシーンを作って画像を表示する（iPhone/Android対応）</title>
+<link>https://qiita.com/OnuuuumaX/items/6698767a647a9fa2100b</link>
+<guid>c2cd22daebe30a68b6a528f48386dc99c95e16a7e15f7ec420cfc767415c83c8</guid>
+<pubDate>2026-06-21T12:10:36+09:00</pubDate>
+<description>はじめに 前回すプラッシュ画面を作成しましたので、今回は続きましてタイトル画面の作成になります。 まずは始めに成果物 前回の「【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 1 ]：スプラッシュ画面シーンを実装する」からの続きです。 ...</description>
+</item>
+<item>
+<title>【Qiita】 AIに仕様駆動開発を“強制”する仕組みを作る（第1回・総論）</title>
+<link>https://qiita.com/NeoSoleil/items/86ee72e8ad957448e4b6</link>
+<guid>b3d1604c5318f55ba67cbd26f992b204e15b1dea245e279e34428f932b5b89ea</guid>
+<pubDate>2026-06-21T14:29:51+09:00</pubDate>
+<description>はじめに 個人・学習用のアプリ開発を題材に、AIエージェント（Claude Code）に仕様駆動開発（SDD）を守らせ続けるための監督の仕組み＝「ハーネス」 を作った記録のシリーズです。 第1回（総論）では、次を扱います。 なぜAIは「お願い（指示書）」を守ってくれ...</description>
+</item>
+<item>
+<title>【Qiita】 オープンウェイトのフロンティアモデルが実用域に入った2026年中盤：MiniMax M3・NVIDIA Nemotron 3 Ultra・中国勢とモデル可搬性の設計</title>
+<link>https://qiita.com/YushiYamamoto/items/c229ed2312750dd85530</link>
+<guid>9d6fcef21ccecb79b5c60b3928a40d9c4bd5359688f6c7d581b6b10c279e7b80</guid>
+<pubDate>2026-06-21T13:02:39+09:00</pubDate>
+<description>2026-06-21 / この1か月、オープンウェイトのLLMが「フロンティア級のコーディング」「100万トークン級のロングコンテキスト」「ネイティブなマルチモーダル」を同時に名乗り始めた。6月1日に MiniMax M3、6月4日に NVIDIA Nemotron 3 ...</description>
+</item>
+<item>
+<title>【Qiita】 Kiro CLI v3.0.0がやってくる！</title>
+<link>https://qiita.com/kamogashira/items/a3a06fafce2343c4bb6c</link>
+<guid>cbacba78459ff85990fb4963819a99be85a53f2e3f09edaafb4a4f54c24df498</guid>
+<pubDate>2026-06-21T12:16:50+09:00</pubDate>
+<description>はじめに 本記事では、Kiro CLI v2.8.0 で先行公開された Kiro CLI v3（Early Access）の仕様駆動開発（Spec-driven development）を紹介します。この機能は kiro-cli --v3 で先行的に試せます（正式版の v...</description>
+</item>
+<item>
+<title>【Qiita】 サブエージェントの報告は「自由文」より「決まった型」で受け取る — Claude Codeで並列調査を“そのまま集計できる形”にする実践</title>
+<link>https://qiita.com/StreamSolty/items/bd039b8004d9420dd96d</link>
+<guid>6de4b38518f0351128bf6bf75c4e12e5a916e18d79b3b37a733f8f3c7ff859f1</guid>
+<pubDate>2026-06-21T12:08:46+09:00</pubDate>
+<description>複数のフォルダやサービスをサブエージェントで一括調査（横断調査・棚卸し）すると、最後に集計が手作業へ逆戻りする——この記事は、それを「報告の構造化」で解く話です。 Claude Code（Anthropicの公式CLI）でサブエージェントを並列に走らせて「たくさんの対象をま...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/adversarial-attacks-on-multimodal-large-language-models-a-comprehensive-survey/</link>
-<guid>e96940704412bed59a1290c7fb468e154e67ca7a94ea0e63a642bb73604d6e4a</guid>
-<pubDate>Sun, 21 Jun 2026 01:45:15 GMT</pubDate>
+<link>https://research.google/pubs/towards-ai-as-a-collaborative-partner-a-taxonomy-of-ai-agent-behavior-in-software-engineering/</link>
+<guid>0f467c2a48f3a4f1501b458d74ae80b6a566062d575d4cf6dacf34cf1b621f91</guid>
+<pubDate>Sun, 21 Jun 2026 06:44:21 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-10764-5</link>
+<guid>741f343d70cad24ebbb09c0986ce8830f008c6f467235c795dd0fb74fe1dce62</guid>
+<pubDate>Sun, 21 Jun 2026 06:44:23 GMT</pubDate>
+<description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02869-y</link>
+<guid>46f7a86829c06320985fcdd664b38617a190acbdfa828822f8ddbd4b8116620f</guid>
+<pubDate>Sun, 21 Jun 2026 06:44:26 GMT</pubDate>
+<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>a4a5b627628e990601a6ae7dfa2bb5838170c7dc45b0a73b3bfdf992bdb4adfa</guid>
+<pubDate>Sun, 21 Jun 2026 06:44:41 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
