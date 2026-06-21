@@ -4,20 +4,34 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 21 Jun 2026 20:10:52 GMT</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 21:51:13 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 【draw.io】エンジニアの「雑なMermaid」を、綺麗な図解に変換する【アップデート版】</title>
+<link>https://qiita.com/ktdatascience/items/735ebfa8504fc658c812?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>9f15f15ad7accd20eb2d105a439d9a3ea00f890e17da98a57b32dcb820da8bff</guid>
+<pubDate>2026-06-20T14:34:06+09:00</pubDate>
+<description>はじめに この記事の対象読者はこんな人です。 構成図やフロー図を生成AIに清書させているが、「画像だと後から直せない」と感じている人（前回の記事は未読でも大丈夫です） 説明するための図を全部AIで作りたい人 AWSの構成図をAIに描かせたいけど、アイコンや体裁が崩れる...</description>
+</item>
+<item>
+<title>【Qiita】 Kiroの仕様駆動開発でチーム分けアプリを1時間で作ってみた</title>
+<link>https://qiita.com/YSasago/items/2ed101acdacd5c9e3fc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>d46b53732e8d30d6d386a5527bc319103b3cb884c83706f60d2c910eb75f1687</guid>
+<pubDate>2026-06-21T11:47:34+09:00</pubDate>
+<description>はじめに AWS Kiro を使って、コードを一切書かずにチーム分けアプリをつくり、デプロイするまでの手順をまとめました。無料プランで簡単なアプリなら開発可能なので、Kiro を試してみたい人の参考になればうれしいです。 今回つくったのは、こんなアプリです。 メンバーを...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/approximate-vs-precise-an-experiment-in-what-impacts-user-choice-when-apps-request-location-access/</link>
-<guid>7648285c795ca1d70ff905cad96d00d8cef4a0693cfc72004bbaa65067b9d7c1</guid>
-<pubDate>Sun, 21 Jun 2026 20:09:55 GMT</pubDate>
+<link>https://research.google/pubs/crosscheck-input-validation-for-wan-control-systems/</link>
+<guid>600ef7b0fe6d181b8b5c2de838e8ad071f55e3cec8670310896af2b7adf602fb</guid>
+<pubDate>Sun, 21 Jun 2026 21:50:14 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>9a04bea8467349fac0b9047326b3d6c64e08245fad79f07806c66d797c24c64a</guid>
-<pubDate>Sun, 21 Jun 2026 20:09:58 GMT</pubDate>
+<guid>b26f6b3dbcf7caa734df2258b99beb18bcb31242ebc963427207c9fc17fed371</guid>
+<pubDate>Sun, 21 Jun 2026 21:50:17 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 
