@@ -4,85 +4,84 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 21 Jun 2026 06:45:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 21 Jun 2026 10:25:54 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 PowerVS IBM i 日記(106): IBM Cloud CLIでPowerVSの環境とインスタンスを作成する</title>
-<link>https://qiita.com/6onoda/items/4ccab51273e807fbf7b1</link>
-<guid>0b0fbfee2c76f62fdf0c14dd60636201165b4f09eb0040b10de2f8f21e216599</guid>
-<pubDate>2026-06-21T13:06:31+09:00</pubDate>
-<description>前回、「PowerVS IBM i 日記(105): IBM Cloud CLIでPowerVSのDCの利用可能な機能やいろいろな情報を確認する」では、 IBM Cloud CLIでPowerVSの情報をCLIで確認しました。 今回はCLIでPowerVSの環境とインスタン...</description>
+<title>【Qiita】 入門から実践 -「🔁 ループエンジニアリング」</title>
+<link>https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f6c5c82b800c56a21f736e1bc81d1f795ec02f1221e87f62215ce64ccb174df0</guid>
+<pubDate>2026-06-20T15:32:57+09:00</pubDate>
+<description>前書き 最近 X やブログで 「Loop Engineering（ループエンジニアリング）」 という言葉をやたら見るようになりました。 「もう Claude に指示は出していない、私の仕事はループを書くことだ」 みたいな、ちょっと面白い言い回しで流れてくるアレです 最初は...</description>
 </item>
 <item>
-<title>【Qiita】 【Axmol Engine】Android Studio のエミュレータでゲームを起動する</title>
-<link>https://qiita.com/OnuuuumaX/items/7eccdfa4f3ff6c8401d8</link>
-<guid>603b5d669ce302b22ed2440c16d3069c29d45d9f1a0b863662341c18b7b30815</guid>
-<pubDate>2026-06-21T14:04:11+09:00</pubDate>
-<description>はじめに Axmol Engine（Cocos2d-x の後継フォーク）で作成したプロジェクトを、Android Studio のエミュレータで動作確認する手順を解説します。 前提 Axmol Engine がインストール済みで AX_ROOT 環境変数が設定されて...</description>
+<title>【Qiita】 Claude Codeで チーム開発ルール を「覚えるもの」から「自動で守るもの」に変える</title>
+<link>https://qiita.com/rairaii/items/a1b622ff1faf4ca34231?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>8e00205a1affe183923d18d1f351235ba6d6412268319fe9fdf08490cb4a7c51</guid>
+<pubDate>2026-06-19T16:57:50+09:00</pubDate>
+<description>実現したいこと Claude Code にこう頼む Rust で “Hello, World!” と表示するプログラムを作って。Issue 作成から実装、PR、マージまでやって。進め方はこのリポジトリのルールに従って Claudeに伝えるのはそれだけ コミットメッセー...</description>
 </item>
 <item>
-<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 2 ]：タイトルシーンを作って画像を表示する（iPhone/Android対応）</title>
-<link>https://qiita.com/OnuuuumaX/items/6698767a647a9fa2100b</link>
-<guid>c2cd22daebe30a68b6a528f48386dc99c95e16a7e15f7ec420cfc767415c83c8</guid>
-<pubDate>2026-06-21T12:10:36+09:00</pubDate>
-<description>はじめに 前回すプラッシュ画面を作成しましたので、今回は続きましてタイトル画面の作成になります。 まずは始めに成果物 前回の「【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 1 ]：スプラッシュ画面シーンを実装する」からの続きです。 ...</description>
+<title>【Qiita】 RAGを本当に使うために、処理段階ごとに優秀手法を整理してみた</title>
+<link>https://qiita.com/engchina/items/3060140b10a9a35021f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f0f66a5717aa6f57c0891a8053574b162a8164c76f54dec828b96ba6388e8c6e</guid>
+<pubDate>2026-06-20T13:17:29+09:00</pubDate>
+<description>初めに 最近、RAG の実装例はかなり増えました。 Dify、RAGFlow、LlamaIndex、LangChain、GraphRAG、LightRAG、Docling、Marker、Unstructured、RAG-Anything、ColPali、PageIndex...</description>
 </item>
 <item>
-<title>【Qiita】 AIに仕様駆動開発を“強制”する仕組みを作る（第1回・総論）</title>
-<link>https://qiita.com/NeoSoleil/items/86ee72e8ad957448e4b6</link>
-<guid>b3d1604c5318f55ba67cbd26f992b204e15b1dea245e279e34428f932b5b89ea</guid>
-<pubDate>2026-06-21T14:29:51+09:00</pubDate>
-<description>はじめに 個人・学習用のアプリ開発を題材に、AIエージェント（Claude Code）に仕様駆動開発（SDD）を守らせ続けるための監督の仕組み＝「ハーネス」 を作った記録のシリーズです。 第1回（総論）では、次を扱います。 なぜAIは「お願い（指示書）」を守ってくれ...</description>
+<title>【Qiita】 バックエンドAPIの認証認可、IDトークンとアクセストークン、どちらを選ぶべきか？</title>
+<link>https://qiita.com/takumiida1/items/125848fbd00ff78f4daa</link>
+<guid>4a56f01a701e131f6f77f2ee8d39ef77a1db8fb3f7abcf2d1b6bd789f4a10392</guid>
+<pubDate>2026-06-21T19:15:37+09:00</pubDate>
+<description>Summary OIDCの仕様から見ると、IDトークンはクライアントアプリケーションが消費するものと位置付けられており、APIサーバー（リソースサーバー）での利用は、その仕様上の役割と異なるアプローチになる 例えば、Amazon API GatewayのCognito...</description>
 </item>
 <item>
-<title>【Qiita】 オープンウェイトのフロンティアモデルが実用域に入った2026年中盤：MiniMax M3・NVIDIA Nemotron 3 Ultra・中国勢とモデル可搬性の設計</title>
-<link>https://qiita.com/YushiYamamoto/items/c229ed2312750dd85530</link>
-<guid>9d6fcef21ccecb79b5c60b3928a40d9c4bd5359688f6c7d581b6b10c279e7b80</guid>
-<pubDate>2026-06-21T13:02:39+09:00</pubDate>
-<description>2026-06-21 / この1か月、オープンウェイトのLLMが「フロンティア級のコーディング」「100万トークン級のロングコンテキスト」「ネイティブなマルチモーダル」を同時に名乗り始めた。6月1日に MiniMax M3、6月4日に NVIDIA Nemotron 3 ...</description>
+<title>【Qiita】 AIに仕様駆動開発を“強制”する仕組みを作る（第2回・指示と文脈の層）</title>
+<link>https://qiita.com/NeoSoleil/items/d1822ec5ad5e4b3c1e33</link>
+<guid>f085457ad4f1fa7d08676cd1eeb7aeed32d2e186aadb834904922e1593726c54</guid>
+<pubDate>2026-06-21T18:24:46+09:00</pubDate>
+<description>はじめに シリーズ第2回。第1回（総論） の続きです。 この記事では、AIに「何を・いつ」知らせるかを設計する2つの仕組み——CLAUDE.md（憲法／索引）と .claude/rules/（パス別ルール）——と、助言を機械強制へ“格上げ”する橋渡しを扱います。...</description>
 </item>
 <item>
-<title>【Qiita】 Kiro CLI v3.0.0がやってくる！</title>
-<link>https://qiita.com/kamogashira/items/a3a06fafce2343c4bb6c</link>
-<guid>cbacba78459ff85990fb4963819a99be85a53f2e3f09edaafb4a4f54c24df498</guid>
-<pubDate>2026-06-21T12:16:50+09:00</pubDate>
-<description>はじめに 本記事では、Kiro CLI v2.8.0 で先行公開された Kiro CLI v3（Early Access）の仕様駆動開発（Spec-driven development）を紹介します。この機能は kiro-cli --v3 で先行的に試せます（正式版の v...</description>
+<title>【Qiita】 Agentforce 有効化手順まとめ｜Summer &#x27;26対応 設定ガイド</title>
+<link>https://qiita.com/ubakichi_sr_mc_ai_06/items/f5c211b74df253c43520</link>
+<guid>a29dd06d2c39b9da81d2a8811066b25a99def69cd712cd51b36e6749b35f2b09</guid>
+<pubDate>2026-06-21T16:49:48+09:00</pubDate>
+<description>はじめに 「Agentforceを触ってみたいけど、どこから始めればいいの？」 という相談を、管理者・開発者問わずよく受けます。 実務でAgentforceの検証環境を用意する機会があったとき、設定メニューの場所がわからず最初から少し手こずりました。 この記事では、Age...</description>
 </item>
 <item>
-<title>【Qiita】 サブエージェントの報告は「自由文」より「決まった型」で受け取る — Claude Codeで並列調査を“そのまま集計できる形”にする実践</title>
-<link>https://qiita.com/StreamSolty/items/bd039b8004d9420dd96d</link>
-<guid>6de4b38518f0351128bf6bf75c4e12e5a916e18d79b3b37a733f8f3c7ff859f1</guid>
-<pubDate>2026-06-21T12:08:46+09:00</pubDate>
-<description>複数のフォルダやサービスをサブエージェントで一括調査（横断調査・棚卸し）すると、最後に集計が手作業へ逆戻りする——この記事は、それを「報告の構造化」で解く話です。 Claude Code（Anthropicの公式CLI）でサブエージェントを並列に走らせて「たくさんの対象をま...</description>
+<title>【Qiita】 触ってみたら今まで「途中で止まる・自己申告完了」が当たり前だったのが嘘みたいになった — GOAL-Loop Skill の設計とデモ</title>
+<link>https://qiita.com/shahin0809/items/37ce6b2e8799677b2493</link>
+<guid>b433e6406fd7e733926098619ab9edfa18e9ab61c64fad3572b0a798cdf01856</guid>
+<pubDate>2026-06-21T16:18:24+09:00</pubDate>
+<description>はじめに こんちには！GitHub Copilot Agent を毎日何かしら試しているShahinです！ この記事が少しでも参考になったら、ぜひいいね・共有をお願いします。 間違っている箇所や「ここが分かりにくかった」という指摘は、やさしくコメントいただけると助か...</description>
+</item>
+<item>
+<title>【Qiita】 ベクトル検索だけでは足りない ― BM25 / RRF / ハイブリッド検索（RAG 第2回）</title>
+<link>https://qiita.com/gaop2560/items/bfe9ca8188b737c038de</link>
+<guid>ebfe4e0701b752afc3989f3c5cc1213a9c23149c385590e708872cf6b610a4b6</guid>
+<pubDate>2026-06-21T18:16:00+09:00</pubDate>
+<description>最先端AIを技術の中身まで読み解く「AIウォッチ」の連載記事です（RAG 全10回・第2回）。初出は本サイトです。全10回の一覧もそちらに。 → https://aiwatch-jp.pages.dev/rag-overview-02 RAG を作ると、まずベクトル...</description>
+</item>
+<item>
+<title>【Qiita】 Google ADK vs LangGraph — AIエージェント開発フレームワーク徹底比較【2026年版】</title>
+<link>https://qiita.com/agdexai/items/786bad93d97d223ecd1e</link>
+<guid>f8f36716f01011a249230d16eecdfa745ebe028d78f1f878110e9e8a41a4dfb9</guid>
+<pubDate>2026-06-21T18:09:09+09:00</pubDate>
+<description>Googleが2025年にリリースしたAgent Development Kit（ADK）と、LangChainエコシステムのLangGraph。どちらもマルチエージェントシステム構築に使えますが、設計思想が根本的に違います。実際にどちらを選ぶべきか、開発者目線で比較します...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/towards-ai-as-a-collaborative-partner-a-taxonomy-of-ai-agent-behavior-in-software-engineering/</link>
-<guid>0f467c2a48f3a4f1501b458d74ae80b6a566062d575d4cf6dacf34cf1b621f91</guid>
-<pubDate>Sun, 21 Jun 2026 06:44:21 GMT</pubDate>
+<link>https://research.google/pubs/multi-agent-system-for-cognitive-work-automation-using-an-adversarial-review-panel/</link>
+<guid>091962c270a41e661dbacbc58af1611c982b427fa3a9cece735fcb21176c3987</guid>
+<pubDate>Sun, 21 Jun 2026 10:24:55 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>741f343d70cad24ebbb09c0986ce8830f008c6f467235c795dd0fb74fe1dce62</guid>
-<pubDate>Sun, 21 Jun 2026 06:44:23 GMT</pubDate>
+<guid>2c664467d5514ddae6477bce518067e399a48e50b685766547190436b7d2ffeb</guid>
+<pubDate>Sun, 21 Jun 2026 10:24:57 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>46f7a86829c06320985fcdd664b38617a190acbdfa828822f8ddbd4b8116620f</guid>
-<pubDate>Sun, 21 Jun 2026 06:44:26 GMT</pubDate>
-<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>a4a5b627628e990601a6ae7dfa2bb5838170c7dc45b0a73b3bfdf992bdb4adfa</guid>
-<pubDate>Sun, 21 Jun 2026 06:44:41 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
