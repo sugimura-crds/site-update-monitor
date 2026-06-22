@@ -4,71 +4,105 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 22 Jun 2026 07:12:35 GMT</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 13:10:02 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 バイブコーディングが「RPA問題」を再演している。属人化・重複・ブラックボックスを防ぐ最小ガバナンス設計</title>
-<link>https://qiita.com/hirashima-gmoconnect/items/cfe5ba40a56b3dbf6a4b</link>
-<guid>78f929ce402ea43c039d518223aa9992d499e5f8b9e7451b7ed57165967154ce</guid>
-<pubDate>2026-06-22T12:12:13+09:00</pubDate>
-<description>はじめに GMOコネクトの平島です。 チームで Claude Code を使い始めてから、便利になったのと引き換えに困ったことが起きています。「誰かが作ったらしいSlack通知ツール」「似たような集計スクリプトが3本ある」「作った本人がいないと何もわからない」😇 この光景...</description>
+<title>【Qiita】 Railsアプリのメモリが「無駄に」減る話 〜リーク・断片化〜</title>
+<link>https://qiita.com/akachiryo/items/c6f24bc95a3c2a46de4d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>3d307c80103cc7c97bbb901df5ff27241f108f338e7806291e8c9eb3942abc5a</guid>
+<pubDate>2026-06-22T10:53:38+09:00</pubDate>
+<description>お疲れ様です！ 前回はメモリ管理の基本を書きましたが、今回はその続きで メモリリーク と 断片化（フラグメンテーション） についてまとめてみました 前回ふれた「OOM（メモリ枯渇でプロセスが落ちる）」の 原因編 にあたる話です。 興味ある方は読んでいただけると嬉しいです ...</description>
 </item>
 <item>
-<title>【Qiita】 エージェントの認証設計 ─ 複数サービスにつなぐときの考え方</title>
-<link>https://qiita.com/narumaru2001/items/53af929a6474e35f882c</link>
-<guid>b1c685afcb8106acb28bde8e87a11c50db1de243b0f1714fd7b702daa4ebe248</guid>
-<pubDate>2026-06-22T16:08:08+09:00</pubDate>
-<description>エージェントの認証設計 ─ 複数サービスにつなぐときの考え方 はじめに 前回の記事では、エージェントに専用アカウント（身元）を持たせる話をしました。 専用アカウントができたとして、次の問いが生まれます。 エージェントは、どうやって各サービスに接続するのか？ メールを...</description>
+<title>【Qiita】 【Godot 4.x】2D脱出ゲームを作ってみる③〜Claude CodeとMCPでスプラッシュ画面を実装する〜</title>
+<link>https://qiita.com/OnuuuumaX/items/8ab378e63308aac6be56</link>
+<guid>5791ff531330fc8212c7e21560e7d5ad5b68ee9fa5cd9c18ff101142ee781bf1</guid>
+<pubDate>2026-06-22T21:57:19+09:00</pubDate>
+<description>はじめに この記事は、Godot 4.xで脱出ゲームを作る連載の第3回です。 第1回：環境構築とプロジェクト作成 第2回：GodotをClaude Codeと連携させる 第3回：Claude Code + godot-mcpでスプラッシュ画面を実装する（今回） 前提...</description>
 </item>
 <item>
-<title>【Qiita】 日本語Windows)PowerShell 5.1で文字化けとParserErrorを起こさないための開発ルール（Webhook連携対応）</title>
-<link>https://qiita.com/tsubok547/items/019b7bb28f016a236a0b</link>
-<guid>1a1041538ff9cb2b7b973235c93a25e26b01333e19315d862a5240940b939abe</guid>
-<pubDate>2026-06-22T15:40:58+09:00</pubDate>
-<description>はじめに 今回、Antigravity（AIエージェント開発環境）でGeminiとペアプログラミングを行いながら、PowerShell 5.1 を用いて、Slackや各種API（Webhook）と連携する自動化スクリプトを開発した際、日本語Windows特有の「文字コード...</description>
+<title>【Qiita】 【Godot 4.x】2D脱出ゲームを作ってみる②〜GodotをClaude Codeと連携させる：godot-mcpセットアップ（macOS）〜</title>
+<link>https://qiita.com/OnuuuumaX/items/44ced73e194fa2031114</link>
+<guid>3bfa888445f27a013f89fc24cda69bec78ea80daed1dff78f114355462a13a1d</guid>
+<pubDate>2026-06-22T19:07:46+09:00</pubDate>
+<description>はじめに この記事は、Godot 4.xで簡単な脱出ゲーム（部屋に隠されたアイテムを探し、謎を解いて脱出する）を作る連載の第2回です。 Godot 4.xの開発をAIに手伝わせるための環境構築として、Claude Code と godot-mcp を連携させる手順を解説し...</description>
 </item>
 <item>
-<title>【Qiita】 【Data + AI Summit 2026 - セッションレポート】AIエージェントは「作る」より「回す」が難しい｜開発から運用までの全体像</title>
-<link>https://qiita.com/Nakamura-Rurai/items/f5575243012e5db56433</link>
-<guid>778a2236fb47d2c67288d755854e5edcf400546683fa5995a82440fed509a1bd</guid>
-<pubDate>2026-06-22T13:53:02+09:00</pubDate>
-<description>はじめに 2026年6月15日~18日サンフランシスコ・バーチャルにて開催されるDatabricks社主催の年間最大規模のカンファレンスイベント、「Databricks Data＋AI Summit 2026」（DAIS）が開催中です。 本記事はDAIS2026 AIエー...</description>
+<title>【Qiita】 なぜAIがあるのに成果物の品質に差がでるのか【DX】</title>
+<link>https://qiita.com/fnao/items/081099f33cd3356b1714</link>
+<guid>e91dbbc10bd8746f2c421584fa0e8fd76fe60cb333ae9f0327bdab5d7bf45d63</guid>
+<pubDate>2026-06-22T21:49:40+09:00</pubDate>
+<description>AIがあるのに成果物の品質に差が出るのはなぜか 最近はAIの進化によって、コードを書く能力の差は以前より小さくなったように感じます。 しかし実際の現場では、同じAIを使っていても成果物の品質には大きな差があります。 私が実務で感じている理由を整理してみます。 1. 問...</description>
 </item>
 <item>
-<title>【Qiita】 OpenAI Structured Outputsのスキーマエラー：`additionalProperties: false`が必要になる原因</title>
-<link>https://qiita.com/imi-glenn/items/1d041c1be842614484d2</link>
-<guid>bc95a4f67b2c5707c6a42e3f762353b04c73eaae2499195f3db08e68797b6b0b</guid>
-<pubDate>2026-06-22T13:45:38+09:00</pubDate>
-<description>OpenAI Structured Outputsを使うと、一見すると正しい JSON Schema に見えるものでも、API 側で拒否されることがあります。 よくあるエラーは、次のようなものです。 Invalid schema for response_format ...</description>
+<title>【Qiita】 AI（言語モデル）利用技術調査：エージェント技術関連（2022~2024年ごろ）</title>
+<link>https://qiita.com/akagi_hayato/items/81917f10d0288badd832</link>
+<guid>47e14a5ca3cccb5c384d8c441ad9466b873456efaa8049ec7a5f7055c1d2a36c</guid>
+<pubDate>2026-06-22T21:22:17+09:00</pubDate>
+<description>はじめに 2022年ごろからLLMの内部知識の限界を補うアプローチとして、外部データベースから正確な事実を検索して回答を生成する「RAG（検索拡張生成）」が普及した。RAGはシステム構築のデファクトスタンダードとなったものの、現場での実用化が進むにつれ、固定されたパイプラ...</description>
+</item>
+<item>
+<title>【Qiita】 コンテキストを制する者がAIを制す：MCPとSkills設計の分岐点、ブロックチェーン統合、学習データ透明性</title>
+<link>https://qiita.com/agenticdev/items/957fbdb0162cadc442f6</link>
+<guid>a27dbf315ad46ef2391c0ab4291aaaf75ca3be23f316870aa449c608097259d2</guid>
+<pubDate>2026-06-22T19:13:59+09:00</pubDate>
+<description>はじめに AIエージェントの設計をめぐる議論が、急速に具体的になってきた。ツール選定、コンテキスト管理、外部システムとの統合——これらはもはや「将来の課題」ではなく、今日の開発現場で判断を迫られる問いだ。今週浮かび上がったトレンドは、その判断材料を豊富に提供している。 ...</description>
+</item>
+<item>
+<title>【Qiita】 WSL環境のAIエージェントにExcelVBAマクロを開発させてみた</title>
+<link>https://qiita.com/harumiWeb/items/78cf505a85c94df3bda2</link>
+<guid>690573124aaa50fe983a32e188bf3479dc5faa9be1898c24c9c38de6bc32b9ba</guid>
+<pubDate>2026-06-22T19:09:34+09:00</pubDate>
+<description>はじめに 皆さんはExcelVBAマクロをどのように作っていますか？ 私の会社では悲劇的なことに巨大でミッションクリティカルなマクロ資産が大量にあるので、これらを正しくリプレイス・維持・作成していくには Git管理可能 AIエージェント開発できる といったことが求めら...</description>
+</item>
+<item>
+<title>【環境】 Respiratory-inspired electrostatic open-microfluidics for air purification</title>
+<link>https://www.nature.com/articles/s41893-026-01872-1</link>
+<guid>d9800dbc5ddade99160cd908c03b37f9c1a4472d0cb930ba2feefb2a1247eb97</guid>
+<pubDate>2026-06-22</pubDate>
+<description>Efficient air purification is essential to improve air quality and safeguard human health. Inspired by the human respiratory system, the authors develop an electrostatic open-microfluidics air filter system for the efficient removal of airborne pollutants.</description>
+</item>
+<item>
+<title>【環境】 Demand-side factors as dominant drivers of resource efficiency in the concrete aggregates cycle</title>
+<link>https://www.nature.com/articles/s41893-026-01860-5</link>
+<guid>5197234ab199063839e1f852bd616efafa3fa44cf8965540f7080aee275f1046</guid>
+<pubDate>2026-06-22</pubDate>
+<description>Cement, concrete and aggregates dominate global resource use, but it is unclear whether future efficiency gains will come mainly from production- or demand-side changes. A study now analyses the concrete aggregates cycle across 184 economies, showing that demand-side drivers dominate efficiency changes.</description>
+</item>
+<item>
+<title>【環境】 Sustainable all-silk textiles for personal thermal management</title>
+<link>https://www.nature.com/articles/s41893-026-01887-8</link>
+<guid>bd60b1f0964516d64210736e9db242df23540569a248cab886bd0056027e0df4</guid>
+<pubDate>2026-06-22</pubDate>
+<description>Traditional synthetic textiles for radiative cooling often rely on additives that risk releasing harmful microplastics and toxic nanoparticles. This work shows an all-silk nanotextile that achieves superior personal thermal management while ensuring full biodegradability and a minimal environmental footprint.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/productionizing-quantum-mass-production/</link>
-<guid>f5073edc4367a54967917246a8c5f01cb8fc83eb9a3131a00485f49242ac2fe2</guid>
-<pubDate>Mon, 22 Jun 2026 07:11:53 GMT</pubDate>
+<link>https://research.google/pubs/bridging-the-dimensionality-gap-a-taxonomy-and-survey-of-2d-vision-model-adaptation-for-3d-analysis-2/</link>
+<guid>9b5e02862f5daaf9454f1f2dc00ccfae0c2bcf96d64c5609b0f9c1f8289e34f6</guid>
+<pubDate>Mon, 22 Jun 2026 13:08:59 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>d937d03f85baa5a7a23c317b34b70b4cb0693c4493fee0ab0603b15efe9d9fe7</guid>
-<pubDate>Mon, 22 Jun 2026 07:11:56 GMT</pubDate>
+<guid>a27225e68e2f97a61839182b12312c9d1d2d2f88ba6c0ef9bb61ef8bb84f1a04</guid>
+<pubDate>Mon, 22 Jun 2026 13:09:02 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>319be14d722ed1f62705830c5054a1d90b013aec0642f69d5d3c41bdc556c39f</guid>
-<pubDate>Mon, 22 Jun 2026 07:11:58 GMT</pubDate>
+<guid>084e8c52933593a9715d73b3b0edfc0e5da10af74d03e4defda13fd5ddf9f8c0</guid>
+<pubDate>Mon, 22 Jun 2026 13:09:04 GMT</pubDate>
 <description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>b24175e5647810d9ccaeeddb39fcc4f86cc28f22d5fe67355e5ff53379373101</guid>
-<pubDate>Mon, 22 Jun 2026 07:12:16 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>e8dbc266bdc1216a0022e8459f24544cfcc0e14f3cd92bad5cfcfee5e3fc1857</guid>
+<pubDate>Mon, 22 Jun 2026 13:09:52 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
