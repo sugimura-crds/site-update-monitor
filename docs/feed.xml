@@ -4,28 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 21 Jun 2026 23:01:37 GMT</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 01:45:56 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 RHEL10 (AnsibleAutomationPlatformサーバー) ログファイルのローテーション設定</title>
-<link>https://qiita.com/c_u/items/fc9b1a7cf112885c9f27</link>
-<guid>8254511bb3d763de9914bb553235bf2ad4dbf9c1d48561f1e7e6c603557f0163</guid>
-<pubDate>2026-06-22T07:58:01+09:00</pubDate>
-<description>はじめに 前の記事(↓)で設定した Ansible Automation Platform (AAP) のログファイル出力について、ログローテーション設定を OS 機能で実装した記録です。 IBM Bob（AI アシスタント）にファイルのログローテートの手順を確認し...</description>
+<title>【Qiita】 EKSの全体像（個人メモ）</title>
+<link>https://qiita.com/Horiiii/items/4b8d637a3d346a937025</link>
+<guid>a11ca56f4851bd41763d986b4b5abd6c3e1e9ee50691ac6cd2342aaebe0a4778</guid>
+<pubDate>2026-06-22T09:24:51+09:00</pubDate>
+<description>EKSの全体像について クラスター（k8sの管理単位、コントロールプレーンはAWSが管理）の上に、ノードを立てて（実質はEC2が立っている）。 アプリケーションごとにnamespaceを作成する。EKS上で異なるアプリケーションを管理できる。 EKSのはじめかた ...</description>
 </item>
 <item>
-<title>【Qiita】 生成AIを雰囲気で使っている人へ。RAGとAIエージェントまで最短でつながる入門書</title>
-<link>https://qiita.com/yasu1109/items/20d3cc4ce8cf5b7397bf</link>
-<guid>fcbd3cea4efce9a6be4bade2ee9dd374c125a6a22e547fe9dcf2b717d31ac29d</guid>
-<pubDate>2026-06-22T07:32:19+09:00</pubDate>
-<description>ChatGPTは使っているのに、RAGやAIエージェントの話になると急に理解が曖昧になる。 そのままだと、導入判断もプロンプト改善も場当たりになり、仕事で使えるラインまで持っていきにくいです。 生成AIの仕組みからRAG、AIエージェント、導入アクションまで一気につなげて整...</description>
+<title>【Qiita】 プロフェッショナルTLS＆PKI (Bulletproof TLS and PKI) 改題第2版を読む⑪ 第3章 TLS1.2の概要</title>
+<link>https://qiita.com/gomAnomalocaris/items/613d6690804181bc64ae</link>
+<guid>b4da0eb2d705ebd261d29b3569cb301ec9061569c3a5a60266dcd55c72cfb6ef</guid>
+<pubDate>2026-06-22T09:02:46+09:00</pubDate>
+<description>原書飛びまして第3章 TLS 1.2の概説箇所をまとめてみたいと思います。 TLS 1.2 はRFC5246で定義されています。関連するRFCも多数あります。原書では実際のトラフィックを観察するのが最も有効、としてポート443を単一のホストについてWiresharkでモニタ...</description>
+</item>
+<item>
+<title>【Qiita】 Foundryトレースの保存先を4設定で検証してみた</title>
+<link>https://qiita.com/FukuharaYohei/items/2855ad371cd6069a9fca</link>
+<guid>54b51f039abfac025c6631c7a59073e809cec619091006d1cf0efce9f6ad12e5</guid>
+<pubDate>2026-06-22T08:12:43+09:00</pubDate>
+<description>本記事記述および実装内容は、多くの部分をAIで処理しており、人間チェックは甘いです Foundryトレースの保存先を4設定で検証してみた はじめに Microsoft Foundry Agent Service の Prompt Agent を動かすと、トレース...</description>
+</item>
+<item>
+<title>【Qiita】 モデルを乗り換えてもAIの挙動が崩れない運用設計 — コンテキスト合成とガードレールの実装（TypeScript）</title>
+<link>https://qiita.com/agentmemories/items/7b0d840922d2ee76ae06</link>
+<guid>4e0b8e63f57207eb3788254f4731ea9713a77914c271a759f649738697f6df61</guid>
+<pubDate>2026-06-22T09:41:03+09:00</pubDate>
+<description>はじめに AIエージェントを実運用していて一番手を焼くのは、モデルが古くなることではありません。新しくなることです。 新しいモデルはたしかに賢い。文章は上手くなる。推論も伸びる。でも現場では決まって同じことが起きます。 きのうまで守れていたトーンが急に変わる 「これは書...</description>
+</item>
+<item>
+<title>【Qiita】 CTFソルバーをv3に作り直した話</title>
+<link>https://qiita.com/dirbato-tetsushiyamada/items/ca0166e10cb7f560fbe0</link>
+<guid>d3b467e794f0d46ee97db40829a4b8540d81750f548968f81dbcb54a0954d55e</guid>
+<pubDate>2026-06-22T08:54:53+09:00</pubDate>
+<description>こんにちは！ 社内技術横断支援組織「Backbeat」の山田のてっちゃんです！ 前回の記事では、picoCTF 2026 を LLM エージェントで走らせて 70問中69問正答、最後の Paper-2 に7日張り付いて敗北した、という話を書きました。 そこで予告したとおり、...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントと共に開発する：Codex・Claude Code・Claude Cowork 実践ガイド</title>
+<link>https://qiita.com/x5gtrn/items/58769c4cd44a3bd6a5a9</link>
+<guid>a522b6d17cc6d3e75b02d130afcd7b9c429c9b451e8d3e7f96b56176d8ab1ea9</guid>
+<pubDate>2026-06-22T08:19:44+09:00</pubDate>
+<description>AIエージェントと共に開発する：Codex・Claude Code・Claude Cowork 実践ガイド 「コードを書くこと」が仕事の中心ではなくなったとき、私たちはエンジニアとして何をすべきなのか — 8つの教訓から学ぶ、安全な委譲のやり方 当記事は以下記事の日本語版...</description>
+</item>
+<item>
+<title>【Qiita】 「もう十分か」を判断する ― Agentic RAG（RAG 第4回）</title>
+<link>https://qiita.com/gaop2560/items/5485c07d52de1dd63129</link>
+<guid>e7ee4ee0d9f8a210504bc26774020ff8182c4c2292ada73ed4dfe62215ed985f</guid>
+<pubDate>2026-06-22T10:05:24+09:00</pubDate>
+<description>最先端AIを技術の中身まで読み解く「AIウォッチ」の連載記事です（RAG 全10回・第4回）。初出は本サイトです。全10回の一覧もそちらに。 → https://aiwatch-jp.pages.dev/rag-overview-04 前回までで、検索ツールを見てき...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/solving-an-open-problem-in-theoretical-physics-using-ai-assisted-discovery/</link>
-<guid>a3f94a1ed04fd81ed200a59503b310946374243bec5e19e84959a3ef0e91a75d</guid>
-<pubDate>Sun, 21 Jun 2026 23:00:57 GMT</pubDate>
+<link>https://research.google/pubs/kvcis-activation-based-token-importance-prediction-for-intelligent-kv-cache-compression-2/</link>
+<guid>3324acfcea4680227a4dd39e8a9dce58534c335c4280abb2809ac2f268717f8d</guid>
+<pubDate>Mon, 22 Jun 2026 01:44:52 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>0128c47c3ff0ab5b08a756a956f58f4b1e4a08863a9d7962acd5f033cb441f1b</guid>
+<pubDate>Mon, 22 Jun 2026 01:44:53 GMT</pubDate>
+<description>Sakana AI Releases ‘Fugu Ultra’ to Match Frontier Performance via Autonomous Model Orchestration. Our Fugu Ultra model stands shoulder-to-shoulder with leading models like Anthropic’s Fable 5 and Mythos Preview across the industry’s most rigorous engineering, scientific, and reasoning benchmarks while delivering frontier capability without the risk of export controls.</description>
 </item>
 
 </channel>
