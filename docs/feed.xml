@@ -4,147 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 23 Jun 2026 10:56:07 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 13:37:51 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 新人エンジニアが最初に専門分野を決めた話</title>
-<link>https://qiita.com/masa20057/items/0c1da2b7431aa73a798a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>9ae43c177dabda5611be79368c03e353df9806f52123ed38fab150675f6278b0</guid>
-<pubDate>2026-06-23T09:25:21+09:00</pubDate>
-<description>はじめに はじめまして。株式会社PRUMのmasaです。 今日は、未経験から現場に入った私が最初の数ヶ月で陥った「最初から全部学ぼうとして、結局中途半端になった」状態の話をします。主にエンジニア未経験の方で広く浅く手をつけて、学習量の多さに途方に暮れている方の参考になれば...</description>
+<title>【Qiita】 なぜreCAPTCHAはボットを止められなくなったのか</title>
+<link>https://qiita.com/abkkk/items/4ecc9e1ee4505778576a</link>
+<guid>a30dcb1a05cfdfea112cb699e30df78a8b4b924f75230fe18f0960a37df8f2b1</guid>
+<pubDate>2026-06-23T22:14:22+09:00</pubDate>
+<description>フォームの送信前に「信号機をすべて選んでください」と求められる。あの仕組みがreCAPTCHA（リキャプチャ）だ。 長年、Webサービスのbot protection（ボット防御）の定番として使われてきた。ところが現在、reCAPTCHAはボットを確実に止める手段として機能...</description>
 </item>
 <item>
-<title>【Qiita】 AIでおしゃれな画面を作るためのデザインシステムを学ぼう！</title>
-<link>https://qiita.com/yusuke_ando_vj/items/dd17a285217a15841a3a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>820da1da138aca823388fb77c96863864edbfe6c6c0ede6d0fbe6ceae92a8b80</guid>
-<pubDate>2026-06-21T23:17:02+09:00</pubDate>
-<description>Webサイトのデザインを、AIやデザイナーに「おしゃれにしてください」「いい感じにしてください」だけで依頼すると、完成イメージが大きくズレます。 なぜなら、Webデザインには「どんな情報を・どの順番で・どんなレイアウトで・どんな雰囲気で・どんな色で・どんな文字で・どんな部品...</description>
+<title>【Qiita】 Claude Codeのmemoryファイルに更新漏れが3か所——「伝えた ≠ 更新した」の構造</title>
+<link>https://qiita.com/saitoko/items/786ccee59e1295e697fe</link>
+<guid>9fc70a9b2b16faaaa580ceb46c68187c28de8408a7e5cdb475fa660d44673237</guid>
+<pubDate>2026-06-23T20:59:18+09:00</pubDate>
+<description>Claude Codeに「もう使っていない」と口頭で伝えただけでは、memory/ やルールファイルは更新されない。この記事では、更新漏れのファイルが複数箇所で整合したまま残り続けた事例と、「整合している文書が多いほどAIが疑いにくくなる」という構造的な問題について書く。 ...</description>
 </item>
 <item>
-<title>【Qiita】 Railsで学ぶ計算量（Big-O）入門 〜「なんとなく速い／遅い」を言葉にする〜</title>
-<link>https://qiita.com/akachiryo/items/90db7bf21b6546fce911?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>927a14433d84c044399911de36357af425eef374e784465204d8dc74542480e8</guid>
-<pubDate>2026-06-23T15:08:19+09:00</pubDate>
-<description>計算量（Big-O）入門 〜「なんとなく速い／遅い」を言葉にする〜 お疲れ様です！ 前回はメモリ管理の話を書きましたが、今回はその続きで 計算量（Big-O記法） についてまとめてみました 「このコード、データが増えたら大丈夫？」をパッと判断するための話です。 興味ある...</description>
+<title>【Qiita】 【Amplify×AgentCore】社内版AWSサポートアプリを作った話</title>
+<link>https://qiita.com/sorasorasss/items/e729f82bb28f938d9d95</link>
+<guid>8bb9e541a91a60283a62ad050ecfdb7e82ae5ba0f014e6cc54f2d2b127bbe0f9</guid>
+<pubDate>2026-06-23T20:41:07+09:00</pubDate>
+<description>はじめに 私は普段、AWSの基盤設計およびCDKを使った構築を担当しています。業務では他部署のメンバーからAWSに関する技術相談を受けることがあるのですが、最近は以下のような相談を耳にすることが増えてきました。 生成AIに聞いてみた感じ、こんな構成を提案されたのですが、...</description>
 </item>
 <item>
-<title>【Qiita】 さわってみよう Db2 AI エディション #7 〜モニタリング編 Part#2〜</title>
-<link>https://qiita.com/ibm_tk/items/81608900a0e2c89c18fc</link>
-<guid>3b304cd5fd31cffde90d8278337963c026ddea025c5b97e40704bb60aa4a906d</guid>
-<pubDate>2026-06-23T18:06:39+09:00</pubDate>
-<description>Db2 Genius Hubの監視レポート作成機能を使ってみよう 当記事では、Db2 AIエディションで利用できるようになったDb2 Genius Hubの主たる機能のうち、 (1)統合Db2管理 (2)エージェント型AIアシスタント (3)ログ分析 (4)異常検出 (5...</description>
+<title>【Qiita】 S/4HANA Cloud Private Editionへの統合手順</title>
+<link>https://qiita.com/tomiy/items/04a02c71cca6bfd6da29</link>
+<guid>cd77b78d13211b233219b698b77d2b5e9429555c9671e570ec871e5ae2a32fa4</guid>
+<pubDate>2026-06-23T20:15:48+09:00</pubDate>
+<description>はじめに 前回の記事で、S/4HANA Cloud Public Editionへの統合手順を解説しました。この記事では、Private Editionの統合手順を扱います。 Private Editionは、BTPとの接続構造がPublic Editionと異なります。...</description>
 </item>
 <item>
-<title>【Qiita】 【AWS CLF 間違えやすい箇所を整理】第1回 クラウドの概念 — 似た用語の混同</title>
-<link>https://qiita.com/ryoji9702/items/f7908c69aaeb2f782bdb</link>
-<guid>7f1ea1bbfebf8ed5071bb4d22e361d5c89e232fcec7491db91bfde63a679bb7d</guid>
-<pubDate>2026-06-23T19:33:15+09:00</pubDate>
-<description>はじめに 本記事は、AWS Certified Cloud Practitioner（CLF-C02）の学習に際して筆者が間違えやすい・混同しやすいなと感じた箇所を、試験要綱のジャンルごとに整理していく連載の第1回です。今回のテーマは要綱の ドメイン1「クラウドの概念」 ...</description>
+<title>【Qiita】 RAG はどう壊れるのか ― 評価と失敗モード（RAG 第6回）</title>
+<link>https://qiita.com/gaop2560/items/c00877c55a205537596c</link>
+<guid>a64ed4973382f300c32c8eb257929e80ceb3680bd2c3c8510ec7972ac8b1f7ae</guid>
+<pubDate>2026-06-23T22:20:01+09:00</pubDate>
+<description>最先端AIを技術の中身まで読み解く「AIウォッチ」の連載記事です（RAG 全10回・第6回）。初出は本サイトです。全10回の一覧もそちらに。 → https://aiwatch-jp.pages.dev/rag-overview-06 ここまで、RAG の部品を順に...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントが&quot;自分で支払う&quot;仕組み:Stripe MPPの正体はHTTP 402</title>
-<link>https://qiita.com/Yushi88/items/01f6a3fa711824cb46ae</link>
-<guid>83170c258447e1aebc6149c8388754d8d48c95da4ba7b3eb73a5ba6dac62eafa</guid>
-<pubDate>2026-06-23T19:32:33+09:00</pubDate>
-<description>「現在の金融システムは人間のために作られている。だからAIエージェントには使えない。ならば作り直す」——決済大手のStripeが言い切って打ち出したのが、AIエージェント向けの決済プロトコル Stripe MPP(Machine Payments Protocol、機械決済...</description>
-</item>
-<item>
-<title>【Qiita】 Jouleオンボーディングの7ステップを通して見る</title>
-<link>https://qiita.com/tomiy/items/22b5658e2272111de562</link>
-<guid>1e12330d5be68164b1026aa1ef01c1f3b97671b6d2276510855157f908f42018</guid>
-<pubDate>2026-06-23T19:20:28+09:00</pubDate>
-<description>はじめに これまでの記事で、前提条件（#2）、IASとIPSの役割（#3）、BTP環境のパターン分け（#4）を個別に解説してきました。 この記事では、それらを統合し、Jouleのオンボーディング全体を1本の流れとして整理します。SAP公式ドキュメントでは、オンボーディング...</description>
-</item>
-<item>
-<title>【Qiita】 Claude codeとBlenderでモデルを生成しようじゃないか</title>
-<link>https://qiita.com/mittsuuuu/items/c1e53e7e8f8690d6ad71</link>
-<guid>06d28d8808e130c1871f8bf4d99741a9705dbc79919f2de79ac61560d5bffc06</guid>
-<pubDate>2026-06-23T17:38:12+09:00</pubDate>
-<description>こんにちは 今回は表題の通り，Claude CodeとBlenderを組み合わせて3Dモデルを自動生成を試みた内容です． 初めに これをやるにあたった経緯や，自分のAI事情なんかを書きます． 本編は次の章からなので，適当に飛ばしてください． 最近のAI事情 自分は最近，...</description>
-</item>
-<item>
-<title>【環境】 Long-term multiple global change interactions amplify belowground carbon allocation</title>
-<link>https://www.nature.com/articles/s41558-026-02678-x</link>
-<guid>4655d9d7de5414d36cff77e050eae6506a7685c9c1888e941104d66af8aa5628</guid>
+<title>【自動自律実験】 A 1970s patent that changed the course of commercial biotechnology</title>
+<link>https://www.nature.com/articles/d41586-026-01812-1</link>
+<guid>c1be9f0a8f1bc3520dbecd82ec21b925e4cfcf33fc0a915bc7cee42551d3847d</guid>
 <pubDate>2026-06-23</pubDate>
-<description>Soil carbon is a critical component of the terrestrial carbon sink and is impacted by the total belowground carbon allocation (TBCA). This study uses a long-term multifactor grassland experiment to show that elevated temperature and CO2 increased the TBCA over time, modulated by drought and N addition.</description>
-</item>
-<item>
-<title>【環境】 Dynamic solvent exchange for fast-charging lithium batteries and beyond</title>
-<link>https://www.nature.com/articles/s41893-026-01871-2</link>
-<guid>a6a8f1b7d899f0910ed94f00785ba785ea2f47c6dbc8097137a246b12c480688</guid>
-<pubDate>2026-06-23</pubDate>
-<description>This work identifies dynamic solvent exchange as the governing kinetic descriptor for desolvation, enabling a dual-anion electrolyte design that overcomes traditional trade-offs to achieve fast-charging, all-climate battery performance.</description>
-</item>
-<item>
-<title>【自動自律実験】 Nepal’s new science ministry must strengthen scientific capacity</title>
-<link>https://www.nature.com/articles/d41586-026-01970-2</link>
-<guid>28a8e3d3e0bfbd76a0edb40fcf1a125ebfcf540a2b54728526333050ab535428</guid>
-<pubDate>2026-06-23</pubDate>
-<description>Nepal’s new science ministry must strengthen scientific capacity</description>
-</item>
-<item>
-<title>【自動自律実験】 Academic success still assumes uninterrupted careers</title>
-<link>https://www.nature.com/articles/d41586-026-01971-1</link>
-<guid>04823baa45069273dfcf579807afde90c5e4e70e62f45fc51af56e9ff6abc378</guid>
-<pubDate>2026-06-23</pubDate>
-<description>Academic success still assumes uninterrupted careers</description>
-</item>
-<item>
-<title>【自動自律実験】 The halo effect: how academic hierarchy undermines peer review and enables fraud</title>
-<link>https://www.nature.com/articles/d41586-026-01969-9</link>
-<guid>7dbafb172659c274239d45993bf392b1c43d8ceeebe218f119da97d95617bb79</guid>
-<pubDate>2026-06-23</pubDate>
-<description>The halo effect: how academic hierarchy undermines peer review and enables fraud</description>
-</item>
-<item>
-<title>【自動自律実験】 Do not leave fungi out of impact assessments</title>
-<link>https://www.nature.com/articles/d41586-026-01972-0</link>
-<guid>3771ec1edd8a5c41a8263c393655c7635b0fe62de5ae5947c33f8c09e31a23cd</guid>
-<pubDate>2026-06-23</pubDate>
-<description>Do not leave fungi out of impact assessments</description>
-</item>
-<item>
-<title>【自動自律実験】 Silicon Valley’s vision for global AI is flawed: each country needs its own blueprint</title>
-<link>https://www.nature.com/articles/d41586-026-01951-5</link>
-<guid>f05f4782f1cd898af69ab100ee31c72bb10b3ef6bf2d34826a3f9f8353f77bae</guid>
-<pubDate>2026-06-23</pubDate>
-<description>From energy grids to language performance, emerging economies are exposing the limits of today’s artificial-intelligence strategy as it expands globally.</description>
+<description>The scientific community awaits a patent for recombinant DNA technology, and experimentation with an anaesthetic from puffballs, in our weekly dip into Nature’s archive.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/llm-powered-analysis-of-iot-user-reviews-tracking-and-ranking-security-and-privacy-concerns/</link>
-<guid>c297493e3e771594a4d78abc131ff347f318bc5fcbc284b8015818d00d331c9f</guid>
-<pubDate>Tue, 23 Jun 2026 10:55:01 GMT</pubDate>
+<link>https://research.google/pubs/vista-towards-test-time-self-improving-video-generation-agent/</link>
+<guid>9feaa81c71974c0fdf5c39b59921789099cb48cbeaaa67ab9a0385552da989b7</guid>
+<pubDate>Tue, 23 Jun 2026 13:36:47 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>46045d4ba2ca1bf705bcea8b8fb730e3a8809bf672f895a7634854fdbd789aba</guid>
-<pubDate>Tue, 23 Jun 2026 10:55:04 GMT</pubDate>
+<guid>30003f527bed53335a0ab7b647e8c9a90cdf1f8267fd368eefb92f10821e16ac</guid>
+<pubDate>Tue, 23 Jun 2026 13:36:50 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>68b1e972acfee60f50ce9ce17a04acebb9864efde873288bc89fb23ec7981ee5</guid>
-<pubDate>Tue, 23 Jun 2026 10:55:09 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
-</item>
-<item>
-<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
-<link>https://www.eurohpc-ju.europa.eu/index_en</link>
-<guid>bf299dceeaca413fa19d77ba02a2f6e71caaa5682e273ab87d9a5a8bf07cb41d</guid>
-<pubDate>Tue, 23 Jun 2026 10:55:15 GMT</pubDate>
-<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
-</item>
-<item>
-<title>【UK】 Featured</title>
-<link>https://www.linkedin.com/company/scitechgovuk</link>
-<guid>672eb227f00dd08d6317ca26a7806f99da0fb1f5455e4317e00eb523f1c5da0c</guid>
-<pubDate>Tue, 23 Jun 2026 10:55:17 GMT</pubDate>
-<description>Department for Science, Innovation and Technology | 267,931 followers on LinkedIn. Positioning the UK at the forefront of global scientific and technological advancement. | Follow this profile to stay up-to-date with our mission: improving people&amp;#39;s lives by maximising the potential of science &amp;amp; technology.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02869-y</link>
+<guid>559bc9ff5d5eb823e7b664360dfbd7810324ec7f761b8ca9c49ebfdde2f68b8f</guid>
+<pubDate>Tue, 23 Jun 2026 13:36:53 GMT</pubDate>
+<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
 </item>
 
 </channel>
