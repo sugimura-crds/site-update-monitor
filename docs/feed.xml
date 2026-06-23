@@ -4,63 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 23 Jun 2026 20:30:58 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 21:58:30 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 並列で思考を分けたら、AIレビューの精度もコンテキスト効率も同時に上がった話</title>
-<link>https://qiita.com/fwatanab/items/345691e0d2260d5f34a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>777cf6f7448c74e7705e1ba76933d395b81580dd9e21b982bdb3414fdfa77164</guid>
-<pubDate>2026-06-23T10:38:25+09:00</pubDate>
-<description>はじめに AIにコードレビューをやらせるとき「1つのエージェントに全部チェックさせる」のをやめて、複数の専門エージェントに並列で分業させる 構成に変えたら、精度が体感で大きく上がりました。 ただ、本当の収穫は精度向上そのものより、「並列で思考を分ける」こと自体が、コンテキ...</description>
-</item>
-<item>
-<title>【Qiita】 Cursor Composer 2.5は「安いClaude代替」ではない</title>
-<link>https://qiita.com/mhamadajp/items/fe6d17be02093b6d30e6</link>
-<guid>1e9441eb8fb60ac382ccebac6be579f6d27ce104c6e2484c0a3a52d92d999b2a</guid>
-<pubDate>2026-06-24T04:35:56+09:00</pubDate>
-<description>AIコーディング支援と聞くと、多くのIT技術者はClaude Code、Codex、GitHub Copilot、Cursorなどを思い浮かべるはずです。 その中でCursorが公開したComposer 2.5は、単に「また新しいコーディングモデルが出た」という話ではありま...</description>
-</item>
-<item>
-<title>【自動自律実験】 Retraction Note: Sub-second periodicity in a fast radio burst</title>
-<link>https://www.nature.com/articles/s41586-026-10799-8</link>
-<guid>7040823b1cc3a13a0dcbb0ff267d95f3e69a12f352592278d8a3b932032874a2</guid>
-<pubDate>2026-06-23</pubDate>
-<description>Retraction Note: Sub-second periodicity in a fast radio burst</description>
-</item>
-<item>
-<title>【Anthropic】 Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>4db53f99fa95ee32213464b8f6c0b0463a78b03c7c641342af98ee887ae5144d</guid>
-<pubDate>Tue, 23 Jun 2026 20:29:45 GMT</pubDate>
-<description>The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.</description>
+<title>【Qiita】 LLMが存在しないライブラリを幻覚したので、本当に作ることにした</title>
+<link>https://qiita.com/nakatada-lab/items/a5255e483653b1489a7b</link>
+<guid>e67bead0608e2774091aaba93b4861a8ccc5933b2bcdf15ac652cbbdb8e8dbe2</guid>
+<pubDate>2026-06-24T05:36:42+09:00</pubDate>
+<description>まず見てほしい このコードを実行する。 demo.py from super_pdf_magic import convert_anything result = convert_anything(&quot;report.docx&quot;) print(result) しかし ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/silicon-level-sovereignty-root-of-trust-in-ai-accelerators-digital-trust-policy/</link>
-<guid>94a301d50615f3de82bb92636163ca8a22a0d858ce249332986da75c75c49e41</guid>
-<pubDate>Tue, 23 Jun 2026 20:29:50 GMT</pubDate>
+<link>https://research.google/pubs/observing-long-lived-longwave-contrail-forcing/</link>
+<guid>14b928749729d399dbf52b15d7ad18fabe739ee593a51987edb821dd8b1024ed</guid>
+<pubDate>Tue, 23 Jun 2026 21:57:25 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>66d4a74bbc5bbde9ed3f32a228d2e452959636455cce560406b5cc00736a5c46</guid>
-<pubDate>Tue, 23 Jun 2026 20:29:53 GMT</pubDate>
-<description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>963e7823bfe9cb6a8638e0b5eec05a21e3fd1a14a41c882b1ae38dcc09c9b780</guid>
-<pubDate>Tue, 23 Jun 2026 20:29:55 GMT</pubDate>
+<guid>48e8f01338be06d690ae2e405e228eb9fb7c3c34f1d44562425842d8b9471e8a</guid>
+<pubDate>Tue, 23 Jun 2026 21:57:31 GMT</pubDate>
 <description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>e526a43cf6f14328a77050594746d868484db895b14cbdb42756206e12df2c5f</guid>
-<pubDate>Tue, 23 Jun 2026 20:29:59 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 
 </channel>
