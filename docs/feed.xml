@@ -4,35 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 22 Jun 2026 22:43:34 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 00:01:06 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 ARMとAPMの違いは？改めて比較してみた</title>
-<link>https://qiita.com/Horiiii/items/74b4be70e71a9ae7d360</link>
-<guid>8a3ddbf6212168626e40c52ce29eee584eb8794d0e0d9bb8bd69106cdbef4c7b</guid>
-<pubDate>2026-06-23T06:11:13+09:00</pubDate>
-<description>はじめに ARMとAPMの違いとは？について、改めて人に説明できるまでの理解がなかったため整理しなおしました。 この記事では、IBM の監視・管理ツールである Instana（APM） と Turbonomic（ARM） を取り上げ、 それぞれが「何をするツールなのか」「...</description>
-</item>
-<item>
-<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 3 ]：タップした領域への移動</title>
-<link>https://qiita.com/OnuuuumaX/items/6b07ae00987cd3c210d6</link>
-<guid>5c782eff2b3d96ea0d446308ba60f3c3c3864e21596fc02008be6f455695aad6</guid>
-<pubDate>2026-06-23T07:40:25+09:00</pubDate>
-<description>はじめに axmol Engine を使った脱出ゲームを作っています。 この記事では メインシーンに背景画像を表示し、画面内の特定エリアをタップすると別の背景にフェード切替する 実装を紹介します。 廃墟を遠目に見てスタート ↓ 廃墟の建物付近をタップして近づく ↓ 廃墟...</description>
-</item>
-<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/snpeek-side-channel-analysis-for-privacy-applications-on-confidential-vms/</link>
-<guid>066a796df02eb95da18282998c0ba8778e2eed696c6aa5dca7ce30a030bf279b</guid>
-<pubDate>Mon, 22 Jun 2026 22:42:25 GMT</pubDate>
+<link>https://research.google/pubs/freshbrew-a-benchmark-for-evaluating-ai-agents-on-java-code-migration-2/</link>
+<guid>bc6027930ee61c810ae35e78bf22b0195781584035b29bb247a14a3a158c1759</guid>
+<pubDate>Tue, 23 Jun 2026 00:00:09 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>1c09f945e1f87248ed8679d7ee243c285259e58b73205d98bbd7cbcc47d0abbc</guid>
-<pubDate>Mon, 22 Jun 2026 22:42:29 GMT</pubDate>
+<guid>c5ce2203d9d6fd047b09b81f06e3cdebc1260e14a685a22c961db581135f4fcc</guid>
+<pubDate>Tue, 23 Jun 2026 00:00:12 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02869-y</link>
+<guid>3e27b3ad6074eaaec81809a9d34b8b0429a61124d276f56b8b981408107c3f85</guid>
+<pubDate>Tue, 23 Jun 2026 00:00:15 GMT</pubDate>
+<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
 </item>
 
 </channel>
