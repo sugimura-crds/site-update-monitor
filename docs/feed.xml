@@ -4,27 +4,97 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 23 Jun 2026 00:01:06 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 03:54:15 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 CI/CDを入れてもデグレが起きる本当の理由：「リビルド義務化」と配信タイムラグという盲点</title>
+<link>https://qiita.com/gmo-connect-ogawa/items/3a072211a0cafc5fd808</link>
+<guid>cd2f11bcef330ff1a538fbd9bdee961ce4bef316649a17fb1dabf5f5325e9950</guid>
+<pubDate>2026-06-23T11:30:12+09:00</pubDate>
+<description>はじめに 「CI/CDを入れているのに、なぜかデグレ（退行）が起きる」 これ、わりとあるあるだと思います。私たちのチームでも、数ヶ月前に作ったビルド資材がそのまま本番に出てしまい、過去に直したはずの修正が巻き戻る、という事故がありました。 最初は「ブランチ運用が甘いからだ...</description>
+</item>
+<item>
+<title>【Qiita】 Claude CodeでExcel仕様書を効率的に解析・引き継ぎするための命名・管理術</title>
+<link>https://qiita.com/oguri-gmoconnect/items/ff7546e2eef855ef6aa1</link>
+<guid>fbe351ea6c0f14fdb70e11972379908bc38fca3e923d53cee816ef86249ac85f</guid>
+<pubDate>2026-06-23T11:17:46+09:00</pubDate>
+<description>はじめに 開発の現場では、いまだに大量の仕様書が Excel（xlsx） で管理されています。調査結果、機能一覧、対応状況、データ項目定義……。これらをAIエージェント（私の場合は Claude Code）に読み込ませて「解析」「要約」「引き継ぎ資料化」させたい、というニ...</description>
+</item>
+<item>
+<title>【Qiita】 日刊IETF (2026-05-25) Part2/2</title>
+<link>https://qiita.com/tetsuko_room/items/e14dede564104bd00b3b</link>
+<guid>2a223673e28e74840ad4fba89c3e85adcc598c95b0d0c2915ba78dab91230381</guid>
+<pubDate>2026-06-23T10:59:52+09:00</pubDate>
+<description>こんにちは、GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-25（UTC基準）に公開されたInter...</description>
+</item>
+<item>
+<title>【Qiita】 日刊IETF (2026-05-25) Part1/2</title>
+<link>https://qiita.com/tetsuko_room/items/eb81401bfa2e078ca0b7</link>
+<guid>d0a3445d61665631a9438dd258b273575fbf46d831fe4318872826fab49daa48</guid>
+<pubDate>2026-06-23T10:59:08+09:00</pubDate>
+<description>こんにちは、GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-25（UTC基準）に公開されたInter...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeの性能向上・劣化を可視化したい！</title>
+<link>https://qiita.com/yo_arai/items/8ed5cd2a153b5ad0dbf3</link>
+<guid>bf094b05e98fbdc962ba82b94730c8f7dfe0dae672f1e33bff253de169e1a4f8</guid>
+<pubDate>2026-06-23T12:23:21+09:00</pubDate>
+<description>はじめに ※この記事はおおよそ実用的でない内容です。（作ってるときはもう少し実用的かと思いましたが、そうでないため供養のために書いています。） Claude Code を毎日使っていると、ふと「最近ちょっと賢くなった？」や逆に「なんか最近頭悪くなった？」と感じる瞬間があり...</description>
+</item>
+<item>
+<title>【Qiita】 SQLiteのネストしたトランザクション：RELEASEはコミットじゃない</title>
+<link>https://qiita.com/hironakamura_ai/items/b2d0b1dc5e6561471fae</link>
+<guid>2f043fca0bc33cf008e5957678d8cee03735db71bf49e662b582ef0fbcd5ef90</guid>
+<pubDate>2026-06-23T11:32:08+09:00</pubDate>
+<description>「内側のトランザクションをコミットしたから、もう確定してるよね?」 SQLite でこれを信じると、たまに痛い目を見る。 先日 sqlite-utils 4.0 に db.atomic() が入った。Django や Peewee と同じ、ネストできる atomic() だ...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code で「HQ AIカンパニー」を1人で動かす全体像</title>
+<link>https://qiita.com/YushiYamamoto/items/f1a9327bddeea1d954ab</link>
+<guid>e8e2c03c12f26370c8f03f06fcc6916552104f3b4d1e7ba33c644c50939b4eba</guid>
+<pubDate>2026-06-23T11:17:08+09:00</pubDate>
+<description>2026年6月、筆者は受託開発・SaaS・メディアの3事業を抱えながら、Claude Code だけで「架空の会社組織」を動かす試みを始めた。司令塔AIが朝の最優先タスクを決め、営業部・集客部・SaaS事業部・経理2部署がそれぞれ下書きを生成し、人間は「送る/送らない」だ...</description>
+</item>
+<item>
+<title>【Qiita】 AIに仕様駆動開発を“強制”する仕組みを作る（第5回・スキルとサブエージェント）</title>
+<link>https://qiita.com/NeoSoleil/items/3f2d50fae202edf53428</link>
+<guid>2fd618c86d1f84e8ed6ff8156914b662ed10b877412807b542e27c46974c7af1</guid>
+<pubDate>2026-06-23T10:38:00+09:00</pubDate>
+<description>はじめに シリーズ最終回。第4回の5段階パイプラインの続きです。 この記事では、その5段階を「誰が・どう」回すかを扱います。 手順と知識を担う スキル（Skill） 役割と独立文脈を担う サブエージェント（Agent） 9体のエージェントを段階とゲートに結...</description>
+</item>
+<item>
+<title>【Qiita】 chunk の山ではなく地図を渡す ― PageIndex と階層型検索（RAG 第5回）</title>
+<link>https://qiita.com/gaop2560/items/f55bcd1eb47f0d9eab41</link>
+<guid>82e62041ac84c9378a366e84e213aff81b8c3c31b64b34c6569c4f2ef20232a9</guid>
+<pubDate>2026-06-23T11:47:32+09:00</pubDate>
+<description>最先端AIを技術の中身まで読み解く「AIウォッチ」の連載記事です（RAG 全10回・第5回）。初出は本サイトです。全10回の一覧もそちらに。 → https://aiwatch-jp.pages.dev/rag-overview-05 前回は Agentic RAG...</description>
+</item>
+<item>
+<title>【Qiita】 【Data + AI Summit 2026 - セッションレポート】Databricksにおける Agentic Governance 〜10,000人の社員から、数十万のエージェントへ〜</title>
+<link>https://qiita.com/takumisasaki1002/items/da0374b95d011faa4e4a</link>
+<guid>d91230e90e5cfeb959f5784ad7e07755d6bac1cfa50c829fd8871df3fd0e853d</guid>
+<pubDate>2026-06-23T11:51:29+09:00</pubDate>
+<description>はじめに 2026年6月15日〜18日にサンフランシスコおよびバーチャルで開催されている、Databricks社主催の年間最大級のカンファレンスイベント 「Databricks Data + AI Summit 2026（DAIS）」 について、現地セッションの内容を日本...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/freshbrew-a-benchmark-for-evaluating-ai-agents-on-java-code-migration-2/</link>
-<guid>bc6027930ee61c810ae35e78bf22b0195781584035b29bb247a14a3a158c1759</guid>
-<pubDate>Tue, 23 Jun 2026 00:00:09 GMT</pubDate>
+<link>https://research.google/pubs/phoenix-rowhammer-attacks-on-ddr5-with-self-correcting-synchronization/</link>
+<guid>0f066744c1a178b84a4f8c298b21a5d1d05d05e2df3690319cb78b63209ce94f</guid>
+<pubDate>Tue, 23 Jun 2026 03:53:12 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>c5ce2203d9d6fd047b09b81f06e3cdebc1260e14a685a22c961db581135f4fcc</guid>
-<pubDate>Tue, 23 Jun 2026 00:00:12 GMT</pubDate>
+<guid>5fb3ae95d30576f49acf34eb5cb3bc490b14504d6946799911a895c7e5d993b7</guid>
+<pubDate>Tue, 23 Jun 2026 03:53:15 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>3e27b3ad6074eaaec81809a9d34b8b0429a61124d276f56b8b981408107c3f85</guid>
-<pubDate>Tue, 23 Jun 2026 00:00:15 GMT</pubDate>
+<guid>43df444c9f121eeba17b13f9885776fe23fc7c3694e4fe326ccddeacb6ff3071</guid>
+<pubDate>Tue, 23 Jun 2026 03:53:17 GMT</pubDate>
 <description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
 </item>
 
