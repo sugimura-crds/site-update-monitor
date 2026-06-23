@@ -4,70 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 23 Jun 2026 13:37:51 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Jun 2026 16:21:49 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 なぜreCAPTCHAはボットを止められなくなったのか</title>
-<link>https://qiita.com/abkkk/items/4ecc9e1ee4505778576a</link>
-<guid>a30dcb1a05cfdfea112cb699e30df78a8b4b924f75230fe18f0960a37df8f2b1</guid>
-<pubDate>2026-06-23T22:14:22+09:00</pubDate>
-<description>フォームの送信前に「信号機をすべて選んでください」と求められる。あの仕組みがreCAPTCHA（リキャプチャ）だ。 長年、Webサービスのbot protection（ボット防御）の定番として使われてきた。ところが現在、reCAPTCHAはボットを確実に止める手段として機能...</description>
+<title>【Qiita】 Sakana Fugu Ultraを色々試してみた感想</title>
+<link>https://qiita.com/moritaoy/items/e4abf69837272ebec807</link>
+<guid>915752cf8d8cf88ba55a1680b4fad38afe40466ff17c664781e7ae79f3966d8c</guid>
+<pubDate>2026-06-24T01:02:14+09:00</pubDate>
+<description>Sakana Fugu Ultraを使ってみた Fuguがリリースされて数日がたちました。 Proプランを契約して、Fugu Ultraで何度か遊んでみたので、感想を書いてみようと思います。 Fugu Ultraの感想です。Fuguは試してません。 結論 待ち...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeのmemoryファイルに更新漏れが3か所——「伝えた ≠ 更新した」の構造</title>
-<link>https://qiita.com/saitoko/items/786ccee59e1295e697fe</link>
-<guid>9fc70a9b2b16faaaa580ceb46c68187c28de8408a7e5cdb475fa660d44673237</guid>
-<pubDate>2026-06-23T20:59:18+09:00</pubDate>
-<description>Claude Codeに「もう使っていない」と口頭で伝えただけでは、memory/ やルールファイルは更新されない。この記事では、更新漏れのファイルが複数箇所で整合したまま残り続けた事例と、「整合している文書が多いほどAIが疑いにくくなる」という構造的な問題について書く。 ...</description>
+<title>【Qiita】 Bedrock AgentCore に Web Search が追加されたので試してみた</title>
+<link>https://qiita.com/leomarokun/items/47adb2c1b4e1e56fa0ce</link>
+<guid>eeb567ad06ff9f2c113dfda51d50caaae342f258f9f8a5a145e05f453246f1d4</guid>
+<pubDate>2026-06-24T00:27:47+09:00</pubDate>
+<description>はじめに 2026年6月16日に発表された Web Search on Amazon Bedrock AgentCore はフルマネージドな Web 検索ツールです。AgentCore Gateway に「コネクタ」として追加するだけで、エージェントが MCP ツールとし...</description>
 </item>
 <item>
-<title>【Qiita】 【Amplify×AgentCore】社内版AWSサポートアプリを作った話</title>
-<link>https://qiita.com/sorasorasss/items/e729f82bb28f938d9d95</link>
-<guid>8bb9e541a91a60283a62ad050ecfdb7e82ae5ba0f014e6cc54f2d2b127bbe0f9</guid>
-<pubDate>2026-06-23T20:41:07+09:00</pubDate>
-<description>はじめに 私は普段、AWSの基盤設計およびCDKを使った構築を担当しています。業務では他部署のメンバーからAWSに関する技術相談を受けることがあるのですが、最近は以下のような相談を耳にすることが増えてきました。 生成AIに聞いてみた感じ、こんな構成を提案されたのですが、...</description>
+<title>【Qiita】 AIエコシステムの今後の動向：MCP、A2A、マルチエージェント、ガバナンスの行方</title>
+<link>https://qiita.com/ochtum/items/e55d13ada980fe804064</link>
+<guid>2802c6a5bd4eeb5ffad76e93688da2bbcb0825292670f752f99f5e6a37d94003</guid>
+<pubDate>2026-06-24T00:18:49+09:00</pubDate>
+<description>※お役に立てたらストック、いいねをよろしくお願いします！！ ＜📝本記事のターゲット層＞ AIエコシステムの技術トレンドを把握したい人 エージェント連携や標準化の動きを追いたい開発者 企業導入に向けて将来のリスクと管理要件を知りたい担当者 目次ページ 🔷AIエ...</description>
 </item>
 <item>
-<title>【Qiita】 S/4HANA Cloud Private Editionへの統合手順</title>
-<link>https://qiita.com/tomiy/items/04a02c71cca6bfd6da29</link>
-<guid>cd77b78d13211b233219b698b77d2b5e9429555c9671e570ec871e5ae2a32fa4</guid>
-<pubDate>2026-06-23T20:15:48+09:00</pubDate>
-<description>はじめに 前回の記事で、S/4HANA Cloud Public Editionへの統合手順を解説しました。この記事では、Private Editionの統合手順を扱います。 Private Editionは、BTPとの接続構造がPublic Editionと異なります。...</description>
-</item>
-<item>
-<title>【Qiita】 RAG はどう壊れるのか ― 評価と失敗モード（RAG 第6回）</title>
-<link>https://qiita.com/gaop2560/items/c00877c55a205537596c</link>
-<guid>a64ed4973382f300c32c8eb257929e80ceb3680bd2c3c8510ec7972ac8b1f7ae</guid>
-<pubDate>2026-06-23T22:20:01+09:00</pubDate>
-<description>最先端AIを技術の中身まで読み解く「AIウォッチ」の連載記事です（RAG 全10回・第6回）。初出は本サイトです。全10回の一覧もそちらに。 → https://aiwatch-jp.pages.dev/rag-overview-06 ここまで、RAG の部品を順に...</description>
-</item>
-<item>
-<title>【自動自律実験】 A 1970s patent that changed the course of commercial biotechnology</title>
-<link>https://www.nature.com/articles/d41586-026-01812-1</link>
-<guid>c1be9f0a8f1bc3520dbecd82ec21b925e4cfcf33fc0a915bc7cee42551d3847d</guid>
-<pubDate>2026-06-23</pubDate>
-<description>The scientific community awaits a patent for recombinant DNA technology, and experimentation with an anaesthetic from puffballs, in our weekly dip into Nature’s archive.</description>
+<title>【Qiita】 CloudflareはなぜAIエージェント時代に強いのか</title>
+<link>https://qiita.com/pikum99/items/730a24f988806691a689</link>
+<guid>6d9f5e58bd2455de8241fb1c5f3439f9e7a968a047ad9ca301c79b4c40c5c406</guid>
+<pubDate>2026-06-23T22:43:30+09:00</pubDate>
+<description>yusukebe氏の記事「なぜCloudflareはAIエージェント時代に最適なのか」を読んで、Claude Codeに2つのデモを作りながら理解したことをまとめた。Cloudflareの何が新しいのか、従来のAWSやLambdaとどう違うのかをWebエンジニア視点で整理す...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/vista-towards-test-time-self-improving-video-generation-agent/</link>
-<guid>9feaa81c71974c0fdf5c39b59921789099cb48cbeaaa67ab9a0385552da989b7</guid>
-<pubDate>Tue, 23 Jun 2026 13:36:47 GMT</pubDate>
+<link>https://research.google/pubs/its-still-abuse-community-attitudes-and-perceptions-on-ai-generated-image-based-sexual-abuse/</link>
+<guid>4e4a4919e60a913d080c49b11ae2dfe95a5d4cb40c4bb00516f03bee0768c91c</guid>
+<pubDate>Tue, 23 Jun 2026 16:21:04 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>30003f527bed53335a0ab7b647e8c9a90cdf1f8267fd368eefb92f10821e16ac</guid>
-<pubDate>Tue, 23 Jun 2026 13:36:50 GMT</pubDate>
+<guid>f00167dbc36e7c20b46710b0b9c7714e5eecedd791f7f8cb4d3d9629ee7703f9</guid>
+<pubDate>Tue, 23 Jun 2026 16:21:07 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>559bc9ff5d5eb823e7b664360dfbd7810324ec7f761b8ca9c49ebfdde2f68b8f</guid>
-<pubDate>Tue, 23 Jun 2026 13:36:53 GMT</pubDate>
-<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
 </item>
 
 </channel>
