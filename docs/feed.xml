@@ -4,56 +4,91 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 24 Jun 2026 14:07:42 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 16:38:06 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Document Groundingのコストと制約：AI Unit・対応リージョン・課金の注意点</title>
-<link>https://qiita.com/tomiy/items/b9b99224fc1568db6a42</link>
-<guid>7d1ce8b22a3993ecc954c33dbe30aa3a669526144ad56c64cd1e6d4105c48f6b</guid>
-<pubDate>2026-06-24T22:27:03+09:00</pubDate>
-<description>はじめに 前回の記事では、Document Groundingの設定手順を解説しました。この記事では、運用面で必ず押さえておくべきコストと制約を扱います。 Document Groundingは便利な機能ですが、課金の仕組みと、データの扱いに関する制約を理解せずに導入する...</description>
+<title>【Qiita】 RAG の Embedding と Vector Database：文書を「検索できる形」にする仕組み</title>
+<link>https://qiita.com/imi-glenn/items/bb67e7e83a1510495107</link>
+<guid>df9852d4f3261e54e794de5cd858ccc668c469945941983c2512f7da3d4f1b0e</guid>
+<pubDate>2026-06-25T01:20:35+09:00</pubDate>
+<description>RAG システムが文書チャンクを検索できるようになるには、まず 2 つのものが必要です。 1 つ目は、テキストをベクトルに変換する方法です。これが embedding の役割です。 テキスト chunk ↓ embedding model ↓ vector ...</description>
 </item>
 <item>
-<title>【Qiita】 記憶を持たない知性はどこで「続く」のか — AIエージェントに自己連続性を持たせる</title>
-<link>https://qiita.com/akihidem/items/9a8ad224f430127d6b3f</link>
-<guid>4cf0fc416e26ac8f87e695750844ca23599d91b3635032b200c0fba1c23471ea</guid>
-<pubDate>2026-06-24T21:00:02+09:00</pubDate>
-<description>📚 連載「AIエージェントに『自分』を持たせる」第1回 / 全6回 連載「AIエージェントに『自分』を持たせる」第1回。 多くの対話エージェントは、起動のたびにまっさらな状態で起き、指示書（system prompt や persona 定義）を読み直して「いつもの声」...</description>
+<title>【Qiita】 【行けない人向けにもまとめた】AWS Summit Japan 2026</title>
+<link>https://qiita.com/similarmetal/items/6dd8231ef3dc1ff79fc0</link>
+<guid>84735cf638be5f2c7ea0c14e9991d71afba8d5ac8972c6a2b3389949015f23b6</guid>
+<pubDate>2026-06-25T00:58:22+09:00</pubDate>
+<description>はじめに そもそも何するの? AIの注目ポイントと&quot;回り方&quot;のアンチパターン/ベスプラ 2026年6月25日(木)・26日(金)、幕張メッセで AWS Summit Japan 2026 が開催されています。 実は自分は今年、諸事情あって現地に行けません。ただ「行けないか...</description>
 </item>
 <item>
-<title>【自動自律実験】 Garbage collection</title>
-<link>https://www.nature.com/articles/d41586-026-01720-4</link>
-<guid>caf750c180be7a75258b13283eb7d8e7d799ca133adf6a5d84db9d7557594253</guid>
+<title>【Qiita】 CAPTCHAとWorld IDの違いをわかりやすく解説</title>
+<link>https://qiita.com/abkkk/items/3c488e52349ece7a61a5</link>
+<guid>5c0beb89a6cccba393008729a5681a4610bba0eeefd10fefbcb2955408284c5f</guid>
+<pubDate>2026-06-24T23:55:52+09:00</pubDate>
+<description>「CAPTCHAとWorld IDって、結局何が違うのか」という疑問は、reCAPTCHA（リキャプチャ）の限界に気づいた開発者がよく持つ問いだ。 どちらも「人間かどうかを確認する」という文脈で語られるが、設計の前提がまったく異なる。この違いを整理すると、どちらをどの場面で...</description>
+</item>
+<item>
+<title>【Qiita】 Ralph Loop で AWS Step Functions を「自律的に直して最後まで通す」</title>
+<link>https://qiita.com/kikuziro/items/c7827c447a01df236ac0</link>
+<guid>6b124a4d3927316d6b9da638dec48ac9059ef0233ab60ccda2157564e745e59b</guid>
+<pubDate>2026-06-24T23:39:12+09:00</pubDate>
+<description>突然ですが皆さん、Step Functionsの疎通テストってどうやってます？ 私は「直す → デプロイ → 落ちる → ログ睨む → また直す」のトライアンドエラーです。 あの作業わりと苦行なんですよね。なので最近やたら耳にする ループエンジニアリング に丸投げしてみまし...</description>
+</item>
+<item>
+<title>【自動自律実験】 Role of methanesulfonic acid in atmospheric particle nucleation and growth</title>
+<link>https://www.nature.com/articles/s41586-026-10810-2</link>
+<guid>717952293c2f232324b3443eb3f81e856cf46bf3eae45d482e5be8c9890386f7</guid>
 <pubDate>2026-06-24</pubDate>
-<description>A sense of déjà vu.</description>
+<description>Role of methanesulfonic acid in atmospheric particle nucleation and growth</description>
+</item>
+<item>
+<title>【自動自律実験】 Reply to: On the robustness of topological gap detection via transport</title>
+<link>https://www.nature.com/articles/s41586-026-10568-7</link>
+<guid>57700a9e2aa6091d1b63644e325432598147e4864709bd3c6b837acd341a8ecd</guid>
+<pubDate>2026-06-24</pubDate>
+<description>Reply to: On the robustness of topological gap detection via transport</description>
+</item>
+<item>
+<title>【自動自律実験】 Addendum: Transmission of MPXV from fire-footed rope squirrels to sooty mangabeys</title>
+<link>https://www.nature.com/articles/s41586-026-10767-2</link>
+<guid>133e2ccad5f424455ba4cb4f9d7cbf1fe0ba1840dba54806cd3ca57bee6eb919</guid>
+<pubDate>2026-06-24</pubDate>
+<description>Addendum: Transmission of MPXV from fire-footed rope squirrels to sooty mangabeys</description>
+</item>
+<item>
+<title>【自動自律実験】 On the robustness of topological gap detection via transport</title>
+<link>https://www.nature.com/articles/s41586-026-10567-8</link>
+<guid>13fb740cef0653ac4a6a3db64ac1febf6a2afd403d422d5c29484401bdc3aa70</guid>
+<pubDate>2026-06-24</pubDate>
+<description>On the robustness of topological gap detection via transport</description>
+</item>
+<item>
+<title>【自動自律実験】 Medical records could be revealed by AI training-data vulnerability</title>
+<link>https://www.nature.com/articles/d41586-026-02032-3</link>
+<guid>944caf82d72a6e6f7cf12ee2e288221d2057bcbe5b16fcd7c4abd695534a5487</guid>
+<pubDate>2026-06-24</pubDate>
+<description>Identification risks are more severe for underrepresented groups in the training data — plus, evidence that the Universe is more uneven than assumed.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/snpeek-side-channel-analysis-for-privacy-applications-on-confidential-vms/</link>
-<guid>9e8b09b2a56876f7e29bb5414d785f99d2d855a36febe341071537edfdfd4d42</guid>
-<pubDate>Wed, 24 Jun 2026 14:06:32 GMT</pubDate>
+<link>https://research.google/pubs/digital-shadow-ai-risk-theoretical-framework-dart-a-framework-for-managing-data-disclosure-and-privacy-risks-of-ai-tools-at-work-2/</link>
+<guid>318295542f122c43689c5cf2a65971653c82fd9793522527da76184d1689a6f9</guid>
+<pubDate>Wed, 24 Jun 2026 16:36:44 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>e02f4d6a38de9ce7b08fb8fb2e718e87d980bea5e0423ebe12ab2def12743ed1</guid>
-<pubDate>Wed, 24 Jun 2026 14:06:35 GMT</pubDate>
+<guid>6a70e8ad0a9ca551da89c757cf729af3abceb92e6a52507d947b884b073c312e</guid>
+<pubDate>Wed, 24 Jun 2026 16:36:47 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>0e9a658b6d7ced23b4fe15f43d3a61f016852932a9277addc17d2d0a931c4775</guid>
-<pubDate>Wed, 24 Jun 2026 14:06:38 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【環境】 235 Results</title>
-<link>https://www.canarymedia.com/search?q=artificial+intelligence</link>
-<guid>29bceebeb42ad8c505456b9e38b61eb9c19f09ce0323c58933db4e5a311d30e9</guid>
-<pubDate>Wed, 24 Jun 2026 14:07:42 GMT</pubDate>
-<description>The leading newsroom covering the transition to clean energy, electrification and climate solutions. We report on how the world is decarbonizing with a…</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02869-y</link>
+<guid>e57e34110751cfd807aa410d4bbd6afc781ebf9c69ead17d690809c4703060af</guid>
+<pubDate>Wed, 24 Jun 2026 16:36:50 GMT</pubDate>
+<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
 </item>
 
 </channel>
