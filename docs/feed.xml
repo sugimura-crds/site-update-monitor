@@ -4,91 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 24 Jun 2026 16:38:06 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 18:28:25 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 RAG の Embedding と Vector Database：文書を「検索できる形」にする仕組み</title>
-<link>https://qiita.com/imi-glenn/items/bb67e7e83a1510495107</link>
-<guid>df9852d4f3261e54e794de5cd858ccc668c469945941983c2512f7da3d4f1b0e</guid>
-<pubDate>2026-06-25T01:20:35+09:00</pubDate>
-<description>RAG システムが文書チャンクを検索できるようになるには、まず 2 つのものが必要です。 1 つ目は、テキストをベクトルに変換する方法です。これが embedding の役割です。 テキスト chunk ↓ embedding model ↓ vector ...</description>
+<title>【Qiita】 【ローカルLLM縛り】完全ローカルLLM×MAFで築く「自律型AIエージェント」へのロードマップ</title>
+<link>https://qiita.com/KazutoMakino/items/cfd2374a6c9edd0d6605</link>
+<guid>8696a5b18ac73e8a4075e240220323f496cfa0a379b11345bc37c864d07aa22e</guid>
+<pubDate>2026-06-25T02:52:12+09:00</pubDate>
+<description>はじめに Claude Code などのコーディングエージェントの目覚ましい進化により、やりたいことドリブンな時代になりました。 一方で、既存のクラウドサービス・APIに頼りきりたくない、というか、やはりエンジニアとしては手触り感も欲しいし、より「オレオレ仕様」にしたい、...</description>
 </item>
 <item>
-<title>【Qiita】 【行けない人向けにもまとめた】AWS Summit Japan 2026</title>
-<link>https://qiita.com/similarmetal/items/6dd8231ef3dc1ff79fc0</link>
-<guid>84735cf638be5f2c7ea0c14e9991d71afba8d5ac8972c6a2b3389949015f23b6</guid>
-<pubDate>2026-06-25T00:58:22+09:00</pubDate>
-<description>はじめに そもそも何するの? AIの注目ポイントと&quot;回り方&quot;のアンチパターン/ベスプラ 2026年6月25日(木)・26日(金)、幕張メッセで AWS Summit Japan 2026 が開催されています。 実は自分は今年、諸事情あって現地に行けません。ただ「行けないか...</description>
-</item>
-<item>
-<title>【Qiita】 CAPTCHAとWorld IDの違いをわかりやすく解説</title>
-<link>https://qiita.com/abkkk/items/3c488e52349ece7a61a5</link>
-<guid>5c0beb89a6cccba393008729a5681a4610bba0eeefd10fefbcb2955408284c5f</guid>
-<pubDate>2026-06-24T23:55:52+09:00</pubDate>
-<description>「CAPTCHAとWorld IDって、結局何が違うのか」という疑問は、reCAPTCHA（リキャプチャ）の限界に気づいた開発者がよく持つ問いだ。 どちらも「人間かどうかを確認する」という文脈で語られるが、設計の前提がまったく異なる。この違いを整理すると、どちらをどの場面で...</description>
-</item>
-<item>
-<title>【Qiita】 Ralph Loop で AWS Step Functions を「自律的に直して最後まで通す」</title>
-<link>https://qiita.com/kikuziro/items/c7827c447a01df236ac0</link>
-<guid>6b124a4d3927316d6b9da638dec48ac9059ef0233ab60ccda2157564e745e59b</guid>
-<pubDate>2026-06-24T23:39:12+09:00</pubDate>
-<description>突然ですが皆さん、Step Functionsの疎通テストってどうやってます？ 私は「直す → デプロイ → 落ちる → ログ睨む → また直す」のトライアンドエラーです。 あの作業わりと苦行なんですよね。なので最近やたら耳にする ループエンジニアリング に丸投げしてみまし...</description>
-</item>
-<item>
-<title>【自動自律実験】 Role of methanesulfonic acid in atmospheric particle nucleation and growth</title>
-<link>https://www.nature.com/articles/s41586-026-10810-2</link>
-<guid>717952293c2f232324b3443eb3f81e856cf46bf3eae45d482e5be8c9890386f7</guid>
+<title>【自動自律実験】 Author Correction: cBAF complex components and MYC cooperate early in CD8&lt;sup&gt;+&lt;/sup&gt; T cell fate</title>
+<link>https://www.nature.com/articles/s41586-026-10813-z</link>
+<guid>2725e539adde5d18cba02d0d2f946c5ba608ea9102d7dd4c4fe212b985310392</guid>
 <pubDate>2026-06-24</pubDate>
-<description>Role of methanesulfonic acid in atmospheric particle nucleation and growth</description>
-</item>
-<item>
-<title>【自動自律実験】 Reply to: On the robustness of topological gap detection via transport</title>
-<link>https://www.nature.com/articles/s41586-026-10568-7</link>
-<guid>57700a9e2aa6091d1b63644e325432598147e4864709bd3c6b837acd341a8ecd</guid>
-<pubDate>2026-06-24</pubDate>
-<description>Reply to: On the robustness of topological gap detection via transport</description>
-</item>
-<item>
-<title>【自動自律実験】 Addendum: Transmission of MPXV from fire-footed rope squirrels to sooty mangabeys</title>
-<link>https://www.nature.com/articles/s41586-026-10767-2</link>
-<guid>133e2ccad5f424455ba4cb4f9d7cbf1fe0ba1840dba54806cd3ca57bee6eb919</guid>
-<pubDate>2026-06-24</pubDate>
-<description>Addendum: Transmission of MPXV from fire-footed rope squirrels to sooty mangabeys</description>
-</item>
-<item>
-<title>【自動自律実験】 On the robustness of topological gap detection via transport</title>
-<link>https://www.nature.com/articles/s41586-026-10567-8</link>
-<guid>13fb740cef0653ac4a6a3db64ac1febf6a2afd403d422d5c29484401bdc3aa70</guid>
-<pubDate>2026-06-24</pubDate>
-<description>On the robustness of topological gap detection via transport</description>
-</item>
-<item>
-<title>【自動自律実験】 Medical records could be revealed by AI training-data vulnerability</title>
-<link>https://www.nature.com/articles/d41586-026-02032-3</link>
-<guid>944caf82d72a6e6f7cf12ee2e288221d2057bcbe5b16fcd7c4abd695534a5487</guid>
-<pubDate>2026-06-24</pubDate>
-<description>Identification risks are more severe for underrepresented groups in the training data — plus, evidence that the Universe is more uneven than assumed.</description>
+<description>Author Correction: cBAF complex components and MYC cooperate early in CD8 + T cell fate</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/digital-shadow-ai-risk-theoretical-framework-dart-a-framework-for-managing-data-disclosure-and-privacy-risks-of-ai-tools-at-work-2/</link>
-<guid>318295542f122c43689c5cf2a65971653c82fd9793522527da76184d1689a6f9</guid>
-<pubDate>Wed, 24 Jun 2026 16:36:44 GMT</pubDate>
+<link>https://research.google/pubs/identifying-hearing-difficulty-moments-in-conversational-audio/</link>
+<guid>2fe724b7d2c2f9ed4de26b5f7e79395468f34c35786b039b606b38e0492db8ea</guid>
+<pubDate>Wed, 24 Jun 2026 18:27:22 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>6a70e8ad0a9ca551da89c757cf729af3abceb92e6a52507d947b884b073c312e</guid>
-<pubDate>Wed, 24 Jun 2026 16:36:47 GMT</pubDate>
-<description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>e57e34110751cfd807aa410d4bbd6afc781ebf9c69ead17d690809c4703060af</guid>
-<pubDate>Wed, 24 Jun 2026 16:36:50 GMT</pubDate>
-<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>86c8d0a59c718f8422d40f331876af748f6ee65ec93e1e870d9dc1a37d089910</guid>
+<pubDate>Wed, 24 Jun 2026 18:28:07 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
