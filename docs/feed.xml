@@ -4,42 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 23 Jun 2026 23:06:56 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 01:23:43 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 4 ]：ノードを使用してポップアップを実装する</title>
-<link>https://qiita.com/OnuuuumaX/items/7d0a9e047d19be7ed1b8</link>
-<guid>9f39d06229fbb06111b240bea4db881204a98d198e7912bcba107630ec32466a</guid>
-<pubDate>2026-06-24T07:46:41+09:00</pubDate>
-<description>はじめに 前回の記事では bg_title.png → bg_stage_001.png のフェード切替を実装しました。 今回は続きとして、ギミックへの移動と、ギミック操作をポップアップ上で行いたいので、以下を実装します。 建物扉前 ↓ ポストをタップしてポストへ近接 ↓...</description>
-</item>
-<item>
-<title>【Qiita】 oracle-ai-ready-data Skill で Oracle Database のスキーマを AI Ready Data 評価してみてみた</title>
-<link>https://qiita.com/shirok/items/3b9ccefff059ff1ab40d</link>
-<guid>93a0d2e0d9e7303b240f75d405b53498f19cc528f299f9d892b2b0a54eb99904</guid>
-<pubDate>2026-06-24T07:23:50+09:00</pubDate>
-<description>今回は HR スキーマを例に、Oracle Database のスキーマが AI Ready Data としてどの程度整っているかを評価してみます。 Oracle Database では、Select AI、RAG、AI Vector Search、AI Agent など...</description>
+<title>【農業】 Publisher Correction: Five archetypes of small-scale fisheries reveal a continuum of production strategies to guide governance and policymaking</title>
+<link>https://www.nature.com/articles/s43016-026-01394-1</link>
+<guid>6b705933cbcd8e13e70efe2623b3820f6e60fdd583e06f2e4b549416a8b495f6</guid>
+<pubDate>2026-06-23</pubDate>
+<description>Publisher Correction: Five archetypes of small-scale fisheries reveal a continuum of production strategies to guide governance and policymaking</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/moxart-audio-visual-object-guided-sound-interaction-for-xr/</link>
-<guid>dc2aa7ec6e45d7f52d122a7d2a7cd13fcbed0f57189862d3d7b2cc8a0cad3f25</guid>
-<pubDate>Tue, 23 Jun 2026 23:05:50 GMT</pubDate>
+<link>https://research.google/pubs/crop-token-efficient-reasoning-in-large-language-models-via-regularized-prompt-optimization/</link>
+<guid>bf149af98caf83003bd5a329bca928c4e2df808c859a17c727d07dd5e2cbcda2</guid>
+<pubDate>Wed, 24 Jun 2026 01:22:13 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>b70b83ae8b5595bcbc31d8ee6abed3a655a32d10ff53752a70d3f701e20ba9aa</guid>
-<pubDate>Tue, 23 Jun 2026 23:05:54 GMT</pubDate>
-<description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>e85c8b66c83aed03f9ae4705fd0f87ccf0311ad5f60cdd02c63ac95f1b431f74</guid>
-<pubDate>Tue, 23 Jun 2026 23:05:56 GMT</pubDate>
-<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
 </item>
 
 </channel>
