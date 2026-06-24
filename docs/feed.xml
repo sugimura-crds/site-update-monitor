@@ -4,84 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 24 Jun 2026 05:15:12 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 08:39:14 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 OpenShift Lightspeed × Red Hat OpenShift on IBM Cloud：AI推論で開発運用の効率化できる基盤</title>
-<link>https://qiita.com/masaffff/items/e5e1450ea09bdad9344b</link>
-<guid>eea31458e1d4c54308df108fa1b242b758f33806e32e6f619407cc6ce50a6cb8</guid>
-<pubDate>2026-06-24T12:07:50+09:00</pubDate>
-<description>Red Hat OpenShift Lightspeedとは？ Red Hat OpenShift Lightspeedは、OpenShift Webコンソールに統合された生成AIベースの仮想アシスタントであり、ユーザー が自然言語で操作や質問を行うことで、OpenShi...</description>
+<title>【Qiita】 「言った・言わない」を防ぐ。要件定義で使うべき質問の技術</title>
+<link>https://qiita.com/prum_hitomi/items/d06e7479122150ee0ad9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>783a7d74d1caa7593827ea1d06e594d0d800c288f16ac6a73689a8ef24fbcdc0</guid>
+<pubDate>2026-06-24T13:13:08+09:00</pubDate>
+<description>はじめまして。株式会社PRUMでエンジニアをしているひとみです。 日々、プログラミング学習や実務の中で、つまずきやすいポイントや、 仕事で起きやすい&quot;ズレ&quot;について整理して発信しています。 誰かの助けになれば幸いです。 「言った・言わない」を防ぐ。要件定義で使うべき質問の...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Cloud: RackWare Management Module(RMM)を使ったVMware環境からのVPCへの移行: Windows編</title>
-<link>https://qiita.com/shiyasu/items/f7b1649e9dbfef74b63b</link>
-<guid>d32a5f7ed28bc22016fefe2c6ddae4f0f0095557b35b68f8e8c13f9fdf6318ad</guid>
-<pubDate>2026-06-24T10:56:25+09:00</pubDate>
-<description>1. はじめに IBM Cloudでは、RackWare Management Module(RMM)というSelf Managedの移行ツールが提供されています。本稿では、このツールを使って、IBM CloudのVMware環境上のVM(source server)から...</description>
+<title>【Qiita】 PostgreSQLのバックアップ＆restore実践ガイド</title>
+<link>https://qiita.com/K_TAKETO/items/92a102cbf6b221a5bcfe</link>
+<guid>3c20cd2fa0eb30773351d2b6be52f850151852c03de36ef5bd68c22cf1288de8</guid>
+<pubDate>2026-06-24T16:59:22+09:00</pubDate>
+<description>この記事では、現在の実務内容を参考に、PostgreSQLにおける主要なバックアップ手法と、実際のリストア手順を内容をコマンド付きで解説します。開発環境から本番運用まで使える実践的な内容です。 はじめに データベースの運用において、バックアップとリストアは最も重要...</description>
 </item>
 <item>
-<title>【Qiita】 AWSの&quot;俯瞰&quot;構成図を自動生成する ── 見やすさを機械チェックしながら量産した話</title>
-<link>https://qiita.com/ntaka329/items/d457f309e33c4602a693</link>
-<guid>a07df7e2b36eed4d9e95c2a5cf38b88b5255b41af3163840e264a7468b8397c9</guid>
-<pubDate>2026-06-24T12:02:25+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 提案や要件整理の場で、AWSの構成図を描くことが度々あります。ただ、都度ていねいに手で描くと時間がかかります。それなら構成案から自動で生成できればと思い、既存のAWS公式スキルなども試しました。ところが出てくるのは細部まで描き込んだ実...</description>
+<title>【Qiita】 【AWS】夜間の自動調査もお手の物！DevOpsAgentを用いたシステム障害対応業務の再現性確保</title>
+<link>https://qiita.com/na7na/items/db3da705106d8d80fc3a</link>
+<guid>3b429908791c79d2a85978aeac90efc1ac5c4c24f74d63ccab94c4e30a149179</guid>
+<pubDate>2026-06-24T17:01:47+09:00</pubDate>
+<description>はじめに 組織異動の季節になり、システム障害対応やインシデント対応可能なメンバーを増やしたいと考えるようになりました。引き継ぎ書等を用意するだけでなく、この業務自体をエージェント化してみたくなりました。 AIエージェント化できると次のような魅力があります。 システム障...</description>
 </item>
 <item>
-<title>【Qiita】 【Godot 4.7】毎回エクスポートせずにiPhone実機で確認する方法〜Xcode連携セットアップ〜</title>
-<link>https://qiita.com/OnuuuumaX/items/ab946ea7aecfd7e03b1b</link>
-<guid>6091424bc6bfb84fe2ee7eaf17c5b2f824e4fa18ce7b18729a5f2e8a34a18792</guid>
-<pubDate>2026-06-24T10:58:33+09:00</pubDate>
-<description>はじめに GodotでiOSアプリを開発する際、通常は以下の手順が必要です。 Godotで修正 ↓ プロジェクト &gt; エクスポート（毎回） ↓ Xcodeでビルド ↓ 実機で確認 この「毎回エクスポート」が地味に面倒です。この記事では一度だけセットアップすれ...</description>
+<title>【Qiita】 Databricks Unity AI Gateway 最新ガイド — 新しいタブ構成 (モデル/プロバイダー/MCP) を実機で触る</title>
+<link>https://qiita.com/taka_yayoi/items/ad26c6ce5165ef691e00</link>
+<guid>1ceddc1676d6d3c0f6abc7a0dc7a7890553e94a0c7be428327a01137567284d5</guid>
+<pubDate>2026-06-24T15:59:56+09:00</pubDate>
+<description>はじめに Databricksの Unity AI Gateway が刷新され、左側のナビゲーションに新しい AI Gateway (ベータ) が登場しました。画面は「モデル」「プロバイダー」「MCP」「スキル」「エージェント」のタブ構成になり、これまでモデルサービングエ...</description>
 </item>
 <item>
-<title>【Qiita】 Azure DevOps を新規開設する手順</title>
-<link>https://qiita.com/valpasucucci43/items/c92bf81ad78eef5bb894</link>
-<guid>169edb08972ca7a96a13c3e5d5b68054d6b968fbf8ffaafa7627486923a8a398</guid>
-<pubDate>2026-06-24T10:31:59+09:00</pubDate>
-<description>はじめに Azure DevOps は、ソースコード管理・CI/CD パイプライン・タスク管理・テスト管理・成果物管理を一元化できる Microsoft のデベロッパープラットフォームです。 本記事では、Azure DevOps Organization を新規に作成し、...</description>
+<title>【農業】 Norway and FAO scale up forest monitoring for climate action</title>
+<link>https://www.fao.org/newsroom/detail/norway-and-fao-scale-up-forest-monitoring-for-climate-action/en</link>
+<guid>b59a708e7eb32f40b1b2af8ba5e8f9b78b458cb33008a49b2d6e328f528547b6</guid>
+<pubDate>Wed, 24 Jun 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【Qiita】 【AIの新潮流】「プロンプト」はもう古い？数ヶ月以内に主流になる「ループ・エンジニアリング」とは</title>
-<link>https://qiita.com/hokutosei/items/9090df028db822a74820</link>
-<guid>1ea0d82747cb84bc8c309110e4dcc75b7fcf36059d15424f6864535f8bfd7789</guid>
-<pubDate>2026-06-24T13:20:54+09:00</pubDate>
-<description>AI技術の進化スピードは凄まじく、つい最近まで「AIを使いこなす必須スキル」とされていた プロンプト・エンジニアリング（Prompt Engineering） が、急速に過去のものになろうとしています。 いま、AI開発の最前線で急速に注目を集めているのが 「ループ・エンジニ...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Code v2.1.183〜187の安全強化：auto modeが破壊的git/IaCコマンドを拒否し、sandbox.credentialsでシークレット流出を防ぐ</title>
-<link>https://qiita.com/YushiYamamoto/items/4423dd0582ef613a0e9d</link>
-<guid>eaa4c980793dbc598fe9a5b8398e212a34e0b786ee4bd2bb30ec15bcabcc903f</guid>
-<pubDate>2026-06-24T13:00:15+09:00</pubDate>
-<description>2026年6月、Claude Code の CHANGELOG に、エージェントの「暴走」を防ぐ変更が立て続けに入った（v2.1.183〜187。日付はリリーストラッカー上で6月19日〜23日前後）。auto mode が破壊的な git / IaC コマンドを既定で拒否...</description>
-</item>
-<item>
-<title>【Qiita】 Skill が増えすぎた ─ 6,000 件超の Skill とコンテキスト管理</title>
-<link>https://qiita.com/narumaru2001/items/e9ef8edc751bfb20517b</link>
-<guid>43a454a13432b6d364e1acd10ad3d7623c7b587b45ca864f5aea2ce2a0642592</guid>
-<pubDate>2026-06-24T10:39:23+09:00</pubDate>
-<description>Skill が増えすぎた ─ 6,000 件超の Skill とコンテキスト管理 はじめに 第1回・第2回で既存の .NET 資産を Skill 化し、第5回で業務フロー Skill を加えていくと、Skill の数が増え続けます。 うちのシステムでは最終的に API ...</description>
+<title>【農業】 FAO Investment Centre: Turning potential into progress</title>
+<link>https://www.fao.org/newsroom/detail/fao-investment-centre--turning-potential-into-progress/en</link>
+<guid>5588ce640e48abe9242193e80700ba4749a4895b93e34acb92943c59c99f98e8</guid>
+<pubDate>Wed, 24 Jun 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/sexual-dimorphism-in-the-complete-connectome-of-the-drosophila-male-central-nervous-system/</link>
-<guid>194316c8fb7caf9284e2ffef9fc99d1348f8639b5e999fc2d9083c2ad9fa4efc</guid>
-<pubDate>Wed, 24 Jun 2026 05:14:28 GMT</pubDate>
+<link>https://research.google/pubs/aase-activation-based-ai-safety-enforcement-via-lightweight-probes/</link>
+<guid>464653d5c45ac5cb0783f3b6255626e2db30fad63bf7c9d7872e6f7d8fbfdc88</guid>
+<pubDate>Wed, 24 Jun 2026 08:38:13 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>75002b51a339fa302a39f538688379ca8d0ca66403e731f4a6bc8da754ce221c</guid>
-<pubDate>Wed, 24 Jun 2026 05:14:30 GMT</pubDate>
+<guid>c4893de3debc502349447061187081c85461869565b5c18b87229913f79a1738</guid>
+<pubDate>Wed, 24 Jun 2026 08:38:16 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>ba25d1c71b0a198cce16cef64a8ee73b77d965275eaa992a4e987239e0d4ca2a</guid>
-<pubDate>Wed, 24 Jun 2026 05:14:33 GMT</pubDate>
-<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
 </item>
 
 </channel>
