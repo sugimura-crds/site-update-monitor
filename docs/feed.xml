@@ -4,77 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 24 Jun 2026 11:39:31 GMT</lastBuildDate>
+<lastBuildDate>Wed, 24 Jun 2026 14:07:42 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 RAGの精度はChunking前に決まる：生ドキュメントを検索可能な単位に変える</title>
-<link>https://qiita.com/imi-glenn/items/aa5fbdfd3200a8bda62d</link>
-<guid>11cc3b4660faede715c4a1ecb53e8d2bcfbf544762fe5d9f4d49b29a122d8bab</guid>
-<pubDate>2026-06-24T19:05:44+09:00</pubDate>
-<description>1. 生のドキュメントから検索可能な単位へ RAG のこの層では、生のドキュメントを 検索可能な単位 に変換していきます。 生のドキュメント → 検索可能な単位 RAG システムは、通常、PDF やマニュアル全体をそのまま検索するわけではありません。あらかじめ準...</description>
+<title>【Qiita】 Document Groundingのコストと制約：AI Unit・対応リージョン・課金の注意点</title>
+<link>https://qiita.com/tomiy/items/b9b99224fc1568db6a42</link>
+<guid>7d1ce8b22a3993ecc954c33dbe30aa3a669526144ad56c64cd1e6d4105c48f6b</guid>
+<pubDate>2026-06-24T22:27:03+09:00</pubDate>
+<description>はじめに 前回の記事では、Document Groundingの設定手順を解説しました。この記事では、運用面で必ず押さえておくべきコストと制約を扱います。 Document Groundingは便利な機能ですが、課金の仕組みと、データの扱いに関する制約を理解せずに導入する...</description>
 </item>
 <item>
-<title>【Qiita】 【Azure】＜基調講演＞ 最新テクノロジー総まとめ - Best of Microsoft Recap Day Japan 2026</title>
-<link>https://qiita.com/hasegawa-masao/items/7b48309a1a84d6bb1c42</link>
-<guid>72b9c06d6d6a8a2c14c63f95c39c1252a6b9efd23a9241c4fe09814a9a6ec0bb</guid>
-<pubDate>2026-06-24T18:49:06+09:00</pubDate>
-<description>先日、アメリカで開催されたMicrosoftのビッグイベント「MicroSoft Build 2026」のRecapセミナーの内容をまとめました。 1. AIエージェントデバイス「Project Solara」 Microsoftが打ち出した「Project So...</description>
+<title>【Qiita】 記憶を持たない知性はどこで「続く」のか — AIエージェントに自己連続性を持たせる</title>
+<link>https://qiita.com/akihidem/items/9a8ad224f430127d6b3f</link>
+<guid>4cf0fc416e26ac8f87e695750844ca23599d91b3635032b200c0fba1c23471ea</guid>
+<pubDate>2026-06-24T21:00:02+09:00</pubDate>
+<description>📚 連載「AIエージェントに『自分』を持たせる」第1回 / 全6回 連載「AIエージェントに『自分』を持たせる」第1回。 多くの対話エージェントは、起動のたびにまっさらな状態で起き、指示書（system prompt や persona 定義）を読み直して「いつもの声」...</description>
 </item>
 <item>
-<title>【Qiita】 VM0 で Atlas Cloud を使う方法（How to Use Atlas Cloud in VM0）｜日本語 + English</title>
-<link>https://qiita.com/mingvm0/items/dbcb1398b241b8203c48</link>
-<guid>43c02fb8dd141494efdd6d3a51859bda118a14f28d079984fd906084314e162e</guid>
-<pubDate>2026-06-24T18:41:44+09:00</pubDate>
-<description>原文（VM0 ブログ）/ Originally published on the VM0 blog: https://www.vm0.ai/en/blog/posts/atlas-cloud-in-vm0 日本語版（先）と英語版（後）を1つの記事にまとめています。 / ...</description>
-</item>
-<item>
-<title>【Qiita】 AIで強化されるフォワードデプロイドエンジニア（Forward Deployed Engineer）｜日本語 + English</title>
-<link>https://qiita.com/mingvm0/items/8618ba017c71f67648a5</link>
-<guid>78085660ebb90b09fadbbe1d7c2e3c71b37b3f311d3827770cbfa6e7b01134c5</guid>
-<pubDate>2026-06-24T18:24:03+09:00</pubDate>
-<description>原文（VM0 ブログ）/ Originally published on the VM0 blog: https://www.vm0.ai/en/blog/posts/forward-deployed-engineer 日本語版（先）と英語版（後）を1つの記事にまとめて...</description>
-</item>
-<item>
-<title>【環境】 Resource consumption in global concrete production</title>
-<link>https://www.nature.com/articles/s41893-026-01858-z</link>
-<guid>2fe811f491567f1b7330b3a506a67f6a653df099c3c5e04eae16949414a0eca4</guid>
+<title>【自動自律実験】 Garbage collection</title>
+<link>https://www.nature.com/articles/d41586-026-01720-4</link>
+<guid>caf750c180be7a75258b13283eb7d8e7d799ca133adf6a5d84db9d7557594253</guid>
 <pubDate>2026-06-24</pubDate>
-<description>Concrete production exceeds that of other construction materials, yet the resources required are poorly tracked. This study quantifies the global inputs and hidden losses, revealing that 66 Gt of mineral, energy and water resources were consumed in 2019—more than double previous direct-use estimates.</description>
-</item>
-<item>
-<title>【自動自律実験】 ‘Us’ not ‘them’: scientists must use their skills to help stop polarization and division</title>
-<link>https://www.nature.com/articles/d41586-026-01952-4</link>
-<guid>e0b1d28f290a180200c5ffeb7384e0c7ecd515d9f31a1b1f89234fd646f4d199</guid>
-<pubDate>2026-06-24</pubDate>
-<description>Researchers who study what divides people also have the tools to explore strategies to unite them.</description>
-</item>
-<item>
-<title>【自動自律実験】 Why science needs the humanities more than ever</title>
-<link>https://www.nature.com/articles/d41586-026-01958-y</link>
-<guid>970e2bb4d5a414c436f4713f74c8b9543e4d61c37058ca9ff7f7b20c14fb435e</guid>
-<pubDate>2026-06-24</pubDate>
-<description>From AI to biotechnology, today’s scientific breakthroughs raise ethical and social challenges that technical expertise alone cannot solve.</description>
+<description>A sense of déjà vu.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/analyzing-bytes-pre-disassembly-static-binary-analysis/</link>
-<guid>ab73140173354c0a9b156be28f088fd9f26d8d999e72c258b6bd55fd5f8f325a</guid>
-<pubDate>Wed, 24 Jun 2026 11:38:24 GMT</pubDate>
+<link>https://research.google/pubs/snpeek-side-channel-analysis-for-privacy-applications-on-confidential-vms/</link>
+<guid>9e8b09b2a56876f7e29bb5414d785f99d2d855a36febe341071537edfdfd4d42</guid>
+<pubDate>Wed, 24 Jun 2026 14:06:32 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>b4b49af90ad1a11ffdf7d80fe2c54135e98cbe2e4747cc7a008da47734c8a58b</guid>
-<pubDate>Wed, 24 Jun 2026 11:38:27 GMT</pubDate>
+<guid>e02f4d6a38de9ce7b08fb8fb2e718e87d980bea5e0423ebe12ab2def12743ed1</guid>
+<pubDate>Wed, 24 Jun 2026 14:06:35 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04403-9</link>
-<guid>a9e53a555362c3eeba31825cb498330a68b19d982524fb09d54e628e07d5293c</guid>
-<pubDate>Wed, 24 Jun 2026 11:38:33 GMT</pubDate>
-<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>0e9a658b6d7ced23b4fe15f43d3a61f016852932a9277addc17d2d0a931c4775</guid>
+<pubDate>Wed, 24 Jun 2026 14:06:38 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【環境】 235 Results</title>
+<link>https://www.canarymedia.com/search?q=artificial+intelligence</link>
+<guid>29bceebeb42ad8c505456b9e38b61eb9c19f09ce0323c58933db4e5a311d30e9</guid>
+<pubDate>Wed, 24 Jun 2026 14:07:42 GMT</pubDate>
+<description>The leading newsroom covering the transition to clean energy, electrification and climate solutions. We report on how the world is decarbonizing with a…</description>
 </item>
 
 </channel>
