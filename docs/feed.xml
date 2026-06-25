@@ -4,70 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 25 Jun 2026 13:33:30 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 16:17:23 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Anthropic流「Long-running Agents」から学ぶ、長時間自律稼働AIエージェント設計</title>
-<link>https://qiita.com/miyaguchi_kioku/items/e5e23a22f74c4c2a4773</link>
-<guid>66d492d10cf85db8e3cdb807fcfdf543eed5fcc3ac3e5947fbe1253250c91f2a</guid>
-<pubDate>2026-06-25T22:09:59+09:00</pubDate>
-<description>Anthropic流「Long-running Agents」から学ぶ、長時間自律稼働AIエージェント設計 Anthropic社の応用AIチーム（Andrew氏・Ash氏）による、長時間の自律稼働エージェント（Long-running Agents） 構築に関する非常に実...</description>
+<title>【Qiita】 【AWS CLF 間違えやすい箇所を整理】第2回 責任共有モデルの「混同しやすい境界線」を整理する</title>
+<link>https://qiita.com/ryoji9702/items/b13f96b8905f22c458eb</link>
+<guid>312db5502e2db1777bc323d38adb81e3ae95a2e2810a893113970e3db77c4f70</guid>
+<pubDate>2026-06-25T23:23:28+09:00</pubDate>
+<description>はじめに 本記事は、AWS 認定 クラウドプラクティショナー（CLF-C02）の試験範囲を「間違えやすい・混同しやすい箇所」に絞って解説する連載の 第2回 です。 今回扱うのは、試験ドメイン2「セキュリティとコンプライアンス」の中でも最初に立ちはだかる 責任共有モデル（S...</description>
 </item>
 <item>
-<title>【Qiita】 AIが書いたコードを毎回&quot;目視&quot;レビューするのは、もう限界。評価(Eval)を仕組みにして&quot;任せて確かめる&quot;開発へ</title>
-<link>https://qiita.com/akira_papa_AI/items/98bb439c3163ca7f685e</link>
-<guid>a6c16c43416a08e802152210ac102128570a37f94a3d451c14e6589ed60293e6</guid>
-<pubDate>2026-06-25T21:52:07+09:00</pubDate>
-<description>はじめに：AIの出力、&quot;合ってる&quot;ってどうやって判断してます？ 最近、コードのかなりの部分をAIに書いてもらってる人、増えてきましたよね。 Claude CodeにしてもCursorにしても、関数1個どころか、機能まるごと「いい感じに書いといて」で返ってくる時代です。生産...</description>
-</item>
-<item>
-<title>【Qiita】 第三章：人間とAIの協調ループ（Human-in-the-Loop: HITL</title>
-<link>https://qiita.com/0903osa/items/70337a8d4d6783e17169</link>
-<guid>eea34fe6dfab55c68db3cf13a132d303efc0060f1b8c05cab3cffbfca44a3721</guid>
-<pubDate>2026-06-25T21:49:33+09:00</pubDate>
-<description>人間とAIの協調ループ（Human-in-the-Loop: HITL） AIエージェントの自律性が高まる一方で、システムの決定を完全にAIに委ねることには、ハルシネーション（幻覚）や意図しない動作、セキュリティ上の脆弱性といった重大なリスクが伴います。特に「メールの送信...</description>
-</item>
-<item>
-<title>【Qiita】 第二章 自律型AIエージェントの「思考・行動ループ（Agentic Loop）」</title>
-<link>https://qiita.com/0903osa/items/65731e960a74f68c0f1b</link>
-<guid>6cba583d7947d1c5fcf3b698d6d503fde26ffa5fc9870eb6605b3834d3492aa6</guid>
-<pubDate>2026-06-25T21:47:08+09:00</pubDate>
-<description>自律型AIエージェントの「思考・行動ループ（Agentic Loop）」 自律型AIエージェントの核心は、静的なプロンプト入出力（一問一答）ではなく、状況に応じて動的に推論と行動を繰り返す**「ループ（循環構造）」**にあります。LLM（大規模言語モデル）に自律的な振る舞...</description>
-</item>
-<item>
-<title>【自動自律実験】 How long-term dietary cholesterol can slow down its own clearance by liver cells</title>
-<link>https://www.nature.com/articles/d41586-026-01899-6</link>
-<guid>ac84cb87d0b66c4e9e96748769c2325658bbda4138b64c64b3c5ceef04230bc2</guid>
+<title>【自動自律実験】 Ligand-enabled distal desaturative lactonization of aliphatic acids</title>
+<link>https://www.nature.com/articles/s41586-026-10826-8</link>
+<guid>3235328f40e699cce09c85709a4d3358b5dda7d95294b260bbf36659064b3a4a</guid>
 <pubDate>2026-06-25</pubDate>
-<description>Cholesterol carried by low-density lipoprotein (LDL) drives heart disease and is cleared by liver cells expressing the receptor LDLR. A cell-signalling mechanism has been discovered through which high cholesterol promotes the enzyme-mediated degradation of LDLR. Blocking this enzyme restores LDLR levels in liver cells, suggesti</description>
+<description>Ligand-enabled distal desaturative lactonization of aliphatic acids</description>
+</item>
+<item>
+<title>【自動自律実験】 Base editing reveals an essential role for NANOG in human embryogenesis</title>
+<link>https://www.nature.com/articles/s41586-026-10792-1</link>
+<guid>9c8844032bda48db12e1c3d4e8ada61dcebadaf5ea165fc4371bfad22691b0f5</guid>
+<pubDate>2026-06-25</pubDate>
+<description>Base editing reveals an essential role for NANOG in human embryogenesis</description>
+</item>
+<item>
+<title>【自動自律実験】 Oo oo, ha ha: why humans and great apes giggle alike when tickled</title>
+<link>https://www.nature.com/articles/d41586-026-01994-8</link>
+<guid>6d8037a4f561bbec25d18a3e96e1c123bf37749b81bafdb8aaf1e1b87da61680</guid>
+<pubDate>2026-06-25</pubDate>
+<description>The rhythmic patterns of laughter found in apes and humans reveal that complex primate vocal control might have started evolving 15 million years ago.</description>
+</item>
+<item>
+<title>【自動自律実験】 China’s LineShine just topped the global supercomputer ranking: what you need to know</title>
+<link>https://www.nature.com/articles/d41586-026-02047-w</link>
+<guid>86f955768eb37a84cdbd16c89d2f42ae26e0219baaa7bf14003f29650a27d86c</guid>
+<pubDate>2026-06-25</pubDate>
+<description>The supercomputer has an innovative chip design that allows it to carry out more than 2 quintillion calculations per second.</description>
+</item>
+<item>
+<title>【自動自律実験】 Can you terraform Mars? Try &lt;i&gt;Nature&lt;/i&gt;’s game</title>
+<link>https://www.nature.com/articles/d41586-026-01978-8</link>
+<guid>2d759f9ce4642514cceb815c245662e59dc1d29a51d29500e762123a9ca22882</guid>
+<pubDate>2026-06-25</pubDate>
+<description>Once the realm of science fiction, the idea of making Mars habitable is gaining traction. Nature consulted with key scientists to develop this experimental adventure.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/on-the-fly-ovd-adaptation-with-flame-few-shot-localization-via-active-marginal-samples-exploration/</link>
-<guid>f5cbd24e502a2a0b84fa77d95646de9ad2339671ac8b5d655e8b92eb833046a3</guid>
-<pubDate>Thu, 25 Jun 2026 13:32:27 GMT</pubDate>
+<link>https://research.google/pubs/convapparel-a-benchmark-dataset-and-validation-framework-for-user-simulators-in-conversational-recommenders-2/</link>
+<guid>e1ecece7dd38a051a6140666dcbf7734057bf83d94df4e9d5ca8ead028427150</guid>
+<pubDate>Thu, 25 Jun 2026 16:16:20 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>e41e3983182104b69682d89064a4ae013ef8aed2a9afbf8e2131c0085ad1ffde</guid>
-<pubDate>Thu, 25 Jun 2026 13:32:30 GMT</pubDate>
+<guid>aac361235384a129f92aa60040767e2ac4d8175632faefac22d55be30cefbb48</guid>
+<pubDate>Thu, 25 Jun 2026 16:16:22 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>154aeb0dccab79c9990591d41ced650ea7d9c0014a3aa9cb3ff91d983f2f6716</guid>
-<pubDate>Thu, 25 Jun 2026 13:32:33 GMT</pubDate>
-<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
-</item>
-<item>
-<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
-<link>https://www.eurohpc-ju.europa.eu/index_en</link>
-<guid>0305c696f8aec8bb9e7970f87af100456786eb15610a278e6e7331c9fbfbe097</guid>
-<pubDate>Thu, 25 Jun 2026 13:32:39 GMT</pubDate>
-<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
 </item>
 
 </channel>
