@@ -4,42 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 25 Jun 2026 20:32:47 GMT</lastBuildDate>
+<lastBuildDate>Thu, 25 Jun 2026 22:17:00 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AGIの次に何が起きるのか</title>
-<link>https://qiita.com/mhamadajp/items/864d262d06b7287a58e0</link>
-<guid>e60fef73e8fab908e31e8336cee06225a1c6e0f076d074fda7f2ed26586e7f0b</guid>
-<pubDate>2026-06-26T04:16:47+09:00</pubDate>
-<description>Google DeepMindの研究者らを含むTim Genewein氏らの論文「From AGI to ASI」は、AIの未来を語るうえでかなり重要な問いを扱っています。 それは、「AGIができたあと、AIはどのようにASIへ進むのか」という問いです。 AGIという言葉は...</description>
+<title>【Qiita】 GitHub Copilot CLI の中身を全部開けてみた - `definitions/*.agent.yaml` と fleet モードの非対称な作り</title>
+<link>https://qiita.com/aktsmm/items/5aa891967b4bed5b6b13</link>
+<guid>7b1e503a8890ca55899f44ffeb04b5d89a6d16bd5a7e66df8c3e926a04b838f8</guid>
+<pubDate>2026-06-26T06:22:17+09:00</pubDate>
+<description>こんにちは、CLI の中身が気になって app.js を grep しちゃうアーキテクトのやまぱん！です 😊 今回は GitHub Copilot CLI のインストールツリーをローカルで開けて、「組み込みのサブエージェントってどこで定義されてるの？」を確かめた話です。 ...</description>
+</item>
+<item>
+<title>【Qiita】 良かれと思って作ったAgentに、いつのまにか縛られていた</title>
+<link>https://qiita.com/mofuteq/items/adc41a739d0ca0f43296</link>
+<guid>501f3cf92629b242da74e5f801c0aafa0e39a6273a38651edfa9d1c22530ea51</guid>
+<pubDate>2026-06-26T06:52:42+09:00</pubDate>
+<description>最初は、自分のためだったはずなんです。 これは、ひとりの話ではありません。何人か、同じ道をたどっていくのを見てきました。始まりは、たいてい一緒です。 毎日やっている確認作業が、地味に面倒だった。それを Agent にやらせたら、手元が少し軽くなった。便利でした。誰に見せるも...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/moxart-audio-visual-object-guided-sound-interaction-for-xr-2/</link>
-<guid>e6ff513c7c74bc4974028eef9c559f9244510f7767a3f698395c02911cbf3216</guid>
-<pubDate>Thu, 25 Jun 2026 20:31:47 GMT</pubDate>
+<link>https://research.google/pubs/differential-sensitivity-of-impedance-plethysmography-and-photoplethysmography-sensors-to-temperature-induced-peripheral-vasoconstriction/</link>
+<guid>c446222bd939bc80de40b3d637957d5a688b7c35c7bc1686fa3f7a9b832de7fb</guid>
+<pubDate>Thu, 25 Jun 2026 22:15:44 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>db0f2982e78decf7ffec4df193d0dc5e77a7d26ad39f01e3bb25ab9a36503e3c</guid>
-<pubDate>Thu, 25 Jun 2026 20:31:50 GMT</pubDate>
+<guid>8a3a486808d5145db7114f5a3ef7555cfa0cf323d9d0fdb67ee43e2fb0f48eb5</guid>
+<pubDate>Thu, 25 Jun 2026 22:15:47 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>ac6dfd6e093603bfad1d9bcc40a8d72de3a2bf7cf5ea92ec865901629541f960</guid>
-<pubDate>Thu, 25 Jun 2026 20:31:52 GMT</pubDate>
+<guid>7732e15edd36d753ad31754b094cdb22e624be2ea95bc84e4d22d44db1830d93</guid>
+<pubDate>Thu, 25 Jun 2026 22:15:49 GMT</pubDate>
 <description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>2f0424f70789ff82d7d92e470a846c74bbd6fc8d8a97b3e26e9a7686a69321d9</guid>
-<pubDate>Thu, 25 Jun 2026 20:31:55 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 
 </channel>
