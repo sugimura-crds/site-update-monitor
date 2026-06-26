@@ -4,119 +4,84 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 26 Jun 2026 10:16:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 12:29:55 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 読み方を間違えがちなエンジニア用語集 ~ 会議で恥ずかしい思いをしないために ~</title>
-<link>https://qiita.com/n-isd/items/46eeee2dbc282cb16e2f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>83d71bcfc2511c0a1639b6415d7324103e0cb2953c8692b079a1b28de4199167</guid>
-<pubDate>2026-06-25T17:39:18+09:00</pubDate>
-<description>はじめに 私はほぼ独学でエンジニアになった野良エンジニアです。 初心者時代、勉強していて出てくるエンジニア用語の読み方がわからず苦労しました。 わからないものが出てきても、後回しにして、結局正しい読み方がわからないままに。 前職では、ひとりエンジニア状態だったので、誰にも...</description>
+<title>【Qiita】 自分で自分を直せるか — AIエージェントの自己改善と、その天井</title>
+<link>https://qiita.com/akihidem/items/c9282ee28a0878c09ff5</link>
+<guid>8ba9df11eb78ae8d23eb3fd2066c8beefbe50efee2bcdeb18cb25a4567502844</guid>
+<pubDate>2026-06-26T21:00:35+09:00</pubDate>
+<description>📚 連載「AIエージェントに『自分』を持たせる」第5回 / 全6回 連載「AIエージェントに『自分』を持たせる」第5回。 第4回で、エージェントは別のエージェントとの対話を通じて、外から誤りを指摘されて賢くなった。だが、毎回他者を呼ぶのは重い。指摘してくれる相手が常にい...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Cloud : virt-v2vを使ったVMwareからVSI for VPCへ移行手順の補足-VCFaaS環境からの移行</title>
-<link>https://qiita.com/6onoda/items/cd4d682bd0107fe1b1f3</link>
-<guid>f122c49d5799ceb28fe1551ffdcd660826eab6a181904dbd9be920cc9cd45780</guid>
-<pubDate>2026-06-26T18:48:55+09:00</pubDate>
-<description>「IBM Cloud : virt-v2vを使ったVMware OVAからVSI for VPCへのサーバー移行手順」では、vCenter環境ではない、スタンドアロンのESXi環境のVMの移行を試しました。 今回、IBM Cloud の VCF as a Service(V...</description>
+<title>【Qiita】 AI同士を話させると賢くなるのか — 対話の創発と「頷き合い」の罠</title>
+<link>https://qiita.com/akihidem/items/fd98205180d442ced384</link>
+<guid>afb576f887a4d35dc8e77f65eb40dbd43a4aaa9af802215558fced5a05154d21</guid>
+<pubDate>2026-06-26T21:00:04+09:00</pubDate>
+<description>📚 連載「AIエージェントに『自分』を持たせる」第4回 / 全6回 連載「AIエージェントに『自分』を持たせる」第4回。 ここまでで、一体のエージェントは、続き（第1回）、接地し（第2回）、止め方を持って自律的に回る（第3回）ようになった。だが一体だけでは、原理的な限界...</description>
 </item>
 <item>
-<title>【Qiita】 watsonx.ai のモデルを watsonx Orchestrate の Tool として使う — OpenAPI ファイル 1 枚で繋ぐ方法</title>
-<link>https://qiita.com/Yano-13/items/859f0e46977a4c112be9</link>
-<guid>378a9d6804ecc1dc80eed1ea4f767150cd7c4fa934adbd45c62886c7a0de9eb3</guid>
-<pubDate>2026-06-26T16:40:07+09:00</pubDate>
-<description>はじめに この記事では、watsonx.ai で動かす大規模言語モデル（LLM）を、watsonx Orchestrate の Agent に Tool として組み込む方法を解説します。 この記事でわかること： watsonx.ai と watsonx Orchestr...</description>
-</item>
-<item>
-<title>【Qiita】 私がループエンジニアリングにあまり興味がない理由</title>
-<link>https://qiita.com/magicant/items/77361a0b1694ba629bec</link>
-<guid>444dc2ee941dd8570a616b910047f8089cf07f9f48af1882c1a8eac16ab4142d</guid>
-<pubDate>2026-06-26T18:50:07+09:00</pubDate>
-<description>もう皆さんも LLM が吐き出した薄っぺらいスロップを読まされるのには飽き飽きしているでしょうから、最初に TL;DR を含むプロンプトを貼っておきます。 以下の論旨に沿って、元の5倍程度の文章量で Qiita に投稿するための記事の完成版を書いてください。 最近のコーデ...</description>
-</item>
-<item>
-<title>【Qiita】 Copilot Studioに「Memory」が登場。AIエージェントは“毎回初対面”ではなくなる</title>
-<link>https://qiita.com/Katayama_Studio/items/cd7356d1643cc1a0997c</link>
-<guid>2f03aa47fa5c442acc11ae6622fec82866f4377c6b7022ac0062be57b8f40d1f</guid>
-<pubDate>2026-06-26T18:18:03+09:00</pubDate>
-<description>🧭 この記事でわかること Copilot StudioのMemory機能が何を変えるのか、技術的に正確に理解できる Knowledge・Tools・Memoryの違いと、エージェント設計における役割分担が整理できる Memory導入前に整理すべきガバナンス観点と、使うべ...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントにサボらせないSkillsの書き方 — 7つの設計手法＋サボり度測定Skill付き</title>
-<link>https://qiita.com/nogataka/items/2783f25816699e8318cc</link>
-<guid>8ac2c22db7e251951a64d211f6618594a26f057e4acb03f6ffbabe07dcb2708c</guid>
-<pubDate>2026-06-26T17:12:56+09:00</pubDate>
-<description>はじめに AIコーディングエージェントでスキルを実行して、出てきた成果物が「それっぽいけど詰めが甘い」と感じたことはないでしょうか。 色や余白がだいたいで合わせてあります。正常系しか実装されていません。テストは緑なのに本番では動きません。エラーは握りつぶされ、肝心の分岐が...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Code のセッションが途中で切れて困らない技術：--continue / --resume で長時間タスクを引き継ぐ実践</title>
-<link>https://qiita.com/StreamSolty/items/fc49a6f92b189fda3de9</link>
-<guid>13ecde609146ef9ea56c4643f13e28dd815151782010e9d442173db9272840a2</guid>
-<pubDate>2026-06-26T16:01:17+09:00</pubDate>
-<description>あるある：「あの会話、もう一回はじめからやり直し…？」 Claude Code で大きめのリファクタを走らせている最中に、ターミナルを閉じてしまった。PC を再起動した。別の作業に切り替えて、戻ってきたら端末が消えていた。 そこでこう思った経験はないでしょうか。 「さっ...</description>
-</item>
-<item>
-<title>【農業】 Gaza Strip’s agriculture and livestock sectors show early signs of recovery amid widespread destruction</title>
-<link>https://www.fao.org/newsroom/detail/gaza-strip-s-agriculture-and-livestock-sectors-show-early-signs-of-recovery-amid-widespread-destruction/en</link>
-<guid>f4d3b26324bd661158b41a0d85b0115ee85cb8f20967781095de282c8cc638e2</guid>
-<pubDate>Fri, 26 Jun 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【環境】 Fast solvation restructuring accelerates interfacial charge transfer</title>
-<link>https://www.nature.com/articles/s41893-026-01866-z</link>
-<guid>923691472a46170824e9474e4e770b5cffc198f76f6b3ba62c90251166b2b2c3</guid>
+<title>【環境】 Distinguishing leaf scorching from senescence under climate extremes</title>
+<link>https://www.nature.com/articles/s41558-026-02682-1</link>
+<guid>901f3efcf69a3144395a99ab61e3025bd2101f6e25491a1c05e73dd9aeff53f7</guid>
 <pubDate>2026-06-26</pubDate>
-<description>Interfacial electrochemical reaction kinetics are crucial to fast charging and low-temperature operation of batteries. We now reveal that solvent exchange dynamics of solvated ions are intrinsically coupled with their interfacial electrochemical reaction kinetics. An electrolyte designed using this insight enable</description>
+<description>Distinguishing leaf scorching from senescence under climate extremes</description>
 </item>
 <item>
-<title>【環境】 Decoupling development from concrete</title>
-<link>https://www.nature.com/articles/s41893-026-01883-y</link>
-<guid>737b3cf2e7f48b2765ae913bee4fd271f8163bf8b06b367c81f79fe2a634a7c5</guid>
+<title>【環境】 Extreme heat and the limits of tree and forest resilience</title>
+<link>https://www.nature.com/articles/s41558-026-02679-w</link>
+<guid>6feb9a96216088bad2a1db642945eebc4de06216ae344a6a228a4d83b2b628bb</guid>
 <pubDate>2026-06-26</pubDate>
-<description>Enormous consumption of concrete is straining planetary boundaries, yet it remains unclear how to reduce resource burdens while sustaining human development. A study now finds that concrete demand in rapidly developing economies has driven increased resource use over the past three decades, and production improve</description>
+<description>The 2021 Pacific Northwest heat dome shows how acute thermal stress challenges prevailing assumptions about ecological resilience and adaptation. Extreme heat events are revealing physiological limits in forests that are not captured by conventional climate risk frameworks.</description>
 </item>
 <item>
-<title>【環境】 Greater losses from heat exposure experienced by female smallholders in sub-Saharan Africa</title>
-<link>https://www.nature.com/articles/s41893-026-01881-0</link>
-<guid>0e351f44fba2484ad8cdb235e3017e8a83b111e6dc02d1d9731631a11245181b</guid>
+<title>【環境】 The continuous global greening under climate change</title>
+<link>https://www.nature.com/articles/s41558-026-02681-2</link>
+<guid>aa0d38da1db8176d777cd51ca0a44309043937a8803f69f7fc627b70a4ef8cb3</guid>
 <pubDate>2026-06-26</pubDate>
-<description>The disproportionate risks of crop damage and food insecurity from temperature anomalies affecting female smallholders are hard to measure. Estimating yield responses to temperature variation across sub-Saharan Africa, this study shows significantly higher losses to female than male smallholders.</description>
+<description>Global greening has persisted under climate change, with feedbacks for Earth’s future climate. Here I look back on a critical 2016 study that resolved the patterns and drivers of global greening and consider how this work influences studies to monitor, model and manage greening.</description>
 </item>
 <item>
-<title>【環境】 Increasing global threat of outburst floods from overlooked small alpine lakes</title>
-<link>https://www.nature.com/articles/s41893-026-01873-0</link>
-<guid>7eeffec3a3f0245d389147072eccfd8dbf36b6303b1807795a708939200d53c6</guid>
+<title>【環境】 Mental health as both outcome and determinant in climate adaptation</title>
+<link>https://www.nature.com/articles/s41558-026-02673-2</link>
+<guid>b07faa60608c4b09fb93567d6ea807f801ef23de912efa1a0b3da2e99be5552c</guid>
 <pubDate>2026-06-26</pubDate>
-<description>Outburst floods from small alpine lakes pose a growing risk to mountain communities, which are often already marginalized and lack adaptation options. Cryosphere degradation accelerates these threats, adding urgency to integrate small high-mountain lakes into climate and disaster policy.</description>
+<description>Mental health should not be viewed solely as a passive outcome of climate adaptation. Rather, it serves as a key determinant of cognitive capacity and shapes the effectiveness of climate adaptation. Here we call for the integration of mental health into adaptation assessments and policy implementation.</description>
+</item>
+<item>
+<title>【自動自律実験】 The poetry of twilight and the awe-inspiring magic of eclipses: Books in brief</title>
+<link>https://www.nature.com/articles/d41586-026-02055-w</link>
+<guid>c97c69a67d2097b92d708fe5aed4e7c8b558136cafdda369bedc09f955ae9661</guid>
+<pubDate>2026-06-26</pubDate>
+<description>Andrew Robinson reviews five of the best science picks.</description>
+</item>
+<item>
+<title>【自動自律実験】 The surprising career parallels between footballers and researchers</title>
+<link>https://www.nature.com/articles/d41586-026-01794-0</link>
+<guid>81697e06ab46687ec81d71ff6cfca7ef72cd9d9d80c639344a0b0a955030d3a7</guid>
+<pubDate>2026-06-26</pubDate>
+<description>Sarah Blackford reflects on how early-career scientists and professional football players share similar motivations, pressures and challenges.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/genai-on-google-cloud-enterprise-generative-ai-systems-and-ai-agents/</link>
-<guid>1a3e4d5b8db773e75f333e934a9b29ea29b8aa2757c0d5a681e87f8150378689</guid>
-<pubDate>Fri, 26 Jun 2026 10:14:28 GMT</pubDate>
+<link>https://research.google/pubs/diffusion-controller-framework-algorithms-and-parameterization/</link>
+<guid>8446ad6f6bfc78784192e3659ceda4853253471b294a4de01ca7af2a736a189b</guid>
+<pubDate>Fri, 26 Jun 2026 12:29:15 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>acb834aaebd67971d7caffbc566e1818928747aebc21c69a600d6520f1549f6c</guid>
-<pubDate>Fri, 26 Jun 2026 10:14:30 GMT</pubDate>
+<guid>4c386c50dbac9161eff09eff00b9cb2605e2367d3481ad184c50703960ffaf6c</guid>
+<pubDate>Fri, 26 Jun 2026 12:29:17 GMT</pubDate>
 <description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>c50e71449db807bcf186af3d50609e14505d6a24f0694a6ea01e1360bcee452d</guid>
-<pubDate>Fri, 26 Jun 2026 10:14:32 GMT</pubDate>
+<guid>b983e3c87a4024d9ac5cbf8bc32e6a4760144ef1715c2d99d022c5f1e7a37c74</guid>
+<pubDate>Fri, 26 Jun 2026 12:29:19 GMT</pubDate>
 <description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>c06e611d962ab39e14a9e8fd503a03e69feb5565a621f5d98d1f5a592546192e</guid>
-<pubDate>Fri, 26 Jun 2026 10:14:33 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
