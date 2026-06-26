@@ -4,49 +4,71 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 25 Jun 2026 23:50:41 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 02:29:20 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 k8s運用におけるリソース管理（Turbonomicがある場合とない場合）</title>
-<link>https://qiita.com/Horiiii/items/cb67efd8d4b686b269ed</link>
-<guid>658bb127f2f6733f5575e01aca4f6a287021da4681e2cae313b5fd6f504058b5</guid>
-<pubDate>2026-06-26T07:42:16+09:00</pubDate>
-<description>はじめに k8s運用でのリソース最適化ってかなり面倒、、！ということで、実際に手を動かしてEKSでのリソース最適化の流れを試してみました。 Turbonomicがないとき Step1：Podで問題を見つける パフォーマンスが悪いなと感じた時にPod一覧を見て、再起動...</description>
+<title>【Qiita】 日刊IETF (2026-05-26): AIエージェントとPQC、認証・運用の境界を読む（Part3/3）</title>
+<link>https://qiita.com/tetsuko_room/items/aa218d35f85d24b20027</link>
+<guid>f2363506adc5bc146aef932b022e8a6f3da68e7fc5ed4967dfac90372bdcf479</guid>
+<pubDate>2026-06-26T10:31:49+09:00</pubDate>
+<description>おはこんばにちは！！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-26（UTC基準）に公開され...</description>
 </item>
 <item>
-<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 6 ]：リファクタリング（メモリ消費対応、ステージをJSON管理、処理修正）＋戻るボタン設置</title>
-<link>https://qiita.com/OnuuuumaX/items/b2cd26acf7d2cb9af9bb</link>
-<guid>24aee5173c903610889eaf59c9728aeb47f56c7552b83fca514cf7e51585df2f</guid>
-<pubDate>2026-06-26T07:30:07+09:00</pubDate>
-<description>はじめに Axmol Engine（Cocos2d-x 派生のオープンソース2Dゲームエンジン）で脱出ゲームを開発しています。 claudeにどんどん処理を書いてもらっていますが、メモリリークや処理の煩雑化が目立ってきましたのでバイブコーディングと言いつつ、ここは自分...</description>
+<title>【Qiita】 日刊IETF (2026-05-26): AIエージェントとPQC、認証・運用の境界を読む（Part2/3）</title>
+<link>https://qiita.com/tetsuko_room/items/9bdf5859da27372f1583</link>
+<guid>7f1be602be45ce868be537624e53b332c82ffa7500d75b3f49024d06fccd7479</guid>
+<pubDate>2026-06-26T10:30:57+09:00</pubDate>
+<description>おはこんばにちは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-26（UTC基準）に公開された...</description>
 </item>
 <item>
-<title>【Qiita】 話題のトークン課金節約ライブラリ Headroom は本当に効果があるのか実測してみる</title>
-<link>https://qiita.com/ksonoda/items/a1a97be8fed52c34ec89</link>
-<guid>0ec7cff2d30ce428ced47366b4e946f3928e2c3fdeeb5abf647a3f1a8fa0c941</guid>
-<pubDate>2026-06-26T08:02:11+09:00</pubDate>
-<description>Headroomとは？ LLMにテキストを入力する前に、様々な処理を行い、入力トークン数を減らす(≒入力文字数を減らす)ことでトークン課金を削減することができるライブラリ。これ以上説明しようがないほどシンプルな目的のライブラリです。 下記githubのリポジトリを見ると...</description>
+<title>【Qiita】 日刊IETF (2026-05-26): AIエージェントとPQC、認証・運用の境界を読む（Part1/3）</title>
+<link>https://qiita.com/tetsuko_room/items/8ba1124750f9754a66f6</link>
+<guid>6ad47efbb6842c46d29a11732a1add22e70157433fef6fc6049d3d5ea2088910</guid>
+<pubDate>2026-06-26T10:29:31+09:00</pubDate>
+<description>おはこんばにちは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-26（UTC基準）に公開されたI...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeのskills使ってみた</title>
+<link>https://qiita.com/masuiti/items/f1dff76d9172cf96790b</link>
+<guid>3cad64948b39edc6ffcdec292bfaeb7f272fcfd7639d05c903fe30389b36a0f0</guid>
+<pubDate>2026-06-26T11:22:06+09:00</pubDate>
+<description>今回は、インターン先でclaude codeのskillsを使う機会があったので、そこで感じたことを書いていきたいと思います。 記事の構成 1.なぜやったのか 2.どうやるのか 3.結果 4.いいと思った点 5.今後どうすべきか 1.なぜやったのか インターン先で、事業...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントを“セキュリティのプロ”に変える817個のスキル集 — Claude Code / Codex / Cursor / Copilot対応OSSを読み解く</title>
+<link>https://qiita.com/nogataka/items/8f99cc6fc97541a14b76</link>
+<guid>50b9c25220cf283c4325259f2ba220d56579b77535e7ed724a8ee5fbb0dd1c97</guid>
+<pubDate>2026-06-26T10:50:21+09:00</pubDate>
+<description>はじめに 「AIエージェントにペネトレーションテスト（侵入テスト）やインシデント対応を任せたい」。 そう考える人は増えていますが、いざ任せてみると、エージェントが現場の細かい道具立てを知らないことに気づきます。 たとえば、Volatility3（メモリの中身を解析するツー...</description>
+</item>
+<item>
+<title>【Qiita】 Junie CLI の Debug mode でテストの調査が改善した話</title>
+<link>https://qiita.com/nattogohan123/items/4ec50ce1ca1bff740b75</link>
+<guid>10602774a301728b34989b5e7d3d06ca4742336945ae6d4f5df02f304f1eaadc</guid>
+<pubDate>2026-06-26T10:43:23+09:00</pubDate>
+<description>はじめに Junie がベータ版を終了し、正式版になりました。 Junie は JetBrains が提供する AI コーディングエージェント。JetBrains IDE や CLI から使えます。 公式発表の中でJunie 一般提供開始に伴って行われた変更のなかで、Ju...</description>
+</item>
+<item>
+<title>【Qiita】 サブエージェントに全部報告させると親が詰まる — Claude Codeで“親のコンテキストを汚さない”受け渡しの実践</title>
+<link>https://qiita.com/StreamSolty/items/7979d51402daf35d9c5c</link>
+<guid>589b30a6943cd8bdff6a91586744fc0302ada4f80a2675c4e30ba6313b594f34</guid>
+<pubDate>2026-06-26T10:42:38+09:00</pubDate>
+<description>並列で調べさせて、報告を型で揃えて、別エージェントで裏取りもできるようになった——その次に静かに効いてくるのが「親（呼び出した側）のコンテキストが、子の報告で埋まっていく」問題です。この記事は、サブエージェントの結果を親にどう返させると、親の文脈を汚さずに調査を回し続けられ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/see2refine-vision-language-feedback-improves-llm-based-ehmi-action-designers/</link>
-<guid>3c0f4beae423e416d1bd6e00f3e5239b3d216c615b5c2433e1efa372d12a5d24</guid>
-<pubDate>Thu, 25 Jun 2026 23:49:37 GMT</pubDate>
+<link>https://research.google/pubs/adversarial-attacks-on-multimodal-large-language-models-a-comprehensive-survey/</link>
+<guid>34aa0377c063aa76dce41e5e908997ce78c4373ffee94dd0cad1584fbffa6421</guid>
+<pubDate>Fri, 26 Jun 2026 02:28:38 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-10764-5</link>
-<guid>83e61f2e1dab5cf785a29a5953e7479210b9276c2f9bffb0760c829bda5136fd</guid>
-<pubDate>Thu, 25 Jun 2026 23:49:40 GMT</pubDate>
-<description>While large language models (LLMs) have shown promise in diagnostic dialogue1, their capabilities for effective management reasoning—including disease progression, therapeutic response, and safe medication prescription—remain under-explored. We advance the previously demonstrated diagnostic capabilities of the Articulate Medical Intelligence Explorer (AMIE)1−3 through a new LLM-based agentic system optimized for multi-visit clinical management and dialogue. To ground its reasoning in authoritative clinical knowledge, AMIE leverages Gemini’s long-context capabilities4, combining in-context retrieval with structured reasoning to align its output with up-to-date clinical practice guidelines and drug formularies. In a randomized, blinded virtual Objective Structured Clinical Examination (OSCE) study, AMIE was compared to 21 primary care physicians (PCPs) across 100 multi-visit case scenarios designed to reflect UK NICE Guidance and BMJ Best Practice guidelines. AMIE was non-inferior to PCPs in management reasoning as assessed by specialists and scored better in both preciseness of treatments and investigations, and in its alignment with and grounding in clinical guidelines. To benchmar</description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>046195a57e304fac45def39c49533a8a5ff02865410a9d2386f868c38cb7fd74</guid>
-<pubDate>Thu, 25 Jun 2026 23:50:33 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>d178afc2c90dbccdbf015a589aff35f8c602d15b07b053690da946a0ba870866</guid>
+<pubDate>Fri, 26 Jun 2026 02:28:58 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
