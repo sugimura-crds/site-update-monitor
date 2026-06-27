@@ -4,70 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 27 Jun 2026 09:10:16 GMT</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 11:10:02 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 正直に言う。お前のClaude Codeの使い方は間違っている</title>
-<link>https://qiita.com/tehito/items/356e5f1dba112a075be1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>69e776a5eabf71fced2db6075440d6a922ee6370627a9c94967958ead8e0175a</guid>
-<pubDate>2026-06-25T22:43:05+09:00</pubDate>
-<description>「Claude Code、思ったより速くならないな」と感じているなら、原因はモデルでもプランでもない。お前の使い方だ。 きつい言い方をして悪い。だが3ヶ月、毎日Claude Codeと殴り合いながらExpo + Supabase + Swiftネイティブの通話アプリを個人開...</description>
+<title>【Qiita】 毎日AIニュース 0627</title>
+<link>https://qiita.com/AITLND/items/c2705867235262f7a2f3</link>
+<guid>11af0439971839a4101ecd6c594ca575831f49f521173ce0ea213d5bbe9ab3a6</guid>
+<pubDate>2026-06-27T18:16:06+09:00</pubDate>
+<description>Youtube動画 今日の話題 フロンティアモデルを誰に公開するかを政府が左右する構図が、相次いで表面化した。OpenAIはGPT-5.6を一部のパートナー限定のプレビューとして出し、Anthropicは輸出管理で止まっていたMythos 5の提供を、重要インフラを担う...</description>
 </item>
 <item>
-<title>【Qiita】 【M365 Copilot】自由にツールを使えない現場で始めるちょいRPA</title>
-<link>https://qiita.com/yuyanz/items/5c96232d188ecfb2544b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>3717c5c4da463cbe2c8a7d6946daaf1f89c4b163fbcdd26a80eba9e7ee721546</guid>
-<pubDate>2026-06-25T19:18:54+09:00</pubDate>
-<description>この記事はGitHub Copilotと一緒に書きました。 1. はじめに 「業務を自動化したいけど、自由にツールを使えない」「コーディングエージェントや Playwright が職場ルールで使えない」という場面、ありませんか？ 私の周りでも、セキュリティと運用ル...</description>
-</item>
-<item>
-<title>【Qiita】 5層ハーネスと大規模コンテキスト管理でAIゲーム開発環境を構築する</title>
-<link>https://qiita.com/FujiiShintaro/items/eb219c661a4148a511d3</link>
-<guid>80839f87589a17d691e9c778aa15c4df05087739e6843e82b4c4a0ddb3ca61e6</guid>
-<pubDate>2026-06-27T16:46:41+09:00</pubDate>
-<description>5層ハーネスと大規模コンテキスト管理でAIゲーム開発環境を構築する 目次 1. はじめに 2. ハーネスという考え方 3. 大規模コンテキスト管理（Layer 1 Memory） 3.1 常駐は薄く、詳細はオンデマンド 3.2 CLAUDE.md ― 薄い常駐ハブ...</description>
-</item>
-<item>
-<title>【Qiita】 Devin for Terminal の Hooks で「危ないコマンド」を自動で止める：ガードレール設計</title>
-<link>https://qiita.com/startdevin/items/2c9c421b77eee0af0bae</link>
-<guid>b312b46347be3db0332202f3e9b98142e9fdb15a29eb235a8578887b6986b90a</guid>
-<pubDate>2026-06-27T16:43:30+09:00</pubDate>
-<description>🚀 Devin専門の解説メディア「StartDevin」を運営中！ Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています。 👉 StartDevin をチェックする（startdevin.jp） はじめに AIエージェントに自動承認（前に...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Code でサブエージェントが失敗しても全体を止めない — 1体の失敗を「部分リトライ」で拾い直す実践</title>
-<link>https://qiita.com/StreamSolty/items/8f4e57678b895282fcaa</link>
-<guid>20b611f83b5cd19243cbd1e946630a8503fcbca4dbe9f54b7ef159be2b62fc14</guid>
-<pubDate>2026-06-27T15:36:22+09:00</pubDate>
-<description>並列で調べさせて、報告を型で揃えて、別エージェントで裏取りして、結論＋住所だけ受け取る——ここまでは「うまくいったとき」の話でした。けれど何体も並列で回していると、遅かれ早かれぶつかるのが「10体投げて、9体は返ってきたのに1体だけ落ちている」状況です。この記事は、子が1体...</description>
-</item>
-<item>
-<title>【Qiita】 MiniMax M3 実践 — オープンウェイト1Mモデルをコーディングエージェントのバックエンドで動かす</title>
-<link>https://qiita.com/kai_kou/items/505660908e1db592deab</link>
-<guid>dfb43b2422bb55452937bd3e0ece2f5e639794680ab3cb69641f98a07f26bc16</guid>
-<pubDate>2026-06-27T17:26:51+09:00</pubDate>
-<description>TL;DR MiniMax M3 は 2026 年 6 月 1 日に公開されたオープンウェイトの MoE モデル（総パラメータ約 428B・アクティブ約 23B）1。1,000,000 トークン（1M）のコンテキスト とネイティブなマルチモーダル入力（画像・動画）を備...</description>
+<title>【Qiita】 CLI-Anything 実践 — GUIソフトをAIエージェント操作可能にするagent-native CLIハンズオン</title>
+<link>https://qiita.com/kai_kou/items/57b12fc71fca4a83911b</link>
+<guid>d2c3953b8bdf07be7b7e598b17a15e5d776bc2bdf0849233f21f026ac85706ee</guid>
+<pubDate>2026-06-27T18:56:16+09:00</pubDate>
+<description>TL;DR CLI-Anything（HKUDS製・Apache 2.0）は、GIMP・Blender・LibreOffice のような GUIソフトをAIエージェントが操作できるCLIに変換 するOSSです。 中核は3層構成: CLI-Hub（CLIのパッケージマネ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/silicon-level-sovereignty-root-of-trust-in-ai-accelerators-digital-trust-policy/</link>
-<guid>8dd2ea814a21ee1ff5fa5b2d1f45f83193fba25302cc994292cdc444862ca12a</guid>
-<pubDate>Sat, 27 Jun 2026 09:09:08 GMT</pubDate>
+<link>https://research.google/pubs/raman-spectroscopy-pre-trained-encoder-a-self-supervised-learning-approach-for-data-efficient-domain-independent-spectroscopy-analysis/</link>
+<guid>18006689d92ba36805692e09e27cd9eeb578a873eb4b9d12c3f9597f5d9c2e2e</guid>
+<pubDate>Sat, 27 Jun 2026 11:09:06 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>6c13844adabd0a3366d6fb694cd45389a1b20f7ca08402350ce003b504ca4f82</guid>
-<pubDate>Sat, 27 Jun 2026 09:09:10 GMT</pubDate>
+<guid>837ce2c00355c8064a4b2ee92bb1d29f12c83712f7e3f00f235aa9004759d676</guid>
+<pubDate>Sat, 27 Jun 2026 11:09:08 GMT</pubDate>
 <description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>bea65e078122c5fe64fa6799a852bef10cca6d14e05cd9c65e9ba8e39d80407c</guid>
-<pubDate>Sat, 27 Jun 2026 09:09:17 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>325e81bbab0f13c8a4a2b65fb285c59d9a0589c7860195b3288de3c9e8ca5626</guid>
+<pubDate>Sat, 27 Jun 2026 11:09:10 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
