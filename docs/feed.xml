@@ -4,21 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 27 Jun 2026 23:55:39 GMT</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 02:35:19 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 正直に言う。お前のDevin（for Terminal）の使い方は間違っている</title>
-<link>https://qiita.com/startdevin/items/83780f6d10937cca3db3</link>
-<guid>a0dd04e570e70c50a4809ec9c4aef469fc064ecbfafe2842c310548e137be783</guid>
-<pubDate>2026-06-28T08:46:20+09:00</pubDate>
-<description>🚀 Devin専門の解説メディア「StartDevin」を運営中！ Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています。 👉 StartDevin をチェックする（startdevin.jp） この記事にぜひ いいね（LGTM） していただけ...</description>
+<title>【Qiita】 おうちKubernetesを約3年運用してみた</title>
+<link>https://qiita.com/takumiida1/items/39907f41be86431a58e7</link>
+<guid>ebe1958ba9b3fd52becaa00c9e9d83dbad778417bdb32ce7e75ed82e99753647</guid>
+<pubDate>2026-06-28T10:01:22+09:00</pubDate>
+<description>Summary 自宅・実家・クラウドの3拠点にまたがる分散Kubernetes環境を3年かけて構築・運用した際の気づきを共有 Raspberry Pi単独構成から始まり、RAID崩壊・マスター消滅・NFSボトルネック・連鎖障害という痛い失敗を繰り返しながら、現在の安定...</description>
+</item>
+<item>
+<title>【Qiita】 Flutter/Dart開発をAIでパワーアップ！公式Dart MCP Server × Claude Code 設定</title>
+<link>https://qiita.com/OnuuuumaX/items/baabc7408874eddaf570</link>
+<guid>e9167e7f529149f5752c598d77837dc63e33ae9cb00e9dbc16fcf589350a0cf9</guid>
+<pubDate>2026-06-28T09:51:20+09:00</pubDate>
+<description>はじめに Flutter/Dartの開発中に「このAPIの使い方どうだったっけ？」「このエラー、何が原因？」と悩む時間、もったいないと思いませんか？ Dart &amp; Flutter MCP Server を使えば、Claude CodeがFlutterプロジェクトの構造を深...</description>
+</item>
+<item>
+<title>【Qiita】 Agent Skillsで大事なのは「AIに全部覚えさせること」ではなく「必要な時に手順を渡すこと」</title>
+<link>https://qiita.com/engchina/items/8aa12ad46491c75ae46e</link>
+<guid>0527c5e7a5177d4056027c1e79215fbc6ec432c2aec28458e75eebb613c13e02</guid>
+<pubDate>2026-06-28T10:59:04+09:00</pubDate>
+<description>先に結論 を一通り読んで、一番強く感じたのはこれです。 Agent Skills は、単なるプロンプト集ではありません。 AI エージェントに「この仕事は、こう進める」という手順・判断基準・補助ファイルを渡すための、かなり実務寄りの標準フォーマットです。 もっと短く...</description>
+</item>
+<item>
+<title>【Qiita】 学習アプリで図形つき問題を作るときに詰まったこと</title>
+<link>https://qiita.com/yoppy1256/items/ac3ac65ecc419bc7428f</link>
+<guid>dc986aff99a1477ebb1f5df9c24078b69347d07e29c02cd431af126d1375449a</guid>
+<pubDate>2026-06-28T10:05:46+09:00</pubDate>
+<description>資格学習アプリで、図形を参照して回答する問題を追加しています。 通常の4択問題であれば、CSVに以下のような情報を持たせれば実装できます。 問題文 選択肢 正解 解説 分野 画像パス ただ、図形つき問題では、テキスト問題とは別の難しさがありました。 図形を作るつもり...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/understanding-us-users-security-and-privacy-transparency-needs-for-consumer-facing-generative-ai/</link>
-<guid>aa5dd452ad12e55bb66ad1c70a2b8ee838a4547d31900900a63dbdea38fc6583</guid>
-<pubDate>Sat, 27 Jun 2026 23:54:41 GMT</pubDate>
+<link>https://research.google/pubs/self-evolving-systems-moving-beyond-deterministic-interfaces-to-adaptive-generative-interfaces/</link>
+<guid>4d574a850303ee73fae378d7aa666f9be1661526e2aa5c24ab02414ca7729992</guid>
+<pubDate>Sun, 28 Jun 2026 02:34:17 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04403-9</link>
+<guid>51f4143d0bd38fe257e24a4e8b1bac16e5ce243bc475574c5b5d5f5a6ab21849</guid>
+<pubDate>Sun, 28 Jun 2026 02:34:24 GMT</pubDate>
+<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
 </item>
 
 </channel>
