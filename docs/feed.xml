@@ -4,35 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 28 Jun 2026 19:19:43 GMT</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 20:40:30 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 Jenkinsの失敗ログをn8nで回収してClaudeに原因調査させ、Slackへ自動通知する</title>
+<link>https://qiita.com/jqit-yukiono/items/61985c6743b89aa6924b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>5836538adaa524921e43b578f35b239bd1c0bd95ef776ed1dfe3258a5b91d971</guid>
+<pubDate>2026-06-29T03:02:59+09:00</pubDate>
+<description>CIが落ちたとき、コンソールログを開いて原因を目で追う作業は地味に消耗します。 本記事では Jenkins の失敗を検知 → n8n がログを回収 → Claude が原因を要約 → Slack に通知 までを全自動化した仕組みを、実コードを交えて解説します。 ポイントは ...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code を4ヶ月使ってわかった、おすすめコマンド・スキル 10 選</title>
+<link>https://qiita.com/wataru86/items/b859f1578191a1e15808?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>7d253cae6ebe497aa564f669ff711e9f6f677968915d8e665759d4cbb9d69ee0</guid>
+<pubDate>2026-06-26T18:57:33+09:00</pubDate>
+<description>はじめに 以前こんな記事を書きました。 あれから4ヶ月以上使い込んで、ようやく使いこなせるようになってきた実感があります。 使っていて思うのは、コードを書いたりツールや MCP を呼び出したり、いろんな作業を Claude にやらせている一方で、Claude Cod...</description>
+</item>
+<item>
+<title>【Qiita】 AWS DevOps Agentの設計ベストプラクティスから考えるガバメントクラウドでの活用</title>
+<link>https://qiita.com/infra365/items/b0417a9a18c8a0983657?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>c8ca44480024e6729625a3f40050d89456bde5bf6315f7a3d8d732a4bd298644</guid>
+<pubDate>2026-06-28T05:17:23+09:00</pubDate>
+<description>概要 最近注目しているサービスの一つがAWS DevOps Agentです。先日のAWS SummitでもDevOps Agentについてディスカッションさせていただいたり、下記のセッションを聞きました。 セッションの中で設計のベストプラクティスの話がありましたので、ガバ...</description>
+</item>
+<item>
+<title>【Qiita】 OpenAI Codex 大型アップデート入門 — Sites・Annotations・6プラグインの全貌</title>
+<link>https://qiita.com/kai_kou/items/9e6fd094e4d0d9a60903</link>
+<guid>6315f0acf6873f10fd685ffb6461c7ac540da700a16db79fcf5b4e3cab574006</guid>
+<pubDate>2026-06-29T04:58:54+09:00</pubDate>
+<description>はじめに 2026年6月2日、OpenAI がコーディングエージェント Codex の大型アップデート「New Codex」を発表しました。これまで「ターミナルでコードを書く相棒」だった Codex が、成果物をそのまま公開できる Sites、ファイルの特定箇所を指定して...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/vista-towards-test-time-self-improving-video-generation-agent/</link>
-<guid>c27f341ed53b5d82d9a9a2f7d222684b82ba58bce62411eed5a403294f9aefd0</guid>
-<pubDate>Sun, 28 Jun 2026 19:18:51 GMT</pubDate>
+<link>https://research.google/pubs/agentic-trend-to-knowledge-a-methodology-for-automating-case-deflection-through-proactive-content-surfacing-in-enterprise-employee-support/</link>
+<guid>2e0e9ea5ed51b8bca28984d8f64e5ccdd4ad55ee7ca0b321f1c99f9af6d9e6b1</guid>
+<pubDate>Sun, 28 Jun 2026 20:39:55 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>69d83f08d478c9682913458e6b8c7e365927bfc447d870542c5db384a2e1a43e</guid>
-<pubDate>Sun, 28 Jun 2026 19:18:54 GMT</pubDate>
+<guid>27781e10550784db84f94054f7c911db6b13bf09af973d3ce1ace245bf5851b4</guid>
+<pubDate>Sun, 28 Jun 2026 20:39:59 GMT</pubDate>
 <description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04403-9</link>
-<guid>188054438fa57f5592a9b60c3a6ff49f8cbeda16002a26fa6f8bd3ec8029ae58</guid>
-<pubDate>Sun, 28 Jun 2026 19:18:59 GMT</pubDate>
-<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>135cf38dd76828851530dfc8e960cfc01d8dd09d2a93fb981141d02d4eda3584</guid>
+<pubDate>Sun, 28 Jun 2026 20:40:03 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>92a69cc605c806421bd7a6d099c8c434438bbe5045060ef494bfecdd7dba3329</guid>
-<pubDate>Sun, 28 Jun 2026 19:19:21 GMT</pubDate>
+<guid>565930dfb3e28d01c7cc99410722bd230ffc75f2f85c6fd38383885478b214b3</guid>
+<pubDate>Sun, 28 Jun 2026 20:40:13 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
