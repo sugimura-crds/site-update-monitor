@@ -4,56 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 28 Jun 2026 06:56:04 GMT</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 09:54:31 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 VSCodeでMarkdownファイルをデフォルトでプレビューモードで開くように変更する方法</title>
-<link>https://qiita.com/hisato_imanishi/items/b3681caaad13742ddf01</link>
-<guid>0ddaa8001fd7b4cbc7e16a66e9ed42f60bc6bc8e7bd45523fb60e203d529b602</guid>
-<pubDate>2026-06-28T14:24:00+09:00</pubDate>
-<description>概要 AIコーディングエージェントを使用した開発ではドキュメントがMarkdown中心になりますが、開発者としては書くことよりも読むことの方が圧倒的に多くなります。ところが、VSCodeではMarkdownファイルを開くと編集モードで開くため、ファイルごとにプレビューモー...</description>
+<title>【Qiita】 AWS Summit 2026 「Builder Community」&amp;「AWS HERO」 セッション資料まとめ</title>
+<link>https://qiita.com/tetutetu214/items/2af4f788bd0d1963eec7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>eee01438781609b78a71220fa7140ac5ecd9176713f96185c97b4e83bbefe440</guid>
+<pubDate>2026-06-27T09:34:36+09:00</pubDate>
+<description>概要 こちらの記事では、AWS Summit Japan 2026(2026/6/26~27 で開催) での、Builder Community エリアのステージで開催されていました、セッション資料へのリンクをまとめまたものとなります。 ※資料リンクが不足しているところは...</description>
 </item>
 <item>
-<title>【Qiita】 A2Aで大事なのは「Agent同士をつなぐこと」ではなく「他のAgentに仕事を安全に委任できること」</title>
-<link>https://qiita.com/engchina/items/22cd7fe3297fb4a9083f</link>
-<guid>9aaaa68050f918536d2c4564084d99b70e78490d49d2153b489a4d4b3ebc06c7</guid>
-<pubDate>2026-06-28T15:00:52+09:00</pubDate>
-<description>先に結論 を一通り読んで、一番強く感じたのはこれです。 A2A、つまり Agent2Agent Protocol は、単なる「Agent同士のチャット規格」ではありません。 もっと本質的には、 異なるベンダー・異なるフレームワーク・異なる組織で作られたAI Age...</description>
+<title>【Qiita】 GitHub CopilotのBYOK設定（GitHub Copilot App, Agent Mode, GitHub Copilot CLI）</title>
+<link>https://qiita.com/hisato_imanishi/items/2ba8cc3be37dab36f99b</link>
+<guid>e725c1e2be6f5f92063c27dbb7b01f303f43496027c002cf9d3b505844d9d236</guid>
+<pubDate>2026-06-28T16:43:27+09:00</pubDate>
+<description>この記事の概要 GitHub Copilotには、GitHubが提供するモデル以外を利用できる BYOK（Bring Your Own Key） という機能があります。 BYOKでは、OpenAI、Azure、Anthropicなどと別途契約してAPI利用するモデルや、O...</description>
 </item>
 <item>
-<title>【Qiita】 Codex Pluginで大事なのは「機能を追加すること」ではなく「ワークフローを配布可能にすること」</title>
-<link>https://qiita.com/engchina/items/d5b65c269399cb80e5b8</link>
-<guid>4fec8fa48c46d8933e7c0b60b101a7b3b17d12ca03d63dce06517bd038e56f17</guid>
-<pubDate>2026-06-28T13:55:27+09:00</pubDate>
-<description>先に結論 を一通り読んで、一番強く感じたのはこれです。 Codex Plugin は、単なる「追加機能」ではありません。 もっと正確には、 Skills・App integrations・MCP servers をまとめて、Codex にインストール可能な再利用ワ...</description>
+<title>【Qiita】 Loop Engineering を5つの部品で理解する</title>
+<link>https://qiita.com/ryoji9702/items/3f817305c1c670adab2b</link>
+<guid>19ea4be91eed3a8ee598e1cfc70c0f32f08b04157fd3256d4ba0cf2284c44d54</guid>
+<pubDate>2026-06-28T16:27:56+09:00</pubDate>
+<description>はじめに 最近、Addy Osmani 氏のブログで Loop Engineering という記事を読みました。記事中で引用されている Peter Steinberger 氏の一文が刺さります。 You shouldn&#x27;t be prompting coding age...</description>
 </item>
 <item>
-<title>【Qiita】 2026/06/28 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/fed04b98d1ecdb95186c</link>
-<guid>83af376cdd00038108deb73cf302185b9f10b685cd8208dd5f15fe18d82a4c73</guid>
-<pubDate>2026-06-28T12:19:59+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 正直に言う。お前のClaude Codeの使い...</description>
+<title>【Qiita】 Strands Agentsのツールの渡し方3つを試す</title>
+<link>https://qiita.com/sago33333/items/ee53236d7340fb77c5e4</link>
+<guid>d5d6af81679b50456fdeee017afef8f7aa47d7e5191b36c3e4cbb721e42c33d1</guid>
+<pubDate>2026-06-28T18:37:23+09:00</pubDate>
+<description>何をするか Strands Agentsを自分の頭で理解するためにドキュメントなどを参考にエージェントを作成します。 簡単なエージェントを作成し、そのエージェントにToolを持たせるところまで実装します。以下の3つを試します。 Strands Agents Tools...</description>
 </item>
 <item>
-<title>【Qiita】 MCPで大事なのは「AIにツールを増やすこと」ではなく「AIと外部世界をつなぐ標準を持つこと」</title>
-<link>https://qiita.com/engchina/items/d061e45127c7e297c47c</link>
-<guid>e84cc99c795a3457ae3451b65bc281d0eb01190ba6eb8b06484dfb097cf569ae</guid>
-<pubDate>2026-06-28T12:12:53+09:00</pubDate>
-<description>先に結論 を一通り読んで、一番強く感じたのはこれです。 MCP、つまり Model Context Protocol は、単なる「AIにツールを追加する仕組み」ではありません。 もっと本質的には、 AI アプリケーションが、外部のデータ・ツール・ワークフローに安全...</description>
+<title>【Qiita】 AIを使って作ってたら、いつの間にか俺の考えた最強のプロジェクト構成ができてきたので紹介してみる。</title>
+<link>https://qiita.com/nonon-official/items/8b58c0d1d6fc8cfbbc5d</link>
+<guid>a1b23963f4bc1e1364a3d5a6dddf391f7d1c8bf5ee980b94d46a3fdfe1edaf02</guid>
+<pubDate>2026-06-28T17:40:32+09:00</pubDate>
+<description>はじめに 「最強のプロジェクト構成」と書くと大げさですが、ここで紹介するのは銀の弾丸ではありません。 私が Web アプリケーションを作るときに、 backend と frontend の API 型を二重管理したくない 機能単位で見通しよく実装したい Storyboo...</description>
+</item>
+<item>
+<title>【Qiita】 【Claude Code】AIエージェントを並列実行できるADE「Orca」を触ってみた</title>
+<link>https://qiita.com/tamakiiii/items/9b22ca0b287309ebba32</link>
+<guid>a5cc18ea4306aac7e47b0c9391874e45fe56d5eb4565598436cec4ddc13ecf7b</guid>
+<pubDate>2026-06-28T17:25:51+09:00</pubDate>
+<description>TL;DR Orcaは「Agent Development Environment（ADE）」というカテゴリを掲げるOSSのデスクトップアプリ。複数のAIコーディングエージェントを、独立したgit worktreeで並列実行できる IDEとの大きな違いは、複数エージェント...</description>
+</item>
+<item>
+<title>【Qiita】 Agent Loopおじさん、見えない責務に敗北する</title>
+<link>https://qiita.com/mofuteq/items/aad62fa348cbf0885cca</link>
+<guid>142117241ad5ee081dd63bc0588915c24d9d0915c4235cfe5680d9fb8fba9b59</guid>
+<pubDate>2026-06-28T17:06:01+09:00</pubDate>
+<description>どうも、Agent Loopおじさんです。 Agent Skills に MCP、あとは Loop 発動。くぅ〜、たまらねぇ。これが Agent Loop ってやつだ。LLM がよしなに全て解決。 おまけに AG-UI で、画面側に今なにをやっているかも出しちゃう。モダナイ...</description>
+</item>
+<item>
+<title>【Qiita】 Microsoft Agent Framework CodeAct入門 — ツール連鎖をコードで束ねる実行パターン</title>
+<link>https://qiita.com/kai_kou/items/7c2a23e6aa05e860f99c</link>
+<guid>b604ce1015f621e77413d471f1eb67da7b67a9a5a561baba1e8ca3bd98db07ae</guid>
+<pubDate>2026-06-28T17:27:58+09:00</pubDate>
+<description>はじめに AIエージェントを実装していると、モデルがツールを「1つ呼んで → 結果を受け取って → 次のツールを選んで…」と何往復もするうちに、レイテンシとトークン消費が膨らんでいくことに気づきます。Microsoftは Build 2026（2026年6月2〜3日）で...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/how-google-sres-use-gemini-cli-to-solve-real-world-outages/</link>
-<guid>18a890b93499acb3792a3ed0a2a65f9877258f9be62c92e698338c28697f641b</guid>
-<pubDate>Sun, 28 Jun 2026 06:54:59 GMT</pubDate>
+<link>https://research.google/pubs/promise-or-peril-exploring-black-adults-perspectives-on-the-use-of-artificial-intelligence-in-health-contexts/</link>
+<guid>d0f506e6ccddfcd10523909a69684ba3d077cbb87194e98e9630fd624d1666c2</guid>
+<pubDate>Sun, 28 Jun 2026 09:53:25 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>8bea273fb9cdef3276449a4c53f2f20be9f0f731436a5e3dedddcaa621b58160</guid>
-<pubDate>Sun, 28 Jun 2026 06:55:02 GMT</pubDate>
-<description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>b38543bc69b029a3a07e26eb297f56a1a6c8e0d5e1c9d8c3f1816eb14063f765</guid>
+<pubDate>Sun, 28 Jun 2026 09:53:31 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
