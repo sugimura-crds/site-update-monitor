@@ -4,49 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 28 Jun 2026 02:35:19 GMT</lastBuildDate>
+<lastBuildDate>Sun, 28 Jun 2026 06:56:04 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 おうちKubernetesを約3年運用してみた</title>
-<link>https://qiita.com/takumiida1/items/39907f41be86431a58e7</link>
-<guid>ebe1958ba9b3fd52becaa00c9e9d83dbad778417bdb32ce7e75ed82e99753647</guid>
-<pubDate>2026-06-28T10:01:22+09:00</pubDate>
-<description>Summary 自宅・実家・クラウドの3拠点にまたがる分散Kubernetes環境を3年かけて構築・運用した際の気づきを共有 Raspberry Pi単独構成から始まり、RAID崩壊・マスター消滅・NFSボトルネック・連鎖障害という痛い失敗を繰り返しながら、現在の安定...</description>
+<title>【Qiita】 VSCodeでMarkdownファイルをデフォルトでプレビューモードで開くように変更する方法</title>
+<link>https://qiita.com/hisato_imanishi/items/b3681caaad13742ddf01</link>
+<guid>0ddaa8001fd7b4cbc7e16a66e9ed42f60bc6bc8e7bd45523fb60e203d529b602</guid>
+<pubDate>2026-06-28T14:24:00+09:00</pubDate>
+<description>概要 AIコーディングエージェントを使用した開発ではドキュメントがMarkdown中心になりますが、開発者としては書くことよりも読むことの方が圧倒的に多くなります。ところが、VSCodeではMarkdownファイルを開くと編集モードで開くため、ファイルごとにプレビューモー...</description>
 </item>
 <item>
-<title>【Qiita】 Flutter/Dart開発をAIでパワーアップ！公式Dart MCP Server × Claude Code 設定</title>
-<link>https://qiita.com/OnuuuumaX/items/baabc7408874eddaf570</link>
-<guid>e9167e7f529149f5752c598d77837dc63e33ae9cb00e9dbc16fcf589350a0cf9</guid>
-<pubDate>2026-06-28T09:51:20+09:00</pubDate>
-<description>はじめに Flutter/Dartの開発中に「このAPIの使い方どうだったっけ？」「このエラー、何が原因？」と悩む時間、もったいないと思いませんか？ Dart &amp; Flutter MCP Server を使えば、Claude CodeがFlutterプロジェクトの構造を深...</description>
+<title>【Qiita】 A2Aで大事なのは「Agent同士をつなぐこと」ではなく「他のAgentに仕事を安全に委任できること」</title>
+<link>https://qiita.com/engchina/items/22cd7fe3297fb4a9083f</link>
+<guid>9aaaa68050f918536d2c4564084d99b70e78490d49d2153b489a4d4b3ebc06c7</guid>
+<pubDate>2026-06-28T15:00:52+09:00</pubDate>
+<description>先に結論 を一通り読んで、一番強く感じたのはこれです。 A2A、つまり Agent2Agent Protocol は、単なる「Agent同士のチャット規格」ではありません。 もっと本質的には、 異なるベンダー・異なるフレームワーク・異なる組織で作られたAI Age...</description>
 </item>
 <item>
-<title>【Qiita】 Agent Skillsで大事なのは「AIに全部覚えさせること」ではなく「必要な時に手順を渡すこと」</title>
-<link>https://qiita.com/engchina/items/8aa12ad46491c75ae46e</link>
-<guid>0527c5e7a5177d4056027c1e79215fbc6ec432c2aec28458e75eebb613c13e02</guid>
-<pubDate>2026-06-28T10:59:04+09:00</pubDate>
-<description>先に結論 を一通り読んで、一番強く感じたのはこれです。 Agent Skills は、単なるプロンプト集ではありません。 AI エージェントに「この仕事は、こう進める」という手順・判断基準・補助ファイルを渡すための、かなり実務寄りの標準フォーマットです。 もっと短く...</description>
+<title>【Qiita】 Codex Pluginで大事なのは「機能を追加すること」ではなく「ワークフローを配布可能にすること」</title>
+<link>https://qiita.com/engchina/items/d5b65c269399cb80e5b8</link>
+<guid>4fec8fa48c46d8933e7c0b60b101a7b3b17d12ca03d63dce06517bd038e56f17</guid>
+<pubDate>2026-06-28T13:55:27+09:00</pubDate>
+<description>先に結論 を一通り読んで、一番強く感じたのはこれです。 Codex Plugin は、単なる「追加機能」ではありません。 もっと正確には、 Skills・App integrations・MCP servers をまとめて、Codex にインストール可能な再利用ワ...</description>
 </item>
 <item>
-<title>【Qiita】 学習アプリで図形つき問題を作るときに詰まったこと</title>
-<link>https://qiita.com/yoppy1256/items/ac3ac65ecc419bc7428f</link>
-<guid>dc986aff99a1477ebb1f5df9c24078b69347d07e29c02cd431af126d1375449a</guid>
-<pubDate>2026-06-28T10:05:46+09:00</pubDate>
-<description>資格学習アプリで、図形を参照して回答する問題を追加しています。 通常の4択問題であれば、CSVに以下のような情報を持たせれば実装できます。 問題文 選択肢 正解 解説 分野 画像パス ただ、図形つき問題では、テキスト問題とは別の難しさがありました。 図形を作るつもり...</description>
+<title>【Qiita】 2026/06/28 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/fed04b98d1ecdb95186c</link>
+<guid>83af376cdd00038108deb73cf302185b9f10b685cd8208dd5f15fe18d82a4c73</guid>
+<pubDate>2026-06-28T12:19:59+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 正直に言う。お前のClaude Codeの使い...</description>
+</item>
+<item>
+<title>【Qiita】 MCPで大事なのは「AIにツールを増やすこと」ではなく「AIと外部世界をつなぐ標準を持つこと」</title>
+<link>https://qiita.com/engchina/items/d061e45127c7e297c47c</link>
+<guid>e84cc99c795a3457ae3451b65bc281d0eb01190ba6eb8b06484dfb097cf569ae</guid>
+<pubDate>2026-06-28T12:12:53+09:00</pubDate>
+<description>先に結論 を一通り読んで、一番強く感じたのはこれです。 MCP、つまり Model Context Protocol は、単なる「AIにツールを追加する仕組み」ではありません。 もっと本質的には、 AI アプリケーションが、外部のデータ・ツール・ワークフローに安全...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/self-evolving-systems-moving-beyond-deterministic-interfaces-to-adaptive-generative-interfaces/</link>
-<guid>4d574a850303ee73fae378d7aa666f9be1661526e2aa5c24ab02414ca7729992</guid>
-<pubDate>Sun, 28 Jun 2026 02:34:17 GMT</pubDate>
+<link>https://research.google/pubs/how-google-sres-use-gemini-cli-to-solve-real-world-outages/</link>
+<guid>18a890b93499acb3792a3ed0a2a65f9877258f9be62c92e698338c28697f641b</guid>
+<pubDate>Sun, 28 Jun 2026 06:54:59 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04403-9</link>
-<guid>51f4143d0bd38fe257e24a4e8b1bac16e5ce243bc475574c5b5d5f5a6ab21849</guid>
-<pubDate>Sun, 28 Jun 2026 02:34:24 GMT</pubDate>
-<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-74568-x</link>
+<guid>8bea273fb9cdef3276449a4c53f2f20be9f0f731436a5e3dedddcaa621b58160</guid>
+<pubDate>Sun, 28 Jun 2026 06:55:02 GMT</pubDate>
+<description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 
 </channel>
