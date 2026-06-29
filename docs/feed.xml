@@ -4,49 +4,113 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 29 Jun 2026 00:02:05 GMT</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 05:09:02 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Bob v1 と v2 : カスタムスキル &quot;browser-presentation&quot; 使用の比較結果</title>
-<link>https://qiita.com/c_u/items/f802308cccc7d7b2643f</link>
-<guid>84eac302ff35bef4d78c7db352a000f2f57333b53fb10d99f4f3023dfc964986</guid>
-<pubDate>2026-06-29T08:12:46+09:00</pubDate>
-<description>はじめに IBM Bob（ボブ） の2.0が 2026年6月下旬にリリースされました。 当記事では自作スキル &quot;browser-presentation&quot; を使用してv1 と v2 を比較した内容をまとめました。 動画 当記事の内容の動画です。 検証環境 Bo...</description>
+<title>【Qiita】 TPM 2.0 v1.85でPQC対応へ — ML-KEM/ML-DSAと「実運用までの谷」を一次資料で読む</title>
+<link>https://qiita.com/satokan3/items/4805a5f90a68897aee58</link>
+<guid>7c0227fca42382e0101291af007db0cfd996dfbf279179e2bef4f7462c107701</guid>
+<pubDate>2026-06-29T13:01:05+09:00</pubDate>
+<description>はじめに こんちにちは！ GMOコネクト 執行役員CTO / GMOインターネットグループ 主席研究員 菅野哲（かんの さとる）でございます。 「TPMがPQC対応したらしい」という話を一次資料で確認したところ、これはTPM 2.0 Library Specificati...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeのサブエージェントのネスト機能で「世界における日本関連ニュース」を少しだけ集約してみた</title>
-<link>https://qiita.com/nabata/items/1d3b27bb235e73cf7043</link>
-<guid>8c928887c0557c4058af3b530d1154764f44bbfbaa9d2d921dd347d4d1f27e09</guid>
-<pubDate>2026-06-29T08:45:26+09:00</pubDate>
-<description>Supershipの名畑です。TVアニメ「Dr.STONE」、完結まで製作してくれたことは本当に感謝しかないです。番外編のアニメ化も願わずにはいられない。 はじめに 2026年6月10日リリースのClaude Code v2.1.172 にて、サブエージェントが自身のサブ...</description>
+<title>【Qiita】 GAS + clasp で自分のQiita記事を自動でインデックス化する(タグ指定)</title>
+<link>https://qiita.com/OnuuuumaX/items/1181a12842ef11a9f4b3</link>
+<guid>8a59a004f9c57d2467b33bef1d3fb90dd8ceb7046c133eef707ca9de63dd22d2</guid>
+<pubDate>2026-06-29T09:09:34+09:00</pubDate>
+<description>はじめに Qiitaに記事が増えてくると「あの記事どこだっけ？」となりがちです。 この記事では Google Apps Script（GAS） と clasp（CLIツール） を使って、 自分の記事をタグ指定で取得 Markdown形式のインデックス記事を自動生成 既存...</description>
 </item>
 <item>
-<title>【Qiita】 OpenClaw vs Hermes Agent — あなたにはどちらのエージェントが会うのか？</title>
-<link>https://qiita.com/yoshiyakato/items/2666b76c773751596f7d</link>
-<guid>3859e01a4cbfc5022e0b7c4452aaa6524f0e2dc365215f0a8437b141cea8e12a</guid>
-<pubDate>2026-06-29T08:43:02+09:00</pubDate>
-<description>OpenClaw vs Hermes Agent — あなたにはどちらのエージェントが会うのか？ 本記事のバージョン参照は OpenClaw 公式リポジトリおよび各セキュリティトラッカーの 2026 年前半時点。スキル数・CVE 件数・露出インスタンス数はいずれも変動す...</description>
+<title>【Qiita】 【データセンター軽工事_施工メモ】ケーブリング、電源/通信確認、収納編（後編）</title>
+<link>https://qiita.com/Heizo_Hasegawa/items/92bbe6538dc43d13b429</link>
+<guid>e47889971bc69b68a980269ebf3d2ff37373c09143dbde8055ca5d6bf0fc69fe</guid>
+<pubDate>2026-06-28T11:57:22+09:00</pubDate>
+<description>前編の「物理ラッキング＆ハンドツール編」に続き、後編では物理的な配置が終わった後の「火入れ（通電確認）」「ケーブリング」、そしてサーバーエンジニアさんが待つ論理設定へとスムーズにバトンを繋ぐための「通信・ギミック系ガジェット」をご紹介します。 1. 電源・電気確認ツール...</description>
 </item>
 <item>
-<title>【Qiita】 Claude APIの2026年6月アップデート総まとめ：本番が止まるモデル退役・コード実行ツール新版・レート制限の3層統合</title>
-<link>https://qiita.com/YushiYamamoto/items/f872bec0f685d486c55f</link>
-<guid>86921f1ce5d34316414d48c3c5e35995a96222d7527e10770d13ddb240c0817d</guid>
-<pubDate>2026-06-29T08:31:33+09:00</pubDate>
-<description>2026年6月、AnthropicはClaude開発者プラットフォーム（Claude API・各SDK・Console）に立て続けの変更を入れた。中身は地味だが、本番で動くコードに直接効くものが多い。「退役済みモデルへのリクエストはエラーを返す」「コード実行ツールに新版が...</description>
+<title>【Qiita】 【データセンター軽工事_施工メモ】物理ラッキング＆ハンドツール編（前編）</title>
+<link>https://qiita.com/Heizo_Hasegawa/items/a4eaa6bbb0724b910352</link>
+<guid>161b3a51e475a1b7b0e1edab323d56d8d0ea48af40d678eec837f7cc5764fbf5</guid>
+<pubDate>2026-06-28T11:56:43+09:00</pubDate>
+<description>はじめに 先日、某データセンター（DC）にて、データベースもゴリゴリに扱われているサーバーエンジニアさんから「いつもどんな工具を使っているんですか？」と質問をいただきました。普段は論理レイヤーを主戦場にされている方から、我々が日々手にしている道具に興味を持っていただけたの...</description>
 </item>
 <item>
-<title>【Qiita】 SDD（Spec-Driven Development）とLoop Engineeringの関係 ― superpowersは両者を統合したハーネスだった</title>
-<link>https://qiita.com/nogataka/items/b78d9d8cd39967df4119</link>
-<guid>192e59b32431ff061d9a286442fc469506bc8680e306697500928c5050d3dba2</guid>
-<pubDate>2026-06-29T08:25:55+09:00</pubDate>
-<description>はじめに AIコーディングの界隈で、2025年後半から2つの言葉がよく聞かれるようになりました。 ひとつが Spec-Driven Development（SDD / スペックドリブン開発） です。 もうひとつが Loop Engineering（ループエンジニアリング）...</description>
+<title>【Qiita】 【現場の味方YAMAHAルーター】初期化お約束コマンドと完全な「無」を作るcold start活用術</title>
+<link>https://qiita.com/Heizo_Hasegawa/items/b19b0a5a825f3ec01a86</link>
+<guid>3fe48dbb3c6d5cda0a7423f460aef7dae71fc88c0f6a3245b5629c903e36493a</guid>
+<pubDate>2026-06-27T18:07:43+09:00</pubDate>
+<description>はじめに いつの時代にも現場のインフラエンジニアにやさしいYAMAHA RTシリーズ。日々の構築からリモートアクセスまでお世話になりっぱなしですが、障害対応や検証で「初期化」を行う機会は年に数回は必ずあります。 毎回Googleで調べるのも非効率なので、よく使う手順と、「...</description>
+</item>
+<item>
+<title>【Qiita】 【オンプレF5】AWS/GCP世代に送る、物理BIG-IPが起動しなくても生存する独立管理チップ「AOM」の概要とiシリーズ設定手順</title>
+<link>https://qiita.com/Heizo_Hasegawa/items/d26b58782f33374496c9</link>
+<guid>b5cb6b33210127bd7c18ca1faaa212a361019f4dae7fcd0c2ee38a6caad55f11</guid>
+<pubDate>2026-06-27T13:54:47+09:00</pubDate>
+<description>はじめに AWSのマネージドELB（ALB/NLB）やGCPのCloud Load Balancingなど、クラウド全盛の時代において、F5 BIG-IPを「物理ハードウェア（オンプレミス）」で触る機会は減っているかもしれません。 しかし、ミッションクリティカルなインフラ...</description>
+</item>
+<item>
+<title>【Qiita】 AIの迎合リスクについて、最新学術研究と照らし合わせてみた</title>
+<link>https://qiita.com/777atsushi/items/f01212039a05f6a24db7</link>
+<guid>43219dc20f5d2408da87534a9a2688f00342a36a2806008ee7b16b5c179e5c02</guid>
+<pubDate>2026-06-29T13:22:49+09:00</pubDate>
+<description>はじめに HCI・HAI分野の最先端の学術研究を、一本ずつ確認し、私自身の理論と照らし合わせ、見解を記録する。 論文1：Sycophantic AI makes human interaction feel more effortful and less satisfyin...</description>
+</item>
+<item>
+<title>【Qiita】 Anthropic「2026 Agentic Coding Trends Report」を読み解く──エンジニアは「書く人」から「設計して任せる人」へ</title>
+<link>https://qiita.com/nogataka/items/46fb464d05e2eb53d09c</link>
+<guid>000caea516f22de011646ec15eedfcdceb6e5fe58a6483ef76b74a5d591788db</guid>
+<pubDate>2026-06-29T13:02:23+09:00</pubDate>
+<description>はじめに Anthropic が公開した「2026 Agentic Coding Trends Report」を、公式の原文（レポート本体）を読みながら解説した記事です。 この記事で扱うことは次の3つです。 レポートが提示する8つのトレンド（3カテゴリ）の要点を、日本語...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeのsettings.jsonに新構文Tool(param:value)が加わった ── 何ができるようになったのか解説</title>
+<link>https://qiita.com/nogataka/items/092935458abe2b31f709</link>
+<guid>2901b734c60fb40d36465ed2bf1a15cec849d4af53ca03ae99707b234169d918</guid>
+<pubDate>2026-06-29T13:01:23+09:00</pubDate>
+<description>はじめに Claude Code の settings.json には、ツール単位で「許可する／確認する／拒否する」を細かく決める permissions という仕組みがあります。 この記事では、permissions のルール構文を公式ドキュメントに沿って読み解きます。...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code / Codexで新規事業リサーチはどこまで進化するのか AIエージェント × 外部Webデータ活用</title>
+<link>https://qiita.com/cynthia-brightdata/items/4e0b7942181ac2a43975</link>
+<guid>7ee8cd9b590fff9f894060d8d41ccee4cdd79cdbeb4501317da3867140cd3aab</guid>
+<pubDate>2026-06-29T12:28:19+09:00</pubDate>
+<description>AIエージェントで新規事業リサーチはどこまで進化するのか 市場分析・競合調査・SNSデータ活用を実演解説 生成AIやAIエージェントの活用が広がる一方で、実務ではまだ「文章作成や情報整理に使うもの」 にとどまっているケースも少なくありません。 本ウェビナーでは、AIエージ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/responsive-user-interfaces-based-on-task-criticality-and-user-context/</link>
-<guid>0cd0c525b49f03f51d8f127eb75a157ea375df6fad65239b7d842534a4ea5409</guid>
-<pubDate>Mon, 29 Jun 2026 00:01:07 GMT</pubDate>
+<link>https://research.google/pubs/whats-on-my-network-using-large-language-models-to-identify-real-world-iot-devices-at-scale/</link>
+<guid>d6d5280964ff68b8183fae9533c498e9708158402409b01c54bfbc4b151d9dfa</guid>
+<pubDate>Mon, 29 Jun 2026 05:08:15 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-74568-x</link>
+<guid>f83ca01c7ffc19db2afe0f0a9c557bd3aa972767f6464e15fd13a3b15c21851c</guid>
+<pubDate>Mon, 29 Jun 2026 05:08:18 GMT</pubDate>
+<description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02869-y</link>
+<guid>c299c2db4c927c754fd52ee7b78625ad989bef8b68bf9d0ef286a55995882201</guid>
+<pubDate>Mon, 29 Jun 2026 05:08:20 GMT</pubDate>
+<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04403-9</link>
+<guid>b2af0118b658a43ba3fe85b06f209b8d0a2195ab25836f4a1dbba05f5677f149</guid>
+<pubDate>Mon, 29 Jun 2026 05:08:22 GMT</pubDate>
+<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>d5aa941ef9bf066895a4a9088a159d0ac70e650265916a8cabf125a91801fb81</guid>
+<pubDate>Mon, 29 Jun 2026 05:08:44 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
