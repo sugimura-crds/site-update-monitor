@@ -4,120 +4,92 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 29 Jun 2026 14:32:54 GMT</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 17:28:10 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 今日からAWS Kiro君はRHELの頼もしいアドバイザー</title>
-<link>https://qiita.com/duelist2020jp/items/6f42828bc5a4043309e3</link>
-<guid>d9cc79b55523159f94bd9e6c8e7116946c5b0a66cdcf1a3b817bd084bf0d4e00</guid>
-<pubDate>2026-06-29T21:50:20+09:00</pubDate>
-<description>はじめに 私はプライベートなPCでインフラ基盤にAWSサービスを利用したAIアプリ開発を行う場合、AIコーディングエージェントにはAWS Kiroを使用しています。AWS社からは、AWS MCPサーバーだけでなく、Amazon Bedrock Coreに対するMCPサーバ...</description>
+<title>【Qiita】 RestAPI MBeans 用のアプリ作成</title>
+<link>https://qiita.com/keniooi/items/6a8323d261813a85dcd2</link>
+<guid>ceaef920b734c8e5120df1d004c61204bc5d2e016b46feb8bed3eadd4c50723d</guid>
+<pubDate>2026-06-30T00:24:18+09:00</pubDate>
+<description>目的 RestAPIでLibertyの状態を確認するのに、毎回同じ事を調べてしまいます。簡単にできるアプリを作成します。 プロジェクト作成 前の記事で詳細を書いたので、ここでは自分がよく使う手順を簡潔にまとめていきます。 mvn archetype:generate ...</description>
 </item>
 <item>
-<title>【Qiita】 ByteDance Seed 2.1が示す、AIの評価軸が『完遂』へ動いた</title>
-<link>https://qiita.com/okssusucha/items/c22aeace266934ee113c</link>
-<guid>b2b33c4f1ae61e1ab11ac7f6266e1f291ba4fd475f79793f134f143f20ae74b1</guid>
-<pubDate>2026-06-29T22:09:26+09:00</pubDate>
-<description>新しいコーディングモデルが出ると、まず探すのは SWE-Bench の数字だ。何%取ったか、前世代から何ポイント伸びたか。ところが ByteDance が6月23日に出した Seed 2.1 の公式ブログを読むと、その「いつもの数字」がほとんど主役になっていない。代わりに並...</description>
+<title>【Qiita】 AIエージェントが見せた認証情報を、所有を確認せずに使わせるな——身に覚えのない本番サーバーに接続してDBを書き換えた事故</title>
+<link>https://qiita.com/yurukusa/items/013106b20618f32c0f8a</link>
+<guid>5d550d3920ab6d61677405dbf5a62fae1199e37664a4823f89d0fea9d839770b</guid>
+<pubDate>2026-06-30T01:41:27+09:00</pubDate>
+<description>AIコーディングエージェントを使っていて、画面に「あなたのサーバー」として表示された接続情報が、実はあなたのものではなかったとしたら——そしてエージェントがその情報で見ず知らずのサーバーに接続し、第三者の本番データベースを書き換えてしまったとしたら。 2026年6月29日、...</description>
 </item>
 <item>
-<title>【Qiita】 Codexのbanked rate-limit resetは週次リミットも回復するのか？実測と公式情報の整理</title>
-<link>https://qiita.com/BlackFox/items/1f2d80227f74a1010171</link>
-<guid>bd0214af86b8870030c5df631a8bfe7551a32fc751675f32dc6e287c6b609396</guid>
-<pubDate>2026-06-29T21:50:16+09:00</pubDate>
-<description>OpenAI Codexの banked rate-limit reset について、当初は「5時間ごとの短期制限をリセットするもの」と思っていました。 しかし、実際に使ってみると、少なくとも筆者の環境では 週次リミットも全回復 しました。 現時点での理解は次の通りです。 ...</description>
+<title>【Qiita】 x402 でAIエージェント決済を本番化したら、金融庁・国税庁・インボイスと正面衝突した話【1年実装の記録】</title>
+<link>https://qiita.com/LemonCake/items/fa6702ef4ef5860e8c2c</link>
+<guid>840bc5800c115ba219f82e503aeacac981bcc1d3edde29f845d0bee977057e58</guid>
+<pubDate>2026-06-30T00:52:23+09:00</pubDate>
+<description>はじめに x402 の「動かしてみた」記事は、もう日本語でもたくさんある。Facilitator を自作した話、Cursor / Claude Desktop の MCP から叩いた話、いい記事が揃っている。 なので、この記事はそこでは勝負しない。 僕が一年かけて踏んだの...</description>
 </item>
 <item>
-<title>【Qiita】 AI開発40年の経験から考える、AIガバナンスとAI安全性の本質</title>
-<link>https://qiita.com/Agora_io/items/f0f1727e32d71e7948c2</link>
-<guid>bf7e9fee3ad4fa5c423946821ab494055210fcce576c342aaf86ff056c3e9bd5</guid>
-<pubDate>2026-06-29T20:43:11+09:00</pubDate>
-<description>生成AIやAIエージェントの進化が加速する中、多くの議論はモデル性能や推論速度、コスト削減に集中しています。 しかし、今AI業界で本当に重要な問いは別のところにあります。 私たちは、この先も持続可能なAIを作れているのだろうか？ 今回は、1986年からAI研究に携わり、AI...</description>
+<title>【Qiita】 Sakana Fugu について、情報を集めて解説してみた</title>
+<link>https://qiita.com/moritaoy/items/5a8e3f60ae71715525bd</link>
+<guid>687e41fe65640343a4c7e1e80145c0d5c6ca99c9f156f41aa646d9ecc717d61d</guid>
+<pubDate>2026-06-30T00:08:46+09:00</pubDate>
+<description>前提 筆者は、ゲームのモック作成や市場調査、資料の分析とレビューなど、複数の用途でSakana Fuguを使ってみました。 そして、使えば使うほど、これってどういうプロダクトなんだっけ？という疑問が湧いてきます。 勉強がてら、論文や公式の発表などを参考に情報をまとめてみま...</description>
 </item>
 <item>
-<title>【Qiita】 【2026年最新】Cursor×最新LLMで「自律型AIエージェント」を30分で爆速構築するチュートリアル</title>
-<link>https://qiita.com/reodesuxz/items/241541da25c729544fed</link>
-<guid>db582658c5102315e489ae4f6c201046a97832aff8f2e6676eb23633499ddbff</guid>
-<pubDate>2026-06-29T20:40:37+09:00</pubDate>
-<description>【2026年最新】Cursor×最新LLMで「自律型AIエージェント」を30分で爆速構築するチュートリアル はじめに 2026年現在、単にコードを補完するAIの使い方から、背景のコンテキストを理解して自律的にタスクを完結させる**AIエージェント（AI Agent）**...</description>
+<title>【Qiita】 MCP 2026仕様RC解説 — ステートレス・MCP Apps・Tasks移行ガイド</title>
+<link>https://qiita.com/kai_kou/items/e38f825f23d9f4b8aca8</link>
+<guid>6ce9d883174c7cd2b27a1c5ab21bc422ed7121a715edb3c929fa61560baf5149</guid>
+<pubDate>2026-06-30T01:58:31+09:00</pubDate>
+<description>はじめに Model Context Protocol（MCP）の次期仕様リリース候補（RC）が、2026年5月21日にロックされました。最終仕様の公開は2026年7月28日 を予定しており、今後10週間がSDKメンテナと実装者にとっての検証ウィンドウとなります。 今回の...</description>
 </item>
 <item>
-<title>【Qiita】 Top 10 AI Development Companies That Can Support Rapid Growth (2026)</title>
-<link>https://qiita.com/intellectyx/items/00f0b16f423c38203007</link>
-<guid>cf516bd34709fed299d4db7eafccb76fa4260933e1764a7cb82d3bb51063d166</guid>
-<pubDate>2026-06-29T22:19:18+09:00</pubDate>
-<description>As businesses embrace artificial intelligence, choosing the right development partner has become a strategic decision. Whether you&#x27;re a s...</description>
+<title>【Qiita】 Claude Mythos 1入門 — AWS BedrockとClaude Codeで使うフロンティアセキュリティAI</title>
+<link>https://qiita.com/kai_kou/items/392f9353d4bb73b56ee5</link>
+<guid>9c087a77cd995b55972c7fd98b41a478b98c46b04ff4906fa1ada0b552834b78</guid>
+<pubDate>2026-06-30T00:31:34+09:00</pubDate>
+<description>はじめに 2026年4月7日にAnthropicが「gated research preview」として公開した Claude Mythos Preview が、いよいよ Claude CodeとClaude Securityへの統合準備段階 に入りました。 2026年...</description>
 </item>
 <item>
-<title>【農業】 Farm incomes set to rise over next decade – but volatility puts gains at risk</title>
-<link>https://www.fao.org/newsroom/detail/sustained-agricultural-market-volatility-could-lead-to-reduced-farmer-incomes-over-the-next-decade/en</link>
-<guid>b36edfcc87d4da5edceb654a28a238b35c23069837cb283d39d6df12632e12e5</guid>
-<pubDate>Mon, 29 Jun 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【環境】 A campus sustainability journey</title>
-<link>https://www.nature.com/articles/s41893-026-01884-x</link>
-<guid>b7c480e29a26c51f7a27127d829a22a112a6d2d6c77952c351d9b7b2a6526701</guid>
+<title>【自動自律実験】 Family of magnetic field-boosted superconductors in rhombohedral graphene</title>
+<link>https://www.nature.com/articles/s41586-026-10815-x</link>
+<guid>17e844c96a43e185f2932e788fcd38170b81cc489be3acad8944dbe93496f840</guid>
 <pubDate>2026-06-29</pubDate>
-<description>Radenka Maric, the president of the University of Connecticut (UConn), talks to Nature Sustainability about her institution’s transition towards a sustainable campus, highlighting the critical roles of governance structures, infrastructure projects, and educational initiatives fostering sustainability literacy.</description>
+<description>Family of magnetic field-boosted superconductors in rhombohedral graphene</description>
 </item>
 <item>
-<title>【環境】 Biodiversity recovery is slow following clear-cut harvest of boreal forests</title>
-<link>https://www.nature.com/articles/s41893-026-01868-x</link>
-<guid>0b1e136056d4a12a7157a418e09d62800475d847388b57d52f8f43000cbd328e</guid>
+<title>【自動自律実験】 Audio long read: Is the peptide craze backed by science? The promise behind the hype</title>
+<link>https://www.nature.com/articles/d41586-026-02063-w</link>
+<guid>617c66a79af40d5d6a3731eab466dde040dd8a226a8060fad0d13932aff1c16e</guid>
 <pubDate>2026-06-29</pubDate>
-<description>Clear-cut timber harvest in boreal forests impacts local biodiversity; however, it is still unclear how quickly biotic groups rebound from such disturbances. This meta-analysis determines the resilience of biotic groups to clear-cut harvest across boreal forests of Europe/Russia and North America.</description>
-</item>
-<item>
-<title>【自動自律実験】 How one US scientist is adapting to life abroad after DOGE cuts</title>
-<link>https://www.nature.com/articles/d41586-026-01137-z</link>
-<guid>33b4eed1ec61dbb07b6456daf5854fe33baaf5e5c42cf976b3fdee97edc1d067</guid>
-<pubDate>2026-06-29</pubDate>
-<description>Sarah Weisberg is one of a number of scientists who have made the move to Europe for job security.</description>
-</item>
-<item>
-<title>【自動自律実験】 How AI can crack open the ‘hidden curriculum’ for neurodivergent students</title>
-<link>https://www.nature.com/articles/d41586-026-01672-9</link>
-<guid>db800b7e924488ecb915269407a0d8e7ff04a291b46fcbacc1c3807acd863402</guid>
-<pubDate>2026-06-29</pubDate>
-<description>Marisa Chrysochoou and Keivan Stassun argue that AI tools could help students to navigate academia’s unwritten rules.</description>
-</item>
-<item>
-<title>【自動自律実験】 What’s the human cost of US research turmoil? A new film finds out</title>
-<link>https://www.nature.com/articles/d41586-026-01979-7</link>
-<guid>5fea8aae79b3e6cb9567a266051f8118f57caf6416d31dbfa89125260880971b</guid>
-<pubDate>2026-06-29</pubDate>
-<description>Science is a complex, interconnected, deeply human enterprise involving hard grind — and funding cuts and grant delays have come as a sucker punch to many.</description>
+<description>The market for unregulated peptides is huge. Has the hottest trend in wellness got ahead of the science?</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/an-ai-system-to-help-scientists-write-expert-level-empirical-software/</link>
-<guid>c25fee294f8fb1c85b1ba0e8e2aa7dc1dd08fe2f4a5051c136b3c0778eb512a5</guid>
-<pubDate>Mon, 29 Jun 2026 14:31:43 GMT</pubDate>
+<link>https://research.google/pubs/beyond-vector-similarity-hierarchical-context-aware-graph-rag-vs-standard-rag-in-enterprise-code-migration/</link>
+<guid>de083fc15ac763b94a8dcae8a0cfbce776d7b24778ec6f55c271ddcd881b8d9d</guid>
+<pubDate>Mon, 29 Jun 2026 17:27:34 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>a108cd3ac9c9342a9fd5fa81d62cb5d8e480c9f0b9cc048d7b3ee2b64b3ff428</guid>
-<pubDate>Mon, 29 Jun 2026 14:31:45 GMT</pubDate>
+<guid>9a940a2ced0faddc530d63de51e48d057346068d5bf7d428fc9482962be560b8</guid>
+<pubDate>Mon, 29 Jun 2026 17:27:37 GMT</pubDate>
 <description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>4b911bc78d7d70caa4c509f0afa48198378edd537dd6c934bbcd6a6ade5916d0</guid>
-<pubDate>Mon, 29 Jun 2026 14:31:47 GMT</pubDate>
-<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>2b32bd2be26e4d0514fae904ebd5e76d0de90745a1b22f101cfe35eb8672bc64</guid>
-<pubDate>Mon, 29 Jun 2026 14:32:36 GMT</pubDate>
+<guid>a958a767ecac235dedabba6fc0983012492e50276c9414cc9432076a70746296</guid>
+<pubDate>Mon, 29 Jun 2026 17:27:50 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>09f0907f6d250dcbcb354dd7df62e43a62a20e1067b23a0507ede516d930230b</guid>
+<pubDate>Mon, 29 Jun 2026 17:27:52 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
