@@ -4,63 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 29 Jun 2026 21:06:28 GMT</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 22:35:25 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ</title>
-<link>https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>2ef979d72da40ff7c559075ad70156c466d56a8be69f6a5e4f6355d2a98f3603</guid>
-<pubDate>2026-06-28T18:51:39+09:00</pubDate>
-<description>はじめに Gitは開発現場では欠かせないツールですが、「最近Gitって何か変わったの？」と聞かれると、意外と答えられない方も多いのではないでしょうか。 現在も最新バージョンは2系ですが、Gitでは将来的なメジャーバージョンも見据えた改善が継続的に進められています。 今回は...</description>
+<title>【Qiita】 RSS &amp; RSS Reader とは</title>
+<link>https://qiita.com/Horiiii/items/bb5482b7e808c866f0e1</link>
+<guid>a71b979b2fefc97fc9fe71e7e3113b7f002b0cc17e0b2ce2a0e520e731cdb4fe</guid>
+<pubDate>2026-06-30T06:45:22+09:00</pubDate>
+<description>はじめにRSS &amp; RSS Reader 完全ガイド ＋ Feedly 実践入門 朝の情報収集自動化したいな〜と思ってると、RSSというものを見つけました。 本記事は、RSSとは何か理解し、実践してみた記録です。 1. RSS とは？ RSS（Really Simpl...</description>
 </item>
 <item>
-<title>【Qiita】 速報！！StreamlitがAWSにサーバーレスでホスティングできるようになった！！ #LambdaMicroVMs</title>
-<link>https://qiita.com/moritalous/items/2f9ad10282775dcbd647?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>544d0b2f1de670c727c3e5e728f9b009fd46746680ab75c95854f9f072e06502</guid>
-<pubDate>2026-06-29T07:08:23+09:00</pubDate>
-<description>きたきたきた～ 生成AIアプリのフロントエンドとして鉄板のStreamlitですが、AWSにデプロイするには諸々の制約があり、Fargateで行うのが一般的だと思います。Lambda Web Adapterでなんとかならないと、10回ぐらい試したのですが、WebSocket...</description>
+<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 7 ]：ローカルストレージでステージ進捗管理・ギミックをJSONで管理</title>
+<link>https://qiita.com/OnuuuumaX/items/38db0765df44a2a31fea</link>
+<guid>c5a64b15157b1fa3b9f5edd3e9f756cf91d36aeb2124d189009994e1f69e31ca</guid>
+<pubDate>2026-06-30T07:27:32+09:00</pubDate>
+<description>はじめに Axmol Engine（Cocos2d-x派生）で脱出ゲームを作る過程で、ダイヤルロックのギミックやステージ管理をどのようにJSONで設定化していったかを、実装の流れに沿って紹介します。 やったこと ギミック情報のJSON化 ステージ情報のJSON構造修正...</description>
 </item>
 <item>
-<title>【Qiita】 テーブル設計をskillsでレビューしてみませんか</title>
-<link>https://qiita.com/kuma_3838/items/dd2e5075ea0d59ee3a36?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>db706ae009d6c79ab4ad11fd3115d8ba6ca9e25aa69942c8188562f36cab4539</guid>
-<pubDate>2026-06-29T09:17:05+09:00</pubDate>
-<description>はじめに DB設計の勉強のために、以下の2冊を読みました。 『失敗から学ぶ RDBの正しい歩き方』（曽根壮大） 『達人に学ぶDB設計 徹底指南書 第2版』（ミック） 最近、技術書を読むときに意識していることがあります。 それは「この内容をプロジェクトに活かせるか」とい...</description>
+<title>【Qiita】 日刊IETF (2026-05-30) AIエージェントの統治と決済証跡からPQC対応や検証可能な記録まで</title>
+<link>https://qiita.com/tetsuko_room/items/b6dcbc3fe76358ebe99c</link>
+<guid>30e52ab3990f8109705ae719752d0801c646b22e4a08fdeb6f2f464bed504567</guid>
+<pubDate>2026-06-30T06:18:53+09:00</pubDate>
+<description>おはようございます。GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-30（UTC基準）に公開されたI...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-05-29) IPsecとRPKIの堅実な更新からPQC鍵交換とAI安全方針まで （Part2/2）</title>
-<link>https://qiita.com/tetsuko_room/items/bc717de773d364f45922</link>
-<guid>f32a61aa56c29554e7c0e52513453112690e7bc816c8fc55226572dd3ac28338</guid>
-<pubDate>2026-06-30T06:00:59+09:00</pubDate>
-<description>おはようございます！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-29（UTC基準）に公開され...</description>
+<title>【Qiita】 連載：AIに仕事を奪われる不安から始めるハーネス作成入門 第9回 RAG / Knowledge MCPがSE経験者に向いている理由</title>
+<link>https://qiita.com/singula/items/7e0bfd6554154b9118a6</link>
+<guid>7b1a068d98a07d02f7e5589eaffc8f4e62b018ddacb620928305e7a3aa6c10d2</guid>
+<pubDate>2026-06-30T07:23:54+09:00</pubDate>
+<description>連載: AIに仕事を奪われる不安から始めるハーネス作成入門 第9回 ← 前回（第8回）: MCPサーバーの最小実装 はじめに：学ぶべき技術が多すぎて不安な方へ RAG、LLM、ベクトルDB、ファインチューニング、プロンプトエンジニアリング……。AI関連の技術トピック...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-05-29) メール鍵配布やBGP拡張からPQC対応まで素性と経路の更新が集中 （Part1/2）</title>
-<link>https://qiita.com/tetsuko_room/items/0f6eac6688dd2f1636e1</link>
-<guid>d940ae1afd7b5a91fd19c327b733c5bed2570e80d0ad0989dfedd44b5bcf779b</guid>
-<pubDate>2026-06-30T06:00:07+09:00</pubDate>
-<description>おはようございます！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-29（UTC基準）に公開された...</description>
+<title>【Qiita】 TypeScriptではじめるAIエージェント開発</title>
+<link>https://qiita.com/otakumesi/items/414c2e1836df4d8e278d</link>
+<guid>b45c9f9b26488151b5d2ac01a6f956532a4cab3fd570e6ccb2dcdc663f9a8129</guid>
+<pubDate>2026-06-30T07:21:05+09:00</pubDate>
+<description>自分でAIエージェントを作ってみたいと思ったことはありませんか？ コーディングエージェントを使っていると、「内部はどう設計されていて、どう実装されているのか」が気になることがあります。 そこで触ってみたいのが Pi SDK です。 Pi SDK は、TypeScrip...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/observing-long-lived-longwave-contrail-forcing/</link>
-<guid>5b09eb2f8a6fe378f4bf00e755902a07cb1fa913ae101faea31a6f823a7f0f4e</guid>
-<pubDate>Mon, 29 Jun 2026 21:05:23 GMT</pubDate>
+<link>https://research.google/pubs/mars-modular-agent-with-reflective-search-for-automated-ai-research/</link>
+<guid>ba17ebc8b6acd75b6f5a5fe54f97b2a2a647b5f644efc5876e67492d103b465c</guid>
+<pubDate>Mon, 29 Jun 2026 22:34:23 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>a0a2fc2c593a44e4a4d558bc0a5a9d4757279c57fd04675c26cc266cde762ab4</guid>
-<pubDate>Mon, 29 Jun 2026 21:05:25 GMT</pubDate>
+<guid>8e26db17e3a7716e79c0f70b85b0af1868d22993aaaeb6bbd74069a2a5a3ee20</guid>
+<pubDate>Mon, 29 Jun 2026 22:34:26 GMT</pubDate>
 <description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>f8f0e86ebe89869db6f65c4ca54d94a13b0cbc699dbf28b55cda6d7fdc83f991</guid>
-<pubDate>Mon, 29 Jun 2026 21:06:18 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
