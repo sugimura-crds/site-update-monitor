@@ -4,28 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 28 Jun 2026 22:55:43 GMT</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 00:02:05 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 プロフェッショナルTLS＆PKI (Bulletproof TLS and PKI) 改題第2版を読む⑫ 第3章 TLS1.2のサブプロコル</title>
-<link>https://qiita.com/gomAnomalocaris/items/93b80378c4b5d303483a</link>
-<guid>5a8db324942abe2611070d689c222fa3d4e32d1e9effef78a238fefea29ae27e</guid>
-<pubDate>2026-06-29T07:34:27+09:00</pubDate>
-<description>TLS 1.2の4つのサブプロトコルについてです。TLS 1.3との差異も（調べた範囲で）まとめてみます。 TLS 1.2のHandshakeプロトコル TLSのハンドシェイクのパターンは大まかに以下の3つがあります ・サーバー認証を伴うフルハンドシェイク ・（前回セッシ...</description>
+<title>【Qiita】 IBM Bob v1 と v2 : カスタムスキル &quot;browser-presentation&quot; 使用の比較結果</title>
+<link>https://qiita.com/c_u/items/f802308cccc7d7b2643f</link>
+<guid>84eac302ff35bef4d78c7db352a000f2f57333b53fb10d99f4f3023dfc964986</guid>
+<pubDate>2026-06-29T08:12:46+09:00</pubDate>
+<description>はじめに IBM Bob（ボブ） の2.0が 2026年6月下旬にリリースされました。 当記事では自作スキル &quot;browser-presentation&quot; を使用してv1 と v2 を比較した内容をまとめました。 動画 当記事の内容の動画です。 検証環境 Bo...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeのサブエージェントのネスト機能で「世界における日本関連ニュース」を少しだけ集約してみた</title>
+<link>https://qiita.com/nabata/items/1d3b27bb235e73cf7043</link>
+<guid>8c928887c0557c4058af3b530d1154764f44bbfbaa9d2d921dd347d4d1f27e09</guid>
+<pubDate>2026-06-29T08:45:26+09:00</pubDate>
+<description>Supershipの名畑です。TVアニメ「Dr.STONE」、完結まで製作してくれたことは本当に感謝しかないです。番外編のアニメ化も願わずにはいられない。 はじめに 2026年6月10日リリースのClaude Code v2.1.172 にて、サブエージェントが自身のサブ...</description>
+</item>
+<item>
+<title>【Qiita】 OpenClaw vs Hermes Agent — あなたにはどちらのエージェントが会うのか？</title>
+<link>https://qiita.com/yoshiyakato/items/2666b76c773751596f7d</link>
+<guid>3859e01a4cbfc5022e0b7c4452aaa6524f0e2dc365215f0a8437b141cea8e12a</guid>
+<pubDate>2026-06-29T08:43:02+09:00</pubDate>
+<description>OpenClaw vs Hermes Agent — あなたにはどちらのエージェントが会うのか？ 本記事のバージョン参照は OpenClaw 公式リポジトリおよび各セキュリティトラッカーの 2026 年前半時点。スキル数・CVE 件数・露出インスタンス数はいずれも変動す...</description>
+</item>
+<item>
+<title>【Qiita】 Claude APIの2026年6月アップデート総まとめ：本番が止まるモデル退役・コード実行ツール新版・レート制限の3層統合</title>
+<link>https://qiita.com/YushiYamamoto/items/f872bec0f685d486c55f</link>
+<guid>86921f1ce5d34316414d48c3c5e35995a96222d7527e10770d13ddb240c0817d</guid>
+<pubDate>2026-06-29T08:31:33+09:00</pubDate>
+<description>2026年6月、AnthropicはClaude開発者プラットフォーム（Claude API・各SDK・Console）に立て続けの変更を入れた。中身は地味だが、本番で動くコードに直接効くものが多い。「退役済みモデルへのリクエストはエラーを返す」「コード実行ツールに新版が...</description>
+</item>
+<item>
+<title>【Qiita】 SDD（Spec-Driven Development）とLoop Engineeringの関係 ― superpowersは両者を統合したハーネスだった</title>
+<link>https://qiita.com/nogataka/items/b78d9d8cd39967df4119</link>
+<guid>192e59b32431ff061d9a286442fc469506bc8680e306697500928c5050d3dba2</guid>
+<pubDate>2026-06-29T08:25:55+09:00</pubDate>
+<description>はじめに AIコーディングの界隈で、2025年後半から2つの言葉がよく聞かれるようになりました。 ひとつが Spec-Driven Development（SDD / スペックドリブン開発） です。 もうひとつが Loop Engineering（ループエンジニアリング）...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/reinforcement-learning-with-discrete-diffusion-policies-for-combinatorial-action-spaces/</link>
-<guid>6d0d6e9376da5b0fd0e0138f44233f964af94d12fbbe0fc4f589c42e0cbe7d14</guid>
-<pubDate>Sun, 28 Jun 2026 22:54:44 GMT</pubDate>
+<link>https://research.google/pubs/responsive-user-interfaces-based-on-task-criticality-and-user-context/</link>
+<guid>0cd0c525b49f03f51d8f127eb75a157ea375df6fad65239b7d842534a4ea5409</guid>
+<pubDate>Mon, 29 Jun 2026 00:01:07 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>2f8bc0963be60689c5e225b2233fb70ffe00a1d6ae5e658ab8454f12bfa6d074</guid>
-<pubDate>Sun, 28 Jun 2026 22:54:47 GMT</pubDate>
-<description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 
 </channel>
