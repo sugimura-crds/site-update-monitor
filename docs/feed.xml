@@ -4,49 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 29 Jun 2026 23:55:22 GMT</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 02:29:43 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 日刊IETF (2026-05-31) AIエージェントの法令証跡と知的データプレーン、移動や多経路の転送まで</title>
-<link>https://qiita.com/tetsuko_room/items/0f8e0efcec992c242b55</link>
-<guid>c0e2c92f7fcf560fa7ac4146acf669a46fa63df58927551d4cf04f3e1424b309</guid>
-<pubDate>2026-06-30T08:37:42+09:00</pubDate>
-<description>おはようございます！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-05-31（UTC基準）に公開された...</description>
+<title>【Qiita】 8.6万件のテストケースをAIで再分類：正常系・準正常系・異常系の自動仕分けから見えた設計の偏り</title>
+<link>https://qiita.com/kane_ryu/items/9817dfe49d651a515991</link>
+<guid>d364cfce288f6c720c2af8ba21922e50a9ed862dbc14aa8537d567b344b3db1e</guid>
+<pubDate>2026-06-30T10:23:00+09:00</pubDate>
+<description>はじめに 「種別」列がある。でも全部「正常系」と書いてある。 大量のテスト資産を抱えるプロジェクトでよく遭遇するこの状態に、86,627件規模で向き合うことになりました。種別が形骸化したまま運用されてきた Excel ファイルを対象に、キーワードマッチと AI を組み合わ...</description>
 </item>
 <item>
-<title>【Qiita】 英語の技術ニュースを追いきれないので、Claude Code で収集を自動化した</title>
-<link>https://qiita.com/sgrs38/items/3bf1954d3903db068c74</link>
-<guid>e05f8e46eb221b8b134861e37418720566c1ed3beaf90bbafc73ee00f2d1ff31</guid>
-<pubDate>2026-06-30T08:44:58+09:00</pubDate>
-<description>英語の技術ニュースは追いきれない。自分の場合は Laravel News（Laravelの公式ニュース。英語で、ほぼ毎日更新）で、追える時と追えない時の差が激しく、どこまで読んだか分からなくなる。そこで Claude Code で収集を自動化して、2026年1〜6月の記事を...</description>
+<title>【Qiita】 Claude Code投入前に機密ファイルを検知する</title>
+<link>https://qiita.com/hironakamura_ai/items/2ac830b76a0c9904ccc3</link>
+<guid>cb64219fa4bdfdf5e4135b0b02ead0da1a92b8f47d795e8ecbde4016a977c9dc</guid>
+<pubDate>2026-06-30T11:27:04+09:00</pubDate>
+<description>Claude CodeやCodexにrepoを渡す前、「このファイルは読ませていい」とどこで判断してますか。 自分は最近ここがだいぶ気になっていて、.gitignore を見て安心するのは危ないな、と思うようになった。2026-06-29にThe Decoderが、Meta...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント黎明期の今、3年前にLLMで同じ過ちをした自分から伝えたいこと</title>
-<link>https://qiita.com/sutaminajing40/items/139e397a4a770b871bdb</link>
-<guid>9114d670624ad86e47d8ae04f9a6bb2dfca99e77546f8899f2f4d654ace1e8af</guid>
-<pubDate>2026-06-30T08:36:39+09:00</pubDate>
-<description>先に結論から LLMがまだ手探りだった黎明期に、自分はその真ん中で開発の仕事をしていました。なのに当時は、振られた業務をこなすだけで、その貴重な時間を無駄に消費してしまいました。今でもその後悔がずっとあります。 今はその反省から、個人でアプリを作ったり、こうして記事を書い...</description>
-</item>
-<item>
-<title>【Qiita】 Vercel AI SDK 7移行チェックリスト：v6で壊れる破壊的変更と、本番エージェントに必要な承認・タイムアウト・観測</title>
-<link>https://qiita.com/YushiYamamoto/items/c1ecdaf9e0d921fd950f</link>
-<guid>34d4e57c8576ec5e14c6634253be57998211348d9bbfa8788a5b291a117e35f1</guid>
-<pubDate>2026-06-30T08:31:44+09:00</pubDate>
-<description>2026年6月25日、Vercelは「AI SDK 7」を公開した。公式は本リリースを &quot;a major release for building production agents in TypeScript&quot; と位置づけ、SDKが従来の &quot;model calls an...</description>
+<title>【Qiita】 2026/06/30 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/cf56918ec249963f1f90</link>
+<guid>426be381ce5b0425cf3e15c9788716302a794fe1728a51e9e3305c5a8d795082</guid>
+<pubDate>2026-06-30T11:18:33+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 私がループエンジニアリングにあまり興味がない理...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/mull-tokens-modality-agnostic-latent-thinking/</link>
-<guid>ac32c5c9d71646d15fb7df521a8645bee3fdfbb2cb1c9bdb18a7e8b2033557cb</guid>
-<pubDate>Mon, 29 Jun 2026 23:54:15 GMT</pubDate>
+<link>https://research.google/pubs/digital-shadow-ai-risk-theoretical-framework-dart-a-framework-for-managing-data-disclosure-and-privacy-risks-of-ai-tools-at-work-2/</link>
+<guid>54426acaba46367da84f7c089628faf2d2147f984129c91f44792608801457cf</guid>
+<pubDate>Tue, 30 Jun 2026 02:29:07 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>1a6027b1eda64e81f8f45edb941300451b555992622cb9a77181682f8363fdd8</guid>
-<pubDate>Mon, 29 Jun 2026 23:54:17 GMT</pubDate>
-<description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 
 </channel>
