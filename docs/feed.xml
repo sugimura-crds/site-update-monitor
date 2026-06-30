@@ -4,71 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 30 Jun 2026 06:38:57 GMT</lastBuildDate>
+<lastBuildDate>Tue, 30 Jun 2026 10:26:21 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【Db2 Genius Hub】ログフルエラー発生！～調査と対応はどうすれば？～</title>
-<link>https://qiita.com/ISE_Db2LUW_Club/items/3ec8d8dcf81bad4614c5</link>
-<guid>2a4c9000d70a090472cbf5450cad1c6af54643c6913d9e1ac5dc639995b2a01d</guid>
-<pubDate>2026-06-30T15:15:03+09:00</pubDate>
-<description>目次 はじめに 今回のテーマ：ログフルエラー 今回のシナリオ Db2 Genius Hubでできること (1)-アラートで即検知 (2)-AIアシスタントによる原因分析 (3)-ログ消費トランザクションの確認 (4)-実際の対応方法（ログフルをどう解消するか） ...</description>
+<title>【Qiita】 Railsで学ぶ DFS / BFS 入門 〜「深さ優先」と「幅優先」で木構造をたどる〜</title>
+<link>https://qiita.com/akachiryo/items/025683560974d762fa85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>2835a26c6c9b6e5c431222c207d6d74a7c53fe67288bd6d4a8cc89e3060b804f</guid>
+<pubDate>2026-06-30T12:48:38+09:00</pubDate>
+<description>お疲れ様です！ 前回は計算量（Big-O）の話を書きましたが、今回はその流れで、探索アルゴリズムの基本 DFS（深さ優先探索） と BFS（幅優先探索） をまとめてみました 名前は難しそうですが、中身は 「スタックを使うか、キューを使うか」だけの違い です。 興味ある方は...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントと挑むレガシー刷新：Spring Boot 4.0移行を支える「調査・変換・検証」の三段構え</title>
-<link>https://qiita.com/hoshi-gmoconnect/items/b2ecaf8ecaf687ce84cf</link>
-<guid>1e29b20817dc55e43593fd6c51065976ec7fff6597ce386ff12a5e7710e9ff3e</guid>
-<pubDate>2026-06-30T11:36:15+09:00</pubDate>
-<description>はじめに GMOコネクトの星です。 「このシステム、動いてるけど中身がブラックボックス……手を入れるのが怖い😇」という状況、ご経験はないでしょうか。 社内製フレームワーク（以下「独自FW」）で構築された管理系Webアプリを、Spring Boot 4.0 + Java 1...</description>
+<title>【Qiita】 【永久0円】人間LLMのすすめ</title>
+<link>https://qiita.com/Syuparn/items/0001f93221d4d7556271?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>17c1eaa62a24652f8388813d0e3bc521d642be39452ce17a83c61ebdb25336ad</guid>
+<pubDate>2026-06-29T18:53:19+09:00</pubDate>
+<description>はじめに こんなお悩みはありませんか？ LLMは気づいたら値上がり。最新モデルは限定公開。ローカルLLMを建てようにもグラボが足りない。 ...実は、電気を使わず使い放題の計算資源があることをご存知ですか？ ―そう、貴方です。 作ったもの というわけで作りました。名付...</description>
 </item>
 <item>
-<title>【Qiita】 Junie CLI Plan mode で実装まえに変更計画書を作ってもらいました</title>
-<link>https://qiita.com/nattogohan123/items/acdb746ff84163d45424</link>
-<guid>1bd639965445d2c6241e386bf3330afdbebf0b46e1ed49177da979ba1cc648ca</guid>
-<pubDate>2026-06-30T15:34:33+09:00</pubDate>
-<description>はじめに Junie がベータ版を終了し、正式版（GA）になりました。 今回は前回に引き続き、公式発表の中であった、Advanced Plan mode についてです。 AI コーディングエージェントを使っていていきなり実装に入って困ったことはありませんか。 まだ確...</description>
+<title>【Qiita】 【最新動向】IETF 126 Vienna Side Meeting 分析 ― AIエージェント時代のセキュリティが主役に</title>
+<link>https://qiita.com/satokan3/items/c5b16bb67c56c1738b8a</link>
+<guid>b8c5d946fd3c58b58708e0c6d7f5cad7b1ead0d8a74590b557f5536c448a1fe3</guid>
+<pubDate>2026-06-30T18:59:03+09:00</pubDate>
+<description>こんにちは！ GMOコネクト株式会社 執行役員CTO / GMOインターネットグループ株式会社 共同研究推進グループ 主席研究員 菅野哲（かんの さとる）でございます。 皆さん、インターネット好きですか？ インターネットと言えば、IETF（Internet Engineer...</description>
 </item>
 <item>
-<title>【Qiita】 小型ローカルLLM(9B)のコーディング精度は「ハーネスとモデルの相性」で決まる ― Claude Code系とhermes-agentを比較</title>
-<link>https://qiita.com/nogataka/items/136bf8e446b13427d0e6</link>
-<guid>4e8d5b7aa0c89ff6578d24be6e95d6cbf09be05a0c08501223908a61407832a3</guid>
-<pubDate>2026-06-30T15:20:41+09:00</pubDate>
-<description>要点（最初に結論） 同じ小型ローカルLLM（9Bクラス）を使っても、載せるハーネス次第でコーディングエージェントの実効精度は大きく変わります。 ハーネスには2つの思想があります。フロンティアモデルの賢さを引き出す方向（Claude Code系）と、ハーネス側でモデルの弱...</description>
+<title>【Qiita】 GitHub で注目したい 9 つのオープンソース AI ノーコードツール</title>
+<link>https://qiita.com/TianqiYuan/items/cdf681d9a93b38c6ab23</link>
+<guid>9eeb07c9637f1dbc7905867c87b6b6b31f051cae84f6165b8c41c8ba1e083f2f</guid>
+<pubDate>2026-06-30T17:50:19+09:00</pubDate>
+<description>最近は AI コーディングが大きな注目を集めています。コード、ページ、アプリケーションのプロトタイプを短時間で生成できるツールも増えてきました。一見すると、AI がノーコードの価値を弱めているようにも見えます。 しかし、実際の業務アプリケーションに必要なのは、生成の速さだけ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code 公式プラグインと組み込みコマンドの関係 ― 純正36件を5分類して「重複・補完・逆移行」を整理する</title>
-<link>https://qiita.com/shohei_yamamoto/items/123c16729211d16b0816</link>
-<guid>0ede9df171e19996163929845c1ea713a253eb2c9f12914aced8c68e73707722</guid>
-<pubDate>2026-06-30T15:00:04+09:00</pubDate>
-<description>はじめに こんにちは。スタディング開発担当の山本です。最近は社内用のClaude Codeプラグイン開発や、業務の自動化に力を入れています。 結論から先に言うと、純正プラグイン36件を本体の組み込み機能との関係で5分類すると、本体で代替できて基本は抜いてよいのは実質2件だ...</description>
+<title>【Qiita】 WebMCP入門 — AIエージェント向けブラウザ標準をChrome 149で実装する</title>
+<link>https://qiita.com/kai_kou/items/581c526e7018e7d1032f</link>
+<guid>1c94d6a42f18d17fa7cc38bcbc6782b7edd82607058c456f8cbeb7fd51b9f018</guid>
+<pubDate>2026-06-30T18:58:41+09:00</pubDate>
+<description>はじめに AIエージェントがWebサイトを操作する際、従来の手法はスクリーンショットの解析やDOMのスクレイピングに依存していました。ページのレイアウトが変わるたびに壊れ、計算コストも高い——これが「ブラウザエージェント」の根本的な課題でした。 WebMCP（Web M...</description>
+</item>
+<item>
+<title>【Qiita】 Claude for Small Business入門 — 15エージェントワークフローで業務を自動化する</title>
+<link>https://qiita.com/kai_kou/items/02092d136350d254f4ee</link>
+<guid>3378eda60412d104db71b93e8074f8558b24f6555706f099f049f96227554adf</guid>
+<pubDate>2026-06-30T17:29:49+09:00</pubDate>
+<description>はじめに 2026年5月13日、Anthropicが Claude for Small Business を正式リリースしました。QuickBooks・HubSpot・Canvaといった中小企業が日常的に使うSaaSツールに、Claudeのエージェント機能を直接組み込む...</description>
+</item>
+<item>
+<title>【自動自律実験】 Child online safety needs more than social-media bans</title>
+<link>https://www.nature.com/articles/d41586-026-02068-5</link>
+<guid>3b424e82b2bf2e556cf007df0fbe794a367a8a0f4f4741d9a71cb7051322e37e</guid>
+<pubDate>2026-06-30</pubDate>
+<description>Child online safety needs more than social-media bans</description>
+</item>
+<item>
+<title>【自動自律実験】 Ebola preparedness must start with ecosystems and before humans show symptoms</title>
+<link>https://www.nature.com/articles/d41586-026-02070-x</link>
+<guid>bbc4306d146fe18ef0b2a26742cbe5e3e7a01b9aac46a91d756840386b27f477</guid>
+<pubDate>2026-06-30</pubDate>
+<description>Ebola preparedness must start with ecosystems and before humans show symptoms</description>
+</item>
+<item>
+<title>【自動自律実験】 AI tools can speed up thinking, but evidence still comes from the lab bench</title>
+<link>https://www.nature.com/articles/d41586-026-02069-4</link>
+<guid>6596a268cc869770774491a78fbb95e8d373fa92fe6aebd8a010eb99095ad2a2</guid>
+<pubDate>2026-06-30</pubDate>
+<description>AI tools can speed up thinking, but evidence still comes from the lab bench</description>
+</item>
+<item>
+<title>【自動自律実験】 Can Rwanda sustain its rise in science and technology? Here’s what can help</title>
+<link>https://www.nature.com/articles/d41586-026-01980-0</link>
+<guid>0c21db496f5e248210a40e8be8db0f3985fbae83ff7515e7bbb2cf9e26914a8c</guid>
+<pubDate>2026-06-30</pubDate>
+<description>An ambitious analysis challenges the view that a nation’s pursuit of economic growth alone can deliver long-term prosperity.</description>
+</item>
+<item>
+<title>【自動自律実験】 AI systems devise hypotheses and ways to test them</title>
+<link>https://www.nature.com/articles/d41586-026-01873-2</link>
+<guid>cf5a4b8a09c8c4910f5b6f5f260778a5698dc15608b55c0836f5b68bfeabe141</guid>
+<pubDate>2026-06-30</pubDate>
+<description>AI agents collaborate to generate biomedical hypotheses and analyse data, moving towards a laboratory discovery cycle with AI involved in every step.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/promise-or-peril-exploring-black-adults-perspectives-on-the-use-of-artificial-intelligence-in-health-contexts/</link>
-<guid>d76aea6b7320312cc3a048a0cdf5f84729344f3a195b069b85b18dccf9417832</guid>
-<pubDate>Tue, 30 Jun 2026 06:38:18 GMT</pubDate>
+<link>https://research.google/pubs/dedubb-binary-code-size-reduction-via-post-link-basic-block-de-duplication/</link>
+<guid>63bf333b89757b7d00c916fbef5ae6faff908ed3a34bb4a3546d9d95ec15a17c</guid>
+<pubDate>Tue, 30 Jun 2026 10:25:19 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>24c608b4692da2d7ddac8704130025ceeaa8e6afee5f40f0dfd9dab5e71cf5d7</guid>
-<pubDate>Tue, 30 Jun 2026 06:38:21 GMT</pubDate>
+<guid>3fb89d559413a14921472afba7a2a1782ac5134e7ad03ab98d62b4ea56a575c6</guid>
+<pubDate>Tue, 30 Jun 2026 10:25:21 GMT</pubDate>
 <description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02869-y</link>
-<guid>46a30c812a2d0df699b7833f5b5e35cb741408721b2c58a15174956201a11c72</guid>
-<pubDate>Tue, 30 Jun 2026 06:38:24 GMT</pubDate>
-<description>Medical knowledge accumulation and clinical practice form a closed loop, yet enabling effective cooperation between the two elements, namely autonomously distilling updated knowledge from dynamic data to guide practice, remains challenging, especially in the emergency department (ED). To overcome this, we developed an autonomous AI agent that integrates established medical knowledge graphs with dynamic clinical data into a hybrid graph of over 800,000 nodes. Using large language models (LLMs) for knowledge extraction and semantic mapping, the system dynamically selects the most relevant graph to power specialized tools for ED recognition, prediction, and decision-making. The agent achieves average improvements over state-of-the-art baselines of 23.13% in ED triage, 13.05% in drug–drug interaction detection, 1.58% in readmission prediction, and 5.47% in medication recommendation, demonstrating superior performance across all task categories. This demonstrates an effective framework for synergizing established medical knowledge and dynamic clinical data in emergency care.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>63005d86b45e892599bacda7ede8e95e1d7d6a053502910f1d4222f42d958b5b</guid>
-<pubDate>Tue, 30 Jun 2026 06:38:38 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
