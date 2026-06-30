@@ -30,11 +30,11 @@
   "site::https://research.google/research-areas/health-ai/": "7fc26187d0b2586be8e8af0da4552045daaddbb2a98c8c5cb09fd3c39762272c",
   "site::https://research.google/research-areas/google-earth-ai/": "d5818c29e86eb00964d7af3c60db2d1a8dd36362e24ea4c85441635cfc83f8f8",
   "site::https://research.google/research-areas/science-ai/": "b532a14fc1972c265ec94206d5668985bd5193994887165cb8f4966406c1134d",
-  "site::https://research.google/pubs/": "5c20cee2e3681ac440c6ae36f15211d7515d7a9562d887c6f587472a3ad17109",
+  "site::https://research.google/pubs/": "eb5053bb904635c9a6ff219f67221fa3eec2a1c73dc8947d49d3127a1d3da913",
   "site::https://sakana.ai/blog/": "d6c0c27ad71be053de98055bf69ebf0cc6354d4a146d5d6277f071837272d3d8",
-  "site::https://www.nature.com/search?q=AI+for+Science&date_range=last_30_days&order=relevance": "e53c0a6155bc6066c08801db6c8077cb8a2f398e2221e3afab7df35c1ecf598a",
-  "site::https://www.nature.com/search?q=AI+agent&date_range=last_30_days&order=relevance": "7127a5b3c8e7329d49d7d1527e0fc1f4df834e1beb7ba8647892773f1cf42e07",
-  "site::https://www.nature.com/search?q=agentic+AI": "9b3f34bdd7d57f450926a6bfb190ca69e550b34dc5872eb0528b111351f6fdc6",
+  "site::https://www.nature.com/search?q=AI+for+Science&date_range=last_30_days&order=relevance": "17cd77da469deab7f431cf2620f98d05a37f3deedcbed5616f6ff10ad7334a00",
+  "site::https://www.nature.com/search?q=AI+agent&date_range=last_30_days&order=relevance": "1c0c9aa2bd3cde8ecce9cd2611fcc6cbebb34facb993d465b040e74493496e16",
+  "site::https://www.nature.com/search?q=agentic+AI": "6efe50f566f347feb59f6af92b5bc161b249554a64f999e7f7f4039163adb80f",
   "site::https://arxiv.org/search/?query=self-driving+laborator*&searchtype=all&abstracts=show&order=-announced_date_first&size=50": "498362a09d9323c4c9e98151261c2b1d45e47f03be8c032fed57ee17e654bd1c",
   "site::https://www.nature.com/search?q=Self-driving+laboratories&date_range=last_30_days&order=relevance": "a66e17f9a69c1aa2b41bcb0e8f1bebd0d377ae639ba43cf7227a445b3b67d24e",
   "site::https://www.energy.gov/newsroom": "6666ab453a71299f5ada674c5142235ff024b276011cd782bc2b4d221dd834af",
@@ -1397,5 +1397,8 @@
   "rss::https://www.nature.com/articles/d41586-026-01873-2": "2026-06-30",
   "rss::https://www.nature.com/articles/s41558-026-02687-w": "2026-06-30",
   "rss::https://www.nature.com/articles/s41558-026-02674-1": "2026-06-30",
-  "rss::https://www.nature.com/articles/s41558-026-02675-0": "2026-06-30"
+  "rss::https://www.nature.com/articles/s41558-026-02675-0": "2026-06-30",
+  "rss::tag:qiita.com,2005:PublicArticle/2232862": "2026-06-30T22:04:12+09:00",
+  "rss::tag:qiita.com,2005:PublicArticle/2232850": "2026-06-30T21:44:56+09:00",
+  "rss::https://www.nature.com/articles/s43016-026-01391-4": "2026-06-30"
 }
