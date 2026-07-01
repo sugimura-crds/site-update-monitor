@@ -30,10 +30,10 @@
   "site::https://research.google/research-areas/health-ai/": "7fc26187d0b2586be8e8af0da4552045daaddbb2a98c8c5cb09fd3c39762272c",
   "site::https://research.google/research-areas/google-earth-ai/": "d5818c29e86eb00964d7af3c60db2d1a8dd36362e24ea4c85441635cfc83f8f8",
   "site::https://research.google/research-areas/science-ai/": "b532a14fc1972c265ec94206d5668985bd5193994887165cb8f4966406c1134d",
-  "site::https://research.google/pubs/": "d480211c7bd52acbde3addd79e389c72ad4f2c8f7171d8f8566305b7e2be04cd",
+  "site::https://research.google/pubs/": "d76790737f906a2c82d7c4c12c3355e322378a6f466c9146f9b05895077cdf68",
   "site::https://sakana.ai/blog/": "d6c0c27ad71be053de98055bf69ebf0cc6354d4a146d5d6277f071837272d3d8",
-  "site::https://www.nature.com/search?q=AI+for+Science&date_range=last_30_days&order=relevance": "1cfcbb8ff683feea0b9e47a2730c5597918ff515dcf027aa1d2c3d255924c2f3",
-  "site::https://www.nature.com/search?q=AI+agent&date_range=last_30_days&order=relevance": "36ec1b37974a8ea5040e75aa1957da678a4e22e70bf9a393724d863175977ddb",
+  "site::https://www.nature.com/search?q=AI+for+Science&date_range=last_30_days&order=relevance": "457525fb8bc311a827215727be4636d978850c3d25eff8149bd0983f970ca6f6",
+  "site::https://www.nature.com/search?q=AI+agent&date_range=last_30_days&order=relevance": "2540586305792a888765986ec67edf681ed767cda2b8bd799a479257f7b8a5c6",
   "site::https://www.nature.com/search?q=agentic+AI": "6efe50f566f347feb59f6af92b5bc161b249554a64f999e7f7f4039163adb80f",
   "site::https://arxiv.org/search/?query=self-driving+laborator*&searchtype=all&abstracts=show&order=-announced_date_first&size=50": "08aa4b53b4c0bd08fe53c3df925f1835848312288a4a790600222e6e80d1db66",
   "site::https://www.nature.com/search?q=Self-driving+laboratories&date_range=last_30_days&order=relevance": "a66e17f9a69c1aa2b41bcb0e8f1bebd0d377ae639ba43cf7227a445b3b67d24e",
@@ -43,7 +43,7 @@
   "site::https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence": "0fe3df80c3ecdd1e48166967c2d0f1bf584564b72bc5fd941d1558797f37d98e",
   "site::https://www.eurohpc-ju.europa.eu/index_en": "6b72ada3accb68030cb418c53922458ade6abb49361ca2cdc01266fba94e3b23",
   "site::https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology": "a0ffe5375915e35a759ff7e7fd78c0cb0eace640b1d31dbed6ebe9456fe45a06",
-  "site::https://smartagri-jp.com/tag/AI": "8f97a14e6153a9cf310cb0b1ea2ed9af7829fb10654fbdbafd34793774b42d1d",
+  "site::https://smartagri-jp.com/tag/AI": "3914c7db4a0c7cbe76c0211acfb3041d5b9aafc1cf64d336dc6bfddd6bbd2661",
   "site::https://www.naro.go.jp/publicity_report/press/index.html": "e81257be6f57a2781e854cba57a993831f50b855b45c899628885964e8a7b92a",
   "site::https://www.cgiar.org/news": "2bda56f75577415a5511940c94dc611507c37e72a1c8d765641a618c19c9ce33",
   "site::https://agfundernews.com/?filter-categories=artificial-intelligence": "15fe8d2559e0fb69b51ecf74da969efa9052e71d522ee87a040df9099a5537d6",
@@ -1458,5 +1458,7 @@
   "rss::https://www.nature.com/articles/s41586-026-10720-3": "2026-07-01",
   "rss::https://www.nature.com/articles/s41586-026-10621-5": "2026-07-01",
   "rss::https://www.nature.com/articles/s41586-026-10574-9": "2026-07-01",
-  "rss::https://www.nature.com/articles/s41586-026-10723-0": "2026-07-01"
+  "rss::https://www.nature.com/articles/s41586-026-10723-0": "2026-07-01",
+  "rss::tag:qiita.com,2005:PublicArticle/2233544": "2026-07-02T01:59:06+09:00",
+  "rss::https://www.nature.com/articles/s41558-026-02719-5": "2026-07-01"
 }
