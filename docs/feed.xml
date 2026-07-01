@@ -4,35 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 01 Jul 2026 22:13:57 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 23:50:52 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Codeに自動で任せる、でも危険なgit操作だけはルールで縛る</title>
-<link>https://qiita.com/evesquare/items/c593e35ec53b734b148f</link>
-<guid>3f5e506841ff00a6eb92a0cbd062352bde29dec9b1b226eb535e5ee4a08a3774</guid>
-<pubDate>2026-07-02T06:22:49+09:00</pubDate>
-<description>Claude Codeに作業を任せていると、便利な一方で「勝手にgit pushされたら」「作業ブランチをgit branch -Dで消されたら」とヒヤッとする瞬間があります。基本的には自動でどんどん進めてほしい。けれど、取り返しのつかない操作だけはしないでほしい。 この記...</description>
-</item>
-<item>
-<title>【Qiita】 「AIエージェント9割が本番未到達」の出所を検算する：McKinsey/Gartner/NVIDIA/IBMが実際に測った数字を整理</title>
-<link>https://qiita.com/quotidia/items/a4b481eacca9c3f7bef3</link>
-<guid>fc56aa180cd5070a630e40b2a3ac70f23ce8f263a625544a3c77b76a1523e2a5</guid>
-<pubDate>2026-07-02T06:02:18+09:00</pubDate>
-<description>本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。 「企業に導入されたAIエージェントの約9割は、結局『本番』に到達していない」。 完全版はこちら。 一次ソース https://www.mckinsey.com/capabilities/q...</description>
+<title>【Qiita】 【Instana】Instana agent.log 読み解きガイド</title>
+<link>https://qiita.com/Horiiii/items/960099667275947e8893</link>
+<guid>00330a8c91f1571493988a5ce4a4e5d00419a17d4a3573723372e8859102979d</guid>
+<pubDate>2026-07-02T07:48:06+09:00</pubDate>
+<description>はじめに Instanaの自動監視について、以下の記事を参考にまずはエージェントがインストールされた時に何が起きているのか、ログを読み解き理解を深めます。 以下の参考記事の、「Intanaエージェントの開始」までです。 Agentインストール後の流れ 時刻 ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/system-for-a-secure-outcome-based-synthetic-labor-market-using-trusted-execution-environments/</link>
-<guid>687e91fcdb0edc107935ecfb029d685aa205fc2cd573bb19155c0bb341f92c64</guid>
-<pubDate>Wed, 01 Jul 2026 22:12:46 GMT</pubDate>
+<link>https://research.google/pubs/securing-multi-agent-systems-an-empirical-analysis-of-security-prompt-hardening-and-residual-risks/</link>
+<guid>13618ad747994f53a5207312097b6e32c2af9af8acc4cd78d86dafdc3bd0d11b</guid>
+<pubDate>Wed, 01 Jul 2026 23:49:50 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>ce1395b85115ccf82aad8d8804505e7f7bac0582e309f4e466db001dd43a3c18</guid>
-<pubDate>Wed, 01 Jul 2026 22:12:49 GMT</pubDate>
-<description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 
 </channel>
