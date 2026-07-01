@@ -4,98 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 01 Jul 2026 14:09:17 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 16:44:15 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 日刊IETF (2026-06-03) BGP監視と経路制御の拡充、AIエージェントの信頼と認証を固める一日 (Part2/2)</title>
-<link>https://qiita.com/tetsuko_room/items/e89615bf973e8c35bf0b</link>
-<guid>95009f93566641653471368499b51732fcb65531c5d6e0d547c01b9def25c367</guid>
-<pubDate>2026-07-01T21:03:11+09:00</pubDate>
-<description>こんばんは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-03（UTC基準）に公開されたInt...</description>
+<title>【Qiita】 完全サーバーレス設計で意識した5つのポイント</title>
+<link>https://qiita.com/takumiida1/items/cb929b5f2684dcfbb73d</link>
+<guid>1fffd6387ec3e3c5bf1c3e5c3ac52c4830523895d1044f992421c8d2644a7ebb</guid>
+<pubDate>2026-07-02T00:04:46+09:00</pubDate>
+<description>Summary サーバーレス環境では、バックエンドのサーバー特性を理解したステートレス・冪等な設計が重要であり、特にインスタンス再利用時のマルチテナント対応は不可欠な考慮点である コスト予測の難しさやスケールアウトの限界を考慮し、従量課金対策（レートリミット、リトライ...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-06-03) SRv6とBGPの経路制御に耐量子署名SQIsignとメモリ常駐マルウェア検知が並んだ一日 (Part1/2)</title>
-<link>https://qiita.com/tetsuko_room/items/5c142fae8ddb00d83e5a</link>
-<guid>79010e75feabb0b1aa41e560d7a404f8d3c6a28ef8c84d164aedba1779a2a3d0</guid>
-<pubDate>2026-07-01T21:00:57+09:00</pubDate>
-<description>こんばんは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-03（UTC基準）に公開されたInte...</description>
+<title>【Qiita】 Claude Fable 5復活で見えた、AIモデルを「ただのAPI」として扱えない時代</title>
+<link>https://qiita.com/koreangyoseishoshi/items/4a2aa9f073564cfedc95</link>
+<guid>7bed56a338d46881c5d74e4455daa4a781236a6dd769e5848ca70c1ffb51b8f0</guid>
+<pubDate>2026-07-02T00:43:15+09:00</pubDate>
+<description>※この記事は Zenn（https://zenn.dev/kimshoshi/articles/claude-fable-return-ai-governance）からの転載です。 はじめに 報道ベースではあるが、Anthropicの高性能モデル Claude Fab...</description>
 </item>
 <item>
-<title>【Qiita】 iPhoneだけ音声再生が途中で止まる問題をHTTP Range Requestから調査した話</title>
-<link>https://qiita.com/Y-Y-dev/items/48619be65cca05a66f8d</link>
-<guid>b29c69ef67c9bc5d7c3068ef6c9e4a77cd4a6301d4526baa44ef10b2c0665e36</guid>
-<pubDate>2026-07-01T21:00:55+09:00</pubDate>
-<description>はじめに PCやAndroidでは問題なく再生できるMP3ファイルが、iPhone / iPadだけ途中で止まるという問題に遭遇しました。 最初は、MP3ファイルの破損、タグの書き方、iOS Safari固有の挙動、キャッシュなどを疑っていました。 ただ、最...</description>
-</item>
-<item>
-<title>【Qiita】 AzureにおけるDRコストの最適化</title>
-<link>https://qiita.com/ManabuYamamoto/items/e0745ccb462a6084250b</link>
-<guid>8114d697886d7e5aa3d3880ba1690529b35eea51abf0058f90f6d6814a0ec73a</guid>
-<pubDate>2026-07-01T22:50:25+09:00</pubDate>
-<description>本記事は GitHub Copilot および Microsoft Foundry を活用して作成されています。内容の正確性については各公式ドキュメントをご確認ください。 はじめに Azure を IaaS（Azure VM）中心で使っている、またはこれから使う予定で...</description>
-</item>
-<item>
-<title>【Qiita】 コードを置くだけで Web アプリが公開できる Azure App Service ではじめるアプリのモダナイズ（Zip デプロイ ハンズオン）</title>
-<link>https://qiita.com/ManabuYamamoto/items/da98cbf7f45c07b0d3bb</link>
-<guid>1b9ad0ff79a1a2320f94c0319cb97ff0eb889b8bde6343b921fe92f8bd02ea2f</guid>
-<pubDate>2026-07-01T22:47:29+09:00</pubDate>
-<description>本記事は GitHub Copilot および Microsoft Foundry を活用して作成されています。内容の正確性については各公式ドキュメントをご確認ください。 はじめに Azure App Service は「コードを置くだけで HTTPS の Web ア...</description>
-</item>
-<item>
-<title>【Qiita】 【ループエンジニアリング】プロンプトを書く時代から「ループを書く」時代へ ― 概念・仕組み・実践の整理</title>
-<link>https://qiita.com/syeimee/items/af8ef1cdedd662ea5895</link>
-<guid>7b9ffd53a98e7bbfa9680e8c3b75c733d7e9a9d4a32053ef6672e616b09490f5</guid>
-<pubDate>2026-07-01T22:42:32+09:00</pubDate>
-<description>はじめに 2026年6月ごろから「ループエンジニアリング（Loop Engineering）」という言葉が一気に見られるようになりました。きっかけは、Claude Code を作った Anthropic の Boris Cherny 氏の「もう Claude に直接プロン...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェント、デモは動くのに本番でたまにコケる理由 — 「出力」ではなく「道のり」を測る、エージェント評価の実践ガイド</title>
-<link>https://qiita.com/akira_papa_AI/items/90cc1741af27df9bbe0f</link>
-<guid>9ec29ab3083c1c8be537150f8ff9be43bbb2aa49d571a75a0ce1d0d3846c2f19</guid>
-<pubDate>2026-07-01T21:51:21+09:00</pubDate>
-<description>AIエージェント、デモは動くのに本番でたまにコケる理由 — 「出力」ではなく「道のり」を測る、エージェント評価の実践ガイド はじめに — 「動いた」と「信じていい」は、別の話なんです AIエージェントって、作るところまでは意外とすぐ行けるんですよね。 LangChain...</description>
-</item>
-<item>
-<title>【Qiita】 今、AIがなぜ面白いのか？——私たちが「3度目の黎明期」に全力で乗るべき理由</title>
-<link>https://qiita.com/tech-nami/items/f65b934e19ee314ef68c</link>
-<guid>3d70aef10f8b5c98b2e36eb1ca42b3dad8788d1eaab095e453177665766b4632</guid>
-<pubDate>2026-07-01T21:44:10+09:00</pubDate>
-<description>はじめに 皆さんは今、AIの進化スピードに圧倒されていませんか？それとも、ワクワクして夜も眠れない日々を過ごしていますか？ 私は今、最高にワクワクしています。なぜなら、現在の生成AIを巡る狂騒と進化の過程は、かつて世界を大きく変えた「あの黎明期」の熱量と、驚くほどよく似て...</description>
-</item>
-<item>
-<title>【自動自律実験】 Togetherness: How co-operation built the world</title>
-<link>https://www.nature.com/articles/d41586-026-02067-6</link>
-<guid>59ab96541aecfa6f9058dd13c1fd80de675fbbd9863aad89254e1b140505c551</guid>
+<title>【自動自律実験】 Backreaction of stimulated Hawking radiation in an optical analogue</title>
+<link>https://www.nature.com/articles/s41586-026-10720-3</link>
+<guid>00bfe040172517ba42af2187182cc5a044ac47162651257937e6b5d6eba9c7ea</guid>
 <pubDate>2026-07-01</pubDate>
-<description>Science journalist Rowan Hooper joins us to talk about symbiosis and the importance of organisms working together.</description>
+<description>By using a fibre-optical analogue of the physics of black holes, theoretical and experimental evidence is presented for the process underpinning the generation of Hawking radiation and its backreaction onto the optical pump.</description>
 </item>
 <item>
-<title>【自動自律実験】 RS-232 and other forms of grief</title>
-<link>https://www.nature.com/articles/d41586-026-01936-4</link>
-<guid>96ce7557ae5c93523f7e0d2bfc07f2d0a846acff44f34f61e33370e2f25ba9d6</guid>
+<title>【自動自律実験】 Harmonizing standards and resources for the medical genome</title>
+<link>https://www.nature.com/articles/s41586-026-10621-5</link>
+<guid>fe2bef2c7c5e35eae844482633f79e080e1470981f965259b1dc52841f1b9922</guid>
 <pubDate>2026-07-01</pubDate>
-<description>A connection to another life.</description>
+<description>This Perspective examines the challenges and opportunities of genomic sequencing across multiple clinical applications, including genetic therapies, and calls for the establishment of new, centralized reference standards to improve consistency and accuracy in the field of precision medicine.</description>
+</item>
+<item>
+<title>【自動自律実験】 Towards the construction of a virtual yeast</title>
+<link>https://www.nature.com/articles/s41586-026-10574-9</link>
+<guid>af4c4b21a86dddb40dfad84f1a22c2d00af7c926e4aefc1fcf98222cddd81819</guid>
+<pubDate>2026-07-01</pubDate>
+<description>A virtual yeast, an artificial intelligence-driven agent for modelling eukaryotic cellular behaviours, is described.</description>
+</item>
+<item>
+<title>【自動自律実験】 Isomeric multi-hydrogen-bonding enables blue perovskite LEDs</title>
+<link>https://www.nature.com/articles/s41586-026-10723-0</link>
+<guid>ff24eef40521612414d47b38d96e3b8666c3cd0cac60777c658646e31a2e4ada</guid>
+<pubDate>2026-07-01</pubDate>
+<description>Hydrogen-bonding networks engineered with isomeric molecules enable stable, saturated blue perovskite LEDs with record external quantum efficiencies up to 22.0%, advancing high-performance full-colour display technologies.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/fair-allocation-of-indivisible-goods-with-variable-groups/</link>
-<guid>1fbf6850336d18dfd7c1591399b75a1db10ebc7cd77a3c402e6718794ad63084</guid>
-<pubDate>Wed, 01 Jul 2026 14:08:40 GMT</pubDate>
+<link>https://research.google/pubs/pixel-watch-robust-heart-rate-sensing-from-multipath-ppg-and-on-device-deep-learning-trained-on-10000-hours-of-free-living-and-fitness-data/</link>
+<guid>54661de8ac1023ff6341714243918d9be325a781c2a4b87a3df88c7e7e599c02</guid>
+<pubDate>Wed, 01 Jul 2026 16:42:42 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>94a5e3dff4a2f8358cb6c353afae64fa02dd7619b4effb35b1a07f1e15c3e935</guid>
-<pubDate>Wed, 01 Jul 2026 14:08:42 GMT</pubDate>
+<guid>e52c2ae664386fce12bc9a1c82248dde49d0e26d12baa4dab55f3bc4d2e909c3</guid>
+<pubDate>Wed, 01 Jul 2026 16:42:45 GMT</pubDate>
 <description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>f7979cb5cddfe3755fccc365748b454304b37f5df4be8bdb7a2475944ff843cc</guid>
-<pubDate>Wed, 01 Jul 2026 14:08:44 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
 </channel>
