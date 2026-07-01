@@ -4,161 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 01 Jul 2026 11:37:45 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 14:09:17 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「何の言語を学べばいいかわからない」と迷う方へ — Web開発の主要5言語を整理してみた</title>
-<link>https://qiita.com/masa20057/items/8de518e172395d48a269?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>90a07181260422c08e503cee90e3c6261a08fd03a1450de7284f5c1db4e98b4e</guid>
-<pubDate>2026-07-01T09:24:40+09:00</pubDate>
-<description>こんにちは。 株式会社PRUMのmasaです。 今回は、Web開発における主要5言語について、『どんな現場で使われているのか』『何が得意なのか』という視点で整理しました。 言語選びで迷われている方の助けになれば幸いです。 はじめに 「RubyとPythonって何が違うんで...</description>
+<title>【Qiita】 日刊IETF (2026-06-03) BGP監視と経路制御の拡充、AIエージェントの信頼と認証を固める一日 (Part2/2)</title>
+<link>https://qiita.com/tetsuko_room/items/e89615bf973e8c35bf0b</link>
+<guid>95009f93566641653471368499b51732fcb65531c5d6e0d547c01b9def25c367</guid>
+<pubDate>2026-07-01T21:03:11+09:00</pubDate>
+<description>こんばんは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-03（UTC基準）に公開されたInt...</description>
 </item>
 <item>
-<title>【Qiita】 【読書の夏？】各分野のおすすめ技術書を75冊まとめてみた</title>
-<link>https://qiita.com/miruky/items/8b3e5908a24952c10783?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>d83b0591f2e67374aa55e478c1a4574eecba8af256b3eacebadb440f9ebddd8f</guid>
-<pubDate>2026-06-29T17:14:41+09:00</pubDate>
-<description>はじめに こんばんは、mirukyです。突然ですが、もう夏ですね。 比較的今年の6月は涼しいですが、7月からはいつも通り暑くなるんですかね、、。 そんな時は、部屋でエアコンをガンガンにきかせて、本でも読みましょう！ 涼しい地域の方は、風鈴のついた縁側で本を読むのも風流で...</description>
+<title>【Qiita】 日刊IETF (2026-06-03) SRv6とBGPの経路制御に耐量子署名SQIsignとメモリ常駐マルウェア検知が並んだ一日 (Part1/2)</title>
+<link>https://qiita.com/tetsuko_room/items/5c142fae8ddb00d83e5a</link>
+<guid>79010e75feabb0b1aa41e560d7a404f8d3c6a28ef8c84d164aedba1779a2a3d0</guid>
+<pubDate>2026-07-01T21:00:57+09:00</pubDate>
+<description>こんばんは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-03（UTC基準）に公開されたInte...</description>
 </item>
 <item>
-<title>【Qiita】 Railsで学ぶ レースコンディション 〜二重登録の罠〜</title>
-<link>https://qiita.com/akachiryo/items/42ff4d8f736f45eb8c59?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>d35e237b97d1dbfc778fec5279281d7a78cadaf3e94ecfb8c9dda1ea8f8f4d7a</guid>
-<pubDate>2026-07-01T12:38:36+09:00</pubDate>
-<description>お疲れ様です！ シリーズで並行性・パフォーマンスの話を書いてきましたが、今回は レースコンディション（競合状態） をまとめてみました 「ローカルでは再現しないのに、本番でたまに二重登録される…」の正体です。 興味ある方は読んでいただけると嬉しいです レースコンディショ...</description>
+<title>【Qiita】 iPhoneだけ音声再生が途中で止まる問題をHTTP Range Requestから調査した話</title>
+<link>https://qiita.com/Y-Y-dev/items/48619be65cca05a66f8d</link>
+<guid>b29c69ef67c9bc5d7c3068ef6c9e4a77cd4a6301d4526baa44ef10b2c0665e36</guid>
+<pubDate>2026-07-01T21:00:55+09:00</pubDate>
+<description>はじめに PCやAndroidでは問題なく再生できるMP3ファイルが、iPhone / iPadだけ途中で止まるという問題に遭遇しました。 最初は、MP3ファイルの破損、タグの書き方、iOS Safari固有の挙動、キャッシュなどを疑っていました。 ただ、最...</description>
 </item>
 <item>
-<title>【Qiita】 【Godot 4.x】脱出ゲームを作ってみる⑤〜Claude CodeとMCPで背景の特定領域をタップしてフェード遷移する〜</title>
-<link>https://qiita.com/OnuuuumaX/items/e7dd3ae5eace801a5a88</link>
-<guid>b969fda29d691f0cd070c5da2e45c84983b67b3a05e56bea792e43d5a4cae789</guid>
-<pubDate>2026-07-01T19:04:57+09:00</pubDate>
-<description>はじめに この記事は、Godot 4.xで脱出ゲームを作る連載の第5回です。 第1回：環境構築とプロジェクト作成 第2回：Claude Code + godot-mcpのセットアップ 第3回：Claude CodeとMCPでスプラッシュ画面を実装する 第4回：Claud...</description>
+<title>【Qiita】 AzureにおけるDRコストの最適化</title>
+<link>https://qiita.com/ManabuYamamoto/items/e0745ccb462a6084250b</link>
+<guid>8114d697886d7e5aa3d3880ba1690529b35eea51abf0058f90f6d6814a0ec73a</guid>
+<pubDate>2026-07-01T22:50:25+09:00</pubDate>
+<description>本記事は GitHub Copilot および Microsoft Foundry を活用して作成されています。内容の正確性については各公式ドキュメントをご確認ください。 はじめに Azure を IaaS（Azure VM）中心で使っている、またはこれから使う予定で...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-06-02) 自律ネットワークと耐量子SSH署名、AIエージェントの通信基盤を見据えた一日 (Part2/2)</title>
-<link>https://qiita.com/tetsuko_room/items/e5a23cbe6bffb732ba6f</link>
-<guid>b0eca530161e915636334ac9b397605df08c6f43b5d7f0f40606042b135c26da</guid>
-<pubDate>2026-07-01T18:53:41+09:00</pubDate>
-<description>こんにちは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-02（UTC基準）に公開されたInt...</description>
+<title>【Qiita】 コードを置くだけで Web アプリが公開できる Azure App Service ではじめるアプリのモダナイズ（Zip デプロイ ハンズオン）</title>
+<link>https://qiita.com/ManabuYamamoto/items/da98cbf7f45c07b0d3bb</link>
+<guid>1b9ad0ff79a1a2320f94c0319cb97ff0eb889b8bde6343b921fe92f8bd02ea2f</guid>
+<pubDate>2026-07-01T22:47:29+09:00</pubDate>
+<description>本記事は GitHub Copilot および Microsoft Foundry を活用して作成されています。内容の正確性については各公式ドキュメントをご確認ください。 はじめに Azure App Service は「コードを置くだけで HTTPS の Web ア...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-06-02) TCP-AOの暗号強化とBGP経路運用、AIエージェント向け提案がそろった一日 (Part1/2)</title>
-<link>https://qiita.com/tetsuko_room/items/243e769ea1e52a87fd0b</link>
-<guid>da66f8abc64f8aa6571714be7e6dd2a372aff16e0079cd1947cc7773316d4656</guid>
-<pubDate>2026-07-01T18:52:39+09:00</pubDate>
-<description>こんばんは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-02（UTC基準）に公開されたInte...</description>
+<title>【Qiita】 【ループエンジニアリング】プロンプトを書く時代から「ループを書く」時代へ ― 概念・仕組み・実践の整理</title>
+<link>https://qiita.com/syeimee/items/af8ef1cdedd662ea5895</link>
+<guid>7b9ffd53a98e7bbfa9680e8c3b75c733d7e9a9d4a32053ef6672e616b09490f5</guid>
+<pubDate>2026-07-01T22:42:32+09:00</pubDate>
+<description>はじめに 2026年6月ごろから「ループエンジニアリング（Loop Engineering）」という言葉が一気に見られるようになりました。きっかけは、Claude Code を作った Anthropic の Boris Cherny 氏の「もう Claude に直接プロン...</description>
 </item>
 <item>
-<title>【Qiita】 ClaudeCowork plugin の install が静かに失敗する話</title>
-<link>https://qiita.com/ryoji9702/items/19b40e4707666f3b5730</link>
-<guid>88dbd27593887f055d59c83b8bb87833d71e388685773992bd2a702a33463f37</guid>
-<pubDate>2026-07-01T18:13:24+09:00</pubDate>
-<description>はじめに mattpocock/skills の 18 個を Cowork の .plugin ファイルにまとめて、自分のマーケットに上げて install しようとしたら、upload は通るのに install ログだけ出ないという静かな失敗に昔遭遇しました。 エラー...</description>
+<title>【Qiita】 AIエージェント、デモは動くのに本番でたまにコケる理由 — 「出力」ではなく「道のり」を測る、エージェント評価の実践ガイド</title>
+<link>https://qiita.com/akira_papa_AI/items/90cc1741af27df9bbe0f</link>
+<guid>9ec29ab3083c1c8be537150f8ff9be43bbb2aa49d571a75a0ce1d0d3846c2f19</guid>
+<pubDate>2026-07-01T21:51:21+09:00</pubDate>
+<description>AIエージェント、デモは動くのに本番でたまにコケる理由 — 「出力」ではなく「道のり」を測る、エージェント評価の実践ガイド はじめに — 「動いた」と「信じていい」は、別の話なんです AIエージェントって、作るところまでは意外とすぐ行けるんですよね。 LangChain...</description>
 </item>
 <item>
-<title>【Qiita】 AWSの「AI-DLC Workflows v2」を日本語化した — 決定論エンジン型ハーネスを壊さず訳すには</title>
-<link>https://qiita.com/mjof8673/items/9f7c99a1439d346fd01e</link>
-<guid>70909784c0e90b5432975d409ffef54118e81aa9afd4356d4935582bfc29535d</guid>
-<pubDate>2026-07-01T18:14:47+09:00</pubDate>
-<description>TL;DR AWS がオープンソース公開している AI-DLC Workflows v2（awslabs/aidlc-workflows、Kiro IDE ハーネス, aidlc 2.1.4）の散文を日本語化した。 v2 は「AIに手順を教えるガイド型（v1）」ではなく...</description>
+<title>【Qiita】 今、AIがなぜ面白いのか？——私たちが「3度目の黎明期」に全力で乗るべき理由</title>
+<link>https://qiita.com/tech-nami/items/f65b934e19ee314ef68c</link>
+<guid>3d70aef10f8b5c98b2e36eb1ca42b3dad8788d1eaab095e453177665766b4632</guid>
+<pubDate>2026-07-01T21:44:10+09:00</pubDate>
+<description>はじめに 皆さんは今、AIの進化スピードに圧倒されていませんか？それとも、ワクワクして夜も眠れない日々を過ごしていますか？ 私は今、最高にワクワクしています。なぜなら、現在の生成AIを巡る狂騒と進化の過程は、かつて世界を大きく変えた「あの黎明期」の熱量と、驚くほどよく似て...</description>
 </item>
 <item>
-<title>【Qiita】 AWS Summit初参加！QAエンジニア目線で振り返るAIエージェント・AI駆動開発の現在地</title>
-<link>https://qiita.com/ktsubone/items/028b7677fec8b77a3aff</link>
-<guid>a3b4e01f10266c55729581ef5007dab4267bef63510241b2a29edeb0a2c40d09</guid>
-<pubDate>2026-07-01T18:12:33+09:00</pubDate>
-<description>はじめに こんにちは！KIYOラーニング株式会社でQAエンジニアをしている坪根です。 2026年6月26日に開催されたAWS Summit Japan 2026の二日目に参加してきました。今回が私にとってAWS Summit初参加です。 今年のテーマは全体を通して「AIエ...</description>
-</item>
-<item>
-<title>【Qiita】 日刊IETF (2026-06-01) AIエージェントの来歴管理とYANG運用モデルが出そろった一日 (Part2/2)</title>
-<link>https://qiita.com/tetsuko_room/items/425c94a9ee18df21a562</link>
-<guid>174a3ce3c16acb5e36e3366a1ec169f6d4eaa9114d8754ef72a0aba556ed7f75</guid>
-<pubDate>2026-07-01T17:30:20+09:00</pubDate>
-<description>こんにちは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-01（UTC基準）に公開されたInt...</description>
-</item>
-<item>
-<title>【農業】 FAO opens first Global Conference on Smart Farming to accelerate innovation for farmers</title>
-<link>https://www.fao.org/newsroom/detail/fao-opens-first-global-conference-on-smart-farming-to-accelerate-innovation-for-farmers/en</link>
-<guid>5e435a926ceb6a84e26f18fb9285f3492d07181d08afd1eac026bf563b2f1add</guid>
-<pubDate>Wed, 01 Jul 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【農業】 Green Climate Fund approves $52.5 million for restoring Fiji’s forest landscape to support food security and livelihoods</title>
-<link>https://www.fao.org/newsroom/detail/green-climate-fund-approves--52.5-million-for-restoring-fiji-s-forest-landscape-to-support-food-security-and-livelihoods/en</link>
-<guid>b01838b1e1adfe5e96033f6989e1fb3dcc53457bfd0b35a5eb732856fa2765bf</guid>
-<pubDate>Wed, 01 Jul 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【自動自律実験】 Scientists should recognize their own political biases to build public trust</title>
-<link>https://www.nature.com/articles/d41586-026-01975-x</link>
-<guid>a3e42080e98e13e3a6d0f92b3b1b0769ac228cda628f20e186f118081cc5c7bb</guid>
+<title>【自動自律実験】 Togetherness: How co-operation built the world</title>
+<link>https://www.nature.com/articles/d41586-026-02067-6</link>
+<guid>59ab96541aecfa6f9058dd13c1fd80de675fbbd9863aad89254e1b140505c551</guid>
 <pubDate>2026-07-01</pubDate>
-<description>Public trust in science can’t be sustained by the support of narrow constituencies at one end of an ideological spectrum.</description>
+<description>Science journalist Rowan Hooper joins us to talk about symbiosis and the importance of organisms working together.</description>
 </item>
 <item>
-<title>【自動自律実験】 How FAIR data are helping to build trust in science</title>
-<link>https://www.nature.com/articles/d41586-026-01982-y</link>
-<guid>255e6d012edc08d74f6f9b6fb9aed1f6d9658a1036ceb1c5caceebbb3c213cc7</guid>
+<title>【自動自律実験】 RS-232 and other forms of grief</title>
+<link>https://www.nature.com/articles/d41586-026-01936-4</link>
+<guid>96ce7557ae5c93523f7e0d2bfc07f2d0a846acff44f34f61e33370e2f25ba9d6</guid>
 <pubDate>2026-07-01</pubDate>
-<description>The FAIR guidelines laid a solid foundation for ensuring data accessibility and reproducibility. A decade on, researchers are thinking beyond them.</description>
-</item>
-<item>
-<title>【自動自律実験】 Why paying peer reviewers works, according to a journal’s editor-in-chief</title>
-<link>https://www.nature.com/articles/d41586-026-01973-z</link>
-<guid>57c13db60ed51148c671d99c4a9e345794582149dcdc223ed2b4a06aa272fdcf</guid>
-<pubDate>2026-07-01</pubDate>
-<description>A biology journal which paid peer reviewers found that the approach cut the time to a first editorial decision by 85% and maintained high-quality reviews.</description>
-</item>
-<item>
-<title>【自動自律実験】 The complex truth about trust in science</title>
-<link>https://www.nature.com/articles/d41586-026-01974-y</link>
-<guid>5a7f4c7b40e4304b3096f915e6e3fe16ecbf70d207c85d66cb8f880e19969289</guid>
-<pubDate>2026-07-01</pubDate>
-<description>Confidence in science has not collapsed, but scientists have urgent problems to address.</description>
-</item>
-<item>
-<title>【自動自律実験】 Six ways to put the public at the heart of science and policy</title>
-<link>https://www.nature.com/articles/d41586-026-01981-z</link>
-<guid>994bc213cfa7372a4bcfa7a868d7b97a8341da8076e6c57b2167e00123d7bd3a</guid>
-<pubDate>2026-07-01</pubDate>
-<description>Trust in elite institutions is on the wane globally. Building public participation into research and government advice can turn the tide.</description>
-</item>
-<item>
-<title>【Anthropic】 Redeploying Fable 5</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>a26eab35aeb01e74891cbf675149123e2a1875a99f63c36a2c0138ccb9200925</guid>
-<pubDate>Wed, 01 Jul 2026 11:36:34 GMT</pubDate>
-<description>Fable 5 returns globally July 1. We&#x27;re also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.</description>
+<description>A connection to another life.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/agentic-trend-to-knowledge-a-methodology-for-automating-case-deflection-through-proactive-content-surfacing-in-enterprise-employee-support/</link>
-<guid>ac2e5d6d9aac802bd85dfea807b2dcd48b93292bb811883f17afac34ffde8b4d</guid>
-<pubDate>Wed, 01 Jul 2026 11:36:38 GMT</pubDate>
+<link>https://research.google/pubs/fair-allocation-of-indivisible-goods-with-variable-groups/</link>
+<guid>1fbf6850336d18dfd7c1591399b75a1db10ebc7cd77a3c402e6718794ad63084</guid>
+<pubDate>Wed, 01 Jul 2026 14:08:40 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>e1cd9a850c11cb6dfb51723d19493dc0bea60cbdee77cb4b8d5aeb6b140db1c6</guid>
-<pubDate>Wed, 01 Jul 2026 11:36:41 GMT</pubDate>
+<guid>94a5e3dff4a2f8358cb6c353afae64fa02dd7619b4effb35b1a07f1e15c3e935</guid>
+<pubDate>Wed, 01 Jul 2026 14:08:42 GMT</pubDate>
 <description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>5172324a3523fd5811a42d6d3049d82423830c709ea34a50d4e7bbbd23eac9e2</guid>
-<pubDate>Wed, 01 Jul 2026 11:36:43 GMT</pubDate>
+<guid>f7979cb5cddfe3755fccc365748b454304b37f5df4be8bdb7a2475944ff843cc</guid>
+<pubDate>Wed, 01 Jul 2026 14:08:44 GMT</pubDate>
 <description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>123b1ab964fa7477f8b97a54228fbfbf8961c4ef5cb71ac5f03b7feb69380412</guid>
-<pubDate>Wed, 01 Jul 2026 11:36:44 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
