@@ -4,28 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 30 Jun 2026 22:48:49 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 00:00:13 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントの使いどころ（個人メモ）</title>
-<link>https://qiita.com/Horiiii/items/7f65314f13e377d5a7d0</link>
-<guid>7f70f83e20e9a9505bf69a3583b8deaebc6a87a8f211a859d654fb31d399b5ac</guid>
-<pubDate>2026-07-01T07:06:11+09:00</pubDate>
-<description>はじめに このニュースを見て、改めてAIエージェントは何に向いていて、何には慎重であるべきか を色々な事例を集めて整理して考えてみました。 生成AIやRPAとの違い 前提ですが、よく混同されるところについて今一度整理します。 種類 主な役割 自律性 得意領域...</description>
+<title>【Qiita】 AIを使った開発の鍵はドキュメント掃除だ！！</title>
+<link>https://qiita.com/yo_arai/items/697a53d930325021f0a1</link>
+<guid>938eb5c31d7e863d39d9506ab9b0cdca3b5d94385c15cd099065cc4621d38dd7</guid>
+<pubDate>2026-07-01T08:30:50+09:00</pubDate>
+<description>はじめに みなさんはAIでコーディングする際さまざまなドキュメント,skills,mdを参照させていると思います。特にOpenSpec等を利用した仕様駆動開発ではドキュメントが溜まりサイロ化してしまうことが多いです。私の周りでも長時間放置してしまっていて時間がかかるのでや...</description>
+</item>
+<item>
+<title>【Qiita】 制約環境に強いAIアシスタントとしてのHermes Agent：Ubuntu 24.04 + rootless Podmanで試した実践記</title>
+<link>https://qiita.com/mizuk1013/items/975cec50fd6398d3364b</link>
+<guid>d49d6194e2c4383d0294810f44ab08eac06b8cc7f67778b71bf8561fad8aacc9</guid>
+<pubDate>2026-07-01T08:13:46+09:00</pubDate>
+<description>はじめに 最近、Claude Code、Codex CLI、OpenClaw系のエージェントなど、ローカル環境で動作するAI開発支援ツールが増えています。 私も興味があり、いくつか比較をしていましたが、その中でHermes Agentは少し立ち位置が違うと感じました。 単...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/who-is-at-risk-surveying-the-prevalence-of-risk-factors-and-tech-facilitated-attacks-in-the-united-states/</link>
-<guid>461b279867d961a7e510ae6b7043b2cd02952112af6ae20d785fee5f73e5c2dc</guid>
-<pubDate>Tue, 30 Jun 2026 22:47:46 GMT</pubDate>
+<link>https://research.google/pubs/what-does-your-wearable-know-about-the-festive-season/</link>
+<guid>44af591c543cd5f24dffaf6dc8c82f1493a48f9d226514532dd7d8dc5afe5443</guid>
+<pubDate>Tue, 30 Jun 2026 23:59:12 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>e7b29b083ee8f612e2906d3205825e3fdde2d661480edd35d8eebd4dfafae06c</guid>
-<pubDate>Tue, 30 Jun 2026 22:47:49 GMT</pubDate>
-<description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 
 </channel>
