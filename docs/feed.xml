@@ -4,105 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 01 Jul 2026 03:51:02 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 08:04:37 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「AIでレビューは不要になる」に感じたモヤモヤをVerificationとValidationで整理したメモ</title>
-<link>https://qiita.com/optimisuke/items/30d297062b8665f4e7b8</link>
-<guid>59dbfd189493727f7f75c6a1225d4d075dbabb1b4b4bf61c7901dede108fab48</guid>
-<pubDate>2026-07-01T10:32:47+09:00</pubDate>
-<description>はじめに 「AIコーディングエージェントの登場でレビューは不要になる」 最近こういう話をちらほら耳にするようになって、もやっとしていました。 たしかにAIにコードを書かせて、AIにレビューさせて、という流れは日常になりつつあります。でも「じゃあ人間のレビューはもういらない...</description>
+<title>【Qiita】 ウォーターフォールとアジャイル。その違いをようやく言葉にできた</title>
+<link>https://qiita.com/optimisuke/items/3801a11d72bac62e4d52</link>
+<guid>ae1d8f21eab0551e66a8c2befb75452114dd0994cf7a80a6455401f4846c7991</guid>
+<pubDate>2026-07-01T14:38:20+09:00</pubDate>
+<description>はじめに 以前の私は、 「どうすればウォーターフォールをやめられるのか」 「どうすればアジャイルな組織になれるのか」 そんなことばかり考えていました。 もちろん、「適材適所」という言葉も何度も聞きました。 製造業にはウォーターフォール、Webサービスにはアジャイル。...</description>
 </item>
 <item>
-<title>【Qiita】 「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話</title>
-<link>https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1</link>
-<guid>cb3da441f32a731183bf5571ba75a2e34c6be8829a171db60d70014b0f2ee17a</guid>
-<pubDate>2026-07-01T12:26:19+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 公共系の案件で「ゲートウェイ（ALB）までは暗号化されているけど、その内側、VPCの中は平文ですよね。それで問題ないんですか？」と指摘されました。 VPCがSDN（Software Defined Network）でできていて、他人の...</description>
+<title>【Qiita】 Azure Update 2026年6月まとめ (6/4～6/30)</title>
+<link>https://qiita.com/ManabuYamamoto/items/a7b8f6b7757cacc12a3d</link>
+<guid>ccdad1b0bed672cd52be6eef5a3cdda179ee80c3e8a1479b6e45eb643d04d1b5</guid>
+<pubDate>2026-07-01T16:34:21+09:00</pubDate>
+<description>Azure Update 2026年6月まとめ (6/4～6/30) 本記事は GitHub Copilot および Microsoft Foundry を活用して作成されています。内容の正確性については各公式ドキュメントをご確認ください。 概要 2026年6月は、...</description>
 </item>
 <item>
-<title>【Qiita】 GitHub Copilot CLI Experimental 編：/after・/every と /ask（alias: /btw）を実機ヘルプで見る</title>
-<link>https://qiita.com/aktsmm/items/4c6c515a587c92d8616c</link>
-<guid>e0d8d2342bd115b74889b1351fe0d4e2d6312964e48f8a90fc0bbda684236333</guid>
-<pubDate>2026-07-01T11:29:22+09:00</pubDate>
-<description>こんにちは、CLI の実験機能を見るとつい記事ネタにしてしまうアーキテクトのやまぱん！です 😅 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ 先日、GitHub Copilot CLI 実機ヘルプから作る完全版チートシー...</description>
+<title>【Qiita】 Claude CodeのSubagentsとAgent Teams、結局どう使い分けるべきか ── 3つの実務シナリオで徹底比較</title>
+<link>https://qiita.com/RyugaMisono/items/4194c4cebfbd2abc6360</link>
+<guid>1f4b5738b2a73dad78c9c19a4f64d4c459e5d97d89ccda9da760757c95679b3d</guid>
+<pubDate>2026-07-01T17:02:29+09:00</pubDate>
+<description>Claude CodeのSubagentsとAgent Teams、結局どう使い分けるべきか ── 3つの実務シナリオで徹底比較 はじめに Claude Codeには、複数のAIエージェントを並行稼働させる仕組みが2つ存在します。 Subagents: メインセッシ...</description>
 </item>
 <item>
-<title>【Qiita】 VS Code Windows ショートカット完全整理 日本語版：まず覚えるキーと全一覧</title>
-<link>https://qiita.com/aktsmm/items/31f4df678821e8fad962</link>
-<guid>d88ccfa4897a504e2ed01aab5144b5586915de7546b827c9f140af732b665292</guid>
-<pubDate>2026-07-01T11:07:56+09:00</pubDate>
-<description>こんにちは、ショートカット表を見ても結局いつものキーしか使っていないアーキテクトのやまぱん！です 😅 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ この記事は 2026/07/01 時点で確認した Visual St...</description>
+<title>【Qiita】 reCAPTCHAに代わる新しいボット対策とは</title>
+<link>https://qiita.com/abkkk/items/4e22d015c9e7cd6370eb</link>
+<guid>ea49d3fa0f72a498ab68a9a84061d3cc8c605b391640d592befd75b6d6ae3131</guid>
+<pubDate>2026-07-01T17:00:10+09:00</pubDate>
+<description>reCAPTCHA（リキャプチャ）の限界については、すでになぜreCAPTCHAはボットを止められなくなったのかで詳しくまとめた。高度なボットの83%が突破できる、行動分析という設計の前提が崩れている、Enterprise版は有料化が進んでいる。 この記事では「じゃあ何を使...</description>
 </item>
 <item>
-<title>【Qiita】 M365 Copilotを使って、好きなパワーポイントアイコンをつくろう</title>
-<link>https://qiita.com/shyamagu/items/3081df80ec8505b5ac72</link>
-<guid>b1cf5b0dfc578a814bd9730e99b60a62480111534ce345afbbd8dce6de081268</guid>
-<pubDate>2026-07-01T09:59:19+09:00</pubDate>
-<description>ちょっとしたアイコンが欲しい パワーポイントを作成していると、ちょっとしたアイコンが欲しくなること、ありますよね。標準のアイコンセットやフリー素材を探して回り、はたまたオートシェイプで頑張ってそれっぽいアイコンを作ったことがあるのは、私だけではないと思います。 今回は有償...</description>
-</item>
-<item>
-<title>【Qiita】 Loop Engineering とは？ エージェントに「指示する側」を卒業する設計の話</title>
-<link>https://qiita.com/aktsmm/items/3408f1a6ed7a5d84bd41</link>
-<guid>b3e0a823a31f3d272eec675f87214dd294b008f99f5bd9cf2ef32e33c663d050</guid>
-<pubDate>2026-06-29T11:02:58+09:00</pubDate>
-<description>こんにちは、エージェントに毎日同じ指示を打ち込んでたアーキテクトのやまぱん！です 😅 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ 最近、自分が VS Code や Claude Code の前で同じ指示を朝から繰り返し...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントの実行前チェックをPythonで作る</title>
-<link>https://qiita.com/eiri_ai/items/4e667d8c42f60bc69308</link>
-<guid>31047a4a3dc82bc22eb9632f9b4aebe05e39bc650a38449cbc3d5fbddcaf5ec7</guid>
-<pubDate>2026-07-01T12:23:40+09:00</pubDate>
-<description>Anthropic が 2026年6月30日に出した Claude Sonnet 5 の発表では、ブラウザやターミナルなどのツールを使い、計画を立てて自律的に動ける Sonnet だと説明されていました。価格も 2026年8月31日までは入力 100万トークンあたり2ドル、...</description>
-</item>
-<item>
-<title>【Qiita】 Toscaで「自然言語の回答」をAIにPass/Fail判定させてみる（LLM-as-a-judge × AI Workspace）</title>
-<link>https://qiita.com/NHigashi_Tri/items/543f78c28d52ef2aed51</link>
-<guid>40a6b45fc10899f04c4e73587177b9c88d1c1e3f4fd58e1f8fc9400f24d5db7d</guid>
-<pubDate>2026-07-01T11:45:47+09:00</pubDate>
-<description>背景 テストをやっていると、このような質問を投げかけられます。 AI Chat Botのテストはできないの？ たとえば チャットボットに「Toscaのサポート対象OSは？」と聞く。 返ってくるのは「Windows 10 と Windows 11 に対応しています」という...</description>
-</item>
-<item>
-<title>【Qiita】 AI任せの開発から、AIを活かす設計へ。2026年上半期のAIコーディング振り返り</title>
-<link>https://qiita.com/0ts_st/items/131a392fb70552aa4946</link>
-<guid>eb99a2cc5e6d9b74293c4819207e1ccefd08be99bf384af32dce24cb3de91ff9</guid>
-<pubDate>2026-07-01T10:23:38+09:00</pubDate>
-<description>はじめに こんにちは、専門学校2年のわかとです。 突然ですが、2026年上半期で自分の開発スタイルがかなり変わりました。 きっかけは、2月ごろに初めて本格的にAI Agentを使ったことです。 それまでもAIコーディング自体には興味がありました。 GitHub Copil...</description>
-</item>
-<item>
-<title>【Qiita】 Gemini 3.5 Flash入門 — Google I/O 2026発表モデルのAPIと移行手順を解説</title>
-<link>https://qiita.com/kai_kou/items/37f3c087f5e225ca9ace</link>
-<guid>6f135e764ac797e1c3ed709d9cfcb3eb1f75d4b4151bc94055b46bad0db743ea</guid>
-<pubDate>2026-07-01T09:59:06+09:00</pubDate>
-<description>はじめに 2026年5月19日のGoogle I/O 2026で、Googleは Gemini 3.5 Flash を正式にGA（一般提供）リリースしました。 コーディング・エージェント系ベンチマークではGemini 3.1 Proを上回る性能を持ちながら、他のフロンテ...</description>
+<title>【Qiita】 # Fable 5とGPT-5.6の規制問題：本当に「AIが強すぎるから」？それとも、ある隠された真実を覆い隠すための煙幕なのか？</title>
+<link>https://qiita.com/TOMOSIA-LinhND/items/36da7d9345b105212dce</link>
+<guid>235de32b2b44c49d1f67c53790234dcd3ee8963d51158d6c460d223a4b30556f</guid>
+<pubDate>2026-07-01T13:52:13+09:00</pubDate>
+<description>はじめに みなさん、こんにちは！最近、テック界隈ではAnthropicのFable 5やMythos 5、OpenAIのGPT-5.6といった「モンスター級」の最新AIモデルが、政府によって規制されたりリリース制限を受けたりしている件が大きな話題になっていますよね。 これ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/unveiling-the-global-landscape-of-android-security-updates/</link>
-<guid>ff0b3985cfceb07c832aecd6bb9580aeb4f604c1a9f102547b34eb748769cc8b</guid>
-<pubDate>Wed, 01 Jul 2026 03:49:57 GMT</pubDate>
+<link>https://research.google/pubs/beyond-vector-similarity-hierarchical-context-aware-graph-rag-vs-standard-rag-in-enterprise-code-migration/</link>
+<guid>f9c19644d3767d1b42b6fda70ad0d2a2286a52091bb2cfa6fe0845cf37e0e9a5</guid>
+<pubDate>Wed, 01 Jul 2026 08:03:33 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>53fc23cc973c881edf0d27586d5446881d432e24c1967bcaa00ed804030cbcb9</guid>
-<pubDate>Wed, 01 Jul 2026 03:50:08 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-74568-x</link>
+<guid>c125c7c46a1bd59eac900322f33915371f60c076abb06e89f1373edca17b8db3</guid>
+<pubDate>Wed, 01 Jul 2026 08:03:36 GMT</pubDate>
+<description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>6feb54dc7f56d44fd27fe58c70d168779fdcf718130c1ad0b386369c63000dc4</guid>
-<pubDate>Wed, 01 Jul 2026 03:50:09 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>cd7249ce44a13cf3a18ce5c2d39fe2236e1ff04ee3b834c0bad9e38414768b76</guid>
+<pubDate>Wed, 01 Jul 2026 08:03:38 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 <item>
-<title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.maff.go.jp/j/press/kanbo/kihyo03/260630.html</link>
-<guid>d17fee0a60a21193a7716c92eb773dfc73bf4b18361b5fefb05bd56abd6a4434</guid>
-<pubDate>Wed, 01 Jul 2026 03:50:46 GMT</pubDate>
-<description>研究所別一覧</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04403-9</link>
+<guid>f1b32755b84c829833c1b52b080d829c92ca8caa490b47cc273f07a32af022f3</guid>
+<pubDate>Wed, 01 Jul 2026 08:03:40 GMT</pubDate>
+<description>The agentic artificial intelligence tool SPARK is able to reproduce pathology-based reasoning and produce biological hypotheses and relevant diagnostic, prognostic and predictive cellular parameters. The output of SPARK has the potential to advance the understanding of tumor biology and enable the development of diagnostic, prognostic and predictive tools for pathology and oncology.</description>
 </item>
 
 </channel>
