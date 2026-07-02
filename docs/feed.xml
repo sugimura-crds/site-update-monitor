@@ -4,83 +4,62 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 02 Jul 2026 14:36:27 GMT</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 16:45:08 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Cloud SCCWP x Container Registry: コンテナイメージの脆弱性スキャンをするためにスキャナーを構成して検査してみる</title>
-<link>https://qiita.com/masaffff/items/91b84779ce0ee730abfe</link>
-<guid>e2af1eb4b8f72b87c2ac5c87bc865501a24c847a5c17fb260c1528980d82ba40</guid>
-<pubDate>2026-07-02T22:07:21+09:00</pubDate>
-<description>はじめに IBM Cloud Security and Compliance Center Workload Protection (SCCWP, URL) は、IBM Cloud の CNAPP (Cloud-Native Application Protection ...</description>
+<title>【Qiita】 Claude Codeで失敗しない指示の出し方 — 曖昧な依頼を「動くプロンプト」に変える5点チェック</title>
+<link>https://qiita.com/ujunja/items/577019cd04fed7bfabec</link>
+<guid>bb3cb64b82852cf7acc37c75a7c51dd28e0f9dc2f675650f7912f7229971455e</guid>
+<pubDate>2026-07-03T00:52:48+09:00</pubDate>
+<description>Claude Codeで失敗しない指示の出し方 — 曖昧な依頼を「動くプロンプト」に変える5点チェック 対象読者: Claude Code を触り始めた人／すでに使っているが、指示の出し方を見直したい開発者 前提知識: Claude Code がインストール済みであるこ...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-06-06) BFDの基盤改訂とSRポリシー拡張、AIエージェント検証の提案が並んだ一日</title>
-<link>https://qiita.com/tetsuko_room/items/b1d354dba801753c4ccf</link>
-<guid>b354b31bacf045beeb2ce0097dfad4d3971cd97c5e850369b91738d043465c84</guid>
-<pubDate>2026-07-02T22:43:38+09:00</pubDate>
-<description>こんにちは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-06（UTC基準）に公開されたInte...</description>
+<title>【Qiita】 RAGの限界を超える！LangGraphで動くAIエージェントの内部動作を理解する</title>
+<link>https://qiita.com/DaokFrontier/items/01c05c78fc118d46753f</link>
+<guid>ed941ad553d266bbbfd54ed239f82428283703251ad869f36ab593dcf83d6217</guid>
+<pubDate>2026-07-03T00:39:38+09:00</pubDate>
+<description>「RAGで期待した回答が得られない」「複雑な問い合わせに対応しきれない」と感じていませんか？従来のRAGは強力ですが、単一の知識ソースに限定され、動的な状況判断や多段階の推論には限界があります。 この記事では、RAGの限界を克服し、より複雑なタスクや動的な状況に対応するAI...</description>
 </item>
 <item>
-<title>【Qiita】 隣の部署の新人が「L1SWとL2SWの違い」を素晴らしい完成度で発表していたので、しがない工事屋が昔話を添えてみる</title>
-<link>https://qiita.com/Heizo_Hasegawa/items/4c7eaba9296da11a440e</link>
-<guid>1e4f8264fa76344c989b8780d0abd8ea82fb4614c4b94c93e4b794fc95a20cc7</guid>
-<pubDate>2026-07-02T22:14:37+09:00</pubDate>
-<description>はじめに 同じフロアにあるインフラSE系の隣部署で、新人の方による面白い研究発表会がありました。 そのお題が、 「L1SWとL2SWの違いをスライドにまとめ、英語でデモ発表を行う」 というものでした。 なかなかにマニアックな内容ですし、英語でのデモまでこなしてしまうとは、...</description>
+<title>【Qiita】 アーキテクチャは「AIへの権限委譲設計」になる — Claude Codeで大規模案件を回すための設計思想と判断基準</title>
+<link>https://qiita.com/similarmetal/items/caaa509aa2d5ec5925f9</link>
+<guid>ac618e05c2a1d81513502b006e073e18c5ef6073e4e9284bece50958fffccd73</guid>
+<pubDate>2026-07-03T00:18:26+09:00</pubDate>
+<description>TL;DR 「DDDは生成AIと相性が良い」という議論はすでに一巡した。だが多くの記事は「AIがDDDのコードを書きやすい」というコード生成側の視点で止まっている 本記事は一段上のレイヤー、つまりClaude Codeやマルチエージェント構成で大規模案件を回すときに、ど...</description>
 </item>
 <item>
-<title>【Qiita】 【初心者向け】AIにコードを丸投げする人と、AIを「加速装置」にする人の決定的な差</title>
-<link>https://qiita.com/chuandujiusi/items/21b5bdb38699035d7c06</link>
-<guid>08ab39997c8d026ae8fb5f04a6fbbaf6a7e146946d5c787165171bebe4addd2a</guid>
-<pubDate>2026-07-02T22:52:25+09:00</pubDate>
-<description>AIエージェントの進化によって、「プログラミングの文法を丸暗記して、タイピングする」という作業の価値は、恐ろしいスピードで民主化されています。 「じゃあ、人間がプログラミングの構造や仕組みを深く学ぶ意味はどこにあるのか？」 その答えは、AIを使って実際にアプリやシステムを作...</description>
-</item>
-<item>
-<title>【Qiita】 Google AntigravityにClaude Codeを導入してトークン消費を2社に分散する</title>
-<link>https://qiita.com/kix/items/132594945d1df1da4b10</link>
-<guid>7ae95d7b9907f4ff9c363167a3b948ef1c78cfe56425d73e3deaf11d2db513b2</guid>
-<pubDate>2026-07-02T22:11:02+09:00</pubDate>
-<description>TL;DR Google Antigravity（VS Codeベース）にClaude Code拡張を入れて、開発を1つのエディタに集約する Antigravity単独運用だとGeminiのクォータ切れで作業が止まるリスクがあるため、Claude Codeと組み合わせて...</description>
-</item>
-<item>
-<title>【Qiita】 Databricks マネージドエージェントメモリを試す — 会話をまたいで覚えるエージェントを作る</title>
-<link>https://qiita.com/taka_yayoi/items/38d6840bf95a86b54934</link>
-<guid>55eec13d589b5a0cf70d5610fddbdf6e4b5e52cfcb90833b09145819e981266d</guid>
-<pubDate>2026-07-02T22:02:08+09:00</pubDate>
-<description>マネージドエージェントメモリとは Databricks の「マネージドエージェントメモリ (Managed Agent Memory)」は、エージェントの長期記憶を Unity Catalog のガバナンス配下で管理する機能です (現在ベータ)。ポイントは、記憶の保存先と...</description>
-</item>
-<item>
-<title>【農業】 FAO launches CropSuit app to help farmers grow the right crops in the right places</title>
-<link>https://www.fao.org/newsroom/detail/fao-launches-cropsuit-app-to-help-farmers-grow-the-right-crops-in-the-right-places/en</link>
-<guid>9aa2d0716fb96106f378f19ea18cc4f7c6b6eb93c311f3b00ed6eee1104ecbd0</guid>
-<pubDate>Thu, 02 Jul 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【環境】 Increased dengue transmission following highway paving in the Peruvian Amazon</title>
-<link>https://www.nature.com/articles/s41893-026-01879-8</link>
-<guid>70d5842fb21a4b8f74c7f75312c8799284d84e562152109d93809b2249e8f2d6</guid>
+<title>【自動自律実験】 Electrodeposited self-assembled molecules for perovskite photovoltaics</title>
+<link>https://www.nature.com/articles/s41586-026-10844-6</link>
+<guid>2dfa657259494bece09524fc018b0c9f4ef32a677f93c70f804918ba939c91e4</guid>
 <pubDate>2026-07-02</pubDate>
-<description>Road construction can be crucial in providing economic opportunities, yet how such infrastructure development links to infectious disease transmission is uncertain. This study examines the role of the 2009 highway construction in the Madre de Dios region of Peru on dengue transmission dynamics.</description>
+<description>Electrodeposited self-assembled molecules for perovskite photovoltaics</description>
+</item>
+<item>
+<title>【自動自律実験】 Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization</title>
+<link>https://www.nature.com/articles/s41586-026-10854-4</link>
+<guid>aab000b9be6fdfe35677faa4364e7bcbe04fac08b9a1655fdd46451b862c5a8a</guid>
+<pubDate>2026-07-02</pubDate>
+<description>Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/promise-or-peril-exploring-black-adults-perspectives-on-the-use-of-artificial-intelligence-in-health-contexts/</link>
-<guid>cec42b624cb1c5bd2c7674b047a6d5fd69fba9ccbf4613ff372d3c9881724605</guid>
-<pubDate>Thu, 02 Jul 2026 14:35:26 GMT</pubDate>
+<link>https://research.google/pubs/reasoning-driven-synthetic-data-generation-and-evaluation/</link>
+<guid>20908cf308614eeb4eded1af39fcc1fd20cc5ad10c1408c3c0003b137eea9170</guid>
+<pubDate>Thu, 02 Jul 2026 16:44:27 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>de40f0792a7fafe84931a1c3abb5618ba2428bf3fa9e8400014d6e7719aa8a8b</guid>
-<pubDate>Thu, 02 Jul 2026 14:35:29 GMT</pubDate>
+<guid>d85abf2a612e91ff19dc79131247640a2e28e4bb260769cc72e93fa406004333</guid>
+<pubDate>Thu, 02 Jul 2026 16:44:30 GMT</pubDate>
 <description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>7da0f0513e337d402898d24dd16d45d4140c2f75aa8095c3841e31ce292fcf2e</guid>
-<pubDate>Thu, 02 Jul 2026 14:35:31 GMT</pubDate>
+<guid>a914288e4fe54aa3ba39e5342fe2ff3574a62fe0fa62957d42198a0e1c0a4b23</guid>
+<pubDate>Thu, 02 Jul 2026 16:44:32 GMT</pubDate>
 <description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
