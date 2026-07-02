@@ -4,85 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 02 Jul 2026 09:41:42 GMT</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 12:03:47 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 コードを書く前に知っておきたかった、開発現場の5つのステップ</title>
-<link>https://qiita.com/masa20057/items/aa2b8f3e8112228ca46c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>679fc56e92c02ab1d0dc46cb29b5cbed204156c63a0402f766ce47b6a3ce9a71</guid>
-<pubDate>2026-07-02T09:59:26+09:00</pubDate>
-<description>はじめまして。 株式会社PRUMのmasaです。 今日は現場の開発フロー全体を知り、実装前後の工程の意図を理解してから実装することで何が変わるのかを、エンジニア初心者向けに書いてみました。興味がある方は読んでいただけると嬉しいです。 一つの機能ができるまでには5つのステッ...</description>
+<title>【Qiita】 【AWS CLF 間違えやすい箇所を整理】第3回 IAMの混同ポイント総整理 ― ルートユーザー/IAMユーザー他</title>
+<link>https://qiita.com/ryoji9702/items/7956fb165c1a24bb00da</link>
+<guid>0ff34665ba31618e00e792f12cd02d588d34e4c85887ada1650e76a4e7036ed8</guid>
+<pubDate>2026-07-02T19:49:43+09:00</pubDate>
+<description>はじめに 本記事は、AWS 認定 クラウドプラクティショナー（CLF-C02）の合格を目指す連載の 第3回 です。今回扱うのは試験ドメイン2「セキュリティとコンプライアンス」に属する IAM（AWS Identity and Access Management） です。 ...</description>
 </item>
 <item>
-<title>【Qiita】 RailsとDBインデックス 〜なぜ index があると速いのか〜</title>
-<link>https://qiita.com/akachiryo/items/5299101bce85b5970776?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>02d9f3a849adcf0bc1dcfea6a48f6e852ba1125cf1d783894f3c77f0637368ea</guid>
-<pubDate>2026-07-02T12:22:03+09:00</pubDate>
-<description>お疲れ様です！ シリーズで計算量やレースコンディションを書いてきましたが、今回は DBインデックス です 「indexを貼ると速くなる」は知っていても、なぜ速いのか／どこに貼るべきかまで説明できると強いので、そこをまとめてみました。 興味ある方は読んでいただけると嬉しいで...</description>
+<title>【Qiita】 【Godot 4.x】3D脱出ゲームを作ってみる①〜3Dプロジェクト作成とシーン構成〜</title>
+<link>https://qiita.com/OnuuuumaX/items/63b368d05de189af3e70</link>
+<guid>919dcc24740efe96dbf9ce6aa343f5bc72be7cf5d3828f93b335e79701250b1e</guid>
+<pubDate>2026-07-02T19:04:17+09:00</pubDate>
+<description>はじめに この記事は、Godot 4.xでFPS視点の3D脱出ゲーム（寝室に隠されたアイテムを探し、謎を解いて脱出する）を作る連載の第1回です。 環境構築・Claude Code + godot-mcp のセットアップは以下の記事で済んでいる前提で進めます。 【Godo...</description>
 </item>
 <item>
-<title>【Qiita】 IETF 126 Vienna BoF 事前調査 ― AIエージェント標準化が主戦場になる週</title>
-<link>https://qiita.com/satokan3/items/ab653b3710f85d85b268</link>
-<guid>a4c7066568063b08ac1788ce24563c577a1e77633e7525df9d9faae530845e64</guid>
-<pubDate>2026-07-02T18:08:56+09:00</pubDate>
-<description>こんにちは！ GMOコネクト株式会社 執行役員CTO / GMOインターネットグループ株式会社 共同研究推進グループ 主席研究員 菅野哲（かんの さとる）でございます。 皆さん、新しい標準化テーマが動き出す「最初の一歩」を見たことはありますか？ IETF（Internet ...</description>
+<title>【Qiita】 AI BPR入門 ~ AIエージェント前提で業務を「組み替える」という発想 ~</title>
+<link>https://qiita.com/PDC-Kurashinak/items/339089ac8d03938c0e42</link>
+<guid>20f6d2de045af165ee263c62e92cc0a5adeae2c867334210813bd004eae01732</guid>
+<pubDate>2026-07-02T20:46:27+09:00</pubDate>
+<description>どうもこんにちは。 先日、とあるAI BPR（AI-driven Business Process Re-engineering） の勉強会に参加してきました。 正直なところ、最初は「AI BPRとAI-DLCは何が違うんだっ！」っていう風に思っていました。しかし、お話を聞...</description>
 </item>
 <item>
-<title>【Qiita】 Visual Studio CodeのAI拡張機能continueとローカルLLM（Ollama＋Gemma4 12b）を使ってローカルでAgentを動かしてみた</title>
-<link>https://qiita.com/tooru_kimura/items/fe1468eb9dc244bed7c3</link>
-<guid>ebf119b3b552087b4336b1c675b701f99c769562f63b31fe1225e27660644a22</guid>
-<pubDate>2026-07-02T16:01:31+09:00</pubDate>
-<description>最近GitHub Copilotのクレジット制限がめっちゃ厳しくなったので、ローカルLLMでエージェント作ってみた やったこと Visual Studio Code(以下VS Code)の拡張機能であるcontinue（AIを動かすための拡張）を使ってエージェントを作る...</description>
+<title>【自動自律実験】 Can you actually do a nine-to-five PhD? &lt;i&gt;Nature&lt;/i&gt; readers weigh in</title>
+<link>https://www.nature.com/articles/d41586-026-01773-5</link>
+<guid>7f47f61b6752fabff7d595a972bb518ce7f27224765e146c52f9213df5ec5db6</guid>
+<pubDate>2026-07-02</pubDate>
+<description>Nature readers share their PhD time-management woes.</description>
 </item>
 <item>
-<title>【Qiita】 【AIエージェント】Claude Code vs Antigravity CLI！一晩で200ドル溶かさないための「自律ループ制御」超入門（第7回）水泳</title>
-<link>https://qiita.com/0903osa/items/5bd053eaf34a10604832</link>
-<guid>d7918cd914f6c1eae6adbd20a048ba7e447c3821399da2b0de65648527be530a</guid>
-<pubDate>2026-07-02T15:19:29+09:00</pubDate>
-<description>はじめに 僕のメンターからおすすめされた本の紹介連載、第6回です。 ※本記事では、以降 antigravity CLI のコマンド表記を agy と統一して記述します。 今回は、AIエージェントの自律実行を安全かつ正確に制御するための、「ステップ」を解説したセクションです。...</description>
+<title>【自動自律実験】 Incoming US science academy chief vows to ‘double down’ on research</title>
+<link>https://www.nature.com/articles/d41586-026-02088-1</link>
+<guid>36edfac28639a4ff42e1df6ee2ddce1ce73ecfb27b7fe965400264a46299c4c2</guid>
+<pubDate>2026-07-02</pubDate>
+<description>New leader of the National Academy of Sciences Neil Shubin warns: ‘a society that loses science loses the future’.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-dynamic-numerical-model-for-real-time-estimation-of-latent-cognitive-states-using-oculomotor-metrics/</link>
-<guid>c91b99d31feb791f5415edd0793a77895445c780317e1fa9d623741a345ea4d6</guid>
-<pubDate>Thu, 02 Jul 2026 09:40:36 GMT</pubDate>
+<link>https://research.google/pubs/generative-ai-synthesis-of-automated-interactions-into-a-structured-agent-briefing/</link>
+<guid>1a9aeef53447cd7351ba07129500007cbce2b75eb8fed8e21e741af4a7aa5aef</guid>
+<pubDate>Thu, 02 Jul 2026 12:02:31 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>910a2288351ded881da1bfd485174e8f2c508049dc82e3d51c459f8a9cb99a1c</guid>
-<pubDate>Thu, 02 Jul 2026 09:40:39 GMT</pubDate>
+<guid>0f32f1601cbe9a0c36453df341f963036c051c52a7478a343af68b053533ffdf</guid>
+<pubDate>Thu, 02 Jul 2026 12:02:33 GMT</pubDate>
 <description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>64a66deae065672cbf14333aa1d2c581660d6f8378dc6fa74d16da340e501302</guid>
-<pubDate>Thu, 02 Jul 2026 09:40:41 GMT</pubDate>
+<guid>9af8f2b150ea95e5f51b23e45482e7ac0d0477d4321de63683a6e9eb2b021c73</guid>
+<pubDate>Thu, 02 Jul 2026 12:02:35 GMT</pubDate>
 <description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s42256-026-01261-5</link>
-<guid>c80a41c663800a7980416a34e71df2e5c5ac2e2f3fd6e96c6798aff43328b0ed</guid>
-<pubDate>Thu, 02 Jul 2026 09:40:45 GMT</pubDate>
-<description>Executing experimental tasks in both normal research laboratories and large-scale scientific facilities often requires extensive human supervision and remains a key challenge on the path to fully autonomous, artificial intelligence (AI)-driven science. Here we demonstrate a large language model-driven agent that autonomously performs X-ray sample alignment on a synchrotron beamline by planning actions, executing instrumental commands, interpreting observations and iterating towards experimental goals. Based on existing large language models with structured tool-use via the model context protocol, our AI X-ray scientist was guided and tested using an in-house-built virtual experimental setup that mirrors a six-circle diffractometer at an operational synchrotron beamline. The agentic workflow developed in the virtual environment was directly deployed on a real beamline, where it correctly identified reference reflections and determined the orientation matrix, an essential first step in any type of single-crystal scattering experiment. Our AI X-ray scientist responded effectively to unexpected experimental conditions, demonstrating adaptive problem-solving and readiness for addressing</description>
-</item>
-<item>
-<title>【UK】 Featured</title>
-<link>https://www.linkedin.com/company/scitechgovuk</link>
-<guid>3f30c374aa851c4cefe8a52e91e8ef1673ca80e6d4bc54f40d353ac96bab9ef8</guid>
-<pubDate>Thu, 02 Jul 2026 09:40:56 GMT</pubDate>
-<description>Department for Science, Innovation and Technology | 268,890 followers on LinkedIn. Positioning the UK at the forefront of global scientific and technological advancement. | Follow this profile to stay up-to-date with our mission: improving people&amp;#39;s lives by maximising the potential of science &amp;amp; technology.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>e242441add136514166975a90bcbfc7af1b3096c3c6c0839498f418885356f91</guid>
-<pubDate>Thu, 02 Jul 2026 09:41:19 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>fc52d7803202aeee56f31beb8911bfeadc3b5be0c8022c8b6c7203f37d46a4ee</guid>
+<pubDate>Thu, 02 Jul 2026 12:02:36 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
