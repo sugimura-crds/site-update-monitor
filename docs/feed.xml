@@ -4,63 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 02 Jul 2026 02:15:18 GMT</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 06:14:42 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM BobでUbuntu 24.04のインサイトを得るためのMCPサーバーを開発</title>
-<link>https://qiita.com/duelist2020jp/items/7b856fac7df61f549761</link>
-<guid>41713fc1da19aaa39cfa5311d7ead3529c3b8c8b24ddb7c09b161c349624bbda</guid>
-<pubDate>2026-07-02T10:03:19+09:00</pubDate>
-<description>はじめに 私は個人のLinux環境として、RHELとUbuntuを保有しています。RHELについては、現時点ではDeveloper Preview版ですが、MCPサーバーが提供されており、先日RHELのMCPサーバーを導入・AIコーディングエージェントへの設定、MCPサー...</description>
+<title>【Qiita】 さわってみよう Db2 AI エディション #9 〜v12.1.5新機能編 Part#1〜</title>
+<link>https://qiita.com/ibm_tk/items/daabdf8215b430e804d8</link>
+<guid>d1e047efb5b2cf4aa2e53a5cd4ed65c84d8ad1bb723d1b7e55c00b75be2a95c5</guid>
+<pubDate>2026-07-02T12:04:08+09:00</pubDate>
+<description>IBM Db2 12.1.5が利用可能に：ミッションクリティカルなデータが存在する場所にAIをもたらします 当記事ではDb2 for Linux, Unix, Windows v12.1.5の新機能のハイライトをご紹介します。 この記事は下記の翻訳版です。 &quot;IBM Db...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-06-04) 耐量子とエージェント決済の検証、DNS委任とルーティング運用が並んだ一日 (Part2/2)</title>
-<link>https://qiita.com/tetsuko_room/items/983c547b0aca058081e5</link>
-<guid>de3061629e5ac4db79c1c57d2e22156d96c0eb31427649a1f3561e76a6106293</guid>
-<pubDate>2026-07-02T10:10:05+09:00</pubDate>
-<description>おはようございます！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-04（UTC基準）に公開され...</description>
+<title>【Qiita】 日刊IETF (2026-06-05) 耐量子の鍵交換とエージェント認可、計測と運用の拡張が並んだ一日 (Part2/2)</title>
+<link>https://qiita.com/tetsuko_room/items/05b08f87925e808a435b</link>
+<guid>79d5c537f83642afb3cfafa3612b209d34d63461c469dd4075859e05dee7f8f0</guid>
+<pubDate>2026-07-02T11:46:37+09:00</pubDate>
+<description>こんにちは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-05（UTC基準）に公開されたInt...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-06-04) AIネットワークファブリックのベンチマークと耐量子署名、エージェント発見が集まった一日 (Part1/2)</title>
-<link>https://qiita.com/tetsuko_room/items/bf1e3c3b652fcf441449</link>
-<guid>14e42f072981bfb5ecf298090cc55dc28fd06e91f89b4b4cd618deb3163d6a01</guid>
-<pubDate>2026-07-02T10:08:09+09:00</pubDate>
-<description>おはようございます！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-04（UTC基準）に公開された...</description>
+<title>【Qiita】 日刊IETF (2026-06-05) AIエージェントの発見と識別を巡る提案が集中した一日 (Part1/2)</title>
+<link>https://qiita.com/tetsuko_room/items/c293bced9b4db9acc080</link>
+<guid>346e1f6a2b48937079e4642459f5e73386584a889f8a0daf110e325fc0dffe03</guid>
+<pubDate>2026-07-02T11:45:11+09:00</pubDate>
+<description>こんにちは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-05（UTC基準）に公開されたInte...</description>
 </item>
 <item>
-<title>【Qiita】 ローカルSNS投稿コネクタでCookieを預からない設計：MCPとPlaywrightで境界を切る</title>
-<link>https://qiita.com/agentmemories/items/51385dfd9df6ae4a8314</link>
-<guid>2dbe623fe882ef9d2c7a95dcf98ea6734a40930f036b2e5de852edded5fc6e70</guid>
-<pubDate>2026-07-02T10:26:51+09:00</pubDate>
-<description>AIエージェントにSNS投稿を任せたいとき、いちばん危ない近道は「Cookie文字列をサーバーに預ける」ことです。 公式APIだけで完結できるなら、それが第一候補です。ただ、MVPや個人利用の段階では、ユーザー本人のブラウザログイン状態を使ったローカル投稿コネクタが現実的な...</description>
+<title>【Qiita】 Copilot Studio + カスタムコネクタで Azure SRE Agent を Teams から動かしてみた</title>
+<link>https://qiita.com/Isato-Hiyama/items/8069a81b3566b8bf2c07</link>
+<guid>618da2a4dc06ce10dc31d4dbdd737ae07bac565b4715295f834f2ad408a4a6b6</guid>
+<pubDate>2026-07-02T12:15:49+09:00</pubDate>
+<description>はじめに Azure SRE Agent は、Azure のインフラ運用を自然言語で支援してくれる AI エージェントです。標準では Azure Portal 上のチャット UI から利用しますが、実は Data Plane REST API が公開されており、外部シス...</description>
 </item>
 <item>
-<title>【Qiita】 ボトルネックは私ではありません ── Claude Fable 5 本人が書く、モデル性能と成果のあいだにあるもの</title>
-<link>https://qiita.com/dosanko_tousan/items/56a01f737702517da285</link>
-<guid>293509793918783deabd7cc7400eef5cc38875172151f243aa432b4d6f6c4e8e</guid>
-<pubDate>2026-07-02T09:44:27+09:00</pubDate>
-<description>ボトルネックは私ではありません ── Claude Fable 5 本人が書く、モデル性能と成果のあいだにあるもの この記事は Claude Fable 5(Anthropic)が書いています。 人間の共同研究者(竹内明充、独立AIアライメント研究者)が企画・監修・最終判...</description>
+<title>【Qiita】 ClaudeAgentSDKで作るコードレビューエージェント — SDK選定の理由と実装例</title>
+<link>https://qiita.com/renly/items/d82fb9913db58e5199e1</link>
+<guid>78677638efa94d09ff9a07276fd14fa7210f9b3bde6b84314529445b0109d58a</guid>
+<pubDate>2026-07-02T13:08:04+09:00</pubDate>
+<description>はじめに ClaudeAgentSDKは、Anthropicが提供するエージェント実行SDK（Python: claude-agent-sdk / TypeScript: @anthropic-ai/claude-agent-sdk）です。Claude Codeのエンジン...</description>
 </item>
 <item>
-<title>【Qiita】 Google Antigravity 2.0 vs Claude Code完全比較！AI開発の覇権</title>
-<link>https://qiita.com/kinamocchi_tech/items/998541a7f3c1bbf073de</link>
-<guid>29252553ac622de5e631ef075828a420df9add4115fb1669939951cd767285e2</guid>
-<pubDate>2026-07-02T09:16:14+09:00</pubDate>
-<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → Google Antigravity 2.0 vs Claude Code完全比較！AI開発の覇権 🐹🦜 この記事に登場する2匹 🐹 もっちー...</description>
+<title>【Qiita】 #📚 探さなくても、聞けば答えが返ってくる——ONES Assistantのナレッジベース Q&amp;A</title>
+<link>https://qiita.com/spina1/items/31b29462270839c56260</link>
+<guid>2f95752d0da11c6030d807272bdaad8cd97224183513984706004f91e84824c6</guid>
+<pubDate>2026-07-02T13:07:54+09:00</pubDate>
+<description>はじめに こんにちは！ONESのふえです。今日はONES Assistantの「ナレッジベース Q&amp;A」機能を紹介します。 😩 あるある：知りたいことはWikiのどこかにあるはずなんだけど 「たしかこの仕様、前にドキュメントにまとめてあったはず」——そう思ってWikiを...</description>
 </item>
 <item>
-<title>【Qiita】 Augment Cosmos入門 — AIエージェントのチーム運用を実現するOSの全貌</title>
-<link>https://qiita.com/kai_kou/items/29f15c8c64a33027e0b1</link>
-<guid>178b706344f343652c43c2dccea44802b72e488a5cd3b775945d68d587d71654</guid>
-<pubDate>2026-07-02T09:59:20+09:00</pubDate>
-<description>はじめに AIコーディングエージェントの普及が進む中、「個人の生産性は向上したのに、チームや組織全体の生産性は変わらない」という課題が顕在化しています。多くのエンジニアが独立したセッションでエージェントを使っても、そのコンテキストや学びは次のセッションに引き継がれません...</description>
+<title>【Qiita】 Piのシステムプロンプトを測ったら1866文字、Claude Codeの1/5だった</title>
+<link>https://qiita.com/kai_kou/items/a5abe463732c149a5fcc</link>
+<guid>f34e2ace111a54b27a18d1fb93d242c585690beebd05d77ad4d7d908d8e3fc55</guid>
+<pubDate>2026-07-02T15:05:41+09:00</pubDate>
+<description>はじめに libGDX の作者 Mario Zechner が開発し、Flask・Jinja2 の作者 Armin Ronacher が長年愛用してきたミニマル設計のコーディングエージェント CLI「Pi」（@earendil-works/pi-coding-agent）...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/analyzing-bytes-pre-disassembly-static-binary-analysis/</link>
-<guid>6747e0dc7a9211e3f6c344a961bab46b313971c4dff762ea299d13c591b46cb3</guid>
-<pubDate>Thu, 02 Jul 2026 02:14:42 GMT</pubDate>
+<link>https://research.google/pubs/differential-sensitivity-of-impedance-plethysmography-and-photoplethysmography-sensors-to-temperature-induced-peripheral-vasoconstriction/</link>
+<guid>03c5616590665f69158dc5d591143e2e64ae557d1ad86dbe175631b9bdd0ba12</guid>
+<pubDate>Thu, 02 Jul 2026 06:13:37 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-74568-x</link>
+<guid>ba5eceb82f2ce67a3564f43e50ae445bfb4e065339785097a3e4ab602f487474</guid>
+<pubDate>Thu, 02 Jul 2026 06:13:40 GMT</pubDate>
+<description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>1e593a02844a299de0d23c370d94a0a875306a0872c66d43ff30c75b242a8678</guid>
+<pubDate>Thu, 02 Jul 2026 06:13:43 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
 </channel>
