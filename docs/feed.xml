@@ -4,70 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 03 Jul 2026 09:40:25 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 12:01:16 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 手順不足と知識不足は分けて考えた方がいいと思う話</title>
-<link>https://qiita.com/shige-h/items/97d9d9b7ed0064f7433e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>1b64b863f97b46efdbb5940f76009f64d9de1cc6ec71ff6613d93259514d3e72</guid>
-<pubDate>2026-07-02T18:50:42+09:00</pubDate>
-<description>手順不足と知識不足は分けて考えた方がいいと思う話 はじめに プロジェクトでメンバーが詰まったとき、「手順書を追加する」「手順書を詳しくする」という対応が行われることがあります。 もちろん手順不足が原因の場合もあります。 しかし、実際には知識不足が原因で詰まっているにもか...</description>
+<title>【Qiita】 量子コンピュータを完全に理解したい人のためのロードマップ</title>
+<link>https://qiita.com/optimisuke/items/a2463fab85ee9778847c</link>
+<guid>d22e4966b7f26ef4840b8e8f81d9d923e79c105d828c12503106dd0cfd17a38f</guid>
+<pubDate>2026-07-03T19:53:37+09:00</pubDate>
+<description>はじめに みなさん、量子コンピュータちゃんと理解してますか？わたしはしてません！！ 本シリーズ（予定）では、量子コンピュータがわからないなりに勉強してきたので、その理解をなんとか整理していこうと思います！ さて、量子コンピュータですが、ちゃんと理解したいと思って調べ始め...</description>
 </item>
 <item>
-<title>【Qiita】 MCPのパラドックス：エージェントのサプライチェーンをいかに守るか</title>
-<link>https://qiita.com/agdexai/items/fba0ed6118d035c1829d</link>
-<guid>ae4ea122893cc1c331946e3dc24520370c0aebc241e7b822e57b2b0a1e7e0947</guid>
-<pubDate>2026-07-03T17:40:52+09:00</pubDate>
-<description>Model Context Protocol（MCP）は、エージェント型AIにおける最も困難なインテグレーション問題を解決しました。しかしその過程で、巨大かつ集中的な攻撃対象領域を生み出してしまいました。これがMCPのパラドックスです。すなわち、エージェントを強力にするその...</description>
+<title>【Qiita】 AGENTS.mdとCLAUDE.mdに同じルールを書いて内容がずれた</title>
+<link>https://qiita.com/harnesswinner/items/cbbe3478783ebc552208</link>
+<guid>7638f17b293055c03ab83f972c3a8aaa42e4b2303dc733e6bffbb94099fcc1ac</guid>
+<pubDate>2026-07-03T20:32:44+09:00</pubDate>
+<description>TL;DR Codex 用の AGENTS.md と Claude Code 用の CLAUDE.md に実装ルールを重複して書いていたら、片方だけ更新されてルールがずれた。正本を .agents/rules/ に集約し、両方から参照する構成に変えたら drift が止ま...</description>
 </item>
 <item>
-<title>【Qiita】 「ループエンジニアリング」とは何か - Claude Fable 5 の長時間自律実行で何が変わるかを一次情報で整理する</title>
-<link>https://qiita.com/TaichiEndoh/items/35be7114e3e099c0be50</link>
-<guid>cfbef60075cf07fd5dd3634e692141696613e71a9b58227eb42f9daaaa4fd932</guid>
-<pubDate>2026-07-03T17:28:27+09:00</pubDate>
-<description>⚠️ 本記事は公開情報の整理です。筆者の意見・推測は「筆者注」として明示的に分離しています。法的助言ではありません。 📖 この記事でわかること3点 ✅ 「ループエンジニアリング」の定義と、提唱までの経緯（一次情報リンク付き） ✅ プロンプト → コンテキスト → ハーネ...</description>
+<title>【Qiita】 このプロンプトをAIエージェントに貼り付けて、Kaggleのベースラインを作ろう！</title>
+<link>https://qiita.com/Isaka-code/items/8fafc5cc522b5eb655da</link>
+<guid>11ab6b263f8a05ce341d0c379e155c9b3466703cf88a66c35d35dbda50c48600</guid>
+<pubDate>2026-07-03T19:20:29+09:00</pubDate>
+<description>はじめに 3年ほど前に、「Kaggleのハードルを下げたい！」という記事を執筆しました。あの頃から時は流れ、強力なAIエージェント（Claude Code、Codex、Cursorなど）の普及によって、Kaggleに取り組む最初のステップは劇的に様変わりしています。 環境...</description>
 </item>
 <item>
-<title>【Qiita】 Notion から Hosted Tableau MCP に繋いでみた</title>
-<link>https://qiita.com/tab123/items/5811aa3494d7cd0390e3</link>
-<guid>2adede5f277fe0b7f4130f27d7e76dc722d0bdb178c2084de53c3d07f446c2dd</guid>
-<pubDate>2026-07-03T17:01:34+09:00</pubDate>
-<description>本記事は Hosted Tableau MCP 公式ドキュメント（2026年6月末時点）記載の仕様に基づいています。 はじめに 2026年6月末、待望の Tableau Hosted MCP Server がついにリリースされました🎉 これまで Tableau M...</description>
+<title>【Qiita】 ClaudeCodeでAIエージェント開発を加速する：CLIから始める次世代エンジニアリング完全ガイド</title>
+<link>https://qiita.com/reodesuxz/items/d3307bc04eb4578259d2</link>
+<guid>713bbfc3e60c8d37853aeeb03a74c34a3725dcc933d6e334777d483b26750f44</guid>
+<pubDate>2026-07-03T18:45:55+09:00</pubDate>
+<description>ClaudeCodeでAIエージェント開発を加速する：CLIから始める次世代エンジニアリング完全ガイド はじめに 想定読者 AIを活用して開発効率を極限まで高めたいエンジニア Anthropicの新ツール「ClaudeCode」の具体的な活用方法を知りたい方 自律型...</description>
 </item>
 <item>
-<title>【農業】 FAO Food Price Index edges down amid diverging commodity price movements</title>
-<link>https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-amid-diverging-commodity-price-movements/en</link>
-<guid>f204c33d684cd3a5a968da7fa4485967b4483ed18d9f3c3bdc8751491d5b7e15</guid>
-<pubDate>Fri, 03 Jul 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【自動自律実験】 China boosts prestigious grants for young scientists — will it ease competition?</title>
-<link>https://www.nature.com/articles/d41586-026-01989-5</link>
-<guid>a15010a9ca248576db86bb6ea901986968951b22dcb733365ae7d52e6f85560e</guid>
-<pubDate>2026-07-03</pubDate>
-<description>The National Natural Science Foundation of China says it will fund an extra 12,000 projects from this year.</description>
+<title>【自動自律実験】 Daily briefing: ‘Cyborg’ cockroaches breathe underwater with printed suit</title>
+<link>https://www.nature.com/articles/d41586-026-02108-0</link>
+<guid>363ee8bad0ebf799e8a411ec88c6b0ce9ca34ff77f0a070be3e683d35c75304a</guid>
+<pubDate>2026-07-02</pubDate>
+<description>The insects could explore underwater for up to three hours. Plus, fake cancer studies rake in the citations and how scientists can build trust by recognizing their biases.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/identifying-hearing-difficulty-moments-in-conversational-audio/</link>
-<guid>6e70d21d5a2fedaaed80ba377dfeaf18e27f4f56e4f246e03e39db0426e688bd</guid>
-<pubDate>Fri, 03 Jul 2026 09:39:26 GMT</pubDate>
+<link>https://research.google/pubs/sac133-ssac-comments-on-proposed-root-ksk-algorithm-rollover/</link>
+<guid>fd2fc3b04ebdc7836f3e55b71f0384671f8021b455aae8e8b4eb0f767d494eb6</guid>
+<pubDate>Fri, 03 Jul 2026 12:00:23 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>1a7cdd017305dd481b418c4738bb51adc6d75fd1ec7fc8b23e4b14667c066cb8</guid>
-<pubDate>Fri, 03 Jul 2026 09:39:28 GMT</pubDate>
+<guid>4924e9958e6186fc942d8203d5234d2e3f9213e162e41502c332107e9ea1e4f6</guid>
+<pubDate>Fri, 03 Jul 2026 12:00:26 GMT</pubDate>
 <description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>3b279b9e916bbbf9a8ba155502b2941ddedbd7c0cd8cfd77360fde328630794c</guid>
-<pubDate>Fri, 03 Jul 2026 09:39:34 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>828e16bd06cf98d3f7e5686a81ac59f92a594f2909244c685c876d338bb20d5a</guid>
+<pubDate>Fri, 03 Jul 2026 12:00:29 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s42256-026-01261-5</link>
+<guid>4ed86daeaca6fcec9242cb513b99ff868f23770cdc0ce269757b81e31548faf5</guid>
+<pubDate>Fri, 03 Jul 2026 12:00:31 GMT</pubDate>
+<description>Executing experimental tasks in both normal research laboratories and large-scale scientific facilities often requires extensive human supervision and remains a key challenge on the path to fully autonomous, artificial intelligence (AI)-driven science. Here we demonstrate a large language model-driven agent that autonomously performs X-ray sample alignment on a synchrotron beamline by planning actions, executing instrumental commands, interpreting observations and iterating towards experimental goals. Based on existing large language models with structured tool-use via the model context protocol, our AI X-ray scientist was guided and tested using an in-house-built virtual experimental setup that mirrors a six-circle diffractometer at an operational synchrotron beamline. The agentic workflow developed in the virtual environment was directly deployed on a real beamline, where it correctly identified reference reflections and determined the orientation matrix, an essential first step in any type of single-crystal scattering experiment. Our AI X-ray scientist responded effectively to unexpected experimental conditions, demonstrating adaptive problem-solving and readiness for addressing</description>
 </item>
 
 </channel>
