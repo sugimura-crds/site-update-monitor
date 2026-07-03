@@ -4,70 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 03 Jul 2026 12:01:16 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 14:16:26 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 量子コンピュータを完全に理解したい人のためのロードマップ</title>
-<link>https://qiita.com/optimisuke/items/a2463fab85ee9778847c</link>
-<guid>d22e4966b7f26ef4840b8e8f81d9d923e79c105d828c12503106dd0cfd17a38f</guid>
-<pubDate>2026-07-03T19:53:37+09:00</pubDate>
-<description>はじめに みなさん、量子コンピュータちゃんと理解してますか？わたしはしてません！！ 本シリーズ（予定）では、量子コンピュータがわからないなりに勉強してきたので、その理解をなんとか整理していこうと思います！ さて、量子コンピュータですが、ちゃんと理解したいと思って調べ始め...</description>
+<title>【Qiita】 Claude Codeのサンドボックスだけでは秘密情報を守れない — 権限ルール・巻き戻しまで含めた安全設定</title>
+<link>https://qiita.com/ujunja/items/2b5cceaf5a1a39f43033</link>
+<guid>b779b0fc43849372602c6162f6003bfc56804dc78373b943840bc0e1dd07c4bb</guid>
+<pubDate>2026-07-03T22:59:14+09:00</pubDate>
+<description>Claude Codeのサンドボックスだけでは秘密情報を守れない — 権限ルール・巻き戻しまで含めた安全設定 対象読者: AIエージェントにファイルやコマンドを触らせるのが不安な入門者／権限ルールやサンドボックスで挙動を厳密に制御したい開発者 前提知識: Claude ...</description>
 </item>
 <item>
-<title>【Qiita】 AGENTS.mdとCLAUDE.mdに同じルールを書いて内容がずれた</title>
-<link>https://qiita.com/harnesswinner/items/cbbe3478783ebc552208</link>
-<guid>7638f17b293055c03ab83f972c3a8aaa42e4b2303dc733e6bffbb94099fcc1ac</guid>
-<pubDate>2026-07-03T20:32:44+09:00</pubDate>
-<description>TL;DR Codex 用の AGENTS.md と Claude Code 用の CLAUDE.md に実装ルールを重複して書いていたら、片方だけ更新されてルールがずれた。正本を .agents/rules/ に集約し、両方から参照する構成に変えたら drift が止ま...</description>
+<title>【Qiita】 Google Antigravityのトークンを80%削減し、地に足つかせるプラグイン「gravity-boots」を作った</title>
+<link>https://qiita.com/Akizonga/items/eac7ae1f4abfd0164d82</link>
+<guid>447c0ffba948f41c405f8e18c9a329fe431e89e1369ba0d0b9843342ea4db1c0</guid>
+<pubDate>2026-07-03T22:51:10+09:00</pubDate>
+<description>こんにちは！個人開発でAIエージェント（主にGoogle AntigravityやClaude Code）を使い倒している開発者です。 AIエージェントとのペアプログラミングは非常に快適ですが、誰もが一度は以下の「絶望」に直面したことがあるのではないでしょうか。 会話が...</description>
 </item>
 <item>
-<title>【Qiita】 このプロンプトをAIエージェントに貼り付けて、Kaggleのベースラインを作ろう！</title>
-<link>https://qiita.com/Isaka-code/items/8fafc5cc522b5eb655da</link>
-<guid>11ab6b263f8a05ce341d0c379e155c9b3466703cf88a66c35d35dbda50c48600</guid>
-<pubDate>2026-07-03T19:20:29+09:00</pubDate>
-<description>はじめに 3年ほど前に、「Kaggleのハードルを下げたい！」という記事を執筆しました。あの頃から時は流れ、強力なAIエージェント（Claude Code、Codex、Cursorなど）の普及によって、Kaggleに取り組む最初のステップは劇的に様変わりしています。 環境...</description>
+<title>【Qiita】 マルチソース＆クエリ分解で実現する高度なエージェントRAG実践ガイド</title>
+<link>https://qiita.com/jjking/items/a73f5e9e489dfdbc9264</link>
+<guid>f1602ebf0d94e12c6b90afc2027ffbcda00495460b458d388af196761983d035</guid>
+<pubDate>2026-07-03T22:17:47+09:00</pubDate>
+<description>従来のRAGが直面する限界と「Agentic RAG」へのシフト 企業のデータ活用において、検索拡張生成（RAG）は標準的なアプローチとなりました。しかし、事前に定義された「検索して生成する」という直線的かつ固定的なワークフロー（Naive RAG）には限界があります。例...</description>
 </item>
 <item>
-<title>【Qiita】 ClaudeCodeでAIエージェント開発を加速する：CLIから始める次世代エンジニアリング完全ガイド</title>
-<link>https://qiita.com/reodesuxz/items/d3307bc04eb4578259d2</link>
-<guid>713bbfc3e60c8d37853aeeb03a74c34a3725dcc933d6e334777d483b26750f44</guid>
-<pubDate>2026-07-03T18:45:55+09:00</pubDate>
-<description>ClaudeCodeでAIエージェント開発を加速する：CLIから始める次世代エンジニアリング完全ガイド はじめに 想定読者 AIを活用して開発効率を極限まで高めたいエンジニア Anthropicの新ツール「ClaudeCode」の具体的な活用方法を知りたい方 自律型...</description>
-</item>
-<item>
-<title>【自動自律実験】 Daily briefing: ‘Cyborg’ cockroaches breathe underwater with printed suit</title>
-<link>https://www.nature.com/articles/d41586-026-02108-0</link>
-<guid>363ee8bad0ebf799e8a411ec88c6b0ce9ca34ff77f0a070be3e683d35c75304a</guid>
-<pubDate>2026-07-02</pubDate>
-<description>The insects could explore underwater for up to three hours. Plus, fake cancer studies rake in the citations and how scientists can build trust by recognizing their biases.</description>
+<title>【Qiita】 AIが途中から急に「バカ」になる正体は&quot;文脈の腐敗(context rot)&quot;。長い作業を最後まで賢く走らせるセッション設計</title>
+<link>https://qiita.com/akira_papa_AI/items/fe59c77392d6fbd62be0</link>
+<guid>76e8ec6a04a0e3905b2f937479faa5de0039d534610707a46100d497b52e77f0</guid>
+<pubDate>2026-07-03T21:47:51+09:00</pubDate>
+<description>AIが途中から急に「バカ」になる正体は&quot;文脈の腐敗(context rot)&quot;。長い作業を最後まで賢く走らせるセッション設計 はじめに：あなたのせいでも、AIの故障でもない AIとコードを書いていて、こんな経験ないですか。 最初の30分はめちゃくちゃ冴えてる。設計もレビ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/sac133-ssac-comments-on-proposed-root-ksk-algorithm-rollover/</link>
-<guid>fd2fc3b04ebdc7836f3e55b71f0384671f8021b455aae8e8b4eb0f767d494eb6</guid>
-<pubDate>Fri, 03 Jul 2026 12:00:23 GMT</pubDate>
+<link>https://research.google/pubs/cardio-load-in-exercise-and-everyday-life-a-modified-trimp-metric-for-continuously-sensing-consumer-wearables/</link>
+<guid>ef5871891e76a9cf150d71de8cf765c7b19be15c6efaa0e67225e984451e00bd</guid>
+<pubDate>Fri, 03 Jul 2026 14:15:24 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>4924e9958e6186fc942d8203d5234d2e3f9213e162e41502c332107e9ea1e4f6</guid>
-<pubDate>Fri, 03 Jul 2026 12:00:26 GMT</pubDate>
+<guid>034a720d904cbf4f8a832033eb3ea85f1637efce343af74678324488f67df620</guid>
+<pubDate>Fri, 03 Jul 2026 14:15:27 GMT</pubDate>
 <description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>828e16bd06cf98d3f7e5686a81ac59f92a594f2909244c685c876d338bb20d5a</guid>
-<pubDate>Fri, 03 Jul 2026 12:00:29 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>367092618aff431fe5d30fe7576ca6b1d750434c7a7a1676b5322675acc30c14</guid>
+<pubDate>Fri, 03 Jul 2026 14:15:30 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s42256-026-01261-5</link>
-<guid>4ed86daeaca6fcec9242cb513b99ff868f23770cdc0ce269757b81e31548faf5</guid>
-<pubDate>Fri, 03 Jul 2026 12:00:31 GMT</pubDate>
-<description>Executing experimental tasks in both normal research laboratories and large-scale scientific facilities often requires extensive human supervision and remains a key challenge on the path to fully autonomous, artificial intelligence (AI)-driven science. Here we demonstrate a large language model-driven agent that autonomously performs X-ray sample alignment on a synchrotron beamline by planning actions, executing instrumental commands, interpreting observations and iterating towards experimental goals. Based on existing large language models with structured tool-use via the model context protocol, our AI X-ray scientist was guided and tested using an in-house-built virtual experimental setup that mirrors a six-circle diffractometer at an operational synchrotron beamline. The agentic workflow developed in the virtual environment was directly deployed on a real beamline, where it correctly identified reference reflections and determined the orientation matrix, an essential first step in any type of single-crystal scattering experiment. Our AI X-ray scientist responded effectively to unexpected experimental conditions, demonstrating adaptive problem-solving and readiness for addressing</description>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>c01d66d4145ba3a1b58a590179591d795c8abbc3bbfcfc525c3ce1a7842b9f81</guid>
+<pubDate>Fri, 03 Jul 2026 14:16:15 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
