@@ -4,57 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 03 Jul 2026 06:07:38 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 09:40:25 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 意外と知られてない？ランサムウェア対策にすぐ始められるAzure Backupの便利機能</title>
-<link>https://qiita.com/ManabuYamamoto/items/9a83e571e1a23376a2c6</link>
-<guid>f6e7bed2b035bc1b1f9058a840886c89dfbf9e9e0885e41c0d7326525d40b5d0</guid>
-<pubDate>2026-07-03T14:23:19+09:00</pubDate>
-<description>Azure Backup × Microsoft Defender for Cloud の脅威検出。復旧ポイントが「脅威は報告されていません」と判定され、ランサムウェア対策が「予防・検知・復旧」で揃った状態。 はじめに ランサムウェア対策では「データをバックアップしてお...</description>
+<title>【Qiita】 手順不足と知識不足は分けて考えた方がいいと思う話</title>
+<link>https://qiita.com/shige-h/items/97d9d9b7ed0064f7433e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>1b64b863f97b46efdbb5940f76009f64d9de1cc6ec71ff6613d93259514d3e72</guid>
+<pubDate>2026-07-02T18:50:42+09:00</pubDate>
+<description>手順不足と知識不足は分けて考えた方がいいと思う話 はじめに プロジェクトでメンバーが詰まったとき、「手順書を追加する」「手順書を詳しくする」という対応が行われることがあります。 もちろん手順不足が原因の場合もあります。 しかし、実際には知識不足が原因で詰まっているにもか...</description>
 </item>
 <item>
-<title>【Qiita】 AWS Summit Japan 2026 初日参加レポート</title>
-<link>https://qiita.com/saitoa01/items/dd8ec319681b4f997f83</link>
-<guid>723f5b7b2aa4f7024ef43cd704881d9f0ca5c14f7adde7a404a171bc6815f2a8</guid>
-<pubDate>2026-07-03T12:21:50+09:00</pubDate>
-<description>はじめに 毎年6月に開催されているAWS Summitに今年も参加してきたので、会場の雰囲気や現地の最新技術動向を記録します！ AWSを業務で活用している方も、そうでない方も楽しめるイベントで、AWSに関連する展示・デモ・体験型学習が目白押しです。 日時：2025/06/...</description>
+<title>【Qiita】 MCPのパラドックス：エージェントのサプライチェーンをいかに守るか</title>
+<link>https://qiita.com/agdexai/items/fba0ed6118d035c1829d</link>
+<guid>ae4ea122893cc1c331946e3dc24520370c0aebc241e7b822e57b2b0a1e7e0947</guid>
+<pubDate>2026-07-03T17:40:52+09:00</pubDate>
+<description>Model Context Protocol（MCP）は、エージェント型AIにおける最も困難なインテグレーション問題を解決しました。しかしその過程で、巨大かつ集中的な攻撃対象領域を生み出してしまいました。これがMCPのパラドックスです。すなわち、エージェントを強力にするその...</description>
 </item>
 <item>
-<title>【Qiita】 x402前にHTTP 402をPythonで検査する</title>
-<link>https://qiita.com/hironakamura_ai/items/d40f85ffe85d7a898749</link>
-<guid>2888261ed504b88f7ce02c627619643020489646b0f7ab2a12c9be67812e4e1d</guid>
-<pubDate>2026-07-03T11:26:04+09:00</pubDate>
-<description>AIエージェントにAPIを読ませるなら、課金の前に何をテストしておくべきか。 Cloudflareが7月1日に、WebページやAPI、MCPツールへのアクセスごとに課金する「Monetization Gateway」を発表した。x402で支払いを扱う、という話は目立つ。ただ...</description>
+<title>【Qiita】 「ループエンジニアリング」とは何か - Claude Fable 5 の長時間自律実行で何が変わるかを一次情報で整理する</title>
+<link>https://qiita.com/TaichiEndoh/items/35be7114e3e099c0be50</link>
+<guid>cfbef60075cf07fd5dd3634e692141696613e71a9b58227eb42f9daaaa4fd932</guid>
+<pubDate>2026-07-03T17:28:27+09:00</pubDate>
+<description>⚠️ 本記事は公開情報の整理です。筆者の意見・推測は「筆者注」として明示的に分離しています。法的助言ではありません。 📖 この記事でわかること3点 ✅ 「ループエンジニアリング」の定義と、提唱までの経緯（一次情報リンク付き） ✅ プロンプト → コンテキスト → ハーネ...</description>
+</item>
+<item>
+<title>【Qiita】 Notion から Hosted Tableau MCP に繋いでみた</title>
+<link>https://qiita.com/tab123/items/5811aa3494d7cd0390e3</link>
+<guid>2adede5f277fe0b7f4130f27d7e76dc722d0bdb178c2084de53c3d07f446c2dd</guid>
+<pubDate>2026-07-03T17:01:34+09:00</pubDate>
+<description>本記事は Hosted Tableau MCP 公式ドキュメント（2026年6月末時点）記載の仕様に基づいています。 はじめに 2026年6月末、待望の Tableau Hosted MCP Server がついにリリースされました🎉 これまで Tableau M...</description>
+</item>
+<item>
+<title>【農業】 FAO Food Price Index edges down amid diverging commodity price movements</title>
+<link>https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-amid-diverging-commodity-price-movements/en</link>
+<guid>f204c33d684cd3a5a968da7fa4485967b4483ed18d9f3c3bdc8751491d5b7e15</guid>
+<pubDate>Fri, 03 Jul 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【自動自律実験】 China boosts prestigious grants for young scientists — will it ease competition?</title>
+<link>https://www.nature.com/articles/d41586-026-01989-5</link>
+<guid>a15010a9ca248576db86bb6ea901986968951b22dcb733365ae7d52e6f85560e</guid>
+<pubDate>2026-07-03</pubDate>
+<description>The National Natural Science Foundation of China says it will fund an extra 12,000 projects from this year.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/prompts-performance-optimization-via-multi-agent-planning-for-llm-training-and-serving/</link>
-<guid>f6a138f914c0c3fb00de996ad2f08b6203e94fbc7d6a69d8638b154f62fc1fa3</guid>
-<pubDate>Fri, 03 Jul 2026 06:06:51 GMT</pubDate>
+<link>https://research.google/pubs/identifying-hearing-difficulty-moments-in-conversational-audio/</link>
+<guid>6e70d21d5a2fedaaed80ba377dfeaf18e27f4f56e4f246e03e39db0426e688bd</guid>
+<pubDate>Fri, 03 Jul 2026 09:39:26 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>17a1df1fa40773631521bbf1eb7c0b9c296049e13b6159a27d6c974f287b98bc</guid>
-<pubDate>Fri, 03 Jul 2026 06:06:55 GMT</pubDate>
+<guid>1a7cdd017305dd481b418c4738bb51adc6d75fd1ec7fc8b23e4b14667c066cb8</guid>
+<pubDate>Fri, 03 Jul 2026 09:39:28 GMT</pubDate>
 <description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>bad819b26ac6b4c068226ffd0f51e931245909da6286f37deabe368448478f0c</guid>
-<pubDate>Fri, 03 Jul 2026 06:06:57 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>2491e75c75b1b5dc44bf9ed935282094b6a0206e2c71ca0a817fc9b64816e062</guid>
-<pubDate>Fri, 03 Jul 2026 06:07:18 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>3b279b9e916bbbf9a8ba155502b2941ddedbd7c0cd8cfd77360fde328630794c</guid>
+<pubDate>Fri, 03 Jul 2026 09:39:34 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 
 </channel>
