@@ -30,10 +30,10 @@
   "site::https://research.google/research-areas/health-ai/": "7fc26187d0b2586be8e8af0da4552045daaddbb2a98c8c5cb09fd3c39762272c",
   "site::https://research.google/research-areas/google-earth-ai/": "d5818c29e86eb00964d7af3c60db2d1a8dd36362e24ea4c85441635cfc83f8f8",
   "site::https://research.google/research-areas/science-ai/": "b532a14fc1972c265ec94206d5668985bd5193994887165cb8f4966406c1134d",
-  "site::https://research.google/pubs/": "5722b4d580dab4dd4e99bf36ab1fb99bba29bea73a8f7b6bb550184440a2b995",
+  "site::https://research.google/pubs/": "a92d89160a78ac215023324972f6bad1e8557fbd48fef117acc000cb4ac52252",
   "site::https://sakana.ai/blog/": "22a2481876ecde598fcf4fef8d9ce4d053c93348aefe9f384338221276dbde33",
-  "site::https://www.nature.com/search?q=AI+for+Science&date_range=last_30_days&order=relevance": "d5e624c46ac19dd8526bc395d1f5af3e46413837416fd0c59384cd832fb6a0e3",
-  "site::https://www.nature.com/search?q=AI+agent&date_range=last_30_days&order=relevance": "7e43665151b3d7dda8032a095656cedb456c24a040b654037a62d26271a8f4fe",
+  "site::https://www.nature.com/search?q=AI+for+Science&date_range=last_30_days&order=relevance": "8745872e25f785e606d40df63e19d22a42c51b90be5327293bd8f56308682cc2",
+  "site::https://www.nature.com/search?q=AI+agent&date_range=last_30_days&order=relevance": "1e8a365d73db62288047f70c912e1e9f2263d27f77b35b341c90664f77da2f20",
   "site::https://www.nature.com/search?q=agentic+AI": "6efe50f566f347feb59f6af92b5bc161b249554a64f999e7f7f4039163adb80f",
   "site::https://arxiv.org/search/?query=self-driving+laborator*&searchtype=all&abstracts=show&order=-announced_date_first&size=50": "08aa4b53b4c0bd08fe53c3df925f1835848312288a4a790600222e6e80d1db66",
   "site::https://www.nature.com/search?q=Self-driving+laboratories&date_range=last_30_days&order=relevance": "a66e17f9a69c1aa2b41bcb0e8f1bebd0d377ae639ba43cf7227a445b3b67d24e",
@@ -1530,5 +1530,9 @@
   "rss::tag:qiita.com,2005:PublicArticle/2234566": "2026-07-03T22:59:14+09:00",
   "rss::tag:qiita.com,2005:PublicArticle/2234561": "2026-07-03T22:51:10+09:00",
   "rss::tag:qiita.com,2005:PublicArticle/2234551": "2026-07-03T22:17:47+09:00",
-  "rss::tag:qiita.com,2005:PublicArticle/2234539": "2026-07-03T21:47:51+09:00"
+  "rss::tag:qiita.com,2005:PublicArticle/2234539": "2026-07-03T21:47:51+09:00",
+  "rss::https://www.nature.com/articles/s43016-026-01393-2": "2026-07-03",
+  "rss::https://www.nature.com/articles/s43016-026-01384-3": "2026-07-03",
+  "rss::https://www.nature.com/articles/s43016-026-01380-7": "2026-07-03",
+  "rss::https://www.nature.com/articles/s43016-026-01388-z": "2026-07-03"
 }
