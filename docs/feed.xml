@@ -4,35 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 02 Jul 2026 23:56:43 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 02:04:52 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Spring Bootのサポート期限・EOLとは？サポート終了後のリスクと対策を整理する</title>
-<link>https://qiita.com/ktgr/items/ffac0bea26f3da7a1df5</link>
-<guid>6a36c8af227c94d5b92538ec1265bb226b7663af55378a446f9f9a793aa4988e</guid>
-<pubDate>2026-07-03T08:50:59+09:00</pubDate>
-<description>Spring Bootを使った業務アプリケーションを運用していると、避けて通れないのがサポート期限とEOL（End of Life / サポート終了）の問題です。 Spring BootやSpring Frameworkは、エンタープライズJavaアプリケーションで広く利用...</description>
+<title>【Qiita】 日刊IETF (2026-06-07) アテステーションとRPKI経路保護、PQC運用可視化の提案が集まった一日</title>
+<link>https://qiita.com/tetsuko_room/items/bc5b3d67126f9fe0df5b</link>
+<guid>0c739c70b92820740b803da169b4253f39308ae7a70a20e5adb5fa5c1ccabc74</guid>
+<pubDate>2026-07-03T10:44:18+09:00</pubDate>
+<description>こんにちは、GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-07（UTC基準）に公開されたInter...</description>
 </item>
 <item>
-<title>【自動自律実験】 Neutrino’s nursery found: the ‘Shadow Blaster’</title>
-<link>https://www.nature.com/articles/d41586-026-02034-1</link>
-<guid>dea36f79e2c8960e2ff91c298f95f39ea8fc3e9e0c7a449597912ccab8a339e6</guid>
-<pubDate>2026-07-02</pubDate>
-<description>A particle detected at the South Pole was born in a galaxy that churned out stars when the Universe was young.</description>
+<title>【Qiita】 ManusAIに論文調査やらせてみた</title>
+<link>https://qiita.com/masuiti/items/0f83b387ee0d8657135e</link>
+<guid>41c021c9d9ba35ee7d52a29fb6998d71e4d7fb326c430b82f53a82c3f8ae286a</guid>
+<pubDate>2026-07-03T10:35:58+09:00</pubDate>
+<description>今回は、個人的に使ってみたかったManusAIで論文調査ができるとのことだったので、やらせてみました。 記事の構成 1.なぜやったのか 2.どうやるのか 3.結果 4.いいと思った点 5.今後どう使えそうか 1.なぜやったのか ManusAIについて調べてみると、エージ...</description>
+</item>
+<item>
+<title>【Qiita】 Copilot Studio エージェントを本番公開する前に見るべき「Agent status」とは？-公開前レビューで確認したい品質・権限・リスクチェック-</title>
+<link>https://qiita.com/Katayama_Studio/items/c30a251d72b0eaf985dc</link>
+<guid>f4dd31a06170bbbefd2fd95e6c6744067d141feb7f10695e09332a3675eda0c4</guid>
+<pubDate>2026-07-03T09:35:41+09:00</pubDate>
+<description>想定読者 Copilot Studio で社内向けエージェントを作成している人 エージェントを Teams や社内ユーザー向けに公開しようとしている人 Power Automate や外部サービス連携を含むエージェントを運用する人 情シス・管理者として、Copilot ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/nudging-developers-toward-privacy-evaluating-the-impact-of-personalized-app-review-reports/</link>
-<guid>48cdbbedce973153a9cde5f419ab4401423b3eb7ff8dd1636cd04e43d1335d3b</guid>
-<pubDate>Thu, 02 Jul 2026 23:55:45 GMT</pubDate>
+<link>https://research.google/pubs/architecting-conversational-data-systems-for-stateless-llm-apis/</link>
+<guid>51e40a133b3774c12f5b1ee6330f27a3cf1e97fae53928a241936f4328c307c8</guid>
+<pubDate>Fri, 03 Jul 2026 02:03:52 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>da038e5149b1051161c0b1d2bf168226348e4757e43eee0f82af0fee728732e5</guid>
-<pubDate>Thu, 02 Jul 2026 23:55:50 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>df499107262f0044ad365c9657a39982b3506fae7179f1f4840a04d7b307a01a</guid>
+<pubDate>Fri, 03 Jul 2026 02:03:52 GMT</pubDate>
+<description>Sakana AI Blog read more Sakana AIと有限責任あずさ監査法人は、コーヒー業界のサプライチェーンを舞台にLLMエージェントの長期的な経営能力を評価する「CoffeeBench」を開発。シミュレーション実験では、最新モデル間でも経営成績に大きな差があり、長期タスク特有のモデルの特性が観察された。 read more Sakana AI Releases ‘Fugu Ultra’ to Match Frontier Performance via Autonomous Model Orchestration. Our Fugu Ultra model stands shoulder-to-shoulder with leading models like Anthropic’s Fable 5 and Mythos Preview across the industry’s most rigorous engineering, scientific, and reasoning benchmarks while delivering frontier capability without the risk of export controls. read more 戦略調査を数時間で完遂する、自律型リサーチアシスタント「Sakana Marlin」 rea</description>
 </item>
 
 </channel>
