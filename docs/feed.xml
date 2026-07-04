@@ -4,55 +4,62 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 04 Jul 2026 07:23:15 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 09:34:49 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 量子コンピュータで迷子にならないために 量子アルゴリズム編</title>
-<link>https://qiita.com/optimisuke/items/6d351c55e6a76d3fdc17</link>
-<guid>e7b9eb926c2b6ef7e073810482ca03ff119bfb53e16b72fa4fe01774acc81ff0</guid>
-<pubDate>2026-07-04T15:18:48+09:00</pubDate>
-<description>はじめに 前回は、量子回路について整理しました。 今回は第4回として、量子アルゴリズムを見ていきます。 量子回路が少しわかってくると、次に出てくるのが Shor、Grover、量子フーリエ変換、量子シミュレーション、NISQ 時代のアルゴリズムあたりです。 ここでま...</description>
+<title>【Qiita】 バイブコーディングで本当にアプリはリリースできるのか？エンジニアが実際にアプリをリリースして感じたこと</title>
+<link>https://qiita.com/yutaka_kozuka/items/cc3be5930b972130885d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>40ab1e7a5ad2edc4ccf176bf8c97b2ee3b38727acff0224953d2e32a25ddc348</guid>
+<pubDate>2026-07-03T12:06:16+09:00</pubDate>
+<description>TL;DR Q: バイブコーディングで本当にアプリをリリースできるのか？ A: できました。ただし「商用・セキュア」という条件では、非エンジニアにはまだ厳しいと感じました。 AI英語学習アプリをゼロから個人開発し、Web・iOS App Store の両方でリリースでき...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-06-09) エージェントの発見と信頼、耐量子TLSとDNSの運用が並んだ一日</title>
-<link>https://qiita.com/tetsuko_room/items/1091e85be7ea793c0fcd</link>
-<guid>09048ef4b8427049ba60572155b8ccc069c4ce97a7e928c64e4d95ff29417aaa</guid>
-<pubDate>2026-07-04T14:47:42+09:00</pubDate>
-<description>こんにちは、GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-09（UTC基準）に公開されたInter...</description>
+<title>【Qiita】 量子コンピュータで迷子にならないために ソフトウェア編</title>
+<link>https://qiita.com/optimisuke/items/0f15c893b6c7ebbd8ba9</link>
+<guid>d86f979fb410a85c155579895308df0d5cb60a8c0ad07a5d9b447ff7b69a1eb2</guid>
+<pubDate>2026-07-04T17:50:59+09:00</pubDate>
+<description>はじめに 前回は、量子アルゴリズムについて整理しました。 今回は第5回として、量子ソフトウェアを見ていきます。 とはいえ、このあたりはまだ自分も正直あまり追えていません。 なので、Qiskit の細かい API には入らずに、Hello World と、ざっくりした...</description>
 </item>
 <item>
-<title>【Qiita】 ReActループと状態機械で理解するAIエージェントフレームワークの内部設計</title>
-<link>https://qiita.com/0h-n0/items/e14c7347e9109ca6cf33</link>
-<guid>5491835b044c144a015d54ce65c4a2289f59dac55c2e652b2d31358798dd059c</guid>
-<pubDate>2026-07-04T15:39:44+09:00</pubDate>
-<description>ReActループと状態機械で理解するAIエージェントフレームワークの内部設計 この記事でわかること AIエージェントフレームワークの核である「LLM-in-the-Loop」状態機械の設計原理と実装方法 ReAct・Plan-and-Execute・Orchestra...</description>
+<title>【Qiita】 AWS AI BPRハンズオンに参加してきた話 〜業務の「強み」から始めるAI変革〜</title>
+<link>https://qiita.com/sh_fukatsu/items/fc1c292aec9e189c43a7</link>
+<guid>1f3be33f3ec7898036e73928b1e2f11362e2f90d323fe6896105be1338ba9a36</guid>
+<pubDate>2026-07-04T17:33:38+09:00</pubDate>
+<description>はじめに 先日、AWS Japan麻布台オフィスでAI BPRのハンズオンに参加してきました。これまでの技術的なハンズオンとは異なるものでしたので、感じたことをアウトプットしておきたいと思います。 きっかけは、JAWS-UG事務局の福地さんからいただいた1通の案内でした。...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeを暴走させず、実務の仕組みにするまでの全体地図【9ステップ・全36記事】</title>
-<link>https://qiita.com/4q_sano/items/73ae018dbdaa423d1899</link>
-<guid>c3a2fe1d4f275142c42f56e9b43feac91b25c463a81311fe56795f655ffef184</guid>
-<pubDate>2026-07-04T15:07:43+09:00</pubDate>
-<description>はじめに この1年ほどで、Claude Code / Codex 関連の記事を70本以上書いてきました。いちばん読まれたのは18万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術で、ありがたいことに200いいねを超えています。 ただ、本数が...</description>
+<title>【Qiita】 Databricks上のOmnigentサービスをFree Editionから試す</title>
+<link>https://qiita.com/isanakamishiro2/items/db0b9b7666ef42686fbb</link>
+<guid>887e7cd8cc48fc370b9111f57ff2eced143b75e12f08925b70569c2ce2f05e4f</guid>
+<pubDate>2026-07-04T17:27:54+09:00</pubDate>
+<description>はじめに Omnigentが面白いです。 気づけば0.4.0もリリースされ、対応するハーネスも増えるなど、非常に活発にアップデートが続いています。 簡単に言うと、OmnigentはClaude CodeやCodex、Cursor、Piといった既存のコーディングエージェント...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントが無人でゲームを作り続けるWebゲーセンが動き出すまで</title>
-<link>https://qiita.com/koo-ke/items/ca68eb2c1ce9f9bc0e48</link>
-<guid>0ae50227773c2995d5f287967a6bb3df592b1c820360d5f336f7cb45c67db9d6</guid>
-<pubDate>2026-07-04T14:59:19+09:00</pubDate>
-<description>はじめに 最近のループエンジニアリングとは如何なるものか。 乗り遅れないために実際に作ってみて、その効果を体感することにした記事です。 「PVを獲得するためのWebサイト」という架空の目標を掲げ、自動でゲームを作る「Webゲーセン」を題材に、その開発を行ってみました。 ス...</description>
+<title>【Qiita】 プロンプトを磨くのはもう古い?「コンテキストエンジニアリング」に片足を突っ込む話</title>
+<link>https://qiita.com/shoka-jp/items/770dc588dee277d7b36b</link>
+<guid>b095960f2dac7a0bc594a09710b80415ac4efb9863f5cd34a89df92bbb05799b</guid>
+<pubDate>2026-07-04T16:52:17+09:00</pubDate>
+<description>プロンプトとコンテキストの違いを1分で LLMへ入力されるのは、あなたが入力した文章だけではありません。 実際にモデルが見ているのは、例えばこんな情報です。 ここで重要なのは、 あなたが入力したプロンプトは、この中のほんの一部に過ぎないということです。 エージェントによ...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code、全自動は無理ですよね？笑</title>
+<link>https://qiita.com/skmtwork0/items/a24e820736f7dba346dc</link>
+<guid>2e6a13ee9d45a79902c28976f153a1b02878ee9346e40aaf5ce311eeded37eba</guid>
+<pubDate>2026-07-04T16:50:04+09:00</pubDate>
+<description>先に言っておくと、私はClaude Codeを毎日使っています。使っているからこそ、同じ人いるんじゃないかと思い書いています。 そんな万能なものあれば全ての人はClaudeしか使わなくなる・・・ Claude Code、使えないですよね？笑 いやAI全般に言えることですが、...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/how-google-sres-use-gemini-cli-to-solve-real-world-outages/</link>
-<guid>60cd4a59cb4f8a0ab4ffa62882daade6fbaa7c4109e305399937de45fbf1c5db</guid>
-<pubDate>Sat, 04 Jul 2026 07:21:44 GMT</pubDate>
+<link>https://research.google/pubs/dynamic-case-precedent-an-architecture-for-accelerating-agent-proficiency-and-resolution-consistency-in-large-scale-people-operations/</link>
+<guid>697cf2fc5d7c2a417666597bb64a49eb2833885f71cb9d61691c6bc7a1e880af</guid>
+<pubDate>Sat, 04 Jul 2026 09:34:09 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>a0a4f57a211049dd38cd7a70c64ce6bb6806a726cf7138370dd9b94b64780aef</guid>
-<pubDate>Sat, 04 Jul 2026 07:21:46 GMT</pubDate>
+<guid>0880b9348971bf5cbced9efd56aa82f166f73792f04a6793067585b17b2abcbc</guid>
+<pubDate>Sat, 04 Jul 2026 09:34:11 GMT</pubDate>
 <description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 
