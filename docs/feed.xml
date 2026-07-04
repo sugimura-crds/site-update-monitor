@@ -4,35 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 04 Jul 2026 00:01:47 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 04:09:20 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 量子コンピュータで迷子にならないために 機械編</title>
-<link>https://qiita.com/optimisuke/items/10b4aee1da71497da302</link>
-<guid>9de0f51e3d148fd377626a9bf6efe201fc7ee0578a9d1f8d73de35f6ccafc182</guid>
-<pubDate>2026-07-04T07:57:09+09:00</pubDate>
-<description>はじめに 前回は、量子コンピュータを理解する入口として、物理のどこを見るかを整理しました。 今回は第2回として、機械としての量子コンピュータを見ていきます。 前回は、重ね合わせ・もつれ・干渉が大事、という話でした。ただ、それだけではまだ「コンピュータ」にはなりません...</description>
+<title>【Qiita】 【IT基礎】OSのプロセス・スレッド・スレッドプール</title>
+<link>https://qiita.com/Horiiii/items/a823055a22328ee2157e</link>
+<guid>963668601b24160927e0e340851b4b4a32b94eb428ce60dae76301d5a84294e1</guid>
+<pubDate>2026-07-04T12:12:44+09:00</pubDate>
+<description>はじめに あらためて、プロセス・スレッド周りの理解をInstanaのログを読むことで深めていきたいと思います。 1. プロセス・スレッド・スレッドプールの違い Copilotが教科書のような画像を作ってくれました！ プロセス 実行中のプログラムの実行単位。 プログラ...</description>
 </item>
 <item>
-<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 8 ]：アイテムシステムの実装1 - アイテムの取得 -</title>
-<link>https://qiita.com/OnuuuumaX/items/9f33ae2a9ef1c3622dcf</link>
-<guid>8a4a05ee7ec30fe4e83f938e79ac62cd48f96d401d03b7051a87035a8f837620</guid>
-<pubDate>2026-07-04T08:55:39+09:00</pubDate>
-<description>はじめに 前回の記事ではステージ・ギミックのJSON設定化を行いました。 今回はアイテムの定義・ステージへの配置・取得・所持パネル表示までを実装します。 やったこと アイテム関連画像作成 アイテム情報定義 ステージ定義にアイテム取得情報追加 アイテム未所持の場合に...</description>
+<title>【Qiita】 量子コンピュータで迷子にならないために 量子回路編</title>
+<link>https://qiita.com/optimisuke/items/9e5a9c0d1480ddad8eaf</link>
+<guid>a6eb87c9daead9012a9d92f28ecb3965978df79b33085d929430cfb79dbe394f</guid>
+<pubDate>2026-07-04T11:48:21+09:00</pubDate>
+<description>はじめに 前回は、機械としての量子コンピュータについて、物理方式、制御、測定、誤り訂正あたりをざっくり整理しました。 今回は第3回、量子回路を見ていきます。 量子コンピュータを勉強していると、|0⟩、H、CNOT、テンソル積、ユニタリ行列みたいな記号が出てきます。 ...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントに実行権限を渡す前の境界チェック：computer use一般化とCursor重大RCE（CVSS 9.8）から</title>
-<link>https://qiita.com/YushiYamamoto/items/103e56663f5f213415f6</link>
-<guid>e411862bb7ad0ca1135cd9270d723b96c674ce006f70c5442227f1670f348225</guid>
-<pubDate>2026-07-04T08:06:54+09:00</pubDate>
-<description>2026年6月24日、GoogleはブラウザやOSを操作する「computer use」を、単体の専用モデルではなくGemini 3.5 Flashの組み込みツールとして提供開始した。その1週間後の7月1日、Cato Networksはエディタ「Cursor」に対する2件...</description>
+<title>【Qiita】 日刊IETF (2026-06-08) BFD改訂と制約デバイスの安全参加、耐量子とエージェント認可が続いた一日 (Part2/2)</title>
+<link>https://qiita.com/tetsuko_room/items/e9625b1384a880f63e02</link>
+<guid>f3644624f33e9c97ed6bcb3f6a70cc5c64f56a0229249b90995ba4f67a3324e4</guid>
+<pubDate>2026-07-04T11:55:55+09:00</pubDate>
+<description>こんにちは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-08（UTC基準）に公開されたInt...</description>
+</item>
+<item>
+<title>【Qiita】 日刊IETF (2026-06-08) 自律システムの土台構想とJSON Structure群、EPPと経路制御の更新が並んだ一日 (Part1/2)</title>
+<link>https://qiita.com/tetsuko_room/items/b7ee816c7e04fcc6cbb3</link>
+<guid>79a545670a71414129af0912e5b35aac5c18c6608977ffabdd58caaaffc91cec</guid>
+<pubDate>2026-07-04T11:55:07+09:00</pubDate>
+<description>こんにちは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-08（UTC基準）に公開されたInte...</description>
+</item>
+<item>
+<title>【Qiita】 AIシステムの本番稼働後、誰が責任を持つのか：Forward Deployed Engineer 視点で見る監視・障害対応・改善</title>
+<link>https://qiita.com/imi-glenn/items/e55cb1eb1e5a3f9b9ea1</link>
+<guid>ee017282f1fd743b369fbe2bd3eb15d9064a8d84b3a2376479c3abedbdd35254</guid>
+<pubDate>2026-07-04T12:29:16+09:00</pubDate>
+<description>プロジェクトが本番稼働した後の問い PoC (proof of concept) では、想定したやり方でシステムが動くことを示せます。しかし本番展開では、別の問いが前面に出てきます。 本番稼働後、そのシステムには誰が責任を持つのか。 その答えによって、リリース後...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェント導入前に業務フロー図をYAMLとGASで点検する</title>
+<link>https://qiita.com/Miraigent/items/d7f25d7b369b9958cce6</link>
+<guid>0cc2007d5a78b1d9d32eed78f5cbc818dded61e0ad8585701563a3db764a0dca</guid>
+<pubDate>2026-07-04T11:22:13+09:00</pubDate>
+<description>AIエージェントや自動返信を入れる前に、まず業務フローを「人間が確認できる設定」として残すための実装メモです。 ここでは、問い合わせ対応を例にして、YAMLでフロー定義を書き、Googleスプレッドシートで運用し、Google Apps Scriptで不足や危険な自動化範囲...</description>
+</item>
+<item>
+<title>【Qiita】 AI エージェント工数、× 2/3 で見積もったら 3 週間で N=72 溜まった話 ─ 1995 年の PSP を仮想組織で走らせて見えた分布</title>
+<link>https://qiita.com/vincentmango_wen/items/7534939f9aa862fda3fb</link>
+<guid>ef01fc76ad9b83a7552e41052e1d8882e41a376b9a57b946b4ae9016825843da</guid>
+<pubDate>2026-07-04T10:25:57+09:00</pubDate>
+<description>私は Claude Code を中心とした AI エージェント群で「仮想組織」を運営して、SaaS の個人開発と SES の本業を回している。その仮想組織で、約 3 週間前に「全工数見積もりに × 2/3 係数を掛けて、エージェントには PSP（Personal Soft...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/automated-remediation-of-compiler-errors/</link>
-<guid>1dee07a801340332c6de65e9532a031b0d428d5a313966b7f47d902c0f6d1765</guid>
-<pubDate>Sat, 04 Jul 2026 00:00:43 GMT</pubDate>
+<link>https://research.google/pubs/dynamic-case-precedent-an-architecture-for-accelerating-agent-proficiency-and-resolution-consistency-in-large-scale-people-operations/</link>
+<guid>eee8613647eb9cd2599be2a0d75ee4e5ed127e7d05f1a6d46ff87974f8d71038</guid>
+<pubDate>Sat, 04 Jul 2026 04:08:21 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-74568-x</link>
+<guid>a9b97b56c537edbb2795fb2632ead2541dd7b6c5ea76832120e7986eb3779eaf</guid>
+<pubDate>Sat, 04 Jul 2026 04:08:23 GMT</pubDate>
+<description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>264b056907996ea149abf0852a9ddb4857468c83729ea75a22def72d3a0df90c</guid>
+<pubDate>Sat, 04 Jul 2026 04:08:25 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
 </channel>
