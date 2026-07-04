@@ -4,28 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 03 Jul 2026 22:58:15 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 00:01:47 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 量子コンピュータで迷子にならないために 物理編</title>
-<link>https://qiita.com/optimisuke/items/b908c008d596d8c42b00</link>
-<guid>589aba48fdf1d8f7207d74d63271c451220b170f0fe981b12241ee72713b63a2</guid>
-<pubDate>2026-07-04T07:31:47+09:00</pubDate>
-<description>はじめに 前回、量子コンピュータの話はレイヤーを分けると見通しがよくなる、という話を書きました。 今回はその第1回として、いちばん下の 物理（量子力学） の話を整理します。 量子コンピュータを勉強しようとすると、粒子と波、観測、不確定性原理、シュレディンガーの猫、多...</description>
+<title>【Qiita】 量子コンピュータで迷子にならないために 機械編</title>
+<link>https://qiita.com/optimisuke/items/10b4aee1da71497da302</link>
+<guid>9de0f51e3d148fd377626a9bf6efe201fc7ee0578a9d1f8d73de35f6ccafc182</guid>
+<pubDate>2026-07-04T07:57:09+09:00</pubDate>
+<description>はじめに 前回は、量子コンピュータを理解する入口として、物理のどこを見るかを整理しました。 今回は第2回として、機械としての量子コンピュータを見ていきます。 前回は、重ね合わせ・もつれ・干渉が大事、という話でした。ただ、それだけではまだ「コンピュータ」にはなりません...</description>
+</item>
+<item>
+<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 8 ]：アイテムシステムの実装1 - アイテムの取得 -</title>
+<link>https://qiita.com/OnuuuumaX/items/9f33ae2a9ef1c3622dcf</link>
+<guid>8a4a05ee7ec30fe4e83f938e79ac62cd48f96d401d03b7051a87035a8f837620</guid>
+<pubDate>2026-07-04T08:55:39+09:00</pubDate>
+<description>はじめに 前回の記事ではステージ・ギミックのJSON設定化を行いました。 今回はアイテムの定義・ステージへの配置・取得・所持パネル表示までを実装します。 やったこと アイテム関連画像作成 アイテム情報定義 ステージ定義にアイテム取得情報追加 アイテム未所持の場合に...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントに実行権限を渡す前の境界チェック：computer use一般化とCursor重大RCE（CVSS 9.8）から</title>
+<link>https://qiita.com/YushiYamamoto/items/103e56663f5f213415f6</link>
+<guid>e411862bb7ad0ca1135cd9270d723b96c674ce006f70c5442227f1670f348225</guid>
+<pubDate>2026-07-04T08:06:54+09:00</pubDate>
+<description>2026年6月24日、GoogleはブラウザやOSを操作する「computer use」を、単体の専用モデルではなくGemini 3.5 Flashの組み込みツールとして提供開始した。その1週間後の7月1日、Cato Networksはエディタ「Cursor」に対する2件...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/in-search-of-weird-corners-diagnosing-the-limits-of-convergent-ai-in-professional-creative-practice/</link>
-<guid>34d7a089340b974d4b0a756068ed9f5abab23f22a6579455c11363c2cf595a34</guid>
-<pubDate>Fri, 03 Jul 2026 22:57:11 GMT</pubDate>
+<link>https://research.google/pubs/automated-remediation-of-compiler-errors/</link>
+<guid>1dee07a801340332c6de65e9532a031b0d428d5a313966b7f47d902c0f6d1765</guid>
+<pubDate>Sat, 04 Jul 2026 00:00:43 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>8cdbf8b3507cc8738aff2e18b93b0882e8bc5de2e99c612c412c422668abc4c7</guid>
-<pubDate>Fri, 03 Jul 2026 22:57:14 GMT</pubDate>
-<description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 
 </channel>
