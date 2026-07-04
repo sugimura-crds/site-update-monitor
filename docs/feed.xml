@@ -4,77 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 04 Jul 2026 04:09:20 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 07:23:15 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【IT基礎】OSのプロセス・スレッド・スレッドプール</title>
-<link>https://qiita.com/Horiiii/items/a823055a22328ee2157e</link>
-<guid>963668601b24160927e0e340851b4b4a32b94eb428ce60dae76301d5a84294e1</guid>
-<pubDate>2026-07-04T12:12:44+09:00</pubDate>
-<description>はじめに あらためて、プロセス・スレッド周りの理解をInstanaのログを読むことで深めていきたいと思います。 1. プロセス・スレッド・スレッドプールの違い Copilotが教科書のような画像を作ってくれました！ プロセス 実行中のプログラムの実行単位。 プログラ...</description>
+<title>【Qiita】 量子コンピュータで迷子にならないために 量子アルゴリズム編</title>
+<link>https://qiita.com/optimisuke/items/6d351c55e6a76d3fdc17</link>
+<guid>e7b9eb926c2b6ef7e073810482ca03ff119bfb53e16b72fa4fe01774acc81ff0</guid>
+<pubDate>2026-07-04T15:18:48+09:00</pubDate>
+<description>はじめに 前回は、量子回路について整理しました。 今回は第4回として、量子アルゴリズムを見ていきます。 量子回路が少しわかってくると、次に出てくるのが Shor、Grover、量子フーリエ変換、量子シミュレーション、NISQ 時代のアルゴリズムあたりです。 ここでま...</description>
 </item>
 <item>
-<title>【Qiita】 量子コンピュータで迷子にならないために 量子回路編</title>
-<link>https://qiita.com/optimisuke/items/9e5a9c0d1480ddad8eaf</link>
-<guid>a6eb87c9daead9012a9d92f28ecb3965978df79b33085d929430cfb79dbe394f</guid>
-<pubDate>2026-07-04T11:48:21+09:00</pubDate>
-<description>はじめに 前回は、機械としての量子コンピュータについて、物理方式、制御、測定、誤り訂正あたりをざっくり整理しました。 今回は第3回、量子回路を見ていきます。 量子コンピュータを勉強していると、|0⟩、H、CNOT、テンソル積、ユニタリ行列みたいな記号が出てきます。 ...</description>
+<title>【Qiita】 日刊IETF (2026-06-09) エージェントの発見と信頼、耐量子TLSとDNSの運用が並んだ一日</title>
+<link>https://qiita.com/tetsuko_room/items/1091e85be7ea793c0fcd</link>
+<guid>09048ef4b8427049ba60572155b8ccc069c4ce97a7e928c64e4d95ff29417aaa</guid>
+<pubDate>2026-07-04T14:47:42+09:00</pubDate>
+<description>こんにちは、GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-09（UTC基準）に公開されたInter...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-06-08) BFD改訂と制約デバイスの安全参加、耐量子とエージェント認可が続いた一日 (Part2/2)</title>
-<link>https://qiita.com/tetsuko_room/items/e9625b1384a880f63e02</link>
-<guid>f3644624f33e9c97ed6bcb3f6a70cc5c64f56a0229249b90995ba4f67a3324e4</guid>
-<pubDate>2026-07-04T11:55:55+09:00</pubDate>
-<description>こんにちは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-08（UTC基準）に公開されたInt...</description>
+<title>【Qiita】 ReActループと状態機械で理解するAIエージェントフレームワークの内部設計</title>
+<link>https://qiita.com/0h-n0/items/e14c7347e9109ca6cf33</link>
+<guid>5491835b044c144a015d54ce65c4a2289f59dac55c2e652b2d31358798dd059c</guid>
+<pubDate>2026-07-04T15:39:44+09:00</pubDate>
+<description>ReActループと状態機械で理解するAIエージェントフレームワークの内部設計 この記事でわかること AIエージェントフレームワークの核である「LLM-in-the-Loop」状態機械の設計原理と実装方法 ReAct・Plan-and-Execute・Orchestra...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-06-08) 自律システムの土台構想とJSON Structure群、EPPと経路制御の更新が並んだ一日 (Part1/2)</title>
-<link>https://qiita.com/tetsuko_room/items/b7ee816c7e04fcc6cbb3</link>
-<guid>79a545670a71414129af0912e5b35aac5c18c6608977ffabdd58caaaffc91cec</guid>
-<pubDate>2026-07-04T11:55:07+09:00</pubDate>
-<description>こんにちは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-08（UTC基準）に公開されたInte...</description>
+<title>【Qiita】 Claude Codeを暴走させず、実務の仕組みにするまでの全体地図【9ステップ・全36記事】</title>
+<link>https://qiita.com/4q_sano/items/73ae018dbdaa423d1899</link>
+<guid>c3a2fe1d4f275142c42f56e9b43feac91b25c463a81311fe56795f655ffef184</guid>
+<pubDate>2026-07-04T15:07:43+09:00</pubDate>
+<description>はじめに この1年ほどで、Claude Code / Codex 関連の記事を70本以上書いてきました。いちばん読まれたのは18万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術で、ありがたいことに200いいねを超えています。 ただ、本数が...</description>
 </item>
 <item>
-<title>【Qiita】 AIシステムの本番稼働後、誰が責任を持つのか：Forward Deployed Engineer 視点で見る監視・障害対応・改善</title>
-<link>https://qiita.com/imi-glenn/items/e55cb1eb1e5a3f9b9ea1</link>
-<guid>ee017282f1fd743b369fbe2bd3eb15d9064a8d84b3a2376479c3abedbdd35254</guid>
-<pubDate>2026-07-04T12:29:16+09:00</pubDate>
-<description>プロジェクトが本番稼働した後の問い PoC (proof of concept) では、想定したやり方でシステムが動くことを示せます。しかし本番展開では、別の問いが前面に出てきます。 本番稼働後、そのシステムには誰が責任を持つのか。 その答えによって、リリース後...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェント導入前に業務フロー図をYAMLとGASで点検する</title>
-<link>https://qiita.com/Miraigent/items/d7f25d7b369b9958cce6</link>
-<guid>0cc2007d5a78b1d9d32eed78f5cbc818dded61e0ad8585701563a3db764a0dca</guid>
-<pubDate>2026-07-04T11:22:13+09:00</pubDate>
-<description>AIエージェントや自動返信を入れる前に、まず業務フローを「人間が確認できる設定」として残すための実装メモです。 ここでは、問い合わせ対応を例にして、YAMLでフロー定義を書き、Googleスプレッドシートで運用し、Google Apps Scriptで不足や危険な自動化範囲...</description>
-</item>
-<item>
-<title>【Qiita】 AI エージェント工数、× 2/3 で見積もったら 3 週間で N=72 溜まった話 ─ 1995 年の PSP を仮想組織で走らせて見えた分布</title>
-<link>https://qiita.com/vincentmango_wen/items/7534939f9aa862fda3fb</link>
-<guid>ef01fc76ad9b83a7552e41052e1d8882e41a376b9a57b946b4ae9016825843da</guid>
-<pubDate>2026-07-04T10:25:57+09:00</pubDate>
-<description>私は Claude Code を中心とした AI エージェント群で「仮想組織」を運営して、SaaS の個人開発と SES の本業を回している。その仮想組織で、約 3 週間前に「全工数見積もりに × 2/3 係数を掛けて、エージェントには PSP（Personal Soft...</description>
+<title>【Qiita】 AIエージェントが無人でゲームを作り続けるWebゲーセンが動き出すまで</title>
+<link>https://qiita.com/koo-ke/items/ca68eb2c1ce9f9bc0e48</link>
+<guid>0ae50227773c2995d5f287967a6bb3df592b1c820360d5f336f7cb45c67db9d6</guid>
+<pubDate>2026-07-04T14:59:19+09:00</pubDate>
+<description>はじめに 最近のループエンジニアリングとは如何なるものか。 乗り遅れないために実際に作ってみて、その効果を体感することにした記事です。 「PVを獲得するためのWebサイト」という架空の目標を掲げ、自動でゲームを作る「Webゲーセン」を題材に、その開発を行ってみました。 ス...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/dynamic-case-precedent-an-architecture-for-accelerating-agent-proficiency-and-resolution-consistency-in-large-scale-people-operations/</link>
-<guid>eee8613647eb9cd2599be2a0d75ee4e5ed127e7d05f1a6d46ff87974f8d71038</guid>
-<pubDate>Sat, 04 Jul 2026 04:08:21 GMT</pubDate>
+<link>https://research.google/pubs/how-google-sres-use-gemini-cli-to-solve-real-world-outages/</link>
+<guid>60cd4a59cb4f8a0ab4ffa62882daade6fbaa7c4109e305399937de45fbf1c5db</guid>
+<pubDate>Sat, 04 Jul 2026 07:21:44 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>a9b97b56c537edbb2795fb2632ead2541dd7b6c5ea76832120e7986eb3779eaf</guid>
-<pubDate>Sat, 04 Jul 2026 04:08:23 GMT</pubDate>
+<guid>a0a4f57a211049dd38cd7a70c64ce6bb6806a726cf7138370dd9b94b64780aef</guid>
+<pubDate>Sat, 04 Jul 2026 07:21:46 GMT</pubDate>
 <description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>264b056907996ea149abf0852a9ddb4857468c83729ea75a22def72d3a0df90c</guid>
-<pubDate>Sat, 04 Jul 2026 04:08:25 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
 </channel>
