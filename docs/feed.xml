@@ -4,27 +4,27 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 04 Jul 2026 11:19:14 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 12:40:59 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 量子コンピュータで迷子にならないために ビジネス編</title>
-<link>https://qiita.com/optimisuke/items/02111202d45a66276a68</link>
-<guid>583753dc3f8a29fd92134fc372462f516a26b8e547d066c64357260dafe1da4c</guid>
-<pubDate>2026-07-04T18:51:30+09:00</pubDate>
-<description>はじめに 前回は、量子ソフトウェア（Qiskit）についてざっくり整理しました。 今回は第6回、シリーズの最後として ビジネス編 を書きます。PoC、ポスト量子暗号、材料探索、そして時間軸の話です。 量子の話でなかなか難しいと感じるのが感じるのがこのビジネスのレイヤ...</description>
+<title>【Qiita】 Claude Code Workflowは「並列フェーズ」にだけ使え——順次処理に使うとコストが5.7倍に膨れる</title>
+<link>https://qiita.com/saitoko/items/0ebaaa74e30f3b9c957e</link>
+<guid>bfb445e5770584a4e582b6e0b4e2efbbb506133c75377c79f4ecc79fe289358a</guid>
+<pubDate>2026-07-04T20:49:04+09:00</pubDate>
+<description>この記事の要点（2026年6月）: Claude Code Workflow のAPIで「39記事へのCTA（記事末尾の誘導文）一括追加」を1本のWorkflowに任せたところ、116エージェントが起動し、4.28Mトークン・5時間17分を消費した（実測。出典は内部ログ）。...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/conditional-execution-of-transpiler-passes-based-on-per-script-feature-detection/</link>
-<guid>ccf4ca36a9997b39bd3f2529dfd0b257c3fa343e165d9131cc361492110b3dfb</guid>
-<pubDate>Sat, 04 Jul 2026 11:18:13 GMT</pubDate>
+<link>https://research.google/pubs/designing-privacy-choice-in-generative-ai-chatbot-ecosystems/</link>
+<guid>142d6f3a2cc8bf942a1199ca69f76e4573002f154f27ba3a0ffe5112a3260476</guid>
+<pubDate>Sat, 04 Jul 2026 12:39:59 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>812b05c5329c522e8a1b69bfd15d610d72998a0054aaa1d7fdbb3f1cef4ca667</guid>
-<pubDate>Sat, 04 Jul 2026 11:18:16 GMT</pubDate>
+<guid>173b4137de449911930825f15c22638664b2c717c86827781dfaf796df3365e0</guid>
+<pubDate>Sat, 04 Jul 2026 12:40:03 GMT</pubDate>
 <description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 
