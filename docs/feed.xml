@@ -4,42 +4,43 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 04 Jul 2026 16:54:50 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 17:57:12 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 日刊IETF (2026-06-14) 耐量子への備えとAIエージェント基盤、IPv6移行が並ぶ一日</title>
-<link>https://qiita.com/tetsuko_room/items/6823b2825f18532fd994</link>
-<guid>b9489abc4593348100ee18eb7253f54bfdcbc168ed17a47053bfccb173d7ce4b</guid>
-<pubDate>2026-07-05T01:39:32+09:00</pubDate>
-<description>こんばんは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-14（UTC基準）に公開されたInte...</description>
-</item>
-<item>
-<title>【Qiita】 日刊IETF (2026-06-13) AIエージェントの委譲と承認、環境証明が集まった一日</title>
-<link>https://qiita.com/tetsuko_room/items/0e466949b6ad9a987647</link>
-<guid>d138a8daca0e880d054db693bf296a016bc1fba881878c6acf816927b89e237a</guid>
-<pubDate>2026-07-05T01:26:47+09:00</pubDate>
-<description>こんばんは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-13（UTC基準）に公開されたInte...</description>
+<title>【Qiita】 【AIエージェント】Claude Code vs Antigravity CLI！一晩で200ドル溶かさないための「自律ループ制御」超入門（第8回）</title>
+<link>https://qiita.com/0903osa/items/d5f2f565c6012cf31995</link>
+<guid>269b7586a10ab7729f43ef6b266e048416e6e9c950dd72b280396c9102bca8d2</guid>
+<pubDate>2026-07-05T02:11:38+09:00</pubDate>
+<description>はじめに 僕のメンターからおすすめされた本の紹介連載、第8回です。 ※本記事では、以降 antigravity CLI のコマンド表記を agy と統一して記述します。 今回は、AIエージェントが**不可逆な操作（Merge・Deploy・Releaseなど）の前で人間の承...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/analyzing-bytes-pre-disassembly-static-binary-analysis/</link>
-<guid>07e8633d76fc0d2baf4a64b6509e0474ff0c5290614892e328b5e9e5a21c389a</guid>
-<pubDate>Sat, 04 Jul 2026 16:53:51 GMT</pubDate>
+<link>https://research.google/pubs/an-ai-system-to-help-scientists-write-expert-level-empirical-software/</link>
+<guid>b2847fe72e2a3ce89ce67def04d607fdef5168a351424ec637c9bb07bce5d9fb</guid>
+<pubDate>Sat, 04 Jul 2026 17:56:26 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>509d62fa6c8040c492fea3911aa3eeebc349895fc11ac1d3343dc337ae1a7c03</guid>
-<pubDate>Sat, 04 Jul 2026 16:53:54 GMT</pubDate>
+<guid>74c7611691e1177766190b2c9d4b5c01a72f35041c065623bc05425090cc56f9</guid>
+<pubDate>Sat, 04 Jul 2026 17:56:28 GMT</pubDate>
 <description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>498def673926b3899927b6c017ea224b436c2a1b80f4c5dd94f33e935d212385</guid>
-<pubDate>Sat, 04 Jul 2026 16:53:56 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>3e4b64a253beb45976460747600901a5b2b3c73bb0e05ac3a34bf71e526137e3</guid>
+<pubDate>Sat, 04 Jul 2026 17:56:54 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>4f3b37bb318bfbc6631bf341a190eb96d7b90e3ec099874c37341ffc37dc1834</guid>
+<pubDate>Sat, 04 Jul 2026 17:56:56 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
