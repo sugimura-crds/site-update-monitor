@@ -4,28 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 05 Jul 2026 21:53:19 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 22:53:50 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェント時代のソフトウェア設計～トークンと制約・制限が生成品質に与える影響</title>
-<link>https://qiita.com/mellowlaunch/items/62dbd81d4eb04d19e5d8</link>
-<guid>4a48cf20a88107dc9acd694a8b3dd765d63564f103bba01cbe66e35bc19ddf71</guid>
-<pubDate>2026-07-06T06:33:15+09:00</pubDate>
-<description>📚 関連書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 「ゼロから触ってわかった！Codex - AIエージェント時代のソフトウェア設計」 本書は、AIエージェン...</description>
+<title>【Qiita】 プロフェッショナルTLS＆PKI (Bulletproof TLS and PKI) 改題第2版を読む⑬ TLS 1.3 Handshakeプトロコル2</title>
+<link>https://qiita.com/gomAnomalocaris/items/1a6087c70a462e4f755e</link>
+<guid>68c0dcd7743fc70d0963a9e24d2aec7ed53bc1954046aee2398d1fbbfca5cc1f</guid>
+<pubDate>2026-07-06T07:27:56+09:00</pubDate>
+<description>⑩TLS 1.3 Handshakeプロトコルの続きです。 ClinetHelloメッセージ ClientHelloメッセージはTLS 1.3でも旧バージョンとほぼ共通です。 メッセージ本体にはセキュリティパラメーターと暗号化に関する情報を含めます。メッセージの末尾に拡張...</description>
+</item>
+<item>
+<title>【Qiita】 【IT基礎】APIとライブラリ、パッケージ</title>
+<link>https://qiita.com/Horiiii/items/f6b9141e02bc45b02880</link>
+<guid>cd729f7a857ec2e5f487266b639deb323d96d3c3dfe5d8960e1e2138c2ddcf70</guid>
+<pubDate>2026-07-06T06:52:46+09:00</pubDate>
+<description>はじめに Javaを学ぶにあたって、APIとライブラリ、パッケージについて改めて整理しました。 APIとライブラリ 用語 説明 API（Application Programming Interface） 機能をまとめて、他のプログラムから呼び出せるよう...</description>
+</item>
+<item>
+<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 10 ]：アイテムシステムの実装3 - アイテムの使用 -</title>
+<link>https://qiita.com/OnuuuumaX/items/64edd682410bc7e1cc5f</link>
+<guid>0db7d97eb231ed8b4666094751c1c04c24bbf41dea60a5218a3375c9bd1367d4</guid>
+<pubDate>2026-07-06T07:49:46+09:00</pubDate>
+<description>はじめに こちらの記事は、Axmol Engine なるものを使ってバイブコーディングでどこまでできるかを、検証と勉学を兼ねた試験的な目論見となります！ 第１回【Axmol Engine】 スプラッシュ画面シーンを実装する 第２回【Axmol Engine】 タイトル...</description>
+</item>
+<item>
+<title>【Qiita】 grill-me がバズった Matt Pocock の Claude Code skills リポジトリを一通り眺めてみた</title>
+<link>https://qiita.com/kirozero/items/28a20168ace6f0299763</link>
+<guid>6a2dfc6157c9e3dfd64f43f4b1520453cec93a9c3298412348c628ffdb04d3b3</guid>
+<pubDate>2026-07-06T07:39:46+09:00</pubDate>
+<description>Total TypeScript で有名な Matt Pocock さんが、自身の .claude ディレクトリから切り出したスキル集 mattpocock/skills を公開しています。 /grill-me（実装前に AI が人間を「尋問」して計画を固めるスキル）が X...</description>
+</item>
+<item>
+<title>【Qiita】 ハーネスエンジニアリングとは ― AIエージェントの性能を決める「足場の層」を数字で読む</title>
+<link>https://qiita.com/Yushi88/items/34690d507f59a2bd6349</link>
+<guid>f8a1fd9b8aef37925ff5ff1787d6b689864966aada4c6331cda65dc20e08c422</guid>
+<pubDate>2026-07-06T07:19:36+09:00</pubDate>
+<description>AIエージェントを実務に載せると、モデルそのものの賢さより「その周りの作り込み」で結果が変わる、と気づくことが多い。同じモデルでも、指示やツール、やり直し方しだいで挙動は別物になる。この「モデルの周りの足場」を設計する仕事を、2026年に入って ハーネスエンジニアリング（h...</description>
+</item>
+<item>
+<title>【Qiita】 Fable 5やOpusのような高性能モデルは賢いけど高い。Devinの新機能「Fusion」がコストを35〜41%削減する仕組みを調べた</title>
+<link>https://qiita.com/startdevin/items/d244df898ee29827258f</link>
+<guid>c5bd0c548526477d5d64516998ec9010e37e12174aae1e7299fbc00b9cb5ac68</guid>
+<pubDate>2026-07-06T06:57:20+09:00</pubDate>
+<description>🚀 Devin専門の解説メディア「StartDevin」を運営中！ Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています。 👉 StartDevin をチェックする（startdevin.jp） この記事にぜひ いいね していただけると励みにな...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/veriguard-enhancing-llm-agent-safety-via-verified-code-generation-2/</link>
-<guid>13cf3be5b94a3f068c831e9150bc1978953902a33e23e37cabe82f55285c41e6</guid>
-<pubDate>Sun, 05 Jul 2026 21:52:17 GMT</pubDate>
+<link>https://research.google/pubs/livesvg-zero-shot-svg-animation-via-video-generation/</link>
+<guid>a095313aa63d1914991577eeb6236bb3c7d3093cf81c9f22e51622a0d849c9e1</guid>
+<pubDate>Sun, 05 Jul 2026 22:52:55 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>93ca7058d6f2e109f466b6bbdc083fb10c2986cbcaa1f9949de6d8e5178ab94c</guid>
-<pubDate>Sun, 05 Jul 2026 21:52:21 GMT</pubDate>
-<description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 
 </channel>
