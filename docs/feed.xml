@@ -4,28 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 05 Jul 2026 20:35:01 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 21:53:19 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Codeの dataviz スキルが凄かった</title>
-<link>https://qiita.com/leomarokun/items/74212606fbf4f01d82dd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>10ffa6f87796ee89144123bc352477b00b56de41b68a12934c70e4431ee53aee</guid>
-<pubDate>2026-07-04T00:50:03+09:00</pubDate>
-<description>はじめに Claude Code （2.1.199 時点）に同梱されている dataviz スキルを使って、売上ダッシュボードを作ってみました。 完成したダッシュボード 配色もマークの太さも、自分では 1 つも決めていません。 Claude Codeの /dataviz...</description>
-</item>
-<item>
-<title>【Qiita】 SWE-benchだけではAIエージェントを測れない時代へ</title>
-<link>https://qiita.com/mhamadajp/items/2690a75a8ec34ee7b966</link>
-<guid>73d08f3f7a1a2c677e6ef032cc727026fc48ed1817d719a77849c989f30ace54</guid>
-<pubDate>2026-07-06T04:22:35+09:00</pubDate>
-<description>AIコーディングエージェントの評価は、次の段階に入り始めています。 これまで大きな役割を果たしてきたのは、SWE-benchです。 SWE-benchは、実在するGitHub IssueとPull Requestをもとに、LLMやエージェントがリポジトリを読んでバグ修正でき...</description>
+<title>【Qiita】 AIエージェント時代のソフトウェア設計～トークンと制約・制限が生成品質に与える影響</title>
+<link>https://qiita.com/mellowlaunch/items/62dbd81d4eb04d19e5d8</link>
+<guid>4a48cf20a88107dc9acd694a8b3dd765d63564f103bba01cbe66e35bc19ddf71</guid>
+<pubDate>2026-07-06T06:33:15+09:00</pubDate>
+<description>📚 関連書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 「ゼロから触ってわかった！Codex - AIエージェント時代のソフトウェア設計」 本書は、AIエージェン...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/scalable-detection-of-adversarial-synthetic-slop-and-coordinated-media-abuse-a-lora-enabled-multimodal-defense-system/</link>
-<guid>0685c581b6a52cc02d751a82a9f36e0edcd4d164203254048592fc71a051046d</guid>
-<pubDate>Sun, 05 Jul 2026 20:33:57 GMT</pubDate>
+<link>https://research.google/pubs/veriguard-enhancing-llm-agent-safety-via-verified-code-generation-2/</link>
+<guid>13cf3be5b94a3f068c831e9150bc1978953902a33e23e37cabe82f55285c41e6</guid>
+<pubDate>Sun, 05 Jul 2026 21:52:17 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-74568-x</link>
+<guid>93ca7058d6f2e109f466b6bbdc083fb10c2986cbcaa1f9949de6d8e5178ab94c</guid>
+<pubDate>Sun, 05 Jul 2026 21:52:21 GMT</pubDate>
+<description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 
 </channel>
