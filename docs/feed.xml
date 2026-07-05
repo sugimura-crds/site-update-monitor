@@ -4,55 +4,48 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 05 Jul 2026 22:53:50 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 23:58:50 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 プロフェッショナルTLS＆PKI (Bulletproof TLS and PKI) 改題第2版を読む⑬ TLS 1.3 Handshakeプトロコル2</title>
-<link>https://qiita.com/gomAnomalocaris/items/1a6087c70a462e4f755e</link>
-<guid>68c0dcd7743fc70d0963a9e24d2aec7ed53bc1954046aee2398d1fbbfca5cc1f</guid>
-<pubDate>2026-07-06T07:27:56+09:00</pubDate>
-<description>⑩TLS 1.3 Handshakeプロトコルの続きです。 ClinetHelloメッセージ ClientHelloメッセージはTLS 1.3でも旧バージョンとほぼ共通です。 メッセージ本体にはセキュリティパラメーターと暗号化に関する情報を含めます。メッセージの末尾に拡張...</description>
+<title>【Qiita】 [AIX] OpenSSH 9.9 では Host Key Algorithm +ssh-dss が無効</title>
+<link>https://qiita.com/c_u/items/4c18b428a2364c9fd5ea</link>
+<guid>d43b25d3ee95df212fae902ce5da0e84fadc23f2729c768321fd5469f07b8d0a</guid>
+<pubDate>2026-07-06T08:13:21+09:00</pubDate>
+<description>はじめに AIX 7.2 TL5 SP11 や AIX 7.3 TL3 SP2 以降（7.3.3.2 / 7.3.4.0 など） では OpenSSH がバージョン 9.9 に更新されます。 OpenSSH 9.9 では、長年非推奨とされてきた DSA 鍵アルゴリズム（s...</description>
 </item>
 <item>
-<title>【Qiita】 【IT基礎】APIとライブラリ、パッケージ</title>
-<link>https://qiita.com/Horiiii/items/f6b9141e02bc45b02880</link>
-<guid>cd729f7a857ec2e5f487266b639deb323d96d3c3dfe5d8960e1e2138c2ddcf70</guid>
-<pubDate>2026-07-06T06:52:46+09:00</pubDate>
-<description>はじめに Javaを学ぶにあたって、APIとライブラリ、パッケージについて改めて整理しました。 APIとライブラリ 用語 説明 API（Application Programming Interface） 機能をまとめて、他のプログラムから呼び出せるよう...</description>
+<title>【Qiita】 生成 AI 利用率〇パーセント達成した、次は AI エージェント〇個作成が目標？</title>
+<link>https://qiita.com/Takashi_Masumori/items/a1ae3d4cbb03aa5a2387</link>
+<guid>6dbc728f803cf1616ff128edad9e4d61d8a3b3883a3d14cd6e9da2039b52bcf3</guid>
+<pubDate>2026-07-06T08:17:17+09:00</pubDate>
+<description>はじめに 生成 AI の活用推進に取り組む組織が増えています。例えば、Microsoft 365 Copilot を導入し、利用率を指標の一つとして追いかけている組織も多いと思います。もちろん、利用率は目的ではなく手段でしかないという点は、これまでの記事でも繰り返しお伝え...</description>
 </item>
 <item>
-<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 10 ]：アイテムシステムの実装3 - アイテムの使用 -</title>
-<link>https://qiita.com/OnuuuumaX/items/64edd682410bc7e1cc5f</link>
-<guid>0db7d97eb231ed8b4666094751c1c04c24bbf41dea60a5218a3375c9bd1367d4</guid>
-<pubDate>2026-07-06T07:49:46+09:00</pubDate>
-<description>はじめに こちらの記事は、Axmol Engine なるものを使ってバイブコーディングでどこまでできるかを、検証と勉学を兼ねた試験的な目論見となります！ 第１回【Axmol Engine】 スプラッシュ画面シーンを実装する 第２回【Axmol Engine】 タイトル...</description>
+<title>【Qiita】 Claude Codeのサブエージェントで「レビュー担当」を作る手順 ― ファクトチェック係の実例つき</title>
+<link>https://qiita.com/TOSHIMITSU_MIYACHI/items/5dadd29978c9a353af56</link>
+<guid>4b846cac1dc3948fc274e2df4894fc1170db6a81dd5d421b4b1433f2f195a9d1</guid>
+<pubDate>2026-07-06T08:10:01+09:00</pubDate>
+<description>Claude Codeには、メインの会話とは別のコンテキストで動くサブエージェントを定義する仕組みがあります。.claude/agents/ にMarkdownファイルを置くだけです。 私はこれを「レビュー担当の同僚」として使っています。ブログ記事のドラフトをAIに書かせた...</description>
 </item>
 <item>
-<title>【Qiita】 grill-me がバズった Matt Pocock の Claude Code skills リポジトリを一通り眺めてみた</title>
-<link>https://qiita.com/kirozero/items/28a20168ace6f0299763</link>
-<guid>6a2dfc6157c9e3dfd64f43f4b1520453cec93a9c3298412348c628ffdb04d3b3</guid>
-<pubDate>2026-07-06T07:39:46+09:00</pubDate>
-<description>Total TypeScript で有名な Matt Pocock さんが、自身の .claude ディレクトリから切り出したスキル集 mattpocock/skills を公開しています。 /grill-me（実装前に AI が人間を「尋問」して計画を固めるスキル）が X...</description>
+<title>【Qiita】 ソフトウェア開発工程のライフサイクル仕様</title>
+<link>https://qiita.com/618kazeman/items/5e755793b80c9fbeff9e</link>
+<guid>c79027ca1b48da476a8423d2fd7133cfac58a81d50e05915b38caa77ebaa8a5e</guid>
+<pubDate>2026-07-06T08:03:43+09:00</pubDate>
+<description>システム開発における全工程を、上流のビジネス要求から下流の検証工程まで論理的にマッピングいたしましたわ。各工程は独立したフェーズではなく、前後の依存関係（トレーサビリティ）によって厳格に制約されますの。 1. プロポーザル（提案・構想フェーズ） ビジネス上の課題定義と...</description>
 </item>
 <item>
-<title>【Qiita】 ハーネスエンジニアリングとは ― AIエージェントの性能を決める「足場の層」を数字で読む</title>
-<link>https://qiita.com/Yushi88/items/34690d507f59a2bd6349</link>
-<guid>f8a1fd9b8aef37925ff5ff1787d6b689864966aada4c6331cda65dc20e08c422</guid>
-<pubDate>2026-07-06T07:19:36+09:00</pubDate>
-<description>AIエージェントを実務に載せると、モデルそのものの賢さより「その周りの作り込み」で結果が変わる、と気づくことが多い。同じモデルでも、指示やツール、やり直し方しだいで挙動は別物になる。この「モデルの周りの足場」を設計する仕事を、2026年に入って ハーネスエンジニアリング（h...</description>
-</item>
-<item>
-<title>【Qiita】 Fable 5やOpusのような高性能モデルは賢いけど高い。Devinの新機能「Fusion」がコストを35〜41%削減する仕組みを調べた</title>
-<link>https://qiita.com/startdevin/items/d244df898ee29827258f</link>
-<guid>c5bd0c548526477d5d64516998ec9010e37e12174aae1e7299fbc00b9cb5ac68</guid>
-<pubDate>2026-07-06T06:57:20+09:00</pubDate>
-<description>🚀 Devin専門の解説メディア「StartDevin」を運営中！ Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています。 👉 StartDevin をチェックする（startdevin.jp） この記事にぜひ いいね していただけると励みにな...</description>
+<title>【Qiita】 Claude Code ビルトインスキルの自動起動を CLAUDE.md でブロックする</title>
+<link>https://qiita.com/TheGateBreaker/items/7b258c1bf71d8331f992</link>
+<guid>96f3214590982207645c6e1cc3043c059bd31c5156baf84c93b9f589fc9bf67a</guid>
+<pubDate>2026-07-06T08:01:55+09:00</pubDate>
+<description>TL;DR: Claude Code が標準搭載する deep-research（公式分類はビルトインWorkflow）はトリガーフレーズで自動起動し、disable-model-invocation では止められない。CLAUDE.md に禁止ルールを書くことで自動起動を...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/livesvg-zero-shot-svg-animation-via-video-generation/</link>
-<guid>a095313aa63d1914991577eeb6236bb3c7d3093cf81c9f22e51622a0d849c9e1</guid>
-<pubDate>Sun, 05 Jul 2026 22:52:55 GMT</pubDate>
+<link>https://research.google/pubs/a-computer-vision-problem-in-flatland/</link>
+<guid>aba8a647ba3e2995a887555cbd643eb1383345c1fa6e2a61b8c7a3fd00949152</guid>
+<pubDate>Sun, 05 Jul 2026 23:57:50 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 
