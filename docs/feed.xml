@@ -4,63 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 05 Jul 2026 14:15:09 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 15:44:41 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 技術選定・検証で普段心がけていること</title>
-<link>https://qiita.com/takumiida1/items/ee2f5ba8edfe7d38057c</link>
-<guid>df865ac3e6aaa1440cba168e7df9513a30f88b2d7ee54a39e036580565cd9c74</guid>
-<pubDate>2026-07-05T22:34:28+09:00</pubDate>
-<description>Summary 技術選定においては「できること」だけでなく、制約条件（クォータ、想定外のユースケース、責任共有モデルなど）を先に把握することが持続可能な設計の前提になる 採用理由だけでなく「採用しなかった理由」を残すこと、技術検証の成功・失敗条件をあらかじめ定義してお...</description>
+<title>【Qiita】 Claude Codeはプログラミングより「業務知識」を教える方が重要でした</title>
+<link>https://qiita.com/savioka/items/f86bd085884de77491b4</link>
+<guid>04a790f51df3fec1629080947d9efce339e83fcc5389f036c1b538591497a1fc</guid>
+<pubDate>2026-07-06T00:07:38+09:00</pubDate>
+<description>Claude Codeを使い始めて約1か月。 最初は、 「どこまでコードを書いてくれるんだろう？」 ということばかり考えていました。 でも今振り返ると、一番重要だったのはそこではありませんでした。 ※テニスアプリの本番サイトは以下です。 プログラミング能力は十分高...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code で Power Automate のフローを「API経由」で作る 〜GUIを使わず clientdata を直接いじる〜</title>
-<link>https://qiita.com/katoryo_git/items/e2814759dcceb4677468</link>
-<guid>fc788215f91b36598b99f47711d71b16bfebab6d38bc4101a4f96e28499da447</guid>
-<pubDate>2026-07-05T21:41:13+09:00</pubDate>
-<description>結論 「Power Automate は GUI（デザイナー）でしか作れない」と思い込んでいましたが、Dataverse Web API で workflow テーブルの clientdata（フロー定義のJSON）を GET/PATCH すれば、コードだけでフローを作...</description>
-</item>
-<item>
-<title>【Qiita】 【ざっくり整理】Gemini API Computer Use Preview で何ができるか</title>
-<link>https://qiita.com/Tadataka_Takahashi/items/20548b4f821c13b50714</link>
-<guid>3bcd0421f8d75953aae80da67f6c364f45909c936c025a446893cf74df548225</guid>
-<pubDate>2026-07-05T22:57:52+09:00</pubDate>
-<description>はじめに Gemini API の Computer Use は、モデルにスクリーンショットを渡し、画面上で次に行うべき UI 操作を返してもらうための機能です。 ざっくり言うと、従来の「テキストを返すAI」より一歩進んで、ブラウザやデスクトップの画面を見ながら、クリッ...</description>
-</item>
-<item>
-<title>【Qiita】 コードマップ —— AIエージェントに「まず地図を見る」を習慣づける</title>
-<link>https://qiita.com/oottaa/items/33a55594afcc7ae1591c</link>
-<guid>9a3db2e055bc1bc8daa73e917340e5e630cb283cc91c6594ed835a193669c51c</guid>
-<pubDate>2026-07-05T22:33:42+09:00</pubDate>
-<description>概要 最近、コーディングエージェントの利用料が上がり、高性能モデルを常用するとコストが無視できません。できるだけ安価なモデルを指定して使いたいというのが率直なところです。 コードマップを利用して「関連ファイルを引く索引」をあらかじめ与えておけば、安価なモデルでもスキャンを...</description>
-</item>
-<item>
-<title>【Qiita】 OKFに軽量オントロジーを足したら、コンテキストの量が45%減った</title>
-<link>https://qiita.com/kirozero/items/8cf7dabd0581812d6863</link>
-<guid>7556f780989a7d9e3852409468f40afe7fe066fe4969886d1ea1c43181ceee01</guid>
-<pubDate>2026-07-05T22:14:57+09:00</pubDate>
-<description>OKF（Open Knowledge Format）は、知識を人間とAIエージェントの双方が扱いやすい形で表現するための、オープンでベンダーニュートラルなフォーマットです。 その具体的な表現として、Markdown本文とYAML frontmatterを持つファイル群を使い...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Code × Playwright MCPでテスト自動化する手順を解説</title>
-<link>https://qiita.com/kamome_susume/items/6ff4e7a8200b4a63dc91</link>
-<guid>1f993aa0972fc349de992a7154ba687ff61cc3898c4217bea722f394e81e668d</guid>
-<pubDate>2026-07-05T22:12:31+09:00</pubDate>
-<description>「新機能を作ったはいいけど、毎回ブラウザを開いて手動で動作確認するのが地味にしんどい」 「Playwrightでテストを書きたいけど、セレクタ調べたりコードを書いたりする時間がない」 そんな悩みを抱えていませんか？ AI駆動開発を進めるほど、コード生成のスピードと手動確認の...</description>
+<title>【Qiita】 なぜ、LLM会社が出しているチャットソフトとコーディングソフト以外のAIエージェントは死滅するのか？</title>
+<link>https://qiita.com/pdfractal/items/6b99ffc6f2539f0bbb13</link>
+<guid>bc18cd09f935d1cec78aaf28adedded830f461b1ee616e56f6edcdc0313786b7</guid>
+<pubDate>2026-07-05T23:50:57+09:00</pubDate>
+<description>はじめに AIエージェントという言葉は、現在のAI産業で最も過大に使われている言葉の一つです。自律的に調査し、作業し、成果物を作るという説明は魅力的ですが、その多くは独立した製品分類として長く残るものではありません。むしろ、AIエージェントは大規模言語モデル会社のチャット...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/ai-identity-and-ethical-governance-building-trust-in-high-stakes-systems/</link>
-<guid>18f62bc3cdd0538f77b66543d2ef012ddbd48bff0293e3e9631fbaeb4aa27a2c</guid>
-<pubDate>Sun, 05 Jul 2026 14:14:34 GMT</pubDate>
+<link>https://research.google/pubs/convapparel-a-benchmark-dataset-and-validation-framework-for-user-simulators-in-conversational-recommenders/</link>
+<guid>a1a50564d4ca3701e8e72b54da7833a69f2419083dbb8ebd1670840a6db26ef1</guid>
+<pubDate>Sun, 05 Jul 2026 15:43:37 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 Agentic AI for Lab Automation: Why a Lab Instrument Is Not Just Another Tool</title>
-<link>https://qpillars.com/blog</link>
-<guid>c99d6e673a573e031e74b63837cecf4619adbf098a3920b32b5c85be8a9a0a0f</guid>
-<pubDate>Sun, 05 Jul 2026 14:14:42 GMT</pubDate>
-<description>Technical insights from building intelligent laboratory infrastructure. Engineering deep dives, product updates, and industry analysis from the QPillars team.</description>
 </item>
 
 </channel>
