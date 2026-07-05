@@ -4,21 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 05 Jul 2026 01:16:14 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 05:30:02 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【AWS Summit Japan 2026】「Amazon Connect Customerで実現する進化したコンタクトセンター －エージェンティックAIが変える顧客体験－」セッションレポート</title>
-<link>https://qiita.com/yosuke-suzuki/items/70c5ef416480b084386d</link>
-<guid>1ab5483e3202343e0fb935748841b40e35690aabb3556f0567611f8ef4f8cca3</guid>
-<pubDate>2026-07-05T08:46:25+09:00</pubDate>
-<description>はじめに 2026年6月25日・26日の2日間で開催された AWS Summit Japan 2026で聴講したセッション「Amazon Connect Customerで実現する進化したコンタクトセンター －エージェンティックAIが変える顧客体験－」(BIZ326)のレ...</description>
+<title>【Qiita】 keep-coding-instructionsの付け忘れで規律が消える:output styleでSonnet/OpusをFable 5寄りにする【全文公開】</title>
+<link>https://qiita.com/4q_sano/items/68e136b22294e1575d55</link>
+<guid>de62a300099886b4ff4cafdca60b2c51fdbf3bc3ec81d1504e4094387deb6100</guid>
+<pubDate>2026-07-05T14:24:04+09:00</pubDate>
+<description>コスト・レートリミット・拒否フォールバックの都合で結局 Sonnet 5 / Opus 4.8 を使い続けるが、Fable 5 で入った「結論先行・即行動・早期終了しない」振る舞いだけは寄せたい、という人向けの記事です。Claude Code の output sty...</description>
+</item>
+<item>
+<title>【Qiita】 AGENTS.mdについて</title>
+<link>https://qiita.com/keitaMax/items/ed9887d705058437b99b</link>
+<guid>72dac2a680cc761a0ee80d0642e349f23e7d831758e0f4a18e51499145a183ff</guid>
+<pubDate>2026-07-05T14:08:44+09:00</pubDate>
+<description>はじめに こんにちは、エンジニアのkeitaMaxです。 AGENTS.mdについて整理してみます。 AGENTS.mdとは AGENTS.mdは、AIコーディングエージェント向けにプロジェクトの情報を記述する設定ファイルの規格です。Claude CodeのCLAUDE...</description>
+</item>
+<item>
+<title>【Qiita】 AIにはコードではなくデータを渡せ——71%トークン削減の実測と通用しない6つの条件&quot;</title>
+<link>https://qiita.com/TheGateBreaker/items/b51eb5435825609b0274</link>
+<guid>35c216cc2ca45cec832ff042fe7e06c301fe3e47c9a61a7249db26e0d5a11dba</guid>
+<pubDate>2026-07-05T12:13:56+09:00</pubDate>
+<description>TL;DR: AIワーカーが毎回同じボイラープレートコードを書き直しているなら、得ているのは知能ではなく繰り返し料金だ。描画ロジックをツールに固定し、AIにはJSONコンフィグだけを書かせることで、図1枚あたりのトークン消費が71%削減された（Anthropic APIの...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェント設計で「統制ゲート」を定義しないと何が起きるか——技術者が知っておくべき組織設計の原則</title>
+<link>https://qiita.com/JinFuroi_JfSol/items/8f501c3ced8e9073c027</link>
+<guid>f022bbefb7de67b269b3c006f49f4150568dd3433bc672d55722b7ab22870b6a</guid>
+<pubDate>2026-07-05T10:41:50+09:00</pubDate>
+<description>はじめに：あなたのAIエージェントは本番で動いているか PoCは動いた。精度も出た。しかし本番環境に上げた途端、誰も使わなくなった。あるいは現場が勝手にAIを使い始めて、管理できない「野良AIエージェント」が社内に増殖している。 こういった状況に心当たりがある技術者は少...</description>
+</item>
+<item>
+<title>【Qiita】 113kトークン食わせて実際に使うのは300だけだった</title>
+<link>https://qiita.com/kai_kou/items/15111c0ed0a3c141380f</link>
+<guid>40b051a205924cef95fb15be8d52e07009d8a5f4783825252b523c3ae1ab5d3e</guid>
+<pubDate>2026-07-05T13:36:27+09:00</pubDate>
+<description>はじめに 筆者は複数のサブエージェントを並列で動かすAI自動化パイプライン（ニュース収集→執筆→ファクトチェック→公開までを一気通貫で回すもの）を日常的に運用しています。あるとき、調査系のサブエージェントに「関連ファイルを全部読んでから答えて」と指示したところ、コンテキス...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/ai-identity-and-ethical-governance-building-trust-in-high-stakes-systems/</link>
-<guid>047e9839eb1546e88a553b5b24869f8dee3d4f5f2f42bb27fa3a2d5dcbc8183d</guid>
-<pubDate>Sun, 05 Jul 2026 01:15:17 GMT</pubDate>
+<link>https://research.google/pubs/who-controls-the-curriculum-for-ai-the-limits-of-participatory-design-for-educational-ai/</link>
+<guid>324838085dc0982fd63797ad53d4f6bd1f2696bdbc0ca278be8b6567dabe5835</guid>
+<pubDate>Sun, 05 Jul 2026 05:29:05 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-74568-x</link>
+<guid>677230a5622574c7479ad4c5acb7a5a9259c7a4ca7df8e3fdaa35a6cdd09b617</guid>
+<pubDate>Sun, 05 Jul 2026 05:29:07 GMT</pubDate>
+<description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>32a13a5effc0f32c5004b9dd952aab148102731620eb191a10f478ed812dafc2</guid>
+<pubDate>Sun, 05 Jul 2026 05:29:09 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
 </channel>
