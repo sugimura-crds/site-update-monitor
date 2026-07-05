@@ -4,50 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 05 Jul 2026 12:10:11 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 14:15:09 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 寸法を伝えるだけで IBM Bob が壊れたゴミ箱のパーツをモデリングしてくれた</title>
-<link>https://qiita.com/optimisuke/items/5d04b8ccd704e88f978e</link>
-<guid>420912a196bd1d4e2a3bd3ae506aefd753149967c623366ec51d61d7caa3069f</guid>
-<pubDate>2026-07-05T20:46:09+09:00</pubDate>
-<description>はじめに 机の上に置いている小さいゴミ箱の、底を支えるパーツが壊れました。。。 まだ使えるけど、パーツ単体では売っていないしなぁ、と思っていたのですが最近「これも3Dプリントできるんじゃね？」となりました。 「ハンマーを持つ人には、全てが釘に見える」と言いますが、3Dプ...</description>
+<title>【Qiita】 技術選定・検証で普段心がけていること</title>
+<link>https://qiita.com/takumiida1/items/ee2f5ba8edfe7d38057c</link>
+<guid>df865ac3e6aaa1440cba168e7df9513a30f88b2d7ee54a39e036580565cd9c74</guid>
+<pubDate>2026-07-05T22:34:28+09:00</pubDate>
+<description>Summary 技術選定においては「できること」だけでなく、制約条件（クォータ、想定外のユースケース、責任共有モデルなど）を先に把握することが持続可能な設計の前提になる 採用理由だけでなく「採用しなかった理由」を残すこと、技術検証の成功・失敗条件をあらかじめ定義してお...</description>
 </item>
 <item>
-<title>【Qiita】 ハーネスエンジニアリング入門 — Agent = Model + Harness で読み解くAIエージェント運用</title>
-<link>https://qiita.com/ryoji9702/items/065b1f2218f132d1bd3b</link>
-<guid>a3abd897fe4c1b139beac3561248bfdd008ba6d631e25bd62cea75d1a06ebae2</guid>
-<pubDate>2026-07-05T20:27:15+09:00</pubDate>
-<description>はじめに AI コーディングエージェントの実力は、使うモデルよりも モデルの周りに組んだ「足場」 で決まります。この足場を ハーネス（harness） と呼び、その設計を体系化したのが、Thoughtworks の Birgitta Böckeler が Martin F...</description>
+<title>【Qiita】 Claude Code で Power Automate のフローを「API経由」で作る 〜GUIを使わず clientdata を直接いじる〜</title>
+<link>https://qiita.com/katoryo_git/items/e2814759dcceb4677468</link>
+<guid>fc788215f91b36598b99f47711d71b16bfebab6d38bc4101a4f96e28499da447</guid>
+<pubDate>2026-07-05T21:41:13+09:00</pubDate>
+<description>結論 「Power Automate は GUI（デザイナー）でしか作れない」と思い込んでいましたが、Dataverse Web API で workflow テーブルの clientdata（フロー定義のJSON）を GET/PATCH すれば、コードだけでフローを作...</description>
 </item>
 <item>
-<title>【Qiita】 Devin CLIの`/model`にある「Adaptive PROMO」って何？モデル選びを丸投げできるルーターの正体</title>
-<link>https://qiita.com/startdevin/items/83b197bad5d817bf5f28</link>
-<guid>57c90e6ef39ec71ce735ff8987cad8065ae41b303671453d6ccc78f3ecf3d991</guid>
-<pubDate>2026-07-05T21:02:29+09:00</pubDate>
-<description>🚀 Devin専門の解説メディア「StartDevin」を運営中！ Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています。 👉 StartDevin をチェックする（startdevin.jp） この記事にぜひ いいね（LGTM） していただけ...</description>
+<title>【Qiita】 【ざっくり整理】Gemini API Computer Use Preview で何ができるか</title>
+<link>https://qiita.com/Tadataka_Takahashi/items/20548b4f821c13b50714</link>
+<guid>3bcd0421f8d75953aae80da67f6c364f45909c936c025a446893cf74df548225</guid>
+<pubDate>2026-07-05T22:57:52+09:00</pubDate>
+<description>はじめに Gemini API の Computer Use は、モデルにスクリーンショットを渡し、画面上で次に行うべき UI 操作を返してもらうための機能です。 ざっくり言うと、従来の「テキストを返すAI」より一歩進んで、ブラウザやデスクトップの画面を見ながら、クリッ...</description>
 </item>
 <item>
-<title>【Qiita】 24インチモニター2枚おじさん、画面配置に敗北する</title>
-<link>https://qiita.com/mofuteq/items/04e7894e2e7836e743f6</link>
-<guid>d9e7ede3280e86fa1d977c8c363b2fb45302200e1bb6cb45e09fbd2c2f7b1d5c</guid>
-<pubDate>2026-07-05T20:41:30+09:00</pubDate>
-<description>Vibe Codeでンホりてぇ。 そう思ったとき、どこかにVibeが足りない。 どこいっちまったんだ、心の高鳴り。 エディタは開いている。AIも喋っている。環境も、それなりに整えた。 なのに、コードが一行も増えない。 そう思っていた時期がありました。 24インチ2枚は、当...</description>
+<title>【Qiita】 コードマップ —— AIエージェントに「まず地図を見る」を習慣づける</title>
+<link>https://qiita.com/oottaa/items/33a55594afcc7ae1591c</link>
+<guid>9a3db2e055bc1bc8daa73e917340e5e630cb283cc91c6594ed835a193669c51c</guid>
+<pubDate>2026-07-05T22:33:42+09:00</pubDate>
+<description>概要 最近、コーディングエージェントの利用料が上がり、高性能モデルを常用するとコストが無視できません。できるだけ安価なモデルを指定して使いたいというのが率直なところです。 コードマップを利用して「関連ファイルを引く索引」をあらかじめ与えておけば、安価なモデルでもスキャンを...</description>
+</item>
+<item>
+<title>【Qiita】 OKFに軽量オントロジーを足したら、コンテキストの量が45%減った</title>
+<link>https://qiita.com/kirozero/items/8cf7dabd0581812d6863</link>
+<guid>7556f780989a7d9e3852409468f40afe7fe066fe4969886d1ea1c43181ceee01</guid>
+<pubDate>2026-07-05T22:14:57+09:00</pubDate>
+<description>OKF（Open Knowledge Format）は、知識を人間とAIエージェントの双方が扱いやすい形で表現するための、オープンでベンダーニュートラルなフォーマットです。 その具体的な表現として、Markdown本文とYAML frontmatterを持つファイル群を使い...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code × Playwright MCPでテスト自動化する手順を解説</title>
+<link>https://qiita.com/kamome_susume/items/6ff4e7a8200b4a63dc91</link>
+<guid>1f993aa0972fc349de992a7154ba687ff61cc3898c4217bea722f394e81e668d</guid>
+<pubDate>2026-07-05T22:12:31+09:00</pubDate>
+<description>「新機能を作ったはいいけど、毎回ブラウザを開いて手動で動作確認するのが地味にしんどい」 「Playwrightでテストを書きたいけど、セレクタ調べたりコードを書いたりする時間がない」 そんな悩みを抱えていませんか？ AI駆動開発を進めるほど、コード生成のスピードと手動確認の...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/dedubb-binary-code-size-reduction-via-post-link-basic-block-de-duplication/</link>
-<guid>2b52d91e811f7b54282569e1ceb998a21d141f8d88607ae0794e3ef65c1acc45</guid>
-<pubDate>Sun, 05 Jul 2026 12:09:31 GMT</pubDate>
+<link>https://research.google/pubs/ai-identity-and-ethical-governance-building-trust-in-high-stakes-systems/</link>
+<guid>18f62bc3cdd0538f77b66543d2ef012ddbd48bff0293e3e9631fbaeb4aa27a2c</guid>
+<pubDate>Sun, 05 Jul 2026 14:14:34 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>3ed7391a98bb030a495626bfe19b853693f08026e2ae019c53bd6ede7e0ba4fd</guid>
-<pubDate>Sun, 05 Jul 2026 12:09:54 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【Self-driving laboratories】 Agentic AI for Lab Automation: Why a Lab Instrument Is Not Just Another Tool</title>
+<link>https://qpillars.com/blog</link>
+<guid>c99d6e673a573e031e74b63837cecf4619adbf098a3920b32b5c85be8a9a0a0f</guid>
+<pubDate>Sun, 05 Jul 2026 14:14:42 GMT</pubDate>
+<description>Technical insights from building intelligent laboratory infrastructure. Engineering deep dives, product updates, and industry analysis from the QPillars team.</description>
 </item>
 
 </channel>
