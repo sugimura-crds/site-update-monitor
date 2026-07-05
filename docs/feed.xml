@@ -4,36 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 05 Jul 2026 08:26:15 GMT</lastBuildDate>
+<lastBuildDate>Sun, 05 Jul 2026 10:36:14 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Logic AppsのMIでSPOリスト登録(Graph API経由)</title>
-<link>https://qiita.com/FukuharaYohei/items/08662c86c1bc00ca3851</link>
-<guid>42bdf8e909633adebf8c3caaa631837e21d365c77b62a0940ca579b65dc47ae5</guid>
-<pubDate>2026-07-05T16:55:34+09:00</pubDate>
-<description>Logic AppsのMIでSPOリスト登録(Graph API使用) はじめに Azure Logic Apps（Consumption）から、共有シークレットを使わず ユーザー割当マネージド ID (UAMI) で Microsoft Graph API を叩き、S...</description>
+<title>【Qiita】 【YAMAHAルーター】初期化の次はこれ！実務でよく使う「設定のおまじない」ter len 0 的なもの含む</title>
+<link>https://qiita.com/Heizo_Hasegawa/items/479a6fbdc0cdf8406ea4</link>
+<guid>34f8e3cbe0f16c8c27ba0ab6f13e55b206ccdd7babeec75a951cf7e933891ba9</guid>
+<pubDate>2026-07-05T19:03:32+09:00</pubDate>
+<description>はじめに 先日投稿した記事【現場の味方YAMAHAルーター】初期化お約束コマンドと完全な「無」を作るcold start活用術では、ルーターを完全にまっさらな状態に戻す手順を解説しました。 今回は、その初期化した直後に「ひとまずこれだけは設定しておくという、よく使う定番の...</description>
+</item>
+<item>
+<title>【Qiita】 # AIエージェントの仕組み——「忘れず・暴走しない」AI会社に作り替えるまで</title>
+<link>https://qiita.com/macchan_ai_dev/items/9c74854b9b9a878603e6</link>
+<guid>6b91383d17b2714d2401a9a6588b6f4f22d7370706efb5c41c7d2dd13e4d5e40</guid>
+<pubDate>2026-07-05T18:52:29+09:00</pubDate>
+<description>TL;DR 自宅のミニPCで動かしている「AIエージェントの会社」（前回の記事）を運用して分かった、いちばん大事なことの話です。 AIに任せると、賢さとは別に 2つの問題が出ます：① セッションをまたぐと&quot;忘れる&quot; ② 自信満々で間違う・走りすぎる（&quot;暴走&quot;）。 どちら...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェント入門</title>
+<link>https://qiita.com/CO2Q/items/3801038f46d3cbea0816</link>
+<guid>110295d728b782abe7c96143062de027e4377c88b35404e88af146e8b5ac11f9</guid>
+<pubDate>2026-07-05T17:54:05+09:00</pubDate>
+<description>AIエージェントは「賢いチャット」ではない ～セッション・コンテキスト・トークンから理解するAIエージェント入門～ 目次 はじめに AIチャット・AIアシスタント・AIエージェントの違い AIエージェントは「考え続ける」仕組み 全体像：セッション・コンテキスト・トーク...</description>
+</item>
+<item>
+<title>【Qiita】 メンターからおすすめの投稿から</title>
+<link>https://qiita.com/0903osa/items/280d01a47fa3751eadda</link>
+<guid>8489caa5c59e7fd93df46f5a011b145d725697b9526f9e90b0d7e1b69c94bbad</guid>
+<pubDate>2026-07-05T17:48:13+09:00</pubDate>
+<description>今回この投稿を紹介してもらいました ２６人の部下を雇っているということだそうです 実際に見てみると、かなり詳細に一人ひとりに指示を出していますね 僕の以前の記事で申し訳ありませんが、小説を書かせる際に役割分担させていますが、この人はもっと緻密に、かつ仕事の濃淡で...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/productionizing-quantum-mass-production/</link>
-<guid>dfb24ae9d37087dfdf6bb8d54eae2ab686f678cce3a50a40cdef84d5d2214cac</guid>
-<pubDate>Sun, 05 Jul 2026 08:25:38 GMT</pubDate>
+<link>https://research.google/pubs/ten-insights-from-other-domains-that-inform-responsible-ai-frameworks/</link>
+<guid>7dcde29c9c22165b13193ce90502e937db534bae611994dfa065bcf23fbdb6bb</guid>
+<pubDate>Sun, 05 Jul 2026 10:35:15 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s42256-026-01261-5</link>
-<guid>91625aebb09d94cade580dae2591e95814000cb804e13f3b26c2b58980a5181a</guid>
-<pubDate>Sun, 05 Jul 2026 08:25:45 GMT</pubDate>
-<description>Executing experimental tasks in both normal research laboratories and large-scale scientific facilities often requires extensive human supervision and remains a key challenge on the path to fully autonomous, artificial intelligence (AI)-driven science. Here we demonstrate a large language model-driven agent that autonomously performs X-ray sample alignment on a synchrotron beamline by planning actions, executing instrumental commands, interpreting observations and iterating towards experimental goals. Based on existing large language models with structured tool-use via the model context protocol, our AI X-ray scientist was guided and tested using an in-house-built virtual experimental setup that mirrors a six-circle diffractometer at an operational synchrotron beamline. The agentic workflow developed in the virtual environment was directly deployed on a real beamline, where it correctly identified reference reflections and determined the orientation matrix, an essential first step in any type of single-crystal scattering experiment. Our AI X-ray scientist responded effectively to unexpected experimental conditions, demonstrating adaptive problem-solving and readiness for addressing</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>390105b836f1d25dfd4b5be666caca82408340a2e18a7b41cb3ddf088977b725</guid>
-<pubDate>Sun, 05 Jul 2026 08:25:57 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>05dc128f29472cb7077ff9b3d869620caabb829f53a076b21e12a129548bb0f3</guid>
+<pubDate>Sun, 05 Jul 2026 10:35:20 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
