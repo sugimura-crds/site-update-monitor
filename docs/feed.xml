@@ -4,49 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 05 Jul 2026 23:58:50 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 02:54:56 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 [AIX] OpenSSH 9.9 では Host Key Algorithm +ssh-dss が無効</title>
-<link>https://qiita.com/c_u/items/4c18b428a2364c9fd5ea</link>
-<guid>d43b25d3ee95df212fae902ce5da0e84fadc23f2729c768321fd5469f07b8d0a</guid>
-<pubDate>2026-07-06T08:13:21+09:00</pubDate>
-<description>はじめに AIX 7.2 TL5 SP11 や AIX 7.3 TL3 SP2 以降（7.3.3.2 / 7.3.4.0 など） では OpenSSH がバージョン 9.9 に更新されます。 OpenSSH 9.9 では、長年非推奨とされてきた DSA 鍵アルゴリズム（s...</description>
+<title>【Qiita】 IBM Bob Premium Package for i — スキル・ツール・ワークフロー ガイド (2026/7版)</title>
+<link>https://qiita.com/amogi23/items/1cc98872465621dc55b6</link>
+<guid>5cb0c59207f38efeb757bc8ae51d7301f9a42ec8341baf480b33a472a06afcb6</guid>
+<pubDate>2026-07-06T10:03:52+09:00</pubDate>
+<description>IBM Bob の Premium Package for i は、IBM i Developer / IBM i Database の両モードに特化したスキル・ツール・ワークフローがバンドルされています。本記事では全機能を体系的に解説します。 IBM Bobと一緒に作成し...</description>
 </item>
 <item>
-<title>【Qiita】 生成 AI 利用率〇パーセント達成した、次は AI エージェント〇個作成が目標？</title>
-<link>https://qiita.com/Takashi_Masumori/items/a1ae3d4cbb03aa5a2387</link>
-<guid>6dbc728f803cf1616ff128edad9e4d61d8a3b3883a3d14cd6e9da2039b52bcf3</guid>
-<pubDate>2026-07-06T08:17:17+09:00</pubDate>
-<description>はじめに 生成 AI の活用推進に取り組む組織が増えています。例えば、Microsoft 365 Copilot を導入し、利用率を指標の一つとして追いかけている組織も多いと思います。もちろん、利用率は目的ではなく手段でしかないという点は、これまでの記事でも繰り返しお伝え...</description>
+<title>【Qiita】 🤖 【Claude】自作Skillが「Claude Codeでは動くのにCoworkに出てこない」を解決する</title>
+<link>https://qiita.com/imamu123/items/2baf3f2f047e912dab48</link>
+<guid>6855a2e685d42e986294d14d30085ffbadb0da01f01c12c2cfd2a1f261ce1fe3</guid>
+<pubDate>2026-07-06T09:21:42+09:00</pubDate>
+<description>🙋 はじめに Claude の Skill を自作して、ターミナルの Claude Code（CLI）では問題なく動いていたのに、デスクトップの Cowork を開いたら一覧にも出てこない。こんな経験はないでしょうか。 私も、社内リポジトリから取ってきた Skill を ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeのサブエージェントで「レビュー担当」を作る手順 ― ファクトチェック係の実例つき</title>
-<link>https://qiita.com/TOSHIMITSU_MIYACHI/items/5dadd29978c9a353af56</link>
-<guid>4b846cac1dc3948fc274e2df4894fc1170db6a81dd5d421b4b1433f2f195a9d1</guid>
-<pubDate>2026-07-06T08:10:01+09:00</pubDate>
-<description>Claude Codeには、メインの会話とは別のコンテキストで動くサブエージェントを定義する仕組みがあります。.claude/agents/ にMarkdownファイルを置くだけです。 私はこれを「レビュー担当の同僚」として使っています。ブログ記事のドラフトをAIに書かせた...</description>
+<title>【Qiita】 AI検索エージェントの曖昧クエリをPythonで止める</title>
+<link>https://qiita.com/hironakamura_ai/items/6e769f7fa8626c69bf1f</link>
+<guid>2f160cd8029ea4875db08dbcd8a7f0334210f7c97423e6557042bda0ac1d1eb7</guid>
+<pubDate>2026-07-06T11:27:30+09:00</pubDate>
+<description>AI検索エージェントの曖昧クエリをPythonで止める 2026-07-05にThe DecoderでDiscoBenchの記事を読んだ。211タスク、463個の曖昧ポイントを入れた検索エージェント評価で、トップでもend-to-end accuracyが43.1%。しか...</description>
 </item>
 <item>
-<title>【Qiita】 ソフトウェア開発工程のライフサイクル仕様</title>
-<link>https://qiita.com/618kazeman/items/5e755793b80c9fbeff9e</link>
-<guid>c79027ca1b48da476a8423d2fd7133cfac58a81d50e05915b38caa77ebaa8a5e</guid>
-<pubDate>2026-07-06T08:03:43+09:00</pubDate>
-<description>システム開発における全工程を、上流のビジネス要求から下流の検証工程まで論理的にマッピングいたしましたわ。各工程は独立したフェーズではなく、前後の依存関係（トレーサビリティ）によって厳格に制約されますの。 1. プロポーザル（提案・構想フェーズ） ビジネス上の課題定義と...</description>
+<title>【Qiita】 ザッカーバーグが認めた「AIエージェントが期待ほど速く進化しない」の正体 ― 能力は伸びているのに実運用が進まない“信頼性の壁”を数式で読む</title>
+<link>https://qiita.com/bon_eng/items/1c10bd6c26495639989d</link>
+<guid>b7d61ea68e47cc64588488c44b2195cc78e331952e14e0d79950af4984b54784</guid>
+<pubDate>2026-07-06T10:55:05+09:00</pubDate>
+<description>導入 ― 年間21兆円を賭けた企業が「思ったほど加速していない」と言った 2026年7月2日、Metaの社内タウンホールでマーク・ザッカーバーグが、AIエージェント開発について踏み込んだ発言をした。少なくとも直近4か月のエージェント開発の軌道は、我々が期待したようには加速...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code ビルトインスキルの自動起動を CLAUDE.md でブロックする</title>
-<link>https://qiita.com/TheGateBreaker/items/7b258c1bf71d8331f992</link>
-<guid>96f3214590982207645c6e1cc3043c059bd31c5156baf84c93b9f589fc9bf67a</guid>
-<pubDate>2026-07-06T08:01:55+09:00</pubDate>
-<description>TL;DR: Claude Code が標準搭載する deep-research（公式分類はビルトインWorkflow）はトリガーフレーズで自動起動し、disable-model-invocation では止められない。CLAUDE.md に禁止ルールを書くことで自動起動を...</description>
+<title>【Qiita】 【AIエージェント】Claude Code vs Antigravity CLI！一晩で200ドル溶かさないための「自律ループ制御」超入門（第9回）</title>
+<link>https://qiita.com/0903osa/items/ba2f232d6a7a669b98cc</link>
+<guid>d314df0cad0c2a42b7fe87a7c5d6a6a4b7675bf0fb69d928f03079a956205d26</guid>
+<pubDate>2026-07-06T10:30:23+09:00</pubDate>
+<description>はじめに 僕のメンターからおすすめされた本の紹介連載、第9回です。 ※本記事では、以降 antigravity CLI のコマンド表記を agy と統一して記述します。 今回は、AIエージェントが***「決定論的検証ゲート（オラクル）」の連結設計と、コンテキストコストを節約...</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-computer-vision-problem-in-flatland/</link>
-<guid>aba8a647ba3e2995a887555cbd643eb1383345c1fa6e2a61b8c7a3fd00949152</guid>
-<pubDate>Sun, 05 Jul 2026 23:57:50 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 2026/07/06 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/b28f5527667a3d875fc2</link>
+<guid>8bc823997833780f5e7473ba5793b000fe64e8d50085978ee35ce88c0d98fbda</guid>
+<pubDate>2026-07-06T10:06:15+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 バイブコーディングで本当にアプリはリリースでき...</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>4d682b32bec6702c4207ff074fb4d81749206582f525b773cb53f81373528c73</guid>
+<pubDate>Mon, 06 Jul 2026 02:53:49 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more Sakana AIと有限責任あずさ監査法人は、コーヒー業界のサプライチェーンを舞台にLLMエージェントの長期的な経営能力を評価する「CoffeeBench」を開発。シミュレーション実験では、最新モデル間でも経営成績に大きな差があり、長期タスク特有のモデルの特性が観察された。 read more Sakana AI Releases ‘Fugu Ultra’ to Match Frontier Performance via Autonomous Model Orchestration. Our Fugu Ultra model stands shoulder-to-shoulder with leading models like Anthropic’s Fable 5 and Mythos Preview across the industry’s most rigorous engineering, scientific, and reasoning benchmarks while delivering frontier capability without the risk of export controls. read more 戦略調査を数時間で完遂する、自律</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>d0040a31097bbc1d951b5bd666f85d14fbc164b3a5bc1e13e19b0de38143e319</guid>
+<pubDate>Mon, 06 Jul 2026 02:53:56 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
 </channel>
