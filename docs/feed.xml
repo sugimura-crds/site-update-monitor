@@ -4,104 +4,69 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 06 Jul 2026 11:48:15 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 15:00:32 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「保守業務って地味…」と思っていた新人の自分へ</title>
-<link>https://qiita.com/masa20057/items/d3c540c868c3413704b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>79f3490c3c32f8422795100c06b1b754e88cc582c385e2b4af64e02c5c9ecd72</guid>
-<pubDate>2026-07-06T12:20:19+09:00</pubDate>
-<description>こんにちは。 株式会社PRUMのmasaです。 新人エンジニアが最初に配属されやすい「保守・運用」の仕事について、現場のリアルな実態と、そこでしか身につかない成長の機会を紹介します。「保守は地味で成長できない仕事」というイメージを持っている方に、少し違う視点が届けば嬉しいで...</description>
+<title>【Qiita】 SQL Server 2016 EOS 目前 ― Azure Arc で棚卸し・保護・ESU 延命・移行評価までを実機で確認する</title>
+<link>https://qiita.com/ManabuYamamoto/items/9598cd9d9ccf95d73790</link>
+<guid>cb133bba14f6f557c7b4ef10e53d425e343fefbfc08854c746643f748a69c34d</guid>
+<pubDate>2026-07-06T23:14:04+09:00</pubDate>
+<description>オンプレミスや他クラウド（Azure 外）で動く SQL Server を Azure Arc に接続すると、ポータル上の1つのリソースとして棚卸し・保護・移行評価までまとめて扱えます。対象は SQL Server 2012 以降（2012～2025） と幅広く、本記事で...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code で HTML を出力する際に CSS フレームワークを指定すると便利</title>
-<link>https://qiita.com/QUANON/items/db3defd280f765c135ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>29c7295c138b4d1def89f389d4bad33bd41faf5996735da47eab31b317606c96</guid>
-<pubDate>2026-07-03T18:12:43+09:00</pubDate>
-<description>HTML 出力は見やすくて自由度が高い Claude Code に成果物を出力させる際、プレーンテキストや Markdown ではなく HTML で出力させると、そのままブラウザ (Chrome など) で開くことができ、Markdown の本部プレビューと比べて人間にと...</description>
+<title>【Qiita】 New Relic MCPの回答精度を向上させるプロファイルのご紹介</title>
+<link>https://qiita.com/seamoooooo/items/e458d2a7969e8c92d9ba</link>
+<guid>453947887fe08ed520dfa1e325c1597ca299c51aeaa148360c26dbc393b71241</guid>
+<pubDate>2026-07-06T23:37:22+09:00</pubDate>
+<description>先日、AI駆動型のソフトウェア開発を加速させるNew Relic と AI IDE Kiro との連携を発表させていただきました。今回は、Kiro 向けにリリースされた公式プラグインの New Relic kiro powerの公式リポジトリを確認しながら、Kiro と N...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-06-15) エージェント委譲トークンとAPIX発見基盤、RoCEv2輻輳制御が並ぶ一日 (Part2/2)</title>
-<link>https://qiita.com/tetsuko_room/items/67162a9e5c1e01c6ac7f</link>
-<guid>535996c536f265d69670d518a11a021486136179b6cd26b3f1e30f20a6bb2d42</guid>
-<pubDate>2026-07-06T20:07:46+09:00</pubDate>
-<description>こんばんは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-15（UTC基準）に公開されたInt...</description>
+<title>【Qiita】 Cursorで使えるAIモデル比較 2026/07</title>
+<link>https://qiita.com/yashi84/items/47ab5eca7237e5d674d3</link>
+<guid>b09c4f97b137fea5596d61c6bfbdfeb00be5426ae63bf409df932c23518e8578</guid>
+<pubDate>2026-07-06T21:51:59+09:00</pubDate>
+<description>はじめに こんにちは、やしまです。 先月の記事（Cursorで使えるAIモデル比較 2026/06）から更新です。 今月は Claude Fable 5 というモデルが出てきて「なんかすごそう」という雰囲気と「米政府の輸出規制で一時停止」というてんやわんやがあったのがトピ...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-06-15) SRマルチキャストとエージェント認可、DNS運用が集まった一日 (Part1/2)</title>
-<link>https://qiita.com/tetsuko_room/items/099eaec27a578e710744</link>
-<guid>b7d32ce843d3544b816fefa562c3b74353ba01e9883a5e6f540388b03331b1d8</guid>
-<pubDate>2026-07-06T20:07:16+09:00</pubDate>
-<description>おはようございます！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-15（UTC基準）に公開された...</description>
+<title>【Qiita】 LlamaIndex×LangGraphで構築する「自己修正型RAG（CRAG）」実践実装ガイド</title>
+<link>https://qiita.com/jjking/items/36e63f84bf74bb6d2eb3</link>
+<guid>105b818ef27e4ca8c0198dd493051adebd73c68add8e1b17803c31f3a8c34b77</guid>
+<pubDate>2026-07-06T20:53:05+09:00</pubDate>
+<description>📖 この記事は、前回の記事「マルチソース＆クエリ分解で実現する高度なエージェントRAG実践ガイド」の続編です。 前回の内容をさらに深掘り・発展させてお届けします。まだお読みでない方は、先に前回の記事 マルチソース＆クエリ分解で実現する高度なエージェントRAG実践ガイド か...</description>
 </item>
 <item>
-<title>【Qiita】 MX Masterおじさん、手首痛に敗北する</title>
-<link>https://qiita.com/mofuteq/items/85809f6b5dd5c23fdfd3</link>
-<guid>a6fe03fe3ded5a5f539aee0e53c730a896eb5481087e1a30001a8d5f2d94525d</guid>
-<pubDate>2026-07-06T20:37:05+09:00</pubDate>
-<description>どうも、MX Masterおじさんです。 高速スクロール。横スクロール。親指ボタン。 くぅ〜、たまらねぇ。これが生産性マウスってやつだ。 トラックボールのどこがいいの？ 意識高いだけでは？ そう思っていた時期が、私にもありました。 今は違います。 トラックボール最高や！ ...</description>
-</item>
-<item>
-<title>【Qiita】 PCを物理的に操作してくれるAIを作ったよ</title>
-<link>https://qiita.com/tanreinama/items/1425754b57826b1f839f</link>
-<guid>6ebf1ed9299e4f0947e08bae51e5d1ebf523e29323672933e8957257cea0bf62</guid>
-<pubDate>2026-07-06T19:37:37+09:00</pubDate>
-<description>PCを物理的に操作してくれるAIを作ったよ https://github.com/reiwa-ai/hidclaw 別に受託案件の貸与PCでもエージェントで楽しようっていう訳じゃ無いんですが。 これは何か？ 動作動画を見る PCに接続すると、外部ディプレイとキーボード...</description>
-</item>
-<item>
-<title>【Qiita】 AI-BPRで業務そのものを再設計する</title>
-<link>https://qiita.com/licux/items/25e87077b6ef29162a93</link>
-<guid>6453cba53b7a971cd928254d4b1a91f9af7e1a0310b2df1e96bd2c1f60f54183</guid>
-<pubDate>2026-07-06T19:01:44+09:00</pubDate>
-<description>本記事は、AWSのML Developer Relationsである久保さん(@icoxfog417)にお声掛けいただき実施した、AI-BPRのトライアルに関する内容です。AIエージェントによる業務改善が求められる世の中で、AIを使いながら、AIとの役割を明確化し、価値を最...</description>
-</item>
-<item>
-<title>【農業】 FAO boosts support for Codex, calls for stronger implementation of global food safety standards</title>
-<link>https://www.fao.org/newsroom/detail/fao-boosts-support-for-codex--calls-for-stronger-implementation-of-global-food-safety-standards/en</link>
-<guid>b7873f31f0c2b1c84ff6f3eec998d17c8c9a4cd43cb75497a5ef255301fe17ea</guid>
+<title>【農業】 FAO-WHO 49th Session of the Codex Alimentarius Commission adopts new standards</title>
+<link>https://www.fao.org/newsroom/detail/fao-who-49th-session-of-the-codex-alimentarius-commission-adopts-new-standards/en</link>
+<guid>b51f5d832fa4dd91d62d3b897b0ca17730b9099bb53ba5eeabdf77d65cd9f192</guid>
 <pubDate>Mon, 06 Jul 2026 12:00:00 Z</pubDate>
 <description></description>
 </item>
 <item>
-<title>【自動自律実験】 Universities are relying on AI-detection software to catch cheating. How well do the programs work?</title>
-<link>https://www.nature.com/articles/d41586-026-01358-2</link>
-<guid>959a5bb706779ccdaa551f5b4f1e856ba78832cd56e38d08c8131520e98b0adf</guid>
+<title>【自動自律実験】 Deep-sea oddities and boatloads of other new species — June’s best science images</title>
+<link>https://www.nature.com/articles/d41586-026-02087-2</link>
+<guid>d1e28c6eee53585640bad7b35ac1a468321c61bdfff67ab041be4125eb515652</guid>
 <pubDate>2026-07-06</pubDate>
-<description>Technology companies say that their services can sniff out AI-generated writing, but their tools vary in technique and quality.</description>
-</item>
-<item>
-<title>【自動自律実験】 The rise of computer chips — and the race to control them</title>
-<link>https://www.nature.com/articles/d41586-026-02099-y</link>
-<guid>2e10e6b50a803ecd978d622117b423f49f2a3097af388cde00ddbd5c1815769e</guid>
-<pubDate>2026-07-06</pubDate>
-<description>An analysis sets out the history of computing beyond software and Californian entrepreneurs.</description>
-</item>
-<item>
-<title>【自動自律実験】 Time to give hydration breaks the red card? What science says about keeping cool</title>
-<link>https://www.nature.com/articles/d41586-026-02097-0</link>
-<guid>00b806fb571a94bd820528943098c6f4bb5fa677084e7559e8d49727e8ae1e7d</guid>
-<pubDate>2026-07-06</pubDate>
-<description>Inappropriate use of cooling breaks in sport is undermining trust in heat-health research.</description>
+<description>The month’s sharpest science shots — selected by Nature’s photo team.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/unveiling-the-global-landscape-of-android-security-updates/</link>
-<guid>8cb67b23e8cc561be5656914c2a0c04b905955e32d860e38d29e42cdc38f37de</guid>
-<pubDate>Mon, 06 Jul 2026 11:47:14 GMT</pubDate>
+<link>https://research.google/pubs/cardio-load-in-exercise-and-everyday-life-a-modified-trimp-metric-for-continuously-sensing-consumer-wearables/</link>
+<guid>2200017205826de34191e5812a381c1f20e758cc7a52974e587ea9e7f25591ec</guid>
+<pubDate>Mon, 06 Jul 2026 14:59:30 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-74568-x</link>
-<guid>f3cef1c8eb39e425f5abeeda0783659dc5a9d639254756a350b06faf4bb26345</guid>
-<pubDate>Mon, 06 Jul 2026 11:47:17 GMT</pubDate>
-<description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
+<link>https://www.nature.com/articles/s41467-026-75249-5</link>
+<guid>ceb470822d32f1663096dfdfdf7c3dc038d69bc1ba2c3096211fd22ae83a785d</guid>
+<pubDate>Mon, 06 Jul 2026 14:59:32 GMT</pubDate>
+<description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>44bcb9c92ceb0faacb1cb41fe235a3a15a1ce7ad91531feb5f8189ef1c7861f4</guid>
-<pubDate>Mon, 06 Jul 2026 11:47:19 GMT</pubDate>
+<guid>642adb6c1a31ee292d3d67f2bf69e5fb1c2cea74bca84d3d7aaa130f5bc2c27a</guid>
+<pubDate>Mon, 06 Jul 2026 14:59:34 GMT</pubDate>
 <description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
