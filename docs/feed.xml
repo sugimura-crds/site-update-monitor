@@ -4,35 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 06 Jul 2026 19:43:54 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 21:22:31 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 1Passwordは、あなたのマスターパスワードを一度も受信していません</title>
+<link>https://qiita.com/kenimo49/items/d1151389d17e50ad5564?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>de392d4e8a8f287093452f51e0a7c16ac943aa72a3c165da4a608a96643e151e</guid>
+<pubDate>2026-07-05T20:51:26+09:00</pubDate>
+<description>1Password のログイン時、マスターパスワードは 1Password のサーバに一度も送信されていません。 少し前まで、私はこれを知りませんでした。パスワードマネージャーなのだから、当然サーバがマスターパスワードを受け取るのだろうと思っていたのです。それで暗号化された...</description>
+</item>
+<item>
+<title>【Qiita】 OCI Speechでリアルタイム英日翻訳アプリを作ってみた：途中で変わる文字起こしを字幕にする工夫</title>
+<link>https://qiita.com/araidon/items/a742200d67e8018cda91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>24b2dc33bb422d26c0aa4c8954b335d527de985a3040dad84734d8840512bc91</guid>
+<pubDate>2026-07-05T22:21:55+09:00</pubDate>
+<description>英語の動画や会議を見ながら、日本語字幕をリアルタイムに出したい。 そのために、OCI Speech Live TranscribeとOCI Languageを使ったリアルタイム英日翻訳アプリを作りました。 この記事で扱うのは、アプリの作り方そのものではなく、OCI Spee...</description>
+</item>
+<item>
+<title>【Qiita】 Dockerfileは分けない〜本番用とローカル用を1つに保つ方法🐳</title>
+<link>https://qiita.com/H-Hoshihara/items/82798a46964718f6bdb0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>514e4786a7a09817d35490e1e6df80ad107d43881db0da8700a912b9665413dc</guid>
+<pubDate>2026-07-06T02:32:58+09:00</pubDate>
+<description>はじめに 新卒研修にてコンテナアプリケーションを構築する機会がありました。 以前、Dockerfileを本番用とローカル用で分けている現場を見たことがあったため、今回はその是非も含めて「本番環境とローカル環境でDockerfileを分けるべきか」検討しました。 本記事は、...</description>
+</item>
+<item>
+<title>【農業】 Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink</title>
+<link>https://www.nature.com/articles/s43016-026-01397-y</link>
+<guid>c8a12c37d3316fa4f4b71c5f851f80dd6c9750e5bb01acd3f15e8342195adf7e</guid>
+<pubDate>2026-07-06</pubDate>
+<description>Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/multi-modal-multi-agent-robotic-cognitive-alignment-enabled-by-non-invasive-consumer-brain-computer-interfaces-a-proof-of-concept-exploration/</link>
-<guid>db193a803a34cfc5b5152d37f364ccf1533c0d15d2799fb7965ea1f99cb2b60e</guid>
-<pubDate>Mon, 06 Jul 2026 19:42:50 GMT</pubDate>
+<link>https://research.google/pubs/system-for-a-secure-outcome-based-synthetic-labor-market-using-trusted-execution-environments/</link>
+<guid>ebfb2b0f04209b63e8626deca4b0d719b204c9d5d20f0c8b467d9373d9a0e622</guid>
+<pubDate>Mon, 06 Jul 2026 21:21:22 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>29bf8c690ef1db4fee1718bbf364628cc9fd3832594b8f68f813def2c4442748</guid>
-<pubDate>Mon, 06 Jul 2026 19:42:52 GMT</pubDate>
+<guid>72a185d063295c60a77eac2c3e9ec676d36066a8915f1bc3545acf258475dd47</guid>
+<pubDate>Mon, 06 Jul 2026 21:21:25 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>bd4ec4a257e9f1b6fdedfd4691706310fb6794f8056aa37394cfbb3e44659230</guid>
-<pubDate>Mon, 06 Jul 2026 19:42:54 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>dfcf884edb69f4bc18aa68928a79a3bedb570fc39e78a240dc371ef225f63080</guid>
+<pubDate>Mon, 06 Jul 2026 21:21:29 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s42256-026-01261-5</link>
-<guid>92f0d9363a75f3fe714653b706eca942b1ab3d4407ca83d7ecb176ce6ffb4a6d</guid>
-<pubDate>Mon, 06 Jul 2026 19:42:57 GMT</pubDate>
-<description>Executing experimental tasks in both normal research laboratories and large-scale scientific facilities often requires extensive human supervision and remains a key challenge on the path to fully autonomous, artificial intelligence (AI)-driven science. Here we demonstrate a large language model-driven agent that autonomously performs X-ray sample alignment on a synchrotron beamline by planning actions, executing instrumental commands, interpreting observations and iterating towards experimental goals. Based on existing large language models with structured tool-use via the model context protocol, our AI X-ray scientist was guided and tested using an in-house-built virtual experimental setup that mirrors a six-circle diffractometer at an operational synchrotron beamline. The agentic workflow developed in the virtual environment was directly deployed on a real beamline, where it correctly identified reference reflections and determined the orientation matrix, an essential first step in any type of single-crystal scattering experiment. Our AI X-ray scientist responded effectively to unexpected experimental conditions, demonstrating adaptive problem-solving and readiness for addressing</description>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>227b242fb53a3cf898d3ea205e086082353422ec2619a04841858633b8ab3f37</guid>
+<pubDate>Mon, 06 Jul 2026 21:21:33 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+</item>
+<item>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>96c6a54b10e49f2104a1a05929f5188fc399826a5c7ab92a0bd529c8072d7c50</guid>
+<pubDate>Mon, 06 Jul 2026 21:22:17 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+</item>
+<item>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>f8e5a1755378e30236169173a9b235dc22d013e948e2e2f6d156d3a9d9c7dd39</guid>
+<pubDate>Mon, 06 Jul 2026 21:22:21 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
