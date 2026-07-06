@@ -4,62 +4,62 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 06 Jul 2026 02:54:56 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 07:03:37 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Bob Premium Package for i — スキル・ツール・ワークフロー ガイド (2026/7版)</title>
-<link>https://qiita.com/amogi23/items/1cc98872465621dc55b6</link>
-<guid>5cb0c59207f38efeb757bc8ae51d7301f9a42ec8341baf480b33a472a06afcb6</guid>
-<pubDate>2026-07-06T10:03:52+09:00</pubDate>
-<description>IBM Bob の Premium Package for i は、IBM i Developer / IBM i Database の両モードに特化したスキル・ツール・ワークフローがバンドルされています。本記事では全機能を体系的に解説します。 IBM Bobと一緒に作成し...</description>
+<title>【Qiita】 IBM ELM を OSLC API で操作してみた</title>
+<link>https://qiita.com/optimisuke/items/6be47adb0d3c489fb9df</link>
+<guid>f3e28ac1d918270cea7830453267742c04563ec64878b4d5b17a8794c0265b58</guid>
+<pubDate>2026-07-06T13:53:15+09:00</pubDate>
+<description>はじめに IBM ELM（DOORS Next / EWM / ETM）を API 経由で操作したかったので、OSLC という標準プロトコルと Java クライアント SDK（Eclipse Lyo）で色々ためしてみました。最初に知っておけば楽だったことを整理します。 ...</description>
 </item>
 <item>
-<title>【Qiita】 🤖 【Claude】自作Skillが「Claude Codeでは動くのにCoworkに出てこない」を解決する</title>
-<link>https://qiita.com/imamu123/items/2baf3f2f047e912dab48</link>
-<guid>6855a2e685d42e986294d14d30085ffbadb0da01f01c12c2cfd2a1f261ce1fe3</guid>
-<pubDate>2026-07-06T09:21:42+09:00</pubDate>
-<description>🙋 はじめに Claude の Skill を自作して、ターミナルの Claude Code（CLI）では問題なく動いていたのに、デスクトップの Cowork を開いたら一覧にも出てこない。こんな経験はないでしょうか。 私も、社内リポジトリから取ってきた Skill を ...</description>
+<title>【Qiita】 AI Agent 時代は「うまく指示する」より「未知を見つける」が大事</title>
+<link>https://qiita.com/aktsmm/items/24e1db3b2930d56ba98c</link>
+<guid>ee9f40616c35fc34588eb0dfa43e9bb1a4b53be6cec6d139395578b5e882b03d</guid>
+<pubDate>2026-07-06T12:43:19+09:00</pubDate>
+<description>こんにちは、AI エージェントにお願いしたあと「なんか違うな……？」と一緒に首をかしげがちなアーキテクトのやまぱん！です 😅 Thariq さん（@trq212）の X 投稿 A Field Guide to Fable: Finding Your Unknowns Wor...</description>
 </item>
 <item>
-<title>【Qiita】 AI検索エージェントの曖昧クエリをPythonで止める</title>
-<link>https://qiita.com/hironakamura_ai/items/6e769f7fa8626c69bf1f</link>
-<guid>2f160cd8029ea4875db08dbcd8a7f0334210f7c97423e6557042bda0ac1d1eb7</guid>
-<pubDate>2026-07-06T11:27:30+09:00</pubDate>
-<description>AI検索エージェントの曖昧クエリをPythonで止める 2026-07-05にThe DecoderでDiscoBenchの記事を読んだ。211タスク、463個の曖昧ポイントを入れた検索エージェント評価で、トップでもend-to-end accuracyが43.1%。しか...</description>
+<title>【Qiita】 Loop Engineering とは？Anthropic が示す「プロンプトを書く」から「ループを設計する」への転換 🔁</title>
+<link>https://qiita.com/y-morimatsu/items/4a7229d9f6a302c85cfb</link>
+<guid>b45767740e6867ff483309bd28e10f4814e9565ad26b245e7d3ec7b12b587a0a</guid>
+<pubDate>2026-07-06T14:06:20+09:00</pubDate>
+<description>グラレコ はじめに Loop Engineering（ループエンジニアリング）は、AI エージェントに毎回プロンプトを書くのではなく、「エージェントが停止条件を満たすまで作業サイクルを繰り返す仕組み＝ループ」そのものを設計する、という考え方です。Anthropic は...</description>
 </item>
 <item>
-<title>【Qiita】 ザッカーバーグが認めた「AIエージェントが期待ほど速く進化しない」の正体 ― 能力は伸びているのに実運用が進まない“信頼性の壁”を数式で読む</title>
-<link>https://qiita.com/bon_eng/items/1c10bd6c26495639989d</link>
-<guid>b7d61ea68e47cc64588488c44b2195cc78e331952e14e0d79950af4984b54784</guid>
-<pubDate>2026-07-06T10:55:05+09:00</pubDate>
-<description>導入 ― 年間21兆円を賭けた企業が「思ったほど加速していない」と言った 2026年7月2日、Metaの社内タウンホールでマーク・ザッカーバーグが、AIエージェント開発について踏み込んだ発言をした。少なくとも直近4か月のエージェント開発の軌道は、我々が期待したようには加速...</description>
+<title>【Qiita】 Claude Code で辿り着いた仕様駆動開発 — 仕様を「書く」のではなく、対話とコードから生成する</title>
+<link>https://qiita.com/hrk-m/items/855132ecc5ace8164b95</link>
+<guid>7b71d0de214e804205ada8191ae62ae71b1c933a5941c468a13de8332e8bae48</guid>
+<pubDate>2026-07-06T13:17:34+09:00</pubDate>
+<description>この記事で言いたいこと（結論から） Claude Code でアプリを開発していく中で、こういう形に辿り着きました。 仕様（spec）は「手で書いて維持するもの」ではなく、「対話とコードから生成するもの」にする。 設計仕様は Claude との対話から（/plan → ...</description>
 </item>
 <item>
-<title>【Qiita】 【AIエージェント】Claude Code vs Antigravity CLI！一晩で200ドル溶かさないための「自律ループ制御」超入門（第9回）</title>
-<link>https://qiita.com/0903osa/items/ba2f232d6a7a669b98cc</link>
-<guid>d314df0cad0c2a42b7fe87a7c5d6a6a4b7675bf0fb69d928f03079a956205d26</guid>
-<pubDate>2026-07-06T10:30:23+09:00</pubDate>
-<description>はじめに 僕のメンターからおすすめされた本の紹介連載、第9回です。 ※本記事では、以降 antigravity CLI のコマンド表記を agy と統一して記述します。 今回は、AIエージェントが***「決定論的検証ゲート（オラクル）」の連結設計と、コンテキストコストを節約...</description>
+<title>【Qiita】 テストやルールになにを書くかは、なにをエージェントに任せるかで変わる</title>
+<link>https://qiita.com/masato_makino/items/e408008f1efef040f0ad</link>
+<guid>c756b1f8e45a808883fa3ab498686b958328a4ada55335d67d75e40e8afa1de3</guid>
+<pubDate>2026-07-06T13:00:43+09:00</pubDate>
+<description>この記事は2026年7月時点の情報に基づきます。モデルの能力やエージェント製品の状況は変化が速い領域のため、お読みになる時点では状況が変わっている可能性があります。 先に結論だけ モデルの世代交代がもたらすのは、同じタスクの成功率の向上だけではありません。どの工程...</description>
 </item>
 <item>
-<title>【Qiita】 2026/07/06 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/b28f5527667a3d875fc2</link>
-<guid>8bc823997833780f5e7473ba5793b000fe64e8d50085978ee35ce88c0d98fbda</guid>
-<pubDate>2026-07-06T10:06:15+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 バイブコーディングで本当にアプリはリリースでき...</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/uncovering-relationships-between-android-developers-user-privacy-and-developer-willingness-to-reduce-fingerprinting-risks/</link>
+<guid>5f08d20302047529b51be05f7b2fe6f7cd0f0bd93adfa39dd8944ad24f65f8ac</guid>
+<pubDate>Mon, 06 Jul 2026 07:02:37 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>4d682b32bec6702c4207ff074fb4d81749206582f525b773cb53f81373528c73</guid>
-<pubDate>Mon, 06 Jul 2026 02:53:49 GMT</pubDate>
-<description>Sakana AI Blog read more read more read more read more Sakana AIと有限責任あずさ監査法人は、コーヒー業界のサプライチェーンを舞台にLLMエージェントの長期的な経営能力を評価する「CoffeeBench」を開発。シミュレーション実験では、最新モデル間でも経営成績に大きな差があり、長期タスク特有のモデルの特性が観察された。 read more Sakana AI Releases ‘Fugu Ultra’ to Match Frontier Performance via Autonomous Model Orchestration. Our Fugu Ultra model stands shoulder-to-shoulder with leading models like Anthropic’s Fable 5 and Mythos Preview across the industry’s most rigorous engineering, scientific, and reasoning benchmarks while delivering frontier capability without the risk of export controls. read more 戦略調査を数時間で完遂する、自律</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-74568-x</link>
+<guid>4bc22791c1ec60d68545c08d8228e9dc7d53d89607e3c7c8646588fe3a786d45</guid>
+<pubDate>Mon, 06 Jul 2026 07:02:40 GMT</pubDate>
+<description>Developing multielement doped Pb-free (K,Na)NbO₃ piezoelectrics often hindered by complex doping trends and tedious trial-and-error experimentation. Here, we present a human-in-the-loop, artificial intelligence guided materials design framework that utilizes large language models to capture implicit structure-property knowledge from prior literatures and propose new compositions. Expert intervention further directs experimental realization based on materials science principles and experiential knowledge, accelerating discovery of targeted compositions. Using collaborative strategy, synthesized random composition exhibiting piezoelectric charge constant d33 of 440 − 500 pC/N which further enhanced to 600-620 pC/N through crystallographic texturing and sintering aid optimization. Despite inherently off-MPB degradation (at R.T), this composition maintained steady electromechanical coupling (kij) and d31 up to 160 oC. To validate practical relevance, a cantilever-based magneto-mechano-electric (MME) energy harvester was fabricated, delivering a power density of ~ 705μW/cm3 at the second harmonic, outperforming reported Pb-free MME designs. Here, we demonstrate an exceptional approach t</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>d0040a31097bbc1d951b5bd666f85d14fbc164b3a5bc1e13e19b0de38143e319</guid>
-<pubDate>Mon, 06 Jul 2026 02:53:56 GMT</pubDate>
+<guid>7571e3f406113f3766b06a6303895d95fbe4976adbf25822ee4543668fed0d76</guid>
+<pubDate>Mon, 06 Jul 2026 07:02:42 GMT</pubDate>
 <description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
