@@ -4,42 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 06 Jul 2026 22:44:24 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 23:59:41 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 TLS over TCP / Passthrough / SNI 概念整理</title>
-<link>https://qiita.com/Horiiii/items/cdc513576fbcd0a53e4a</link>
-<guid>16da568b6f42dfdf183dea93ab38b622c3703d2ab9f40f3bee7991bbfbef10a2</guid>
-<pubDate>2026-07-07T07:24:47+09:00</pubDate>
-<description>はじめに Turbonomicで、SecureClientにプロキシサーバーを使う要件として、以下があります。 この辺りのイメージが湧かないので、整理します。 TLS over TCP TLS passthrough SNI（Server Name Indication...</description>
+<title>【Qiita】 【Godot 4.x】脱出ゲームを作ってみる⑥〜Claude CodeとMCPで再利用可能なモーダルポップアップを作る〜</title>
+<link>https://qiita.com/OnuuuumaX/items/b88294068795c7a3f702</link>
+<guid>91032d1d0f144b0355737b64736513d329934ea848681759f7f5e461b646e16d</guid>
+<pubDate>2026-07-07T08:37:38+09:00</pubDate>
+<description>はじめに この記事は、Godot 4.xで脱出ゲームを作る連載の第6回です。 第1回：環境構築とプロジェクト作成 第2回：Claude Code + godot-mcpのセットアップ 第3回：Claude CodeとMCPでスプラッシュ画面を実装する 第4回：Claud...</description>
 </item>
 <item>
-<title>【Qiita】 連載：AIに仕事を奪われる不安から始めるハーネス作成入門 第11回 ローカルLLMを使うべき場面と外部LLMに任せる場面</title>
-<link>https://qiita.com/singula/items/a9f8d13b7369a45dcba4</link>
-<guid>08b0959a55cd84e7c8000d5ecf2b4d996d344cde474d6512c9fe8fe7df8eaeae</guid>
-<pubDate>2026-07-07T07:25:07+09:00</pubDate>
-<description>連載：AIに仕事を奪われる不安から始めるハーネス作成入門 第11回 / 全24回（週2回・12週間） ローカルLLMを使うべき場面と外部LLMに任せる場面 AIハーネスを作り始めると、すぐに突き当たるのが「どのLLMを使うか」という選択です。OpenAIやClaud...</description>
+<title>【Qiita】 AIエージェント用のツールを「どのシェルからでも呼べる」設計にして失敗した話（Windows / Claude Code）</title>
+<link>https://qiita.com/ishizakahiroshi/items/c934bbf321f68e2d2d77</link>
+<guid>fcd77ae4b2f95b519ee1ec7aea5cd1947f103921dbfe7ed49319dd346482b181</guid>
+<pubDate>2026-07-07T08:38:15+09:00</pubDate>
+<description>AIエージェント用のツールを「どのシェルからでも呼べる」設計にして失敗した話 先に結論だけ書きます。Windows で AI エージェント（Claude Code）に日時を取らせるなら、外部スクリプトを噛ませず、その場のシェルの組み込み機能を使うのが正解でした。 # Po...</description>
 </item>
 <item>
-<title>【Qiita】 続・ローカルLLMはClaude Codeフレームで使えるか？ ローカルLLMはClaudeの「代替」より「下請け」にする——Gemma4:26×Claude Code ハイブリッド構成の実践</title>
-<link>https://qiita.com/76Hata/items/2aa508bf4c4de41e4b35</link>
-<guid>98ef2957107115ed62c5a502694a516f74f46bdb373eed995b7a1c5ca52deaba</guid>
-<pubDate>2026-07-07T07:00:02+09:00</pubDate>
-<description>この記事で分かること 前回の試み（ローカルLLMでClaudeCodeフレームワーク代替）がなぜ壁にぶつかったか 「代替」から「役割分担」への発想の転換とその根拠 Claude Code（フロンティアLLM）をオーケストレーター、Gemma4:26（ローカルLLM）を...</description>
+<title>【Qiita】 AWS Summit Japanに現地参加したら記事を書きたくなった話 〜AWS Builders’ Fairで見た、AIで遊ぶ“自由研究”〜</title>
+<link>https://qiita.com/melktzk/items/8defff577820ea1c7a68</link>
+<guid>55061e7affd86f1221a05ee05b8452d1fa94745f48209119d9a582ebfe6b60df</guid>
+<pubDate>2026-07-07T08:36:14+09:00</pubDate>
+<description>はじめに tsuzuki(@melktzk)です。 タイトルのとおりですが、AWS Summit Japan 2026に久しぶりに現地参加をした結果、ものすごくモチベをいただけたのでどこかにこの想いをぶつけたいと思い、そのままの勢いで記事を書くことにしました。 特に刺さっ...</description>
+</item>
+<item>
+<title>【Qiita】 LLMのトークンを60〜90%削るCLIプロキシ「bdo」を機能強化してみた</title>
+<link>https://qiita.com/tedorigawa001/items/d1bac2fd93b249bd667a</link>
+<guid>880eba0c12cb891bf65d58f129704d2e8fb31a93ec4473f428cfb09b4c238682</guid>
+<pubDate>2026-07-07T08:32:47+09:00</pubDate>
+<description>はじめに Claude Code や各種コーディングエージェントを使っていると、cat・grep・git diff・cargo test といったコマンドの出力がまるごと LLM のコンテキストに流し込まれます。 この生出力はノイズが多く、コンテキストを圧迫し、トークン課...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-dynamic-numerical-model-for-real-time-estimation-of-latent-cognitive-states-using-oculomotor-metrics/</link>
-<guid>bacf816cd42a733d4e6822f70c42c8fb259f987d3820372db4741c46b4ae1ae5</guid>
-<pubDate>Mon, 06 Jul 2026 22:43:16 GMT</pubDate>
+<link>https://research.google/pubs/on-the-fly-ovd-adaptation-with-flame-few-shot-localization-via-active-marginal-samples-exploration/</link>
+<guid>831ed37878a852747016dfedff56758d3aaf3c37d668acc4926708cc5c29d2b2</guid>
+<pubDate>Mon, 06 Jul 2026 23:58:37 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s42256-026-01261-5</link>
-<guid>c5c4231b262ed883e387e35251e7df046a19884d24c21e845ac99166bbca46a8</guid>
-<pubDate>Mon, 06 Jul 2026 22:43:26 GMT</pubDate>
-<description>Executing experimental tasks in both normal research laboratories and large-scale scientific facilities often requires extensive human supervision and remains a key challenge on the path to fully autonomous, artificial intelligence (AI)-driven science. Here we demonstrate a large language model-driven agent that autonomously performs X-ray sample alignment on a synchrotron beamline by planning actions, executing instrumental commands, interpreting observations and iterating towards experimental goals. Based on existing large language models with structured tool-use via the model context protocol, our AI X-ray scientist was guided and tested using an in-house-built virtual experimental setup that mirrors a six-circle diffractometer at an operational synchrotron beamline. The agentic workflow developed in the virtual environment was directly deployed on a real beamline, where it correctly identified reference reflections and determined the orientation matrix, an essential first step in any type of single-crystal scattering experiment. Our AI X-ray scientist responded effectively to unexpected experimental conditions, demonstrating adaptive problem-solving and readiness for addressing</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75249-5</link>
+<guid>e6ab48746ea4afacda5f91b7ee466d9a33e2c74c9c0c971b80cbc6e79647d2dd</guid>
+<pubDate>Mon, 06 Jul 2026 23:58:40 GMT</pubDate>
+<description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>3525c4b1259c35c66e5109ac02a8dde10ba29d21ec37d010a615b881f9262a77</guid>
+<pubDate>Mon, 06 Jul 2026 23:58:43 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
