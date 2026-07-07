@@ -4,77 +4,134 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 07 Jul 2026 12:43:51 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 15:40:57 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 データ分析基盤の28期ゴールと挑戦 ~モデリング率向上・旧基盤CLOSE・AIエージェント開発~</title>
-<link>https://qiita.com/konot/items/dd4e4c69f3390692f4e2</link>
-<guid>bb49da7439b1e875e2c03ce55feba96772b56f1f517d792ace18fdb5f8588c6b</guid>
-<pubDate>2026-07-07T21:35:50+09:00</pubDate>
-<description>はじめに こんにちは、データ分析システム部の河野@matako1124です。 株式会社アイスタイルは、来月7月から28期を迎えます。 27期までのデータ分析基盤の取り組みについては、前回の記事で紹介しましたので、そちらをご覧いただければと思います。 本記事では、その続編と...</description>
+<title>【Qiita】 【Godot 4.x】脱出ゲームを作ってみる⑦〜スプライトシートを使ったダイヤル錠ギミックを実装する〜</title>
+<link>https://qiita.com/OnuuuumaX/items/bb1d78d4abb0d8ad6df3</link>
+<guid>35ca94e2c6ad6323d4f15c6f9e462136c53583160f7d11e856d67e7eb0397258</guid>
+<pubDate>2026-07-08T00:39:24+09:00</pubDate>
+<description>はじめに この記事は、Godot 4.xで脱出ゲームを作る連載の第7回です。 第1回：環境構築とプロジェクト作成 第2回：Claude Code + godot-mcpのセットアップ 第3回：Claude CodeとMCPでスプラッシュ画面を実装する 第4回：Claud...</description>
 </item>
 <item>
-<title>【Qiita】 【#1】承認・履歴付 OSS SSH MCP server ssh-gate -- コンセプト編</title>
-<link>https://qiita.com/yoshiyakato/items/7987aa7a671f089f06ea</link>
-<guid>b4028e5716e34b76473de887ea6687a60cb3d6168b63e48719a6c42c4648602a</guid>
-<pubDate>2026-07-07T20:41:14+09:00</pubDate>
-<description>この連載のゴール 「AI エージェントにサーバーの面倒を見させたい。でも、無断で rm -rf を打たれたら困る」——この、誰もが一度は感じる怖さを、アーキテクチャで解こうとした記録です。 作ったのは ssh-gete（ssh-mcp-server）。ひとことで言えば、A...</description>
+<title>【Qiita】 Claude Artifact でチームのナレッジベースを「育てる」— AI駆動開発チームでの実践記</title>
+<link>https://qiita.com/ryoji9702/items/f4337e26c686a5309e13</link>
+<guid>26fb51d6131f5e88d3ce109f447d554718655d4f319ff0054fcc922a2815147f</guid>
+<pubDate>2026-07-07T23:48:33+09:00</pubDate>
+<description>はじめに 筆者は最近、あるAI駆動開発チーム（社内でAIエージェントを開発フローに組み込んでいるチーム）向けに、調査資料を1本のナレッジベースにまとめる作業をしました。このとき成果物の器として選んだのが Claude の Artifact です。 最初は「HTMLを1枚吐...</description>
 </item>
 <item>
-<title>【環境】 Future-proofing interpretations of the Paris Agreement’s limit of well below 2 °C</title>
-<link>https://www.nature.com/articles/s41558-026-02685-y</link>
-<guid>5ea7e1f2df7587f6e79d4a2257549fc04840c6c09917530afb9706bc55faeb54</guid>
+<title>【Qiita】 そのAI、ルートを grep で掘り返してない？ ── MOC という知識地図で導く</title>
+<link>https://qiita.com/MotimotiNotch/items/b78856c12dc6d09b55c5</link>
+<guid>a38e6f56efd674e7e4ac5f9f3b006dc814bb482b49980e33a1a7fd19a7bff33a</guid>
+<pubDate>2026-07-08T00:21:39+09:00</pubDate>
+<description>はじめに：AI の探索を、もう少し美しく、静かに整える LLM（大規模言語モデル）と Obsidian のようなローカルナレッジベース（Vault）を組み合わせ、AI アシスタントや自律型エージェントと一緒に自分の知識を育てていくスタイルが広がっています。 では、育てたそ...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Agent SDKにおけるMCPサーバー接続フローとalwaysLoadパラメータについて</title>
+<link>https://qiita.com/har1101/items/05be8c42ac9c4c2dc5e1</link>
+<guid>08dde85f67d68b03363b1cf560bfc711e6c3fc47043dafd5f002ebf54cb1e410</guid>
+<pubDate>2026-07-08T00:01:23+09:00</pubDate>
+<description>tl;dr Claude Agent SDK(TypeScript版)でMCPサーバーを接続する際、.mcp.jsonにalwaysLoad: trueを設定しておくと、セッション開始時からMCPサーバーが使えるようになる そのMCPサーバーを常に・必ず使ってほしい場合...</description>
+</item>
+<item>
+<title>【Qiita】 Anthropic「Fable 5 / Mythos 5」全面停止事件・第3報 ── なぜFable 5は戻ってきたのか</title>
+<link>https://qiita.com/yoshiyakato/items/52d74a8d728586c492f9</link>
+<guid>dc789f09611da8c30e7972c2e6cfb576b3d12e8b4e9c7819633768833bd2c429</guid>
+<pubDate>2026-07-07T23:47:39+09:00</pubDate>
+<description>Anthropic「Fable 5 / Mythos 5」全面停止事件・第3報 ── なぜFable 5は戻ってきたのか、そして2026年7月8日に本当に起こること はじめに 本稿はシリーズ第3報です。 第1報：Anthropic「Fable 5 / Mythos...</description>
+</item>
+<item>
+<title>【Qiita】 Hermes Agentとは？Claude Code・OpenClawとの違いとセキュリティ観点まで調べてみた</title>
+<link>https://qiita.com/sei_official/items/dfd950988b8867627ea9</link>
+<guid>7a562e0046e73198f36bf9c25f06b14d8eef5f630f9da214ebadb6f18d9c6993</guid>
+<pubDate>2026-07-07T22:32:29+09:00</pubDate>
+<description>Hermes Agentとは？ChatGPT・Claude Codeとの違いを調べてみた 最近、AIエージェント関連の話題を追っていると Hermes Agent を見かける機会が増えてきました。 最初は「また新しいAIチャットかな？」と思っていましたが、公式ドキュメント...</description>
+</item>
+<item>
+<title>【環境】 Seals in changing seas dive longer</title>
+<link>https://www.nature.com/articles/s41558-026-02703-z</link>
+<guid>5a4d52b33300aca287b4073327e5ece096a17c608bfdd102f01c1440760b86cc</guid>
 <pubDate>2026-07-07</pubDate>
-<description>Here the authors show that a common interpretation of the Paris Agreement’s ‘well below 2° C’ target is changing with time, which could lead to higher overall warming. They propose that using median temperatures instead of probability ranges is more robust.</description>
+<description>Seals in changing seas dive longer</description>
 </item>
 <item>
-<title>【環境】 People systematically under- and overestimate public engagement in climate action</title>
-<link>https://www.nature.com/articles/s41558-026-02668-z</link>
-<guid>1ef30789844717e2f6e490634231506e4b5493eaf91898f9dfbbeceb08079fac</guid>
+<title>【環境】 Roots respond to phosphorus limitation</title>
+<link>https://www.nature.com/articles/s41558-026-02701-1</link>
+<guid>15ee1c3a976d98f08d3a89d92d62b8f2bf68d9f09cfb333b81e95e8a71058bfb</guid>
 <pubDate>2026-07-07</pubDate>
-<description>Unlike previous work showing that people underestimate others’ support for climate action, this study finds systematic pluralistic ignorance in both directions: frequent attitudes and actual behaviours are underestimated but rare ones are overestimated. This can be explained by general cognitive processes.</description>
+<description>Roots respond to phosphorus limitation</description>
 </item>
 <item>
-<title>【自動自律実験】 Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity</title>
-<link>https://www.nature.com/articles/s41586-026-10882-0</link>
-<guid>3dc7a2a55d07416c84a1bdbfa9cacd09747f36e7956c4b5ef366a90a73a88e8d</guid>
+<title>【環境】 Female climate leadership</title>
+<link>https://www.nature.com/articles/s41558-026-02704-y</link>
+<guid>40e49f6fb8d97cb0ceac22a4062eb5b88823baf6049f876a79e9f217dd84d823</guid>
 <pubDate>2026-07-07</pubDate>
-<description>Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity</description>
+<description>Female climate leadership</description>
 </item>
 <item>
-<title>【自動自律実験】 How to widen access to the critical minerals that the world needs</title>
-<link>https://www.nature.com/articles/d41586-026-02100-8</link>
-<guid>b0e3b444f7aa1e88cd0273d101f2fd8c90f9a0c221336ac34f41c664e8f70390</guid>
+<title>【環境】 Shifts in experiencing downpours</title>
+<link>https://www.nature.com/articles/s41558-026-02702-0</link>
+<guid>400801f2f18d78702688f54cfb322607d3b9084a7e36e92a1d61f3dba37f09b3</guid>
 <pubDate>2026-07-07</pubDate>
-<description>A patent pool and licensing architecture would enable more widespread use of key minerals than would decades of mining and refining investment alone.</description>
+<description>Shifts in experiencing downpours</description>
 </item>
 <item>
-<title>【Anthropic】 The Making of Claude Code</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>d5dae49800a1d352c36985ef9caee0cca5b4567c474cd967a579e49c5af40b25</guid>
-<pubDate>Tue, 07 Jul 2026 12:41:45 GMT</pubDate>
-<description>The inside story of how Claude Code went from an internal CLI to Anthropic&#x27;s coding agent, told by researchers, engineers and early users who built it.</description>
+<title>【環境】 Responsible carbon accounting</title>
+<link>https://www.nature.com/articles/s41558-026-02707-9</link>
+<guid>27413dd66a88b9f14f9acbbf9b503307a7e44d048ae44369bc16120515950846</guid>
+<pubDate>2026-07-07</pubDate>
+<description>Carbon accounting shapes how climate responsibility is allocated, and expanding existing frameworks could provide a stronger basis for effective and equitable climate action.</description>
+</item>
+<item>
+<title>【自動自律実験】 Say hello to hard helium</title>
+<link>https://www.nature.com/articles/d41586-026-02101-7</link>
+<guid>0753e74ac2ef1775f02b6a9b4f779705eddab646331f759b96682ba0b00c7da5</guid>
+<pubDate>2026-07-07</pubDate>
+<description>The first solidification of the second-lightest element, and evidence of an ancient salt-water lake in Peru, in this week’s pick from the Nature archive.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/dedubb-binary-code-size-reduction-via-post-link-basic-block-de-duplication/</link>
-<guid>6d7627e5bfa6ee71457d610fdf7d750b045c681e819cacbdf06f3d8832b0373e</guid>
-<pubDate>Tue, 07 Jul 2026 12:41:48 GMT</pubDate>
+<link>https://research.google/pubs/vista-towards-test-time-self-improving-video-generation-agent/</link>
+<guid>0bd4b8e2f796b58c184d767583e1bb855271b69df7c17c0f9ea98237aecfea57</guid>
+<pubDate>Tue, 07 Jul 2026 15:40:14 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>9a12cd24999127513da2f3bcf89a8aa99e710578c25b633b4367f87d0efa4091</guid>
-<pubDate>Tue, 07 Jul 2026 12:41:51 GMT</pubDate>
+<guid>e5e35768675b527fc440382cb9d61898704c282b85c386673c34db7a17895f20</guid>
+<pubDate>Tue, 07 Jul 2026 15:40:17 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Filter By:</title>
-<link>https://www.nature.com/articles/s43016-026-01380-7</link>
-<guid>9c49ea1c61881224f4f587c2bebf346e3500455665e1c89a8c312df4bb5751e7</guid>
-<pubDate>Tue, 07 Jul 2026 12:42:27 GMT</pubDate>
-<description>Global food systems must deliver nutritious, sustainable foods while sharply reducing environmental impact. Yet, food innovation remains slow, empirical and fragmented. Artificial intelligence (AI) offers a transformative path to link molecular composition to functional performance, connect chemical structure to sensory outcomes and accelerate cross-disciplinary innovation across the production pipeline. While it is broadly applicable to food systems, we focus on sustainable proteins—plant-based, fermentation-derived and cultivated—as a high-impact test bed for AI-driven closed-loop design. We review the applications, opportunities and challenges of AI for food as an emerging discipline that integrates ingredient design, formulation development, fermentation and production, texture analysis, sensory science, manufacturing and recipe generation. We identify four priorities: advancing scientific machine learning with embedded domain priors, treating food as a programmable biomaterial, building self-driving laboratories for automated discovery and developing deep reasoning models that integrate nutrition and sustainability. Integrating AI responsibly into the food innovation cycle can</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>f49c0234fdae352012c8aaf466f5e4ad461401bac23100aac5b2089295c7e8f8</guid>
+<pubDate>Tue, 07 Jul 2026 15:40:19 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>7ee6905598ead9de6338dd269f7a4d0cd609dc1e95d42f758732e7f5771a3041</guid>
+<pubDate>Tue, 07 Jul 2026 15:40:20 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
+<guid>083017fa3946bc95356d556162f7b81771676cd1c1b0f05e246830e1d389629a</guid>
+<pubDate>Tue, 07 Jul 2026 15:40:22 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>f53ec1e233c349ee5b2344d83e9c40bb5e4d923fe9e3fa9b8bb8cb77110a6db0</guid>
+<pubDate>Tue, 07 Jul 2026 15:40:37 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
