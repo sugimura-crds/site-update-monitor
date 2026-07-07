@@ -4,126 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 07 Jul 2026 10:27:34 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 12:43:51 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 『めっちゃカメレオン』のサーバー代0円ってまじ？</title>
-<link>https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>28fd7e46d5d7094ea99b2128f9108e9d34f38ccb2dcd71552005ed2bff4f082b</guid>
-<pubDate>2026-07-06T23:42:23+09:00</pubDate>
-<description>めっちゃカメレオン、流行ってますね 真っ白な体に絵を描いてステージに擬態する、新感覚のかくれんぼゲーム『めっちゃカメレオン』。 気づいたら世界的ヒットですよ この記事執筆時点で 1500 万本突破ってやばすぎないですか？ 780円 × 約1500万本 ≒ 120億円 超...</description>
+<title>【Qiita】 データ分析基盤の28期ゴールと挑戦 ~モデリング率向上・旧基盤CLOSE・AIエージェント開発~</title>
+<link>https://qiita.com/konot/items/dd4e4c69f3390692f4e2</link>
+<guid>bb49da7439b1e875e2c03ce55feba96772b56f1f517d792ace18fdb5f8588c6b</guid>
+<pubDate>2026-07-07T21:35:50+09:00</pubDate>
+<description>はじめに こんにちは、データ分析システム部の河野@matako1124です。 株式会社アイスタイルは、来月7月から28期を迎えます。 27期までのデータ分析基盤の取り組みについては、前回の記事で紹介しましたので、そちらをご覧いただければと思います。 本記事では、その続編と...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Cloud Classic Infrastructureのアクセス権限をIBM Cloud CLIで設定する</title>
-<link>https://qiita.com/masaffff/items/ee3cb3e278e7988914e0</link>
-<guid>feb06c670b8caa6820326eb9b458fc78f8fccc33d39fd175388c3c5f6222663b</guid>
-<pubDate>2026-07-07T17:03:04+09:00</pubDate>
-<description>はじめに SoftLayer の時代から IBM Cloud をご利用頂いている方は Classic Infrastructure サービスをご利用いただいているケースがほとんどだと思います。Bluemix Infrastructure &gt; IBM Cloud に統合され...</description>
+<title>【Qiita】 【#1】承認・履歴付 OSS SSH MCP server ssh-gate -- コンセプト編</title>
+<link>https://qiita.com/yoshiyakato/items/7987aa7a671f089f06ea</link>
+<guid>b4028e5716e34b76473de887ea6687a60cb3d6168b63e48719a6c42c4648602a</guid>
+<pubDate>2026-07-07T20:41:14+09:00</pubDate>
+<description>この連載のゴール 「AI エージェントにサーバーの面倒を見させたい。でも、無断で rm -rf を打たれたら困る」——この、誰もが一度は感じる怖さを、アーキテクチャで解こうとした記録です。 作ったのは ssh-gete（ssh-mcp-server）。ひとことで言えば、A...</description>
 </item>
 <item>
-<title>【Qiita】 さわってみよう Db2 AI エディション #11 〜SQLで生成AI編 Part#2〜</title>
-<link>https://qiita.com/ibm_tk/items/3085c90674561b9d80e7</link>
-<guid>acb93ced16a95dfded1bf34a8e5c0c2f069c7628539cafcecd5cb4269651a6a7</guid>
-<pubDate>2026-07-07T17:00:21+09:00</pubDate>
-<description>この記事ではDb2 for LUW v12.1.5で実装されたDb2 SQLを使った生成AI活用を概説しています。 下記Blogの抄訳です。今回はDb2 SQLを使ってエンベディングとセマンティック検索を行います。 &quot;Db2 12.1.x EAP: Call Languag...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Codeのサブエージェントを可視化できる便利ツール5選</title>
-<link>https://qiita.com/kamome_susume/items/7c459b63b9e5bde2ea8e</link>
-<guid>28804e3a063d103c4bfc1620e767650a22861047a3b1b2bb5ce4ea3c329a029c</guid>
-<pubDate>2026-07-07T18:53:52+09:00</pubDate>
-<description>Claude Codeでサブエージェントを使っていると、「今どのエージェントが動いているのか」「並列で何個走っているのか」がターミナルのログだけではわかりにくい、と感じたことはありませんか？特にExploreやgeneral-purposeを複数同時に走らせていると、どのタ...</description>
-</item>
-<item>
-<title>【Qiita】 【AIエージェント】Claude Code vs Antigravity CLI！一晩で200ドル溶かさないための「自律ループ制御」超入門（第10回）</title>
-<link>https://qiita.com/0903osa/items/02833c205d6675c7b7c3</link>
-<guid>55057f685c476b49f83040535ac15a44b33bb014c7510c7e322097f8b86ddf2b</guid>
-<pubDate>2026-07-07T17:40:24+09:00</pubDate>
-<description>はじめに 僕のメンターからおすすめされた本の紹介連載、第10回です。 ※本記事では、以降 antigravity CLI のコマンド表記を agy と統一して記述します。 今回は、コードの品質や設計をより客観的に評価するための**「三者分離（Maker・Checker・Ju...</description>
-</item>
-<item>
-<title>【Qiita】 From Paperwork to Digital Public Services in France</title>
-<link>https://qiita.com/TianqiYuan/items/fa8b4995066d2a9892da</link>
-<guid>51f1f71efadf244bb843f7fff8fcd1fa3f5e01f5d8daed09c908b66ced60adf1</guid>
-<pubDate>2026-07-07T17:19:37+09:00</pubDate>
-<description>Introduction Astrolab is one of NocoBase&#x27;s partners in Europe, Africa, and the Middle East. The company specialises in technology strate...</description>
-</item>
-<item>
-<title>【Qiita】 Android CLIとFigma MCPの相性が良かった件</title>
-<link>https://qiita.com/yosuke_hanai/items/3ced08d6197b84e11391</link>
-<guid>902d374873b3e67029ae25c8d020856c02f7ce7b90d35bd4a66952518269f8a0</guid>
-<pubDate>2026-07-07T16:53:24+09:00</pubDate>
-<description>はじめに 昨今、アプリ開発にAIエージェントを用いるのが当たり前になってきました。弊社でもClaudeCodeを導入しており、Composeを用いたUI実装の精度を高めるために試行錯誤する中で、先日導入したAndroid CLIがFigmaMCPと相性がいいことに気が付き...</description>
-</item>
-<item>
-<title>【農業】 Global food safety standards body Codex agrees on new guidance on “may contain” allergen labels</title>
-<link>https://www.fao.org/newsroom/detail/global-food-safety-standards-body-codex-adopts-new-guidance-on--may-contain--allergen-labels/en</link>
-<guid>bb1e4b3d6be2b3ed33e2543aa70d1aea04756de94e3f6dd1ea8e04316876f51b</guid>
-<pubDate>Tue, 07 Jul 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【自動自律実験】 Listen to Gen Z when it comes to AI in education</title>
-<link>https://www.nature.com/articles/d41586-026-02110-6</link>
-<guid>1f41a9dfb796328daab83cd140acdbb0c0ba811e28c08afe0aec6fe916a81335</guid>
+<title>【環境】 Future-proofing interpretations of the Paris Agreement’s limit of well below 2 °C</title>
+<link>https://www.nature.com/articles/s41558-026-02685-y</link>
+<guid>5ea7e1f2df7587f6e79d4a2257549fc04840c6c09917530afb9706bc55faeb54</guid>
 <pubDate>2026-07-07</pubDate>
-<description>Listen to Gen Z when it comes to AI in education</description>
+<description>Here the authors show that a common interpretation of the Paris Agreement’s ‘well below 2° C’ target is changing with time, which could lead to higher overall warming. They propose that using median temperatures instead of probability ranges is more robust.</description>
 </item>
 <item>
-<title>【自動自律実験】 AI can cause harm: safeguards must catch up</title>
-<link>https://www.nature.com/articles/d41586-026-02109-z</link>
-<guid>56abc31b839171d04e0f3d96c7ce54d2e1dab3a96fbbce87df3d8fa3099e57bf</guid>
+<title>【環境】 People systematically under- and overestimate public engagement in climate action</title>
+<link>https://www.nature.com/articles/s41558-026-02668-z</link>
+<guid>1ef30789844717e2f6e490634231506e4b5493eaf91898f9dfbbeceb08079fac</guid>
 <pubDate>2026-07-07</pubDate>
-<description>AI can cause harm: safeguards must catch up</description>
+<description>Unlike previous work showing that people underestimate others’ support for climate action, this study finds systematic pluralistic ignorance in both directions: frequent attitudes and actual behaviours are underestimated but rare ones are overestimated. This can be explained by general cognitive processes.</description>
 </item>
 <item>
-<title>【自動自律実験】 How long can humans live? All evidence points to a maximum of 125 years</title>
-<link>https://www.nature.com/articles/d41586-026-02111-5</link>
-<guid>fab0c06282f218738b1523911e2bb09f1883bfe1fa2c4578c83751e3dd23d6af</guid>
+<title>【自動自律実験】 Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity</title>
+<link>https://www.nature.com/articles/s41586-026-10882-0</link>
+<guid>3dc7a2a55d07416c84a1bdbfa9cacd09747f36e7956c4b5ef366a90a73a88e8d</guid>
 <pubDate>2026-07-07</pubDate>
-<description>How long can humans live? All evidence points to a maximum of 125 years</description>
+<description>Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity</description>
 </item>
 <item>
-<title>【自動自律実験】 Save Hubble: the race to preserve the space telescope kicks off</title>
-<link>https://www.nature.com/articles/d41586-026-02000-x</link>
-<guid>38ab4aee31d61dbe9ec6360e6c695e93c93a737182d91a4b5d6c7c923740d18f</guid>
+<title>【自動自律実験】 How to widen access to the critical minerals that the world needs</title>
+<link>https://www.nature.com/articles/d41586-026-02100-8</link>
+<guid>b0e3b444f7aa1e88cd0273d101f2fd8c90f9a0c221336ac34f41c664e8f70390</guid>
 <pubDate>2026-07-07</pubDate>
-<description>The orbiting observatory’s unique vision and public support continue to be crucial for understanding the Universe.</description>
+<description>A patent pool and licensing architecture would enable more widespread use of key minerals than would decades of mining and refining investment alone.</description>
 </item>
 <item>
-<title>【自動自律実験】 How to avoid dementia — what the science really says</title>
-<link>https://www.nature.com/articles/d41586-026-02098-z</link>
-<guid>02375a0b7fe95bcf01ec70e40cd26b29374ddffbb1c71fbd9375909ed29df35f</guid>
-<pubDate>2026-07-07</pubDate>
-<description>Ambitious studies have been examining the protective effects of diet, exercise and socializing — with surprising results.</description>
+<title>【Anthropic】 The Making of Claude Code</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>d5dae49800a1d352c36985ef9caee0cca5b4567c474cd967a579e49c5af40b25</guid>
+<pubDate>Tue, 07 Jul 2026 12:41:45 GMT</pubDate>
+<description>The inside story of how Claude Code went from an internal CLI to Anthropic&#x27;s coding agent, told by researchers, engineers and early users who built it.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/veriguard-enhancing-llm-agent-safety-via-verified-code-generation-2/</link>
-<guid>c5bb661fb2e1ecaab18db762b876ab957fc3833892e06f64fa8e5bbf7336d4d2</guid>
-<pubDate>Tue, 07 Jul 2026 10:26:23 GMT</pubDate>
+<link>https://research.google/pubs/dedubb-binary-code-size-reduction-via-post-link-basic-block-de-duplication/</link>
+<guid>6d7627e5bfa6ee71457d610fdf7d750b045c681e819cacbdf06f3d8832b0373e</guid>
+<pubDate>Tue, 07 Jul 2026 12:41:48 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>765ea238ff2338079e7fe865d2c1d745b0e5eba756e15501077f82d4d6c3ba45</guid>
-<pubDate>Tue, 07 Jul 2026 10:26:26 GMT</pubDate>
+<guid>9a12cd24999127513da2f3bcf89a8aa99e710578c25b633b4367f87d0efa4091</guid>
+<pubDate>Tue, 07 Jul 2026 12:41:51 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>526db0b0dde0cd07723eb9cd1fa151f3839f33d1fb093031b022e7f901b438ea</guid>
-<pubDate>Tue, 07 Jul 2026 10:26:28 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
-<link>https://www.eurohpc-ju.europa.eu/index_en</link>
-<guid>1f4f176a27ab38e6aba1a11094de7aa121351b31ec0a868dbbb4bdacfe3517c3</guid>
-<pubDate>Tue, 07 Jul 2026 10:26:38 GMT</pubDate>
-<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
+<title>【Self-driving laboratories】 Filter By:</title>
+<link>https://www.nature.com/articles/s43016-026-01380-7</link>
+<guid>9c49ea1c61881224f4f587c2bebf346e3500455665e1c89a8c312df4bb5751e7</guid>
+<pubDate>Tue, 07 Jul 2026 12:42:27 GMT</pubDate>
+<description>Global food systems must deliver nutritious, sustainable foods while sharply reducing environmental impact. Yet, food innovation remains slow, empirical and fragmented. Artificial intelligence (AI) offers a transformative path to link molecular composition to functional performance, connect chemical structure to sensory outcomes and accelerate cross-disciplinary innovation across the production pipeline. While it is broadly applicable to food systems, we focus on sustainable proteins—plant-based, fermentation-derived and cultivated—as a high-impact test bed for AI-driven closed-loop design. We review the applications, opportunities and challenges of AI for food as an emerging discipline that integrates ingredient design, formulation development, fermentation and production, texture analysis, sensory science, manufacturing and recipe generation. We identify four priorities: advancing scientific machine learning with embedded domain priors, treating food as a programmable biomaterial, building self-driving laboratories for automated discovery and developing deep reasoning models that integrate nutrition and sustainability. Integrating AI responsibly into the food innovation cycle can</description>
 </item>
 
 </channel>
