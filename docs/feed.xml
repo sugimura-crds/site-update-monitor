@@ -4,56 +4,78 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 06 Jul 2026 23:59:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 03:20:15 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【Godot 4.x】脱出ゲームを作ってみる⑥〜Claude CodeとMCPで再利用可能なモーダルポップアップを作る〜</title>
-<link>https://qiita.com/OnuuuumaX/items/b88294068795c7a3f702</link>
-<guid>91032d1d0f144b0355737b64736513d329934ea848681759f7f5e461b646e16d</guid>
-<pubDate>2026-07-07T08:37:38+09:00</pubDate>
-<description>はじめに この記事は、Godot 4.xで脱出ゲームを作る連載の第6回です。 第1回：環境構築とプロジェクト作成 第2回：Claude Code + godot-mcpのセットアップ 第3回：Claude CodeとMCPでスプラッシュ画面を実装する 第4回：Claud...</description>
+<title>【Qiita】 Configuration-as-Code 大量のリポジトリの設定ファイルを一元管理する「ghfanout」を作った</title>
+<link>https://qiita.com/seiya-koji/items/0dae90526412d6b2e13f</link>
+<guid>c8037591f3260deab77908267561e7189e80990a4fc17788116a2c1a085cc438</guid>
+<pubDate>2026-07-07T11:59:45+09:00</pubDate>
+<description>作ったもの ghfanout は、.gitignore・pom.xml・pyproject.toml・package.json のような共有設定ファイルを 1 か所で一元管理（single source of truth）し、多数の GitHub リポジトリへ Pull ...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント用のツールを「どのシェルからでも呼べる」設計にして失敗した話（Windows / Claude Code）</title>
-<link>https://qiita.com/ishizakahiroshi/items/c934bbf321f68e2d2d77</link>
-<guid>fcd77ae4b2f95b519ee1ec7aea5cd1947f103921dbfe7ed49319dd346482b181</guid>
-<pubDate>2026-07-07T08:38:15+09:00</pubDate>
-<description>AIエージェント用のツールを「どのシェルからでも呼べる」設計にして失敗した話 先に結論だけ書きます。Windows で AI エージェント（Claude Code）に日時を取らせるなら、外部スクリプトを噛ませず、その場のシェルの組み込み機能を使うのが正解でした。 # Po...</description>
+<title>【Qiita】 さわってみよう Db2 AI エディション #10 〜SQLで生成AI編 Part#1〜</title>
+<link>https://qiita.com/ibm_tk/items/54a169cffcfbb9be0fed</link>
+<guid>dd3e89ed55276ebcf98860f06565bd4ce1e418dba432a5de5c05e67b5bb4627b</guid>
+<pubDate>2026-07-07T11:45:02+09:00</pubDate>
+<description>この記事ではDb2 for LUW v12.1.5で実装されたDb2 SQLを使った生成AI活用を概説しています。下記Blogの抄訳です。 &quot;Db2 LLM Integration: Skip the Middleware. Call the Model from SQL&quot;...</description>
 </item>
 <item>
-<title>【Qiita】 AWS Summit Japanに現地参加したら記事を書きたくなった話 〜AWS Builders’ Fairで見た、AIで遊ぶ“自由研究”〜</title>
-<link>https://qiita.com/melktzk/items/8defff577820ea1c7a68</link>
-<guid>55061e7affd86f1221a05ee05b8452d1fa94745f48209119d9a582ebfe6b60df</guid>
-<pubDate>2026-07-07T08:36:14+09:00</pubDate>
-<description>はじめに tsuzuki(@melktzk)です。 タイトルのとおりですが、AWS Summit Japan 2026に久しぶりに現地参加をした結果、ものすごくモチベをいただけたのでどこかにこの想いをぶつけたいと思い、そのままの勢いで記事を書くことにしました。 特に刺さっ...</description>
+<title>【Qiita】 PostgreSQL→Cloud Spanner 240テーブル移行：LLMによるテーブル分類とダウンタイム約60%削減の実践</title>
+<link>https://qiita.com/kane_ryu/items/38911988915c6bbd8c8d</link>
+<guid>0c31857b05278809ae1031f906ed1ef30672d6afa9a233c0ed794353a4738573</guid>
+<pubDate>2026-07-07T11:38:22+09:00</pubDate>
+<description>はじめに 「ダウンタイム10.5時間」と見積もりに書いた瞬間、それが現実的な数字ではないとわかっていました。 既存の移行計画はシンプルでした。PostgreSQL 14（オンプレミス）上の240テーブルを、pg_dump → Datastream → Dataflow →...</description>
 </item>
 <item>
-<title>【Qiita】 LLMのトークンを60〜90%削るCLIプロキシ「bdo」を機能強化してみた</title>
-<link>https://qiita.com/tedorigawa001/items/d1bac2fd93b249bd667a</link>
-<guid>880eba0c12cb891bf65d58f129704d2e8fb31a93ec4473f428cfb09b4c238682</guid>
-<pubDate>2026-07-07T08:32:47+09:00</pubDate>
-<description>はじめに Claude Code や各種コーディングエージェントを使っていると、cat・grep・git diff・cargo test といったコマンドの出力がまるごと LLM のコンテキストに流し込まれます。 この生出力はノイズが多く、コンテキストを圧迫し、トークン課...</description>
+<title>【Qiita】 日刊IETF (2026-06-17) 自律エージェントの身元と来歴、DNS委譲自動化が並ぶ一日 (Part2/2)</title>
+<link>https://qiita.com/tetsuko_room/items/ea6efe75fe323f208a07</link>
+<guid>43fb7549944fbbe0e3df83dcac74c5825e2c3f66c71a227c0f1eabda442061ff</guid>
+<pubDate>2026-07-07T10:15:06+09:00</pubDate>
+<description>おはようございます！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-17（UTC基準）に公開され...</description>
+</item>
+<item>
+<title>【Qiita】 日刊IETF (2026-06-17) エージェント認可とBGP安全性、DNS暗号化が集まった一日 (Part1/2)</title>
+<link>https://qiita.com/tetsuko_room/items/bfbd4d3da93bb8da7195</link>
+<guid>3d01caf4b03a74e54504d1da074291cd63581a7b529f8abd1bab067186232ef6</guid>
+<pubDate>2026-07-07T10:13:45+09:00</pubDate>
+<description>おはようございます！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-17（UTC基準）に公開された...</description>
+</item>
+<item>
+<title>【Qiita】 日刊IETF (2026-06-16) 委譲権限とComposite ML-KEM、HTTP QUERYが加わった一日 (Part2/2)</title>
+<link>https://qiita.com/tetsuko_room/items/cfd577d7dd900b2b470e</link>
+<guid>8db3b679fd677ce6a5be4bcc2633aa06707c3f42623b36bf28035c0c067ef9bd</guid>
+<pubDate>2026-07-07T09:46:30+09:00</pubDate>
+<description>おはようございます！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-16（UTC基準）に公開され...</description>
+</item>
+<item>
+<title>【Qiita】 「ループエンジニアリング」を業務ドメインに持ち込むと何が変わるか ── TechHive Agent の設計から考える</title>
+<link>https://qiita.com/Asikaze_TechHive/items/f8eb29fde80717e7d46a</link>
+<guid>67ed175154cc8be04bb5e2a16168dc2d06f677700aa2ba6981e4118d6376df25</guid>
+<pubDate>2026-07-07T09:16:33+09:00</pubDate>
+<description>TL;DR 2026年6月に一気に広まった Loop Engineering（ループエンジニアリング） は、「AIに良いプロンプトを打つ」のではなく「AIにプロンプトを出し続ける仕組み（ループ）を設計する」というパラダイム ただし現在語られているのはほぼ 開発ドメイン（...</description>
+</item>
+<item>
+<title>【Qiita】 MCPのツール説明文だけで請求書データが盗まれる仕組みを検知スクリプトで検証した</title>
+<link>https://qiita.com/kai_kou/items/1aab113375a2185bbe4f</link>
+<guid>8730b7db1afdc13d6015e74eb3c767a3b16923cba883bf51169416290a81a577</guid>
+<pubDate>2026-07-07T09:36:07+09:00</pubDate>
+<description>はじめに Model Context Protocol（MCP）でAIエージェントに外部ツールをつなぐとき、各ツールには人間向けの「説明文」が付いています。ところがこの説明文は 画面には表示されないのに、AIモデルにはシステムプロンプトと同じ重みで読まれる という性質を持...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/on-the-fly-ovd-adaptation-with-flame-few-shot-localization-via-active-marginal-samples-exploration/</link>
-<guid>831ed37878a852747016dfedff56758d3aaf3c37d668acc4926708cc5c29d2b2</guid>
-<pubDate>Mon, 06 Jul 2026 23:58:37 GMT</pubDate>
+<link>https://research.google/pubs/who-is-at-risk-surveying-the-prevalence-of-risk-factors-and-tech-facilitated-attacks-in-the-united-states/</link>
+<guid>c2d0a2326696631ad2596e62388ef2f5df8da99092e7f0da95fb42d112286c30</guid>
+<pubDate>Tue, 07 Jul 2026 03:19:36 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>e6ab48746ea4afacda5f91b7ee466d9a33e2c74c9c0c971b80cbc6e79647d2dd</guid>
-<pubDate>Mon, 06 Jul 2026 23:58:40 GMT</pubDate>
-<description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>3525c4b1259c35c66e5109ac02a8dde10ba29d21ec37d010a615b881f9262a77</guid>
-<pubDate>Mon, 06 Jul 2026 23:58:43 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>5a132a15b4aff7157d18fa1ff18d157632d11f211305060a80f212d4b39da366</guid>
+<pubDate>Tue, 07 Jul 2026 03:19:56 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
