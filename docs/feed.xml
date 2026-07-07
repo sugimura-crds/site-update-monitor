@@ -4,49 +4,126 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 07 Jul 2026 07:00:11 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 10:27:34 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Code調査で見えた「コード力より重要なもの」</title>
-<link>https://qiita.com/mhamadajp/items/9d2da817ea736be3fddf</link>
-<guid>4995668ff7b7f9bea90f2a997879db54aaf777675f1369eda6a122ce257bac82</guid>
-<pubDate>2026-07-07T15:46:45+09:00</pubDate>
-<description>Anthropicが2026年6月16日に公開した調査「Agentic coding and persistent returns to expertise」は、AIコーディングの見方を少し変える内容です。 この調査は、2025年10月から2026年4月までの約40万件のC...</description>
+<title>【Qiita】 『めっちゃカメレオン』のサーバー代0円ってまじ？</title>
+<link>https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>28fd7e46d5d7094ea99b2128f9108e9d34f38ccb2dcd71552005ed2bff4f082b</guid>
+<pubDate>2026-07-06T23:42:23+09:00</pubDate>
+<description>めっちゃカメレオン、流行ってますね 真っ白な体に絵を描いてステージに擬態する、新感覚のかくれんぼゲーム『めっちゃカメレオン』。 気づいたら世界的ヒットですよ この記事執筆時点で 1500 万本突破ってやばすぎないですか？ 780円 × 約1500万本 ≒ 120億円 超...</description>
 </item>
 <item>
-<title>【Qiita】 AIに短冊を作ってもらう</title>
-<link>https://qiita.com/___uhu/items/39a033814be6a86d0641</link>
-<guid>f65274c046b76b9ffe414d35d7a6f7130b4bfd659001b8b1cb3c250ff75e1083</guid>
-<pubDate>2026-07-07T15:10:11+09:00</pubDate>
-<description>概要 世間は七夕とAIに溢れているのでAIに短冊さげてもらおう 準備 gh を使うよ gh --version # 2.90.0 未満ならアップデート githubにリポジトリ作成：tanzaku-skill スキル作成 ディレクトリ構成 gh skillでスキル...</description>
+<title>【Qiita】 IBM Cloud Classic Infrastructureのアクセス権限をIBM Cloud CLIで設定する</title>
+<link>https://qiita.com/masaffff/items/ee3cb3e278e7988914e0</link>
+<guid>feb06c670b8caa6820326eb9b458fc78f8fccc33d39fd175388c3c5f6222663b</guid>
+<pubDate>2026-07-07T17:03:04+09:00</pubDate>
+<description>はじめに SoftLayer の時代から IBM Cloud をご利用頂いている方は Classic Infrastructure サービスをご利用いただいているケースがほとんどだと思います。Bluemix Infrastructure &gt; IBM Cloud に統合され...</description>
+</item>
+<item>
+<title>【Qiita】 さわってみよう Db2 AI エディション #11 〜SQLで生成AI編 Part#2〜</title>
+<link>https://qiita.com/ibm_tk/items/3085c90674561b9d80e7</link>
+<guid>acb93ced16a95dfded1bf34a8e5c0c2f069c7628539cafcecd5cb4269651a6a7</guid>
+<pubDate>2026-07-07T17:00:21+09:00</pubDate>
+<description>この記事ではDb2 for LUW v12.1.5で実装されたDb2 SQLを使った生成AI活用を概説しています。 下記Blogの抄訳です。今回はDb2 SQLを使ってエンベディングとセマンティック検索を行います。 &quot;Db2 12.1.x EAP: Call Languag...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeのサブエージェントを可視化できる便利ツール5選</title>
+<link>https://qiita.com/kamome_susume/items/7c459b63b9e5bde2ea8e</link>
+<guid>28804e3a063d103c4bfc1620e767650a22861047a3b1b2bb5ce4ea3c329a029c</guid>
+<pubDate>2026-07-07T18:53:52+09:00</pubDate>
+<description>Claude Codeでサブエージェントを使っていると、「今どのエージェントが動いているのか」「並列で何個走っているのか」がターミナルのログだけではわかりにくい、と感じたことはありませんか？特にExploreやgeneral-purposeを複数同時に走らせていると、どのタ...</description>
+</item>
+<item>
+<title>【Qiita】 【AIエージェント】Claude Code vs Antigravity CLI！一晩で200ドル溶かさないための「自律ループ制御」超入門（第10回）</title>
+<link>https://qiita.com/0903osa/items/02833c205d6675c7b7c3</link>
+<guid>55057f685c476b49f83040535ac15a44b33bb014c7510c7e322097f8b86ddf2b</guid>
+<pubDate>2026-07-07T17:40:24+09:00</pubDate>
+<description>はじめに 僕のメンターからおすすめされた本の紹介連載、第10回です。 ※本記事では、以降 antigravity CLI のコマンド表記を agy と統一して記述します。 今回は、コードの品質や設計をより客観的に評価するための**「三者分離（Maker・Checker・Ju...</description>
+</item>
+<item>
+<title>【Qiita】 From Paperwork to Digital Public Services in France</title>
+<link>https://qiita.com/TianqiYuan/items/fa8b4995066d2a9892da</link>
+<guid>51f1f71efadf244bb843f7fff8fcd1fa3f5e01f5d8daed09c908b66ced60adf1</guid>
+<pubDate>2026-07-07T17:19:37+09:00</pubDate>
+<description>Introduction Astrolab is one of NocoBase&#x27;s partners in Europe, Africa, and the Middle East. The company specialises in technology strate...</description>
+</item>
+<item>
+<title>【Qiita】 Android CLIとFigma MCPの相性が良かった件</title>
+<link>https://qiita.com/yosuke_hanai/items/3ced08d6197b84e11391</link>
+<guid>902d374873b3e67029ae25c8d020856c02f7ce7b90d35bd4a66952518269f8a0</guid>
+<pubDate>2026-07-07T16:53:24+09:00</pubDate>
+<description>はじめに 昨今、アプリ開発にAIエージェントを用いるのが当たり前になってきました。弊社でもClaudeCodeを導入しており、Composeを用いたUI実装の精度を高めるために試行錯誤する中で、先日導入したAndroid CLIがFigmaMCPと相性がいいことに気が付き...</description>
+</item>
+<item>
+<title>【農業】 Global food safety standards body Codex agrees on new guidance on “may contain” allergen labels</title>
+<link>https://www.fao.org/newsroom/detail/global-food-safety-standards-body-codex-adopts-new-guidance-on--may-contain--allergen-labels/en</link>
+<guid>bb1e4b3d6be2b3ed33e2543aa70d1aea04756de94e3f6dd1ea8e04316876f51b</guid>
+<pubDate>Tue, 07 Jul 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【自動自律実験】 Listen to Gen Z when it comes to AI in education</title>
+<link>https://www.nature.com/articles/d41586-026-02110-6</link>
+<guid>1f41a9dfb796328daab83cd140acdbb0c0ba811e28c08afe0aec6fe916a81335</guid>
+<pubDate>2026-07-07</pubDate>
+<description>Listen to Gen Z when it comes to AI in education</description>
+</item>
+<item>
+<title>【自動自律実験】 AI can cause harm: safeguards must catch up</title>
+<link>https://www.nature.com/articles/d41586-026-02109-z</link>
+<guid>56abc31b839171d04e0f3d96c7ce54d2e1dab3a96fbbce87df3d8fa3099e57bf</guid>
+<pubDate>2026-07-07</pubDate>
+<description>AI can cause harm: safeguards must catch up</description>
+</item>
+<item>
+<title>【自動自律実験】 How long can humans live? All evidence points to a maximum of 125 years</title>
+<link>https://www.nature.com/articles/d41586-026-02111-5</link>
+<guid>fab0c06282f218738b1523911e2bb09f1883bfe1fa2c4578c83751e3dd23d6af</guid>
+<pubDate>2026-07-07</pubDate>
+<description>How long can humans live? All evidence points to a maximum of 125 years</description>
+</item>
+<item>
+<title>【自動自律実験】 Save Hubble: the race to preserve the space telescope kicks off</title>
+<link>https://www.nature.com/articles/d41586-026-02000-x</link>
+<guid>38ab4aee31d61dbe9ec6360e6c695e93c93a737182d91a4b5d6c7c923740d18f</guid>
+<pubDate>2026-07-07</pubDate>
+<description>The orbiting observatory’s unique vision and public support continue to be crucial for understanding the Universe.</description>
+</item>
+<item>
+<title>【自動自律実験】 How to avoid dementia — what the science really says</title>
+<link>https://www.nature.com/articles/d41586-026-02098-z</link>
+<guid>02375a0b7fe95bcf01ec70e40cd26b29374ddffbb1c71fbd9375909ed29df35f</guid>
+<pubDate>2026-07-07</pubDate>
+<description>Ambitious studies have been examining the protective effects of diet, exercise and socializing — with surprising results.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-multi-layered-framework-for-behavioral-governance-of-non-deterministic-ai-agents/</link>
-<guid>e7475124a964e7982fea26110481405caa5cf3e5a31aeee92f24de714c8a1811</guid>
-<pubDate>Tue, 07 Jul 2026 06:59:10 GMT</pubDate>
+<link>https://research.google/pubs/veriguard-enhancing-llm-agent-safety-via-verified-code-generation-2/</link>
+<guid>c5bb661fb2e1ecaab18db762b876ab957fc3833892e06f64fa8e5bbf7336d4d2</guid>
+<pubDate>Tue, 07 Jul 2026 10:26:23 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>f4dec50c42b63186d9a61723227d4a677ea976a3c86b4364ec8f94f5eff80e95</guid>
-<pubDate>Tue, 07 Jul 2026 06:59:13 GMT</pubDate>
+<guid>765ea238ff2338079e7fe865d2c1d745b0e5eba756e15501077f82d4d6c3ba45</guid>
+<pubDate>Tue, 07 Jul 2026 10:26:26 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>f9cf7a3aa74e8189cff8a667e92e8cd7c2f45b63ee53df67ae23acfe8abfa06a</guid>
-<pubDate>Tue, 07 Jul 2026 06:59:15 GMT</pubDate>
+<guid>526db0b0dde0cd07723eb9cd1fa151f3839f33d1fb093031b022e7f901b438ea</guid>
+<pubDate>Tue, 07 Jul 2026 10:26:28 GMT</pubDate>
 <description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s42256-026-01261-5</link>
-<guid>25303fdd21021e7ad715646a582a1a58a9e4d47475417f9884dc9111e0f85c1d</guid>
-<pubDate>Tue, 07 Jul 2026 06:59:17 GMT</pubDate>
-<description>Executing experimental tasks in both normal research laboratories and large-scale scientific facilities often requires extensive human supervision and remains a key challenge on the path to fully autonomous, artificial intelligence (AI)-driven science. Here we demonstrate a large language model-driven agent that autonomously performs X-ray sample alignment on a synchrotron beamline by planning actions, executing instrumental commands, interpreting observations and iterating towards experimental goals. Based on existing large language models with structured tool-use via the model context protocol, our AI X-ray scientist was guided and tested using an in-house-built virtual experimental setup that mirrors a six-circle diffractometer at an operational synchrotron beamline. The agentic workflow developed in the virtual environment was directly deployed on a real beamline, where it correctly identified reference reflections and determined the orientation matrix, an essential first step in any type of single-crystal scattering experiment. Our AI X-ray scientist responded effectively to unexpected experimental conditions, demonstrating adaptive problem-solving and readiness for addressing</description>
+<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
+<link>https://www.eurohpc-ju.europa.eu/index_en</link>
+<guid>1f4f176a27ab38e6aba1a11094de7aa121351b31ec0a868dbbb4bdacfe3517c3</guid>
+<pubDate>Tue, 07 Jul 2026 10:26:38 GMT</pubDate>
+<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
 </item>
 
 </channel>
