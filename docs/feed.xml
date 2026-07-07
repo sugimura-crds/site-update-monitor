@@ -4,78 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 07 Jul 2026 03:20:15 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 07:00:11 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Configuration-as-Code 大量のリポジトリの設定ファイルを一元管理する「ghfanout」を作った</title>
-<link>https://qiita.com/seiya-koji/items/0dae90526412d6b2e13f</link>
-<guid>c8037591f3260deab77908267561e7189e80990a4fc17788116a2c1a085cc438</guid>
-<pubDate>2026-07-07T11:59:45+09:00</pubDate>
-<description>作ったもの ghfanout は、.gitignore・pom.xml・pyproject.toml・package.json のような共有設定ファイルを 1 か所で一元管理（single source of truth）し、多数の GitHub リポジトリへ Pull ...</description>
+<title>【Qiita】 Claude Code調査で見えた「コード力より重要なもの」</title>
+<link>https://qiita.com/mhamadajp/items/9d2da817ea736be3fddf</link>
+<guid>4995668ff7b7f9bea90f2a997879db54aaf777675f1369eda6a122ce257bac82</guid>
+<pubDate>2026-07-07T15:46:45+09:00</pubDate>
+<description>Anthropicが2026年6月16日に公開した調査「Agentic coding and persistent returns to expertise」は、AIコーディングの見方を少し変える内容です。 この調査は、2025年10月から2026年4月までの約40万件のC...</description>
 </item>
 <item>
-<title>【Qiita】 さわってみよう Db2 AI エディション #10 〜SQLで生成AI編 Part#1〜</title>
-<link>https://qiita.com/ibm_tk/items/54a169cffcfbb9be0fed</link>
-<guid>dd3e89ed55276ebcf98860f06565bd4ce1e418dba432a5de5c05e67b5bb4627b</guid>
-<pubDate>2026-07-07T11:45:02+09:00</pubDate>
-<description>この記事ではDb2 for LUW v12.1.5で実装されたDb2 SQLを使った生成AI活用を概説しています。下記Blogの抄訳です。 &quot;Db2 LLM Integration: Skip the Middleware. Call the Model from SQL&quot;...</description>
-</item>
-<item>
-<title>【Qiita】 PostgreSQL→Cloud Spanner 240テーブル移行：LLMによるテーブル分類とダウンタイム約60%削減の実践</title>
-<link>https://qiita.com/kane_ryu/items/38911988915c6bbd8c8d</link>
-<guid>0c31857b05278809ae1031f906ed1ef30672d6afa9a233c0ed794353a4738573</guid>
-<pubDate>2026-07-07T11:38:22+09:00</pubDate>
-<description>はじめに 「ダウンタイム10.5時間」と見積もりに書いた瞬間、それが現実的な数字ではないとわかっていました。 既存の移行計画はシンプルでした。PostgreSQL 14（オンプレミス）上の240テーブルを、pg_dump → Datastream → Dataflow →...</description>
-</item>
-<item>
-<title>【Qiita】 日刊IETF (2026-06-17) 自律エージェントの身元と来歴、DNS委譲自動化が並ぶ一日 (Part2/2)</title>
-<link>https://qiita.com/tetsuko_room/items/ea6efe75fe323f208a07</link>
-<guid>43fb7549944fbbe0e3df83dcac74c5825e2c3f66c71a227c0f1eabda442061ff</guid>
-<pubDate>2026-07-07T10:15:06+09:00</pubDate>
-<description>おはようございます！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-17（UTC基準）に公開され...</description>
-</item>
-<item>
-<title>【Qiita】 日刊IETF (2026-06-17) エージェント認可とBGP安全性、DNS暗号化が集まった一日 (Part1/2)</title>
-<link>https://qiita.com/tetsuko_room/items/bfbd4d3da93bb8da7195</link>
-<guid>3d01caf4b03a74e54504d1da074291cd63581a7b529f8abd1bab067186232ef6</guid>
-<pubDate>2026-07-07T10:13:45+09:00</pubDate>
-<description>おはようございます！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-17（UTC基準）に公開された...</description>
-</item>
-<item>
-<title>【Qiita】 日刊IETF (2026-06-16) 委譲権限とComposite ML-KEM、HTTP QUERYが加わった一日 (Part2/2)</title>
-<link>https://qiita.com/tetsuko_room/items/cfd577d7dd900b2b470e</link>
-<guid>8db3b679fd677ce6a5be4bcc2633aa06707c3f42623b36bf28035c0c067ef9bd</guid>
-<pubDate>2026-07-07T09:46:30+09:00</pubDate>
-<description>おはようございます！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-16（UTC基準）に公開され...</description>
-</item>
-<item>
-<title>【Qiita】 「ループエンジニアリング」を業務ドメインに持ち込むと何が変わるか ── TechHive Agent の設計から考える</title>
-<link>https://qiita.com/Asikaze_TechHive/items/f8eb29fde80717e7d46a</link>
-<guid>67ed175154cc8be04bb5e2a16168dc2d06f677700aa2ba6981e4118d6376df25</guid>
-<pubDate>2026-07-07T09:16:33+09:00</pubDate>
-<description>TL;DR 2026年6月に一気に広まった Loop Engineering（ループエンジニアリング） は、「AIに良いプロンプトを打つ」のではなく「AIにプロンプトを出し続ける仕組み（ループ）を設計する」というパラダイム ただし現在語られているのはほぼ 開発ドメイン（...</description>
-</item>
-<item>
-<title>【Qiita】 MCPのツール説明文だけで請求書データが盗まれる仕組みを検知スクリプトで検証した</title>
-<link>https://qiita.com/kai_kou/items/1aab113375a2185bbe4f</link>
-<guid>8730b7db1afdc13d6015e74eb3c767a3b16923cba883bf51169416290a81a577</guid>
-<pubDate>2026-07-07T09:36:07+09:00</pubDate>
-<description>はじめに Model Context Protocol（MCP）でAIエージェントに外部ツールをつなぐとき、各ツールには人間向けの「説明文」が付いています。ところがこの説明文は 画面には表示されないのに、AIモデルにはシステムプロンプトと同じ重みで読まれる という性質を持...</description>
+<title>【Qiita】 AIに短冊を作ってもらう</title>
+<link>https://qiita.com/___uhu/items/39a033814be6a86d0641</link>
+<guid>f65274c046b76b9ffe414d35d7a6f7130b4bfd659001b8b1cb3c250ff75e1083</guid>
+<pubDate>2026-07-07T15:10:11+09:00</pubDate>
+<description>概要 世間は七夕とAIに溢れているのでAIに短冊さげてもらおう 準備 gh を使うよ gh --version # 2.90.0 未満ならアップデート githubにリポジトリ作成：tanzaku-skill スキル作成 ディレクトリ構成 gh skillでスキル...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/who-is-at-risk-surveying-the-prevalence-of-risk-factors-and-tech-facilitated-attacks-in-the-united-states/</link>
-<guid>c2d0a2326696631ad2596e62388ef2f5df8da99092e7f0da95fb42d112286c30</guid>
-<pubDate>Tue, 07 Jul 2026 03:19:36 GMT</pubDate>
+<link>https://research.google/pubs/a-multi-layered-framework-for-behavioral-governance-of-non-deterministic-ai-agents/</link>
+<guid>e7475124a964e7982fea26110481405caa5cf3e5a31aeee92f24de714c8a1811</guid>
+<pubDate>Tue, 07 Jul 2026 06:59:10 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>5a132a15b4aff7157d18fa1ff18d157632d11f211305060a80f212d4b39da366</guid>
-<pubDate>Tue, 07 Jul 2026 03:19:56 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75249-5</link>
+<guid>f4dec50c42b63186d9a61723227d4a677ea976a3c86b4364ec8f94f5eff80e95</guid>
+<pubDate>Tue, 07 Jul 2026 06:59:13 GMT</pubDate>
+<description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>f9cf7a3aa74e8189cff8a667e92e8cd7c2f45b63ee53df67ae23acfe8abfa06a</guid>
+<pubDate>Tue, 07 Jul 2026 06:59:15 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s42256-026-01261-5</link>
+<guid>25303fdd21021e7ad715646a582a1a58a9e4d47475417f9884dc9111e0f85c1d</guid>
+<pubDate>Tue, 07 Jul 2026 06:59:17 GMT</pubDate>
+<description>Executing experimental tasks in both normal research laboratories and large-scale scientific facilities often requires extensive human supervision and remains a key challenge on the path to fully autonomous, artificial intelligence (AI)-driven science. Here we demonstrate a large language model-driven agent that autonomously performs X-ray sample alignment on a synchrotron beamline by planning actions, executing instrumental commands, interpreting observations and iterating towards experimental goals. Based on existing large language models with structured tool-use via the model context protocol, our AI X-ray scientist was guided and tested using an in-house-built virtual experimental setup that mirrors a six-circle diffractometer at an operational synchrotron beamline. The agentic workflow developed in the virtual environment was directly deployed on a real beamline, where it correctly identified reference reflections and determined the orientation matrix, an essential first step in any type of single-crystal scattering experiment. Our AI X-ray scientist responded effectively to unexpected experimental conditions, demonstrating adaptive problem-solving and readiness for addressing</description>
 </item>
 
 </channel>
