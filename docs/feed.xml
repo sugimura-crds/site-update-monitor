@@ -4,134 +4,50 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 07 Jul 2026 15:40:57 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 17:52:40 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【Godot 4.x】脱出ゲームを作ってみる⑦〜スプライトシートを使ったダイヤル錠ギミックを実装する〜</title>
-<link>https://qiita.com/OnuuuumaX/items/bb1d78d4abb0d8ad6df3</link>
-<guid>35ca94e2c6ad6323d4f15c6f9e462136c53583160f7d11e856d67e7eb0397258</guid>
-<pubDate>2026-07-08T00:39:24+09:00</pubDate>
-<description>はじめに この記事は、Godot 4.xで脱出ゲームを作る連載の第7回です。 第1回：環境構築とプロジェクト作成 第2回：Claude Code + godot-mcpのセットアップ 第3回：Claude CodeとMCPでスプラッシュ画面を実装する 第4回：Claud...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Artifact でチームのナレッジベースを「育てる」— AI駆動開発チームでの実践記</title>
-<link>https://qiita.com/ryoji9702/items/f4337e26c686a5309e13</link>
-<guid>26fb51d6131f5e88d3ce109f447d554718655d4f319ff0054fcc922a2815147f</guid>
-<pubDate>2026-07-07T23:48:33+09:00</pubDate>
-<description>はじめに 筆者は最近、あるAI駆動開発チーム（社内でAIエージェントを開発フローに組み込んでいるチーム）向けに、調査資料を1本のナレッジベースにまとめる作業をしました。このとき成果物の器として選んだのが Claude の Artifact です。 最初は「HTMLを1枚吐...</description>
-</item>
-<item>
-<title>【Qiita】 そのAI、ルートを grep で掘り返してない？ ── MOC という知識地図で導く</title>
-<link>https://qiita.com/MotimotiNotch/items/b78856c12dc6d09b55c5</link>
-<guid>a38e6f56efd674e7e4ac5f9f3b006dc814bb482b49980e33a1a7fd19a7bff33a</guid>
-<pubDate>2026-07-08T00:21:39+09:00</pubDate>
-<description>はじめに：AI の探索を、もう少し美しく、静かに整える LLM（大規模言語モデル）と Obsidian のようなローカルナレッジベース（Vault）を組み合わせ、AI アシスタントや自律型エージェントと一緒に自分の知識を育てていくスタイルが広がっています。 では、育てたそ...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Agent SDKにおけるMCPサーバー接続フローとalwaysLoadパラメータについて</title>
-<link>https://qiita.com/har1101/items/05be8c42ac9c4c2dc5e1</link>
-<guid>08dde85f67d68b03363b1cf560bfc711e6c3fc47043dafd5f002ebf54cb1e410</guid>
-<pubDate>2026-07-08T00:01:23+09:00</pubDate>
-<description>tl;dr Claude Agent SDK(TypeScript版)でMCPサーバーを接続する際、.mcp.jsonにalwaysLoad: trueを設定しておくと、セッション開始時からMCPサーバーが使えるようになる そのMCPサーバーを常に・必ず使ってほしい場合...</description>
-</item>
-<item>
-<title>【Qiita】 Anthropic「Fable 5 / Mythos 5」全面停止事件・第3報 ── なぜFable 5は戻ってきたのか</title>
-<link>https://qiita.com/yoshiyakato/items/52d74a8d728586c492f9</link>
-<guid>dc789f09611da8c30e7972c2e6cfb576b3d12e8b4e9c7819633768833bd2c429</guid>
-<pubDate>2026-07-07T23:47:39+09:00</pubDate>
-<description>Anthropic「Fable 5 / Mythos 5」全面停止事件・第3報 ── なぜFable 5は戻ってきたのか、そして2026年7月8日に本当に起こること はじめに 本稿はシリーズ第3報です。 第1報：Anthropic「Fable 5 / Mythos...</description>
-</item>
-<item>
-<title>【Qiita】 Hermes Agentとは？Claude Code・OpenClawとの違いとセキュリティ観点まで調べてみた</title>
-<link>https://qiita.com/sei_official/items/dfd950988b8867627ea9</link>
-<guid>7a562e0046e73198f36bf9c25f06b14d8eef5f630f9da214ebadb6f18d9c6993</guid>
-<pubDate>2026-07-07T22:32:29+09:00</pubDate>
-<description>Hermes Agentとは？ChatGPT・Claude Codeとの違いを調べてみた 最近、AIエージェント関連の話題を追っていると Hermes Agent を見かける機会が増えてきました。 最初は「また新しいAIチャットかな？」と思っていましたが、公式ドキュメント...</description>
-</item>
-<item>
-<title>【環境】 Seals in changing seas dive longer</title>
-<link>https://www.nature.com/articles/s41558-026-02703-z</link>
-<guid>5a4d52b33300aca287b4073327e5ece096a17c608bfdd102f01c1440760b86cc</guid>
-<pubDate>2026-07-07</pubDate>
-<description>Seals in changing seas dive longer</description>
-</item>
-<item>
-<title>【環境】 Roots respond to phosphorus limitation</title>
-<link>https://www.nature.com/articles/s41558-026-02701-1</link>
-<guid>15ee1c3a976d98f08d3a89d92d62b8f2bf68d9f09cfb333b81e95e8a71058bfb</guid>
-<pubDate>2026-07-07</pubDate>
-<description>Roots respond to phosphorus limitation</description>
-</item>
-<item>
-<title>【環境】 Female climate leadership</title>
-<link>https://www.nature.com/articles/s41558-026-02704-y</link>
-<guid>40e49f6fb8d97cb0ceac22a4062eb5b88823baf6049f876a79e9f217dd84d823</guid>
-<pubDate>2026-07-07</pubDate>
-<description>Female climate leadership</description>
-</item>
-<item>
-<title>【環境】 Shifts in experiencing downpours</title>
-<link>https://www.nature.com/articles/s41558-026-02702-0</link>
-<guid>400801f2f18d78702688f54cfb322607d3b9084a7e36e92a1d61f3dba37f09b3</guid>
-<pubDate>2026-07-07</pubDate>
-<description>Shifts in experiencing downpours</description>
-</item>
-<item>
-<title>【環境】 Responsible carbon accounting</title>
-<link>https://www.nature.com/articles/s41558-026-02707-9</link>
-<guid>27413dd66a88b9f14f9acbbf9b503307a7e44d048ae44369bc16120515950846</guid>
-<pubDate>2026-07-07</pubDate>
-<description>Carbon accounting shapes how climate responsibility is allocated, and expanding existing frameworks could provide a stronger basis for effective and equitable climate action.</description>
-</item>
-<item>
-<title>【自動自律実験】 Say hello to hard helium</title>
-<link>https://www.nature.com/articles/d41586-026-02101-7</link>
-<guid>0753e74ac2ef1775f02b6a9b4f779705eddab646331f759b96682ba0b00c7da5</guid>
-<pubDate>2026-07-07</pubDate>
-<description>The first solidification of the second-lightest element, and evidence of an ancient salt-water lake in Peru, in this week’s pick from the Nature archive.</description>
+<title>【Qiita】 AIエージェント時代のRBAC設計</title>
+<link>https://qiita.com/hoge_kawamuro/items/ec5bb78bf999a6c1638b</link>
+<guid>fd685d4dde0c1124a73f3a5647f88cfc4502c3a1187e77bfc4034da6bc8315c0</guid>
+<pubDate>2026-07-08T01:42:47+09:00</pubDate>
+<description>RBACを単なる「ログイン後の表示切り替え」とは考えていませんか？ AIエージェントがコードを書き、管理画面を操作し、複数の業務フローをまたいで処理する時代では、本当に重要なのは次の4つです。 誰が実行するのか どのアプリ境界から来た操作なのか どの操作まで許すのか ど...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/vista-towards-test-time-self-improving-video-generation-agent/</link>
-<guid>0bd4b8e2f796b58c184d767583e1bb855271b69df7c17c0f9ea98237aecfea57</guid>
-<pubDate>Tue, 07 Jul 2026 15:40:14 GMT</pubDate>
+<link>https://research.google/pubs/a-probabilistic-framework-for-learning-nonintrusive-corrections-to-longtime-climate-simulations-from-shorttime-training-data/</link>
+<guid>3021a29e1464f964e57db3fce36ce52e653c472e0356e40439f5ec0ae6ea0536</guid>
+<pubDate>Tue, 07 Jul 2026 17:51:53 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>e5e35768675b527fc440382cb9d61898704c282b85c386673c34db7a17895f20</guid>
-<pubDate>Tue, 07 Jul 2026 15:40:17 GMT</pubDate>
+<guid>d9318b4365143df8a6785ff7ee955376fc5e032472178d3b8849822da4454208</guid>
+<pubDate>Tue, 07 Jul 2026 17:52:00 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>f49c0234fdae352012c8aaf466f5e4ad461401bac23100aac5b2089295c7e8f8</guid>
-<pubDate>Tue, 07 Jul 2026 15:40:19 GMT</pubDate>
+<guid>1e3f9f639f9c81a7ac5721735e74b0df484cc907f806390fe060c314bba73d2f</guid>
+<pubDate>Tue, 07 Jul 2026 17:52:03 GMT</pubDate>
 <description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>7ee6905598ead9de6338dd269f7a4d0cd609dc1e95d42f758732e7f5771a3041</guid>
-<pubDate>Tue, 07 Jul 2026 15:40:20 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>083017fa3946bc95356d556162f7b81771676cd1c1b0f05e246830e1d389629a</guid>
-<pubDate>Tue, 07 Jul 2026 15:40:22 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>f53ec1e233c349ee5b2344d83e9c40bb5e4d923fe9e3fa9b8bb8cb77110a6db0</guid>
-<pubDate>Tue, 07 Jul 2026 15:40:37 GMT</pubDate>
+<guid>2b7ae3092d8abac4ce4f5639f121f63a58c34da1937a3387ae0a56b61121850c</guid>
+<pubDate>Tue, 07 Jul 2026 17:52:17 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>d5eb3b6fde12743439075c21e25db185c411ff62685c1f4040d131f0bd7d4f7a</guid>
+<pubDate>Tue, 07 Jul 2026 17:52:19 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
