@@ -4,64 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 08 Jul 2026 05:00:55 GMT</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 07:32:07 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 プロンプトを長くしたら token 効率が上がった話を読む - VS Code x GPT-5.5 の 2 週間 A/B テスト</title>
-<link>https://qiita.com/aktsmm/items/af7d2333dbdb320a0b79</link>
-<guid>feb1b13dad37b15f70b889e8cafb3c8b0bcd1e4c4ecb7f53520450e14904ed7f</guid>
-<pubDate>2026-07-08T10:56:43+09:00</pubDate>
-<description>プロンプトを長くしたら token 効率が上がった話を読む - VS Code x GPT-5.5 の 2 週間 A/B テスト こんにちは、copilot-instructions.md を書き足すたびに「これ、逆に token 食ってない？」と自問しているアーキテクト...</description>
+<title>【Qiita】 WorkSpaces VPCエンドポイントが「グローバルに一意のDNS名」を持つようになったので検証してみた</title>
+<link>https://qiita.com/s-niim/items/8971be7c4e2bdafaaa38</link>
+<guid>43ad927fd0af6bb6df19c53310689dcc53ff8214da6554c4bce0bd15e2daae5f</guid>
+<pubDate>2026-07-08T15:09:22+09:00</pubDate>
+<description>以前、WorkSpacesはリージョンごとの固定DNSしか持たないという制約がある、という記事を書きました。 この仕様はいろいろな制約につながるため、同記事でも以下2点を改善してほしい点としてあげました。 DNS名にディレクトリ固有の識別子を入れてほしい Priva...</description>
 </item>
 <item>
-<title>【Qiita】 エージェント用途の Claude Fable 5：ツールコール拒否と GLM 5.2 とのコスト比較</title>
-<link>https://qiita.com/Synthorai/items/046ed6e6780590e812fb</link>
-<guid>35be188d776f4598039adb312d5614037fd28dafbd20a71bb0a31ab02653f926</guid>
-<pubDate>2026-07-08T13:40:56+09:00</pubDate>
-<description>この記事は Synthorai ブログの記事 エージェント用途の Claude Fable 5：ツールコール拒否と GLM 5.2 とのコスト比較 の転載です。原文（多言語対応）はリンク先をご覧ください。 我々の評価では、コーディングエージェントの 44 ターン中 1...</description>
+<title>【Qiita】 Cursor Cloud Agent × Obsidian で「分析できる」知識保管庫を作る（テンプレート公開 / CC0）</title>
+<link>https://qiita.com/L4pisLazuli/items/3c074d1014e4fb728f59</link>
+<guid>229ed5b520f887f1b40d65745357f7d49c3b585846ebe1e4332a7dc3e37f677f</guid>
+<pubDate>2026-07-08T16:20:56+09:00</pubDate>
+<description>前書き Cursor のアプリ、きましたね。ということで、チャットアプリの代替として、AIとのやり取りを Cursor で一元管理する仕組みを作りました。 課金先をCursor一つに集約し、その枠内で各種モデルをチャットとコード生成の両方にマルチユースしたい人向けの構成で...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code を「自己改善するエージェント」にした話</title>
-<link>https://qiita.com/shimada_gkit/items/942169a5b9c43f7daf6b</link>
-<guid>282dae93af45465fb31e4524a150c13027763357c4f1d4d17e30342f57fc9796</guid>
-<pubDate>2026-07-08T13:12:18+09:00</pubDate>
-<description>こんにちは！ 組織でぼっちエンジニアとして開発環境を改善するために日々奮起しています。 今日はClaude Codeで自己改善するエージェントを構築した話です。 Claude Code、便利ですけどセッションが終わると記憶がリセットされますよね。 同じミスを別セッションでま...</description>
+<title>【Qiita】 【#2】承認・履歴付 OSS SSH MCP server ssh-gate -- MCP 実装編</title>
+<link>https://qiita.com/yoshiyakato/items/0e4fc9bf3e4a55083fd6</link>
+<guid>4fdfae6843b51f8b865a1846e9119ac56fcef9a728d29cf21afe5b49b74e8232</guid>
+<pubDate>2026-07-08T15:25:50+09:00</pubDate>
+<description>SDK なしで Go から MCP サーバーを実装する — Streamable HTTP + JSON-RPC 2.0 を net/http だけで 連載「承認・履歴付 OSS SSH MCP server ssh-gate」第2回。 連載目次 第1回 コン...</description>
 </item>
 <item>
-<title>【Qiita】 エージェントが最適化を担うとき、ソースコードは動作の完全な定義ではなく要求仕様として扱える</title>
-<link>https://qiita.com/masato_makino/items/135468435bf8fa5057be</link>
-<guid>2ef9c10d499d0b0633c2b3a9b4002be020321ea962ea5347548d69de698a1291</guid>
-<pubDate>2026-07-08T13:01:35+09:00</pubDate>
-<description>この記事は2026年7月時点のモデルの能力と製品の状況を前提に書いています。モデルの能力が変われば、前提も結論も変わります。 先に結論だけ コーディングエージェントが仮説の立案・最適化・テスト作成を自発的にこなす現在、最適化を任せる処理では、ソースコードを「動作の...</description>
-</item>
-<item>
-<title>【Qiita】 Vapi（音声AIエージェントプラットフォーム）で日本語対応どこまで行けるか試してみる</title>
-<link>https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc</link>
-<guid>9d0fc070c5e170339d5ae2209ee059e464027d8463b5c29309463eff553bdd49</guid>
-<pubDate>2026-07-08T11:58:35+09:00</pubDate>
-<description>はじめに 音声AIエージェントを作る機会があり、Vapi を使って「音声 ＋ テキスト」両対応のサポートエージェントを実装しました。英語での構築はスムーズでしたが、日本語対応には若干苦戦しました。 STT（文字起こし）、TTS（音声合成）、ターンテイキング、モデル選定……...</description>
+<title>【Qiita】 AIエージェントにパラメータの調査をさせるためのプロンプト</title>
+<link>https://qiita.com/KazuhisaFujita/items/d476252ddc6e779f2bce</link>
+<guid>f462931315ff00d596aa26db46ba3f4dcc5bcbf82ddd20f4630752b67315eb86</guid>
+<pubDate>2026-07-08T14:33:48+09:00</pubDate>
+<description>モデルのパラメータの調査は人でやるには大変です。ランダムサーチで探すてもありますが、そうするにしても、探索範囲の当たりを付ける必要があります。そこで、パラメータの効果の調査をAIエージェントにまかせてみるのはどうでしょうか？これ、AIエージェントにパラメータの調査を任せるた...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/cardio-load-in-exercise-and-everyday-life-a-modified-trimp-metric-for-continuously-sensing-consumer-wearables/</link>
-<guid>c07794b2817b8644ea03e70b7935b92c0134f407552072647ec3c7042588d489</guid>
-<pubDate>Wed, 08 Jul 2026 05:00:06 GMT</pubDate>
+<link>https://research.google/pubs/prompts-performance-optimization-via-multi-agent-planning-for-llm-training-and-serving/</link>
+<guid>207b6eab2bfc82bbc8f3501f9a94e464bab650dcc970aafdd48d47424f180921</guid>
+<pubDate>Wed, 08 Jul 2026 07:30:59 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>c239708903e5d1fe02acf3efed80daffaf552c9c51969721d21a4e6519ef1b46</guid>
-<pubDate>Wed, 08 Jul 2026 05:00:09 GMT</pubDate>
+<guid>63ee67d4033aef121d16c8b77d81fc0d946650b4be4f66db25ec59164629d009</guid>
+<pubDate>Wed, 08 Jul 2026 07:31:02 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>9fdb4780b99d988f2ecdff6aa9fdaf6db998e7a910aad67bf22b51ce1fd44b53</guid>
-<pubDate>Wed, 08 Jul 2026 05:00:31 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.maff.go.jp/j/press/kanbo/kihyo03/260630.html</link>
+<guid>0f6af0ce766db9266702627c84a08fdfffe66ab9e110dc4c923d01df8d4f321c</guid>
+<pubDate>Wed, 08 Jul 2026 07:31:51 GMT</pubDate>
+<description>研究所別一覧</description>
 </item>
 
 </channel>
