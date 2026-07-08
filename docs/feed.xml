@@ -4,21 +4,64 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 08 Jul 2026 01:48:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 05:00:55 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Codeの10分の1のトークンで動くエージェント「Pi」を試した</title>
-<link>https://qiita.com/kai_kou/items/760f73dc9f76d2714e07</link>
-<guid>a2910156289e0f015fea23d444887235d8d44c6b0c392bc3cecef48f8bc3c95f</guid>
-<pubDate>2026-07-08T09:36:07+09:00</pubDate>
-<description>はじめに ターミナルで動く AI コーディングエージェントは、OpenCode（17万スター超）や Claude Code、Codex CLI など選択肢が増え続けています。そんな中、Mario Zechner が開発した Pi というコーディングエージェントが、逆張りの...</description>
+<title>【Qiita】 プロンプトを長くしたら token 効率が上がった話を読む - VS Code x GPT-5.5 の 2 週間 A/B テスト</title>
+<link>https://qiita.com/aktsmm/items/af7d2333dbdb320a0b79</link>
+<guid>feb1b13dad37b15f70b889e8cafb3c8b0bcd1e4c4ecb7f53520450e14904ed7f</guid>
+<pubDate>2026-07-08T10:56:43+09:00</pubDate>
+<description>プロンプトを長くしたら token 効率が上がった話を読む - VS Code x GPT-5.5 の 2 週間 A/B テスト こんにちは、copilot-instructions.md を書き足すたびに「これ、逆に token 食ってない？」と自問しているアーキテクト...</description>
+</item>
+<item>
+<title>【Qiita】 エージェント用途の Claude Fable 5：ツールコール拒否と GLM 5.2 とのコスト比較</title>
+<link>https://qiita.com/Synthorai/items/046ed6e6780590e812fb</link>
+<guid>35be188d776f4598039adb312d5614037fd28dafbd20a71bb0a31ab02653f926</guid>
+<pubDate>2026-07-08T13:40:56+09:00</pubDate>
+<description>この記事は Synthorai ブログの記事 エージェント用途の Claude Fable 5：ツールコール拒否と GLM 5.2 とのコスト比較 の転載です。原文（多言語対応）はリンク先をご覧ください。 我々の評価では、コーディングエージェントの 44 ターン中 1...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code を「自己改善するエージェント」にした話</title>
+<link>https://qiita.com/shimada_gkit/items/942169a5b9c43f7daf6b</link>
+<guid>282dae93af45465fb31e4524a150c13027763357c4f1d4d17e30342f57fc9796</guid>
+<pubDate>2026-07-08T13:12:18+09:00</pubDate>
+<description>こんにちは！ 組織でぼっちエンジニアとして開発環境を改善するために日々奮起しています。 今日はClaude Codeで自己改善するエージェントを構築した話です。 Claude Code、便利ですけどセッションが終わると記憶がリセットされますよね。 同じミスを別セッションでま...</description>
+</item>
+<item>
+<title>【Qiita】 エージェントが最適化を担うとき、ソースコードは動作の完全な定義ではなく要求仕様として扱える</title>
+<link>https://qiita.com/masato_makino/items/135468435bf8fa5057be</link>
+<guid>2ef9c10d499d0b0633c2b3a9b4002be020321ea962ea5347548d69de698a1291</guid>
+<pubDate>2026-07-08T13:01:35+09:00</pubDate>
+<description>この記事は2026年7月時点のモデルの能力と製品の状況を前提に書いています。モデルの能力が変われば、前提も結論も変わります。 先に結論だけ コーディングエージェントが仮説の立案・最適化・テスト作成を自発的にこなす現在、最適化を任せる処理では、ソースコードを「動作の...</description>
+</item>
+<item>
+<title>【Qiita】 Vapi（音声AIエージェントプラットフォーム）で日本語対応どこまで行けるか試してみる</title>
+<link>https://qiita.com/sooncloud/items/7dc5eaf1ea2a4b7a93dc</link>
+<guid>9d0fc070c5e170339d5ae2209ee059e464027d8463b5c29309463eff553bdd49</guid>
+<pubDate>2026-07-08T11:58:35+09:00</pubDate>
+<description>はじめに 音声AIエージェントを作る機会があり、Vapi を使って「音声 ＋ テキスト」両対応のサポートエージェントを実装しました。英語での構築はスムーズでしたが、日本語対応には若干苦戦しました。 STT（文字起こし）、TTS（音声合成）、ターンテイキング、モデル選定……...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/convapparel-a-benchmark-dataset-and-validation-framework-for-user-simulators-in-conversational-recommenders/</link>
-<guid>9bc9cd8fb3fdd61961f426bae9fb94c22499113d6a515a0481f2799ebdc22f17</guid>
-<pubDate>Wed, 08 Jul 2026 01:47:15 GMT</pubDate>
+<link>https://research.google/pubs/cardio-load-in-exercise-and-everyday-life-a-modified-trimp-metric-for-continuously-sensing-consumer-wearables/</link>
+<guid>c07794b2817b8644ea03e70b7935b92c0134f407552072647ec3c7042588d489</guid>
+<pubDate>Wed, 08 Jul 2026 05:00:06 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75249-5</link>
+<guid>c239708903e5d1fe02acf3efed80daffaf552c9c51969721d21a4e6519ef1b46</guid>
+<pubDate>Wed, 08 Jul 2026 05:00:09 GMT</pubDate>
+<description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>9fdb4780b99d988f2ecdff6aa9fdaf6db998e7a910aad67bf22b51ce1fd44b53</guid>
+<pubDate>Wed, 08 Jul 2026 05:00:31 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
