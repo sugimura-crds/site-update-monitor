@@ -4,70 +4,78 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 08 Jul 2026 12:01:15 GMT</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 14:21:06 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【AIエージェント】Claude Code vs Antigravity CLI！一晩で200ドル溶かさないための「自律ループ制御」超入門（第11回）</title>
-<link>https://qiita.com/0903osa/items/ece40da739249727a7b1</link>
-<guid>41b68f69afb228e82a2466eb4416ac3156a063c5c0a87fbddff09634c1fb7fd2</guid>
-<pubDate>2026-07-08T20:15:22+09:00</pubDate>
-<description>はじめに 僕のメンターからおすすめされた本の紹介連載、第11回です。 ※本記事では、以降 antigravity CLI のコマンド表記を agy と統一して記述します。 今回は以下のテーマで行きます 「そもそも自律ループを回すべきか？」を見極める4つの判断基準について書き...</description>
+<title>【Qiita】 「置き換え可能なエンジニア」にならないための、AI時代の毎日5分セルフレビュー・テンプレート</title>
+<link>https://qiita.com/imi-glenn/items/2ad9477583f776f95acd</link>
+<guid>d627f23be02e4e22461b8c7f5935405e50db8bb17f0b649a1adeb4208edbaa18</guid>
+<pubDate>2026-07-08T22:38:34+09:00</pubDate>
+<description>こんな不安を感じたことはありませんか。毎日まじめに依頼や要件に対応し、バグを直し、ドキュメントを書き、メッセージに返信している。けれど、ある日ふと振り返ると、周りの人たちはすでにまったく違うやり方で開発していて、自分だけが昔のスピードのまま、昔ながらの仕事をまじめにこなして...</description>
 </item>
 <item>
-<title>【Qiita】 AI 時代で変わるソフトウェア開発の役割</title>
-<link>https://qiita.com/Adacchi3/items/7625f703d4f1d0abdf7b</link>
-<guid>5504f1fbcedc9b9931c50360abdace346d2588b57f5e808d592bf548a92e73dc</guid>
-<pubDate>2026-07-08T19:41:52+09:00</pubDate>
-<description>はじめに 2025年、私は GitHub Copilot によるコード補完やコミットメッセージ作成、Gemini を用いた週次のミーティング資料作成や手順書作成といった形でLLMを利用していました。 2026年2月からは Claude Code を使い始め、コーディングや...</description>
+<title>【Qiita】 「とりあえず投げる」から「ちゃんと指示する」へ ― AIプロンプトのコツまとめ</title>
+<link>https://qiita.com/suneo46/items/0fa36bb619ffef5ff7e3</link>
+<guid>82775d793a773733838db79dd0b67eb74c59df20ccb62cb939364570de33f2bf</guid>
+<pubDate>2026-07-08T22:29:40+09:00</pubDate>
+<description>はじめに AIに指示を出すとき、最初は 「〇〇についてまとめて」 「これ直しといて」 みたいな投げやりな一言で済ませていました。もちろんそれなりの回答は返ってくるのですが、 求めていたのと違う切り口で返ってくる 情報量が多すぎる/少なすぎる フォーマットがバラバラで...</description>
 </item>
 <item>
-<title>【環境】 Co-benefit premiums can enhance nature-based climate solutions</title>
-<link>https://www.nature.com/articles/s41558-026-02690-1</link>
-<guid>1bfef9d29231f5e53343fd6a21a32819975418b8d4bd4625c70d053a64fb5634</guid>
+<title>【Qiita】 AI エージェントがコードを書く時代、足りないのは「手綱」だった — basou の紹介</title>
+<link>https://qiita.com/takashi-matsuyama/items/221945df4f839ef6ea02</link>
+<guid>dbadf6d2196fe7c12b0654bfd413fe6f2fa0b340bca3aff25c4724af5e17b40b</guid>
+<pubDate>2026-07-08T22:00:05+09:00</pubDate>
+<description>🔗 この記事は https://blog.tak3.jp/ja/blog/introducing-basou/ からの転載です（一次情報源）。 前回の記事の結びに、こう書いた。「その開発スタイルの話と、いま公開している OSS — AI コーディングエージェントを操縦す...</description>
+</item>
+<item>
+<title>【Qiita】 そのAI機能、全部を最上位モデルに丸投げしてませんか？ — 品質を保ったままコストと速度を半分にする「モデルルーティング」実践ガイド</title>
+<link>https://qiita.com/akira_papa_AI/items/a07611ba33ba5e331cd4</link>
+<guid>d7543047b78fdedd5a9dae83e1ef30f9276659c4914d821c61ebcb2f20bf9fe3</guid>
+<pubDate>2026-07-08T21:58:56+09:00</pubDate>
+<description>AIの記事って、精度とか品質の話ばっかりになりがちなんですよね。でも、正直に聞きますね。 その機能のAPI請求書、ちゃんと見てますか。 僕自身、個人開発でLLMを組み込んだとき、月末に届いた請求を見て「あれ、こんなに使ったっけ」ってなったことがあります。趣味の小さなツールで...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントに武器を渡す前に、ルールを作れ：MCP時代の安全なTool設計</title>
+<link>https://qiita.com/ochtum/items/66bdad98e5eb4d0ef6c3</link>
+<guid>be5764a1a78829ed4f7f42c47d0b4519d2393f95b69cc70516f3620eb380eab0</guid>
+<pubDate>2026-07-08T21:48:31+09:00</pubDate>
+<description>※お役に立てたらストック、いいねをよろしくお願いします！！ ＜📝本記事のターゲット層＞ MCPサーバーやAI Agent向けToolを作り始めた開発者 AI AgentにDB、API、ファイル操作などを任せたいが安全性が不安な人 Tool承認、allow list...</description>
+</item>
+<item>
+<title>【自動自律実験】 Those who forget</title>
+<link>https://www.nature.com/articles/d41586-026-01933-7</link>
+<guid>ad880d59b42d732b46b227e97b935d89c5c776301fae116dbaf37532f3328a4a</guid>
 <pubDate>2026-07-08</pubDate>
-<description>Carbon markets reward the climate mitigation benefits of nature-based solutions but rarely value their broader societal impacts. Creating markets for verified co-benefits, such as coastal protection and biodiversity, could redirect investment towards projects that deliver larger gains for both people and climate.</description>
-</item>
-<item>
-<title>【環境】 Urban water affordability crisis exacerbated by climate change</title>
-<link>https://www.nature.com/articles/s41893-026-01890-z</link>
-<guid>c6544c2024223f0f088b27c3de71e8703e243ea6dab87bc10566dd72077ee8c1</guid>
-<pubDate>2026-07-08</pubDate>
-<description>Water affordability is a growing challenge, but how climate change may worsen it through costly infrastructure adaptation remains unclear. This study models climate-driven water affordability in Santa Cruz, California, finding that climate change alone could double water bills by mid-century.</description>
-</item>
-<item>
-<title>【自動自律実験】 I want to see a prison-to-PhD pipeline</title>
-<link>https://www.nature.com/articles/d41586-026-01673-8</link>
-<guid>5f009fb07cec8db13f372e1be80b91b6707f4f534ca0a1a788fd5876a2315f17</guid>
-<pubDate>2026-07-08</pubDate>
-<description>Ryan Rising creates programmes that help people who have been incarcerated to access academic opportunities.</description>
-</item>
-<item>
-<title>【自動自律実験】 How to advance revolutionary science: high turnover, high risk and a licence to fail</title>
-<link>https://www.nature.com/articles/d41586-026-02090-7</link>
-<guid>b4d42efca2f31db7e08cc5726ba4cc14b4961b59eb75160f3616c36a07fdbcee</guid>
-<pubDate>2026-07-08</pubDate>
-<description>Kathleen Fisher reveals the recipe for funding innovative science that she brings to the UK Advanced Research and Invention Agency.</description>
+<description>Clarity of thought.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/prompt-level-distillation-a-non-parametric-alternative-to-model-fine-tuning-for-efficient-reasoning/</link>
-<guid>0772bc2d16dc6f5d3de5e78d492c76ab7dc1d56725010e4538d9930067b8dbfb</guid>
-<pubDate>Wed, 08 Jul 2026 12:00:06 GMT</pubDate>
+<link>https://research.google/pubs/genai-on-google-cloud-enterprise-generative-ai-systems-and-ai-agents/</link>
+<guid>1820e7fc993e03dd924a57180318cc5cb0c0d4298084b5fe7bc1f283add1ea88</guid>
+<pubDate>Wed, 08 Jul 2026 14:20:27 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>4335b913febaaf30bffe4b123fc4dfb56f4b1daeb3614a93f98cf89a27e64cd2</guid>
-<pubDate>Wed, 08 Jul 2026 12:00:09 GMT</pubDate>
+<guid>e87e91f745d2f0582a1d1a15dc86d679df391245e95a423a9219628dfcd3b8b5</guid>
+<pubDate>Wed, 08 Jul 2026 14:20:30 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>508839ee0254fb92957681055138a995eed56865a77270de193130d2d5cb2b14</guid>
-<pubDate>Wed, 08 Jul 2026 12:00:11 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+<link>https://www.nature.com/articles/s42256-026-01261-5</link>
+<guid>be299af46ca4018790aabf8248ab7a861b4a78679a24296dafbdba9754cff313</guid>
+<pubDate>Wed, 08 Jul 2026 14:20:35 GMT</pubDate>
+<description>Executing experimental tasks in both normal research laboratories and large-scale scientific facilities often requires extensive human supervision and remains a key challenge on the path to fully autonomous, artificial intelligence (AI)-driven science. Here we demonstrate a large language model-driven agent that autonomously performs X-ray sample alignment on a synchrotron beamline by planning actions, executing instrumental commands, interpreting observations and iterating towards experimental goals. Based on existing large language models with structured tool-use via the model context protocol, our AI X-ray scientist was guided and tested using an in-house-built virtual experimental setup that mirrors a six-circle diffractometer at an operational synchrotron beamline. The agentic workflow developed in the virtual environment was directly deployed on a real beamline, where it correctly identified reference reflections and determined the orientation matrix, an essential first step in any type of single-crystal scattering experiment. Our AI X-ray scientist responded effectively to unexpected experimental conditions, demonstrating adaptive problem-solving and readiness for addressing</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>21747bf026e2797f930d52fef193f55143b4c4bcac0bd0425392af1aed5b04e0</guid>
+<pubDate>Wed, 08 Jul 2026 14:20:46 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
