@@ -4,70 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 09 Jul 2026 14:31:34 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 17:12:41 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【シリアル】工事屋さんが語る、現場で焦らないためのRS-232Cシリアルケーブル超入門</title>
-<link>https://qiita.com/Heizo_Hasegawa/items/7d446f8e51b80edfc1c2</link>
-<guid>1a24f40d075c1fd563e3c2a029d18802b187460b58b305f4b24d20a33f168921</guid>
-<pubDate>2026-07-09T22:14:07+09:00</pubDate>
-<description>はじめに とある日のもんじゃが美味しい街での出来事。新人さん2人がCisco CatalystやらFortigateやらにシリアルケーブルを繋いで、サクサクと設定を確認していました。 今の時代、AWSやGCP、OCI諸々で画面をポチポチすれば環境が作れるご時世ですが、あえ...</description>
+<title>【Qiita】 巨大 PR を作らずに「依存する機能追加」を小さく出す — Stacked PR という技術</title>
+<link>https://qiita.com/seiya-koji/items/ea1f905d5c56ea65a900</link>
+<guid>8b8d3d2e3a266af939fb10c8f6f10467657daa3d2077cdac193d258c8d05fb74</guid>
+<pubDate>2026-07-10T00:18:07+09:00</pubDate>
+<description>「まとめて1本の PR」が生んだコンフリクト チーム開発をしていると、必ずこの生き物に出会います。 CONFLICT (content): Merge conflict in src/... 原因を探ってみると、実は「隣の人」のせいではなく、自分の PR が大きすぎて...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント時代のMicrosoftアプリ基盤入門：OneDrive・OneLake・Fabric・Rayfin・Foundryを初心者向けに整理する</title>
-<link>https://qiita.com/ochtum/items/2b174e366f7af044f2ad</link>
-<guid>7bbbb1af74b93d1349825c3d808a09a9e629267b195643238828423aa4ef7d98</guid>
-<pubDate>2026-07-09T23:12:38+09:00</pubDate>
-<description>※お役に立てたらストック、いいねをよろしくお願いします！！ ＜本記事のターゲット層＞ Microsoft 365やPower BIは使っているが、Microsoft FabricやOneLakeはまだ曖昧な人 AIエージェントやコーディングエージェントによるアプリ...</description>
+<title>【Qiita】 AGENTS.mdには何を書くべき？その2 〜4モデル×330実験で検証〜</title>
+<link>https://qiita.com/rummy_p/items/b5cf4c9c40268cf75c4a</link>
+<guid>8294c92d45e61a5e79954ef72243c228d96402cc505e75aafe49fae4abe9e6a7</guid>
+<pubDate>2026-07-10T00:42:49+09:00</pubDate>
+<description>本記事の概要と背景 AGENTS.md の書き方の議論は、経験則が中心になりがちな気がする。 「長く書くと重要な指示が希釈されるから、短く保つべき」 「上位モデルなら勝手にコードベースを理解するから、ほとんど書かなくていい」 「禁止事項は明記しておけば守られる」 この...</description>
 </item>
 <item>
-<title>【Qiita】 【完全版】システム開発現場のClaude導入・活用ガイド：エコシステムの全貌から実践レベルのハックまで</title>
-<link>https://qiita.com/satouo/items/fbd89cf63c81514f65a9</link>
-<guid>f557fecf0f6463cee37450ea81269ec5c5ceaef64332dda4f23f02f10ca649b6</guid>
-<pubDate>2026-07-09T22:55:25+09:00</pubDate>
-<description>「AIを開発に導入したいが、ただのチャットボットとしてしか使われていない」 「GitHub Copilotなどの補完ツールは入れたが、要件定義やアーキテクチャ設計といった上流工程の生産性が上がらない」 いま、多くの開発現場がこのような課題に直面している。そんな中、圧倒的なコ...</description>
-</item>
-<item>
-<title>【Qiita】 AI ノーコードとは？AI 時代のノーコードプラットフォーム実用ガイド</title>
-<link>https://qiita.com/TianqiYuan/items/cd5b07df3bd8fdfdf4ce</link>
-<guid>fd9243fb343e77f28d106b5b5f29025756b682d9f956271be476e9a3de9464b8</guid>
-<pubDate>2026-07-09T22:43:16+09:00</pubDate>
-<description>はじめに ノーコードは「AI 以前の時代」のものだと思っていませんか？ AI がコードを書き、アプリを生成し、ワークフローまで自動化できるようになった今、ノーコードプラットフォームはもう必要ないのでしょうか。 実際には、そうではありません。 Google トレンドを見る...</description>
-</item>
-<item>
-<title>【Qiita】 AGENTS.mdには何を書くべき？その1 〜推奨構成調査（2026年7月）〜</title>
-<link>https://qiita.com/rummy_p/items/7ad185f9ad20d1dfe65e</link>
-<guid>fb54788d7192e0f72b44285af63bc9f11b41a0a5a5144bb9247b7fc996ffc8b8</guid>
-<pubDate>2026-07-09T22:17:09+09:00</pubDate>
-<description>本記事の概要と検証背景 AGENTS.md の書き方の議論は、経験則が中心になりがちな気がする。 「長く書くと重要な指示が希釈されるから、短く保つべき」 「上位モデルなら勝手にコードベースを理解するから、ほとんど書かなくていい」 「禁止事項は明記しておけば守られる」 ...</description>
-</item>
-<item>
-<title>【自動自律実験】 Pair of ‘super-puff’ planets are lighter than candy floss</title>
-<link>https://www.nature.com/articles/d41586-026-02114-2</link>
-<guid>af99ee1ad42276080987a9f5d4e4ad73250f0c524e7ec798346a2bcd5c4aa929</guid>
+<title>【自動自律実験】 Graduating without a thesis: meet the people getting ‘practical’ PhDs in China</title>
+<link>https://www.nature.com/articles/d41586-026-01242-z</link>
+<guid>9ca79d748c6ac6fae6ffa58a3cfbd7839f096615277859254a710245cbf6b4b6</guid>
 <pubDate>2026-07-09</pubDate>
-<description>Two gas giants circling the same star are among the least dense planets ever found.</description>
+<description>Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/differential-sensitivity-of-impedance-plethysmography-and-photoplethysmography-sensors-to-temperature-induced-peripheral-vasoconstriction/</link>
-<guid>139969807d54f04a480c117130a113bd55492747d6e75bc76f88cfe2333fd252</guid>
-<pubDate>Thu, 09 Jul 2026 14:30:58 GMT</pubDate>
+<link>https://research.google/pubs/livesvg-zero-shot-svg-animation-via-video-generation/</link>
+<guid>d4e6b523bc98350855e850f9f675b13f62cbc85626ba0ec1f7dccfbd5374b420</guid>
+<pubDate>Thu, 09 Jul 2026 17:11:30 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>5a0226dc7be7e3bf87909067e03c7e4d4a7ab56d6b9a933525b6b4b28161a0d1</guid>
-<pubDate>Thu, 09 Jul 2026 14:31:01 GMT</pubDate>
+<guid>496e5755b53c17fe936abe3c230eb8bbd006fe22b88a8759983c202b95d3b16b</guid>
+<pubDate>Thu, 09 Jul 2026 17:11:33 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>6952487f28aa083febedaf3cd979e508429f767c57e99111b71a71ed4ac9b254</guid>
-<pubDate>Thu, 09 Jul 2026 14:31:03 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>5c6026f22c31d7d740e575f70b3677edb6ab9415db7be466f4a74feabbe35cd6</guid>
+<pubDate>Thu, 09 Jul 2026 17:12:21 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
