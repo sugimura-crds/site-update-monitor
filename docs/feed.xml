@@ -4,42 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 09 Jul 2026 01:07:56 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 05:40:08 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Bobで自作したUbuntu24.04 MCPサーバーにツール追加</title>
-<link>https://qiita.com/duelist2020jp/items/1f92cce78995f3a2e048</link>
-<guid>27f011648ec90377f8bae67b5cc2bbcb29b340bea38957aaa9104bb91e3493ad</guid>
-<pubDate>2026-07-09T09:55:56+09:00</pubDate>
-<description>はじめに 先日、IBM Bobを活用してUbuntu24.04のMCPサーバーを開発した記事を投稿しました。 この時点では、リソース使用率に基づくインサイトしか得ることはできませんでしたが、本日セキュリティー診断とネットワーク診断を行う為のツールをIBM Bobで追...</description>
+<title>【Qiita】 SSM AutomationのWindows Updateが突然 exit status 1 で落ちる ── RunCommandの脇でWindowsが勝手に再起動していた話</title>
+<link>https://qiita.com/ntaka329/items/4fc38e2ab9e775d0d640</link>
+<guid>efb2710e7ce85ef44ee1311ab754ab32e673f3e0fbfac2ef3d8044ecd741dcb1</guid>
+<pubDate>2026-07-09T13:47:21+09:00</pubDate>
+<description>はじめに GMOコネクトの永田です。 長く運用しているシステムで、Windows ServerのゴールデンAMIをSSM Automationで毎月作っています。WSUSからパッチを当てて、その状態でAMIを焼く、というよくある構成です。ある月から、そのパッチ適用ステップ...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントの引き継ぎ台帳をJSONLで作る：作業中断と再開に強い最小スキーマ</title>
-<link>https://qiita.com/agentmemories/items/5a5017875f2753da6ade</link>
-<guid>49f603ebcb59f84dfbf666ee387efcb204641a9e41e6e5744bca8ea256c0350c</guid>
-<pubDate>2026-07-09T09:41:04+09:00</pubDate>
-<description>はじめに AIエージェントに作業を任せると、完了報告は比較的簡単に出せます。難しいのは、中断した作業を次のセッションや別エージェントが安全に再開することです。 会話ログだけに頼ると、どこまで終わったのか、何を確認したのか、何が未解決なのかが埋もれます。特にMCP連携、...</description>
+<title>【Qiita】 OCI Generative AI ServiceのAIエージェント開発 ～メモリ、Tools編 ～</title>
+<link>https://qiita.com/ksonoda/items/2ae9c1e6d772dc672016</link>
+<guid>21e366e8ef0d9e18b9f68afe6aca2494b5a51ed365a1472d75375acc5d338dbb</guid>
+<pubDate>2026-07-09T13:15:16+09:00</pubDate>
+<description>本記事は日本オラクルが運営する下記Meetupでの発表内容を記事に纏めたものです。 Meetup実施時の動画はこちら。 はじめに 本記事は下記記事の補足記事となります。 上記の記事では、Generative AI ServiceでAIエージェントを開発し、同...</description>
 </item>
 <item>
-<title>【Qiita】 生成AIは社内Wikiをどこまで信じるのか？ LLM WikiとローカルLLMで検証してみた</title>
-<link>https://qiita.com/kadzus/items/fd8eff40d0f268877519</link>
-<guid>79c8a761299d7ba303cec11dc6bc1855ffa1157e709d7c79afcfc5f9c548a893</guid>
-<pubDate>2026-07-09T09:23:19+09:00</pubDate>
-<description>はじめに AI Private Cloud の運用というと、どうしても「安定して使える基盤をどう提供するか」に意識が向きがちです。 もちろんそれはとても重要なのですが、その一方で、生成AIのように変化が速く、検証したい対象が次々に生まれる領域では、「まず試してみるための環...</description>
+<title>【Qiita】 AWS Summit 2026 １日目</title>
+<link>https://qiita.com/Masaharu/items/9533f2b82915387b0529</link>
+<guid>5369c505db4beaa7e09c359475617eefcdd324233255d3ff438e2b68cfa04d60</guid>
+<pubDate>2026-07-09T12:37:09+09:00</pubDate>
+<description>AWS Summit 2026に参加してきました！ 6月25日、26日でAWS Summit 2026に参加してきました。 Amazon Bedrock, Agent Coreを用いたソリューション事例や、AWSの提供するIDEのkiroを用いたAI駆動開発ノウハウ。そし...</description>
 </item>
 <item>
-<title>【Qiita】 データサイエンス作業をAIエージェントに丸投げ？ADBのOracle Data Science Agentを試してみた</title>
-<link>https://qiita.com/ssfujita/items/3f4d4d6fca8c8ae04f47</link>
-<guid>256341774812d4c99fd46af0b3189f38b76b4ae0056e35f645c5f60a50846007</guid>
-<pubDate>2026-07-09T08:09:13+09:00</pubDate>
-<description>OCI Autonomous AI Databaseの新機能 Data Science Agent が先日リリースされました。 Data Science Agent はOracle Autonomous AI Databaseに含まれる Oracle Machine Lea...</description>
+<title>【Qiita】 2026/07/09 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/fbca5b89982b8d55d4e0</link>
+<guid>0619e820260df835b809bee8d90bb8479d21257b300601f9e7e2d7c8f8ddd86a</guid>
+<pubDate>2026-07-09T11:28:06+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 『めっちゃカメレオン』のサーバー代0円ってまじ...</description>
+</item>
+<item>
+<title>【Qiita】 2026年中盤、エンジニアが見落としがちな技術の転換点</title>
+<link>https://qiita.com/agenticdev/items/f415fe8612bb1db83aa2</link>
+<guid>97c060f3446ae32f3613fd562e4d173d0add7537c34febfaff51dc186de7e315</guid>
+<pubDate>2026-07-09T10:33:06+09:00</pubDate>
+<description>2026年中盤、エンジニアが見落としがちな技術の転換点 はじめに Prime Dayのセール情報が飛び交う中、技術の世界ではもう少し静かだが確実な変化が進んでいる。今週のトレンドを眺めていると、「AIが全部やってくれる」という雰囲気に隠れて、地味だけど現場の仕事を変える...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/agentic-trend-to-knowledge-a-methodology-for-automating-case-deflection-through-proactive-content-surfacing-in-enterprise-employee-support/</link>
-<guid>e4a2d3da8ba6c431c64f018f94cf0b91b2a6afdf86be377dce0986b7282a06bb</guid>
-<pubDate>Thu, 09 Jul 2026 01:07:13 GMT</pubDate>
+<link>https://research.google/pubs/system-for-validating-medical-software-algorithms-with-closed-loop-adversarial-persona-generation/</link>
+<guid>c9e2731a25e36cb484491683817a617680192ededb01856c4f5d627deea0bac7</guid>
+<pubDate>Thu, 09 Jul 2026 05:39:04 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75249-5</link>
+<guid>f91142814b4d2065cc3ddd126eaa1819263271d8333c41f999c026dd7560e831</guid>
+<pubDate>Thu, 09 Jul 2026 05:39:07 GMT</pubDate>
+<description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>9bea1b5591fccf365e5bd186b9f8b045a5e49672243c78d61741f3585696125e</guid>
+<pubDate>Thu, 09 Jul 2026 05:39:10 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+</item>
+<item>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.maff.go.jp/j/press/kanbo/kihyo03/260630.html</link>
+<guid>8b0a6d1da95b9f7656d4a62cd749afac23f2b7ec4f79b6f366f9c92f9e1d1ac0</guid>
+<pubDate>Thu, 09 Jul 2026 05:39:51 GMT</pubDate>
+<description>研究所別一覧</description>
 </item>
 
 </channel>
