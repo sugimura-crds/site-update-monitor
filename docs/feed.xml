@@ -4,29 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 09 Jul 2026 22:24:37 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 23:44:15 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Codex ~ AIエージェント時代のソフトウェア設計：ハルシネーションと不整合の制御</title>
-<link>https://qiita.com/mellowlaunch/items/7cc66879cad919437e84</link>
-<guid>2e2da2dcf08ce36cc0cf64a4cd08ad113a78465c33f66da5b79de54bc3e45b82</guid>
-<pubDate>2026-07-10T06:16:03+09:00</pubDate>
-<description>📚 関連書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 「ゼロから触ってわかった！Codex - AIエージェント時代のソフトウェア設計」 本書は、AIエージェン...</description>
+<title>【Qiita】 LLMの出力が安定しないと悩むエンジニアへ。コンテキストの設計で挙動をコントロールできるようになる一冊</title>
+<link>https://qiita.com/yasu1109/items/e02eebbd0c2dc8533fe6</link>
+<guid>73d69d737052c09d4450092b931a1ebd63757fd4af1ee0449edc6e6acef2fced</guid>
+<pubDate>2026-07-10T08:15:22+09:00</pubDate>
+<description>プロンプトを工夫してもLLMの出力が安定しない、RAGを使っても精度が上がらない——それはコンテキストの設計が問題であることが多い。LLMに何を渡すかを体系的に考えられるようになれば、アプリケーションの品質は大きく変わる。 プロンプトだけ磨いても限界がある理由 LLMベー...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/dynamic-case-precedent-an-architecture-for-accelerating-agent-proficiency-and-resolution-consistency-in-large-scale-people-operations/</link>
-<guid>69417e774f0a3c98db63cd49ac690e30b60aad93e02651e47d24633ab3547f1a</guid>
-<pubDate>Thu, 09 Jul 2026 22:23:55 GMT</pubDate>
+<link>https://research.google/pubs/operationalized-temporal-entity-resolution-at-scale-a-2b-entity-architecture-for-cloud-native/</link>
+<guid>f767d06d367551f2c80407d8718aee41fbfaecaf5c7f3bbfff1de879e4f5da18</guid>
+<pubDate>Thu, 09 Jul 2026 23:43:12 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>b1176b9b21846983f00d04f15f2170108c7c353971e0e7d11d3931bd40687445</guid>
-<pubDate>Thu, 09 Jul 2026 22:24:17 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75249-5</link>
+<guid>60174160feefd09149cf3b46b83d193b7dab3b0025287871c383238ecd7432cb</guid>
+<pubDate>Thu, 09 Jul 2026 23:43:15 GMT</pubDate>
+<description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 
 </channel>
