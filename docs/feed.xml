@@ -4,119 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 09 Jul 2026 11:51:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 14:31:34 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIP合格記：試験対策がてらBedrockを使って弱点特化した問題を作らせる学習システムを自作した</title>
-<link>https://qiita.com/y_wakai/items/e4ba31be43d518b9fdbc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>65cd7f471c08a4efd2eabeee11a0a10f393856597ece2b850d1bb30c43f680c2</guid>
-<pubDate>2026-07-09T10:04:26+09:00</pubDate>
-<description>はじめに 何かしらの業務に携わるベンダー資格を取得するために勉強している方、こんな経験をしたことはないですか？ 「マイナーすぎる or 情報がなさすぎる…問題集があっても少ない…」 「同じ問題ばっかり…もっとバリエーションが欲しい」 「新設資格で模擬試験がまだ少ない…」...</description>
+<title>【Qiita】 【シリアル】工事屋さんが語る、現場で焦らないためのRS-232Cシリアルケーブル超入門</title>
+<link>https://qiita.com/Heizo_Hasegawa/items/7d446f8e51b80edfc1c2</link>
+<guid>1a24f40d075c1fd563e3c2a029d18802b187460b58b305f4b24d20a33f168921</guid>
+<pubDate>2026-07-09T22:14:07+09:00</pubDate>
+<description>はじめに とある日のもんじゃが美味しい街での出来事。新人さん2人がCisco CatalystやらFortigateやらにシリアルケーブルを繋いで、サクサクと設定を確認していました。 今の時代、AWSやGCP、OCI諸々で画面をポチポチすれば環境が作れるご時世ですが、あえ...</description>
 </item>
 <item>
-<title>【Qiita】 Vibe Codingで商用品質を目指して失敗してきた記録と、いま試している仮説</title>
-<link>https://qiita.com/autotaker1984/items/7d16cf9bb28c1f5ae088?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>805831887a7dd8bfa11b1a12f4f39a73d65b27d320dea4f1962793d12534e54c</guid>
-<pubDate>2026-07-07T21:28:28+09:00</pubDate>
-<description>はじめに Vibe codingで動くアプリはすぐできます。問題はそのあとで、「これを実ユーザに出せる品質にするにはどうすればいいのか」に、まだ定番の答えがありません。 この記事は、その答えを探して私が実際に試してきたことの記録です。うまくいったこと、失敗したこと、そして...</description>
+<title>【Qiita】 AIエージェント時代のMicrosoftアプリ基盤入門：OneDrive・OneLake・Fabric・Rayfin・Foundryを初心者向けに整理する</title>
+<link>https://qiita.com/ochtum/items/2b174e366f7af044f2ad</link>
+<guid>7bbbb1af74b93d1349825c3d808a09a9e629267b195643238828423aa4ef7d98</guid>
+<pubDate>2026-07-09T23:12:38+09:00</pubDate>
+<description>※お役に立てたらストック、いいねをよろしくお願いします！！ ＜本記事のターゲット層＞ Microsoft 365やPower BIは使っているが、Microsoft FabricやOneLakeはまだ曖昧な人 AIエージェントやコーディングエージェントによるアプリ...</description>
 </item>
 <item>
-<title>【Qiita】 【実測比較】日本語RAGのOCR、結局どれを使う？ glm-ocr / dots.ocr / Unlimited-OCR / MinerU を社内ドライブの実データでガチ評価</title>
-<link>https://qiita.com/engchina/items/6dff7010af1b28e8c30a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>f2e81f5b0f4ac17bb72094b1e5a3ba52c1e1e34d39f1208aa902bc267137d75f</guid>
-<pubDate>2026-07-07T11:28:41+09:00</pubDate>
-<description>はじめに RAG（検索拡張生成）を「本当に業務で使う」段になると、いちばん地味で、いちばん効いてくるのがOCRです。 社内ドライブには、テキスト層のあるきれいなPDFだけでなく、チャット画面のスクリーンショット、matplotlibで吐き出したチャート、テキスト層のない提...</description>
+<title>【Qiita】 【完全版】システム開発現場のClaude導入・活用ガイド：エコシステムの全貌から実践レベルのハックまで</title>
+<link>https://qiita.com/satouo/items/fbd89cf63c81514f65a9</link>
+<guid>f557fecf0f6463cee37450ea81269ec5c5ceaef64332dda4f23f02f10ca649b6</guid>
+<pubDate>2026-07-09T22:55:25+09:00</pubDate>
+<description>「AIを開発に導入したいが、ただのチャットボットとしてしか使われていない」 「GitHub Copilotなどの補完ツールは入れたが、要件定義やアーキテクチャ設計といった上流工程の生産性が上がらない」 いま、多くの開発現場がこのような課題に直面している。そんな中、圧倒的なコ...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Cloud Container Registry の CBR 設定で Public endpoint を制限する際に Private endpoint Context を忘れない</title>
-<link>https://qiita.com/xiaojinse/items/f3ba10d5dd0ba88638d8</link>
-<guid>3ab0ec36ed68836d1e3b4b77428ef867e37106d772c4c9ecfd43a5bfbc3de4ed</guid>
-<pubDate>2026-07-09T18:54:26+09:00</pubDate>
-<description>はじめに IBM Cloud の Context-based restrictions（CBR）を利用すると、IBM Cloud サービスへのアクセスをネットワークコンテキストに基づいて制御できます。 CBR の基本的な考え方や設定手順については、以下の記事が参考になりま...</description>
+<title>【Qiita】 AI ノーコードとは？AI 時代のノーコードプラットフォーム実用ガイド</title>
+<link>https://qiita.com/TianqiYuan/items/cd5b07df3bd8fdfdf4ce</link>
+<guid>fd9243fb343e77f28d106b5b5f29025756b682d9f956271be476e9a3de9464b8</guid>
+<pubDate>2026-07-09T22:43:16+09:00</pubDate>
+<description>はじめに ノーコードは「AI 以前の時代」のものだと思っていませんか？ AI がコードを書き、アプリを生成し、ワークフローまで自動化できるようになった今、ノーコードプラットフォームはもう必要ないのでしょうか。 実際には、そうではありません。 Google トレンドを見る...</description>
 </item>
 <item>
-<title>【Qiita】 CPLEX ＋Bob 化学薬品製造スケジュールの最適化</title>
-<link>https://qiita.com/Asuka_Saito/items/9df9f9b17a37cf164cc7</link>
-<guid>7252d83468d8fa131ae1dd2003f80ee2b2392260b41fae1ff8804c1ae626fd1b</guid>
-<pubDate>2026-07-09T17:52:33+09:00</pubDate>
-<description>皆さんこんにちは！この記事では、IBM BobとCPLEXを使って数理最適化計算で解を求める方法をご紹介したいと思います。 IBM Bobとは IBM Bob は、開発者のパートナーとして、単にコードを書くだけでなく、要件定義から実装、テスト、デプロイまで、ソフトウェア開...</description>
+<title>【Qiita】 AGENTS.mdには何を書くべき？その1 〜推奨構成調査（2026年7月）〜</title>
+<link>https://qiita.com/rummy_p/items/7ad185f9ad20d1dfe65e</link>
+<guid>fb54788d7192e0f72b44285af63bc9f11b41a0a5a5144bb9247b7fc996ffc8b8</guid>
+<pubDate>2026-07-09T22:17:09+09:00</pubDate>
+<description>本記事の概要と検証背景 AGENTS.md の書き方の議論は、経験則が中心になりがちな気がする。 「長く書くと重要な指示が希釈されるから、短く保つべき」 「上位モデルなら勝手にコードベースを理解するから、ほとんど書かなくていい」 「禁止事項は明記しておけば守られる」 ...</description>
 </item>
 <item>
-<title>【Qiita】 CPLEX ＋Bob クーポンメール送付の最適化</title>
-<link>https://qiita.com/Asuka_Saito/items/51bc2a9452db0c9792e9</link>
-<guid>c36bfa27287e370e1bd5055cf4dc51f8e2175198e70c8ba00543daba70e9f18e</guid>
-<pubDate>2026-07-09T10:29:15+09:00</pubDate>
-<description>皆さんこんにちは！この記事では、IBM BobとCPLEXを使って数理最適化計算で解を求める方法をご紹介したいと思います。 IBM Bobとは IBM Bob は、開発者のパートナーとして、単にコードを書くだけでなく、要件定義から実装、テスト、デプロイまで、ソフトウェア開...</description>
-</item>
-<item>
-<title>【Qiita】 【Godot 4.x】3D脱出ゲームを作ってみる③〜タップインタラクトとズームカメラの実装〜</title>
-<link>https://qiita.com/OnuuuumaX/items/10478dc5d6e93e3e112f</link>
-<guid>c084a6eb7b5c478a34d6e538b9bfcaa9e02a400a5d9bf91ce77f9940288507e9</guid>
-<pubDate>2026-07-09T20:48:14+09:00</pubDate>
-<description>はじめに この記事は、Godot 4.xでスマホ横向き向けFPS視点の3D脱出ゲームを作る連載の第3回です。 前回までの記事はこちら： 環境構築とプロジェクト作成 Claude Code + godot-mcp セットアップ 【Godot 4.x】3D脱出ゲームを作って...</description>
-</item>
-<item>
-<title>【Qiita】 MCP次期仕様「2026-07-28」のリリース候補が公開、7月28日に確定へ</title>
-<link>https://qiita.com/aevolis-ipms/items/28444d911c9d916f810e</link>
-<guid>af4f64bad4cb0ccdb4884b2788add9f936b1619daac0c2afe29ef35b91cbd04f</guid>
-<pubDate>2026-07-09T19:53:25+09:00</pubDate>
-<description>Model Context Protocol（MCP）の次期仕様 2026-07-28 のリリース候補が公式ブログで公開されている。プロトコル創設以来最大の改訂で、最終仕様は2026年7月28日に確定する。柱は4つ。プロトコルのステートレス化（initialize ハンドシ...</description>
-</item>
-<item>
-<title>【Qiita】 【AIエージェント】Claude Code vs Antigravity CLI！一晩で200ドル溶かさないための「自律ループ制御」超入門（第12回）</title>
-<link>https://qiita.com/0903osa/items/43057eb6ef9d3b5f3484</link>
-<guid>dc5492c1370a798cea7bca24e8aeb1c59d9726dba301ae512c6e36d69cacb5d0</guid>
-<pubDate>2026-07-09T19:29:24+09:00</pubDate>
-<description>はじめに 僕のメンターからおすすめされた本の紹介連載、第12回です。 ※本記事では、以降 antigravity CLI のコマンド表記を agy と統一して記述します。 今回は以下について書いていきます 自律ループを夜間に放置実行（オーバーナイト稼働）させ、人間が眠ってい...</description>
-</item>
-<item>
-<title>【Qiita】 AI開発初心者がAIで自動開発をさせるまで</title>
-<link>https://qiita.com/yu-ito312/items/e7681c1d4bd4523bf149</link>
-<guid>6857f88cd4a6348748fa97d694fa131feeb471f9c6f9b964fba74b0d19aa8801</guid>
-<pubDate>2026-07-09T18:55:34+09:00</pubDate>
-<description>AIの最新情報はXなどで拾っていた。しかし、自分の手で回したことはほとんどない。 そんな筆者の目に、「ループエンジニアリング」という言葉が入ってきた。寝ている間にも実装が進む。そのイメージに、ロマンしか感じなかった。だから、やってみた。 対象は自分で育てているC++のゲーム...</description>
-</item>
-<item>
-<title>【Qiita】 2026年7月第1週、無人運用のAI開発ツール更新3件：Claude Code既定Manual化・Transformers 5.13破壊的変更・n8n 2.29.8</title>
-<link>https://qiita.com/YushiYamamoto/items/b99585ff46e406930243</link>
-<guid>447b529cda03c979cdb93c0f7514386f3299e3c7abc376b8846d17166a4e6446</guid>
-<pubDate>2026-07-09T15:28:07+09:00</pubDate>
-<description>2026年7月3日から8日にかけて、無人・自動で回している開発基盤に効く更新が立て続けに出た。Claude Code の既定承認モードが「Manual」に変わり、Hugging Face Transformers 5.13.0 は export と注意マスクまわりに破壊的...</description>
-</item>
-<item>
-<title>【Qiita】 Pydantic AI V2を動かしたら、V1との破壊的変更はこの4つだけだった</title>
-<link>https://qiita.com/kai_kou/items/20341ab85835356bee09</link>
-<guid>d88200d6368eada1bd49de27a67614a3a4d82bbe95db055103662811bbb1b162</guid>
-<pubDate>2026-07-09T15:05:45+09:00</pubDate>
-<description>はじめに 型安全なPythonエージェントフレームワークとして人気の Pydantic AI が、2026年6月23日に V2安定版 をリリースした1。さらに本記事執筆時点（2026年7月9日）の直近1日、7月8日には早くも v2.7.0 が出ている2。安定版から2週間強...</description>
-</item>
-<item>
-<title>【農業】 State of Agricultural Commodity Markets explores how best to cope with shocks</title>
-<link>https://www.fao.org/newsroom/detail/state-of-agricultural-commodity-markets-explores-how-best-to-cope-with-shocks/en</link>
-<guid>738fd48a64cdb09283e75a6a256fd57d60b19c48ec385b931fb442200d3af0b4</guid>
-<pubDate>Thu, 09 Jul 2026 12:00:00 Z</pubDate>
-<description></description>
+<title>【自動自律実験】 Pair of ‘super-puff’ planets are lighter than candy floss</title>
+<link>https://www.nature.com/articles/d41586-026-02114-2</link>
+<guid>af99ee1ad42276080987a9f5d4e4ad73250f0c524e7ec798346a2bcd5c4aa929</guid>
+<pubDate>2026-07-09</pubDate>
+<description>Two gas giants circling the same star are among the least dense planets ever found.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/geo-contextual-ai-concierge-minimizing-internal-support-friction-through-proactive-knowledge-synthesis/</link>
-<guid>f225d5e3538d181059e34011c585bed723320930598c195af0793d1ba926e166</guid>
-<pubDate>Thu, 09 Jul 2026 11:50:15 GMT</pubDate>
+<link>https://research.google/pubs/differential-sensitivity-of-impedance-plethysmography-and-photoplethysmography-sensors-to-temperature-induced-peripheral-vasoconstriction/</link>
+<guid>139969807d54f04a480c117130a113bd55492747d6e75bc76f88cfe2333fd252</guid>
+<pubDate>Thu, 09 Jul 2026 14:30:58 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>9a77c3db55245648c00c4e9df61e9a24d47aeab26807342a014c69569298b918</guid>
-<pubDate>Thu, 09 Jul 2026 11:50:17 GMT</pubDate>
+<guid>5a0226dc7be7e3bf87909067e03c7e4d4a7ab56d6b9a933525b6b4b28161a0d1</guid>
+<pubDate>Thu, 09 Jul 2026 14:31:01 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 <item>
-<title>【UK】 Featured</title>
-<link>https://www.linkedin.com/company/scitechgovuk</link>
-<guid>6c90a779b821dc3f17b0950abd5abe359ca6814567653d7bbb296adadaa42c37</guid>
-<pubDate>Thu, 09 Jul 2026 11:50:26 GMT</pubDate>
-<description>Department for Science, Innovation and Technology | 269,521 followers on LinkedIn. Positioning the UK at the forefront of global scientific and technological advancement. | Follow this profile to stay up-to-date with our mission: improving people&amp;#39;s lives by maximising the potential of science &amp;amp; technology.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>6952487f28aa083febedaf3cd979e508429f767c57e99111b71a71ed4ac9b254</guid>
+<pubDate>Thu, 09 Jul 2026 14:31:03 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
 </channel>
