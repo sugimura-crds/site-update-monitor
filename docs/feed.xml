@@ -4,70 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 10 Jul 2026 06:01:34 GMT</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 09:58:04 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Cloud: RackWare Management Module(RMM)を使ったVCFaaS環境からのVPCへの移行: Linux編</title>
-<link>https://qiita.com/6onoda/items/6851aa99cc74741ea401</link>
-<guid>2a4ec7c288d04ffae5d8b81e7bc7bbd5c40b6b29fcf6ba085b81f2551c76cb96</guid>
-<pubDate>2026-07-10T12:19:09+09:00</pubDate>
+<title>【Qiita】 ナレッジ83件を2時間で作った。でも腐るのは、もっと速かった</title>
+<link>https://qiita.com/yamada-iknow/items/5e5ec4d5e96b12fbc75c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>44d5af882436fe60dd99ecea0e58ba4aa12f07a4fc7ba3f705ce3d480c44b5b9</guid>
+<pubDate>2026-07-10T07:00:29+09:00</pubDate>
+<description>TL;DR 自社プロダクト iknow.dev の案内役AI「iknow Navigator」を、製品の実コードから育てました。ナレッジ83件、壁打ち15問、ここまで2時間。 でも本題はここから。実際、83件を作った4日後、機能をひとつ追加したら（★重要マーク）、その...</description>
+</item>
+<item>
+<title>【Qiita】 最近のDynamoDB設計事情：single-table偏重の見直しとGSIマルチ属性キー</title>
+<link>https://qiita.com/Suemura/items/ce4cb4290e4e711fdc98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f00b6322245d2af2eb57b63e7ad22f1be23242eb777482137fcacc599b27b41a</guid>
+<pubDate>2026-07-10T09:58:58+09:00</pubDate>
+<description>はじめに DynamoDBには長らく「できるだけ1つのテーブルにまとめろ（single-table design）」という強いベストプラクティスがありました。 しかしここ最近、現場では「本当にそうか？」という揺り戻しが起きています。 さらに昨年末（2025年11月）、AW...</description>
+</item>
+<item>
+<title>【Qiita】 プロンプトを頑張るな、リポジトリを育てろ：GitHub Copilotが迷わないコードベース設計</title>
+<link>https://qiita.com/ochtum/items/28fc5b3dbf78b7795c80?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>3dda9d621c8bf5dd67444cc59e9acaee8b766eeb09adcba7e6be888881e32228</guid>
+<pubDate>2026-07-08T15:59:45+09:00</pubDate>
+<description>※お役に立てたらストック、いいねをよろしくお願いします！！ ＜📝本記事のターゲット層＞ GitHub Copilotに毎回プロジェクト前提を説明している開発者 CopilotやAI Agentの出力がリポジトリの暗黙知とズレることに困っている人 README、設計...</description>
+</item>
+<item>
+<title>【Qiita】 Bobと一緒に動かしながら学ぶ量子コンピュータ入門</title>
+<link>https://qiita.com/mi2valley/items/21e93dfb22f51e9fd1db</link>
+<guid>7e61c0745202837fada9c70292dfbe3b10a6f0b9876182b4d6a045a7cca4969a</guid>
+<pubDate>2026-07-10T18:15:51+09:00</pubDate>
+<description>はじめに 量子コンピュータの学習では、概念を聞くだけでなく、実際に動かしてみることが重要です。 そこでIBM Bob と一緒に、量子コンピュータの基礎を質問しながら学びつつ、Bobに量子コンピュータを動かしてもらいながら理解を深めてみます。 コーディングエージェントを単に...</description>
+</item>
+<item>
+<title>【Qiita】 IBM Cloud: RackWare Management Module(RMM)を使ったVCFaaS環境からのVPCへの移行: Windows編</title>
+<link>https://qiita.com/6onoda/items/b0af2296778e6dc3927b</link>
+<guid>f2c248328d7c49ab5d52bed7f18c19683469240f678aab85e38173012c6b886b</guid>
+<pubDate>2026-07-10T17:02:45+09:00</pubDate>
 <description>これまで「IBM Cloud : virt-v2vを使ったVMwareからVSI for VPCへ移行手順の補足-VCFaaS環境からの移行」のようにvirt-v2vを使ってVCFaaSの環境からVSI for VPCへの移行を検証してきました。 「IBM Cloud: R...</description>
 </item>
 <item>
-<title>【Qiita】 Gotchasこそが業務知識の最小単位である — Anthropicの「スキル9分類」を業務エージェントで実践する</title>
-<link>https://qiita.com/Asikaze_TechHive/items/97d48901efdf42319f3c</link>
-<guid>6e7d0b9fc020c6c1c4b8759b65a54093584284f624679314129ca0c6f0ea6d90</guid>
-<pubDate>2026-07-10T13:11:21+09:00</pubDate>
-<description>はじめに 2026年6月、AnthropicがClaude Codeのスキル運用に関する社内知見を公開した(Thariq Shihipar, &quot;Lessons from building Claude Code: How we use skills&quot;, Claude Bl...</description>
+<title>【Qiita】 Application Gateway + App Service + Key Vault 閉域・Entra認証あり設定</title>
+<link>https://qiita.com/FukuharaYohei/items/d4c4e4915ab5be07202e</link>
+<guid>5a9865939a59dc8499dce968d0349ecc6223e5168700f68964236d6b08bf4b6d</guid>
+<pubDate>2026-07-10T18:51:56+09:00</pubDate>
+<description>Application Gateway + App Service + Key Vault 閉域・Entra認証あり設定の設定をしました。具体的には以下を実現しています。設定が多いので記録しておきます。 App Service の組み込み認証を使い、Entra ID での...</description>
 </item>
 <item>
-<title>【Qiita】 Claude CodeやCodexに「実装して」と頼むだけでは開発が安定しない｜SPEC・PLAN・TASK入門</title>
-<link>https://qiita.com/vivinko/items/5a3a6a3a7066766bf33d</link>
-<guid>9159c1c85b248996dc6ad226a5655bbce48569296c1f6ac7059b8c66f5fbdf17</guid>
-<pubDate>2026-07-10T12:56:21+09:00</pubDate>
-<description>「実装は完了しました。テストもすべて成功しています」 AIからそう返ってきたので差分を確認すると、頼んだ画面が既存の画面遷移につながっていない。 対象外だった設定ファイルまで変更されている。 テストは成功しているが、こちらが想定した動作は確認されていない。 Claude...</description>
+<title>【Qiita】 「AIエージェントの費用は人件費か？」——AIエージェントBPOを&quot;実装している側&quot;からの回答</title>
+<link>https://qiita.com/Asikaze_TechHive/items/d184241ee5d1b56a43d0</link>
+<guid>023eb75ac25def70c68558c107b7b8cc34996c11f1015537cc934a5e7cc98b4b</guid>
+<pubDate>2026-07-10T18:17:58+09:00</pubDate>
+<description>先日、日本経済新聞が 「社員と化すAIエージェント、費用は人件費？ 人事とITの境界溶かす」 という記事を出した。 読んで、思わず「それ、もう設計思想として実装しています」と声が出た。 私たちは TechHive Agent（以下 THA） という、「AIエージェントを&quot;社...</description>
 </item>
 <item>
-<title>【Qiita】 GPT-5.6 Sol Ultraを6時間使ってみた。5.5より「違う、そうじゃない」が減った</title>
-<link>https://qiita.com/shion4614/items/9916462a3f552b51b598</link>
-<guid>38cc901ff75842a8133a7b0e186adcf5d3653ba70a3b3c0ec9261d8dd7405f29</guid>
-<pubDate>2026-07-10T12:43:39+09:00</pubDate>
-<description>おはこんばんわ。最近はゲームを作らせてもらっています。 今日、自分の環境でGPT-5.6 SolをUltraモードで使えるようになったので、6時間くらいずっと動かしてみました。 正直、まだ6時間です。ちゃんと条件をそろえた比較でもないですし、トークン数のログも取っていませ...</description>
+<title>【Qiita】 AI エージェントの tool 呼び出しを request_id で追えるようにした</title>
+<link>https://qiita.com/FlatkeyAI/items/ec90cc93d3c0eb72d47c</link>
+<guid>5af66b0e04a727fd5e4ea074ec75b20a411d1d1154166a82aff174cf10304390</guid>
+<pubDate>2026-07-10T18:01:53+09:00</pubDate>
+<description>はじめに: agent のログで迷子になった AI Agent を業務アプリに入れ始めると、1 回の実行が思ったより細かく分かれます。 最初に LLM で次の行動を決める。社内 API や検索 tool を呼ぶ。tool 結果を LLM に戻す。必要なら別の tool を...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法</title>
-<link>https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971</link>
-<guid>cfa073c63973526f92644ac5a58cacfeea38fd0c8314c4a371bf60423a70766b</guid>
-<pubDate>2026-07-10T12:34:58+09:00</pubDate>
-<description>こんにちは！コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。 さて、読者のほとんどの方が Claude Code や Codex を使って開発をしていると思いますが、皆さんは「AIエージェントがシェルコマンドやネットワークアクセ...</description>
+<title>【Qiita】 本当のFDEは「願いを聞く人」ではなく「錬丹師」である</title>
+<link>https://qiita.com/engchina/items/bd54866f196201e6b029</link>
+<guid>88dc6917dd259506326eeabf52dc981face1dd2b03044aa1848b0962fc928e87</guid>
+<pubDate>2026-07-10T17:27:38+09:00</pubDate>
+<description>先に結論 日本でも、FDE（Forward Deployed Engineer）という職種を目にするようになりました。 少なくともOpenAIは、東京でFDEを明示的に募集しています。 ただ、少し乱暴に言うと、 日本には「FDEという役割の人」は増えても、「FDEとして...</description>
+</item>
+<item>
+<title>【Qiita】 DatabricksのMCPサービスを試す — エージェントのツールもUnity Catalogで統治する</title>
+<link>https://qiita.com/taka_yayoi/items/215c02562462f0f164eb</link>
+<guid>6d441ba537604babb721fc59ec473b1e57c33d553ac4b209d313729351177671</guid>
+<pubDate>2026-07-10T15:48:34+09:00</pubDate>
+<description>はじめに 前回のDatabricksモデルプロバイダーサービスでOpenAIをUnity Catalogに登録するでは、外部モデルプロバイダーがUnity Catalogのセキュラブルオブジェクトになったことを実機で検証しました。今回はその続きとして、同じUnity AI...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/type-aware-ranking-of-urban-similarity-from-aerial-imagery/</link>
-<guid>5501a395bcb88792a62075d44cb3520c7b2912b304fe0f661f15aabccc2bf508</guid>
-<pubDate>Fri, 10 Jul 2026 06:00:36 GMT</pubDate>
+<link>https://research.google/pubs/genai-on-google-cloud-enterprise-generative-ai-systems-and-ai-agents/</link>
+<guid>13fe690b2fe06947574b8962410e31d1ac22a759059d1aef2556ae0391c9530d</guid>
+<pubDate>Fri, 10 Jul 2026 09:57:05 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>e1f42346509294124d7802fc26ebcb3828c2499e789451d4da890fa60d03cc3a</guid>
-<pubDate>Fri, 10 Jul 2026 06:00:38 GMT</pubDate>
+<guid>3c6aea47001ad3e9ec5e75bf87b856edb95ff561651de058dcd43d138886817b</guid>
+<pubDate>Fri, 10 Jul 2026 09:57:07 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>b401af5f2743617150cec600ababd8c34327d5f15e16307e997fc2d69fcedeb8</guid>
-<pubDate>Fri, 10 Jul 2026 06:00:40 GMT</pubDate>
+<guid>d7a073e5d0f399de6ed345b45b5911a7fe9e2e69a2dba27cb0d3d18c103b59ec</guid>
+<pubDate>Fri, 10 Jul 2026 09:57:09 GMT</pubDate>
 <description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>d164a58cee389acfa590b775e480d2082617041a43f50fbe06a90f5042311894</guid>
-<pubDate>Fri, 10 Jul 2026 06:00:41 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
