@@ -23,10 +23,21 @@ jobs:
 
       - run: python monitor_sites.py
 
+      - name: Check generated files
+        run: |
+          ls -la
+          ls -la docs || true
+
       - name: Commit feed update
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+
           git add docs/feed.xml state.json
-          git commit -m "Update feed" || echo "No changes"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update feed"
+            git push
+          fi
