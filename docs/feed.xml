@@ -4,28 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 09 Jul 2026 23:44:15 GMT</lastBuildDate>
+<lastBuildDate>Fri, 10 Jul 2026 01:59:07 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 LLMの出力が安定しないと悩むエンジニアへ。コンテキストの設計で挙動をコントロールできるようになる一冊</title>
-<link>https://qiita.com/yasu1109/items/e02eebbd0c2dc8533fe6</link>
-<guid>73d69d737052c09d4450092b931a1ebd63757fd4af1ee0449edc6e6acef2fced</guid>
-<pubDate>2026-07-10T08:15:22+09:00</pubDate>
-<description>プロンプトを工夫してもLLMの出力が安定しない、RAGを使っても精度が上がらない——それはコンテキストの設計が問題であることが多い。LLMに何を渡すかを体系的に考えられるようになれば、アプリケーションの品質は大きく変わる。 プロンプトだけ磨いても限界がある理由 LLMベー...</description>
+<title>【Qiita】 15年前の『アジャイルサムライ』、AI時代に古びたのは&quot;作るコスト&quot;の教えだけだった</title>
+<link>https://qiita.com/tatsuya582/items/88508215a8e22b169166</link>
+<guid>18243ff00c65ded42e3847f0ae8c9a56278b565829ecccf3f1b2f8fb7be75d73</guid>
+<pubDate>2026-07-10T09:58:51+09:00</pubDate>
+<description>はじめに 15年前の定番書『アジャイルサムライ』の教えは、AIがコードを書く時代でも通用するのか。読み終えたあと、本の教えを「古びたもの」と「まだ効くもの」に仕分けてみたところ、結果はタイトルの通りきれいに割れました。 『アジャイルサムライ』（Jonathan Rasmu...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/operationalized-temporal-entity-resolution-at-scale-a-2b-entity-architecture-for-cloud-native/</link>
-<guid>f767d06d367551f2c80407d8718aee41fbfaecaf5c7f3bbfff1de879e4f5da18</guid>
-<pubDate>Thu, 09 Jul 2026 23:43:12 GMT</pubDate>
+<link>https://research.google/pubs/conditional-execution-of-compiler-passes-based-on-per-script-feature-detection-2/</link>
+<guid>032f078a6277a0cd55463843a6c49724847cfb3d629f3f90f0ff9592cc32dd86</guid>
+<pubDate>Fri, 10 Jul 2026 01:57:35 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>60174160feefd09149cf3b46b83d193b7dab3b0025287871c383238ecd7432cb</guid>
-<pubDate>Thu, 09 Jul 2026 23:43:15 GMT</pubDate>
-<description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s42256-026-01261-5</link>
+<guid>832d13f3f2816c785105e878e78307b90509c555293e8dede8a79b9e86463ca2</guid>
+<pubDate>Fri, 10 Jul 2026 01:57:44 GMT</pubDate>
+<description>Executing experimental tasks in both normal research laboratories and large-scale scientific facilities often requires extensive human supervision and remains a key challenge on the path to fully autonomous, artificial intelligence (AI)-driven science. Here we demonstrate a large language model-driven agent that autonomously performs X-ray sample alignment on a synchrotron beamline by planning actions, executing instrumental commands, interpreting observations and iterating towards experimental goals. Based on existing large language models with structured tool-use via the model context protocol, our AI X-ray scientist was guided and tested using an in-house-built virtual experimental setup that mirrors a six-circle diffractometer at an operational synchrotron beamline. The agentic workflow developed in the virtual environment was directly deployed on a real beamline, where it correctly identified reference reflections and determined the orientation matrix, an essential first step in any type of single-crystal scattering experiment. Our AI X-ray scientist responded effectively to unexpected experimental conditions, demonstrating adaptive problem-solving and readiness for addressing</description>
 </item>
 
 </channel>
