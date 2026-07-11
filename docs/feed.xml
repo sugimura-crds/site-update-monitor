@@ -4,49 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 11 Jul 2026 04:55:44 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 07:07:22 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 2026年7月版 AIエージェントのスキルを使いこなす技術 ― 調査・設計・コーディング別の実践ガイド</title>
-<link>https://qiita.com/yun_bow/items/ccd52194e48d4aa905f4</link>
-<guid>081bae160929112e626e14833e2fdfdf451b745d2cc3e9213f3209aedc3283b7</guid>
-<pubDate>2026-07-11T13:49:49+09:00</pubDate>
-<description>📝 本記事について:この記事は AI(Claude)と共同で執筆しています。標準スキル・マーケット活用・自作スキル設計・セキュリティの4領域について、複数のAIエージェント(標準スキル専門家・マーケット専門家・自作スキル設計者・セキュリティ専門家)による並列議論をベースに...</description>
-</item>
-<item>
-<title>【Qiita】 Development of the AI, by the AI, for the AI：真のAI駆動開発で新世界の神となる！</title>
-<link>https://qiita.com/youwht/items/27662a12e0e8d40a9363</link>
-<guid>d4df7fb0ec9bb2fa178030dcab9d1714200e20621651ddeb53964da15bc14621</guid>
-<pubDate>2026-07-11T12:39:43+09:00</pubDate>
-<description>ソフトウェア開発の革命＝「真のAI駆動開発」とは何か？ 人類が増えすぎたプロジェクトをAIに開発させるようになって、既にN世紀が過ぎていた。PCに導入されたAIエージェントは、人類の第二の頭脳となり、人々はそこで設計し、開発し、そしてリリースしていった。増えすぎたAI信...</description>
+<title>【Qiita】 【Godot 4.x】2D脱出ゲームを作ってみる⑧〜戻るボタン・ギミック正解判定・ローカル保存を実装する〜</title>
+<link>https://qiita.com/OnuuuumaX/items/58ac2e5a65db73749ad3</link>
+<guid>d33a10166af435026cce8d3506c8376bab0e8a14c701e2946d1e6db94a649eec</guid>
+<pubDate>2026-07-11T14:27:59+09:00</pubDate>
+<description>はじめに この記事は、Godot 4.xで脱出ゲームを作る連載の第8回です。 第1回：環境構築とプロジェクト作成 第2回：Claude Code + godot-mcpのセットアップ 第3回：Claude CodeとMCPでスプラッシュ画面を実装する 第4回：Claud...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-probabilistic-framework-for-learning-nonintrusive-corrections-to-longtime-climate-simulations-from-shorttime-training-data/</link>
-<guid>8245b2da60af0d18d149a1e2b3ec3544f58aac62af37f5edefbbf04ad8b14691</guid>
-<pubDate>Sat, 11 Jul 2026 04:54:47 GMT</pubDate>
+<link>https://research.google/pubs/progressive-photorealistic-simplification/</link>
+<guid>97373aa25e6a838ac0d1fe44ceaad13a3fe6ab5ec5c5b549313e6dc86edaf2fa</guid>
+<pubDate>Sat, 11 Jul 2026 07:06:17 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>eb18bc0af20541b4061290d78550e35f1d3ff409b994f53a2db7dc1af9f7dd42</guid>
-<pubDate>Sat, 11 Jul 2026 04:54:50 GMT</pubDate>
+<guid>a089e7764ad6b9024c7539596d5d78bbeb73be3a42a8402299b41ecb06f8d6f9</guid>
+<pubDate>Sat, 11 Jul 2026 07:06:20 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>2cb55164bcaf8b9bf54ab9774e048feee3238814d610f936f490136438734727</guid>
-<pubDate>Sat, 11 Jul 2026 04:54:52 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>6a29695dec3cbe51fd1c1c65048bfe3d5d569f5202b441d97699b0a147784862</guid>
-<pubDate>Sat, 11 Jul 2026 04:54:52 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
