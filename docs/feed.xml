@@ -4,14 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 11 Jul 2026 14:19:50 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 15:29:17 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 無料体験版のあと、Bob はいくら？ — Bobコインと、現時点の日本での提供</title>
+<link>https://qiita.com/Tadash/items/61c06baf68198e2c02ee</link>
+<guid>90260888406149770e79b77b1e35d3d8d445b6c6d16d27f6b86b1c6d3268c397</guid>
+<pubDate>2026-07-11T23:40:30+09:00</pubDate>
+<description>どうもこんにちは、Tadash です。前回、無料体験版で Bob Shell を使い始めるところまでやりました。じゃあ、その体験版が終わったら実際いくらなのか。今日は Bob のお金まわりを、料金プランから整理します。 先に断っておくと、この分野は動きが速いので、あくまで ...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/type-aware-ranking-of-urban-similarity-from-aerial-imagery/</link>
-<guid>fa626097038da6c5dffe75839b900e277340c08c52e7a56fc454dc36d8030b99</guid>
-<pubDate>Sat, 11 Jul 2026 14:18:49 GMT</pubDate>
+<link>https://research.google/pubs/freshbrew-a-benchmark-for-evaluating-ai-agents-on-java-code-migration-2/</link>
+<guid>c86e6a1c1a8345180dd70801108ca3ecd3178d98cecf9ffd3ca929cf3fdcf44b</guid>
+<pubDate>Sat, 11 Jul 2026 15:28:16 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75249-5</link>
+<guid>3412601a5282652b2911f1b4c247246b8cf6428d7cf44e2a3e82e59eaaf8a977</guid>
+<pubDate>Sat, 11 Jul 2026 15:28:19 GMT</pubDate>
+<description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>68a1167d140b6e413620ebde90894540c8a81d95e57a8095182ac4afa8b0cdb2</guid>
+<pubDate>Sat, 11 Jul 2026 15:28:21 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
 </channel>
