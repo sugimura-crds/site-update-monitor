@@ -4,21 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 11 Jul 2026 21:40:54 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Jul 2026 22:38:50 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 PoCおじさん、全部成功するデモに敗北する</title>
+<link>https://qiita.com/mofuteq/items/18e5ed1350e668fcb238</link>
+<guid>cd79e967d9be3212915d75e4e06ecd61b82bfcbef7398dbe1feeac0a626ff0b7</guid>
+<pubDate>2026-07-12T07:21:53+09:00</pubDate>
+<description>デモは成功した。 部長の質問にも答えた。参照元も表示された。用意したケースは、三つともきれいに通った。 本番投入前のレビューで聞かれた。 「これ、答えられない質問が来たらどうなるんですか」 誰も見たことがなかった。失敗するところを。 うお、成功デモどこいった。いや、成功デモ...</description>
+</item>
+<item>
+<title>【Qiita】 Agentおじさん、誰も使わないAgentに敗北する</title>
+<link>https://qiita.com/mofuteq/items/3e0c119e7e4d51a5bbec</link>
+<guid>8a16a4be51dc5371eb770d220c8b12753639cf5d0bba294fdadf7b278bd9b96a</guid>
+<pubDate>2026-07-12T07:20:09+09:00</pubDate>
+<description>「これ、誰が使うんですか」 デモの最後に聞かれた。 答えに詰まったわけではない。利用部門の名前は決まっていたし、想定ユーザーも資料に書いてあった。 ただ、その人がこのAgentを開く場面を、一つも説明できなかった。 検索できる。要約できる。資料も比較できる。 で、誰の何が軽...</description>
+</item>
+<item>
+<title>【Qiita】 Skillおじさん、動く部品の寄せ集めに敗北する</title>
+<link>https://qiita.com/mofuteq/items/404ab4c9fe86f67d974d</link>
+<guid>4e98aff6a8523ee4d9e21e5fd8398096c06ca5793d8bfcc0ec7fd37cfe40bb4f</guid>
+<pubDate>2026-07-12T07:17:52+09:00</pubDate>
+<description>Skillは定義されていた。 MCPも接続できていた。tool単体のテストも通っていた。 最終回答も、それっぽい。 traceを開いた。 必要だったSkillは一度も呼ばれていなかった。代わりに、別のtoolを何度も叩いていた。 うお、機能一覧は強いのに、仕事の流れがない。...</description>
+</item>
+<item>
+<title>【Qiita】 引き継ぎおじさん、自分の不在に敗北する</title>
+<link>https://qiita.com/mofuteq/items/b3263a3f94b95fc08e26</link>
+<guid>ba83a6cea11e69b55e52f2b06ac232db5935e1dc60d1fd39aa864cde13ac9fd7</guid>
+<pubDate>2026-07-12T07:16:24+09:00</pubDate>
+<description>休みの日に連絡が来た。 「Agentの回答がおかしいんですが、どこを見ればいいですか」 ログの場所を伝えた。 「この警告は問題ないですか」 問題ない。たぶん。 「止めた方がいいですか」 そこは状況による。 結局、ノートPCを開いた。 Agentを自律化していたはずなのに、自...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/securing-multi-agent-systems-an-empirical-analysis-of-security-prompt-hardening-and-residual-risks/</link>
-<guid>f73f9246d1b97fa122857232df4aac43ce22464e38ccc4d4e0d0dcd016e529b5</guid>
-<pubDate>Sat, 11 Jul 2026 21:39:53 GMT</pubDate>
+<link>https://research.google/pubs/generative-ai-synthesis-of-automated-interactions-into-a-structured-agent-briefing/</link>
+<guid>7b80ae4bb0921f1831eddc05098ddd4bf2be0d397ea7d2758570cc53a9ff034b</guid>
+<pubDate>Sat, 11 Jul 2026 22:37:49 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s42256-026-01261-5</link>
-<guid>0a885e8fce2438e5306d0fab8330b31088a80670451a5d5419d6fd46b89ee2c8</guid>
-<pubDate>Sat, 11 Jul 2026 21:40:03 GMT</pubDate>
-<description>Executing experimental tasks in both normal research laboratories and large-scale scientific facilities often requires extensive human supervision and remains a key challenge on the path to fully autonomous, artificial intelligence (AI)-driven science. Here we demonstrate a large language model-driven agent that autonomously performs X-ray sample alignment on a synchrotron beamline by planning actions, executing instrumental commands, interpreting observations and iterating towards experimental goals. Based on existing large language models with structured tool-use via the model context protocol, our AI X-ray scientist was guided and tested using an in-house-built virtual experimental setup that mirrors a six-circle diffractometer at an operational synchrotron beamline. The agentic workflow developed in the virtual environment was directly deployed on a real beamline, where it correctly identified reference reflections and determined the orientation matrix, an essential first step in any type of single-crystal scattering experiment. Our AI X-ray scientist responded effectively to unexpected experimental conditions, demonstrating adaptive problem-solving and readiness for addressing</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>f187aa668c26c7656cc7a7f9a6be20337503f4d7b616bb8542a69852dbab7ca5</guid>
+<pubDate>Sat, 11 Jul 2026 22:37:58 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
