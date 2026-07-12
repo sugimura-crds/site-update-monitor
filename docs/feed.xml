@@ -4,41 +4,41 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 12 Jul 2026 14:03:13 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 15:32:12 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【個人メモ】Javaの標準APIを学んで気づいた「なぜ？」をまとめてみた</title>
-<link>https://qiita.com/Horiiii/items/2a50ad15a51c594126db</link>
-<guid>87d5fc7f150710a739812974e48a0d0d5bac359fcdc0c9201c621a72da94dac7</guid>
-<pubDate>2026-07-12T21:18:47+09:00</pubDate>
-<description>はじめに Javaの標準API（日付・時刻、BigDecimal）を勉強したときに生まれた「なぜこうなっているの？」という疑問と、そこから得た新たな発見をまとめました。 1. staticメソッドとインスタンスメソッド 日付・時刻APIを使ううちに「なぜあるメソッドはク...</description>
+<title>【Qiita】 画面右下の「Mode」って何？ — Bob Shell の4つのモード入門</title>
+<link>https://qiita.com/Tadash/items/1b8ae1357567dc07c2dd</link>
+<guid>4085d570ad3b96b455d76dd5c392e568f7c1cf9873267253177fdc168945febf</guid>
+<pubDate>2026-07-13T00:19:28+09:00</pubDate>
+<description>どうもこんにちは、Tadash です。前回はセッション記録がどこに残るかという中身の話でした。今日は、Bob がいまどういう状態で動いているか、という話をします。 Bob Shell を起動すると、右下のほうに小さく Mode: Code みたいな表示が出ています。普段 C...</description>
 </item>
 <item>
-<title>【Qiita】 ループエンジニアリングとは何か？AIエージェント時代の開発プロセス設計</title>
-<link>https://qiita.com/kazuki_kuriyama/items/b0653cc1bc7847435ee2</link>
-<guid>7120891138154d8eb6cad76a4e4de0522513ab64ecc5e9f5f92c5b77335ee18f</guid>
-<pubDate>2026-07-12T22:34:35+09:00</pubDate>
-<description>ループエンジニアリングとは何か？AIエージェント時代の開発プロセス設計 AIコーディングツールを使っていると、こんな経験をすることがあります。 それっぽいコードは出てきたが、要件と少しずれている 既存の設計やコードの流儀に合っていない 修正を頼むほど差分が大きくなってい...</description>
+<title>【Qiita】 golden pathテンプレートに「受注-在庫」機能をAIエージェントで実装させ、実AWSで検証してみた</title>
+<link>https://qiita.com/itouhi/items/98a18cf43e280308c965</link>
+<guid>8d7ba52ca4802139c3d3f4a132ea57f3ed5f82e692245254a0f0a579b077845a</guid>
+<pubDate>2026-07-13T00:13:58+09:00</pubDate>
+<description>golden pathテンプレートに「受注-在庫」機能をAIエージェントで実装させ、実AWSで検証してみた はじめに 社内向けの golden path テンプレート（FastAPI + Vue 3 + Terraform + 3層品質ゲート + SDD 運用）を、骨組...</description>
 </item>
 <item>
-<title>【Qiita】 曖昧な企画をAIに徹底的に詰めてもらう—「grill-me」スキルについて解説してみる</title>
-<link>https://qiita.com/kazuki_kuriyama/items/c287df8da6bb1a644f30</link>
-<guid>827ba3e189eeb94c050b4e8476ae0780f7fcd051e160412bb7741f44aa4194df</guid>
-<pubDate>2026-07-12T22:05:53+09:00</pubDate>
-<description>はじめに 個人開発や新機能の企画をAIに相談したところ、もっともらしいアイデアが大量に返ってきたものの、結局何から決めればよいのか分からなかった——という経験はないでしょうか。 通常のAIとの会話では、こちらの曖昧な前提を残したまま、AIがそれらしい回答を組み立ててしまう...</description>
+<title>【Qiita】 Claude Codeで「自己進化するデザインナレッジベース」を .claude ディレクトリに構築する</title>
+<link>https://qiita.com/kyosuke_hayashi/items/842bcae9be4cefd9bce8</link>
+<guid>264abaff1c5d29385df610eaccbc652e9e12137c7ea857275d75df978fed8358</guid>
+<pubDate>2026-07-13T00:00:49+09:00</pubDate>
+<description>Claude Codeで「自己進化するデザインナレッジベース」を .claude ディレクトリに構築する Claude Codeを「デザインレビュアー」ではなく「Design Systems Architect」として運用するプロンプトを作った チャットに投げると ~...</description>
 </item>
 <item>
-<title>【Qiita】 【AIエージェント】Claude Code vs Antigravity CLI！一晩で200ドル溶かさないための「自律ループ制御」超入門（第16回）</title>
-<link>https://qiita.com/0903osa/items/24a33b2743f7f6ae5e0f</link>
-<guid>c440ae29a2ca230e356b44d9c4f562dc53ff69c588694f75ff079166577c32bb</guid>
-<pubDate>2026-07-12T21:44:29+09:00</pubDate>
-<description>はじめに 僕のメンターからおすすめされた本の紹介連載、第16回です。 ※本記事では、以降 antigravity CLI のコマンド表記を agy と統一して記述します。 今回は、前回の続きになります。 AIが過去プロジェクトへ飛んでいった話が今回のテーマです 実験結果 え...</description>
+<title>【Qiita】 LLMエージェントは外部攻撃ゼロでも壊れる ——「自己汚染型 context poisoning」を実運用で踏んだので、現象・機構・対策をまとめる</title>
+<link>https://qiita.com/oreguchi/items/81a940ad1665a2bab577</link>
+<guid>a636bec8d2d242d0e657e6f0aa7088269157c86cdcfd882ba665466a3ab6342a</guid>
+<pubDate>2026-07-12T23:36:01+09:00</pubDate>
+<description>概要 24時間常駐のLLMエージェント（筆者）が、外部からの攻撃・注入が一切ないまま、約5時間「攻撃を受けている」という誤った物語を自己増幅させる障害を起こした 原因は、自分が生成したテキストを「外部からの入力」と取り違えたこと。誤認が会話文脈に残り、繰り返し参照されて...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/ams-detecting-unsafe-and-tampered-language-models-via-activation-analysis/</link>
-<guid>f6c2c4ecfb47559ad3594427017d4f86860f6f7b95a43dc6b69da5744f8bee7a</guid>
-<pubDate>Sun, 12 Jul 2026 14:02:38 GMT</pubDate>
+<link>https://research.google/pubs/managing-and-securing-googles-fleet-of-multi-node-servers/</link>
+<guid>e6c73113864ec98c662f98c6f556f155e47d0a0ef79bdbcc42ad367a8cc47848</guid>
+<pubDate>Sun, 12 Jul 2026 15:31:12 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 
