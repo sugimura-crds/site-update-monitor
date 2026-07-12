@@ -4,36 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 12 Jul 2026 12:12:22 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 14:03:13 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【図解】Agent Memoryをやさしく理解しよう</title>
-<link>https://qiita.com/engchina/items/a994cc7f10d4f9bf06a7</link>
-<guid>4a7f52210bd353ae777ae3ec7b12f7b23edce32f99348c94e7e6b20c091db65b</guid>
-<pubDate>2026-07-12T20:33:33+09:00</pubDate>
-<description></description>
+<title>【Qiita】 【個人メモ】Javaの標準APIを学んで気づいた「なぜ？」をまとめてみた</title>
+<link>https://qiita.com/Horiiii/items/2a50ad15a51c594126db</link>
+<guid>87d5fc7f150710a739812974e48a0d0d5bac359fcdc0c9201c621a72da94dac7</guid>
+<pubDate>2026-07-12T21:18:47+09:00</pubDate>
+<description>はじめに Javaの標準API（日付・時刻、BigDecimal）を勉強したときに生まれた「なぜこうなっているの？」という疑問と、そこから得た新たな発見をまとめました。 1. staticメソッドとインスタンスメソッド 日付・時刻APIを使ううちに「なぜあるメソッドはク...</description>
 </item>
 <item>
-<title>【Qiita】 Claude CodeにSkillとサブエージェントで営業を回してもらう</title>
-<link>https://qiita.com/masakai/items/73edf9316cd7bef5f9a3</link>
-<guid>11bb9dc9ba1523987e8563c6ddf399553d3e174a90859800ac8c68fdb520f24d</guid>
-<pubDate>2026-07-12T20:33:12+09:00</pubDate>
-<description>最近SNSでサブエージェントやSkillの活用事例をよく見かけます（まあ、驚き屋さんの記事も多いですが）。 そのせいもあるのか、「うちの会社でもああいうのやりたいんだけど」と聞かれることが増えました。聞いてくるのはたいてい非エンジニアの方や、町工場の社長さんです。やはり自動...</description>
+<title>【Qiita】 ループエンジニアリングとは何か？AIエージェント時代の開発プロセス設計</title>
+<link>https://qiita.com/kazuki_kuriyama/items/b0653cc1bc7847435ee2</link>
+<guid>7120891138154d8eb6cad76a4e4de0522513ab64ecc5e9f5f92c5b77335ee18f</guid>
+<pubDate>2026-07-12T22:34:35+09:00</pubDate>
+<description>ループエンジニアリングとは何か？AIエージェント時代の開発プロセス設計 AIコーディングツールを使っていると、こんな経験をすることがあります。 それっぽいコードは出てきたが、要件と少しずれている 既存の設計やコードの流儀に合っていない 修正を頼むほど差分が大きくなってい...</description>
+</item>
+<item>
+<title>【Qiita】 曖昧な企画をAIに徹底的に詰めてもらう—「grill-me」スキルについて解説してみる</title>
+<link>https://qiita.com/kazuki_kuriyama/items/c287df8da6bb1a644f30</link>
+<guid>827ba3e189eeb94c050b4e8476ae0780f7fcd051e160412bb7741f44aa4194df</guid>
+<pubDate>2026-07-12T22:05:53+09:00</pubDate>
+<description>はじめに 個人開発や新機能の企画をAIに相談したところ、もっともらしいアイデアが大量に返ってきたものの、結局何から決めればよいのか分からなかった——という経験はないでしょうか。 通常のAIとの会話では、こちらの曖昧な前提を残したまま、AIがそれらしい回答を組み立ててしまう...</description>
+</item>
+<item>
+<title>【Qiita】 【AIエージェント】Claude Code vs Antigravity CLI！一晩で200ドル溶かさないための「自律ループ制御」超入門（第16回）</title>
+<link>https://qiita.com/0903osa/items/24a33b2743f7f6ae5e0f</link>
+<guid>c440ae29a2ca230e356b44d9c4f562dc53ff69c588694f75ff079166577c32bb</guid>
+<pubDate>2026-07-12T21:44:29+09:00</pubDate>
+<description>はじめに 僕のメンターからおすすめされた本の紹介連載、第16回です。 ※本記事では、以降 antigravity CLI のコマンド表記を agy と統一して記述します。 今回は、前回の続きになります。 AIが過去プロジェクトへ飛んでいった話が今回のテーマです 実験結果 え...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/genstrat-toward-a-science-of-strategic-reasoning-in-large-language-models/</link>
-<guid>80d8b875f97bd98b8452a5d9fdacfdaa186222cbe0f049e79f132e6162562322</guid>
-<pubDate>Sun, 12 Jul 2026 12:11:43 GMT</pubDate>
+<link>https://research.google/pubs/ams-detecting-unsafe-and-tampered-language-models-via-activation-analysis/</link>
+<guid>f6c2c4ecfb47559ad3594427017d4f86860f6f7b95a43dc6b69da5744f8bee7a</guid>
+<pubDate>Sun, 12 Jul 2026 14:02:38 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>db57c4abcf72a41dccfd8a7c33e8c0ce343ea5f7f6f2975b8950363b81210d8f</guid>
-<pubDate>Sun, 12 Jul 2026 12:12:05 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
