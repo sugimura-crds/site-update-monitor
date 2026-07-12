@@ -4,50 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 12 Jul 2026 09:43:35 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 11:05:40 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 攻撃者はブラウザを開いて最初の5分で何を見るのか〜バグバウンティで認可不備（P1/P2）を報告してきた視点で書く、フロントエンドの実装防御ガイド〜</title>
-<link>https://qiita.com/sei_official/items/3ce11ea5faed795d47fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>fec0d186176eff64eb42f84f0de7f1a28d8b85e84b6170422a68fc12493c0019</guid>
-<pubDate>2026-07-11T02:52:27+09:00</pubDate>
-<description>はじめに フロントエンドのセキュリティというと、 XSS対策 CSP HttpOnly Cookie CSRF対策 などがよく挙げられます。どれも重要です。 しかし、対策の名前だけを知っていても、「なぜそれが必要なのか」が腹落ちしていないと、実装はどこかで抜けます。 ...</description>
+<title>【Qiita】 LLM記述構文&quot;MARI&quot; Tips:LLMに方言を話させよう。(1/2)</title>
+<link>https://qiita.com/otoyo0318/items/14d6c81f1eb22d525234</link>
+<guid>5db203b0e8563f3919bc6526c1b09a232f5e362cf5f4397cab8ebc5f486213e3</guid>
+<pubDate>2026-07-12T18:56:40+09:00</pubDate>
+<description>1. はじめに 2026年6月20日投稿の LLM記述構文&quot;MARI&quot; Tips: 4体起動で限界に挑むためのスコープ安定性 で登場したペルソナ&quot;詩織&quot;と&quot;沙織&quot;は神戸生まれの神戸育ちということで、方言(神戸弁)を話すキャラクターとして登場しました。 今回はこのLLMに...</description>
 </item>
 <item>
-<title>【Qiita】 【図解】『とりあえず動く』から卒業する！ AI Skillのメンテナンスって何？</title>
-<link>https://qiita.com/engchina/items/069c2df65bfffc3c85f9</link>
-<guid>d8910e09dafa972f9df7a2b74198e566521d88db00bf7abddb37ec9e94669be5</guid>
-<pubDate>2026-07-12T18:27:22+09:00</pubDate>
-<description></description>
+<title>【Qiita】 LLMの出力を「信頼するが検証する」— ハルシネーション対策の実践パターン7選</title>
+<link>https://qiita.com/fuji1009_REBELL/items/8e2ccc208b0da86bd664</link>
+<guid>001a826a6a7ca24221b946c0d54b6b5de5a9eed1906a3651732558265980b6e9</guid>
+<pubDate>2026-07-12T18:53:16+09:00</pubDate>
+<description>存在しないメソッドを呼ぶコードが生成され、実行してエラーになり、原因を探して30分溶ける。この「AIに嘘をつかれてデバッグする」時間が、月に10件は発生していました。 対策としてCLAUDE.mdにルールを2つ足し、自動テストをワークフローに組み込んだ結果、ハルシネーション...</description>
 </item>
 <item>
-<title>【Qiita】 self-documenting って、結局どこに残ってるの？ — Bob のセッション記録を開けてみた</title>
-<link>https://qiita.com/Tadash/items/902e2f1ceb27cbee3f46</link>
-<guid>2baa6d4d06ae836c919c9719c260cf38c6b551abf7255c154a61f2e81fe8d977</guid>
-<pubDate>2026-07-12T17:55:57+09:00</pubDate>
-<description>どうもこんにちは、Tadash です。前回、Bob で落ち物パズル「ぽとくり」を作りました。その最後に、こんな宿題を自分に残しています。 セッションが記録される（self-documenting）って言うけど、その記録、いったいどこに、どんな形で残ってるの？ 今日はそれ...</description>
+<title>【Qiita】 【AIエージェント】Claude Code vs Antigravity CLI！一晩で200ドル溶かさないための「自律ループ制御」超入門（第15回）</title>
+<link>https://qiita.com/0903osa/items/9ee86f9f330ef13e9f52</link>
+<guid>fe0e8f54a0490111f6deb3ef55569e42c065e82ca6948964f6951ffba68816d7</guid>
+<pubDate>2026-07-12T18:43:41+09:00</pubDate>
+<description>はじめに 僕のメンターからおすすめされた本の紹介連載、第15回です。 ※本記事では、以降 antigravity CLI のコマンド表記を agy と統一して記述します。 今回はテーマが2つあるため、記事を2本に分けました。 今回トリアージという言葉がでますが、色々分野によ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/securing-elliptic-curve-cryptocurrencies-against-quantum-vulnerabilities-resource-estimates-and-mitigations/</link>
-<guid>111c8a0a01457ca54d8a010e8e5077f03b8e00754427b0e946d2aa76c35540f9</guid>
-<pubDate>Sun, 12 Jul 2026 09:42:50 GMT</pubDate>
+<link>https://research.google/pubs/when-backdoors-go-beyond-triggers-semantic-drift-in-diffusion-models-under-encoder-attacks/</link>
+<guid>4a1f32e90b73485f0def1ca676089ee1ec3137eabb7578c89bd84e2ae65ec863</guid>
+<pubDate>Sun, 12 Jul 2026 11:04:43 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>969cbf37f1d130efea87bbcaafaf9ed4ed0afc8a362f4794165799032b8d6b64</guid>
-<pubDate>Sun, 12 Jul 2026 09:42:53 GMT</pubDate>
-<description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>185953907934f4763be840a1fd8ef06b5d4fec976d8bb9be23169058cba8a742</guid>
-<pubDate>Sun, 12 Jul 2026 09:43:20 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
