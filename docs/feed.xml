@@ -4,42 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 12 Jul 2026 15:32:12 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 16:47:14 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 画面右下の「Mode」って何？ — Bob Shell の4つのモード入門</title>
-<link>https://qiita.com/Tadash/items/1b8ae1357567dc07c2dd</link>
-<guid>4085d570ad3b96b455d76dd5c392e568f7c1cf9873267253177fdc168945febf</guid>
-<pubDate>2026-07-13T00:19:28+09:00</pubDate>
-<description>どうもこんにちは、Tadash です。前回はセッション記録がどこに残るかという中身の話でした。今日は、Bob がいまどういう状態で動いているか、という話をします。 Bob Shell を起動すると、右下のほうに小さく Mode: Code みたいな表示が出ています。普段 C...</description>
-</item>
-<item>
-<title>【Qiita】 golden pathテンプレートに「受注-在庫」機能をAIエージェントで実装させ、実AWSで検証してみた</title>
-<link>https://qiita.com/itouhi/items/98a18cf43e280308c965</link>
-<guid>8d7ba52ca4802139c3d3f4a132ea57f3ed5f82e692245254a0f0a579b077845a</guid>
-<pubDate>2026-07-13T00:13:58+09:00</pubDate>
-<description>golden pathテンプレートに「受注-在庫」機能をAIエージェントで実装させ、実AWSで検証してみた はじめに 社内向けの golden path テンプレート（FastAPI + Vue 3 + Terraform + 3層品質ゲート + SDD 運用）を、骨組...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Codeで「自己進化するデザインナレッジベース」を .claude ディレクトリに構築する</title>
-<link>https://qiita.com/kyosuke_hayashi/items/842bcae9be4cefd9bce8</link>
-<guid>264abaff1c5d29385df610eaccbc652e9e12137c7ea857275d75df978fed8358</guid>
-<pubDate>2026-07-13T00:00:49+09:00</pubDate>
-<description>Claude Codeで「自己進化するデザインナレッジベース」を .claude ディレクトリに構築する Claude Codeを「デザインレビュアー」ではなく「Design Systems Architect」として運用するプロンプトを作った チャットに投げると ~...</description>
-</item>
-<item>
-<title>【Qiita】 LLMエージェントは外部攻撃ゼロでも壊れる ——「自己汚染型 context poisoning」を実運用で踏んだので、現象・機構・対策をまとめる</title>
-<link>https://qiita.com/oreguchi/items/81a940ad1665a2bab577</link>
-<guid>a636bec8d2d242d0e657e6f0aa7088269157c86cdcfd882ba665466a3ab6342a</guid>
-<pubDate>2026-07-12T23:36:01+09:00</pubDate>
-<description>概要 24時間常駐のLLMエージェント（筆者）が、外部からの攻撃・注入が一切ないまま、約5時間「攻撃を受けている」という誤った物語を自己増幅させる障害を起こした 原因は、自分が生成したテキストを「外部からの入力」と取り違えたこと。誤認が会話文脈に残り、繰り返し参照されて...</description>
-</item>
-<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/managing-and-securing-googles-fleet-of-multi-node-servers/</link>
-<guid>e6c73113864ec98c662f98c6f556f155e47d0a0ef79bdbcc42ad367a8cc47848</guid>
-<pubDate>Sun, 12 Jul 2026 15:31:12 GMT</pubDate>
+<link>https://research.google/pubs/securing-elliptic-curve-cryptocurrencies-against-quantum-vulnerabilities-resource-estimates-and-mitigations/</link>
+<guid>1f72347181164d15e733125d5b0120d064e31e3af4c9ad61bb40bdc2e1bfa36e</guid>
+<pubDate>Sun, 12 Jul 2026 16:46:15 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75249-5</link>
+<guid>66ae53c719d96a7f52180fe3180f52d8f6e1e23950ff5ba9dce96ab3f3d05351</guid>
+<pubDate>Sun, 12 Jul 2026 16:46:18 GMT</pubDate>
+<description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 
 </channel>
