@@ -4,63 +4,71 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 13 Jul 2026 04:31:05 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 07:49:16 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【Loop Engineeringに来る？】人間中心デザインをもとにしたInquiry Engineeringを提唱したい</title>
-<link>https://qiita.com/kyuko/items/e1a672496d1e9679a530</link>
-<guid>c154a3a5a71fa0778e10f8ed149e19cecab049f9720f70ab93dd63c4baaf05e4</guid>
-<pubDate>2026-07-13T13:09:45+09:00</pubDate>
-<description>こんにちは！ひさふるです。 最近、Loop Engineeringという、プロンプトではなくループを設計するという手法がバズっていましたね。 要は、人間がプロンプトを書くのはもう古く、これからはAI自身にプロンプトを書かせる時代だ、という手法の話でした。 では、さらに時代が...</description>
+<title>【Qiita】 日刊IETF 2026-06-19（後編）BGP送信元認可の設計図と、BFD認証を軽くする新RFC3本</title>
+<link>https://qiita.com/tetsuko_room/items/651c4d420016f5914aa0</link>
+<guid>0b64016ba7a2caf1d614db00b9a08f503b8e5f2bb9df7a150802ff560d6bcb94</guid>
+<pubDate>2026-07-13T16:41:17+09:00</pubDate>
+<description>こんにちは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-19（UTC基準）に公開されたInt...</description>
 </item>
 <item>
-<title>【Qiita】 New Relic SRE Agent で始める今からできるAIOps</title>
-<link>https://qiita.com/seamoooooo/items/acf0f4744b536df468a1</link>
-<guid>26ec89812d9b915fb86e943dcdef0fc442fca79ffc634f96e922f044af3bab6d</guid>
-<pubDate>2026-07-13T13:05:46+09:00</pubDate>
-<description>New Relic SRE Agent を活用した、障害発生の検知から原因特定の時間を一気に数分に短縮する方法をご紹介しております。将来的には社内専用のAI Agentを作成して、自動化、AIOps実現したい！というお声をよくいただくようになりました。一方で現状の業務に工数...</description>
+<title>【Qiita】 日刊IETF 2026-06-19（前編）AIエージェントの「支払い」と「証跡」をどう検証するか ― I-D 27件・RFC 3件を読む</title>
+<link>https://qiita.com/tetsuko_room/items/07df1d7647c482a46e5e</link>
+<guid>3e1f69d90d844a98b56a885ae6b87999fd6369450c0bbd210fd470aaaa2f4acc</guid>
+<pubDate>2026-07-13T16:40:22+09:00</pubDate>
+<description>こんにちは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-19（UTC基準）に公開されたInte...</description>
 </item>
 <item>
-<title>【Qiita】 「また同じ指摘を受けた」を減らす：Claude Codeと実際のレビュー履歴で作る「レビュー番人」</title>
-<link>https://qiita.com/figueiredoluiz/items/7b1585b314dd11bbdcd0</link>
-<guid>f2e88f250c4f2a485fccd8cec31ea994be3eb3fc06c42e39093dab7f27cf6aa6</guid>
-<pubDate>2026-07-13T12:10:59+09:00</pubDate>
-<description>2026年上半期、Claude Codeを使ったコードレビューの進め方を大きく変えました。汎用的なAIレビューから、リポジトリ固有のレビュー基準を明示的に持たせる方向へ寄せた、その振り返りです。 AIに現在の差分を渡してコードレビューを依頼すると、命名、複雑度、例外処理など...</description>
+<title>【Qiita】 AIエージェントでGASを監視・継続実行する</title>
+<link>https://qiita.com/firedfly/items/a9460b4dfc56ccb55875</link>
+<guid>cf8d93bde091d4b56a59ff730bdf5492f4aa5f8ec98f2744eedd4be26cab3b36</guid>
+<pubDate>2026-07-13T16:21:51+09:00</pubDate>
+<description>Google Apps Script（GAS）のログはどこで確認していますか？ Logger.log() や console.log() の出力は Apps Scriptエディタの「実行ログ」で確認できますが、開発・デバッグ向けで検索性が低く、短時間しか保持されません。 ス...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeが2回詰まったら別のAIに相談させる・無限修正ループを止める運用設計</title>
-<link>https://qiita.com/figueiredoluiz/items/85ab41801dce6c344477</link>
-<guid>bba790aca6a34dd74050c4064b3353f7b51ac841a53c1f2747b7cdbe50349854</guid>
-<pubDate>2026-07-13T12:03:32+09:00</pubDate>
-<description>AIコーディングエージェントで高くつく失敗は、1回間違えることではありません。 本当に困るのは、誤った仮説に固執したまま修正を繰り返すことです。テストは落ち続け、変更範囲だけが広がります。気づいた頃には、トークンと時間を浪費しています。 そこで、AIエージェントの運用に次の...</description>
+<title>【Qiita】 Agora CLIで始める開発効率化、 AIコーディングエージェント時代の新しい開発フロー</title>
+<link>https://qiita.com/Agora_io/items/ae9c50d94e1ebeced184</link>
+<guid>4b20dbcb6e48deef937fd945f3d4385a2c518ad05c01a29557de97d4712ee766</guid>
+<pubDate>2026-07-13T16:03:21+09:00</pubDate>
+<description>Agora Japan AIコーディングエージェントの進化によって、アプリケーション開発はこれまで以上に高速になりました。 GitHub Copilot、Cursor、Claude Codeなどを使えば、多くのコードはAIが生成してくれます。 しかし実際の開発では、「コー...</description>
+</item>
+<item>
+<title>【Qiita】 生成はループにするな、検証をループにしろ ― ループエンジニアリングを個人のClaude Code運用に入れた話</title>
+<link>https://qiita.com/noirai/items/297308dcb48b8a637201</link>
+<guid>1348e7526b897298fe5ce8ed61f39698bc65092ece59815e176f9fdc20cd8fc1</guid>
+<pubDate>2026-07-13T15:54:13+09:00</pubDate>
+<description>「ループエンジニアリング」という言葉が急に増えました。Addy Osmani 氏が2026年6月に名前を付け、Claude Code 公式も「Getting started with loops」を出しています。 要するに、人間が毎回プロンプトを打つ役を、仕組みそのものに置...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/improving-low-vision-chart-accessibility-via-on-cursor-visual-context/</link>
-<guid>f1bb746424e689be0ace902a55294cb5898d59a45bb22d252ef97c189342aaac</guid>
-<pubDate>Mon, 13 Jul 2026 04:30:22 GMT</pubDate>
+<link>https://research.google/pubs/improved-differentially-private-algorithms-for-rank-aggregation/</link>
+<guid>5db9453f7f61a50c53cfc6cff0d63b2cdebe535c0fb54d8427f4ec88eedfc693</guid>
+<pubDate>Mon, 13 Jul 2026 07:48:36 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>b41332befc1fd482f1bec1574ea10da61953177f740c2c8002fa0a371294f205</guid>
-<pubDate>Mon, 13 Jul 2026 04:30:26 GMT</pubDate>
+<guid>cfa0f46098dc98010af2044cd165c3cc8118979fb67a5a9e3f30db3f8c7e523b</guid>
+<pubDate>Mon, 13 Jul 2026 07:48:40 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>9ea4f8e7ef6b736d811e084cf8033267ad532690bf85e2bdde80dc3d2885ff29</guid>
-<pubDate>Mon, 13 Jul 2026 04:30:29 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>f2951c55484384d4634156e831d0a0b0d4a95cc41d13b7e27188cd30ec6edb2c</guid>
+<pubDate>Mon, 13 Jul 2026 07:48:43 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s42256-026-01261-5</link>
-<guid>f63b1dd88a286751afdd9f3acfcec5a292d81d55e39adf488a6d30ac931cbd85</guid>
-<pubDate>Mon, 13 Jul 2026 04:30:33 GMT</pubDate>
-<description>Executing experimental tasks in both normal research laboratories and large-scale scientific facilities often requires extensive human supervision and remains a key challenge on the path to fully autonomous, artificial intelligence (AI)-driven science. Here we demonstrate a large language model-driven agent that autonomously performs X-ray sample alignment on a synchrotron beamline by planning actions, executing instrumental commands, interpreting observations and iterating towards experimental goals. Based on existing large language models with structured tool-use via the model context protocol, our AI X-ray scientist was guided and tested using an in-house-built virtual experimental setup that mirrors a six-circle diffractometer at an operational synchrotron beamline. The agentic workflow developed in the virtual environment was directly deployed on a real beamline, where it correctly identified reference reflections and determined the orientation matrix, an essential first step in any type of single-crystal scattering experiment. Our AI X-ray scientist responded effectively to unexpected experimental conditions, demonstrating adaptive problem-solving and readiness for addressing</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>c77badee829dad10c9c8d1d8c9491230975167880e15a993dad1d5f21b486669</guid>
+<pubDate>Mon, 13 Jul 2026 07:48:55 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
