@@ -4,71 +4,168 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 13 Jul 2026 07:49:16 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 10:51:04 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 日刊IETF 2026-06-19（後編）BGP送信元認可の設計図と、BFD認証を軽くする新RFC3本</title>
-<link>https://qiita.com/tetsuko_room/items/651c4d420016f5914aa0</link>
-<guid>0b64016ba7a2caf1d614db00b9a08f503b8e5f2bb9df7a150802ff560d6bcb94</guid>
-<pubDate>2026-07-13T16:41:17+09:00</pubDate>
-<description>こんにちは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-19（UTC基準）に公開されたInt...</description>
+<title>【Qiita】 Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版）</title>
+<link>https://qiita.com/fuyunoki/items/5818688d20225aa8088a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>c35aa088d82d940fe015251d3bdb1f3874e14db91c00cf772081ee068a99c97e</guid>
+<pubDate>2026-07-11T19:39:54+09:00</pubDate>
+<description>はじめに はじめまして、新卒エンジニアのfuyunokiです。 この度、新卒として入社した会社でClaudeを使えるようになったので、自分用に調べたことをまとめてみました。せっかくなので記事として公開します。同じように「会社でClaude Code使えるようになったけど何...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF 2026-06-19（前編）AIエージェントの「支払い」と「証跡」をどう検証するか ― I-D 27件・RFC 3件を読む</title>
-<link>https://qiita.com/tetsuko_room/items/07df1d7647c482a46e5e</link>
-<guid>3e1f69d90d844a98b56a885ae6b87999fd6369450c0bbd210fd470aaaa2f4acc</guid>
-<pubDate>2026-07-13T16:40:22+09:00</pubDate>
-<description>こんにちは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-19（UTC基準）に公開されたInte...</description>
+<title>【Qiita】 【実験】AWS 東京と大阪を閉域で繋ぐ3つの方法、実際どれくらい速さが違うのか</title>
+<link>https://qiita.com/sh_fukatsu/items/541051be6cbd4a90f2a6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>06905833ed4589073a0d2dac28eda7659a7cda5e8ccef4fc57303ce7b9cf7687</guid>
+<pubDate>2026-07-12T12:19:19+09:00</pubDate>
+<description>1. はじめに マルチリージョン構成でのDR（Disaster Recovery）や、ワークロードのレイテンシ要件から、東京リージョン（ap-northeast-1）と大阪リージョン（ap-northeast-3）のような同一パーティション内の複数リージョンをインターネッ...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントでGASを監視・継続実行する</title>
-<link>https://qiita.com/firedfly/items/a9460b4dfc56ccb55875</link>
-<guid>cf8d93bde091d4b56a59ff730bdf5492f4aa5f8ec98f2744eedd4be26cab3b36</guid>
-<pubDate>2026-07-13T16:21:51+09:00</pubDate>
-<description>Google Apps Script（GAS）のログはどこで確認していますか？ Logger.log() や console.log() の出力は Apps Scriptエディタの「実行ログ」で確認できますが、開発・デバッグ向けで検索性が低く、短時間しか保持されません。 ス...</description>
+<title>【Qiita】 【今更きけないCodex】2026年7月アップデート版：ChatGPTデスクトップで最初に見るべき機能と使う順番</title>
+<link>https://qiita.com/TMiyamoto/items/6bd89423d5b38916e48d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>993101c3e84a9b4db1dbe1b9243537acedaee3f4645fa61623ed6979edd3ff2f</guid>
+<pubDate>2026-07-13T10:01:17+09:00</pubDate>
+<description>この記事のポイント 2026年7月の更新で、ChatGPTデスクトップは 通常のチャット / Work / Codex を一つにまとめる方向へ進みました。Work は段階的ロールアウト中です Codex を使い始める順番は、プロジェクト・タスク・セッション -&gt; フォル...</description>
 </item>
 <item>
-<title>【Qiita】 Agora CLIで始める開発効率化、 AIコーディングエージェント時代の新しい開発フロー</title>
-<link>https://qiita.com/Agora_io/items/ae9c50d94e1ebeced184</link>
-<guid>4b20dbcb6e48deef937fd945f3d4385a2c518ad05c01a29557de97d4712ee766</guid>
-<pubDate>2026-07-13T16:03:21+09:00</pubDate>
-<description>Agora Japan AIコーディングエージェントの進化によって、アプリケーション開発はこれまで以上に高速になりました。 GitHub Copilot、Cursor、Claude Codeなどを使えば、多くのコードはAIが生成してくれます。 しかし実際の開発では、「コー...</description>
+<title>【Qiita】 あなたの技術ブログの「AI臭さ」を抜くスキル公開します</title>
+<link>https://qiita.com/minorun365/items/699e89544da8b0de300d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>497ded7ded901e12206fea111b66696c7361f007dbda8e07ac2005bbe2cea860</guid>
+<pubDate>2026-07-13T09:56:53+09:00</pubDate>
+<description>以下の内容をそのままコピペして、Claude CodeやCodexに「ユーザースコープのスキルに追加しといて」と頼めばOK。 --- name: writing-guide description: AI臭さを消す汎用執筆ガイド。ブログ・スライドなど、あらゆる書き物...</description>
 </item>
 <item>
-<title>【Qiita】 生成はループにするな、検証をループにしろ ― ループエンジニアリングを個人のClaude Code運用に入れた話</title>
-<link>https://qiita.com/noirai/items/297308dcb48b8a637201</link>
-<guid>1348e7526b897298fe5ce8ed61f39698bc65092ece59815e176f9fdc20cd8fc1</guid>
-<pubDate>2026-07-13T15:54:13+09:00</pubDate>
-<description>「ループエンジニアリング」という言葉が急に増えました。Addy Osmani 氏が2026年6月に名前を付け、Claude Code 公式も「Getting started with loops」を出しています。 要するに、人間が毎回プロンプトを打つ役を、仕組みそのものに置...</description>
+<title>【Qiita】 CPLEX + Bob 輸送ルートの最適化</title>
+<link>https://qiita.com/Asuka_Saito/items/2cd30c86c714616e81d9</link>
+<guid>4a725a624e52fe42d3c3559a3c94ebab756f06b10ca42c38fa1a9ba152aac9eb</guid>
+<pubDate>2026-07-13T19:24:12+09:00</pubDate>
+<description>皆さんこんにちは！この記事では、IBM BobとCPLEXを使って数理最適化計算で解を求める方法をご紹介したいと思います。 IBM Bobとは IBM Bob は、開発者のパートナーとして、単にコードを書くだけでなく、要件定義から実装、テスト、デプロイまで、ソフトウェア開...</description>
+</item>
+<item>
+<title>【Qiita】 Struts + JSPをReact + QuarkusにUIモダナイズする【IBM Bob + Premium Package for Java】</title>
+<link>https://qiita.com/ktgr/items/52bef9555d8128991505</link>
+<guid>3a9977e9d4b6b738d6b8886459849f0cfcc5634bff762267efdc0d9bd8ea0d0e</guid>
+<pubDate>2026-07-13T19:13:02+09:00</pubDate>
+<description>はじめに 「古くなったJSPの画面を、そろそろReactあたりで作り直したい」——StrutsやJSPで作られたJavaアプリを前に、そう考えたことはないでしょうか。 ところが、いざ手をつけると簡単ではありません。画面をReactに置き換えるだけでは済まず、JSP・Str...</description>
+</item>
+<item>
+<title>【Qiita】 IBM Cloud: Rackwareのupgrade方法</title>
+<link>https://qiita.com/shiyasu/items/9f75ad0b21ab3f11bce8</link>
+<guid>fa6f3d971afbe4371ae0fee2582475e778268cc937d900260660e321f95e3154</guid>
+<pubDate>2026-07-13T19:10:39+09:00</pubDate>
+<description>1. はじめに IBM CloudでRackware RMMをカタログからインストールした場合は、2026年7月13日時点では、v7.4.14.2がインストールされる。 AutoProvisionや日本語周りの問題が改善されているので、この環境をv7.7.3.10にupg...</description>
+</item>
+<item>
+<title>【Qiita】 (QA) IBM i のCCSIDを指定なしでファイルを操作した場合、文字化けが発生する</title>
+<link>https://qiita.com/gomAnomalocaris/items/89bcf41d599e736ccc00</link>
+<guid>8739a12057fad9acd1f05a9d9141a11cc6876f823429222f30034ed891a75f30</guid>
+<pubDate>2026-07-13T17:58:13+09:00</pubDate>
+<description>割と最近の会話の中で Q1. IBM i のデータベースファイル（Db2 for iのテーブル(PF)）をCCSIDが無い状態（指定なし）でファイルを操作した場合、エラーが起きることがある 的な会話がありました。 上記の質問（会話）は厳密には不正確でして、、 IBM i で...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントのメモリ管理完全ガイド 2026 — Mem0 vs Zep vs Letta vs Cognee</title>
+<link>https://qiita.com/agdexai/items/219d1d10ac2efa687ab1</link>
+<guid>764debfe15dea1c7a46653e831560889870846c166e5492f88f8b54a464834f5</guid>
+<pubDate>2026-07-13T18:25:17+09:00</pubDate>
+<description>AIエージェントのメモリ管理完全ガイド 2026 — Mem0 vs Zep vs Letta vs Cognee AIエージェントが本当に「使える」ものになるためには、単にツールを呼び出す能力だけでなく、過去のやり取りや知識を記憶し続ける能力が不可欠です。 2026年現...</description>
+</item>
+<item>
+<title>【Qiita】 Bunは53万行をどう11日でRustに書き換えたのか？並列AIエージェントにおける「知識共有」の課題とアーキテクチャ</title>
+<link>https://qiita.com/memorylakeai/items/308b1aa330da77032350</link>
+<guid>c4d33e475af9682319a029b2f45b541e3cab60ccb2a636bb7afde4c43279430b</guid>
+<pubDate>2026-07-13T18:16:54+09:00</pubDate>
+<description>最近、界隈で大きな話題になった「Bunが11日間で53万行のZigコードをRustに書き換えた」という事例。ピーク時には64のClaude Code（AIエージェント）が並列稼働し、API費用換算で約16.5万ドルが投下されました。 この驚異的なプロジェクトの品質を担保した...</description>
+</item>
+<item>
+<title>【Qiita】 7月7日 備忘</title>
+<link>https://qiita.com/kamosuke54/items/bb11b8ae106101ae8d53</link>
+<guid>14e8f9446019c41de9e5f2447daef0e2682a7b69cce611dc5d4d250835d8a6bc</guid>
+<pubDate>2026-07-13T18:14:00+09:00</pubDate>
+<description>Google colabで実行しているため、毎回、初期化が必要になると思いますが、いかがでしょうか。 Google Colabは一定時間操作しなかったり、ブラウザを閉じたりすると「ランタイム（接続状態）」がリセットされます。そのため、翌日（2日目）に新しいセッションでコー...</description>
+</item>
+<item>
+<title>【Qiita】 7月7日 Gemini API 疎通確認（Key大文字指定ミス / 503エラー）</title>
+<link>https://qiita.com/kamosuke54/items/45666c16cba449fec4da</link>
+<guid>394a43303282e03be9f6edade57a4014c06998c145c7b103444d1f691868ba99</guid>
+<pubDate>2026-07-13T18:12:03+09:00</pubDate>
+<description>目的 Google Colab環境において、最新の google-genai ライブラリおよび gemini-3.5-flash モデルを用いた超初歩的な対話（疎通確認）を行う。 実行コード Python !pip install google-genai -q ...</description>
+</item>
+<item>
+<title>【環境】 Ecology is not at risk of a methodological balance crisis</title>
+<link>https://www.nature.com/articles/s41558-026-02706-w</link>
+<guid>a49eeae40ff9ea40149e633019a38c4b4529585719cdaacb1e410f211442115c</guid>
+<pubDate>2026-07-13</pubDate>
+<description>Ecology is not at risk of a methodological balance crisis</description>
+</item>
+<item>
+<title>【自動自律実験】 Tall and small trees are equally vulnerable to drought</title>
+<link>https://www.nature.com/articles/d41586-026-02121-3</link>
+<guid>fce1882f04046fa76d9827fdb124e2c37601d0173a19b38b7ad9baa0444828b7</guid>
+<pubDate>2026-07-13</pubDate>
+<description>The water-transport system of tropical giants called dipterocarps has evolved to defy the effects of gravity and resist water stress.</description>
+</item>
+<item>
+<title>【自動自律実験】 How voluntary work can boost your career in science</title>
+<link>https://www.nature.com/articles/d41586-026-01339-5</link>
+<guid>6972f495d7a13dd4930837129ae632590c4043f13335aefd64824cc4dfbd1108</guid>
+<pubDate>2026-07-13</pubDate>
+<description>Supporting charities can bring career benefits and provide valuable social connections.</description>
+</item>
+<item>
+<title>【自動自律実験】 The rise of evidence-based medicine and the ‘mavericks’ who championed it</title>
+<link>https://www.nature.com/articles/d41586-026-02153-9</link>
+<guid>ba653bc631f049aed93eb5ab186f25aee316bc28aef6750435a07b67f2dd8b67</guid>
+<pubDate>2026-07-13</pubDate>
+<description>An impeccably researched account describes how clinical trials have transformed health and social policy.</description>
+</item>
+<item>
+<title>【自動自律実験】 Epigenetic editing makes its mark</title>
+<link>https://www.nature.com/articles/d41586-026-02151-x</link>
+<guid>74547677aa02e300c2414ccc2ef69947458d07ed4792116cd71ea4ce9ae02ee4</guid>
+<pubDate>2026-07-13</pubDate>
+<description>Researchers are rewriting the chemical tags on DNA and chromatin to tune gene expression.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/improved-differentially-private-algorithms-for-rank-aggregation/</link>
-<guid>5db9453f7f61a50c53cfc6cff0d63b2cdebe535c0fb54d8427f4ec88eedfc693</guid>
-<pubDate>Mon, 13 Jul 2026 07:48:36 GMT</pubDate>
+<link>https://research.google/pubs/kvcis-activation-based-token-importance-prediction-for-intelligent-kv-cache-compression-2/</link>
+<guid>fcc9c6cc4a69022f2ad0e0469c5e23530ebbc8420d3c9de9405e583618ff2967</guid>
+<pubDate>Mon, 13 Jul 2026 10:50:01 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>61f51cf0bf601c7ba971f03b82ecf3c650dead7cedc2f58678d0318800ecb218</guid>
+<pubDate>Mon, 13 Jul 2026 10:50:01 GMT</pubDate>
+<description>Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overall shape class.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>cfa0f46098dc98010af2044cd165c3cc8118979fb67a5a9e3f30db3f8c7e523b</guid>
-<pubDate>Mon, 13 Jul 2026 07:48:40 GMT</pubDate>
+<guid>6094204d13c8cd262bdfb7054d7323b5a369df499866da26f36217953eae5d79</guid>
+<pubDate>Mon, 13 Jul 2026 10:50:04 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>f2951c55484384d4634156e831d0a0b0d4a95cc41d13b7e27188cd30ec6edb2c</guid>
-<pubDate>Mon, 13 Jul 2026 07:48:43 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>4561679a1f39f45b8761767d3cff1fd19282931a878cc81d58a376a64b38f4a4</guid>
+<pubDate>Mon, 13 Jul 2026 10:50:07 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>c77badee829dad10c9c8d1d8c9491230975167880e15a993dad1d5f21b486669</guid>
-<pubDate>Mon, 13 Jul 2026 07:48:55 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【Self-driving laboratories】 The Instrument Contract: What a Lab Instrument Must Expose for an AI Agent to Close the Loop</title>
+<link>https://qpillars.com/blog</link>
+<guid>d6752dec4db4c23639974bc82f0c47d7c79af4330af4a9f16b359949b458637d</guid>
+<pubDate>Mon, 13 Jul 2026 10:50:08 GMT</pubDate>
+<description>Technical insights from building intelligent laboratory infrastructure. Engineering deep dives, product updates, and industry analysis from the QPillars team.</description>
+</item>
+<item>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>b1042347cbb0372983e729cd9480f143ada24af0a5f1acb98f6554cd132b4742</guid>
+<pubDate>Mon, 13 Jul 2026 10:50:55 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
