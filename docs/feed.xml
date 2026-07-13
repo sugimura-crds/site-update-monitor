@@ -4,21 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 13 Jul 2026 01:00:13 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Jul 2026 04:31:05 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 PowerVC 2.3.3 仮想アプライアンス導入・初期設定の確認</title>
-<link>https://qiita.com/c_u/items/9a9dbf77c58e1a50de0b</link>
-<guid>9e66c2c71e8f628480a462ef3a6fd69a496e5b501054145c3a522fa9654e6ee5</guid>
-<pubDate>2026-07-13T08:40:33+09:00</pubDate>
-<description>はじめに 2026年6月にリリースされた PowerVC 2.3.3 仮想アプライアンスを実機（IBM Power S824 LPAR）に導入し、初期設定を行った際の記録です。 対象読者：PowerVC を運用・検証している方、AIX/Power Systems 管理...</description>
+<title>【Qiita】 【Loop Engineeringに来る？】人間中心デザインをもとにしたInquiry Engineeringを提唱したい</title>
+<link>https://qiita.com/kyuko/items/e1a672496d1e9679a530</link>
+<guid>c154a3a5a71fa0778e10f8ed149e19cecab049f9720f70ab93dd63c4baaf05e4</guid>
+<pubDate>2026-07-13T13:09:45+09:00</pubDate>
+<description>こんにちは！ひさふるです。 最近、Loop Engineeringという、プロンプトではなくループを設計するという手法がバズっていましたね。 要は、人間がプロンプトを書くのはもう古く、これからはAI自身にプロンプトを書かせる時代だ、という手法の話でした。 では、さらに時代が...</description>
+</item>
+<item>
+<title>【Qiita】 New Relic SRE Agent で始める今からできるAIOps</title>
+<link>https://qiita.com/seamoooooo/items/acf0f4744b536df468a1</link>
+<guid>26ec89812d9b915fb86e943dcdef0fc442fca79ffc634f96e922f044af3bab6d</guid>
+<pubDate>2026-07-13T13:05:46+09:00</pubDate>
+<description>New Relic SRE Agent を活用した、障害発生の検知から原因特定の時間を一気に数分に短縮する方法をご紹介しております。将来的には社内専用のAI Agentを作成して、自動化、AIOps実現したい！というお声をよくいただくようになりました。一方で現状の業務に工数...</description>
+</item>
+<item>
+<title>【Qiita】 「また同じ指摘を受けた」を減らす：Claude Codeと実際のレビュー履歴で作る「レビュー番人」</title>
+<link>https://qiita.com/figueiredoluiz/items/7b1585b314dd11bbdcd0</link>
+<guid>f2e88f250c4f2a485fccd8cec31ea994be3eb3fc06c42e39093dab7f27cf6aa6</guid>
+<pubDate>2026-07-13T12:10:59+09:00</pubDate>
+<description>2026年上半期、Claude Codeを使ったコードレビューの進め方を大きく変えました。汎用的なAIレビューから、リポジトリ固有のレビュー基準を明示的に持たせる方向へ寄せた、その振り返りです。 AIに現在の差分を渡してコードレビューを依頼すると、命名、複雑度、例外処理など...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeが2回詰まったら別のAIに相談させる・無限修正ループを止める運用設計</title>
+<link>https://qiita.com/figueiredoluiz/items/85ab41801dce6c344477</link>
+<guid>bba790aca6a34dd74050c4064b3353f7b51ac841a53c1f2747b7cdbe50349854</guid>
+<pubDate>2026-07-13T12:03:32+09:00</pubDate>
+<description>AIコーディングエージェントで高くつく失敗は、1回間違えることではありません。 本当に困るのは、誤った仮説に固執したまま修正を繰り返すことです。テストは落ち続け、変更範囲だけが広がります。気づいた頃には、トークンと時間を浪費しています。 そこで、AIエージェントの運用に次の...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/efficient-property-aligned-fan-out-retrieval-via-rl-compiled-diffusion/</link>
-<guid>a8ac5d5d2755584d1e41bdfc1e877f3d4f962cbdbc185512bd2f001bc36c0ace</guid>
-<pubDate>Mon, 13 Jul 2026 00:59:08 GMT</pubDate>
+<link>https://research.google/pubs/improving-low-vision-chart-accessibility-via-on-cursor-visual-context/</link>
+<guid>f1bb746424e689be0ace902a55294cb5898d59a45bb22d252ef97c189342aaac</guid>
+<pubDate>Mon, 13 Jul 2026 04:30:22 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75249-5</link>
+<guid>b41332befc1fd482f1bec1574ea10da61953177f740c2c8002fa0a371294f205</guid>
+<pubDate>Mon, 13 Jul 2026 04:30:26 GMT</pubDate>
+<description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>9ea4f8e7ef6b736d811e084cf8033267ad532690bf85e2bdde80dc3d2885ff29</guid>
+<pubDate>Mon, 13 Jul 2026 04:30:29 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s42256-026-01261-5</link>
+<guid>f63b1dd88a286751afdd9f3acfcec5a292d81d55e39adf488a6d30ac931cbd85</guid>
+<pubDate>Mon, 13 Jul 2026 04:30:33 GMT</pubDate>
+<description>Executing experimental tasks in both normal research laboratories and large-scale scientific facilities often requires extensive human supervision and remains a key challenge on the path to fully autonomous, artificial intelligence (AI)-driven science. Here we demonstrate a large language model-driven agent that autonomously performs X-ray sample alignment on a synchrotron beamline by planning actions, executing instrumental commands, interpreting observations and iterating towards experimental goals. Based on existing large language models with structured tool-use via the model context protocol, our AI X-ray scientist was guided and tested using an in-house-built virtual experimental setup that mirrors a six-circle diffractometer at an operational synchrotron beamline. The agentic workflow developed in the virtual environment was directly deployed on a real beamline, where it correctly identified reference reflections and determined the orientation matrix, an essential first step in any type of single-crystal scattering experiment. Our AI X-ray scientist responded effectively to unexpected experimental conditions, demonstrating adaptive problem-solving and readiness for addressing</description>
 </item>
 
 </channel>
