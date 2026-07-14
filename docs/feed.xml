@@ -4,49 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 13 Jul 2026 23:44:23 GMT</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 01:28:12 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【Instana × Bob】Instana MCPサーバーを15分で繋いでAIと障害調査してみた</title>
-<link>https://qiita.com/Horiiii/items/b91f5779f180d00e07c5</link>
-<guid>2692a9ece45b3dd6f703e3e7b2b6422d9ae98249f42c5e98e71b3940b6856de6</guid>
-<pubDate>2026-07-14T08:19:58+09:00</pubDate>
-<description>はじめに 「IBM Bobに『RobotShopのアプリ、異常ない？』って聞いたら答えてくれる環境」を作りたくて、Instana の MCP サーバーを試してみました。 セットアップ自体は体感15分以内で完了。思ったよりはるかに簡単でした！この記事では連携までのステップと...</description>
+<title>【Qiita】 IBM Cloud: Rackware RMM を利用した RHEL 環境の VSI for Classic（BIOS）から VSI for VPC（UEFI）への移行が失敗する問題の解決方法</title>
+<link>https://qiita.com/shiyasu/items/19c0d8add23309aaf428</link>
+<guid>2e0b571f4a7c515a476e36fb3ef147497a31e412db2d1aa515716823fbd91546</guid>
+<pubDate>2026-07-14T09:52:23+09:00</pubDate>
+<description>1. はじめに 近年では、サーバーの起動方式として UEFI が主流となりつつありますが、既存環境には依然として BIOS 方式で稼働しているシステムも少なくありません。IBM Cloud においても、VSI for Classic は BIOS 方式で動作しています。 ...</description>
 </item>
 <item>
-<title>【Qiita】 Function Calling vs MCP:2026年仕様に見る実装判断の分かれ目</title>
-<link>https://qiita.com/Yushi88/items/6aca0b11fe9f6d3f1220</link>
-<guid>779da0f66effd9924b227094b0de1e7e486d38e1b39d0f74c3a8809ab1fbecf3</guid>
-<pubDate>2026-07-14T08:18:59+09:00</pubDate>
-<description>「セッション管理をプロトコルの中核から消した。それで良かった」——本番でMCPサーバーを運用する開発者は、2026年7月28日に確定するModel Context Protocol(MCP)の仕様変更をそう振り返る。AIエージェントが外部ツールやデータに接続する標準規格とし...</description>
-</item>
-<item>
-<title>【Qiita】 生成AIに「どっちが賢いか」勝負を挑んだら、突くつもりだった弱点が全部塞がれていた</title>
-<link>https://qiita.com/wasyokusatoshi/items/9a5ac7fc7f46521510b9</link>
-<guid>5e46cda96936b5360aaa8bef7228b2d6d60438b82ba8410df0a03cd2091d8052</guid>
-<pubDate>2026-07-14T08:12:07+09:00</pubDate>
-<description>はじめに 2026年4月8日、大阪駆動開発さん主催のオンラインイベント「AIミーティング(#AIMTG)」でLT登壇してきました。 大阪・北海道・福岡・熊本など各地のコミュニティがZoomで接続され、AIに関する取り組みや自作アプリを披露し合う場です。全国のパブリッ...</description>
-</item>
-<item>
-<title>【Qiita】 AIコーディングを「工場」として設計する現場ノート</title>
-<link>https://qiita.com/okssusucha/items/e72f5f6d899831f533ed</link>
-<guid>e1f28f7c213655ba5c74e3609328d3955ccc33067455f48ef8bfc912fe668408</guid>
-<pubDate>2026-07-14T08:02:12+09:00</pubDate>
-<description>AIコーディングを「工場」として設計する。Benedict Bradyの現場ノート AIコーディングエージェントを本気で使い込んでいくと、単発のチャットとして扱うか、それとも一種の生産ラインとして設計するかで、得られる成果が大きく変わってくる。開発者のBenedict B...</description>
+<title>【Qiita】 常駐型Slack/Teamsボットをスケールアウトすると起きる「二重応答」を防ぐ排他制御設計</title>
+<link>https://qiita.com/hach_work/items/9d28ff27455fbd0e42a3</link>
+<guid>2a093690cd77213da72f50837e44c384a13e14dab3a54e7738138475e73e29da</guid>
+<pubDate>2026-07-14T08:51:29+09:00</pubDate>
+<description>チャットに常駐して働くAIエージェントは、負荷やテナント数が増えてくると1プロセスでは捌ききれなくなり、複数インスタンスに水平スケールさせたくなります。ここで多くの人がハマるのが「同じイベントに2つのインスタンスが同時に反応して、同じ返信を2回投げてしまう」問題です。この記...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/tech-worker-challenges-managing-humanlike-genai/</link>
-<guid>324ccb62b6e43b1019450b6b425882025df781810cf13c48f61ef748f43741c6</guid>
-<pubDate>Mon, 13 Jul 2026 23:43:47 GMT</pubDate>
+<link>https://research.google/pubs/analyzing-bytes-pre-disassembly-static-binary-analysis/</link>
+<guid>13a3a0c1d87bb61a60a9c29b0ca866944d66a4fe9968297fe53e79392aa600fc</guid>
+<pubDate>Tue, 14 Jul 2026 01:27:41 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>59133f6254f4e4f5f0fafa6d0eaac30bb8cfe93c3854f4f9d1865e9d344784f3</guid>
+<pubDate>Tue, 14 Jul 2026 01:27:46 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>7fad56ca7ec22ac6a6ceb1e02a905f8afa368857771fbc1bde48838835af4e87</guid>
+<pubDate>Tue, 14 Jul 2026 01:27:49 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>0eb2768cfe6e5504eadec341ec3fc2fabc7a26136ca3f250a2505a73d0f0e31f</guid>
-<pubDate>Mon, 13 Jul 2026 23:44:04 GMT</pubDate>
+<guid>b0f56eb230da65d5ef2fc21430e2f62731855f4d75e24a8ecd35f1a61d4dbaba</guid>
+<pubDate>Tue, 14 Jul 2026 01:27:57 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
