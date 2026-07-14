@@ -4,28 +4,43 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 14 Jul 2026 22:30:26 GMT</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 23:25:43 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 アラートから、アクションへ ── SOCに、AIエージェントが入るということ</title>
-<link>https://qiita.com/etale_cohomology/items/bcdc0ec549960a0d65f3</link>
-<guid>c4017092050947b389dd99b4fb93f9ebcaefd41c2a6434df395fd83e3a91d103</guid>
-<pubDate>2026-07-15T07:18:18+09:00</pubDate>
-<description>はじめに サイバー攻撃の検知・監視と対応を担う現場であるSOC（Security Operation Center、セキュリティ運用センター） に、LLM（大規模言語モデル）と AIエージェントが組み込まれようとしています。 SOC はいま、「人が異常を示唆するアラート...</description>
+<title>【Qiita】 Claude Code・Codexのマルチエージェント構成をコードで定義する技術 ― プログラマブル・オーケストレーション入門</title>
+<link>https://qiita.com/Koukyosyumei/items/9ff3ddef9c11a44bcb30</link>
+<guid>63fa4d3bdde4e3557ef59108188b6999cad0f182a58ea4a3c1bff02916010fa9</guid>
+<pubDate>2026-07-15T07:29:05+09:00</pubDate>
+<description>Claude CodeやCodexのようなコーディングエージェントは、それぞれ異なる強みを持っています。しかし、複数のエージェントを単に同時起動したり、互いにメッセージを送れるようにしたりするだけでは、「誰が実装し、誰がレビューし、どの条件でやり直し、最終的にどの変更を採用...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/tdxray-microarchitectural-side-channel-analysis-of-intel-tdx-for-real-world-workloads/</link>
-<guid>a65782bdddf0be1e722e881daff455984f3c8bbe647075a09216dfca2711667b</guid>
-<pubDate>Tue, 14 Jul 2026 22:29:18 GMT</pubDate>
+<link>https://research.google/pubs/snpeek-side-channel-analysis-for-privacy-applications-on-confidential-vms/</link>
+<guid>b73267fcfc05d59268fa5a01f64df96a8109764c49868ae269e09a3e246294c9</guid>
+<pubDate>Tue, 14 Jul 2026 23:25:05 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>3f38cd5ae119386022d629d5fa93dfe27f1f87904b34ca062a75a3941d9b8dd0</guid>
-<pubDate>Tue, 14 Jul 2026 22:29:21 GMT</pubDate>
+<guid>ae06d82cf315c5c002b3e208b4d78aab8600f1c20fe87a3fdd9366c581f7626d</guid>
+<pubDate>Tue, 14 Jul 2026 23:25:08 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s42256-026-01261-5</link>
+<guid>f805a8f68894c173c46cd80976225e6ff1e636e8fa384e3055292b1c3fc580ca</guid>
+<pubDate>Tue, 14 Jul 2026 23:25:13 GMT</pubDate>
+<description>Executing experimental tasks in both normal research laboratories and large-scale scientific facilities often requires extensive human supervision and remains a key challenge on the path to fully autonomous, artificial intelligence (AI)-driven science. Here we demonstrate a large language model-driven agent that autonomously performs X-ray sample alignment on a synchrotron beamline by planning actions, executing instrumental commands, interpreting observations and iterating towards experimental goals. Based on existing large language models with structured tool-use via the model context protocol, our AI X-ray scientist was guided and tested using an in-house-built virtual experimental setup that mirrors a six-circle diffractometer at an operational synchrotron beamline. The agentic workflow developed in the virtual environment was directly deployed on a real beamline, where it correctly identified reference reflections and determined the orientation matrix, an essential first step in any type of single-crystal scattering experiment. Our AI X-ray scientist responded effectively to unexpected experimental conditions, demonstrating adaptive problem-solving and readiness for addressing</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>dd96b0aaa2e565d8e71d7e67a094288e0d12242551eee38ef68582c588ae7657</guid>
+<pubDate>Tue, 14 Jul 2026 23:25:25 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
