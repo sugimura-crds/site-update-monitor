@@ -4,63 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 14 Jul 2026 15:55:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 17:03:56 GMT</lastBuildDate>
 
 <item>
-<title>【環境】 Addressing water resource constraints for electrolytic hydrogen demand in China</title>
-<link>https://www.nature.com/articles/s41893-026-01894-9</link>
-<guid>c8570e4db7432b5a738cdfca17a5595127c80fa6d4524afea1a63c57164e8e52</guid>
-<pubDate>2026-07-14</pubDate>
-<description>Scaling up electrolytic hydrogen is central to deep decarbonization, but its substantial water needs clash with growing water scarcity. A study mapping 2,853 Chinese county-level cities shows that using reclaimed water can unlock 99% of water-constrained carbon mitigation at only ~20% higher cost.</description>
-</item>
-<item>
-<title>【環境】 Monitoring nature-based solutions is key for compliance, co-creation and practice improvement</title>
-<link>https://www.nature.com/articles/s41893-026-01885-w</link>
-<guid>2a62ff987bf2a0d72ed08da8de32df48a649888c975c5aa486c5b4a0bca8dda6</guid>
-<pubDate>2026-07-14</pubDate>
-<description>Upholding international environmental commitments calls for monitoring and evaluation practices that bridge international ambitions and local action in cities. This Perspective suggests how to reframe monitoring and evaluation to leverage community involvement to respond to changing conditions.</description>
-</item>
-<item>
-<title>【環境】 Resilience metrics to guide back-up investments in the power system during extreme weather</title>
-<link>https://www.nature.com/articles/s41893-026-01897-6</link>
-<guid>9833e40e5a815810bd162b0072ae6a2fb86a0b91dd1615a36e82afd637bc684e</guid>
-<pubDate>2026-07-14</pubDate>
-<description>Net-zero power systems are vulnerable to extreme weather, but how much back-up capacity is needed to keep systems reliable under variable weather remains unclear. A study using 80 years of European data identifies key stress events and proposes metrics for short- and long-term resilience.</description>
-</item>
-<item>
-<title>【環境】 Human mobility dynamics for cost-effective flood emergency resource allocation</title>
-<link>https://www.nature.com/articles/s41893-026-01886-9</link>
-<guid>23a22ec7286ca7e23fd3f3810201d17b2e0ea5ee824cfbbae8d8b0ca1f7a48ba</guid>
-<pubDate>2026-07-14</pubDate>
-<description>Flood emergency resources are often misallocated as planning relies on static population data rather than dynamic human mobility during disasters. A study now models flood-induced mobility across 21 Chinese cities, revealing widespread resource mismatches and cost-effective retrofitting strategies.</description>
-</item>
-<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/semantic-data-modeling-graph-query-and-sql-together-at-last/</link>
-<guid>e4afa1408d325a142f6f840947a6b8fb4cb67963a0b7822e861f8ade33b88fea</guid>
-<pubDate>Tue, 14 Jul 2026 15:54:25 GMT</pubDate>
+<link>https://research.google/pubs/reasoning-driven-synthetic-data-generation-and-evaluation/</link>
+<guid>55397aa5d120d4b18062f11ed312636432243957e8cb776954e55050ab2e159f</guid>
+<pubDate>Tue, 14 Jul 2026 17:03:20 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>7baa9acbc1ca6cbafda6d2ea61f6da0a19ec6e9ddb2dd0f23055f6b90a25f7e1</guid>
-<pubDate>Tue, 14 Jul 2026 15:54:28 GMT</pubDate>
+<guid>65595b4a32c8d3410bde155bdf3c2b5dd7dc90122662c58437360f5c0a2f2fdf</guid>
+<pubDate>Tue, 14 Jul 2026 17:03:23 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>c81a27d6957da4004a5210b9881393c043bacff5b7bb43e3d82d8c1c884fa33c</guid>
-<pubDate>Tue, 14 Jul 2026 15:54:30 GMT</pubDate>
+<guid>c0f1343469aec1bb4229c3048ecec192bb531a527f0453177819db72972421c7</guid>
+<pubDate>Tue, 14 Jul 2026 17:03:25 GMT</pubDate>
 <description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>ceaf35f031c9e8953757c3dc8234d04e2abbbebed24f2a9453f17f81e547fd08</guid>
-<pubDate>Tue, 14 Jul 2026 15:54:31 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>d1fa1ad16ffb2ee331fc03f451913636e3615461246643b27a1090790c88abd8</guid>
+<pubDate>Tue, 14 Jul 2026 17:03:41 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
