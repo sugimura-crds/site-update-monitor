@@ -4,42 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 14 Jul 2026 06:33:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 09:00:13 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 PowerShellインストーラーでコピー先のプレースホルダーを検査しないと古い指示が残る</title>
-<link>https://qiita.com/harnesswinner/items/b52a1ef29100426fffba</link>
-<guid>b5dd7ce097299b03d1356e15a50180094130069e65ecdc4a3e78348a8c4c2c82</guid>
-<pubDate>2026-07-14T15:00:32+09:00</pubDate>
-<description>TL;DR AI エージェント用のハーネス（ルール・スキル・ハンドオフの一式）をプロジェクトへコピーする PowerShell インストーラーを作った。テンプレートの {{PROJECT_NAME}} は自動置換されるが、手動で埋めるべき TODO や YYYY-MM-D...</description>
+<title>【Qiita】 Railsで学ぶ 暗号化とハッシュ 〜master.keyやDeviseは内部で何をしている？〜</title>
+<link>https://qiita.com/akachiryo/items/5a1deaa541d70e11d85f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>360117afe9328398ec3f0486c7b20aca6014f848d02683a50de4e531061dd884</guid>
+<pubDate>2026-07-14T15:07:22+09:00</pubDate>
+<description>お疲れ様です！ 前回までで「index」「レースコンディション（ユニーク制約）」あたりを扱ってきましたが、今回は 暗号化とハッシュ の話です。 Railsを使っていると当たり前に出てくる master.key・credentials.yml.enc・Deviseのパスワー...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code・Codexの開発ルールまでAIに作らせる｜手間を増やさず育てたAI駆動開発12ルール</title>
-<link>https://qiita.com/vivinko/items/201bf2c791f7ca64bd57</link>
-<guid>b5cedea0d4b07560c39b40d3c2398e30b47d46ca239006870ce9479b7be6a673</guid>
-<pubDate>2026-07-14T14:54:57+09:00</pubDate>
-<description>AI駆動開発のルールを紹介すると、こう思われるかもしれません。 SPEC、PLAN、TASK、TEST、チェックリスト、引き継ぎ資料……。 それを全部人が書くなら、AIを使う前より手間が増えていない？ その疑問は正しいと思います。 人が大量の管理資料を手書きしなければ成...</description>
+<title>【Qiita】 PowerVS IBM i 日記(107): 気が付いたらポータルからのデプロイで「ピン留め」設定が「拡張構成」に隠されている</title>
+<link>https://qiita.com/6onoda/items/76484913d6ace33abb6e</link>
+<guid>e110d495e3b5ae88fc49d0f72908f84d4b7892675b62b19dcb756b97df3a89a7</guid>
+<pubDate>2026-07-14T15:59:38+09:00</pubDate>
+<description>「ピン留め」設定が「拡張構成」に隠されている これまでは、初期状態で「ピン留め」設定が、展開されていましたのが、現在は、そのままでは見つかりません。 「一般」の「拡張構成」を展開してください。 「仮想サーバーのピン留め」が出てきます。 「仮想サーバーのピン留め」を有効...</description>
+</item>
+<item>
+<title>【Qiita】 Fable 5 のコスト効率を上げるハーネス設計とは？高いフロンティアモデルを賢く安く使う実践パターン 💰🤖</title>
+<link>https://qiita.com/y-morimatsu/items/dedd3dcdb2ef6c5a0528</link>
+<guid>a3be7a611635a728ba7b02bfb554c58084b4b09b54fa0120a450fe5988e41cde</guid>
+<pubDate>2026-07-14T17:32:25+09:00</pubDate>
+<description>はじめに Claude Fable 5 は、Anthropic が一般提供している中で最も高性能なモデルです。長時間の自律エージェントや、一発で込み入ったシステムを組み上げるような難タスクで力を発揮します。一方で、料金は入力 100万トークンあたり $10、出力 $50...</description>
+</item>
+<item>
+<title>【Qiita】 basou import で Claude Code / Codex のセッションを一つの証跡にまとめる</title>
+<link>https://qiita.com/takashi-matsuyama/items/5049932ab337746902c3</link>
+<guid>dd3c0296ebbed7d748432666af96a644b6f81cc3b9d51e6258f3c93659ddb204</guid>
+<pubDate>2026-07-14T16:45:39+09:00</pubDate>
+<description>🔗 この記事は https://blog.tak3.jp/ja/blog/basou-agent-session-trail/ からの転載です（一次情報源）。 Claude Code は、あなたのリポジトリで既に日記をつけている。Codex も同じだ。ただしそれは、読み...</description>
+</item>
+<item>
+<title>【Qiita】 ワークフロー + AI 従業員で会社背景調査を自動化する</title>
+<link>https://qiita.com/TianqiYuan/items/1389e1070193227895f0</link>
+<guid>04f7740c6bf778d7a35693967fee77d8d5fd12302a95cd118da2bd626981ca44</guid>
+<pubDate>2026-07-14T16:34:57+09:00</pubDate>
+<description>Originally published at https://www.nocobase.com/ja/blog/automate-company-background-research-with-workflows-and-ai-employees NocoBase では...</description>
+</item>
+<item>
+<title>【Qiita】 「自律ループ制御超入門」全記事要約・目次（第1回〜最終回・特別編）</title>
+<link>https://qiita.com/0903osa/items/5cb812b46b9c72ba35f1</link>
+<guid>6527167161f7cb8075e54abf04475a32f8e4757bb8962e5a451115c578ada6c2</guid>
+<pubDate>2026-07-14T16:11:20+09:00</pubDate>
+<description>「【AIエージェント】Claude Code vs Antigravity CLI！一晩で200ドル溶かさないための『自律ループ制御』超入門」の本編全17回、および特別編の要約です。各回約300文字で内容をまとめています。 本編（全17回） 1. 第1回: 200ドル...</description>
+</item>
+<item>
+<title>【自動自律実験】 Mathematics formula found on Maya wall rivals insights of ancient masters</title>
+<link>https://www.nature.com/articles/d41586-026-02170-8</link>
+<guid>d465044064ed7667280a9c0a012ae1cd4d47ffc045a632fbfd86b68988d2157a</guid>
+<pubDate>2026-07-14</pubDate>
+<description>Mathematical texts from a Maya site in Guatemala identify an astronomer called Sak Tahn Waax.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/analyzing-bytes-pre-disassembly-static-binary-analysis/</link>
-<guid>0f3a2f64370e690a6e4a066320ec36370b8494055d5e95f8e62584b7c5cd7006</guid>
-<pubDate>Tue, 14 Jul 2026 06:32:31 GMT</pubDate>
+<link>https://research.google/pubs/whats-on-my-network-using-large-language-models-to-identify-real-world-iot-devices-at-scale/</link>
+<guid>a22b906360c4a576f82d35aac118587310be89b450356fa36884179773435db1</guid>
+<pubDate>Tue, 14 Jul 2026 08:59:31 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>70cd62617a3e796e9361d71c92b0224ead7c33062900cd35e643053a7292ba21</guid>
-<pubDate>Tue, 14 Jul 2026 06:32:34 GMT</pubDate>
+<guid>b588d9747ffd89a760eab6ec236ed00e7864fbb47b21080846ef88d5975f558e</guid>
+<pubDate>Tue, 14 Jul 2026 08:59:34 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>6d1dfdada95c2ab58d2d55b21b053e7e9342643daf7aaafe899426d35018bd7b</guid>
-<pubDate>Tue, 14 Jul 2026 06:32:36 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>b136936cc37068af36f14a7b974b7fedc63d0cf359b5da54a55a9e0860121f59</guid>
+<pubDate>Tue, 14 Jul 2026 09:00:03 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
