@@ -4,69 +4,41 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 14 Jul 2026 04:26:30 GMT</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 06:33:31 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 さわってみよう Db2 AI エディション #12 〜Db2 Genius MCP Server編 Part#1〜</title>
-<link>https://qiita.com/ibm_tk/items/639e85ed43f1bfad8f07</link>
-<guid>53359e6076e8b41a48bc0cd1bb13e56a25a0848fd87712fc33c4b7eeb545f982</guid>
-<pubDate>2026-07-14T12:09:19+09:00</pubDate>
-<description>Db2 AI エディションにフル機能がバンドルされているDb2 Genius Hubは、Genius Hub v1.1.3以降からDb2 Genius MCP Serverが搭載されました。 当記事ではこのMCPサーバーについて概説しています。 また、IBM Bobからこの...</description>
+<title>【Qiita】 PowerShellインストーラーでコピー先のプレースホルダーを検査しないと古い指示が残る</title>
+<link>https://qiita.com/harnesswinner/items/b52a1ef29100426fffba</link>
+<guid>b5dd7ce097299b03d1356e15a50180094130069e65ecdc4a3e78348a8c4c2c82</guid>
+<pubDate>2026-07-14T15:00:32+09:00</pubDate>
+<description>TL;DR AI エージェント用のハーネス（ルール・スキル・ハンドオフの一式）をプロジェクトへコピーする PowerShell インストーラーを作った。テンプレートの {{PROJECT_NAME}} は自動置換されるが、手動で埋めるべき TODO や YYYY-MM-D...</description>
 </item>
 <item>
-<title>【Qiita】 Db2 Genius Hub の MCP Server を IBM Bob から試してみた</title>
-<link>https://qiita.com/Natsuki_Okamura/items/c23fdef67029cea0fd94</link>
-<guid>41995f4e995b777231c7f2dd7fd12a809c3f441e812239d3b31405652c3f1c88</guid>
-<pubDate>2026-07-14T10:43:30+09:00</pubDate>
-<description>Db2 Genius Hub は、Db2 の監視、パフォーマンス分析、運用管理を AI で支援する管理コンソールです。バージョン 1.1.3 では MCP Server が追加され、外部の AI アシスタントから Db2 Genius Hub の機能を利用できるようになりま...</description>
-</item>
-<item>
-<title>【Qiita】 AIと二重スラッシュのバグを追いかけたら、犯人はIDEの依存解決だった話</title>
-<link>https://qiita.com/inaba-yoshiko/items/ea4c8f706403cdd5e005</link>
-<guid>8d2e3cb455534cb7c450201871edcb5504ebb12337e444169693ef4fae32cdce</guid>
-<pubDate>2026-07-14T11:56:46+09:00</pubDate>
-<description>はじめに GMOコネクトの稲葉です。 社内のマルチモジュール構成のプロジェクトで、共通のThymeleafテンプレートを別モジュールにライブラリ化(jar化)したところ、既存の画面がまるごと表示できなくなるという事態に遭遇しました😇 原因自体はすぐに見当が付いたのですが、...</description>
-</item>
-<item>
-<title>【Qiita】 日刊IETF 2026-06-20 エージェントの「二人ルール」決済トークンから、RFCのAI執筆倫理まで ― Internet-Draft 12件</title>
-<link>https://qiita.com/tetsuko_room/items/3cb2236ee3dfb8d08416</link>
-<guid>b7fef94619e94a3effcd34e5c5aa33c0053129612443c1357765b37a6a464279</guid>
-<pubDate>2026-07-14T10:49:55+09:00</pubDate>
-<description>こんにちは、GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-20（UTC基準）に公開されたInter...</description>
-</item>
-<item>
-<title>【Qiita】 Python を使った PLL/DLL 設計手法（３）</title>
-<link>https://qiita.com/jun1okamura/items/3ac66f8eeab4e8626b06</link>
-<guid>d5a9df5f6baa37414390629dca6637079a485116355f06c08a33dbb8d6d7f0c7</guid>
-<pubDate>2026-07-14T13:02:19+09:00</pubDate>
-<description>OpenSUSI-MPW Open-Source TR-1um を使った OpenSUSI-MPW サービスを使って「何か本格的に設計したいなぁ」と考えていたのですが、折角なら Open-Source Tool を活用するリファレンス設計としてのドキュメント記録も残したい...</description>
-</item>
-<item>
-<title>【Qiita】 Strands AgentsのWorkflowツールを試してみた！</title>
-<link>https://qiita.com/PDC-Kurashinak/items/ea9d9b09302776d2287e</link>
-<guid>c633bb09137840879b46fd696c0c3f0122335b24931c44712820fedfa0ce61ac</guid>
-<pubDate>2026-07-14T11:10:09+09:00</pubDate>
-<description>どうもこんにちは。 最近、AIエージェント構築を色々と試している中で、「どうやったら人間がやっているタスクを正確無比にやってくれるエージェントを構築できるのだろうか」と考えている今日この頃です。 AIエージェント構築によく使うSDKは、PythonのStrands Agen...</description>
+<title>【Qiita】 Claude Code・Codexの開発ルールまでAIに作らせる｜手間を増やさず育てたAI駆動開発12ルール</title>
+<link>https://qiita.com/vivinko/items/201bf2c791f7ca64bd57</link>
+<guid>b5cedea0d4b07560c39b40d3c2398e30b47d46ca239006870ce9479b7be6a673</guid>
+<pubDate>2026-07-14T14:54:57+09:00</pubDate>
+<description>AI駆動開発のルールを紹介すると、こう思われるかもしれません。 SPEC、PLAN、TASK、TEST、チェックリスト、引き継ぎ資料……。 それを全部人が書くなら、AIを使う前より手間が増えていない？ その疑問は正しいと思います。 人が大量の管理資料を手書きしなければ成...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/reasoning-models-generate-societies-of-thought/</link>
-<guid>c217c005de33b66b635c862cd4d1b474ebf78c65435f9b66688aafe3b51dbf62</guid>
-<pubDate>Tue, 14 Jul 2026 04:25:30 GMT</pubDate>
+<link>https://research.google/pubs/analyzing-bytes-pre-disassembly-static-binary-analysis/</link>
+<guid>0f3a2f64370e690a6e4a066320ec36370b8494055d5e95f8e62584b7c5cd7006</guid>
+<pubDate>Tue, 14 Jul 2026 06:32:31 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>c18bc17cdc0b1e4643d36e61d413eda976483124ebfabc18bbf8e8e99f240b1b</guid>
-<pubDate>Tue, 14 Jul 2026 04:25:33 GMT</pubDate>
+<guid>70cd62617a3e796e9361d71c92b0224ead7c33062900cd35e643053a7292ba21</guid>
+<pubDate>Tue, 14 Jul 2026 06:32:34 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>ae32738393d15d3d9aca23275805658148494f9fe9cbc005edbbf3efc104e796</guid>
-<pubDate>Tue, 14 Jul 2026 04:25:35 GMT</pubDate>
+<guid>6d1dfdada95c2ab58d2d55b21b053e7e9342643daf7aaafe899426d35018bd7b</guid>
+<pubDate>Tue, 14 Jul 2026 06:32:36 GMT</pubDate>
 <description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
