@@ -4,77 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 16 Jul 2026 14:31:20 GMT</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 15:57:53 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 社内AIに「分かりません」と言わせても信頼は戻らなかった。効いたのは検索の作り直しだった</title>
-<link>https://qiita.com/nzw/items/b9af931461a5db879ed1</link>
-<guid>2b2860cf42c7b0d088c2290d7ad864cae1da796690de95484c4ba1ce75675051</guid>
-<pubDate>2026-07-16T23:24:48+09:00</pubDate>
-<description>3行まとめ 社内AIが嘘（ハルシネーション）を返し、数日で誰も使わなくなった 「知らないことは知らないと言え」とプロンプトに書いたが、信頼は戻らなかった 効いたのはハイブリッド検索＋リランキング＋根拠リンク。回答採用率が 35% → 62% に上がって初めて人が戻って...</description>
-</item>
-<item>
-<title>【Qiita】 CLAUDE.md設計でハマった5つの罠と改善パターン集【チートシート付】</title>
-<link>https://qiita.com/fuji1009_REBELL/items/22c8691fe1cc1c309b08</link>
-<guid>c32edede7213b283b80e64f8b2f81c2b62bc359fd5227d3bb382ad587c727aeb</guid>
-<pubDate>2026-07-16T22:30:35+09:00</pubDate>
-<description>CLAUDE.md（Claude Codeにプロジェクトの前提を渡す設定ファイル）を書き始めた頃、私は「とりあえず思いつく限りルールを書けば賢くなる」と思っていました。結果、500行を超えて応答が遅くなり、肝心の指示は無視されるという本末転倒に陥りました。 導入直後は効果絶...</description>
-</item>
-<item>
-<title>【Qiita】 Agent ScriptのIf/Else実装まとめ｜Agentforceで確定ロジックを組み込むパターン</title>
-<link>https://qiita.com/ubakichi_sr_mc_ai_06/items/faaccd1a6c6f2d301480</link>
-<guid>190980fc60580137cdc1041d8041677a187a7a686897b9b6f2fb751f03dc78cf</guid>
-<pubDate>2026-07-16T22:09:06+09:00</pubDate>
-<description>はじめに Agentforceの新しいBuilderでAgent Scriptを書き始めると、if/elseの構文とサブエージェントへの遷行(トランジション)の使い分けで手が止まることがあります。 本記事では、キャンバスビューの条件ステートメントの構文、変数の型ごとの値の...</description>
-</item>
-<item>
-<title>【Qiita】 Fine-tuning vs RAG vs Prompt Engineering: How to Choose in 2026</title>
-<link>https://qiita.com/agdexai/items/995ff22d136452d953f8</link>
-<guid>143766adfb3487ee55e1cbfbc3c218fa973852e5a9239c84993550a91d8effdb</guid>
-<pubDate>2026-07-16T21:51:25+09:00</pubDate>
-<description>Fine-tuning vs RAG vs Prompt Engineering: How to Choose in 2026【比較ガイド】 LLMをカスタマイズする方法は大きく3つ。でも「どれを使えばいい？」で迷う人が後を絶ちません。本記事では実務視点で完全に整理します...</description>
-</item>
-<item>
-<title>【Qiita】 AIが寝ずにタスクリストを回し続ける仕組み — OpenClawハートビート自律駆動</title>
-<link>https://qiita.com/TT-Resolver/items/624c2f36686536587418</link>
-<guid>450ee9c00f1f6c0b981eb28bbcc022a559182a416fd9e73e97084885e9dca7cb</guid>
-<pubDate>2026-07-16T23:27:09+09:00</pubDate>
-<description>AIが寝ずにタスクリストを回し続ける仕組み — OpenClawハートビート自律駆動 OpenClawを5ヶ月使い込むと、ある時点で「AIがタスクを自分で拾って回し続ける」状態になる。 人間が寝ている間にログが整理され、メモリが蒸留され、朝にはタスクリストが更新されている...</description>
-</item>
-<item>
-<title>【農業】 Gaza Strip: Scale-up in FAO’s conditional cash for farmers projected to help feed 100 000 people over the next year</title>
-<link>https://www.fao.org/newsroom/detail/gaza-strip-scale-up-in-fao-s-conditional-cash-for-farmers-projected-to-help-feed-100-000-people-over-the-next-year/en</link>
-<guid>17fbed78ac2922e82aae6892cac9a1dd8bbe3e470b4488ead514ef9205bedf85</guid>
-<pubDate>Thu, 16 Jul 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【自動自律実験】 A global capital for AI safety is emerging — and it&#x27;s not in Silicon Valley</title>
-<link>https://www.nature.com/articles/d41586-026-01389-9</link>
-<guid>85e8c81b12f80a3cc75a95257175348a91e4d4461974a2860c5978999829438b</guid>
-<pubDate>2026-07-16</pubDate>
-<description>The United Kingdom is gaining influence through its growing AI-safety ecosystem.</description>
-</item>
-<item>
-<title>【自動自律実験】 Will making ‘replication studies’ easier to find help science self-correct?</title>
-<link>https://www.nature.com/articles/d41586-026-02175-3</link>
-<guid>932156119fa1275a25ab241b3a31a65323febeba2b19b945bfb0c2bf28063ab1</guid>
-<pubDate>2026-07-16</pubDate>
-<description>Project on peer-review platform Pubpeer aims to make replication studies more visible.</description>
-</item>
-<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/visual-planning-lets-think-only-with-images/</link>
-<guid>fb519cdb7166cdb44ebe1d0e6479e6816b62427b19d041064ace9584b725213e</guid>
-<pubDate>Thu, 16 Jul 2026 14:30:20 GMT</pubDate>
+<link>https://research.google/pubs/window-size-versus-accuracy-experiments-in-voice-activity-detectors/</link>
+<guid>59b12a150c3c40d5a6a9bb70aed6ed1ca10030d9c334f75d4529b6e9f638618a</guid>
+<pubDate>Thu, 16 Jul 2026 15:57:09 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75584-7</link>
-<guid>e88c7b3577c509b4f6add7ece2cd94125e1e355df4615ffe0862bea45dd2c084</guid>
-<pubDate>Thu, 16 Jul 2026 14:30:23 GMT</pubDate>
+<guid>8389ce707a508781f7fe0cdc0079cde79c8671c3f14df03395cec8c3b0b7f815</guid>
+<pubDate>Thu, 16 Jul 2026 15:57:12 GMT</pubDate>
 <description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>3ddf971e17a088da649af0102259e9b5c23147bc0984a8704ba4e8361e39e1db</guid>
+<pubDate>Thu, 16 Jul 2026 15:57:15 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+</item>
+<item>
+<title>【UK】 Featured</title>
+<link>https://www.linkedin.com/company/scitechgovuk</link>
+<guid>781f8bc59cbf306f6163a41b68bffb436a0f6c655094536e27d4f69fd1c0014e</guid>
+<pubDate>Thu, 16 Jul 2026 15:57:22 GMT</pubDate>
+<description>Department for Science, Innovation and Technology | 270,458 followers on LinkedIn. Positioning the UK at the forefront of global scientific and technological advancement. | Follow this profile to stay up-to-date with our mission: improving people&amp;#39;s lives by maximising the potential of science &amp;amp; technology.</description>
 </item>
 
 </channel>
