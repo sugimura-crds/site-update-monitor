@@ -4,35 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 16 Jul 2026 22:52:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 23:50:51 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【Godot 4.x】3D脱出ゲームを作ってみる⑤〜ダイヤル錠ギミックの状態をローカルストレージに保存する〜</title>
-<link>https://qiita.com/OnuuuumaX/items/6be3227534df186680f2</link>
-<guid>dd2bdadb1eea452fe7b3c572a3f9ec6e237f45ddc68201d4cc50b6472940943e</guid>
-<pubDate>2026-07-17T07:42:34+09:00</pubDate>
-<description>はじめに Godot 4.x＋Claude Code＋MCPでスマホ横向き向けFPS視点の3D脱出ゲームを作る連載の第5回です。 前回までの記事はこちらです。 環境構築とプロジェクト作成 Claude Code + godot-mcp セットアップ 【Godot 4.x...</description>
-</item>
-<item>
-<title>【Qiita】 AIに、汚染区画の強制隔離の「引き金」を引かせるべきか ── 自律SOCのガバナンスと説明責任</title>
-<link>https://qiita.com/etale_cohomology/items/29aad5bf21c6d91d3ed9</link>
-<guid>8c651af66dd0eb67eff17cbf6d574877f2feefc736da6ceca0dcb74276a3fc35</guid>
-<pubDate>2026-07-17T07:12:47+09:00</pubDate>
-<description>はじめに 本記事は、サイバーセキュリティにおけるAI活用を扱う連載の第３作であり、完結編です。 １作目の記事では、SOC（セキュリティ運用センター）にLLMとAIエージェントが入り、「人がアラートを手作業で処理する」場所から「AIが調査し、人が監督する」場所へ変わりつ...</description>
+<title>【Qiita】 マルチエージェントに関する論文を40本再実装してみて分かったこと</title>
+<link>https://qiita.com/Koukyosyumei/items/e9ee8e26cfdc40a8c2f9</link>
+<guid>462210cc7426e876d2277ef27dadcaaf087650ebea992094b2beb219ef41d407</guid>
+<pubDate>2026-07-17T07:54:35+09:00</pubDate>
+<description>コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。 最近暇なので、マルチエージェントLLMに関する40本の論文で提案されているワークフローを再実装してみました。論文で報告されているベンチマーク結果を再現するというよりは、それぞれの...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/quantum-state-preparation-with-optimal-t-count/</link>
-<guid>58c29231af2c3e27ebda481e012819364d3ed5c37c26912c5edd0af5be12c6e7</guid>
-<pubDate>Thu, 16 Jul 2026 22:51:19 GMT</pubDate>
+<link>https://research.google/pubs/the-synthetic-gap-automating-forensic-investigation-of-ai-slop-with-the-scaled-abuse-forensics-examiner-safe/</link>
+<guid>040f5312f70cb46e5746b5f78830a4ccaf1811a594ff25174b3e781f6d8eda82</guid>
+<pubDate>Thu, 16 Jul 2026 23:50:18 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=AI+for+Science&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>04d9a564ede9203168419a32e4d8746fd2c9174224867789742671729613046e</guid>
-<pubDate>Thu, 16 Jul 2026 22:51:20 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75584-7</link>
+<guid>58b4d7788a053175a3e9ae9102c714119324cd76e4c7d78f0a7b9589f23fc632</guid>
+<pubDate>Thu, 16 Jul 2026 23:50:20 GMT</pubDate>
+<description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>9c413d96be176737dc0cd78f81ebb765815322e369a2eac83d360b6213043373</guid>
+<pubDate>Thu, 16 Jul 2026 23:50:22 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
 </channel>
