@@ -4,71 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 16 Jul 2026 03:56:05 GMT</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 06:11:29 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude CodeでVue2→3をやってみたら、Javaのメジャーアップより苦労した話</title>
-<link>https://qiita.com/ntaka329/items/47b45beeb283bb989de5</link>
-<guid>5b528b5fdf44346eaee90adf4df8c9c2824d0cb5d6f123198209df5b929ea794</guid>
-<pubDate>2026-07-16T12:39:02+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 少し前、Java のメジャーアップ（11→21）を Claude Code でやったら、かなり楽でした。「これなら、ずっと後回しにしていた Vue 2→3 もいけるのでは」——そう思って手を付けたら、意外と苦労した、という話です😇。 ...</description>
+<title>【Qiita】 「オンプレに置けるクラウド」が多すぎるので、整理してみた（前編） ─ Outposts / Alloy / GDC、結局なにが違うの？</title>
+<link>https://qiita.com/M_Ozu/items/add5e59edb8ff54bd34c</link>
+<guid>4098911a6bbba2034b37a2e174fca13bd3a1d94965713622170d10f12448b4d0</guid>
+<pubDate>2026-07-16T14:06:42+09:00</pubDate>
+<description>これは前後編の前編です。 前編（この記事）：外部との接続を保ったまま主権を手元に寄せるタイプ（①延伸・接続型 / ②独立運営型）。3大クラウド＋Oracleが揃って出している「独立運営型」を中心に。 後編：接続を切って自律する世界（③遮断型 / ④自前）。完全閉域（...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントの完了報告をPythonで検収する</title>
-<link>https://qiita.com/eiri_ai/items/8e9fb8825ec04a3f1719</link>
-<guid>8e4de14fe85980df2bc6547bf6b935c0327b0ba818279df9399116eddb7b1959</guid>
-<pubDate>2026-07-16T12:20:01+09:00</pubDate>
-<description>「OpenAI、初のハードウェア『Codex Micro』を230ドルで発売」 7月15日のこのニュースを見て、複数の作業を並行で見張る道具が前に出てきたなと思いました。これが意味するのは、AIに仕事を一件ずつ頼む時間が終わり、同時に走る仕事の「完了」をどう扱うかが現場の...</description>
+<title>【Qiita】 ADK × AG-UI × CopilotKit でのメッセージIDの不整合問題を回避する方法</title>
+<link>https://qiita.com/ryosuke-terasaka1/items/5b1e0cbbc6a1d4cafc4b</link>
+<guid>1c541c3ac3df97bc7ad0e6a0b4a550678518ade1b78c9565dedfd4340ce5716b</guid>
+<pubDate>2026-07-16T14:48:19+09:00</pubDate>
+<description>本記事は 2026年7月16日 時点の情報です。ADK / ag-ui-adk の仕様は変わる可能性があるため、利用時は最新の CHANGELOG を確認してください。 AIチャットの回答の品質を上げ続けるには、「どの回答が良かったか・悪かったか」を集め、プロンプト...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントの暴走を防ぐ設計パターン7選 — 承認フロー・権限・監査ログ</title>
-<link>https://qiita.com/fuji1009_REBELL/items/3be5b1b5a0e537124008</link>
-<guid>43ccf62df42f1a2277a99d2e6d5083666a74baa30f52c77228d2711d86199ad7</guid>
-<pubDate>2026-07-16T10:52:13+09:00</pubDate>
-<description>AIエージェントに外部向けの操作まで任せたら、メールを1回誤送信して冷や汗をかきました。原因は「どこまで自動でやらせるか」の線引きを決めずに走らせたこと。そこから安全装置を組み込み直したところ、誤操作はゼロ、承認作業は1日たった5分で回るようになりました。 この記事は、個人...</description>
-</item>
-<item>
-<title>【Qiita】 Dynamics 365 BCにAIエージェントを繋いでみた ── API設定からエージェント構成まで</title>
-<link>https://qiita.com/YukiSugiyama/items/f2a86b6a77adeba51c52</link>
-<guid>4955c26f9709a336af0e5535133f10351c7f8f831b1201550be8bfc6b1ed665f</guid>
-<pubDate>2026-07-16T10:46:28+09:00</pubDate>
-<description>【展示会出展のお知らせ】ERP × AIエージェントのデモ動画をお見せします このたび、AI World 2026 夏（2026年7月22〜24日・幕張メッセ・第6ホールの奥）にて、ERPである Microsoft Dynamics 365 Business Centra...</description>
-</item>
-<item>
-<title>【Qiita】 MCP Developer Lab登壇振り返り — DatabricksにおけるMCPソリューション</title>
-<link>https://qiita.com/taka_yayoi/items/60f0901691c3220162da</link>
-<guid>30904b3adcabbfb914ff9e23bbdc3c0e14667e7a60b14ec9f2480ec9ee9aac13</guid>
-<pubDate>2026-07-16T10:15:07+09:00</pubDate>
-<description>はじめに 2026年7月15日に開催されたMCP Developer Lab | MCPで切り開くAgentic AIワークフローにて、「DatabricksにおけるMCPソリューション」というタイトルでLTをさせていただきました。ご参加いただいた皆さま、運営の皆さま、あ...</description>
+<title>【Qiita】 AIエージェントマネージャー（AAM）の役割を深堀りしてみる - 業務導入からガバナンスまでの8職務・4設計軸</title>
+<link>https://qiita.com/nogataka/items/8aaa1af2fe46ce48cd40</link>
+<guid>2ad917727a07f20ba4d5be0ca140fa652ae6dfd6e2f49bbff21d69e4818e4ad4</guid>
+<pubDate>2026-07-16T13:43:52+09:00</pubDate>
+<description>要点（最初に結論） AIエージェントは「目標を理解し、計画し、ツールを使ってタスクを実行する自律性のあるソフトウェア」と位置づけられており、作るだけでなく「任せる範囲を決める」「監視する」「止める判断をする」役割が別途必要になってきています。 この記事では、その役割を仮...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/scalable-detection-of-adversarial-synthetic-slop-and-coordinated-media-abuse-a-lora-enabled-multimodal-defense-system/</link>
-<guid>688c61e99723f1678672ddaa69a033a388864a0f5212ac428f2d1779eabb3897</guid>
-<pubDate>Thu, 16 Jul 2026 03:55:31 GMT</pubDate>
+<link>https://research.google/pubs/an-empirical-study-of-tablet-ergonomics-the-interplay-of-temperature-orientation-and-use-behaviors/</link>
+<guid>cac052a60145f0b4d0c21d23129f266f5b2cd933536eb943fa11fe6158b45edc</guid>
+<pubDate>Thu, 16 Jul 2026 06:10:57 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75249-5</link>
-<guid>b61358cfa55eddabd278c196bb4c8f4e27471e5b617d4b3ed897c6e236eda7e3</guid>
-<pubDate>Thu, 16 Jul 2026 03:55:35 GMT</pubDate>
+<guid>b2a1f72f816b14a24df0df57084d13e343ef9d5acda373f15dfbe6111360b4dd</guid>
+<pubDate>Thu, 16 Jul 2026 06:10:59 GMT</pubDate>
 <description>Psoriasis affects over 125 million people globally. Biologics targeting the IL-17/IL-17RA axis are effective but require systemic administration, are costly, and are unsuitable for some patients. Developing topical small-molecule alternatives requires a better understanding of how IL-17 receptor A (IL17RA) is regulated in keratinocytes, the principal effector cells of psoriatic lesions. Here, we report a genome-wide CRISPR knockout screen for regulators of surface IL17RA in primary human epidermal keratinocytes. We prioritize hits using experimental enrichment together with VirtualCRISPR, a language-model framework trained on functional-genomics data, and validate two regulators with minimal prior connection to IL17RA: 5-lipoxygenase (ALOX5) and the oxytocin receptor (OXTR), which act through distinct cell-intrinsic mechanisms. Topical zileuton, an ALOX5 inhibitor, and cligosiban, an OXTR antagonist, suppress imiquimod-induced psoriasiform dermatitis in mice, mirroring systemic anti-IL17RA antibody efficacy. By linking AI- guided selection to genetic perturbation screening, this study provides an efficient route from candidate gene nomination to biological validation and therapeuti</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>778c92e20efae00006d36ea20701caa9310ed25063ddc925692100b9c1311148</guid>
-<pubDate>Thu, 16 Jul 2026 03:55:38 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>0deb232d815dab2363f0564dc252f25815c694e2f585802cfea8c10fd5c49b26</guid>
-<pubDate>Thu, 16 Jul 2026 03:55:50 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
