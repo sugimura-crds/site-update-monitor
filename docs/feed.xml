@@ -4,35 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 16 Jul 2026 12:15:22 GMT</lastBuildDate>
+<lastBuildDate>Thu, 16 Jul 2026 14:31:20 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIが怖い - 毎日24時間AIニュースを見続けた結果、わかったこと</title>
-<link>https://qiita.com/hotstaff/items/5b808397256b88d8c544</link>
-<guid>b8a3261721c61f565eae4ce778d0ed38b8e1232eb5ef3c0ea303b7c80aef9958</guid>
-<pubDate>2026-07-16T20:44:13+09:00</pubDate>
-<description>最近、私の脳内は完全にAIにハックされています。 来る日も来る日も、24時間体制でAIニュースの濁流を浴び続ける日々。 「Claudeが覚醒した！」「GPTがすべてを覆す！」「Geminiがヤバい！」「AIエージェントの夜明け！」「MCP対応！」「このツールを使えばお前の作...</description>
+<title>【Qiita】 社内AIに「分かりません」と言わせても信頼は戻らなかった。効いたのは検索の作り直しだった</title>
+<link>https://qiita.com/nzw/items/b9af931461a5db879ed1</link>
+<guid>2b2860cf42c7b0d088c2290d7ad864cae1da796690de95484c4ba1ce75675051</guid>
+<pubDate>2026-07-16T23:24:48+09:00</pubDate>
+<description>3行まとめ 社内AIが嘘（ハルシネーション）を返し、数日で誰も使わなくなった 「知らないことは知らないと言え」とプロンプトに書いたが、信頼は戻らなかった 効いたのはハイブリッド検索＋リランキング＋根拠リンク。回答採用率が 35% → 62% に上がって初めて人が戻って...</description>
+</item>
+<item>
+<title>【Qiita】 CLAUDE.md設計でハマった5つの罠と改善パターン集【チートシート付】</title>
+<link>https://qiita.com/fuji1009_REBELL/items/22c8691fe1cc1c309b08</link>
+<guid>c32edede7213b283b80e64f8b2f81c2b62bc359fd5227d3bb382ad587c727aeb</guid>
+<pubDate>2026-07-16T22:30:35+09:00</pubDate>
+<description>CLAUDE.md（Claude Codeにプロジェクトの前提を渡す設定ファイル）を書き始めた頃、私は「とりあえず思いつく限りルールを書けば賢くなる」と思っていました。結果、500行を超えて応答が遅くなり、肝心の指示は無視されるという本末転倒に陥りました。 導入直後は効果絶...</description>
+</item>
+<item>
+<title>【Qiita】 Agent ScriptのIf/Else実装まとめ｜Agentforceで確定ロジックを組み込むパターン</title>
+<link>https://qiita.com/ubakichi_sr_mc_ai_06/items/faaccd1a6c6f2d301480</link>
+<guid>190980fc60580137cdc1041d8041677a187a7a686897b9b6f2fb751f03dc78cf</guid>
+<pubDate>2026-07-16T22:09:06+09:00</pubDate>
+<description>はじめに Agentforceの新しいBuilderでAgent Scriptを書き始めると、if/elseの構文とサブエージェントへの遷行(トランジション)の使い分けで手が止まることがあります。 本記事では、キャンバスビューの条件ステートメントの構文、変数の型ごとの値の...</description>
+</item>
+<item>
+<title>【Qiita】 Fine-tuning vs RAG vs Prompt Engineering: How to Choose in 2026</title>
+<link>https://qiita.com/agdexai/items/995ff22d136452d953f8</link>
+<guid>143766adfb3487ee55e1cbfbc3c218fa973852e5a9239c84993550a91d8effdb</guid>
+<pubDate>2026-07-16T21:51:25+09:00</pubDate>
+<description>Fine-tuning vs RAG vs Prompt Engineering: How to Choose in 2026【比較ガイド】 LLMをカスタマイズする方法は大きく3つ。でも「どれを使えばいい？」で迷う人が後を絶ちません。本記事では実務視点で完全に整理します...</description>
+</item>
+<item>
+<title>【Qiita】 AIが寝ずにタスクリストを回し続ける仕組み — OpenClawハートビート自律駆動</title>
+<link>https://qiita.com/TT-Resolver/items/624c2f36686536587418</link>
+<guid>450ee9c00f1f6c0b981eb28bbcc022a559182a416fd9e73e97084885e9dca7cb</guid>
+<pubDate>2026-07-16T23:27:09+09:00</pubDate>
+<description>AIが寝ずにタスクリストを回し続ける仕組み — OpenClawハートビート自律駆動 OpenClawを5ヶ月使い込むと、ある時点で「AIがタスクを自分で拾って回し続ける」状態になる。 人間が寝ている間にログが整理され、メモリが蒸留され、朝にはタスクリストが更新されている...</description>
+</item>
+<item>
+<title>【農業】 Gaza Strip: Scale-up in FAO’s conditional cash for farmers projected to help feed 100 000 people over the next year</title>
+<link>https://www.fao.org/newsroom/detail/gaza-strip-scale-up-in-fao-s-conditional-cash-for-farmers-projected-to-help-feed-100-000-people-over-the-next-year/en</link>
+<guid>17fbed78ac2922e82aae6892cac9a1dd8bbe3e470b4488ead514ef9205bedf85</guid>
+<pubDate>Thu, 16 Jul 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【自動自律実験】 A global capital for AI safety is emerging — and it&#x27;s not in Silicon Valley</title>
+<link>https://www.nature.com/articles/d41586-026-01389-9</link>
+<guid>85e8c81b12f80a3cc75a95257175348a91e4d4461974a2860c5978999829438b</guid>
+<pubDate>2026-07-16</pubDate>
+<description>The United Kingdom is gaining influence through its growing AI-safety ecosystem.</description>
+</item>
+<item>
+<title>【自動自律実験】 Will making ‘replication studies’ easier to find help science self-correct?</title>
+<link>https://www.nature.com/articles/d41586-026-02175-3</link>
+<guid>932156119fa1275a25ab241b3a31a65323febeba2b19b945bfb0c2bf28063ab1</guid>
+<pubDate>2026-07-16</pubDate>
+<description>Project on peer-review platform Pubpeer aims to make replication studies more visible.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/semantic-data-modeling-graph-query-and-sql-together-at-last/</link>
-<guid>a7b9d1005fa20fcfac933a61336af41bf13f466aeb2cec17cd86fc151a0dbd60</guid>
-<pubDate>Thu, 16 Jul 2026 12:14:15 GMT</pubDate>
+<link>https://research.google/pubs/visual-planning-lets-think-only-with-images/</link>
+<guid>fb519cdb7166cdb44ebe1d0e6479e6816b62427b19d041064ace9584b725213e</guid>
+<pubDate>Thu, 16 Jul 2026 14:30:20 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75584-7</link>
-<guid>54df30c63dc69a012802ae25f7f7543a4300ae7688f83caa0f0108da74743f7c</guid>
-<pubDate>Thu, 16 Jul 2026 12:14:19 GMT</pubDate>
+<guid>e88c7b3577c509b4f6add7ece2cd94125e1e355df4615ffe0862bea45dd2c084</guid>
+<pubDate>Thu, 16 Jul 2026 14:30:23 GMT</pubDate>
 <description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>0736e5fdb63cc5fde61bdafa83f12b8009644a82db6a91df8d7a026385eaa4eb</guid>
-<pubDate>Thu, 16 Jul 2026 12:15:13 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
