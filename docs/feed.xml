@@ -4,49 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 17 Jul 2026 14:25:53 GMT</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 15:53:29 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 スマホからClaude Codeを動かす ― Discord連携リモート運用のリアル</title>
-<link>https://qiita.com/yukiwill0012/items/749cd5916a894fb5429d</link>
-<guid>6fb11bb0c4c86a62351e807b0b47b9bf79b3f8cc8f0c1dbd6d8e2608fddac432</guid>
-<pubDate>2026-07-17T22:03:35+09:00</pubDate>
-<description>Claude CoworkがWebとモバイルに展開され、「スマホからAIに仕事を任せる」働き方が話題になっています。ただ、Claude Codeユーザーにとって、これは公式のDiscord連携機能「Channels」で少し前からできていた体験でもあります。AIが自走している...</description>
-</item>
-<item>
-<title>【自動自律実験】 Why pain hurts more when we’re lonely, and the myth of original sin: Books in brief</title>
-<link>https://www.nature.com/articles/d41586-026-02264-3</link>
-<guid>5b9c66c8cd97e98f48b79700e645af7f344f6630716edae677c9f1974b61674b</guid>
+<title>【自動自律実験】 Briefing Chat: Sweet! Elusive sugar molecules found in space</title>
+<link>https://www.nature.com/articles/d41586-026-02263-4</link>
+<guid>565cc764b07058c2eaaa59ebda8aa19ed6465c8a559a09d1a2586b2894407ea2</guid>
 <pubDate>2026-07-17</pubDate>
-<description>Andrew Robinson reviews five of the best science picks.</description>
-</item>
-<item>
-<title>【自動自律実験】 Man’s ability to make sperm restored after testicular tissue transplant: what scientists think</title>
-<link>https://www.nature.com/articles/d41586-026-02191-3</link>
-<guid>b94c6100f24a49fe2e50c01653301e348e64a3811c15808a0639b97d6a2e7feb</guid>
-<pubDate>2026-07-17</pubDate>
-<description>Testicle sample removed from a ten-year-old before chemotherapy and frozen proves viable 16 years later.</description>
+<description>Nature staff discuss the discovery of a four carbon ‘true sugar’ in interstellar space — plus, a formula inscribed on a wall reveals a Maya mathematician’s name.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/productionizing-quantum-mass-production/</link>
-<guid>ae014e76c291c33868b47e3b9fdc86e8612e5139871ac1c4c42bb277cb3c4827</guid>
-<pubDate>Fri, 17 Jul 2026 14:24:52 GMT</pubDate>
+<link>https://research.google/pubs/the-synthetic-gap-automating-forensic-investigation-of-ai-slop-with-the-scaled-abuse-forensics-examiner-safe/</link>
+<guid>30b55db1ac67c7d3a40f2b11d35a8a0f95029e6d1411160d8f3d834a6604c9fb</guid>
+<pubDate>Fri, 17 Jul 2026 15:52:37 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75584-7</link>
-<guid>7264c48c63f13a0c2e565d0a4316c483b872cad0cb671e5b4ef62f626db70b10</guid>
-<pubDate>Fri, 17 Jul 2026 14:24:54 GMT</pubDate>
+<guid>6150d8e0d6bff80c6a07b031b870dfd6ba3145b5ad7793c5bc27efe973aedf10</guid>
+<pubDate>Fri, 17 Jul 2026 15:52:40 GMT</pubDate>
 <description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>d347c789be72e8b38eeb49178c522b1b581c4e4fd3b6f692c08a8d8bf0dd3660</guid>
-<pubDate>Fri, 17 Jul 2026 14:24:56 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
 </channel>
