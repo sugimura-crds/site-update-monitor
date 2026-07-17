@@ -4,35 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 17 Jul 2026 07:11:53 GMT</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 09:27:05 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Developer Summit 2026 Summer 1日目 参加レポート：AI時代のエンジニアに残る仕事を、6つのセッションから考える 🏝️</title>
-<link>https://qiita.com/y-morimatsu/items/7450a4e8029719f63db1</link>
-<guid>4550c6588ee48ed11791da6b7fb0a7a600e4a57af1fc3dfbb01405954cfeb00e</guid>
-<pubDate>2026-07-17T14:18:10+09:00</pubDate>
-<description>グラレコ はじめに Developer Summit 2026 Summer（デブサミ2026夏）は、翔泳社が主催する開発者向けカンファレンスです。2026年7月16日開催の1日目に参加し、6つのセッションを聴講してきました。今年の空気を一言でまとめると、「AIで開発...</description>
+<title>【Qiita】 AIエージェントとは何か？ChatGPTとの違いから、できること・必要性まで</title>
+<link>https://qiita.com/sghr20/items/152a9570d6e6bb8d77dc</link>
+<guid>f60ab8e1068c5041404a6feb6051e68336e53d93a7bc9eb224fc875dfaf3bb93</guid>
+<pubDate>2026-07-17T18:13:23+09:00</pubDate>
+<description>ChatGPTやClaude、Geminiを使ったことがある人なら、「AIエージェント」という言葉を見て、次のように感じるかもしれません。 「ChatGPTと何が違うのだろう」 「すでにAIへ質問できるのに、別の仕組みが必要なのだろうか」 AIエージェントは、ChatGPT...</description>
 </item>
 <item>
-<title>【Qiita】 agmsg入門 — MCPなしでClaude CodeとCodexを直接会話させる仕組み</title>
-<link>https://qiita.com/kai_kou/items/ba134628766570226a11</link>
-<guid>3b1fa1d11d49d5d4ddf50ce0803724a0bb2df22436e75de76ce0e269f42dc56b</guid>
-<pubDate>2026-07-17T15:06:42+09:00</pubDate>
-<description>はじめに Claude CodeでレビューしてほしいテキストをCodexの画面にコピーし、返ってきた指摘をまたClaude Codeに貼り直す。複数のCLIエージェントを併用していると、この「コピペの伝令役」を人間がやる時間がじわじわ積み上がる。MCPサーバーを立てれば解...</description>
+<title>【Qiita】 WinUI Agent Plugin を使って、WinUI 3 アプリを自然言語で作ってみた</title>
+<link>https://qiita.com/ysk-hello/items/74ce0c887cff859d5d48</link>
+<guid>75169603588b764ca83ea5b03774f5c927cef5a8bf5e755650df7bea860145c6</guid>
+<pubDate>2026-07-17T17:18:26+09:00</pubDate>
+<description>この記事は何？ 「Claude Code に入れると、WinUI 3 アプリを自然言語の指示だけで作れるようになるプラグイン」 を紹介します。 Windows のデスクトップアプリ開発は、環境構築が独特だったり、UI の書き方に癖があったりで「なんだか敷居が高そう」と感...</description>
+</item>
+<item>
+<title>【Qiita】 2026年のmacOSターミナル事情：GPU加速とAI連携、26アプリの選び方</title>
+<link>https://qiita.com/simota/items/8ffbadcf5adcbceacca6</link>
+<guid>2bad4a0ac377ec73cd78eab9e480f08a8debb48516730ee7b3b95d680ca30a2b</guid>
+<pubDate>2026-07-17T17:16:03+09:00</pubDate>
+<description>最近、自分でもmacOS向けターミナルアプリ Noa の開発を始めました。描画方式や端末エミュレーション、タブ・ペイン管理を調べるうちに、「現在のターミナルアプリは、どのような技術で作られ、何を目指しているのか」を一度整理したくなりました。 調べてみると、定番のiTerm2...</description>
+</item>
+<item>
+<title>【Qiita】 【#4】承認・履歴付 OSS SSH MCP server ssh-gate -- Wails GUI 編</title>
+<link>https://qiita.com/yoshiyakato/items/6a1852ee033f6435aa85</link>
+<guid>244940706d19690609926759d7c65870ed855da630e0272f9a953fee8807c9e9</guid>
+<pubDate>2026-07-17T16:54:41+09:00</pubDate>
+<description>Electron でも Tauri でもなく Wails — Go + バニラ JS 1ファイルで管理画面を作る 連載「AI エージェントに SSH を渡すのが怖いので、人間承認ゲートウェイを自作した」第4回（Wails GUI 編）。 リポジトリ: ssh-gete...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/semantic-data-modeling-graph-query-and-sql-together-at-last/</link>
-<guid>2bda8aa4813d7f8030e91debf9b233e09b5f17041e8d4233710f5aeff8717c70</guid>
-<pubDate>Fri, 17 Jul 2026 07:10:55 GMT</pubDate>
+<link>https://research.google/pubs/compact-conformal-subgraphs/</link>
+<guid>135f10ca0f6f14a10589f52e7454423ba34a2c76dbd6609e52d6a71377b3143c</guid>
+<pubDate>Fri, 17 Jul 2026 09:26:06 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.maff.go.jp/j/press/kanbo/kihyo03/260630.html</link>
-<guid>4188f7f46e2eafb0619e301ba7770d1adfca0d245b96643243c27712b0de0d63</guid>
-<pubDate>Fri, 17 Jul 2026 07:11:41 GMT</pubDate>
-<description>研究所別一覧</description>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>7fc1fafc0ee7d71667940b2c28df68eca7ebb4f5be2940e25b239efd5b4ebc65</guid>
+<pubDate>Fri, 17 Jul 2026 09:26:57 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
