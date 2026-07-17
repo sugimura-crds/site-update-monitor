@@ -4,35 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 17 Jul 2026 01:48:49 GMT</lastBuildDate>
+<lastBuildDate>Fri, 17 Jul 2026 04:55:16 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「オンプレに置けるクラウド」が多すぎるので、整理してみた（後編） ─ Outposts / Alloy / GDC、結局なにが違うの？</title>
-<link>https://qiita.com/M_Ozu/items/0c4fd70e6fe43e70637a</link>
-<guid>2c323204d7909e7cddc3ab07d1467b844fb1131ae465b576abffd91598ef9fb2</guid>
-<pubDate>2026-07-17T09:16:52+09:00</pubDate>
-<description>これは前後編の後編です。 前編：外部との接続を保ったまま主権を手元に寄せるタイプ（①延伸・接続型 / ②独立運営型）。→「オンプレに置けるクラウドが多すぎるので整理してみた（前編）」 後編（この記事）：接続を切って自律する世界（③遮断型 / ④自前）。完全閉域（ai...</description>
+<title>【Qiita】 Python を使った PLL/DLL 設計手法（６）</title>
+<link>https://qiita.com/jun1okamura/items/cd42cd761eb70468f87a</link>
+<guid>82a234e737393ef8c91c8c1ce61e73066ea0691e783adcdb06eec390da5217fb</guid>
+<pubDate>2026-07-17T13:46:57+09:00</pubDate>
+<description>OpenSUSI-MPW Open-Source TR-1um を使った OpenSUSI-MPW サービスを使って「何か本格的に設計したいなぁ」と考えていたのですが、折角なら Open-Source Tool を活用するリファレンス設計としてのドキュメント記録も残したい...</description>
 </item>
 <item>
-<title>【Qiita】 常駐型AIエージェントの「もっともらしい嘘」を送信前に止める設計パターン</title>
-<link>https://qiita.com/hach_work/items/74c2074d44cacd24dee9</link>
-<guid>0ce257cf8fa47f7f04032a3e76d15b80656806a9a6970a6f9570e5aaec101401</guid>
-<pubDate>2026-07-17T09:33:06+09:00</pubDate>
-<description>対話型のチャットボットなら、ハルシネーション(もっともらしい誤情報)が混じっても人間がその場で「それ違うくない?」と突っ込めます。しかし常駐型エージェントは、誰も見ていない間に自発的にチャットへ発言します。その場に検証してくれる人間がいないため、誤った要約や存在しない数値を...</description>
+<title>【Qiita】 Python を使った PLL/DLL 設計手法（５）</title>
+<link>https://qiita.com/jun1okamura/items/e7d8983c22187ca002a2</link>
+<guid>8f81977f7e55e6582e99ed1947a9052dfef88b235b9a4620c53380a75239bc63</guid>
+<pubDate>2026-07-17T13:46:35+09:00</pubDate>
+<description>OpenSUSI-MPW Open-Source TR-1um を使った OpenSUSI-MPW サービスを使って「何か本格的に設計したいなぁ」と考えていたのですが、折角なら Open-Source Tool を活用するリファレンス設計としてのドキュメント記録も残したい...</description>
 </item>
 <item>
-<title>【Qiita】 Codex - AIエージェント時代のソフトウェア設計～開発プロセスの再構築～従来の開発プロセス</title>
-<link>https://qiita.com/mellowlaunch/items/2bbcd536ac61d980012e</link>
-<guid>a4edd32e20efe4fbb1448dfc3fa6f2e057fd9e27f02a6f7b02b78ce5f2631d24</guid>
-<pubDate>2026-07-17T08:51:32+09:00</pubDate>
-<description>📚 関連書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 「ゼロから触ってわかった！Codex - AIエージェント時代のソフトウェア設計」 本書は、AIエージェン...</description>
+<title>【Qiita】 Python を使った PLL/DLL 設計手法（４）</title>
+<link>https://qiita.com/jun1okamura/items/82939f88a3529248b80f</link>
+<guid>3644b845261873e9e4dfd380857d272fd8221135f2b282a6120b86c22e11f8e1</guid>
+<pubDate>2026-07-17T13:46:17+09:00</pubDate>
+<description>OpenSUSI-MPW Open-Source TR-1um を使った OpenSUSI-MPW サービスを使って「何か本格的に設計したいなぁ」と考えていたのですが、折角なら Open-Source Tool を活用するリファレンス設計としてのドキュメント記録も残したい...</description>
+</item>
+<item>
+<title>【Qiita】 その「できました」、本当に?——AIエージェントの仕事をラン単位で計測する横断ダッシュボード【テンプレ全公開】</title>
+<link>https://qiita.com/4q_sano/items/8b3b522ad9058c14d3c8</link>
+<guid>da81ca45fc536b2bf239d36cb96803e63e92d6932b1763f8e71e7d353af1e4a6</guid>
+<pubDate>2026-07-17T13:26:40+09:00</pubDate>
+<description>🧭 本記事は Claude Code実務運用シリーズ の STEP 8「Fable 5で運用を棚卸しする」です。 STEP 8 の完結編。8-5 の「点検」を、ラン単位の記録と横断ダッシュボードによる「常設の計測」に昇格させます。 シリーズ全体の地図と読む順は 親記事 に...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/mogen-detailed-neuronal-morphology-generation-via-point-cloud-flow-matching/</link>
-<guid>3b799aa83782eb216bfc5b36013c86459aacfbf33c58d0cf6c254b2af16a9793</guid>
-<pubDate>Fri, 17 Jul 2026 01:48:12 GMT</pubDate>
+<link>https://research.google/pubs/geo-contextual-ai-concierge-minimizing-internal-support-friction-through-proactive-knowledge-synthesis/</link>
+<guid>60b8cde292d7eaec7906fdfb1c0a081b9c9f12b2824ddfd9e4d8bfd7dbced43e</guid>
+<pubDate>Fri, 17 Jul 2026 04:54:42 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75584-7</link>
+<guid>d93bab1bc86c9f754063377e4fa36ac5befdd6ea6bab971d65489f39725bebf2</guid>
+<pubDate>Fri, 17 Jul 2026 04:54:45 GMT</pubDate>
+<description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>d02f663ba347437a073970b971a368df548c883da1cbab88db03b6ab9d114713</guid>
+<pubDate>Fri, 17 Jul 2026 04:54:47 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
 </channel>
