@@ -4,64 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 18 Jul 2026 04:25:42 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 06:27:33 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Fable 5 / GPT-5.6 Sol / Kimi K3 / Grok 4.5 / GLM-5.2 徹底比較</title>
-<link>https://qiita.com/kazuki_kuriyama/items/d13b2502260c7a1e8239</link>
-<guid>1243cd78a869b1831569342ae1bcf7738984fa969c1bb27a6aae0dd5ca88d277</guid>
-<pubDate>2026-07-18T12:54:50+09:00</pubDate>
-<description>はじめに 2026年は、単純なチャット性能だけでなく、長時間のコーディング、巨大なリポジトリの解析、Web検索、ターミナル操作、資料作成などを自律的に進める「エージェント性能」がLLM選定の重要な基準になっています。 この記事では、次の5モデルを比較します。 Anthr...</description>
+<title>【Qiita】 「コンテキストエンジニアリング」入門 — プロンプトの次に来るAI活用の新パラダイム</title>
+<link>https://qiita.com/fuji1009_REBELL/items/6f090449bc636240af61</link>
+<guid>a5aaa00db8b39b6f84d8dbbeae6f24eefbf954bee2d025d618e6cd3ca90d69e1</guid>
+<pubDate>2026-07-18T15:12:25+09:00</pubDate>
+<description>同じLLMに同じ質問をしても、返ってくる答えの質がまるで違う——そんな経験はないでしょうか。 私はAIエージェント環境を1年ほど個人で運用してきて、精度を左右していたのはプロンプトの言い回しではなく、そのモデルが何を見せられているか、つまり「コンテキストの設計」だと確信する...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Fable 5・Kimi K3・Grok 4.5・GLM-5.2を比較してみた ― 性能・料金・コスパ・用途別の選び方</title>
-<link>https://qiita.com/kazuki_kuriyama/items/46929a5e251aa0070e77</link>
-<guid>daa474af1b372318087450a4e9694facbfc277956a26811d0162be763f92a049</guid>
-<pubDate>2026-07-18T12:31:28+09:00</pubDate>
-<description>はじめに 2026年は、単純なチャット性能だけでなく、長時間のコーディング、巨大なリポジトリの解析、Web検索、ターミナル操作、資料作成などを自律的に進める「エージェント性能」がLLM選定の重要な基準になっています。 この記事では、次の4モデルを比較します。 Anthr...</description>
+<title>【Qiita】 Claude Codeで「AI秘書」を構築する全手順 — CLAUDE.md設計からマルチエージェントまで</title>
+<link>https://qiita.com/fuji1009_REBELL/items/041a1eb05dfd9c298f50</link>
+<guid>1d2117b09c70f57b0727db78dbf93e3bc37b10a1d768632a5d06eb8e6729caf4</guid>
+<pubDate>2026-07-18T15:11:04+09:00</pubDate>
+<description>以前、Claude Codeの上に「AI秘書」を自作した話を実装Tips集として書きました。今回はその上位互換です。Tipsのつまみ食いではなく、同じシステムをゼロから組み上げるときに私が辿る手順を、構築順に通しで書きます。 対象読者は「Claude Codeは使っているが...</description>
 </item>
 <item>
-<title>【Qiita】 AI時代のドキュメント駆動開発のすすめ</title>
-<link>https://qiita.com/Asahi_tech_dev/items/5a3c6420cb0b2fa0e823</link>
-<guid>acc0800671bb881e077c0fc5a34777565c6c827a718a5ae503173e4a548002d6</guid>
-<pubDate>2026-07-18T11:44:30+09:00</pubDate>
-<description>はじめに この数年、AIの登場によって開発現場は大きく様変わりした。バイブコーディングをはじめ、未経験者が開発に参入するハードルは一気に下がり、参入者は急増している。もはやプロダクトの「インフレ状態」と言ってもいいかもしれない。 しかし、プロダクトを作れるようになったこと...</description>
+<title>【Qiita】 IBM BobのSubTaskとSubAgentの違いと利用する際の注意点</title>
+<link>https://qiita.com/yanagih/items/bf93d65a1ab1f6eeeb10</link>
+<guid>30adafe37f7c9276aea059e61888bdbc5f51fe43110d3cd8d8738f14b03b2052</guid>
+<pubDate>2026-07-18T14:19:29+09:00</pubDate>
+<description>本記事は 2026年7月18日 時点における個人の見解です。AIエージェントツールの仕様は急速に変化するため、最新の公式ドキュメントも合わせてご確認ください。 はじめに Bobなどのエージェント型AIツールを使っていると、SubTask（サブタスク） と SubA...</description>
 </item>
 <item>
-<title>【Qiita】 CLAUDE.mdの「禁止」は、お願いにすぎない ― Claude Codeを確実に止めるhooksガードレール3選【コマンド一つで導入】</title>
-<link>https://qiita.com/4q_sano/items/aaa12313849ef5999994</link>
-<guid>83165a87922ff27c71c098dde841e8166a3ec26a1c6d9f5fcb6d3c5da19521ee</guid>
-<pubDate>2026-07-18T10:50:58+09:00</pubDate>
-<description>🧭 本記事は Claude Code実務運用シリーズ の STEP 3「ガードレールを作る」です。 指示ファイル(確率的)と deny(静的パターン)に、hooks(command型)で「実行時の決定的ガード」を追加します。 シリーズ全体の地図と読む順は 親記事 にまとめ...</description>
+<title>【Qiita】 AI Agent導入で変わるITIL運用 CapacityとAvailabilityをどう管理するか</title>
+<link>https://qiita.com/lufraisjp/items/fee0060c60e1bf8d2c4b</link>
+<guid>a07c95cec9912db747eaeb4409e54135c44f7651e4046d55c883660fa33e95e8</guid>
+<pubDate>2026-07-18T14:15:55+09:00</pubDate>
+<description>はじめに 近年、多くの企業がAI Agentの導入を進めています。 Microsoft CopilotやServiceNow AI Agentなどの登場により、AIは単なるチャットボットから「業務を実行する主体」へと進化しています。 こうしたAI Agentの普及は、IT...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/method-for-secure-ai-grounding-using-semantic-token-substitution-and-client-side-re-hydration/</link>
-<guid>f6fb10172172783b3d0405ba94dca97773e5029af80079361d667019a38c3dad</guid>
-<pubDate>Sat, 18 Jul 2026 04:25:01 GMT</pubDate>
+<link>https://research.google/pubs/an-improved-entropy-measure-for-web-browser-fingerprinting-risk-2/</link>
+<guid>8319c7c2cce78f9fa61276cc4082d4c86a1eb391c9719641527b47d2c88881fa</guid>
+<pubDate>Sat, 18 Jul 2026 06:26:34 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75584-7</link>
-<guid>28f898ed0887bb7abc11fa39c8f299b52eee9e3808414571749a138be7d44489</guid>
-<pubDate>Sat, 18 Jul 2026 04:25:04 GMT</pubDate>
+<guid>d8ded4d100d722e5bdec30d1e56294d33ad1b373c94513d064e3003c122d32f3</guid>
+<pubDate>Sat, 18 Jul 2026 06:26:36 GMT</pubDate>
 <description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>fa22c39c6900b68e605bf9a96760f19e868313f8ba18047dd579517b8ac21cf8</guid>
-<pubDate>Sat, 18 Jul 2026 04:25:06 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>2af28892afa5f4411bcceb2ed064ef3f84f8edf5f989fe30ce2dc1d69c4b42bc</guid>
-<pubDate>Sat, 18 Jul 2026 04:25:23 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
