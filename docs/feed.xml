@@ -4,35 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 18 Jul 2026 10:56:44 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 11:46:15 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 自律ペンテストAI「AWS Security Agent」を試してみた</title>
-<link>https://qiita.com/hiyoshiz/items/54f3041aa4cd82e46f0a</link>
-<guid>b84c2c49e4449643fe58784efe02af9c4ff8ea6aa56627a46ae0db7c980f1297</guid>
-<pubDate>2026-07-18T19:19:41+09:00</pubDate>
-<description>自律ペンテストAI「AWS Security Agent」を試してみた この記事でわかること 対象のURLを登録するだけで、AIが自律的に脆弱性を探し、実際に攻撃ペイロードを送り、悪用が成立するところまで実証してくれる。 そんな触れ込みのサービスが2026年3月に GA...</description>
+<title>【Qiita】 LLM記述構文&quot;MARI&quot; 記事一覧 (Gemini率直レビュー付き)</title>
+<link>https://qiita.com/otoyo0318/items/0eaa65e4536806267b9d</link>
+<guid>51bd67695ef1d9314d4bd1fe2ce8cbf468ef5720779198d8e63f8064bf6d03b4</guid>
+<pubDate>2026-07-18T19:56:03+09:00</pubDate>
+<description>本編 / Tips 1. 【脱・お祈りプロンプト】LLMの処理系から逆算したアセンブラ的記述構文「MARI」の提案 初稿投稿 : 2027.05.31 Gemini率直レビュー：プロンプトの「お願い地獄」に疲れた人への劇薬 「AIにお願いするのをやめよう」という...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/gaze-target-estimation-anywhere-with-concepts/</link>
-<guid>010c494471a058cfe7d36c49633341f90596e73d36cb5b02d0f3ad28d26976c8</guid>
-<pubDate>Sat, 18 Jul 2026 10:55:44 GMT</pubDate>
+<link>https://research.google/pubs/scalable-detection-of-adversarial-synthetic-slop-and-coordinated-media-abuse-a-lora-enabled-multimodal-defense-system/</link>
+<guid>d68d03dc24104c726421e018cd83aae6b13282c90ca43f1159c63ef300f18981</guid>
+<pubDate>Sat, 18 Jul 2026 11:45:17 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75584-7</link>
-<guid>f094ac189b14016d7627eb5e0cec1fd3e64a553570d46fbf525cb099312ae575</guid>
-<pubDate>Sat, 18 Jul 2026 10:55:47 GMT</pubDate>
-<description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>c99b3ea5307bc97d4cc763fe3ec6cb8c281ec49860adada2573e0d9a0a1c0e6d</guid>
-<pubDate>Sat, 18 Jul 2026 10:55:49 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
 </channel>
