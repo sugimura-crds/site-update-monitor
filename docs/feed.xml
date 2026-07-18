@@ -4,48 +4,48 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 18 Jul 2026 06:27:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 08:16:35 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「コンテキストエンジニアリング」入門 — プロンプトの次に来るAI活用の新パラダイム</title>
-<link>https://qiita.com/fuji1009_REBELL/items/6f090449bc636240af61</link>
-<guid>a5aaa00db8b39b6f84d8dbbeae6f24eefbf954bee2d025d618e6cd3ca90d69e1</guid>
-<pubDate>2026-07-18T15:12:25+09:00</pubDate>
-<description>同じLLMに同じ質問をしても、返ってくる答えの質がまるで違う——そんな経験はないでしょうか。 私はAIエージェント環境を1年ほど個人で運用してきて、精度を左右していたのはプロンプトの言い回しではなく、そのモデルが何を見せられているか、つまり「コンテキストの設計」だと確信する...</description>
+<title>【Qiita】 そのSQL、本当に大丈夫？実務で意識したい5つの基本ルール</title>
+<link>https://qiita.com/T-furukubo/items/3ace375e1b8aafd014a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>b4ffbbb926afe4fc33a6cc41bb4b8a1710be1f76d54ca8d30e28a5f73cb8158b</guid>
+<pubDate>2026-07-17T10:25:37+09:00</pubDate>
+<description>目次 はじめに SELECT * を多用しない WHERE句を意識する ORDER BYを書こう NULLの扱いを理解する エイリアスを活用する まとめ SQLを書く前に知っておきたい5つの基本ルール はじめに SQLはデータベースを扱ううえで欠かせない言語ですが...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeで「AI秘書」を構築する全手順 — CLAUDE.md設計からマルチエージェントまで</title>
-<link>https://qiita.com/fuji1009_REBELL/items/041a1eb05dfd9c298f50</link>
-<guid>1d2117b09c70f57b0727db78dbf93e3bc37b10a1d768632a5d06eb8e6729caf4</guid>
-<pubDate>2026-07-18T15:11:04+09:00</pubDate>
-<description>以前、Claude Codeの上に「AI秘書」を自作した話を実装Tips集として書きました。今回はその上位互換です。Tipsのつまみ食いではなく、同じシステムをゼロから組み上げるときに私が辿る手順を、構築順に通しで書きます。 対象読者は「Claude Codeは使っているが...</description>
+<title>【Qiita】 国の財布は家計と何が違うのか？ ― 財源・国債・人手不足・移民政策までつながる経済のしくみ : Pythonで学ぶ マクロ経済学入門 (100)</title>
+<link>https://qiita.com/maskot1977/items/6d20de8c7d863ec95460?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>197d957630f3594950ac4781be40a14a7fc9029bb92f1b96539ca7db1e5e36fb</guid>
+<pubDate>2026-07-18T00:01:16+09:00</pubDate>
+<description>user: 「Pythonで学ぶマクロ経済学入門」、第100回を始めましょう。まず前回の復習として、 「スイス『民間防衛』に学ぶ、自国を守る経済とは ― 財源幻想を超えて考える日本のレジリエンス : Pythonで学ぶ マクロ経済学入門 (99)」 https://qi...</description>
 </item>
 <item>
-<title>【Qiita】 IBM BobのSubTaskとSubAgentの違いと利用する際の注意点</title>
-<link>https://qiita.com/yanagih/items/bf93d65a1ab1f6eeeb10</link>
-<guid>30adafe37f7c9276aea059e61888bdbc5f51fe43110d3cd8d8738f14b03b2052</guid>
-<pubDate>2026-07-18T14:19:29+09:00</pubDate>
-<description>本記事は 2026年7月18日 時点における個人の見解です。AIエージェントツールの仕様は急速に変化するため、最新の公式ドキュメントも合わせてご確認ください。 はじめに Bobなどのエージェント型AIツールを使っていると、SubTask（サブタスク） と SubA...</description>
+<title>【Qiita】 【徹底解説】文系でもわかる！機械学習に入門しよう</title>
+<link>https://qiita.com/miruky/items/42b892805eb1d754109c</link>
+<guid>882dfd8e09d6b2f88adf7602a81f0f0282a6dd76f3aee06315aacac38eabeafe</guid>
+<pubDate>2026-07-18T17:14:07+09:00</pubDate>
+<description>はじめに こんばんは、元ゴリゴリ文系（ゴリ文）のmirukyです。 機械学習、と聞くと「うげっ」と拒否反応を示す半年前の自分がいました。大学でCS（コンピューターサイエンス）を専攻している人の領分だという勝手なイメージと、複雑な数式が無限に出てくる先入観があったためです...</description>
 </item>
 <item>
-<title>【Qiita】 AI Agent導入で変わるITIL運用 CapacityとAvailabilityをどう管理するか</title>
-<link>https://qiita.com/lufraisjp/items/fee0060c60e1bf8d2c4b</link>
-<guid>a07c95cec9912db747eaeb4409e54135c44f7651e4046d55c883660fa33e95e8</guid>
-<pubDate>2026-07-18T14:15:55+09:00</pubDate>
-<description>はじめに 近年、多くの企業がAI Agentの導入を進めています。 Microsoft CopilotやServiceNow AI Agentなどの登場により、AIは単なるチャットボットから「業務を実行する主体」へと進化しています。 こうしたAI Agentの普及は、IT...</description>
+<title>【Qiita】 これなら出来る、LLM用マシン</title>
+<link>https://qiita.com/KazuhisaFujita/items/eba8394074d0af257993</link>
+<guid>6a63d4ad849128ca160691b52c0afaea3042c159deebafa35edd19618b80abfa</guid>
+<pubDate>2026-07-18T17:09:13+09:00</pubDate>
+<description>2026年に入り、オープンウェートLLMの性能が急速に向上し、artificialanalysis.aiによればローカルで動かす事のできるQwen3.6 27BはGPT-5(medium)を超える性能を示しています。これほどの性能になると、ローカルで動かすLLM、ローカルL...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/an-improved-entropy-measure-for-web-browser-fingerprinting-risk-2/</link>
-<guid>8319c7c2cce78f9fa61276cc4082d4c86a1eb391c9719641527b47d2c88881fa</guid>
-<pubDate>Sat, 18 Jul 2026 06:26:34 GMT</pubDate>
+<link>https://research.google/pubs/pixel-watch-robust-heart-rate-sensing-from-multipath-ppg-and-on-device-deep-learning-trained-on-10000-hours-of-free-living-and-fitness-data/</link>
+<guid>15d1739284dc451ccf9df2e2310e3bf5a791a474e0a3d6aa0314d8376d25af11</guid>
+<pubDate>Sat, 18 Jul 2026 08:15:35 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75584-7</link>
-<guid>d8ded4d100d722e5bdec30d1e56294d33ad1b373c94513d064e3003c122d32f3</guid>
-<pubDate>Sat, 18 Jul 2026 06:26:36 GMT</pubDate>
+<guid>f981cd68206c914f66dd17840eabac26988b96f8bb456be7885c639993c4b495</guid>
+<pubDate>Sat, 18 Jul 2026 08:15:37 GMT</pubDate>
 <description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
 </item>
 
