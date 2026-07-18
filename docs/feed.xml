@@ -4,14 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 18 Jul 2026 19:40:43 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 20:38:51 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 AIエージェントのためのDocker Sandboxes実践入門</title>
+<link>https://qiita.com/minamijoyo/items/854ce04da1490b43a848?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>7f697c179593b041c537b9adf69de58d37048a76f2c3176a93c0b4deb35b7de4</guid>
+<pubDate>2026-07-17T19:25:00+09:00</pubDate>
+<description>はじめに AIエージェントのコーディング環境として、Docker Sandboxesを使っています。 本稿執筆時点ではまだExperimentalな扱いなので、まとめ記事を書くタイミングが難しいのだけど、とは言え「やってみた」以上の情報がまだまだWeb上に少なく、周りに勧...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/scalable-detection-of-adversarial-synthetic-slop-and-coordinated-media-abuse-a-lora-enabled-multimodal-defense-system/</link>
-<guid>f4b9c87963d78840bc876c1c1bbcc31532fcbaa39c48e7f1001cb34e2f543306</guid>
-<pubDate>Sat, 18 Jul 2026 19:39:42 GMT</pubDate>
+<link>https://research.google/pubs/the-synthetic-gap-automating-forensic-investigation-of-ai-slop-with-the-scaled-abuse-forensics-examiner-safe/</link>
+<guid>0f0c88a10b92be41af9bc56313c0b43dfcb56af7d247be23a39b54fce677fa5c</guid>
+<pubDate>Sat, 18 Jul 2026 20:37:44 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75584-7</link>
+<guid>c7b43087d71b1ad8733160334ca5d1046b1e2b92b1b79a77e66a345db5354ac0</guid>
+<pubDate>Sat, 18 Jul 2026 20:37:48 GMT</pubDate>
+<description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
 </item>
 
 </channel>
