@@ -4,28 +4,36 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 18 Jul 2026 20:38:51 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 21:41:49 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントのためのDocker Sandboxes実践入門</title>
-<link>https://qiita.com/minamijoyo/items/854ce04da1490b43a848?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>7f697c179593b041c537b9adf69de58d37048a76f2c3176a93c0b4deb35b7de4</guid>
-<pubDate>2026-07-17T19:25:00+09:00</pubDate>
-<description>はじめに AIエージェントのコーディング環境として、Docker Sandboxesを使っています。 本稿執筆時点ではまだExperimentalな扱いなので、まとめ記事を書くタイミングが難しいのだけど、とは言え「やってみた」以上の情報がまだまだWeb上に少なく、周りに勧...</description>
+<title>【Qiita】 Claude Code と組んで複数のKaggleコンペを回すための運用テンプレートを作った tags:</title>
+<link>https://qiita.com/togakyo/items/db5c6332c740ccd64c19</link>
+<guid>7271fb11a207167ec69f200c5f103f496065f7fafcb1acd3de6b16c4d34b0397</guid>
+<pubDate>2026-07-19T06:36:19+09:00</pubDate>
+<description>TL;DR 複数の Kaggle コンペを Claude Code（AnthropicのAIエージェントCLI）と共同で 同じ流儀で回すための運用テンプレートを作って公開しました。 キモは CLAUDE.md＝AIエージェントへの常時有効な指示書。フォルダ構成・提出手順...</description>
+</item>
+<item>
+<title>【Qiita】 受託PM10年の自分が『人月の死』を肌で感じでしまった話</title>
+<link>https://qiita.com/enomoso_pm/items/322286d2f1c16eca7459</link>
+<guid>915b50bcc6bc08145281ba02973231d3befeb034bd8f86e169b1f7382241df84</guid>
+<pubDate>2026-07-19T06:35:34+09:00</pubDate>
+<description>受託PM10年の自分が『人月の死』を肌で感じでしまった話 何が起きたか 本番で稼働しているネイティブアプリを、まるごとブラウザで動くWeb版に作り直す仕事があった。仕様を読んだ実装担当のエンジニアが見積もって、フロントエンドの実装だけで約40人日。APIの組み込みまで入...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/the-synthetic-gap-automating-forensic-investigation-of-ai-slop-with-the-scaled-abuse-forensics-examiner-safe/</link>
-<guid>0f0c88a10b92be41af9bc56313c0b43dfcb56af7d247be23a39b54fce677fa5c</guid>
-<pubDate>Sat, 18 Jul 2026 20:37:44 GMT</pubDate>
+<link>https://research.google/pubs/it-didnt-feel-right-but-i-needed-a-job-so-desperately-understanding-peoples-emotions-help-needs-during-financial-scams-2/</link>
+<guid>bc0402b43ec2aa6942a779b4a25550aa4baf6eab474f3226dfe7d43827c6b5fc</guid>
+<pubDate>Sat, 18 Jul 2026 21:40:45 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75584-7</link>
-<guid>c7b43087d71b1ad8733160334ca5d1046b1e2b92b1b79a77e66a345db5354ac0</guid>
-<pubDate>Sat, 18 Jul 2026 20:37:48 GMT</pubDate>
-<description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>e5fa21fb278130dd3cc5793a1231849a831bdf21df5d3abc34b3c4d645c05b8b</guid>
+<pubDate>Sat, 18 Jul 2026 21:41:31 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
