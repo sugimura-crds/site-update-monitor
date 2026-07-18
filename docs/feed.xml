@@ -4,21 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 18 Jul 2026 16:26:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 17:28:37 GMT</lastBuildDate>
 
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/approximate-vs-precise-an-experiment-in-what-impacts-user-choice-when-apps-request-location-access/</link>
-<guid>7ad180429c6df6ca9096be287e1a5b6024d86248d9e4e3ae2aa957e4d9409e88</guid>
-<pubDate>Sat, 18 Jul 2026 16:25:33 GMT</pubDate>
+<link>https://research.google/pubs/guide-a-benchmark-for-user-context-understanding-and-assistance-in-gui-workflow-videos/</link>
+<guid>4a83605925b187f406edddc04507cc6da48b4b02a379be4674219ae1eb0e05a0</guid>
+<pubDate>Sat, 18 Jul 2026 17:28:01 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75584-7</link>
-<guid>56cb2d95e39c7cff445c1f27a2b13f43b76d2377fc61c6df10d6fea4134df658</guid>
-<pubDate>Sat, 18 Jul 2026 16:25:36 GMT</pubDate>
-<description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02994-8</link>
+<guid>eb0b16da5ceb677b919055fd88b87fc253643fb67c899a3a5416b34a7ea43e88</guid>
+<pubDate>Sat, 18 Jul 2026 17:28:08 GMT</pubDate>
+<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>7e1ecac484bceec0e88cbdbe98888978f62f25e8781201a81a2cbd6e400f140b</guid>
+<pubDate>Sat, 18 Jul 2026 17:28:21 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
