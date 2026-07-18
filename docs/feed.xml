@@ -4,28 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 18 Jul 2026 22:40:06 GMT</lastBuildDate>
+<lastBuildDate>Sat, 18 Jul 2026 23:43:25 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 実装して理解するマルチエージェントのデザインパターン - ①: AgentCoder - コード実装とテスト設計の分離</title>
-<link>https://qiita.com/Koukyosyumei/items/d496148c5a68ae486de1</link>
-<guid>5d4b0a4ffa04bc3180a12374012b4a46c9faa3aaa3a223398e5a68d27cd601e8</guid>
-<pubDate>2026-07-19T06:57:50+09:00</pubDate>
-<description>コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。 本連載では、Claude CodeやCodexを使い、さまざまなマルチエージェント研究のワークフローをh5i-python SDKで再実装します。役割分担、レビュー、投票、合議...</description>
+<title>【Qiita】 Google Cloudで考えるAIエージェント時代のゼロトラストセキュリティ</title>
+<link>https://qiita.com/asayan_mana/items/55625009263127120247</link>
+<guid>d4fccfc85541fd57de87d9c28dd7400f1b77a04a447fda76228631559001fbcf</guid>
+<pubDate>2026-07-19T08:26:52+09:00</pubDate>
+<description>はじめに AI エージェントが、人間の代わりに自律的にデータを読み、ツールを呼び出し、他のエージェントと連携して作業を進める。そんな時代が現実になりました。便利な一方で、セキュリティの観点では大きな不安が生まれます。「自律的に動く存在に、どこまでアクセスを許してよいのか」...</description>
+</item>
+<item>
+<title>【Qiita】 git worktree でコーディングエージェントを並列実行する開発環境の作り方</title>
+<link>https://qiita.com/maccotaro/items/dbcc220c4cd7ae32b01d</link>
+<guid>37a4ba38ef3df92612c272ae6eb17b23de1832ce498f751aa2274e9105fa6da5</guid>
+<pubDate>2026-07-19T07:43:03+09:00</pubDate>
+<description>📝 この記事は forge.workstyle.tech に掲載した記事の転載です。 複数のコーディングエージェント（Claude Code や Codex など）を試していると、こんな悩みに突き当たります。「同じリポジトリで別々のタスクを同時に進めたいが、作業が互いに...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/guide-a-benchmark-for-user-context-understanding-and-assistance-in-gui-workflow-videos/</link>
-<guid>9607cd7a85f37157a2376d53097e53ca68fe56d6f244a3996ba0757f4823443d</guid>
-<pubDate>Sat, 18 Jul 2026 22:39:05 GMT</pubDate>
+<link>https://research.google/pubs/unified-management-system-for-a-hybrid-workforce-of-human-and-computational-agents/</link>
+<guid>63d3a9f047aaa68c64520ed5dab4bcefc9a4bb98b27c5e49a4a81c333ea7c515</guid>
+<pubDate>Sat, 18 Jul 2026 23:42:42 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75584-7</link>
-<guid>e725c503723731c918bf6f4e77419c73e9c5e8b94b901e5161b7d2045f0b6a05</guid>
-<pubDate>Sat, 18 Jul 2026 22:39:08 GMT</pubDate>
-<description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
 </item>
 
 </channel>
