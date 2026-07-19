@@ -4,63 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 19 Jul 2026 05:13:07 GMT</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 07:38:14 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 11 ]：BGM・効果音の実装</title>
-<link>https://qiita.com/OnuuuumaX/items/b2872920f308f64fc525</link>
-<guid>35f0e8bcf78adc399a1474658352bdf6427f23ef3bc061cb3c23252d24f05192</guid>
-<pubDate>2026-07-19T11:36:06+09:00</pubDate>
-<description>はじめに 前回の記事ではアイテム使用システムを実装しました。今回はそろそろ耳が寂しくなってきましたので、BGMと効果音（SE）を追加します。AudioEngine を使ったシーンごとのBGM切り替えと、ギミック・アイテム操作に連動した効果音の実装を行います。 第１回【...</description>
+<title>【Qiita】 eveでSlackで動くAIエージェントがすぐ作れたが、ハマりどころとセキュリティ懸念もあった</title>
+<link>https://qiita.com/peka2/items/03a5d65c9a401cde19a3</link>
+<guid>ab115e3fed77dd325e347963db6ff9b61cbb178e99ca85c2a3b9fbbdd180319e</guid>
+<pubDate>2026-07-19T16:11:31+09:00</pubDate>
+<description>最近 eve という Vercel 製の AI エージェントフレームワークで、社内向けの Slack BOT として動くAIエージェントをいくつか作りました 簡単なものならほとんどコードを書かずに、決められたファイルを自然言語で書くだけで AI エージェントが作れます ロー...</description>
 </item>
 <item>
-<title>【Qiita】 AI を使うほど強くなる企業は何が違うのか？ 「トークン資本」と Learning Loop で育てる知の基盤</title>
-<link>https://qiita.com/aktsmm/items/7285c83f684b1582a741</link>
-<guid>c953ba9cdeea3e96c8d979cfa4856ec5a7d8cd09d34b2fbbbf0a63be8ed7219f</guid>
-<pubDate>2026-07-19T13:09:20+09:00</pubDate>
-<description>こんにちは、AI に同じ説明を繰り返して「これ、前にもやったな」となりがちなアーキテクトのやまぱん！です 😅 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ TL;DR AI を使うほど強くなる企業は、成果物だけでなく、...</description>
+<title>【Qiita】 git pull だけでチーム全員の Claude Code が賢くなる ― スキルとナレッジを1リポジトリで配る AI ワークフロー基盤</title>
+<link>https://qiita.com/umezu_y/items/2b09fad5f2a96542f891</link>
+<guid>5560172acb7c825e4003eaa5aa5035ae4119c34860d77cbdb900da73dea3de94</guid>
+<pubDate>2026-07-19T15:58:26+09:00</pubDate>
+<description>はじめに Claude Code をチームで使っていると、配りたいものが2種類出てきます。 スキル（/xxx で呼び出すカスタムワークフロー） ナレッジ（LLM が知らないドメイン知識 ― マイナーな SDK のドキュメント、API リファレンス、実装で得たノウハ...</description>
 </item>
 <item>
-<title>【Qiita】 自分の本当の気持ちに従えないやつほど愚かな存在はいない</title>
-<link>https://qiita.com/genkun/items/ae87d7a790fb3843a954</link>
-<guid>ac7ee325d92fd71a6f9c78b306c97e79bcbf5030e049b52267f9abda173566ec</guid>
-<pubDate>2026-07-19T14:09:19+09:00</pubDate>
-<description>内なる欲求、それはどんな形でどんな言葉で、どんな風なイメージで表現がされようと、 それは己のうちから吐き出された存在する愛のカタチ。 それを理性的な脳のジャッジによる抑制でそれを止めた春化に、それは途切れてしまう。 脳の妄想が本当の想いを止めたら、本当の想いは感じられなくな...</description>
+<title>【Qiita】 「Claude Code」「Codex」「Gemini」の3大AIエージェントを同時に飼い慣らす、近未来のソロ開発ワークフロー</title>
+<link>https://qiita.com/QuQuLa89/items/12da2d124c28dad2cc89</link>
+<guid>d511996a90ace32ca21a9d08cce13722568d94cd808b24c1d0bda5d80e03b895</guid>
+<pubDate>2026-07-19T15:24:42+09:00</pubDate>
+<description>はじめに：1体のAIチャットに頼る時代の終わり ChatGPTやClaude、Geminiといった優秀なLLM（大規模言語モデル）の登場により、私たちのプログラミング環境は劇的に変化しました。しかし、ブラウザのチャットUIにコードを貼り付けて「このエラーを直して」と頼むだ...</description>
 </item>
 <item>
-<title>【Qiita】 AIに「まだ誰もやっていない場所」を探させる ― 思考フレームワーク×制約充足のOSS「hariana(針穴)」の思想と使い方</title>
-<link>https://qiita.com/yu-hana/items/e6db776d9aca671cab48</link>
-<guid>3faa81a36f6bc9921ea00a0ce224e1d7bfbcb67fdd8598e0222e3c1ca9bf58fe</guid>
-<pubDate>2026-07-19T11:42:51+09:00</pubDate>
-<description>はじめに AIにアイデア出しを頼むと、だいたいこうなります。 なにを言っても「素晴らしいアイデアですね!」と褒めてくる それっぽいけど、物理的に無理な理想論が混ざってくる 調べてみたら、とっくに世の中にある物だった つまりAIは、アイデアを出すのは得意でも、疑うのが苦...</description>
+<title>【Qiita】 Agent、Agent Runtime、Agent Platformの違いを、「作業者」「仕事場」「会社」という例えで整理してみた</title>
+<link>https://qiita.com/engchina/items/409dfaaf4ffe4a288186</link>
+<guid>d1122f631412bcb3283b005f8fa6abcd2cf97af6c89a5ef1fe93f5e263c4af13</guid>
+<pubDate>2026-07-19T14:48:17+09:00</pubDate>
+<description>初めに 生成AI関連の資料を読んでいると、次のような言葉がよく登場します。 Agent Agent Runtime Agent Platform MCP Skills Memory どれも似た文脈で使われるため、最初は違いが分かりにくいです。 今回は、Agent、Ag...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/cardio-load-in-exercise-and-everyday-life-a-modified-trimp-metric-for-continuously-sensing-consumer-wearables/</link>
-<guid>679338f65911ab2a0c7a44949ba275d5b61e59af1f16bfe01776eb3b1c23267f</guid>
-<pubDate>Sun, 19 Jul 2026 05:12:04 GMT</pubDate>
+<link>https://research.google/pubs/an-improved-entropy-measure-for-web-browser-fingerprinting-risk-2/</link>
+<guid>27424d41c8f2f16f1d9097d4ff3401bcb0b0fcdace0200a4956c4e533009a8f8</guid>
+<pubDate>Sun, 19 Jul 2026 07:37:41 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75584-7</link>
-<guid>98aa4312d4cba37295adc30e0a19161949160bc37695fcb8bb0c5cb4adc7fab6</guid>
-<pubDate>Sun, 19 Jul 2026 05:12:07 GMT</pubDate>
+<guid>8d34a1c986e372a80b34db8995093aa118302ffeb4d99fca024c5fd16799bdb0</guid>
+<pubDate>Sun, 19 Jul 2026 07:37:44 GMT</pubDate>
 <description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>536ee5aa7ed74787ae9aaf42e341898e7baf034b86f30b14ccdd31a3d829fbe3</guid>
-<pubDate>Sun, 19 Jul 2026 05:12:09 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>5291e0d4978ba4b2c068d353b63fa492ccb1692092024893f5b11f4356b3aa2a</guid>
-<pubDate>Sun, 19 Jul 2026 05:12:09 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>10cd17656a81b9b1bae90b1e93c06a5c0b47a991abb84c73efef633f9e95c98c</guid>
+<pubDate>Sun, 19 Jul 2026 07:37:59 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
