@@ -4,28 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 18 Jul 2026 23:43:25 GMT</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 01:47:09 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Google Cloudで考えるAIエージェント時代のゼロトラストセキュリティ</title>
-<link>https://qiita.com/asayan_mana/items/55625009263127120247</link>
-<guid>d4fccfc85541fd57de87d9c28dd7400f1b77a04a447fda76228631559001fbcf</guid>
-<pubDate>2026-07-19T08:26:52+09:00</pubDate>
-<description>はじめに AI エージェントが、人間の代わりに自律的にデータを読み、ツールを呼び出し、他のエージェントと連携して作業を進める。そんな時代が現実になりました。便利な一方で、セキュリティの観点では大きな不安が生まれます。「自律的に動く存在に、どこまでアクセスを許してよいのか」...</description>
-</item>
-<item>
-<title>【Qiita】 git worktree でコーディングエージェントを並列実行する開発環境の作り方</title>
-<link>https://qiita.com/maccotaro/items/dbcc220c4cd7ae32b01d</link>
-<guid>37a4ba38ef3df92612c272ae6eb17b23de1832ce498f751aa2274e9105fa6da5</guid>
-<pubDate>2026-07-19T07:43:03+09:00</pubDate>
-<description>📝 この記事は forge.workstyle.tech に掲載した記事の転載です。 複数のコーディングエージェント（Claude Code や Codex など）を試していると、こんな悩みに突き当たります。「同じリポジトリで別々のタスクを同時に進めたいが、作業が互いに...</description>
-</item>
-<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/unified-management-system-for-a-hybrid-workforce-of-human-and-computational-agents/</link>
-<guid>63d3a9f047aaa68c64520ed5dab4bcefc9a4bb98b27c5e49a4a81c333ea7c515</guid>
-<pubDate>Sat, 18 Jul 2026 23:42:42 GMT</pubDate>
+<link>https://research.google/pubs/a-framework-for-interactive-machine-learning-and-enhanced-conversational-systems/</link>
+<guid>9b4007c9aa5bc7c3e2c2c33b81bbc8788e8ee83ef7c8d5273e42e3df0797cbf3</guid>
+<pubDate>Sun, 19 Jul 2026 01:45:59 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02994-8</link>
+<guid>63f025cd357a03668dc2d4242e5eb1782517accbb1eeb69c808c6f6271ed859c</guid>
+<pubDate>Sun, 19 Jul 2026 01:46:08 GMT</pubDate>
+<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
 </item>
 
 </channel>
