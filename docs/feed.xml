@@ -4,56 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 19 Jul 2026 07:38:14 GMT</lastBuildDate>
+<lastBuildDate>Sun, 19 Jul 2026 09:45:21 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 eveでSlackで動くAIエージェントがすぐ作れたが、ハマりどころとセキュリティ懸念もあった</title>
-<link>https://qiita.com/peka2/items/03a5d65c9a401cde19a3</link>
-<guid>ab115e3fed77dd325e347963db6ff9b61cbb178e99ca85c2a3b9fbbdd180319e</guid>
-<pubDate>2026-07-19T16:11:31+09:00</pubDate>
-<description>最近 eve という Vercel 製の AI エージェントフレームワークで、社内向けの Slack BOT として動くAIエージェントをいくつか作りました 簡単なものならほとんどコードを書かずに、決められたファイルを自然言語で書くだけで AI エージェントが作れます ロー...</description>
+<title>【Qiita】 バイブコーディング(笑) と言われないための考え方</title>
+<link>https://qiita.com/fallout/items/d732b94ff0f68c5cd1ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>5372437919c8c950295ff19989a4182b07973c85d66b986e83978d60e18907b5</guid>
+<pubDate>2026-07-17T16:56:50+09:00</pubDate>
+<description>「(笑)」を最初に付けたのは Karpathy 本人 2025年2月2日の Andrej Karpathy のポスト（原文）: I &quot;Accept All&quot; always, I don&#x27;t read the diffs anymore. (...) It&#x27;s not ...</description>
 </item>
 <item>
-<title>【Qiita】 git pull だけでチーム全員の Claude Code が賢くなる ― スキルとナレッジを1リポジトリで配る AI ワークフロー基盤</title>
-<link>https://qiita.com/umezu_y/items/2b09fad5f2a96542f891</link>
-<guid>5560172acb7c825e4003eaa5aa5035ae4119c34860d77cbdb900da73dea3de94</guid>
-<pubDate>2026-07-19T15:58:26+09:00</pubDate>
-<description>はじめに Claude Code をチームで使っていると、配りたいものが2種類出てきます。 スキル（/xxx で呼び出すカスタムワークフロー） ナレッジ（LLM が知らないドメイン知識 ― マイナーな SDK のドキュメント、API リファレンス、実装で得たノウハ...</description>
+<title>【Qiita】 日刊IETF (2026-06-21) ML-KEMハイブリッドの行方とトークンを接続へ縛るOAuth新提案</title>
+<link>https://qiita.com/tetsuko_room/items/50f821375df6e62f2ca9</link>
+<guid>200630c635afa5a2234b4f042e4dbac6a9f3dc674916dab93d36e89e7c34552d</guid>
+<pubDate>2026-07-19T17:26:36+09:00</pubDate>
+<description>こんにちは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-21（UTC基準）に公開されたInte...</description>
 </item>
 <item>
-<title>【Qiita】 「Claude Code」「Codex」「Gemini」の3大AIエージェントを同時に飼い慣らす、近未来のソロ開発ワークフロー</title>
-<link>https://qiita.com/QuQuLa89/items/12da2d124c28dad2cc89</link>
-<guid>d511996a90ace32ca21a9d08cce13722568d94cd808b24c1d0bda5d80e03b895</guid>
-<pubDate>2026-07-19T15:24:42+09:00</pubDate>
-<description>はじめに：1体のAIチャットに頼る時代の終わり ChatGPTやClaude、Geminiといった優秀なLLM（大規模言語モデル）の登場により、私たちのプログラミング環境は劇的に変化しました。しかし、ブラウザのチャットUIにコードを貼り付けて「このエラーを直して」と頼むだ...</description>
-</item>
-<item>
-<title>【Qiita】 Agent、Agent Runtime、Agent Platformの違いを、「作業者」「仕事場」「会社」という例えで整理してみた</title>
-<link>https://qiita.com/engchina/items/409dfaaf4ffe4a288186</link>
-<guid>d1122f631412bcb3283b005f8fa6abcd2cf97af6c89a5ef1fe93f5e263c4af13</guid>
-<pubDate>2026-07-19T14:48:17+09:00</pubDate>
-<description>初めに 生成AI関連の資料を読んでいると、次のような言葉がよく登場します。 Agent Agent Runtime Agent Platform MCP Skills Memory どれも似た文脈で使われるため、最初は違いが分かりにくいです。 今回は、Agent、Ag...</description>
+<title>【Qiita】 LangGraphで「経営サポートAI」の返答ブレを減らす - State / Node / Conditional Edgeを仕事に応用する</title>
+<link>https://qiita.com/miyaguchi_kioku/items/3e0a70ef2c31dbd554d0</link>
+<guid>2613fe28803eb270c225677591b3c24d7ee976345bedcbb2011ee05ca8f6b918</guid>
+<pubDate>2026-07-19T18:41:57+09:00</pubDate>
+<description>はじめに 前回の記事では、LangGraphの State と Conditional Edge をブラウザで見える化し、AIエージェントの処理の流れを理解しやすくする方法を書きました。 前回記事: 今回はその続編として、同じ考え方を 経営サポートAI に応用しまし...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/an-improved-entropy-measure-for-web-browser-fingerprinting-risk-2/</link>
-<guid>27424d41c8f2f16f1d9097d4ff3401bcb0b0fcdace0200a4956c4e533009a8f8</guid>
-<pubDate>Sun, 19 Jul 2026 07:37:41 GMT</pubDate>
+<link>https://research.google/pubs/agentic-trend-to-knowledge-a-methodology-for-automating-case-deflection-through-proactive-content-surfacing-in-enterprise-employee-support/</link>
+<guid>19b3fb0dcb0f2acad833dcafd3729eff655ce912e0b1297a39961b284eae0be5</guid>
+<pubDate>Sun, 19 Jul 2026 09:44:40 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75584-7</link>
-<guid>8d34a1c986e372a80b34db8995093aa118302ffeb4d99fca024c5fd16799bdb0</guid>
-<pubDate>Sun, 19 Jul 2026 07:37:44 GMT</pubDate>
+<guid>0a19e2a653513108c00b1623faf188684b3b341eb97fd1a4dffb1820ead562fb</guid>
+<pubDate>Sun, 19 Jul 2026 09:44:43 GMT</pubDate>
 <description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>10cd17656a81b9b1bae90b1e93c06a5c0b47a991abb84c73efef633f9e95c98c</guid>
-<pubDate>Sun, 19 Jul 2026 07:37:59 GMT</pubDate>
+<guid>dca1c089ce033dee9b86bbefaa47b624111657b5c578fdaaab48a7db6b10e13d</guid>
+<pubDate>Sun, 19 Jul 2026 09:45:05 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
