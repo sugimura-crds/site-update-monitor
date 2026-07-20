@@ -4,98 +4,91 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 20 Jul 2026 10:42:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 13:01:29 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 個人開発でApp Storeリリースフローを学ぶ ― UIKit + FastAPI + K8sで作るMinecraftサーバー監視アプリ「MineWatch」</title>
-<link>https://qiita.com/jqit-yukiono/items/d33908602fd060f5e1d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>5b015a079f5336aa90bb0a2779d11c9e452dd673b3c334cce93fb213959e966c</guid>
-<pubDate>2026-07-20T08:56:10+09:00</pubDate>
-<description>個人開発でApp Storeリリースフローを学ぶ ― UIKit + FastAPI + K8sで作るMinecraftサーバー監視アプリ「MineWatch」 自宅や友人と運営しているMinecraft Java Editionサーバーって、遊びたいときに限って落ちてた...</description>
+<title>【Qiita】 [Ansible Automation Platform コンテナ版] Manual プロジェクトの playbook がジョブテンプレートに表示されない原因と対処(SELinux container_file_t)</title>
+<link>https://qiita.com/c_u/items/c87a156d3338ca22ce73</link>
+<guid>65de90dece100ed85dab7ed641dc2a323cda6031124e773e816f9b700548d820</guid>
+<pubDate>2026-07-20T21:16:47+09:00</pubDate>
+<description>はじめに Ansible Automation Platform (AAP) のコンテナ版インストール環境で、プロジェクトのソースコントロールタイプを Manual にして playbook を手動配置したところ、プロジェクト・フォルダにファイルは存在しているのに、ジョブ...</description>
 </item>
 <item>
-<title>【Qiita】 Jenkins から TestFlight へ ― Mac 1 台で iOS リリースを半自動化した話</title>
-<link>https://qiita.com/jqit-yukiono/items/1ebffa98b9ff2dca7a9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>d478e567bc397afeac0f6512442a96646173df6aae2c2c56663b59a5b534c3a2</guid>
-<pubDate>2026-07-20T08:56:09+09:00</pubDate>
-<description>Jenkins から TestFlight へ ― Mac 1 台で iOS リリースを半自動化した話 個人開発の iOS アプリを TestFlight に上げるたびに、xcodebuild archive → ipa 化 → validate → upload を手元...</description>
+<title>【Qiita】 巨大テック企業に淘汰されないためのAI戦略──勝負を分ける「データ・フライホイール」</title>
+<link>https://qiita.com/sghr20/items/643c8001eb1504c741f0</link>
+<guid>26c0dfb25e8a4764085851d7435ec8d527ee17d2a5fad25d1e71b941b867d324</guid>
+<pubDate>2026-07-20T21:51:07+09:00</pubDate>
+<description>「この機能、次のChatGPTに標準搭載されたら終わりでは？」 AIサービスを作る人なら、一度はこの不安を感じたことがあるはずです。 文章生成、要約、検索、画像認識、音声入力。 昨日までスタートアップの独自機能だったものが、ある日突然、OpenAIやGoogleの新機能とし...</description>
 </item>
 <item>
-<title>【Qiita】 # AIエージェントが生成した監査コードに潜んでいた「未来を見てしまうバグ」</title>
-<link>https://qiita.com/0903osa/items/017c3d9dabf00a60c209</link>
-<guid>4255325d1a055564b862f3ab3c6dc9a68b0aaaa5a4f72b1ee579966ea20805c0</guid>
-<pubDate>2026-07-20T19:23:45+09:00</pubDate>
-<description>本記事では、生成AIにantigravity CLIを使用しました。 金融監査AIのサンプルコードをAIエージェントに生成させたら、コードは正しく動くのに不正取引を検知できないバグが埋まっていた 原因はロジックではなく、モックデータの中に「これから検知すべき異常」が事前に...</description>
+<title>【Qiita】 学習データが枯渇しそうと聞いていたのに、LLMはなぜまだ賢くなるのか</title>
+<link>https://qiita.com/dachshund129/items/ac341704ab7632ac6469</link>
+<guid>5813898734bfe71c2a08ff2216b682f9da9c02bb0b0ede6f8cd0f6b4886b092e</guid>
+<pubDate>2026-07-20T21:24:41+09:00</pubDate>
+<description>こんばんは、ダックスフントです。 LLM が誕生してから、毎月のように「過去最高性能」をうたうモデル（特に Claude、GPT、Gemini）が発表され、発表のたびにベンチマークのグラフが更新されていきます。一方で私は、少し前に「LLM の学習に使えるデータはもうすぐ尽き...</description>
 </item>
 <item>
-<title>【Qiita】 AIの推進がうまくいかない組織アンチパターン</title>
-<link>https://qiita.com/jw-automation/items/7a2f85593a2e2ba71306</link>
-<guid>dcd1c2e19fb1fd36e8c095dd733e46d29197b4a0a4ee048c17d6a99b08ff5691</guid>
-<pubDate>2026-07-20T19:21:23+09:00</pubDate>
-<description>はじめに OpenAIによるChatGPTの公開から、早くも3年以上の月日が経ちました。 企業における生成AI活用は、2023〜2024年の試験導入のフェーズを経て、2025〜2026年にかけて、本格的な業務適用のフェーズへと移りつつあります。 特に2025年末のコーディ...</description>
+<title>【Qiita】 AIが嘘の記憶に負ける三つの条件 — 「小型」×「自信のない事実」×「断定」</title>
+<link>https://qiita.com/akihidem/items/f989c7f6cb3548970445</link>
+<guid>7574fcef8fb2006e32b012257e8b89970c2690401a18e3b57225f20069918796</guid>
+<pubDate>2026-07-20T21:00:30+09:00</pubDate>
+<description>📚 連載「AIエージェントの前置きと記憶を測る」第3回 / 全3回 連載「AIエージェントの前置きと記憶を測る」第3回・最終回。 ここまで安心材料が続いた。前置きの量は能力を食わない（第1回）。既知の確かな事実については、古い記憶も答えを歪めない。むしろモデルは偽を見抜...</description>
 </item>
 <item>
-<title>【Qiita】 OpenSpecとSpec Kitを個人開発で使い比べた — 44変更と15機能から見えた使い分け</title>
-<link>https://qiita.com/faruryo/items/87a14728299e89f80ff4</link>
-<guid>23e6b04f5bad77e2444df4927b4d896bb661025aca04fe4c71dad78a56dec375</guid>
-<pubDate>2026-07-20T18:51:26+09:00</pubDate>
-<description>AIコーディングエージェントを使うと、実装速度は上がります。一方で、会話だけで開発を続けると「なぜこの設計にしたのか」「今回どこまで変えるのか」がセッションをまたいで失われやすくなります。 そこで、2つの個人開発で仕様駆動開発（Spec-Driven Development...</description>
+<title>【Qiita】 古い記憶はAIを騙せるか — わざと嘘を記憶に仕込んで測ったら、AIは嘘を見抜いた</title>
+<link>https://qiita.com/akihidem/items/91a7325e7c3e869ffa04</link>
+<guid>82ed0251460e97fe742473692bdbf1f4790a0384ef06364bdd40a1a97b6e9808</guid>
+<pubDate>2026-07-20T21:00:01+09:00</pubDate>
+<description>📚 連載「AIエージェントの前置きと記憶を測る」第2回 / 全3回 連載「AIエージェントの前置きと記憶を測る」第2回。 前回は「量」を測り、前置きをどれだけ積んでも能力は落ちないことを確かめた。今回は「質」に踏み込む。エージェントの記憶は運用のなかで必ず古くなる。書い...</description>
 </item>
 <item>
-<title>【Qiita】 AI agent に UI を作らせるなら、browser を開けたことを完了条件にしない</title>
-<link>https://qiita.com/heftykoo/items/74b4353d386ea24b7ce1</link>
-<guid>7bd6dde409c8cd19b6b2746ed353157d67272152963936e36156c741068c4974</guid>
-<pubDate>2026-07-20T18:08:12+09:00</pubDate>
-<description>AI coding agent に frontend の修正を頼むと、最後に「ブラウザで動作確認しました」と返ってくることがあります。 その報告だけでは、review する側は困ります。どの URL を開いたのか。何を操作したのか。reload 後も state は残ったの...</description>
+<title>【Qiita】 AIエージェント概論 - 定義からアーキテクチャ・本番運用を見据えた設計まで</title>
+<link>https://qiita.com/Pretzelisa/items/b65441442c8a486d25b3</link>
+<guid>10ecb73fb15254b2f5c15b4401b652a037ac7f443581ab1b26868d57ace191c9</guid>
+<pubDate>2026-07-20T20:54:09+09:00</pubDate>
+<description>はじめに AIエージェントを取り巻く技術は日々進歩し、本番運用を見据えたHowToも見かけるようになった。 実際にAIエージェントの開発に携わり、AIエージェントの勉強会を開催する中で、AIエージェントの定義、開発手法、アーキテクチャや運用を整理したいと思い本記事を執筆し...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントを『リコール』する世界初の規制、施行したのはEUではなく中国だった</title>
-<link>https://qiita.com/emi_ndk/items/6b3a11c3e7c9ca673092</link>
-<guid>d745a774b826fe2fe895a136faf4c9d4d8274251d94294e189bdb0647c4e0975</guid>
-<pubDate>2026-07-20T18:03:28+09:00</pubDate>
-<description>2026年7月15日、AIエージェントを名指しで規制する世界初の専用枠組みが施行された。施行したのはAI Actを抱えるEUでも、フロンティアモデルの本拠地である米国でもなく、中国である。欠陥のあるエージェントは自動車のように「リコール」の対象になり、「人間にしか決められな...</description>
+<title>【Qiita】 Claude Code 2.1.212入門 — WebSearch/MCP暴走の新ガードレール</title>
+<link>https://qiita.com/kai_kou/items/3505e185c8f8cd301f63</link>
+<guid>512a9a676a8474ea9ea7a61a9c8a5f3ac0f02005fecd1b761193ddf5621fd2e9</guid>
+<pubDate>2026-07-20T20:08:52+09:00</pubDate>
+<description>はじめに Claude CodeでMCPサーバーやサブエージェントを多用していると、1つのツール呼び出しがいつまでも終わらない、あるいはサブエージェントが次々に増殖して止まらない、という事態に一度は遭遇する。セッションが固まって使い物にならなくなる根本原因は、こうした「...</description>
 </item>
 <item>
-<title>【Qiita】 OfficeCLI入門 — Excel数式を自動評価するAI向けCLIの仕組み</title>
-<link>https://qiita.com/kai_kou/items/8ebb851abcb98703c7d6</link>
-<guid>010fc22536dda6bf37cd0855b350de5596b8630917daa51ee50a176a7761ca1f</guid>
-<pubDate>2026-07-20T17:36:49+09:00</pubDate>
-<description>はじめに AIエージェントに Excel の集計表を作らせようとすると、大抵は「Excel がインストールされている前提」か「openpyxl で頑張って XML を組み立てる」の二択になる。どちらもエージェントが自律的に業務ドキュメントを触る用途にはやや重い。 Offi...</description>
-</item>
-<item>
-<title>【環境】 Recognizing the human health impacts of marine heatwaves</title>
-<link>https://www.nature.com/articles/s41893-026-01892-x</link>
-<guid>f67269da3c22980b03ac33d83f5f93b1ab873412b5dbaef161e7d1e14f9ca6e4</guid>
+<title>【自動自律実験】 My job interviews for industry positions are going nowhere. How do I make myself stand out?</title>
+<link>https://www.nature.com/articles/d41586-026-02234-9</link>
+<guid>fcaeffb239dfc3bdfde56fdf2d37295f30ee53793048788ec47586b4706f6e06</guid>
 <pubDate>2026-07-20</pubDate>
-<description>Although the physical and ecological impacts of marine heatwaves are well recognized, their cascading consequences for human health remain poorly understood. We argue that marine heatwaves pose growing physical and mental health risks that must be treated as a distinct, core climate concern requiring anticipatory</description>
-</item>
-<item>
-<title>【自動自律実験】 The science of foresight: how to future-proof your research</title>
-<link>https://www.nature.com/articles/d41586-026-02231-y</link>
-<guid>cd28e007075177bb4a7689a9e6a350646ce2ec2725aef4e22776e2bfbfd2b4f9</guid>
-<pubDate>2026-07-20</pubDate>
-<description>Anticipating from the start the various ways a research programme can succeed or fail can avoid problems later. Here’s how to do it.</description>
+<description>A postdoc researcher trying to move into an industry role wants help gaining traction and making it past the first interview stage.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/method-for-secure-ai-grounding-using-semantic-token-substitution-and-client-side-re-hydration/</link>
-<guid>a6c59e6ce016ff241069153010eff1fe37559901bcf538cbfe501e0e535e9a8e</guid>
-<pubDate>Mon, 20 Jul 2026 10:41:01 GMT</pubDate>
+<link>https://research.google/pubs/probabilistic-governance-and-telemetry-framework-for-autonomous-agents/</link>
+<guid>9515789bbd648ef793df692b8ee795b97c65398c7e70e51d460d412b88311191</guid>
+<pubDate>Mon, 20 Jul 2026 13:00:23 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75584-7</link>
-<guid>1666cbc8cda1f877b1e75827ee074fcf88aa454d56be6b2471d1fbfcd869927b</guid>
-<pubDate>Mon, 20 Jul 2026 10:41:03 GMT</pubDate>
+<guid>797e4817612a1232896f187eb8762ce5c4d9847c8f74ac03d5be1c8c94cb1712</guid>
+<pubDate>Mon, 20 Jul 2026 13:00:25 GMT</pubDate>
 <description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>70de118f652fa052378be6d208f9fd8e41b209f3a3045f47443fd8fffcd052a5</guid>
-<pubDate>Mon, 20 Jul 2026 10:41:06 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>a56728718de84cafd416d612f0ba8f3f3cf2bc89ba79f9eecdd9298788683e16</guid>
+<pubDate>Mon, 20 Jul 2026 13:00:28 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 How to Design AI Agents for Lab Automation: Start From the Question, Not the API</title>
+<link>https://qpillars.com/blog</link>
+<guid>97d22a1fd01bcc2921bdf1f1050bfa3707e444a40cc67e55a500efdec85b9491</guid>
+<pubDate>Mon, 20 Jul 2026 13:00:29 GMT</pubDate>
+<description>Technical insights from building intelligent laboratory infrastructure. Engineering deep dives, product updates, and industry analysis from the QPillars team.</description>
 </item>
 
 </channel>
