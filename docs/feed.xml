@@ -4,70 +4,43 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 20 Jul 2026 22:47:22 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 23:48:36 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 プロフェッショナルTLS＆PKI を読む⑮ TLS 1.3 認証</title>
-<link>https://qiita.com/gomAnomalocaris/items/71f38b9d93e7b14d73b2</link>
-<guid>bf3e7d0e8a0eef800c60e5a4ac856cb9a751fdc9947f742168d958db8c5768b9</guid>
-<pubDate>2026-07-21T07:42:21+09:00</pubDate>
-<description>TLS 1.3 の認証 TLS 1.2以前ではサーバー認証と鍵交換が分離しておらず、処理フローが難解でした。 TLS 1.3では通常の認証で使用するメッセージ群が他のメッセージから分離され統一されました。 TLS 1.3 証明書認証に関連するメッセージは以下の2つ ・C...</description>
+<title>【Qiita】 【AIエージェントの解剖学：第3回】プラグ＆プレイの道具箱：Model Context Protocol (MCP)の革新</title>
+<link>https://qiita.com/mkuwan/items/52e24a7110bce847de64</link>
+<guid>4613b0e38d271e78d74dbefb5d691fc6a0f4b71b22096e11a418fe1e68eac8f2</guid>
+<pubDate>2026-07-21T08:33:21+09:00</pubDate>
+<description>【AIエージェントの解剖学：第3回】プラグ＆プレイの道具箱：Model Context Protocol (MCP)の革新 【新連載：AIエージェントの解剖学】 前回（第2回）：【AIエージェントの解剖学：第2回】知能に手足を与える：Function Callingと...</description>
 </item>
 <item>
-<title>【Qiita】 事務作業にも役に立つ IBM Bob の使い方 【2】MCPで実現するWebサイトの情報まとめ</title>
-<link>https://qiita.com/mi-ta/items/7cd9778690f1d54fd246</link>
-<guid>ae5e28032f7215c33dd26c59c75981bfe91eecfc174020f6bb081131a69208c9</guid>
-<pubDate>2026-07-21T07:15:08+09:00</pubDate>
-<description>はじめに IBM Bobは、IBMが提供するAI機能を持ったIDEです。幅広い開発者向けに使いやすく、親しみやすい機能を提供しています。開発パートナーとしても有能ですが、その能力は開発ではない領域にも活かすことができます。 この記事では、ローカルで行うさまざまな領域での応...</description>
-</item>
-<item>
-<title>【Qiita】 事務作業にも役に立つ IBM Bob の使い方 【1】スキルを活用したローカルディスク容量の節約</title>
-<link>https://qiita.com/mi-ta/items/529b9216ef41b79dd6aa</link>
-<guid>35213ab47122d5b69295d67bb89f8572efad9bc3379c89462fc787cde9419e23</guid>
-<pubDate>2026-07-21T07:04:51+09:00</pubDate>
-<description>はじめに IBM Bobは、IBMが提供するAI機能を持ったIDEです。幅広い開発者向けに使いやすく、親しみやすい機能を提供しています。開発パートナーとしても有能ですが、その能力は開発ではない領域にも活かすことができます。 この記事では、ローカルで行うさまざまな領域での応...</description>
-</item>
-<item>
-<title>【Qiita】 日刊IETF (2026-06-24) DKIM2の本仕様が登場しBGPとQUICの組み合わせも動き出す (Part1/3)</title>
-<link>https://qiita.com/tetsuko_room/items/ee43eb9946acb6f8d19b</link>
-<guid>127a77017280dc8c480467a147f452d524ce930da85e82b39b2a2411cee49f63</guid>
-<pubDate>2026-07-21T07:32:06+09:00</pubDate>
-<description>おはようございます！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-24（UTC基準）に公開された...</description>
-</item>
-<item>
-<title>【Qiita】 GitHub Actions入門[Python + Azure + Self-Hosted Runner]</title>
-<link>https://qiita.com/FukuharaYohei/items/2d04870b4d775537d3c0</link>
-<guid>2f5f0e795a9511ba685d511200aa7ec9ea565553930b73ae5b7e6437a6cf2917</guid>
-<pubDate>2026-07-21T07:06:46+09:00</pubDate>
-<description>GitHub Actionsを今までAIにしか書かせていなかったので、ある程度整理してみました。私はAzureを触るので、Azure寄り内容になっています。 Steps 0. Repository 作成とClone ただ、空のRepository作成とClone 1....</description>
-</item>
-<item>
-<title>【Qiita】 丁寧なプロンプトはエージェントの完走率を上げる</title>
-<link>https://qiita.com/septigram/items/24de0907ecb06dc66ba6</link>
-<guid>f046e7094757f548c513269b60e9281f42fea4ebe67785d22c3c430e922dd390</guid>
-<pubDate>2026-07-21T06:50:15+09:00</pubDate>
-<description>AI に対する指示文を敬体（polite）で書くか、ぶっきらぼう（blunt）で書くかによって、AI 開発エージェントの仕事ぶりは変わるのでしょうか。筆者は以前から、AI への依頼を丁寧な言葉遣いで書く習慣があり、その方が安定した結果を得られる感覚を持っていました。感覚のま...</description>
+<title>【Qiita】 3人会社にAI経営OSを実装した全記録——CFO/COO/CMOエージェントの作り方と月商250万円の変化</title>
+<link>https://qiita.com/sescore/items/0a54bf1232c0b290cbf4</link>
+<guid>c653e8e4cfc29d674778af0a5856b41c7d1366b5d9c4a120d645df417f313bb4</guid>
+<pubDate>2026-07-21T08:05:37+09:00</pubDate>
+<description>はじめに：SES 1年目の転職衝動から始まった「経営の孤独」 SES業界に入ったエンジニアの多くが、入社1年以内に転職を真剣に考える。私もその一人だった。SES 1年目のうちに転職活動をはじめ、最終的にフリーランスへ転向した。当時の単価相場は月60〜80万円。スキルと営業...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/agentic-ai-infrastructure-in-practice-learn-these-key-hurdles-to-deploy-production-ai-agents-efficiently/</link>
-<guid>aaac8193179e7ed3ed40c99d2d9fe1df0e11e7e07a7d0e94c55074364d053c62</guid>
-<pubDate>Mon, 20 Jul 2026 22:46:48 GMT</pubDate>
+<link>https://research.google/pubs/phoenix-rowhammer-attacks-on-ddr5-with-self-correcting-synchronization/</link>
+<guid>2f6ee9bd7e20f0774ad86887658d32f6b8f67fd68832740c9e1bb7e7a446e8d0</guid>
+<pubDate>Mon, 20 Jul 2026 23:47:49 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75912-x</link>
-<guid>67abf608552dff58cabd1f9a6058483e68f22b576c8147bf7dda773297b160f9</guid>
-<pubDate>Mon, 20 Jul 2026 22:46:50 GMT</pubDate>
+<guid>03f680e16286c7ebb4e492699e594b40ad8f849b6ebfbe9904408e0ced029ef7</guid>
+<pubDate>Mon, 20 Jul 2026 23:47:52 GMT</pubDate>
 <description>The therapeutic application of base editors is limited by their large sizes, which are beyond the packaging capabilities of adeno-associated viral (AAV) vectors. Despite recent progress that has identified many compact CRISPR proteins, the resulting miniature base editors often exhibit reduced activities and limited targeting scope. Here, we introduce a zinc finger protein (ZFP)-enhanced miniature base editor (zmBE), which integrates programmable ZFPs to improve efficiencies and targeting scopes of miniature base editors, including those based on Un1Cas12f1 and OgeuIscB. Utilizing protein language models to optimize ZFPs designed by modular assembly further simplifies the development of zmBEs. Leveraging these methodologies, we engineer a zmBE that effectively induces the SMN2 exon 7 T:A(6) &amp;gt; C:G conversion, restores the exon 7 inclusion, and improves spinal muscular atrophy in a murine model after being delivered via a single AAV vector. Our study provides a versatile platform for developing miniature base editors for in vivo therapeutic applications. Conventional base editors often exceed AAV package limit, while miniature versions lack efficiency. Here, the authors develop zm</description>
 </item>
 <item>
-<title>【UK】 Featured</title>
-<link>https://www.linkedin.com/company/scitechgovuk</link>
-<guid>da39db9ecd6f6197e71deece38ca1f6d2cb423926fd19fa7b8df9097e2f5a7a3</guid>
-<pubDate>Mon, 20 Jul 2026 22:47:00 GMT</pubDate>
-<description>Department for Science, Innovation and Technology | 270,903 followers on LinkedIn. Positioning the UK at the forefront of global scientific and technological advancement. | Follow this profile to stay up-to-date with our mission: improving people&amp;#39;s lives by maximising the potential of science &amp;amp; technology.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>067358242d19bba303e01d54e4fe4ee97d315df039f54ef8acc27891260555f3</guid>
+<pubDate>Mon, 20 Jul 2026 23:48:17 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
