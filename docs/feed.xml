@@ -4,91 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 20 Jul 2026 13:01:29 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 15:14:18 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 [Ansible Automation Platform コンテナ版] Manual プロジェクトの playbook がジョブテンプレートに表示されない原因と対処(SELinux container_file_t)</title>
-<link>https://qiita.com/c_u/items/c87a156d3338ca22ce73</link>
-<guid>65de90dece100ed85dab7ed641dc2a323cda6031124e773e816f9b700548d820</guid>
-<pubDate>2026-07-20T21:16:47+09:00</pubDate>
-<description>はじめに Ansible Automation Platform (AAP) のコンテナ版インストール環境で、プロジェクトのソースコントロールタイプを Manual にして playbook を手動配置したところ、プロジェクト・フォルダにファイルは存在しているのに、ジョブ...</description>
+<title>【Qiita】 【Godot 4.x】2D脱出ゲームを作ってみる⑪〜BGM・効果音を実装する〜</title>
+<link>https://qiita.com/OnuuuumaX/items/b91aad707846def8b9dc</link>
+<guid>ba8108b219f0a41657845f014470fa241f5e1acfac482f89737c035ec5cd0b10</guid>
+<pubDate>2026-07-20T23:07:37+09:00</pubDate>
+<description>はじめに Claude Code + MCP + Godot 4.xで脱出ゲームを作る連載の第11回です。 第1回：環境構築とプロジェクト作成 第2回：Claude Code + godot-mcpのセットアップ 第3回：Claude CodeとMCPでスプラッシュ画面...</description>
 </item>
 <item>
-<title>【Qiita】 巨大テック企業に淘汰されないためのAI戦略──勝負を分ける「データ・フライホイール」</title>
-<link>https://qiita.com/sghr20/items/643c8001eb1504c741f0</link>
-<guid>26c0dfb25e8a4764085851d7435ec8d527ee17d2a5fad25d1e71b941b867d324</guid>
-<pubDate>2026-07-20T21:51:07+09:00</pubDate>
-<description>「この機能、次のChatGPTに標準搭載されたら終わりでは？」 AIサービスを作る人なら、一度はこの不安を感じたことがあるはずです。 文章生成、要約、検索、画像認識、音声入力。 昨日までスタートアップの独自機能だったものが、ある日突然、OpenAIやGoogleの新機能とし...</description>
+<title>【Qiita】 Claude Code のステータスラインに Jira のタスク状態を表示する</title>
+<link>https://qiita.com/ryoji9702/items/bd8f1a76f2b3bf250615</link>
+<guid>67d0ee080d3e3693e52179ba441142cd88b467a0e39a650d7a1c161e1c41e058</guid>
+<pubDate>2026-07-20T22:53:01+09:00</pubDate>
+<description>はじめに Claude Code には、画面下部に任意のシェルスクリプトの出力を表示できる ステータスライン という機能があります。多くの人はモデル名・コンテキスト残量・git ブランチを出す用途で使っていますが、筆者はここに 「いま自分が触っているブランチに対応する J...</description>
 </item>
 <item>
-<title>【Qiita】 学習データが枯渇しそうと聞いていたのに、LLMはなぜまだ賢くなるのか</title>
-<link>https://qiita.com/dachshund129/items/ac341704ab7632ac6469</link>
-<guid>5813898734bfe71c2a08ff2216b682f9da9c02bb0b0ede6f8cd0f6b4886b092e</guid>
-<pubDate>2026-07-20T21:24:41+09:00</pubDate>
-<description>こんばんは、ダックスフントです。 LLM が誕生してから、毎月のように「過去最高性能」をうたうモデル（特に Claude、GPT、Gemini）が発表され、発表のたびにベンチマークのグラフが更新されていきます。一方で私は、少し前に「LLM の学習に使えるデータはもうすぐ尽き...</description>
+<title>【Qiita】 Claude Code の CLAUDE.md と .claude/rules/ を使い分ける</title>
+<link>https://qiita.com/ynakayama/items/c198ca2a7e288d49beb8</link>
+<guid>a0140fcd4c69d5f48d7386b257dea4e6c8cbe0cac17ef5afff224efc72ae0534</guid>
+<pubDate>2026-07-21T00:08:27+09:00</pubDate>
+<description>はじめに Claude Code へ同じ種類の作業を繰り返し依頼していると、対象環境、互換性、禁止事項、テスト方法を毎回書く必要が出てきます。条件を一つ書き忘れるだけで、/bin/sh で動かすスクリプトに Bash 固有構文が入ったり、既存の終了コードや引数が変わったり...</description>
 </item>
 <item>
-<title>【Qiita】 AIが嘘の記憶に負ける三つの条件 — 「小型」×「自信のない事実」×「断定」</title>
-<link>https://qiita.com/akihidem/items/f989c7f6cb3548970445</link>
-<guid>7574fcef8fb2006e32b012257e8b89970c2690401a18e3b57225f20069918796</guid>
-<pubDate>2026-07-20T21:00:30+09:00</pubDate>
-<description>📚 連載「AIエージェントの前置きと記憶を測る」第3回 / 全3回 連載「AIエージェントの前置きと記憶を測る」第3回・最終回。 ここまで安心材料が続いた。前置きの量は能力を食わない（第1回）。既知の確かな事実については、古い記憶も答えを歪めない。むしろモデルは偽を見抜...</description>
+<title>【Qiita】 OpenClawとHermes Agentの違いを整理する――常駐ゲートウェイと自己改善ループ</title>
+<link>https://qiita.com/Tadataka_Takahashi/items/83e35eb4935e968eefbc</link>
+<guid>bde64474f148ad0fb81d9cf2703f097a37a463fadba1be9db73f574327ba2f1f</guid>
+<pubDate>2026-07-20T23:42:19+09:00</pubDate>
+<description>はじめに OpenClawとHermes Agentは、どちらも「チャットから実作業を任せる」方向のAIエージェントとして語られます。 ただ、公開情報を読んでいると、同じ土俵に見えて、プロダクトとして前面に出している体験が少し違うように感じました。 この記事では、202...</description>
 </item>
 <item>
-<title>【Qiita】 古い記憶はAIを騙せるか — わざと嘘を記憶に仕込んで測ったら、AIは嘘を見抜いた</title>
-<link>https://qiita.com/akihidem/items/91a7325e7c3e869ffa04</link>
-<guid>82ed0251460e97fe742473692bdbf1f4790a0384ef06364bdd40a1a97b6e9808</guid>
-<pubDate>2026-07-20T21:00:01+09:00</pubDate>
-<description>📚 連載「AIエージェントの前置きと記憶を測る」第2回 / 全3回 連載「AIエージェントの前置きと記憶を測る」第2回。 前回は「量」を測り、前置きをどれだけ積んでも能力は落ちないことを確かめた。今回は「質」に踏み込む。エージェントの記憶は運用のなかで必ず古くなる。書い...</description>
+<title>【Qiita】 【トークン代を最適化】機械学習とOptunaで「LLMのコスト×回答品質」のパレート最適を自動探索する 〜ローカルLLM×Microsoft Agent Framework〜</title>
+<link>https://qiita.com/KazutoMakino/items/b7b10c53b0d62e139ecb</link>
+<guid>992de3df8cc533bc4894e8214db3a294445498387f60dc829903c64836039569</guid>
+<pubDate>2026-07-20T22:59:11+09:00</pubDate>
+<description>【トークン代を最適化】Optunaで「LLMのコスト×回答品質」のパレート最適を自動探索する 〜ローカルLLM×Microsoft Agent Framework〜 0. 概要 コーディングエージェントを運用していると、必ずぶつかるのが「トークン代（コスト）」と「回答品...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント概論 - 定義からアーキテクチャ・本番運用を見据えた設計まで</title>
-<link>https://qiita.com/Pretzelisa/items/b65441442c8a486d25b3</link>
-<guid>10ecb73fb15254b2f5c15b4401b652a037ac7f443581ab1b26868d57ace191c9</guid>
-<pubDate>2026-07-20T20:54:09+09:00</pubDate>
-<description>はじめに AIエージェントを取り巻く技術は日々進歩し、本番運用を見据えたHowToも見かけるようになった。 実際にAIエージェントの開発に携わり、AIエージェントの勉強会を開催する中で、AIエージェントの定義、開発手法、アーキテクチャや運用を整理したいと思い本記事を執筆し...</description>
+<title>【Qiita】 AI エージェントは、あなたの DB の「意味」を知らない — PostgreSQL に書いた意味を渡す Kozou の紹介</title>
+<link>https://qiita.com/takashi-matsuyama/items/fa6c15040786da7cb27a</link>
+<guid>7216a829375b581595a2ef7e8b08b96649420a05584769ff0077f4ac02ec4d35</guid>
+<pubDate>2026-07-20T22:55:02+09:00</pubDate>
+<description>🔗 この記事は https://blog.tak3.jp/ja/blog/introducing-kozou/ からの転載です（一次情報源）。 basou の紹介記事の結びに、こう書いた。「エージェントに『DB が何を意味するか』を渡す側の Kozou という別プロジェ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code 2.1.212入門 — WebSearch/MCP暴走の新ガードレール</title>
-<link>https://qiita.com/kai_kou/items/3505e185c8f8cd301f63</link>
-<guid>512a9a676a8474ea9ea7a61a9c8a5f3ac0f02005fecd1b761193ddf5621fd2e9</guid>
-<pubDate>2026-07-20T20:08:52+09:00</pubDate>
-<description>はじめに Claude CodeでMCPサーバーやサブエージェントを多用していると、1つのツール呼び出しがいつまでも終わらない、あるいはサブエージェントが次々に増殖して止まらない、という事態に一度は遭遇する。セッションが固まって使い物にならなくなる根本原因は、こうした「...</description>
-</item>
-<item>
-<title>【自動自律実験】 My job interviews for industry positions are going nowhere. How do I make myself stand out?</title>
-<link>https://www.nature.com/articles/d41586-026-02234-9</link>
-<guid>fcaeffb239dfc3bdfde56fdf2d37295f30ee53793048788ec47586b4706f6e06</guid>
+<title>【自動自律実験】 Detailed maps of European wetlands reveal overlooked patches of ecosystems</title>
+<link>https://www.nature.com/articles/d41586-026-02211-2</link>
+<guid>f7c0ac158dbd13ab1222386e10b4f06a937861d8ccfc5404836ebd2588c9a7dc</guid>
 <pubDate>2026-07-20</pubDate>
-<description>A postdoc researcher trying to move into an industry role wants help gaining traction and making it past the first interview stage.</description>
+<description>Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.</description>
+</item>
+<item>
+<title>【自動自律実験】 Huge study finds first genetic clues for borderline personality disorder</title>
+<link>https://www.nature.com/articles/d41586-026-02220-1</link>
+<guid>aba51f3a690e022209333988c243b8ec5d9ef6d16cf79573ac2d4905bb5b3932</guid>
+<pubDate>2026-07-20</pubDate>
+<description>Largest genetic analysis of the condition so far finds 11 linked locations in the human genome.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/probabilistic-governance-and-telemetry-framework-for-autonomous-agents/</link>
-<guid>9515789bbd648ef793df692b8ee795b97c65398c7e70e51d460d412b88311191</guid>
-<pubDate>Mon, 20 Jul 2026 13:00:23 GMT</pubDate>
+<link>https://research.google/pubs/compact-conformal-subgraphs/</link>
+<guid>a2fa941086984213cce99c08739321df8b091d064cbd5bd2aa2012ef96e41771</guid>
+<pubDate>Mon, 20 Jul 2026 15:13:12 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75584-7</link>
-<guid>797e4817612a1232896f187eb8762ce5c4d9847c8f74ac03d5be1c8c94cb1712</guid>
-<pubDate>Mon, 20 Jul 2026 13:00:25 GMT</pubDate>
+<guid>2ed0e5fc3f9cb78dd6b45dfa48852e351c558f4b05fb0fd2c5a19a9f1a756eb8</guid>
+<pubDate>Mon, 20 Jul 2026 15:13:15 GMT</pubDate>
 <description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>a56728718de84cafd416d612f0ba8f3f3cf2bc89ba79f9eecdd9298788683e16</guid>
-<pubDate>Mon, 20 Jul 2026 13:00:28 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 How to Design AI Agents for Lab Automation: Start From the Question, Not the API</title>
-<link>https://qpillars.com/blog</link>
-<guid>97d22a1fd01bcc2921bdf1f1050bfa3707e444a40cc67e55a500efdec85b9491</guid>
-<pubDate>Mon, 20 Jul 2026 13:00:29 GMT</pubDate>
-<description>Technical insights from building intelligent laboratory infrastructure. Engineering deep dives, product updates, and industry analysis from the QPillars team.</description>
 </item>
 
 </channel>
