@@ -4,63 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 20 Jul 2026 07:52:47 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 10:42:04 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Webエンジニアだった私がAIエンジニアになるためにやったこと</title>
-<link>https://qiita.com/keisuke_fukuchi/items/c7ab9d18084b90686612</link>
-<guid>96fa93d9df51e38ff6192c09c63afe091b27fc8ae0485d8801f4ff94f80a1eb2</guid>
-<pubDate>2026-07-20T15:26:59+09:00</pubDate>
-<description>はじめに こんにちは、株式会社estraでエンジニアをしています。福地です。 「AIエンジニア」という言葉、めちゃくちゃホットで最近よく聞きますが、範囲が広すぎて何から手を付ければいいか分からなくないですかね？ 私は普通のバックエンドエンジニアでしたが、LLMを利用するよ...</description>
+<title>【Qiita】 個人開発でApp Storeリリースフローを学ぶ ― UIKit + FastAPI + K8sで作るMinecraftサーバー監視アプリ「MineWatch」</title>
+<link>https://qiita.com/jqit-yukiono/items/d33908602fd060f5e1d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>5b015a079f5336aa90bb0a2779d11c9e452dd673b3c334cce93fb213959e966c</guid>
+<pubDate>2026-07-20T08:56:10+09:00</pubDate>
+<description>個人開発でApp Storeリリースフローを学ぶ ― UIKit + FastAPI + K8sで作るMinecraftサーバー監視アプリ「MineWatch」 自宅や友人と運営しているMinecraft Java Editionサーバーって、遊びたいときに限って落ちてた...</description>
 </item>
 <item>
-<title>【Qiita】 なーにがエージェントオーケストレーションだ、こちとらMarkdownとGitで十分なんだよ</title>
-<link>https://qiita.com/azsoft-jp/items/3961c22cca3a580c8fa2</link>
-<guid>686ee6b575b3482df1ad8fdb427faf1e9272387b06d22505f0d818ed5d7a6d69</guid>
-<pubDate>2026-07-20T15:22:41+09:00</pubDate>
-<description>AIエージェントを継続運用するために、正本・WIP制限・完了証跡・停止条件を自作した話 「複数のAIエージェントを協調させる」と聞くと、立派な管理基盤や専用フレームワークが必要に見えます。 でも、自分の開発で最初に必要だったのは、賢い司令塔ではありませんでした。 どの...</description>
+<title>【Qiita】 Jenkins から TestFlight へ ― Mac 1 台で iOS リリースを半自動化した話</title>
+<link>https://qiita.com/jqit-yukiono/items/1ebffa98b9ff2dca7a9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>d478e567bc397afeac0f6512442a96646173df6aae2c2c56663b59a5b534c3a2</guid>
+<pubDate>2026-07-20T08:56:09+09:00</pubDate>
+<description>Jenkins から TestFlight へ ― Mac 1 台で iOS リリースを半自動化した話 個人開発の iOS アプリを TestFlight に上げるたびに、xcodebuild archive → ipa 化 → validate → upload を手元...</description>
 </item>
 <item>
-<title>【Qiita】 2026/07/20 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/2355acf16ab1d81de2a9</link>
-<guid>fa8efc3d99a8a6d377200b58515472c485ce6557bbc5f4fce3d8158d08cef749</guid>
-<pubDate>2026-07-20T14:13:21+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 マルチエージェントに関する論文を40本再実装し...</description>
+<title>【Qiita】 # AIエージェントが生成した監査コードに潜んでいた「未来を見てしまうバグ」</title>
+<link>https://qiita.com/0903osa/items/017c3d9dabf00a60c209</link>
+<guid>4255325d1a055564b862f3ab3c6dc9a68b0aaaa5a4f72b1ee579966ea20805c0</guid>
+<pubDate>2026-07-20T19:23:45+09:00</pubDate>
+<description>本記事では、生成AIにantigravity CLIを使用しました。 金融監査AIのサンプルコードをAIエージェントに生成させたら、コードは正しく動くのに不正取引を検知できないバグが埋まっていた 原因はロジックではなく、モックデータの中に「これから検知すべき異常」が事前に...</description>
+</item>
+<item>
+<title>【Qiita】 AIの推進がうまくいかない組織アンチパターン</title>
+<link>https://qiita.com/jw-automation/items/7a2f85593a2e2ba71306</link>
+<guid>dcd1c2e19fb1fd36e8c095dd733e46d29197b4a0a4ee048c17d6a99b08ff5691</guid>
+<pubDate>2026-07-20T19:21:23+09:00</pubDate>
+<description>はじめに OpenAIによるChatGPTの公開から、早くも3年以上の月日が経ちました。 企業における生成AI活用は、2023〜2024年の試験導入のフェーズを経て、2025〜2026年にかけて、本格的な業務適用のフェーズへと移りつつあります。 特に2025年末のコーディ...</description>
+</item>
+<item>
+<title>【Qiita】 OpenSpecとSpec Kitを個人開発で使い比べた — 44変更と15機能から見えた使い分け</title>
+<link>https://qiita.com/faruryo/items/87a14728299e89f80ff4</link>
+<guid>23e6b04f5bad77e2444df4927b4d896bb661025aca04fe4c71dad78a56dec375</guid>
+<pubDate>2026-07-20T18:51:26+09:00</pubDate>
+<description>AIコーディングエージェントを使うと、実装速度は上がります。一方で、会話だけで開発を続けると「なぜこの設計にしたのか」「今回どこまで変えるのか」がセッションをまたいで失われやすくなります。 そこで、2つの個人開発で仕様駆動開発（Spec-Driven Development...</description>
+</item>
+<item>
+<title>【Qiita】 AI agent に UI を作らせるなら、browser を開けたことを完了条件にしない</title>
+<link>https://qiita.com/heftykoo/items/74b4353d386ea24b7ce1</link>
+<guid>7bd6dde409c8cd19b6b2746ed353157d67272152963936e36156c741068c4974</guid>
+<pubDate>2026-07-20T18:08:12+09:00</pubDate>
+<description>AI coding agent に frontend の修正を頼むと、最後に「ブラウザで動作確認しました」と返ってくることがあります。 その報告だけでは、review する側は困ります。どの URL を開いたのか。何を操作したのか。reload 後も state は残ったの...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントを『リコール』する世界初の規制、施行したのはEUではなく中国だった</title>
+<link>https://qiita.com/emi_ndk/items/6b3a11c3e7c9ca673092</link>
+<guid>d745a774b826fe2fe895a136faf4c9d4d8274251d94294e189bdb0647c4e0975</guid>
+<pubDate>2026-07-20T18:03:28+09:00</pubDate>
+<description>2026年7月15日、AIエージェントを名指しで規制する世界初の専用枠組みが施行された。施行したのはAI Actを抱えるEUでも、フロンティアモデルの本拠地である米国でもなく、中国である。欠陥のあるエージェントは自動車のように「リコール」の対象になり、「人間にしか決められな...</description>
+</item>
+<item>
+<title>【Qiita】 OfficeCLI入門 — Excel数式を自動評価するAI向けCLIの仕組み</title>
+<link>https://qiita.com/kai_kou/items/8ebb851abcb98703c7d6</link>
+<guid>010fc22536dda6bf37cd0855b350de5596b8630917daa51ee50a176a7761ca1f</guid>
+<pubDate>2026-07-20T17:36:49+09:00</pubDate>
+<description>はじめに AIエージェントに Excel の集計表を作らせようとすると、大抵は「Excel がインストールされている前提」か「openpyxl で頑張って XML を組み立てる」の二択になる。どちらもエージェントが自律的に業務ドキュメントを触る用途にはやや重い。 Offi...</description>
+</item>
+<item>
+<title>【環境】 Recognizing the human health impacts of marine heatwaves</title>
+<link>https://www.nature.com/articles/s41893-026-01892-x</link>
+<guid>f67269da3c22980b03ac33d83f5f93b1ab873412b5dbaef161e7d1e14f9ca6e4</guid>
+<pubDate>2026-07-20</pubDate>
+<description>Although the physical and ecological impacts of marine heatwaves are well recognized, their cascading consequences for human health remain poorly understood. We argue that marine heatwaves pose growing physical and mental health risks that must be treated as a distinct, core climate concern requiring anticipatory</description>
+</item>
+<item>
+<title>【自動自律実験】 The science of foresight: how to future-proof your research</title>
+<link>https://www.nature.com/articles/d41586-026-02231-y</link>
+<guid>cd28e007075177bb4a7689a9e6a350646ce2ec2725aef4e22776e2bfbfd2b4f9</guid>
+<pubDate>2026-07-20</pubDate>
+<description>Anticipating from the start the various ways a research programme can succeed or fail can avoid problems later. Here’s how to do it.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/an-experimental-evaluation-of-an-ai-powered-interactive-learning-platform/</link>
-<guid>df8e5933778106a66610e00163f7fdfb66f430ce417aa520fddf7f04b3612981</guid>
-<pubDate>Mon, 20 Jul 2026 07:51:44 GMT</pubDate>
+<link>https://research.google/pubs/method-for-secure-ai-grounding-using-semantic-token-substitution-and-client-side-re-hydration/</link>
+<guid>a6c59e6ce016ff241069153010eff1fe37559901bcf538cbfe501e0e535e9a8e</guid>
+<pubDate>Mon, 20 Jul 2026 10:41:01 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75584-7</link>
-<guid>dda4db63966c218b80f4d3af8e3a42db6814e0d90e886797c264963dbaf1a35a</guid>
-<pubDate>Mon, 20 Jul 2026 07:51:47 GMT</pubDate>
+<guid>1666cbc8cda1f877b1e75827ee074fcf88aa454d56be6b2471d1fbfcd869927b</guid>
+<pubDate>Mon, 20 Jul 2026 10:41:03 GMT</pubDate>
 <description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>73a34eda7e1b36cf17c000c1a19dfc4764775dce549daaa32494ab71abd25f1c</guid>
-<pubDate>Mon, 20 Jul 2026 07:51:50 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02994-8</link>
-<guid>f9d45ad658ae164a3716570018b1f79bb06b306066dc4be8ddacf493cff7ef37</guid>
-<pubDate>Mon, 20 Jul 2026 07:51:52 GMT</pubDate>
-<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
-</item>
-<item>
-<title>【環境】 236 Results</title>
-<link>https://www.canarymedia.com/search?q=artificial+intelligence</link>
-<guid>7b773d27ec7a61f6cbdcc06dfcd2f96de291e6fb112b4fb7376592c969d3c533</guid>
-<pubDate>Mon, 20 Jul 2026 07:52:47 GMT</pubDate>
-<description>The leading newsroom covering the transition to clean energy, electrification and climate solutions. We report on how the world is decarbonizing with a…</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>70de118f652fa052378be6d208f9fd8e41b209f3a3045f47443fd8fffcd052a5</guid>
+<pubDate>Mon, 20 Jul 2026 10:41:06 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
