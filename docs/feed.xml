@@ -4,49 +4,50 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 20 Jul 2026 18:49:49 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 20:16:56 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 連載: AIに仕事を奪われる不安から始めるハーネス作成入門 第15回</title>
-<link>https://qiita.com/singula/items/048cabe41d90d10f7f8b</link>
-<guid>0ca342076ff5c24da5578a522dbd7849aa564081e42edc9e04da82a2af4b6317</guid>
-<pubDate>2026-07-21T03:15:48+09:00</pubDate>
-<description>連載: AIに仕事を奪われる不安から始めるハーネス作成入門 第15回: Human-in-the-loopはどこに入れるべきか 第1〜14回: ✅ 公開済み ｜ 当該記事: 📖 ｜ 次回: 第16回 はじめに――「AIに任せっぱなし」への漠然とした不安 AIエージェン...</description>
+<title>【Qiita】 白って1600色あんねん！</title>
+<link>https://qiita.com/ishi720/items/3e4597bc50695fa9bf79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>ad90929b289e4cd4dbd086a924edb4ee81245911012c9cb98bcf5ef1b115fa87</guid>
+<pubDate>2026-07-19T09:02:52+09:00</pubDate>
+<description>はじめに 「白って200色あんねん」というアンミカさんが残したミームがありますが、200色って少なくないかと思い、本当に白が200色なのか調べてみることにしました。 200色の白の範囲 RGBそれぞれを256階調(0~255)とした場合の色の数は、16,777,216 ...</description>
+</item>
+<item>
+<title>【Qiita】 材料発見における「データだけでは足りない」という錯覚</title>
+<link>https://qiita.com/Yuliia/items/3130cf8a2d849cd46330</link>
+<guid>7f83d38232e48747fcd725a03bcee389448be88f3c404d176b6a16e92df7f24b</guid>
+<pubDate>2026-07-21T03:57:11+09:00</pubDate>
+<description>材料科学において重要なのは、AI だけでは本質的な発見は生まれないという視点です。 繰り返し現れる制約があります。限られたデータ量、合成上のボトルネック、そして現実の材料系が持つ化学的複雑さです。こうした条件のもとでは、分野知識が不可欠になります。計算上は有望に見える予測で...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/neural-general-circulation-models-for-modeling-precipitation/</link>
-<guid>cac68ab1877091e94269ef7f6e83d8a5f38f261d3f577841f9b03d7476af70a0</guid>
-<pubDate>Mon, 20 Jul 2026 18:48:16 GMT</pubDate>
+<link>https://research.google/pubs/unveiling-the-global-landscape-of-android-security-updates/</link>
+<guid>d687f64a029ad33e549d8880b4c422c6dfb0f5689c25551578c9b1202afed187</guid>
+<pubDate>Mon, 20 Jul 2026 20:16:02 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75584-7</link>
-<guid>f5f15efdff94f4d88bfab36ff75599207e76381c4da01cdfa405b0fe0d3575b5</guid>
-<pubDate>Mon, 20 Jul 2026 18:48:19 GMT</pubDate>
-<description>Super-resolution imaging has revolutionized the study of systems ranging from molecular structures to distant galaxies. However, existing super-resolution methods require extensive calibration and retraining for each imaging setup, limiting their practical deployment. We introduce a device-agnostic deep-learning framework for super-resolution imaging of point-like emitters that eliminates the need for calibration data or explicit knowledge of optical system parameters. Our device-agnostic modeling utilizes diverse, numerically simulated dataset encompassing a broad range of imaging conditions, enabling generalization across different optical setups. Once trained, the model reconstructs super-resolved images directly from a single resolution-limited camera frame with superior accuracy and computational efficiency compared to state-of-the-art methods. We experimentally validate our approach using a custom microscopy setup with controllable ground-truth emitter positions. We also demonstrate its versatility on stellar astronomy and single-molecule localization microscopy datasets of point-like sources, achieving high resolution without prior information. Our findings establish a pathw</description>
+<link>https://www.nature.com/articles/s41467-026-75912-x</link>
+<guid>26e066a0de731b3784b6a9306df0db9ba231cb3131e0661eca28d69eeb728c52</guid>
+<pubDate>Mon, 20 Jul 2026 20:16:05 GMT</pubDate>
+<description>The therapeutic application of base editors is limited by their large sizes, which are beyond the packaging capabilities of adeno-associated viral (AAV) vectors. Despite recent progress that has identified many compact CRISPR proteins, the resulting miniature base editors often exhibit reduced activities and limited targeting scope. Here, we introduce a zinc finger protein (ZFP)-enhanced miniature base editor (zmBE), which integrates programmable ZFPs to improve efficiencies and targeting scopes of miniature base editors, including those based on Un1Cas12f1 and OgeuIscB. Utilizing protein language models to optimize ZFPs designed by modular assembly further simplifies the development of zmBEs. Leveraging these methodologies, we engineer a zmBE that effectively induces the SMN2 exon 7 T:A(6) &amp;gt; C:G conversion, restores the exon 7 inclusion, and improves spinal muscular atrophy in a murine model after being delivered via a single AAV vector. Our study provides a versatile platform for developing miniature base editors for in vivo therapeutic applications. Conventional base editors often exceed AAV package limit, while miniature versions lack efficiency. Here, the authors develop zm</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>52cf4469195ad7bd3abf61bce62be0d851a07e30a4e09c0c3fe67b9ee5b9119b</guid>
-<pubDate>Mon, 20 Jul 2026 18:48:21 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>5c628da342b086f1f6de5b42cb13d7c364104d4870b8342b5a7d72bf5c2174cc</guid>
+<pubDate>Mon, 20 Jul 2026 20:16:39 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>d154bd420bb2df78acdf62deea3967d3f7f64e283f1f114a5fb59ab78efff848</guid>
-<pubDate>Mon, 20 Jul 2026 18:48:22 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>8f966dd9c05b2cff934597e25f358ed16da6fb7f1dcabcb5cb8cbff34f901c14</guid>
-<pubDate>Mon, 20 Jul 2026 18:49:30 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>1c0c63b3a31476029c18c70c9fbc8a539f5ef1817cd9a5c9db982104d9d759fa</guid>
+<pubDate>Mon, 20 Jul 2026 20:16:44 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
