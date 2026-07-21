@@ -4,56 +4,43 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 21 Jul 2026 14:31:23 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 16:17:03 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 assistant-ui と AG-UI でAIエージェントのフロントエンドを作ってみる</title>
-<link>https://qiita.com/Takenoko4594/items/3c3e9d635a15be1d5105</link>
-<guid>4ef75fa39aa805344beda7d931279ec9e9514633973777f74f046df80f527d89</guid>
-<pubDate>2026-07-21T23:14:39+09:00</pubDate>
-<description>はじめに 以前、Amazon Bedrock AgentCoreのPayments機能を使った決済エージェントのアプリを作りました。 その際、フロントエンドには「assistant-ui」というライブラリを使い、エージェントとのやり取りにはAG-UIを使用しました。...</description>
+<title>【Qiita】 [AWS]Managed KB 消しても消えないゾンビナレッジ</title>
+<link>https://qiita.com/kikuziro/items/edc1b19a4d37070524dd</link>
+<guid>60125a49c8f707cc6fbc0c828d5415a0758e220d44df1491213b0ffb7943beb8</guid>
+<pubDate>2026-07-22T00:31:50+09:00</pubDate>
+<description>📌 TL;DR S3登録→同期→直後削除→同期で再同期しても消えることのないゾンビナレッジ誕生 セルフマネージド型のナレッジベースでは再現しない ゾンビは DeleteKnowledgeBaseDocuments API で個別に削除すれば完全に消せる なお、この挙動...</description>
 </item>
 <item>
-<title>【農業】 SOFI 2026: Hunger not inevitable, FAO says as global hunger report shows progress</title>
-<link>https://www.fao.org/newsroom/detail/sofi-2026--hunger-not-inevitable--fao-says-as-global-hunger-report-shows-progress/en</link>
-<guid>82f1897e7bae5bc5e7b2a1211256255112338664c24424ad6814debc2c5541b5</guid>
-<pubDate>Tue, 21 Jul 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【自動自律実験】 Are boldness and belligerence related?</title>
-<link>https://www.nature.com/articles/d41586-026-02103-5</link>
-<guid>1255055964985b18aeb04d44faf52718774b8351b05772ced6a9fdbb6754954a</guid>
-<pubDate>2026-07-21</pubDate>
-<description>Different types of aggression in stickleback fish, and a pillar of light seen at sunset, in this week’s pick from the Nature archive.</description>
-</item>
-<item>
-<title>【自動自律実験】 Seven ways endurance sports have taught me to be a better researcher</title>
-<link>https://www.nature.com/articles/d41586-026-02215-y</link>
-<guid>3329d7d25c11d87ec30b9dd304e94e925abe7045cf8ce28ec51d06a84b90a5bb</guid>
-<pubDate>2026-07-21</pubDate>
-<description>The ‘24-hour rule’ and other tips from sport can improve lab life.</description>
+<title>【Qiita】 AIにコードを任せたあと、人間は何を見るべきか: 学生向けdiffレビュー入門</title>
+<link>https://qiita.com/2-2/items/6f510e0d95d317e675e2</link>
+<guid>9c0971627c05fa0c4d77a685d7e61941cfed23192a8dd990ceb8b1b4554a866a</guid>
+<pubDate>2026-07-22T00:24:34+09:00</pubDate>
+<description>AIにコードを任せたあと、人間は何を見るべきか: 学生のためのdiffレビュー実践入門 AIにコードを書かせることは、もう珍しいことではなくなりました。 ChatGPT、Codex、Claude Code、GitHub Copilot、Cursor、Gemini CLIな...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/fair-allocation-of-indivisible-goods-with-variable-groups/</link>
-<guid>e58b222ef7acbd7c7e8902974948c7ef6cc299c41b284d3dcce9fc177b7a9f26</guid>
-<pubDate>Tue, 21 Jul 2026 14:30:29 GMT</pubDate>
+<link>https://research.google/pubs/what-does-your-wearable-know-about-the-festive-season/</link>
+<guid>03ed9eccada9f6461a9e4ceb1b823eb700fc0b7a43d62a67c7b8571a4641b6c3</guid>
+<pubDate>Tue, 21 Jul 2026 16:16:14 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75912-x</link>
-<guid>503c415e8d628c1777a92cf68bfa1e2dc1b097ece98667be4eb23f68958809e4</guid>
-<pubDate>Tue, 21 Jul 2026 14:30:31 GMT</pubDate>
+<guid>331b8122b677b088414585f0779de00108095016353b709e70c9a939a8f27a0a</guid>
+<pubDate>Tue, 21 Jul 2026 16:16:16 GMT</pubDate>
 <description>The therapeutic application of base editors is limited by their large sizes, which are beyond the packaging capabilities of adeno-associated viral (AAV) vectors. Despite recent progress that has identified many compact CRISPR proteins, the resulting miniature base editors often exhibit reduced activities and limited targeting scope. Here, we introduce a zinc finger protein (ZFP)-enhanced miniature base editor (zmBE), which integrates programmable ZFPs to improve efficiencies and targeting scopes of miniature base editors, including those based on Un1Cas12f1 and OgeuIscB. Utilizing protein language models to optimize ZFPs designed by modular assembly further simplifies the development of zmBEs. Leveraging these methodologies, we engineer a zmBE that effectively induces the SMN2 exon 7 T:A(6) &amp;gt; C:G conversion, restores the exon 7 inclusion, and improves spinal muscular atrophy in a murine model after being delivered via a single AAV vector. Our study provides a versatile platform for developing miniature base editors for in vivo therapeutic applications. Conventional base editors often exceed AAV package limit, while miniature versions lack efficiency. Here, the authors develop zm</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>2bebd38a69bd4bdbaa0fc420af8b89fda896377dd09c78da98bfe262c27777c7</guid>
-<pubDate>Tue, 21 Jul 2026 14:30:34 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>000c4f4bb80a0db10eba6c9ccfb60081c35102efcdf2ec9957745a21155157a4</guid>
+<pubDate>Tue, 21 Jul 2026 16:16:37 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
