@@ -4,56 +4,78 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 21 Jul 2026 07:34:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 10:16:22 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Turbonomic＆IBM Bobを連携してみました</title>
-<link>https://qiita.com/KM-yuki/items/806eb5539a3e3d756dda</link>
-<guid>75d8fe08b5539d82d31dfbbd7a38188776bdedfc1fd51024afbf17ac906c8032</guid>
-<pubDate>2026-07-21T16:32:08+09:00</pubDate>
-<description>TurbonomicとIBM Bobを連携し、BobからTurbonomicの情報を見るような設定をしてみました。体験についてご共有します。他にもっとスマートな方法あるかもしれないので、一つのやり方として共有します。 目的 IBM Bobだけ入口にして、他のIBMソリューシ...</description>
+<title>【Qiita】 CLAUDE.md 設計パターン集──プロジェクト規模別に使い分ける7つのテンプレート</title>
+<link>https://qiita.com/hikariclaude01/items/e54c70c90c6aa84d0f66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>2d514c5f5c194ae602bc605c66175f660fcf2526f463120beae1799be48da161</guid>
+<pubDate>2026-07-20T10:01:57+09:00</pubDate>
+<description>結論：Claude Code の出力品質を最も左右するのはプロンプトでもモデルでもなく、CLAUDE.md の書き方だった。 Claude Code を導入したチームの中で「期待通りのコードが出る」チームと「毎回手直しが必要」なチームの差を調べると、CLAUDE.md の...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Cloud アカウント所有者向け - アカウント作成後にCloud Shellで他の管理者を割り当てる方法</title>
-<link>https://qiita.com/masaffff/items/973a8079620ca4ab8929</link>
-<guid>ddd5ada5770347231192f3b76d6f208cb695cf75cfaa6f75ba5615723f21e46a</guid>
-<pubDate>2026-07-21T16:25:09+09:00</pubDate>
-<description>はじめに IBM Cloudのアカウントを新規作成した直後は、アカウント所有者のみが管理権限を持っています。特にサブスクリプション契約では、契約手続きの都合上、実際にITシステムを管理する担当者ではない方がアカウント所有者となる場合があります。そのような場合は、実際に運用...</description>
+<title>【Qiita】 【AWS障害】2026年7月16日のCloudFront VPC Origins障害まとめ</title>
+<link>https://qiita.com/eureka_/items/6bb207fa1da4add1f61b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>115406a2e702d8423be493dd44a784f1b385fe9b3c050202b8fbbf01bf594f88</guid>
+<pubDate>2026-07-19T23:57:20+09:00</pubDate>
+<description>はじめに 日本時間2026年7月16日 16:45頃〜21:20頃、Amazon CloudFrontで障害が発生し、日本国内ではPayPay・note・ニコニコ生放送などが影響を受けました。 影響を受けたのはVPC Originsという機能を使っていた利用者のみになり...</description>
 </item>
 <item>
-<title>【Qiita】 Copilot Studio で非構造化データはどこまでナレッジになるのか【Part 2: New experience】</title>
-<link>https://qiita.com/Isato-Hiyama/items/d82c81413b4595d0803c</link>
-<guid>e36aae932489271af49aeb60a9765a51eae3568902fd3a82cd1679f8c65ead26</guid>
-<pubDate>2026-07-21T16:30:04+09:00</pubDate>
-<description>本記事について 本記事は「Copilot Studio × 非構造化データ」検証シリーズの Part 2 です。前編 (Part 1) では Classic experience を 5 Round に分けて検証し、5-6/7 Pass を天井に「空間関係」「図の階層構造...</description>
+<title>【Qiita】 タイトル：AIが生成するテストは「実装の鏡」になる——カバレッジ100%でもバグが消えない理由</title>
+<link>https://qiita.com/memorylakeai/items/67d770cca9f6ed01c282</link>
+<guid>304f81910e5f67630f8d54693973d1f1d1aae69c9cdaeb3bfd5f518f8668904d</guid>
+<pubDate>2026-07-21T18:53:49+09:00</pubDate>
+<description>カバレッジが測れるのは「書かれたコード」だけ 結論から言うと、カバレッジという指標は「すでに書かれたコードが実行されたかどうか」しか計測できません。 バグの大部分は「書き間違えたコード」から生まれるのではなく、「本来書かれるべきだったのに、書かれなかったコード」に潜んで...</description>
 </item>
 <item>
-<title>【Qiita】 自律型AIエージェント（Autonomous AI Agents）の本番環境運用における技術的障壁とガードレールの設計</title>
-<link>https://qiita.com/NKKTechGlobal/items/306f4af743f39f34c615</link>
-<guid>372a4da5c1f184735e6853e17a830e05e129df8679ba066598aba08a70b9d866</guid>
-<pubDate>2026-07-21T15:20:51+09:00</pubDate>
-<description>自律型AIエージェント（Autonomous AI Agents）の本番環境運用における技術的障壁とガードレールの設計 はじめに 2026年、生成AIの活用は「プロンプトに対する回答（One-shot）」から、目標を与えれば自ら推論（Reasoning）し、ツールを駆...</description>
+<title>【Qiita】 敵対的検証について</title>
+<link>https://qiita.com/poko_riku_1127/items/d8508e4e560421f22612</link>
+<guid>43aaae2c890b2bb33a0ab63fc206e905886dd18e8d1c7d28a5cd78063d6358a5</guid>
+<pubDate>2026-07-21T17:47:14+09:00</pubDate>
+<description>adversarial-verification-skill/ ├── adversarial-verification/ # スキル本体（この階層を skills/ 配下にコピー） │ ├── SKILL.md ...</description>
 </item>
 <item>
-<title>【Qiita】 「GPUは4分の1、でも学習は終わらない」NVIDIAが宣言したポストトレーニング中心のAI経済</title>
-<link>https://qiita.com/emi_ndk/items/5718c9ffa8877567c6fb</link>
-<guid>603f6308b66a834de49d3272c80644405823d3c3ff826870ad5f8b29780e4cc1</guid>
-<pubDate>2026-07-21T16:06:59+09:00</pubDate>
-<description>AIの計算需要の中心は、もう事前学習ではない 2026年7月17日、NVIDIAは公式ブログで、AIの計算需要の重心が事前学習から 終わらないポストトレーニング に移ったと宣言した。根拠として示されたのは、550BパラメータMoEのNemotron 3 Ultraを支えた...</description>
+<title>【環境】 Temporal horizons in US climate change news</title>
+<link>https://www.nature.com/articles/s41558-026-02716-8</link>
+<guid>12691180901c95951124192c0e3cc935266e265d22ada4701e62a38779bc9f7c</guid>
+<pubDate>2026-07-21</pubDate>
+<description>Whether news presents climate change as something happening now or in the future impacts public risk perceptions and climate action. A recent study shows that, in US news, the timing of anticipated climate impacts has got closer but coordinated climate actions are consistently deferred to the future.</description>
+</item>
+<item>
+<title>【環境】 Reform preferences of key actors in the UNFCCC process</title>
+<link>https://www.nature.com/articles/s41558-026-02723-9</link>
+<guid>f333039be3f889457e390a2a6dac1105d7fd0cdbfe965a702cf14b8da9a1de70</guid>
+<pubDate>2026-07-21</pubDate>
+<description>COP meetings have faced criticism and calls for reform, yet evidence on reform choices remains limited. Here a survey of COP participants reveals broad support for enhancing transparency and implementation, while proposals to change consensus rules or the COP presidency are less favoured.</description>
+</item>
+<item>
+<title>【環境】 African water research beyond the narratives of conflict and scarcity</title>
+<link>https://www.nature.com/articles/s41893-026-01895-8</link>
+<guid>8d5218359d77ba2c5e4ad34d270413eeb54411111a15d008d9f9d4bc35a9d3f5</guid>
+<pubDate>2026-07-21</pubDate>
+<description>Reproducible, replicable and robust African water research remains underrepresented in highly visible scientific journals, leading regional policymakers to turn to consulting firms and interest groups. We call for stronger editorial engagement with African water research to leverage its contributions to transboun</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/bridging-the-dimensionality-gap-a-taxonomy-and-survey-of-2d-vision-model-adaptation-for-3d-analysis-2/</link>
-<guid>b3f8d478a697a074867ad81120f2b3f7bf2e3b528cc0f521be45492f2d0eebff</guid>
-<pubDate>Tue, 21 Jul 2026 07:33:27 GMT</pubDate>
+<link>https://research.google/pubs/gs-offload-scalable-3d-gaussian-splatting-training-system-via-host-memory-offloading/</link>
+<guid>7346f5e65d8774f8517d8e7853faf6531a68d97db0aed5b793558b089453d240</guid>
+<pubDate>Tue, 21 Jul 2026 10:15:16 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75912-x</link>
-<guid>69f534502a39fd5343112329ce927c71d1bf23bbbccdeb3e40bb80c0a4cd6439</guid>
-<pubDate>Tue, 21 Jul 2026 07:33:30 GMT</pubDate>
-<description>The therapeutic application of base editors is limited by their large sizes, which are beyond the packaging capabilities of adeno-associated viral (AAV) vectors. Despite recent progress that has identified many compact CRISPR proteins, the resulting miniature base editors often exhibit reduced activities and limited targeting scope. Here, we introduce a zinc finger protein (ZFP)-enhanced miniature base editor (zmBE), which integrates programmable ZFPs to improve efficiencies and targeting scopes of miniature base editors, including those based on Un1Cas12f1 and OgeuIscB. Utilizing protein language models to optimize ZFPs designed by modular assembly further simplifies the development of zmBEs. Leveraging these methodologies, we engineer a zmBE that effectively induces the SMN2 exon 7 T:A(6) &amp;gt; C:G conversion, restores the exon 7 inclusion, and improves spinal muscular atrophy in a murine model after being delivered via a single AAV vector. Our study provides a versatile platform for developing miniature base editors for in vivo therapeutic applications. Conventional base editors often exceed AAV package limit, while miniature versions lack efficiency. Here, the authors develop zm</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>2874e68ab88fa894d16d4ba96d090e3a37fa8fea76bf92ec19cbf27038cdfded</guid>
+<pubDate>Tue, 21 Jul 2026 10:16:05 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+</item>
+<item>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>a4eb7524c39fc0a8956f0dc0fc5ab27ef166cef0e9f4fb6f869153543a75aab8</guid>
+<pubDate>Tue, 21 Jul 2026 10:16:13 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
