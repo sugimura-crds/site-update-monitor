@@ -4,62 +4,55 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 21 Jul 2026 05:00:57 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 07:34:31 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 RHEL9運用環境で解体不要！Pythonによるjarバイトコード解析でデッドコードを証明する</title>
-<link>https://qiita.com/oguri-gmoconnect/items/0ff2d1655caf8cfb1a68</link>
-<guid>2cb9ae7804e91512b0dc2e5ca2f3789e6b844af14902f274581ac6dd90a85dee</guid>
-<pubDate>2026-07-21T12:35:09+09:00</pubDate>
-<description>はじめに 保守運用の現場では、「この処理、本当に使われているの？」を証明しなければならない場面がときどきあります。 先日、あるWebシステムで認証まわりの保管方式を見直す案件があり、その付帯調査として既存のハッシュ化処理を棚卸ししていました。その中で、外部連携用ライブラリ...</description>
+<title>【Qiita】 Turbonomic＆IBM Bobを連携してみました</title>
+<link>https://qiita.com/KM-yuki/items/806eb5539a3e3d756dda</link>
+<guid>75d8fe08b5539d82d31dfbbd7a38188776bdedfc1fd51024afbf17ac906c8032</guid>
+<pubDate>2026-07-21T16:32:08+09:00</pubDate>
+<description>TurbonomicとIBM Bobを連携し、BobからTurbonomicの情報を見るような設定をしてみました。体験についてご共有します。他にもっとスマートな方法あるかもしれないので、一つのやり方として共有します。 目的 IBM Bobだけ入口にして、他のIBMソリューシ...</description>
 </item>
 <item>
-<title>【Qiita】 サーバー作業を爆速かつ安全にする、Enterキー主体の1行確認実行スクリプトの設計思想</title>
-<link>https://qiita.com/gmo-connect-ogawa/items/98ff4dd30e4519165fe5</link>
-<guid>0e8a94fe832847b8c0ae85b93055a43e981ad15119e534d7c14d661c6d6e97b2</guid>
-<pubDate>2026-07-21T11:50:18+09:00</pubDate>
-<description>はじめに サーバー作業の現場には、昔からこんなジレンマがあります。 手順書のコマンドを1行ずつコピペ実行 → 貼り間違い・行飛ばし・二重実行のリスクが常につきまとう スクリプト化して一気に流す → 途中で想定外の出力が出ても止まれない。本番でこれをやる勇気はない ...</description>
+<title>【Qiita】 IBM Cloud アカウント所有者向け - アカウント作成後にCloud Shellで他の管理者を割り当てる方法</title>
+<link>https://qiita.com/masaffff/items/973a8079620ca4ab8929</link>
+<guid>ddd5ada5770347231192f3b76d6f208cb695cf75cfaa6f75ba5615723f21e46a</guid>
+<pubDate>2026-07-21T16:25:09+09:00</pubDate>
+<description>はじめに IBM Cloudのアカウントを新規作成した直後は、アカウント所有者のみが管理権限を持っています。特にサブスクリプション契約では、契約手続きの都合上、実際にITシステムを管理する担当者ではない方がアカウント所有者となる場合があります。そのような場合は、実際に運用...</description>
 </item>
 <item>
-<title>【Qiita】 Devinを活用した脆弱性影響確認の効率化</title>
-<link>https://qiita.com/mizuhofg_dx/items/215b63af5a0a7d0b4240</link>
-<guid>dfd575889cee6d95c3a499cc78ebc6839f2517da806d6bf97e7f3f3034493fd6</guid>
-<pubDate>2026-07-21T13:36:40+09:00</pubDate>
-<description>はじめに みずほフィナンシャルグループ 内製開発ライン所属の鈴木です。内製開発ラインでは、社内ニーズを起点にプロダクトを開発しています。また、内製開発を円滑に進めるため、AIを活用した開発・業務の効率化にも取り組んでいます。 AIツールの導入も意欲的に進めており、Clau...</description>
+<title>【Qiita】 Copilot Studio で非構造化データはどこまでナレッジになるのか【Part 2: New experience】</title>
+<link>https://qiita.com/Isato-Hiyama/items/d82c81413b4595d0803c</link>
+<guid>e36aae932489271af49aeb60a9765a51eae3568902fd3a82cd1679f8c65ead26</guid>
+<pubDate>2026-07-21T16:30:04+09:00</pubDate>
+<description>本記事について 本記事は「Copilot Studio × 非構造化データ」検証シリーズの Part 2 です。前編 (Part 1) では Classic experience を 5 Round に分けて検証し、5-6/7 Pass を天井に「空間関係」「図の階層構造...</description>
 </item>
 <item>
-<title>【Qiita】 Oracle AI Database 26ai Private Agent Factory（PAF）を触ってみた① ～ PAF概要・構成・構築編 ～</title>
-<link>https://qiita.com/Shota_Koba_XCAT/items/97c578f4cb7a56d12912</link>
-<guid>2956afb2fcdf3255807d207c34ef43e28b58c2b04e637acf238d10d71849bdad</guid>
-<pubDate>2026-07-21T12:16:58+09:00</pubDate>
-<description>はじめに はじめまして。クロスキャットでOCI（Oracle Cloud Infrastructure）の提案・技術支援を担当しているKobaya-Cです。 近年、生成AIやAI Agentに関する話題を目にする機会が急激に増えていますが、お客様やお取引先企業様と会話して...</description>
+<title>【Qiita】 自律型AIエージェント（Autonomous AI Agents）の本番環境運用における技術的障壁とガードレールの設計</title>
+<link>https://qiita.com/NKKTechGlobal/items/306f4af743f39f34c615</link>
+<guid>372a4da5c1f184735e6853e17a830e05e129df8679ba066598aba08a70b9d866</guid>
+<pubDate>2026-07-21T15:20:51+09:00</pubDate>
+<description>自律型AIエージェント（Autonomous AI Agents）の本番環境運用における技術的障壁とガードレールの設計 はじめに 2026年、生成AIの活用は「プロンプトに対する回答（One-shot）」から、目標を与えれば自ら推論（Reasoning）し、ツールを駆...</description>
 </item>
 <item>
-<title>【Qiita】 長時間AIエージェントを止めるPython軌跡監視</title>
-<link>https://qiita.com/hironakamura_ai/items/0c5adba69a1803c40a6a</link>
-<guid>3abd2325f178f6536f7bd6afbb5f844fed7bf72e18db1ce4172472fd2cf90f12</guid>
-<pubDate>2026-07-21T11:27:05+09:00</pubDate>
-<description>長時間動くAIエージェントは、どの時点で止めればいいのか？ 「危ないコマンドをブロックしているから大丈夫」は、長く動くエージェントには少し楽観的すぎると思う。 7月20日に公開されたOpenAIの長時間モデルの安全性に関する記事では、単発の操作では問題が見えなくても、操作...</description>
-</item>
-<item>
-<title>【Qiita】 CursorがSQLiteを再実装、費用の3分の2は計画役のモデルが使った</title>
-<link>https://qiita.com/okssusucha/items/d9caf2ec2260315e1a23</link>
-<guid>6e50ed2497496077b05b501d063082e7e26d89956d61d4177662f292c39c8f6c</guid>
-<pubDate>2026-07-21T13:34:01+09:00</pubDate>
-<description>エージェントを並列で走らせたとき、請求書の内訳がどうなるかを真面目に公開した例をあまり見たことがない。Cursorが7月20日に出した実験レポートは、そこに数字を入れてきた。トークンの9割以上を安いモデルが吐いているのに、金額の3分の2は少数の高いモデルが持っていく。この非...</description>
+<title>【Qiita】 「GPUは4分の1、でも学習は終わらない」NVIDIAが宣言したポストトレーニング中心のAI経済</title>
+<link>https://qiita.com/emi_ndk/items/5718c9ffa8877567c6fb</link>
+<guid>603f6308b66a834de49d3272c80644405823d3c3ff826870ad5f8b29780e4cc1</guid>
+<pubDate>2026-07-21T16:06:59+09:00</pubDate>
+<description>AIの計算需要の中心は、もう事前学習ではない 2026年7月17日、NVIDIAは公式ブログで、AIの計算需要の重心が事前学習から 終わらないポストトレーニング に移ったと宣言した。根拠として示されたのは、550BパラメータMoEのNemotron 3 Ultraを支えた...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/spatialstack-layered-geometry-language-fusion-for-3d-vlm-spatial-reasoning/</link>
-<guid>7e856724f9465a60007828a0b8a1a05aed9316cc95cc1a5710930fd9e71cd4dc</guid>
-<pubDate>Tue, 21 Jul 2026 04:59:51 GMT</pubDate>
+<link>https://research.google/pubs/bridging-the-dimensionality-gap-a-taxonomy-and-survey-of-2d-vision-model-adaptation-for-3d-analysis-2/</link>
+<guid>b3f8d478a697a074867ad81120f2b3f7bf2e3b528cc0f521be45492f2d0eebff</guid>
+<pubDate>Tue, 21 Jul 2026 07:33:27 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75912-x</link>
-<guid>6575072139c538c0b65e85ba7b6a1851e49b72d8d59863d43382cfc78ae1d8a2</guid>
-<pubDate>Tue, 21 Jul 2026 04:59:54 GMT</pubDate>
+<guid>69f534502a39fd5343112329ce927c71d1bf23bbbccdeb3e40bb80c0a4cd6439</guid>
+<pubDate>Tue, 21 Jul 2026 07:33:30 GMT</pubDate>
 <description>The therapeutic application of base editors is limited by their large sizes, which are beyond the packaging capabilities of adeno-associated viral (AAV) vectors. Despite recent progress that has identified many compact CRISPR proteins, the resulting miniature base editors often exhibit reduced activities and limited targeting scope. Here, we introduce a zinc finger protein (ZFP)-enhanced miniature base editor (zmBE), which integrates programmable ZFPs to improve efficiencies and targeting scopes of miniature base editors, including those based on Un1Cas12f1 and OgeuIscB. Utilizing protein language models to optimize ZFPs designed by modular assembly further simplifies the development of zmBEs. Leveraging these methodologies, we engineer a zmBE that effectively induces the SMN2 exon 7 T:A(6) &amp;gt; C:G conversion, restores the exon 7 inclusion, and improves spinal muscular atrophy in a murine model after being delivered via a single AAV vector. Our study provides a versatile platform for developing miniature base editors for in vivo therapeutic applications. Conventional base editors often exceed AAV package limit, while miniature versions lack efficiency. Here, the authors develop zm</description>
 </item>
 
