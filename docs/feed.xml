@@ -4,42 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 20 Jul 2026 23:48:36 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 01:47:10 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【AIエージェントの解剖学：第3回】プラグ＆プレイの道具箱：Model Context Protocol (MCP)の革新</title>
-<link>https://qiita.com/mkuwan/items/52e24a7110bce847de64</link>
-<guid>4613b0e38d271e78d74dbefb5d691fc6a0f4b71b22096e11a418fe1e68eac8f2</guid>
-<pubDate>2026-07-21T08:33:21+09:00</pubDate>
-<description>【AIエージェントの解剖学：第3回】プラグ＆プレイの道具箱：Model Context Protocol (MCP)の革新 【新連載：AIエージェントの解剖学】 前回（第2回）：【AIエージェントの解剖学：第2回】知能に手足を与える：Function Callingと...</description>
+<title>【Qiita】 事務作業にも役に立つ IBM Bob の使い方 【3】MCPとスキルで実現するRPAオペレーション</title>
+<link>https://qiita.com/mi-ta/items/167ff60eb89cf2806cc1</link>
+<guid>bc0a7b77a922a933a14c96b10acc7720ebab69f18632e58c9ed8285bb4489a57</guid>
+<pubDate>2026-07-21T10:25:49+09:00</pubDate>
+<description>はじめに IBM Bobは、IBMが提供するAI機能を持ったIDEです。幅広い開発者向けに使いやすく、親しみやすい機能を提供しています。開発パートナーとしても有能ですが、その能力は開発ではない領域にも活かすことができます。 別の記事でユースケースを軸にBobの機能性を確認...</description>
 </item>
 <item>
-<title>【Qiita】 3人会社にAI経営OSを実装した全記録——CFO/COO/CMOエージェントの作り方と月商250万円の変化</title>
-<link>https://qiita.com/sescore/items/0a54bf1232c0b290cbf4</link>
-<guid>c653e8e4cfc29d674778af0a5856b41c7d1366b5d9c4a120d645df417f313bb4</guid>
-<pubDate>2026-07-21T08:05:37+09:00</pubDate>
-<description>はじめに：SES 1年目の転職衝動から始まった「経営の孤独」 SES業界に入ったエンジニアの多くが、入社1年以内に転職を真剣に考える。私もその一人だった。SES 1年目のうちに転職活動をはじめ、最終的にフリーランスへ転向した。当時の単価相場は月60〜80万円。スキルと営業...</description>
+<title>【Qiita】 Tomcat 9からIBMサポート付きJavaアプリケーションランタイム「WebSphere Liberty」へ移行してみた</title>
+<link>https://qiita.com/ktgr/items/e42a2ce8c8845083bc20</link>
+<guid>15dec88cdac264f58a2609d8a66875de8839809eaf4d5ff4255651addaaa5982</guid>
+<pubDate>2026-07-21T08:55:53+09:00</pubDate>
+<description>はじめに Apache Tomcatは、多くのJava Webアプリケーションで利用されているオープンソースのJavaアプリケーションサーバーです。 一方、企業システムでは、次のような理由からベンダーサポート付きのJavaランタイムが求められることがあります。 問い合わ...</description>
+</item>
+<item>
+<title>【Qiita】 OWASP Juice Shop で学ぶ Web 脆弱性 ― WSL 新CLI「wslc」で建てて、Defender / GitHub で裏取りする</title>
+<link>https://qiita.com/ManabuYamamoto/items/ce9e16873a23701bd526</link>
+<guid>40ccc1038c3a700936f14de1cbe5360bf17f07d2c9b800808cc9fa61dbe551e6</guid>
+<pubDate>2026-07-21T10:17:36+09:00</pubDate>
+<description>パスワードを一切知らないまま、&#x27; OR 1=1-- の一文で管理者としてログイン――「動いてしまうけど危ない」を自分の手で体験しました。そのうえで、見つけた脆弱性を Microsoft Defender for Cloud と GitHub のセキュリティ機能でも検出でき...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code × MCPサーバーを自作して『GitHub Issue → ブランチ → PR』を全自動化した話</title>
+<link>https://qiita.com/hikariclaude01/items/128b0ba6d4993de70b57</link>
+<guid>061b0a2d5fbf73a077d26c9e7390cd0755b967317a1276a5d6181c7bfc414a74</guid>
+<pubDate>2026-07-21T10:01:38+09:00</pubDate>
+<description>結論：Issue を書いたら5分後にPRが立っていた Issue を書いたら5分後にPRが立っていた──Claude Code とMCP自作サーバー3つで実現した完全自動開発フローを、コード全量つきで公開します。 この記事を読むと、以下が再現できます。 MCP サーバー...</description>
+</item>
+<item>
+<title>【Qiita】 実装して理解するマルチエージェントのデザインパターン - ③: AlphaCodium - 作業フロー自体を設計する</title>
+<link>https://qiita.com/Koukyosyumei/items/a7a8d5d2051504c23539</link>
+<guid>5dec347566d9787487253cca3f3bf9e3801724e6de4daff8b9f0aeee98f74c02</guid>
+<pubDate>2026-07-21T09:57:19+09:00</pubDate>
+<description>コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。 本連載では、Claude CodeやCodexを使い、さまざまなマルチエージェント研究のワークフローをh5i-python SDKで再実装します。役割分担、レビュー、投票、合議...</description>
+</item>
+<item>
+<title>【Qiita】 Agentforce×MCPサーバー連携｜設定とツール公開の手順まとめ</title>
+<link>https://qiita.com/ubakichi_sr_mc_ai_06/items/965b5ca7267546d2bd83</link>
+<guid>5f9a5e19749747a1fb45c60c6b510ba7cc2e13de2fe9e0c0df73f74c1d4632f5</guid>
+<pubDate>2026-07-21T09:22:34+09:00</pubDate>
+<description>はじめに AgentforceエージェントをMCPサーバー経由で外部から呼び出したくて、External Client Appの設定から実際に手を動かしてみました。 ドキュメントを読んだだけでは分かりにくかった、OAuthまわりの設定項目とツール公開の実装パターンを、手順...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/phoenix-rowhammer-attacks-on-ddr5-with-self-correcting-synchronization/</link>
-<guid>2f6ee9bd7e20f0774ad86887658d32f6b8f67fd68832740c9e1bb7e7a446e8d0</guid>
-<pubDate>Mon, 20 Jul 2026 23:47:49 GMT</pubDate>
+<link>https://research.google/pubs/guide-a-benchmark-for-user-context-understanding-and-assistance-in-gui-workflow-videos/</link>
+<guid>7da3a5f14ca777a389d029731482832a301c2eccc087a6cf8288968c1be304cd</guid>
+<pubDate>Tue, 21 Jul 2026 01:46:03 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75912-x</link>
-<guid>03f680e16286c7ebb4e492699e594b40ad8f849b6ebfbe9904408e0ced029ef7</guid>
-<pubDate>Mon, 20 Jul 2026 23:47:52 GMT</pubDate>
-<description>The therapeutic application of base editors is limited by their large sizes, which are beyond the packaging capabilities of adeno-associated viral (AAV) vectors. Despite recent progress that has identified many compact CRISPR proteins, the resulting miniature base editors often exhibit reduced activities and limited targeting scope. Here, we introduce a zinc finger protein (ZFP)-enhanced miniature base editor (zmBE), which integrates programmable ZFPs to improve efficiencies and targeting scopes of miniature base editors, including those based on Un1Cas12f1 and OgeuIscB. Utilizing protein language models to optimize ZFPs designed by modular assembly further simplifies the development of zmBEs. Leveraging these methodologies, we engineer a zmBE that effectively induces the SMN2 exon 7 T:A(6) &amp;gt; C:G conversion, restores the exon 7 inclusion, and improves spinal muscular atrophy in a murine model after being delivered via a single AAV vector. Our study provides a versatile platform for developing miniature base editors for in vivo therapeutic applications. Conventional base editors often exceed AAV package limit, while miniature versions lack efficiency. Here, the authors develop zm</description>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>0b99d4722549709cd02067c7467794f0a74d70ea9ea8e24a413416371a892d98</guid>
+<pubDate>Tue, 21 Jul 2026 01:46:04 GMT</pubDate>
+<description>Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overall shape class.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>067358242d19bba303e01d54e4fe4ee97d315df039f54ef8acc27891260555f3</guid>
-<pubDate>Mon, 20 Jul 2026 23:48:17 GMT</pubDate>
+<guid>d05cb56c3fad2d664e7c2df640d3e2a76a8728b6d2a185b369b8f3058c1ff7a5</guid>
+<pubDate>Tue, 21 Jul 2026 01:46:48 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
