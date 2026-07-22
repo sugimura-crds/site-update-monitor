@@ -4,56 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 22 Jul 2026 21:40:08 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 22:54:14 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 個人開発に活かせる、動画生成AIで需要を確かめてから作成するという発想</title>
-<link>https://qiita.com/sumomoo/items/700e37b3240717217b37?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>1803c4baad237b5b8019ac3517d2271890001558714d9f7546c3a036766585af</guid>
-<pubDate>2026-07-22T17:16:40+09:00</pubDate>
-<description>はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です 日々、プログラミング学習や実務の中で、つまずきやすいポイントや 考え方を整理して発信しています。 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。 ▶コーポレートサイト 動画生成...</description>
+<title>【Qiita】 Python を使った PLL/DLL 設計手法（１０）</title>
+<link>https://qiita.com/jun1okamura/items/8ddb09dab468404454d5</link>
+<guid>75d426a85dc192f22d5163673fcae46ddebfef9d6377fee7846ba8376f2ad7cd</guid>
+<pubDate>2026-07-23T07:22:44+09:00</pubDate>
+<description>OpenSUSI-MPW Open-Source TR-1um を使った OpenSUSI-MPW サービスを使って「何か本格的に設計したいなぁ」と考えていたのですが、折角なら Open-Source Tool を活用するリファレンス設計としてのドキュメント記録も残したい...</description>
 </item>
 <item>
-<title>【Qiita】 先輩の「なぜこうしたの？」に毎回パニックになってたけど、整理するだけで上手に話せるようになった</title>
-<link>https://qiita.com/prumnn/items/0fe99e9afff2c9f79fcd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>21f2b9e679ec71d8845bc6c3f52310cba24b0ea8fb122de65922037be0343932</guid>
-<pubDate>2026-07-22T17:01:40+09:00</pubDate>
-<description>はじめに 先輩に「なぜこうしたの？」と聞かれてパニックになった新人エンジニアぷらむんが気づいたのは、&quot;考えていない&quot;んじゃなく&quot;考えを整理していない&quot;だけだったということでした。 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯...</description>
+<title>【Qiita】 Python を使った PLL/DLL 設計手法（９）</title>
+<link>https://qiita.com/jun1okamura/items/bf1c8957b38885385724</link>
+<guid>4649112ad7e51e2c63d7345113ec8049c579c94f8320be1385f61ec1b511e663</guid>
+<pubDate>2026-07-23T07:22:31+09:00</pubDate>
+<description>OpenSUSI-MPW Open-Source TR-1um を使った OpenSUSI-MPW サービスを使って「何か本格的に設計したいなぁ」と考えていたのですが、折角なら Open-Source Tool を活用するリファレンス設計としてのドキュメント記録も残したい...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeの能力を極限まで引き出す：カスタムSubagents設計と拡張プラグイン活用ガイド</title>
-<link>https://qiita.com/QuQuLa89/items/441744e6f53d7c073df2</link>
-<guid>16e463d3627d925e0be6bddd708a2881c3614229029ac8cc0bea1edb5a636442</guid>
-<pubDate>2026-07-23T05:47:53+09:00</pubDate>
-<description>はじめに CLIで動作する高度なAIコーディングアシスタント [Claude Code] は、単体でも強力なコード編集・コマンド実行能力を持っています。しかし、大規模なプロジェクトや複雑なマルチタスクを行う際、1つのセッションに全ての作業を詰め込むと、コンテキストウィンド...</description>
+<title>【Qiita】 Python を使った PLL/DLL 設計手法（８）</title>
+<link>https://qiita.com/jun1okamura/items/344707f8c68d9f5e26c5</link>
+<guid>5e4cd0c78ff2b9d6cda896a2be17df6de4641ae5059d2f6eb92087a1a8e799d7</guid>
+<pubDate>2026-07-23T07:22:14+09:00</pubDate>
+<description>OpenSUSI-MPW Open-Source TR-1um を使った OpenSUSI-MPW サービスを使って「何か本格的に設計したいなぁ」と考えていたのですが、折角なら Open-Source Tool を活用するリファレンス設計としてのドキュメント記録も残したい...</description>
 </item>
 <item>
-<title>【Qiita】 Fuguが示した次のAI競争はモデル単体ではなくオーケストレーションである</title>
-<link>https://qiita.com/mhamadajp/items/0217e48459e4c8623a72</link>
-<guid>96598326cf4e69614624f3d94192ec33be8b01c1431bf07d9b2736beaadefdda</guid>
-<pubDate>2026-07-23T05:30:25+09:00</pubDate>
-<description>AIモデルを選ぶとき、これまでは「どのモデルが一番強いか」を見がちでした。 コーディングならこのモデル。 長文推論ならこのモデル。 画像を含むならこのモデル。 しかし、AIエージェントが実務に入り始めると、この考え方だけでは足りなくなります。実際の仕事は、単一の能力で終わら...</description>
+<title>【Qiita】 Python を使った PLL/DLL 設計手法（７）</title>
+<link>https://qiita.com/jun1okamura/items/c97a2c8de1570e5282df</link>
+<guid>bdd1a5bb3455fcaddd1006940f8ec6eeceba5e51923bfa4ed4a622a99c108b0e</guid>
+<pubDate>2026-07-23T07:21:51+09:00</pubDate>
+<description>OpenSUSI-MPW Open-Source TR-1um を使った OpenSUSI-MPW サービスを使って「何か本格的に設計したいなぁ」と考えていたのですが、折角なら Open-Source Tool を活用するリファレンス設計としてのドキュメント記録も残したい...</description>
+</item>
+<item>
+<title>【Qiita】 80年の難問を解いたAIは、1時間でサンドボックスを破った：OpenAIが公開した「封じ込め」初事例</title>
+<link>https://qiita.com/emi_ndk/items/6d4d7fcd0920c5d1194f</link>
+<guid>e98b006ea7882f9910037e467ff42037f80d274bf01bd11f893ae43c8b44c775</guid>
+<pubDate>2026-07-23T07:14:22+09:00</pubDate>
+<description>80年間だれも解けなかった数学の予想を反証したモデルが、同じ「粘り強さ」で自分を閉じ込めていたサンドボックスに穴を開けた。しかも1時間で。 2026年7月20日、OpenAIは「Safety and alignment in an era of long-horizon m...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/reasoning-driven-synthetic-data-generation-and-evaluation/</link>
-<guid>42a36c16629bd53b09c2bf8845db362035c948fceae0e443a78ffff3f1089ee6</guid>
-<pubDate>Wed, 22 Jul 2026 21:39:22 GMT</pubDate>
+<link>https://research.google/pubs/tech-worker-challenges-managing-humanlike-genai/</link>
+<guid>8a0ece795871ad9d739c8d0c43af35a2a8a08fbfb70783303c20f5e24435fa54</guid>
+<pubDate>Wed, 22 Jul 2026 22:53:30 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75912-x</link>
-<guid>faf3a985e7cbc3af0f99cc35880f99769cdb3ce6b4a0e807bdbf7e1e9c3748f4</guid>
-<pubDate>Wed, 22 Jul 2026 21:39:25 GMT</pubDate>
-<description>The therapeutic application of base editors is limited by their large sizes, which are beyond the packaging capabilities of adeno-associated viral (AAV) vectors. Despite recent progress that has identified many compact CRISPR proteins, the resulting miniature base editors often exhibit reduced activities and limited targeting scope. Here, we introduce a zinc finger protein (ZFP)-enhanced miniature base editor (zmBE), which integrates programmable ZFPs to improve efficiencies and targeting scopes of miniature base editors, including those based on Un1Cas12f1 and OgeuIscB. Utilizing protein language models to optimize ZFPs designed by modular assembly further simplifies the development of zmBEs. Leveraging these methodologies, we engineer a zmBE that effectively induces the SMN2 exon 7 T:A(6) &amp;gt; C:G conversion, restores the exon 7 inclusion, and improves spinal muscular atrophy in a murine model after being delivered via a single AAV vector. Our study provides a versatile platform for developing miniature base editors for in vivo therapeutic applications. Conventional base editors often exceed AAV package limit, while miniature versions lack efficiency. Here, the authors develop zm</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>ce630ef56f26a6b50051710465f7dc225ed4cd904580ed3c4488e141373933ac</guid>
-<pubDate>Wed, 22 Jul 2026 21:39:29 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>7e4c3c4f6ba6518782fc42a8ac7ca554ecdcf4b53cb8a9355e3d8ff68135dfd7</guid>
+<pubDate>Wed, 22 Jul 2026 22:53:57 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
