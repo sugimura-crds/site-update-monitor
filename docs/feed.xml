@@ -4,57 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 22 Jul 2026 01:46:11 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 05:00:40 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 さわってみよう Db2 AI エディション #13 〜Db2 Genius Hub MCP Server編 Part#2〜</title>
-<link>https://qiita.com/ibm_tk/items/37456fe2e352f7d04812</link>
-<guid>3c0fffc418a08e2316f7616277f2a87a05cfdf7d965dc07a0522ac90e47b68e6</guid>
-<pubDate>2026-07-22T10:34:12+09:00</pubDate>
-<description>Db2 AI エディション(Db2 AI Advanced, Db2 AI Standard)にはフル機能のDb2 Genius Hubがバンドルされています。 このGenius Hubは、v1.1.3以降からDb2 Genius Hub MCP Serverが搭載されまし...</description>
+<title>【Qiita】 【AIエージェントの解剖学：第4回】ワーキングメモリの科学：Prompt &amp; Context Engineeringの限界突破</title>
+<link>https://qiita.com/mkuwan/items/f5ee78aca9cbe0068995</link>
+<guid>f6c530cdf9e50e25494a67159c7db48b6786b548ca25600659f732e80193f47a</guid>
+<pubDate>2026-07-22T13:58:42+09:00</pubDate>
+<description>【AIエージェントの解剖学：第4回】ワーキングメモリの科学：Prompt &amp; Context Engineeringの限界突破 【新連載：AIエージェントの解剖学】 前回（第3回）：【AIエージェントの解剖学：第3回】プラグ＆プレイの道具箱：Model Context...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeでトライ！② - 歌（音）をピアノに変換するFlutterアプリ -</title>
-<link>https://qiita.com/OnuuuumaX/items/c83df76327f0334a9f81</link>
-<guid>116cb5a67d8e87f7f977d47db253a01c515265c6000655653ea71c2d56316bb6</guid>
-<pubDate>2026-07-22T09:00:06+09:00</pubDate>
-<description>はじめに 「歌ったメロディや鳴った音を、その場でピアノの音に変換して鳴らしてくれるアプリを作ってみよう！」 そんな思いつきから、Claudeデスクトップで実装プランをMarkdownで書き起こし、あとはClaude Code（CLI版のClaude）にひたすらプロンプトを...</description>
+<title>【Qiita】 AI評価環境の外部接続をPythonで点検する</title>
+<link>https://qiita.com/eiri_ai/items/aebdd128c159d0a33dc1</link>
+<guid>64cc792e4bb54c3a2f5ee844f58dbd5e3c077f457f7ddbb22f13183b0cbea9e2</guid>
+<pubDate>2026-07-22T12:23:38+09:00</pubDate>
+<description>実は、AIの評価環境ほど外部接続を狭くした方がいいです。 本番につながっていないから大丈夫、では足りません。評価では普段より強い権限や緩い制約を一時的に使うことがあります。その環境にインターネット、秘密情報、書き込み可能なホスト側フォルダが同居すると、検証用のつもりが境界を...</description>
 </item>
 <item>
-<title>【Qiita】 2026/07/22 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/6ec7bc954b548f174a92</link>
-<guid>704b72c25ddd9192370ceecff02e36cd60a8aee55edd76d4f7f54050aedfc47a</guid>
-<pubDate>2026-07-22T09:42:34+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 セキュリティの勉強になるサイト138選(202...</description>
+<title>【Qiita】 Developer Summit 2026 Summer 2日目 参加レポート：AIの「記憶」、人間の「本質を見極める力」、そして信頼の実装 🏝️</title>
+<link>https://qiita.com/y-morimatsu/items/59ef4295db09bf7c6bab</link>
+<guid>b77f60e8b810cb76eb0e3239d2d3c0d90b473ffe1d1e72d8d61536bde3e7e7d8</guid>
+<pubDate>2026-07-22T12:08:11+09:00</pubDate>
+<description>グラレコ はじめに Developer Summit 2026 Summer（デブサミ2026夏）の2日目、2026年7月17日に参加し、3つのセッションを聴講してきました。前回の1日目レポートでは「確率的な生成を決定論で受け止める」「人間に判断を残す」「コンテキスト...</description>
 </item>
 <item>
-<title>【Qiita】 AIコードレビューの精度を上げた「重要度分類×Few-shot」— 確認時間を半分にしたプロンプト設計</title>
-<link>https://qiita.com/fuji1009_REBELL/items/54509e90f74c3f970713</link>
-<guid>f0e620ebad057ea678eb57e72c70cc4283a61333935906046185bb42a289b01c</guid>
-<pubDate>2026-07-22T09:30:51+09:00</pubDate>
-<description>Claude Codeにコードレビューを頼み始めた頃、私は指摘の山を前に固まっていました。「変数名のスペース」と「SQLインジェクションの穴」が同じ温度感で並んでいるのです。20個の指摘のうち、本当に直すべき2〜3個が埋もれてしまう。 結局「全部読んで人間が仕分ける」羽目に...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントに「タスク台帳」を持たせる——Markdown3枚で作る軽量プロジェクト管理</title>
-<link>https://qiita.com/fuji1009_REBELL/items/83f0d4dba5621ea0e5b4</link>
-<guid>5161a65009af29ac2b6bc32391f5efbb8f56f7f6b3d2a14602e5d809520b612f</guid>
-<pubDate>2026-07-22T09:19:13+09:00</pubDate>
-<description>AIエージェントに仕事を任せるようになって、最初にぶつかったのが「タスク管理をどうするか」でした。 JiraやNotionを繋ごうとして、やめました。理由はシンプルで、AIに使わせるとトークンばかり食う割に、肝心の「今どこまで進んだか」が更新されないからです。最終的にたどり...</description>
+<title>【Qiita】 AIにコードを任せたあと、人は何を見るべきか: 学生による学生のためのdiffレビュー入門</title>
+<link>https://qiita.com/2-2/items/6339f85bb105c3a8d1e8</link>
+<guid>50ede269b26223cb40c4158d01f7b65deddb4e819554614b5db5561446165f3a</guid>
+<pubDate>2026-07-22T11:22:48+09:00</pubDate>
+<description>AIにコードを任せたあと、人間は何を見るべきか: 学生のためのdiffレビュー実践入門 AIにコードを書かせることは、もう珍しいことではなくなりました。私自身がAIを使って思ったことをまとめてみました。 ChatGPT、Codex、Claude Code、GitHub C...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/bridging-the-dimensionality-gap-a-taxonomy-and-survey-of-2d-vision-model-adaptation-for-3d-analysis-2/</link>
-<guid>cf2ae53b3b8a3276b75fbaf2583f925d44950dc93072e53074dcb5b249a3cb2a</guid>
-<pubDate>Wed, 22 Jul 2026 01:45:10 GMT</pubDate>
+<link>https://research.google/pubs/the-synthetic-gap-automating-forensic-investigation-of-ai-slop-with-the-scaled-abuse-forensics-examiner-safe/</link>
+<guid>1a73f934e38d4c2ff3465ece29ed042e2001347428dd6607547bbdc7eb95d399</guid>
+<pubDate>Wed, 22 Jul 2026 04:59:35 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>3024dda1f20d264c1116fe331a8d666e84397b9c4e06de6b6a046b4585bdaba8</guid>
-<pubDate>Wed, 22 Jul 2026 01:45:55 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75912-x</link>
+<guid>53301a6250ef90797c913f02d13b7421d7b01afc20c3e59b735a6a5579ef2a5c</guid>
+<pubDate>Wed, 22 Jul 2026 04:59:38 GMT</pubDate>
+<description>The therapeutic application of base editors is limited by their large sizes, which are beyond the packaging capabilities of adeno-associated viral (AAV) vectors. Despite recent progress that has identified many compact CRISPR proteins, the resulting miniature base editors often exhibit reduced activities and limited targeting scope. Here, we introduce a zinc finger protein (ZFP)-enhanced miniature base editor (zmBE), which integrates programmable ZFPs to improve efficiencies and targeting scopes of miniature base editors, including those based on Un1Cas12f1 and OgeuIscB. Utilizing protein language models to optimize ZFPs designed by modular assembly further simplifies the development of zmBEs. Leveraging these methodologies, we engineer a zmBE that effectively induces the SMN2 exon 7 T:A(6) &amp;gt; C:G conversion, restores the exon 7 inclusion, and improves spinal muscular atrophy in a murine model after being delivered via a single AAV vector. Our study provides a versatile platform for developing miniature base editors for in vivo therapeutic applications. Conventional base editors often exceed AAV package limit, while miniature versions lack efficiency. Here, the authors develop zm</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>8998f2518c0ee1b31a21251d969e180d3e50a2c9ba14890d688bc3c2e5b24107</guid>
+<pubDate>Wed, 22 Jul 2026 04:59:41 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+</item>
+<item>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>0006e0f12da06f7d7a754a18eefb979c9949891bf3426d261adba49b1dcd2651</guid>
+<pubDate>Wed, 22 Jul 2026 04:59:46 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 
 </channel>
