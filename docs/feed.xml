@@ -4,126 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 22 Jul 2026 10:15:45 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 12:10:47 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 SSL/TLS証明書って何？なぜ必要で、誰が発行して誰が使うのかを整理する</title>
-<link>https://qiita.com/mame_hiro416/items/dc7a18f58eb5a2c8a6e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>f32027af696d9aa3f874ca134c0d80cd3cc2a4b2bae8bf80cc32aa40b5b41c90</guid>
-<pubDate>2026-07-20T09:06:34+09:00</pubDate>
-<description>はじめに サーバーをHTTPSで公開しようとすると必ず出てくるのが「証明書」です。ブラウザで鍵マークが表示されるあの仕組みですが、「なぜ必要なのか」「誰が発行しているのか」「誰が何のために使うのか」を順を追って説明できる人は意外と少ないのではないでしょうか。 本記事では、...</description>
+<title>【Qiita】 RAGはどこまで騙せるか？ PoisonedRAGを日本語文書で試してみた</title>
+<link>https://qiita.com/hirozouu/items/ad2ef646de0bd3b90845</link>
+<guid>ed8fc243e4eec61ffb644ee297243f8fffadb3600134c7dea110f77925d280a0</guid>
+<pubDate>2026-07-22T19:47:16+09:00</pubDate>
+<description>RAG（Retrieval-Augmented Generation）は LLM の回答品質を高める手法として広く使われています。では、検索対象となるナレッジベースに悪意ある文書が混入していた場合、LLM はどのような回答を返すのでしょうか。 PoisonedRAG はその...</description>
 </item>
 <item>
-<title>【Qiita】 Backlog × AIエージェント連携で開発業務を回す5つの活用例【bee + Agent Skills】</title>
-<link>https://qiita.com/tie_rrific/items/8df560b1cb27945bd4c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>b8219250f32b911ed05885961c04ff6abf9d92e70d41792d7a6b4600e261190c</guid>
-<pubDate>2026-07-21T11:07:37+09:00</pubDate>
-<description>はじめに 最近では、GitHub CopilotやClaude CodeなどのAIエージェントにコードを書かせる開発スタイルが広がりつつあります。 しかし、実際の開発業務には、要件や背景の把握、実装後の報告、知見のドキュメント化など、コードを書く以外にも多くの作業がありま...</description>
+<title>【Qiita】 AI時代のセキュリティ Devinの「Security Swarm」は、脆弱性を&quot;見つけて・試して・直す&quot;まで自動でやる</title>
+<link>https://qiita.com/startdevin/items/a1cf367f438f0efdc2d5</link>
+<guid>7d48cc1881a4900ed557809fd49aea94716f60cafc72eed1f6848e6efa0b820c</guid>
+<pubDate>2026-07-22T19:41:50+09:00</pubDate>
+<description>🚀 Devin専門の解説メディア「StartDevin」を運営中！ Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています。 👉 StartDevin をチェックする（startdevin.jp） この記事にぜひ いいね❤️ していただけると励み...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Application Modernization AcceleratorでDb2のSaaS移行アセスメントを実行する</title>
-<link>https://qiita.com/ktgr/items/9ef6cbb44b8b43dc293a</link>
-<guid>b1e523d7a21e291ce4b6e6010557c3a6757f363b6f2e7caac37316f2896ba1bf</guid>
-<pubDate>2026-07-22T18:12:18+09:00</pubDate>
-<description>はじめに IBM Application Modernization Accelerator（AMA）のDiscovery Toolを使用して、Db2データベースのSaaS移行アセスメントを試してみました。 今回は検証用のDb2環境を用意し、Discovery Toolの...</description>
-</item>
-<item>
-<title>【Qiita】 モデルもプロンプトも大事、さらに効いた「ハイブリッド化」── 本番LLMは“生成させず選択させる”と幻覚が消えた</title>
-<link>https://qiita.com/ntaka329/items/79ad347893d4be665bde</link>
-<guid>3c9057539e0dc15b703381cc30649a672958c74cf18ff35240bc955c57c09bf4</guid>
-<pubDate>2026-07-22T18:38:13+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 ある稼働中の業務サービスのバックエンドで、LLMが複数の機能で使われていました。動いているモデルはサービスイン当初に選んだ gpt-4.1-mini のままで、その後は一度も見直されていません😇 最新モデルが出て、LLM-as-a-j...</description>
-</item>
-<item>
-<title>【Qiita】 VSCodeで分析エージェントを作ってみた</title>
-<link>https://qiita.com/makotodaxi5/items/077f49b3e4ae3deed9de</link>
-<guid>b2b87afd6af3efe930280ef261a369d8be8a0015093b3038189020ace1b1e7d7</guid>
-<pubDate>2026-07-22T19:03:29+09:00</pubDate>
-<description>はじめに AIエージェントを作ろうと思ったとき、codexやclaude codeで作る方法もあるが、できれば普段から使っている環境で作りたいと思った。 そこで、VS CodeとGitHub Copilotを使えば、用途に合わせたエージェントを作れることが分かった。 今回...</description>
-</item>
-<item>
-<title>【Qiita】 AI Agents vs. Chatbots: A Systems-Level Look at Why the Distinction Matters</title>
-<link>https://qiita.com/saawahi/items/2057f7bc9405abd44b41</link>
-<guid>b676e6515a1454d8dafe6fac1dc18a3cb62e8a1fe4d345886c1b061e54208e73</guid>
-<pubDate>2026-07-22T18:30:39+09:00</pubDate>
-<description>From an architecture standpoint, chatbots and AI agents aren&#x27;t different UI skins on the same backend — they&#x27;re different execution model...</description>
-</item>
-<item>
-<title>【農業】 Cropland deterioration widens yield gaps</title>
-<link>https://www.nature.com/articles/s43016-026-01381-6</link>
-<guid>2bd2e9ae8166a7b0a9d432f7cb2e26d998a119d246308fdca69c2351a6eb7423</guid>
+<title>【自動自律実験】 Here’s what’s next for the Artemis II astronauts</title>
+<link>https://www.nature.com/articles/d41586-026-02020-7</link>
+<guid>18062c45b999353d9bf97397b8af68150088b88adbeaced571df0700c909953b</guid>
 <pubDate>2026-07-22</pubDate>
-<description>The degradation of agricultural land poses a vital threat to productivity and is, in some cases, hard to reverse. Curbing this trend is essential to avoid cascading impacts on natural ecosystems, biodiversity and human health.</description>
-</item>
-<item>
-<title>【農業】 Land degradation is associated with larger crop yield gaps across global croplands</title>
-<link>https://www.nature.com/articles/s43016-026-01382-5</link>
-<guid>e3d85a5e363a37f9f82e6b4f30adb56d39bb0c7526c3c967a3b069879727c8ad</guid>
-<pubDate>2026-07-22</pubDate>
-<description>Land degradation is widely recognized as a threat to food security. Using high-resolution global data on multiple land degradation indicators and crop yield gaps, the study shows that greater historical land degradation is associated with larger yield gaps in major food-producing regions. These findings highlight the need </description>
-</item>
-<item>
-<title>【環境】 Ecological novelty induced by climate change</title>
-<link>https://www.nature.com/articles/s41558-026-02697-8</link>
-<guid>d1b3fd7b7da771aa704bcc14e20fe9fd6af3c7a651e3d47e9932fb764f4e9897</guid>
-<pubDate>2026-07-22</pubDate>
-<description>The authors review ecological novelty—ecological situations with no precedent—arising from climate change. They discuss ecological novelty due to direct and indirect effects of climate change, and due to adaptation and mitigation measures, and explore management options that are against, for or tolerant of ecolog</description>
-</item>
-<item>
-<title>【環境】 When drought meets war trauma</title>
-<link>https://www.nature.com/articles/s41893-026-01909-5</link>
-<guid>ff553b09d45e7fff49f28fbdb044117ac3e1f2bcac4098d95951737e5aad91cd</guid>
-<pubDate>2026-07-22</pubDate>
-<description>The human consequences of armed conflict and climate change are often studied separately despite frequent co-occurrence of those events in fragile regions. A study now reveals a compounding effect of drought on post-traumatic stress from war, underlining the need for mental health services as a component of adapt</description>
-</item>
-<item>
-<title>【環境】 Culturalizing sustainability</title>
-<link>https://www.nature.com/articles/s41893-026-01898-5</link>
-<guid>e6145f655f00b0499d037f7e3b8f886921c7dc3cb51c5f3e7d2e55ac1a5e41dd</guid>
-<pubDate>2026-07-22</pubDate>
-<description>Policy-makers and scientists dominate high-level sustainability debates but any decision that follows has consequences for ordinary people in their local communities and environments. We asked experts to reflect on the importance of embracing a culturally informed, bottom-up approach to the sustainability discour</description>
-</item>
-<item>
-<title>【環境】 Drought amplifies the psychological burden of war</title>
-<link>https://www.nature.com/articles/s41893-026-01882-z</link>
-<guid>b9b3ec3cc2b8f04b8476752bfbf190512bf5d1e678cc468ef80e9c1e96ef92ce</guid>
-<pubDate>2026-07-22</pubDate>
-<description>Integrating georeferenced drought data from respondents’ pre-displacement regions with survey data from Syrian and Iraqi refugees, this study finds a stronger association between war exposure and post-traumatic stress among individuals from more drought-affected areas of origin.</description>
-</item>
-<item>
-<title>【自動自律実験】 Polio should have been eradicated by now. What’s plan B?</title>
-<link>https://www.nature.com/articles/d41586-026-02229-6</link>
-<guid>497a221c67e271a808f554667db7647d86d7950863b3a821dbb2cd27a034c793</guid>
-<pubDate>2026-07-22</pubDate>
-<description>Amid funding cuts and political barriers, researchers are asking whether the campaign can ever succeed, and what to do next.</description>
+<description>Newfound fame has proved to be stellar for some astronauts but harder for others. Will NASA’s popular crew need some space?</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/towards-ai-as-a-collaborative-partner-a-taxonomy-of-ai-agent-behavior-in-software-engineering/</link>
-<guid>ea9fd817a09c95873e19f1973fab56bab3861d57a629653ed7a47622a46db96b</guid>
-<pubDate>Wed, 22 Jul 2026 10:15:04 GMT</pubDate>
+<link>https://research.google/pubs/livesvg-zero-shot-svg-animation-via-video-generation/</link>
+<guid>e98d6476c000a9249721441eeb5f8c4873b13ec72ddc1f2d4d697ffcf8f88deb</guid>
+<pubDate>Wed, 22 Jul 2026 12:10:03 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75912-x</link>
-<guid>1777597eec598ef3a78929e8f2d73a9063f721fa12b4ccc1b87b0296b533c659</guid>
-<pubDate>Wed, 22 Jul 2026 10:15:06 GMT</pubDate>
+<guid>ef4ca31fa9648f48d8a82737ae6577c661164e4cea2ace0989ea8e291f78a44c</guid>
+<pubDate>Wed, 22 Jul 2026 12:10:06 GMT</pubDate>
 <description>The therapeutic application of base editors is limited by their large sizes, which are beyond the packaging capabilities of adeno-associated viral (AAV) vectors. Despite recent progress that has identified many compact CRISPR proteins, the resulting miniature base editors often exhibit reduced activities and limited targeting scope. Here, we introduce a zinc finger protein (ZFP)-enhanced miniature base editor (zmBE), which integrates programmable ZFPs to improve efficiencies and targeting scopes of miniature base editors, including those based on Un1Cas12f1 and OgeuIscB. Utilizing protein language models to optimize ZFPs designed by modular assembly further simplifies the development of zmBEs. Leveraging these methodologies, we engineer a zmBE that effectively induces the SMN2 exon 7 T:A(6) &amp;gt; C:G conversion, restores the exon 7 inclusion, and improves spinal muscular atrophy in a murine model after being delivered via a single AAV vector. Our study provides a versatile platform for developing miniature base editors for in vivo therapeutic applications. Conventional base editors often exceed AAV package limit, while miniature versions lack efficiency. Here, the authors develop zm</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>3eb1739bfa0f943d11b3367cf2d7c39a538fc45202c632a316114601b8535a62</guid>
-<pubDate>Wed, 22 Jul 2026 10:15:08 GMT</pubDate>
+<guid>3dbd7fc9a34b8094128e1eb8a8b934e002554d14223c2132a7bde52988fb25fb</guid>
+<pubDate>Wed, 22 Jul 2026 12:10:08 GMT</pubDate>
 <description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02994-8</link>
-<guid>cb5ec07f079c1217e689987ed3206e9ac56fed853b8a06cb169da2739598ccab</guid>
-<pubDate>Wed, 22 Jul 2026 10:15:10 GMT</pubDate>
-<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>0070e50e8f8d0b2109446774d5ad7ebc6ba105fe3adb3cd4fd0b716739715101</guid>
+<pubDate>Wed, 22 Jul 2026 12:10:09 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
+<link>https://www.eurohpc-ju.europa.eu/index_en</link>
+<guid>36839b2d047f56c5ec3414af0e071caa568473cff1fd7b5af7135f860a337d11</guid>
+<pubDate>Wed, 22 Jul 2026 12:10:18 GMT</pubDate>
+<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
 </item>
 
 </channel>
