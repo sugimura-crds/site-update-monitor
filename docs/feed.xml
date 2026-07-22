@@ -4,63 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 22 Jul 2026 05:00:40 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 07:35:28 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【AIエージェントの解剖学：第4回】ワーキングメモリの科学：Prompt &amp; Context Engineeringの限界突破</title>
-<link>https://qiita.com/mkuwan/items/f5ee78aca9cbe0068995</link>
-<guid>f6c530cdf9e50e25494a67159c7db48b6786b548ca25600659f732e80193f47a</guid>
-<pubDate>2026-07-22T13:58:42+09:00</pubDate>
-<description>【AIエージェントの解剖学：第4回】ワーキングメモリの科学：Prompt &amp; Context Engineeringの限界突破 【新連載：AIエージェントの解剖学】 前回（第3回）：【AIエージェントの解剖学：第3回】プラグ＆プレイの道具箱：Model Context...</description>
+<title>【Qiita】 required checkがlintだけだった。AIが「慎重な実行」と解釈してそのままマージした話</title>
+<link>https://qiita.com/nomurasan/items/ab1dd60e7dfde520ebdb</link>
+<guid>96edbc2040964db1e0329417729f276dbb69b2467c2b5c6fe2142a73125c584e</guid>
+<pubDate>2026-07-22T16:24:21+09:00</pubDate>
+<description>仕上げは AI との協働でやっています。事実と表現は著者本人が確認しています。 CLAUDE.md や指示ファイルに「〜禁止」と書いたことがあるなら、その禁止は今この瞬間も破られる余地を抱えている。AIは指示の意図ではなく、指示の表現を読む。表現に穴があれば、AIは...</description>
 </item>
 <item>
-<title>【Qiita】 AI評価環境の外部接続をPythonで点検する</title>
-<link>https://qiita.com/eiri_ai/items/aebdd128c159d0a33dc1</link>
-<guid>64cc792e4bb54c3a2f5ee844f58dbd5e3c077f457f7ddbb22f13183b0cbea9e2</guid>
-<pubDate>2026-07-22T12:23:38+09:00</pubDate>
-<description>実は、AIの評価環境ほど外部接続を狭くした方がいいです。 本番につながっていないから大丈夫、では足りません。評価では普段より強い権限や緩い制約を一時的に使うことがあります。その環境にインターネット、秘密情報、書き込み可能なホスト側フォルダが同居すると、検証用のつもりが境界を...</description>
+<title>【Qiita】 AI を活用した開発に「いちエンジニア」が向き合い、実践している 3 つの仕組み</title>
+<link>https://qiita.com/masa-asa/items/343dd140ee519a8d62bd</link>
+<guid>a2489dd5695f8d8a132f01650e1f6d048b877256e08ba42c5f9bdaa785863010</guid>
+<pubDate>2026-07-22T15:38:48+09:00</pubDate>
+<description>はじめに こんにちは、@masa-asa です。 AI にコードを書いてもらうこと自体は、日に日に簡単になっています。一方で、業務で使おうとすると「出力をどこまで信頼するのか」「どうすればチームの方針に沿った実装になるのか」という悩みが出てきます。 私も明確な正解を持って...</description>
 </item>
 <item>
-<title>【Qiita】 Developer Summit 2026 Summer 2日目 参加レポート：AIの「記憶」、人間の「本質を見極める力」、そして信頼の実装 🏝️</title>
-<link>https://qiita.com/y-morimatsu/items/59ef4295db09bf7c6bab</link>
-<guid>b77f60e8b810cb76eb0e3239d2d3c0d90b473ffe1d1e72d8d61536bde3e7e7d8</guid>
-<pubDate>2026-07-22T12:08:11+09:00</pubDate>
-<description>グラレコ はじめに Developer Summit 2026 Summer（デブサミ2026夏）の2日目、2026年7月17日に参加し、3つのセッションを聴講してきました。前回の1日目レポートでは「確率的な生成を決定論で受け止める」「人間に判断を残す」「コンテキスト...</description>
+<title>【Qiita】 コミット前のレビューをCopilot Agentで自動化してみた</title>
+<link>https://qiita.com/yoku_nete_yoku_taberu/items/6f8f5e2c734162131fc3</link>
+<guid>a87e56856fb5f292474889d7686adb2fca46088d24fd19128bc9f5bddc81775a</guid>
+<pubDate>2026-07-22T15:18:25+09:00</pubDate>
+<description>社内にもCopilot Agentの風が強く吹き始めている今日この頃。 流行りに乗って私も何か活用してみようということで、面倒に感じていたコミット前の差分の確認やコミットメッセージの考案をpromptsとskillsを使って自動化してみました！ 前提 Reactを使った...</description>
 </item>
 <item>
-<title>【Qiita】 AIにコードを任せたあと、人は何を見るべきか: 学生による学生のためのdiffレビュー入門</title>
-<link>https://qiita.com/2-2/items/6339f85bb105c3a8d1e8</link>
-<guid>50ede269b26223cb40c4158d01f7b65deddb4e819554614b5db5561446165f3a</guid>
-<pubDate>2026-07-22T11:22:48+09:00</pubDate>
-<description>AIにコードを任せたあと、人間は何を見るべきか: 学生のためのdiffレビュー実践入門 AIにコードを書かせることは、もう珍しいことではなくなりました。私自身がAIを使って思ったことをまとめてみました。 ChatGPT、Codex、Claude Code、GitHub C...</description>
+<title>【Qiita】 Databricks Genie Codeを試す (1): 機能の全体像・承認モデル・日本語環境セットアップ</title>
+<link>https://qiita.com/taka_yayoi/items/40ab34ff24f53152535b</link>
+<guid>7bdf01d1c103cfd2bb1352b1bf5f6bc3534155892abca76d4faa7eca72e6cc17</guid>
+<pubDate>2026-07-22T14:58:56+09:00</pubDate>
+<description>はじめに Databricksワークスペースに、開発者・技術実務者向けのAIコーディング/データアシスタント「Genie Code」が搭載されています。コードの生成・実行、パイプラインやAI/BIダッシュボードの構築、エラーのデバッグまでを、Unity Catalogのメ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/the-synthetic-gap-automating-forensic-investigation-of-ai-slop-with-the-scaled-abuse-forensics-examiner-safe/</link>
-<guid>1a73f934e38d4c2ff3465ece29ed042e2001347428dd6607547bbdc7eb95d399</guid>
-<pubDate>Wed, 22 Jul 2026 04:59:35 GMT</pubDate>
+<link>https://research.google/pubs/rethinking-context-enriched-time-series-forecasting-evaluation/</link>
+<guid>7baef479cf5fad8d250ddd03831ab167e6f746f2572cffade8ac087dd9b48c76</guid>
+<pubDate>Wed, 22 Jul 2026 07:34:35 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75912-x</link>
-<guid>53301a6250ef90797c913f02d13b7421d7b01afc20c3e59b735a6a5579ef2a5c</guid>
-<pubDate>Wed, 22 Jul 2026 04:59:38 GMT</pubDate>
+<guid>9685b6f2322adb37ed8d6d26bfaaa17176e1e0ac34e9489372daed4c29d12f65</guid>
+<pubDate>Wed, 22 Jul 2026 07:34:37 GMT</pubDate>
 <description>The therapeutic application of base editors is limited by their large sizes, which are beyond the packaging capabilities of adeno-associated viral (AAV) vectors. Despite recent progress that has identified many compact CRISPR proteins, the resulting miniature base editors often exhibit reduced activities and limited targeting scope. Here, we introduce a zinc finger protein (ZFP)-enhanced miniature base editor (zmBE), which integrates programmable ZFPs to improve efficiencies and targeting scopes of miniature base editors, including those based on Un1Cas12f1 and OgeuIscB. Utilizing protein language models to optimize ZFPs designed by modular assembly further simplifies the development of zmBEs. Leveraging these methodologies, we engineer a zmBE that effectively induces the SMN2 exon 7 T:A(6) &amp;gt; C:G conversion, restores the exon 7 inclusion, and improves spinal muscular atrophy in a murine model after being delivered via a single AAV vector. Our study provides a versatile platform for developing miniature base editors for in vivo therapeutic applications. Conventional base editors often exceed AAV package limit, while miniature versions lack efficiency. Here, the authors develop zm</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>8998f2518c0ee1b31a21251d969e180d3e50a2c9ba14890d688bc3c2e5b24107</guid>
-<pubDate>Wed, 22 Jul 2026 04:59:41 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>0006e0f12da06f7d7a754a18eefb979c9949891bf3426d261adba49b1dcd2651</guid>
-<pubDate>Wed, 22 Jul 2026 04:59:46 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>094f4e0b6a3ef2872a35b9d6c879f4c618d4aee0fb3d7b0f61ca07c4b26b5c2b</guid>
+<pubDate>Wed, 22 Jul 2026 07:35:11 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
