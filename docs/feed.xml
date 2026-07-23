@@ -4,77 +4,50 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 23 Jul 2026 10:12:18 GMT</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 12:09:12 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Railsで学ぶ Rubyの実行モデル入門 〜「1行ずつ翻訳」は誤解だった！〜</title>
-<link>https://qiita.com/akachiryo/items/0dea3706713f90e7ef7d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>666ddd6fa7fc10d08363c99d47e3592887dea22a44e1081cc2a79ab812bbf5a5</guid>
-<pubDate>2026-07-23T13:02:12+09:00</pubDate>
-<description>お疲れ様です！ 「Rubyってインタプリタ言語だから、1行ずつ翻訳しながら実行してるんでしょ？」と思っていませんか？（私は思っていました🫣） ……実は現代のRubyでは不正確なんです 😱 実行モデルを一から調べ直したところ、rails s の裏側で何が起きているのかまで一本...</description>
+<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 12 ]：左右移動ボタンの実装</title>
+<link>https://qiita.com/OnuuuumaX/items/a90fc380e3fc8819a5d4</link>
+<guid>9b9ee7e71ed8390104ffbb43170b18a0ca25d120af37cdf7e293f4793b477c41</guid>
+<pubDate>2026-07-23T20:41:20+09:00</pubDate>
+<description>はじめに 前回の記事ではBGM・効果音を実装しました。今回は「玄関を開けて屋敷の中に入る」ステージ（room1-1）を追加し、左右に部屋を移動できるボタンを実装します。 左右移動は、タップ移動・戻るの応用になりますのでシンプルに実装が進むと思います。 第１回【Axmol...</description>
 </item>
 <item>
-<title>【Qiita】 shadcn/ui が Base UI をデフォルトに — 公式発表から読み解く移行の背景と実務対応</title>
-<link>https://qiita.com/t-kurasawa/items/df29e251165c3ad91487?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>d5d93f020c6ad59738a537045ed4b6498d14ca6607cb0ea67905ac63e72dad18</guid>
-<pubDate>2026-07-21T20:45:13+09:00</pubDate>
-<description>はじめに 2026年7月、shadcn/ui の公式チェンジログに「Base UI as the Default」という一文が追加されました。新規プロジェクトを作成すると、これまでの Radix UI ではなく Base UI が標準の基盤になる、という内容です。 「sh...</description>
-</item>
-<item>
-<title>【Qiita】 LLMエージェントの自己進化ループはなぜ「禁止令」ばかり生み出すのか？</title>
-<link>https://qiita.com/memorylakeai/items/e635ebc67b15d92b86e8</link>
-<guid>0fc51a98599afcfed244cecbe5e56497b0c3907dda765e043e4cd2ed352f3091</guid>
-<pubDate>2026-07-23T17:09:25+09:00</pubDate>
-<description>3行まとめ LLMエージェントに自律的なルール更新（自己進化）を任せると、ルールファイルが「〜してはならない」という禁止令（ブラックリスト）で埋め尽くされる。 これはモデルの特性ではなく、「失敗は明確なエラー（シグナル）を出すが、成功は何も出力しない」という構造的な非...</description>
-</item>
-<item>
-<title>【環境】 Global vessel carbon dioxide emission from navigable rivers</title>
-<link>https://www.nature.com/articles/s41558-026-02718-6</link>
-<guid>5440ae6a012ce7a7004a9255e07c4160feb59167bb22171ee6841307f06e8b8c</guid>
-<pubDate>2026-07-23</pubDate>
-<description>The magnitude and distribution of CO2 emissions from river transport are poorly constrained. This study finds that global CO2 emissions from inland vessels were about one-quarter of total vessel emissions, and that emissions were concentrated in the Northern Hemisphere, related to economic activity.</description>
-</item>
-<item>
-<title>【自動自律実験】 Could small-team science be dying out?</title>
-<link>https://www.nature.com/articles/d41586-026-02174-4</link>
-<guid>ddcf119dd1e904ff91466e7b4e01d1abbe167073e950d3c36d33e5b8fdad5082</guid>
-<pubDate>2026-07-23</pubDate>
-<description>The proportion of one- and two-author papers in the Nature Index is shrinking rapidly, as science done by big teams continues to surge.</description>
-</item>
-<item>
-<title>【自動自律実験】 Breathalyser can tell if you are burning fat from a single exhalation</title>
-<link>https://www.nature.com/articles/d41586-026-02295-w</link>
-<guid>3f30f8c348246573b5567889abf1a63ecb1e6e2668d84dccb1bee56ca05551e8</guid>
-<pubDate>2026-07-23</pubDate>
-<description>The compact device can measure when the body is in ketosis and could help people to manage weight loss.</description>
+<title>【Qiita】 休眠35年のHTTP 402が復活。Visa・Mastercard含む40社がAIエージェント決済標準x402に集結した</title>
+<link>https://qiita.com/emi_ndk/items/aed1ee822952885e4922</link>
+<guid>c32fb41a3c7a9fdda34fcf667d1514d9108d3132bfbea67757a0b75d2198d387</guid>
+<pubDate>2026-07-23T21:08:05+09:00</pubDate>
+<description>1991年に予約されたまま、35年間ほぼ誰にも使われなかったHTTPステータスコード「402 Payment Required」が、AIエージェント経済の決済レールとして正式に主役へ躍り出た。 2026年7月14日、Linux Foundationは「x402 Founda...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/nudging-developers-toward-privacy-evaluating-the-impact-of-personalized-app-review-reports/</link>
-<guid>1956d7961df3ba14a34c825649b2338e7fb959c2dc11e637fd5765f75084a731</guid>
-<pubDate>Thu, 23 Jul 2026 10:11:36 GMT</pubDate>
+<link>https://research.google/pubs/compact-conformal-subgraphs/</link>
+<guid>edf234f1e1f1b7c5be59a433b6d703be194aa695d1c04e4e1c46efa63cf3b218</guid>
+<pubDate>Thu, 23 Jul 2026 12:08:26 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>883076b5d34554383b12769aeda8b5005065cc447aea809a99aeda50865bfa1b</guid>
-<pubDate>Thu, 23 Jul 2026 10:11:39 GMT</pubDate>
+<guid>4faa5f6d32772644f5df739b3eaa48106db95339f9a7266ac30cee18d061b395</guid>
+<pubDate>Thu, 23 Jul 2026 12:08:29 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>fbeede5a5f698843972e0c4a2c272458a3f18defb9f38d73834bcea832ed2da6</guid>
-<pubDate>Thu, 23 Jul 2026 10:11:42 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>22d5293c0fc1eecdceccb6c3632f91320060a97f43a624b5935e22d414c62bc5</guid>
+<pubDate>Thu, 23 Jul 2026 12:08:31 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 <item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>efb73e47f9a18066b3f603c02cdf213927ff01e12730f9df276d222ee21ce972</guid>
-<pubDate>Thu, 23 Jul 2026 10:12:07 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>dccfcf909ec0629cde826aa37084c5c0cdf28b0663a848a48a122a2809bb39ff</guid>
+<pubDate>Thu, 23 Jul 2026 12:08:54 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
