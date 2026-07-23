@@ -4,35 +4,71 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 23 Jul 2026 18:59:59 GMT</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 20:14:04 GMT</lastBuildDate>
 
 <item>
-<title>【自動自律実験】 Humanity spoke thousands of languages at the dawn of farming — now many of them are lost</title>
-<link>https://www.nature.com/articles/d41586-026-02279-w</link>
-<guid>fb989b0dd796d7c0144f7accc1de46f93a004bd461fe9217c391acd241c76d13</guid>
-<pubDate>2026-07-23</pubDate>
-<description>A shift from nomadic lifestyles could have triggered linguistic diversity before it then declined rapidly.</description>
+<title>【Qiita】 「何から始めるか問題」で、結局何も始められなかった話</title>
+<link>https://qiita.com/sumomoo/items/516da72f0627c3728fbe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>d9fe556ac343bfd96b13bde25e3d3d868abf3804cfab4b5d3168c8457033b83b</guid>
+<pubDate>2026-07-23T18:19:17+09:00</pubDate>
+<description>はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です 日々、プログラミング学習や実務の中で、つまずきやすいポイントや 考え方を整理して発信しています。 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。 ▶コーポレートサイト 「何から始...</description>
+</item>
+<item>
+<title>【Qiita】 新人エンジニアは&quot;忘れる前提&quot;で仕事をするのがベストだと気がついた</title>
+<link>https://qiita.com/prumnn/items/ceb0f115dfe9459315bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>ac17fa88ce95782dec8901473cb258909f969860bf63c85748eb31d7076a2560</guid>
+<pubDate>2026-07-23T18:33:25+09:00</pubDate>
+<description>はじめに 先輩に「それ、前教えたじゃん！」と言われてへこんでいた新人エンジニアぷらむんが気づいたのは、忘れるのは当然、でも思い出す回数を増やせば対策できるということでした。 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯 最近...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェント設計完全ガイド④-Claude Codeで実践するDynamic Workflows</title>
+<link>https://qiita.com/miyaguchi_kioku/items/c8a026693719f7d9bdf3</link>
+<guid>d59a7d76c5d97be4d1a50ad1778ac76b8db1a1695407343a1d0799ddbf7af24d</guid>
+<pubDate>2026-07-24T04:57:56+09:00</pubDate>
+<description>Subagents・Skills・Hooks・Agent SDKでGraph Engineeringを実装する Promptを書く人は、AIに仕事を依頼します。 Agent開発者は、AIに役割を与えます。 Graph Architectは、複数のAgentが協働する仕組...</description>
+</item>
+<item>
+<title>【Qiita】 AIに仕事を奪われる不安から始めるハーネス作成入門 第16回 Slack承認を想定したハーネス処理フローを描く</title>
+<link>https://qiita.com/singula/items/7b0c9cf2e7f21a780926</link>
+<guid>036f8fa73b9e4819b2666661a9b4d00035db1d6077bc0df2b3fc9ecb034e7cfc</guid>
+<pubDate>2026-07-24T04:55:25+09:00</pubDate>
+<description>連載: AIに仕事を奪われる不安から始めるハーネス作成入門 第16回: Slack承認を想定したハーネス処理フローを描く 第1〜15回: ✅ 公開済み ｜ 当該記事: 📖 ｜ 次回: 第17回 はじめに――承認ポイントを「動くフロー」にする 前回（第15回）では、H...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェント設計完全ガイド③-Graph Engineering実践</title>
+<link>https://qiita.com/miyaguchi_kioku/items/fd52ca8cb9dd08b4b582</link>
+<guid>c74a1722ba96f124c8b231e7049bcf639faec7a8d01413536b700430b69a8045</guid>
+<pubDate>2026-07-24T04:49:54+09:00</pubDate>
+<description>検証・障害分離・ループ・モデル選択で、AIエージェントを実用システムにする Graph Engineeringの本当の価値は、たくさんのAIを同時に動かすことではありません。 失敗しても止まらず、間違いを検証し、コストを制御しながら、目的に収束させることにあります。 ...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェント設計完全ガイド②-Graph Engineering入門</title>
+<link>https://qiita.com/miyaguchi_kioku/items/35fcff7d0724df1aa52a</link>
+<guid>d2f12896de8924a59bc79b467c618511d30a3826bcaa9d046bb1640a37071e80</guid>
+<pubDate>2026-07-24T04:41:44+09:00</pubDate>
+<description>AIエージェントを「一直線」から「グラフ」へ進化させる設計思想 「AIエージェントを作れる人」は増えました。 しかし、AIエージェントを&quot;設計&quot;できる人はまだ多くありません。 2026年、AIエージェント開発で最も注目されているキーワードが Graph Engineer...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/the-evolution-of-config-driven-ui-frameworks-a-hybrid-mlr-and-structural-artifact-analysis-of-industry-practices/</link>
-<guid>f18b87cc629a9a97a74cfff1c18106ea8d145261fb1dc2f567687c2bc0dbd43b</guid>
-<pubDate>Thu, 23 Jul 2026 18:59:27 GMT</pubDate>
+<link>https://research.google/pubs/prompt-level-distillation-a-non-parametric-alternative-to-model-fine-tuning-for-efficient-reasoning/</link>
+<guid>bcd33a1de6728000f0f06e1d2710d72d11c77e96a62aee137b2976201c4c95fa</guid>
+<pubDate>Thu, 23 Jul 2026 20:13:14 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>7c2b6b58cbf8cfff8eb08b6f286ae8d0f74ac3cc8d76ec0f748b588df3995fdb</guid>
-<pubDate>Thu, 23 Jul 2026 18:59:30 GMT</pubDate>
+<guid>0811f96e914edc6951562d0dc6465b7d580922a27cb33e9123ff006046a35840</guid>
+<pubDate>Thu, 23 Jul 2026 20:13:17 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>c3abbbc982c415284c18d8c7262b5400aecb0f8ea3e79197f1136e8624535210</guid>
-<pubDate>Thu, 23 Jul 2026 18:59:33 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>eaf488a5902a075778ec66c43a3e9f1f9fea01ea8184ee4b0c3bcabda76eb15c</guid>
+<pubDate>Thu, 23 Jul 2026 20:13:49 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
