@@ -4,112 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 24 Jul 2026 11:59:46 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 13:44:48 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Bob + Foam で構築する Personal Knowledge Management 環境</title>
-<link>https://qiita.com/takumiida1/items/e3293c3d1602b2f67104</link>
-<guid>bba470e60cddbf0b8c23d25c8e8e1cdaafb0072d732241c4dd1bff720f3de46e</guid>
-<pubDate>2026-07-24T20:50:45+09:00</pubDate>
-<description>Summary IBM BobのワークスペースにFoam拡張機能を組み合わせ、MarkdownベースのPKM（個人知識管理）環境を構築した PARA法とMOC（Map of Content）を組み合わせたディレクトリ設計で、「どこに何があるか分からない」問題を構造...</description>
+<title>【Qiita】 AIエージェントの群れを操る「フリートエンジニアリング」とは何か</title>
+<link>https://qiita.com/ryoji9702/items/a0cf5429d12b6e51ef36</link>
+<guid>43bb10db84018bcbd0c988f0bde27d16a871f126ab2ce973d8cdae413934cc6a</guid>
+<pubDate>2026-07-24T21:35:22+09:00</pubDate>
+<description>はじめに 「1体のコーディングエージェントと対話しながらコードを書く」段階から、「複数のエージェントを同時に走らせ、その群れ（fleet）を設計・監督する」段階へ——2025年から2026年にかけて、開発現場ではこの移行を指す言葉がいくつも現れました。そのひとつが フリー...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Bob のスキルで起動 - スライド資料から音声付き動画を生成するツール &quot;ai-slide-studio&quot; 概要</title>
-<link>https://qiita.com/c_u/items/9a3407a6176d8e4e2d5d</link>
-<guid>a768c3f882381001700b3b28eab6c0b06890fa5470a20ea93d3c7ea00052c3a8</guid>
-<pubDate>2026-07-24T20:14:00+09:00</pubDate>
-<description>はじめに スライド資料から音声付き動画を作成するツール「ai-slide-studio」をご紹介します 資料を動画化したいと考える場面はあるものの、実際に取り組もうとすると、原稿の作成、ナレーションの収録、音声と字幕のタイミング調整など、少なからぬ労力を要します。 きっか...</description>
+<title>【Qiita】 AIエージェント12部門を実運用して分かった「AIに渡せた仕事」と「人に残った仕事」</title>
+<link>https://qiita.com/fuji1009_REBELL/items/236fc7bfe6b79b879909</link>
+<guid>ec447dd0b1fdb00604a50e8399303e74060096248691b7eb7c7226644c9183cc</guid>
+<pubDate>2026-07-24T22:32:34+09:00</pubDate>
+<description>「AIに仕事を奪われる」という議論は、実際にAIへ仕事を渡してみないと解像度が上がりません。 私はClaude Codeで12部門のAIエージェント体制を組み、個人事業の庶務を約90%自動化しました。運用コストは月$200だけです。半年ほど回してみて、どの仕事はきれいにAI...</description>
 </item>
 <item>
-<title>【Qiita】 Mermaid で書ける UML 図は3つ — Bob Shell に描いてもらった（対応表つき）</title>
-<link>https://qiita.com/Tadash/items/49edf444369b7152c557</link>
-<guid>bdb83a39e8994b0af62018bd4d60b1d0d812994b4c01d9bc1c31295bd0a21849</guid>
-<pubDate>2026-07-24T06:37:21+09:00</pubDate>
-<description>どうもこんにちは、Tadash です。 図を描くのは面倒ですが、テキストで書けるなら AI に任せられます。今回は Bob Shell に、Mermaid 記法で UML 図を描いてもらいました。 ただ、Mermaid は UML の図すべてに正式対応しているわけではありま...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Codeでトライ！③ - １プロンプト指示でレトロな侵略者シューティングゲームを作ってもらった -</title>
-<link>https://qiita.com/OnuuuumaX/items/a8d87e56903cf947c2f4</link>
-<guid>85739598a0b051ccb5d3367f56f37b4b28532671304b9f0162078fa49b7516de</guid>
-<pubDate>2026-07-24T19:46:38+09:00</pubDate>
-<description>はじめに claudeさんの実力を測るため、 Godot 4.7で、レトロな侵略者2Dシューティングをclaudeに作ってもらいました。 ただし、 自機はネコ 敵はネズミ 弾は肉球 見た目は8ビット風 というテーマ縛りです。 godotがインストールされている...</description>
-</item>
-<item>
-<title>【Qiita】 AIの専門家4人にAzure障害を調査させる「インシデント調査チーム」を作った — GitHub Copilot のカスタムエージェント×スキル実践</title>
-<link>https://qiita.com/shingo_tada/items/b74b43924b1f3f475798</link>
-<guid>a16c841e8ecd1816ab1e7827acba0372c6d92f56744366e404ed831bc391b605</guid>
-<pubDate>2026-07-24T20:43:44+09:00</pubDate>
-<description>Azure のネットワーク障害を調査する AI エージェントのチームを、GitHub Copilot のカスタムエージェントとスキルだけで作りました。DNS・ネットワーク・監視・VM を担当する4つの専門エージェントが並列で調べ、その根拠を親エージェントが突き合わせて原因を...</description>
-</item>
-<item>
-<title>【Qiita】 AI案件とは？システム開発との違いを整理してみた</title>
-<link>https://qiita.com/yoshida_desu/items/fe287d4e298a944583bf</link>
-<guid>8b686cfa660d50da8cb98399f92bcdb4446e273c7ce3e9c67dc58c8f269f38ab</guid>
-<pubDate>2026-07-24T20:20:38+09:00</pubDate>
-<description>はじめに こんにちは。 前回の記事では、**「AIとは何か」**をテーマに、 AI 機械学習 ディープラーニング 生成AI ChatGPT LLM など、AIの基礎について整理しました。 AIという言葉を耳にする機会は増えましたが、 「実際のAI案件では何をするのだ...</description>
-</item>
-<item>
-<title>【Qiita】 【AIエージェントの解剖学：第9回】悪意に対する防盾：Guardrailsとエージェントのセキュリティ</title>
-<link>https://qiita.com/mkuwan/items/6fa6a74e16fe9f303d8f</link>
-<guid>bd472db064bee30b5779b8bd8279bdc57b712275ae1eda8b9af0a6b097bbbbd6</guid>
-<pubDate>2026-07-24T20:08:29+09:00</pubDate>
-<description>【AIエージェントの解剖学：第9回】悪意に対する防盾：Guardrailsとエージェントのセキュリティ 【新連載：AIエージェントの解剖学】 前回（第8回）：【AIエージェントの解剖学：第8回】知能を結集する組織論：Multi-Agent Collaborationの...</description>
-</item>
-<item>
-<title>【農業】 FAO’s Global Plan of Action for Sustainable Livestock Transformation is approved</title>
-<link>https://www.fao.org/newsroom/detail/fao-s-global-plan-of-action-for-sustainable-livestock-transformation-is-approved/en</link>
-<guid>b39189c83ae574dafe4a40944e599b9cd030685dd5c42282ebac2834f08df888</guid>
-<pubDate>Fri, 24 Jul 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【農業】 FAO presents new strategic model to tackle transboundary animal diseases</title>
-<link>https://www.fao.org/newsroom/detail/fao-presents-new-strategic-model-to-tackle-transboundary-animal-diseases/en</link>
-<guid>66ce5a221c61bbe7a09609e8ddd661654fc6611e24cbff2a8c92630d08777515</guid>
-<pubDate>Fri, 24 Jul 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【環境】 Less than net zero needed to stabilize climate</title>
-<link>https://www.nature.com/articles/s41558-026-02708-8</link>
-<guid>634c26205b4262d5261fefab20287e658be02bff21cd0a82f41663f9b390838d</guid>
+<title>【自動自律実験】 Personalized gene therapy relieves severe epilepsy in two boys</title>
+<link>https://www.nature.com/articles/d41586-026-02267-0</link>
+<guid>5f4026eb2c4eef28af63cdceea98e80e2328cea3632f5c14a94a02ac5cd14744</guid>
 <pubDate>2026-07-24</pubDate>
-<description>Global temperature change over long times after cessation of greenhouse gas emissions is not well constrained. Now, research shows a consistent global cooling, especially if negative CO2 emissions compensate for continued CH4 and N2O emissions.</description>
-</item>
-<item>
-<title>【環境】 Tracking the status of global evidence</title>
-<link>https://www.nature.com/articles/s41558-026-02720-y</link>
-<guid>54c8b9dc22f01e3c38e53928d3d213b09ef3b3c1d615d010bfaa00d2833028da</guid>
-<pubDate>2026-07-24</pubDate>
-<description>Assessing the status of adaptation is important to target support and determine priority gaps. Here I look back on an influential 2021 study that reported a systematic review of evidence of implemented human adaptation and consider how this underscored the imperative for greater policy action and spawned methodol</description>
-</item>
-<item>
-<title>【環境】 Multi-century cooling after net-zero greenhouse gas emissions</title>
-<link>https://www.nature.com/articles/s41558-026-02700-2</link>
-<guid>68306c68a6630137067e7e64dd06e87c40875e4c5eae9bfc5c806520e9cb3a7e</guid>
-<pubDate>2026-07-24</pubDate>
-<description>How global temperatures change after net-zero emissions are reached is highly uncertain. Here the authors constrain this response and find that net-zero GHG emissions lead to multi-century cooling of at least 0.6 °C.</description>
+<description>Switching off one copy of a gene also enabled one of the children to walk independently for the first time.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/dynamic-case-precedent-an-architecture-for-accelerating-agent-proficiency-and-resolution-consistency-in-large-scale-people-operations/</link>
-<guid>27f9aba740d5ec8e153a7baf42837e79d26ab6ae6c8ff09cf3f45ee612f6692a</guid>
-<pubDate>Fri, 24 Jul 2026 11:58:41 GMT</pubDate>
+<link>https://research.google/pubs/ai-propeller-warehouse-scale-inter-procedural-code-layout-optimization-with-alphaevolve/</link>
+<guid>b466947d8aa156b7167c730ea9d0ddc1a091fe101a1998e70cc087726e039be0</guid>
+<pubDate>Fri, 24 Jul 2026 13:43:55 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>58b6cb27e350b0df46a35399885395057479d1d06063cafb9f2e1f6a1a14197f</guid>
-<pubDate>Fri, 24 Jul 2026 11:58:43 GMT</pubDate>
+<guid>cec4887d9e6b390a545445a4d4216fc6a77b016785ef96f7fdfd6f45219fec17</guid>
+<pubDate>Fri, 24 Jul 2026 13:43:57 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>8705d4614ae8dbdc620bfb2dbbad0dd8f230f9fed2ddb3a0c6ded1ee8c841cb2</guid>
-<pubDate>Fri, 24 Jul 2026 11:58:45 GMT</pubDate>
+<guid>10f22c77711cfb4da3c433a60d70bdda9ca63b83603b7011c4b136ad5d28ccdf</guid>
+<pubDate>Fri, 24 Jul 2026 13:43:59 GMT</pubDate>
 <description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02994-8</link>
+<guid>524c6f2bc7bb7df70495ea1074823ebf4235840a24eb013a206003db14d28117</guid>
+<pubDate>Fri, 24 Jul 2026 13:44:01 GMT</pubDate>
+<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
 </item>
 
 </channel>
