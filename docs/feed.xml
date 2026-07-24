@@ -4,50 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 24 Jul 2026 15:21:15 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 17:01:21 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Bobalyticsでコーディングエージェントの貢献を可視化できるらしい</title>
-<link>https://qiita.com/nouhautayomi/items/8362b8da1cd7fb8fb2e2</link>
-<guid>6c4bfec294b01383ba8c79393a929ff550d09d6b53e31c9c6cf15e9ed29b5d79</guid>
-<pubDate>2026-07-24T23:56:10+09:00</pubDate>
-<description>生産性向上の悩み 弊社でコーディングエージェント(Bob)が盛んにつかわれるようになって、 数か月がたちました。（いや、ほんと便利です。） 最近、よく以下の質問に出くわします。 結局どのくらい生産性が上がったの？ AIが出したコードは使えるの？ 結局、AIを動かすコス...</description>
+<title>【Qiita】 Claude Code・Codexに動作確認まで自走させる｜ビルド・操作・録画・証跡を残す開発フロー</title>
+<link>https://qiita.com/vivinko/items/7300b32de1d127acc421</link>
+<guid>a43e9a491cf76f04411fd8fe5f6164537d867f14b2d7fd8ffd26dc2c505d70d9</guid>
+<pubDate>2026-07-25T01:54:40+09:00</pubDate>
+<description>Claude CodeやCodexに実装を依頼すると、コードの変更とビルドまでは比較的安定して進められます。 しかし、画面を持つアプリでは、ビルドに成功しただけでは完成とは言えません。 自分のプロジェクトでは、実装後に次の確認が必要でした。 実際にアプリを起動する 対象画...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code × Docker Sandbox × MCPで作るセキュアなAIエージェント開発環境──構築手順と運用で学んだ6つの教訓</title>
-<link>https://qiita.com/hikariclaude01/items/4a7ba5103bf02eb9f7e7</link>
-<guid>20ae04f25d3967e01315ee040f3cc5b4b4e2431c914d3c2edc56e235da36bad2</guid>
-<pubDate>2026-07-25T00:01:58+09:00</pubDate>
-<description>結論：AIエージェントには「檻」が要る AIエージェントにホストマシンのフルアクセスを渡していた過去の自分を殴りたい──Docker Sandbox と MCP で権限を最小化した開発環境を構築した全記録です。 この記事を読むと、以下がわかります。 Claude Cod...</description>
+<title>【Anthropic】 Introducing Claude Opus 5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>5f9aa0b9061c5363f8d3f2904a4f0e8813e7fca317dcef73b89b52dd3a87baa8</guid>
+<pubDate>Fri, 24 Jul 2026 17:00:43 GMT</pubDate>
+<description>Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/reinforcement-learning-with-discrete-diffusion-policies-for-combinatorial-action-spaces/</link>
-<guid>2a3efc0738ff41e1efe68f066b958f6a57d59ba6607d7f42cdced6143bce3694</guid>
-<pubDate>Fri, 24 Jul 2026 15:20:32 GMT</pubDate>
+<link>https://research.google/pubs/tdxray-microarchitectural-side-channel-analysis-of-intel-tdx-for-real-world-workloads/</link>
+<guid>6776a6a5be967b107dcd035df6def3ee3e9de3d2eaf3b7245fad0ccc3a80d2d4</guid>
+<pubDate>Fri, 24 Jul 2026 17:00:46 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>6f2d80983fe959a4efd820c81dd2c32b4cac66f65f69b2e456bd790e60ffe672</guid>
-<pubDate>Fri, 24 Jul 2026 15:20:35 GMT</pubDate>
+<guid>e2ab9076654e4bb16c0104d81849ff173461341ed660dbb07239bc272a570ff4</guid>
+<pubDate>Fri, 24 Jul 2026 17:00:48 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>8b0d1ff86d72c35fbd1c7146cb2a4af4b2c14e349728219c115c8bf8f7c63e0c</guid>
-<pubDate>Fri, 24 Jul 2026 15:20:38 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>c5592c0771e4465ce56986fd7307021de357dfb61b01bbd31c679cf4b5c7744a</guid>
+<pubDate>Fri, 24 Jul 2026 17:00:51 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>3930bb4091a6b7e2a9ea73f21a723546c9acb5164655bb944b54df2d194ec8cb</guid>
-<pubDate>Fri, 24 Jul 2026 15:20:55 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>76c008ac0962fd786d2ecf7c94ff464be8d90c2c60bdb68ac44ca2c3bd9d9d16</guid>
+<pubDate>Fri, 24 Jul 2026 17:01:06 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
