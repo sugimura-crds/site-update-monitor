@@ -4,56 +4,50 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 24 Jul 2026 13:44:48 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 15:21:15 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントの群れを操る「フリートエンジニアリング」とは何か</title>
-<link>https://qiita.com/ryoji9702/items/a0cf5429d12b6e51ef36</link>
-<guid>43bb10db84018bcbd0c988f0bde27d16a871f126ab2ce973d8cdae413934cc6a</guid>
-<pubDate>2026-07-24T21:35:22+09:00</pubDate>
-<description>はじめに 「1体のコーディングエージェントと対話しながらコードを書く」段階から、「複数のエージェントを同時に走らせ、その群れ（fleet）を設計・監督する」段階へ——2025年から2026年にかけて、開発現場ではこの移行を指す言葉がいくつも現れました。そのひとつが フリー...</description>
+<title>【Qiita】 Bobalyticsでコーディングエージェントの貢献を可視化できるらしい</title>
+<link>https://qiita.com/nouhautayomi/items/8362b8da1cd7fb8fb2e2</link>
+<guid>6c4bfec294b01383ba8c79393a929ff550d09d6b53e31c9c6cf15e9ed29b5d79</guid>
+<pubDate>2026-07-24T23:56:10+09:00</pubDate>
+<description>生産性向上の悩み 弊社でコーディングエージェント(Bob)が盛んにつかわれるようになって、 数か月がたちました。（いや、ほんと便利です。） 最近、よく以下の質問に出くわします。 結局どのくらい生産性が上がったの？ AIが出したコードは使えるの？ 結局、AIを動かすコス...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント12部門を実運用して分かった「AIに渡せた仕事」と「人に残った仕事」</title>
-<link>https://qiita.com/fuji1009_REBELL/items/236fc7bfe6b79b879909</link>
-<guid>ec447dd0b1fdb00604a50e8399303e74060096248691b7eb7c7226644c9183cc</guid>
-<pubDate>2026-07-24T22:32:34+09:00</pubDate>
-<description>「AIに仕事を奪われる」という議論は、実際にAIへ仕事を渡してみないと解像度が上がりません。 私はClaude Codeで12部門のAIエージェント体制を組み、個人事業の庶務を約90%自動化しました。運用コストは月$200だけです。半年ほど回してみて、どの仕事はきれいにAI...</description>
-</item>
-<item>
-<title>【自動自律実験】 Personalized gene therapy relieves severe epilepsy in two boys</title>
-<link>https://www.nature.com/articles/d41586-026-02267-0</link>
-<guid>5f4026eb2c4eef28af63cdceea98e80e2328cea3632f5c14a94a02ac5cd14744</guid>
-<pubDate>2026-07-24</pubDate>
-<description>Switching off one copy of a gene also enabled one of the children to walk independently for the first time.</description>
+<title>【Qiita】 Claude Code × Docker Sandbox × MCPで作るセキュアなAIエージェント開発環境──構築手順と運用で学んだ6つの教訓</title>
+<link>https://qiita.com/hikariclaude01/items/4a7ba5103bf02eb9f7e7</link>
+<guid>20ae04f25d3967e01315ee040f3cc5b4b4e2431c914d3c2edc56e235da36bad2</guid>
+<pubDate>2026-07-25T00:01:58+09:00</pubDate>
+<description>結論：AIエージェントには「檻」が要る AIエージェントにホストマシンのフルアクセスを渡していた過去の自分を殴りたい──Docker Sandbox と MCP で権限を最小化した開発環境を構築した全記録です。 この記事を読むと、以下がわかります。 Claude Cod...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/ai-propeller-warehouse-scale-inter-procedural-code-layout-optimization-with-alphaevolve/</link>
-<guid>b466947d8aa156b7167c730ea9d0ddc1a091fe101a1998e70cc087726e039be0</guid>
-<pubDate>Fri, 24 Jul 2026 13:43:55 GMT</pubDate>
+<link>https://research.google/pubs/reinforcement-learning-with-discrete-diffusion-policies-for-combinatorial-action-spaces/</link>
+<guid>2a3efc0738ff41e1efe68f066b958f6a57d59ba6607d7f42cdced6143bce3694</guid>
+<pubDate>Fri, 24 Jul 2026 15:20:32 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>cec4887d9e6b390a545445a4d4216fc6a77b016785ef96f7fdfd6f45219fec17</guid>
-<pubDate>Fri, 24 Jul 2026 13:43:57 GMT</pubDate>
+<guid>6f2d80983fe959a4efd820c81dd2c32b4cac66f65f69b2e456bd790e60ffe672</guid>
+<pubDate>Fri, 24 Jul 2026 15:20:35 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>10f22c77711cfb4da3c433a60d70bdda9ca63b83603b7011c4b136ad5d28ccdf</guid>
-<pubDate>Fri, 24 Jul 2026 13:43:59 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>8b0d1ff86d72c35fbd1c7146cb2a4af4b2c14e349728219c115c8bf8f7c63e0c</guid>
+<pubDate>Fri, 24 Jul 2026 15:20:38 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02994-8</link>
-<guid>524c6f2bc7bb7df70495ea1074823ebf4235840a24eb013a206003db14d28117</guid>
-<pubDate>Fri, 24 Jul 2026 13:44:01 GMT</pubDate>
-<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>3930bb4091a6b7e2a9ea73f21a723546c9acb5164655bb944b54df2d194ec8cb</guid>
+<pubDate>Fri, 24 Jul 2026 15:20:55 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
