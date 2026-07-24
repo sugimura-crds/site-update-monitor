@@ -4,49 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 24 Jul 2026 17:01:21 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 18:53:36 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Code・Codexに動作確認まで自走させる｜ビルド・操作・録画・証跡を残す開発フロー</title>
-<link>https://qiita.com/vivinko/items/7300b32de1d127acc421</link>
-<guid>a43e9a491cf76f04411fd8fe5f6164537d867f14b2d7fd8ffd26dc2c505d70d9</guid>
-<pubDate>2026-07-25T01:54:40+09:00</pubDate>
-<description>Claude CodeやCodexに実装を依頼すると、コードの変更とビルドまでは比較的安定して進められます。 しかし、画面を持つアプリでは、ビルドに成功しただけでは完成とは言えません。 自分のプロジェクトでは、実装後に次の確認が必要でした。 実際にアプリを起動する 対象画...</description>
+<title>【Qiita】 プロジェクト管理と業務フローに使える Smartsheet 代替ツール 7 選</title>
+<link>https://qiita.com/TianqiYuan/items/466e1e9f034b99978eb1</link>
+<guid>38dabc57dde854f9e748977c559fba356eebfc4041511027a40b4202c7179a50</guid>
+<pubDate>2026-07-25T03:20:40+09:00</pubDate>
+<description>Smartsheet は、プロジェクト管理や共同作業の仕組みを整える際に、多くのチームが最初に検討するツールの一つです。 使い慣れた表形式のインターフェースを保ちながら、ボード、ガントチャート、フォーム、自動化、レポート、ダッシュボードなどの機能を備えています。これまで E...</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Opus 5</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>5f9aa0b9061c5363f8d3f2904a4f0e8813e7fca317dcef73b89b52dd3a87baa8</guid>
-<pubDate>Fri, 24 Jul 2026 17:00:43 GMT</pubDate>
-<description>Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.</description>
+<title>【自動自律実験】 Author Correction: Feature-specific threat coding in lateral septum guides defensive action</title>
+<link>https://www.nature.com/articles/s41586-026-10911-y</link>
+<guid>41288651d69f34fffc0635b8d94698e5bc8273afb1b07406e73532815e931fd8</guid>
+<pubDate>2026-07-24</pubDate>
+<description>Author Correction: Feature-specific threat coding in lateral septum guides defensive action</description>
+</item>
+<item>
+<title>【自動自律実験】 Briefing Chat: Baby &lt;i&gt;T. rex&lt;/i&gt; were killers from birth, suggest new fossils</title>
+<link>https://www.nature.com/articles/d41586-026-02338-2</link>
+<guid>8c87bbcaf6317400986bc7da60acb3616c5891e32e24a8f394c7cb0b8a998c85</guid>
+<pubDate>2026-07-24</pubDate>
+<description>Nature staff discuss the young but deadly dinosaur kings, the prowess of ancient Egyptian princesses, and how London is becoming the world’s AI safety capital.</description>
+</item>
+<item>
+<title>【自動自律実験】 Bizarre CRISPR enzyme kills cancer cells by shredding their DNA</title>
+<link>https://www.nature.com/articles/d41586-026-02268-z</link>
+<guid>118e4dca5d5dbf8fa00662fa59c1b2c5ee362585381b1b66fca749015c85682b</guid>
+<pubDate>2026-07-24</pubDate>
+<description>Early tests suggest the protein can be aimed at targets with tumour-causing mutations.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/tdxray-microarchitectural-side-channel-analysis-of-intel-tdx-for-real-world-workloads/</link>
-<guid>6776a6a5be967b107dcd035df6def3ee3e9de3d2eaf3b7245fad0ccc3a80d2d4</guid>
-<pubDate>Fri, 24 Jul 2026 17:00:46 GMT</pubDate>
+<link>https://research.google/pubs/moxart-audio-visual-object-guided-sound-interaction-for-xr/</link>
+<guid>9e063cea1d18cf07380b44fc6e7e2a10d43403bb8937b50145b58fb77c700080</guid>
+<pubDate>Fri, 24 Jul 2026 18:53:01 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>e2ab9076654e4bb16c0104d81849ff173461341ed660dbb07239bc272a570ff4</guid>
-<pubDate>Fri, 24 Jul 2026 17:00:48 GMT</pubDate>
+<guid>eec21834db582c37bfd722b854fe454eb1d02aad5dcf17b4ddc876e8c9db2292</guid>
+<pubDate>Fri, 24 Jul 2026 18:53:04 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>c5592c0771e4465ce56986fd7307021de357dfb61b01bbd31c679cf4b5c7744a</guid>
-<pubDate>Fri, 24 Jul 2026 17:00:51 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>76c008ac0962fd786d2ecf7c94ff464be8d90c2c60bdb68ac44ca2c3bd9d9d16</guid>
-<pubDate>Fri, 24 Jul 2026 17:01:06 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>91eb5d4f294c8a8b6bcecdf45425c8106e43bb3aba7b96bb8718adf727b132af</guid>
+<pubDate>Fri, 24 Jul 2026 18:53:19 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
