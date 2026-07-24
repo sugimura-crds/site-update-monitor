@@ -4,35 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 24 Jul 2026 20:11:42 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 21:34:12 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントは「導入」より「運用」が難しい──Salesforce講演が示す5つの壁と、2026年7月時点の設計論</title>
-<link>https://qiita.com/mhamadajp/items/855eb6d7029f4de8ec75</link>
-<guid>9f5ff19bdcc2c99d9b317d97b0884b17e7554f67ae0a4c049328bc65bcfbf791</guid>
-<pubDate>2026-07-25T04:56:17+09:00</pubDate>
-<description>AIエージェントを導入したのに、数か月後には誰も使わなくなった。詳しい担当者しか成果を出せない。部門ごとに似たエージェントが増え、データや権限の管理が追いつかない。 これはモデルの性能不足だけで起きる問題ではない。むしろ、業務・データ・権限・組織をどう設計したかという、企業...</description>
+<title>【Qiita】 AI時代のポートフォリオ、転職で本当に見られているのは「言語化力」</title>
+<link>https://qiita.com/sumomoo/items/d8c22cb512d9ba036154?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>47341a1db2f7fe00f89a5eb59abaca9d9f4106da00cd44a7eb989255ce2a8b4b</guid>
+<pubDate>2026-07-24T17:14:32+09:00</pubDate>
+<description>はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です 日々、プログラミング学習や実務の中で、つまずきやすいポイントや 考え方を整理して発信しています。 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。 ▶コーポレートサイト 転職活動で...</description>
+</item>
+<item>
+<title>【Qiita】 ITパスポートと基本情報の違いは？どちらを勉強すべき？</title>
+<link>https://qiita.com/prumnn/items/b5b8a10713e2a96a2861?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>98b12bb7595aa62c93e58c8ff05efdb31e7d3cdea015ae03e244a4bea22f3222</guid>
+<pubDate>2026-07-24T17:10:54+09:00</pubDate>
+<description>はじめに 実務で使うわけじゃないし、資格の勉強なんて後回しでいい。そう思っていたぷらむんですが、先輩に話を聞いて、資格勉強と向き合うことにしました。 会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯 実は最近まで、「資格なんて実...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/scaling-telemetry-to-terabytes-applying-googles-principles-to-opentelemetry-with-opamp/</link>
-<guid>184adbeb7cc3d5914c50ca60ecbf6dd015fecd8f9a05822180b6e71bf485db3b</guid>
-<pubDate>Fri, 24 Jul 2026 20:10:56 GMT</pubDate>
+<link>https://research.google/pubs/window-size-versus-accuracy-experiments-in-voice-activity-detectors/</link>
+<guid>d86f93ff18852b32cd78d3af880cd1a56453b162571e6d4586cd15c3387fee7f</guid>
+<pubDate>Fri, 24 Jul 2026 21:33:35 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>f816ed5694e5d1ec1c0133947bcc47284d1d905d3810dc5f0c178d77da76b86c</guid>
-<pubDate>Fri, 24 Jul 2026 20:10:59 GMT</pubDate>
+<guid>83933dde611404a0424b44c3381132439b04c66a2e24e73e3cfbdaa4de7a208b</guid>
+<pubDate>Fri, 24 Jul 2026 21:33:37 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>8e22ccb23659b16982888dd0b3494e5635905a2acd6ed10c7e8144ec4f0a08f6</guid>
+<pubDate>Fri, 24 Jul 2026 21:33:39 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>3f9c46a2cacf52d1852bbbb736278a53ff061ab412e40b3f11ebb3974878b337</guid>
-<pubDate>Fri, 24 Jul 2026 20:11:24 GMT</pubDate>
+<guid>a5c583cd24e50527fcfff6cc9ad2384c7d02a005f0e321f147fbc13ad1077bc9</guid>
+<pubDate>Fri, 24 Jul 2026 21:33:55 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
