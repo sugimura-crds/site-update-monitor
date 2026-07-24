@@ -4,27 +4,62 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 24 Jul 2026 07:45:29 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Jul 2026 10:08:42 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 同じAnthropic製で乗っ取り率32%対79%: AgentRedBenchが暴いた「エージェント防御の急所」</title>
-<link>https://qiita.com/emi_ndk/items/e62ac8f03b283402b0ca</link>
-<guid>703876fcb468c7153f7884326c123002de3c492b522f200a1ad8992e14bf6b0a</guid>
-<pubDate>2026-07-24T16:11:13+09:00</pubDate>
-<description>結論から: 同じベンダーのモデルで、乗っ取られやすさが47ポイント違う 2026年7月17日、SaaS連携を持つLLMエージェントへの間接プロンプトインジェクションを測るベンチマーク「AgentRedBench」の最新版（v3）がarXivに公開された（初版は6月1日）。...</description>
+<title>【Qiita】 狩野英孝さんのポストは、なぜ1992年へ飛んだのか？整数オーバーフローが起こす時刻バグ</title>
+<link>https://qiita.com/miruky/items/4be4d7e683632ba8c396?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>5bebf6da47917ccd6db651d8b9b8d1f6a042e2918d91b90eaebd5228bd35bcaf</guid>
+<pubDate>2026-07-23T23:58:14+09:00</pubDate>
+<description>はじめに こんばんは。 2026年3月、お笑い芸人の狩野英孝さんがXへ投稿したはずのポストに、なぜか1992年9月2日と表示されて話題になりました。彼は笑いの神様に愛されるあまり、時空まで操れるようになったのでしょうか。 実は、X以外でも似た現象は起きています。未...</description>
+</item>
+<item>
+<title>【Qiita】 IBM Cloud Databases for PostgreSQL インプレースでのアップグレード</title>
+<link>https://qiita.com/masaffff/items/1910c48b9211194accba</link>
+<guid>bbcc916efdd131673640b1d697cab5c448bbec07161540e7a16e7595b26f11f6</guid>
+<pubDate>2026-07-24T17:06:28+09:00</pubDate>
+<description>はじめに IBM Cloud の Cloud Databasesを利用している方にとって、避けて通れない運用作業のひとつが DBMS のメジャーバージョンアップです。 これまでは IBM Cloud Databases の多くのデータベースでメジャーバージョンアップを行う...</description>
+</item>
+<item>
+<title>【Qiita】 Microsoft FabricのメダリオンアーキテクチャにおけるWarehouseとLakehouseの選定基準</title>
+<link>https://qiita.com/matayuuu/items/b7ac92d3328ea7859166</link>
+<guid>c21be69caa280da1e6ffc56f4402a6a7192c75419783541a305dcb57b75c3dea</guid>
+<pubDate>2026-07-24T16:49:21+09:00</pubDate>
+<description>Microsoft Fabric でメダリオンアーキテクチャを設計する際、Bronze・Silver・Gold の各レイヤーを Warehouse と Lakehouse のどちらで実装するかは、重要な設計判断の一つです。 本記事では、両者のアーキテクチャと運用上の違いを整...</description>
+</item>
+<item>
+<title>【Qiita】 【AIエージェントの解剖学：第8回】知能を結集する組織論：Multi-Agent Collaborationの協調設計</title>
+<link>https://qiita.com/mkuwan/items/9fc0557c26f6813fd1ef</link>
+<guid>193da5f3c03d82aec87e61950c315986b7dc9c8db91c3ac5583e8f889a028db1</guid>
+<pubDate>2026-07-24T18:55:01+09:00</pubDate>
+<description>【AIエージェントの解剖学：第8回】知能を結集する組織論：Multi-Agent Collaborationの協調設計 【新連載：AIエージェントの解剖学】 前回（第7回）：【AIエージェントの解剖学：第7回】意思決定の地図を描く：State &amp; Graph Rout...</description>
+</item>
+<item>
+<title>【Qiita】 【AIエージェントの解剖学：第7回】意思決定の地図を描く：State &amp; Graph Routingの制御技術</title>
+<link>https://qiita.com/mkuwan/items/610961ce0587751604ac</link>
+<guid>1b8c8f0664517a1b664cc67797821fb41a1488894dda69f19c39fccd074a4e5e</guid>
+<pubDate>2026-07-24T17:26:19+09:00</pubDate>
+<description>【AIエージェントの解剖学：第7回】意思決定の地図を描く：State &amp; Graph Routingの制御技術 【新連載：AIエージェントの解剖学】 前回（第6回）：【AIエージェントの解剖学：第6回】思い出と忘却の調和：Memory &amp; RAG Engineerin...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/xprof-an-open-scalable-and-extensible-profiling-system-for-the-modern-ml-stack/</link>
-<guid>bc1aadce30b7b29e8baf307887440072a04dce0eff661a5f39a13d3d1d6ab2f6</guid>
-<pubDate>Fri, 24 Jul 2026 07:44:22 GMT</pubDate>
+<link>https://research.google/pubs/cardio-load-in-exercise-and-everyday-life-a-modified-trimp-metric-for-continuously-sensing-consumer-wearables/</link>
+<guid>20d6c010d8a53381dbbe0453de9ea9e6facad0754738f41199729430c7e840db</guid>
+<pubDate>Fri, 24 Jul 2026 10:07:46 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>eec98258d9bd9023bd15dc7549647a79fc579d4fdb7fb2d628a2a609c54f3de0</guid>
+<pubDate>Fri, 24 Jul 2026 10:07:47 GMT</pubDate>
+<description>Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overall shape class.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>096694de2ac1273a24c02069abc7957f707efe77db656c9f2f0e882a99e671ea</guid>
-<pubDate>Fri, 24 Jul 2026 07:44:25 GMT</pubDate>
+<guid>a4c5924e08c05cee2fb0045e71e972c0738d9b10f851595fbfae40d7781de7eb</guid>
+<pubDate>Fri, 24 Jul 2026 10:07:49 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
