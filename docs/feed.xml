@@ -4,41 +4,27 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 25 Jul 2026 09:28:50 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 10:51:58 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 JenkinsでGitHub Copilot CLIにPRを自動レビューさせる ― E2BIG・プロンプトインジェクション・トークン地獄との戦い</title>
-<link>https://qiita.com/jqit-yukiono/items/21c54529410ba960c388?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>34945b9edc566c04ffc8b41531bca0a032b5fcba97cadae0963a258dd60980f4</guid>
-<pubDate>2026-07-25T07:20:08+09:00</pubDate>
-<description>PR が来るたびに @github/copilot で差分を自動レビューし、結果を PR コメントに 貼る Jenkins パイプラインを作りました。 「Copilot CLI を -p で叩くだけでしょ?」と思って始めたら、Linux の argv サイズ上限、 プロンプ...</description>
-</item>
-<item>
-<title>【Qiita】 個人開発でApp Storeリリースフローを学ぶ（続編）― 3回のリジェクトと審査通過までにやったこと</title>
-<link>https://qiita.com/jqit-yukiono/items/91755838ea8589fde90d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>b7bbeecbf849c03f66a6dc683422a44d1c138ad0140d4863e564b0e1a440a7c6</guid>
-<pubDate>2026-07-25T08:20:24+09:00</pubDate>
-<description>個人開発でApp Storeリリースフローを学ぶ（続編）― 3回のリジェクトと審査通過までにやったこと 前回の記事で、iOS（UIKit）+ FastAPI + Kubernetesで作ったMinecraftサーバー監視アプリ「MineWatch」の全体設計を紹介しました...</description>
-</item>
-<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/adversarial-attacks-on-multimodal-large-language-models-a-comprehensive-survey/</link>
-<guid>099a0b9692605ae31de91273704fdc846e6d3007eb74343db923eeb44090339c</guid>
-<pubDate>Sat, 25 Jul 2026 09:27:48 GMT</pubDate>
+<link>https://research.google/pubs/automated-remediation-of-compiler-errors/</link>
+<guid>2f61b513b34dbfe50e1a57b7fe2e1d12a990ff3a378528a8bcce11fedb7a789f</guid>
+<pubDate>Sat, 25 Jul 2026 10:51:19 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>faf73ab03f216ace3c6d44ad76bdf61a8868aaa0c2625f5ee4a56c519eaf2636</guid>
-<pubDate>Sat, 25 Jul 2026 09:27:51 GMT</pubDate>
+<guid>0a4cf52d3e20b522000cde6575686ec916f88d16c8014012236fe0710da5be95</guid>
+<pubDate>Sat, 25 Jul 2026 10:51:21 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>32c889fd2c44a4d7e35434ba25a4c1e74110e60ca3f113fdc671c44152167054</guid>
-<pubDate>Sat, 25 Jul 2026 09:27:54 GMT</pubDate>
+<guid>b1cfcf33ae5ccc7baa17e5945c99781b60566d127b5c4701444cd7348a10f22e</guid>
+<pubDate>Sat, 25 Jul 2026 10:51:24 GMT</pubDate>
 <description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
