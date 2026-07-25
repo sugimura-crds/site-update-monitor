@@ -4,27 +4,34 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 25 Jul 2026 10:51:58 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 11:57:48 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 AIに15分でオセロを作らせたら、自分がボロ負けした話</title>
+<link>https://qiita.com/0903osa/items/442480c4f809b108d3ba</link>
+<guid>9a05215b742e6cb6be02106960d7bde1f8753d1a5b301ced45c3104a3b98bd55</guid>
+<pubDate>2026-07-25T20:54:35+09:00</pubDate>
+<description>なんか、ネタが切れた ジェミニになんかネタないか？？ ＜ジェミニから＞ 「ローカルHTML1ファイル」で動くミニゲーム（オセロ等）の即席爆速開発 難易度: ★★☆☆☆（サクッと動く） 作るもの: 外部ライブラリなし、HTML/CSS/JS 1ファイルで完結する「CPU対戦付...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/automated-remediation-of-compiler-errors/</link>
-<guid>2f61b513b34dbfe50e1a57b7fe2e1d12a990ff3a378528a8bcce11fedb7a789f</guid>
-<pubDate>Sat, 25 Jul 2026 10:51:19 GMT</pubDate>
+<link>https://research.google/pubs/moxart-audio-visual-object-guided-sound-interaction-for-xr-2/</link>
+<guid>b9fc438e17c47e7f047e4027d76c2a399bec183a3bc11fa1d9e044d2aea00448</guid>
+<pubDate>Sat, 25 Jul 2026 11:56:50 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>0a4cf52d3e20b522000cde6575686ec916f88d16c8014012236fe0710da5be95</guid>
-<pubDate>Sat, 25 Jul 2026 10:51:21 GMT</pubDate>
+<guid>58649b5f76431f5573d0750a01abde1c27aa191fd4e788e8b20fdb8f33c6e518</guid>
+<pubDate>Sat, 25 Jul 2026 11:56:52 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>b1cfcf33ae5ccc7baa17e5945c99781b60566d127b5c4701444cd7348a10f22e</guid>
-<pubDate>Sat, 25 Jul 2026 10:51:24 GMT</pubDate>
+<guid>c03870900e0da4c17117a2f280a7ee587d5c43b85575c955959c154dccd31fb1</guid>
+<pubDate>Sat, 25 Jul 2026 11:56:54 GMT</pubDate>
 <description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
