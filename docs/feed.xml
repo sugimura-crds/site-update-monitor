@@ -4,20 +4,27 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 25 Jul 2026 13:10:03 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 14:44:57 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 Claudeに聞いたOpus5で変える方が良いプロンプト等の俺用まとめ</title>
+<link>https://qiita.com/naokami3/items/2c192dfb0f0552cda009</link>
+<guid>0c03dffe7b315fd7e855c3f406250a2c30a998e35e89b9ec4c9ad41aa64a3de0</guid>
+<pubDate>2026-07-25T22:52:15+09:00</pubDate>
+<description>価格は据え置き、移行手順もモデルIDの書き換え1行。それでも公式の移行ガイドは、推奨アクションの過半を「この指示を消せ」で占めている。 変更点の一覧 変える場所 何をするか 何が得られるか API の設定 max_tokens を上げる 応答が途中で切れな...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/cardio-load-in-exercise-and-everyday-life-a-modified-trimp-metric-for-continuously-sensing-consumer-wearables/</link>
-<guid>65af308d6d2b5948ced51320d86cc693fa5c6f0a9e2f8177c0b5850213e4bc5b</guid>
-<pubDate>Sat, 25 Jul 2026 13:09:25 GMT</pubDate>
+<link>https://research.google/pubs/operationalized-temporal-entity-resolution-at-scale-a-2b-entity-architecture-for-cloud-native/</link>
+<guid>a687705f7b48cd48da6c02a11d1f942972f95d5e2c4c8e5592145133a1159323</guid>
+<pubDate>Sat, 25 Jul 2026 14:43:57 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>c543163c4c0c76920bb9f812870d721cd621b11e3ad1cee24ea5c796b9d050ab</guid>
-<pubDate>Sat, 25 Jul 2026 13:09:28 GMT</pubDate>
+<guid>5320d90cf09dc1b02538aefbb58074ddf89b2e9f346ca61c03065c14a4263219</guid>
+<pubDate>Sat, 25 Jul 2026 14:44:00 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
