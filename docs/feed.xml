@@ -4,28 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 25 Jul 2026 01:59:40 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 05:15:18 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 RoboRewardはロボット学習の報酬設計をデータ問題に変える</title>
+<link>https://qiita.com/mhamadajp/items/bd0e42c10db5809bfac2</link>
+<guid>19121ae318845edb5fb02eb0cafca92ebb8636bde319b9a41808913a73a0ce9b</guid>
+<pubDate>2026-07-25T13:38:28+09:00</pubDate>
+<description>ロボットを強化学習で賢くしようとすると、すぐに難しい問題にぶつかります。 報酬をどう与えるかです。 「タスクに成功したら1点、失敗したら0点」と書くだけなら簡単に見えます。しかし実際のロボット作業では、成功と失敗の境界はかなり曖昧です。 コップをつかめたが、少しずれた。 引...</description>
+</item>
+<item>
+<title>【Qiita】 GitFolio</title>
+<link>https://qiita.com/sheylaghost/items/6343103e9f9b58087e19</link>
+<guid>c3aad88cd7e99dd30c51ed4b445bd684d293b43b83b297b201b411f4e21543be</guid>
+<pubDate>2026-07-25T11:58:13+09:00</pubDate>
+<description>GitHub 经常被程序员用作现实生活中的作品集，但它并不总是易于阅读：提交历史零散，仓库缺乏上下文，而且没有直接的方法可以可视化一段时间内的进度。 我开发了 GitFolio 来实践这一概念。它分析 GitHub 个人资料，并使用受 git-diff 启发的评分系统，以可...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントの挙動を2つの実行間でdiffするCLI「whatbroke」を作った</title>
+<link>https://qiita.com/arthiarumugam/items/7cf65e9a38aba8107ae7</link>
+<guid>715393b86ef87d1794f28c71abfbcf69db916a5f30391460fc8030bd67bb98c7</guid>
+<pubDate>2026-07-25T11:25:55+09:00</pubDate>
+<description>モデルを新しいものに差し替えたとき、返答をいくつか読んで「大丈夫そう」で済ませていませんか。私はそれで痛い目を見ました。 エージェントのモデルを3分の1のサイズのものに載せ替えて試したとき、返答は全部それらしく見えたのに、裏では cancel_subscription のツ...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/agentic-trend-to-knowledge-a-methodology-for-automating-case-deflection-through-proactive-content-surfacing-in-enterprise-employee-support/</link>
-<guid>1c44aef87a6d76e9a41514647c046d74add63bda151b7b7e344387fc2627242f</guid>
-<pubDate>Sat, 25 Jul 2026 01:58:40 GMT</pubDate>
+<link>https://research.google/pubs/an-empirical-study-of-tablet-ergonomics-the-interplay-of-temperature-orientation-and-use-behaviors/</link>
+<guid>c6ea45ed4e82027fa3886a5942a1c17015c8bbd2c137e519fab576a08fd7874d</guid>
+<pubDate>Sat, 25 Jul 2026 05:14:44 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>965ed80cadf7bf5f44ef77bb341e4c0a7ab14b6f27fc8e72d137c87e53acde63</guid>
-<pubDate>Sat, 25 Jul 2026 01:58:46 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>17bb89e142f1aead651538bb4be259453d1bc01d2257d5998bb55f303e9b676a</guid>
+<pubDate>Sat, 25 Jul 2026 05:14:46 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>d7aecf62a7a6597df1c4c0b191dbab777c426b09ee126a37abf426ebc23375e6</guid>
-<pubDate>Sat, 25 Jul 2026 01:58:49 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>3dc34f4fb0893f1b9cf13844bfbfb31e46c57906df84864a1a4d9650fc06b683</guid>
+<pubDate>Sat, 25 Jul 2026 05:14:48 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 
 </channel>
