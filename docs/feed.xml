@@ -4,28 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 25 Jul 2026 18:53:39 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 20:06:44 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【電源のお話】交流→直流、物理アプライアンス機器のスイッチング電源とか。</title>
-<link>https://qiita.com/Heizo_Hasegawa/items/04d6ddedc1f98e857abb</link>
-<guid>8e70305fb04512677c225f476e994163241dc148301cd1efd32fa578d0e19742</guid>
-<pubDate>2026-07-26T03:12:23+09:00</pubDate>
-<description>1. はじめに 先日、作業の合間にサーバーエンジニアさんからふと質問をいただきました。 「電源の効率・・ってあるじゃないですか？アレっていったいどういうことなんでしょう……？」 （そうですねえ。どこから語ったら判りやすいか…… 交流を、トランスで降圧してー、ブリッジダイオ...</description>
+<title>【Qiita】 Codex/ClaudeとローカルLLMをつなげてみた</title>
+<link>https://qiita.com/ichiken26/items/5bfc4baad0c487475355</link>
+<guid>a5f46be657876a98505bf8e69f42829d80bff1a39d39e525d9ea2266723f3bea</guid>
+<pubDate>2026-07-26T04:32:49+09:00</pubDate>
+<description>はじめに 本記事では、ローカルLLM(今回はOllama)をCodex CLIやClaude Codeで駆動するための方法についてまとめる。 前提とし、既にCodexまたはClaudeのどちらかのCLI環境は既に構築されているものとする。 背景 詳細はこちらの記事を参照...</description>
+</item>
+<item>
+<title>【Qiita】 CodexやClaudeに長時間駆動をさせてみる</title>
+<link>https://qiita.com/ichiken26/items/cecb1bb815d411f1c682</link>
+<guid>29bfca6a44a1ff23d0da582e908f82986f2289146a05936dd5dba8af98b51cca</guid>
+<pubDate>2026-07-26T04:29:22+09:00</pubDate>
+<description>背景 事の起こりは、筆者が普段通り個人開発を楽しんでいた時のことだった。 最近、「Claudeで数時間放置したらこんなものができました！」「Codexが数日かけてこんなものを作ってくれました！」などとネットで目にする機会が多い。 しかし、筆者のClaudeやCodexは、...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/automated-remediation-of-compiler-errors/</link>
-<guid>762f1076d9ea08646b80b98dfb273e462a8e22bb0cc81a92dd27a04b5d5174f2</guid>
-<pubDate>Sat, 25 Jul 2026 18:53:05 GMT</pubDate>
+<link>https://research.google/pubs/veriguard-enhancing-llm-agent-safety-via-verified-code-generation-2/</link>
+<guid>02cde9df002a8e7db06fbf74a4294733c13bf5452d109df703342db1d9885cd6</guid>
+<pubDate>Sat, 25 Jul 2026 20:05:46 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>ccb5418480e97fb8f172a836b89ee571196007a562ee0da2ec59e5d0040f591e</guid>
-<pubDate>Sat, 25 Jul 2026 18:53:08 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
 </channel>
