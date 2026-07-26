@@ -4,64 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 26 Jul 2026 04:52:20 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 07:31:40 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 conoha-cli で ConoHa VPS に「人間 + AI エージェント協働ワークスペース」Buzz をセルフホストし、Claude を常駐エージェントとして @mention に応答させる</title>
-<link>https://qiita.com/crowdy/items/40ad18327af811561280</link>
-<guid>42807c92d8121e1e10553c9b9b1df3674d856bf50580f7ede6dc03028f31283d</guid>
-<pubDate>2026-07-26T13:42:29+09:00</pubDate>
-<description>はじめに Buzz（Block, Inc. / Apache-2.0）は、人間と AI エージェントが同じ部屋で作業するセルフホスト型ワークスペースです。実体は Nostr リレーで、メッセージもリアクションも git イベントもワークフローも、すべて「署名済み Nost...</description>
+<title>【Qiita】 システムプロンプト8割削減でも無問題 —Claude 5世代のコンテキストエンジニアリング新ルール</title>
+<link>https://qiita.com/ryoji9702/items/3d88827240464fb6320e</link>
+<guid>7fc362a1ce014088067b4c183661e7761a868b5aa5c6f8952d031129018fae2b</guid>
+<pubDate>2026-07-26T15:15:09+09:00</pubDate>
+<description>はじめに 2026年7月24日、Claude Opus 5 の発表と同日に、Anthropic の公式ブログで「The new rules of context engineering for Claude 5 generation models」という記事が公開されまし...</description>
 </item>
 <item>
-<title>【Qiita】 SlackでAI秘書を雇う。AWS Bedrock + Lambda構築ガイド【初心者向け】</title>
-<link>https://qiita.com/ZEN1106/items/5be25e5b95a3c1e65948</link>
-<guid>27fefe61cae737cf6e49fe9e78f1dba51a8fc0d49b1f67f0fc12c2653b0a23fa</guid>
-<pubDate>2026-07-26T13:38:15+09:00</pubDate>
-<description>はじめに こんにちは！ 「Slackに話しかけるだけでタスク管理やGoogleカレンダーの予定登録をしてくれるAI秘書が欲しい」 そんなモチベーションで、AWS Bedrock（Claude Haiku）とAWS Lambdaを使った個人用AI秘書 「びゃくや」 を構築し...</description>
+<title>【Qiita】 Codex CLIのセッション問題をHookで解決した（この記事はLLM視点で書かれています）</title>
+<link>https://qiita.com/tuyomori/items/17648ee9c4291cc0c171</link>
+<guid>8934c71da64239cc86ee9368f4c552ec524b423a4f73dd2ac6961da2f797900d</guid>
+<pubDate>2026-07-26T15:52:06+09:00</pubDate>
+<description>※１この記事は、LLMに「今日の作業内容をQiita投稿用にまとめて」と依頼して書いてもらっています。 ※２せっかくなので構成も少し実験的にしており、「LLMにあなた視点で記事を自由に書いて」と依頼しています。 私はある開発者と、セッションの話をしていた 私はある開発者と...</description>
 </item>
 <item>
-<title>【Qiita】 【ノーコード】Microsoft Foundry (Azure) でAIエージェントをさっと作る</title>
-<link>https://qiita.com/Pretzelisa/items/7b45be26018df2174830</link>
-<guid>433b0d8f74c9de6205dce28d443d227df3182fa9c99871a05d8763ee5ce825c6</guid>
-<pubDate>2026-07-26T13:20:05+09:00</pubDate>
-<description>はじめに AIエージェントを作るときコーディングすることが多く、GUIベースのサービスも試したくなったので、Microsoft Foundry (Azure)を使ってノーコードでエージェントを作ってみる。 1. Microsoft Foundry (Azure) Mic...</description>
+<title>【Qiita】 Google最強のAIエージェント「Gemini Spark」とは？24時間働くデジタル秘書を徹底解説</title>
+<link>https://qiita.com/lhjjjk4/items/65fd09bb878c79713a66</link>
+<guid>2cb64298822e69bcae1674a7a31ad7be5b01c939afe44d1aff9d087e5dc98aa8</guid>
+<pubDate>2026-07-26T13:56:58+09:00</pubDate>
+<description>想像してみてください。あなたには疲れることも、寝ることも、物事を忘れることもないデジタル秘書がいます。あなたが「今月の出費を整理して」と言ってノートPCを閉じて寝れば、翌朝にはきれいに整理されたスプレッドシートと解約メールの下書きが受信箱に届いている——これはSF映画の話...</description>
 </item>
 <item>
-<title>【Qiita】 LLM記述構文&quot;MARI&quot; Tips:システムペルソナをデコンパイル</title>
-<link>https://qiita.com/otoyo0318/items/70b38489cf68f3a71ad7</link>
-<guid>ef3b790ec66880edd7abc2d717dd16fd3631b165dd50a85ddbeb823ac3127a8e</guid>
-<pubDate>2026-07-26T12:05:09+09:00</pubDate>
-<description>1. はじめに 今回はLLM記述構文&quot;MARI&quot; Tips:システムペルソナ参照、青い奴らが大集合で紹介しましたシステムペルソナをハックする方法の続編となります。 前回記事ではLLMが事前学習している「攻殻機動隊 S.A.C.」に登場した「タチコマ」のシステムペルソナを...</description>
+<title>【Qiita】 半額モデルが本家を逆転、43.3%対33.7%: Claude Opus 5が壊した「上位ほど賢い」の常識</title>
+<link>https://qiita.com/emi_ndk/items/6b8be2242d13ed1a3af6</link>
+<guid>5d1a11af6bd720f59a6e4b6b02f79fab1d679f224267e8f704b4e20494509a94</guid>
+<pubDate>2026-07-26T16:06:07+09:00</pubDate>
+<description>結論から: 半額のモデルが、フラッグシップをコーディングで抜いた 2026年7月24日、AnthropicがClaude Opus 5をリリースした。価格は入力$5/出力$25（100万トークンあたり）で、最上位モデルClaude Fable 5（$10/$50）のちょう...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/the-glossary-grounded-universal-queue-an-architecture-for-enabling-follow-the-sun-support-in-global-people-operations/</link>
-<guid>039b37ff353ab4317eeefb51eab34296d3c089834c2f24c9b94c4f41361dec7a</guid>
-<pubDate>Sun, 26 Jul 2026 04:51:33 GMT</pubDate>
+<link>https://research.google/pubs/causal-armor-efficient-indirect-prompt-injection-guardrails-via-causal-attribution/</link>
+<guid>2e53d4b3220befa78ac9484f860cf177eb80871e8e64151ec6fb4884313b9c5b</guid>
+<pubDate>Sun, 26 Jul 2026 07:30:49 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>3b4bbae25a6ab9c04606ebe51eb2b2396a2707430f2f09267151d9d9b7dbe88d</guid>
-<pubDate>Sun, 26 Jul 2026 04:51:37 GMT</pubDate>
+<guid>aa7779ef44575d87061cca7e2e6572ef4fe266a49065b2b8b8d9dff2a13f2a10</guid>
+<pubDate>Sun, 26 Jul 2026 07:30:52 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>d7f7d34b8810a8174774ecc15e24b77820d630f726caee21cfd3c8e60a1ccaca</guid>
-<pubDate>Sun, 26 Jul 2026 04:51:39 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+<link>https://www.nature.com/articles/s41746-026-02994-8</link>
+<guid>07ffafbca4e4f0e3aa08b6d0e4465e1e447830b0210e5898379d263fee0160fd</guid>
+<pubDate>Sun, 26 Jul 2026 07:30:57 GMT</pubDate>
+<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>8ccc413a24a266dd2e7ef85c7f13dcf0996f5feaab9f5a6d960debfff6ae5938</guid>
-<pubDate>Sun, 26 Jul 2026 04:51:57 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【Self-driving laboratories】 Filter By:</title>
+<link>https://www.nature.com/articles/s44160-026-01120-6</link>
+<guid>ff1c460aad428c3ff58a04381fdb6c7ad58688c615bb9e4f29e22a50bc251fd6</guid>
+<pubDate>Sun, 26 Jul 2026 07:31:02 GMT</pubDate>
+<description>Industrial self-driving laboratories need more than safe robots and instruments. They need an autonomy safety harness that defines how AI-generated intent becomes executable experiments, monitored actions and trustworthy evidence for downstream research and development (R&amp;amp;D).</description>
 </item>
 
 </channel>
