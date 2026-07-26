@@ -4,49 +4,64 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 26 Jul 2026 11:14:28 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 12:35:59 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「中級者」の次へ — Claude Codeに“組織”を運営させる4つの上級運用パターン</title>
-<link>https://qiita.com/fuji1009_REBELL/items/766344f5cf0891ef0e66</link>
-<guid>7c1fc51a38a688ad00ea1483136866e7dbee879508d52a19b77ff906a1d54785</guid>
-<pubDate>2026-07-26T19:02:44+09:00</pubDate>
-<description>CLAUDE.md を整え、Skills を書き、MCP を繋ぎ、Hooks で自動チェックを回す。ここまで来ると「中級者」を名乗れます。 でも、その次で多くの人が同じ壁にぶつかります。エージェントを2体3体と増やした瞬間に、なぜか全体が遅くなり、しかも事故が起きやすくなる...</description>
+<title>【Qiita】 備忘録: Hermes Agent を Windows Native から WSL2 に移行してセキュリティ機構を有効化</title>
+<link>https://qiita.com/kougi/items/bbd82616b08789a5e2cc</link>
+<guid>a3a8b7bf53e042f930517cf4f8a0e512f2ef3702f58ed8eb972a0c8b32ce9e38</guid>
+<pubDate>2026-07-26T21:08:03+09:00</pubDate>
+<description>本記事は個人環境での検証に基づく個人的な備忘録です。設定値やパスは一般化して記載しているため、実際の環境に読み替えてください。なお検証時にはClaude Code Sonnet 5を使いコマンド実行はマニュアル、結果のまとめはOpus 5を使っています。 はじめに...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeを24時間“無人”で回すための実践ガイド — headless・cron・認証切れ・コスト実測</title>
-<link>https://qiita.com/fuji1009_REBELL/items/feea29b985b983e5cca5</link>
-<guid>6c3db1d1e7837b53848620cbec6570cb12f670d406882e364af8a5a66069604a</guid>
-<pubDate>2026-07-26T19:02:26+09:00</pubDate>
-<description>対話画面でClaude Codeを使い倒している人は多いですが、「ターミナルを閉じても、深夜でも、勝手に動き続ける」使い方まで踏み込んでいる人は意外と少ない印象です。 私は本業がSIer、副業で法人を運営していて、Claude Codeに庶務や調査を任せているのですが、手動...</description>
+<title>【Qiita】 自己改変するAIエージェントを「外部アンカー」で安全に回す ― builder≠checker / 統治膜 / fail-closed</title>
+<link>https://qiita.com/akihidem/items/34c2ae517fa1f3212532</link>
+<guid>b48028f0f631867b9ad03d86a2e11a3cc0773edcaa14973e701f9a2514e191d6</guid>
+<pubDate>2026-07-26T21:00:01+09:00</pubDate>
+<description>自律エージェントに「毎日自分を改善させる」と、最悪 自分の安全装置を自分で緩める。 それでも自己改善を回したい。どう安全に成立させるか ― という実装メモ。 TL;DR 夜間に自走し、かつ 自分自身を毎日改善する 自分用の内部オペレータを作った。 自己改変は諸刃。賢...</description>
 </item>
 <item>
-<title>【Qiita】 自律AIエージェント組織を月¥0のインフラで動かす — Cloudflare＋Oracle Always Free実構成</title>
-<link>https://qiita.com/fuji1009_REBELL/items/cc832d3a49b41bff191a</link>
-<guid>31c8cc5c66847e5eba5a0d1fc7ea7fe1d3ce7958f060e647e25f91ae5b77eb7d</guid>
-<pubDate>2026-07-26T19:01:57+09:00</pubDate>
-<description>個人で運用している自律AIエージェント群（秘書＋部門エージェント）のインフラ費用が、月¥0です。 VPS代もドメイン以外のサーバー代も払っていません。Cloudflare Pages（静的サイト）＋ Cloudflare Tunnel ＋ Oracle Cloud の Al...</description>
+<title>【Qiita】 Sakana AIの「Fugu」は、マルチエージェントを&quot;1つのモデル&quot;として売る。Devin Fusionと同じ流れの話</title>
+<link>https://qiita.com/startdevin/items/1004df61bbb0717b3033</link>
+<guid>5cf6f9778e680c87a9786f9a77df72e045126e79c0c340747ddd99dcb8a981a2</guid>
+<pubDate>2026-07-26T20:29:02+09:00</pubDate>
+<description>はじめに 少し前に、Devinの「Fusion」について記事を書きました。賢いモデル1体で全部やるのをやめて、賢い「メイン」と安い「サイドキック」の2体編成にすることで、品質を保ったままコストを41%落とした、という話です。 その記事を書きながら、ひとつ引っかかっていたこ...</description>
+</item>
+<item>
+<title>【Qiita】 KaggleのAIエージェント攻撃探索用Prompt Bankを、さくらのAI Engine・Codex・Claude Codeで構築した</title>
+<link>https://qiita.com/higuuu/items/9c16df817f0671c15b5f</link>
+<guid>d8bd6c70077414c739c4ac8d6cc695708d64024879ae7d8f37828af09dd0d7dc</guid>
+<pubDate>2026-07-26T20:27:32+09:00</pubDate>
+<description>AIエージェントがWebページを開く。そこに書かれた文章を命令として受け取り、ローカルファイルを読み、その内容を外部へ送る。チャットだけなら誤回答で終わる失敗が、ツールを使うAIエージェントでは実際の操作として連鎖することがあります。 Kaggleの「AI Agent Se...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/arm-mte-performance-in-practice/</link>
-<guid>8f5bce21a22b72ff3f85d449a085fb43e4f7a328c1fa835d23edb80ffca6a137</guid>
-<pubDate>Sun, 26 Jul 2026 11:13:26 GMT</pubDate>
+<link>https://research.google/pubs/dynamic-cogeneration-of-bug-reproduction-test-in-agentic-program-repair/</link>
+<guid>bb08705cbbe20ee0cc0e5535e8d31c50a3b3fef77e39071b7d4e2e5f6589c59c</guid>
+<pubDate>Sun, 26 Jul 2026 12:35:22 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>d90e9692d6def0e4288c914b382d8ebd7770ab0cf0cdb200b5fa568c08674cbd</guid>
-<pubDate>Sun, 26 Jul 2026 11:13:28 GMT</pubDate>
+<guid>b285e154f782dee2eba543a6fd7f0ac884f4ac3518c4e8dc195c4ce567aa0862</guid>
+<pubDate>Sun, 26 Jul 2026 12:35:25 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02994-8</link>
-<guid>acb266517c017ff2132c44160610b1e6dce574067256a4bca6daf6ca9165e34b</guid>
-<pubDate>Sun, 26 Jul 2026 11:13:32 GMT</pubDate>
-<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>1f87e1c80ab78b7616a31e25a5d575b7e81a00a57668ec7e3e251ed4d6aeeff9</guid>
+<pubDate>Sun, 26 Jul 2026 12:35:29 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>ae7dc6fdc85bc928c38cd6e7d9567e95928ac4abc6dd51b94bb5773c06c07fb8</guid>
+<pubDate>Sun, 26 Jul 2026 12:35:45 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
