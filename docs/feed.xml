@@ -4,71 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 26 Jul 2026 09:51:32 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 11:14:28 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 非エンジニアが気楽に始める仕様駆動開発</title>
-<link>https://qiita.com/ynmc0214/items/9cf96baae4b01bbeb6d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>1c32e0e3ca1aee22d952f81282df7907a9352afabd8f467de4006ad1bbad26cc</guid>
-<pubDate>2026-07-25T15:31:37+09:00</pubDate>
-<description>この記事はAIと壁打ちしながら人間が書きました。 流行りの仕様駆動開発、とっつきづらく感じませんか？ サービスデザイナーという肩書きで仕事している非エンジニアの僕には、正直ちょっと難しいと感じてました。 理解を深めるために個人で仕様駆動開発にトライしてみたのですが、...</description>
+<title>【Qiita】 「中級者」の次へ — Claude Codeに“組織”を運営させる4つの上級運用パターン</title>
+<link>https://qiita.com/fuji1009_REBELL/items/766344f5cf0891ef0e66</link>
+<guid>7c1fc51a38a688ad00ea1483136866e7dbee879508d52a19b77ff906a1d54785</guid>
+<pubDate>2026-07-26T19:02:44+09:00</pubDate>
+<description>CLAUDE.md を整え、Skills を書き、MCP を繋ぎ、Hooks で自動チェックを回す。ここまで来ると「中級者」を名乗れます。 でも、その次で多くの人が同じ壁にぶつかります。エージェントを2体3体と増やした瞬間に、なぜか全体が遅くなり、しかも事故が起きやすくなる...</description>
 </item>
 <item>
-<title>【Qiita】 開発効率が上がったCLIツール・コマンド10選</title>
-<link>https://qiita.com/NekoByte/items/efa81aaa8a61d3478568?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>6f8e0408051a05e01a5f3d15226a0d6592ff11662294c0e6896112e0900a306d</guid>
-<pubDate>2026-07-26T01:56:11+09:00</pubDate>
-<description>「もう一度同じ作業をやり直し...」と画面を眺めながら、あの時は本当に何度もエラーに悩まされました。Gitのコミットログをたどるたびに「これ、毎回手で打つの大変だよな」と感じていた私が、ついにCLIツールに出会った瞬間、開発のスピードが劇的に変わったのを感じました。もし同じ...</description>
+<title>【Qiita】 Claude Codeを24時間“無人”で回すための実践ガイド — headless・cron・認証切れ・コスト実測</title>
+<link>https://qiita.com/fuji1009_REBELL/items/feea29b985b983e5cca5</link>
+<guid>6c3db1d1e7837b53848620cbec6570cb12f670d406882e364af8a5a66069604a</guid>
+<pubDate>2026-07-26T19:02:26+09:00</pubDate>
+<description>対話画面でClaude Codeを使い倒している人は多いですが、「ターミナルを閉じても、深夜でも、勝手に動き続ける」使い方まで踏み込んでいる人は意外と少ない印象です。 私は本業がSIer、副業で法人を運営していて、Claude Codeに庶務や調査を任せているのですが、手動...</description>
 </item>
 <item>
-<title>【Qiita】 非エンジニアがAIエージェントを使いこなす時代に 〜置いていかれている私の今後について〜 AWS Summit 2026参加レポート</title>
-<link>https://qiita.com/Koki_portra400/items/7671fb900941a83b23d7</link>
-<guid>9efbee9496468e57247b77c0e40917c27472c5899141cb97e29ad1261ca1f9c6</guid>
-<pubDate>2026-07-26T17:33:55+09:00</pubDate>
-<description>はじめに こんにちは。アプリケーションエンジニア3年目のKokiです。 普段はAWSやAIにあまり馴染みのない部門で働いていますが、最近は社内外で自主的にAWSやAIの知見を広める活動に取り組んでいます。 今回は、AWS Summit 2026に参加したレポートを共有しま...</description>
-</item>
-<item>
-<title>【Qiita】 [備忘録] Hermes AgentをSlackと連携する手順メモ</title>
-<link>https://qiita.com/Tadataka_Takahashi/items/69bac01cc23a0991021c</link>
-<guid>b2f91d2b8d50950d7958ec2df5742b3a8235a7751685f29a14e8ec09f1891176</guid>
-<pubDate>2026-07-26T17:28:30+09:00</pubDate>
-<description>はじめに Hermes Agentは、SlackのDMやチャンネルから呼び出して利用できます。 ブラウザの管理画面を毎回開かなくても、普段使っているSlackから次のような依頼を行えます。 技術情報を調査してもらう 調査結果や技術メモを整理してもらう ドキュメントの構...</description>
+<title>【Qiita】 自律AIエージェント組織を月¥0のインフラで動かす — Cloudflare＋Oracle Always Free実構成</title>
+<link>https://qiita.com/fuji1009_REBELL/items/cc832d3a49b41bff191a</link>
+<guid>31c8cc5c66847e5eba5a0d1fc7ea7fe1d3ce7958f060e647e25f91ae5b77eb7d</guid>
+<pubDate>2026-07-26T19:01:57+09:00</pubDate>
+<description>個人で運用している自律AIエージェント群（秘書＋部門エージェント）のインフラ費用が、月¥0です。 VPS代もドメイン以外のサーバー代も払っていません。Cloudflare Pages（静的サイト）＋ Cloudflare Tunnel ＋ Oracle Cloud の Al...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/crop-token-efficient-reasoning-in-large-language-models-via-regularized-prompt-optimization/</link>
-<guid>046de2573f6f1877e952e3055f4c60d126caec0f2071d65afc83028742565cec</guid>
-<pubDate>Sun, 26 Jul 2026 09:50:48 GMT</pubDate>
+<link>https://research.google/pubs/arm-mte-performance-in-practice/</link>
+<guid>8f5bce21a22b72ff3f85d449a085fb43e4f7a328c1fa835d23edb80ffca6a137</guid>
+<pubDate>Sun, 26 Jul 2026 11:13:26 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>05ad2c0dd317d13b8e3f19503455b8779bfc9dac20483ad55105f07ef749eae0</guid>
-<pubDate>Sun, 26 Jul 2026 09:50:51 GMT</pubDate>
+<guid>d90e9692d6def0e4288c914b382d8ebd7770ab0cf0cdb200b5fa568c08674cbd</guid>
+<pubDate>Sun, 26 Jul 2026 11:13:28 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>d9696f540dfcd73715e5681d96a4953d0ba2686f184733305bf6e70b38d81beb</guid>
-<pubDate>Sun, 26 Jul 2026 09:50:54 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>434eff98407615363aa426129262d084c1ab4f3256c1ed3c6a33d93dd8437d00</guid>
-<pubDate>Sun, 26 Jul 2026 09:50:57 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>7152c64a54b319677ab5f0dedb8ac08b4cbfac95f0f95439506ba526c1bdcc6c</guid>
-<pubDate>Sun, 26 Jul 2026 09:51:16 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02994-8</link>
+<guid>acb266517c017ff2132c44160610b1e6dce574067256a4bca6daf6ca9165e34b</guid>
+<pubDate>Sun, 26 Jul 2026 11:13:32 GMT</pubDate>
+<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
 </item>
 
 </channel>
