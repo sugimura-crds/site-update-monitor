@@ -4,64 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 26 Jul 2026 12:35:59 GMT</lastBuildDate>
+<lastBuildDate>Sun, 26 Jul 2026 14:24:44 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 備忘録: Hermes Agent を Windows Native から WSL2 に移行してセキュリティ機構を有効化</title>
-<link>https://qiita.com/kougi/items/bbd82616b08789a5e2cc</link>
-<guid>a3a8b7bf53e042f930517cf4f8a0e512f2ef3702f58ed8eb972a0c8b32ce9e38</guid>
-<pubDate>2026-07-26T21:08:03+09:00</pubDate>
-<description>本記事は個人環境での検証に基づく個人的な備忘録です。設定値やパスは一般化して記載しているため、実際の環境に読み替えてください。なお検証時にはClaude Code Sonnet 5を使いコマンド実行はマニュアル、結果のまとめはOpus 5を使っています。 はじめに...</description>
+<title>【Qiita】 設計書の無い VB6 を Python に移す — Bob Shell で仕様を復元してから移植する</title>
+<link>https://qiita.com/Tadash/items/a7617a239926c9fb2fe8</link>
+<guid>887f529bb3cbaf2e62d13f5cdef582bd53805778a6a0516a4c9903ead92e708d</guid>
+<pubDate>2026-07-26T18:22:47+09:00</pubDate>
+<description>どうもこんにちは、Tadash です。 レガシー資産のモダナイゼーションでは、渡されるものがだいたい決まっています。ソースコードと、動いている実行ファイル。設計書はありません。書いた人はもういません。 この状態で「別の言語に移してほしい」と言われたとき、いきなり変換に手をつ...</description>
 </item>
 <item>
-<title>【Qiita】 自己改変するAIエージェントを「外部アンカー」で安全に回す ― builder≠checker / 統治膜 / fail-closed</title>
-<link>https://qiita.com/akihidem/items/34c2ae517fa1f3212532</link>
-<guid>b48028f0f631867b9ad03d86a2e11a3cc0773edcaa14973e701f9a2514e191d6</guid>
-<pubDate>2026-07-26T21:00:01+09:00</pubDate>
-<description>自律エージェントに「毎日自分を改善させる」と、最悪 自分の安全装置を自分で緩める。 それでも自己改善を回したい。どう安全に成立させるか ― という実装メモ。 TL;DR 夜間に自走し、かつ 自分自身を毎日改善する 自分用の内部オペレータを作った。 自己改変は諸刃。賢...</description>
+<title>【Qiita】 AWS DevOps Agent 導入手順書</title>
+<link>https://qiita.com/tama_katsura/items/fdf3767f2c9da843c13d</link>
+<guid>aab77cc5861357d2dae9280c4feb9527c95504391eebf146552666492f27735c</guid>
+<pubDate>2026-07-26T23:10:39+09:00</pubDate>
+<description>バージョン: 2025年7月時点 参照元: Creating an Agent Space CLI Onboarding Guide Getting Started using AWS CDK ※ 一部AIを利用して編集しています 概要 AWS DevOps A...</description>
 </item>
 <item>
-<title>【Qiita】 Sakana AIの「Fugu」は、マルチエージェントを&quot;1つのモデル&quot;として売る。Devin Fusionと同じ流れの話</title>
-<link>https://qiita.com/startdevin/items/1004df61bbb0717b3033</link>
-<guid>5cf6f9778e680c87a9786f9a77df72e045126e79c0c340747ddd99dcb8a981a2</guid>
-<pubDate>2026-07-26T20:29:02+09:00</pubDate>
-<description>はじめに 少し前に、Devinの「Fusion」について記事を書きました。賢いモデル1体で全部やるのをやめて、賢い「メイン」と安い「サイドキック」の2体編成にすることで、品質を保ったままコストを41%落とした、という話です。 その記事を書きながら、ひとつ引っかかっていたこ...</description>
-</item>
-<item>
-<title>【Qiita】 KaggleのAIエージェント攻撃探索用Prompt Bankを、さくらのAI Engine・Codex・Claude Codeで構築した</title>
-<link>https://qiita.com/higuuu/items/9c16df817f0671c15b5f</link>
-<guid>d8bd6c70077414c739c4ac8d6cc695708d64024879ae7d8f37828af09dd0d7dc</guid>
-<pubDate>2026-07-26T20:27:32+09:00</pubDate>
-<description>AIエージェントがWebページを開く。そこに書かれた文章を命令として受け取り、ローカルファイルを読み、その内容を外部へ送る。チャットだけなら誤回答で終わる失敗が、ツールを使うAIエージェントでは実際の操作として連鎖することがあります。 Kaggleの「AI Agent Se...</description>
+<title>【Qiita】 初学者が スキル139個を棚卸しした1ヶ月後、自分の解決策をAnthropicに全否定された話</title>
+<link>https://qiita.com/Toriumi-desu/items/9fab89c283aba44670a1</link>
+<guid>f4604e6ca746b177244b78dd46b59a71e55a87ef281efe8d00431be4314ac58b</guid>
+<pubDate>2026-07-26T23:06:15+09:00</pubDate>
+<description>この記事は 初学者の個人的な学習記録が主な目的です。 同じ立場の人、これからエンジニアを目指している人に届けばと思って書いています。 ⚠️ 楽しく書きたいので、所々言葉を崩しています、ご了承ください。 この記事は前回のスキル棚卸し記事「初学者による『AI Skillっ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/dynamic-cogeneration-of-bug-reproduction-test-in-agentic-program-repair/</link>
-<guid>bb08705cbbe20ee0cc0e5535e8d31c50a3b3fef77e39071b7d4e2e5f6589c59c</guid>
-<pubDate>Sun, 26 Jul 2026 12:35:22 GMT</pubDate>
+<link>https://research.google/pubs/who-controls-the-curriculum-for-ai-the-limits-of-participatory-design-for-educational-ai/</link>
+<guid>0347a6b0116eaef1eec463e851f93115acf7308eda0aa8a572a7c5a2c019c41b</guid>
+<pubDate>Sun, 26 Jul 2026 14:24:04 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>b285e154f782dee2eba543a6fd7f0ac884f4ac3518c4e8dc195c4ce567aa0862</guid>
-<pubDate>Sun, 26 Jul 2026 12:35:25 GMT</pubDate>
+<guid>e51ea7c1aa7d1f8d2f8dff4f1f0d1b1f138c38ec3b09077b56e02703e8ddbbc0</guid>
+<pubDate>Sun, 26 Jul 2026 14:24:06 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>1f87e1c80ab78b7616a31e25a5d575b7e81a00a57668ec7e3e251ed4d6aeeff9</guid>
-<pubDate>Sun, 26 Jul 2026 12:35:29 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>ae7dc6fdc85bc928c38cd6e7d9567e95928ac4abc6dd51b94bb5773c06c07fb8</guid>
-<pubDate>Sun, 26 Jul 2026 12:35:45 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
