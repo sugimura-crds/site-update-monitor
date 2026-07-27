@@ -4,98 +4,91 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 27 Jul 2026 08:52:10 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 12:11:54 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 自治体におけるインターネット分離10年の総括 —— 技術類型・運用の現実・ゼロトラストへの道</title>
-<link>https://qiita.com/k2_naka/items/0eceb428cb3f45bb7cfb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>3e44ec31f744add3da176879d8f1d179a51cde5044ae2a6c278ffa32cb581a5d</guid>
-<pubDate>2026-07-26T15:11:27+09:00</pubDate>
-<description>筆者 役割 担当 課題提示 K⁺oji Na⁺kamura 原案作成 Claude Fable 5,GPT-5.6 Sol 出典確認支援・加筆 GPT-5.6 Sol 技術面のチェック K⁺oji Na⁺kamura TL;DR 20...</description>
+<title>【Qiita】 Kimi K3はClaude Opus 4.8より安い？Node.jsで「採用パッチ単価」を計測する</title>
+<link>https://qiita.com/FlaqAI/items/6ce9cd2aa1c130e41bd2</link>
+<guid>84d1c0891b020634a2cfb1923a860f8120ea38c25d693a339f1e5144f7e9e263</guid>
+<pubDate>2026-07-27T18:58:01+09:00</pubDate>
+<description>「Kimi K3 vs Claude Opus 5」で検索している場合、最初にモデル名を整理しておきたい。2026年7月27日時点で、Anthropicが公開している比較対象は Claude Opus 4.8 であり、「Claude Opus 5」という正式なモデル名は確認...</description>
 </item>
 <item>
-<title>【Qiita】 ハードコーディングは本当に悪なのか</title>
-<link>https://qiita.com/musenmai/items/b525b64882548d4aec0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>021366ed26d0f95dd5e4f86baa3e72fda9ed9c2ea35da39a6b71386c055f2937</guid>
-<pubDate>2026-07-25T19:28:39+09:00</pubDate>
-<description>つい先日、プロジェクト内に点在するハードコーディングを滅ぼすタスクを行っていました。 滅ぼしながらも「ハードコーディングが許されるパターンはないのか？」ということが気になり、調べてみました。 簡単にいうと、大事なのは、ハードコーディングされた値の意味・変更理由・影響範囲がコ...</description>
+<title>【Qiita】 【脱・負債化】プロンプトの「深すぎる最適化」は命取り？モデル移行で気づいたプロンプト管理のアンチパターンと解決策</title>
+<link>https://qiita.com/memorylakeai/items/47ceb543ce9b411df01b</link>
+<guid>3ae9a28d1ab068e3bb110bc5de3d92603418c59ab099bc5219364fa60fe1bf86</guid>
+<pubDate>2026-07-27T18:08:02+09:00</pubDate>
+<description>はじめに 先日、自社システムで利用しているLLMを次世代モデル（Opus 5）へ移行する作業を行っていました。その際、公式のプロンプト移行ガイドラインを読んでいて、ある「逆転現象」にハッとさせられました。 公式が推奨していたのは、プロンプトの「足し算」ではなく「引き算」...</description>
 </item>
 <item>
-<title>【Qiita】 PowerVS IBM i 日記(108): ホスト障害時の自動リモート再起動の無効化</title>
-<link>https://qiita.com/6onoda/items/2c80424b059b7a7bd968</link>
-<guid>4f50dec6434d4eff00bfab19a9bd2eb524df25878fdf9db7c7f2000b5cd28407</guid>
-<pubDate>2026-07-27T15:29:20+09:00</pubDate>
-<description>「Power Virtual Server のリリース・ノート」では、PowerVSの新機能が公開されます。 「2026年6月24日」にも様々な、機能拡張がありました。 https://cloud.ibm.com/docs/power-iaas?topic=power-i...</description>
+<title>【Qiita】 17,000イベントの解析で判明：AIに侵害されたHugging Faceを締め出したのは、味方のガードレールだった</title>
+<link>https://qiita.com/emi_ndk/items/888f31713efd1fcb57f2</link>
+<guid>95a0fc27bc0936e3119f9812bb3981257685f525bc339d8f60a477bd783c4f56</guid>
+<pubDate>2026-07-27T20:31:01+09:00</pubDate>
+<description>自律AIエージェントに本番インフラを侵害されたHugging Faceが、その攻撃ログを解析しようとして最初にぶつかった壁は、攻撃者ではなかった。西側フロンティアモデルの安全ガードレールだった。 攻撃側のエージェントは安全拒否を切った状態で17,000件を超える操作を実行し...</description>
 </item>
 <item>
-<title>【Qiita】 GitHubを自然言語で活用する時代へ AIコーディングの次に来る「開発データ分析」</title>
-<link>https://qiita.com/ykj/items/b86122ba8a206fe3b077</link>
-<guid>f506149dec410c7bb093454e4bd14babe6a2e1a3057e321238925182789119a4</guid>
-<pubDate>2026-07-27T17:20:39+09:00</pubDate>
-<description>近年、GitHub Copilotを代表とするAIコーディング支援ツールが急速に普及しています。 「AIにコードを書いてもらう」 という使い方は広く知られるようになりました。 しかし、AI活用の可能性はコード生成だけではありません。 これから重要になるのは、 GitHubに...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェント開発を体系的に学ぶための厳選4冊――設計・実装・基盤理解まで</title>
-<link>https://qiita.com/koukyo/items/f2c1dde32706670e7939</link>
-<guid>a3c568cf4a7dcac64b32927a4a9f04e891fc3e0a050c3d69ab7251d66db9100d</guid>
-<pubDate>2026-07-27T17:00:37+09:00</pubDate>
-<description>はじめに 最近、自分のチームで社内向けのドキュメント検索エージェントを作った。RAGベースの簡単な構成だったが、いざ本番に近い負荷をかけると、エージェントが途中で思考を放棄したり、ツール呼び出しの順序がめちゃくちゃになったりと想定外の挙動が頻発した。フレームワークのチュー...</description>
-</item>
-<item>
-<title>【Qiita】 Python を使った PLL/DLL 設計手法（１３）</title>
-<link>https://qiita.com/jun1okamura/items/32e7fce1696d5a35cf69</link>
-<guid>8e64540c9c62e7a2372fc11efdad3eb4d461811f2c98c4b1688f30a95d8ae375</guid>
-<pubDate>2026-07-27T16:02:48+09:00</pubDate>
-<description>OpenSUSI-MPW Open-Source TR-1um を使った OpenSUSI-MPW サービスを使って「何か本格的に設計したいなぁ」と考えていたのですが、折角なら Open-Source Tool を活用するリファレンス設計としてのドキュメント記録も残したい...</description>
-</item>
-<item>
-<title>【Qiita】 Python を使った PLL/DLL 設計手法（１２）</title>
-<link>https://qiita.com/jun1okamura/items/33dfe4fc4bb56301818c</link>
-<guid>fef5fbbb3946dd38de6eaa55d9c3ca9cdc35614531914addeba9393f4aa10efa</guid>
-<pubDate>2026-07-27T16:02:29+09:00</pubDate>
-<description>OpenSUSI-MPW Open-Source TR-1um を使った OpenSUSI-MPW サービスを使って「何か本格的に設計したいなぁ」と考えていたのですが、折角なら Open-Source Tool を活用するリファレンス設計としてのドキュメント記録も残したい...</description>
-</item>
-<item>
-<title>【自動自律実験】 The existential choice facing UK physics facilities: commercialize or close</title>
-<link>https://www.nature.com/articles/d41586-026-02171-7</link>
-<guid>b15bfea02fcd5ad980d385bb22c80e2038e10fa1c1f88694a5170f92d3ced5a6</guid>
+<title>【環境】 Tree species richness relates to long-term forest photosynthesis increase</title>
+<link>https://www.nature.com/articles/s41558-026-02698-7</link>
+<guid>67226d517b1465f9dbbe4ba960976752fb48c040c37ad10927c0693556aa7224</guid>
 <pubDate>2026-07-27</pubDate>
-<description>The national synchrotron source, a laser facility and a particle accelerator are under threat of closure unless cash is found.</description>
+<description>The authors integrate tree species richness with satellite-derived photosynthesis proxies to show that richness correlates with greater current levels of photosynthesis and greater increases over time. Projected biodiversity loss by 2050 could lead to cumulative forest photosynthesis loss of 4.4–35.7 PgC.</description>
+</item>
+<item>
+<title>【環境】 Canopy-mediated climate feedbacks in the boreal continuous permafrost zone</title>
+<link>https://www.nature.com/articles/s41558-026-02692-z</link>
+<guid>35e814c9649ad644d59044b2700ac461ac18ec9319af59f483a57a3329c410a8</guid>
+<pubDate>2026-07-27</pubDate>
+<description>Soil carbon stocks are greater than biomass carbon in boreal forests. This study shows that tree canopies thermally protect more carbon in permafrost from thaw than is stored in biomass, highlighting the need to consider carbon impacts of forest disturbance and conservation on an ecosystem scale.</description>
+</item>
+<item>
+<title>【環境】 Towards safe and just planetary boundaries for novel entities</title>
+<link>https://www.nature.com/articles/s41893-026-01906-8</link>
+<guid>bfe5fe99dd612056bb9d6efa5c1e789135529642b73b44a5836fd62d814d9b80</guid>
+<pubDate>2026-07-27</pubDate>
+<description>The uncontrolled production and release of human-made substances, or novel entities, has substantial environmental consequences. Here the authors propose a framework for assessing the long-term safety and environmental impacts of these novel entities that accounts for their vast number, diversity and complex inte</description>
+</item>
+<item>
+<title>【環境】 Advancing sustainable aquaculture with a zero-valent copper filter system</title>
+<link>https://www.nature.com/articles/s41893-026-01902-y</link>
+<guid>8f59e2dc5e8c6e898ede6dbe2e9373c9cf0502e1a0e2d259c38d23d7f7ab1049</guid>
+<pubDate>2026-07-27</pubDate>
+<description>Algal blooms severely threaten water safety, but conventional algae elimination methods are chemical-intense. This study presents a zero-valent copper microporous filter capable of removing algal cells and other harmful pollutants from aquaculture water without chemical input.</description>
+</item>
+<item>
+<title>【自動自律実験】 When should you treat a fever? Evolution holds the answer</title>
+<link>https://www.nature.com/articles/d41586-026-02313-x</link>
+<guid>00464251a04044a1d2b2f8bf6c2376b71be6b7f2c8d818ef2332ccf3962381bd</guid>
+<pubDate>2026-07-27</pubDate>
+<description>Understanding natural selection can improve medical treatments, social policies and crop yields.</description>
+</item>
+<item>
+<title>【自動自律実験】 Researchers are building computers that run on brain organoids — but have neglected a major ethical issue</title>
+<link>https://www.nature.com/articles/d41586-026-02316-8</link>
+<guid>258ae8b47e5ad484c11cf0903dbc79caba409f45d8898387cb9641165161e969</guid>
+<pubDate>2026-07-27</pubDate>
+<description>People who give tissue samples for biomedical research might have no idea that their cells are being used for biocomputers.</description>
+</item>
+<item>
+<title>【自動自律実験】 A fever dream of jellies and slugs</title>
+<link>https://www.nature.com/articles/d41586-026-02314-w</link>
+<guid>16d296d560740457e6784396795e60b75555e9494bfdd3b81bdc6c0b4498c119</guid>
+<pubDate>2026-07-27</pubDate>
+<description>A celebration of Ernst Haeckel’s sketches of life forms, from microscopic to majestic.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/phoenix-rowhammer-attacks-on-ddr5-with-self-correcting-synchronization/</link>
-<guid>91feaad8f31ab6f225875b16dbeb38d2813747303fe1a76501a344635a5e8369</guid>
-<pubDate>Mon, 27 Jul 2026 08:51:23 GMT</pubDate>
+<link>https://research.google/pubs/impact-of-led-aging-on-optical-health-sensing-signal-integrity/</link>
+<guid>bc2acc1f08e967de38e66e5e0d6d5648f47655d87b28ddd9e9f6a438243bc41e</guid>
+<pubDate>Mon, 27 Jul 2026 12:11:18 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>5b6afa346f659e537ea462e14f15d09758665884f35248da972cefa823f72f5f</guid>
-<pubDate>Mon, 27 Jul 2026 08:51:26 GMT</pubDate>
+<guid>d99ad901051fd6f0fdf032d4a5d27cc7aafd432f8e8e97f00edd50624da68bae</guid>
+<pubDate>Mon, 27 Jul 2026 12:11:21 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>d912a39dad7d1b93484a17bf2c7befed03f8d9914bffb9c5df18f71d11927339</guid>
-<pubDate>Mon, 27 Jul 2026 08:51:28 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>cc39bd4f5214244e334a22b78b8aa92564051cebe0c0d1443d4b40a5f995c030</guid>
-<pubDate>Mon, 27 Jul 2026 08:51:33 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>d1f522a6f4e8b50b1b903cb8807823f6abc92673938b20b6b439bf9879b2d7dd</guid>
-<pubDate>Mon, 27 Jul 2026 08:51:59 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
