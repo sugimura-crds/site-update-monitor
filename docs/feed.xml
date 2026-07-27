@@ -4,43 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 27 Jul 2026 17:15:45 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 18:53:28 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 AIに仕事を奪われる不安から始めるハーネス作成入門 第17回 AIハーネスにログ設計が必要な理由</title>
+<link>https://qiita.com/singula/items/d176da18e0512faed5be</link>
+<guid>0e099cc32ce67ca3fb05b9cc49d01d3c07eb6e6415baa63c71b5e5501fee4d19</guid>
+<pubDate>2026-07-28T03:38:14+09:00</pubDate>
+<description>連載: AIに仕事を奪われる不安から始めるハーネス作成入門 第17回: AI時代でもSEの品質保証経験が価値を持つ理由 第1〜16回: ✅ 公開済み ｜ 当該記事: 📖 ｜ 次回: 第18回 はじめに――「AIがコードを書く時代」に品質は誰が保つのか LLMがコード...</description>
+</item>
+<item>
+<title>【自動自律実験】 Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings</title>
+<link>https://www.nature.com/articles/s41586-026-10930-9</link>
+<guid>0809a154f0e715301efbd10bf3b035dd095cb6412ce39996954ef144e14c9e0e</guid>
+<pubDate>2026-07-27</pubDate>
+<description>Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings</description>
+</item>
+<item>
+<title>【自動自律実験】 Phase-homogeneous mixed halide perovskites for stable tandem photovoltaics</title>
+<link>https://www.nature.com/articles/s41586-026-10929-2</link>
+<guid>9dcb14720540f1b31261efab3575e25a7c409ebd604616897f670823a4c0907f</guid>
+<pubDate>2026-07-27</pubDate>
+<description>Phase-homogeneous mixed halide perovskites for stable tandem photovoltaics</description>
+</item>
+<item>
+<title>【自動自律実験】 How to prevent AI from harming mathematics</title>
+<link>https://www.nature.com/articles/d41586-026-02309-7</link>
+<guid>4dda84c797ec26fbc280af5b9dcb8ddd97d3a5806e3bbfaeeff1064758c624cf</guid>
+<pubDate>2026-07-27</pubDate>
+<description>Mathematicians must urgently recognize AI’s impacts on their field — and act swiftly to mitigate threats.</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/how-tech-workers-contend-with-hazards-of-humanlikeness-in-generative-ai/</link>
-<guid>8affd5413ca88c42a2c570682af051512400c1f8d4427fb6f41c5502c32ae9dc</guid>
-<pubDate>Mon, 27 Jul 2026 17:14:50 GMT</pubDate>
+<link>https://research.google/pubs/multi-agent-design-optimizing-agents-with-better-prompts-and-topologies/</link>
+<guid>a76bd10ad496d1111386acdf6432c5bce4e0f823b0877cfd2b4e9bfff035591f</guid>
+<pubDate>Mon, 27 Jul 2026 18:52:49 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>0b1041392977fddc2c1917bdf6df10773b6e708dce116f216ca545c2e2926a67</guid>
-<pubDate>Mon, 27 Jul 2026 17:14:53 GMT</pubDate>
+<guid>37d07f1925e08700eab234f5ed76f1fb08efad8f948f3d94eb05eb00d4a8d7b9</guid>
+<pubDate>Mon, 27 Jul 2026 18:52:51 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>af4b59d95f08de2ebd7f1566cd877d6496ca6f497e3c4c1c944fff06eca8d31b</guid>
-<pubDate>Mon, 27 Jul 2026 17:14:56 GMT</pubDate>
+<guid>ac01edae1199038a2f1de4189b35524c3163fae2bc3f120e29ac63eeab1f4ac5</guid>
+<pubDate>Mon, 27 Jul 2026 18:52:54 GMT</pubDate>
 <description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>59aef5542cb6b488334f5a3d8a368dc75f73b44b7a0b7fd5204f3f21b4dd3d0a</guid>
-<pubDate>Mon, 27 Jul 2026 17:15:24 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>c8b256ea8c29b48add5467636db4d7c616079ff5c78c51c141a0c60e97d37140</guid>
-<pubDate>Mon, 27 Jul 2026 17:15:26 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
