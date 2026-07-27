@@ -4,34 +4,41 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 26 Jul 2026 23:28:18 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 01:07:54 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 プロフェッショナルTLS＆PKIを読む⑯ インターネットPKI 公開鍵基盤</title>
-<link>https://qiita.com/gomAnomalocaris/items/ee7c9f0159b5eddd5e1c</link>
-<guid>05ccab42e0a58ef504b639b34f3f65d89d3432efc7cb79205575907e692a7a89</guid>
-<pubDate>2026-07-27T08:04:49+09:00</pubDate>
-<description>この記事の表現は原書を基に私個人の理解としてまとめたものなので正確な意味合いでは誤謬は含まれているかもしれません。 公開鍵基盤（PKI : Public Key Infrastructure)の目的 全世界に存在する数百万台、数十億の人・デバイス間で安全な通信ができるよう...</description>
+<title>【Qiita】 なぜ私はPyCharmを使い続けるのか</title>
+<link>https://qiita.com/harupython/items/6022101976268fa573c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>d789072e08906f28c2560d406c4c9af2eb240df034bf218bc661a8aa1118d050</guid>
+<pubDate>2026-07-24T18:58:31+09:00</pubDate>
+<description>この記事は 「JetBrainsを使い倒す」シリーズ の記事です。 PyCharmをはじめとするJetBrains製品をレビューしたり情報を発信しています。 ハッカソンに参加すると、いつも同じことが起きる。 「エディタ何使ってます？」という話題になる。 「PyCha...</description>
 </item>
 <item>
-<title>【Qiita】 実践しよう IBM Quarkus：IBM Bobと進めるSpring Bootからのマイグレーション</title>
-<link>https://qiita.com/mi-ta/items/aec9e2254630702ddff5</link>
-<guid>79e5fa3d51658ee72532913e313b764acd4f8b9df60d3fc4df592a27cc9cb12c</guid>
-<pubDate>2026-07-27T07:42:20+09:00</pubDate>
-<description>はじめに AIを活用したアプリケーション開発が本格化すると、企業で管理するアプリケーション数はこれまで以上のペースで増加する可能性があります。この変化に備えて特に意識すべきなのがランニングコストです。 メモリをはじめとするコンピューティングリソースの価格は高騰しており、稼...</description>
+<title>【Qiita】 各エージェントを「読む·書く·確定する」に還元する — cronとオンデマンドの混在</title>
+<link>https://qiita.com/5_years_apart/items/8e9067ee02e72497493f</link>
+<guid>eb0d2ccd5b27bd1d6d26d3cbe4ae719031fb3f6559ca9ffcf78593f6706ff1a2</guid>
+<pubDate>2026-07-27T10:05:43+09:00</pubDate>
+<description>前回の続きから前回はDBを中心に据えて、各エージェントを疎結合にするという設計の話だった。ORMも状態マシンもフレームワークも入れず、Postgresのテーブルだけが唯一の交換所になっている、と。今回はその上で、では各エージェントが実際に何をしているのか。cronで回すの...</description>
 </item>
 <item>
-<title>【Qiita】 📄【DAY 3】AIの嘘をあばけ！ハルシネーション限界実験</title>
-<link>https://qiita.com/618kazeman/items/f4cf0baa64df04e4bc76</link>
-<guid>7e38c63c6b83dbd085ed2dfc00e0b712a7095867c774222996971c4deade2a57</guid>
-<pubDate>2026-07-27T08:18:23+09:00</pubDate>
-<description>🌟 今日の目的（ Why ） 「AIが言っていることだから、きっと正しいよね！」……ちょっと待ったですの！ 実はAI（生成AI）は、「本当のこと（ファクト）」を調べて答えているのではなく、「本当っぽく見える言葉のつながり」を確率で計算して作っているだけなんですの ！ ...</description>
+<title>【Qiita】 Databricks Genie Codeを試す (3): スケジュールされたタスクで夜間ジョブの朝サマリーを作る</title>
+<link>https://qiita.com/taka_yayoi/items/e7103d0bb1a950cae1db</link>
+<guid>e5365dbbec323bd04868535a487b5aa1f19c313027ca5e71910311cd1a6d4dfe</guid>
+<pubDate>2026-07-27T09:22:03+09:00</pubDate>
+<description>はじめに Genie Codeに、プロンプトを定期実行する「スケジュールされたタスク」がベータとして追加されました。 Genie Code のスケジュールされたタスク Genie Codeを使用する Data + AI Summit 2026におけるGenie Code...</description>
+</item>
+<item>
+<title>【Qiita】 【マルチAI開発】意見が食い違う3大AIエージェントを合意させる：5ラウンドディベートと金継ぎAIアライメントの自動化手法</title>
+<link>https://qiita.com/QuQuLa89/items/a1a62e51d5911a4c6b4a</link>
+<guid>5ed18d01137b0b08f43b1908aa4577da2aa679725609eeac7b241df6cf350274</guid>
+<pubDate>2026-07-27T09:00:25+09:00</pubDate>
+<description>はじめに 複数種類のLLMエージェント（全体の計画・設計を担当する [Antigravity]、リポジトリ編集・コード実装を担当する [Claude Code]、コードおよびセキュリティ監査を担当する [Codex] など）を組み合わせて運用するマルチAI開発環境では、エ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/crosscheck-input-validation-for-wan-control-systems/</link>
-<guid>9a860fd06fa1247ad3218b16963d469d142314c6f18a179071c4f30d21d2e0a6</guid>
-<pubDate>Sun, 26 Jul 2026 23:27:38 GMT</pubDate>
+<link>https://research.google/pubs/a-probabilistic-framework-for-learning-nonintrusive-corrections-to-longtime-climate-simulations-from-shorttime-training-data/</link>
+<guid>a8d6cf9e0be465c02b2c021e506557c041d9716109390547ee43217e137200c8</guid>
+<pubDate>Mon, 27 Jul 2026 01:06:43 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 
