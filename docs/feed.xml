@@ -4,91 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 27 Jul 2026 12:11:54 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 15:21:36 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Kimi K3はClaude Opus 4.8より安い？Node.jsで「採用パッチ単価」を計測する</title>
-<link>https://qiita.com/FlaqAI/items/6ce9cd2aa1c130e41bd2</link>
-<guid>84d1c0891b020634a2cfb1923a860f8120ea38c25d693a339f1e5144f7e9e263</guid>
-<pubDate>2026-07-27T18:58:01+09:00</pubDate>
-<description>「Kimi K3 vs Claude Opus 5」で検索している場合、最初にモデル名を整理しておきたい。2026年7月27日時点で、Anthropicが公開している比較対象は Claude Opus 4.8 であり、「Claude Opus 5」という正式なモデル名は確認...</description>
-</item>
-<item>
-<title>【Qiita】 【脱・負債化】プロンプトの「深すぎる最適化」は命取り？モデル移行で気づいたプロンプト管理のアンチパターンと解決策</title>
-<link>https://qiita.com/memorylakeai/items/47ceb543ce9b411df01b</link>
-<guid>3ae9a28d1ab068e3bb110bc5de3d92603418c59ab099bc5219364fa60fe1bf86</guid>
-<pubDate>2026-07-27T18:08:02+09:00</pubDate>
-<description>はじめに 先日、自社システムで利用しているLLMを次世代モデル（Opus 5）へ移行する作業を行っていました。その際、公式のプロンプト移行ガイドラインを読んでいて、ある「逆転現象」にハッとさせられました。 公式が推奨していたのは、プロンプトの「足し算」ではなく「引き算」...</description>
-</item>
-<item>
-<title>【Qiita】 17,000イベントの解析で判明：AIに侵害されたHugging Faceを締め出したのは、味方のガードレールだった</title>
-<link>https://qiita.com/emi_ndk/items/888f31713efd1fcb57f2</link>
-<guid>95a0fc27bc0936e3119f9812bb3981257685f525bc339d8f60a477bd783c4f56</guid>
-<pubDate>2026-07-27T20:31:01+09:00</pubDate>
-<description>自律AIエージェントに本番インフラを侵害されたHugging Faceが、その攻撃ログを解析しようとして最初にぶつかった壁は、攻撃者ではなかった。西側フロンティアモデルの安全ガードレールだった。 攻撃側のエージェントは安全拒否を切った状態で17,000件を超える操作を実行し...</description>
-</item>
-<item>
-<title>【環境】 Tree species richness relates to long-term forest photosynthesis increase</title>
-<link>https://www.nature.com/articles/s41558-026-02698-7</link>
-<guid>67226d517b1465f9dbbe4ba960976752fb48c040c37ad10927c0693556aa7224</guid>
-<pubDate>2026-07-27</pubDate>
-<description>The authors integrate tree species richness with satellite-derived photosynthesis proxies to show that richness correlates with greater current levels of photosynthesis and greater increases over time. Projected biodiversity loss by 2050 could lead to cumulative forest photosynthesis loss of 4.4–35.7 PgC.</description>
-</item>
-<item>
-<title>【環境】 Canopy-mediated climate feedbacks in the boreal continuous permafrost zone</title>
-<link>https://www.nature.com/articles/s41558-026-02692-z</link>
-<guid>35e814c9649ad644d59044b2700ac461ac18ec9319af59f483a57a3329c410a8</guid>
-<pubDate>2026-07-27</pubDate>
-<description>Soil carbon stocks are greater than biomass carbon in boreal forests. This study shows that tree canopies thermally protect more carbon in permafrost from thaw than is stored in biomass, highlighting the need to consider carbon impacts of forest disturbance and conservation on an ecosystem scale.</description>
-</item>
-<item>
-<title>【環境】 Towards safe and just planetary boundaries for novel entities</title>
-<link>https://www.nature.com/articles/s41893-026-01906-8</link>
-<guid>bfe5fe99dd612056bb9d6efa5c1e789135529642b73b44a5836fd62d814d9b80</guid>
-<pubDate>2026-07-27</pubDate>
-<description>The uncontrolled production and release of human-made substances, or novel entities, has substantial environmental consequences. Here the authors propose a framework for assessing the long-term safety and environmental impacts of these novel entities that accounts for their vast number, diversity and complex inte</description>
-</item>
-<item>
-<title>【環境】 Advancing sustainable aquaculture with a zero-valent copper filter system</title>
-<link>https://www.nature.com/articles/s41893-026-01902-y</link>
-<guid>8f59e2dc5e8c6e898ede6dbe2e9373c9cf0502e1a0e2d259c38d23d7f7ab1049</guid>
-<pubDate>2026-07-27</pubDate>
-<description>Algal blooms severely threaten water safety, but conventional algae elimination methods are chemical-intense. This study presents a zero-valent copper microporous filter capable of removing algal cells and other harmful pollutants from aquaculture water without chemical input.</description>
-</item>
-<item>
-<title>【自動自律実験】 When should you treat a fever? Evolution holds the answer</title>
-<link>https://www.nature.com/articles/d41586-026-02313-x</link>
-<guid>00464251a04044a1d2b2f8bf6c2376b71be6b7f2c8d818ef2332ccf3962381bd</guid>
-<pubDate>2026-07-27</pubDate>
-<description>Understanding natural selection can improve medical treatments, social policies and crop yields.</description>
-</item>
-<item>
-<title>【自動自律実験】 Researchers are building computers that run on brain organoids — but have neglected a major ethical issue</title>
-<link>https://www.nature.com/articles/d41586-026-02316-8</link>
-<guid>258ae8b47e5ad484c11cf0903dbc79caba409f45d8898387cb9641165161e969</guid>
-<pubDate>2026-07-27</pubDate>
-<description>People who give tissue samples for biomedical research might have no idea that their cells are being used for biocomputers.</description>
-</item>
-<item>
-<title>【自動自律実験】 A fever dream of jellies and slugs</title>
-<link>https://www.nature.com/articles/d41586-026-02314-w</link>
-<guid>16d296d560740457e6784396795e60b75555e9494bfdd3b81bdc6c0b4498c119</guid>
-<pubDate>2026-07-27</pubDate>
-<description>A celebration of Ernst Haeckel’s sketches of life forms, from microscopic to majestic.</description>
+<title>【Qiita】 複数のAIコーディングタスクで「Go待ち」を見落とさないための状態設計</title>
+<link>https://qiita.com/knotframe/items/de546e77239531669c11</link>
+<guid>0e841ab3b9978973c89dc543643739ce2f5d2c56737c8c4be29de1b4afb7eee0</guid>
+<pubDate>2026-07-27T22:18:29+09:00</pubDate>
+<description>複数のAIコーディングエージェントを同時に動かすと、ボトルネックは生成速度よりも「人間の注意」になります。 実行中だと思っていたタスクが承認待ちだった 認証エラーと通信停止が同じ「止まった」に見えた 完了したタスクを見落とし、次の仕事が発生しなかった この問題を、Kno...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/impact-of-led-aging-on-optical-health-sensing-signal-integrity/</link>
-<guid>bc2acc1f08e967de38e66e5e0d6d5648f47655d87b28ddd9e9f6a438243bc41e</guid>
-<pubDate>Mon, 27 Jul 2026 12:11:18 GMT</pubDate>
+<link>https://research.google/pubs/ai-propeller-warehouse-scale-inter-procedural-code-layout-optimization-with-alphaevolve/</link>
+<guid>a921d748e91360d593e99dd052989567bdb6e5428eeb72e392f274aa73b44aa1</guid>
+<pubDate>Mon, 27 Jul 2026 15:20:32 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>d99ad901051fd6f0fdf032d4a5d27cc7aafd432f8e8e97f00edd50624da68bae</guid>
-<pubDate>Mon, 27 Jul 2026 12:11:21 GMT</pubDate>
+<guid>1a23aa80245f0c0fd5c823bbe8c943dccc96e1f79dcc622c8f71e832cacbec25</guid>
+<pubDate>Mon, 27 Jul 2026 15:20:35 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>b260bee96a39c7bd24c2a00d5c68489edff6bae1c482a4d2fba1a091b6c33ba4</guid>
+<pubDate>Mon, 27 Jul 2026 15:20:37 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+</item>
+<item>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>b927a5977e2e722a3aee11d8b5588aba2cc785730782f9b9b241428dc4f5f079</guid>
+<pubDate>Mon, 27 Jul 2026 15:21:24 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
