@@ -4,42 +4,71 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 27 Jul 2026 01:07:54 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 05:03:27 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 なぜ私はPyCharmを使い続けるのか</title>
-<link>https://qiita.com/harupython/items/6022101976268fa573c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>d789072e08906f28c2560d406c4c9af2eb240df034bf218bc661a8aa1118d050</guid>
-<pubDate>2026-07-24T18:58:31+09:00</pubDate>
-<description>この記事は 「JetBrainsを使い倒す」シリーズ の記事です。 PyCharmをはじめとするJetBrains製品をレビューしたり情報を発信しています。 ハッカソンに参加すると、いつも同じことが起きる。 「エディタ何使ってます？」という話題になる。 「PyCha...</description>
+<title>【Qiita】 第3回Turbonomicユーザー会開催レポート</title>
+<link>https://qiita.com/Horiiii/items/b0fe775906d6582db289</link>
+<guid>1fc8b8e6da9172c5647a1d68f22273fcadbfb9ebf6010fa3f8c5b989fe1e9963</guid>
+<pubDate>2026-07-27T13:54:02+09:00</pubDate>
+<description>本記事では、2026年6⽉4⽇に⽇本IBM 箱崎事業所にて開催された第3回 Turbonomic ユーザー会について掲載しております。 当⽇は参加企業11社、合計18名のお客様、ビジネス・パートナー様にご参加いただきました。ご参加いただいた皆様、⼼より御礼申し上げます。 ...</description>
 </item>
 <item>
-<title>【Qiita】 各エージェントを「読む·書く·確定する」に還元する — cronとオンデマンドの混在</title>
-<link>https://qiita.com/5_years_apart/items/8e9067ee02e72497493f</link>
-<guid>eb0d2ccd5b27bd1d6d26d3cbe4ae719031fb3f6559ca9ffcf78593f6706ff1a2</guid>
-<pubDate>2026-07-27T10:05:43+09:00</pubDate>
-<description>前回の続きから前回はDBを中心に据えて、各エージェントを疎結合にするという設計の話だった。ORMも状態マシンもフレームワークも入れず、Postgresのテーブルだけが唯一の交換所になっている、と。今回はその上で、では各エージェントが実際に何をしているのか。cronで回すの...</description>
+<title>【Qiita】 【Stack Overflow】Stack Overflow for Agentsとは？〜AIエージェント同士でナレッジを共有する仕組みを整理する〜</title>
+<link>https://qiita.com/ryu-ki/items/3e963798505ec997837d</link>
+<guid>0de100cd8f6874000d97f10bf075932d8b62ac8f28da38e7bb211ff65770f450</guid>
+<pubDate>2026-07-27T12:25:47+09:00</pubDate>
+<description>はじめに 2026年6月10日、Stack Overflow から「Stack Overflow for Agents」というサービスのベータ版が公開されました。 AI コーディングエージェントが急速に普及する中で、エージェント同士がナレッジを共有できるプラットフォ...</description>
 </item>
 <item>
-<title>【Qiita】 Databricks Genie Codeを試す (3): スケジュールされたタスクで夜間ジョブの朝サマリーを作る</title>
-<link>https://qiita.com/taka_yayoi/items/e7103d0bb1a950cae1db</link>
-<guid>e5365dbbec323bd04868535a487b5aa1f19c313027ca5e71910311cd1a6d4dfe</guid>
-<pubDate>2026-07-27T09:22:03+09:00</pubDate>
-<description>はじめに Genie Codeに、プロンプトを定期実行する「スケジュールされたタスク」がベータとして追加されました。 Genie Code のスケジュールされたタスク Genie Codeを使用する Data + AI Summit 2026におけるGenie Code...</description>
+<title>【Qiita】 AIチャットしか使えない現場でもここまでできる ― AIオーケストラ・AIエージェント・AIチャットの違いと実践活用</title>
+<link>https://qiita.com/comty/items/34642c99bcd0fc8ccd1d</link>
+<guid>58e8fcde30f760f2664e3387555e50edf2eb81dc46b28bc0cef1e28c0385aca0</guid>
+<pubDate>2026-07-27T11:58:13+09:00</pubDate>
+<description>はじめに 「AIエージェントが便利なのは分かる。でも会社では使えない。」 最近、このような声をよく耳にします。 セキュリティやガバナンスの観点から、ブラウザ操作やファイル操作が制限されていたり、利用できるAIサービスがChatGPTなどのチャットAIだけだったりする企業...</description>
 </item>
 <item>
-<title>【Qiita】 【マルチAI開発】意見が食い違う3大AIエージェントを合意させる：5ラウンドディベートと金継ぎAIアライメントの自動化手法</title>
-<link>https://qiita.com/QuQuLa89/items/a1a62e51d5911a4c6b4a</link>
-<guid>5ed18d01137b0b08f43b1908aa4577da2aa679725609eeac7b241df6cf350274</guid>
-<pubDate>2026-07-27T09:00:25+09:00</pubDate>
-<description>はじめに 複数種類のLLMエージェント（全体の計画・設計を担当する [Antigravity]、リポジトリ編集・コード実装を担当する [Claude Code]、コードおよびセキュリティ監査を担当する [Codex] など）を組み合わせて運用するマルチAI開発環境では、エ...</description>
+<title>【Qiita】 Claude Codeに「自分で稼げ」と命じたら、初日に「稼げません」と結論された</title>
+<link>https://qiita.com/kansoku_note/items/7c82e3ff23abc301fbcc</link>
+<guid>9f5b60f53e31724ce20ba0688b6041745a9de73a68b645fd31d0379ce2f4b97d</guid>
+<pubDate>2026-07-27T11:48:20+09:00</pubDate>
+<description>この記事は Zenn に投稿したものの再掲です。原典はこちら: https://zenn.dev/shirube/articles/claude-code-earn-money-failure 更新は Zenn 側で行うため、最新の内容は原典を参照してください。 [!...</description>
+</item>
+<item>
+<title>【Qiita】 MCP移行前にSession依存を検出するPython</title>
+<link>https://qiita.com/hironakamura_ai/items/e2345e6f5d32b7fe11d4</link>
+<guid>59af666e632293851a8a343379f35f2ce8b8c54e4ed9180611ea7c7e49c7bcf9</guid>
+<pubDate>2026-07-27T11:27:17+09:00</pubDate>
+<description>MCP移行前にSession依存を検出するPython ステートレス化したMCPサーバーで、どこに残っていた状態が消えるのか。ロードバランサーの設定だけを直して終えると、ここで事故る。 7月28日に正式化予定のMCP 2026-07-28 は、プロトコル層の initia...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-probabilistic-framework-for-learning-nonintrusive-corrections-to-longtime-climate-simulations-from-shorttime-training-data/</link>
-<guid>a8d6cf9e0be465c02b2c021e506557c041d9716109390547ee43217e137200c8</guid>
-<pubDate>Mon, 27 Jul 2026 01:06:43 GMT</pubDate>
+<link>https://research.google/pubs/diffusion-controller-framework-algorithms-and-parameterization/</link>
+<guid>842363a179bda444bc1388afefa41a96c1e86c63d1f014fa732a71f1145447dc</guid>
+<pubDate>Mon, 27 Jul 2026 05:02:31 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>e85ae8e550aadc02f07fc83163b80e992b372a252f311a4be067c60d1fd97261</guid>
+<pubDate>Mon, 27 Jul 2026 05:02:34 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>c89129e0847a6af49c7249e2053a25fd8b45088873a596ec3a29314a4c8c3b51</guid>
+<pubDate>Mon, 27 Jul 2026 05:02:37 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>8ada23e770dfc5d3f1ac1ad96ea21c772e3af375f3004cd265688ab6d9f8f49e</guid>
+<pubDate>Mon, 27 Jul 2026 05:03:10 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
