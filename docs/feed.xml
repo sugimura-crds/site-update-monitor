@@ -4,28 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 28 Jul 2026 19:08:39 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 20:40:26 GMT</lastBuildDate>
 
 <item>
-<title>【農業】 Adaptive policies balancing trade, productivity and cropland increases can support Zambia’s nutrition security under future climate shocks</title>
-<link>https://www.nature.com/articles/s43016-026-01405-1</link>
-<guid>ce7e18551443a34984a642ab596af345249e6e0a7c1ec9b6188cbad032d7ccab</guid>
-<pubDate>2026-07-28</pubDate>
-<description>Sub-Saharan Africa’s food systems are increasingly vulnerable to climate change. Using the integrated Future Estimator for Emissions and Diets (iFEED) framework, Zambian nutrition security and policy options are explored under average and extreme climate scenarios.</description>
+<title>【Qiita】 Mac mini（M4 Pro / 48GB）で「完全ローカル」のLLM + RAG環境を構築してみた</title>
+<link>https://qiita.com/y-okayama-tb/items/0127a7c5203f44507474?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>dfe2b9670041c48ba036023b62884c43bd2d011b866bf2ef3051ed639fd9c4f0</guid>
+<pubDate>2026-07-27T13:22:48+09:00</pubDate>
+<description>はじめに こんにちは。 トライベック株式会社の岡山です。 ローカルでLLM + RAGを検証したく、最近 Mac mini（M4 Pro / メモリ48GB）を購入しました。 「mini」なのは筐体だけで、価格は全くminiではありませんでしたが。 そもそもの動機は、クラ...</description>
+</item>
+<item>
+<title>【Qiita】 「最後に検証して」はもう書かなくていい — Claude Opus 5 でプロンプトの常識が逆転した4つのこと</title>
+<link>https://qiita.com/jqit_suwa/items/74a96ce83dde5245407a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>ef832461908aac620b8fd8fbcf0d65bb8e73c7df8dd155b21a667334bad235a6</guid>
+<pubDate>2026-07-28T13:08:47+09:00</pubDate>
+<description>あなたのシステムプロンプトに、こんな一文が入っていませんか。 最後に、出力内容を検証してください。 Claude Opus 5 では、これは消したほうがいい一文になりました。 「効かなくなった」のではありません。逆効果になったのです。 同じように、これまで良かれと思って...</description>
+</item>
+<item>
+<title>【Qiita】 AI時代のリーダー企業は何を作り替えているのか</title>
+<link>https://qiita.com/mhamadajp/items/362785e32ed0a1dd5208</link>
+<guid>c7f69e5a79aa7d02298a9bb88403756dc2699e7059c9d31db75e9bf1dd962db4</guid>
+<pubDate>2026-07-29T05:36:32+09:00</pubDate>
+<description>AI活用の差は、ツール導入ではなく企業構造に出る AI活用は、すでに「試しに使ってみる」段階を越えつつあります。 McKinseyの2025年グローバル調査では、回答企業の88%が少なくとも1つの業務機能でAIを定常的に使っている一方、企業全体のEBITにAIの影響が出て...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/rs-ovc-open-vocabulary-counting-for-remote-sensing-data/</link>
-<guid>40d7a19d23a66c4604c829ed50ab64ab89bf740de82f3ad1b0ef31c5024de9ac</guid>
-<pubDate>Tue, 28 Jul 2026 19:07:36 GMT</pubDate>
+<link>https://research.google/pubs/architecting-conversational-data-systems-for-stateless-llm-apis/</link>
+<guid>8f7d59decf97a709f991622d81be5595a3443d62de1fef2ca53891bb46f47597</guid>
+<pubDate>Tue, 28 Jul 2026 20:39:41 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>713c22105a1d1d1d8dab2e51baa66951bbe5dcbdaa8362405c5a24de09f3a4be</guid>
-<pubDate>Tue, 28 Jul 2026 19:07:42 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>512b0ece3e90d7778416004654082d00d80e736eadbf61925a24b7370fcc5d7d</guid>
+<pubDate>Tue, 28 Jul 2026 20:39:44 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>61f7fb98c56599400f63f0fffc7296aad74d6700cc951a78c11b8301f3029c03</guid>
+<pubDate>Tue, 28 Jul 2026 20:39:50 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 
 </channel>
