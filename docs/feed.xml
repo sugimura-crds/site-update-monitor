@@ -4,78 +4,119 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 28 Jul 2026 07:33:26 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 10:25:31 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【AI駆動開発 2】失敗したら自分でやらない — 巻き取った瞬間、成長が止まる</title>
-<link>https://qiita.com/kawamon-idealive/items/2d5f0464ca6650e691cf</link>
-<guid>62ec6db9dc4600fc5b2fa2885d867a38634a349ed5775ddd8769cb2fe00996fe</guid>
-<pubDate>2026-07-28T14:55:29+09:00</pubDate>
-<description>よくある行動：AIにやらせてみた→出来がイマイチだった→「やっぱりダメだな」と自分の手で直して完了。 こうする AIの出力がダメだったとき、巻き取らずに失敗を指摘して、どう改善できるかに取り組ませる。 何がダメだったかを具体的に伝える（「違う」ではなく「◯◯の...</description>
+<title>【Qiita】 参考書を読んでも忘れるのは当然。大事なのは&quot;思い出す&quot;回数</title>
+<link>https://qiita.com/prumnn/items/405f4a78ec5f0232b234?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f7802d30889cbf365b62f1d0afd9cd61971fd643ced15290a6ac12ddb4f9124c</guid>
+<pubDate>2026-07-28T13:35:13+09:00</pubDate>
+<description>はじめに 参考書を読んでいるとき、勉強した気になっていたぷらむんですが、実は身についているかどうかは別問題だと気づきました。 こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯 参考書を読み進めていると、ふと手が止まるこ...</description>
 </item>
 <item>
-<title>【Qiita】 AIに実データベースを触らせるのは怖いので、Junie × DataGripの承認フローを実機で検証した</title>
-<link>https://qiita.com/nattogohan123/items/f4a96af326b18b92b5c2</link>
-<guid>8f1729c2b0d58958b3cb00363f04cd2d7b608fb165a877aeabad9dd1249eedb1</guid>
-<pubDate>2026-07-28T14:44:08+09:00</pubDate>
-<description>はじめに Junie が正式版の発表時に、こんな一文がありました。 Database integration. Junie connects to the databases configured in your IDE through DataGrip and the...</description>
+<title>【Qiita】 やる気を信じず、学習習慣を仕組み化して固定せよ【三日坊主回避】</title>
+<link>https://qiita.com/sumomoo/items/0d6667bbcf46ad59c320?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>7cce56862c9e476aa19561aa06e12e68b86494189585c58c96a545c4e1ab47e4</guid>
+<pubDate>2026-07-28T13:36:40+09:00</pubDate>
+<description>はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です 日々、プログラミング学習や実務の中で、つまずきやすいポイントや 考え方を整理して発信しています。 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。 ▶コーポレートサイト 「よし、今...</description>
 </item>
 <item>
-<title>【Qiita】 MCPがセッションIDを捨ててステートレスになる2026-07-28仕様</title>
-<link>https://qiita.com/okssusucha/items/6a170efd911a2c976350</link>
-<guid>fb8848f874113cd682ca101e64820ebd0b75a5dc156aec636222f61d0eff583b</guid>
-<pubDate>2026-07-28T14:12:17+09:00</pubDate>
-<description>リモートのMCPサーバを2台以上に並べた瞬間に踏む地雷がある。1台目が発行したセッションIDを、ロードバランサの気まぐれで振り分けられた2台目が知らない、という問題だ。これを避けるために、みんなスティッキーセッションを効かせたり、共有のセッションストアを噛ませたり、ゲートウ...</description>
+<title>【Qiita】 さわってみよう Db2 AI エディション #14 〜Db2 Genius Hub v1.1.3新機能編 Part#1〜</title>
+<link>https://qiita.com/ibm_tk/items/d52d9e775c317e6ffaf3</link>
+<guid>f5387cd9588e56b66830f4647d4e14cf729d532ceccf028dd22ae884b6ba1443</guid>
+<pubDate>2026-07-28T17:22:12+09:00</pubDate>
+<description>Db2 AI エディション(Db2 AI Advanced, Db2 AI Standard)にはフル機能のDb2 Genius Hubがバンドルされています。 IBM Db2 Genius Hubはv1.1.3で様々な新機能が実装されました。 この記事では、新機能群を2つ...</description>
 </item>
 <item>
-<title>【Qiita】 Windows 11 proにJetBrains Airを入れて、Codexで最初のタスクを実行してみる</title>
-<link>https://qiita.com/rino_yume/items/9df4a98c3ce8fe194ba4</link>
-<guid>d6d67ef30bf0497d7cf7c1690cd131a77d517c9d0343aaab2a15f556a540dec8</guid>
-<pubDate>2026-07-28T14:08:03+09:00</pubDate>
-<description>Windows 11 pro にJetBrains Airを入れて、Codexで最初のタスクを実行してみる はじめに 前回は、複数のAIコーディングエージェントをまとめて扱える開発環境として、JetBrains Airの概要を整理しました。 今回はWindows 11 ...</description>
+<title>【Qiita】 タイトル：Opus 5に切り替えたらルールが効かなくなった話 ── CLAUDE.mdが暗黙に依存していた「5つのデフォルト値」</title>
+<link>https://qiita.com/memorylakeai/items/1f329d373b787c8fd138</link>
+<guid>a4356ea71b97bfbecd53636b578d5ce468f8cbb38881e2c668746b6b4595cfeb</guid>
+<pubDate>2026-07-28T19:08:57+09:00</pubDate>
+<description>はじめに モデルを「Opus 5」に切り替えた途端、プロジェクトの CLAUDE.md （カスタム指示）が突然機能しなくなった経験はありませんか？ ルールは一文字も書き換えておらず、同じ会話、同じファイル、同じ書き方をしているにもかかわらず、以下のような現象が発生します...</description>
 </item>
 <item>
-<title>【Qiita】 解決率75%でも「人間同梱」でしか売らない。OpenAI Presenceという逆説</title>
-<link>https://qiita.com/emi_ndk/items/cf3644691cca50ccca10</link>
-<guid>56345902b049e2a3b2b2ecc4ceaeae5946e052c79d3e1bdce5961f1c88a8e5b4</guid>
-<pubDate>2026-07-28T16:08:08+09:00</pubDate>
-<description>2026年7月21日、OpenAIは自社の実験用エージェントがサンドボックスを脱走しHugging Faceのインフラに侵入していたことを認めた。その翌日の7月22日、同じOpenAIが、企業向けに「信頼できるAIエージェント」を売る新製品 Presence を発表した。 ...</description>
+<title>【Qiita】 AIエージェントと組んだら、データサイエンスプロジェクトはどう変わる？実験してみた（後半戦）</title>
+<link>https://qiita.com/mimocihz/items/f44649fb8babce02567c</link>
+<guid>8f6ba97a12e641e00376bd17e4be0d39020c18a4548ae259892bdc19610e4b7a</guid>
+<pubDate>2026-07-28T17:13:38+09:00</pubDate>
+<description>はじめに 前半戦では、VS Code × GitHub Copilotで5人のAIエージェントによるデータサイエンスチームを作り、訪日外客数予測プロジェクトのPhase 1〜4を進めました。 前半戦の記事はこちらです。 AIエージェントと組んだら、データサイエンスプロジェ...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントと組んだら、データサイエンス PJ はどう変わる？実験してみた（前半戦）</title>
+<link>https://qiita.com/mimocihz/items/5d595985333f8c06700d</link>
+<guid>01a0f3b0ef82d3718c72519b392dd9c3707edc643e66c02c4048bf24b314038d</guid>
+<pubDate>2026-07-28T17:11:27+09:00</pubDate>
+<description>※この記事は、2026年4月にZennにて記事にしているものですが、訪日外客数データを使ったデータ分析シリーズとしてQiitaにもアップします（後半戦をQiita側にアップする都合で） はじめに 近年、生成 AI の進化は目覚ましく、その波はデータサイエンス領域にも確...</description>
+</item>
+<item>
+<title>【自動自律実験】 Values in science go beyond politics</title>
+<link>https://www.nature.com/articles/d41586-026-02346-2</link>
+<guid>9e10a54881f121312769556c069372b0391b7d8c37453a0b82966e9e570d04ec</guid>
+<pubDate>2026-07-28</pubDate>
+<description>Values in science go beyond politics</description>
+</item>
+<item>
+<title>【自動自律実験】 Deserts face unprecedented flash flooding</title>
+<link>https://www.nature.com/articles/d41586-026-02349-z</link>
+<guid>991881f0f5e545f01de3468d5c87f155f193b6e9feef80ef73fb29b334d26a91</guid>
+<pubDate>2026-07-28</pubDate>
+<description>Deserts face unprecedented flash flooding</description>
+</item>
+<item>
+<title>【自動自律実験】 Use AI, but don’t mask it</title>
+<link>https://www.nature.com/articles/d41586-026-02347-1</link>
+<guid>7cce31da9cea227fc5ca3800f9d08c2da75a8b3876195958c7e5bcb83d2b2af6</guid>
+<pubDate>2026-07-28</pubDate>
+<description>Use AI, but don’t mask it</description>
+</item>
+<item>
+<title>【自動自律実験】 Conversational AI: align commercial incentives with public interests</title>
+<link>https://www.nature.com/articles/d41586-026-02348-0</link>
+<guid>5e9eecd412dee355c028c8beb6f400a7c104136465821adb1ca7f87a52c7c3f9</guid>
+<pubDate>2026-07-28</pubDate>
+<description>Conversational AI: align commercial incentives with public interests</description>
+</item>
+<item>
+<title>【自動自律実験】 When physicians and AI work together, who is accountable? How to lay out medical liability</title>
+<link>https://www.nature.com/articles/d41586-026-02315-9</link>
+<guid>ce20959eb61ca04ec0118a10155619b7f422fcedd3130fd3e7896d6714c3bf44</guid>
+<pubDate>2026-07-28</pubDate>
+<description>A staging system based on how big a role AI has in patient care can help to identify who is responsible in cases in which care fails.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-hardware-anchored-privacy-middleware-for-pii-sharing-across-heterogeneous-embedded-consumer-devices/</link>
-<guid>027cb2b11b6c4e91285219b2d0e26fda8b1e7f43001fcab3f52c6051140d69e2</guid>
-<pubDate>Tue, 28 Jul 2026 07:32:47 GMT</pubDate>
+<link>https://research.google/pubs/co-redteam-orchestrated-security-discovery-and-exploitation-with-llm-agents/</link>
+<guid>11ee58646305ea29ba7f1a3e9cd6d171240edc57a945398c683db8f9b844a169</guid>
+<pubDate>Tue, 28 Jul 2026 10:24:53 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>da60ae1986798748ff47f26ef4f1cf3f8f97694eac6a5f70b81831fbc0a1101a</guid>
-<pubDate>Tue, 28 Jul 2026 07:32:50 GMT</pubDate>
+<guid>b892dd7db9ae95545d446933ac371f1f7a8c6c9635cf2b3e31ee147b44775f4c</guid>
+<pubDate>Tue, 28 Jul 2026 10:24:56 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>ab5226dae0819d9513df458cd9eaeb359e6ae102740ac2123a96e9912a5876a3</guid>
-<pubDate>Tue, 28 Jul 2026 07:32:54 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>811229b321fbb780ad2ec11ebb392d5309a839190bf586a76e3821a1f0492d55</guid>
-<pubDate>Tue, 28 Jul 2026 07:33:10 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>036497b85573acd65cbe127a838c871b023e4fa7c223993169cdc1f00e8c21cf</guid>
+<pubDate>Tue, 28 Jul 2026 10:24:59 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
 </item>
 <item>
 <title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.soken.ac.jp/news/2026/20260728.html</link>
-<guid>88f502fae6b5a3c1b408471ea83c9624cbe997462c4bc9b361ab27f3b2c2443f</guid>
-<pubDate>Tue, 28 Jul 2026 07:33:14 GMT</pubDate>
-<description>【プレスリリース】高精度な縄文人・弥生人ゲノムが明らかにする祖先集団の歴史と食への適応進化</description>
+<link>https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/07/20260728_ishiya.pdf</link>
+<guid>6ad1051dc7e378812053786a64997f5552a103f91e0e16aee323efeffda63b92</guid>
+<pubDate>Tue, 28 Jul 2026 10:25:19 GMT</pubDate>
+<description>研究所別一覧</description>
+</item>
+<item>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>e44b5f4be34d5bfa4a3a53dc520e55c479b2e83939feb64e13304ad061a16a70</guid>
+<pubDate>Tue, 28 Jul 2026 10:25:22 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
