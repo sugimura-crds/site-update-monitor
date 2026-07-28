@@ -4,56 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 28 Jul 2026 01:42:47 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 04:56:20 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【AI駆動開発】用語が分からない人のための超入門ガイド（MCP・エージェント・ツール）</title>
-<link>https://qiita.com/shimada_slj/items/f02261993d625ac97ba0</link>
-<guid>9cbcc0cc1acb5a05f8c00b12aed4e0912ae2d663161da9655059221f9c9444b1</guid>
-<pubDate>2026-07-28T09:50:22+09:00</pubDate>
-<description>はじめに こんにちは、エンジニア5年目の嶋田です。 この記事を開いていただき、ありがとうございます！ 最近、AIを使った開発の話題で、こんな言葉をよく見かけませんか？ 「MCP対応しました」 「これはAIエージェントです」 「エージェントがツールを呼び出して……」 自...</description>
+<title>【Qiita】 TypeScript で AI agent を動かすなら、model 選びより先に timeout・approval・telemetry を決める</title>
+<link>https://qiita.com/heftykoo/items/9b4e69e0ba4de83a30f3</link>
+<guid>84890447a31dd0fb6c7afd921f642c5a41402861b7f5660f7f2ff1cc4b8846cc</guid>
+<pubDate>2026-07-28T12:30:36+09:00</pubDate>
+<description>publishPost が approval 待ちに入った。ところが画面は spinner のまま。ユーザーには「処理中」なのか「確認待ち」なのか分からない。 この状態で model を替えても、運用はあまり良くならない。approval 待ち、timeout、tool e...</description>
 </item>
 <item>
-<title>【Qiita】 JetBrains Airとは？複数のAIコーディングエージェントをまとめて扱う開発環境</title>
-<link>https://qiita.com/rino_yume/items/7327e48c1756cc2205ea</link>
-<guid>09abf7eab1cee4303101555c7146bc6570ef89a9c4ff6d1f1b3a6c3f7310dc85</guid>
-<pubDate>2026-07-28T09:40:57+09:00</pubDate>
-<description>JetBrains Airとは？複数のAIコーディングエージェントをまとめて扱う開発環境 はじめに 最近は、Claude Code、Codex CLI、Gemini CLIなど、ターミナルから利用できるAIコーディングエージェントが増えてきました。 実際に使ってみると便...</description>
+<title>【Qiita】 MMF AgentをGenie Codeで動かしてみた</title>
+<link>https://qiita.com/taka_yayoi/items/41044c8808dfcc2b3ba6</link>
+<guid>5fed4fda626e69b5538e4b58994e2cafd507062b41587b3f93b4e77bf2559bb2</guid>
+<pubDate>2026-07-28T12:30:16+09:00</pubDate>
+<description>はじめに Databricksの予測ソリューションアクセラレータであるMany Model Forecasting (MMF) に、AIコーディングアシスタント向けのスキルセット「MMF Agent」が追加されています。2026年3月に導入され、6月には階層整合のスキルが...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント時代のデータベースに求められるもの:「超高速分岐」で回すトライ＆エラー</title>
-<link>https://qiita.com/Koukyosyumei/items/a9c7366b16ee26fa241d</link>
-<guid>e516f22f437982725b37b500f53124d79337b4ff186ef244afcfd0899a332a9f</guid>
-<pubDate>2026-07-28T09:21:44+09:00</pubDate>
-<description>今回は、最近コロンビア大学の研究チームが発表した BranchBench という論文が示した「AIエージェントにとって重要なデータベースの性能指標は、gitのブランチのような高速な分岐(フォーク)が可能であるかである」という仮説を考えていこうと思います。 「分岐可能」なデ...</description>
+<title>【Qiita】 Awesome NocoBase：コミュニティプラグインを見つけて共有する</title>
+<link>https://qiita.com/TianqiYuan/items/5b8b14a4d1aa190b24f2</link>
+<guid>2e40789790fee6316e5ff94317dbf687601dcc8627efcede4d51136568aed086</guid>
+<pubDate>2026-07-28T12:16:55+09:00</pubDate>
+<description>NocoBase は誕生当初から、一貫してプラグインベースのアーキテクチャを採用してきました。 このアーキテクチャにより、NocoBase は高い柔軟性と拡張性を備えています。開発者はコアシステムを変更することなく、さまざまな業務要件に合わせて新しい機能を継続的に追加できま...</description>
 </item>
 <item>
-<title>【Qiita】 複数のAIエージェントを並走させるとき詰まるのは人間、herdrの答え</title>
-<link>https://qiita.com/okssusucha/items/ee29f8fda255b522dfed</link>
-<guid>4ce39f01a610ea9c3369f176087e467f0887be928fb26dd0f99f585066a321e5</guid>
-<pubDate>2026-07-28T09:07:18+09:00</pubDate>
-<description>コーディングエージェントを4つ、別々のペインで走らせているとする。仕様変更のリファクタを1つ、テスト書きを1つ、ログ調査を1つ、依存の更新を1つ。少し目を離してSlackに返信して戻ってくると、画面の前でひとつ問いが浮かぶ。「今、どれが俺の返事を待って止まってる?」。結局あ...</description>
+<title>【Qiita】 【AI駆動開発 1】任せられる仕組みを作る — エンジニアの仕事の再定義</title>
+<link>https://qiita.com/kawamon-idealive/items/87df09984f227f23b3bd</link>
+<guid>d631fabe0021aae18eddeefbc21c191ca6de27040d322100e5c4e025d6954d6d</guid>
+<pubDate>2026-07-28T11:33:23+09:00</pubDate>
+<description>よくある反応：「AIに任せるのは、ここが不安なんだよね」→ だから自分でやる。 こうする 不安を感じたとき、自分が代わりにやることで解消しない。 「どうやったらAIに任せても、その不安が起きないか」を考えて、仕組みを作る。 「不安」と一言で済ませず、何が不安なの...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/rethinking-context-enriched-time-series-forecasting-evaluation/</link>
-<guid>8e54f28c59fef52a2e5a1650ce95436bb8cb9e29ee784fc4c04199d8703c8d33</guid>
-<pubDate>Tue, 28 Jul 2026 01:42:12 GMT</pubDate>
+<link>https://research.google/pubs/progressive-photorealistic-simplification/</link>
+<guid>da861339fa31ddd598c17ec4916d4fa68c6af0076950bd36b980327ad19d1983</guid>
+<pubDate>Tue, 28 Jul 2026 04:55:14 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>46bed37491cf6da0486dc843abeb06c366abf3ff377f6720168c30fea0186121</guid>
-<pubDate>Tue, 28 Jul 2026 01:42:20 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>6bc090c0f3efd38bdd897a5747e05bf40478fd10382de9c3f2c78f57f2485efa</guid>
+<pubDate>Tue, 28 Jul 2026 04:55:17 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>7192ac2ae76fd5a760150ed0441711778704dec475f83bed16df05ed441d3839</guid>
-<pubDate>Tue, 28 Jul 2026 01:42:22 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02994-8</link>
+<guid>1d081408e107db36f690e9ea3f4251c9529733b8fc2e4608d01275a369037e47</guid>
+<pubDate>Tue, 28 Jul 2026 04:55:22 GMT</pubDate>
+<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
 </item>
 
 </channel>
