@@ -4,63 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 29 Jul 2026 01:44:03 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 05:00:58 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「ゴリゴリのエンジニアじゃなくても大丈夫」 企業の内製化を加速するVibe Coding実践ガイド｜業務で使えるプロンプト＆ユースケース集</title>
-<link>https://qiita.com/dahatake/items/7a15a1caf194fcf29f0b</link>
-<guid>e117927f1522c741284d3e0f729b6aa17f851a51a2de21f24418d6315c7a3658</guid>
-<pubDate>2026-07-29T09:50:51+09:00</pubDate>
-<description>ソフトウェア保守をVibe Codingで段階的に内製化するためのPromptと実践チュートリアル 背景 生成AIやVibe Codingの話をしていると、どうしても「どこまでコードを書けるか」に議論が寄りがちです。 もちろん、実装支援は分かりやすい価値です。一方で、実...</description>
+<title>【Qiita】 Claude Codeで作る敵対的レビュー3体：高リスク差分だけに注入【全文公開】</title>
+<link>https://qiita.com/TakanobuSano/items/2f223d2823e0d92fa940</link>
+<guid>c74890a1a76672e5ee72d939bd544e98bc76ec66971b7a1694bc9b1e04ee396d</guid>
+<pubDate>2026-07-29T13:25:49+09:00</pubDate>
+<description>🧭 本記事は Claude Code実務運用シリーズ の STEP 5「レビュー自動化する」です。 前回のリスク判定に、高リスクのときだけ動く敵対的レビュー3体を足します。 シリーズ全体の地図と読む順は 親記事 にまとめています。 Claude Code の3層コ...</description>
 </item>
 <item>
-<title>【Qiita】 Function Calling（ツール呼び出し）の仕組み——「電話代行してくれる秘書」でAIエージェントの動作を完全理解</title>
-<link>https://qiita.com/handson-lab/items/1473b0297f92ca5be216</link>
-<guid>ef4da93d039dc7d1bc0ee0a78f914c54b2d7656cec142f97c155cf082adbc8cb</guid>
-<pubDate>2026-07-29T09:42:42+09:00</pubDate>
-<description>こんにちは！ハンズオンラボ運営のえむです。 ChatGPTに「今日の東京の天気は？」と聞くと、まるで本当に天気予報を調べてきたかのように答えてくれることがあります。しかし、AIモデル自体は、リアルタイムの天気情報を知っているわけではありません。この裏側で動いているのがFun...</description>
+<title>【Qiita】 Microsoftの新AI秘書、中身は競合Claudeだった――4強対決の実像</title>
+<link>https://qiita.com/kinamocchi_tech/items/0c0dbe25464dff964109</link>
+<guid>3d78932bf0f2ba5a8ba96d13cfcb16d4b646b4f39cc31a5dd776b7bca37a903f</guid>
+<pubDate>2026-07-29T13:11:00+09:00</pubDate>
+<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → Microsoftの新AI秘書、中身は競合Claudeだった――4強対決の実像 🐹🦜 この記事に登場する2匹 🐹 もっちー （ハムスター）… ...</description>
 </item>
 <item>
-<title>【Qiita】 blastengine MCPサーバーに独自ツールを追加する方法（TypeScript / zod / MCP SDK）</title>
-<link>https://qiita.com/skillogy/items/e8dfc1639bb183a6767a</link>
-<guid>6c7c79235285d3ecdea11989becfc07ce6640f571a26d4b6b514b8f0464587d6</guid>
-<pubDate>2026-07-29T09:17:01+09:00</pubDate>
-<description>blastengine MCPサーバーは、blastengine のメール配信APIの一部を MCP（Model Context Protocol）ツールとして公開する公式の stdio サーバーです。配信検索・ログ取得・使用量確認といった参照系から、トランザクション送信・...</description>
+<title>【Qiita】 RPAは死んだのか？ AIエージェントと棲み分ける業務自動化の設計法2026</title>
+<link>https://qiita.com/fuji1009_REBELL/items/837cafac5bb2e880ffd2</link>
+<guid>63bfe9420a0f46449f5b3d48da0625b4842cb0a501993cddfbb0580053f59ecd</guid>
+<pubDate>2026-07-29T12:04:01+09:00</pubDate>
+<description>「AIエージェントが出てきたから、もうRPAはいらない」——ここ最近、現場でよく聞くようになった言葉です。 私も業務自動化の相談を受けるたびに同じ問いにぶつかります。結論から言うと、私の答えは「RPAは死んでいない。ただし役割は変わった」です。この記事では、実際に両方を現場...</description>
 </item>
 <item>
-<title>【Qiita】 【AWS Security Agent】カスタムセキュリティ要件の登録に関するクセ強仕様を整理する</title>
-<link>https://qiita.com/Yuki_Yamashita/items/070417fda6b226e93bd8</link>
-<guid>86e5ee523df909fa13a7769d03b479b6a486dcbe5102e496d670fe8012bd7a13</guid>
-<pubDate>2026-07-29T09:06:11+09:00</pubDate>
-<description>はじめに AWS Security Agentでは、設計書レビューやコードレビューの際に、基準となるセキュリティ要件に従ってレビューを行います。予めAWS側で用意されたマネージド要件に加え、独自の要件をカスタムセキュリティ要件として追加することも可能です。 しかし、このカ...</description>
+<title>【Qiita】 「AIエージェントに権限を渡す」を、新入社員に全権を渡すことだと考えてみる</title>
+<link>https://qiita.com/masukane9473/items/f9c0040b42161bcacdb9</link>
+<guid>b75f514bffb8ff0382dbd2a138e349aff54c9db0f139d1fa40b8af8b41360452</guid>
+<pubDate>2026-07-29T11:24:07+09:00</pubDate>
+<description>はじめに 先日、AIエージェント関連のセキュリティ記事を読んでいて、ハッとする例えに出会った。 「AIに社内システムのアクセス権を渡すのは、新入社員に全権を渡すようなもの」 情報システム部門のベテランエンジニアの言葉らしいが、これは核心を突いていると思う。 自分自身、...</description>
+</item>
+<item>
+<title>【Qiita】 LlamaIndex Workflowsで並行実行、実測すると本当に半分の時間だった</title>
+<link>https://qiita.com/kai_kou/items/650e7b5bdeff1ea99dd7</link>
+<guid>d59c3d59fc3033996f7a4c3d3510a4a5fb2055f4fa4ac61a59d751aab30266d8</guid>
+<pubDate>2026-07-29T12:08:35+09:00</pubDate>
+<description>はじめに エージェントの処理を「調査ステップ」と「下書きステップ」のように分けて書くとき、両方とも独立して実行できるなら同時に走らせたいと考えるはずです。ところが多くのエージェントフレームワークは、ステップを定義する API はあっても「本当に並行で動くのか」までは明示し...</description>
+</item>
+<item>
+<title>【Qiita】 Loop Engineeringとは？AIエージェントを「設計」する時代へ</title>
+<link>https://qiita.com/hidetarou2013@github/items/eed4f74d7496e1be272a</link>
+<guid>ccde019d9e1eef3d38646c51870483bd01f5b110bafce131ef3d5a98f39fdebf</guid>
+<pubDate>2026-07-29T12:07:25+09:00</pubDate>
+<description>はじめに 2026年6月、AI開発の現場に一つの言葉が広まった。Loop Engineering（ループエンジニアリング）。 Anthropic で Claude Code の責任者を務める Boris Cherny（Head of Claude Code）は、あるインタ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/beyond-vector-similarity-hierarchical-context-aware-graph-rag-vs-standard-rag-in-enterprise-code-migration/</link>
-<guid>2c7b5f220f0234a6a19f2d22da856f6c355d53dae6adf37099ce1f3014dfd143</guid>
-<pubDate>Wed, 29 Jul 2026 01:43:13 GMT</pubDate>
+<link>https://research.google/pubs/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients-2/</link>
+<guid>b6f480bd5aa5ec786ca4b4b3ed13b92b9feaa637d8c776789658e9995cf0ee20</guid>
+<pubDate>Wed, 29 Jul 2026 05:00:14 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>f0010028541597726c6bad65997c196dbf5ac7ed830ac9f2b31a839d99517cc2</guid>
-<pubDate>Wed, 29 Jul 2026 01:43:20 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>e75a188f1dfc7b321ca44d6ea8ff5adcb2b4b8120ed457eafda63c4205419ec0</guid>
-<pubDate>Wed, 29 Jul 2026 01:43:32 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>465f8ad1d1f666649637e9be1d781f5f1cb7afe336ccace8f1ae26d84c9f735c</guid>
+<pubDate>Wed, 29 Jul 2026 05:00:17 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>8309b64699c78d212e58df6e8a0d47603eda6890624df7c86aafc200879c2bab</guid>
-<pubDate>Wed, 29 Jul 2026 01:43:42 GMT</pubDate>
+<guid>fb0bc1fef6195b69fbcaa40923e83c4439bb9d3d85d96d2c2122d0fc230af28e</guid>
+<pubDate>Wed, 29 Jul 2026 05:00:34 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
