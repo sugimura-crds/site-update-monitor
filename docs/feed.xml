@@ -4,70 +4,99 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 29 Jul 2026 07:45:55 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 10:31:31 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 watsonx.ai Software版 NotebookでアップロードしたData Assetはどこにあり、どう利用するのか調べてみた</title>
-<link>https://qiita.com/mizutan/items/d255c081097b170715de</link>
-<guid>7f41e6a64c10a030779677e6fd2f157ca2e60a3c5d127accb504966bf661e2c8</guid>
-<pubDate>2026-07-29T15:42:27+09:00</pubDate>
-<description>1. はじめに Notebook で Data Asset (資産) をアップロードしたものの、 import os print(os.getcwd()) print(os.listdir(&quot;.&quot;)) を実行してもファイルが見つからず、ファイルの配置場所がわかりません...</description>
+<title>【Qiita】 「え！！Microsoft 365 Copilotでアプリ作成を！？」「出来らぁ！」</title>
+<link>https://qiita.com/Oyu3m/items/c5daff368bc75c79e7b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>4e74b8e5b91e78ccc270cb5cc1e379de685b168df0827c1d376ce490b9435676</guid>
+<pubDate>2026-07-27T01:32:33+09:00</pubDate>
+<description>前提 この記事は2026/7/25時点での公開情報や動作を私なりにまとめたものとなります。 正確な情報はご自身でご確認もしくは Microsoft へお問い合わせください。 え！！Microsoft 365 Copilotでアプリ作成を！？ 「開発者にとってCopili...</description>
 </item>
 <item>
-<title>【Qiita】 tWASのdiagnostic plans（診断計画）を用いたトレース取得。指定のメッセージがWASのログファイルに出力されたらトレース・バッファーをダンプして、トレース取得を停止する。</title>
-<link>https://qiita.com/fumitofumito/items/0b862b660ad70f0b60a0</link>
-<guid>92f8ce92011aa951560e36a0b6387b0c98b16804a2ae75f3e02b6fae94a40741</guid>
-<pubDate>2026-07-29T15:09:47+09:00</pubDate>
-<description>WebSphere Application Serverのdiagnostic plansを用いて、指定のメッセージがWASのログ・ファイルに出力されたらトレース・バッファーをダンプして、トレース取得を停止する動作を検証しました。 トレース出力をメモリーに保管する場合、診...</description>
+<title>【Qiita】 1日数人の個人サイトが1か月で33万回攻撃されていた — ログを数えて塞ぐまで</title>
+<link>https://qiita.com/tkurume/items/41402861e5c2924989a6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>04bc2682ac28f46ad33d1050ae47992fb983708eae7ff7da1e58a34331563440</guid>
+<pubDate>2026-07-27T12:43:51+09:00</pubDate>
+<description>照明制御（DMX512 / Art-Net）を45年やっている組込み屋です。自分のサイト tkurume.work を Vultr の VPS（1vCPU / 1GB / Ubuntu 24.04）で運用しています。 1日の実訪問者は数人という、どこにでもある個人サイトです...</description>
 </item>
 <item>
-<title>【Qiita】 PowerVS IBM i 日記(109): メタデータサービスおよび信頼済みプロファイルのサポート</title>
-<link>https://qiita.com/6onoda/items/dba4cf70efe0b2cf3685</link>
-<guid>20cd734e5b47f6e3f836d6294aeadc2ca792f75f6848489c03c17b8e00827ace</guid>
-<pubDate>2026-07-29T14:59:26+09:00</pubDate>
-<description>執筆時点でTOK04でもメタデータサービスの構成は出来ましたが、実際に利用すると「Service unavailable: Unable to connect to the backend service. Please try again later or conta...</description>
+<title>【Qiita】 「パスキー対応できますか？」と聞かれたら ── 要件を詰めずに実装すると、登録済みのパスキーが全部無効になる</title>
+<link>https://qiita.com/ntaka329/items/bfd8535d8f64a9ecd0fb</link>
+<guid>a8f217c6438d8c99a339f6b63ed6a5bc736e39994a6463bfd1dbeb36a4f37407</guid>
+<pubDate>2026-07-29T19:06:52+09:00</pubDate>
+<description>はじめに GMOコネクトの永田です。 「パスキー対応できますか？」と聞かれて、即答できませんでした😇 技術的な可否の話だと思って調べ始めたのですが、認証そのものの実装は思ったより軽かったです。重かったのは運用側でした。「最初の1つをどう渡すのか」「なくしたときどう戻すのか...</description>
 </item>
 <item>
-<title>【Qiita】 Ansys LumericalのMCPがリリースされた！</title>
-<link>https://qiita.com/HiroyukiOkada/items/de301f53d03b73220f8f</link>
-<guid>3e99c34ae3af0c58e427f90e95741a6ad82282ab7a851b21d4bfe8f4f49b0c76</guid>
-<pubDate>2026-07-29T16:23:52+09:00</pubDate>
-<description>はじめに 待望のPyLumerical-MCPがリリースされました！ PyLumerical-MCPとは、AIエージェントがフォトニクス解析ソフトウェアAnsys LumericalをPyLumerical(Lumerical実行のためのPython関数)で操作する...</description>
+<title>【Qiita】 CLIエージェントからブラウザ内蔵AIエージェントへ安全に仕事を振る設計パターン</title>
+<link>https://qiita.com/noujiru/items/742b93d9d2cce44a7a42</link>
+<guid>07aaf5deebfcea61cf27a4fbfae3783152c1767cf89a25d65a62342ca3edb949</guid>
+<pubDate>2026-07-29T19:28:35+09:00</pubDate>
+<description>はじめに CLIエージェントからブラウザ内蔵AIエージェントへタスクを投げると、コストは下がる。だが素朴に実装すると、誤送信・重複送信・セッション混線という3つの事故に高確率で遭遇する。この記事は、その3つを防ぐための設計を、実際に動くコードと図付きでまとめたものだ。 C...</description>
 </item>
 <item>
-<title>【Qiita】 【AI駆動開発 7】受け入れ条件とスコープ外を明文化する — 「これを満たしたら成功」を先に決める</title>
-<link>https://qiita.com/kawamon-idealive/items/7ccedcff52cfe2686d43</link>
-<guid>ec33975db2991c93830a1cc02c67fcb8831e3ab295efa2f8775acd7aaadf01d1</guid>
-<pubDate>2026-07-29T15:06:35+09:00</pubDate>
-<description>よくある状態：「◯◯を修正して」とだけ伝えて実装させ、出てきたものを見てから「そうじゃない」「そこは触らないでほしかった」と直しの往復が始まる。 こうする 計画段階で、AIに「受け入れ条件」と「スコープ外」を明文化させる。 受け入れ条件：何ができたら完了か。...</description>
+<title>【Qiita】 AIエージェントとの開発QOLがとんでもなく上がった 〜Herdr入門〜</title>
+<link>https://qiita.com/kobadaidesu/items/79eb5f777f27da204d58</link>
+<guid>6b491d68e71dfb5f73242bd1ca66e39fcd6e14f31742ee325bab8f6f181934a4</guid>
+<pubDate>2026-07-29T19:16:58+09:00</pubDate>
+<description>1. 導入 はじめまして、ITの専門学校と42Tokyoに通っている学生です！今回が初投稿です。 Herdr というツールが便利だと X で見かけて調べてみたら、「tmux」「マルチプレクサ」という単語が最初に出てきて、自分にはまだ早いかな…と一度スルーしかけました。 で...</description>
 </item>
 <item>
-<title>【Qiita】 【AI駆動開発 6】改善を定例化する — 「大切」なだけでは忘れる</title>
-<link>https://qiita.com/kawamon-idealive/items/53dbc812d45963e4d2fa</link>
-<guid>6bf826caa3726e478537eedb237919a7c9bb910fdabad803bfff46e5b9bfdfca</guid>
-<pubDate>2026-07-29T15:06:28+09:00</pubDate>
-<description>よくある状態：メモリへの保存もスキルの改善も「大事なのはわかってる」。でも気づいたら1か月何もしていない。 こうする 「定期的に時間を取ってやる」と決めておく。 それだけです。 たとえば週1回30分、こういう棚卸しをする： 今週AIに指摘したこと・巻き取ってし...</description>
+<title>【Qiita】 なぜVoice AIはAPAC市場で苦戦するのか？ コードスイッチングとローカライズの重要性</title>
+<link>https://qiita.com/Agora_io/items/720f5f5ecf8f58c0f4b1</link>
+<guid>2f87065f4376e2dddb1bc5ae94ef4e705e8354e1cfab83c8f9c46a332db1291c</guid>
+<pubDate>2026-07-29T18:25:55+09:00</pubDate>
+<description>ここ1年で、Voice AIを取り巻く状況は大きく変わりました。 以前は、 「AIは人間のように自然な会話ができるのか？」 ということが最大の関心事でした。 しかし現在では、多くのAI音声エージェントが、 リード獲得 予約受付 カスタマーサポート FAQ...</description>
 </item>
 <item>
-<title>【Qiita】 【AI駆動開発 4】繰り返しはスキル化する — 手順を「人の頭の中」から出す</title>
-<link>https://qiita.com/kawamon-idealive/items/621a2fce6af6b44ac2d9</link>
-<guid>427c921cbb62af58bd4d8e81024b6feaa5fb555ebbb168aafe939c03e39eb5f9</guid>
-<pubDate>2026-07-29T15:06:14+09:00</pubDate>
-<description>よくある状態：毎回同じ説明をプロンプトに書いている。あるいは、うまくいく手順を知っているのが特定の1人だけ。 こうする 同じ作業を2回以上AIに頼んでいたら、スキル化（手順の文書化・自動化）を検討する。 スキルとは、AIに渡す「この作業はこの手順・この観点でやる...</description>
+<title>【Qiita】 ゼロから構築！Agentic RAGで外部ツールを自律操作するAIエージェント</title>
+<link>https://qiita.com/DaokFrontier/items/7fb2847789a78d166fab</link>
+<guid>c0e2189519d052e97d01124e4084d910caab7e6251c7831ec0e6a1d1b95d32e4</guid>
+<pubDate>2026-07-29T18:18:39+09:00</pubDate>
+<description>ゼロから構築！Agentic RAGで外部ツールを自律操作するAIエージェント 「RAGを導入したけれど、いまいち複雑な質問に答えられない」「AIエージェントに自律的に動いてほしいが、どう実装すればいいかわからない」――そんな悩みを抱えていませんか？従来のRAG（Retr...</description>
+</item>
+<item>
+<title>【自動自律実験】 Papers with open peer-review reports are less likely to be retracted</title>
+<link>https://www.nature.com/articles/d41586-026-02282-1</link>
+<guid>e08255d3abd5faf0c6483190d3c93baf22af5780b78727f81f885a1f3d91b703</guid>
+<pubDate>2026-07-29</pubDate>
+<description>Researchers say that transparent publishing practices could be associated with research quality, but more evidence is needed.</description>
+</item>
+<item>
+<title>【自動自律実験】 Polio will come roaring back if the task of eradicating it isn’t finished soon</title>
+<link>https://www.nature.com/articles/d41586-026-02308-8</link>
+<guid>131cc851e47657054cec632b75207a595dd0b13882ae7e6a79fc789774cd31e5</guid>
+<pubDate>2026-07-29</pubDate>
+<description>Eliminating polio is within reach — if countries see it as an essential public-health priority.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/the-ontic-epistemic-distinction-implications-for-robust-machine-intelligence/</link>
-<guid>3a8230b35a9b084d4101b20776c2e5deced8c7ab1b1a61c3aaa0bc522192bca3</guid>
-<pubDate>Wed, 29 Jul 2026 07:44:51 GMT</pubDate>
+<link>https://research.google/pubs/automated-remediation-of-compiler-errors/</link>
+<guid>9fa4429a8398245566511e16137cc7d5c90b2974d07eef124bc1341822b7e70b</guid>
+<pubDate>Wed, 29 Jul 2026 10:30:15 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>f605a7109172cfa4bcf4d5e7a38665eb5abebfb8c388e76b44d67da627ae822b</guid>
-<pubDate>Wed, 29 Jul 2026 07:44:54 GMT</pubDate>
+<guid>a45df31b63a40e7fe5722230c36a03ac7f53da380928da96b900305cb6e0ab1b</guid>
+<pubDate>Wed, 29 Jul 2026 10:30:18 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>13b75c1409b96d947b8d1ae8c8e4279e87ee441d85b387848681827bf048b428</guid>
+<pubDate>Wed, 29 Jul 2026 10:30:52 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+</item>
+<item>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>842543aee3ff839040a31d8c985f531ce86fc45f9d46666f5935580e0c427309</guid>
+<pubDate>Wed, 29 Jul 2026 10:31:20 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
