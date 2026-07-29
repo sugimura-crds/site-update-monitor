@@ -4,63 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 29 Jul 2026 14:43:46 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 16:16:08 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Base44で社内コミュニティに投稿するネタの管理アプリを作ってみた</title>
-<link>https://qiita.com/fromage/items/eada2a7678d4edfff5ea</link>
-<guid>03798e6b834e4e33d4148b2147502085a4f19e3d951c7bc5096158d314a99c2a</guid>
-<pubDate>2026-07-29T23:26:15+09:00</pubDate>
-<description>AIアプリ開発サービスの Base44 を使って、社内AIコミュニティに投稿するネタを管理するアプリを作成しました。 コードは書かず、日本語で要件を伝えています。 今回は、アプリ生成だけでなく、セキュリティチェックとテスト機能も試しました。 Base44とは Base...</description>
+<title>【Qiita】 PC操作を自動化！AIエージェントをLangChainで構築する手順</title>
+<link>https://qiita.com/DaokFrontier/items/36401465d11eafa99017</link>
+<guid>dcad935c5cb274e834e7ba57d95af4e5d20598cc4d9e76e5f3febb112f3468ce</guid>
+<pubDate>2026-07-30T00:27:19+09:00</pubDate>
+<description>多くのエンジニアが「AIエージェントによるPC操作自動化」に期待を寄せつつも、具体的な実装でつまずきがちなポイントがあります。特にLangChainのような高速で進化するフレームワークでは、古い情報に惑わされ、最新のベストプラクティスを見失いがちです。 この記事では、Lan...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeで作ったAIエージェント、Claude自身に評価させてみた</title>
-<link>https://qiita.com/codebay88/items/d0fc55602ae218b06b74</link>
-<guid>e6c67cb1aed788b96bc1587c89314bcbc0db521894ba0a005775aa6f5262107a</guid>
-<pubDate>2026-07-29T22:40:41+09:00</pubDate>
-<description>はじめに 「Claude Codeで作ったAIエージェントを、Claude自身にレビューさせたらどうなるか？」 今回、AI導入プロセスを構造化して再現性のあるWBS(Work Breakdown Structure)を自動生成するオープンソースプロジェクト AI-Agen...</description>
+<title>【Qiita】 Microsoft Foundry (Azure) でAIエージェントを評価する</title>
+<link>https://qiita.com/Pretzelisa/items/bb093b63016e50e9e841</link>
+<guid>47ea875fa4a812c97c23c05cd592b9c20b117e9cf8d728f80f3d7afcf0bff89b</guid>
+<pubDate>2026-07-30T00:04:05+09:00</pubDate>
+<description>はじめに 前回FoundryでAIエージェントを作ったので、今回は評価機能を試す。 1. エージェントを評価する 1.1 評価ジョブを作成する 評価タブから 「+ 新しい評価（New Evaluation）」 を選択し、以下の項目をセットアップして評価ジョブを実行。 ...</description>
 </item>
 <item>
-<title>【自動自律実験】 Author Correction: A ductile solid electrolyte interphase for solid-state batteries</title>
-<link>https://www.nature.com/articles/s41586-026-10945-2</link>
-<guid>ddd83d976a015f72cd15186bfbe461510c991210440842cb9a93ff9516372394</guid>
+<title>【農業】 Improved data reveal the role of aquatic foods</title>
+<link>https://www.nature.com/articles/s43016-026-01407-z</link>
+<guid>ac68a7059c6b2b7f936d7d93c5ade957c95956d77350450b222a69e820c5e101</guid>
 <pubDate>2026-07-29</pubDate>
-<description>Author Correction: A ductile solid electrolyte interphase for solid-state batteries</description>
+<description>Increasing seafood consumption could substantially contribute to overcoming widespread nutritional deficiencies in Brazil. Improving the availability of information on consumption and the nutrient content of aquatic foods is helping to highlight their role within broader food systems and ensure that their potential contrib</description>
 </item>
 <item>
-<title>【自動自律実験】 Why tomorrow’s nanotechnologies need support today</title>
-<link>https://www.nature.com/articles/d41586-026-02179-z</link>
-<guid>f6a28c8c0d8b68bee719dc338492a9bb8d30dee9f94ce75ca1c637a7c0c8dac1</guid>
+<title>【農業】 Seafood consumption could help fill nutrition gaps in Brazil</title>
+<link>https://www.nature.com/articles/s43016-026-01402-4</link>
+<guid>ed2f381b508724c591fcd2a2b9d91c4c6151bb226ba225e817b5587c944d7324</guid>
 <pubDate>2026-07-29</pubDate>
-<description>The field seems to be on the cusp of big advances, but a concerted effort is needed to realize its true potential.</description>
-</item>
-<item>
-<title>【自動自律実験】 A guide to the Nature Index</title>
-<link>https://www.nature.com/articles/d41586-026-02183-3</link>
-<guid>3b64fcef02e2f42eac78c4ba96688fbbb0aa4cbafa1ba44c0ce8ee3674cb8210</guid>
-<pubDate>2026-07-29</pubDate>
-<description>A description of the terminology and methodology used in this supplement, and a guide to the functionality that is available free online at natureindex.com.</description>
+<description>Brazil’s seafood consumption remains low despite its rich marine biodiversity. The study suggests that better use of seafood could help address nutritional gaps, in combination with improved fisheries governance and sustainable seafood policies.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/mining-attribute-subspaces-for-efficient-fine-tuning-of-3d-foundation-models/</link>
-<guid>69505b682360dd5fb5256587cf0997ad41e404354ffb62e128db27c9ac1cdbf5</guid>
-<pubDate>Wed, 29 Jul 2026 14:43:06 GMT</pubDate>
+<link>https://research.google/pubs/when-backdoors-go-beyond-triggers-semantic-drift-in-diffusion-models-under-encoder-attacks/</link>
+<guid>7560bf51db732a53012509eeae38cc1bd8a23a3f60d7bf7f8337e44ec0a5ed33</guid>
+<pubDate>Wed, 29 Jul 2026 16:15:30 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>c8b8cc4741830a0a0a13151a2e169f5b6382db3cb7d27eabfbb5487d9714bcb9</guid>
-<pubDate>Wed, 29 Jul 2026 14:43:09 GMT</pubDate>
+<guid>6513de7a1e2db45e721938e287217f66fc56b3004cc5dc9d8aaeba42239ab1bf</guid>
+<pubDate>Wed, 29 Jul 2026 16:15:33 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
-<link>https://www.eurohpc-ju.europa.eu/index_en</link>
-<guid>fa2c8504412e8d3bef02d57d5b33b30472122d2ca93851148a80c1325f7d8eeb</guid>
-<pubDate>Wed, 29 Jul 2026 14:43:21 GMT</pubDate>
-<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>29ae6cb0fb22430d332f8f26ef49db9bfbb99331049f48d4bda1af1cabfa4f22</guid>
+<pubDate>Wed, 29 Jul 2026 16:15:49 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
