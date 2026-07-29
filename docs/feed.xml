@@ -4,35 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 28 Jul 2026 23:52:13 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 01:44:03 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 「ゴリゴリのエンジニアじゃなくても大丈夫」 企業の内製化を加速するVibe Coding実践ガイド｜業務で使えるプロンプト＆ユースケース集</title>
+<link>https://qiita.com/dahatake/items/7a15a1caf194fcf29f0b</link>
+<guid>e117927f1522c741284d3e0f729b6aa17f851a51a2de21f24418d6315c7a3658</guid>
+<pubDate>2026-07-29T09:50:51+09:00</pubDate>
+<description>ソフトウェア保守をVibe Codingで段階的に内製化するためのPromptと実践チュートリアル 背景 生成AIやVibe Codingの話をしていると、どうしても「どこまでコードを書けるか」に議論が寄りがちです。 もちろん、実装支援は分かりやすい価値です。一方で、実...</description>
+</item>
+<item>
+<title>【Qiita】 Function Calling（ツール呼び出し）の仕組み——「電話代行してくれる秘書」でAIエージェントの動作を完全理解</title>
+<link>https://qiita.com/handson-lab/items/1473b0297f92ca5be216</link>
+<guid>ef4da93d039dc7d1bc0ee0a78f914c54b2d7656cec142f97c155cf082adbc8cb</guid>
+<pubDate>2026-07-29T09:42:42+09:00</pubDate>
+<description>こんにちは！ハンズオンラボ運営のえむです。 ChatGPTに「今日の東京の天気は？」と聞くと、まるで本当に天気予報を調べてきたかのように答えてくれることがあります。しかし、AIモデル自体は、リアルタイムの天気情報を知っているわけではありません。この裏側で動いているのがFun...</description>
+</item>
+<item>
+<title>【Qiita】 blastengine MCPサーバーに独自ツールを追加する方法（TypeScript / zod / MCP SDK）</title>
+<link>https://qiita.com/skillogy/items/e8dfc1639bb183a6767a</link>
+<guid>6c7c79235285d3ecdea11989becfc07ce6640f571a26d4b6b514b8f0464587d6</guid>
+<pubDate>2026-07-29T09:17:01+09:00</pubDate>
+<description>blastengine MCPサーバーは、blastengine のメール配信APIの一部を MCP（Model Context Protocol）ツールとして公開する公式の stdio サーバーです。配信検索・ログ取得・使用量確認といった参照系から、トランザクション送信・...</description>
+</item>
+<item>
+<title>【Qiita】 【AWS Security Agent】カスタムセキュリティ要件の登録に関するクセ強仕様を整理する</title>
+<link>https://qiita.com/Yuki_Yamashita/items/070417fda6b226e93bd8</link>
+<guid>86e5ee523df909fa13a7769d03b479b6a486dcbe5102e496d670fe8012bd7a13</guid>
+<pubDate>2026-07-29T09:06:11+09:00</pubDate>
+<description>はじめに AWS Security Agentでは、設計書レビューやコードレビューの際に、基準となるセキュリティ要件に従ってレビューを行います。予めAWS側で用意されたマネージド要件に加え、独自の要件をカスタムセキュリティ要件として追加することも可能です。 しかし、このカ...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/vista-towards-test-time-self-improving-video-generation-agent/</link>
-<guid>7b8106b653d365cdc4a292e38231b000569bd97a21feb0ab6e98165b00581598</guid>
-<pubDate>Tue, 28 Jul 2026 23:51:20 GMT</pubDate>
+<link>https://research.google/pubs/beyond-vector-similarity-hierarchical-context-aware-graph-rag-vs-standard-rag-in-enterprise-code-migration/</link>
+<guid>2c7b5f220f0234a6a19f2d22da856f6c355d53dae6adf37099ce1f3014dfd143</guid>
+<pubDate>Wed, 29 Jul 2026 01:43:13 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02994-8</link>
-<guid>9368e46b5473c2bef2db7262a40486c83b5cb0fc7a2d089143df36e205e653a3</guid>
-<pubDate>Tue, 28 Jul 2026 23:51:29 GMT</pubDate>
-<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>f0010028541597726c6bad65997c196dbf5ac7ed830ac9f2b31a839d99517cc2</guid>
+<pubDate>Wed, 29 Jul 2026 01:43:20 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Filter By:</title>
-<link>https://www.nature.com/articles/s44160-026-01120-6</link>
-<guid>96da29d1cd4ef25af361c3cb124e162b475ef4ee9b480090d3b2a442c77af284</guid>
-<pubDate>Tue, 28 Jul 2026 23:51:33 GMT</pubDate>
-<description>Industrial self-driving laboratories need more than safe robots and instruments. They need an autonomy safety harness that defines how AI-generated intent becomes executable experiments, monitored actions and trustworthy evidence for downstream research and development (R&amp;amp;D).</description>
+<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
+<guid>e75a188f1dfc7b321ca44d6ea8ff5adcb2b4b8120ed457eafda63c4205419ec0</guid>
+<pubDate>Wed, 29 Jul 2026 01:43:32 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>ca5e3938d2f582a2d7ed440444fe35e2c2532c0a0fe97dd186a5efaa900bb746</guid>
-<pubDate>Tue, 28 Jul 2026 23:51:53 GMT</pubDate>
+<guid>8309b64699c78d212e58df6e8a0d47603eda6890624df7c86aafc200879c2bab</guid>
+<pubDate>Wed, 29 Jul 2026 01:43:42 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
