@@ -4,71 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 29 Jul 2026 05:00:58 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 07:45:55 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Codeで作る敵対的レビュー3体：高リスク差分だけに注入【全文公開】</title>
-<link>https://qiita.com/TakanobuSano/items/2f223d2823e0d92fa940</link>
-<guid>c74890a1a76672e5ee72d939bd544e98bc76ec66971b7a1694bc9b1e04ee396d</guid>
-<pubDate>2026-07-29T13:25:49+09:00</pubDate>
-<description>🧭 本記事は Claude Code実務運用シリーズ の STEP 5「レビュー自動化する」です。 前回のリスク判定に、高リスクのときだけ動く敵対的レビュー3体を足します。 シリーズ全体の地図と読む順は 親記事 にまとめています。 Claude Code の3層コ...</description>
+<title>【Qiita】 watsonx.ai Software版 NotebookでアップロードしたData Assetはどこにあり、どう利用するのか調べてみた</title>
+<link>https://qiita.com/mizutan/items/d255c081097b170715de</link>
+<guid>7f41e6a64c10a030779677e6fd2f157ca2e60a3c5d127accb504966bf661e2c8</guid>
+<pubDate>2026-07-29T15:42:27+09:00</pubDate>
+<description>1. はじめに Notebook で Data Asset (資産) をアップロードしたものの、 import os print(os.getcwd()) print(os.listdir(&quot;.&quot;)) を実行してもファイルが見つからず、ファイルの配置場所がわかりません...</description>
 </item>
 <item>
-<title>【Qiita】 Microsoftの新AI秘書、中身は競合Claudeだった――4強対決の実像</title>
-<link>https://qiita.com/kinamocchi_tech/items/0c0dbe25464dff964109</link>
-<guid>3d78932bf0f2ba5a8ba96d13cfcb16d4b646b4f39cc31a5dd776b7bca37a903f</guid>
-<pubDate>2026-07-29T13:11:00+09:00</pubDate>
-<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → Microsoftの新AI秘書、中身は競合Claudeだった――4強対決の実像 🐹🦜 この記事に登場する2匹 🐹 もっちー （ハムスター）… ...</description>
+<title>【Qiita】 tWASのdiagnostic plans（診断計画）を用いたトレース取得。指定のメッセージがWASのログファイルに出力されたらトレース・バッファーをダンプして、トレース取得を停止する。</title>
+<link>https://qiita.com/fumitofumito/items/0b862b660ad70f0b60a0</link>
+<guid>92f8ce92011aa951560e36a0b6387b0c98b16804a2ae75f3e02b6fae94a40741</guid>
+<pubDate>2026-07-29T15:09:47+09:00</pubDate>
+<description>WebSphere Application Serverのdiagnostic plansを用いて、指定のメッセージがWASのログ・ファイルに出力されたらトレース・バッファーをダンプして、トレース取得を停止する動作を検証しました。 トレース出力をメモリーに保管する場合、診...</description>
 </item>
 <item>
-<title>【Qiita】 RPAは死んだのか？ AIエージェントと棲み分ける業務自動化の設計法2026</title>
-<link>https://qiita.com/fuji1009_REBELL/items/837cafac5bb2e880ffd2</link>
-<guid>63bfe9420a0f46449f5b3d48da0625b4842cb0a501993cddfbb0580053f59ecd</guid>
-<pubDate>2026-07-29T12:04:01+09:00</pubDate>
-<description>「AIエージェントが出てきたから、もうRPAはいらない」——ここ最近、現場でよく聞くようになった言葉です。 私も業務自動化の相談を受けるたびに同じ問いにぶつかります。結論から言うと、私の答えは「RPAは死んでいない。ただし役割は変わった」です。この記事では、実際に両方を現場...</description>
+<title>【Qiita】 PowerVS IBM i 日記(109): メタデータサービスおよび信頼済みプロファイルのサポート</title>
+<link>https://qiita.com/6onoda/items/dba4cf70efe0b2cf3685</link>
+<guid>20cd734e5b47f6e3f836d6294aeadc2ca792f75f6848489c03c17b8e00827ace</guid>
+<pubDate>2026-07-29T14:59:26+09:00</pubDate>
+<description>執筆時点でTOK04でもメタデータサービスの構成は出来ましたが、実際に利用すると「Service unavailable: Unable to connect to the backend service. Please try again later or conta...</description>
 </item>
 <item>
-<title>【Qiita】 「AIエージェントに権限を渡す」を、新入社員に全権を渡すことだと考えてみる</title>
-<link>https://qiita.com/masukane9473/items/f9c0040b42161bcacdb9</link>
-<guid>b75f514bffb8ff0382dbd2a138e349aff54c9db0f139d1fa40b8af8b41360452</guid>
-<pubDate>2026-07-29T11:24:07+09:00</pubDate>
-<description>はじめに 先日、AIエージェント関連のセキュリティ記事を読んでいて、ハッとする例えに出会った。 「AIに社内システムのアクセス権を渡すのは、新入社員に全権を渡すようなもの」 情報システム部門のベテランエンジニアの言葉らしいが、これは核心を突いていると思う。 自分自身、...</description>
+<title>【Qiita】 Ansys LumericalのMCPがリリースされた！</title>
+<link>https://qiita.com/HiroyukiOkada/items/de301f53d03b73220f8f</link>
+<guid>3e99c34ae3af0c58e427f90e95741a6ad82282ab7a851b21d4bfe8f4f49b0c76</guid>
+<pubDate>2026-07-29T16:23:52+09:00</pubDate>
+<description>はじめに 待望のPyLumerical-MCPがリリースされました！ PyLumerical-MCPとは、AIエージェントがフォトニクス解析ソフトウェアAnsys LumericalをPyLumerical(Lumerical実行のためのPython関数)で操作する...</description>
 </item>
 <item>
-<title>【Qiita】 LlamaIndex Workflowsで並行実行、実測すると本当に半分の時間だった</title>
-<link>https://qiita.com/kai_kou/items/650e7b5bdeff1ea99dd7</link>
-<guid>d59c3d59fc3033996f7a4c3d3510a4a5fb2055f4fa4ac61a59d751aab30266d8</guid>
-<pubDate>2026-07-29T12:08:35+09:00</pubDate>
-<description>はじめに エージェントの処理を「調査ステップ」と「下書きステップ」のように分けて書くとき、両方とも独立して実行できるなら同時に走らせたいと考えるはずです。ところが多くのエージェントフレームワークは、ステップを定義する API はあっても「本当に並行で動くのか」までは明示し...</description>
+<title>【Qiita】 【AI駆動開発 7】受け入れ条件とスコープ外を明文化する — 「これを満たしたら成功」を先に決める</title>
+<link>https://qiita.com/kawamon-idealive/items/7ccedcff52cfe2686d43</link>
+<guid>ec33975db2991c93830a1cc02c67fcb8831e3ab295efa2f8775acd7aaadf01d1</guid>
+<pubDate>2026-07-29T15:06:35+09:00</pubDate>
+<description>よくある状態：「◯◯を修正して」とだけ伝えて実装させ、出てきたものを見てから「そうじゃない」「そこは触らないでほしかった」と直しの往復が始まる。 こうする 計画段階で、AIに「受け入れ条件」と「スコープ外」を明文化させる。 受け入れ条件：何ができたら完了か。...</description>
 </item>
 <item>
-<title>【Qiita】 Loop Engineeringとは？AIエージェントを「設計」する時代へ</title>
-<link>https://qiita.com/hidetarou2013@github/items/eed4f74d7496e1be272a</link>
-<guid>ccde019d9e1eef3d38646c51870483bd01f5b110bafce131ef3d5a98f39fdebf</guid>
-<pubDate>2026-07-29T12:07:25+09:00</pubDate>
-<description>はじめに 2026年6月、AI開発の現場に一つの言葉が広まった。Loop Engineering（ループエンジニアリング）。 Anthropic で Claude Code の責任者を務める Boris Cherny（Head of Claude Code）は、あるインタ...</description>
+<title>【Qiita】 【AI駆動開発 6】改善を定例化する — 「大切」なだけでは忘れる</title>
+<link>https://qiita.com/kawamon-idealive/items/53dbc812d45963e4d2fa</link>
+<guid>6bf826caa3726e478537eedb237919a7c9bb910fdabad803bfff46e5b9bfdfca</guid>
+<pubDate>2026-07-29T15:06:28+09:00</pubDate>
+<description>よくある状態：メモリへの保存もスキルの改善も「大事なのはわかってる」。でも気づいたら1か月何もしていない。 こうする 「定期的に時間を取ってやる」と決めておく。 それだけです。 たとえば週1回30分、こういう棚卸しをする： 今週AIに指摘したこと・巻き取ってし...</description>
+</item>
+<item>
+<title>【Qiita】 【AI駆動開発 4】繰り返しはスキル化する — 手順を「人の頭の中」から出す</title>
+<link>https://qiita.com/kawamon-idealive/items/621a2fce6af6b44ac2d9</link>
+<guid>427c921cbb62af58bd4d8e81024b6feaa5fb555ebbb168aafe939c03e39eb5f9</guid>
+<pubDate>2026-07-29T15:06:14+09:00</pubDate>
+<description>よくある状態：毎回同じ説明をプロンプトに書いている。あるいは、うまくいく手順を知っているのが特定の1人だけ。 こうする 同じ作業を2回以上AIに頼んでいたら、スキル化（手順の文書化・自動化）を検討する。 スキルとは、AIに渡す「この作業はこの手順・この観点でやる...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients-2/</link>
-<guid>b6f480bd5aa5ec786ca4b4b3ed13b92b9feaa637d8c776789658e9995cf0ee20</guid>
-<pubDate>Wed, 29 Jul 2026 05:00:14 GMT</pubDate>
+<link>https://research.google/pubs/the-ontic-epistemic-distinction-implications-for-robust-machine-intelligence/</link>
+<guid>3a8230b35a9b084d4101b20776c2e5deced8c7ab1b1a61c3aaa0bc522192bca3</guid>
+<pubDate>Wed, 29 Jul 2026 07:44:51 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>465f8ad1d1f666649637e9be1d781f5f1cb7afe336ccace8f1ae26d84c9f735c</guid>
-<pubDate>Wed, 29 Jul 2026 05:00:17 GMT</pubDate>
+<guid>f605a7109172cfa4bcf4d5e7a38665eb5abebfb8c388e76b44d67da627ae822b</guid>
+<pubDate>Wed, 29 Jul 2026 07:44:54 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>fb0bc1fef6195b69fbcaa40923e83c4439bb9d3d85d96d2c2122d0fc230af28e</guid>
-<pubDate>Wed, 29 Jul 2026 05:00:34 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
