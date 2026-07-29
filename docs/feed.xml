@@ -4,99 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 29 Jul 2026 12:30:52 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 14:43:46 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 設計レビューがHTMLで返る improve-codebase-architecture が良い</title>
-<link>https://qiita.com/ryoji9702/items/0a989976c3587c0319ef</link>
-<guid>49733581ff2c31fe2e1c276470d597c71f526dd755fbf710a3f46228ad54258b</guid>
-<pubDate>2026-07-29T20:34:10+09:00</pubDate>
-<description>はじめに mattpocock/skills の /improve-codebase-architecture は、設計レビューの結果を Markdown ではなく自己完結した HTML ファイルで返すという珍しい出力形式のスキルです。一時ディレクトリに architec...</description>
+<title>【Qiita】 Base44で社内コミュニティに投稿するネタの管理アプリを作ってみた</title>
+<link>https://qiita.com/fromage/items/eada2a7678d4edfff5ea</link>
+<guid>03798e6b834e4e33d4148b2147502085a4f19e3d951c7bc5096158d314a99c2a</guid>
+<pubDate>2026-07-29T23:26:15+09:00</pubDate>
+<description>AIアプリ開発サービスの Base44 を使って、社内AIコミュニティに投稿するネタを管理するアプリを作成しました。 コードは書かず、日本語で要件を伝えています。 今回は、アプリ生成だけでなく、セキュリティチェックとテスト機能も試しました。 Base44とは Base...</description>
 </item>
 <item>
-<title>【Qiita】 機械は自分の答えを甘く採点する — 自己検証ループと「外部検証」という古い答え</title>
-<link>https://qiita.com/akihidem/items/2834b4bb21620ceb20b8</link>
-<guid>2d92962a508f7028e35e43c73cf22ac2a263eb610a6de62db0705d1f30880fca</guid>
-<pubDate>2026-07-29T21:00:29+09:00</pubDate>
-<description>AI エージェントに作業を任せる設計が広まり、ひとつの落とし穴が共有されはじめている。生成する主体と、その出来を採点する主体が同じだと、評価は甘くなる。モデルは自分の答えを「よくできている」と判定し、合格基準を満たすまで基準のほうを下げていく。この問題は新しく見えて、実はと...</description>
+<title>【Qiita】 Claude Codeで作ったAIエージェント、Claude自身に評価させてみた</title>
+<link>https://qiita.com/codebay88/items/d0fc55602ae218b06b74</link>
+<guid>e6c67cb1aed788b96bc1587c89314bcbc0db521894ba0a005775aa6f5262107a</guid>
+<pubDate>2026-07-29T22:40:41+09:00</pubDate>
+<description>はじめに 「Claude Codeで作ったAIエージェントを、Claude自身にレビューさせたらどうなるか？」 今回、AI導入プロセスを構造化して再現性のあるWBS(Work Breakdown Structure)を自動生成するオープンソースプロジェクト AI-Agen...</description>
 </item>
 <item>
-<title>【Qiita】 2体のAIに半日対話させたら「AI同士は気持ちよく頷き合って同じ穴に落ちる」と自分で言い当て、数時間後に本当に落ちた</title>
-<link>https://qiita.com/akihidem/items/260e08eed22b3b3e2d3a</link>
-<guid>405ec4c956f515c5514f3297c8a449b5cd4ad4ae05deacb10d17e7636cba5a26</guid>
-<pubDate>2026-07-29T21:00:00+09:00</pubDate>
-<description>ある共有ワークスペースで、2体のAIエージェントを半日ほど自由に対話させた。その記録が、マルチエージェント設計でよく語られる「相互追従（sycophancy）」と「外部検証」の問題を、教科書よりも生々しく示していたので、一般化して共有する。 注: 実在のやり取りを題材にし...</description>
-</item>
-<item>
-<title>【Qiita】 ボット対策をAPI連携で実装する</title>
-<link>https://qiita.com/abkkk/items/a218ba4027e9b61d7bc4</link>
-<guid>e5dc58b02fe9cb23ecb56614d027fc7571393f68b5adb430191ca973682538c7</guid>
-<pubDate>2026-07-29T20:11:40+09:00</pubDate>
-<description>正直に書くと、去年まで「ボット対策はreCAPTCHAでいい」と思っていた。 フォームにチェックボックスを付けて、スパムを弾く。それで十分だと思っていたし、ほとんどの場面でそれで機能していた。 2025年から状況が変わったと感じている。 何が変わったのか タレスの悪性ボッ...</description>
-</item>
-<item>
-<title>【Qiita】 【図解】MCP 2026-07-28の変更点まとめ——セッション廃止で何が変わる？</title>
-<link>https://qiita.com/Xim2jp/items/db1527d55b96d4412ef8</link>
-<guid>20dcd21b8302b43ce4dfac20fdfadc25747c49368c17f3d29378eddc252fbe2a</guid>
-<pubDate>2026-07-29T20:00:27+09:00</pubDate>
-<description>はじめに 本記事は↓のブログの要約です。 https://shinichi.noguchi.jp.net/blog/2026-07-29-mcp-2026-spec.html AIエージェントがツールを呼び出すプロトコル「MCP」の新仕様（2026-07-28）が公開され...</description>
-</item>
-<item>
-<title>【自動自律実験】 Obituary: Susumu Tonegawa, Japan’s first Nobel prizewinner in physiology or medicine</title>
-<link>https://www.nature.com/articles/d41586-026-02340-8</link>
-<guid>edc71407082088b35c4646984edd327af4a54852dc69ccff2ad2ab26b4305ba5</guid>
+<title>【自動自律実験】 Author Correction: A ductile solid electrolyte interphase for solid-state batteries</title>
+<link>https://www.nature.com/articles/s41586-026-10945-2</link>
+<guid>ddd83d976a015f72cd15186bfbe461510c991210440842cb9a93ff9516372394</guid>
 <pubDate>2026-07-29</pubDate>
-<description>Fearless molecular biologist who revealed the workings of antibodies and memories.</description>
+<description>Author Correction: A ductile solid electrolyte interphase for solid-state batteries</description>
 </item>
 <item>
-<title>【自動自律実験】 40,000-year-old bird carvings provide clues to how ice age humans flourished</title>
-<link>https://www.nature.com/articles/d41586-026-02312-y</link>
-<guid>e41342983b262eb7dbbcdd52224ebaa650eaf9353748aef7db9d00fb6ad049fd</guid>
+<title>【自動自律実験】 Why tomorrow’s nanotechnologies need support today</title>
+<link>https://www.nature.com/articles/d41586-026-02179-z</link>
+<guid>f6a28c8c0d8b68bee719dc338492a9bb8d30dee9f94ce75ca1c637a7c0c8dac1</guid>
 <pubDate>2026-07-29</pubDate>
-<description>Newly discovered figurines point to skills that might have helped shape early humans’ expansion across Europe.</description>
+<description>The field seems to be on the cusp of big advances, but a concerted effort is needed to realize its true potential.</description>
+</item>
+<item>
+<title>【自動自律実験】 A guide to the Nature Index</title>
+<link>https://www.nature.com/articles/d41586-026-02183-3</link>
+<guid>3b64fcef02e2f42eac78c4ba96688fbbb0aa4cbafa1ba44c0ce8ee3674cb8210</guid>
+<pubDate>2026-07-29</pubDate>
+<description>A description of the terminology and methodology used in this supplement, and a guide to the functionality that is available free online at natureindex.com.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/see2refine-vision-language-feedback-improves-llm-based-ehmi-action-designers/</link>
-<guid>cd599b653ab7f2517a0b3c76bdc6a1baf2be7c11b17cccf55a4f2d16d5833d49</guid>
-<pubDate>Wed, 29 Jul 2026 12:30:01 GMT</pubDate>
+<link>https://research.google/pubs/mining-attribute-subspaces-for-efficient-fine-tuning-of-3d-foundation-models/</link>
+<guid>69505b682360dd5fb5256587cf0997ad41e404354ffb62e128db27c9ac1cdbf5</guid>
+<pubDate>Wed, 29 Jul 2026 14:43:06 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>a3312660e8c0eb52e15c83dcc974563fe641c83254c9489583ff929c03978bd0</guid>
-<pubDate>Wed, 29 Jul 2026 12:30:01 GMT</pubDate>
-<description>Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overall shape class.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>cee2082ca3917a2f8c933853c6968d92da9e0fd71f373febefba520567a85589</guid>
-<pubDate>Wed, 29 Jul 2026 12:30:04 GMT</pubDate>
+<guid>c8b8cc4741830a0a0a13151a2e169f5b6382db3cb7d27eabfbb5487d9714bcb9</guid>
+<pubDate>Wed, 29 Jul 2026 14:43:09 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>cf98880975b3a6d4449b067f803e5ed3774f35646bb300e4a9b94d0ef32d45e2</guid>
-<pubDate>Wed, 29 Jul 2026 12:30:07 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>64d71ccc7ded74d0e9bd564b198e38c80ab130079cef2d0f1b47e879f78dd266</guid>
-<pubDate>Wed, 29 Jul 2026 12:30:35 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
-</item>
-<item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>0ba5ca7c9f466223372767fad959bafff07faff5b949749f5ed82b7be4db326e</guid>
-<pubDate>Wed, 29 Jul 2026 12:30:41 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
+<link>https://www.eurohpc-ju.europa.eu/index_en</link>
+<guid>fa2c8504412e8d3bef02d57d5b33b30472122d2ca93851148a80c1325f7d8eeb</guid>
+<pubDate>Wed, 29 Jul 2026 14:43:21 GMT</pubDate>
+<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
 </item>
 
 </channel>
