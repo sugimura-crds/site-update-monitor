@@ -4,99 +4,91 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 30 Jul 2026 11:28:02 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 13:05:57 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【解説】Claude Mythos が暗号アルゴリズムを解読？！ 共通鍵暗号 AES 編</title>
-<link>https://qiita.com/satokan3/items/d8530ccb4a93f4ac76d1</link>
-<guid>123a92aa05fda393d218418eddfa2cc0e27f7500fe1d5f310d9d34625ebbc1ca</guid>
-<pubDate>2026-07-30T19:38:15+09:00</pubDate>
-<description>こんばんは！！ GMOコネクト株式会社で執行役員CTOをしている菅野 哲（かんの さとる）こと、さとかん でございます。 前編に続いて後編です。今回は AES、みんなが毎日使っているあの共通鍵暗号のほうを扱います。 前編はこちら↓ 「AI が AES を破った」みたい...</description>
+<title>【Qiita】 スマートメーター × Confluent Cloud リアルタイムデモ（東京23区版）を、IBM Bob を使って構築しました Ver.2</title>
+<link>https://qiita.com/Shumpei_Kubo/items/581261ab3848fc8c120b</link>
+<guid>0bb236715553355add10662874cd6081b9e94cb0acf96dbc4325f8eee7543aa3</guid>
+<pubDate>2026-07-30T21:35:37+09:00</pubDate>
+<description>スマートメーター × Confluent Cloud リアルタイムデモ（東京23区版）修正版 すみません、自分、雰囲気でスマートメーターのデモを作ってました。 ということで有識者の指摘を受けて色々とBobにより修正した版がこの記事です。 修正箇所は、こちらのCHANGEL...</description>
 </item>
 <item>
-<title>【Qiita】 【解説】Claude Mythos が暗号アルゴリズムを解読？！ 耐量子計算機暗号 HAWK 編</title>
-<link>https://qiita.com/satokan3/items/d306f067086272e6aa8a</link>
-<guid>75a249f0ba1290e1d218e777fb0b4a0f9c3bf10b4a9fd5e770f785c33dbfd970</guid>
-<pubDate>2026-07-30T19:38:07+09:00</pubDate>
-<description>こんばんは！ GMOコネクト株式会社で執行役員CTOをしている菅野 哲（かんの さとる）こと、さとかん でございます。 いかがお過ごしでしょうか？ Anthropic が「AI で暗号アルゴリズムの新しい攻撃を見つけた」という記事を出しまして、報道の見出しだけだと何が起きた...</description>
+<title>【Qiita】 スマートメーター × Confluent Cloud リアルタイムデモ（東京23区版）CHANGELOG</title>
+<link>https://qiita.com/Shumpei_Kubo/items/627b1616cc7c596bbe60</link>
+<guid>834946ee1cbe72fdba73c3c160462c9508f92b7ccee930a28cea8e7a9d9867f1</guid>
+<pubDate>2026-07-30T21:19:09+09:00</pubDate>
+<description>スマートメーターデモ 変更履歴（公開用） このファイルはデモの設計・実装・ドキュメントに対する変更を記録します。 [v3.2] — 2026-07-30 変更概要 業界専門家との技術ディスカッションを踏まえ、デモのストーリー構成を強化しました。 変更内容 フ...</description>
 </item>
 <item>
-<title>【Qiita】 【参加レポート】Google Cloud Next Tokyo &#x27;26 Day 1に参加してきました――Agentic AIの現在地と全資格保持者としての特別な体験</title>
-<link>https://qiita.com/toshyss/items/0d2cae22a0f4d1fb8283</link>
-<guid>bf0e0cd289d0a0a50ddc0b0fd1cb7c36d6889ce35bfddb41be4c3a36e8b1cd4d</guid>
-<pubDate>2026-07-30T20:16:37+09:00</pubDate>
-<description>はじめに 2026年7月30日、東京ビッグサイトで開催された「Google Cloud Next Tokyo」のDay 1に参加してきました。 今年のイベントでは、AIエージェントをはじめとする「Agentic AI」や、Geminiを活用した企業向けソリューションが大き...</description>
+<title>【Qiita】 日刊IETF (2026-06-25) ルーティングとYANG運用モデルが並ぶ後半 (Part2/2)</title>
+<link>https://qiita.com/tetsuko_room/items/1e831617c6dd95b4004a</link>
+<guid>990b33c12ebb784020198053872ec80371dcf73a0c05f25dbe8e550e8db60f50</guid>
+<pubDate>2026-07-30T20:47:49+09:00</pubDate>
+<description>こんばんは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-25（UTC基準）に公開されたInt...</description>
 </item>
 <item>
-<title>【Qiita】 coding agent のログを全部保存する前に、session stream を review できる単位に切る</title>
-<link>https://qiita.com/heftykoo/items/540f260588400a616043</link>
-<guid>1a5adf8699a327932d7d8382ff40ec2147631ebc8af120f43151e18baa85cb37</guid>
-<pubDate>2026-07-30T19:26:21+09:00</pubDate>
-<description>coding agent を一晩走らせると、ログはちゃんと残る。問題は、そのログを翌朝だれも読まないことだ。正確には、読めない。 prompt、response、tool call、approval 待ち、runtime error、token usage。全部を一つの t...</description>
+<title>【Qiita】 日刊IETF (2026-06-25) 自律エージェントの識別と認可が主役の前半 (Part1/2)</title>
+<link>https://qiita.com/tetsuko_room/items/6b1634d0fcad566a5589</link>
+<guid>e0de325d898ee3fdc4a77c255fcfd69c76c80c7287bf0125b43c73c25ec1761d</guid>
+<pubDate>2026-07-30T20:46:58+09:00</pubDate>
+<description>こんばんは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-25（UTC基準）に公開されたInte...</description>
 </item>
 <item>
-<title>【Qiita】 資料を渡すだけでプロジェクト計画のたたき台ができる</title>
-<link>https://qiita.com/spina1/items/242355af1b5f2ec0ab7a</link>
-<guid>571f32104638f4f570e3c939f7008987afe843d8649fe988e35b23f456eac4cf</guid>
-<pubDate>2026-07-30T19:12:39+09:00</pubDate>
-<description>はじめに 新しいプロジェクトが立ち上がると、まず最初にやってくるのが計画づくりです。そして、これが毎回いちばん腰が重いんですよね。 背景資料、業務目標、スコープ、要件定義、外部システムとの接続、受け入れ基準、リスク。必要な情報はそろっているのに、それぞれ別の資料にばらばら...</description>
+<title>【Qiita】 Azure App Service の Free プラン作成時に「Operation cannot be completed without additional quota.」が出たときの対処方法まとめ</title>
+<link>https://qiita.com/valpasucucci43/items/cb0b8d3d80e469b339c1</link>
+<guid>5d81df4ea6368b8a0c079f5e8e96d70c42f89cb79b02bb1e44e4dbc9d0407063</guid>
+<pubDate>2026-07-30T20:54:41+09:00</pubDate>
+<description>目次 はじめに 結論 1. エラーの意味 2. なぜ Free VM のクォータが 0 なのか 3. 対処方法 A. クォータ引き上げ（推奨） B. App Service プランの SKU を変更する（代替案） C. 別リージョンへ切り替える（代替案） 4. ...</description>
 </item>
 <item>
-<title>【Qiita】 GitHub Copilotの利用データを分析したら、Claude Sonnet固定はAutoの約2.4〜2.8倍消費していた</title>
-<link>https://qiita.com/ruumalilja/items/6783e17c1c75ce646c2e</link>
-<guid>9e0256fafa18398239b89a1736b8bb2e62059be4051753b468abe7b401b89472</guid>
-<pubDate>2026-07-30T18:52:24+09:00</pubDate>
-<description>GitHub Copilotでは、利用するモデルを固定する方法と、Autoモードに任せる方法があります。 高性能モデルを固定しておけば、常に良い結果が得られるようにも見えます。一方、組織全体で利用枠を共有している場合、モデルの選び方によって消費量に大きな差が出る可能性があり...</description>
+<title>【Qiita】 CLAUDE.mdはそのうちなくなる。多分。</title>
+<link>https://qiita.com/masato_makino/items/f758195d853fb4589375</link>
+<guid>90fa981e37e5b7aadf004d12735a2bd46b738608b4feb208ecf3cebbc0edaa02</guid>
+<pubDate>2026-07-30T21:20:25+09:00</pubDate>
+<description>この記事は2026年7月時点のモデル能力とツールの仕様を前提にした予測です。土台にしたトレンドが変われば、結論も変わります。 先に結論だけ モデルの把握力が上がってプロジェクト内のあらゆる情報を同時に扱えるようになると、記述間の矛盾との衝突は、確率的な事故から避け...</description>
 </item>
 <item>
-<title>【自動自律実験】 Job insecurity is chipping away at me and my cohort. Is it us, or the state of the economy?</title>
-<link>https://www.nature.com/articles/d41586-026-01843-8</link>
-<guid>11dabda95bb962c145191e49e9bfd4a8cc2e07db3ca230a35dff164152f8441c</guid>
+<title>【Qiita】 Ollama 0.32.0の「ローカルAIエージェント」を本番機で試せなかった話 — 共有GPUインフラのバージョンを上げない判断と、リリースノートと現物のドリフト</title>
+<link>https://qiita.com/Umamon/items/149aed329d65d7f4c56f</link>
+<guid>21ebb0e1a2fc86ab6a177552a075bf98cbca38e66371b9dac6e0e3728f6c0b15</guid>
+<pubDate>2026-07-30T20:45:02+09:00</pubDate>
+<description>「ollamaにエージェント機能が入った」というリリースノートを見て、自分のMacでollama agentを叩いたらunknown command &quot;agent&quot;で撃たれた——という人向けの記事です。結論から言うと、うちのM1 Max 64GB本番機は今も Ollama ...</description>
+</item>
+<item>
+<title>【環境】 Local stories in climate change communication</title>
+<link>https://www.nature.com/articles/s41558-026-02694-x</link>
+<guid>b654eada8dd1d9ef6e2e2f8257d2aa6ecf938fb64d34e5fc7bb061ac775ec8b5</guid>
 <pubDate>2026-07-30</pubDate>
-<description>The career market is difficult to navigate — and academic achievements feel like they’re no longer enough, says Daniella Watson.</description>
+<description>Climate change communication differs across regions, shaped by unique political, economic, social and environmental conditions. These influence how climate messages are framed, received and acted upon by the local public. To explore this diversity, Nature Climate Change spoke to globally distributed scholars for </description>
 </item>
 <item>
-<title>【自動自律実験】 How I use statistics and my law degree to fight human-rights abuses</title>
-<link>https://www.nature.com/articles/d41586-026-02079-2</link>
-<guid>33edf91c821c2ca2ed11ae44347ca5905c33e903fb3b483c5a5d375cdf694ca5</guid>
+<title>【環境】 From corporate net-zero pledges to credible climate action</title>
+<link>https://www.nature.com/articles/s41893-026-01908-6</link>
+<guid>862c6e87bddcf093b759ccf6120265fa7f5f5073a268e94bca01e7b544359bbb</guid>
 <pubDate>2026-07-30</pubDate>
-<description>Some 50 years after exposing gender discrimination in US academics’ retirement benefits, Mary Gray works as a statistician and social-justice campaigner.</description>
+<description>Although corporate net-zero pledges have become popular, evidence suggests they are not having real-world impacts, most probably because they lack a scientific foundation to ensure credibility and integrity. This Perspective presents a scientific framework to address the issue.</description>
+</item>
+<item>
+<title>【自動自律実験】 Demand for lithium is surging: here’s how to make mining more sustainable</title>
+<link>https://www.nature.com/articles/d41586-026-02195-z</link>
+<guid>267e8aaecda82b8aa51728611cb1aaff4b080b5facbf3adb1f4dda7c7506e03b</guid>
+<pubDate>2026-07-30</pubDate>
+<description>Researchers are looking for ways to extract the metal from underground reservoirs that use less water.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/system-for-a-secure-outcome-based-synthetic-labor-market-using-trusted-execution-environments/</link>
-<guid>d4e84655caa0d84c73a62adf170edd5a86d9735d4a3286866c437d132a2baff0</guid>
-<pubDate>Thu, 30 Jul 2026 11:27:22 GMT</pubDate>
+<link>https://research.google/pubs/calibrating-trustworthiness-in-genai/</link>
+<guid>5f91c54385b8af5d388146596b7386753dcbed90fbaf9743f821e9265def2eeb</guid>
+<pubDate>Thu, 30 Jul 2026 13:04:55 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>9cc8e0325f3a862848a60e121a821b6495a887f70afe5072db8de5c68c23c185</guid>
-<pubDate>Thu, 30 Jul 2026 11:27:25 GMT</pubDate>
+<guid>368889ead339ea3c1472a17cc079fe25eb7c7598c7289c3981f9c1a33deecd94</guid>
+<pubDate>Thu, 30 Jul 2026 13:04:58 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>4fcf2bb5823b1bd83172c270f861722eb6341cddc933677c3fbeddfe925700ff</guid>
-<pubDate>Thu, 30 Jul 2026 11:27:28 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
-</item>
-<item>
-<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
-<link>https://www.eurohpc-ju.europa.eu/index_en</link>
-<guid>02ad7685ada39b16db5da0341ceb2827dc8bfa02448f96d8f309597502dcd43e</guid>
-<pubDate>Thu, 30 Jul 2026 11:27:34 GMT</pubDate>
-<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>c5b3be1eca3c3cf28c0f570aadfd3638f445a9815f58eb4cbae44e862af17f04</guid>
-<pubDate>Thu, 30 Jul 2026 11:27:42 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
