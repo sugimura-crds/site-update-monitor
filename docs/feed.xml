@@ -4,91 +4,50 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 30 Jul 2026 13:05:57 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 15:30:19 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 スマートメーター × Confluent Cloud リアルタイムデモ（東京23区版）を、IBM Bob を使って構築しました Ver.2</title>
-<link>https://qiita.com/Shumpei_Kubo/items/581261ab3848fc8c120b</link>
-<guid>0bb236715553355add10662874cd6081b9e94cb0acf96dbc4325f8eee7543aa3</guid>
-<pubDate>2026-07-30T21:35:37+09:00</pubDate>
-<description>スマートメーター × Confluent Cloud リアルタイムデモ（東京23区版）修正版 すみません、自分、雰囲気でスマートメーターのデモを作ってました。 ということで有識者の指摘を受けて色々とBobにより修正した版がこの記事です。 修正箇所は、こちらのCHANGEL...</description>
+<title>【Qiita】 n8n AI Agentを本番で止めないHuman-in-the-Loop設計</title>
+<link>https://qiita.com/YushiYamamoto/items/dc0461416dc1ea74efa0</link>
+<guid>0a1410a53a7cb110d101941ed9c4af142e3fdcb911a37bc46eaf1704a54b1b5a</guid>
+<pubDate>2026-07-30T23:07:16+09:00</pubDate>
+<description>n8n の AI Agent にツール（メール送信・レコード更新・外部API呼び出しなど）を繋ぐと、エージェントは「必要そうな操作」を自分で選んで実行できる。 便利な一方、不可逆な副作用をプロンプトだけで止めようとすると本番で壊れやすい。 この記事では、n8n 公式の H...</description>
 </item>
 <item>
-<title>【Qiita】 スマートメーター × Confluent Cloud リアルタイムデモ（東京23区版）CHANGELOG</title>
-<link>https://qiita.com/Shumpei_Kubo/items/627b1616cc7c596bbe60</link>
-<guid>834946ee1cbe72fdba73c3c160462c9508f92b7ccee930a28cea8e7a9d9867f1</guid>
-<pubDate>2026-07-30T21:19:09+09:00</pubDate>
-<description>スマートメーターデモ 変更履歴（公開用） このファイルはデモの設計・実装・ドキュメントに対する変更を記録します。 [v3.2] — 2026-07-30 変更概要 業界専門家との技術ディスカッションを踏まえ、デモのストーリー構成を強化しました。 変更内容 フ...</description>
-</item>
-<item>
-<title>【Qiita】 日刊IETF (2026-06-25) ルーティングとYANG運用モデルが並ぶ後半 (Part2/2)</title>
-<link>https://qiita.com/tetsuko_room/items/1e831617c6dd95b4004a</link>
-<guid>990b33c12ebb784020198053872ec80371dcf73a0c05f25dbe8e550e8db60f50</guid>
-<pubDate>2026-07-30T20:47:49+09:00</pubDate>
-<description>こんばんは！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-25（UTC基準）に公開されたInt...</description>
-</item>
-<item>
-<title>【Qiita】 日刊IETF (2026-06-25) 自律エージェントの識別と認可が主役の前半 (Part1/2)</title>
-<link>https://qiita.com/tetsuko_room/items/6b1634d0fcad566a5589</link>
-<guid>e0de325d898ee3fdc4a77c255fcfd69c76c80c7287bf0125b43c73c25ec1761d</guid>
-<pubDate>2026-07-30T20:46:58+09:00</pubDate>
-<description>こんばんは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-25（UTC基準）に公開されたInte...</description>
-</item>
-<item>
-<title>【Qiita】 Azure App Service の Free プラン作成時に「Operation cannot be completed without additional quota.」が出たときの対処方法まとめ</title>
-<link>https://qiita.com/valpasucucci43/items/cb0b8d3d80e469b339c1</link>
-<guid>5d81df4ea6368b8a0c079f5e8e96d70c42f89cb79b02bb1e44e4dbc9d0407063</guid>
-<pubDate>2026-07-30T20:54:41+09:00</pubDate>
-<description>目次 はじめに 結論 1. エラーの意味 2. なぜ Free VM のクォータが 0 なのか 3. 対処方法 A. クォータ引き上げ（推奨） B. App Service プランの SKU を変更する（代替案） C. 別リージョンへ切り替える（代替案） 4. ...</description>
-</item>
-<item>
-<title>【Qiita】 CLAUDE.mdはそのうちなくなる。多分。</title>
-<link>https://qiita.com/masato_makino/items/f758195d853fb4589375</link>
-<guid>90fa981e37e5b7aadf004d12735a2bd46b738608b4feb208ecf3cebbc0edaa02</guid>
-<pubDate>2026-07-30T21:20:25+09:00</pubDate>
-<description>この記事は2026年7月時点のモデル能力とツールの仕様を前提にした予測です。土台にしたトレンドが変われば、結論も変わります。 先に結論だけ モデルの把握力が上がってプロジェクト内のあらゆる情報を同時に扱えるようになると、記述間の矛盾との衝突は、確率的な事故から避け...</description>
-</item>
-<item>
-<title>【Qiita】 Ollama 0.32.0の「ローカルAIエージェント」を本番機で試せなかった話 — 共有GPUインフラのバージョンを上げない判断と、リリースノートと現物のドリフト</title>
-<link>https://qiita.com/Umamon/items/149aed329d65d7f4c56f</link>
-<guid>21ebb0e1a2fc86ab6a177552a075bf98cbca38e66371b9dac6e0e3728f6c0b15</guid>
-<pubDate>2026-07-30T20:45:02+09:00</pubDate>
-<description>「ollamaにエージェント機能が入った」というリリースノートを見て、自分のMacでollama agentを叩いたらunknown command &quot;agent&quot;で撃たれた——という人向けの記事です。結論から言うと、うちのM1 Max 64GB本番機は今も Ollama ...</description>
-</item>
-<item>
-<title>【環境】 Local stories in climate change communication</title>
-<link>https://www.nature.com/articles/s41558-026-02694-x</link>
-<guid>b654eada8dd1d9ef6e2e2f8257d2aa6ecf938fb64d34e5fc7bb061ac775ec8b5</guid>
-<pubDate>2026-07-30</pubDate>
-<description>Climate change communication differs across regions, shaped by unique political, economic, social and environmental conditions. These influence how climate messages are framed, received and acted upon by the local public. To explore this diversity, Nature Climate Change spoke to globally distributed scholars for </description>
-</item>
-<item>
-<title>【環境】 From corporate net-zero pledges to credible climate action</title>
-<link>https://www.nature.com/articles/s41893-026-01908-6</link>
-<guid>862c6e87bddcf093b759ccf6120265fa7f5f5073a268e94bca01e7b544359bbb</guid>
-<pubDate>2026-07-30</pubDate>
-<description>Although corporate net-zero pledges have become popular, evidence suggests they are not having real-world impacts, most probably because they lack a scientific foundation to ensure credibility and integrity. This Perspective presents a scientific framework to address the issue.</description>
-</item>
-<item>
-<title>【自動自律実験】 Demand for lithium is surging: here’s how to make mining more sustainable</title>
-<link>https://www.nature.com/articles/d41586-026-02195-z</link>
-<guid>267e8aaecda82b8aa51728611cb1aaff4b080b5facbf3adb1f4dda7c7506e03b</guid>
-<pubDate>2026-07-30</pubDate>
-<description>Researchers are looking for ways to extract the metal from underground reservoirs that use less water.</description>
+<title>【Qiita】 AI Agent は社会規範に反していても、論理的に正しければ実行可能と判断してしまう ── 「何をしてよいか」を決める責任は、AIが賢くなるほど人間に集中する</title>
+<link>https://qiita.com/etale_cohomology/items/f358360e12a2a001a06a</link>
+<guid>975d871ea36af0614815ca224241fd0e36122554009ed8354dd9e3ede6cdb3c0</guid>
+<pubDate>2026-07-30T22:47:15+09:00</pubDate>
+<description>この記事の主題は、次の一つの問いです。 AI Agent の能力が向上する時代において、人間にはどのような役割が残るのでしょうか？ ここで言う AI Agent とは、皆様がお使いの ChatGPT や Claude のような対話型の生成 AI が単に受け答えをするだけで...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/calibrating-trustworthiness-in-genai/</link>
-<guid>5f91c54385b8af5d388146596b7386753dcbed90fbaf9743f821e9265def2eeb</guid>
-<pubDate>Thu, 30 Jul 2026 13:04:55 GMT</pubDate>
+<link>https://research.google/pubs/multi-agent-design-optimizing-agents-with-better-prompts-and-topologies/</link>
+<guid>2055415cce98e11d13e6d86de9825b249b645142559f43664c9344a385ee276a</guid>
+<pubDate>Thu, 30 Jul 2026 15:29:33 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>368889ead339ea3c1472a17cc079fe25eb7c7598c7289c3981f9c1a33deecd94</guid>
-<pubDate>Thu, 30 Jul 2026 13:04:58 GMT</pubDate>
+<guid>899fb5a0f2a6394fc79d35ce5d45e522a5248d1fe3948a5c898dc8c79ae61333</guid>
+<pubDate>Thu, 30 Jul 2026 15:29:36 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>ab3d564af10c82e5b39b54a3ac21d6049a5b0c26e879e684a24203e09cd0dd6c</guid>
+<pubDate>Thu, 30 Jul 2026 15:29:38 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>362e1fdee2b5648843bbddcd86d92c7e0de53a722afeed614796dba54e8798eb</guid>
+<pubDate>Thu, 30 Jul 2026 15:29:57 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
