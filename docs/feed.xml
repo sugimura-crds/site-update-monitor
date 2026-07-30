@@ -4,28 +4,92 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 30 Jul 2026 00:55:25 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 03:50:57 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 ObsidianをAIの脳にする：3大AIエージェントの非対話共有記憶と自動連携アーキテクチャ</title>
-<link>https://qiita.com/QuQuLa89/items/3bfc53028779c433f1e0</link>
-<guid>8e00c31f7fea26a04c910e0ed128ca7db6c82156313b638ac859ff2984c90873</guid>
-<pubDate>2026-07-30T09:00:28+09:00</pubDate>
-<description>はじめに 複数のAIエージェント [Antigravity / Claude Code / Codex など] を併用して開発を行う際、最大の課題となるのが[文脈の断絶]と[コンテキストの肥大化]です。各エージェントに同じ説明を何度も繰り返したり、長大な対話ログによって思...</description>
+<title>【Qiita】 ETLなしで工場センサーデータをAI分析へ — Confluent Tableflow × watsonx.data × IBM Bob で即時データ分析をやってみよう</title>
+<link>https://qiita.com/nishikyon/items/a5d07bce0969b21bc438</link>
+<guid>f76de1752465caf201c7fed3f420d211ce6606d77505b51f6af630869467daa5</guid>
+<pubDate>2026-07-30T11:35:12+09:00</pubDate>
+<description>この記事で使用するコードはすべて GitHub リポジトリ confluent-tableflow-wxd に置いています。 コードはIBM Bobにて作成しました。 はじめに 「Kafka にリアルタイムデータを流しているのに、分析は翌日バッチ…」という状況はよ...</description>
+</item>
+<item>
+<title>【Qiita】 watsonx.data に Confluent Tableflow の Iceberg カタログを登録</title>
+<link>https://qiita.com/nishikyon/items/1f43637b7898245b2674</link>
+<guid>e4a0f2a4e6f5a3a0932736d4afe249fa96c1e659308bfa3d672831e851924a43</guid>
+<pubDate>2026-07-30T11:29:44+09:00</pubDate>
+<description>この記事では、以下を説明します。 Confluent Tableflow（AWS S3 BYOS）の Iceberg テーブルを watsonx.data から参照するための設定手順 watsonx.data の Presto エンジンで Tableflow テーブルを ...</description>
+</item>
+<item>
+<title>【Qiita】 Confluent Cloud API Key の Webコンソールでの作成方法</title>
+<link>https://qiita.com/nishikyon/items/cfd59f8ed953e6f4a2b9</link>
+<guid>0f24a1cd1ca7944128b4bd3ed99ecb4d2d2441709f65fe0082295f97d3d74eb6</guid>
+<pubDate>2026-07-30T11:23:34+09:00</pubDate>
+<description>Confluent Cloud の各種操作（Kafka へのアクセス、Schema Registry の利用など）には API Key が必要です。この記事では API Key のWebコンソールでの作成手順を説明します。 前提条件 Confluent Cloud 環境...</description>
+</item>
+<item>
+<title>【Qiita】 新しいAgora Consoleのご紹介 ─ AIアシスタントでVoice AIエージェント開発をより簡単に</title>
+<link>https://qiita.com/Agora_io/items/4b171204133a63a32241</link>
+<guid>b49695632468c797a44878a9207a42a1be447858b20f446e484916804ba855aa</guid>
+<pubDate>2026-07-30T12:47:49+09:00</pubDate>
+<description>Agora Japan Voice AIエージェント開発では、単純にAIモデルを選択するだけではなく、多くの設定や検証が必要になります。 例えば、 音声認識モデル（ASR） 大規模言語モデル（LLM） 音声合成モデル（TTS） 会話フロー設計 外部ツール連携 電話システム...</description>
+</item>
+<item>
+<title>【Qiita】 初心者でも始められる！AIエージェントフレームワーク5選【2026年版・選び方ガイド付き】</title>
+<link>https://qiita.com/agdexai/items/afb9f93dacd8de5e9d5e</link>
+<guid>038f83c8cb154046be6cecedaeaca8cb3336c35a3e956077567e1a86257fbc43</guid>
+<pubDate>2026-07-30T12:25:09+09:00</pubDate>
+<description>初心者でも始められる！AIエージェントフレームワーク5選【2026年版・選び方ガイド付き】 「AIエージェントを作りたいけど、どのフレームワークから始めればいい？」 2026年現在、AIエージェントのフレームワーク選択肢は10以上あり、初心者にとって最初の一歩が難しい状況...</description>
+</item>
+<item>
+<title>【Qiita】 Claude CodeやCursorでAPI破産しないための、実践的なトークン節約術（O(n²)問題への対策）</title>
+<link>https://qiita.com/agdexai/items/adb45f5671c197069651</link>
+<guid>b6346fea389b522c3ede53abaec5430ef4f1d18b3d620c11be20a0a781ac6a69</guid>
+<pubDate>2026-07-30T12:24:52+09:00</pubDate>
+<description>Claude CodeやCursorでAPI破産しないための、実践的なトークン節約術（O(n²)問題への対策） 個人開発や業務でClaude CodeやCursorのAgentモードを使い始めた方は多いと思います。開発速度が圧倒的に向上する一方で、気になるのがAPIの利用...</description>
+</item>
+<item>
+<title>【Qiita】 AIワークフロー自動化ツール完全比較2026：n8n vs Temporal vs Prefect vs Zapier AI</title>
+<link>https://qiita.com/agdexai/items/8e91d355c5e242fcd583</link>
+<guid>be27fb2cefa8b76631b168e338f397b36141effa263d628129d21a122f1905c2</guid>
+<pubDate>2026-07-30T12:24:36+09:00</pubDate>
+<description>AIワークフロー自動化ツール完全比較2026：n8n vs Temporal vs Prefect vs Zapier AI AIエージェントが自律的にタスクをこなす時代において、ワークフロー自動化はシステムの中核を担います。単純なcronジョブから、複雑なマルチエージェ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/crop-token-efficient-reasoning-in-large-language-models-via-regularized-prompt-optimization/</link>
-<guid>67f870ba61b9617d50d07591cf877e192d5744a0bb5162b66e9d2edbffb053fe</guid>
-<pubDate>Thu, 30 Jul 2026 00:54:18 GMT</pubDate>
+<link>https://research.google/pubs/who-is-at-risk-surveying-the-prevalence-of-risk-factors-and-tech-facilitated-attacks-in-the-united-states/</link>
+<guid>cd2fea3bbbb0ad18f4a0fc26074b191eb583fe534cc4d1427e1304830aac5b8c</guid>
+<pubDate>Thu, 30 Jul 2026 03:50:16 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>b02ca4dc9252eff0ff1627de5098355d17b1c55f8e75cc957235606a73aaf239</guid>
-<pubDate>Thu, 30 Jul 2026 00:54:25 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>98760ebbda2b8ef3485d197602a6654b425d8e5d09993a0caba630cb11fb8b16</guid>
+<pubDate>Thu, 30 Jul 2026 03:50:20 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04494-4</link>
+<guid>980433adaf325a3f0a8fc0e45ae9984db7d5beda81460198e502f38ca4649d3d</guid>
+<pubDate>Thu, 30 Jul 2026 03:50:22 GMT</pubDate>
+<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>0fe9e6f5aef0f789291296d61dc33c232fb569bdb40d52048c8f86bfb62f3f3f</guid>
+<pubDate>Thu, 30 Jul 2026 03:50:26 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>f970bd6a12796531a8bb0388da3684c30c169b4a8a08d06f0920c83cd06484ea</guid>
+<pubDate>Thu, 30 Jul 2026 03:50:36 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
