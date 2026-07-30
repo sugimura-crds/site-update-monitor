@@ -4,27 +4,48 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 30 Jul 2026 18:19:06 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 19:59:48 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 RAGって実際どんな仕組み？</title>
-<link>https://qiita.com/fujimoooon/items/a436ff4ce263d6253083</link>
-<guid>9248e69ef62de5a5d4feaf5d5eec4175788c2fe219e517a5a59d2e8445372c04</guid>
-<pubDate>2026-07-31T03:05:28+09:00</pubDate>
-<description>この記事について 📚 RAG入門シリーズ [基礎編] RAGって実際どんな仕組み？ ← いまここ [詳細編] RAGはモデルの&quot;中&quot;で何をしているのか ― hidden state と層の話 RAG（Retrieval-Augmented Generation）は...</description>
+<title>【Qiita】 【詳細編】RAGはモデルの&quot;中&quot;で何をしているのか ― hidden state と層の話</title>
+<link>https://qiita.com/fujimoooon/items/62011b091623c0f931b3</link>
+<guid>55cffa0a391d1e6d78ad1a4565a6e57fdfca6ebf649de8897981c4e90d8a5d4a</guid>
+<pubDate>2026-07-31T03:40:11+09:00</pubDate>
+<description>この記事について 📚 RAG入門シリーズ 【基礎編】 RAGって実際どんな仕組み？ 【詳細編】 RAGはモデルの&quot;中&quot;で何をしているのか ← いまここ 基礎編では、RAGを 「検索して、プロンプトに連結して、生成する」外側の仕組み として組み立てました。インデック...</description>
+</item>
+<item>
+<title>【自動自律実験】 Somatic mutations reveal the ontogeny of microglia in human aging</title>
+<link>https://www.nature.com/articles/s41586-026-10939-0</link>
+<guid>06afefaaa813cbbb9216f353110c2b536b940a7e0c22c8c898637ed0bbacf6ab</guid>
+<pubDate>2026-07-30</pubDate>
+<description>Somatic mutations reveal the ontogeny of microglia in human aging</description>
+</item>
+<item>
+<title>【自動自律実験】 Author Correction: Sleep chart of biological ageing clocks in middle and late life</title>
+<link>https://www.nature.com/articles/s41586-026-10920-x</link>
+<guid>9c8210e690a7988da3dc84b95ec5f69f7d98b79783e60eca2332ffd225d6af3d</guid>
+<pubDate>2026-07-30</pubDate>
+<description>Author Correction: Sleep chart of biological ageing clocks in middle and late life</description>
+</item>
+<item>
+<title>【自動自律実験】 Fires in Europe are breaking records: here’s what the future holds</title>
+<link>https://www.nature.com/articles/d41586-026-02361-3</link>
+<guid>63c22125c2ac520c584bcde079e4415849d207c58f25d2f9de3817e394dea67e</guid>
+<pubDate>2026-07-30</pubDate>
+<description>Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/veriguard-enhancing-llm-agent-safety-via-verified-code-generation-2/</link>
-<guid>a22b3c87eed3a767abceb97da722f4975a05400b05447c982360dd1b267d7819</guid>
-<pubDate>Thu, 30 Jul 2026 18:18:11 GMT</pubDate>
+<link>https://research.google/pubs/tight-lower-bound-for-multicolor-discrepancy/</link>
+<guid>bf83afbc9b5ed573e486414950dedbb04a3073746d1624ddd11c73c0929805b5</guid>
+<pubDate>Thu, 30 Jul 2026 19:59:09 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>2fd5074ac3c5beb681e22d7678cb4442402bd3d6004222152f7d83bb2cf48fd4</guid>
-<pubDate>Thu, 30 Jul 2026 18:18:14 GMT</pubDate>
+<guid>b0526315607dce0468bc43c0fd21d45f2c2730f1a7f7f8c796f44b586c9dff5f</guid>
+<pubDate>Thu, 30 Jul 2026 19:59:12 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
