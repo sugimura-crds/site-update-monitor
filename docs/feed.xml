@@ -4,50 +4,64 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 30 Jul 2026 15:30:19 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 17:01:02 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 n8n AI Agentを本番で止めないHuman-in-the-Loop設計</title>
-<link>https://qiita.com/YushiYamamoto/items/dc0461416dc1ea74efa0</link>
-<guid>0a1410a53a7cb110d101941ed9c4af142e3fdcb911a37bc46eaf1704a54b1b5a</guid>
-<pubDate>2026-07-30T23:07:16+09:00</pubDate>
-<description>n8n の AI Agent にツール（メール送信・レコード更新・外部API呼び出しなど）を繋ぐと、エージェントは「必要そうな操作」を自分で選んで実行できる。 便利な一方、不可逆な副作用をプロンプトだけで止めようとすると本番で壊れやすい。 この記事では、n8n 公式の H...</description>
+<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 番外編１ ]：ギミックについて</title>
+<link>https://qiita.com/OnuuuumaX/items/e6ffb18c0fd55dfc38d9</link>
+<guid>2a02990cf8542ecc9a8c487112c212b92ff32196f3d211d0b218e117fa506197</guid>
+<pubDate>2026-07-31T00:38:59+09:00</pubDate>
+<description>はじめに 脱出ゲームや探索ゲームには、ダイヤル錠・電卓・スライダーなど様々な謎解きギミックが登場します。実装を始める前に「このギミックは何で構成されているか」を整理しておくと、新しいギミックを追加するたびに一から設計し直さずに済みます。 番外編ということで、Axmol E...</description>
 </item>
 <item>
-<title>【Qiita】 AI Agent は社会規範に反していても、論理的に正しければ実行可能と判断してしまう ── 「何をしてよいか」を決める責任は、AIが賢くなるほど人間に集中する</title>
-<link>https://qiita.com/etale_cohomology/items/f358360e12a2a001a06a</link>
-<guid>975d871ea36af0614815ca224241fd0e36122554009ed8354dd9e3ede6cdb3c0</guid>
-<pubDate>2026-07-30T22:47:15+09:00</pubDate>
-<description>この記事の主題は、次の一つの問いです。 AI Agent の能力が向上する時代において、人間にはどのような役割が残るのでしょうか？ ここで言う AI Agent とは、皆様がお使いの ChatGPT や Claude のような対話型の生成 AI が単に受け答えをするだけで...</description>
+<title>【Qiita】 AI社会と社会制度の技術決定論について</title>
+<link>https://qiita.com/NOAH-tech-social/items/826faa9a2333d83fe647</link>
+<guid>fd312da666ecfef5bddcb141221f9e88bf577082b34d5067df644bd89f2dbd04</guid>
+<pubDate>2026-07-31T01:46:39+09:00</pubDate>
+<description>知的労働と肉体労働 AIによって、これまで人間が担ってきた多くの知的労働が自動化され、多くの労働者が失業するのではないかという議論が盛んになっている。 ここで、人間の労働を二つに分けて考えてみたい。 知的労働とは、多重的な意思決定を必要とする労働である。 肉体労働とは、純...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/multi-agent-design-optimizing-agents-with-better-prompts-and-topologies/</link>
-<guid>2055415cce98e11d13e6d86de9825b249b645142559f43664c9344a385ee276a</guid>
-<pubDate>Thu, 30 Jul 2026 15:29:33 GMT</pubDate>
+<link>https://research.google/pubs/beyond-pii-how-users-perceive-and-attempt-to-mitigate-implicit-llm-inference/</link>
+<guid>6e13a90c5547b4e0bbad79fbfd6567a2f803e5134414cebe7753239375040960</guid>
+<pubDate>Thu, 30 Jul 2026 17:00:13 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>899fb5a0f2a6394fc79d35ce5d45e522a5248d1fe3948a5c898dc8c79ae61333</guid>
-<pubDate>Thu, 30 Jul 2026 15:29:36 GMT</pubDate>
+<guid>ec35094cef4eae0b5e4a620a9f864989b7999ca90c0c7190539b43ac29bda770</guid>
+<pubDate>Thu, 30 Jul 2026 17:00:16 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04494-4</link>
-<guid>ab3d564af10c82e5b39b54a3ac21d6049a5b0c26e879e684a24203e09cd0dd6c</guid>
-<pubDate>Thu, 30 Jul 2026 15:29:38 GMT</pubDate>
-<description>Multidisciplinary tumor boards integrate longitudinal treatment histories, molecular profiling and rapidly evolving evidence to guide decisions in hematological malignancies, yet access to this level of subspecialty deliberation is increasingly uneven. Here we develop HemaGuide, a locally deployable, modular large language model agent that converts unstructured clinical documents into structured case representations, autonomously routes cases to specialized decision modes (‘guideline’, ‘advanced’ and ‘molecular’) and grounds recommendations in disease-specific guideline flowcharts and a clinical decision memory of &amp;gt;2,000 real-world tumor board cases. In expert-blinded benchmarking on 45 high-complexity cases across six foundation models, HemaGuide substantially improved concordance with tumor board decisions. A systematic ablation study across 11 layers confirmed that performance gains were routing-type-dependent, with no single component sufficient across case types. Automated classification of 70 clinically relevant missense variants showed high concordance with expert standards; no oncogenic variant was downgraded to benign and the whole workflow was completed under real-time</description>
+<link>https://www.nature.com/articles/s41598-026-60531-9</link>
+<guid>fb1269dbd64a5f2a166c446e30131f4fd67c9f0d4b0e239332ac7a6ae70b9bb2</guid>
+<pubDate>Thu, 30 Jul 2026 17:00:19 GMT</pubDate>
+<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>362e1fdee2b5648843bbddcd86d92c7e0de53a722afeed614796dba54e8798eb</guid>
-<pubDate>Thu, 30 Jul 2026 15:29:57 GMT</pubDate>
+<guid>374b3074d972a710b8c39c4c25e688446dafade9a6079b51f323ddaba6ed6673</guid>
+<pubDate>Thu, 30 Jul 2026 17:00:39 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>831505d792b68c946624ceb1840ee7406cea888e791e1008b54d11cb943c2cd0</guid>
+<pubDate>Thu, 30 Jul 2026 17:00:40 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+</item>
+<item>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>6297c30aa277ca76afbd913ce190e81255e114f20594870085619aa070de63b9</guid>
+<pubDate>Thu, 30 Jul 2026 17:00:46 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
