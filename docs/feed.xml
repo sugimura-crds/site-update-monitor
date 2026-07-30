@@ -4,62 +4,62 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 30 Jul 2026 06:20:24 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 09:11:06 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 OCI Generative AI Agents Service で既存 DB を活用したRAGツールを構築する【後編：RAGツール構築】</title>
-<link>https://qiita.com/TatsukiHikida/items/aa79394c4ba06010624f</link>
-<guid>390762446a8d8cd70e33a02083e89ba26f5ec3dd10e9d4b320ddbda5fe2df7d0</guid>
-<pubDate>2026-07-30T14:13:44+09:00</pubDate>
-<description>はじめに 本記事は2026年4月時点の情報をもとに作成しています。 記事公開後の仕様変更や更新により、記事の内容と参考URL先の情報が異なる場合があります。 作業を実施する際は、必ず最新の公式ドキュメントや参考情報をご確認ください。 本稿は、後編となります。↓前編...</description>
+<title>【Qiita】 CLAUDE.md は21セクションか、8行か — 公式ドキュメントで決着をつけた</title>
+<link>https://qiita.com/jqit_suwa/items/cea574550613de33a114?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>2a822eda194e27fffa5ab1b409296c36e52e3efd3c6aa802a5f8351718d8bbca</guid>
+<pubDate>2026-07-30T09:47:06+09:00</pubDate>
+<description>CLAUDE.md の書き方を調べていたら、正反対の主張に行き当たりました。 A「20項目以上のテンプレートを用意して、役割・規約・テスト戦略・セキュリティまで網羅すべき」 B「8行で十分。増やすより削るほうが効く」 どちらも自信を持って書かれています。両方試したう...</description>
 </item>
 <item>
-<title>【Qiita】 OCI Generative AI Agents Service で既存 DB を活用したRAGツールを構築する【前編：環境準備】</title>
-<link>https://qiita.com/TatsukiHikida/items/21b4e0cf46fa817108eb</link>
-<guid>4619a2dbab3ba2365ec5c5d478289dde62f0de297b92d684b7d4180255c45808</guid>
-<pubDate>2026-07-30T14:13:19+09:00</pubDate>
-<description>はじめに 本稿は2026年4月時点の情報をもとに作成しています。 記事公開後の仕様変更や更新により、記事の内容と参考URL先の情報が異なる場合があります。 作業を実施する際は、必ず最新の公式ドキュメントや参考情報をご確認ください。 近年、生成AIを業務システムや社...</description>
+<title>【Qiita】 オーダーメイドで九九の計算プリントを作ろう（ローテクAI）</title>
+<link>https://qiita.com/Kaitou/items/33e9a09af8ea5bdeebeb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f79706ad1411a54cb9c3f79df28a0684ee8a7f6c1dfffd8aea2d86702c93dd3c</guid>
+<pubDate>2026-07-29T20:27:10+09:00</pubDate>
+<description>夏休み中で小学生が家に居るおとうさん、おかあさん。 暑い中でなかなか外では遊べませんが、動画視聴やゲームばかりというのも気になります。 せっかくの機会なので、お子さんの苦手分野のプリントを作って、クイズ的に一緒にやってみませんか？ Geminiでこんなプロンプトを入力すると...</description>
 </item>
 <item>
-<title>【Qiita】 【AI駆動開発 11】MCPで連携させる — 「自分でやった方が早い」は張り付き前提の話</title>
-<link>https://qiita.com/kawamon-idealive/items/a9b7fdbf53bc21a6f1e5</link>
-<guid>76cae93766b1f079501f0f3f31461b8e280001daf734d60490782ae0ddbac47e</guid>
-<pubDate>2026-07-30T15:12:18+09:00</pubDate>
-<description>よくある反応：「タスク管理ツールの内容なんて自分で見てコピペした方が早いよ」「わざわざMCP連携するほどのことじゃない」 こうする AIに何か頼むとき・頼まれごとの往復が発生したとき、「これ、MCPでできないのか？」と常に問う。 MCP（Model Contex...</description>
+<title>【Qiita】 Claude Code「/config」設定の教科書 ― 全42項目を1つずつ解説＋おすすめ設定（v2.1.220対応）</title>
+<link>https://qiita.com/f_uto/items/438336db3684cf662321?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>5c8286dd67cc0087e944cbc1aa752154429800ada0db4cfc00aa6fa82319ed9c</guid>
+<pubDate>2026-07-27T22:21:33+09:00</pubDate>
+<description>Claude Code で /config と打ったことはありますか。 ずらりと並ぶ42個のトグル。ほとんどの人が Theme と Language だけ変えて、あとは既定値のまま閉じています。もったいない。この画面は「Claude Code をどう働かせるか」を決めるコ...</description>
 </item>
 <item>
-<title>【Qiita】 【AI駆動開発 10】人間判断だけエスカレーションさせる — 技術はAIに詰めさせる</title>
-<link>https://qiita.com/kawamon-idealive/items/1ae4ef4129e3c82f45c2</link>
-<guid>c6b8f11c74e04af8f05dec367b0ba31ffbd0874f47f9f7f37204f03fdcb888bc</guid>
-<pubDate>2026-07-30T15:12:11+09:00</pubDate>
-<description>よくある状態：技術選定も実装方針も全部自分で決めてからAIに「作業」だけさせる。あるいは逆に、全部任せて仕様まで勝手に決められて事故る。 こうする 役割分担をはっきりさせる。 技術の詰めはAIがやる——実装方式、ライブラリの使い方、データ構造、アルゴリズム。...</description>
+<title>【Qiita】 どう頼むかがAIの成果を決める ― 丸投げしないAI協業の「発注の型」</title>
+<link>https://qiita.com/sh-fukaya/items/c1d6c7b0281e8e8afe5c</link>
+<guid>402870ec6ac42495d5305ea5f751429a09bc37d9833f1809bc3f51cfe16475db</guid>
+<pubDate>2026-07-30T18:09:02+09:00</pubDate>
+<description>背景 AIに調査やドキュメント作成を任せると、たしかに速い。でも、出てきた成果物を見て「なんか違う…」となって、結局イチから直した経験はないでしょうか。 これは実案件で「複数の案から1つを選ぶ調査レポート」をAIに作ってもらったときに、私自身がぶつかった壁でした。試行錯...</description>
 </item>
 <item>
-<title>【Qiita】 【AI駆動開発 9】多重レビューを回す — 遅く見えて、結果は速い</title>
-<link>https://qiita.com/kawamon-idealive/items/d7579c9ef0634bb5a438</link>
-<guid>0c27e80cff229f8d0e51647b33235e26074b2414925b17ffd5d0f494d4e86aef</guid>
-<pubDate>2026-07-30T15:12:03+09:00</pubDate>
-<description>よくある反応：「AIのレビューを何段も挟むの？ サイクルが遅くなるじゃん」 こうする 人間がレビューする前に、AIによるレビューを重ねる。 実装AIの自己チェック——受け入れ条件との突き合わせ フレッシュなAIのレビュー——実装の文脈を知らないサブエージェ...</description>
+<title>【Qiita】 AI駆動したいのにコンテキストファイルがうまく作れない？それなら一緒に書けばいいんじゃない？</title>
+<link>https://qiita.com/torafukuro/items/cf220f5666a559566a0e</link>
+<guid>350d6e472304dfd9b5b5651fd8add667cfba378689d71f2907c807e35a177862</guid>
+<pubDate>2026-07-30T16:13:21+09:00</pubDate>
+<description>本日のメニューはこちら CLAUDE.mdやAGENTS.mdのようなAI向けのガイドドキュメント（コンテキストファイル） を書くときに うまく内容をまとめることができない 一生懸命書いたけど、いざ動かしてみたら精度がビミョーだった そんな経験はありませんか？ 今...</description>
 </item>
 <item>
-<title>【Qiita】 【AI駆動開発 8】サブエージェントに委譲する — メインの頭をパンパンにしない</title>
-<link>https://qiita.com/kawamon-idealive/items/a2530f54b6d27b832d0c</link>
-<guid>9e82800c0021e18616d6347c68304b04b67ea6a312bce7a874c3498ce1a2b282</guid>
-<pubDate>2026-07-30T15:11:56+09:00</pubDate>
-<description>よくある状態：1つのAIセッションに調査も実装もレビューも全部やらせて、長くなるほど返答の精度が落ちていく。 「手離れ」には2層あります。人間がAIから手を離す（軸B全体のテーマ）と、メインのAIが実作業から手を離す（この記事）。この記事は後者——メインエージェン...</description>
+<title>【Qiita】 【CyberGym 95.95%】自社サイバーモデルを持たなかったMicrosoftが、実効5BでMythosに+12点をつけた仕組み</title>
+<link>https://qiita.com/emi_ndk/items/8d900844abeaafd2762c</link>
+<guid>09d54998338f3a93b1b620ffd431c9cd6b04493d716ea22ec5701fdb581b9d58</guid>
+<pubDate>2026-07-30T16:11:47+09:00</pubDate>
+<description>7月24日、業界は「AIエージェントが封じ込めを突破する」ニュースで揺れていた。OpenAIの内部サイバーエージェントが隔離環境を抜け出し、ゼロデイでHugging Faceを攻撃した件だ。エージェントに実行権限を渡すことの危うさが、これ以上ないほど生々しく可視化された週だ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/aase-activation-based-ai-safety-enforcement-via-lightweight-probes/</link>
-<guid>076deba62e54822ceaaa8459d66e8fc0a7548f88feac0508dc368eff0b738bc4</guid>
-<pubDate>Thu, 30 Jul 2026 06:19:46 GMT</pubDate>
+<link>https://research.google/pubs/beyond-pii-how-users-perceive-and-attempt-to-mitigate-implicit-llm-inference/</link>
+<guid>cf707d1fbbbee76718b93b81b08e8229d36e4fd988d69486dcf72bd01d570c5b</guid>
+<pubDate>Thu, 30 Jul 2026 09:10:00 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>a276d0b7405e028c96a46c3317e1c986531af7adb223ddc223a12cecac1cb2cc</guid>
-<pubDate>Thu, 30 Jul 2026 06:19:48 GMT</pubDate>
+<guid>834c9af64290a98eb5fcb7ed3f31c2239a29622b1f48976499605ab1c90fbb99</guid>
+<pubDate>Thu, 30 Jul 2026 09:10:03 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
