@@ -4,92 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 31 Jul 2026 08:15:08 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 11:04:31 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「アーキテクチャ」って結局何？ITパスポートのEAを調べてみた</title>
-<link>https://qiita.com/prumnn/items/da1cd811a3a7408472d2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>a8002de026ea61b64ec9638e694bd3e6d95950258ed10627930bdd2d04447562</guid>
-<pubDate>2026-07-31T14:20:25+09:00</pubDate>
-<description>はじめに 本屋の技術書コーナーでよく見かける「〇〇アーキテクチャ」というタイトルの本。なんとなくスルーしていたぷらむんが、ITパスポートの勉強中についに「アーキテクチャ」の文字に出会って、調べずにいられなくなった話です。 こんにちわ、会社で自称マスコットキャラをや...</description>
+<title>【Qiita】 New Relic Autopilot (旧SRE Agent) によるSlack通知ワークフローをTerraformで構築する</title>
+<link>https://qiita.com/nr-mito/items/96c0ad26943673114161</link>
+<guid>85a5063870afe6f8e8b8a7312cca5e09e67abb499eb15ef41dd9eb505302e345</guid>
+<pubDate>2026-07-31T18:47:50+09:00</pubDate>
+<description>New Relic Autopilot（旧SRE Agent）を利用したアラートの自動原因分析・Slack通知連携が非常に注目を集めています！！ GUIから設定するだけでもすぐにAIOpsの第一歩を踏み出せる素晴らしい機能ですが、運用管理のプラクティスを考慮すると「Terr...</description>
 </item>
 <item>
-<title>【Qiita】 AIの限界は頭脳ではなく、電気と冷却にあった【宇宙のデーターセンターって何？】</title>
-<link>https://qiita.com/sumomoo/items/8bbe719ed4de1a36def9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>592096cd0f83b9cefe4c58968034e4133548381f7de2c6ae982369ce395c9d15</guid>
-<pubDate>2026-07-31T14:21:40+09:00</pubDate>
-<description>はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です 日々、プログラミング学習や実務の中で、つまずきやすいポイントや 考え方を整理して発信しています。 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。 ▶コーポレートサイト はじめに ...</description>
+<title>【Qiita】 AI Agent使用感</title>
+<link>https://qiita.com/akeyi2018/items/5b396fd1977af95a0a2b</link>
+<guid>81edcec5075980f29ff67fde0992f15513bef93dc9ba06d13e91c1019178d126</guid>
+<pubDate>2026-07-31T18:31:57+09:00</pubDate>
+<description>導入したツール OpenCode for VS Code Agent: Github Copilot Model: MAI-Code-1-Flash 以下が開発したアプリのメモ（メモ自身もAgentによる生成） Flask Todo アプリ開発メモ 1. 実施内...</description>
 </item>
 <item>
-<title>【Qiita】 コードベースのナレッジ化なら、LLM Wikiで十分かもしれない</title>
-<link>https://qiita.com/Syoitu/items/ff38655fed51a2920910?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>93b59c87c5c8060d688428ca9e6f2cd33a997b130a826b2481f1b857fe7a21e0</guid>
-<pubDate>2026-07-30T15:24:02+09:00</pubDate>
-<description>前書き コーディングエージェントに改修を依頼するたびに、「この修正はどこまで影響するんだろう」と、同じ調査を何度もやり直させた経験はないでしょうか 社内の仕様書や設計ドキュメントをベクトルDBに入れて、エージェントに検索させる構成を組んでいる方も多いと思います。 ドキュメ...</description>
-</item>
-<item>
-<title>【Qiita】 (QA) Bob プレミアムパッケージ for i の前提条件は？</title>
-<link>https://qiita.com/gomAnomalocaris/items/d1d0816e9ef56a0afd48</link>
-<guid>a9034479b936617006bf55fc3c9710593aab34b6a52730d4a431e29dd8adeec3</guid>
-<pubDate>2026-07-31T15:51:30+09:00</pubDate>
-<description>上記ご質問です。 IBM Bob Premium Package for i前提条件 マニュアルページの記載はこちら IBM i の要件 Code for IBM i を使って IBM i に接続するには、以下の要件を満たす必要があります： IBM i 7.4 以...</description>
-</item>
-<item>
-<title>【Qiita】 【AI駆動開発 12】実例：全部つなげると、こうなる</title>
-<link>https://qiita.com/kawamon-idealive/items/429a3c6a42c3eb82f69d</link>
-<guid>6f84ced697672fce90d224deec2ab20adb63285b99cd6693d6fc47811641765f</guid>
-<pubDate>2026-07-31T16:14:51+09:00</pubDate>
-<description>ここまでの11本は「考え方」でした。この記事は、それを実案件で1本のループに配線した一例です。 これが正解の形ではありません。案件・チーム・顧客が違えば正解の形も違う——ただ「つなげるとこう回る」という実物が1つあると、自分の案件での組み方を考えやすいはずです。 ...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェント設計の現在地 — Prompt → Context → Harness → Loop → Graph Engineering</title>
-<link>https://qiita.com/hidetarou2013@github/items/c2c384d1e74a55a000af</link>
-<guid>4e1705081e8aecb0de06c5a9d622f2fb0da60fd3d0d20f69065a1f72a651cd0a</guid>
-<pubDate>2026-07-31T16:12:37+09:00</pubDate>
-<description>はじめに 2026年7月現在、AIエージェント開発の話題を追っていると、次のような言葉の連鎖をよく目にします。 Prompt Engineering → Context Engineering → Harness Engineering → Loop Engineerin...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントを作って終わりにしない ── 個人の効率化から組織の成果へつなげる設計思想</title>
-<link>https://qiita.com/AyakoKawasaki/items/c6b120ac064ebc7b516f</link>
-<guid>0fc8dc13800bcf23860746b9fe60095985093e94e72ead7e5c8e34074f97b99d</guid>
-<pubDate>2026-07-31T14:58:34+09:00</pubDate>
-<description>「AIエージェントを作って業務を効率化しよう」 AI導入の議論は、たいていこの一言から始まります。 議事録を要約するエージェント、 問い合わせに答えるエージェント、 チケットを自動起票するエージェント。 作ってみると、たしかに動く。 便利です。デモも盛り上がります。 ただ...</description>
-</item>
-<item>
-<title>【Qiita】 75.0%が91.8%に。報酬もラベルも教師モデルも足さず、エージェントが「後知恵」で自分を蒸留するSEED</title>
-<link>https://qiita.com/emi_ndk/items/d3b3181c918678f5b915</link>
-<guid>e2aff9231686a7356f3a28b09cd5b0717fa89c85d4f4a60b9fffe773a518eacd</guid>
-<pubDate>2026-07-31T16:06:43+09:00</pubDate>
-<description>わずか3Bパラメータのモデルが、家事タスクベンチマークALFWorldで平均成功率 91.8% を記録した。同一条件のGRPOは 75.0%。差は16.8ポイントである。 しかも、報酬関数は1行も書き足していない。プロセス報酬モデル(PRM)用の追加ラベルもなければ、蒸留元...</description>
+<title>【Qiita】 C#でAIエージェント駆動のスマート文書処理を統合する：Spire.Agent.Office</title>
+<link>https://qiita.com/iceblue/items/bc72e62f70c1929c6c83</link>
+<guid>ac919dc669410c3ce8d6f49e9946877060291bec955b0de1afb7b95b46d623c7</guid>
+<pubDate>2026-07-31T19:33:43+09:00</pubDate>
+<description>企業の日常業務には、文書処理が欠かせません。契約書の重要条項の確認とハイライト、売上レポートのデータ整理、仕入先から届く請求書に含まれる表データの抽出、四半期ごとの決算報告スライドの作成――こうした作業は、これまで人手で行うか、文書フォーマットごとに専用の自動化コードを書く...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/system-for-validating-medical-software-algorithms-with-closed-loop-adversarial-persona-generation/</link>
-<guid>b3e6de104b6e0147974886ab51b49a3cf74522e22e40c081a24ece7dd49f13dc</guid>
-<pubDate>Fri, 31 Jul 2026 08:14:32 GMT</pubDate>
+<link>https://research.google/pubs/towards-a-human-in-the-loop-framework-for-reliable-patch-evaluation-using-an-llm-as-a-judge/</link>
+<guid>89f590f756bc3d7937fa2d8facaef33bdc295aad0a0ad16bf8089f91b02474b0</guid>
+<pubDate>Fri, 31 Jul 2026 11:03:32 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>c072c5b848947f921301bc5dcd54882ed6932f4b441f1a5335ddcfb887a05509</guid>
+<pubDate>Fri, 31 Jul 2026 11:03:33 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overall shape class. read more read more read more read more read more read more Sakana AIと有限責任あずさ監査法人は、コーヒー業界のサプライチェーンを舞台にLLMエージェントの長期的な経営能力を評価する「CoffeeBench」を開発。シミュレーション実験では、最新モデル間でも経営成績に大きな差があり、長期タスク特有のモデルの特性が観察された。 read more Sakana AI Releases ‘Fugu Ultra’ to Match Frontier Performance via Autonomous Model Orchestra</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>f7d0bff7540dbcb56271d46ab128f93fccd234bd8d077f2412bc4bd8477e47d8</guid>
-<pubDate>Fri, 31 Jul 2026 08:14:34 GMT</pubDate>
+<guid>eb6b4063b1571eda2a784b7517207ccd466951aeb29b8de5cc256b6de3313579</guid>
+<pubDate>Fri, 31 Jul 2026 11:03:35 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02994-8</link>
-<guid>f07f2e70eda0c885bc8d34397917df44b875342431ab4559f767b79dd35b1e98</guid>
-<pubDate>Fri, 31 Jul 2026 08:14:38 GMT</pubDate>
-<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>afa1e4fe3faffc143bcdda8134294dbba62cd9f78daa742f9b6399983985709f</guid>
+<pubDate>Fri, 31 Jul 2026 11:03:38 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>a7226340f9149b4da70b89676dc54c122bc8d32ef6582a788deaaf376b72ec2a</guid>
-<pubDate>Fri, 31 Jul 2026 08:14:49 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>b73dc236a8c6e318f60b31fbe179a5e9b908bf10f81de99f67c4b2fb30f08546</guid>
+<pubDate>Fri, 31 Jul 2026 11:04:20 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
