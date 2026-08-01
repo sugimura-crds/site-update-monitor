@@ -4,77 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 01 Aug 2026 05:19:19 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 07:40:53 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【YAMAHAルーター】RTX1300を2台でHA構成。VRRPの基本から（1回目）</title>
-<link>https://qiita.com/Heizo_Hasegawa/items/8ea5d459681f7f7ac2a2</link>
-<guid>54c16f1b0713818c8ace93c39dca3ac0c445a9d0371c93c0a48424db47506052</guid>
-<pubDate>2026-08-01T11:38:21+09:00</pubDate>
-<description>はじめに 最近、もんじゃが美味しい街での技術勉強会に呼ばれることが増えてきました。 若手エンジニアさん達が物理サーバの蓋を開けて、おそるおそるメモリやライザーカードを挿してる姿を見ると色々と教えられるものがありますね。初心忘れるべからず。 さて、サーバ側でどれだけHA組も...</description>
+<title>【Qiita】 AIエージェントはITILをどう変えるのか サービスカタログとCMDBの進化論</title>
+<link>https://qiita.com/lufraisjp/items/4dda8e1c99e8296656b1</link>
+<guid>9ee2f80eb49feba93abeafe48bde4f678fd69fd14a25e7f0f82c9864439b205a</guid>
+<pubDate>2026-08-01T15:38:11+09:00</pubDate>
+<description>AIエージェント時代のITILサービスデザイン サービスカタログは「人向け」から「人とAI向け」へ進化する CopilotやAgentic AI、MCP（Model Context Protocol）などの登場により、ITサービスの利用形態は大きく変わろうとしています。...</description>
 </item>
 <item>
-<title>【Qiita】 MCP 2026-07-28対応のMCPサーバーをTypeScript SDK v2で作ってみた（実装編）</title>
-<link>https://qiita.com/Xim2jp/items/545056ce2ed716df1d54</link>
-<guid>a272e0b6b6290db5820802a0c47dabe0557095848dbf3d43763b1a0b91cb808e</guid>
-<pubDate>2026-08-01T13:56:50+09:00</pubDate>
-<description>MCP 2026-07-28対応のMCPサーバーをTypeScript SDK v2で作ってみた（実装編） 前回の記事でMCP 2026-07-28の仕様変更を整理しました。今回はその後編で、TypeScript SDK v2を使って実際に動くMCPサーバーを1本作ります...</description>
+<title>【Qiita】 7/26、今日のセキュリティニュース 23</title>
+<link>https://qiita.com/Kerdy/items/8bb8481ef78dc6d0ba9c</link>
+<guid>f05f7fa2345805132b97ba62ac1bc9b756bb13ab8e1377e8ae55523aba2b2452</guid>
+<pubDate>2026-08-01T15:33:51+09:00</pubDate>
+<description>おはようございます、かーでぃです。 本記事は、様々なネットニュースサイトからセキュリティ記事を集めて提供している”セキュリティ関連ニュースRSS”から、気になったニュースをピックアップして紹介しています。 情シスさんやサイバーセキュリティを担当されている方、逆に私のようにセ...</description>
 </item>
 <item>
-<title>【Qiita】 【実測】freee公式MCPは `FREEE_SCOPE=read` では読み取り専用にならない──AIに会計の「書き込み」を許す前の線引き</title>
-<link>https://qiita.com/mamagotolab/items/a482fb1c5e2ddfaa58e3</link>
-<guid>fbf02bda4a321574efe639993d032ddbbc74158a94ef627449f38230134f84bd</guid>
-<pubDate>2026-08-01T13:21:02+09:00</pubDate>
-<description>「先月の売上を教えて」とAIに聞ける。ここまでは、たぶん誰も反対しません。 では、「その請求書、作っといて」まで任せますか。 2026年、会計データにAIを直結する仕組みが一気に実用段階に入りました。日本ではfreeeが公式MCPサーバーを出し、海外では会計プラットフォーム...</description>
+<title>【Qiita】 【ArcAsha-OS】スマホ分散AIの適応型ルーティングで発生した「能力逆転現象」を Confidence-Aware Bayesian で解消した話</title>
+<link>https://qiita.com/ryotani3/items/0253a95076983317fc7f</link>
+<guid>5d4f23123bc411c1bc6e9aca6d740e0a09154ebba792ec57c92601d3daaedf51</guid>
+<pubDate>2026-08-01T15:31:32+09:00</pubDate>
+<description>はじめに スマホ分散AI基盤「ArcAsha-OS」の開発では、プロンプトの性質（数学・コーディングなど）に応じて最適な端末ノード（Expert）へ処理を割り当てる Adaptive Router（適応型ルーター） を検証しています。 前回は「FP32とFP16の丸め誤差...</description>
 </item>
 <item>
-<title>【Qiita】 【Cursor活用】cursor-agent worker start という魔法【ブラウザ操作】</title>
-<link>https://qiita.com/pianopia/items/f6781ede397d02209c7e</link>
-<guid>b659b7fac8ce8665333ef7f044905ccfbe7cf9735ffcb48396590a877782e36c</guid>
-<pubDate>2026-08-01T11:44:53+09:00</pubDate>
-<description>cursor-agent worker start という魔法 コマンドを１つ起動しておくだけで、スマホのWebからPC・ブラウザを操作できます。 ※ Cursorのアカウントが必要です 1. インストールとログイン $ npm install -g cursor-ag...</description>
-</item>
-<item>
-<title>【Qiita】 「ペルソナ責任」と関心シード検出による自律モードチェンジパターン</title>
-<link>https://qiita.com/EasyCording/items/273be79b12458bfe1904</link>
-<guid>cde1216899cdd8b270e4eb1fda22529d84c360848b149500938415eac5ea06d3</guid>
-<pubDate>2026-08-01T11:10:35+09:00</pubDate>
-<description>1. はじめに：LLM自動生成における共通の病 LLM（大規模言語モデル）や各種AIエージェントを用いたコンテンツ自動生成システムを構築する際、多くのエンジニアが直面するのが**「無難だが無意味なコンテンツの量産」**という課題です。 従来のRAG（検索拡張生成）や過去ロ...</description>
+<title>【Qiita】 AIのアウトプットをそのまま出すだけの人にならないために</title>
+<link>https://qiita.com/ktdatascience/items/8d2dace07c9c7a9d0453</link>
+<guid>c0d4a7632260d21c913cfb238889ecb0e352407d6c80e57509e532be8adf3c3d</guid>
+<pubDate>2026-08-01T15:25:03+09:00</pubDate>
+<description>はじめに 自分はエンジニアとして4年です。いまは Claude Code と Codex を毎日並列で走らせて仕事をしています。 この記事は、仕事のかなりの部分をエージェントに渡してみて痛感した「それでも人間に残る仕事は何か」を、自分の失敗込みで整理したポエムです。あなた...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/moxart-audio-visual-object-guided-sound-interaction-for-xr/</link>
-<guid>91ae6dbfbb7105e37c084928379a4b6f4ad06ef6df15ef417f1521b7898125a0</guid>
-<pubDate>Sat, 01 Aug 2026 05:18:42 GMT</pubDate>
+<link>https://research.google/pubs/adversarial-attacks-on-multimodal-large-language-models-a-comprehensive-survey/</link>
+<guid>2f51a5b9f7aab009c5f105ab152a0b615830eacc223e613c8f13486dd6c7afbe</guid>
+<pubDate>Sat, 01 Aug 2026 07:40:18 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>93bbd527301e9a49db678d92d6d9b2f80a91ee5be2aa68b0e3d50ca3e9861da8</guid>
-<pubDate>Sat, 01 Aug 2026 05:18:46 GMT</pubDate>
+<guid>a9e7a28f292bee0af49167f0a6dabddc21601295cdf71e704e33265b2f02b6f4</guid>
+<pubDate>Sat, 01 Aug 2026 07:40:20 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>e6ada72d852a0d470b671fb8fc4891ac6aaa36f941a2b8c79b5aaba7f18de982</guid>
-<pubDate>Sat, 01 Aug 2026 05:18:48 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>600e254966f37c087a4e469aa1c6c79bcd88569bcefa7028e1f57f928a72bc4f</guid>
-<pubDate>Sat, 01 Aug 2026 05:18:49 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>e7b81f41527732e24d17b91a810a976e9d39acd2fa11842833d968571317de6c</guid>
-<pubDate>Sat, 01 Aug 2026 05:18:52 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>f84bd3ab4f77a27a4e063a433aa3c8ebe027f2b5c3b1d7d8766eaf18c0425955</guid>
+<pubDate>Sat, 01 Aug 2026 07:40:34 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
