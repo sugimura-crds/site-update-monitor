@@ -4,49 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 01 Aug 2026 01:55:02 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 05:19:19 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AI for Science を成功させるにはフュージョン開発が必要だ</title>
-<link>https://qiita.com/hisaho/items/c2846ce30a38a1b76f9c</link>
-<guid>4dc48b5b054931140278f4e62ce0a62b39066c8001c33288c33c688c886a25bd</guid>
-<pubDate>2026-08-01T09:06:27+09:00</pubDate>
-<description>DX で生まれた「業務 × 技術 × 基盤」の設計を、科学研究へ移植する AI for Science に取り組もうとすると、多くの研究者は最初にモデルを探す。 この課題には Transformer が使えるか GNN とベイズ最適化のどちらがよいか 生成 AI や A...</description>
+<title>【Qiita】 【YAMAHAルーター】RTX1300を2台でHA構成。VRRPの基本から（1回目）</title>
+<link>https://qiita.com/Heizo_Hasegawa/items/8ea5d459681f7f7ac2a2</link>
+<guid>54c16f1b0713818c8ace93c39dca3ac0c445a9d0371c93c0a48424db47506052</guid>
+<pubDate>2026-08-01T11:38:21+09:00</pubDate>
+<description>はじめに 最近、もんじゃが美味しい街での技術勉強会に呼ばれることが増えてきました。 若手エンジニアさん達が物理サーバの蓋を開けて、おそるおそるメモリやライザーカードを挿してる姿を見ると色々と教えられるものがありますね。初心忘れるべからず。 さて、サーバ側でどれだけHA組も...</description>
 </item>
 <item>
-<title>【Qiita】 /speckit.next という発想</title>
-<link>https://qiita.com/htcd/items/ec76f2b7194be3297b93</link>
-<guid>695dc3879d1fa2f62d739a44cc6075728cbaf8914f989042e5a368735fbe8715</guid>
-<pubDate>2026-08-01T10:06:35+09:00</pubDate>
-<description>GxP Groupで2026年夏季リレーブログ企画をスタートすることになりました。 1日目を担当する土田です。 2日目は8/4予定です。一覧は グロースエクスパートナーズ株式会社 記事一覧 からどうぞ。 /speckit.next という発想 遅ればせながらspe...</description>
+<title>【Qiita】 MCP 2026-07-28対応のMCPサーバーをTypeScript SDK v2で作ってみた（実装編）</title>
+<link>https://qiita.com/Xim2jp/items/545056ce2ed716df1d54</link>
+<guid>a272e0b6b6290db5820802a0c47dabe0557095848dbf3d43763b1a0b91cb808e</guid>
+<pubDate>2026-08-01T13:56:50+09:00</pubDate>
+<description>MCP 2026-07-28対応のMCPサーバーをTypeScript SDK v2で作ってみた（実装編） 前回の記事でMCP 2026-07-28の仕様変更を整理しました。今回はその後編で、TypeScript SDK v2を使って実際に動くMCPサーバーを1本作ります...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Opus 5から読む、生成AI競争の次のステージ──性能競争から「コスト・信頼性・運用設計」へ</title>
-<link>https://qiita.com/mhamadajp/items/1ded79a46c857cb45174</link>
-<guid>b001f4b48cd607cac60115082c657ae626e009ca8e35380eaaa48552f3d48532</guid>
-<pubDate>2026-08-01T09:24:56+09:00</pubDate>
-<description>2026年後半の生成AI市場を読むとき、注目すべきなのは「どのモデルが一番賢いか」だけではない。 Anthropicが2026年7月24日に公開したClaude Opus 5は、コーディングやエージェント的な作業の性能向上とともに、努力量の選択、速度、率直さ、安全性を前面に...</description>
+<title>【Qiita】 【実測】freee公式MCPは `FREEE_SCOPE=read` では読み取り専用にならない──AIに会計の「書き込み」を許す前の線引き</title>
+<link>https://qiita.com/mamagotolab/items/a482fb1c5e2ddfaa58e3</link>
+<guid>fbf02bda4a321574efe639993d032ddbbc74158a94ef627449f38230134f84bd</guid>
+<pubDate>2026-08-01T13:21:02+09:00</pubDate>
+<description>「先月の売上を教えて」とAIに聞ける。ここまでは、たぶん誰も反対しません。 では、「その請求書、作っといて」まで任せますか。 2026年、会計データにAIを直結する仕組みが一気に実用段階に入りました。日本ではfreeeが公式MCPサーバーを出し、海外では会計プラットフォーム...</description>
+</item>
+<item>
+<title>【Qiita】 【Cursor活用】cursor-agent worker start という魔法【ブラウザ操作】</title>
+<link>https://qiita.com/pianopia/items/f6781ede397d02209c7e</link>
+<guid>b659b7fac8ce8665333ef7f044905ccfbe7cf9735ffcb48396590a877782e36c</guid>
+<pubDate>2026-08-01T11:44:53+09:00</pubDate>
+<description>cursor-agent worker start という魔法 コマンドを１つ起動しておくだけで、スマホのWebからPC・ブラウザを操作できます。 ※ Cursorのアカウントが必要です 1. インストールとログイン $ npm install -g cursor-ag...</description>
+</item>
+<item>
+<title>【Qiita】 「ペルソナ責任」と関心シード検出による自律モードチェンジパターン</title>
+<link>https://qiita.com/EasyCording/items/273be79b12458bfe1904</link>
+<guid>cde1216899cdd8b270e4eb1fda22529d84c360848b149500938415eac5ea06d3</guid>
+<pubDate>2026-08-01T11:10:35+09:00</pubDate>
+<description>1. はじめに：LLM自動生成における共通の病 LLM（大規模言語モデル）や各種AIエージェントを用いたコンテンツ自動生成システムを構築する際、多くのエンジニアが直面するのが**「無難だが無意味なコンテンツの量産」**という課題です。 従来のRAG（検索拡張生成）や過去ロ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/what-does-your-wearable-know-about-the-festive-season/</link>
-<guid>4ad8e4a229b4d76c9c38f54f8c00790b087762de4cfd27eb598fe9490fc2667b</guid>
-<pubDate>Sat, 01 Aug 2026 01:53:53 GMT</pubDate>
+<link>https://research.google/pubs/moxart-audio-visual-object-guided-sound-interaction-for-xr/</link>
+<guid>91ae6dbfbb7105e37c084928379a4b6f4ad06ef6df15ef417f1521b7898125a0</guid>
+<pubDate>Sat, 01 Aug 2026 05:18:42 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02994-8</link>
-<guid>ef10f9fec08792d4f5dc0b01d16ce7c48768eaa79d4fe229a663884deb1935eb</guid>
-<pubDate>Sat, 01 Aug 2026 01:54:02 GMT</pubDate>
-<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>93bbd527301e9a49db678d92d6d9b2f80a91ee5be2aa68b0e3d50ca3e9861da8</guid>
+<pubDate>Sat, 01 Aug 2026 05:18:46 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Filter By:</title>
-<link>https://www.nature.com/articles/s44160-026-01125-1</link>
-<guid>45936dbd9df2f624357aaffb421244f94843ac65a9cec1a3db7a0795b463a752</guid>
-<pubDate>Sat, 01 Aug 2026 01:54:07 GMT</pubDate>
-<description>Self-driving laboratories (SDLs) can accelerate scientific discovery, but their broader value lies in supporting scale translation for multiscale process development. SDLs should generate scale-aware candidate landscapes that link laboratory-scale experimental results to representative-device and process-development stages, distinguishing candidate regions as validated for next-scale testing, or excluded by industrial constraints, or requiring targeted exploration to reduce scale-dependent uncertainty.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-60531-9</link>
+<guid>e6ada72d852a0d470b671fb8fc4891ac6aaa36f941a2b8c79b5aaba7f18de982</guid>
+<pubDate>Sat, 01 Aug 2026 05:18:48 GMT</pubDate>
+<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>600e254966f37c087a4e469aa1c6c79bcd88569bcefa7028e1f57f928a72bc4f</guid>
+<pubDate>Sat, 01 Aug 2026 05:18:49 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
+<guid>e7b81f41527732e24d17b91a810a976e9d39acd2fa11842833d968571317de6c</guid>
+<pubDate>Sat, 01 Aug 2026 05:18:52 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
