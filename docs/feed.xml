@@ -4,28 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 01 Aug 2026 09:50:14 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 11:11:48 GMT</lastBuildDate>
 
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/bridging-the-dimensionality-gap-a-taxonomy-and-survey-of-2d-vision-model-adaptation-for-3d-analysis-2/</link>
-<guid>ca74a7b5acea7308b23fb96209315e959720066f5390425078bac5c37093a803</guid>
-<pubDate>Sat, 01 Aug 2026 09:49:30 GMT</pubDate>
+<link>https://research.google/pubs/a-hardware-anchored-privacy-middleware-for-pii-sharing-across-heterogeneous-embedded-consumer-devices/</link>
+<guid>d81145a6d8a07c271c2ce884623218120483b34496d68c3e64ba1c35a9e7a994</guid>
+<pubDate>Sat, 01 Aug 2026 11:10:25 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>647d48d826563ddb9a33116ef19022ac9af1a108a97dc7a7f368cb29ee02c73d</guid>
-<pubDate>Sat, 01 Aug 2026 09:49:33 GMT</pubDate>
+<guid>06f4b54f237d3e28ac58fb28df04710dbc3b8bbd6b1257ba41634f38039ddf27</guid>
+<pubDate>Sat, 01 Aug 2026 11:10:28 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>91fcdc5a937be4f721197b723687c2fab94c22afe788e8a8d3dbcce4a1862667</guid>
-<pubDate>Sat, 01 Aug 2026 09:49:35 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
 </item>
 
 </channel>
