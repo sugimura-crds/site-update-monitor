@@ -4,64 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 02 Aug 2026 04:48:36 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 07:27:27 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 GitHubのStacked Pull Requestsって何？AI時代の新しいPR管理を試してみた</title>
-<link>https://qiita.com/yhoguro/items/d08b908dee3cc26a5fb6</link>
-<guid>edf81fcf50f230f7314aebe60f42d32eabcbb9809e5f134f7b637ccca7491e19</guid>
-<pubDate>2026-08-02T13:33:31+09:00</pubDate>
-<description>概要 GitHub の Stacked Pull Requests（Stack PR） は、複数の Pull Request を親子関係（スタック）として管理できる機能です。 これまでは複数の関連PRがある場合、それぞれを個別に管理する必要がありました。 ■従来の複数PR...</description>
+<title>【Qiita】 【YAMAHAルーター】RTX1300を2台でHA構成。VRRPの応用編keepalive等（2回目）</title>
+<link>https://qiita.com/Heizo_Hasegawa/items/af20969de18ca42b7c70</link>
+<guid>aaad449284cd53613403c1dbddb0d53fa67f61f1e2d38bc1bec34c0839982f5f</guid>
+<pubDate>2026-08-02T16:20:48+09:00</pubDate>
+<description>前回（第1回）はVRRPの基本動作と、標準設定でもあるpreempt（自動切り戻し）が有効な状態でのフェイルオーバーの動きを実機ログつきで解説しました。 今回はその 第2回（応用編） です！ 実際の現場（特に拠点間接続や商用環境）で重要になる 「Keepaliveを使...</description>
 </item>
 <item>
-<title>【Qiita】 MCPサーバーって何ができるの【初学者向け】</title>
-<link>https://qiita.com/showerer-king/items/44eb602ab45c4438cbbe</link>
-<guid>741b3cb0d4be2af733255d2df5ca4269be9f85155362837c7f473b97eb7436db</guid>
-<pubDate>2026-08-02T13:08:03+09:00</pubDate>
-<description>疑問 最近よく目にする「MCPサーバー」という言葉。 簡単に調べてみた結果、感想は以下の通り。 APIあれば充分じゃない？わざわざMCPサーバーとして独立させる必要って何？ 気になったので、AI初学者なりにChatGPTと対話しながら理解を深めました。 以下調べたことの...</description>
+<title>【Qiita】 Kimi K3、Claude Fable、ChatGPTを&quot;公平に&quot;比べようとした話</title>
+<link>https://qiita.com/TheGateBreaker/items/33f44dfb93d8b35469fd</link>
+<guid>5807660ab66cdbf861fe0e76480e7f9ebf044bed9089fc3dede41ba45e0f741a</guid>
+<pubDate>2026-08-02T14:48:40+09:00</pubDate>
+<description>TL;DR: 社内のマルチベンダーAI基盤にKimi K3が追加されたので、本番で使っているClaude(Fable 5)とChatGPT(Sol)に同じコードレビューを実際のdiffに対して回してみた。初回はKimi K3がいちばん弱く見えたが、条件を揃えようとするたびに...</description>
+</item>
+<item>
+<title>【Qiita】 2026/08/02 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/57f846d28d8b582b7831</link>
+<guid>eb6bdbf27a2ff86fa24c8521b1aa46b47782a11f32d4c932f6eeca7c1e82cc9c</guid>
+<pubDate>2026-08-02T14:34:29+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 コードベースのナレッジ化なら、LLM Wiki...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/scalable-detection-of-adversarial-synthetic-slop-and-coordinated-media-abuse-a-lora-enabled-multimodal-defense-system/</link>
-<guid>57743dc6622770b15d81ead1107efc2065111a6b4fcd18446ef5aab8367c7370</guid>
-<pubDate>Sun, 02 Aug 2026 04:47:53 GMT</pubDate>
+<link>https://research.google/pubs/a-probabilistic-framework-for-learning-nonintrusive-corrections-to-longtime-climate-simulations-from-shorttime-training-data/</link>
+<guid>077bc3b7c92cafaf60a0f6f54a5132f71dd2dfc8054a61c3b2212068a363c436</guid>
+<pubDate>Sun, 02 Aug 2026 07:26:43 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>42943f859356f8fcd78eeda6ecdddcfe520a4fca42c77ec6324e7636b36cd9b8</guid>
-<pubDate>Sun, 02 Aug 2026 04:47:56 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>7d9c5d377bd24b6b67726249721ba8975933af1494fc393a406f3894b6cf5a40</guid>
-<pubDate>Sun, 02 Aug 2026 04:47:59 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>70cfb04e26a648ba12ac57e4793e9939f045bc03856b3d01b4654263c120ef88</guid>
-<pubDate>Sun, 02 Aug 2026 04:48:00 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>9fec412da73f75250ed66cd45672bcf81b0e8c14467ccfb12df951004945d43d</guid>
-<pubDate>Sun, 02 Aug 2026 04:48:02 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>fadb104d1a15c0aa85cf82bec7511af23d3b9bb4584f3bf2094ed41abc481c7d</guid>
-<pubDate>Sun, 02 Aug 2026 04:48:16 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
