@@ -4,35 +4,64 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 02 Aug 2026 07:27:27 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 09:31:42 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【YAMAHAルーター】RTX1300を2台でHA構成。VRRPの応用編keepalive等（2回目）</title>
-<link>https://qiita.com/Heizo_Hasegawa/items/af20969de18ca42b7c70</link>
-<guid>aaad449284cd53613403c1dbddb0d53fa67f61f1e2d38bc1bec34c0839982f5f</guid>
-<pubDate>2026-08-02T16:20:48+09:00</pubDate>
-<description>前回（第1回）はVRRPの基本動作と、標準設定でもあるpreempt（自動切り戻し）が有効な状態でのフェイルオーバーの動きを実機ログつきで解説しました。 今回はその 第2回（応用編） です！ 実際の現場（特に拠点間接続や商用環境）で重要になる 「Keepaliveを使...</description>
+<title>【Qiita】 Claude Code の仕組み — ハーネスの動作と Claude API</title>
+<link>https://qiita.com/megmogmog1965/items/7db66f5a5aa306c68eb8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>a6de5b0796d821ec26eae9871a7c0a9492ea18af884b4382c83470050aeef227</guid>
+<pubDate>2026-07-30T21:55:51+09:00</pubDate>
+<description>本記事は Claude Code が動作する仕組みについてまとめたものです。 過去に調査を断片的に行い、記事にしてきました。 Claude Code のドキュメントを読んで気になったことを検証してみた Claude Code が LLM に渡すコンテキストの中身を調査する...</description>
 </item>
 <item>
-<title>【Qiita】 Kimi K3、Claude Fable、ChatGPTを&quot;公平に&quot;比べようとした話</title>
-<link>https://qiita.com/TheGateBreaker/items/33f44dfb93d8b35469fd</link>
-<guid>5807660ab66cdbf861fe0e76480e7f9ebf044bed9089fc3dede41ba45e0f741a</guid>
-<pubDate>2026-08-02T14:48:40+09:00</pubDate>
-<description>TL;DR: 社内のマルチベンダーAI基盤にKimi K3が追加されたので、本番で使っているClaude(Fable 5)とChatGPT(Sol)に同じコードレビューを実際のdiffに対して回してみた。初回はKimi K3がいちばん弱く見えたが、条件を揃えようとするたびに...</description>
+<title>【Qiita】 ガバメントクラウドでのAWS DevOps Agentの活用</title>
+<link>https://qiita.com/infra365/items/70eb40b12d6f9c0011ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>58c0806386e9b1f0764cb8c510f5d67289527d813b2fcb9ac7bcf08a4d0a322b</guid>
+<pubDate>2026-08-01T05:16:50+09:00</pubDate>
+<description>概要 2026/07/31に開催されたJAWS UG 名古屋 × Gov JAWSコラボにて「ガバメントクラウドでのAWS DevOps Agentの活用」というタイトルでLT登壇させていただいた内容です。 ガバメントクラウドの運用はマルチアカウント構成や閉域ネット...</description>
 </item>
 <item>
-<title>【Qiita】 2026/08/02 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/57f846d28d8b582b7831</link>
-<guid>eb6bdbf27a2ff86fa24c8521b1aa46b47782a11f32d4c932f6eeca7c1e82cc9c</guid>
-<pubDate>2026-08-02T14:34:29+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 コードベースのナレッジ化なら、LLM Wiki...</description>
+<title>【Qiita】 【AWS】Managed Knowledge Baseでの検索フィルターを確認しました</title>
+<link>https://qiita.com/yakumo_09/items/e3442f0e25976aa73afe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>493ab55d2a05d67121aced01bd31c290f87721312512c476e0c87399398b8958</guid>
+<pubDate>2026-08-01T18:59:21+09:00</pubDate>
+<description>はじめに Managed Knowledge Baseと検索フィルターを組み合わせていろいろ試してみました。 Gateway の Interceptor で検索リクエストを書き換えれば、検索の時点で絞り込めるはず。そう思って試したら、思っていたより制約が多かったので書き残...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeの自己改善ループが事故を起こした——委任プロンプト1行の書き忘れで190行書き換わった話</title>
+<link>https://qiita.com/saitoko/items/435f0661b6210ff5b734</link>
+<guid>23a4f76ba559e8b31d6d099948a8da6da6edba9a61e2c0af2a026b50114b1640</guid>
+<pubDate>2026-08-02T18:12:55+09:00</pubDate>
+<description>この記事の要点（2026年5月）: 私はセッション履歴（会話ログ）から改善点を自動抽出する「dev-workflow」というスキルを自作し、実戦投入した。ところが初回テストで、解析役に委任した researcher エージェントが、承認なしに scripts/util/dj...</description>
+</item>
+<item>
+<title>【Qiita】 Google提唱の新ナレッジ標準「OKF」を、自分のMarkdown約1,700ファイルに導入してみた</title>
+<link>https://qiita.com/ktdatascience/items/70f531ffdaf3aa0a3eeb</link>
+<guid>eb845bbf6c2b0dcbdd2a3a91a42901e55fca74aa62f078a8729ff140cab50665</guid>
+<pubDate>2026-08-02T17:37:04+09:00</pubDate>
+<description>はじめに CLAUDE.mdやObsidianで、Markdownに知識を貯めている人は多いと思います。その「Markdownの置き方」に、Googleが標準仕様を出してきました。Open Knowledge Format、略してOKFです。 自分は個人の知識ベース（価値...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-probabilistic-framework-for-learning-nonintrusive-corrections-to-longtime-climate-simulations-from-shorttime-training-data/</link>
-<guid>077bc3b7c92cafaf60a0f6f54a5132f71dd2dfc8054a61c3b2212068a363c436</guid>
-<pubDate>Sun, 02 Aug 2026 07:26:43 GMT</pubDate>
+<link>https://research.google/pubs/mogen-detailed-neuronal-morphology-generation-via-point-cloud-flow-matching/</link>
+<guid>38c70243d8ff38964cfe5359875d176d472cdf4d6e4f61556c4405ff4da9924d</guid>
+<pubDate>Sun, 02 Aug 2026 09:30:50 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>89b388f19d36b9cb6386f3f6432457a68114e37a1f6f236fd503bdf79ee41680</guid>
+<pubDate>Sun, 02 Aug 2026 09:30:52 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>9da9794bdf485346fe1efd05955765525b7447004ba3c6e6f082246e3c3b63cf</guid>
+<pubDate>Sun, 02 Aug 2026 09:31:22 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
