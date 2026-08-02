@@ -4,42 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 02 Aug 2026 01:04:32 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 04:48:36 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Code／Codexに中～大規模開発を任せるためのタスク管理</title>
-<link>https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384</link>
-<guid>1a12febb0327ba406d00949f78e8b3b5d85d840432b29a64954ebc383a44a227</guid>
-<pubDate>2026-08-02T08:38:39+09:00</pubDate>
-<description>概要 Claude CodeやCodexのようなAIコーディングエージェントは、コードの調査、実装、テスト、ドキュメント更新などをまとめて進められます。 小さな修正であれば、「この不具合を直してください」という指示だけでも十分な結果が得られることがあります。 一方、数十〜...</description>
+<title>【Qiita】 GitHubのStacked Pull Requestsって何？AI時代の新しいPR管理を試してみた</title>
+<link>https://qiita.com/yhoguro/items/d08b908dee3cc26a5fb6</link>
+<guid>edf81fcf50f230f7314aebe60f42d32eabcbb9809e5f134f7b637ccca7491e19</guid>
+<pubDate>2026-08-02T13:33:31+09:00</pubDate>
+<description>概要 GitHub の Stacked Pull Requests（Stack PR） は、複数の Pull Request を親子関係（スタック）として管理できる機能です。 これまでは複数の関連PRがある場合、それぞれを個別に管理する必要がありました。 ■従来の複数PR...</description>
 </item>
 <item>
-<title>【Qiita】 OpenCode の仕組みから学ぶ、モダン AI アプリケーション設計の極意</title>
-<link>https://qiita.com/bindi/items/47660d03f320573ea261</link>
-<guid>e22f26a2732de4e593f71e56d0a6f1f58ee68ea080aac2482e243a9233b348af</guid>
-<pubDate>2026-08-02T08:58:18+09:00</pubDate>
-<description>下記の記事が、よくわからないので AI に書き直させた記事を投稿しました。 Gemini Flash というモデルを使いました。プロンプトは以下です 伝えたいことは、「 OpenCode の仕組みを学ぶことによって、何を得られるのか？」です。詳しく詳細を解説しながら、...</description>
+<title>【Qiita】 MCPサーバーって何ができるの【初学者向け】</title>
+<link>https://qiita.com/showerer-king/items/44eb602ab45c4438cbbe</link>
+<guid>741b3cb0d4be2af733255d2df5ca4269be9f85155362837c7f473b97eb7436db</guid>
+<pubDate>2026-08-02T13:08:03+09:00</pubDate>
+<description>疑問 最近よく目にする「MCPサーバー」という言葉。 簡単に調べてみた結果、感想は以下の通り。 APIあれば充分じゃない？わざわざMCPサーバーとして独立させる必要って何？ 気になったので、AI初学者なりにChatGPTと対話しながら理解を深めました。 以下調べたことの...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/it-didnt-feel-right-but-i-needed-a-job-so-desperately-understanding-peoples-emotions-help-needs-during-financial-scams-2/</link>
-<guid>214952df3d2e4315c1785082c477e2d89f8780991513bbcabb581662dd0cc668</guid>
-<pubDate>Sun, 02 Aug 2026 01:03:22 GMT</pubDate>
+<link>https://research.google/pubs/scalable-detection-of-adversarial-synthetic-slop-and-coordinated-media-abuse-a-lora-enabled-multimodal-defense-system/</link>
+<guid>57743dc6622770b15d81ead1107efc2065111a6b4fcd18446ef5aab8367c7370</guid>
+<pubDate>Sun, 02 Aug 2026 04:47:53 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Filter By:</title>
-<link>https://www.nature.com/articles/s44160-026-01125-1</link>
-<guid>c65c528b74dff3fc9b6437986890b78303e4c078bdf07e38aa25da20b3c477e9</guid>
-<pubDate>Sun, 02 Aug 2026 01:03:38 GMT</pubDate>
-<description>Self-driving laboratories (SDLs) can accelerate scientific discovery, but their broader value lies in supporting scale translation for multiscale process development. SDLs should generate scale-aware candidate landscapes that link laboratory-scale experimental results to representative-device and process-development stages, distinguishing candidate regions as validated for next-scale testing, or excluded by industrial constraints, or requiring targeted exploration to reduce scale-dependent uncertainty.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>42943f859356f8fcd78eeda6ecdddcfe520a4fca42c77ec6324e7636b36cd9b8</guid>
+<pubDate>Sun, 02 Aug 2026 04:47:56 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-60531-9</link>
+<guid>7d9c5d377bd24b6b67726249721ba8975933af1494fc393a406f3894b6cf5a40</guid>
+<pubDate>Sun, 02 Aug 2026 04:47:59 GMT</pubDate>
+<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>70cfb04e26a648ba12ac57e4793e9939f045bc03856b3d01b4654263c120ef88</guid>
+<pubDate>Sun, 02 Aug 2026 04:48:00 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
+<guid>9fec412da73f75250ed66cd45672bcf81b0e8c14467ccfb12df951004945d43d</guid>
+<pubDate>Sun, 02 Aug 2026 04:48:02 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>d901bfbf4ab1b44ec1a30285fd93b28ff12d4376a5884e9a2c267e306edd95fa</guid>
-<pubDate>Sun, 02 Aug 2026 01:03:54 GMT</pubDate>
+<guid>fadb104d1a15c0aa85cf82bec7511af23d3b9bb4584f3bf2094ed41abc481c7d</guid>
+<pubDate>Sun, 02 Aug 2026 04:48:16 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
