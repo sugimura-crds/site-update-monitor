@@ -4,21 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 02 Aug 2026 22:25:27 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 23:27:18 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 Ansible Automation Platform x HashiCorpVault x IBM Bob で証明書更新を自動化</title>
+<link>https://qiita.com/c_u/items/7d8db706241be4b1935c</link>
+<guid>ea7105ba66db2fa2e914c40b7940f8231a78fbd410aec14851d885420300c65c</guid>
+<pubDate>2026-08-03T08:17:45+09:00</pubDate>
+<description>本記事で構築する AAP × Vault による証明書運用自動化の全体像 はじめに Web サイトを HTTPS で配信するには、TLS 証明書（いわゆる SSL 証明書）が必要です。TLS 証明書は、通信の暗号化と、接続先が本物のサーバーであることの証明という2つの役...</description>
+</item>
+<item>
+<title>【Qiita】 Graph Engineeringから考える、Agentシステム設計で大切なこと</title>
+<link>https://qiita.com/SF-28/items/91f7aa8de8bdf8128067</link>
+<guid>291bc68f1a0e8d521daf2d1c7870ab0ea6cbe1f060351f64dd3cf0261f31e1e4</guid>
+<pubDate>2026-08-03T08:23:59+09:00</pubDate>
+<description>最近、AIエージェント開発の文脈で Graph Engineering という言葉を見かけるようになった。 2026年7月には「LoopからGraphへ移ったのか」という議論が実務家の間で注目され、LangGraphを開発するLangChainも、Graph Enginee...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/crosscheck-input-validation-for-wan-control-systems/</link>
-<guid>09ac6cf0354b6541782146f80a79020f4df1283e76055ef5e97456f23aad6c5d</guid>
-<pubDate>Sun, 02 Aug 2026 22:24:24 GMT</pubDate>
+<link>https://research.google/pubs/designing-privacy-choice-in-generative-ai-chatbot-ecosystems/</link>
+<guid>fc5a6cda386a9e9e808096cc1295b75a692b449a17415cad0507dab70393fd9c</guid>
+<pubDate>Sun, 02 Aug 2026 23:26:12 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>595b0f6d7381a561c11fc2918e22d7f387313a0b646fed8b845febfadaa68339</guid>
-<pubDate>Sun, 02 Aug 2026 22:24:27 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>921f782e7958e154c34059ee6a454b50281257785662506d3aaf53892274cbf4</guid>
+<pubDate>Sun, 02 Aug 2026 23:26:59 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
