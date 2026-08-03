@@ -4,71 +4,84 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 03 Aug 2026 11:54:11 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 14:16:44 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 13 ]：順番押し系ギミックの実装</title>
-<link>https://qiita.com/OnuuuumaX/items/ae00d142f243c4ca3814</link>
-<guid>20cb98a543f9494c7afef03e7c78c200885fe3cd68d261054d33c8fc4a383909</guid>
-<pubDate>2026-08-03T18:20:07+09:00</pubDate>
-<description>Axmol Engine で脱出ゲームを作る ── 額縁ギミック（4隅タップ）とライター取得 はじめに 今回は room1-1-1 に配置した肖像画の額縁をタップし、4隅を正しい順番でタップする割と古典的な謎解きギミックを実装します。 順番押し系のギミックに属します。 ...</description>
+<title>【Qiita】 Azure Update 2026年7月まとめ</title>
+<link>https://qiita.com/ManabuYamamoto/items/50f47e02430ed2abcfc2</link>
+<guid>6fcb8e1bee601518fa57b48da1c5d5471cb7ea25a9527e0c448247ed65fe4e06</guid>
+<pubDate>2026-08-03T20:57:17+09:00</pubDate>
+<description>概要 2026年7月は、AIモデルの世代交代がAzureとGitHubの両方で進みました。Azure DatabricksではClaude Opus 5、Claude Sonnet 5、GPT-5.6が利用可能になり、GitHub CopilotでもGPT-5.6 Sol...</description>
 </item>
 <item>
-<title>【Qiita】 GitHub CopilotをSEが使うときのテクニック10選</title>
-<link>https://qiita.com/kamome_susume/items/69c741b02677cf9e87cd</link>
-<guid>2b96fb18778f68e351cf44699c0580c04e399ae4b9f8fc113fa697b753481fb3</guid>
-<pubDate>2026-08-03T20:20:12+09:00</pubDate>
-<description>「コード補完は使っているけど、それ以外の場面でどう使えばいいかわからない」「上流工程や調査業務にはあまり活かせていない」と感じていませんか？実はGitHub Copilotは、実装だけでなく設計書の起こし、テスト観点の洗い出し、障害調査の当たりづけといった、SEが実際に時間...</description>
+<title>【Qiita】 「コード」の次は「宇宙船」？──AIエージェントが拓く“誰でも超モノづくり”の時代</title>
+<link>https://qiita.com/hotstaff/items/be071b8e6213961c5c21</link>
+<guid>b3fc98902196b47a4947b2d7c90a5d931f76ddf85f29c947aacf814ea44f0024</guid>
+<pubDate>2026-08-03T22:47:43+09:00</pubDate>
+<description>はじめに：これはただの「ぶっ飛んだ空想」か、それとも近未来の「予言」か この記事は、現時点でのAIエージェントの進化速度を踏まえ、「これからAIと人間のモノづくりがどう変化していくのか」を大胆に予測・考察してみた記事です。 正直に明かすと、2025年に書いた前作の記事も...</description>
 </item>
 <item>
-<title>【Qiita】 ケーススタディで体験する Grok Build によるカスタムエージェント開発</title>
-<link>https://qiita.com/Xudev/items/c7f41249ef282f67b024</link>
-<guid>106070a722bb4e7f7ca573c8fd441fa58cbbb6f2ab9de093bd70146272a3d96f</guid>
-<pubDate>2026-08-03T18:49:16+09:00</pubDate>
-<description>2026 年 5 月 14 日、現在 CLI で提供されているコーディングエージェント兼 「Grok Build」の早期ベータ版がリリースされ、AI / Vibe Coding 界隈の SNS が沸き立ちました。 エージェントをオープンソースで公開するなど多くのニュースと仕...</description>
+<title>【Qiita】 【AWS Blocks】CopilotKitとStrandsAgentsを使ってAIエージェントのフロントエンドを作ってみる</title>
+<link>https://qiita.com/Takenoko4594/items/32cb170c5244c3e93035</link>
+<guid>83c0ffd182f6f05e44bb62be9af1da83c5c59e17e324b431dca8c89e67344a47</guid>
+<pubDate>2026-08-03T22:28:06+09:00</pubDate>
+<description>はじめに お疲れ様です。たけのこです。 少し前にAWS Blocksがプレビュー公開されましたが、今回はAIエージェントのフロントエンド周りのインフラをAWS Blocksで作ってみました。エージェント周りはStrandsAgentsとCopilotKitです。 作成した...</description>
 </item>
 <item>
-<title>【環境】 Psychological barriers to improving carbon competence</title>
-<link>https://www.nature.com/articles/s41893-026-01900-0</link>
-<guid>afb339ba552bb724f7af1d0cc97222e643941fb52fc1999c575318d1568a2e58</guid>
+<title>【Qiita】 長時間エージェントが自分で書く要約を強化学習で鍛えるCompactionRL</title>
+<link>https://qiita.com/okssusucha/items/d81ace5b245b8f525f11</link>
+<guid>9a77ae1321bf6105227854360ab698d667497a0ac1c4242f4b2d973cc4e2499e</guid>
+<pubDate>2026-08-03T21:06:53+09:00</pubDate>
+<description>コーディングエージェントを長時間回していると、ある瞬間から挙動が鈍ることがある。原因を追うと、たいてい文脈ウィンドウが限界に近づき、それまでの作業ログを自動で要約して「畳んだ」直後だったりする。ここで素朴な疑問が湧く。その要約を書いたのは誰で、出来は良かったのか。 7月に公...</description>
+</item>
+<item>
+<title>【自動自律実験】 Author Correction: Maturation and circuit integration of transplanted human cortical organoids</title>
+<link>https://www.nature.com/articles/s41586-026-10943-4</link>
+<guid>badf51bee66948617ff2418e3e034fe845b56f6bd3a7cac9c1de90b7ca026595</guid>
 <pubDate>2026-08-03</pubDate>
-<description>The psychological processes obstructing carbon competence—the acquisition of knowledge about the relative mitigation potential of different actions—are not well known. This study investigates the psychological barriers to developing carbon competence and explores interventions to overcome them.</description>
+<description>Author Correction: Maturation and circuit integration of transplanted human cortical organoids</description>
+</item>
+<item>
+<title>【自動自律実験】 Venus’s rift valleys could be its secret to staying active</title>
+<link>https://www.nature.com/articles/d41586-026-02372-0</link>
+<guid>af0ea8455b1db028a65594788b96fd300ae514b92255d0ee8608ae159eaee5a0</guid>
+<pubDate>2026-08-03</pubDate>
+<description>The nature of geological dynamics on Venus are fiercely debated — the planet’s steep rift valleys could be evidence of ongoing tectonic activity.</description>
+</item>
+<item>
+<title>【自動自律実験】 Plans for nuclear-powered merchant ships must confront risks</title>
+<link>https://www.nature.com/articles/d41586-026-02388-6</link>
+<guid>b56c3ce870f795ddd08dd740f8473b7e9a836a232dd3fca5a3e609acc9b5837f</guid>
+<pubDate>2026-08-03</pubDate>
+<description>Vessels propelled by atomic reactors have low emissions but create other hazards that need clear regulations.</description>
+</item>
+<item>
+<title>【自動自律実験】 Science-backed tips on how to avoid distractions</title>
+<link>https://www.nature.com/articles/d41586-026-01850-9</link>
+<guid>54b253465edba1fe8b69eb67d31bd2e2daab7b17fa1377094767c9fe1e2a97de</guid>
+<pubDate>2026-08-03</pubDate>
+<description>Struggling to stay focused in the lab? Attention researchers offer some advice.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/veriguard-enhancing-llm-agent-safety-via-verified-code-generation-2/</link>
-<guid>c5fdad5b5a59674c86bd61c57222a876b54f24822f9dcc8c703e94a87f349cd5</guid>
-<pubDate>Mon, 03 Aug 2026 11:53:20 GMT</pubDate>
+<link>https://research.google/pubs/automated-multi-stage-build-error-remediation-by-propagating-dormant-suppression-tags/</link>
+<guid>29ce885650ab8a6be5bc6bf2bff6b3c1aa15d166f9e0561eb653a5f141557f76</guid>
+<pubDate>Mon, 03 Aug 2026 14:15:46 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>5226e119e2f4ebba4fa72df8114ea12b08c04c44df6e6c77a17e9c7a322e79f4</guid>
-<pubDate>Mon, 03 Aug 2026 11:53:23 GMT</pubDate>
+<guid>0feafe7451f720bd17aff93c5806e21243de497dd83a7646ecb1bcfd204b2cb0</guid>
+<pubDate>Mon, 03 Aug 2026 14:15:49 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>a5ec38f615a2241128b06627b3d64eb0fd29b5c408006a86a99bc5234f062bdb</guid>
-<pubDate>Mon, 03 Aug 2026 11:53:26 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
-</item>
-<item>
-<title>【UK】 Featured</title>
-<link>https://www.gov.uk/government/organisations/department-for-business-innovation-science-and-trade</link>
-<guid>4f418cb0630ef926084e484dce5bc791da2cc405147ecabe0fed10b71355ea9c</guid>
-<pubDate>Mon, 03 Aug 2026 11:53:31 GMT</pubDate>
-<description>We drive good growth, good jobs and opportunity across the UK. We support businesses to invest, innovate, export and grow, powered by science and technology.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>3ef60e79ff91badd91211cc579c6c25d1fc5d1a8edf92fa271bec30f3cfb03f9</guid>
-<pubDate>Mon, 03 Aug 2026 11:53:50 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<link>https://www.nature.com/articles/s41746-026-02994-8</link>
+<guid>275ec7a1265474b4378fa043c820b6f3aab3e11575ffd27869c3a927a3c5237a</guid>
+<pubDate>Mon, 03 Aug 2026 14:15:56 GMT</pubDate>
+<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
 </item>
 
 </channel>
