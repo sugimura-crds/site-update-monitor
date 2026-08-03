@@ -4,70 +4,106 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 03 Aug 2026 01:05:31 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 04:57:38 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 プロフェッショナルTLS＆PKIを読む⑰ 証明書チェーン</title>
-<link>https://qiita.com/gomAnomalocaris/items/2580b6a11fe5cbcdb750</link>
-<guid>1eb87032aee523b3ca5f94dfb322208c82c07111bd090b0e5c55f2b76f0715ca</guid>
-<pubDate>2026-08-03T08:28:00+09:00</pubDate>
-<description>証明書チェーン 原書は実際の運用についての仕組み・説明がやや簡素な為、以下のサイトを参照しました。 cert-manager : TLS用語 証明書チェーンが必要な理由 ルートを安全に保つため ルートCAの証明書は非常に長い期間（年、数十年）をかけてあらゆるネットワ...</description>
+<title>【Qiita】 データベースのインストールで詰まった話【PostgreSQL/MySQL編・Bobで解決】</title>
+<link>https://qiita.com/mnori0211/items/dd5519ff8f8974961ddf</link>
+<guid>5bc029474149b124a4aea5ff328fc15b529d342c6e08afc61e32293c62ddf6e6</guid>
+<pubDate>2026-08-03T10:20:33+09:00</pubDate>
+<description>本記事は「サーバーの環境構築で詰まったら、BobというAIに聞いてみよう」シリーズのシナリオ4（最終回）です。 DBのセットアップ、地味にハマりやすい アプリケーションサーバーの次に待ち構えているのが、データベースの構築です。PostgreSQL や MySQL は...</description>
 </item>
 <item>
-<title>【Qiita】 【Salesforce】2026年必須の「フィッシング耐性MFA」に備える ─ NISTのAALで整理して、実際にパスキーを登録してみた</title>
-<link>https://qiita.com/imamu123/items/d9bdb1d9944ec1481e4f</link>
-<guid>824b06a7a05f47f31d135567940b608c5c30bcb64b5064766e38a18c9d0ac6d4</guid>
-<pubDate>2026-08-03T09:33:48+09:00</pubDate>
-<description>🙋 はじめに Salesforceを使っていて、ログイン画面の認証まわりの設定を、なんとなく「推奨だから」で済ませていないでしょうか。 私もそうでした。あるとき「2026年から、管理者などはフィッシング耐性のあるMFAが必須になる」という話を聞き、最初は「フィッシング耐性...</description>
+<title>【Qiita】 Windowsサーバーにミドルウェアを入れようとしたら失敗した話【Bobで解決】</title>
+<link>https://qiita.com/mnori0211/items/ef910ad98117181aab7c</link>
+<guid>9131e0f69ec11064df93eb7106febc2536d4f5d1771486798b2921518fdf96da</guid>
+<pubDate>2026-08-03T10:19:37+09:00</pubDate>
+<description>Windowsサーバーにミドルウェアを入れようとしたら失敗した話【Bobで解決】 本記事は「サーバーの環境構築で詰まったら、BobというAIに聞いてみよう」シリーズのシナリオ1です。 あるある：Windowsサーバーのミドルウェア沼 新しいアプリケーションをWin...</description>
 </item>
 <item>
-<title>【Qiita】 「インターネットはありません」と書いたプロンプトの外で、AI が実在企業3社に侵入していた</title>
-<link>https://qiita.com/jqit_suwa/items/2adb0c35fffb41514791</link>
-<guid>5603ca2269c842a839d431eba92d0f482b2140f6720352e20bb0bc065fb05d6c</guid>
-<pubDate>2026-08-03T09:59:43+09:00</pubDate>
-<description>プロンプトには、こう書いてありました。 この環境はシミュレーションです。インターネットへのアクセスはありません。 嘘でした。 わざと嘘をついたわけではありません。書いた人も、そう信じていた。ただ、実際の環境はインターネットに繋がっていた。 結果、AI エージェントは実在...</description>
+<title>【Qiita】 LinuxサーバーにDockerを入れようとしたら詰まった話【Bobで解決】</title>
+<link>https://qiita.com/mnori0211/items/0fa6bd41fc83bd8d4cd5</link>
+<guid>5a8cc3464d36364e21875e8f5a605b6d59dd60857150661e2f2fc788a8ead92d</guid>
+<pubDate>2026-08-03T10:18:42+09:00</pubDate>
+<description>本記事は「サーバーの環境構築で詰まったら、BobというAIに聞いてみよう」シリーズのシナリオ2です。 Dockerのセットアップ、意外と落とし穴が多い 「コンテナ使おう！」と意気込んでLinuxサーバーにDockerを入れようとしたら…… E: Package &#x27;d...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントやFastAPIの案件でPostgreSQLをよく見かけたので、DynamoDBとの違いを調べてみた</title>
-<link>https://qiita.com/Sho5_Matsu/items/d3d75a5ba271dcda8157</link>
-<guid>42afe68f7e4c764cb2b520b5954560495676d26d68107264dc2b6b1cda1efd04</guid>
-<pubDate>2026-08-03T09:59:43+09:00</pubDate>
-<description>はじめに これまで、AIエージェントやFastAPIについて調べた記事を書いてきました。 技術記事や案件情報を見ていると、以下のような構成をよく見かけます。 FE：Next.js BE：FastAPI DB：PostgreSQL LLM：OpenAI API クラウド：...</description>
+<title>【Qiita】 サーバーの環境構築で詰まったら、BobというAIに聞いてみよう【シリーズ入口】</title>
+<link>https://qiita.com/mnori0211/items/05f1961790f006b2f69d</link>
+<guid>98a195d30cf49fae9c25d0e49bb09977b8a5c63136445bc2a9239671aecb76ed</guid>
+<pubDate>2026-08-03T10:12:44+09:00</pubDate>
+<description>こんな経験、ありませんか？ サーバーに新しいアプリケーションを入れようとして、こんな壁にぶつかったこと、一度はあるんじゃないでしょうか。 ERROR: Could not install packages due to an OSError Job for postgr...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントを調べていたらFastAPIをよく見かけたので調べてみた</title>
-<link>https://qiita.com/Sho5_Matsu/items/df0f47717a912110c34f</link>
-<guid>72928031f6941bd3ae1040083c9cee60f0b0606754a3adf922cf537d443e8b03</guid>
-<pubDate>2026-08-03T09:59:26+09:00</pubDate>
-<description>はじめに 前回、「AIエージェントについて自分で調べてみてわかったこと」という記事を書きました。 AIエージェントについて調べていると、以下のような技術を頻繁に見かけました。 OpenAI API AWS LangGraph PostgreSQL FastAPI 特に...</description>
+<title>【Qiita】 Ansys Lumerical MCPでAIにフォトニクス解析させてみた</title>
+<link>https://qiita.com/HiroyukiOkada/items/aaaa80b75bc93cdff078</link>
+<guid>e91217e79c9bdea677d79dccc424172809b500aba447482364e773ae575b9976</guid>
+<pubDate>2026-08-03T13:41:23+09:00</pubDate>
+<description>はじめに 前回、PyLumerical-MCPがリリースされたので、Pythonプログラムで環境を構築し、そのAIエージェントにお願いしてフォトニクス解析ソフトウェアAnsys Lumerical上にY分岐導波路をモデリングしてもらいました。 今回は解析編です！ 作成した...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントについて自分で調べてみてわかったこと</title>
-<link>https://qiita.com/Sho5_Matsu/items/a3ca393d6bc9dd3682f6</link>
-<guid>811a1e4610203d0ed32961316a94c41c2fed88a57ff243461170d8e1c40e842f</guid>
-<pubDate>2026-08-03T09:59:08+09:00</pubDate>
-<description>はじめに 最近、案件情報や技術記事を見ていると「AIエージェント」という言葉を見かけることが増えてきました。 私自身、これまでAWSやPythonを中心に経験してきましたが、正直なところ「AIエージェントってChatGPTと何が違うんだ？」という状態でした。 特に、最近見...</description>
+<title>【Qiita】 Claude Codeを長時間自走させて分かった｜止まる前提で作る再実行・利用枠・失敗復旧</title>
+<link>https://qiita.com/vivinko/items/d62b471561cc20bee1fe</link>
+<guid>49e8189f0828f9cd1752b1f74ac127830948d30807fa4c32b52a1b4f0acc8418</guid>
+<pubDate>2026-08-03T13:33:15+09:00</pubDate>
+<description>Claude Codeを定期実行し、1回の起動で複数Taskへ進ませれば、数時間放置しても開発が進む。 自分も最初はそう考えていました。 実際には、長時間動かすほど正常系より次の状態に悩まされました。 途中でSessionが落ちた 次回起動で同じTaskを最初からやり直した...</description>
 </item>
 <item>
-<title>【Qiita】 アンケート、いきなり設問から作ってませんか？ ― AIと挑んだ非デザイナーのアンケート作成奮闘記</title>
-<link>https://qiita.com/sh-fukaya/items/6b79eb086377da212517</link>
-<guid>c7742c9fa06ee246f071b670778bd58e73a1d675e8851e21f1f6dd26f99b414e</guid>
-<pubDate>2026-08-03T09:30:56+09:00</pubDate>
-<description>アンケート、いきなり設問から作ってませんか？ ― AIと挑んだ非デザイナーのアンケート作成奮闘記 背景 「アンケート？ サービスデザイナーさんに頼めばいい」 間違いなく設問設計は専門職の方が質の高いものを作れます。 でも最近は生成AIで生産性が上がり、3人くらいの少数チ...</description>
+<title>【Qiita】 Agentforce と AI Agents を Salesforce で始めよう：理論から実装まで</title>
+<link>https://qiita.com/TOMOSIA-HieuNT/items/88a9c4aed216f4c57833</link>
+<guid>825c4f0d29aa271e9ef9df1976b379b1a2a0ab85594fc00c8aa969bcf4721430</guid>
+<pubDate>2026-08-03T12:07:47+09:00</pubDate>
+<description>今、デジタル変革の時代において、AI はただ提案をするだけではなく、自分でタスクを実行できるようになりました。Salesforce の Agentforce が登場してから、AI Agents はテストの段階だけではなく、ビジネスの運営を変える大切な解決策になりました。 ...</description>
+</item>
+<item>
+<title>【Qiita】 【Next Tokyo 26】BigQuery × Gemini で実現する自律型データ基盤</title>
+<link>https://qiita.com/tomokoro/items/02f6464adfad2cc8b450</link>
+<guid>22aa0fc712b230b4ce0df3fe455c0fd09fc9c5427e0c9961e0a62078702c6f1e</guid>
+<pubDate>2026-08-03T11:30:41+09:00</pubDate>
+<description>みなさんこんにちは！ 先日開催された 「Google Cloud Next Tokyo 26」 の Developer Stage（7月30日）のセッション：「BigQuery と Gemini 最前線！ SQL で画像データを構造化・エージェント分析」（D1-DEV-07...</description>
+</item>
+<item>
+<title>【自動自律実験】 Sickle-cell disease linked to prematurely aged stem cells in mice</title>
+<link>https://www.nature.com/articles/d41586-026-02339-1</link>
+<guid>bcb0d5bebbf87cef742ec8aa6c5d0c95fc30a12b78d2c87d753abd164d2ae8ac</guid>
+<pubDate>2026-08-03</pubDate>
+<description>A combination of drugs restores stem-cell function in mouse models of the blood disorder.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/rethinking-context-enriched-time-series-forecasting-evaluation/</link>
-<guid>61a31b6ba0bd1114b87f211eedc0fad0998a36ea549b16d583d4e5ec242b636a</guid>
-<pubDate>Mon, 03 Aug 2026 01:03:56 GMT</pubDate>
+<link>https://research.google/pubs/codas-ai-co-data-scientist-for-biomarker-discovery-via-wearable-sensors/</link>
+<guid>c447271d128fa5648912de82afa83568f757fa938a60f0facc6da80ab8a66447</guid>
+<pubDate>Mon, 03 Aug 2026 04:56:56 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>15181c86893118771069319e6bab7807eb9f2cd3461db891880d22e3066d7c6c</guid>
-<pubDate>Mon, 03 Aug 2026 01:03:58 GMT</pubDate>
-<description>Sakana AI Blog read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overall shape class. read more read more read more read more read more read more Sakana AIと有限責任あずさ監査法人は、コーヒー業界のサプライチェーンを舞台にLLMエージェントの長期的な経営能力を評価する「CoffeeBench」を開発。シミュレーション実験では、最新モデル間でも経営成績に大きな差があり、長期タスク特有のモデルの特性が観察された。 read more Sakana AI Releases ‘Fugu Ultra’ to Match Frontier Performance via Autonomous Model</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>8f689441ef77f3455fe1543d3412911198251b2f8f3d13dd83a38d28df6c3705</guid>
+<pubDate>Mon, 03 Aug 2026 04:56:58 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-60531-9</link>
+<guid>926fcb1e4ff770398711e6f4bb984da5aeaa00f17321d88146bf1d1ae2c45ec8</guid>
+<pubDate>Mon, 03 Aug 2026 04:57:00 GMT</pubDate>
+<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-02994-8</link>
+<guid>933790607f4d69c53e8ad6088feaf75d76916a2dd88ba20f0918255e627e0863</guid>
+<pubDate>Mon, 03 Aug 2026 04:57:02 GMT</pubDate>
+<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>ec71a5faaa74e140c9fa74465d35128be39d1f6182e9ef40807d5b767a9cba0a</guid>
+<pubDate>Mon, 03 Aug 2026 04:57:19 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
