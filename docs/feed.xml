@@ -4,28 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 03 Aug 2026 21:37:10 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 22:53:06 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 学生のための、分からないことを何でもCopilotと一緒に学ぶ方法</title>
+<link>https://qiita.com/dahatake/items/119a762bdcc0f31482e5</link>
+<guid>8e62084400ad0db9d9122f63a25c5ebaa125968b366b6cf2ef53887005260248</guid>
+<pubDate>2026-08-04T07:42:43+09:00</pubDate>
+<description>背景 生成AIを学習に使う場面が増えましたが、実際には解答を読んで終わる使い方も見かけます。 正直、それだけでは「解けた気になる」状態から抜けにくいです。今回は、LLMを学習プロセスを回す対話相手として使います。 微分積分はあくまで例で、この流れは他の科目や業務知識にも応...</description>
+</item>
+<item>
+<title>【Qiita】 図解で解説！Claude Certified Architect (CCAR-F) 試験ガイド</title>
+<link>https://qiita.com/DeepTama/items/075b66cd7332870a042a</link>
+<guid>a3be184b632a614a0bf593a31f3e5a9b1b42a25e5704237771bc533740b18e1b</guid>
+<pubDate>2026-08-04T07:51:36+09:00</pubDate>
+<description>本記事について Claude Certifi Architect – Foundations（CCA-F）の試験範囲について、筆者が個人的な学習の一環として理解を整理・共有することを目的に執筆したものです。 記載内容は、公開されている試験ガイド（Version 0.2 ...</description>
+</item>
+<item>
+<title>【Qiita】 MCPが「ステートレス」になった日 — 2026-07-28仕様を、金融系フルスタックエンジニアの視点で読み解く</title>
+<link>https://qiita.com/vcmacky/items/0ff1fd7e7990305677a3</link>
+<guid>917b4e88394c64cf33e5775eab6ca9d2e8449648ea833ad7c0f9015689f74da0</guid>
+<pubDate>2026-08-04T07:50:05+09:00</pubDate>
+<description>セッションを捨てる、とはどういうことか。AIエージェント連携の土台であるMCPが、静かに、しかし決定的に設計思想を変えた。 2026年7月28日、Model Context Protocol（MCP）の新仕様 2026-07-28 が公開された。本記事執筆時点（2026...</description>
+</item>
+<item>
+<title>【Qiita】 新しい Copilot Studio が GA したので「ハーネス」とクレジット課金体系を改めて整理してみる</title>
+<link>https://qiita.com/Takashi_Masumori/items/e6f1678b41483943fc04</link>
+<guid>bee3ce4a17aa3e950b67bc0e343d6f866aca5e5ab47426fafb2151941e0b0ba2</guid>
+<pubDate>2026-08-04T07:24:09+09:00</pubDate>
+<description>※本記事は 2026/8 時点の公開情報（Copilot Studio 公式ブログ、Microsoft Learn、Copilot Credits Guide 2026年8月版）をベースに整理しています。今後変更される可能性があるため、契約や導入判断の際は必ず最新の公式情報...</description>
+</item>
+<item>
+<title>【農業】 Author Correction: An agroecological perspective on systems-level transformations to keep current food systems from degrading the global commons</title>
+<link>https://www.nature.com/articles/s43016-026-01413-1</link>
+<guid>91aabd236551c4b70a001aae476996e12a5dca532d7bc1acaa97b9be7fafe4c1</guid>
+<pubDate>2026-08-03</pubDate>
+<description>Author Correction: An agroecological perspective on systems-level transformations to keep current food systems from degrading the global commons</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/probabilistic-governance-and-telemetry-framework-for-autonomous-agents/</link>
-<guid>bfafeed657cab32f128dc112b32c3b622c1569050c65e23b63554601d4ad7996</guid>
-<pubDate>Mon, 03 Aug 2026 21:36:25 GMT</pubDate>
+<link>https://research.google/pubs/reasoning-driven-synthetic-data-generation-and-evaluation/</link>
+<guid>9d115e03142552fb98994c7dc8c88775c361569b193d2c29cf604d2c9f9ee6f7</guid>
+<pubDate>Mon, 03 Aug 2026 22:52:17 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>e4cde483e3fe6e1009285a148a16e8b40a765031a41a8eeb156a6d56a91fbbea</guid>
-<pubDate>Mon, 03 Aug 2026 21:36:28 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>c1b95b548254f03e47ce2d47ec3c4e6bf230ed28c75d7eeb4dfcf856513b0655</guid>
-<pubDate>Mon, 03 Aug 2026 21:36:32 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
