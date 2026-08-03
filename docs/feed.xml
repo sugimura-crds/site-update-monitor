@@ -4,35 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 02 Aug 2026 23:27:18 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 01:05:31 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Ansible Automation Platform x HashiCorpVault x IBM Bob で証明書更新を自動化</title>
-<link>https://qiita.com/c_u/items/7d8db706241be4b1935c</link>
-<guid>ea7105ba66db2fa2e914c40b7940f8231a78fbd410aec14851d885420300c65c</guid>
-<pubDate>2026-08-03T08:17:45+09:00</pubDate>
-<description>本記事で構築する AAP × Vault による証明書運用自動化の全体像 はじめに Web サイトを HTTPS で配信するには、TLS 証明書（いわゆる SSL 証明書）が必要です。TLS 証明書は、通信の暗号化と、接続先が本物のサーバーであることの証明という2つの役...</description>
+<title>【Qiita】 プロフェッショナルTLS＆PKIを読む⑰ 証明書チェーン</title>
+<link>https://qiita.com/gomAnomalocaris/items/2580b6a11fe5cbcdb750</link>
+<guid>1eb87032aee523b3ca5f94dfb322208c82c07111bd090b0e5c55f2b76f0715ca</guid>
+<pubDate>2026-08-03T08:28:00+09:00</pubDate>
+<description>証明書チェーン 原書は実際の運用についての仕組み・説明がやや簡素な為、以下のサイトを参照しました。 cert-manager : TLS用語 証明書チェーンが必要な理由 ルートを安全に保つため ルートCAの証明書は非常に長い期間（年、数十年）をかけてあらゆるネットワ...</description>
 </item>
 <item>
-<title>【Qiita】 Graph Engineeringから考える、Agentシステム設計で大切なこと</title>
-<link>https://qiita.com/SF-28/items/91f7aa8de8bdf8128067</link>
-<guid>291bc68f1a0e8d521daf2d1c7870ab0ea6cbe1f060351f64dd3cf0261f31e1e4</guid>
-<pubDate>2026-08-03T08:23:59+09:00</pubDate>
-<description>最近、AIエージェント開発の文脈で Graph Engineering という言葉を見かけるようになった。 2026年7月には「LoopからGraphへ移ったのか」という議論が実務家の間で注目され、LangGraphを開発するLangChainも、Graph Enginee...</description>
+<title>【Qiita】 【Salesforce】2026年必須の「フィッシング耐性MFA」に備える ─ NISTのAALで整理して、実際にパスキーを登録してみた</title>
+<link>https://qiita.com/imamu123/items/d9bdb1d9944ec1481e4f</link>
+<guid>824b06a7a05f47f31d135567940b608c5c30bcb64b5064766e38a18c9d0ac6d4</guid>
+<pubDate>2026-08-03T09:33:48+09:00</pubDate>
+<description>🙋 はじめに Salesforceを使っていて、ログイン画面の認証まわりの設定を、なんとなく「推奨だから」で済ませていないでしょうか。 私もそうでした。あるとき「2026年から、管理者などはフィッシング耐性のあるMFAが必須になる」という話を聞き、最初は「フィッシング耐性...</description>
+</item>
+<item>
+<title>【Qiita】 「インターネットはありません」と書いたプロンプトの外で、AI が実在企業3社に侵入していた</title>
+<link>https://qiita.com/jqit_suwa/items/2adb0c35fffb41514791</link>
+<guid>5603ca2269c842a839d431eba92d0f482b2140f6720352e20bb0bc065fb05d6c</guid>
+<pubDate>2026-08-03T09:59:43+09:00</pubDate>
+<description>プロンプトには、こう書いてありました。 この環境はシミュレーションです。インターネットへのアクセスはありません。 嘘でした。 わざと嘘をついたわけではありません。書いた人も、そう信じていた。ただ、実際の環境はインターネットに繋がっていた。 結果、AI エージェントは実在...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントやFastAPIの案件でPostgreSQLをよく見かけたので、DynamoDBとの違いを調べてみた</title>
+<link>https://qiita.com/Sho5_Matsu/items/d3d75a5ba271dcda8157</link>
+<guid>42afe68f7e4c764cb2b520b5954560495676d26d68107264dc2b6b1cda1efd04</guid>
+<pubDate>2026-08-03T09:59:43+09:00</pubDate>
+<description>はじめに これまで、AIエージェントやFastAPIについて調べた記事を書いてきました。 技術記事や案件情報を見ていると、以下のような構成をよく見かけます。 FE：Next.js BE：FastAPI DB：PostgreSQL LLM：OpenAI API クラウド：...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントを調べていたらFastAPIをよく見かけたので調べてみた</title>
+<link>https://qiita.com/Sho5_Matsu/items/df0f47717a912110c34f</link>
+<guid>72928031f6941bd3ae1040083c9cee60f0b0606754a3adf922cf537d443e8b03</guid>
+<pubDate>2026-08-03T09:59:26+09:00</pubDate>
+<description>はじめに 前回、「AIエージェントについて自分で調べてみてわかったこと」という記事を書きました。 AIエージェントについて調べていると、以下のような技術を頻繁に見かけました。 OpenAI API AWS LangGraph PostgreSQL FastAPI 特に...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントについて自分で調べてみてわかったこと</title>
+<link>https://qiita.com/Sho5_Matsu/items/a3ca393d6bc9dd3682f6</link>
+<guid>811a1e4610203d0ed32961316a94c41c2fed88a57ff243461170d8e1c40e842f</guid>
+<pubDate>2026-08-03T09:59:08+09:00</pubDate>
+<description>はじめに 最近、案件情報や技術記事を見ていると「AIエージェント」という言葉を見かけることが増えてきました。 私自身、これまでAWSやPythonを中心に経験してきましたが、正直なところ「AIエージェントってChatGPTと何が違うんだ？」という状態でした。 特に、最近見...</description>
+</item>
+<item>
+<title>【Qiita】 アンケート、いきなり設問から作ってませんか？ ― AIと挑んだ非デザイナーのアンケート作成奮闘記</title>
+<link>https://qiita.com/sh-fukaya/items/6b79eb086377da212517</link>
+<guid>c7742c9fa06ee246f071b670778bd58e73a1d675e8851e21f1f6dd26f99b414e</guid>
+<pubDate>2026-08-03T09:30:56+09:00</pubDate>
+<description>アンケート、いきなり設問から作ってませんか？ ― AIと挑んだ非デザイナーのアンケート作成奮闘記 背景 「アンケート？ サービスデザイナーさんに頼めばいい」 間違いなく設問設計は専門職の方が質の高いものを作れます。 でも最近は生成AIで生産性が上がり、3人くらいの少数チ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/designing-privacy-choice-in-generative-ai-chatbot-ecosystems/</link>
-<guid>fc5a6cda386a9e9e808096cc1295b75a692b449a17415cad0507dab70393fd9c</guid>
-<pubDate>Sun, 02 Aug 2026 23:26:12 GMT</pubDate>
+<link>https://research.google/pubs/rethinking-context-enriched-time-series-forecasting-evaluation/</link>
+<guid>61a31b6ba0bd1114b87f211eedc0fad0998a36ea549b16d583d4e5ec242b636a</guid>
+<pubDate>Mon, 03 Aug 2026 01:03:56 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>921f782e7958e154c34059ee6a454b50281257785662506d3aaf53892274cbf4</guid>
-<pubDate>Sun, 02 Aug 2026 23:26:59 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>15181c86893118771069319e6bab7807eb9f2cd3461db891880d22e3066d7c6c</guid>
+<pubDate>Mon, 03 Aug 2026 01:03:58 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overall shape class. read more read more read more read more read more read more Sakana AIと有限責任あずさ監査法人は、コーヒー業界のサプライチェーンを舞台にLLMエージェントの長期的な経営能力を評価する「CoffeeBench」を開発。シミュレーション実験では、最新モデル間でも経営成績に大きな差があり、長期タスク特有のモデルの特性が観察された。 read more Sakana AI Releases ‘Fugu Ultra’ to Match Frontier Performance via Autonomous Model</description>
 </item>
 
 </channel>
