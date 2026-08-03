@@ -4,50 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 03 Aug 2026 18:43:45 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 20:21:23 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 CLAUDE.md を厚くしても意味がなかった話</title>
+<link>https://qiita.com/jqit_suwa/items/2dee3e3d53080c3676a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>1fe96b7afb010e79d2e52a0e22961652c5b9f24b82faf9902ee6859be0a02519</guid>
+<pubDate>2026-08-03T09:32:33+09:00</pubDate>
+<description>36.2%。 これ、何の数字だと思いますか。 AIエージェントに「このルールを守って作業して」と指示書を渡したとき、実際にちゃんと守れた割合です。しかも、これが一番マシだったモデルのスコア。ほとんどのモデルは25%を下回りました。 2026年7月28日に arXiv に上が...</description>
+</item>
+<item>
+<title>【Qiita】 AIに仕事を奪われる不安から始めるハーネス作成入門 第19回 機密情報をLLMに渡さないハーネス設計</title>
+<link>https://qiita.com/singula/items/f48a211058d4716687ab</link>
+<guid>cde32adb4c3f599c82adabf1ca60adaf7075acdf1187e73e1a132856d85b69ee</guid>
+<pubDate>2026-08-04T04:36:15+09:00</pubDate>
+<description>連載: AIに仕事を奪われる不安から始めるハーネス作成入門 第19回 ← 前回（第18回）: MCPサーバーの単体テスト・結合テスト観点を作る はじめに：AIに機密情報を渡してしまう不安 AIエージェントを業務で使うとき、最も気になるリスクのひとつが機密情報の漏洩です...</description>
+</item>
+<item>
+<title>【Qiita】 AI研究エージェントは仮説生成より実験ループ設計が本体である</title>
+<link>https://qiita.com/mhamadajp/items/9454227b935510f2b5e2</link>
+<guid>1959b7ec82404eee085442e673d1705bbd72158dda97585f10fb9234e1f72616</guid>
+<pubDate>2026-08-04T04:36:10+09:00</pubDate>
+<description>AIが論文を読み、仮説を立て、実験案を作り、結果を解析して次の実験を提案する。こうした「AI Scientist」の話題は、しばしば研究者を置き換える技術として紹介される。 しかし、IT技術者が注目すべきなのは、AIがもっともらしい仮説を出せることではない。 重要なのは、仮...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/efficient-property-aligned-fan-out-retrieval-via-rl-compiled-diffusion/</link>
-<guid>7ba04231a6ae710221873a1ac110a7b9e2a08283b5b448b4a94f1747145ac427</guid>
-<pubDate>Mon, 03 Aug 2026 18:43:01 GMT</pubDate>
+<link>https://research.google/pubs/see2refine-vision-language-feedback-improves-llm-based-ehmi-action-designers/</link>
+<guid>19607f370787bfdd9d5083f0a7b9b560cbce9c82f980d22e0e3c6abb5c62cfc3</guid>
+<pubDate>Mon, 03 Aug 2026 20:20:13 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>e45e0c572efcd952c11abe8b6463906dc857241578624eb950469831e816ff90</guid>
-<pubDate>Mon, 03 Aug 2026 18:43:03 GMT</pubDate>
+<guid>337d1ba77b6e0fbcbeecbb9e8668977709bd1532c277ad0d415b95b4bbb2a077</guid>
+<pubDate>Mon, 03 Aug 2026 20:20:16 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>cb5735e7fc7b08d759f2bb7e91e6268a56b2bec3cfc57538142042b8694816a5</guid>
-<pubDate>Mon, 03 Aug 2026 18:43:06 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>8df5b1a8fd0e0385bde040d9a06e308961eea636a695358608c6e2ae714f2063</guid>
-<pubDate>Mon, 03 Aug 2026 18:43:07 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>68aeccdb5c9c433c34996a72694bf8ee99a4e1e26eeb24d79eaf452d83a8e931</guid>
-<pubDate>Mon, 03 Aug 2026 18:43:24 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>c1c19e454be87307b3d62e7caace031e50ad46b547ba5fbbcd637a1de13fb67b</guid>
-<pubDate>Mon, 03 Aug 2026 18:43:25 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<link>https://www.nature.com/articles/s41746-026-02994-8</link>
+<guid>b483a851c41ecfd6bd963a5fcefd31b27c3fe6f92560d884c195ee986c3f0968</guid>
+<pubDate>Mon, 03 Aug 2026 20:20:21 GMT</pubDate>
+<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
 </item>
 
 </channel>
