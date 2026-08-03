@@ -4,84 +4,71 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 03 Aug 2026 08:24:53 GMT</lastBuildDate>
+<lastBuildDate>Mon, 03 Aug 2026 11:54:11 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 中国産Kimi3｜Claudeなどの有料プラン級が無料で使える最新AIとは？</title>
-<link>https://qiita.com/sumomoo/items/4efb8d1abd340c0bec28?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>5c0088a09567e2bbaf31c0238af746289ae276ceeb64ca481db7b2562dcc23a8</guid>
-<pubDate>2026-08-03T15:59:29+09:00</pubDate>
-<description>はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です 日々、プログラミング学習や実務の中で、つまずきやすいポイントや 考え方を整理して発信しています。 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。 ▶コーポレートサイト みなさん、2...</description>
+<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 13 ]：順番押し系ギミックの実装</title>
+<link>https://qiita.com/OnuuuumaX/items/ae00d142f243c4ca3814</link>
+<guid>20cb98a543f9494c7afef03e7c78c200885fe3cd68d261054d33c8fc4a383909</guid>
+<pubDate>2026-08-03T18:20:07+09:00</pubDate>
+<description>Axmol Engine で脱出ゲームを作る ── 額縁ギミック（4隅タップ）とライター取得 はじめに 今回は room1-1-1 に配置した肖像画の額縁をタップし、4隅を正しい順番でタップする割と古典的な謎解きギミックを実装します。 順番押し系のギミックに属します。 ...</description>
 </item>
 <item>
-<title>【Qiita】 「ITガバナンス」って何？夏のバカンス🏝️と何が違うの？ITパスポートのガバナンスを調べてみた。</title>
-<link>https://qiita.com/prumnn/items/7d677f2f15de896d88bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>bc6c37d1bd292a1c6a72904f328c662a48a7a30744351553f80037177028f69f</guid>
-<pubDate>2026-08-03T15:55:47+09:00</pubDate>
-<description>はじめに ニュースで不祥事の話題が出るたびに聞く「ガバナンスの欠如」という言葉。なんとなく「会社のたるみ」くらいのイメージで済ませていたぷらむんが、ITパスポートの勉強中に「ITガバナンス」の文字に出会って、調べずにいられなくなった話です。 こんにちわ、会社で自称...</description>
+<title>【Qiita】 GitHub CopilotをSEが使うときのテクニック10選</title>
+<link>https://qiita.com/kamome_susume/items/69c741b02677cf9e87cd</link>
+<guid>2b96fb18778f68e351cf44699c0580c04e399ae4b9f8fc113fa697b753481fb3</guid>
+<pubDate>2026-08-03T20:20:12+09:00</pubDate>
+<description>「コード補完は使っているけど、それ以外の場面でどう使えばいいかわからない」「上流工程や調査業務にはあまり活かせていない」と感じていませんか？実はGitHub Copilotは、実装だけでなく設計書の起こし、テスト観点の洗い出し、障害調査の当たりづけといった、SEが実際に時間...</description>
 </item>
 <item>
-<title>【Qiita】 さわってみよう Db2 AI エディション #15 〜HashiCorp Vault連携編 Part#1〜</title>
-<link>https://qiita.com/ibm_tk/items/f778c060037bd21add32</link>
-<guid>9bb5f99f58642cbb86b2c4d156893014c0d312631fa2c8affe4c28c20a5df637</guid>
-<pubDate>2026-08-03T17:11:38+09:00</pubDate>
-<description>Db2 AI エディション(Db2 AI Advanced, Db2 AI Standard)にはフル機能のDb2 Genius Hubがバンドルされています。 Db2 Genius Hubのセキュリティーを強化するために、この記事では、シークレット管理ツールHashiCo...</description>
+<title>【Qiita】 ケーススタディで体験する Grok Build によるカスタムエージェント開発</title>
+<link>https://qiita.com/Xudev/items/c7f41249ef282f67b024</link>
+<guid>106070a722bb4e7f7ca573c8fd441fa58cbbb6f2ab9de093bd70146272a3d96f</guid>
+<pubDate>2026-08-03T18:49:16+09:00</pubDate>
+<description>2026 年 5 月 14 日、現在 CLI で提供されているコーディングエージェント兼 「Grok Build」の早期ベータ版がリリースされ、AI / Vibe Coding 界隈の SNS が沸き立ちました。 エージェントをオープンソースで公開するなど多くのニュースと仕...</description>
 </item>
 <item>
-<title>【Qiita】 source したのに export が効かない：Windows CRLF が仕掛けた環境変数の罠</title>
-<link>https://qiita.com/kane_ryu/items/cf95a6327cef1fd75df5</link>
-<guid>a59e53c27728aecb3e15c55c60769393c9bec8907a03d687beeaa668a877b359</guid>
-<pubDate>2026-08-03T16:56:47+09:00</pubDate>
-<description>はじめに Linux サーバ上でシェルスクリプトを運用していると、こんな経験をすることがある。 $ source env.txt $ echo $FM_SRC_ROOT /var/www/html # ← 確かに見える $ bash migration.sh...</description>
-</item>
-<item>
-<title>【Qiita】 エージェントに「お願い」ではなく「強制」する ― Omnigentのガードレール入門</title>
-<link>https://qiita.com/taka_yayoi/items/e14654526b7d8e94b051</link>
-<guid>43cda1279fade5e23b246a2b8a137a3bf34d35da777395549ae15b7616de1736</guid>
-<pubDate>2026-08-03T15:57:23+09:00</pubDate>
-<description>ここまでの4本で、Omnigentの構成を理解し、Pollyでコードの並列実装とクロスレビューを、Debbyで多モデルの議論と統合を動かしてきました。合成、つまり異種のエージェントを混ぜて相互作用させることの価値は、だいぶ腹落ちしてきたところです。 ただ、複数のエージェント...</description>
-</item>
-<item>
-<title>【Qiita】 重要なPDFを読むのを諦めていた理由は、「言語の壁」でした</title>
-<link>https://qiita.com/ammiamia/items/6f04095c662ddabf4e72</link>
-<guid>add7072a45656bf306b123f390c3475f42231dd00f44ce7ec72a58db890c80d1</guid>
-<pubDate>2026-08-03T15:00:26+09:00</pubDate>
-<description>最近、ある業界レポートをダウンロードしました。 内容は自分が知りたかった情報ばかりで、データや事例、参考になる分析がたくさん詰まっていました。 ただ、ひとつ問題がありました。 そのPDFはすべて英語だったのです。 簡単な文章なら読めます。 でも、数十ページある専門的な資料を...</description>
-</item>
-<item>
-<title>【Qiita】 AIに設計させて、同じAIに実装させない ― Claude Code 自律開発ループに「設計者」と実装前ゲートを足す【設計者エージェント全文公開】</title>
-<link>https://qiita.com/TakanobuSano/items/c099906b6d5a617ce3d8</link>
-<guid>f84f8cc0bed9e00c2175dab0ad9a36ae951521713c4195b18882776c0ad74f05</guid>
-<pubDate>2026-08-03T14:32:26+09:00</pubDate>
-<description>🧭 本記事は Claude Code実務運用シリーズ の STEP 6「サブエージェント化する」です。 前回のチケット駆動ループに設計者を足し、仕様の曖昧さを実装後ではなく実装前に止めます。 シリーズ全体の地図と読む順は 親記事 にまとめています。 はじめに 以前、...</description>
+<title>【環境】 Psychological barriers to improving carbon competence</title>
+<link>https://www.nature.com/articles/s41893-026-01900-0</link>
+<guid>afb339ba552bb724f7af1d0cc97222e643941fb52fc1999c575318d1568a2e58</guid>
+<pubDate>2026-08-03</pubDate>
+<description>The psychological processes obstructing carbon competence—the acquisition of knowledge about the relative mitigation potential of different actions—are not well known. This study investigates the psychological barriers to developing carbon competence and explores interventions to overcome them.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/what-happens-when-technical-debt-vanishes/</link>
-<guid>bee95a06e215514b17be7ff8040ad8817279cb468e0ca9ace60e9804c2893980</guid>
-<pubDate>Mon, 03 Aug 2026 08:24:06 GMT</pubDate>
+<link>https://research.google/pubs/veriguard-enhancing-llm-agent-safety-via-verified-code-generation-2/</link>
+<guid>c5fdad5b5a59674c86bd61c57222a876b54f24822f9dcc8c703e94a87f349cd5</guid>
+<pubDate>Mon, 03 Aug 2026 11:53:20 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>1a1390f7cb751c4de8c423d6d6fa1098392873fed0407b30389c1ad44a7ca338</guid>
-<pubDate>Mon, 03 Aug 2026 08:24:08 GMT</pubDate>
+<guid>5226e119e2f4ebba4fa72df8114ea12b08c04c44df6e6c77a17e9c7a322e79f4</guid>
+<pubDate>Mon, 03 Aug 2026 11:53:23 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>acb2790f14476e16e59bf9d8a0e7d04403c49f767d875a14120cdbae2413ec7c</guid>
-<pubDate>Mon, 03 Aug 2026 08:24:10 GMT</pubDate>
+<guid>a5ec38f615a2241128b06627b3d64eb0fd29b5c408006a86a99bc5234f062bdb</guid>
+<pubDate>Mon, 03 Aug 2026 11:53:26 GMT</pubDate>
 <description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>8420159197b7243007e2181a060a8ba6edc5a2bcc80319ce9e3df60fee19ce54</guid>
-<pubDate>Mon, 03 Aug 2026 08:24:11 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【UK】 Featured</title>
+<link>https://www.gov.uk/government/organisations/department-for-business-innovation-science-and-trade</link>
+<guid>4f418cb0630ef926084e484dce5bc791da2cc405147ecabe0fed10b71355ea9c</guid>
+<pubDate>Mon, 03 Aug 2026 11:53:31 GMT</pubDate>
+<description>We drive good growth, good jobs and opportunity across the UK. We support businesses to invest, innovate, export and grow, powered by science and technology.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>3ef60e79ff91badd91211cc579c6c25d1fc5d1a8edf92fa271bec30f3cfb03f9</guid>
+<pubDate>Mon, 03 Aug 2026 11:53:50 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
