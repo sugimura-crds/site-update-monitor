@@ -4,77 +4,99 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 04 Aug 2026 08:21:42 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 11:01:48 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 50音を全部作って繋いだのに、（ ´∀｀）になった話</title>
-<link>https://qiita.com/taguchi_sapeet/items/f2da1003b168b52f5770?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>9a47f0e49a4e07be265b49d1db0f833b8a772a050db70ec985e36927281d1c79</guid>
-<pubDate>2026-08-04T10:11:44+09:00</pubDate>
-<description>まず、これを聴いてください 音声①：自作したTTSで「こんにちは」 聞き覚えのある感じ、しませんか。 ∧＿∧ （ ´∀｀） ＜ こんにちは （ ） ｜ ｜ ｜ （_＿）＿） そう、モナーです。 一応、本人（？）は「こんにちは」...</description>
+<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 14 ]：絵合わせ系＋別ボタンギミック（時計）の実装</title>
+<link>https://qiita.com/OnuuuumaX/items/10ca6d950daeb7aca37d</link>
+<guid>422308b1956d9ec6b07e5a533a2fbdfb9a2c57dc8492fbfab882772c0947f2a6</guid>
+<pubDate>2026-08-04T19:49:00+09:00</pubDate>
+<description>はじめに 前回の記事では額縁の4隅タップギミックとライターの取得を実装しました。今回は room1-3 の置き時計をタップして時計部屋（room1-3-1）に入り、時計盤の針を8時20分に合わせるギミックを解いて、隠されたアイテム「ライターオイル」を取得するまでを実装しま...</description>
 </item>
 <item>
-<title>【Qiita】 QuarkusとConfluent Cloudで始めるイベント駆動アプリケーション</title>
-<link>https://qiita.com/ktgr/items/fbdc7ff332e7d115eb2f</link>
-<guid>87a952d333165e620605f66fb698bd422e6743bc39c76b1b73d45badd2554362</guid>
-<pubDate>2026-08-04T17:05:18+09:00</pubDate>
-<description>はじめに 近年、アプリケーション間をAPIで直接連携するだけでなく、イベントを介して疎結合に連携するイベント駆動アーキテクチャが注目されています。 イベント駆動アーキテクチャでは、あるアプリケーションで発生した出来事を「イベント」としてメッセージング基盤へ送信し、別のアプ...</description>
+<title>【Qiita】 【AIエージェント on Claude Code】問い合わせ対応の一次処理部分をAgent Skillsで全自動化｜業務データの利用</title>
+<link>https://qiita.com/wing_man/items/ae2240dbf6f3bef5ca91</link>
+<guid>ef2be6a6b6027e35c6177cdeadb6a005750438003f4609bfaf34be4e37f4177b</guid>
+<pubDate>2026-08-04T19:55:46+09:00</pubDate>
+<description>はじめに Claude Code上で、業務の一部をAIエージェントによって自動化する取り組みが広がっています。 こうしたAIエージェントは、自然言語で記述するAgent Skillsを使用することで、非エンジニアでも構築しやすくなります。 AIの民主化という観点では、とて...</description>
 </item>
 <item>
-<title>【Qiita】 RAI（責任あるAI）を学ぼう</title>
-<link>https://qiita.com/tetsuro731/items/89e108f8653b8ba0d204</link>
-<guid>c75a3e7c8b91836bf2856999b506079914fc39639bc3b605d7d62ef76e0828e1</guid>
-<pubDate>2026-08-04T16:29:30+09:00</pubDate>
-<description>はじめに 最近、ほとんどコードを書かなくなった。 コーディングはAIエージェントにやらせる。 GitHubへのcommit, push, PRの作成、そしてレビューまでをAIでカバーできる。 数年前までは信じられなかったが、今やほとんど中身を確認せずとも成果物を作れるよう...</description>
+<title>【Qiita】 日本の生成AI利用率・普及率は世界最下位レベルで大半が使用予定無し（2026年）</title>
+<link>https://qiita.com/mnoda/items/0ca8916cfe8078b4c75e</link>
+<guid>3fadc57cd380f9c08b3f3505bc98f7d93cd5d6e5270ea13ea0bdb4225ac2de7a</guid>
+<pubDate>2026-08-04T17:36:57+09:00</pubDate>
+<description>ChatGPTとCopilotに生成AIのシェアや人口に対する普及率を推定させてみました。 アメリカ、カナダ、日本、韓国、中国、インド、タイの生成AI利用率（国民全員と40代人口に対して）で日本は最下位・・・インド、中国、韓国に圧倒 ChatGPTの答え： Copilo...</description>
 </item>
 <item>
-<title>【Qiita】 【#7】承認・履歴付 OSS SSH MCP server ssh-gate -- クロスプラットフォーム・公開編</title>
-<link>https://qiita.com/yoshiyakato/items/07b273981d49ca2eef5b</link>
-<guid>37fdbaacc204c9eeae1271f19a5e30385cfa294435551b53ba30195921e88e5e</guid>
-<pubDate>2026-08-04T15:19:59+09:00</pubDate>
-<description>Go デスクトップアプリを Windows / Mac 両対応で公開するまでの全ハマりどころ — cgo・名前付きパイプ・未署名アプリ 連載「AI エージェントに SSH を渡すのが怖いので、人間承認ゲートウェイを自作した」第7回（クロスプラットフォーム・公開編／連載の...</description>
+<title>【Qiita】 Oracle IntegrationのAIエージェントを使ってみた</title>
+<link>https://qiita.com/nakasato310/items/be985526859d59a0a8b0</link>
+<guid>cd63d5aeda1149346c73bd2e3d44c00c03629fc9cef443926a171d2f7d787b05</guid>
+<pubDate>2026-08-04T18:44:14+09:00</pubDate>
+<description>はじめに Oracle Integration（OIC） は、Oracle Cloud Infrastructure（OCI）が提供するiPaaS（Integration Platform as a Service）です。Oracle SaaSやOCIサービス、オンプレミ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude に非同期 I2C 回路を実装させてみる</title>
-<link>https://qiita.com/jun1okamura/items/898248762a03492cdc33</link>
-<guid>f0029fe17578dce77f2a3c455ad9173827519881ae7eee9cd174a4fca1de3ebc</guid>
-<pubDate>2026-08-04T15:17:15+09:00</pubDate>
-<description>AIで半導体回路設計・第二弾 夏休みの宿題「AIで回路設計・第二弾」Open-Source TR-1um を使った OpenSUSI-MPW サービスでも実装できそうなロジック回路として非同期 I2C 回路を Claude に実装させてみました。はてさて、どこまで出来るの...</description>
+<title>【自動自律実験】 Put health systems at the centre of European heatwave plans</title>
+<link>https://www.nature.com/articles/d41586-026-02426-3</link>
+<guid>d7fe89f6cd1680653cbb07ae4c6229f0c4171e804ad3da2d8bceab5ceed3e63f</guid>
+<pubDate>2026-08-04</pubDate>
+<description>Put health systems at the centre of European heatwave plans</description>
 </item>
 <item>
-<title>【Qiita】 Microsoft Agent Framework、4カ月の進化を6本で整理した</title>
-<link>https://qiita.com/kai_kou/items/906a2162d0d401b8fd2d</link>
-<guid>7d04a19ef14e70873e1cf5d168c06f6848e04b7c11628a6dd56880ae30bf9776</guid>
-<pubDate>2026-08-04T16:10:04+09:00</pubDate>
-<description>はじめに Microsoft Agent Framework（Semantic KernelとAutoGenを統合したAIエージェント開発フレームワーク）について、本ブログではRelease Candidate（RC）公開からBuild 2026での新機能発表まで、4カ月...</description>
+<title>【自動自律実験】 Scientists don’t need more trust, they need public allies</title>
+<link>https://www.nature.com/articles/d41586-026-02424-5</link>
+<guid>9b6aeca0faf100fdc8992c4ff16ba784929413ee1555115d6101761e007d954b</guid>
+<pubDate>2026-08-04</pubDate>
+<description>Scientists don’t need more trust, they need public allies</description>
+</item>
+<item>
+<title>【自動自律実験】 Lab leaders should follow football’s lead and have coaching qualifications</title>
+<link>https://www.nature.com/articles/d41586-026-02427-2</link>
+<guid>2d37f88a993c52d58bb7d45e81511e3f6f039ef9651b259fa01db251a904cd2d</guid>
+<pubDate>2026-08-04</pubDate>
+<description>Lab leaders should follow football’s lead and have coaching qualifications</description>
+</item>
+<item>
+<title>【自動自律実験】 How scientists can tackle the paradox of political polarization</title>
+<link>https://www.nature.com/articles/d41586-026-02425-4</link>
+<guid>087167f634d5d9faaf17a910d25164a3ce7c4ef69185248f89d581b0f117650e</guid>
+<pubDate>2026-08-04</pubDate>
+<description>How scientists can tackle the paradox of political polarization</description>
+</item>
+<item>
+<title>【自動自律実験】 Europe can become a bioengineering powerhouse with these three changes</title>
+<link>https://www.nature.com/articles/d41586-026-02389-5</link>
+<guid>97afd75a17bba2bf488323db1ca5c80a51390d978ed54a4ecf54e92bd1269ebd</guid>
+<pubDate>2026-08-04</pubDate>
+<description>Sustaining the region’s strong position in the life-sciences sector will require investment and education in bioengineering.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients-2/</link>
-<guid>7cd4de07b90e9a2f383eeb3eabb12c30e35b0438b565f835923ac8bcd690e238</guid>
-<pubDate>Tue, 04 Aug 2026 08:20:53 GMT</pubDate>
+<link>https://research.google/pubs/approximate-vs-precise-an-experiment-in-what-impacts-user-choice-when-apps-request-location-access/</link>
+<guid>b19a535a9fb641b96ce91655fdf0e17866e2046994696bf0e45cbaa172b6f3c6</guid>
+<pubDate>Tue, 04 Aug 2026 11:00:57 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>b5fce4d4da7af6bf4e9c15f0e068ea7088463fe16f32d04c5110a1fdd86cd41b</guid>
-<pubDate>Tue, 04 Aug 2026 08:20:55 GMT</pubDate>
+<guid>c3db4c8a05b1d232f6abb8e7c5594e34b61600bf362c0eaf791350a3022bc068</guid>
+<pubDate>Tue, 04 Aug 2026 11:00:59 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>ed4e92b473b284c137aa9163ac42ac12098ac29018658e3862389e277e94c8d2</guid>
-<pubDate>Tue, 04 Aug 2026 08:20:57 GMT</pubDate>
+<guid>92675e96d4ba7b0e8b6addbe7e0b018f9fb5372b4de6e58828691f5bda6e1320</guid>
+<pubDate>Tue, 04 Aug 2026 11:01:02 GMT</pubDate>
 <description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
 </item>
 <item>
-<title>【環境】 237 Results</title>
-<link>https://www.canarymedia.com/search?q=artificial+intelligence</link>
-<guid>d0c92d7d697e5fceeb268799a8c4347b7b79a060ad17c85ecb6e1a31e730e3bc</guid>
-<pubDate>Tue, 04 Aug 2026 08:21:42 GMT</pubDate>
-<description>The leading newsroom covering the transition to clean energy, electrification and climate solutions. We report on how the world is decarbonizing with a…</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>7644ca6e70fd3c85370a377b79f2705d224ff78fa9fb78fc8265b01c8d5261d8</guid>
+<pubDate>Tue, 04 Aug 2026 11:01:29 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
