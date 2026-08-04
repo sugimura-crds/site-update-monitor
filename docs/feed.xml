@@ -4,35 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 04 Aug 2026 00:01:28 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 02:45:24 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Q. 底辺作家でも流行に乗れば舞えますか？ A. はい。分析ランキング分析AIを使えば</title>
-<link>https://qiita.com/tanahiro2010/items/0b445c7be019b60338e4</link>
-<guid>bf0efdef156df6fb03ed6b4e6c645946a5d1a016bf6d00e1389dfd6762a82437</guid>
-<pubDate>2026-08-04T08:39:00+09:00</pubDate>
-<description>こんにちは。tanahiro2010です。 この記事は、DemoStageで話した「Q. 底辺作家でも流行に乗れば舞えますか？ A. はい。分析ランキング分析AIを使えば」という登壇内容を、Qiita向けの記事としてまとめたものです。 対象は、趣味で創作をしている人。 そし...</description>
+<title>【Qiita】 古いOSのサーバーで最新AIツールが使えない……そんなときBobが頼れる話</title>
+<link>https://qiita.com/mnori0211/items/9e058ac3f24afb17a39b</link>
+<guid>ea9bb32550d305110272233cbff159bed58ba22c577fbc911cb20a9dd430900a</guid>
+<pubDate>2026-08-04T11:10:58+09:00</pubDate>
+<description>本記事は「サーバーの環境構築で詰まったら、BobというAIに聞いてみよう」シリーズのシナリオ3です。このシリーズで最も「Bobである必要性」を感じられる記事です。 現実：古いOSはまだまだ現役 「うちのサーバー、Windows Server 2016 なんだよね」 ...</description>
 </item>
 <item>
-<title>【Qiita】 【ありのままはなすぜ】お前(のClaudeCode)はもうRCEんでいる【俺でなきゃ見逃しちゃうね】</title>
-<link>https://qiita.com/dirbato-tetsushiyamada/items/54ea2efd4637f6f10b3a</link>
-<guid>9cb32ea59df874736a67c6507a66513ea491712f7723807ce0e10d44eb222c90</guid>
-<pubDate>2026-08-04T08:26:34+09:00</pubDate>
-<description>こんにちは！ 社内技術横断支援組織「Backbeat」の山田のてっちゃんです！ 過去から現在に至るまで、「気づいたらやられていた」系のミームは全ての時代に代表作がありますが、AIエージェント業界発のミームが生まれそうな脆弱性がありました(あります)。この記事では、 ①過去に...</description>
+<title>【Qiita】 日刊IETF (2026-06-26) 認証と輻輳制御に証明書の名前制約が並ぶ終盤 (Part3/3)</title>
+<link>https://qiita.com/tetsuko_room/items/d787ee15e45817b27b45</link>
+<guid>fa7f914a0ffaddbca0d572ff8108052bc8913dfa228470ef4b936ee2fd5c5dd9</guid>
+<pubDate>2026-08-04T10:31:15+09:00</pubDate>
+<description>おはようございます！！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-26（UTC基準）に公開さ...</description>
 </item>
 <item>
-<title>【Qiita】 OpenClawで9体のAIエージェント経営OSを構築した実装ログ【2026年版】</title>
-<link>https://qiita.com/sescore/items/f42658a32bfc896669f8</link>
-<guid>1358abbbce8e4d96013b433f1c56f137abe6d9c7308770194c1680457ce912ca</guid>
-<pubDate>2026-08-04T08:11:43+09:00</pubDate>
-<description>はじめに：なぜ「経営OS」をAIエージェントで作ったのか 2026年8月現在、Claude Codeのスキル（Skills）機構とサブエージェント機能を組み合わせると、個人でも「複数の役員が並行して仕事をする会社」をコードベースで再現できる。私はOpenClawというプラ...</description>
+<title>【Qiita】 【Next Tokyo 26】BigQuery 2026 徹底解説：AI時代のDWHが向かう「自律型データ基盤」の全貌</title>
+<link>https://qiita.com/tomokoro/items/9740693b74b09ab5a44b</link>
+<guid>c733d005fc71dfd81a91d864ab6459e5a27233a93879ce881fbd4d49587a7bc6</guid>
+<pubDate>2026-08-04T11:36:52+09:00</pubDate>
+<description>みなさんこんにちは！ Google Cloud Next Tokyo 26 にて開催されたセッション 「BigQuery 2026：AI 時代のデータウェア ハウスはどこへ向かうのか？最新アップデート徹底解説」（D1-DA-01） を聴講してきました。 スピーカーは Goo...</description>
+</item>
+<item>
+<title>【Qiita】 Pythonで業務用語の定義漏れをCIで止める</title>
+<link>https://qiita.com/hironakamura_ai/items/0dd905e4c1710b0c7cfb</link>
+<guid>4f859eb4e17e36db06aa2be5e654e7415013cb6d3a08a21e3a3afdc757b27344</guid>
+<pubDate>2026-08-04T11:22:11+09:00</pubDate>
+<description>昨日、LLM に渡す売上指標の用語集を JSON にしていて、純売上 の計算に必要な キャンセル額 がどこにも定義されていないことに気付いた。プロンプトなら「不足している用語は質問して」と書ける。でも実行のたびに守らせるより、マージ前に落としたほうが早い。 業務用語集は説明...</description>
+</item>
+<item>
+<title>【Qiita】 2026/08/04 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/6c6d0f42b3cca14527f8</link>
+<guid>9484e445264cbdc8c1f145d23afe6dc9794d4ce7937ce24423fd2c89bbd8316f</guid>
+<pubDate>2026-08-04T10:48:26+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 AIのアウトプットをそのまま出すだけの人になら...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/securing-multi-agent-systems-an-empirical-analysis-of-security-prompt-hardening-and-residual-risks/</link>
-<guid>f4f3ccd38b0ee9a47f7b3b0b612b86e29de3484c630472d05ec86384cb8ec6b7</guid>
-<pubDate>Mon, 03 Aug 2026 23:59:54 GMT</pubDate>
+<link>https://research.google/pubs/arm-mte-performance-in-practice/</link>
+<guid>5634eea5f13b45eb0d6bbb5fc6fc21d7bbab1577ea972521c76906fe9e277e08</guid>
+<pubDate>Tue, 04 Aug 2026 02:44:28 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>fdda4941a68330c477ba5295934dd7f4000559587dcf7f14b30416105267c81e</guid>
+<pubDate>Tue, 04 Aug 2026 02:45:02 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
