@@ -4,99 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 04 Aug 2026 11:01:48 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 13:14:13 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【Axmol Engine】 バイブコーディングで脱出ゲームを作る[ 14 ]：絵合わせ系＋別ボタンギミック（時計）の実装</title>
-<link>https://qiita.com/OnuuuumaX/items/10ca6d950daeb7aca37d</link>
-<guid>422308b1956d9ec6b07e5a533a2fbdfb9a2c57dc8492fbfab882772c0947f2a6</guid>
-<pubDate>2026-08-04T19:49:00+09:00</pubDate>
-<description>はじめに 前回の記事では額縁の4隅タップギミックとライターの取得を実装しました。今回は room1-3 の置き時計をタップして時計部屋（room1-3-1）に入り、時計盤の針を8時20分に合わせるギミックを解いて、隠されたアイテム「ライターオイル」を取得するまでを実装しま...</description>
+<title>【Qiita】 ユーザーがフロントエンドを作る時代がやってきた！？</title>
+<link>https://qiita.com/oreoandrio/items/f1c5f7277b3809f9c8cf</link>
+<guid>3cba5f5645c12c9ad2cbd394e0134c46dd04aa4caed02bc9bc789dba0a806fb1</guid>
+<pubDate>2026-08-04T20:19:20+09:00</pubDate>
+<description>はじめに 近年では、AIコーディングアシスタントを活用してアプリケーションを開発することは珍しくなくなりました。 IBMには Bob というAIコーディングアシスタントがあり、自然言語で要件を伝えるだけで、コード生成や実装支援を行ってくれます。 あるとき私は、新しい...</description>
 </item>
 <item>
-<title>【Qiita】 【AIエージェント on Claude Code】問い合わせ対応の一次処理部分をAgent Skillsで全自動化｜業務データの利用</title>
-<link>https://qiita.com/wing_man/items/ae2240dbf6f3bef5ca91</link>
-<guid>ef2be6a6b6027e35c6177cdeadb6a005750438003f4609bfaf34be4e37f4177b</guid>
-<pubDate>2026-08-04T19:55:46+09:00</pubDate>
-<description>はじめに Claude Code上で、業務の一部をAIエージェントによって自動化する取り組みが広がっています。 こうしたAIエージェントは、自然言語で記述するAgent Skillsを使用することで、非エンジニアでも構築しやすくなります。 AIの民主化という観点では、とて...</description>
+<title>【Qiita】 LiteLLM vs OpenRouter vs Portkey: LLMゲートウェイ完全比較【2026年版】</title>
+<link>https://qiita.com/agdexai/items/be338f753ddd8ce5cd70</link>
+<guid>ad43518cd670993d94eac7c03cbc2cb74b38fc2de29484cf5494baa4e14adde8</guid>
+<pubDate>2026-08-04T21:21:39+09:00</pubDate>
+<description>LiteLLM vs OpenRouter vs Portkey: LLMゲートウェイ完全比較【2026年版】 AIエージェント開発において、LLMゲートウェイは欠かせない存在になりました。複数のLLMプロバイダーを統一的に扱い、コスト最適化・フォールバック・レート制限を...</description>
 </item>
 <item>
-<title>【Qiita】 日本の生成AI利用率・普及率は世界最下位レベルで大半が使用予定無し（2026年）</title>
-<link>https://qiita.com/mnoda/items/0ca8916cfe8078b4c75e</link>
-<guid>3fadc57cd380f9c08b3f3505bc98f7d93cd5d6e5270ea13ea0bdb4225ac2de7a</guid>
-<pubDate>2026-08-04T17:36:57+09:00</pubDate>
-<description>ChatGPTとCopilotに生成AIのシェアや人口に対する普及率を推定させてみました。 アメリカ、カナダ、日本、韓国、中国、インド、タイの生成AI利用率（国民全員と40代人口に対して）で日本は最下位・・・インド、中国、韓国に圧倒 ChatGPTの答え： Copilo...</description>
+<title>【Qiita】 Headroom完全ガイド：AIエージェントのトークン消費を60〜95%削減するコンテキスト圧縮ミドルウェア【2026年版】</title>
+<link>https://qiita.com/agdexai/items/a75d8a151d6f6f7f54ba</link>
+<guid>bbd5905ea5723fbfecb83c1918ff5efc6882e0c73f496599c93f7adb17b397e0</guid>
+<pubDate>2026-08-04T21:21:56+09:00</pubDate>
+<description>Headroom完全ガイド：AIエージェントのトークン消費を60〜95%削減するコンテキスト圧縮ミドルウェア なぜ今、コンテキスト圧縮が必要なのか Claude Code を週末放置したら $400 の API 請求書が届いた。RAG パイプラインが月 $2,000 を...</description>
 </item>
 <item>
-<title>【Qiita】 Oracle IntegrationのAIエージェントを使ってみた</title>
-<link>https://qiita.com/nakasato310/items/be985526859d59a0a8b0</link>
-<guid>cd63d5aeda1149346c73bd2e3d44c00c03629fc9cef443926a171d2f7d787b05</guid>
-<pubDate>2026-08-04T18:44:14+09:00</pubDate>
-<description>はじめに Oracle Integration（OIC） は、Oracle Cloud Infrastructure（OCI）が提供するiPaaS（Integration Platform as a Service）です。Oracle SaaSやOCIサービス、オンプレミ...</description>
+<title>【Qiita】 DeepSeek V4 APIでAIエージェントを作る完全ガイド【2026年版】</title>
+<link>https://qiita.com/agdexai/items/9576c110b8c22ed3dfe2</link>
+<guid>032a13e544e06e0a7f4516f0741c9abd975f63913a89a0a446aa8c1f423a3f88</guid>
+<pubDate>2026-08-04T21:21:22+09:00</pubDate>
+<description>DeepSeek V4 API で AI エージェントを作る完全ガイド【2026年版】 2026年4月、DeepSeek V4が登場しました。コンテキスト1Mトークン・MCP対応・GPT-4oを超えるコーディング性能を、GPT-4oの約1/18の価格で提供します。 ⚠️...</description>
 </item>
 <item>
-<title>【自動自律実験】 Put health systems at the centre of European heatwave plans</title>
-<link>https://www.nature.com/articles/d41586-026-02426-3</link>
-<guid>d7fe89f6cd1680653cbb07ae4c6229f0c4171e804ad3da2d8bceab5ceed3e63f</guid>
+<title>【自動自律実験】 Why the need for the WHO has never been greater</title>
+<link>https://www.nature.com/articles/d41586-026-02358-y</link>
+<guid>da915b06faadc9b571b56862b554e83215a792542a39923669dc35d6db8c8e95</guid>
 <pubDate>2026-08-04</pubDate>
-<description>Put health systems at the centre of European heatwave plans</description>
-</item>
-<item>
-<title>【自動自律実験】 Scientists don’t need more trust, they need public allies</title>
-<link>https://www.nature.com/articles/d41586-026-02424-5</link>
-<guid>9b6aeca0faf100fdc8992c4ff16ba784929413ee1555115d6101761e007d954b</guid>
-<pubDate>2026-08-04</pubDate>
-<description>Scientists don’t need more trust, they need public allies</description>
-</item>
-<item>
-<title>【自動自律実験】 Lab leaders should follow football’s lead and have coaching qualifications</title>
-<link>https://www.nature.com/articles/d41586-026-02427-2</link>
-<guid>2d37f88a993c52d58bb7d45e81511e3f6f039ef9651b259fa01db251a904cd2d</guid>
-<pubDate>2026-08-04</pubDate>
-<description>Lab leaders should follow football’s lead and have coaching qualifications</description>
-</item>
-<item>
-<title>【自動自律実験】 How scientists can tackle the paradox of political polarization</title>
-<link>https://www.nature.com/articles/d41586-026-02425-4</link>
-<guid>087167f634d5d9faaf17a910d25164a3ce7c4ef69185248f89d581b0f117650e</guid>
-<pubDate>2026-08-04</pubDate>
-<description>How scientists can tackle the paradox of political polarization</description>
-</item>
-<item>
-<title>【自動自律実験】 Europe can become a bioengineering powerhouse with these three changes</title>
-<link>https://www.nature.com/articles/d41586-026-02389-5</link>
-<guid>97afd75a17bba2bf488323db1ca5c80a51390d978ed54a4ecf54e92bd1269ebd</guid>
-<pubDate>2026-08-04</pubDate>
-<description>Sustaining the region’s strong position in the life-sciences sector will require investment and education in bioengineering.</description>
+<description>Diseases don’t stop at borders. Pandemics, climate change and conflicts demand a collective approach.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/approximate-vs-precise-an-experiment-in-what-impacts-user-choice-when-apps-request-location-access/</link>
-<guid>b19a535a9fb641b96ce91655fdf0e17866e2046994696bf0e45cbaa172b6f3c6</guid>
-<pubDate>Tue, 04 Aug 2026 11:00:57 GMT</pubDate>
+<link>https://research.google/pubs/potre-test-time-reasoning-inspired-by-cognitive-heterogeneity/</link>
+<guid>b3f63ef028786f19fbba5172be24ee75dec55f6f45cabff35d4e4061fb5b88d6</guid>
+<pubDate>Tue, 04 Aug 2026 13:13:19 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>c3db4c8a05b1d232f6abb8e7c5594e34b61600bf362c0eaf791350a3022bc068</guid>
-<pubDate>Tue, 04 Aug 2026 11:00:59 GMT</pubDate>
+<guid>d36ce370fa910f05d8b5e5e4109a4473279159fdcbd71886749daf544f285122</guid>
+<pubDate>Tue, 04 Aug 2026 13:13:22 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>92675e96d4ba7b0e8b6addbe7e0b018f9fb5372b4de6e58828691f5bda6e1320</guid>
-<pubDate>Tue, 04 Aug 2026 11:01:02 GMT</pubDate>
+<guid>fec6baffa0f301e271a567123688ca587b9d0c32fd32c7d41fa050379e3e4336</guid>
+<pubDate>Tue, 04 Aug 2026 13:13:25 GMT</pubDate>
 <description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>7644ca6e70fd3c85370a377b79f2705d224ff78fa9fb78fc8265b01c8d5261d8</guid>
-<pubDate>Tue, 04 Aug 2026 11:01:29 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
