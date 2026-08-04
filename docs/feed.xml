@@ -4,57 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 04 Aug 2026 02:45:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 05:39:58 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 古いOSのサーバーで最新AIツールが使えない……そんなときBobが頼れる話</title>
-<link>https://qiita.com/mnori0211/items/9e058ac3f24afb17a39b</link>
-<guid>ea9bb32550d305110272233cbff159bed58ba22c577fbc911cb20a9dd430900a</guid>
-<pubDate>2026-08-04T11:10:58+09:00</pubDate>
-<description>本記事は「サーバーの環境構築で詰まったら、BobというAIに聞いてみよう」シリーズのシナリオ3です。このシリーズで最も「Bobである必要性」を感じられる記事です。 現実：古いOSはまだまだ現役 「うちのサーバー、Windows Server 2016 なんだよね」 ...</description>
+<title>【Qiita】 F5 AppWorld Tokyo 2026 参加レポート</title>
+<link>https://qiita.com/infra_journey/items/eebe132578825d454881</link>
+<guid>4425a12b39370548d18eec44776f99fec5c5dd96f916c4eeb0c9dc03a7e2de23</guid>
+<pubDate>2026-08-04T13:39:47+09:00</pubDate>
+<description>はじめに 2026年7月9日に開催された F5 AppWorld Tokyo 2026 に参加してきました。 イベント公式サイトはこちらです。 F5 AppWorld Tokyo 2026 https://www.f5.com/ja_jp/appworld 私は...</description>
 </item>
 <item>
-<title>【Qiita】 日刊IETF (2026-06-26) 認証と輻輳制御に証明書の名前制約が並ぶ終盤 (Part3/3)</title>
-<link>https://qiita.com/tetsuko_room/items/d787ee15e45817b27b45</link>
-<guid>fa7f914a0ffaddbca0d572ff8108052bc8913dfa228470ef4b936ee2fd5c5dd9</guid>
-<pubDate>2026-08-04T10:31:15+09:00</pubDate>
-<description>おはようございます！！！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-26（UTC基準）に公開さ...</description>
+<title>【Qiita】 【徹底解説】autoresearch と Bilevel Autoresearch —— AIエージェントの「ループエンジニアリング」を最深部まで分解する</title>
+<link>https://qiita.com/Simon_Zhang/items/fe1444bd1bdc34845353</link>
+<guid>b4871ea935153d8feb0a7c39276b7bd47f65abf11cc11a2ba33fc0424b0ad954</guid>
+<pubDate>2026-08-04T14:12:25+09:00</pubDate>
+<description>「プロンプトを書く時代」から「ループを設計する時代」へ。 本記事では、Andrej Karpathy の OSS autoresearch（通称 Karpathy Loop）と、そのメタ版である論文 Bilevel Autoresearch: Meta-Autoresea...</description>
 </item>
 <item>
-<title>【Qiita】 【Next Tokyo 26】BigQuery 2026 徹底解説：AI時代のDWHが向かう「自律型データ基盤」の全貌</title>
-<link>https://qiita.com/tomokoro/items/9740693b74b09ab5a44b</link>
-<guid>c733d005fc71dfd81a91d864ab6459e5a27233a93879ce881fbd4d49587a7bc6</guid>
-<pubDate>2026-08-04T11:36:52+09:00</pubDate>
-<description>みなさんこんにちは！ Google Cloud Next Tokyo 26 にて開催されたセッション 「BigQuery 2026：AI 時代のデータウェア ハウスはどこへ向かうのか？最新アップデート徹底解説」（D1-DA-01） を聴講してきました。 スピーカーは Goo...</description>
+<title>【Qiita】 【実践】Claude Code × Superpowers 徹底解説 — AIエージェントに「開発規律」をインストールする</title>
+<link>https://qiita.com/Simon_Zhang/items/5c371e212afbba5a002f</link>
+<guid>3e9fab7f7535c17a7d439ad64176abfc7f30ce18f3aa389cac739f879e87cda5</guid>
+<pubDate>2026-08-04T13:43:13+09:00</pubDate>
+<description>目次 はじめに — なぜ Superpowers なのか Superpowers とは何か アーキテクチャ: スキル / フック / ブートストラップ インストールと動作確認 スキル一覧リファレンス 実践: 機能開発を最初から最後まで通してみる 実践: バグ修正を sy...</description>
 </item>
 <item>
-<title>【Qiita】 Pythonで業務用語の定義漏れをCIで止める</title>
-<link>https://qiita.com/hironakamura_ai/items/0dd905e4c1710b0c7cfb</link>
-<guid>4f859eb4e17e36db06aa2be5e654e7415013cb6d3a08a21e3a3afdc757b27344</guid>
-<pubDate>2026-08-04T11:22:11+09:00</pubDate>
-<description>昨日、LLM に渡す売上指標の用語集を JSON にしていて、純売上 の計算に必要な キャンセル額 がどこにも定義されていないことに気付いた。プロンプトなら「不足している用語は質問して」と書ける。でも実行のたびに守らせるより、マージ前に落としたほうが早い。 業務用語集は説明...</description>
-</item>
-<item>
-<title>【Qiita】 2026/08/04 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/6c6d0f42b3cca14527f8</link>
-<guid>9484e445264cbdc8c1f145d23afe6dc9794d4ce7937ce24423fd2c89bbd8316f</guid>
-<pubDate>2026-08-04T10:48:26+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 AIのアウトプットをそのまま出すだけの人になら...</description>
+<title>【Qiita】 SWE Atlas・Terminal-Benchで構築するコーディングエージェント評価基盤</title>
+<link>https://qiita.com/0h-n0/items/9e306e3b4fc659951b47</link>
+<guid>e69414c77b4eff5522dffe41c8641198be5ac70c5f6b6c8ffa5993ac52b20009</guid>
+<pubDate>2026-08-04T13:27:32+09:00</pubDate>
+<description>SWE Atlas・Terminal-Benchで構築するコーディングエージェント評価基盤：データ汚染耐性とCI自動化の実践 コーディングエージェントの性能をベンチマークで測定する際、「そのスコアは本物か？」という問いが2026年の最重要課題になっています。SWE-ben...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/arm-mte-performance-in-practice/</link>
-<guid>5634eea5f13b45eb0d6bbb5fc6fc21d7bbab1577ea972521c76906fe9e277e08</guid>
-<pubDate>Tue, 04 Aug 2026 02:44:28 GMT</pubDate>
+<link>https://research.google/pubs/probabilistic-governance-and-telemetry-framework-for-autonomous-agents/</link>
+<guid>047b5face6191c747c85a046dc421a63727aa461b307e7c247121979be233e80</guid>
+<pubDate>Tue, 04 Aug 2026 05:38:51 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>fdda4941a68330c477ba5295934dd7f4000559587dcf7f14b30416105267c81e</guid>
-<pubDate>Tue, 04 Aug 2026 02:45:02 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>747fbdf86f2b7400f0213d8dbd931ead1e7aa754c6ec5097a39bc51f064cc660</guid>
+<pubDate>Tue, 04 Aug 2026 05:38:54 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-60531-9</link>
+<guid>13cfc1f8c22f89c0a27cf4f86143fbc308a469a4b069fa4ee5a36902d5324de4</guid>
+<pubDate>Tue, 04 Aug 2026 05:38:57 GMT</pubDate>
+<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
+</item>
+<item>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>29bc5480cb7fa9a726f0d9d92e0d089ff59c22331c68a2b2a1aea4718570db58</guid>
+<pubDate>Tue, 04 Aug 2026 05:39:03 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+</item>
+<item>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.kanazawa-u.ac.jp/wp/wp-content/uploads/2026/07/20260728_ishiya.pdf</link>
+<guid>989556dcdd3bc5f50bc98833387c1f7f76b024a72ea48fb88ed0986fc288694e</guid>
+<pubDate>Tue, 04 Aug 2026 05:39:41 GMT</pubDate>
+<description>研究所別一覧</description>
 </item>
 
 </channel>
