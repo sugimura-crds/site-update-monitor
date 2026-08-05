@@ -4,84 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 05 Aug 2026 12:22:32 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 14:43:50 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Summer Engine（Godot 4互換のAIネイティブなデスクトップエンジン）のAIブレインストーミングを試してみた</title>
-<link>https://qiita.com/OnuuuumaX/items/7c62a0b8912d632d54be</link>
-<guid>bf6ca544ed8f67c2eca75e9a3a52eb4a6a5f6a0076797ea71f35ccc9ff369102</guid>
-<pubDate>2026-08-05T20:19:55+09:00</pubDate>
-<description>Summer Engine 「Summer Engine」というAI駆動のGodot互換エンジンが今年リリースされてましたが、 ほぼほぼ誰も使ってなさそうな代物ですので、今回試しに触ってみることにしました。 自然言語でゲームの内容を説明するだけでAIがシーンやスクリプトを...</description>
+<title>【Qiita】 Graph Engineering とは — Loop Engineering の次に来た「エージェントの配線図」</title>
+<link>https://qiita.com/y-morimatsu/items/4110cab5f2bf88e70e97</link>
+<guid>d55ad0289585e9002ebeefa59695119f1240373035412060aec5eb278ec19cb9</guid>
+<pubDate>2026-08-05T23:12:09+09:00</pubDate>
+<description>グラレコ はじめに 2026年7月中旬から、AI エージェント界で Graph Engineering（グラフエンジニアリング） という言葉が急に流通し始めました。Loop Engineering の次に来る層、という位置づけで語られています。 定義は、複数のエージェ...</description>
 </item>
 <item>
-<title>【Qiita】 【大型アップデート】AIにURLを渡すだけで動画編集を自動化し、再編集可能な.timeline工程まで残す</title>
-<link>https://qiita.com/MartinDelophy/items/cd7059883848e5680e27</link>
-<guid>c909bc83d70bf053eaeca4385303a08c0ff2ac54ab822c044f40dafc0d56b731</guid>
-<pubDate>2026-08-05T20:43:00+09:00</pubDate>
-<description>はじめに AIで動画を生成できるサービスは増えましたが、実際の制作では次の問題が残ります。 字幕のタイミングだけ直したい 一文のナレーションだけ差し替えたい 製品の見せ場をもう少し長くしたい ズームや強調表示の位置を調整したい 完成したMP4だけが出力される仕組みでは...</description>
+<title>【Qiita】 【技術解説】MiniMax H3 (Hailuo 3.0) — APIエンドポイント構造・プロンプト設計・統合パターン</title>
+<link>https://qiita.com/sinporwang1/items/8809cda4b5816391328e</link>
+<guid>acb3d6819a91c9f0cd2007098329741ce85ca3b29276faf60a883849df48f078</guid>
+<pubDate>2026-08-05T23:02:47+09:00</pubDate>
+<description>モデル概要 MiniMax H3は2026年7月31日にリリースされたユニファイドマルチモダルビデオ生成モデルである。技術的にはHailuo 3.0と同一。テキスト・画像・動画・音声を単一コンテキストで処理し、ネイティブ2K（2560×1440）映像＋ステレオオーディオを...</description>
 </item>
 <item>
-<title>【Qiita】 AI音声問い合わせで「遮ったのに話し続ける」を防ぐ：世代番号と人間返信の導線をPythonで設計する</title>
-<link>https://qiita.com/susie000720/items/37db4063482255e4ecb7</link>
-<guid>8c124c1bfe21f2177e45af637027586f9bfeff893dc3056a5e3b705daed70f12</guid>
-<pubDate>2026-08-05T20:15:07+09:00</pubDate>
-<description>音声AIのデモは、質問に滑らかに答えられるだけで成立します。しかし問い合わせ窓口として公開すると、すぐに別の難しさが出てきます。 ユーザーが遮ったのに、古い回答を読み上げ続ける STTの誤認識を前提にLLMが回答してしまう 課金やアカウント固有の質問までAIが断定する 「...</description>
+<title>【Qiita】 CLAUDE.mdを増やす前に、AI agentの禁止事項をhookとCIへ移す</title>
+<link>https://qiita.com/heftykoo/items/ed8977b3535c0975088e</link>
+<guid>b8e3ba0da02788526383592f2af27c7394bcedf4e6d20d312cb81821b2ac0f1e</guid>
+<pubDate>2026-08-05T23:02:33+09:00</pubDate>
+<description>CLAUDE.md に「変更後は必ずtestする」と追記した。それでもcoding agentが検証を飛ばす。次は「test結果を確認してから完了報告する」と強く書く。しばらくすると、別の経路で同じ事故が起き、文書の語気だけが強くなる。 CLAUDE.md が役に立たないわ...</description>
 </item>
 <item>
-<title>【農業】 Targeting yield constraints with soil carbon</title>
-<link>https://www.nature.com/articles/s43016-026-01406-0</link>
-<guid>778deeb303ddb394a183c3b458b719d8bac502481f4f936ebabb71e24063e8cf</guid>
+<title>【Qiita】 AI Developers vs ML Engineers: Who Should You Hire?</title>
+<link>https://qiita.com/webclues/items/3a504be37f663e06d3b8</link>
+<guid>7d03ab7353c1e998323023bb708c94a586434db905a5a117cdbd9169455d8c7f</guid>
+<pubDate>2026-08-05T22:43:22+09:00</pubDate>
+<description>When you want to build applications using existing models, integrate them with your product and release features quickly, the solution is...</description>
+</item>
+<item>
+<title>【自動自律実験】 Why science must reinforce its social contract</title>
+<link>https://www.nature.com/articles/d41586-026-02444-1</link>
+<guid>2143b0b3f47d940c66b84805d4dbbb6b5f6666c1eface990276327356e180568</guid>
 <pubDate>2026-08-05</pubDate>
-<description>Yield benefits of increasing soil carbon observed in field trials are much less present on farmers’ fields. Disentangling when and where soil organic matter functions address yield-limiting factors will allow the best use of our organic resources.</description>
-</item>
-<item>
-<title>【農業】 The beneficial relation between soil organic carbon and maize yield in field trials does not translate to real-world farms in Northeast China</title>
-<link>https://www.nature.com/articles/s43016-026-01401-5</link>
-<guid>a69cc4e3c1642a4c018afc762801e96df79384b9da17328c3c3a8be95d351421</guid>
-<pubDate>2026-08-05</pubDate>
-<description>Soil organic carbon (SOC) is widely recognized for its potential to enhance agricultural productivity and contribute to climate mitigation, yet its benefits in real-world farming contexts remain uncertain. This study reveals that while increased SOC significantly boosts maize yields in controlled field trials, it has neg</description>
-</item>
-<item>
-<title>【自動自律実験】 James Bond, not Bond James: why scientific publishing must respect name order</title>
-<link>https://www.nature.com/articles/d41586-026-01772-6</link>
-<guid>1e2c9ca980460c14c209909e7049532d0e7a67d1901d699102569c5b77933505</guid>
-<pubDate>2026-08-05</pubDate>
-<description>Databases and submission systems are often inflexible. Can’t publishers do more on author names?</description>
-</item>
-<item>
-<title>【自動自律実験】 The recovered notes of Professor Alborough</title>
-<link>https://www.nature.com/articles/d41586-026-02252-7</link>
-<guid>284d8b02a36f1c6c8d26d40a04dd3b03e005f4f48f2d4d9228888be7064a89f4</guid>
-<pubDate>2026-08-05</pubDate>
-<description>Time for a break.</description>
+<description>Questions of public trust can be addressed only through better communication and research that meets society’s interests.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/twenty-years-of-bigtable/</link>
-<guid>8a4e59b2a4372d770699d421c4caa8cc9714afe29140ac0b97693ad587f323e1</guid>
-<pubDate>Wed, 05 Aug 2026 12:21:35 GMT</pubDate>
+<link>https://research.google/pubs/beyond-pii-how-users-perceive-and-attempt-to-mitigate-implicit-llm-inference/</link>
+<guid>d2470df808cd1605004775667fa9d2d3a5175a258eabd9b22df911203371f8d9</guid>
+<pubDate>Wed, 05 Aug 2026 14:43:01 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>2b33bf4a422df0279b36803c9e2ca63eb8ee37104b2943cfaf8629f266120d9a</guid>
-<pubDate>Wed, 05 Aug 2026 12:21:38 GMT</pubDate>
+<guid>66af9c32c5f7426ffec0302cb66f626aa19d8de83e820bb68d724e8be0cb699f</guid>
+<pubDate>Wed, 05 Aug 2026 14:43:05 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>b318c10b5b9f66441fca24001819c3b06adb6fc7d1cafbacf7992b8c8996aa1f</guid>
-<pubDate>Wed, 05 Aug 2026 12:21:40 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>d90407d54436bb80db84493a6de68260f6a9c06758fc3223e014c146daed453a</guid>
-<pubDate>Wed, 05 Aug 2026 12:21:41 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
