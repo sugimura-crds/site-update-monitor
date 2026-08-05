@@ -4,71 +4,84 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 05 Aug 2026 10:25:54 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 12:22:32 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 新人エンジニア、定年まで続く勉強量に震えてやばいと思った話</title>
-<link>https://qiita.com/prumnn/items/942eaafa9b9435fcc896?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>408a03964d5fcad3a856126f3686df502fc5186eea7019364d4fae7fd8c22771</guid>
-<pubDate>2026-08-05T16:19:48+09:00</pubDate>
-<description>はじめに 「勉強はこれで終わり」だと思っていたら、本当のスタートラインに立っただけだった。しかもよく見ると、同期の中には&quot;好きで永遠にPCを触ってる&quot;人までいて、その人たちと自分の違いは何なのか気になったぷらむんが、心理学とAI時代の視点で再現性を探してみた話です。...</description>
+<title>【Qiita】 Summer Engine（Godot 4互換のAIネイティブなデスクトップエンジン）のAIブレインストーミングを試してみた</title>
+<link>https://qiita.com/OnuuuumaX/items/7c62a0b8912d632d54be</link>
+<guid>bf6ca544ed8f67c2eca75e9a3a52eb4a6a5f6a0076797ea71f35ccc9ff369102</guid>
+<pubDate>2026-08-05T20:19:55+09:00</pubDate>
+<description>Summer Engine 「Summer Engine」というAI駆動のGodot互換エンジンが今年リリースされてましたが、 ほぼほぼ誰も使ってなさそうな代物ですので、今回試しに触ってみることにしました。 自然言語でゲームの内容を説明するだけでAIがシーンやスクリプトを...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Quarkus LangChain4j入門：AI ServiceからLLMを呼び出す</title>
-<link>https://qiita.com/autonomura/items/f1462e5689d9d643a1ce</link>
-<guid>50c65814bb5d1b499229d528e2b2fdd738383d31f536a907764265df3f9fe2f6</guid>
-<pubDate>2026-08-05T17:41:07+09:00</pubDate>
-<description>はじめに 生成AIの分野では Python が先行している印象がありますが、Javaエコシステムにおいても AI アプリケーション開発を支援するライブラリーやフレームワークが充実してきています。 特に Quarkus には、LLMとの連携を容易にする Quarkus La...</description>
+<title>【Qiita】 【大型アップデート】AIにURLを渡すだけで動画編集を自動化し、再編集可能な.timeline工程まで残す</title>
+<link>https://qiita.com/MartinDelophy/items/cd7059883848e5680e27</link>
+<guid>c909bc83d70bf053eaeca4385303a08c0ff2ac54ab822c044f40dafc0d56b731</guid>
+<pubDate>2026-08-05T20:43:00+09:00</pubDate>
+<description>はじめに AIで動画を生成できるサービスは増えましたが、実際の制作では次の問題が残ります。 字幕のタイミングだけ直したい 一文のナレーションだけ差し替えたい 製品の見せ場をもう少し長くしたい ズームや強調表示の位置を調整したい 完成したMP4だけが出力される仕組みでは...</description>
 </item>
 <item>
-<title>【自動自律実験】 Publisher Correction: Progressive plasticity during colorectal cancer metastasis</title>
-<link>https://www.nature.com/articles/s41586-026-10963-0</link>
-<guid>1a6e1369f92f1445181c82f7d4e2c7a4cd1ce9ce8f5e94ffabebfe1fc3190ce1</guid>
+<title>【Qiita】 AI音声問い合わせで「遮ったのに話し続ける」を防ぐ：世代番号と人間返信の導線をPythonで設計する</title>
+<link>https://qiita.com/susie000720/items/37db4063482255e4ecb7</link>
+<guid>8c124c1bfe21f2177e45af637027586f9bfeff893dc3056a5e3b705daed70f12</guid>
+<pubDate>2026-08-05T20:15:07+09:00</pubDate>
+<description>音声AIのデモは、質問に滑らかに答えられるだけで成立します。しかし問い合わせ窓口として公開すると、すぐに別の難しさが出てきます。 ユーザーが遮ったのに、古い回答を読み上げ続ける STTの誤認識を前提にLLMが回答してしまう 課金やアカウント固有の質問までAIが断定する 「...</description>
+</item>
+<item>
+<title>【農業】 Targeting yield constraints with soil carbon</title>
+<link>https://www.nature.com/articles/s43016-026-01406-0</link>
+<guid>778deeb303ddb394a183c3b458b719d8bac502481f4f936ebabb71e24063e8cf</guid>
 <pubDate>2026-08-05</pubDate>
-<description>Publisher Correction: Progressive plasticity during colorectal cancer metastasis</description>
+<description>Yield benefits of increasing soil carbon observed in field trials are much less present on farmers’ fields. Disentangling when and where soil organic matter functions address yield-limiting factors will allow the best use of our organic resources.</description>
 </item>
 <item>
-<title>【自動自律実験】 Exclusive: the science papers that patents cite the most</title>
-<link>https://www.nature.com/articles/d41586-026-02386-8</link>
-<guid>35f1bdd703002f18da42c2f435dc097ab2fbb59134c8b10893d40a8750c94893</guid>
+<title>【農業】 The beneficial relation between soil organic carbon and maize yield in field trials does not translate to real-world farms in Northeast China</title>
+<link>https://www.nature.com/articles/s43016-026-01401-5</link>
+<guid>a69cc4e3c1642a4c018afc762801e96df79384b9da17328c3c3a8be95d351421</guid>
 <pubDate>2026-08-05</pubDate>
-<description>Nature reveals the studies that are mentioned most often in patent filings — and why.</description>
+<description>Soil organic carbon (SOC) is widely recognized for its potential to enhance agricultural productivity and contribute to climate mitigation, yet its benefits in real-world farming contexts remain uncertain. This study reveals that while increased SOC significantly boosts maize yields in controlled field trials, it has neg</description>
+</item>
+<item>
+<title>【自動自律実験】 James Bond, not Bond James: why scientific publishing must respect name order</title>
+<link>https://www.nature.com/articles/d41586-026-01772-6</link>
+<guid>1e2c9ca980460c14c209909e7049532d0e7a67d1901d699102569c5b77933505</guid>
+<pubDate>2026-08-05</pubDate>
+<description>Databases and submission systems are often inflexible. Can’t publishers do more on author names?</description>
+</item>
+<item>
+<title>【自動自律実験】 The recovered notes of Professor Alborough</title>
+<link>https://www.nature.com/articles/d41586-026-02252-7</link>
+<guid>284d8b02a36f1c6c8d26d40a04dd3b03e005f4f48f2d4d9228888be7064a89f4</guid>
+<pubDate>2026-08-05</pubDate>
+<description>Time for a break.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/the-glossary-grounded-universal-queue-an-architecture-for-enabling-follow-the-sun-support-in-global-people-operations/</link>
-<guid>428e64810ebc8663eec776b130b5673d29b6fe4117c9cfd524326d5c47c2eeb9</guid>
-<pubDate>Wed, 05 Aug 2026 10:25:11 GMT</pubDate>
+<link>https://research.google/pubs/twenty-years-of-bigtable/</link>
+<guid>8a4e59b2a4372d770699d421c4caa8cc9714afe29140ac0b97693ad587f323e1</guid>
+<pubDate>Wed, 05 Aug 2026 12:21:35 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>06872896d549ae08b63a236b7d3864eef05245b4ebddf27fb4abeae8f5d3bc97</guid>
-<pubDate>Wed, 05 Aug 2026 10:25:13 GMT</pubDate>
+<guid>2b33bf4a422df0279b36803c9e2ca63eb8ee37104b2943cfaf8629f266120d9a</guid>
+<pubDate>Wed, 05 Aug 2026 12:21:38 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-02994-8</link>
-<guid>509baeebb3ce09fd1bfd8595d447d939fc834b19b3b1c27dc6e7fe7d9b668435</guid>
-<pubDate>Wed, 05 Aug 2026 10:25:19 GMT</pubDate>
-<description>Medical AI has produced many radiology models, particularly for chest X-rays (CXR), each excelling at isolated tasks like lesion detection or report generation. However, these models have disparate capabilities and limited generalizability due to training on restricted datasets, making clinical integration challenging. Large language models (LLMs) now enable interfacing heterogeneous models within agentic frameworks that automatically interpret and unify outputs in natural language. In this work, we present RadFabric, an agentic AI system that orchestrates fourteen specialized open-source CXR analytics models and two Vision-Language Models (VLM) through a modular protocol. RadFabric includes an Anatomical Interpretation Agent that grounds visual findings in anatomical context, and a trainable reasoning agent that synthesizes these anatomically-enriched outputs with VLM-generated radiology reports into transparent, step-by-step diagnoses, even when model outputs are heterogeneous or conflicting. This architecture enables explainable, robust diagnoses across common and rare pathologies while facilitating extensibility through additional agents. Evaluation results on the MIMIC-CXR dat</description>
+<link>https://www.nature.com/articles/s41598-026-60531-9</link>
+<guid>b318c10b5b9f66441fca24001819c3b06adb6fc7d1cafbacf7992b8c8996aa1f</guid>
+<pubDate>Wed, 05 Aug 2026 12:21:40 GMT</pubDate>
+<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>520cba6ca74685da7acf874105b36b6ccc9ea7d240a65230a88fed7e1027e519</guid>
-<pubDate>Wed, 05 Aug 2026 10:25:33 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>2b463e823cb3b33836204846fb71a9cbc5e68694ccec5dcdece0cd0997e88381</guid>
-<pubDate>Wed, 05 Aug 2026 10:25:44 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>d90407d54436bb80db84493a6de68260f6a9c06758fc3223e014c146daed453a</guid>
+<pubDate>Wed, 05 Aug 2026 12:21:41 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
