@@ -4,57 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 05 Aug 2026 18:01:25 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Aug 2026 20:02:33 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIコーディングCLIが「何を送ったか」を承認してから走らせる — 開示マニフェストの実装</title>
-<link>https://qiita.com/Umamon/items/767bf28212ccbe6aca89</link>
-<guid>c01dc5ccee00c1bb6645e3a01b970fb3c3e6afac980924ff342087ebed344e7f</guid>
-<pubDate>2026-08-06T02:25:30+09:00</pubDate>
-<description>この記事は Zenn からの転載です（初出: Zenn）。 Claude Code や Codex に仕事を投げるとき、そのプロセスが自分のマシンから何を持ち出したかを、後から正確に言えるでしょうか。 私は言えませんでした。ログには「読んだファイル」の名前は出ます。でも...</description>
+<title>【Qiita】 「そのBest Practice、本当に自社で動きますか？」公開論文をPromptで再現実装し、プロトタイプと実測値で既存アプリへの適合性を見極める次世代ソフトウェア開発</title>
+<link>https://qiita.com/dahatake/items/4b06271489b89e2d7013</link>
+<guid>4baee64c33928eb2108da76c0fec1b7343b561158039914bc5f97b4ce26593d9</guid>
+<pubDate>2026-08-06T04:45:30+09:00</pubDate>
+<description>背景 最近、Software Engineeringの現場で生成AIを使っていて、少し気になっていることがあります。 公開論文や公式ドキュメントで新しい手法を見つけても、実際のアプリケーションで試すまでには、意外と時間がかかります。 従来であれば、まず次のようなものを探し...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/impact-of-led-aging-on-optical-health-sensing-signal-integrity/</link>
-<guid>7d05bf9713f40418980367c38aaa76839b789edfddff11c6ac576789b91e94e7</guid>
-<pubDate>Wed, 05 Aug 2026 18:00:35 GMT</pubDate>
+<link>https://research.google/pubs/from-silicon-to-boardroom-a-multivocal-survey-of-the-techno-economic-layers-governing-generative-ai-monetization/</link>
+<guid>ee7ed6d58fef0355be3843e664af8eb601c6711000c68ca31bb349be9c29a235</guid>
+<pubDate>Wed, 05 Aug 2026 20:01:54 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>b24b705c5dfc39fad38f00274f801a2e9f483fb1b7e423ede3347ab6ace23e65</guid>
-<pubDate>Wed, 05 Aug 2026 18:00:38 GMT</pubDate>
+<guid>6241201de22190a8416baf41df7a82b0a4d7f6718a51457843df54ecd2217aec</guid>
+<pubDate>Wed, 05 Aug 2026 20:01:57 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>ff8253833f1d56ffcc785ef33243e12a8556b4616c9d3f05cbd387e838eec039</guid>
-<pubDate>Wed, 05 Aug 2026 18:00:42 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s44387-026-00142-x</link>
-<guid>5ad4f2303796468a3ddcfc4ea0161670d37aa0637b49862cdaff42e5e6e51921</guid>
-<pubDate>Wed, 05 Aug 2026 18:00:45 GMT</pubDate>
-<description>The prevailing paradigm in AI for physical systems: scaling general-purpose foundation models toward universal multimodal reasoning, confronts a barrier at the control interface. Frontier vision–language models achieve only 50–53% accuracy on basic quantitative physics tasks, behaving as approximate guessers that preserve semantic plausibility while violating physical constraints. Safety-critical control demands outcome-space guarantees over executed actions, not parameter-space imitation. Here, we present what is, to our knowledge, the first demonstration of Agentic Physical AI for nuclear reactor control: a domain-specific foundation model in which a compact language model learns control policies through physics-based simulator validation rather than perceptual inference. The framework unifies three capabilities: Agentic AI generates and selects among admissible control strategies; Physical AI evaluates those strategies through closed-loop execution in a reactor simulator; and a domain-specific foundation model acquires reusable control priors through data scaling. Under nominal simulated conditions, scaling yields regime-dependent gains in reliability, including an approximately</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>8b76ebeea31ac8b89e7773cde0ed46c437c41cee48c5a2716c1584791ee1cf6f</guid>
-<pubDate>Wed, 05 Aug 2026 18:01:08 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>94a2c16cb7dccff6ccefb47ee85968299b99aa10fbb3dedef7fbedd8ad8fa615</guid>
-<pubDate>Wed, 05 Aug 2026 18:01:09 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>c35621de3cafeedc847f4b1391b69f5b5a8e70ab6a85834e44950bbb744f1f7e</guid>
+<pubDate>Wed, 05 Aug 2026 20:02:01 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
