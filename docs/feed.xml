@@ -4,92 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 06 Aug 2026 04:56:43 GMT</lastBuildDate>
+<lastBuildDate>Thu, 06 Aug 2026 07:34:45 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【徹底解説】cobusgreyling/loop-engineering — 「プロンプトを書く人」を辞めるためのループ設計リファレンス</title>
-<link>https://qiita.com/Simon_Zhang/items/4c9af2af12e55ec15fa2</link>
-<guid>0b6ebbf5c412d3e5d63427190eac844e345c95347de43343d88ab05da3929d37</guid>
-<pubDate>2026-08-06T13:52:16+09:00</pubDate>
-<description>対象リポジトリ: cobusgreyling/loop-engineering（MIT ライセンス） 本記事の調査時点: 2026年8月 0. この記事の要約（3行） Loop Engineering とは、エージェントに毎回プロンプトを打つのをやめ、エージェント...</description>
+<title>【Qiita】 【YAMAHAルーター】RTX1300 単体機能。フレキシブル LAN / WAN ポート～LAG、syslog、SNMP等（3回目）</title>
+<link>https://qiita.com/Heizo_Hasegawa/items/b21a618a4828f9784c52</link>
+<guid>a99bf0fa6bd4e566052fbe62aba5047791f96846a6e6febf5d8e775f6c5b0aa8</guid>
+<pubDate>2026-08-06T14:56:46+09:00</pubDate>
+<description>前回、前々回と勉強会用途でYAMAHA RTX1300を使ったVRRP（HA構成）の検証記事を書いたところ、思いのほか多くの方に読んでいただけたようでありがたい限りです。 きっと、個人ユース、企業ユース、多くのところで動いているのでしょう。 「YAMAHA、やっ...</description>
 </item>
 <item>
-<title>【Qiita】 書いたAIに「公開してよし」と言わせない——Claude Codeのサブエージェントで作る公開前チェッカー</title>
-<link>https://qiita.com/smallworkslab/items/cebc4003d3904a46a87a</link>
-<guid>fe918fb8aa57be2c1cd63f80d5b4f4b095428466bbe1882715c9bf52a3a94a0d</guid>
-<pubDate>2026-08-06T13:33:41+09:00</pubDate>
-<description>元記事はZennに投稿したものです。この記事はその技術部分をQiita向けに転載しています。 AIは自分の原稿を「完成した」と判断する 私は小さな副業の運営を、Claude CodeとCodexの2体のAIエージェントに任せる実験を続けています。指揮官役のClaude...</description>
+<title>【Qiita】 グラフエンジニアリング を知ろう-これからも増えてくOOエンジニアリングに我々はどう付き合うべきか</title>
+<link>https://qiita.com/Syoitu/items/e529a09b3d840c85c339</link>
+<guid>cd7a7d4b6eeaaf1abab6999cf5b78ebf4fa2b97b8fe10473c6c2155871e1ddfa</guid>
+<pubDate>2026-08-06T16:31:19+09:00</pubDate>
+<description>前書き 生成AI界隈の移り変わりの速さには、毎回驚かされます 先月あたりはSNS上で「ループエンジニアリング」という言葉が盛り上がっていたと思ったら、もう次の言葉に注目が移っていました。 それが「グラフエンジニアリング」です きっかけは2026年7月18日、Peter S...</description>
 </item>
 <item>
-<title>【Qiita】 【徹底解説】Microsoft skill-recorder — 作業を1回録画するだけでAIエージェントのSkillを生成する</title>
-<link>https://qiita.com/Simon_Zhang/items/c141ef9736f8ecde1a0b</link>
-<guid>5196bc9f7b20ccaf0a872be3b7e5d8a441439ed9879d7fa285a7e368654b40ec</guid>
-<pubDate>2026-08-06T13:24:20+09:00</pubDate>
-<description>はじめに AIエージェントに定型業務を任せたいとき、いま我々がやっていることは「手順書を 書く」ことです。SKILL.md を開き、思い出しながら箇条書きにし、出力フォーマットを決め、試して直す。フォーマット（Agent Skills）は普及したのに、中身を用意する手間は...</description>
+<title>【Qiita】 ローカルのopencodeからDatabricks Model ServingのClaudeを使ってみた</title>
+<link>https://qiita.com/taka_yayoi/items/df2ffb0d09cbd676c7da</link>
+<guid>18f17d6a252651934cdacc859841899f8e65ab65170ca69c3a861bd11e5121f9</guid>
+<pubDate>2026-08-06T15:51:29+09:00</pubDate>
+<description>はじめに 以前の記事で、Databricksがオープンソースで公開したOmnigentと「メタハーネス」という考え方を紹介しました。メタハーネスは、Claude CodeやCodexといった個々のエージェントハーネスの一段上に立って、合成・制御・協働を担う層でした。 メ...</description>
 </item>
 <item>
-<title>【Qiita】 個人開発で最初の10人のユーザーを見つけるために、AI Agentで探索プロセスを改善してみた</title>
-<link>https://qiita.com/rinfo4080/items/05f552f917f40a56fe2f</link>
-<guid>d6e84985aca34f2cd978d931158ae0f8f243ca207dc4f4666fb803a60e97aeec</guid>
-<pubDate>2026-08-06T12:59:39+09:00</pubDate>
-<description>はじめに 最近、個人開発における「最初のユーザー探し」について考える機会が増えました。 生成AIによって、アプリやSaaSを作るハードルは以前より大きく下がっています。 アイデアを考える。 ↓ プロトタイプを作る。 ↓ Webサイトを公開する。 この流れ自体は...</description>
-</item>
-<item>
-<title>【Qiita】 Codex CLIの名前付きセッション、ヘッドレスではTUI版が動かなかった</title>
-<link>https://qiita.com/kai_kou/items/508f762dbb1644750f94</link>
-<guid>6fca570105abc77440d14466841eedc2ce3078cbc4cf7231d047f9a2b6c75420</guid>
-<pubDate>2026-08-06T12:06:23+09:00</pubDate>
-<description>はじめに OpenAI の Codex CLI が 0.146.0 で、セッションに名前を付けて resume・fork・archive できる機能を追加しました。対象読者は、Codex CLI を CI やクラウド実行環境などのヘッドレス環境で自動化に組み込みたい開発...</description>
-</item>
-<item>
-<title>【自動自律実験】 Pumas are drivers’ guardian angels</title>
-<link>https://www.nature.com/articles/d41586-026-02429-0</link>
-<guid>da953ac01d7efe1e97ca1dc074057faaf1873853d3529dae4eaef810d56b281d</guid>
-<pubDate>2026-08-06</pubDate>
-<description>Vehicles are less likely to smash into deer on the road where the big cats are on patrol.</description>
+<title>【Qiita】 【徹底解説】phuryn/pm-skills — 68スキル×42ワークフロー×9プラグインで学ぶ「Agent Skills設計」の教科書</title>
+<link>https://qiita.com/Simon_Zhang/items/6df9bd5220a74288a4b9</link>
+<guid>3d41226c14058fb49422db680d41dc87223fc438e48af1398c968ece05196342</guid>
+<pubDate>2026-08-06T14:04:42+09:00</pubDate>
+<description>本記事は GitHub リポジトリ phuryn/pm-skills（MIT License / 作者: Paweł Huryn — The Product Compass Newsletter）の構造・設計思想・導入方法を、Agent Skills を自作したいエンジ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/bridging-the-dimensionality-gap-a-taxonomy-and-survey-of-2d-vision-model-adaptation-for-3d-analysis-2/</link>
-<guid>aa008336a7c77dba6942b5f5158b7250901931c3bd57e89ceed4ffaf959d34e8</guid>
-<pubDate>Thu, 06 Aug 2026 04:56:03 GMT</pubDate>
+<link>https://research.google/pubs/are-you-speaking-my-languages-on-spoken-language-adherence-in-multimodal-llms/</link>
+<guid>aace47a2aecca1cc71d579a201b4bab694cd9bda34dbd2418c73e70ded55dd9b</guid>
+<pubDate>Thu, 06 Aug 2026 07:34:05 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>447b82f43182f9a139833f48f65a9496dffe5f29919e780b3d44d8faa5994409</guid>
-<pubDate>Thu, 06 Aug 2026 04:56:07 GMT</pubDate>
+<guid>54f0f74b8c9d5b69acbb30c999ce9a2f209b8cdb8aefff3ebe9e53841c6d25de</guid>
+<pubDate>Thu, 06 Aug 2026 07:34:08 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>2d67836a99f2f9d9db547832b46543059cefe958d97fd7948370fc83f4b4f616</guid>
-<pubDate>Thu, 06 Aug 2026 04:56:09 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-64146-y</link>
-<guid>41304d42f10982eb35ebfc914384294cf41547d3da2695edafc37b8198bfd9f8</guid>
-<pubDate>Thu, 06 Aug 2026 04:56:12 GMT</pubDate>
-<description>Insider threats continue to be a vexed and complicated risk in secure software development (SSD) organizations due to their origin in combination of malicious intent, negligence, credential abuse, and process vulnerability throughout the software development lifecycle. Artificial intelligence (AI)-inspired, agentic security strategies are increasingly suggested to enhance prevention and detection, but organizations have not yet a clear, decision-supportive approach to prioritize agentic mitigation practices in times of uncertainty. This paper aims to suggest and rank an agentic model of insider threats mitigation to secure software development companies based on the Fuzzy Analytic Hierarchy Process (Fuzzy AHP). Its main objectives include (i) organizing insider-threat mitigation into multi-level decision model, (ii) calculating priority weights of AI-directed agentic practices, and (iii) assisting actionable adoption choices of various insider-threat types. A systematic mapping study (SMS) was first carried out to investigate the state-of-the-art of insider threats in software development organization. The second phase involved performing an empirical survey among cybersecurity pro</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>f36a069f774ffef955438e6a587643bc46faaf552d08876872384a26a74c5e36</guid>
-<pubDate>Thu, 06 Aug 2026 04:56:15 GMT</pubDate>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>9797918c71f212c9b60075b8c559af36246b7eab104523bfce71534f7a4904c2</guid>
+<pubDate>Thu, 06 Aug 2026 07:34:11 GMT</pubDate>
 <description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>ed88661e86f0350c609634d19ecd9ff525a246504593d07df49982f1fb80a0d1</guid>
-<pubDate>Thu, 06 Aug 2026 04:56:24 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
