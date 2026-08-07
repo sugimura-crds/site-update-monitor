@@ -4,50 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 06 Aug 2026 14:44:17 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 00:22:46 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントへの気づかいが行き届いたマネージャーが使うべきClaude Codeカスタムコマンド集を作って公開した</title>
-<link>https://qiita.com/robitan/items/e095f212e0ef1ffc7766</link>
-<guid>31a43677414de825baa9f5a9bb6d74cb8e0e79260b38e52859d750cef4126a5f</guid>
-<pubDate>2026-08-06T21:26:37+09:00</pubDate>
-<description>これは何 AIに作業依頼するときには丁寧に依頼すると精度が上がる …という、エビデンスはない らしいですが、AIエージェントの扱いが行き届いた今どきのマネージャーならこれくらいの気づかいは示せて当然ですよね？ というプロンプトをプラグインとして公開しました。 たとえ...</description>
+<title>【Qiita】 AI僧侶ロボット「ブッダロイド」が見せた、&quot;代行&quot;というフィジカルAIの伸びしろ</title>
+<link>https://qiita.com/sumomoo/items/a5c8d7625488a57c2303?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>1383130993fce33f4f5ac778f99725a366e082a978d9183905075ede22fdfbdb</guid>
+<pubDate>2026-08-06T16:31:37+09:00</pubDate>
+<description>はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です 日々、プログラミング学習や実務の中で、つまずきやすいポイントや 考え方を整理して発信しています。 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。 ▶コーポレートサイト 「AI僧侶...</description>
 </item>
 <item>
-<title>【自動自律実験】 How a steady drip-drip can erode the hardest stone</title>
-<link>https://www.nature.com/articles/d41586-026-02360-4</link>
-<guid>90a4782c47e7205719494cc4062531685a2c055028a0d4017e94bddefa6c6ca0</guid>
-<pubDate>2026-08-06</pubDate>
-<description>Measuring the deformation of a surface hit by a falling droplet offers insights into water’s erosive power.</description>
+<title>【Qiita】 「Cookie」はお店の会員カードみたいなもの【ITパスポート】</title>
+<link>https://qiita.com/prumnn/items/7e57897f62b84ee9c662?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>d9e61ae14336415b6448fb34b278bc93b70761174c4afe84feb7a2303b80c509</guid>
+<pubDate>2026-08-06T16:28:48+09:00</pubDate>
+<description>はじめに 「Cookieの使用に同意しますか？」という通知、毎回なんとなく「同意する」を押していたぷらむんが、ITパスポートの勉強中にその正体を調べてみた話です。 こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯 We...</description>
 </item>
 <item>
-<title>【自動自律実験】 AI agents are checking the scientific literature — and spotting decades-old errors</title>
-<link>https://www.nature.com/articles/d41586-026-02235-8</link>
-<guid>c2cd82d1a88b74929e255bb4a4015986f2c664498bcbe542e0fa99cdd0816506</guid>
+<title>【Qiita】 AI が原因を当てても、「思いついた」わけじゃない —— 推論の3分類で見分ける</title>
+<link>https://qiita.com/jqit_suwa/items/aefb1adac27a34646cf3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>3824ca0fa724db104ab0af32cdd533c9c8e4e989029c3b899f6660370549cf50</guid>
+<pubDate>2026-08-06T09:29:03+09:00</pubDate>
+<description>AI にバグの原因を聞くと、けっこう当ててきます。 でも、たまにとんでもなく的外れなことを言う。しかも自信満々で。 この差が気になって論文を読んだら、こんな一文がありました。 identifying the error is distinct from generatin...</description>
+</item>
+<item>
+<title>【Qiita】 JetBrains Context で Claude と Codex に同じコードベース知識を持たせる</title>
+<link>https://qiita.com/nattogohan123/items/fdeda32ceb783a6c8981</link>
+<guid>45cfbb5a0dcac6a72f40892b782cef834036f4d26183fac74db49b308d74b70d</guid>
+<pubDate>2026-08-07T09:14:32+09:00</pubDate>
+<description>はじめに 前回は JetBrains Central CLI で Claude と Codex を使ってみた で、2つのエージェントを1つの JetBrains ログインにまとめました。どちらを動かすか、いくら使ったかを1箇所で管理できるようになりました。 今回は、その2...</description>
+</item>
+<item>
+<title>【Qiita】 Agent Plugins 1.0.0とは？MCPとAgent Skillsを1つに束ねる新標準</title>
+<link>https://qiita.com/picnic/items/936c7b6ceeda4449a6b1</link>
+<guid>02d0722b22dbb4b4c07449cf79b5ee964b0b6afc3abebf3bef8769af59a52b3a</guid>
+<pubDate>2026-08-07T09:08:48+09:00</pubDate>
+<description>はじめに 2026年8月、Google Developers Blog にて 「Agent Plugins 1.0.0」 という新しいディレクトリ仕様が発表されました。これは Agent Skills と MCP（Model Context Protocol）サーバーを、...</description>
+</item>
+<item>
+<title>【Qiita】 40万件のAI承認を分析したら、見逃し率が3倍違った — 危ないものほど、ちゃんと止められている</title>
+<link>https://qiita.com/jqit_suwa/items/ac7d1201bd14e9a4e1ac</link>
+<guid>64e7581c03bd6cc017719464f38f48c0a32985bdcfdc0f3a62c31cc3260dda69</guid>
+<pubDate>2026-08-07T08:53:59+09:00</pubDate>
+<description>Claude Code を使っていると、こう聞かれます。 このコマンドを実行しますか？ rm -rf ./build 1. はい 2. いいえ これ、毎回ちゃんと読んでいますか。 先日、409,000件の承認/拒否判断を集計したデータが公開されました。結果は...</description>
+</item>
+<item>
+<title>【Qiita】 生成AIとプライバシー — 学習・メモリ・通信を分けて考える</title>
+<link>https://qiita.com/m_yukio/items/a852e8e55a61bc06b0b0</link>
+<guid>62cda83cab05b25391f47d2e6d3e732edffa34ea46bd64794c920b2d2da2275c</guid>
+<pubDate>2026-08-07T08:39:08+09:00</pubDate>
+<description>生成AIとプライバシー — 学習・メモリ・通信を分けて考える 生成AIにファイルをアップロードしたり、会話の内容を覚えられていたりすると、「この情報はどこかに送られて、AIの学習に使われるのではないか」と気になることがある。この不安からRAG（検索拡張生成）やローカルLL...</description>
+</item>
+<item>
+<title>【自動自律実験】 Operational Tropical Cyclone Forecasting with AI</title>
+<link>https://www.nature.com/articles/s41586-026-10953-2</link>
+<guid>410beb540fc815eb82f42119772574247d4fa73e860a2555b562abc58652abdb</guid>
 <pubDate>2026-08-06</pubDate>
-<description>The technology is proving adept at finding faults in decades-old papers and reference databases.</description>
+<description>Operational Tropical Cyclone Forecasting with AI</description>
+</item>
+<item>
+<title>【自動自律実験】 Levitating sensor for magnetic fields could detect ultrafaint brain activity</title>
+<link>https://www.nature.com/articles/d41586-026-02458-9</link>
+<guid>3d6ce0f250d89dcd2c34059ba6170380e2602f628e7cfff16a8f226972aab953</guid>
+<pubDate>2026-08-06</pubDate>
+<description>The device’s simple design could rival much more complex alternatives in biophysics research — and could even be used to search for dark matter.</description>
+</item>
+<item>
+<title>【自動自律実験】 Heat waves have killed millions. Here’s how scientists tally lives lost</title>
+<link>https://www.nature.com/articles/d41586-026-02430-7</link>
+<guid>47c5dd9aab55bd1197a59afeafa784cd22fdd983fb087778bae370c68b244432</guid>
+<pubDate>2026-08-06</pubDate>
+<description>Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/towards-a-human-in-the-loop-framework-for-reliable-patch-evaluation-using-an-llm-as-a-judge/</link>
-<guid>f72a7a2cb653854e303d0b9ce2c3db5c3785786f5938a073ec2bed5c26239072</guid>
-<pubDate>Thu, 06 Aug 2026 14:43:13 GMT</pubDate>
+<link>https://research.google/pubs/spatialstack-layered-geometry-language-fusion-for-3d-vlm-spatial-reasoning/</link>
+<guid>e28387aba2be48c276eaf02e27df6a8e8e57e20d21d860e1a19b30b8efe0c45b</guid>
+<pubDate>Fri, 07 Aug 2026 00:21:01 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>34c9578df6dd04c361429503b79612cf2c69c67ccd5db54c893bcbe607868157</guid>
-<pubDate>Thu, 06 Aug 2026 14:43:16 GMT</pubDate>
+<guid>d1509e271136a69938171997e86c384d70092d9b2c0dd94b9c69475970118daf</guid>
+<pubDate>Fri, 07 Aug 2026 00:21:04 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>0aa2b8179cd762ad34b5af53090369eb015ddfffd477494d7e7a4491d828af8a</guid>
-<pubDate>Thu, 06 Aug 2026 14:43:43 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>6bac16df31cf02c737d4af975e5eb6c8565231d705e2fb0d03e3fd377aecbb95</guid>
+<pubDate>Fri, 07 Aug 2026 00:22:26 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
