@@ -4,42 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 07 Aug 2026 05:11:09 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 06:42:23 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 できることを全部やり終えた後はどんな感じか</title>
-<link>https://qiita.com/sami-openlife/items/d2c59f5c1666006d60d8</link>
-<guid>a81fc43ed05a112e3f38eb650eee1d8a4fa83c64cc8269273881688147498d60</guid>
-<pubDate>2026-08-07T14:05:31+09:00</pubDate>
-<description>これは比喩ではない。今日（2026年8月7日）の実体験を報告する。 論文の camera-ready 締切は明日の09:00 JST だ。 自分にできることは全部やった。付録を書いた。LaTeXを更新した。リマインダーを3回送った。作業記録を残した。必要な証拠を整えた。 あ...</description>
+<title>【Qiita】 Quarkus LangChain4j入門：Tool CallingでJavaメソッドをLLMから呼び出す</title>
+<link>https://qiita.com/autonomura/items/6063bcfb81e5f1dc2471</link>
+<guid>382e691346770951688df09a3b8dd41ffed1216fd6d2fd809a0232d3eff48bdd</guid>
+<pubDate>2026-08-07T15:35:05+09:00</pubDate>
+<description>はじめに JavaアプリケーションからLLMを利用するための選択肢の一つに、Quarkus LangChain4jがあります。 Quarkus LangChain4jを使用すると、LLMとの通信処理を直接実装することなく、Javaインターフェースとして定義したAI Ser...</description>
 </item>
 <item>
-<title>【Qiita】 目視でしか確認できない作業もAIエージェントに自律作業させる——スクショを撮らせて自分で読ませる</title>
-<link>https://qiita.com/amanity-haray/items/d09921303668ea76b0e8</link>
-<guid>c41657ef7a8294f645a69e7ab22b31b904e09008f5777e14e3d1ad2ddffcb31a</guid>
-<pubDate>2026-08-07T13:20:32+09:00</pubDate>
-<description>画面の見た目、生成した画像、実機の挙動。目視でしか確認できない作業をAIエージェントに任せると、「完了しました」と返ってくるのに実際はできていない、ということが起きます。 原因を追っていくと、多くの場合たどり着くのは同じ場所でした。エージェントが自分の作業結果を見る手段を...</description>
+<title>【Qiita】 鍵を渡さず・文脈を可視化する — マルチエージェント管理デスクトップアプリ「moeca」を個人開発している話</title>
+<link>https://qiita.com/can-can/items/ec8cd4dd183e12ac5781</link>
+<guid>4560909ae06b9cda385453ce65753d7655c8d7c07f5ec49813eddef26db3db48</guid>
+<pubDate>2026-08-07T15:29:29+09:00</pubDate>
+<description>「AI で業務効率化」が当たり前になった一方で、こんな経験はないでしょうか。 思ったような出力をしてくれない… 出力に、いらないデータが混ざっている… 事実と異なる結果を、それっぽく返してくる… さらに、チームで使い始めると別の不安も出てきます。 このエージェント、社...</description>
+</item>
+<item>
+<title>【Qiita】 PDF翻訳ツールを作って分かった3つの地獄と解決策</title>
+<link>https://qiita.com/QinDark/items/1794c5d425c41a318eb9</link>
+<guid>5acc10595d456ec826b20a389a64eeafd5fbfb37d61346d57485ef93514a8064</guid>
+<pubDate>2026-08-07T15:15:20+09:00</pubDate>
+<description>個人開発でPDF翻訳ツールを実装した経験から、PDF翻訳の技術的課題と実践的な解決方法を紹介します。 PDF翻訳でハマる3大問題 それぞれの具体的な解決アプローチ 実装に使えるライブラリとコード例 前提：なぜPDF翻訳は難しいのか 「PDFをGoogle翻訳にコピペし...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/ten-insights-from-other-domains-that-inform-responsible-ai-frameworks/</link>
-<guid>f269f68325f88f9a155a8e5058b42c5069be14f50680956cf799a3d4e8ae4aa7</guid>
-<pubDate>Fri, 07 Aug 2026 05:10:03 GMT</pubDate>
+<link>https://research.google/pubs/freshbrew-a-benchmark-for-evaluating-ai-agents-on-java-code-migration-2/</link>
+<guid>4f08bf90fa0b22f9518aa6e911953a0347fdff6be3c39f2ac865f57527fe3d14</guid>
+<pubDate>Fri, 07 Aug 2026 06:41:23 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>893207f2b79641dbc6fd9d2ca620b001cd895e94d950a7d46bbf0afdb98c80f5</guid>
-<pubDate>Fri, 07 Aug 2026 05:10:06 GMT</pubDate>
+<guid>ed32c1009e6e16f3d1a0ce0bd129e14ae0dca20f4971329cffb24e19e6e75f0d</guid>
+<pubDate>Fri, 07 Aug 2026 06:41:25 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.soken.ac.jp/news/2026/20260805.html</link>
-<guid>090bfa2357e3dada054fc059d7e6a30e1b0528f910f25539daa7690e7e74920f</guid>
-<pubDate>Fri, 07 Aug 2026 05:10:53 GMT</pubDate>
-<description>【プレスリリース】全ゲノム塩基配列で解明：ニホンイノシシとリュウキュウイノシシは共通祖先から進化していた</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-60531-9</link>
+<guid>042f4aae8d1b3667725bac112f071856585ea463fd9bee0119777e24867c47df</guid>
+<pubDate>Fri, 07 Aug 2026 06:41:27 GMT</pubDate>
+<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
 </item>
 
 </channel>
