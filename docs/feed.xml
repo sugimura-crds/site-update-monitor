@@ -4,28 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 07 Aug 2026 22:03:59 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 23:02:58 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 ChainDropで混入した悪性npm版をAIエージェント自身に点検させる――確認・復旧・再発防止</title>
-<link>https://qiita.com/comty/items/e88272d84815668d3f04</link>
-<guid>838ce29b322e8dfd9cfda5d0521ed998db712aae5c3ffa2c7af164ae8f234b7f</guid>
-<pubDate>2026-08-08T06:46:35+09:00</pubDate>
-<description>はじめに 「怪しいnpmパッケージが出た。うちのプロジェクトは大丈夫だろうか」 こういうとき、以前なら人間がpackage-lock.jsonを検索し、npm lsを実行し、Gitの履歴を確認していました。 今なら、CodexやClaude CodeなどのAIエージェン...</description>
+<title>【Qiita】 GitHub15万スターのOpenCode｜Claudeに締め出されても伸び続けた3つの理由</title>
+<link>https://qiita.com/kinamocchi_tech/items/77f54c6dc9ff747db781</link>
+<guid>0950b4bc6a488781dee9972c78ed976c774b0ea5e9fe00cf0b657ebacc7354f5</guid>
+<pubDate>2026-08-08T07:13:03+09:00</pubDate>
+<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → GitHub15万スターのOpenCode｜Claudeに締め出されても伸び続けた3つの理由 🐹🦜 この記事に登場する2匹 🐹 もっちー （ハ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/silicon-level-sovereignty-root-of-trust-in-ai-accelerators-digital-trust-policy/</link>
-<guid>2a9d3fa8b66374fc95bb4c609ce271928d7f661c80bdfa2f37629c39dc79d516</guid>
-<pubDate>Fri, 07 Aug 2026 22:03:05 GMT</pubDate>
+<link>https://research.google/pubs/aase-activation-based-ai-safety-enforcement-via-lightweight-probes/</link>
+<guid>de5318acd1006d4f3a45e274be53602f255f60b4f9a36962c1cca5d27ad0e223</guid>
+<pubDate>Fri, 07 Aug 2026 23:02:03 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>0161bdfd3b4372468085fe3c20791e3d2ac54896e95fdcb74ec3aeec8cde07e7</guid>
-<pubDate>Fri, 07 Aug 2026 22:03:07 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
 </channel>
