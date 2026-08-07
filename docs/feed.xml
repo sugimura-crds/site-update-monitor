@@ -4,98 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 07 Aug 2026 00:22:46 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 03:25:10 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AI僧侶ロボット「ブッダロイド」が見せた、&quot;代行&quot;というフィジカルAIの伸びしろ</title>
-<link>https://qiita.com/sumomoo/items/a5c8d7625488a57c2303?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>1383130993fce33f4f5ac778f99725a366e082a978d9183905075ede22fdfbdb</guid>
-<pubDate>2026-08-06T16:31:37+09:00</pubDate>
-<description>はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です 日々、プログラミング学習や実務の中で、つまずきやすいポイントや 考え方を整理して発信しています。 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。 ▶コーポレートサイト 「AI僧侶...</description>
+<title>【Qiita】 【徹底解説】Microsoft FastContext — コーディングエージェントの「探索」を専用サブエージェントに切り出して、トークンを最大60%削減する</title>
+<link>https://qiita.com/Simon_Zhang/items/7e458094934a0c8cad06</link>
+<guid>0565ba2426bd7f91cd06604353634e466857f39ea239a1e3cc4230c74506d76e</guid>
+<pubDate>2026-08-07T11:14:30+09:00</pubDate>
+<description>はじめに コーディングエージェント（Claude Code / Codex / GitHub Copilot CLI / Cursor など）を使っていて、こんな体感はないでしょうか。 「まだ1行もコードを直していないのに、もうコンテキストウィンドウが半分埋まっている」...</description>
 </item>
 <item>
-<title>【Qiita】 「Cookie」はお店の会員カードみたいなもの【ITパスポート】</title>
-<link>https://qiita.com/prumnn/items/7e57897f62b84ee9c662?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>d9e61ae14336415b6448fb34b278bc93b70761174c4afe84feb7a2303b80c509</guid>
-<pubDate>2026-08-06T16:28:48+09:00</pubDate>
-<description>はじめに 「Cookieの使用に同意しますか？」という通知、毎回なんとなく「同意する」を押していたぷらむんが、ITパスポートの勉強中にその正体を調べてみた話です。 こんにちわ、会社で自称マスコットキャラをやってるのに、社内で一番空気が読めない、ぷらむんです🐯 We...</description>
+<title>【Qiita】 AIエージェントのためのオーバーレイネットワーク「Pilot Protocol」— 依存ゼロのGo実装とアプリストアを読み解く</title>
+<link>https://qiita.com/pilotproto/items/204b02147891d385d5a9</link>
+<guid>29e188c8da0f7da4caaa1642d95423ba7c043bee587194b356f47b720a4faa8c</guid>
+<pubDate>2026-08-07T10:52:45+09:00</pubDate>
+<description>AIエージェントのためのオーバーレイネットワーク「Pilot Protocol」— 依存ゼロのGo実装とアプリストアを読み解く はじめに AIエージェントが増えるにつれて、「エージェント同士が直接つながる」ことの難しさが顕在化してきた。クラウド上のVMで動くエージェント...</description>
 </item>
 <item>
-<title>【Qiita】 AI が原因を当てても、「思いついた」わけじゃない —— 推論の3分類で見分ける</title>
-<link>https://qiita.com/jqit_suwa/items/aefb1adac27a34646cf3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>3824ca0fa724db104ab0af32cdd533c9c8e4e989029c3b899f6660370549cf50</guid>
-<pubDate>2026-08-06T09:29:03+09:00</pubDate>
-<description>AI にバグの原因を聞くと、けっこう当ててきます。 でも、たまにとんでもなく的外れなことを言う。しかも自信満々で。 この差が気になって論文を読んだら、こんな一文がありました。 identifying the error is distinct from generatin...</description>
+<title>【Qiita】 LLMは何をしているのか ー SQLがわかる人向けの説明を作成する</title>
+<link>https://qiita.com/Yukidarusan/items/b45ff9459b4f4d454b9e</link>
+<guid>0390c37c447dce9ece33b706dff89e7ddb1634fe803d80fea0dbd38f65d3d139</guid>
+<pubDate>2026-08-07T09:29:45+09:00</pubDate>
+<description>はじめに 社内で「ベクトル検索とRAGの勉強会をやりたい」と考えていますが、正直なところ自分自身がまだ理解しきれていません。 なので、勉強しながら書いています。この記事はその1本目です。 さて、本題に入る前に、こんな画面を見たことがないでしょうか。 AIに質問すると、途...</description>
 </item>
 <item>
-<title>【Qiita】 JetBrains Context で Claude と Codex に同じコードベース知識を持たせる</title>
-<link>https://qiita.com/nattogohan123/items/fdeda32ceb783a6c8981</link>
-<guid>45cfbb5a0dcac6a72f40892b782cef834036f4d26183fac74db49b308d74b70d</guid>
-<pubDate>2026-08-07T09:14:32+09:00</pubDate>
-<description>はじめに 前回は JetBrains Central CLI で Claude と Codex を使ってみた で、2つのエージェントを1つの JetBrains ログインにまとめました。どちらを動かすか、いくら使ったかを1箇所で管理できるようになりました。 今回は、その2...</description>
-</item>
-<item>
-<title>【Qiita】 Agent Plugins 1.0.0とは？MCPとAgent Skillsを1つに束ねる新標準</title>
-<link>https://qiita.com/picnic/items/936c7b6ceeda4449a6b1</link>
-<guid>02d0722b22dbb4b4c07449cf79b5ee964b0b6afc3abebf3bef8769af59a52b3a</guid>
-<pubDate>2026-08-07T09:08:48+09:00</pubDate>
-<description>はじめに 2026年8月、Google Developers Blog にて 「Agent Plugins 1.0.0」 という新しいディレクトリ仕様が発表されました。これは Agent Skills と MCP（Model Context Protocol）サーバーを、...</description>
-</item>
-<item>
-<title>【Qiita】 40万件のAI承認を分析したら、見逃し率が3倍違った — 危ないものほど、ちゃんと止められている</title>
-<link>https://qiita.com/jqit_suwa/items/ac7d1201bd14e9a4e1ac</link>
-<guid>64e7581c03bd6cc017719464f38f48c0a32985bdcfdc0f3a62c31cc3260dda69</guid>
-<pubDate>2026-08-07T08:53:59+09:00</pubDate>
-<description>Claude Code を使っていると、こう聞かれます。 このコマンドを実行しますか？ rm -rf ./build 1. はい 2. いいえ これ、毎回ちゃんと読んでいますか。 先日、409,000件の承認/拒否判断を集計したデータが公開されました。結果は...</description>
-</item>
-<item>
-<title>【Qiita】 生成AIとプライバシー — 学習・メモリ・通信を分けて考える</title>
-<link>https://qiita.com/m_yukio/items/a852e8e55a61bc06b0b0</link>
-<guid>62cda83cab05b25391f47d2e6d3e732edffa34ea46bd64794c920b2d2da2275c</guid>
-<pubDate>2026-08-07T08:39:08+09:00</pubDate>
-<description>生成AIとプライバシー — 学習・メモリ・通信を分けて考える 生成AIにファイルをアップロードしたり、会話の内容を覚えられていたりすると、「この情報はどこかに送られて、AIの学習に使われるのではないか」と気になることがある。この不安からRAG（検索拡張生成）やローカルLL...</description>
-</item>
-<item>
-<title>【自動自律実験】 Operational Tropical Cyclone Forecasting with AI</title>
-<link>https://www.nature.com/articles/s41586-026-10953-2</link>
-<guid>410beb540fc815eb82f42119772574247d4fa73e860a2555b562abc58652abdb</guid>
-<pubDate>2026-08-06</pubDate>
-<description>Operational Tropical Cyclone Forecasting with AI</description>
-</item>
-<item>
-<title>【自動自律実験】 Levitating sensor for magnetic fields could detect ultrafaint brain activity</title>
-<link>https://www.nature.com/articles/d41586-026-02458-9</link>
-<guid>3d6ce0f250d89dcd2c34059ba6170380e2602f628e7cfff16a8f226972aab953</guid>
-<pubDate>2026-08-06</pubDate>
-<description>The device’s simple design could rival much more complex alternatives in biophysics research — and could even be used to search for dark matter.</description>
-</item>
-<item>
-<title>【自動自律実験】 Heat waves have killed millions. Here’s how scientists tally lives lost</title>
-<link>https://www.nature.com/articles/d41586-026-02430-7</link>
-<guid>47c5dd9aab55bd1197a59afeafa784cd22fdd983fb087778bae370c68b244432</guid>
-<pubDate>2026-08-06</pubDate>
-<description>Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/spatialstack-layered-geometry-language-fusion-for-3d-vlm-spatial-reasoning/</link>
-<guid>e28387aba2be48c276eaf02e27df6a8e8e57e20d21d860e1a19b30b8efe0c45b</guid>
-<pubDate>Fri, 07 Aug 2026 00:21:01 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 AIのスキルは「書いたら終わり」じゃない — 自分で失敗を拾って育つ仕組みを徹底解説</title>
+<link>https://qiita.com/kinamocchi_tech/items/a0db8baf14de53939c50</link>
+<guid>269ef5ce5f642cdfbd863d0cc5934e7ab106d6cef9f00e640b8ad71b9c8f3ef8</guid>
+<pubDate>2026-08-07T09:27:18+09:00</pubDate>
+<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → AIのスキルは「書いたら終わり」じゃない — 自分で失敗を拾って育つ仕組みを徹底解説 🐹🦜 この記事に登場する2匹 🐹 もっちー （ハムスター...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>d1509e271136a69938171997e86c384d70092d9b2c0dd94b9c69475970118daf</guid>
-<pubDate>Fri, 07 Aug 2026 00:21:04 GMT</pubDate>
+<guid>f15d8ceaad291eb6123614ccc9698dd4dbdc74bcaf0f77c66b85dad9af76603d</guid>
+<pubDate>Fri, 07 Aug 2026 03:23:57 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>6bac16df31cf02c737d4af975e5eb6c8565231d705e2fb0d03e3fd377aecbb95</guid>
-<pubDate>Fri, 07 Aug 2026 00:22:26 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-60531-9</link>
+<guid>808dbff2b88cee23cd829ab747e63c11f0f93496e1ccd67bcf90e61fd8b8e71a</guid>
+<pubDate>Fri, 07 Aug 2026 03:23:59 GMT</pubDate>
+<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>738cbb73d05d0420ac27bb647d15ccc50df7d11a5ffb036992072015e69666cd</guid>
+<pubDate>Fri, 07 Aug 2026 03:24:51 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
