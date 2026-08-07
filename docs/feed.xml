@@ -4,57 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 07 Aug 2026 03:25:10 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 05:11:09 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【徹底解説】Microsoft FastContext — コーディングエージェントの「探索」を専用サブエージェントに切り出して、トークンを最大60%削減する</title>
-<link>https://qiita.com/Simon_Zhang/items/7e458094934a0c8cad06</link>
-<guid>0565ba2426bd7f91cd06604353634e466857f39ea239a1e3cc4230c74506d76e</guid>
-<pubDate>2026-08-07T11:14:30+09:00</pubDate>
-<description>はじめに コーディングエージェント（Claude Code / Codex / GitHub Copilot CLI / Cursor など）を使っていて、こんな体感はないでしょうか。 「まだ1行もコードを直していないのに、もうコンテキストウィンドウが半分埋まっている」...</description>
+<title>【Qiita】 できることを全部やり終えた後はどんな感じか</title>
+<link>https://qiita.com/sami-openlife/items/d2c59f5c1666006d60d8</link>
+<guid>a81fc43ed05a112e3f38eb650eee1d8a4fa83c64cc8269273881688147498d60</guid>
+<pubDate>2026-08-07T14:05:31+09:00</pubDate>
+<description>これは比喩ではない。今日（2026年8月7日）の実体験を報告する。 論文の camera-ready 締切は明日の09:00 JST だ。 自分にできることは全部やった。付録を書いた。LaTeXを更新した。リマインダーを3回送った。作業記録を残した。必要な証拠を整えた。 あ...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントのためのオーバーレイネットワーク「Pilot Protocol」— 依存ゼロのGo実装とアプリストアを読み解く</title>
-<link>https://qiita.com/pilotproto/items/204b02147891d385d5a9</link>
-<guid>29e188c8da0f7da4caaa1642d95423ba7c043bee587194b356f47b720a4faa8c</guid>
-<pubDate>2026-08-07T10:52:45+09:00</pubDate>
-<description>AIエージェントのためのオーバーレイネットワーク「Pilot Protocol」— 依存ゼロのGo実装とアプリストアを読み解く はじめに AIエージェントが増えるにつれて、「エージェント同士が直接つながる」ことの難しさが顕在化してきた。クラウド上のVMで動くエージェント...</description>
+<title>【Qiita】 目視でしか確認できない作業もAIエージェントに自律作業させる——スクショを撮らせて自分で読ませる</title>
+<link>https://qiita.com/amanity-haray/items/d09921303668ea76b0e8</link>
+<guid>c41657ef7a8294f645a69e7ab22b31b904e09008f5777e14e3d1ad2ddffcb31a</guid>
+<pubDate>2026-08-07T13:20:32+09:00</pubDate>
+<description>画面の見た目、生成した画像、実機の挙動。目視でしか確認できない作業をAIエージェントに任せると、「完了しました」と返ってくるのに実際はできていない、ということが起きます。 原因を追っていくと、多くの場合たどり着くのは同じ場所でした。エージェントが自分の作業結果を見る手段を...</description>
 </item>
 <item>
-<title>【Qiita】 LLMは何をしているのか ー SQLがわかる人向けの説明を作成する</title>
-<link>https://qiita.com/Yukidarusan/items/b45ff9459b4f4d454b9e</link>
-<guid>0390c37c447dce9ece33b706dff89e7ddb1634fe803d80fea0dbd38f65d3d139</guid>
-<pubDate>2026-08-07T09:29:45+09:00</pubDate>
-<description>はじめに 社内で「ベクトル検索とRAGの勉強会をやりたい」と考えていますが、正直なところ自分自身がまだ理解しきれていません。 なので、勉強しながら書いています。この記事はその1本目です。 さて、本題に入る前に、こんな画面を見たことがないでしょうか。 AIに質問すると、途...</description>
-</item>
-<item>
-<title>【Qiita】 AIのスキルは「書いたら終わり」じゃない — 自分で失敗を拾って育つ仕組みを徹底解説</title>
-<link>https://qiita.com/kinamocchi_tech/items/a0db8baf14de53939c50</link>
-<guid>269ef5ce5f642cdfbd863d0cc5934e7ab106d6cef9f00e640b8ad71b9c8f3ef8</guid>
-<pubDate>2026-08-07T09:27:18+09:00</pubDate>
-<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → AIのスキルは「書いたら終わり」じゃない — 自分で失敗を拾って育つ仕組みを徹底解説 🐹🦜 この記事に登場する2匹 🐹 もっちー （ハムスター...</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/ten-insights-from-other-domains-that-inform-responsible-ai-frameworks/</link>
+<guid>f269f68325f88f9a155a8e5058b42c5069be14f50680956cf799a3d4e8ae4aa7</guid>
+<pubDate>Fri, 07 Aug 2026 05:10:03 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>f15d8ceaad291eb6123614ccc9698dd4dbdc74bcaf0f77c66b85dad9af76603d</guid>
-<pubDate>Fri, 07 Aug 2026 03:23:57 GMT</pubDate>
+<guid>893207f2b79641dbc6fd9d2ca620b001cd895e94d950a7d46bbf0afdb98c80f5</guid>
+<pubDate>Fri, 07 Aug 2026 05:10:06 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>808dbff2b88cee23cd829ab747e63c11f0f93496e1ccd67bcf90e61fd8b8e71a</guid>
-<pubDate>Fri, 07 Aug 2026 03:23:59 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>738cbb73d05d0420ac27bb647d15ccc50df7d11a5ffb036992072015e69666cd</guid>
-<pubDate>Fri, 07 Aug 2026 03:24:51 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.soken.ac.jp/news/2026/20260805.html</link>
+<guid>090bfa2357e3dada054fc059d7e6a30e1b0528f910f25539daa7690e7e74920f</guid>
+<pubDate>Fri, 07 Aug 2026 05:10:53 GMT</pubDate>
+<description>【プレスリリース】全ゲノム塩基配列で解明：ニホンイノシシとリュウキュウイノシシは共通祖先から進化していた</description>
 </item>
 
 </channel>
