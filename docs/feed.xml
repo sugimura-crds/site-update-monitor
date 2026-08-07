@@ -4,29 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 07 Aug 2026 21:11:55 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 22:03:59 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 トークン浪費と性能低下を防ぐ、Claude Code の自動引き継ぎ hook を作った</title>
-<link>https://qiita.com/tomada/items/46e675f6ced44dcd10ad</link>
-<guid>0079d4ae21b2a34550220284728a4a321fc0cfaf042524f4be61ac48b58a3ac9</guid>
-<pubDate>2026-08-08T05:46:14+09:00</pubDate>
-<description>長いセッションの終盤で、Claude Code の様子が変わったと感じたことが何度もあります。 序盤に伝えた制約を忘れる。さっき読んだファイルをまた読み始める。 「モデルが悪くなったのでは」と疑いたくなりますが、私の場合、そう感じたときはたいていコンテキストの使用率が膨らん...</description>
+<title>【Qiita】 ChainDropで混入した悪性npm版をAIエージェント自身に点検させる――確認・復旧・再発防止</title>
+<link>https://qiita.com/comty/items/e88272d84815668d3f04</link>
+<guid>838ce29b322e8dfd9cfda5d0521ed998db712aae5c3ffa2c7af164ae8f234b7f</guid>
+<pubDate>2026-08-08T06:46:35+09:00</pubDate>
+<description>はじめに 「怪しいnpmパッケージが出た。うちのプロジェクトは大丈夫だろうか」 こういうとき、以前なら人間がpackage-lock.jsonを検索し、npm lsを実行し、Gitの履歴を確認していました。 今なら、CodexやClaude CodeなどのAIエージェン...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/ten-insights-from-other-domains-that-inform-responsible-ai-frameworks/</link>
-<guid>c9c3d4459277cc2b535a26794c20158ba5ecfdb52d8965e00e961c568b37dc82</guid>
-<pubDate>Fri, 07 Aug 2026 21:11:18 GMT</pubDate>
+<link>https://research.google/pubs/silicon-level-sovereignty-root-of-trust-in-ai-accelerators-digital-trust-policy/</link>
+<guid>2a9d3fa8b66374fc95bb4c609ce271928d7f661c80bdfa2f37629c39dc79d516</guid>
+<pubDate>Fri, 07 Aug 2026 22:03:05 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>558ac6af08fb3c0c8372c27cca49c149161ac536ada385ad6a5ae49072921d67</guid>
-<pubDate>Fri, 07 Aug 2026 21:11:39 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>0161bdfd3b4372468085fe3c20791e3d2ac54896e95fdcb74ec3aeec8cde07e7</guid>
+<pubDate>Fri, 07 Aug 2026 22:03:07 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
 </channel>
