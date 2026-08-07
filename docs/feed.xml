@@ -4,49 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 07 Aug 2026 12:05:58 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 13:46:24 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 [AWS]ベクトル対応した DynamoDB のエンベディング戦略を考えてみる</title>
-<link>https://qiita.com/kikuziro/items/7eb821ebe7f15fc0fdd0</link>
-<guid>aa9825236d16c5bb7ff02e200ee06279b5df9af9f56f05862e7f043c5eefee02</guid>
-<pubDate>2026-08-07T20:41:28+09:00</pubDate>
-<description>DynamoDB が 2026年8月5日にベクトル検索へ対応しました。商品データとそのベクトルを同じテーブルに置けるのがありがたいところです。ただしEmmbeding処理は自前でする必要があります。この記事ではその埋め込みを誰がいつ作るのか？という話を考えてみます。 ...</description>
+<title>【Qiita】 ベクトルDBを使わないGraphRAG「Graphify」の中身を一次情報で読む</title>
+<link>https://qiita.com/ryoji9702/items/c72674d302c717b70057</link>
+<guid>9de5bbf52917843462eca5fe7bdc53546552b37134e982ce016288bcd73c18a9</guid>
+<pubDate>2026-08-07T22:02:20+09:00</pubDate>
+<description>はじめに AI コーディングアシスタントにコードベースを理解させる方法といえば、埋め込み＋ベクトル DB による RAG が定番になって久しいです。そんな中、2026年4月に登場した Graphify は「ベクトルストアは使わない」と真っ向から逆を張る OSS です。公開...</description>
 </item>
 <item>
-<title>【Qiita】 deepagentsのファイルシステムバックエンド、混ぜると更新時刻が9時間ズレた</title>
-<link>https://qiita.com/kai_kou/items/70a50e37c3fdcb6a6f15</link>
-<guid>d982321b9ee5630bcfea4729980bf44f5cc2c3548d49e3c255d4eaa79a011cb4</guid>
-<pubDate>2026-08-07T20:17:13+09:00</pubDate>
-<description>LangChain の deepagents は、エージェントが読み書きする「ファイルシステム」を差し替え可能なバックエンドとして抽象化しています。同じ write_file / read_file / ls / glob / grep ツールを与えたまま、保存先だけをスレ...</description>
+<title>【Qiita】 Claude Codeスキルは作者ごとインストールされる時代に:検索急上昇1位は人名だった(8月7日データ)</title>
+<link>https://qiita.com/Skillselion/items/f872237e1c49725f3366</link>
+<guid>d58ea9c6f52d73eab3ade52f7a0f56046b8930be024641ec2a63d33db44ec915</guid>
+<pubDate>2026-08-07T21:55:36+09:00</pubDate>
+<description>今週、Claude Codeスキル関連で最も伸びている検索ワードはスキル名ではありません。人の名前です。 私たちが運営するスキルディレクトリのトレンド欄では、「matt pocock skills」という検索ワードが+160%で急上昇1位に入っています。同じ欄の5位にいるc...</description>
+</item>
+<item>
+<title>【Qiita】 CLAUDE.md は短くするな、移せ — 325行を仕分けて常時ロード156行で運用している話</title>
+<link>https://qiita.com/ennagara128/items/7bfdf62ec59371f9d89f</link>
+<guid>852eeea10b6e87fa4d6f161a28f35b798e66c096abcd0bb1f8793e4ce6e864f2</guid>
+<pubDate>2026-08-07T21:12:28+09:00</pubDate>
+<description>CLAUDE.md が長くなってきたとき、「短くしよう」と考えるのはたぶん間違いです。 書いたルールにはそれぞれ理由があったはずで、消していいものはあまりありません。やることは短縮ではなく、毎回読まれる場所から、必要なときだけ読まれる場所へ移すことです。うちの場合、総量はほ...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントを無料で使う方法を調べてみた(2026/8/1時点)</title>
+<link>https://qiita.com/mi25/items/91dbbec187b6715a1f7b</link>
+<guid>eee70243c1f4fba9a663a342fb4078c12b6637c658bc83c87db48dd062c73672</guid>
+<pubDate>2026-08-07T21:11:41+09:00</pubDate>
+<description>はじめに いやー、まじでへこんだわ。3ヶ月前くらいにさ、「GeminiCLIが最高！」って喜んで使ってたわけよ。それがさ、こないだサービス終了で、普通の使い方じゃもう完全にシャットアウトされてて、API経由でゴリゴリ叩くしか道がなくなってた。おいおい嘘だろ。。。 ...</description>
+</item>
+<item>
+<title>【自動自律実験】 Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints</title>
+<link>https://www.nature.com/articles/d41586-026-02488-3</link>
+<guid>e37760c54ee026b0593b8fc294a5d9b59b8d97d1ad620c8c7f6dd516470eadd3</guid>
+<pubDate>2026-08-07</pubDate>
+<description>Nature staff discuss how animal studies are starting to uncover how DNA repair could prolong life, and how COVID-19 can reawaken dormant viruses.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/marginalized-bundle-adjustment-multi-view-camera-pose-from-monocular-depth-estimates/</link>
-<guid>837f8867bd1ff6874ebc5c511e29e3cd59c7d4066cc22d78f98b78203b756ada</guid>
-<pubDate>Fri, 07 Aug 2026 12:05:09 GMT</pubDate>
+<link>https://research.google/pubs/adcanvas-accessible-and-conversational-audio-description-authoring-for-blind-and-low-vision-creators/</link>
+<guid>fc8b79d40e37486525084c7c76d638951b3ce5ab1fcdce05fc80d31ccfb8773d</guid>
+<pubDate>Fri, 07 Aug 2026 13:45:42 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>04793eff36ddc22e282012f0aa6ac6e781777368f69b5b83181ff17b7d299fce</guid>
-<pubDate>Fri, 07 Aug 2026 12:05:11 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>d50b36c12a36800053f77f9dcfa6dd69e2f71f321294b9ae43dad88e3b5582ef</guid>
-<pubDate>Fri, 07 Aug 2026 12:05:14 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>6cecc8d955da8935b693cbac3f64b22a21edf59c258071d0b76f20a942c79ea2</guid>
-<pubDate>Fri, 07 Aug 2026 12:05:41 GMT</pubDate>
+<guid>b7dd7f7f707f2305761f539904af319a9f241238223737e9cf207ef43282c86d</guid>
+<pubDate>Fri, 07 Aug 2026 13:46:05 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
