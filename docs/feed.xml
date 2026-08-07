@@ -4,56 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 07 Aug 2026 13:46:24 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 14:45:18 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 ベクトルDBを使わないGraphRAG「Graphify」の中身を一次情報で読む</title>
-<link>https://qiita.com/ryoji9702/items/c72674d302c717b70057</link>
-<guid>9de5bbf52917843462eca5fe7bdc53546552b37134e982ce016288bcd73c18a9</guid>
-<pubDate>2026-08-07T22:02:20+09:00</pubDate>
-<description>はじめに AI コーディングアシスタントにコードベースを理解させる方法といえば、埋め込み＋ベクトル DB による RAG が定番になって久しいです。そんな中、2026年4月に登場した Graphify は「ベクトルストアは使わない」と真っ向から逆を張る OSS です。公開...</description>
+<title>【Qiita】 日本語が得意なモデルが使えない — Ollama の tools capability の仕組みを実行ファイルまで追う</title>
+<link>https://qiita.com/kougi/items/3c85684096afe53582d4</link>
+<guid>291927afe824f1f1c60de836fe6297aea2679686c49800c6a5186c79fa64355c</guid>
+<pubDate>2026-08-07T23:18:49+09:00</pubDate>
+<description>本記事は個人環境での検証と、公開されているドキュメントの読解に基づく個人的な整理です。技術的な確認と記事の執筆は Opus 5 と共に進めています。 はじめに ローカル LLM で動かしている Hermes Agent を日本語対応させたい。既定の hermes3...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeスキルは作者ごとインストールされる時代に:検索急上昇1位は人名だった(8月7日データ)</title>
-<link>https://qiita.com/Skillselion/items/f872237e1c49725f3366</link>
-<guid>d58ea9c6f52d73eab3ade52f7a0f56046b8930be024641ec2a63d33db44ec915</guid>
-<pubDate>2026-08-07T21:55:36+09:00</pubDate>
-<description>今週、Claude Codeスキル関連で最も伸びている検索ワードはスキル名ではありません。人の名前です。 私たちが運営するスキルディレクトリのトレンド欄では、「matt pocock skills」という検索ワードが+160%で急上昇1位に入っています。同じ欄の5位にいるc...</description>
-</item>
-<item>
-<title>【Qiita】 CLAUDE.md は短くするな、移せ — 325行を仕分けて常時ロード156行で運用している話</title>
-<link>https://qiita.com/ennagara128/items/7bfdf62ec59371f9d89f</link>
-<guid>852eeea10b6e87fa4d6f161a28f35b798e66c096abcd0bb1f8793e4ce6e864f2</guid>
-<pubDate>2026-08-07T21:12:28+09:00</pubDate>
-<description>CLAUDE.md が長くなってきたとき、「短くしよう」と考えるのはたぶん間違いです。 書いたルールにはそれぞれ理由があったはずで、消していいものはあまりありません。やることは短縮ではなく、毎回読まれる場所から、必要なときだけ読まれる場所へ移すことです。うちの場合、総量はほ...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントを無料で使う方法を調べてみた(2026/8/1時点)</title>
-<link>https://qiita.com/mi25/items/91dbbec187b6715a1f7b</link>
-<guid>eee70243c1f4fba9a663a342fb4078c12b6637c658bc83c87db48dd062c73672</guid>
-<pubDate>2026-08-07T21:11:41+09:00</pubDate>
-<description>はじめに いやー、まじでへこんだわ。3ヶ月前くらいにさ、「GeminiCLIが最高！」って喜んで使ってたわけよ。それがさ、こないだサービス終了で、普通の使い方じゃもう完全にシャットアウトされてて、API経由でゴリゴリ叩くしか道がなくなってた。おいおい嘘だろ。。。 ...</description>
-</item>
-<item>
-<title>【自動自律実験】 Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints</title>
-<link>https://www.nature.com/articles/d41586-026-02488-3</link>
-<guid>e37760c54ee026b0593b8fc294a5d9b59b8d97d1ad620c8c7f6dd516470eadd3</guid>
-<pubDate>2026-08-07</pubDate>
-<description>Nature staff discuss how animal studies are starting to uncover how DNA repair could prolong life, and how COVID-19 can reawaken dormant viruses.</description>
+<title>【Qiita】 ディープフェイク検出が限界を迎える理由と、見分けに頼らない設計へ</title>
+<link>https://qiita.com/abkkk/items/7b7a4a4100b7a6e84753</link>
+<guid>a1d563feb864f42dec60200374871d1fcc5876f605ec952e4ad0b50b7d2581c3</guid>
+<pubDate>2026-08-07T23:06:00+09:00</pubDate>
+<description>ディープフェイク検出の精度は、ここ2年で大幅に上がった。 それでも詐欺被害は減っていない。2026年7月、NHKはニセ社長詐欺が相次ぎ手口に生成AIが悪用されている可能性があると報じた。IPA（情報処理推進機構）の「情報セキュリティ10大脅威2026」では「AIの利用をめぐ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/adcanvas-accessible-and-conversational-audio-description-authoring-for-blind-and-low-vision-creators/</link>
-<guid>fc8b79d40e37486525084c7c76d638951b3ce5ab1fcdce05fc80d31ccfb8773d</guid>
-<pubDate>Fri, 07 Aug 2026 13:45:42 GMT</pubDate>
+<link>https://research.google/pubs/ai-propeller-warehouse-scale-inter-procedural-code-layout-optimization-with-alphaevolve/</link>
+<guid>bda65b0907a3e24c4c58cfeb0caaeae047a037c299145de8cccc521d614735a2</guid>
+<pubDate>Fri, 07 Aug 2026 14:44:36 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>33f8cc5400dfd6a620b4eac06a0be41a0c782aed7cc991ecd6e315dcd8989f0e</guid>
+<pubDate>Fri, 07 Aug 2026 14:44:39 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>b7dd7f7f707f2305761f539904af319a9f241238223737e9cf207ef43282c86d</guid>
-<pubDate>Fri, 07 Aug 2026 13:46:05 GMT</pubDate>
+<guid>da8494602e3c6602409af90feab3cae106995656b1ec26933a3934ec27b0e113</guid>
+<pubDate>Fri, 07 Aug 2026 14:44:58 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
