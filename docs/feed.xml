@@ -4,42 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 08 Aug 2026 10:01:47 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 10:58:26 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 日刊IETF (2026-06-27) AIエージェントの行動証跡と耐量子鍵交換、NETCONFのQUIC移行が同時に動く一日</title>
-<link>https://qiita.com/tetsuko_room/items/e1a21618dc4cec8117b1</link>
-<guid>9fbcace63edfb46e915c3e67058ba8e134537a3f3c473c02b0d7ac5d3f27790d</guid>
-<pubDate>2026-08-08T18:24:53+09:00</pubDate>
-<description>こんにちは、GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-27（UTC基準）に公開されたInter...</description>
+<title>【Qiita】 日刊IETF (2026-06-28) AIエージェントの通信基盤AGTPが一挙十本超、識別と発見と決済まで一気に動いた一日</title>
+<link>https://qiita.com/tetsuko_room/items/fae6d8f9be6a56c5323c</link>
+<guid>f735c8525f7f0bd8bcacf9d8f221f76822431fc911dec668d4cf5d8e157cc13c</guid>
+<pubDate>2026-08-08T19:47:07+09:00</pubDate>
+<description>こんばんは！ GMOコネクトの名もなきエンジニアです。 よろしくお願いします！ 日刊IETFは、I-D AnnounceやIETF Announceに投稿されたメールをサマリーし続けるという修行的な活動です！！ 今回は、2026-06-28（UTC基準）に公開されたInte...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント開発環境「Orca」のプラグインを自作してみた</title>
-<link>https://qiita.com/tamakiiii/items/12fd39f66cb095a7fc02</link>
-<guid>6b4bdf3d437f57eccedda06fe6f520e926cb5ac44d0e11d63ca78ebce9c81efe</guid>
-<pubDate>2026-08-08T18:19:01+09:00</pubDate>
-<description>はじめに 前回、AI エージェント向け開発環境「Orca」に追加されたプラグイン機能とマーケットプレイスについて調べた記事を書きました。 そのときに残った疑問が「これ、自分でも作れるのか」でした。結論から言うと作れます。ビルドツールやパッケージ管理は不要で、フォルダ...</description>
+<title>【Qiita】 Claude Code のサブエージェントを Kimi K3 / DeepSeek V4 Flash でネイティブに動かす</title>
+<link>https://qiita.com/h-seno-tokai/items/4dd0d3d7d8352546ca7a</link>
+<guid>123279340604fab8cfa20bf8f96f5d67457dd2c7c3285394c880a91d3aab5f40</guid>
+<pubDate>2026-08-08T19:14:07+09:00</pubDate>
+<description>Claude Code のサブエージェントを Kimi K3 / DeepSeek V4 Flash でネイティブに動かす 想定読者 Claude をサブスクリプションプランで契約し、CLI（Claude Code）で使っている人 週間リミットが厳しく、物足りなさを...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/reasoning-driven-synthetic-data-generation-and-evaluation/</link>
-<guid>6bb81b0477e58c9b6e789353fcca94ea1c1c1d5176bce3dafc99c1b430cf18fd</guid>
-<pubDate>Sat, 08 Aug 2026 10:00:44 GMT</pubDate>
+<link>https://research.google/pubs/a-hardware-anchored-privacy-middleware-for-pii-sharing-across-heterogeneous-embedded-consumer-devices/</link>
+<guid>ba7fe4ca38240952f16dbbca55671f302b3e1e3444e207d2af4731ad4d250f8f</guid>
+<pubDate>Sat, 08 Aug 2026 10:57:22 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>7b19c488337a9f2d601ae43da13624ceca62e3f4f040bcb70f61c134e4809c9a</guid>
-<pubDate>Sat, 08 Aug 2026 10:00:47 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>2fed7bb344d7105d2d3b0794bc81e6ed0fa7173f005e645cfb52396a75dd654b</guid>
-<pubDate>Sat, 08 Aug 2026 10:00:49 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
 </item>
 
 </channel>
