@@ -4,49 +4,29 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 08 Aug 2026 02:50:38 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 04:05:30 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AI coding agentのAuto modeは、モデル選びを消す代わりに評価設計を要求する</title>
-<link>https://qiita.com/heftykoo/items/5c6e64759dd4e079ef86</link>
-<guid>c3ea8d7dc69cd1a440841c09a5a58da58b6f065288acac64678a9abf8ca4ba33</guid>
-<pubDate>2026-08-08T11:46:11+09:00</pubDate>
-<description>Copilot CLIで/modelを開き、Autoを選ぶ。毎回モデルを選ぶ手間がなくなるので、これはかなり楽です。 ただ、同じfrontendの修正を頼んだときに、前回と今回を何で比べればいいのかは急に分かりにくくなります。diffが変わったのはpromptのせいか、re...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントの社内導入で始まる「OAuth地獄」 — ID-JAGとEMAでMCP認可を一元管理する</title>
-<link>https://qiita.com/hisuzuya/items/4390b34f284e29080090</link>
-<guid>58235e92d410cbde81511df369ee17226d8b3d3207123dee4d3bff1ecf5a001f</guid>
-<pubDate>2026-08-08T11:18:47+09:00</pubDate>
-<description>当社でも、SSOに対応したMCP、OAuth認証が必要なMCP、APIキーで接続するMCPを用途に応じて使い分けています。 特に負担になったのがOAuth認証です。新しいMCPを追加するたびに、利用者が接続先ごとに認証しなければなりませんでした。 少人数で試している間は、そ...</description>
-</item>
-<item>
-<title>【Qiita】 ロボット × AIエージェント × オントロジーの検証基盤 Musubi</title>
-<link>https://qiita.com/cvusk/items/a3805a42288561153976</link>
-<guid>e246c493772d29118d2fa505ac36d078999665ffc06a04ee850eebfeafd94042</guid>
-<pubDate>2026-08-08T10:25:04+09:00</pubDate>
-<description>「器用さ」ではなく「誠実さ」を測る ロボットの信念は、しばしば現実とズレます。台帳には「入荷棚にある」と書いてあるのに、実物は別の場所にある——。 Musubi は、ロボットの器用さ（dexterity）ではなく、「信念と現実の乖離を検知・調停・説明し、不可逆な行動をゲ...</description>
-</item>
-<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/automated-multi-stage-build-error-remediation-by-propagating-dormant-suppression-tags/</link>
-<guid>6205bb5d54293bf8f5b2675c996468e2b45b523df54a3c10e63d45c033fa6ae5</guid>
-<pubDate>Sat, 08 Aug 2026 02:49:57 GMT</pubDate>
+<link>https://research.google/pubs/codas-ai-co-data-scientist-for-biomarker-discovery-via-wearable-sensors/</link>
+<guid>976757ba9ad74e2ef00db0aa501740fc42b2e9d8a54165d2403a167f19341540</guid>
+<pubDate>Sat, 08 Aug 2026 04:04:56 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>2c3f7deab2c330b837e2450a017ec7fa05af1b34b2d7466147d58df07cae58da</guid>
-<pubDate>Sat, 08 Aug 2026 02:49:59 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-64146-y</link>
+<guid>4df7226afe0c439fbadf109caad48bfd38c4097a6a18f0186ff8c9d03d670039</guid>
+<pubDate>Sat, 08 Aug 2026 04:05:03 GMT</pubDate>
+<description>Insider threats continue to be a vexed and complicated risk in secure software development (SSD) organizations due to their origin in combination of malicious intent, negligence, credential abuse, and process vulnerability throughout the software development lifecycle. Artificial intelligence (AI)-inspired, agentic security strategies are increasingly suggested to enhance prevention and detection, but organizations have not yet a clear, decision-supportive approach to prioritize agentic mitigation practices in times of uncertainty. This paper aims to suggest and rank an agentic model of insider threats mitigation to secure software development companies based on the Fuzzy Analytic Hierarchy Process (Fuzzy AHP). Its main objectives include (i) organizing insider-threat mitigation into multi-level decision model, (ii) calculating priority weights of AI-directed agentic practices, and (iii) assisting actionable adoption choices of various insider-threat types. A systematic mapping study (SMS) was first carried out to investigate the state-of-the-art of insider threats in software development organization. The second phase involved performing an empirical survey among cybersecurity pro</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>48c5c7687e72473907bfc6fb47747910281c966e1014fefed3328b5be1dd7d82</guid>
-<pubDate>Sat, 08 Aug 2026 02:50:02 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>a0372476b3a7679a9df18bd1fb98ba37cb1462ea015e469a7c5a97009f63a242</guid>
+<pubDate>Sat, 08 Aug 2026 04:05:16 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
