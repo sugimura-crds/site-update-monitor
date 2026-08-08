@@ -4,14 +4,50 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 08 Aug 2026 14:04:50 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 14:56:31 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 Claude・Codexのトークン大幅削減とレスポンス速度を大幅向上を同時にやっちゃおう</title>
+<link>https://qiita.com/ichiken26/items/cf0d0087357df49fe81f</link>
+<guid>065a54c52341fccf61f4b527ec4c6d1176553bf449a198e2c4eb7d7c2ea2d15d</guid>
+<pubDate>2026-08-08T23:53:04+09:00</pubDate>
+<description>はじめに 皆さん、ClaudeやCodexは使っているだろうか？ 私はエンジニアなのだが、実務では会社契約のClaude、個人ではchatGPTを契約しているのでCodexを使っているのだが、皆さま共通として持っている課題があるかと思う。 そう、「トークンが足りない！！！...</description>
+</item>
+<item>
+<title>【Qiita】 AIに雑に指示をするとなぜ出力も雑になるのか</title>
+<link>https://qiita.com/ichiken26/items/59d98d8ec340f92b8076</link>
+<guid>ffb6686b2df51d5b1aceb18b3e5770f94c49cf539be475be38808b906ca7ebd9</guid>
+<pubDate>2026-08-08T23:51:33+09:00</pubDate>
+<description>皆さん、AIに指示を出すとき、「これがしたいんだけどこれ作って」など雑な指示をしていないだろうか？ バイブコーディングをしているという人を見るとよくこのような指示をしているケースをよく見る。 しかし、これではダメなのだ。 プロンプトエンジニアリング、という言葉が前に流行った...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/towards-a-human-in-the-loop-framework-for-reliable-patch-evaluation-using-an-llm-as-a-judge/</link>
-<guid>8b19ff2245ce4b3db2464a7f641385b3f3c6f65629a45d9c560b58b6fbcf4321</guid>
-<pubDate>Sat, 08 Aug 2026 14:04:07 GMT</pubDate>
+<link>https://research.google/pubs/snpeek-side-channel-analysis-for-privacy-applications-on-confidential-vms/</link>
+<guid>21b5ea0ace8184e9a6839b7f8e2ef2421375f32ab1f78af0c1704dee08b314d7</guid>
+<pubDate>Sat, 08 Aug 2026 14:55:49 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>7f8657a49e7da7c209ffac1a484edfe64815f787855636745b29a99327ad7cb3</guid>
+<pubDate>Sat, 08 Aug 2026 14:55:52 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-60531-9</link>
+<guid>fdb3c14cd2d2a0f8605e775e75fc9a94dd6437f7c2194f0452b4cdc20c632395</guid>
+<pubDate>Sat, 08 Aug 2026 14:55:55 GMT</pubDate>
+<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>480ee3084bdf7ddca633f3961cc9a79e8b0cc6b6e106e08b0a1b310e99dd2b5f</guid>
+<pubDate>Sat, 08 Aug 2026 14:56:14 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
