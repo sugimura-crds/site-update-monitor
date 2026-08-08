@@ -4,28 +4,50 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 08 Aug 2026 08:06:37 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 09:08:43 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 ハルシネーションしにくいAIを個人で作った話と、いきなり訪れたピンチ</title>
-<link>https://qiita.com/mimikooo/items/a4d6db431bc68356a096</link>
-<guid>51b76c9b148fe242314706884830e8afd33c6b87245d08793dda3a51946293df</guid>
-<pubDate>2026-08-08T16:44:25+09:00</pubDate>
-<description>はじめに 個人開発で「Kairi」という自分専用のAIアシスタントを作っています。市況分析・投資サポート・日常会話など、自分の生活に密着した用途に絞って、DeepSeek APIをバックボーンに構築してきました。 今回この記事を書いているのは、8月6日にDeepSeek...</description>
+<title>【Qiita】 わかるようでわからないssh接続について</title>
+<link>https://qiita.com/hrfm1623/items/91115760e4bd66f7995a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>82a0fe13cfad9d84377d7f4727842d0252325778199ac2ce01cad4637846adef</guid>
+<pubDate>2026-08-07T20:10:01+09:00</pubDate>
+<description>この記事の使い方 先に問題を出します。 鍵をまだ交換していないのに、どうやって暗号化を始めているのですか 公開鍵認証で、サーバに送っているものは何ですか ssh を3回叩いたら、TCP 接続は3本になりますか あなたの秘密鍵が盗まれたら、どこまでやられますか 全部説明...</description>
+</item>
+<item>
+<title>【Qiita】 【便利】 Claude Codeの覚えておきたいスラッシュコマンドまとめ</title>
+<link>https://qiita.com/tamashiro_nobuyuki/items/573178ed3b8a6a22ebb1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>4919a4297cd34465a25d3da1aa2396d5765ee4d4302f4e7b3e123aed11655d2e</guid>
+<pubDate>2026-08-07T17:14:05+09:00</pubDate>
+<description>Claude Codeの覚えておきたいスラッシュコマンドまとめ Claude Codeを使っていて「コマンド何だっけ?」となることが多かったので、よく使うスラッシュコマンドを用途別に整理しました。 早見表 コマンド 何をするか /compact 会話を要約...</description>
+</item>
+<item>
+<title>【Qiita】 AIにUnityプロジェクトを毎回探索させたくないので、アセット参照MCPを作った【UAsset Reference MCP #1】</title>
+<link>https://qiita.com/jvince/items/eeb67d2d0bc5e1ffabb4</link>
+<guid>385bf9007b24d297a404083db31a0fd44bde7343772726f152fcdf8f1f8d49ff</guid>
+<pubDate>2026-08-08T17:32:44+09:00</pubDate>
+<description>GitHub: https://github.com/JVinceW/uasset-reference-memory-mcp はじめに 最近、AIがどんどん強くなってきました。 ゲーム開発でもAIを取り入れる人が増えていて、自分の開発ワークフローの中でも、AIを使う場面が...</description>
+</item>
+<item>
+<title>【Qiita】 Codex CLI /goalの6状態を実例で理解する --- Blockedからの再開、BudgetLimited、Completeの違い</title>
+<link>https://qiita.com/ootakazuhiko/items/5503f23814ef4420cfdb</link>
+<guid>324b27953e1bd0f6012c92c0a590f721a039beb3f2a24a163a1a827f98c7a76e</guid>
+<pubDate>2026-08-08T17:12:20+09:00</pubDate>
+<description>Codex CLIで長時間タスクを動かしていると、最終出力に「停止しました」と書かれることがあります。 しかし、その停止には少なくとも次の違いがあります。 Paused 人間が一時停止した Blocked 外部入力や外部状態の変更が必要になった U...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/ai-is-not-the-new-a-diagnostic-analogy-framework-for-generative-ais-cultural-impacts/</link>
-<guid>f11bff8a1169af340342f60931f613a73e32abdc24486864432fb228284ec4ec</guid>
-<pubDate>Sat, 08 Aug 2026 08:05:35 GMT</pubDate>
+<link>https://research.google/pubs/automated-remediation-of-compiler-errors/</link>
+<guid>dd6691bb9aec255043dfe17af53b59211f97b98f3ec506353b2807cab0e84737</guid>
+<pubDate>Sat, 08 Aug 2026 09:07:58 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>0f177ecefc9dc89cb69cc88b4e945b27bae1990648e044015cc0b2be9dd0bea9</guid>
-<pubDate>Sat, 08 Aug 2026 08:05:38 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>e1b96cafc8c5726360e05fe88350fdb9c32f6f56ddaefb47077b0d637bcac6a6</guid>
+<pubDate>Sat, 08 Aug 2026 09:08:25 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
