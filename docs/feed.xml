@@ -4,21 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 09 Aug 2026 22:19:57 GMT</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 22:57:14 GMT</lastBuildDate>
 
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/impact-of-led-aging-on-optical-health-sensing-signal-integrity/</link>
-<guid>20f93cdb4a895f92295c1343709b49115cccd1a4552ec0fe4a608f395a28933c</guid>
-<pubDate>Sun, 09 Aug 2026 22:19:23 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 [IBM Bob tips] Office Viewer プラグインで Excel を IDE 内に表示・直接編集 ~ カレンダー作成例 ~</title>
+<link>https://qiita.com/c_u/items/455ad52f4c89d5fa2b7d</link>
+<guid>d82dd70baef16457fb9b0761007ba040e96b0174a2989be93fb1fd3602e21b29</guid>
+<pubDate>2026-08-10T07:46:47+09:00</pubDate>
+<description>はじめに AI コーディングアシスタント IBM Bob は、VS Code ベースの IDE を搭載しています。 Bob の AI は、デフォルトの状態でも xlsx スキルを通じて Excel ファイルの読み書きが可能です。チャットで「カレンダーを作って」と指示すれ...</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>256c4f28a919e7ccabd2e678f54575c0496828fc0268fa5575dd1e8dcb875783</guid>
-<pubDate>Sun, 09 Aug 2026 22:19:26 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+<title>【Qiita】 IBM i でsshほかTCP/IPサーバージョブ（デーモン）を開始する方法</title>
+<link>https://qiita.com/gomAnomalocaris/items/5554003e62ce3a51ef9e</link>
+<guid>274afb2306d24bc5f4e5a967c2c5c923dec039380b894928d1ff678a0fc72717</guid>
+<pubDate>2026-08-10T07:36:28+09:00</pubDate>
+<description>IBM i のTCP/IP関連サーバージョブの起動は以下の２つの方法で可能です。 方法1. TCP/IPスタック開始時にサーバージョブも開始する STRTCPコマンド実行時にSTRSVRパラメーターを *YES にセットします。 STRTCP STRSVR(*YES) ...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/rethinking-context-enriched-time-series-forecasting-evaluation/</link>
+<guid>9585f6212d820e93b45c95a33463d80aa18c980cac915617eb4330d8f5504a24</guid>
+<pubDate>Sun, 09 Aug 2026 22:56:37 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 
 </channel>
