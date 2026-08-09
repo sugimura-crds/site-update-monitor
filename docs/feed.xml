@@ -4,49 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 09 Aug 2026 23:25:30 GMT</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 23:56:01 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【Claude Code】セッション同士が直接会話するSendMessageを実機検証した</title>
-<link>https://qiita.com/tomada/items/7fea63c52216b7e338d1</link>
-<guid>adfa21680c9bf323f95d6719b5f9b2a2586c634ae0d82d656e48a7b617b25240</guid>
-<pubDate>2026-08-10T08:11:49+09:00</pubDate>
-<description>Claude Code のセッション同士が、直接メッセージを送り合えるようになりました。 2026-08-07 リリースの v2.1.224 で追加された ListAgents と SendMessage の2つのツールです。 気になったのは配送のタイミングでした。 受信側...</description>
-</item>
-<item>
-<title>【Qiita】 GitHub Copilotで書いたコード、レビューはどうしてる？を実践から整理する</title>
-<link>https://qiita.com/tomokusaba/items/dfaeb824f74117d1b44a</link>
-<guid>82e05df3dc0e07d810824a735ca2f521d2f38d71fe69f1d7dd2f1fa180a79e66</guid>
-<pubDate>2026-08-10T08:08:24+09:00</pubDate>
-<description>はじめに GitHub Copilot でコードを書く量が増えてくると、必ず聞かれることがあります。「そのコード、レビューはどうしてるんですか？」という質問です。 実装のスピードが上がるのはありがたいのですが、生成されたコードをそのまま信じてマージする、という運用にはずっ...</description>
+<title>【Qiita】 Claude / Codex にブラウザを安全に操作させるため、Chromeごとサンドボックスに入れてみた</title>
+<link>https://qiita.com/Koukyosyumei/items/0fcc86a64667dbc41e2a</link>
+<guid>e684fd32096ccad7f22110b4f63b4e90db9d66ed8c09fcd19e7dc3e0a6dae336</guid>
+<pubDate>2026-08-10T08:53:26+09:00</pubDate>
+<description>こんにちは！ コロンビア大学の博士課程でAI・セキュリティを研究しているKoukyosyumeiです。 Claude Code や Codex にWebアプリを作らせると、最後はブラウザでの確認が必要になります。 コードを編集する 開発サーバーを起動する ページを開く フ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/on-the-ptas-complexity-of-multidimensional-knapsack/</link>
-<guid>1b2720c35cac69fdea4a1067baceadee2442503cbc753cbda6699b649873f084</guid>
-<pubDate>Sun, 09 Aug 2026 23:24:06 GMT</pubDate>
+<link>https://research.google/pubs/system-for-validating-medical-software-algorithms-with-closed-loop-adversarial-persona-generation/</link>
+<guid>e967dafa967a3b87c0b7fa8eb9ab92c50e3360d72476b70d8c577134a73881e4</guid>
+<pubDate>Sun, 09 Aug 2026 23:55:10 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>9b94fd82b11ef8829ddde715b90f59bd2da7c32d4bb93a02565e83e79fede0dd</guid>
-<pubDate>Sun, 09 Aug 2026 23:24:07 GMT</pubDate>
-<description>Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>e7430e9aef2e1d426629f1d4168fb0cc8372412a19699e64a0e4bb7a657e5617</guid>
-<pubDate>Sun, 09 Aug 2026 23:24:09 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>f693f94ed575b57c4909ffe5e041a1988f0f16175c5869b4e84c56d57150ae6f</guid>
-<pubDate>Sun, 09 Aug 2026 23:25:15 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
