@@ -4,14 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 09 Aug 2026 21:33:30 GMT</lastBuildDate>
+<lastBuildDate>Sun, 09 Aug 2026 22:19:57 GMT</lastBuildDate>
 
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/type-aware-ranking-of-urban-similarity-from-aerial-imagery/</link>
-<guid>4f24c9e1e4ca5ceb17c20f932ceefaeaade6b99a875bac852fc043a41161407b</guid>
-<pubDate>Sun, 09 Aug 2026 21:32:45 GMT</pubDate>
+<link>https://research.google/pubs/impact-of-led-aging-on-optical-health-sensing-signal-integrity/</link>
+<guid>20f93cdb4a895f92295c1343709b49115cccd1a4552ec0fe4a608f395a28933c</guid>
+<pubDate>Sun, 09 Aug 2026 22:19:23 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>256c4f28a919e7ccabd2e678f54575c0496828fc0268fa5575dd1e8dcb875783</guid>
+<pubDate>Sun, 09 Aug 2026 22:19:26 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
 </channel>
