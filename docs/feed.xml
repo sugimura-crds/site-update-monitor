@@ -4,56 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 10 Aug 2026 11:45:11 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 12:44:54 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Kimi Code CLIをOpenAIキーで動かしたら、標準の-pでも自動修正が走った</title>
-<link>https://qiita.com/kai_kou/items/421c9149a1e67d4654a8</link>
-<guid>7e495ea000f215012b2743f076b34e0ac7daf70dde16de84ecbaaafbf6c05c0b</guid>
-<pubDate>2026-08-10T20:18:34+09:00</pubDate>
-<description>はじめに Moonshot AI が公開しているターミナル型コーディングエージェント「Kimi Code CLI」を実際にインストールし、Moonshot 純正のモデルではなく手持ちの OpenAI API キーを繋いで動かしてみました。対象読者は、CLI 型コーディング...</description>
-</item>
-<item>
-<title>【環境】 Copper recovery that powers itself</title>
-<link>https://www.nature.com/articles/s41893-026-01913-9</link>
-<guid>3ee4ea91ab7f38120a60f6e6d3a8077aa5a45f22157945d3ac3e40212c377bd9</guid>
-<pubDate>2026-08-10</pubDate>
-<description>Removing toxic yet valuable copper from industrial wastewater usually consumes energy and leaves low-value sludge behind. Now, a sulfur electrode is shown to selectively pluck copper from real effluent and recover it for reuse, turning a costly cleanup into a source of high-purity metal.</description>
-</item>
-<item>
-<title>【環境】 Sulfur-mediated electrochemical copper recovery from wastewater with net electricity generation</title>
-<link>https://www.nature.com/articles/s41893-026-01912-w</link>
-<guid>53f1599593627bf8bede3c433904588412ba8150e1b9cdc09ca02371e5c466be</guid>
-<pubDate>2026-08-10</pubDate>
-<description>As the global demand for copper continues to grow, large volumes of industrial copper-containing wastewater pose substantial risks to the environment and human health. Here the authors present a strategy for recovering metallic copper from waste streams while simultaneously generating electricity.</description>
+<title>【Qiita】 エージェントの Web フェッチが弾かれる時代、取りに行く側が知っておくべきこと</title>
+<link>https://qiita.com/Hirata-Kodai/items/956d610e00c756d74630</link>
+<guid>bc25482857b7281d970958de1319b6bd1674b4d6f9b054ac111dc5dd6a11b01a</guid>
+<pubDate>2026-08-10T21:12:26+09:00</pubDate>
+<description>はじめに 2026年9月15日から、Cloudflare に新しく登録されるドメインのデフォルト設定が変わることをご存知でしょうか？ 「AI クローラーが全面ブロックされる」という話 ではありません。 ただ、Web クローラーを業務で開発している筆者にとって、また、...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/ai-propeller-warehouse-scale-inter-procedural-code-layout-optimization-with-alphaevolve/</link>
-<guid>f1f4374b75894024e7478b31297e5f179bc3ed24cb9532d4da4905126fb04db9</guid>
-<pubDate>Mon, 10 Aug 2026 11:43:57 GMT</pubDate>
+<link>https://research.google/pubs/tech-worker-challenges-managing-humanlike-genai/</link>
+<guid>4bfea6f4229c7353d0332e614ae6835887e0aee69d95b7b15d68e8cee03d2d53</guid>
+<pubDate>Mon, 10 Aug 2026 12:44:19 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>9895ef6c501d20a8ba52ac2e241c1c91bf0e28e83b94e5b11af5db0818dd9638</guid>
-<pubDate>Mon, 10 Aug 2026 11:44:00 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>b5a970430146492561b1ddfde435ae5403fb7f5e2e5c8a07ba464e8ee123e346</guid>
-<pubDate>Mon, 10 Aug 2026 11:44:03 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 How to Use AI Agents in a GMP Lab Without Putting the LLM in the Critical Path</title>
-<link>https://qpillars.com/blog</link>
-<guid>dfb5c2dd9e26a36db71daf9383229fbbe0047f065ca7553a55cfe8fdb673c3e5</guid>
-<pubDate>Mon, 10 Aug 2026 11:44:05 GMT</pubDate>
-<description>Technical insights from building intelligent laboratory infrastructure. Engineering deep dives, product updates, and industry analysis from the QPillars team.</description>
 </item>
 
 </channel>
