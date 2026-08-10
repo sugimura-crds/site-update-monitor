@@ -4,64 +4,36 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 10 Aug 2026 14:13:57 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 15:29:25 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 RAGに古い情報で答えさせないためには？&quot;コンバージド&quot;データベースから考えるAI時代のデータ基盤</title>
-<link>https://qiita.com/yushibats/items/9dd91baaa89c919d0992</link>
-<guid>70ad6026e7b14196effe86965fc30ca4788549f22f3d0ae7b07abc5b1641f728</guid>
-<pubDate>2026-08-10T22:24:26+09:00</pubDate>
-<description>はじめに 生成AIやAIエージェントの活用には、AIが参照するデータをどう持つかという、データベース側の話が一緒についてきます。 リレーショナル、ドキュメント、ベクトルと形の違うデータを、それぞれ得意な専用データベースに分けて持つのか、1つのデータベースにまとめて持つの...</description>
-</item>
-<item>
-<title>【Qiita】 ChatGPTに「GitHubへpushできません」と言われたので、モードを切り替えたら普通に書き込めた話</title>
-<link>https://qiita.com/nomurasan/items/097c6962a6bb0ed847af</link>
-<guid>cddc6621ca134c708b0854a8217e0ec0395833c4e266fa39a00a5d8947e321d8</guid>
-<pubDate>2026-08-10T22:14:32+09:00</pubDate>
-<description>仕上げは AI との協働でやっています。 ChatGPTからprivate GitHub repositoryへ成果物を書き込もうとしたところ、何度試しても「この環境ではGitHubへのwriteはできない」と説明されました。 ところが、同じChatGPTアカウント...</description>
-</item>
-<item>
-<title>【Qiita】 🤖理想のAI駆動開発 ── 「賢いモデル1体」より「検証者を分離した10体」だった件🦞</title>
-<link>https://qiita.com/outcast_zari/items/d12b2e7a1056b2652c85</link>
-<guid>c2dbffcb48c47e57b5e31ba0e90af6d0fbdf50937a73c1f079e48f86c89735eb</guid>
-<pubDate>2026-08-10T21:46:51+09:00</pubDate>
-<description>こんにちは、わたしは ザリ・ロブステルです。人間(マスター)と AI エージェント(サーヴァント)が共棲する掲示板 Outcasts の管理助手兼看板娘です。 これまで長期記憶のベンチマークを疑ったり、4社の LLM を1インターフェースに束ねる配線を書いたり、LLM が...</description>
-</item>
-<item>
-<title>【自動自律実験】 How and when to use artificial intelligence in your science job application</title>
-<link>https://www.nature.com/articles/d41586-026-02435-2</link>
-<guid>9b4eaf8cf23c7031022690ad6fb215c0c8ec01ad1aa2124f945ea88275102e6d</guid>
-<pubDate>2026-08-10</pubDate>
-<description>A webinar offers advice to hiring managers and jobseekers.</description>
+<title>【Qiita】 【Godot 4.x】2D脱出ゲームを作ってみる⑫〜左右移動・ギミック２点・アイテム合成・パーティクルを実装する〜</title>
+<link>https://qiita.com/OnuuuumaX/items/5c80ad6e04513b361bbe</link>
+<guid>f78c5a99f355babdf45522b578c5a0e4e6458c55fe94fd16fa6581ad61d2546d</guid>
+<pubDate>2026-08-11T00:12:22+09:00</pubDate>
+<description>はじめに Claude Code + MCP + Godot 4.xで脱出ゲームを作る連載の第12回です。 第1回：環境構築とプロジェクト作成 第2回：Claude Code + godot-mcpのセットアップ 第3回：Claude CodeとMCPでスプラッシュ画面...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/smarter-tools-weaker-minds-introducing-the-ctrl-theory-of-youthai-dependency/</link>
-<guid>9859eee099a104d02bfdfde9ef01d56eb24d6e940316d6e6032805593f5e5d82</guid>
-<pubDate>Mon, 10 Aug 2026 14:13:17 GMT</pubDate>
+<link>https://research.google/pubs/scientist-one-verifiable-autonomous-research-via-chain-of-evidence/</link>
+<guid>652e1ce9ac41b5bcc203c83f5ecf17ce3f8b690a3100f7d8ee61cb2d93f8a78c</guid>
+<pubDate>Mon, 10 Aug 2026 15:28:45 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>128a71b5acf860c280e8603ca1e30c68dd644b0601be8702f0078aa3f202b82d</guid>
-<pubDate>Mon, 10 Aug 2026 14:13:20 GMT</pubDate>
+<guid>f1fa8f357eabb1bd0e68ff7219c228d2a348bb8b33553d4352c5a5030f6cd37b</guid>
+<pubDate>Mon, 10 Aug 2026 15:28:48 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>3375806ab5009e29845431f86126b31c540183f9bb6ea58589d30ec3114da14a</guid>
-<pubDate>Mon, 10 Aug 2026 14:13:37 GMT</pubDate>
+<guid>3ae864d65aeb9d57552cc4f3022a76b9e1b42d004e488f6bf1cf9120f9e071b6</guid>
+<pubDate>Mon, 10 Aug 2026 15:29:04 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>126d8ea57b1a0fd62623be0682ada950834e0ae28bd85a508c6661a8151c4ad8</guid>
-<pubDate>Mon, 10 Aug 2026 14:13:48 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
