@@ -4,21 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 09 Aug 2026 23:56:01 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 01:00:04 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude / Codex にブラウザを安全に操作させるため、Chromeごとサンドボックスに入れてみた</title>
-<link>https://qiita.com/Koukyosyumei/items/0fcc86a64667dbc41e2a</link>
-<guid>e684fd32096ccad7f22110b4f63b4e90db9d66ed8c09fcd19e7dc3e0a6dae336</guid>
-<pubDate>2026-08-10T08:53:26+09:00</pubDate>
-<description>こんにちは！ コロンビア大学の博士課程でAI・セキュリティを研究しているKoukyosyumeiです。 Claude Code や Codex にWebアプリを作らせると、最後はブラウザでの確認が必要になります。 コードを編集する 開発サーバーを起動する ページを開く フ...</description>
+<title>【Qiita】 Codexとは何か、ゼロから【2026年8月版】</title>
+<link>https://qiita.com/ha-te/items/612c5f4ece54577160e3</link>
+<guid>7262b29357e6bcb1ce8b1f376a5202bac048dfe78fca310c0a6d65ca5082b343</guid>
+<pubDate>2026-08-10T09:15:37+09:00</pubDate>
+<description>まず読み方から 「Codex」はコーデックスと読む。コーデックスとは、ラテン語に由来する言葉で、巻物に代わって登場した「ページを綴じた形式の本」、つまり写本のことを指す。 OpenAIがこの名前を選んだ理由を公表しているかどうかは確認できなかった。ここでは単語そのもの...</description>
+</item>
+<item>
+<title>【Qiita】 OSSエージェントNanocoderを導入、プロバイダ名の英数字制限にハマった</title>
+<link>https://qiita.com/kai_kou/items/8682bd0a657059fb955d</link>
+<guid>da56588cb925713b510f4991473be45cd049768f51d1c00d7fba24e04073780e</guid>
+<pubDate>2026-08-10T09:10:14+09:00</pubDate>
+<description>対象読者は、ローカルモデル（Ollama）や複数の LLM プロバイダを切り替えながら使える OSS のコーディングエージェント CLI を探している開発者です。Claude Code や Codex のような商用エージェント CLI に加えて、非営利コミュニティが開発する...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/system-for-validating-medical-software-algorithms-with-closed-loop-adversarial-persona-generation/</link>
-<guid>e967dafa967a3b87c0b7fa8eb9ab92c50e3360d72476b70d8c577134a73881e4</guid>
-<pubDate>Sun, 09 Aug 2026 23:55:10 GMT</pubDate>
+<link>https://research.google/pubs/a-multi-layered-framework-for-behavioral-governance-of-non-deterministic-ai-agents/</link>
+<guid>bd335f91664ca4e926981094106859479ca726f1291f11796b8596f158d5abd1</guid>
+<pubDate>Mon, 10 Aug 2026 00:58:54 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-64146-y</link>
+<guid>89ba46f08a6946365fa6f76cdfd58ba942e068510bb7ec676f8a68d9cdedb685</guid>
+<pubDate>Mon, 10 Aug 2026 00:59:04 GMT</pubDate>
+<description>Insider threats continue to be a vexed and complicated risk in secure software development (SSD) organizations due to their origin in combination of malicious intent, negligence, credential abuse, and process vulnerability throughout the software development lifecycle. Artificial intelligence (AI)-inspired, agentic security strategies are increasingly suggested to enhance prevention and detection, but organizations have not yet a clear, decision-supportive approach to prioritize agentic mitigation practices in times of uncertainty. This paper aims to suggest and rank an agentic model of insider threats mitigation to secure software development companies based on the Fuzzy Analytic Hierarchy Process (Fuzzy AHP). Its main objectives include (i) organizing insider-threat mitigation into multi-level decision model, (ii) calculating priority weights of AI-directed agentic practices, and (iii) assisting actionable adoption choices of various insider-threat types. A systematic mapping study (SMS) was first carried out to investigate the state-of-the-art of insider threats in software development organization. The second phase involved performing an empirical survey among cybersecurity pro</description>
 </item>
 
 </channel>
