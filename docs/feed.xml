@@ -4,77 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 10 Aug 2026 03:12:06 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 05:03:10 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude CodeのAuto既定化に備えるGit差分ガード</title>
-<link>https://qiita.com/hironakamura_ai/items/de1ff1f119c61f2ee815</link>
-<guid>3785f2b98784723ff26fd170c4535d612316cda3009522bfbe8b583729efd21f</guid>
-<pubDate>2026-08-10T11:23:43+09:00</pubDate>
-<description>Claude CodeのAuto既定化に備える差分ガードをPythonで作る 「Anthropic is turning Claude Code’s auto mode on by default」という報道が出た。承認ダイアログを押す回数が減るのは助かる。ただ、変更の危...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントとAI連携システムの違い──「自律性」という名の誤解と現場のリアル</title>
-<link>https://qiita.com/saikoseiko/items/2d59865b3b2dcdb36d2c</link>
-<guid>bb15db6a3ea6e6ac0c3b7132a66364ee09c6b297bb1f55b9cdfc163bd08015b8</guid>
-<pubDate>2026-08-10T10:58:26+09:00</pubDate>
-<description>近年のAI技術の進展に伴い、「AIエージェント」と「AI連携システム」という用語が現場レベルでも頻繁に用いられるようになっている。しかしながら、これらの概念は混同されやすく、特に要件定義やアーキテクチャ設計のフェーズにおいて、しばしば&quot;同じもの&quot;として扱われる危険性すらあ...</description>
-</item>
-<item>
-<title>【Qiita】 OpenAI Agents SDKとは？AIエージェント開発を効率化するフレームワークを調べてみた</title>
-<link>https://qiita.com/Sho5_Matsu/items/2847b6c59005f0b21d8c</link>
-<guid>2e683143f36b70dfe8088a4dc037700a830743f1640a2737d045c83309da0c13</guid>
-<pubDate>2026-08-10T10:06:32+09:00</pubDate>
-<description>はじめに 案件でAIエージェントに関わる可能性があり、関連技術について調べている中で「OpenAI Agents SDK」という言葉を見かけました。 これまではOpenAI APIを利用してチャットアプリケーションを作るイメージを持っていましたが、AIエージェントを開発す...</description>
-</item>
-<item>
-<title>【Qiita】 LangGraphとは？AIエージェント開発で注目されるフレームワークを調べてみた</title>
-<link>https://qiita.com/Sho5_Matsu/items/c8f3b136bc0bc9fa183e</link>
-<guid>08a9abbab97e406dea7b4212302bf438027c10c86011ce775feea9bf69c94aaa</guid>
-<pubDate>2026-08-10T10:06:15+09:00</pubDate>
-<description>はじめに 案件でAIエージェントに関わる可能性があり、関連技術について調べている中で「LangGraph」というフレームワークをよく見かけました。 AIエージェント開発では、OpenAI APIだけでなく、LangGraphやOpenAI Agents SDKといったフレ...</description>
-</item>
-<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/visual-planning-lets-think-only-with-images/</link>
-<guid>c876e622a35748c3915a38ff2a3e88acfe3b75c817512d8e5075e3be4661fc50</guid>
-<pubDate>Mon, 10 Aug 2026 03:11:04 GMT</pubDate>
+<link>https://research.google/pubs/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients-2/</link>
+<guid>2d30d125174827b2890a9269733885ea9813c42713defb622f3dc86b12f0d6ca</guid>
+<pubDate>Mon, 10 Aug 2026 05:02:08 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>016e72e840a9285231f15a093d88ab1b57ca97d831faeed44c27121aa0d5a095</guid>
-<pubDate>Mon, 10 Aug 2026 03:11:07 GMT</pubDate>
+<guid>1b4b8611f592b352fba14bb67cf7d2e6c4122a535c145f6ab5bbfca7db7eee2e</guid>
+<pubDate>Mon, 10 Aug 2026 05:02:11 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>2a941423e6c58517a2b676f27911542937fc96c10d7cecbe0bfd7efb4bf34290</guid>
-<pubDate>Mon, 10 Aug 2026 03:11:10 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>f94fb5f482ee26a11e50fde9af6ae20b9b797a15b30a9fdb73fbde1fed0bbf22</guid>
-<pubDate>Mon, 10 Aug 2026 03:11:11 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>575406795a87121c003b6ec1e59901c467edf0bc57dd0c20e535989b6dfd7e2c</guid>
-<pubDate>Mon, 10 Aug 2026 03:11:13 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
-</item>
-<item>
-<title>【環境】 Talking Points</title>
-<link>https://www.reuters.com/business/energy/europe-heats-up-summer-power-prices-match-winter-peaks-2026-07-31/</link>
-<guid>88d3657c2c33b330c7a0ec515e85b6bb9825a6188c2b711b1c04b6d8b27e7a50</guid>
-<pubDate>Mon, 10 Aug 2026 03:11:57 GMT</pubDate>
-<description>Europe is the fastest-warming continent, meaning summer heatwaves and their impact on the power ‌grid are expected to become more common.</description>
 </item>
 
 </channel>
