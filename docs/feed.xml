@@ -4,49 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 11 Aug 2026 09:28:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 10:24:33 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 相続税と固定資産税は何を生み、何を失うのか？ ― 資産循環と日本の供給力から考える国家OSのリファクタリング : システム設計視点の行動経済学 (12)</title>
-<link>https://qiita.com/maskot1977/items/4ccfecebcce9dd790050?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>b554b2b5069365f8008ad5d68190f61cbd1a808f7a9e31168f2a927d132484b5</guid>
-<pubDate>2026-08-11T16:44:53+09:00</pubDate>
-<description>user: 「システム設計視点の行動経済学」、第12回を始めましょう。今回は相続税と固定資産税について深掘りしたいと思います。まず前回の復習として、 税と再分配は何のため？ ― 『正統性』から考える国家OSのリファクタリング : システム設計視点の行動経済学 (11) h...</description>
+<title>【Qiita】 【Strands Agents classifier】AIエージェントの危ないツール呼び出しだけ止めたい</title>
+<link>https://qiita.com/manaty/items/694668a58aa40e0e44ce</link>
+<guid>d17cd273fe70aaf6fa49414c88175e74d14bc4b02407a568ad87223107f77143</guid>
+<pubDate>2026-08-11T18:42:23+09:00</pubDate>
+<description>はじめに こんにちは、マナティです！ 最近、AIエージェントにファイル操作やAPI呼び出しなどのツールを持たせて、タスクを自律的にこなしてもらう場面が増えてきました。便利な反面、気になるのが安全性です。本番環境で勝手に「ファイルを消しちゃった！」とかなったら困りますよね。...</description>
 </item>
 <item>
-<title>【Qiita】 人間承認を減らしたAIコーディングエージェントにおける外部検証フィードバックの役割</title>
-<link>https://qiita.com/taiga-shiokawa/items/fe405e3281da2d074c2d</link>
-<guid>7a1235f0d14ece64d4ad79dbfd01e249cca33c6dd8c727e07a5da0fdff115d45</guid>
-<pubDate>2026-08-11T18:24:48+09:00</pubDate>
-<description>― AI同士の対話より先に「Environment-Grounded Feedback」を設計する ― 要旨 AIコーディングエージェントから人間による逐次承認を取り除く場合、その代替として単純に別のAIエージェントを配置し、AI同士にレビューや議論をさせればよいとは限...</description>
+<title>【Qiita】 AI記事生成SaaSのバックエンド設計：ピラー/クラスター構造をDBでどう表現するか</title>
+<link>https://qiita.com/avecdogpresence/items/e89a05f4c6312db740e5</link>
+<guid>5f55bbe170bca7d732d53d2abd117e0cef4acf937000fb6291ecb59fc91800c6</guid>
+<pubDate>2026-08-11T18:34:10+09:00</pubDate>
+<description>私はオウンドメディアの運用で、「記事を増やしているのに流入が伸びない」局面に何度も遭遇した。原因は単発の文章量産ではなく、検索意図を束ねる構造設計が抜けていることだと感じる。ピラー記事（親）とクラスター記事（子）を揃える発想は分かっていても、実際のバックエンドでは親子の紐づ...</description>
 </item>
 <item>
-<title>【自動自律実験】 When the best decision is no decision: the rise of randomization in grant funding</title>
-<link>https://www.nature.com/articles/d41586-026-02082-7</link>
-<guid>5736e2aecbb94f8fdbf0bf338f023e5b5420eb32d3d9fb183d305cd3fe864aae</guid>
+<title>【自動自律実験】 Funders should look beyond strict age criteria</title>
+<link>https://www.nature.com/articles/d41586-026-02492-7</link>
+<guid>7e81d18a11fe87fed6555b2975669369f586e7727e2900a5b4583c054d07c1b2</guid>
 <pubDate>2026-08-11</pubDate>
-<description>If reviewers can’t reliably tell the difference between top grant proposals, why should they pretend they can? A new wave of funders is turning to lotteries to break the tie.</description>
+<description>Funders should look beyond strict age criteria</description>
+</item>
+<item>
+<title>【自動自律実験】 The case for responsible scientific activism</title>
+<link>https://www.nature.com/articles/d41586-026-02464-x</link>
+<guid>5aaf3fe87d4f4641dab7c6433f72544f790ae84b654b93586c4f1e24718f6b9f</guid>
+<pubDate>2026-08-11</pubDate>
+<description>The case for responsible scientific activism</description>
+</item>
+<item>
+<title>【自動自律実験】 AI tools speed up analysis, but scientific truths must be grounded in reality</title>
+<link>https://www.nature.com/articles/d41586-026-02490-9</link>
+<guid>dffceba39d4cd05c1f70fee6cfdb3752a81cf3fe76a43f51dfe393bd04f481bb</guid>
+<pubDate>2026-08-11</pubDate>
+<description>AI tools speed up analysis, but scientific truths must be grounded in reality</description>
+</item>
+<item>
+<title>【自動自律実験】 Will AI make our dreams all look the same?</title>
+<link>https://www.nature.com/articles/d41586-026-02491-8</link>
+<guid>5847d7b32951eaa6456405fd79b5db601ad2dbbd4cece1fad941954918e3e79f</guid>
+<pubDate>2026-08-11</pubDate>
+<description>Will AI make our dreams all look the same?</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/what-does-your-wearable-know-about-the-festive-season/</link>
-<guid>87d04d213078b2d32478ec8de31945cff02d4955cfbee189d2dcad4807796f51</guid>
-<pubDate>Tue, 11 Aug 2026 09:27:15 GMT</pubDate>
+<link>https://research.google/pubs/bridging-the-dimensionality-gap-a-taxonomy-and-survey-of-2d-vision-model-adaptation-for-3d-analysis-2/</link>
+<guid>7519af0c3aa26a764420e49033e4c95875f93a531f7179bdfeb286b31beba26e</guid>
+<pubDate>Tue, 11 Aug 2026 10:23:39 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>8a92eee9ff54570380f2b2426765811816bc60b884c939732015e2347f099b85</guid>
-<pubDate>Tue, 11 Aug 2026 09:27:18 GMT</pubDate>
+<guid>40eb67a70fe2ab68954e345150a8af61229e87841c96171f061de92414ff7ef8</guid>
+<pubDate>Tue, 11 Aug 2026 10:23:42 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-60531-9</link>
+<guid>9ada8d79910d8f8bac21ec324c456a0f7ffb3925e0c54e5eab217ccd5ddaf111</guid>
+<pubDate>Tue, 11 Aug 2026 10:23:45 GMT</pubDate>
+<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>9c9eee3695edd7f3b8853da88531669c370a18f47f4beb907ee04724bf6a7713</guid>
-<pubDate>Tue, 11 Aug 2026 09:27:41 GMT</pubDate>
+<guid>31cdcb5e652a33d686ae79c4989092eeea08b26220f8fbfe243d126d044815d1</guid>
+<pubDate>Tue, 11 Aug 2026 10:24:16 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
