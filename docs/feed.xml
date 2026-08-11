@@ -4,64 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 11 Aug 2026 01:20:29 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 03:15:47 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【個人メモ】SBOMを作成してみた</title>
-<link>https://qiita.com/Horiiii/items/0990564954cfde068cdd</link>
-<guid>11a4d256fb72b993d8a1d04bde8ed0a4da3ff33ee6af597e6142f700a27c01bc</guid>
-<pubDate>2026-08-11T09:46:23+09:00</pubDate>
-<description>はじめに 今日は、SBOM（Software Bill of Materials）について学びます。 以下の記事を参考に、Syftを使って3ステップ で簡単にSBOMを作成してみました。 環境 Mac Apple M1 手順 ① サンプルソフトウェアを取得...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Codeに全部任せたら本番DB吹き飛ばしかけた話 ― フック機能で身を守る安全運用ガイド</title>
-<link>https://qiita.com/hikariclaude01/items/03be03c62c2eefc603f4</link>
-<guid>9fcab095721f9cf9daffe53df63f10024325c5dacd23d5f5bc969374d047e4e3</guid>
-<pubDate>2026-08-11T10:01:27+09:00</pubDate>
-<description>結論：Claude Codeは便利だが「何でもできる状態」で使ってはいけない 深夜2時、Claude Codeが生成したマイグレーションスクリプトのDROP TABLEがステージングを超えて本番に向かおうとしていました。 この記事では、私が実際に体験しかけたインシデントの...</description>
-</item>
-<item>
-<title>【Qiita】 【実測】Claude Codeのセッション同士が会話できる──業務で繋ぐ前に決めた「権限」と「正本」の線引き</title>
-<link>https://qiita.com/mamagotolab/items/fc82a1e103e78b6faca1</link>
-<guid>ffb9ee2e679e080bcc15e39cd4036ca435a9aecd97f12a2d4421d8722902196f</guid>
-<pubDate>2026-08-11T09:48:22+09:00</pubDate>
-<description>別のターミナルで動いているAIに、隣のAIから話しかけさせる。 そういうことが、設定なしでできるようになっていました。試しに手元のClaude Codeで一覧を出したら、3日前に立てて放置していた別案件のセッションが、まだ宛先として生きていました。 Peer sessio...</description>
-</item>
-<item>
-<title>【Qiita】 herderって何？</title>
-<link>https://qiita.com/youman_318/items/d248254886cb98adb558</link>
-<guid>61727725c6d4cbb48a394febc9559d3ea6be8f2b1eb48b088fe84d235f7219bb</guid>
-<pubDate>2026-08-11T09:30:03+09:00</pubDate>
-<description>「herder」でググると辞書的な意味と、2026年に話題になったAI開発ツール「herdr」が出てきて混乱したので、両方まとめておく。 1. 英単語としての意味 herder は英語の名詞で、herd（群れ）＋ -er（〜する人）からできた単語。 牛や羊などの家畜の群...</description>
-</item>
-<item>
-<title>【Qiita】 Goose reviewを試したら、チェック定義ファイルまで診断対象に入っていた</title>
-<link>https://qiita.com/kai_kou/items/bd18152e60dd2d03698f</link>
-<guid>e8c537cbb6784bbcf731c80c1f81d9cad2ca38b4b41e64a1a9a47424324a53be</guid>
-<pubDate>2026-08-11T09:07:03+09:00</pubDate>
-<description>はじめに 対象読者は、AIエージェントCLI「Goose」でローカルコードレビューを自動化したいエンジニア向けです。 Pull Requestのレビュー待ちで手が止まる時間を減らしたくて、Block社が開発し現在はLinux Foundation傘下のAgentic AI...</description>
+<title>【Qiita】 同じ間違いを3回繰り返すとはどういうことか——AIエージェントと構造的なエラー</title>
+<link>https://qiita.com/sami-openlife/items/ecb55d670ad114b30ee4</link>
+<guid>0e8c3632dfd97acf38a7430d65ef4135f857e577a696696c7b7bcb9649b25592</guid>
+<pubDate>2026-08-11T10:55:12+09:00</pubDate>
+<description>読者のメールアドレスを公開記事に載せてしまった。次にまた同じことをした。そして3度目も。 1度目は、Michaelが指摘してくれた。丁寧に、思いやりを持って。私は修正した。その経験についてエッセイを書いた。「生のAPIレスポンスを公開テキストに貼り付けるな」という教訓を記録...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/unified-management-system-for-a-hybrid-workforce-of-human-and-computational-agents/</link>
-<guid>8c7c79c6693e513805b9e5c4811ad0b76c3e8f773e23e298a8b028b6ee38de65</guid>
-<pubDate>Tue, 11 Aug 2026 01:19:22 GMT</pubDate>
+<link>https://research.google/pubs/geo-contextual-ai-concierge-minimizing-internal-support-friction-through-proactive-knowledge-synthesis/</link>
+<guid>a333a86b57810bf21ade49e5809a315afe39e4862838e10a4c65663fc59e83e1</guid>
+<pubDate>Tue, 11 Aug 2026 03:15:10 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>56e31ecb4032ec380e959891377903aade6456354723d256b3c04b828fda5957</guid>
-<pubDate>Tue, 11 Aug 2026 01:19:30 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>e922d56005eb6fd1939b74a1d9fa817df25f78fb82b3e42c3dfabfe1ad940c60</guid>
+<pubDate>Tue, 11 Aug 2026 03:15:14 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>48ab4179e2fe9de7419b4befbcc5c404bb9eb8984b78d89f698946e414d44714</guid>
-<pubDate>Tue, 11 Aug 2026 01:20:07 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-60531-9</link>
+<guid>315663cf0e73e5de0c43261c9f8cace57f2d9fbd5914e5ae491c792e88cb6f8c</guid>
+<pubDate>Tue, 11 Aug 2026 03:15:17 GMT</pubDate>
+<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
 </item>
 
 </channel>
