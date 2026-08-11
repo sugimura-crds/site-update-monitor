@@ -4,20 +4,27 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 11 Aug 2026 06:48:27 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 08:04:35 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【SaaSインテグレーション】既存のコアシステム（ERP/CRM）へAIエージェントを安全にAPI連携する設計パターン</title>
-<link>https://qiita.com/NKKTechGlobal/items/9181ffd89aee4c917f0a</link>
-<guid>10a030693a2f38d09ea473d0f4d50fb3b7077877a355426f3c5d000451c67043</guid>
-<pubDate>2026-08-11T15:14:55+09:00</pubDate>
-<description>【SaaSインテグレーション】既存のコアシステム（ERP/CRM）へAIエージェントを安全にAPI連携する設計パターン はじめに こんにちは、NKKTech Global 技術チームです。 「社内のSalesforceにAIエージェントを繋いで、商談の確度を自動更新さ...</description>
+<title>【Qiita】 Agent Plugins 1.0.0 を使ってみた</title>
+<link>https://qiita.com/cvusk/items/a1294e1247894735ffcb</link>
+<guid>5fcda20caea6f0456f361a7e884066019b708425d6cef6dc3d1f5843402114bc</guid>
+<pubDate>2026-08-11T16:55:52+09:00</pubDate>
+<description>Introduction AIコーディングエージェントが当たり前になった今、「エージェントを拡張するプラグイン」もクライアントごとにバラバラの形式で乱立しています。同じスキル、同じMCPサーバーなのに、VS Code用・Cursor用・Codex用……と、クライアントごと...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントに「責任経路」を実装する――Capability・Authority・Evidence・Resumeを分離する設計</title>
+<link>https://qiita.com/dantarg/items/9a1b12e7431f1960f761</link>
+<guid>1ad4ac853d202d0ff1ae7c9b3d15f86a4b62939b6ff25125e0f49771c675f59a</guid>
+<pubDate>2026-08-11T15:59:52+09:00</pubDate>
+<description>最近、AIエージェントに外部APIやMCP Tool Callを実行させる仕組みを作っていて、同じところで何度も引っかかりました。 AIがその操作をできることと、その操作をやってよいことは別です。 さらに厄介なのは実行したあとでした。「本当に成功したのか」「誰が確認するのか...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/beyond-vector-similarity-hierarchical-context-aware-graph-rag-vs-standard-rag-in-enterprise-code-migration/</link>
-<guid>9b191891e929416813ce1f4e59bfe1799fbec4a1742cf8d00bf0a873ca5afa25</guid>
-<pubDate>Tue, 11 Aug 2026 06:47:54 GMT</pubDate>
+<link>https://research.google/pubs/twenty-years-of-bigtable/</link>
+<guid>c0dafda79fc87a49c6ec643377d6126f72e46b23de5c6c28ca65fae4b1e74e25</guid>
+<pubDate>Tue, 11 Aug 2026 08:03:32 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 
