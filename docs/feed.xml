@@ -4,63 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 11 Aug 2026 14:51:05 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 15:51:28 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 エージェント記憶の正典が 何に収束しているのか — 6実装を並べて比べる</title>
-<link>https://qiita.com/ryoji9702/items/da68cc19528a51a69fc6</link>
-<guid>2585d98525fc544352e2099c46a653dd8f60cfc1b08855c6caff653c6d046e80</guid>
-<pubDate>2026-08-11T22:59:06+09:00</pubDate>
-<description>はじめに エージェントに「セッションを跨ぐ記憶」を持たせる話になると、まずベクトル DB の選定から入る空気があります。埋め込みモデルは何にするか、Qdrant か pgvector か、チャンクサイズはいくつか。筆者もそう考えていました。 ところが 2026 年 8 月...</description>
+<title>【Qiita】 Entra ID × Identity Center × Cognitoで社内AIエージェントアプリにSSOでログインする</title>
+<link>https://qiita.com/har1101/items/6fa943c43b9e0508b397</link>
+<guid>de5fafcf80bf405265442fd2b1a2297abd3b79dd29472792fa28daa15aef833f</guid>
+<pubDate>2026-08-12T00:23:12+09:00</pubDate>
+<description>はじめに こんにちは、ふくちと申します。 先日、社内用MCPサーバーをAgentCore Gatewayで構築した際の認証認可周りの設定についてのブログを書きました。現代人に読ませる気ねーだろってレベルの長文ブログになってしまいましたが… ここの中で、Entra I...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeで動かすAIエージェント組織はなぜ楽しいのか――速いのは問題解決ではなく「1往復」だった</title>
-<link>https://qiita.com/saitoko/items/58f996f0d34741257ef4</link>
-<guid>eb07b30ad592a1eecdc260a85375f0ba94f4c723a71c48bb4e4114919086e92f</guid>
-<pubDate>2026-08-11T23:29:27+09:00</pubDate>
-<description>この記事の実施記録（2026年8月6日実測）: 「本業のやる気がなかなか出ないが、Claude Codeを使った作業は楽しくてどんどん作業したくなる」という自分の体感を、セッションログとGitHub Issueの実測データで検証した。結果、「問題提起から解決までが速い」とい...</description>
-</item>
-<item>
-<title>【Qiita】 ローカルLLMをフロントに、難しいタスクをOpenRouter経由でQwen/Sonnetに委譲する</title>
-<link>https://qiita.com/kougi/items/7d469f6cbf5f2fad5521</link>
-<guid>48c67ace706101551947a8e52cb16c4f5b44caaea1ce107f2426d7cb8f1321cf</guid>
-<pubDate>2026-08-11T22:52:14+09:00</pubDate>
-<description>本記事は個人環境での検証に基づく個人的な備忘録です。設定値やパスは一般化して記載しているため、実際の環境に読み替えてください。API キー・個人情報は含めていません。 技術的な確認は Sonnet 5 と、記事の執筆は Opus 5 と共に進めています。 0. は...</description>
-</item>
-<item>
-<title>【Qiita】 5分で始める OrcaRouter ~無料アカウント作成から最初のAPI呼び出しまで~</title>
-<link>https://qiita.com/arishow/items/759908c62d1b0fe29f04</link>
-<guid>cdb85bd793cefc0690e531891e37c4ded4814d7356e35259207d823ed37790f5</guid>
-<pubDate>2026-08-11T23:47:21+09:00</pubDate>
-<description>この記事では、OrcaRouterを初めて触る人向けにAPI呼び出しまでを簡単に行うところまで真似できるように執筆します。 OrcaRouterとは？ OrcaRouter grades every prompt and routes it intelligently....</description>
-</item>
-<item>
-<title>【自動自律実験】 How escalating costs scuppered a radio telescope at Joddrell Bank</title>
-<link>https://www.nature.com/articles/d41586-026-02380-0</link>
-<guid>b312c74909d9ccd5bcfd1d0a73c48770f9e32f3476a9707c0f09c24a37c1cb1d</guid>
+<title>【自動自律実験】 Phosphine-mediated azine C–H couplings with water and ammonia</title>
+<link>https://www.nature.com/articles/s41586-026-10991-w</link>
+<guid>4a49b9e8efe77e9c4059a374de6ba4baadec70ad7ff39e57cf372e4b787575da</guid>
 <pubDate>2026-08-11</pubDate>
-<description>Where to spot a basking shark and a gloomy tale about an abandoned telescope, in this week’s pick from the Nature archive.</description>
+<description>Phosphine-mediated azine C–H couplings with water and ammonia</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/who-is-at-risk-surveying-the-prevalence-of-risk-factors-and-tech-facilitated-attacks-in-the-united-states/</link>
-<guid>9233a9d320ef3114f9226f68b0224793836ee76537668e22d29d6ee0db5e0051</guid>
-<pubDate>Tue, 11 Aug 2026 14:50:00 GMT</pubDate>
+<link>https://research.google/pubs/dynamic-cogeneration-of-bug-reproduction-test-in-agentic-program-repair/</link>
+<guid>4eaec39d44eb0c9626228b3be79fe753b84e4f8c23d898ffb60bd4ff3d9598b3</guid>
+<pubDate>Tue, 11 Aug 2026 15:50:22 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>c1d4e5e0ebaa87e3f92555fe25d658b05c3d7658bbbd56fdf8397ef7afc88da4</guid>
-<pubDate>Tue, 11 Aug 2026 14:50:04 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-64146-y</link>
-<guid>c95356145217cd41b3280f3849d82135ee4652975681784cc22b9d586dc311f8</guid>
-<pubDate>Tue, 11 Aug 2026 14:50:09 GMT</pubDate>
-<description>Insider threats continue to be a vexed and complicated risk in secure software development (SSD) organizations due to their origin in combination of malicious intent, negligence, credential abuse, and process vulnerability throughout the software development lifecycle. Artificial intelligence (AI)-inspired, agentic security strategies are increasingly suggested to enhance prevention and detection, but organizations have not yet a clear, decision-supportive approach to prioritize agentic mitigation practices in times of uncertainty. This paper aims to suggest and rank an agentic model of insider threats mitigation to secure software development companies based on the Fuzzy Analytic Hierarchy Process (Fuzzy AHP). Its main objectives include (i) organizing insider-threat mitigation into multi-level decision model, (ii) calculating priority weights of AI-directed agentic practices, and (iii) assisting actionable adoption choices of various insider-threat types. A systematic mapping study (SMS) was first carried out to investigate the state-of-the-art of insider threats in software development organization. The second phase involved performing an empirical survey among cybersecurity pro</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>6d247eb129047855aed43616c9befc9db58e8ffe38ffb0deccf67979ae437ea1</guid>
+<pubDate>Tue, 11 Aug 2026 15:50:27 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
