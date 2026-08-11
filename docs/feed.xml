@@ -4,63 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 11 Aug 2026 12:05:12 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 13:51:03 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Quarkus MCP Server入門：Javaの業務処理をAI向けToolとして公開・利用する</title>
-<link>https://qiita.com/autonomura/items/60cfbc37ccb7c86a5cef</link>
-<guid>69ddf86ebd5a13f51e2a2623b72afd3a73adff13abd50db163332fa6d21bd399</guid>
-<pubDate>2026-08-11T20:55:38+09:00</pubDate>
-<description>はじめに 前回の記事では、Quarkus LangChain4jのTool Callingを使用して、LLMからJavaメソッドを呼び出すアプリケーションを作成しました。 前回の構成では、AI ServiceとToolが同じQuarkusアプリケーション内に実装され...</description>
+<title>【Qiita】 さくらのAI Engineで自作MCPサーバー×LangGraphエージェントを構築した話</title>
+<link>https://qiita.com/shibacorgi/items/21ec803d0c38980a9f9a</link>
+<guid>372405c066c65f13114b4041c24138c221db53eb78d49c112fdd058d77dd80ba</guid>
+<pubDate>2026-08-11T22:12:45+09:00</pubDate>
+<description>〜無料枠で動くAI調査レポート自動生成システムの開発ログ〜 この記事はさくらのAI Engine 使い倒したで賞への応募記事です。 1. はじめに：作ったもの 「テーマを入力するだけで、数分後にMarkdownレポートが完成する」 Webアプリを作りました。 できる...</description>
 </item>
 <item>
-<title>【Qiita】 Big TechはAIエージェントをどう止めているのか――OpenAI・Anthropic・Google DeepMind・Microsoftの安全設計を比較する</title>
-<link>https://qiita.com/dantarg/items/7c5ef07d496c1583617f</link>
-<guid>370d446fb3497f1b13b57af2b2144a59ef00df73ac6ee17acb29801a9f2ea651</guid>
-<pubDate>2026-08-11T20:53:11+09:00</pubDate>
-<description>前の記事では、OpenAIの2026年のサイバー事例から、AIエージェントの境界を考えました。 ただ、ここで自分の仮説に都合のよい事例だけ集めても意味がありません。 そこで今回は、反証になりそうな一次資料を優先して、OpenAI、Anthropic、Google DeepM...</description>
-</item>
-<item>
-<title>【Qiita】 AntigravityCLIってコスパよくない？？</title>
-<link>https://qiita.com/0903osa/items/e6ae9aa2f06894b1ef6a</link>
-<guid>6daeef7a294491588457349f47be5010c3e6a8deed9d1f18efa7c39cd93652b8</guid>
-<pubDate>2026-08-11T20:52:21+09:00</pubDate>
-<description>先に断っておきます これは案件でも宣伝でもありません。 Googleからは1円たりとももらっていません。 私自身がGoogle AI Proを契約して、その契約料金の範囲でAntigravity CLIを使ってきました。 これまでに、オセロを作ったり、チェスを作ったり、A...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントは「越えてはいけない境界」を理解しているのか――OpenAIのサイバー事例から実行経路を考える</title>
-<link>https://qiita.com/dantarg/items/55f626f082115d9a2649</link>
-<guid>f80e8779471e2c5c6696f44acbe79329636234ff18e402c75b8fe48136ee1e72</guid>
-<pubDate>2026-08-11T20:49:47+09:00</pubDate>
-<description>最近、AIエージェントの安全設計を追っていて、少し気になる事例が続きました。 「危険な操作を禁止する」「sandboxへ閉じ込める」だけなら分かりやすいのですが、AIが自分で想定外の実行経路を見つけるようになると、話が変わってきます。 この記事では、2026年にOpenAI...</description>
-</item>
-<item>
-<title>【Qiita】 そんな AGENTS.md で大丈夫か？ ― Codex Permission Profiles を装備しよう</title>
-<link>https://qiita.com/hanotch/items/c9a32d7ba31a1ad9c5d2</link>
-<guid>a1589ce3e3aa6f64d86bba6eb785936b45ecaa9f5d1673b4db92ccf885c1215b</guid>
-<pubDate>2026-08-11T20:44:04+09:00</pubDate>
-<description>「大丈夫だ、問題ない」 ……と、AGENTS.md を書いた本人は思っているかもしれません。 ですが、AGENTS.md はエージェントへのお願いであって、強制力はありません。 問題ある例 私の大切なハーネス、AGENTS.md は以下の内容です。 AGENTS.md ...</description>
+<title>【Qiita】 AI時代のCode Reviewを再設計する ― Diff ReviewからRisk-based Change Verificationへ</title>
+<link>https://qiita.com/y0us91/items/1ba7017a1d1092d9cef6</link>
+<guid>fe87cb6d691bcd7e83a9093b535f7d17db25d2012c1caa606561688e390b6b96</guid>
+<pubDate>2026-08-11T21:13:36+09:00</pubDate>
+<description>はじめに 最近、AI Coding Agentを使っていて、かなり実装速度が上がりました。 Repositoryを調べてもらい、実装してもらい、テストを書いてもらう。 失敗したらログを解析して、そのまま修正まで進めてもらう。 以前なら半日以上かかっていた変更が、かなり短い...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/phoenix-rowhammer-attacks-on-ddr5-with-self-correcting-synchronization/</link>
-<guid>e56fc91319ad193e5333a0c5b7993fe364cce9ec2e39a37e594db60fcb93fba0</guid>
-<pubDate>Tue, 11 Aug 2026 12:04:33 GMT</pubDate>
+<link>https://research.google/pubs/exponential-quantum-advantage-in-processing-massive-classical-data/</link>
+<guid>651673c3392c73450dbb0fad8e07e8cb9ba31f7dee3e634552c06d9c2571fbbe</guid>
+<pubDate>Tue, 11 Aug 2026 13:49:59 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>fc546807799b2c092763d83cf50525cf7e3c1e6c639db2455083de9d40b4550f</guid>
-<pubDate>Tue, 11 Aug 2026 12:04:35 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>fbdf4594d3d4f5b70dbffdcc17397f5e0aa084bc4191dc5ff71c27f2ba4b3d16</guid>
-<pubDate>Tue, 11 Aug 2026 12:04:37 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
 </item>
 
 </channel>
