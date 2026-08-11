@@ -4,14 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 11 Aug 2026 19:55:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 20:35:03 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 【PHP8.6】PHP8.6の新機能全部紹介するよ</title>
+<link>https://qiita.com/rana_kualu/items/a50907007c868b807750?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>fee97f63a91d16090cc87877b16682942f9f1e0d3e75b1a7bd67849d0eb95cd1</guid>
+<pubDate>2026-08-10T20:12:11+09:00</pubDate>
+<description>PHP8.6 / PHP8.5 / PHP8.4 / PHP8.3 / PHP8.2 2026/08/13、PHP8.6がフィーチャーフリーズしました。 言語機能に関わるような機能の追加・変更が締め切られたということです。 今後はデバッグを繰り返しながら完成度を高めていき、...</description>
+</item>
+<item>
+<title>【Qiita】 .NET 11 Runtime Async はなぜ速いのか</title>
+<link>https://qiita.com/hez2010/items/2aff0b2b40b9d0bfda91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f19c3f37e68bbfd91553b3a6d9f96a54f7c0b4147ff4cd7dc5f69d21186511d3</guid>
+<pubDate>2026-08-10T22:37:18+09:00</pubDate>
+<description>従来の async/await .NET の非同期処理といえば、長いあいだ async/await が中心だった。見た目は同期コードに近く、複雑になりやすい非同期処理を素直に書ける。 この async/await は、内部では CPS（Continuation-Passi...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/approximate-vs-precise-an-experiment-in-what-impacts-user-choice-when-apps-request-location-access/</link>
-<guid>ae54e0641c186cd172b24986395864aac7ad5d37b98d6c04583bebf39a03e139</guid>
-<pubDate>Tue, 11 Aug 2026 19:54:27 GMT</pubDate>
+<link>https://research.google/pubs/the-ontic-epistemic-distinction-implications-for-robust-machine-intelligence/</link>
+<guid>45fb432943f90d65ca8bb0b1b5b429ba80d8e9a31fb3c9b1d0134dc9567ced4e</guid>
+<pubDate>Tue, 11 Aug 2026 20:34:07 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>b1f9809ded616249e17d68dd4d430eabf4bfe101c2f88a982039423d83124cfc</guid>
+<pubDate>Tue, 11 Aug 2026 20:34:09 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
 </channel>
