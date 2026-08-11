@@ -4,78 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 11 Aug 2026 10:24:33 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 11:12:11 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【Strands Agents classifier】AIエージェントの危ないツール呼び出しだけ止めたい</title>
-<link>https://qiita.com/manaty/items/694668a58aa40e0e44ce</link>
-<guid>d17cd273fe70aaf6fa49414c88175e74d14bc4b02407a568ad87223107f77143</guid>
-<pubDate>2026-08-11T18:42:23+09:00</pubDate>
-<description>はじめに こんにちは、マナティです！ 最近、AIエージェントにファイル操作やAPI呼び出しなどのツールを持たせて、タスクを自律的にこなしてもらう場面が増えてきました。便利な反面、気になるのが安全性です。本番環境で勝手に「ファイルを消しちゃった！」とかなったら困りますよね。...</description>
+<title>【Qiita】 AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証</title>
+<link>https://qiita.com/y0us91/items/2feffd2cc6c672717973</link>
+<guid>75c63af0adc1ee8257b0197f7c83f938c528e04f871f9c583edb3201092fe551</guid>
+<pubDate>2026-08-11T19:42:07+09:00</pubDate>
+<description>はじめに Coding Agentの進化によって、ソフトウェア開発の形が大きく変わり始めています。 少し前までAIによる開発支援といえば、 コード補完 コード生成 リファクタリング テストコード生成 など、「人間が主体で、AIが支援する」使い方が中心でした。 しかし現...</description>
 </item>
 <item>
-<title>【Qiita】 AI記事生成SaaSのバックエンド設計：ピラー/クラスター構造をDBでどう表現するか</title>
-<link>https://qiita.com/avecdogpresence/items/e89a05f4c6312db740e5</link>
-<guid>5f55bbe170bca7d732d53d2abd117e0cef4acf937000fb6291ecb59fc91800c6</guid>
-<pubDate>2026-08-11T18:34:10+09:00</pubDate>
-<description>私はオウンドメディアの運用で、「記事を増やしているのに流入が伸びない」局面に何度も遭遇した。原因は単発の文章量産ではなく、検索意図を束ねる構造設計が抜けていることだと感じる。ピラー記事（親）とクラスター記事（子）を揃える発想は分かっていても、実際のバックエンドでは親子の紐づ...</description>
+<title>【Qiita】 EinoでGoのReActエージェント実装、MaxIterations超過で回答が消える</title>
+<link>https://qiita.com/kai_kou/items/4213a9b472f646c7aab4</link>
+<guid>332090650c6534aa521915ae882120a6cfa48134cca99c844aa1eeddd52e7778</guid>
+<pubDate>2026-08-11T20:11:06+09:00</pubDate>
+<description>はじめに 対象読者は、Python 以外（Go）で LLM エージェントを実装したい、あるいは既存の Go サービスにエージェントを組み込みたい開発者 です。 エージェントフレームワークというと LangChain / LangGraph のような Python 製が定番...</description>
 </item>
 <item>
-<title>【自動自律実験】 Funders should look beyond strict age criteria</title>
-<link>https://www.nature.com/articles/d41586-026-02492-7</link>
-<guid>7e81d18a11fe87fed6555b2975669369f586e7727e2900a5b4583c054d07c1b2</guid>
+<title>【自動自律実験】 Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma</title>
+<link>https://www.nature.com/articles/s41586-026-10947-0</link>
+<guid>124989f15a7898d594ce18e3709e615d37096c7a391827447bd4ee9ab32b119f</guid>
 <pubDate>2026-08-11</pubDate>
-<description>Funders should look beyond strict age criteria</description>
-</item>
-<item>
-<title>【自動自律実験】 The case for responsible scientific activism</title>
-<link>https://www.nature.com/articles/d41586-026-02464-x</link>
-<guid>5aaf3fe87d4f4641dab7c6433f72544f790ae84b654b93586c4f1e24718f6b9f</guid>
-<pubDate>2026-08-11</pubDate>
-<description>The case for responsible scientific activism</description>
-</item>
-<item>
-<title>【自動自律実験】 AI tools speed up analysis, but scientific truths must be grounded in reality</title>
-<link>https://www.nature.com/articles/d41586-026-02490-9</link>
-<guid>dffceba39d4cd05c1f70fee6cfdb3752a81cf3fe76a43f51dfe393bd04f481bb</guid>
-<pubDate>2026-08-11</pubDate>
-<description>AI tools speed up analysis, but scientific truths must be grounded in reality</description>
-</item>
-<item>
-<title>【自動自律実験】 Will AI make our dreams all look the same?</title>
-<link>https://www.nature.com/articles/d41586-026-02491-8</link>
-<guid>5847d7b32951eaa6456405fd79b5db601ad2dbbd4cece1fad941954918e3e79f</guid>
-<pubDate>2026-08-11</pubDate>
-<description>Will AI make our dreams all look the same?</description>
+<description>Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/bridging-the-dimensionality-gap-a-taxonomy-and-survey-of-2d-vision-model-adaptation-for-3d-analysis-2/</link>
-<guid>7519af0c3aa26a764420e49033e4c95875f93a531f7179bdfeb286b31beba26e</guid>
-<pubDate>Tue, 11 Aug 2026 10:23:39 GMT</pubDate>
+<link>https://research.google/pubs/on-the-ptas-complexity-of-multidimensional-knapsack/</link>
+<guid>fc93e74c977cad3d6b26d6f09402ee3718a7ed1453295af0bffe4b0c27a07378</guid>
+<pubDate>Tue, 11 Aug 2026 11:11:28 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>40eb67a70fe2ab68954e345150a8af61229e87841c96171f061de92414ff7ef8</guid>
-<pubDate>Tue, 11 Aug 2026 10:23:42 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>9ada8d79910d8f8bac21ec324c456a0f7ffb3925e0c54e5eab217ccd5ddaf111</guid>
-<pubDate>Tue, 11 Aug 2026 10:23:45 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>31cdcb5e652a33d686ae79c4989092eeea08b26220f8fbfe243d126d044815d1</guid>
-<pubDate>Tue, 11 Aug 2026 10:24:16 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
