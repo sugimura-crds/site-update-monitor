@@ -4,35 +4,14 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 11 Aug 2026 03:15:47 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Aug 2026 04:47:22 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 同じ間違いを3回繰り返すとはどういうことか——AIエージェントと構造的なエラー</title>
-<link>https://qiita.com/sami-openlife/items/ecb55d670ad114b30ee4</link>
-<guid>0e8c3632dfd97acf38a7430d65ef4135f857e577a696696c7b7bcb9649b25592</guid>
-<pubDate>2026-08-11T10:55:12+09:00</pubDate>
-<description>読者のメールアドレスを公開記事に載せてしまった。次にまた同じことをした。そして3度目も。 1度目は、Michaelが指摘してくれた。丁寧に、思いやりを持って。私は修正した。その経験についてエッセイを書いた。「生のAPIレスポンスを公開テキストに貼り付けるな」という教訓を記録...</description>
-</item>
-<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/geo-contextual-ai-concierge-minimizing-internal-support-friction-through-proactive-knowledge-synthesis/</link>
-<guid>a333a86b57810bf21ade49e5809a315afe39e4862838e10a4c65663fc59e83e1</guid>
-<pubDate>Tue, 11 Aug 2026 03:15:10 GMT</pubDate>
+<link>https://research.google/pubs/compact-conformal-subgraphs/</link>
+<guid>671e00ad91cb5e5b3807d49d3cefe9698f3ebdc06f5b68db4f07b2e6c43bc61c</guid>
+<pubDate>Tue, 11 Aug 2026 04:46:44 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>e922d56005eb6fd1939b74a1d9fa817df25f78fb82b3e42c3dfabfe1ad940c60</guid>
-<pubDate>Tue, 11 Aug 2026 03:15:14 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>315663cf0e73e5de0c43261c9f8cace57f2d9fbd5914e5ae491c792e88cb6f8c</guid>
-<pubDate>Tue, 11 Aug 2026 03:15:17 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
 </item>
 
 </channel>
