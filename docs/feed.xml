@@ -4,43 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 12 Aug 2026 06:51:19 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 08:10:09 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Bob × Confluent MCP入門：KafkaとFlinkを自然言語で触ってみた</title>
-<link>https://qiita.com/kaku_zui/items/81af00d831d1a412f953</link>
-<guid>e2553488929ddf74ca3c93b71db3a159a4057765ee623d5859625645400e8590</guid>
-<pubDate>2026-08-12T14:41:27+09:00</pubDate>
-<description>はじめに この記事では IBM Bob に Confluent MCP サーバー を接続することで、日本語のチャットだけで Kafka トピックの作成・データ投入・Flink SQL 実行 まで一気通貫でやってみた記録をまとめます。 コマンドはセットアップ時にほんの少し打...</description>
+<title>【Qiita】 checkpointで戻したのに、ファイルは戻らなかった</title>
+<link>https://qiita.com/mofuteq/items/72947e9fb12e189944f2</link>
+<guid>7d700f255a7687cb627f472b094cde4d1300d25cd0da65323599b509facb1684</guid>
+<pubDate>2026-08-12T16:16:26+09:00</pubDate>
+<description>AI Agentに、ファイルの書き出しをつけた。 それまでは、画面に回答を返すだけだった。便利になったと言われた。出力をレポートに使える。手で写し直さなくていい。 その数日後、agentが前の出力を上書きした。整理するつもりだったのかもしれない。更新するつもりだったのかもし...</description>
 </item>
 <item>
-<title>【Qiita】 ブラウザを触れるAI agentは、E2Eを書く前に権限境界を決める</title>
-<link>https://qiita.com/heftykoo/items/d140df7c4c3f7e66e2f7</link>
-<guid>d2dd4d096ad0aa8be8adf09af4fc794deb0f781456773da6c8625574f3ddf2c8</guid>
-<pubDate>2026-08-12T14:22:30+09:00</pubDate>
-<description>ブラウザを触れるAI agentは、E2Eを書く前に権限境界を決める localhostの表示崩れを見てもらうために、coding agentへ普段使いのChrome profileをそのまま渡す。手早く試せますが、agentに見せる必要のない状態まで一緒に渡ります。 自...</description>
+<title>【Qiita】 AIエージェントに「関係責任」を実装するなら――可変な責任境界を持つAgent Architectureを疑似コードで考える</title>
+<link>https://qiita.com/dantarg/items/34180816576eb2d01a6e</link>
+<guid>edc0eaa6747fa452ce25c2be36c498b2be28ab8f86b4273eb0dba11ee2cc005e</guid>
+<pubDate>2026-08-12T16:11:48+09:00</pubDate>
+<description>このシリーズでは、まずOpenAIのサイバー事例からAIエージェントの境界を考え、続いてBig Tech 4社のAgent Safety設計を比較しました。 AIエージェントへToolを渡すと、最初はpermission設計でかなり解けるように見えます。 ところが実際の業務...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/dedubb-binary-code-size-reduction-via-post-link-basic-block-de-duplication/</link>
-<guid>0d9b74dc1f8aaf4f740bd6e87701e50bcedb7d7edde683c16d4bbec4e58cf1e9</guid>
-<pubDate>Wed, 12 Aug 2026 06:50:38 GMT</pubDate>
+<link>https://research.google/pubs/type-aware-ranking-of-urban-similarity-from-aerial-imagery/</link>
+<guid>b016f1d76acfdf5db0b80f78aaf22b3e1eb059fae33b585aec8e47c57a00b460</guid>
+<pubDate>Wed, 12 Aug 2026 08:09:10 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>9ccc9f1cdc27ab0702833221487d3fe0d36d24e2ad9a1ba8f32dff3cb8a32945</guid>
-<pubDate>Wed, 12 Aug 2026 06:50:41 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>92f7979c3274712c111594099df8cee82bb57acc0bbdbcc0424612047cf66d97</guid>
-<pubDate>Wed, 12 Aug 2026 06:50:59 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
