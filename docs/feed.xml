@@ -4,35 +4,50 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 12 Aug 2026 12:44:38 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 14:14:38 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Copilot Studio で非構造化データはどこまでナレッジになるのか【Part 3: Copilot Studio (Standard harness) を極める】</title>
-<link>https://qiita.com/Isato-Hiyama/items/2b49b499dc5294017efd</link>
-<guid>88c02cbc2c14068fa4d7ed39f47d37f8802514bccdfdd9cb607c9f6b860e403d</guid>
-<pubDate>2026-08-12T20:45:49+09:00</pubDate>
-<description>本記事について 本記事は「Copilot Studio × 非構造化データ」検証シリーズの Part 3 です。前々編 (Part 1) では Standard Harness (Classic UI) を 5 Round に分けて検証し 5-6/7 で頭打ちという結論に...</description>
+<title>【Qiita】 GitHub Agentic Workflow入門</title>
+<link>https://qiita.com/FukuharaYohei/items/786a94ac031996e16a5e</link>
+<guid>b8743040130f497188409d4be5b4a9ce1a296210b3f5e2756cee0a68f3524167</guid>
+<pubDate>2026-08-12T22:56:12+09:00</pubDate>
+<description>GitHub Agentic Workflow について学習しました。そのメモです。 主たるコマンドは以下のページ参照。 実務上、ワークフローをgh aw add-wizard githubnext/agentics/で取り込むのが便利。...</description>
 </item>
 <item>
-<title>【Qiita】 AIフロンティアモデルをAWS Bedrockで使う理由の話</title>
-<link>https://qiita.com/Xim2jp/items/279f52468d51e9d77cad</link>
-<guid>01d3985a73576552dc215dbf1551fc890321723f3cc20923bf4a09e11b216348</guid>
-<pubDate>2026-08-12T20:43:38+09:00</pubDate>
-<description>初心者向けAmazon Bedrock入門：AIモデルをAWSのサービスとして使う ※本記事は、当方ブログの要約です。全文はこちら https://shinichi.noguchi.jp.net/blog/2026-08-12-amazon-bedrock-agents-...</description>
+<title>【Qiita】 Google AI Pro + Antigravity CLI と、GCPのAPI課金は別物という話</title>
+<link>https://qiita.com/0903osa/items/49b297e8b424f15d7e2c</link>
+<guid>e95a741f4952773fffcf4c3416d25af7950e029c55a5af3eb72a7a339eebe5da</guid>
+<pubDate>2026-08-12T22:17:08+09:00</pubDate>
+<description>前回、AntigravityCLIってコスパよくない？？という記事を書きました。https://qiita.com/0903osa/items/e6ae9aa2f06894b1ef6a 要約すると、 私はGoogle AI Proを契約し、その契約に紐づく利用枠でAnti...</description>
 </item>
 <item>
-<title>【自動自律実験】 A particle made of force: physicists say they’ve found mysterious ‘glueball’</title>
-<link>https://www.nature.com/articles/d41586-026-02498-1</link>
-<guid>a72286fda0d89999a3a8324e6f99fe0051789aca52d4232194c052e5ff52d459</guid>
-<pubDate>2026-08-12</pubDate>
-<description>Scientists have predicted the existence of a particle made of gluons for a long time, but detecting it has taken decades.</description>
+<title>【Qiita】 NocoBase vs Baserow：柔軟なデータベースとエンタープライズ業務システム</title>
+<link>https://qiita.com/TianqiYuan/items/eb6d574fd7bdf0965be5</link>
+<guid>ce3604d67a8f2988df40e7f8d449ddd7b19f900d00b40e38735ab32de5bbfd5c</guid>
+<pubDate>2026-08-12T22:13:39+09:00</pubDate>
+<description>はじめに データ管理、社内アプリ構築、業務フローの自動化に使える、オープンソースかつセルフホスト対応のプラットフォームを探しているなら、NocoBase と Baserow は同じ候補リストに入る可能性が高いでしょう。 どちらも視覚的なデータ管理とアプリ構築機能を備え、チ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/twenty-years-of-bigtable/</link>
-<guid>e6f7e83c758e15a301c195f1ffe212e6ee67abbe901fd11150d7d7049829b88c</guid>
-<pubDate>Wed, 12 Aug 2026 12:44:06 GMT</pubDate>
+<link>https://research.google/pubs/system-for-a-secure-outcome-based-synthetic-labor-market-using-trusted-execution-environments/</link>
+<guid>bca76d4bd5b7a76a8da0e97b1157e2f1633f5215fead5613a94e8bafbd091f77</guid>
+<pubDate>Wed, 12 Aug 2026 14:14:03 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>d5f01685a90d9a66941c41c00fde39712592c91d4419084fb2c643bc101a760a</guid>
+<pubDate>Wed, 12 Aug 2026 14:14:06 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>ad9d5b14593e7f2eaafe1bb4d3803f7f9fe22cd63264360f6dce78d5baba868f</guid>
+<pubDate>Wed, 12 Aug 2026 14:14:21 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
