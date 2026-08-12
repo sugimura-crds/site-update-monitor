@@ -4,21 +4,36 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 11 Aug 2026 23:31:23 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 00:08:50 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【個人メモ】DevSecOpsとは</title>
-<link>https://qiita.com/Horiiii/items/14ee90bd481f24ea9b98</link>
-<guid>66b364f972680e65190d89c086d6f1b1ce9edece1419d5e9fb50624cc92cd216</guid>
-<pubDate>2026-08-12T07:52:09+09:00</pubDate>
-<description>はじめに IBM Concert勉強に関連して、DevSecOpsの役割について、以下の勉強素材を飛ばし飛ばしでまずはザクっと理解した内容をまとめます。 DevSecOpsとは 昔の開発フロー 開発 → テスト → リリース → セキュリティ確認 リリース直前に...</description>
+<title>【Qiita】 AIエージェントの「なぜそう判断したのか」をグラフに残す ― OSS の Semantica を触ってみる</title>
+<link>https://qiita.com/engchina/items/2f9f13676d788031c361</link>
+<guid>629439136d79f930d2a6a1299150ccf295efef7e7be5622ac5920d02c0824283</guid>
+<pubDate>2026-08-12T08:39:46+09:00</pubDate>
+<description>はじめに LLM アプリを本番に載せようとすると、必ず一度はこの質問を受けます。 「で、このAIはなぜその結論を出したんですか？」 ベクトル検索 + RAG の構成だと、返せるのは「似ていた文書はこれです」までです。どの事実に基づいて、どのルールが発火して、いつ誰が何...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/peeking-ahead-of-the-field-study-exploring-vlm-personas-as-support-tools-for-embodied-studies-in-hci/</link>
-<guid>eefa93a5d78b3a34d8218cc52cbf1cb7ed035981c505700f78f6ae2dd94ab7e4</guid>
-<pubDate>Tue, 11 Aug 2026 23:30:02 GMT</pubDate>
+<link>https://research.google/pubs/analyzing-bytes-pre-disassembly-static-binary-analysis/</link>
+<guid>b7022cbb8ca6166a649ea91841b8490f665a5546296231681914f6212998f5e1</guid>
+<pubDate>Wed, 12 Aug 2026 00:07:53 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>c7fd4d3a438c94c62956235a607b79e007466bc0c281dd9f4db678054cbcc0d3</guid>
+<pubDate>Wed, 12 Aug 2026 00:07:58 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>7ae75905cd8d8bc879f456816fa0c9ad1dc18a39bfa77ec731c727bdf4f0773e</guid>
+<pubDate>Wed, 12 Aug 2026 00:08:31 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
