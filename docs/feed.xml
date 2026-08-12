@@ -4,36 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 12 Aug 2026 00:08:50 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 03:03:30 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントの「なぜそう判断したのか」をグラフに残す ― OSS の Semantica を触ってみる</title>
-<link>https://qiita.com/engchina/items/2f9f13676d788031c361</link>
-<guid>629439136d79f930d2a6a1299150ccf295efef7e7be5622ac5920d02c0824283</guid>
-<pubDate>2026-08-12T08:39:46+09:00</pubDate>
-<description>はじめに LLM アプリを本番に載せようとすると、必ず一度はこの質問を受けます。 「で、このAIはなぜその結論を出したんですか？」 ベクトル検索 + RAG の構成だと、返せるのは「似ていた文書はこれです」までです。どの事実に基づいて、どのルールが発火して、いつ誰が何...</description>
+<title>【Qiita】 OutlookメールをAIに読ませてみた — Bob Skill &quot;outlook_win&quot; でメール優先度を自動判定する</title>
+<link>https://qiita.com/oyahiroki/items/ad9e21d0d115e0050e71</link>
+<guid>b94d4ae61e4a5ed3d806331aed4145a583538dd163f280499d5ca29011356d66</guid>
+<pubDate>2026-08-12T11:10:59+09:00</pubDate>
+<description>OutlookメールをAIに読ませてみた — Bob Skill &quot;outlook_win&quot; でメール優先度を自動判定する 🤔 こんな悩みありませんか？ 毎朝 Outlook を開くと、未読メールが数十件。上司からの急ぎの連絡も、ニュースレターも、承認依頼も、全部同じ「...</description>
+</item>
+<item>
+<title>【Qiita】 スマートメーター × Confluent Cloud リアルタイムデモ（東京23区版）を、IBM Bob を使って構築しました Ver.3 — 同じトピックをファンアウトして時系列グラフを追加した話</title>
+<link>https://qiita.com/Shumpei_Kubo/items/c5c4fa0a808cc7f04fa1</link>
+<guid>66c9f4825e9a3c8585fbde13c2790bea2b708d065b9b60829d6279968124abfd</guid>
+<pubDate>2026-08-12T10:53:10+09:00</pubDate>
+<description>はじめに：「地図があるなら、時系列グラフも欲しいよね」 前の2本の記事（Ver.1 / Ver.2）では、東京23区の地図上にバブルを描いてスマートメーターデータをリアルタイム可視化する仕組みを作りました。 地図を見ていると自然に湧いてくる疑問があります。 「今、千代田...</description>
+</item>
+<item>
+<title>【Qiita】 2026年 IT業界での生き残り戦略</title>
+<link>https://qiita.com/op_yamaguchi/items/0bf9bde0bd0fccd9c6fb</link>
+<guid>98135b9b49247acdf96c718ff70042c6d48ffc051c36023f1f63f46474f35a45</guid>
+<pubDate>2026-08-12T10:25:47+09:00</pubDate>
+<description>SREとして事業会社で働きながら、副業で個人事業主としても活動している山口と申します。 仕様駆動開発や、superpowersのようなスキルフレームワークを使ったAI駆動開発が当たり前になったIT業界を改めて振り返り、どうキャリアプランを立てるのか。生成AIを使わずに考えて...</description>
+</item>
+<item>
+<title>【Qiita】 FastAPIをもう少し深掘りしてみた ～AIエージェントのバックエンドをどう作る？～</title>
+<link>https://qiita.com/Sho5_Matsu/items/67bccc2905c4b15d7a77</link>
+<guid>028c5cf8fa3a1f5378b645e645734cdde857bfb86ace12551fd3cf82f0338627</guid>
+<pubDate>2026-08-12T10:03:52+09:00</pubDate>
+<description>はじめに 以前、「AIエージェントを調べていたらFastAPIをよく見かけたので調べてみた」という記事を書きました。 前回の記事では、 FastAPIとは何か PythonでAPIを開発できる 非同期処理に対応している Swagger UIを自動生成できる AI案件でよ...</description>
+</item>
+<item>
+<title>【Qiita】 LangGraph 1.2のerror_handlerとtimeoutを手書きと比較した</title>
+<link>https://qiita.com/kai_kou/items/868faf647596e5efdba6</link>
+<guid>2cfd77972b94a7ab81f709a47bb47ea3da33f96f31ffec62f6c67d8b8e911134</guid>
+<pubDate>2026-08-12T09:08:36+09:00</pubDate>
+<description>はじめに 対象読者は LangGraph でエージェントやワークフローを組んでいて、ノード単位のリトライ・タイムアウト・フォールバックを自前で書いている Python 開発者です。 エージェントのグラフは、外部 API 呼び出しや LLM 推論といった「落ちる前提の処理」...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/analyzing-bytes-pre-disassembly-static-binary-analysis/</link>
-<guid>b7022cbb8ca6166a649ea91841b8490f665a5546296231681914f6212998f5e1</guid>
-<pubDate>Wed, 12 Aug 2026 00:07:53 GMT</pubDate>
+<link>https://research.google/pubs/an-improved-entropy-measure-for-web-browser-fingerprinting-risk/</link>
+<guid>585f472385fbd3cbabc47757d29d7c9faa517ade04312e0b22ce84d1634f095f</guid>
+<pubDate>Wed, 12 Aug 2026 03:02:24 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>c7fd4d3a438c94c62956235a607b79e007466bc0c281dd9f4db678054cbcc0d3</guid>
-<pubDate>Wed, 12 Aug 2026 00:07:58 GMT</pubDate>
+<guid>644a3118a296651d7ed04942a0aa8f522eb7cec9c8c3951e41619d35a7a31149</guid>
+<pubDate>Wed, 12 Aug 2026 03:02:28 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>7ae75905cd8d8bc879f456816fa0c9ad1dc18a39bfa77ec731c727bdf4f0773e</guid>
-<pubDate>Wed, 12 Aug 2026 00:08:31 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
