@@ -4,28 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 12 Aug 2026 08:10:09 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 09:37:56 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 checkpointで戻したのに、ファイルは戻らなかった</title>
-<link>https://qiita.com/mofuteq/items/72947e9fb12e189944f2</link>
-<guid>7d700f255a7687cb627f472b094cde4d1300d25cd0da65323599b509facb1684</guid>
-<pubDate>2026-08-12T16:16:26+09:00</pubDate>
-<description>AI Agentに、ファイルの書き出しをつけた。 それまでは、画面に回答を返すだけだった。便利になったと言われた。出力をレポートに使える。手で写し直さなくていい。 その数日後、agentが前の出力を上書きした。整理するつもりだったのかもしれない。更新するつもりだったのかもし...</description>
+<title>【Qiita】 Windows版 IBM BobでWSL上のDocker MCP Serverを利用する ― MCP設定例</title>
+<link>https://qiita.com/xiaojinse/items/5d34e588c9042723f85e</link>
+<guid>0c0bfd1a5120ecdb633c2c33f59b94d81b432f11431057bd697012ee1f1c65c6</guid>
+<pubDate>2026-08-12T18:12:13+09:00</pubDate>
+<description>はじめに MCP Server の提供元ドキュメントには、通常、AI Agent 側の設定例も記載されています。 ただし、PC が Windows の場合は、Docker Desktop for Windows を使用し、MCP 設定から docker command を...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントに「関係責任」を実装するなら――可変な責任境界を持つAgent Architectureを疑似コードで考える</title>
-<link>https://qiita.com/dantarg/items/34180816576eb2d01a6e</link>
-<guid>edc0eaa6747fa452ce25c2be36c498b2be28ab8f86b4273eb0dba11ee2cc005e</guid>
-<pubDate>2026-08-12T16:11:48+09:00</pubDate>
-<description>このシリーズでは、まずOpenAIのサイバー事例からAIエージェントの境界を考え、続いてBig Tech 4社のAgent Safety設計を比較しました。 AIエージェントへToolを渡すと、最初はpermission設計でかなり解けるように見えます。 ところが実際の業務...</description>
+<title>【Qiita】 Claude Codeのステータスラインを設定して、使用中のモデルやブランチ、利用料金をいつでもすぐに見れるようにした</title>
+<link>https://qiita.com/dachshund129/items/44a4dcab63e864dbefbd</link>
+<guid>1a4bef93a008bc2a4490c1216fb061ff67329782347fafa8c61b0bd9f21a4b0b</guid>
+<pubDate>2026-08-12T18:13:33+09:00</pubDate>
+<description>こんばんは、ダックスフントです。 Claude Codeを使っていると、よく気になることがあります。 今、どのアカウントで実行しているんだっけ？ モデルや思考の深さは何を設定していたんだっけ？ ここまでのやり取りで利用料金はどれくらいだろう？ どのディレクトリを基点に操作...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/type-aware-ranking-of-urban-similarity-from-aerial-imagery/</link>
-<guid>b016f1d76acfdf5db0b80f78aaf22b3e1eb059fae33b585aec8e47c57a00b460</guid>
-<pubDate>Wed, 12 Aug 2026 08:09:10 GMT</pubDate>
+<link>https://research.google/pubs/llm-powered-analysis-of-iot-user-reviews-tracking-and-ranking-security-and-privacy-concerns/</link>
+<guid>d98431bd6d5d92980bffbdcf541da7432f18f212000027614bbccf9f0cad999c</guid>
+<pubDate>Wed, 12 Aug 2026 09:36:35 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>5f71a17f2e245d990c0a4ec5c2d2a2928cf2880b64fd0fe1fcb2853050c26bc9</guid>
+<pubDate>Wed, 12 Aug 2026 09:36:38 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-60531-9</link>
+<guid>55924cc091401e6b7a5bc42987fba766ae45709aefc9c68791604c3ee12d540a</guid>
+<pubDate>Wed, 12 Aug 2026 09:36:41 GMT</pubDate>
+<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
 </item>
 
 </channel>
