@@ -4,63 +4,43 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 12 Aug 2026 05:12:59 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 06:51:19 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Macでzip圧縮したファイルをwindowsで解凍するとファイル名が文字化けする件</title>
-<link>https://qiita.com/gomAnomalocaris/items/8c5021f20edd69c6cdc1</link>
-<guid>bba4a83a8d658e7f6fc702bc59db3458f71ae9889a0d69df067fc36af0576c26</guid>
-<pubDate>2026-08-12T12:33:58+09:00</pubDate>
-<description>弊社macとwindowsユーザーが混在していまして上記の問題が定常的に発生しがちです。自分は基本windowsユーザーです。 macユーザーさんがどのようにzip圧縮しているかは？なのですが、こんな感じでzip回答したファイル名が文字化けします。ファイルの中身は文字化け無...</description>
+<title>【Qiita】 IBM Bob × Confluent MCP入門：KafkaとFlinkを自然言語で触ってみた</title>
+<link>https://qiita.com/kaku_zui/items/81af00d831d1a412f953</link>
+<guid>e2553488929ddf74ca3c93b71db3a159a4057765ee623d5859625645400e8590</guid>
+<pubDate>2026-08-12T14:41:27+09:00</pubDate>
+<description>はじめに この記事では IBM Bob に Confluent MCP サーバー を接続することで、日本語のチャットだけで Kafka トピックの作成・データ投入・Flink SQL 実行 まで一気通貫でやってみた記録をまとめます。 コマンドはセットアップ時にほんの少し打...</description>
 </item>
 <item>
-<title>【Qiita】 IDEを離れずにバグ対応を終わらせる：コードと課題管理をMCPでつなぐ</title>
-<link>https://qiita.com/spina1/items/d83c22ce223d9b80b1a4</link>
-<guid>fd80b0a14c5fbc7392fe54a180698970800d6a7b794afcf9a45439cd45b46917</guid>
-<pubDate>2026-08-12T12:56:09+09:00</pubDate>
-<description>はじめに コードを書いている最中に、手が止まる瞬間があります。 「今日、自分に割り当てられているバグってどれだっけ」。エディタから離れて課題管理ツールを開き、自分宛ての課題を優先度順に並べ替え、内容を読んで、またエディタに戻る。直したら直したで、今度はステータスを変えて、...</description>
-</item>
-<item>
-<title>【Qiita】 【書評】金融実務の現場から読む『生成AIパスポート合格講座』――試験対策を超えて、生成AIを業務に埋め込むための入門書</title>
-<link>https://qiita.com/yoshisen/items/87579aa753b24410d391</link>
-<guid>2550377d001baece2552dfd6449afe57321fc5382138a5d9e01468c64d83cf1c</guid>
-<pubDate>2026-08-12T12:55:23+09:00</pubDate>
-<description>はじめに 『生成AIパスポート合格講座』は、生成AIパスポート試験の合格を目指すための参考書でありながら、単なる用語暗記の本には収まっていない。AIの基礎、生成AIの歴史、RAG、AIエージェント、情報リテラシー、個人情報保護、著作権、AI事業者ガイドライン、AI新法、プ...</description>
-</item>
-<item>
-<title>【Qiita】 新メンバーのオンボーディングをAIで短縮：仕様書と課題の履歴を横断して現状をつかむ</title>
-<link>https://qiita.com/spina1/items/52abe75692fc51c5e13e</link>
-<guid>a051f9448d2710948566ab0eab49566ba6c18f2f0d1f45d50ac7c698fa690b2b</guid>
-<pubDate>2026-08-12T12:21:52+09:00</pubDate>
-<description>はじめに こんにちは！ONESのふえです。今日は、新しく入ったメンバーの立ち上がりを早くする使い方を紹介します。 チームに人が増えるのは嬉しいことなんですが、その人が戦力になるまでの数週間は、地味にみんなの時間を食います。新メンバーは「この機能、今どういう状態なんだろう」...</description>
-</item>
-<item>
-<title>【Qiita】 【2026年版】AIエージェント攻撃を企業活用できる対策OSSを作った</title>
-<link>https://qiita.com/sharu389no/items/acc6ed343c9fc8889255</link>
-<guid>24a770416bfcc5210ebc8953d135ffd7c5b5b08339b0b9399cf4ba71cee3bf5a</guid>
-<pubDate>2026-08-12T12:21:24+09:00</pubDate>
-<description>はじめに エンジニア「Claude Code、業務で使いたいです」 情シス「AIが社内のコードを勝手に外に送ったりしない？」 エンジニア「そこは大丈夫…なはずです」 情シス「&quot;はず&quot;じゃ通せないよ。何が来ていて、何を止めるのか、必要な情報は一覧で見せて」 この「一覧で見せ...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Code SendMessage、ListAgentsが0件を返した理由</title>
-<link>https://qiita.com/kai_kou/items/c16299dd3e0ee6955fc9</link>
-<guid>c041f504a8ebdffba133810cc4744f73a34519b013b7897ed84b0b261d0ef355</guid>
-<pubDate>2026-08-12T12:08:10+09:00</pubDate>
-<description>はじめに Claude Code v2.1.224 で、セッション間で直接メッセージを送り合う SendMessage と、相手を探す ListAgents が追加されました。対象読者は、Claude Code をスケジュール実行やマルチセッション構成で運用している開発...</description>
+<title>【Qiita】 ブラウザを触れるAI agentは、E2Eを書く前に権限境界を決める</title>
+<link>https://qiita.com/heftykoo/items/d140df7c4c3f7e66e2f7</link>
+<guid>d2dd4d096ad0aa8be8adf09af4fc794deb0f781456773da6c8625574f3ddf2c8</guid>
+<pubDate>2026-08-12T14:22:30+09:00</pubDate>
+<description>ブラウザを触れるAI agentは、E2Eを書く前に権限境界を決める localhostの表示崩れを見てもらうために、coding agentへ普段使いのChrome profileをそのまま渡す。手早く試せますが、agentに見せる必要のない状態まで一緒に渡ります。 自...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/llm-powered-analysis-of-iot-user-reviews-tracking-and-ranking-security-and-privacy-concerns/</link>
-<guid>81290e521ec3045f0d13a97c7875352f1bb2e42abeb22dfb87e413e89aafb512</guid>
-<pubDate>Wed, 12 Aug 2026 05:11:57 GMT</pubDate>
+<link>https://research.google/pubs/dedubb-binary-code-size-reduction-via-post-link-basic-block-de-duplication/</link>
+<guid>0d9b74dc1f8aaf4f740bd6e87701e50bcedb7d7edde683c16d4bbec4e58cf1e9</guid>
+<pubDate>Wed, 12 Aug 2026 06:50:38 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>11b5687013f48d9413cf8f502736a89b30f1e5041eef5b4a8f8d51945fa26761</guid>
-<pubDate>Wed, 12 Aug 2026 05:12:00 GMT</pubDate>
+<guid>9ccc9f1cdc27ab0702833221487d3fe0d36d24e2ad9a1ba8f32dff3cb8a32945</guid>
+<pubDate>Wed, 12 Aug 2026 06:50:41 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>92f7979c3274712c111594099df8cee82bb57acc0bbdbcc0424612047cf66d97</guid>
+<pubDate>Wed, 12 Aug 2026 06:50:59 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
