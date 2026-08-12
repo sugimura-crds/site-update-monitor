@@ -4,49 +4,36 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 12 Aug 2026 10:52:44 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Aug 2026 11:39:53 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIに献立を提案してもらったらディストピアに行き着いた</title>
-<link>https://qiita.com/java_wocky/items/69880415a5e14a40fe4b</link>
-<guid>8445a9472215b2743ba8848877017ddf93839b7fa2525bb3b31d947192ec24da</guid>
-<pubDate>2026-08-12T19:22:35+09:00</pubDate>
-<description>レシピ提案AIを作りたかった 何の変哲もないこの願望が、今回のことの始まりである。 というのも、筆者は大の料理好きで毎日自炊している。そして最近のお気に入りツールであるObsidianにレシピをメモしている。せっかくこうして書き溜めたレシピがあるのならば、「今日作れるレシ...</description>
-</item>
-<item>
-<title>【Qiita】 【AWS Blocks】Agentを使ってStrandsAgentsのAIエージェントを動かしてみよう (Ollamaでローカル実行まで)</title>
-<link>https://qiita.com/Takenoko4594/items/559cc735ee56809e7056</link>
-<guid>37b4ee0311e45b7e62e4561b6c750c9877e815cc4ea3303436db9f1d89703350</guid>
-<pubDate>2026-08-12T18:38:10+09:00</pubDate>
-<description>はじめに 今回は、AWS Blocksの「Agent」をローカルで試してみました。 Agentを使用することで簡易なAIエージェントを構築できます。 AWS Blocksが提供するテンプレートからTODOアプリを作って、AIチャット機能を追加してみます。 AWS Bl...</description>
-</item>
-<item>
-<title>【自動自律実験】 A controversial Alzheimer’s surgery is said to reverse symptoms — here’s what scientists know</title>
-<link>https://www.nature.com/articles/d41586-026-02448-x</link>
-<guid>455948d02b08ad6eb77fc9e65a3a8ea2aa512c526b5f20db7d910e88150ada1a</guid>
-<pubDate>2026-08-12</pubDate>
-<description>Jaw-dropping patient videos and miraculous testimonials ignited a frenzy in China over a technique that aims to improve drainage from the brain. Now it is entering trials worldwide.</description>
+<title>【Qiita】 IBM BobのCustom ModeでIBM Cloud Service Instance Reportを作ってみた</title>
+<link>https://qiita.com/xiaojinse/items/2f20f4422a717b542dc9</link>
+<guid>00e39640a0c151bb6535bb7b1dbd522a9c9d33a9f3ec8cc85338470f33258186</guid>
+<pubDate>2026-08-12T19:15:52+09:00</pubDate>
+<description>はじめに IBM Bobを使っていると、特定のTaskについて、毎回同じ前提や進め方をPromptで説明したくなることがあります。 例えば、IBM Cloud Account内のResourceを確認する場合でも、次のような条件をあらかじめ決めておきたいと考えました。 ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/xprof-an-open-scalable-and-extensible-profiling-system-for-the-modern-ml-stack/</link>
-<guid>29d6abb5b476d78ae837b1e592ae6111c1a3caf604c1a690803edf85eabf874c</guid>
-<pubDate>Wed, 12 Aug 2026 10:51:46 GMT</pubDate>
+<link>https://research.google/pubs/conditional-execution-of-compiler-passes-based-on-per-script-feature-detection/</link>
+<guid>939d12669d79d217ce7f9408986fa44ccd05b436151408d110481392d7148861</guid>
+<pubDate>Wed, 12 Aug 2026 11:39:20 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>f649b7f782cb0a6250311d8698848b0c380876940582bbc98d7dd7fd6f76f175</guid>
-<pubDate>Wed, 12 Aug 2026 10:51:48 GMT</pubDate>
+<guid>246a23324f47d2fc575812edb0696defa1d830e5c907f9ffc9846c682eb48426</guid>
+<pubDate>Wed, 12 Aug 2026 11:39:23 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-60531-9</link>
-<guid>0bc4dc3a30fbe53bd6a6eed32400af89cdf17af3fde2c26de89318c596587974</guid>
-<pubDate>Wed, 12 Aug 2026 10:51:50 GMT</pubDate>
-<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>591683da1f593951c799f2db1ca4b771700d468030b113b572b855463e8f8518</guid>
+<pubDate>Wed, 12 Aug 2026 11:39:37 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
