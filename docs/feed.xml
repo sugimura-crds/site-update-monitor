@@ -4,50 +4,50 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 13 Aug 2026 05:16:05 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 06:54:37 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Engineering Lifecycle Management 7.2 のインストール手順</title>
-<link>https://qiita.com/meguroguro/items/e1e2f57b7dda0e110876</link>
-<guid>9434fdb861665bdbdd8615cc810144d46a58ce4ec31e48d3e3e0c83e8a9c2018</guid>
-<pubDate>2026-08-13T14:07:15+09:00</pubDate>
-<description>IBM Engineering Lifecycle Management 7.2 のインストール手順 はじめに 本記事では、IBM Engineering Lifecycle Management（以下、ELM）7.2 を Windows 環境へインストールし、Jazz...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Codeで企画を68回検証して、68回とも自分で殺した。死因台帳とスキルで判定を自動化する</title>
-<link>https://qiita.com/sakuapps/items/fa50c882ce6d4b6b202e</link>
-<guid>668d173ff390528f8cc5977dac37b36651f69906e4a278340e67d48b8ca9ea90</guid>
-<pubDate>2026-08-13T13:52:19+09:00</pubDate>
-<description>AIに企画を出させるコストは、ほとんどゼロになった。Claude Codeに「この市場で個人開発が狙えるニッチを探して」と投げれば、30分程度で20案以上出てくる。 問題はそこではなかった。出てきた案を殺す速度のほうが追いつかない。 1年かけて68案を検証して、68案とも自...</description>
+<title>【Qiita】 Claude に非同期 I2C 回路を実装させてみる(リベンジ編)</title>
+<link>https://qiita.com/jun1okamura/items/ca2fed5c46a105ac371c</link>
+<guid>38e5308e05c910a26f0b85896df5413342400b757861cb225f7832a1bf064584</guid>
+<pubDate>2026-08-13T15:17:37+09:00</pubDate>
+<description>AIで半導体回路設計・第二弾（リベンジ編） 夏休みの宿題「AIで回路設計・第二弾」Open-Source TR-1um を使った OpenSUSI-MPW サービスでも実装できそうなロジック回路として非同期 I2C 回路を Claude に実装させてみました。既存の TR...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/discrepancy-beyond-additive-functions-with-applications-to-fair-division/</link>
-<guid>530ba48fad34bcb38c3af6403aafb4250bc66a2c6ad34fa4b97840580e71b4a9</guid>
-<pubDate>Thu, 13 Aug 2026 05:15:24 GMT</pubDate>
+<link>https://research.google/pubs/automated-multi-stage-build-error-remediation-by-propagating-dormant-suppression-tags/</link>
+<guid>f59506980717b50b4be4d541d67893787bd607411c5d8da05570bf9b4587d5be</guid>
+<pubDate>Thu, 13 Aug 2026 06:53:51 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>d9f11196ca5dc2625f067d8df4f82e4806b2a3ec76d6b4d75dfd9290b173a881</guid>
-<pubDate>Thu, 13 Aug 2026 05:15:27 GMT</pubDate>
+<guid>97428be412d03b4e4c5edab72800e3adca258c50a8b9ae95224bba18bfbce966</guid>
+<pubDate>Thu, 13 Aug 2026 06:53:55 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Exploring an AI-driven agentic framework for insider threat detection in secure software development organizations: A su</title>
+<link>https://www.nature.com/articles/s41598-026-64146-y</link>
+<guid>17a66758e5be0cdc8bfe6473252423f418c87773c5fd50da19a755f4e04995d4</guid>
+<pubDate>Thu, 13 Aug 2026 06:54:00 GMT</pubDate>
+<description>Insider threats continue to be a vexed and complicated risk in secure software development (SSD) organizations due to their origin in combination of malicious intent, negligence, credential abuse, and process vulnerability throughout the software development lifecycle. Artificial intelligence (AI)-inspired, agentic security strategies are increasingly suggested to enhance prevention and detection, but organizations have not yet a clear, decision-supportive approach to prioritize agentic mitigation practices in times of uncertainty. This paper aims to suggest and rank an agentic model of insider threats mitigation to secure software development companies based on the Fuzzy Analytic Hierarchy Process (Fuzzy AHP). Its main objectives include (i) organizing insider-threat mitigation into multi-level decision model, (ii) calculating priority weights of AI-directed agentic practices, and (iii) assisting actionable adoption choices of various insider-threat types. A systematic mapping study (SMS) was first carried out to investigate the state-of-the-art of insider threats in software development organization. The second phase involved performing an empirical survey among cybersecurity pro</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Filter By:</title>
+<link>https://www.nature.com/articles/s44160-026-01125-1</link>
+<guid>51f7921139b4cd0a6511aacceb90a02712b46ed077e2f06675b4d3c25f94863e</guid>
+<pubDate>Thu, 13 Aug 2026 06:54:05 GMT</pubDate>
+<description>Self-driving laboratories (SDLs) can accelerate scientific discovery, but their broader value lies in supporting scale translation for multiscale process development. SDLs should generate scale-aware candidate landscapes that link laboratory-scale experimental results to representative-device and process-development stages, distinguishing candidate regions as validated for next-scale testing, or excluded by industrial constraints, or requiring targeted exploration to reduce scale-dependent uncertainty.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>2b369036e59d9a76717a3299205601f003174af81add8240847c35483189a342</guid>
-<pubDate>Thu, 13 Aug 2026 05:15:48 GMT</pubDate>
+<guid>b681a5afe0b87b3a7eac0ff78cb40bbaeddf34335717ff9e780dba00e5ba38d9</guid>
+<pubDate>Thu, 13 Aug 2026 06:54:19 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
-</item>
-<item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>47370331dbd199194ea646b1cc2fdf5693b775d05e26c3bf2aa55c3a912efe91</guid>
-<pubDate>Thu, 13 Aug 2026 05:15:54 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
