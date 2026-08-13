@@ -4,42 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 13 Aug 2026 08:12:11 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 09:39:05 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIワークフローを組んで数学の難問に半日ぶつけたら、ボトルネックが自分だった話</title>
-<link>https://qiita.com/dosanko_tousan/items/365c991e23dc86d14892</link>
-<guid>518e5e7e3c5d373d7a4ccf56cfb6cb4bbb0d375dfcb647aabc463a7fd55fa0c6</guid>
-<pubDate>2026-08-13T16:13:26+09:00</pubDate>
-<description>AIワークフローを組んで数学の難問に半日ぶつけたら、ボトルネックが自分だった話 何をやったか ChatGPT の Project を調整レイヤーにして、独立したワーカーを複数走らせる構成を組んでいます。研究、長文執筆、出版作業、ソフトウェアの実験、出典検証、複数モデルで...</description>
+<title>【Qiita】 VisualStudio無しで.NET Framework→.NET 10移行を試したら、ツールそのものが世代交代していた話</title>
+<link>https://qiita.com/inuta-one/items/9a8e6af3d545150c5a08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>fbc97a4779eca130e926783ef9bc795bb5bba2c4bc9e566ad64e1dab88ae0ad4</guid>
+<pubDate>2026-08-11T09:24:08+09:00</pubDate>
+<description>はじめに C# で出来ること一覧 2026年版（.NET 10） という記事を読んで、後半で紹介されていた「.NET Frameworkから.NETへの移行」を実際に手を動かして試してみることにしました。 自分は過去にVB6→C#移行の案件に関わったこともあり、この手の移...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントの指示ファイルは、なぜ端末ごとにズレていくのか</title>
+<link>https://qiita.com/untactit/items/f16ebf296fa264f627ba</link>
+<guid>ab2fb615e786326823b0b62dc11515ed480d46963bb83765f3acb1b4e2af70f8</guid>
+<pubDate>2026-08-13T18:14:46+09:00</pubDate>
+<description>Claude Code、Cursor、ChatGPT。チームで複数のAIエージェントを使い始めると、ある時点から同じ問題にぶつかります。 同じはずの指示ファイルが、端末ごとに違う。 この記事は、その現象がなぜ「起きてしまう」のかを構造として整理し、よくある対処法がどこで限界...</description>
+</item>
+<item>
+<title>【自動自律実験】 Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain</title>
+<link>https://www.nature.com/articles/s41586-026-10960-3</link>
+<guid>09f36a9e5441babd6c023653b47499c73de292bdc2b49d60484784093e6786d2</guid>
+<pubDate>2026-08-13</pubDate>
+<description>Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-framework-for-interactive-machine-learning-and-enhanced-conversational-systems/</link>
-<guid>13dbab39119fb553bbe1287da745f7c1f227ce6c0816be4c711e74631f622672</guid>
-<pubDate>Thu, 13 Aug 2026 08:11:09 GMT</pubDate>
+<link>https://research.google/pubs/visual-planning-lets-think-only-with-images/</link>
+<guid>f18d1da7c99f70bafb67416c4a7a1e2896096802232481ba257f7fddf0632cb7</guid>
+<pubDate>Thu, 13 Aug 2026 09:38:03 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>3f33ebc50cea8a3fbb16b7c15033c8c7f5b1c29f9bfde90a2f74773d33653a96</guid>
-<pubDate>Thu, 13 Aug 2026 08:11:12 GMT</pubDate>
+<guid>360661ce1a7f19abdcebf7bd1159cc5bc61df2d05eff31c951b704c0a5014d7e</guid>
+<pubDate>Thu, 13 Aug 2026 09:38:06 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>7a32979d5d91aee0ea3cf9c3ff18ab732e7a5ab4df42a48f0ff4f7d7d64752a3</guid>
-<pubDate>Thu, 13 Aug 2026 08:11:15 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-60531-9</link>
+<guid>eea7dcc709da4a2cdc6d92fc97734f9371d8f9be5126251a75c1578bc142d923</guid>
+<pubDate>Thu, 13 Aug 2026 09:38:08 GMT</pubDate>
+<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>85bd3fcdc7f275c261be53057c02a509fc14401113f8eabbe99622ea6ef094e2</guid>
-<pubDate>Thu, 13 Aug 2026 08:11:17 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>e410d568569dd12ab11cfe9b70a7f4b0c4e95dc323de06a58cdbc12c4581f562</guid>
+<pubDate>Thu, 13 Aug 2026 09:38:11 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 
 </channel>
