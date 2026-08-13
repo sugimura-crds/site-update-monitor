@@ -4,35 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 13 Aug 2026 11:40:01 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 12:45:47 GMT</lastBuildDate>
 
 <item>
-<title>【環境】 Failure to track a stable AMOC state under rapid climate change</title>
-<link>https://www.nature.com/articles/s41558-026-02730-w</link>
-<guid>c45a2df8c351c006e2e7bd74597ce9119436c1a726f40d31895cac74183fb0c0</guid>
+<title>【Qiita】 【Tera Term macro 小ネタ】passwordの直書きはやめましょう。</title>
+<link>https://qiita.com/Heizo_Hasegawa/items/5883f47f8da963924224</link>
+<guid>ffaf8a50650e25e78acb8942c796facddef655834484a9bb61413feff9fe20f3</guid>
+<pubDate>2026-08-13T21:01:50+09:00</pubDate>
+<description>Tera Term のマクロ（.ttl）を使った作業効率化は、サクッと作れて即効果が出るので現場じゃ手放せませんね。ただ、マクロを書くたびに とある思い出 が脳裏をよぎります……。 あれは大昔。他社さんと協業で作業を進めていた現場でのお話です。 大量の接続先Nodeに対...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeを実務で回す — CLIエージェントの現実的な使い方</title>
+<link>https://qiita.com/snowcode_jp/items/a51c1a46cbad3d34c287</link>
+<guid>739fd3a11500c4d48d147ff63f615e04f55868ba6c366ed18c9e1056b48a208e</guid>
+<pubDate>2026-08-13T20:52:29+09:00</pubDate>
+<description>ターミナル常駐型のCLIエージェント Claude Code を、実務でどう回すかを整理します。「賢いチャット」ではなく「リポジトリを操作する作業者」として扱うと、効き方が変わります。 CLIエージェントの位置づけ IDE補完やチャットと違い、CLIエージェントは リポジ...</description>
+</item>
+<item>
+<title>【環境】 Scalable ambient fabrication of single-junction and perovskite–silicon tandem solar cells</title>
+<link>https://www.nature.com/articles/s41893-026-01916-6</link>
+<guid>6fb3996f419facdae290803a4da500582341f9ca1c2a6ff4c0530e4b0a18e6fb</guid>
 <pubDate>2026-08-13</pubDate>
-<description>Climate change is expected to alter oceanic circulation, with the Atlantic Meridional Overturning Circulation (AMOC) at risk of collapse. This work shows that the stability of the AMOC is dependent on the rate of atmospheric CO2 change rather than having a fixed threshold.</description>
+<description>Practical application of perovskite solar cells requires scalable fabrication in ambient environments. Here the authors introduce PNCC, a hole-transport co-polymer that enables ambient-fabricated devices to achieve certified efficiencies of 33.0% in tandem cells and 23.2% in modules.</description>
+</item>
+<item>
+<title>【自動自律実験】 How to make your science business succeed when you’re a female founder</title>
+<link>https://www.nature.com/articles/d41586-026-01904-y</link>
+<guid>78ff8bd27492cc8e47677e350eef50b5585cd5384c6dcb56db667586c0b4c065</guid>
+<pubDate>2026-08-13</pubDate>
+<description>Sexist assumptions and a male-dominated culture can make it harder for women to attract investment for the companies they set up.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/neural-general-circulation-models-for-modeling-precipitation/</link>
-<guid>d5cc35845d4d44301ad790ea789fa92fee63f4cf28323f8e649149a605f978e2</guid>
-<pubDate>Thu, 13 Aug 2026 11:39:14 GMT</pubDate>
+<link>https://research.google/pubs/gs-offload-scalable-3d-gaussian-splatting-training-system-via-host-memory-offloading/</link>
+<guid>f882802a6ee0fb04598135b763ecec984a1ffaded0252f2a6a2a5ee404cc9cba</guid>
+<pubDate>Thu, 13 Aug 2026 12:45:05 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>1556fd4654f16b2c70401ecbbd3f5af8898b10c8a7140e2755d7e080eab4a609</guid>
-<pubDate>Thu, 13 Aug 2026 11:39:17 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-64146-y</link>
-<guid>dc7ad76375b741bff4d261eeefeafe46d270cce47bed19c1ace8b93034d86f73</guid>
-<pubDate>Thu, 13 Aug 2026 11:39:20 GMT</pubDate>
-<description>Insider threats continue to be a vexed and complicated risk in secure software development (SSD) organizations due to their origin in combination of malicious intent, negligence, credential abuse, and process vulnerability throughout the software development lifecycle. Artificial intelligence (AI)-inspired, agentic security strategies are increasingly suggested to enhance prevention and detection, but organizations have not yet a clear, decision-supportive approach to prioritize agentic mitigation practices in times of uncertainty. This paper aims to suggest and rank an agentic model of insider threats mitigation to secure software development companies based on the Fuzzy Analytic Hierarchy Process (Fuzzy AHP). Its main objectives include (i) organizing insider-threat mitigation into multi-level decision model, (ii) calculating priority weights of AI-directed agentic practices, and (iii) assisting actionable adoption choices of various insider-threat types. A systematic mapping study (SMS) was first carried out to investigate the state-of-the-art of insider threats in software development organization. The second phase involved performing an empirical survey among cybersecurity pro</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>575b26bd7b51811794885095ec398a62c85fbd84e40ae9f0231f9db1d59d48e1</guid>
+<pubDate>Thu, 13 Aug 2026 12:45:11 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
