@@ -4,36 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 13 Aug 2026 00:06:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 03:06:01 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 コンテナイメージの中身を見てみたら、Linuxそのものだった</title>
-<link>https://qiita.com/Horiiii/items/236dcfd414aa9ce9cb54</link>
-<guid>8bc2e651817e2675963dfde62dce98e291301510198e01ec8ee2d7b36ab8fa88</guid>
-<pubDate>2026-08-13T08:14:15+09:00</pubDate>
-<description>はじめに 「コンテナイメージって、技術的にはどうなってるの？」と思ったことはないでしょうか。 上司に勧めていただいたLinuxの研修を受けてみたところ、これまで何となく使っていた「コンテナイメージ」の実体が見えてきました！ この記事では、実際にPodmanでFedoraイ...</description>
+<title>【Qiita】 【IBM Bob &amp; Premium Package for i】IBM i 活用プロンプトガイド</title>
+<link>https://qiita.com/amogi23/items/fd91ddddf93057e562b5</link>
+<guid>51502d91b22d19072d4c4610884feed55e26b695d945beb8cfb4791bdcaa75e2</guid>
+<pubDate>2026-08-13T10:24:56+09:00</pubDate>
+<description>このドキュメントは、IBM Bob（以降、Bob）とPremium Package for iを組み合わせて使用する際のIBM Bobへのプロンプトの例をご紹介しています。Bobを目の前にして、「さて、どうしよう…」「どんなリクエストをすればいいんだろう？」と迷ってしまう方...</description>
+</item>
+<item>
+<title>【Qiita】 Microsoft セキュリティ更新プログラムリリース情報 - 2026 年 8 月</title>
+<link>https://qiita.com/niimim/items/d556cf35c18395972f85</link>
+<guid>919d344da8fcf132de9a8b01a1b4f6c852e706e5b1e612d8a9149402073c5ac6</guid>
+<pubDate>2026-08-13T10:54:08+09:00</pubDate>
+<description>Note: この記事は 2026年8月11日(太平洋標準時)に公開された Microsoft セキュリティ更新プログラムの概要をまとめたものです。 以下の製品群にフォーカスしたものとなっています。(主にデバイス管理者向け) ・各クライアントOS ( bitness は ...</description>
+</item>
+<item>
+<title>【Qiita】 AIに同じ質問をしたら、部署ごとに違う数字が返ってきた ― いま「オントロジー」と呼ばれているもの ―</title>
+<link>https://qiita.com/M_Ozu/items/346f6c8ab4b662a08f3e</link>
+<guid>9434f627944fd13db12fc3bc49235d57f88788cc34501d847593a72e4451a2b9</guid>
+<pubDate>2026-08-13T10:29:43+09:00</pubDate>
+<description>同じ質問を投げたのに、部署ごとに違う数字が返ってくる。しかも、どちらのAIも間違ってない。 生成AIを業務に入れた組織で、いま静かに起きている現象です。この記事では、その正体を解きほぐしたうえで、2025年くらいから主要ベンダーが揃って使い始めた「オントロジー」という言葉が...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code × Cursor × Notion、結局どう使い分ける？ ― 3ツール併用で開発速度が2倍になった構成図を公開</title>
+<link>https://qiita.com/hikariclaude01/items/a7fa78b5e3357746c83d</link>
+<guid>e6ee54851d931221465128964a474d691eb673eb4d796ea832102cb2f8472293</guid>
+<pubDate>2026-08-13T10:01:30+09:00</pubDate>
+<description>結論：「全部Claude Codeでよくない？」は半分正しく、半分間違い 『全部Claude Codeでよくない？』と思っていた時期が私にもありました。3ツールを併用して初めて見えた最適解を共有します。 結論から言うと、3ツールにはそれぞれ明確な「最も輝くフェーズ」があり...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/from-correctness-to-collaboration-a-human-centered-taxonomy-of-ai-agent-behavior-in-software-engineering/</link>
-<guid>0e006ddc9f16d04acd32add4a6a6b69fbc3ceceb90f479c02bb6e5d318942d37</guid>
-<pubDate>Thu, 13 Aug 2026 00:05:23 GMT</pubDate>
+<link>https://research.google/pubs/geo-contextual-ai-concierge-minimizing-internal-support-friction-through-proactive-knowledge-synthesis/</link>
+<guid>267de31c953b3dbdbeebdc715e45a8587511425a3e71d609b301487c4659278f</guid>
+<pubDate>Thu, 13 Aug 2026 03:05:27 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>e2f71870358342cd712e5a74c889bc8a9a05a4c683c8b82d2c60390dc3d30d79</guid>
+<pubDate>Thu, 13 Aug 2026 03:05:28 GMT</pubDate>
+<description>Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>0cefd2672fe6a2aed37bd4f3d1e15e798de221160ad51b2fd21d198df3445041</guid>
-<pubDate>Thu, 13 Aug 2026 00:05:26 GMT</pubDate>
+<guid>fae5fef5ad2167219da3c83aaf5639a80ad7d6c1ec65dc599e8d9d1c730a79cd</guid>
+<pubDate>Thu, 13 Aug 2026 03:05:30 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>d12e5afcdafd64da1a3d7cbb53d53d03bb447309ce24d25fc0f6623cc18889aa</guid>
-<pubDate>Thu, 13 Aug 2026 00:05:54 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-60531-9</link>
+<guid>ac024422c3481d54638bd20fb5aca20a3d96d0c4c6af31dbdfdf6083b67d9f1e</guid>
+<pubDate>Thu, 13 Aug 2026 03:05:32 GMT</pubDate>
+<description>This study presents an AI-powered talent chain management framework for supervised talent mobility prediction, with a particular focus on next-occupation classification from career histories. Given an individual’s chronologically ordered ESCO occupation-code sequence and job-title text sequence, the model predicts the ESCO occupation label corresponding to the next career transition. Existing transition-based and neural sequence models often rely on local occupational statistics or generic sequential representations, making it difficult to jointly capture structured occupational taxonomy information, job-title semantics, temporal career dynamics, and uncertainty in heterogeneous career records. To address these limitations, we propose an adaptive talent dynamics planner built upon a multi-agent modeling perspective. The framework integrates a constraint-driven workforce optimizer, an agent-based collaboration forecaster, and an uncertainty-aware mobility evaluator to represent talent states, occupational compatibility, collaboration-related dependencies, and risk-aware decision refinement. In the prediction model, ESCO-code embeddings and job-title text representations are fused in</description>
 </item>
 
 </channel>
