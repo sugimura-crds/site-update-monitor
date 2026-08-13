@@ -4,22 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 13 Aug 2026 21:35:34 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 22:31:37 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 Hosted Agents in Microsoft Foundry</title>
+<link>https://qiita.com/000604mai/items/f70015e7739088d43ed1</link>
+<guid>3ac3601d104e585984490b5ab837833555d4d6f76a948890a63d911732bfaeb8</guid>
+<pubDate>2026-08-14T07:09:09+09:00</pubDate>
+<description>Microsoft Build 2026でGAした Hosted Agentsの概要とまとめながら、 Hosted Agents 基盤の上にMicrosoft Agent Frameworkベースのエージェントをデプロイし、インフラの挙動やトレーシングを確認しました。 概...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェント・BI Snowflake Cortex Analyst vs Databricks AI BI：自然言語でデータ分析をする時代の勝者は？</title>
+<link>https://qiita.com/mellowlaunch/items/3b4e923e7dff0cf5a601</link>
+<guid>3fa2435e169257a892589f5876a11b75e04842af1716d4b93ed5543095544568</guid>
+<pubDate>2026-08-14T06:54:50+09:00</pubDate>
+<description>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 『ゼロから触ってわかった！ Snowflake × Databricks次世代データ基盤PoC実践 非公式...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/how-google-sres-use-gemini-cli-to-solve-real-world-outages/</link>
-<guid>e5c344b04ab1a72974e7276cee9c87908cf0592d29495408dd488cf4d1c479b5</guid>
-<pubDate>Thu, 13 Aug 2026 21:34:46 GMT</pubDate>
+<link>https://research.google/pubs/probabilistic-governance-and-telemetry-framework-for-autonomous-agents/</link>
+<guid>0c64825537c371412f7a7e26d4baeaa5a1b5d70adbd0fbe37335cb5c39fc6deb</guid>
+<pubDate>Thu, 13 Aug 2026 22:30:36 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>ff51581a288278c597d17faa6d12254100a08d6c61ff1b55dd8edf6795123cbf</guid>
-<pubDate>Thu, 13 Aug 2026 21:35:07 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>85c1d0cc767ed6395aa04abf15bf654c3b5361fe14bb1e9c378517d974a2e818</guid>
+<pubDate>Thu, 13 Aug 2026 22:30:38 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
 </channel>
