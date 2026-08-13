@@ -4,35 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 13 Aug 2026 22:31:37 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 23:32:19 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Hosted Agents in Microsoft Foundry</title>
-<link>https://qiita.com/000604mai/items/f70015e7739088d43ed1</link>
-<guid>3ac3601d104e585984490b5ab837833555d4d6f76a948890a63d911732bfaeb8</guid>
-<pubDate>2026-08-14T07:09:09+09:00</pubDate>
-<description>Microsoft Build 2026でGAした Hosted Agentsの概要とまとめながら、 Hosted Agents 基盤の上にMicrosoft Agent Frameworkベースのエージェントをデプロイし、インフラの挙動やトレーシングを確認しました。 概...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェント・BI Snowflake Cortex Analyst vs Databricks AI BI：自然言語でデータ分析をする時代の勝者は？</title>
-<link>https://qiita.com/mellowlaunch/items/3b4e923e7dff0cf5a601</link>
-<guid>3fa2435e169257a892589f5876a11b75e04842af1716d4b93ed5543095544568</guid>
-<pubDate>2026-08-14T06:54:50+09:00</pubDate>
-<description>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 『ゼロから触ってわかった！ Snowflake × Databricks次世代データ基盤PoC実践 非公式...</description>
+<title>【Qiita】 AIが実装・テストし品質保証する時代の変革とは</title>
+<link>https://qiita.com/syun136_616/items/e8b9cc2d8da8f16e8970</link>
+<guid>833f404bda9dc03203dda72dfd08e7f46d8544dcd7d03340d802bdaeaa82694b</guid>
+<pubDate>2026-08-14T08:21:34+09:00</pubDate>
+<description>この記事の要点 AIによる品質保証の流れには実装からテストまで含まれる。 AI導入には効率向上のメリットがあるが、課題も存在する。 適切な人材と教育が成功の鍵となる。 はじめに 近年、AI（人工知能）が私たちの日常のさまざまな業務に浸透していますが、特にソフトウェア開...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/probabilistic-governance-and-telemetry-framework-for-autonomous-agents/</link>
-<guid>0c64825537c371412f7a7e26d4baeaa5a1b5d70adbd0fbe37335cb5c39fc6deb</guid>
-<pubDate>Thu, 13 Aug 2026 22:30:36 GMT</pubDate>
+<link>https://research.google/pubs/gaze-target-estimation-anywhere-with-concepts/</link>
+<guid>4dd99ee38ad11e3c9e48edb5fe809b99252783a68e30c864690085414d422d14</guid>
+<pubDate>Thu, 13 Aug 2026 23:31:17 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>85c1d0cc767ed6395aa04abf15bf654c3b5361fe14bb1e9c378517d974a2e818</guid>
-<pubDate>Thu, 13 Aug 2026 22:30:38 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
 </channel>
