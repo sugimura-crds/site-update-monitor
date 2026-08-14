@@ -4,28 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 14 Aug 2026 11:37:25 GMT</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 12:42:38 GMT</lastBuildDate>
 
 <item>
-<title>【自動自律実験】 Einstein the musician, AI prophets and more: Books in brief</title>
-<link>https://www.nature.com/articles/d41586-026-02504-6</link>
-<guid>b84266971bd0de25678f31663bc81286c78ef3c1dd0360aa17f1f0d4ff0581fb</guid>
-<pubDate>2026-08-14</pubDate>
-<description>Andrew Robinson reviews five of the best science picks.</description>
+<title>【Qiita】 コラム：ペルソナプロンプトの箱庭設計とは</title>
+<link>https://qiita.com/otoyo0318/items/411f8f3d4813f66c3af9</link>
+<guid>b9080383d0e0cdbe06bb09429d0389a2137d66f7bf9612ce93e7010b5185b11f</guid>
+<pubDate>2026-08-14T21:28:55+09:00</pubDate>
+<description>1. はじめに 今回はLLM記述構文&quot;MARI&quot;シリーズの記事中で取り上げた話題の補足として投稿します。 今回のお題目は、ペルソナ設計においての箱庭設計についてとなります。 これまでLLM記述構文&quot;MARI&quot;の記事においてのエージェント(ペルソナ)は変数による物理シード...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/learning-from-attribution-sets/</link>
-<guid>3a5ec9dfaf63f29ab7abe9ab2b8f0163cf2ce861f9a75c722ef9b2bf37df1d79</guid>
-<pubDate>Fri, 14 Aug 2026 11:36:38 GMT</pubDate>
+<link>https://research.google/pubs/multi-modal-multi-agent-robotic-cognitive-alignment-enabled-by-non-invasive-consumer-brain-computer-interfaces-a-proof-of-concept-exploration/</link>
+<guid>304d01f52278a4dcbd81d9ec4ad6ffa420c6dd18cb9de5ed8114f803c33792fa</guid>
+<pubDate>Fri, 14 Aug 2026 12:41:32 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>423d223c6ce6ef1a07a2267bdc52ca44160b0397f792bdb5baa5d2bc8b256129</guid>
-<pubDate>Fri, 14 Aug 2026 11:36:41 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
 </channel>
