@@ -4,78 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 14 Aug 2026 03:34:03 GMT</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2026 05:25:27 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Podmanで覗くコンテナイメージ</title>
-<link>https://qiita.com/Horiiii/items/865724808681f4b3ff72</link>
-<guid>34d95c4236f6ed6815df69be266955f3848f47e7505a5c49881bf9ea30e503f1</guid>
-<pubDate>2026-08-14T10:15:39+09:00</pubDate>
-<description>はじめに コンテナは単なる「アプリを入れた箱」ではありません。 コンテナイメージには、 レイヤー構造 イメージ名の解決（URL解決） OSライブラリやパッケージ といった仕組みが含まれています。この記事では Podmanを使いながら、コンテナイメージの内部構造を実際に...</description>
+<title>【Qiita】 (QA) IBM Bob でShift JIS のファイルを読めますか？</title>
+<link>https://qiita.com/gomAnomalocaris/items/b896758a7d3f8425126a</link>
+<guid>f16f07ad64813d00b5cb05023c2aa7be7caddab69b5818030a4a8fd74814a291</guid>
+<pubDate>2026-08-14T14:17:08+09:00</pubDate>
+<description>BobでShift-Jisのファイルを読めますか？ 読めます。（推奨はUTF-8エンコード、とされていますけど。） S-JISファイルをデフォルトで開くと、ファイルをUTF-8エンコードするので、こんな感じになります。 ので、右下の、UTF-8 を目ざとく見つけてクリッ...</description>
 </item>
 <item>
-<title>【Qiita】 VSCodeのClaude拡張が起動のたびに落ちる。履歴もメモリも捨てずに直した話</title>
-<link>https://qiita.com/ntaka329/items/313a78b5c9d4aa4ecb67</link>
-<guid>c59f44a3bc9cc903846528ff629736d52574836e5310140cd85f87938d374bf4</guid>
-<pubDate>2026-08-14T12:00:54+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 あるフォルダをVSCodeで開くと、Claudeのサイドバーが表示されないまま Extension host terminated unexpectedly 3 times within the last 5 minutes が出るよ...</description>
+<title>【Qiita】 IBM Verify のチャットボット連携 - IBM Bobを活用して設定してみた</title>
+<link>https://qiita.com/ogawa_to/items/f705cfd8c42ff4c7132f</link>
+<guid>2cb731665d0667543a0c73a089d1a3db0f8c55b5db85103107927f7efd2be08e</guid>
+<pubDate>2026-08-14T13:24:25+09:00</pubDate>
+<description>はじめに IBM Verify の Developer Guides にはチャットボット連携ガイド（Chat bot integration patterns）があります。チャットで「パスワードをリセット」と入力すると、OTP（ワンタイムパスワード）をメールか SMS で...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントでdocxを読み解くためのDocker環境構築</title>
-<link>https://qiita.com/hiroyuki_onaka/items/0cd17ea42873a6d25fec</link>
-<guid>5c4d9d3ce35a615c3825b3166e448a183f3e054f88dc9e1761714ae511fcc8fc</guid>
-<pubDate>2026-08-14T12:08:17+09:00</pubDate>
-<description>はじめに GxPの大中です。 グロースエクスパートナーズグループのリレーブログ企画5日目です。 前回の記事は読書だけでは分からなかった、PMOを経験して腹落ちした3つの学び でした。 まだご覧になっていない方は、ぜひそちらもチェックしてみてください！ 大規模プロジェクトで...</description>
+<title>【Qiita】 【ぼくのなつやすみ②】生成AIに「いつもと違う視点」で探してもらったらアイデアは変わるのか？</title>
+<link>https://qiita.com/manaty/items/ba4182242ee42f5d1e85</link>
+<guid>fc8fea2163610f825f5ae1f0001d77f836105cf7939095ec6000648e9981a2c3</guid>
+<pubDate>2026-08-14T13:18:05+09:00</pubDate>
+<description>はじめに こんにちは、マナティです！ 前回は明石市立天文科学館で「時間」の話をしました。 実はその日、明石の後に神戸まで足を延ばして、劇場型アクアリウム「átoa」にも行ってきました。 átoaに行ってきたぞい átoaは2021年にオープンした神戸の港にあ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude CodeとCodexへの作業指示を「7項目テンプレ」に固定したら差し戻しループが消えた（コピペ用テンプレ付き）</title>
-<link>https://qiita.com/smallworkslab/items/2792443780c19847ee17</link>
-<guid>4e9114b27d0da66a814727c5b156c7c9508d702e1a4c33a0e76f826287a87921</guid>
-<pubDate>2026-08-14T11:42:38+09:00</pubDate>
-<description>元記事はZennに投稿したものです。この記事はその実用部分をQiita向けに再構成しています。 「いい感じに直して」で公開済み記事を3本壊した 私は小さな副業の運営を、Claude CodeとCodexの2体のAIエージェントに任せる実験を続けています。指揮官役のCl...</description>
+<title>【Qiita】 データ収集におすすめのMCPツール5選｜Webスクレイピング・検索・ブラウザ操作を比較</title>
+<link>https://qiita.com/Octoparse_Japan/items/b45436ab9fec4eeac664</link>
+<guid>50626498dc56d552f158cc917e06120bd0308c902afda0a43670ab1ae0e32437</guid>
+<pubDate>2026-08-14T13:12:17+09:00</pubDate>
+<description>MCPツールとは、AIエージェントから外部サービスの機能やデータを共通の方法で呼び出すための接続手段です。Webデータ収集向けのMCPツールを選ぶ際は、単に「ページを開けるか」ではなく、構造化データを取得したいのか、本文をMarkdown化したいのか、ブラウザを操作したいの...</description>
 </item>
 <item>
-<title>【Qiita】 RAGをマルチエージェント化する設計パターン — どう分けて、どう実装するか</title>
-<link>https://qiita.com/made_in_jp2525/items/6e895d589d606f3d264a</link>
-<guid>ffcb8b4f52c6760bb383d1065e20d217e16c4dfea196aa2f02df4d66c64a63fe</guid>
-<pubDate>2026-08-14T11:41:56+09:00</pubDate>
-<description>はじめに RAG（Retrieval-Augmented Generation）を実運用に載せていくと、単一のエージェント（「検索して→生成する」の1本道パイプライン）ではすぐに限界が見えてきます。 検索対象のドメインが増えるほど、1つのプロンプト・1つのツールセットに...</description>
+<title>【Qiita】 Harness Engineeringとは何か？AIエージェントの性能を決める「実行環境」の設計</title>
+<link>https://qiita.com/Hideki-T/items/295d3c41840e646b591e</link>
+<guid>48deadd435adfaef251046b061547a94394df019b3a4725b208daef477fc7261</guid>
+<pubDate>2026-08-14T13:12:04+09:00</pubDate>
+<description>Harness Engineeringとは何か？AIエージェントの性能を決める「実行環境」の設計 はじめに 前回の記事では、AIエージェントの能力がモデルだけで決まるわけではなく、Harness EngineeringとLoop Engineeringという2つの視点が...</description>
 </item>
 <item>
-<title>【Qiita】 NVIDIA NOOA 実機検証: sync def の ... は None を返す</title>
-<link>https://qiita.com/kai_kou/items/4d2cb6aceb60f613919f</link>
-<guid>d75960bb9967cc26df9def4318a1228abb47e9446c6b18d704c5bcd694053052</guid>
-<pubDate>2026-08-14T12:08:22+09:00</pubDate>
-<description>TL;DR NVIDIA が公開した NOOA（NVIDIA-labs OO Agents） は、Python のクラスをそのままエージェントにするフレームワークです。メソッド本体を ... にすると、その1メソッドだけが実行時に LLM へ渡されます。 pip in...</description>
+<title>【Qiita】 AIエージェントで本当に重要なのはLLMではない？Harness EngineeringとLoop Engineeringから考える次世代AI開発</title>
+<link>https://qiita.com/Hideki-T/items/61c10371c677ebedf530</link>
+<guid>bf83d2f12698848dce3f56c07d526547340f79ebf2d497c732864fa4cf527faa</guid>
+<pubDate>2026-08-14T12:39:21+09:00</pubDate>
+<description>AIエージェントで本当に重要なのはLLMではない？Harness EngineeringとLoop Engineeringから考える次世代AI開発 はじめに AIエージェントについて調べていると、まず目に入ってくるのはLLMの性能です。 どのモデルが一番賢いのか。GPT...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/who-is-at-risk-surveying-the-prevalence-of-risk-factors-and-tech-facilitated-attacks-in-the-united-states/</link>
-<guid>a87b49a43a5671df48ebd2a30b9a2de3b98b297281bca462d2180d2a8469c83a</guid>
-<pubDate>Fri, 14 Aug 2026 03:33:27 GMT</pubDate>
+<link>https://research.google/pubs/ai-is-not-the-new-a-diagnostic-analogy-framework-for-generative-ais-cultural-impacts/</link>
+<guid>7b907e08695f20ffdadfe41c60c6740bd58e79ceb18a22c35c1d8f00f9f17500</guid>
+<pubDate>Fri, 14 Aug 2026 05:24:38 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>aa64ce22b32d1395e60462308067b5c207479d52f2549ce39412b92157727928</guid>
-<pubDate>Fri, 14 Aug 2026 03:33:31 GMT</pubDate>
+<guid>bd906f9b6cc7648ed6a4a6e0e4295969ee6e8651a9134fb39dd039d218631417</guid>
+<pubDate>Fri, 14 Aug 2026 05:24:40 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>a6877d37019a4703f823a76c351b6dfa8843b7f7ca6dc089307acdc802f9f9dc</guid>
-<pubDate>Fri, 14 Aug 2026 03:33:33 GMT</pubDate>
-<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>f066b3f7e23aac8313a1ae127a710e65a548f209685ed98d5f53e05131c07c7e</guid>
-<pubDate>Fri, 14 Aug 2026 03:33:46 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
