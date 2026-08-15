@@ -4,21 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 15 Aug 2026 04:34:59 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 05:17:12 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 自律型AIエージェントからの支払いを得よう！！</title>
-<link>https://qiita.com/eyepyon/items/0665686a3a3e635b7b1d</link>
-<guid>536becb1c9b3ed0782773291b154d6f29a5a465af79c585e6fe1d65b928188fa</guid>
-<pubDate>2026-08-15T13:33:08+09:00</pubDate>
-<description>こんにちは。 昨今、LLMの進化により「自律型AIエージェント」がタスクを自動実行するようになりましたが、彼らはまだ「物理的な世界での拠点（住所）」を持っていません。 そこで今回は、「AIエージェント自身がSolana決済を行い、自分の意志でオフラインのバーチャルオフィスの...</description>
+<title>【Qiita】 AIに演技をさせないユーザーテストを作ったら、同じサイトが43秒と2分27秒に分かれた。</title>
+<link>https://qiita.com/tokyosini573/items/85ba4eec246a83c2aa33</link>
+<guid>daebf8696f034b5d0d1b95dd9e6f23fb4f947c6eadfd930f90e93939887b1101</guid>
+<pubDate>2026-08-15T13:44:31+09:00</pubDate>
+<description>こんにちは。今回、AI HACK 2026ハッカソンに出場したteamKです。 私たちは今回のハッカソンで、「ツマヅキ」というデモサービスを皆さんにご紹介したいと思います。 私たちのプロダクトを一言で表現すると、以下のようになります。 演技ではなく、制約を。 「使いにくい...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/in-search-of-weird-corners-diagnosing-the-limits-of-convergent-ai-in-professional-creative-practice/</link>
-<guid>030cca244a521e3381612a7c3eb62365d82e952e8de1aa126970eaaa9b3737ce</guid>
-<pubDate>Sat, 15 Aug 2026 04:34:26 GMT</pubDate>
+<link>https://research.google/pubs/a-theoretical-framework-for-statistical-evaluability-of-generative-models/</link>
+<guid>f47738167bb8499e1494400b1dbf3d0ea420600f92b947e4034473cc1bfa579a</guid>
+<pubDate>Sat, 15 Aug 2026 05:16:14 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>b2d42aa5aa3cfe8fd6320cf2bfef0d2722ce3c48c6dc574fb28c0487d63c917b</guid>
+<pubDate>Sat, 15 Aug 2026 05:16:16 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
 </channel>
