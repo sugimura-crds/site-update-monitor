@@ -4,21 +4,36 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 15 Aug 2026 10:45:46 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 11:11:20 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 あなたのエージェントは、なぜ cron を止めると止まるのか</title>
-<link>https://qiita.com/dosanko_tousan/items/21060e62ee1b004e0653</link>
-<guid>d27b0a346e29624a896055d06526a53e42cb9f111b6ce14888ebf83ea910f9c4</guid>
-<pubDate>2026-08-15T19:23:31+09:00</pubDate>
-<description>あなたのエージェントは、なぜ cron を止めると止まるのか AGI に足りていないのは知能ではなく「賭け金」かもしれない、という仮説と、その反証条件 自律エージェントを組んだことがある人なら、一度は気づいていると思う。 メモリを持たせた。ツールを繋いだ。長期目標を分...</description>
+<title>【Qiita】 オントロジーは本当に「バラバラを一つにする」道具か、自分の理論と突き合わせてみた</title>
+<link>https://qiita.com/MotimotiNotch/items/1bca6db0ca4adc7e990e</link>
+<guid>354095b51b40a2dffcfbb468a0e1fa4d8cf1565504c2d3ba3a73e7163bf53331</guid>
+<pubDate>2026-08-15T19:44:57+09:00</pubDate>
+<description>要約: 「AIに同じ質問をしたら、部署ごとに違う数字が返ってきた」という記事を読んで、自分が個人開発しているAI人格システムの実装ログを見返してみた。すると同じ形の道具（「これとこれは別物だ」という制約）を、真逆の目的のために先に実装していたことに気づいた。企業のオントロ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/sac133-ssac-comments-on-proposed-root-ksk-algorithm-rollover/</link>
-<guid>e273a0126eb24288d293398668da1f44ea4d592404c10659a13c7108daa0f033</guid>
-<pubDate>Sat, 15 Aug 2026 10:44:46 GMT</pubDate>
+<link>https://research.google/pubs/tight-lower-bound-for-multicolor-discrepancy/</link>
+<guid>b958a09104070839cf8b3e4ec16badb31fd653683849a4e156e1817dd0444a95</guid>
+<pubDate>Sat, 15 Aug 2026 11:10:39 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>5b305c1dac9bb4f3cb998f7b770504e322d716920b901498fb0b7fe492646f0d</guid>
+<pubDate>Sat, 15 Aug 2026 11:10:42 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>77a945252222951299bf33c0a439cb52e3bdfb33c0aeecda122b01c7e50238f4</guid>
+<pubDate>Sat, 15 Aug 2026 11:11:03 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
