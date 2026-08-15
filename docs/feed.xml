@@ -4,35 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 15 Aug 2026 00:40:35 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 02:08:49 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントの評価（Evaluation）設計入門</title>
-<link>https://qiita.com/Hideki-T/items/cc6a1f3af1ae64c9226b</link>
-<guid>369d3e01b1efc9460d7a1b05a25b95c8033d745bef1d8315e751e38bc50f9130</guid>
-<pubDate>2026-08-15T09:25:38+09:00</pubDate>
-<description>はじめに これまでの記事で、AIエージェントの実力はHarness（実行環境）とLoop Engineering（改善のループ）の掛け算で決まる、という話をしてきました。 そのLoopの中で、実は一番地味だけれど一番effectiveなのがEvaluationです。何をも...</description>
-</item>
-<item>
-<title>【Qiita】 Loop Engineeringとは何か？AIエージェントを「失敗から改善するシステム」に変える方法</title>
-<link>https://qiita.com/Hideki-T/items/e148652da152f39aa0bf</link>
-<guid>a1272b5686c6d04607161a64e700fb03fdf5555ec8a2d7f012d9b0df0fb2d67d</guid>
-<pubDate>2026-08-15T09:20:44+09:00</pubDate>
-<description>はじめに 前々回の記事で、AIエージェントの能力はモデルだけでなく、Harness EngineeringとLoop Engineeringという2つの視点で決まる、という話をしました。前回はそのうちのHarness Engineeringを深掘りしました。 今回はもう一...</description>
-</item>
-<item>
-<title>【Qiita】 OpenCodeのplanモード、read-onlyは権限ルールだけで作られていた</title>
-<link>https://qiita.com/kai_kou/items/cec412944cb04e8f0dc9</link>
-<guid>4c0aeeedada81de71a967a8975f6f0110c28eee291f15d01e8cf70b5567b3f54</guid>
-<pubDate>2026-08-15T09:07:47+09:00</pubDate>
-<description>はじめに 対象読者は、OpenCode を「読み取り専用で回す運用」に組み込みたい開発者です。 plan エージェントの説明文には Plan mode. Disallows all edit tools.（編集ツールをすべて禁止する）と書かれています。この一文を素直に読む...</description>
+<title>【Qiita】 LLM Wikiで自分のトリセツを作ってみた</title>
+<link>https://qiita.com/java_wocky/items/92cad7e3e8f3ef000f9a</link>
+<guid>b484fc4e21193c5e12ca0696ec2f8e74c07687ec4f4b8d23ebf9d6cb116342ae</guid>
+<pubDate>2026-08-15T10:59:34+09:00</pubDate>
+<description>LLMによる知識管理の方法として、最近注目を浴びている「LLM Wiki」。既存のRAGやGraph RAG、構造化データとは一線を画する斬新な構造が特徴です。今回はそんなLLM Wikiを使って、自分の価値観や好き嫌いをまとめた取り扱い説明書、いわゆる「トリセツ」を作って...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/confusable-characters-as-endangered-language-markers-the-case-of-north-caucasus-writing-systems/</link>
-<guid>0b3cd71bbff44ecefdd79c4f100c27f07ec75002ab603771e4132f02e4299d30</guid>
-<pubDate>Sat, 15 Aug 2026 00:39:34 GMT</pubDate>
+<link>https://research.google/pubs/learning-from-equivalence-queries-revisited/</link>
+<guid>c87978dc915104bba42c07577421cf1e790dee878d09d534161a7a46b084aa5d</guid>
+<pubDate>Sat, 15 Aug 2026 02:08:01 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>f111ffdb7a0c44429400718d2728165896d7d2a0d9a803a4a18f59b1fda9b2c7</guid>
+<pubDate>Sat, 15 Aug 2026 02:08:04 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>a671e51adfce472d67df6494a180ec23f627cdf712a92332041009a2976e9ccc</guid>
+<pubDate>Sat, 15 Aug 2026 02:08:07 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-64146-y</link>
+<guid>8f0fc65416849d33f219ce44dd7c5a26afed1297a4bea17706cab7ea74caec6f</guid>
+<pubDate>Sat, 15 Aug 2026 02:08:10 GMT</pubDate>
+<description>Insider threats continue to be a vexed and complicated risk in secure software development (SSD) organizations due to their origin in combination of malicious intent, negligence, credential abuse, and process vulnerability throughout the software development lifecycle. Artificial intelligence (AI)-inspired, agentic security strategies are increasingly suggested to enhance prevention and detection, but organizations have not yet a clear, decision-supportive approach to prioritize agentic mitigation practices in times of uncertainty. This paper aims to suggest and rank an agentic model of insider threats mitigation to secure software development companies based on the Fuzzy Analytic Hierarchy Process (Fuzzy AHP). Its main objectives include (i) organizing insider-threat mitigation into multi-level decision model, (ii) calculating priority weights of AI-directed agentic practices, and (iii) assisting actionable adoption choices of various insider-threat types. A systematic mapping study (SMS) was first carried out to investigate the state-of-the-art of insider threats in software development organization. The second phase involved performing an empirical survey among cybersecurity pro</description>
 </item>
 
 </channel>
