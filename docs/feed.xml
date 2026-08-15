@@ -4,36 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 14 Aug 2026 23:44:33 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 00:40:35 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AI coding agentは、なぜ毎回リポジトリを調べ直すのか ― Repository理解を使い捨てにしない設計</title>
-<link>https://qiita.com/R2-san/items/67e3e5b264f3eec251ec</link>
-<guid>f9b554c1eaee432b5e2eb5a7b0e64012801a0edb0dee6b6736937cb7e9d82106</guid>
-<pubDate>2026-08-15T08:36:30+09:00</pubDate>
-<description>Claude Code、Codex、Cursorなど、AI coding agentにRepository単位の作業を任せる機会が増えてきました。 最近のAIはかなり優秀です。 「この不具合を調査して修正して」 「この機能を追加して」 「関連するテストまで直して」 と依頼す...</description>
+<title>【Qiita】 AIエージェントの評価（Evaluation）設計入門</title>
+<link>https://qiita.com/Hideki-T/items/cc6a1f3af1ae64c9226b</link>
+<guid>369d3e01b1efc9460d7a1b05a25b95c8033d745bef1d8315e751e38bc50f9130</guid>
+<pubDate>2026-08-15T09:25:38+09:00</pubDate>
+<description>はじめに これまでの記事で、AIエージェントの実力はHarness（実行環境）とLoop Engineering（改善のループ）の掛け算で決まる、という話をしてきました。 そのLoopの中で、実は一番地味だけれど一番effectiveなのがEvaluationです。何をも...</description>
+</item>
+<item>
+<title>【Qiita】 Loop Engineeringとは何か？AIエージェントを「失敗から改善するシステム」に変える方法</title>
+<link>https://qiita.com/Hideki-T/items/e148652da152f39aa0bf</link>
+<guid>a1272b5686c6d04607161a64e700fb03fdf5555ec8a2d7f012d9b0df0fb2d67d</guid>
+<pubDate>2026-08-15T09:20:44+09:00</pubDate>
+<description>はじめに 前々回の記事で、AIエージェントの能力はモデルだけでなく、Harness EngineeringとLoop Engineeringという2つの視点で決まる、という話をしました。前回はそのうちのHarness Engineeringを深掘りしました。 今回はもう一...</description>
+</item>
+<item>
+<title>【Qiita】 OpenCodeのplanモード、read-onlyは権限ルールだけで作られていた</title>
+<link>https://qiita.com/kai_kou/items/cec412944cb04e8f0dc9</link>
+<guid>4c0aeeedada81de71a967a8975f6f0110c28eee291f15d01e8cf70b5567b3f54</guid>
+<pubDate>2026-08-15T09:07:47+09:00</pubDate>
+<description>はじめに 対象読者は、OpenCode を「読み取り専用で回す運用」に組み込みたい開発者です。 plan エージェントの説明文には Plan mode. Disallows all edit tools.（編集ツールをすべて禁止する）と書かれています。この一文を素直に読む...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/optimized-deferral-for-imbalanced-settings/</link>
-<guid>206f0ac7a50316c91d28f155024140de35c064fc662d771f9abd012cdb9244f6</guid>
-<pubDate>Fri, 14 Aug 2026 23:43:53 GMT</pubDate>
+<link>https://research.google/pubs/confusable-characters-as-endangered-language-markers-the-case-of-north-caucasus-writing-systems/</link>
+<guid>0b3cd71bbff44ecefdd79c4f100c27f07ec75002ab603771e4132f02e4299d30</guid>
+<pubDate>Sat, 15 Aug 2026 00:39:34 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>431f9c9f9b927b2c0a055e5b00183ee22677b69a980819bbadab1358f7860783</guid>
-<pubDate>Fri, 14 Aug 2026 23:44:01 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>66fc5e3e731f2ab7c238aae4544c1c112b794af1ae56caec9a83d144b4bae86c</guid>
-<pubDate>Fri, 14 Aug 2026 23:44:15 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
