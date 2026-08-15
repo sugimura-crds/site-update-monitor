@@ -4,36 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 15 Aug 2026 12:18:32 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 13:05:35 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Context Engineeringとは何か？AIエージェントに「何を見せるか」を設計する</title>
-<link>https://qiita.com/Hideki-T/items/39818672d84e104b1468</link>
-<guid>2820e10cfc36d0bafb94714787d457789dde8b7556cda44aa1cbddbf3730b954</guid>
-<pubDate>2026-08-15T21:10:55+09:00</pubDate>
-<description>はじめに これまでの記事で、AIエージェントの実力はHarness、Loop、Evaluationという仕組みの組み合わせで決まる、という話をしてきました。 今回はもう一つ、地味なようでいて実は結果を大きく左右するテーマ、Context Engineeringを取り上げま...</description>
-</item>
-<item>
-<title>【Qiita】 AIレビューの「問題ありません」を疑えているか ― LLMの迎合(sycophancy)を人間側が検出できるかを測るテストとその設計を公開</title>
-<link>https://qiita.com/777atsushi/items/e28e567b1945e8d44400</link>
-<guid>a10760fe222896d6deda252e3f76786e4725d5d639f935f53280a140d36380cc</guid>
-<pubDate>2026-08-15T20:41:03+09:00</pubDate>
-<description>この記事でわかること LLMの迎合(sycophancy)には型があり、型によって人間の検出率が大きく違う 既存の迎合ベンチマークはすべてモデル側を測っており、人間側の検出能力は測られていない それを測るWebテストを作って公開した(所要10分・登録不要) テストの設計...</description>
+<title>【Qiita】 AIエージェントのTool Engineering入門</title>
+<link>https://qiita.com/Hideki-T/items/7e0d34af7b6d029c0f56</link>
+<guid>71726741d8dc02c1ef22048dfae8f8839ab4dc94cf24a1b028fb8389787144d1</guid>
+<pubDate>2026-08-15T21:56:21+09:00</pubDate>
+<description>はじめに これまでの記事で、Harness、Loop Engineering、Evaluation、Context Engineeringと、AIエージェントを支える仕組みを一つずつ見てきました。 今回はAIエージェントが実際に行動を起こすための手段、Toolについて掘り...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/surfacexr-fusing-smartwatch-imus-and-ego-centric-hand-pose-for-seamless-surface-interactions/</link>
-<guid>5894e331a83cd2c4efd572ae56f63f6730223eb25677c064cade87e464088024</guid>
-<pubDate>Sat, 15 Aug 2026 12:17:48 GMT</pubDate>
+<link>https://research.google/pubs/scaling-telemetry-to-terabytes-applying-googles-principles-to-opentelemetry-with-opamp/</link>
+<guid>87ba4a740ec1cc4398f5f9cfd058d49f46bf67ea5a1638c34fdfc22e4a83e15f</guid>
+<pubDate>Sat, 15 Aug 2026 13:04:59 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>553097571a1a42e31af8673015ec3f9eb2dd6c9021fb5dfd7617cf0315b372ad</guid>
-<pubDate>Sat, 15 Aug 2026 12:18:15 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>b8cb92da92e806c92bb936bfb246d5c49d2f01c675855e861b79d1dda78de7d4</guid>
+<pubDate>Sat, 15 Aug 2026 13:05:02 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>bdd4190b7a3191bcf8c0cd88a596ecdfff97b8e7ae439a3c3739e3c6ddeea13b</guid>
+<pubDate>Sat, 15 Aug 2026 13:05:26 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
