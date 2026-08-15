@@ -4,21 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 15 Aug 2026 03:10:56 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Aug 2026 04:01:21 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 レガシーPythonのデッドコードもASTで完全解析。シニアエンジニアが数週間の不安を数分で消す</title>
+<link>https://qiita.com/TOAI/items/d2406da640899ea3f177</link>
+<guid>e7519e274cb910c704f06b967f86d5315106e55020081d02f5cc666b26b5ccd2</guid>
+<pubDate>2026-08-15T10:51:09+09:00</pubDate>
+<description>Enterprise Python AST-Driven Dead Code &amp; Dependency Drift Purge Engine 数百万行のレガシーなPythonモノリスで「消してはいけない関数」を誤認し、本番環境をクラッシュさせた苦い経験はないだろうか。 こ...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/agentic-trend-to-knowledge-a-methodology-for-automating-case-deflection-through-proactive-content-surfacing-in-enterprise-employee-support/</link>
-<guid>6b81dc6ff8faac2d5e2520b058f128c983e533aebd7fd7a97911ce39555a6dfc</guid>
-<pubDate>Sat, 15 Aug 2026 03:09:50 GMT</pubDate>
+<link>https://research.google/pubs/stochastic-linear-bandits-with-parameter-noise/</link>
+<guid>e72978b8c7a5e71b37b6fa75d83726b80d1c55217a1d56a33c192d45deb28351</guid>
+<pubDate>Sat, 15 Aug 2026 04:00:20 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>790b8b074a453f7f2b6eebeb479f5bee1bc8861c52e0b5b9b3be5875c9cef4a3</guid>
-<pubDate>Sat, 15 Aug 2026 03:09:57 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>77552c6b4fd75242e8ef579fb2b958089449e87cc7cb5e5f45b11d2b531f43e3</guid>
+<pubDate>Sat, 15 Aug 2026 04:00:22 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
 </channel>
