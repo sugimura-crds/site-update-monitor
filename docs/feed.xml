@@ -4,20 +4,20 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 16 Aug 2026 12:20:05 GMT</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 13:07:35 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 エージェントに AWS の鍵を渡さず AWS を叩かせる方法</title>
-<link>https://qiita.com/ryoji9702/items/8fdef34e0a55e7f4d558</link>
-<guid>15f3fab9b689eb941ee76867eb048fa4db9ffd53347243808bfef1b0ca93d173</guid>
-<pubDate>2026-08-16T21:07:14+09:00</pubDate>
-<description>はじめに AI コーディングエージェントに aws s3 ls を叩かせたい、という場面は珍しくありません。ところがその瞬間、こちらは二択を迫られます。 渡す: AWS_SECRET_ACCESS_KEY を環境変数のまま子プロセスに継承させる。動くけれど、エージェン...</description>
+<title>【Qiita】 オントロジー × グラフ × LLM の実装と評価（基礎編）</title>
+<link>https://qiita.com/haystacker/items/853234c38ae36adbca1f</link>
+<guid>74e4929edcd4a4b93540a63a2dff1ae2b7c9af2761a5472ec2026366ffdc56c4</guid>
+<pubDate>2026-08-16T21:27:23+09:00</pubDate>
+<description>このチュートリアルでは、プレーン RAG とオントロジー併用 RAG を同じ評価セットで比較し、精度差がどこから生じるのか（特に、正解情報の被覆範囲の違い）を確認します。そのうえで、質問の種類に応じて RAG 方式を切り替えるルーターを構築します。 LLM は OpenAI...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/reasoning-driven-synthetic-data-generation-and-evaluation/</link>
-<guid>a1d31d7b4bd9c6996428b9a07a823846f9d3e81d86343563fec2977f695cbebe</guid>
-<pubDate>Sun, 16 Aug 2026 12:19:05 GMT</pubDate>
+<link>https://research.google/pubs/window-size-versus-accuracy-experiments-in-voice-activity-detectors/</link>
+<guid>59f7548871f3d6b55e959fabab01573da6203afc99fa98c79dd2b725b79fa701</guid>
+<pubDate>Sun, 16 Aug 2026 13:06:56 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 
