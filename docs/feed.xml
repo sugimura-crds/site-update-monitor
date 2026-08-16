@@ -4,28 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 16 Aug 2026 11:42:19 GMT</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 12:20:05 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 lightning/accApiでLWCからAgentforceパネルを制御する実装手順まとめ</title>
-<link>https://qiita.com/ubakichi_sr_mc_ai_06/items/629db6fd2784fc66d237</link>
-<guid>cd26ff4037ec3a9dea9d4feb48f51d48a01121e1a71244162b11d52ab604da46</guid>
-<pubDate>2026-08-16T20:37:30+09:00</pubDate>
-<description>はじめに LWCコンポーネントからlightning/accApiを呼び出すと、画面右のAgentforceパネルをコードで開閉したり、自然言語の指示を送ったりできます。 この記事では、Summer &#x27;26のリリースで改めて紹介されたこのモジュールを使って、実際にコンポー...</description>
+<title>【Qiita】 エージェントに AWS の鍵を渡さず AWS を叩かせる方法</title>
+<link>https://qiita.com/ryoji9702/items/8fdef34e0a55e7f4d558</link>
+<guid>15f3fab9b689eb941ee76867eb048fa4db9ffd53347243808bfef1b0ca93d173</guid>
+<pubDate>2026-08-16T21:07:14+09:00</pubDate>
+<description>はじめに AI コーディングエージェントに aws s3 ls を叩かせたい、という場面は珍しくありません。ところがその瞬間、こちらは二択を迫られます。 渡す: AWS_SECRET_ACCESS_KEY を環境変数のまま子プロセスに継承させる。動くけれど、エージェン...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/you-have-been-selected-as-the-winner-characterizing-user-reported-scams-on-tiktok/</link>
-<guid>e72521a22c2124641b0e02cb2b8439f54c16b52f64c78e58ede55d1bec2555d4</guid>
-<pubDate>Sun, 16 Aug 2026 11:41:42 GMT</pubDate>
+<link>https://research.google/pubs/reasoning-driven-synthetic-data-generation-and-evaluation/</link>
+<guid>a1d31d7b4bd9c6996428b9a07a823846f9d3e81d86343563fec2977f695cbebe</guid>
+<pubDate>Sun, 16 Aug 2026 12:19:05 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>6bbc561abcf08fa0643f9cd91de7ad45545a8dcc336c37baa0be9dc0938d4814</guid>
-<pubDate>Sun, 16 Aug 2026 11:41:48 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
