@@ -4,28 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 16 Aug 2026 23:11:50 GMT</lastBuildDate>
+<lastBuildDate>Sun, 16 Aug 2026 23:41:22 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 証明書の更新検証用に Postfix + Dovecot メールサーバーを立てる（RHEL on IBM Power）</title>
+<link>https://qiita.com/c_u/items/5952b7e5e593a686820f</link>
+<guid>58cedf943f931fbc05db0375d8872c3965edbc52c11d869bd7013034bcd25430</guid>
+<pubDate>2026-08-17T08:27:43+09:00</pubDate>
+<description>はじめに RHEL on IBM Power 環境において、SMTP サーバーとして Postfix、IMAP サーバーとして Dovecot を利用した(AI を頼りにしながら) メールサーバーを構築した記録です。 TLS による通信暗号化（SMTP / IMAP の...</description>
+</item>
+<item>
+<title>【Qiita】 【AgentCore】Harness の inline_function で人間の承認を挟みたい</title>
+<link>https://qiita.com/ryu-ki/items/abbf520bd8cd628e4f55</link>
+<guid>f52d6415c325617c9fc057a33d176f9afccfe417f74674d42f4890ac5eb5ae78</guid>
+<pubDate>2026-08-17T08:29:16+09:00</pubDate>
+<description>はじめに エージェントにブラウザ操作や予約を任せるとしても、未だに最後の確定だけは人間が判断したいものです。Human-in-the-Loop（HITL）と呼ばれる設計です。 Amazon Bedrock AgentCore の Harness には、このための仕組みとし...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeの新機能、&quot;仕事の引き継ぎ&quot;じゃありません — 公式ドキュメントで確認した3つのズレ</title>
+<link>https://qiita.com/jqit_suwa/items/b919d0b4cdc0a26ec988</link>
+<guid>b361fcdea1966c0279a42d6f309a78d8320b27a2329802639643f4cf7aaaf98e</guid>
+<pubDate>2026-08-17T08:25:41+09:00</pubDate>
+<description>ここ最近、Claude Code の新機能としてこういう話が流れてきます。 「この作業、別セッションに引き継いで」と伝えるだけ。 調査担当のClaude → 実装担当のClaude → レビュー担当のClaude、とリレーできる。 たしかに新機能は実在します。Claud...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/vista-towards-test-time-self-improving-video-generation-agent/</link>
-<guid>3d80600600bf64722a170743b6c2137d2e72ae0a9d8310a476cc40032435712d</guid>
-<pubDate>Sun, 16 Aug 2026 23:10:54 GMT</pubDate>
+<link>https://research.google/pubs/what-makes-a-good-productivity-metric/</link>
+<guid>d949ad651271714f5cd3294c64d4e2b159bd0b4284f0e22ccc25b246067f94b6</guid>
+<pubDate>Sun, 16 Aug 2026 23:40:49 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=AI+for+Science&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>4660512066df05873c96756121fe1818c5b9ee260325fb7231fc2172e475fe67</guid>
-<pubDate>Sun, 16 Aug 2026 23:10:56 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>780d9fa307a2ae728e2614ff7fb7e9d9056550dfb96172f671babadcbec9a644</guid>
+<pubDate>Sun, 16 Aug 2026 23:40:52 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=AI+agent&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>658bdaa5f304fce47053ae26351a50ecf0f2fcfacb50d67b42e197e3e951d05f</guid>
-<pubDate>Sun, 16 Aug 2026 23:10:56 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>5606f8c4432df1030caa1d3089ad6f1e66ddd4d95798070a797e6d7ce108f69c</guid>
+<pubDate>Sun, 16 Aug 2026 23:40:55 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>ff75c19fe6afc7b6497b881dcf916e670562e29b8fcc347109982832bc776ce2</guid>
+<pubDate>Sun, 16 Aug 2026 23:41:07 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
