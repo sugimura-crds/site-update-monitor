@@ -4,49 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 17 Aug 2026 02:14:31 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 03:25:35 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 2026/08/17 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/ca50869742a0f894accd</link>
-<guid>c93745887bba93891d17a3619daf131f5ea35f6043c0cbb5548fc395c847e526</guid>
-<pubDate>2026-08-17T11:12:02+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 エラーを 3 秒で AI に丸投げする若手を見...</description>
+<title>【Qiita】 MCP Serverとは？AIと外部サービスをつなぐ仕組みをClaude in Chromeから理解する</title>
+<link>https://qiita.com/Kan-O435/items/4f1daede6c7d1658da8a</link>
+<guid>8dd8eeb04d75d62eb87b32d0c69fd5debcde5e0ed741c54380a671afa0f34215</guid>
+<pubDate>2026-08-17T11:41:37+09:00</pubDate>
+<description>MCPサーバーは何をしているのか？ Claude in Chromeから理解するMCPの仕組みと現在地 こんにちは。neurestXでエンジニアをしている菅です。 最近、Claude CodeやCursorなどのAI開発ツールを触っていると、「MCP」という言葉を目にする...</description>
 </item>
 <item>
-<title>【Qiita】 Gemini 3.7 Flashは何が変わった？3.6 Flashとの違い・価格・注意点</title>
-<link>https://qiita.com/nkstm_0410/items/8fcd7dcadce7df9e0cb5</link>
-<guid>6b85b59377e8054138084ae32e6f7adbfbdef3b5466d55daafaa38831235a171</guid>
-<pubDate>2026-08-17T10:08:43+09:00</pubDate>
-<description>2026年8月14日、Googleは Gemini 3.7 Flash を発表しました。 Gemini 3.6 Flashの公開から、わずか3週間でのアップデートです。コーディング、エージェント、専門文書を扱う業務で性能が向上しました。 前モデルについては、Gemini ...</description>
+<title>【Qiita】 AIブラウザ導入前にChromeプロファイルをPythonで棚卸しする</title>
+<link>https://qiita.com/hironakamura_ai/items/05078d4cdc3e346c2851</link>
+<guid>a5d5ab79e7566d333aa5ef8c4b32064472e089c84250f0ac744f6307aef4da05</guid>
+<pubDate>2026-08-17T11:26:12+09:00</pubDate>
+<description>ブラウザに「Profile 1」という空のプロファイルを作り、Login Data も Cookies も無いことを確認した。今日の作業で一番効いたのは、この地味な確認だった。 CloudflareがAIエージェント向けのヘッドレスブラウザ Kitesurf を発表した、と...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/window-size-versus-accuracy-experiments-in-voice-activity-detectors/</link>
-<guid>21a60e8927e1c3e6712ce3c5ec12f916f7d0b957112921babb6993f9d2981f50</guid>
-<pubDate>Mon, 17 Aug 2026 02:13:52 GMT</pubDate>
+<link>https://research.google/pubs/in-search-of-weird-corners-diagnosing-the-limits-of-convergent-ai-in-professional-creative-practice/</link>
+<guid>2ce66684b00aaa07ec8061521eed32ee05899066a88965095a2ac685dff6ccbd</guid>
+<pubDate>Mon, 17 Aug 2026 03:24:58 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>f3bbf07fbaf7812934843de1395f8298ab5ea95b34380d9e5935b9bf8ea47ad3</guid>
-<pubDate>Mon, 17 Aug 2026 02:13:55 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>a56c8febc5b9b1635e4d3d772057072a25e27c5f233bfb4ecea2f5d3382201c9</guid>
-<pubDate>Mon, 17 Aug 2026 02:13:58 GMT</pubDate>
-<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>8294f43da86fe3562e58f8fa50cdeb8e59d0260ad29bd738203317498783435f</guid>
-<pubDate>Mon, 17 Aug 2026 02:14:01 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+<link>https://www.nature.com/articles/s41598-026-64146-y</link>
+<guid>d98ef122b972403bb64cb0d707d8273cee812b23adf178267726d4475aa00407</guid>
+<pubDate>Mon, 17 Aug 2026 03:25:06 GMT</pubDate>
+<description>Insider threats continue to be a vexed and complicated risk in secure software development (SSD) organizations due to their origin in combination of malicious intent, negligence, credential abuse, and process vulnerability throughout the software development lifecycle. Artificial intelligence (AI)-inspired, agentic security strategies are increasingly suggested to enhance prevention and detection, but organizations have not yet a clear, decision-supportive approach to prioritize agentic mitigation practices in times of uncertainty. This paper aims to suggest and rank an agentic model of insider threats mitigation to secure software development companies based on the Fuzzy Analytic Hierarchy Process (Fuzzy AHP). Its main objectives include (i) organizing insider-threat mitigation into multi-level decision model, (ii) calculating priority weights of AI-directed agentic practices, and (iii) assisting actionable adoption choices of various insider-threat types. A systematic mapping study (SMS) was first carried out to investigate the state-of-the-art of insider threats in software development organization. The second phase involved performing an empirical survey among cybersecurity pro</description>
 </item>
 
 </channel>
