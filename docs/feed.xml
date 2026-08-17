@@ -4,57 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 16 Aug 2026 23:41:22 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 00:40:40 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 証明書の更新検証用に Postfix + Dovecot メールサーバーを立てる（RHEL on IBM Power）</title>
-<link>https://qiita.com/c_u/items/5952b7e5e593a686820f</link>
-<guid>58cedf943f931fbc05db0375d8872c3965edbc52c11d869bd7013034bcd25430</guid>
-<pubDate>2026-08-17T08:27:43+09:00</pubDate>
-<description>はじめに RHEL on IBM Power 環境において、SMTP サーバーとして Postfix、IMAP サーバーとして Dovecot を利用した(AI を頼りにしながら) メールサーバーを構築した記録です。 TLS による通信暗号化（SMTP / IMAP の...</description>
+<title>【Qiita】 オフライン環境での Vibe Coding: VS Code Chat / Agent をローカル SLM/LLM で使うために整理したこと</title>
+<link>https://qiita.com/dahatake/items/5f9a1ec26ce812685b50</link>
+<guid>5005362efc348aa2f9e6d772c7d5ed2af3642710460f43e44f917097973d8d9d</guid>
+<pubDate>2026-08-17T09:05:33+09:00</pubDate>
+<description>背景 最近、生成AIを開発環境へ組み込む話をしていると、「ローカルLLMを使えばオフラインでもだいたい同じことができるのでは」という話になることがあります。 方向性としては間違っていません。 一方で、実際に現場へ持っていこうとすると、モデルを1つダウンロードして終わり、と...</description>
 </item>
 <item>
-<title>【Qiita】 【AgentCore】Harness の inline_function で人間の承認を挟みたい</title>
-<link>https://qiita.com/ryu-ki/items/abbf520bd8cd628e4f55</link>
-<guid>f52d6415c325617c9fc057a33d176f9afccfe417f74674d42f4890ac5eb5ae78</guid>
-<pubDate>2026-08-17T08:29:16+09:00</pubDate>
-<description>はじめに エージェントにブラウザ操作や予約を任せるとしても、未だに最後の確定だけは人間が判断したいものです。Human-in-the-Loop（HITL）と呼ばれる設計です。 Amazon Bedrock AgentCore の Harness には、このための仕組みとし...</description>
+<title>【Qiita】 Claude Codeに動画を見せる /watch-video、実は「渡すだけ」じゃなかった — 3つの深さを使い分ける</title>
+<link>https://qiita.com/jqit_suwa/items/fe5975104ffefa49f632</link>
+<guid>15dda82bbec6ef9404a00312b4d3cfabec7b9aad238ba0d27f6e22349b100bec</guid>
+<pubDate>2026-08-17T08:43:14+09:00</pubDate>
+<description>Claude Code に動画を見せて、内容を整理させる Skill が話題になっています。/watch-video というやつです。 紹介ではこう書かれていることが多いです。 動画を渡すだけで、文字起こし・重要フレーム抽出・画像解析・構造化ノート作成まで自動で実行 便...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeの新機能、&quot;仕事の引き継ぎ&quot;じゃありません — 公式ドキュメントで確認した3つのズレ</title>
-<link>https://qiita.com/jqit_suwa/items/b919d0b4cdc0a26ec988</link>
-<guid>b361fcdea1966c0279a42d6f309a78d8320b27a2329802639643f4cf7aaaf98e</guid>
-<pubDate>2026-08-17T08:25:41+09:00</pubDate>
-<description>ここ最近、Claude Code の新機能としてこういう話が流れてきます。 「この作業、別セッションに引き継いで」と伝えるだけ。 調査担当のClaude → 実装担当のClaude → レビュー担当のClaude、とリレーできる。 たしかに新機能は実在します。Claud...</description>
+<title>【Qiita】 【Vibe Coding】一切コードを書かずにRaspberry Pi Pico(相当)でI2S音声再生！AIエージェント乗り換えでトラブルを突破</title>
+<link>https://qiita.com/AbeMarkn/items/bbeba9939192fe9d2c7f</link>
+<guid>b493eb0b21ea2f978886a23c978989f8b16c1df4d72203e7f130f6cc0b443b1d</guid>
+<pubDate>2026-08-17T08:26:31+09:00</pubDate>
+<description>はじめに 2026年の夏休みの自由研究として、今話題(?)の Vibe Coding（AIに主導させるコーディング） を試してみました。 人間が一切コードを書くことなく、AI（Gemini,Copilot,ChatGPT / Antigravity,Cursor）に仕様策...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/what-makes-a-good-productivity-metric/</link>
-<guid>d949ad651271714f5cd3294c64d4e2b159bd0b4284f0e22ccc25b246067f94b6</guid>
-<pubDate>Sun, 16 Aug 2026 23:40:49 GMT</pubDate>
+<link>https://research.google/pubs/nudging-developers-toward-privacy-evaluating-the-impact-of-personalized-app-review-reports/</link>
+<guid>df3365a3dbeda2e5d32edf7e031c9ecc2e71029c8a82329f83143b3f835e06bc</guid>
+<pubDate>Mon, 17 Aug 2026 00:39:41 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>780d9fa307a2ae728e2614ff7fb7e9d9056550dfb96172f671babadcbec9a644</guid>
-<pubDate>Sun, 16 Aug 2026 23:40:52 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>5606f8c4432df1030caa1d3089ad6f1e66ddd4d95798070a797e6d7ce108f69c</guid>
-<pubDate>Sun, 16 Aug 2026 23:40:55 GMT</pubDate>
-<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>ff75c19fe6afc7b6497b881dcf916e670562e29b8fcc347109982832bc776ce2</guid>
-<pubDate>Sun, 16 Aug 2026 23:41:07 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
