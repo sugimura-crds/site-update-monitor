@@ -4,28 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 17 Aug 2026 09:31:16 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 10:06:34 GMT</lastBuildDate>
 
 <item>
-<title>【環境】 Particulate air pollution undermines plant water-use efficiency by inhibiting photosynthesis</title>
-<link>https://www.nature.com/articles/s41558-026-02712-y</link>
-<guid>a311599469d46147bdcfe61cb1eaee6c791f2a1088dc2ad1fd8a5d72cd772c59</guid>
+<title>【Qiita】 AIネイティブがもたらす価値は生産性と効率化なのか</title>
+<link>https://qiita.com/iwa-set/items/9c2a93d6a6218e809b54</link>
+<guid>95a364ddc4d3f3d8585cb6905a88ffcb3cd5eef36ce176bd2091214df672fda4</guid>
+<pubDate>2026-08-17T19:04:45+09:00</pubDate>
+<description>はじめに AIで効率化したい、生産性を上げたい。そう思って使ってみたものの、期待したほどは上手くいかない。そんな感覚を持ったことはないでしょうか。 効率化や生産性向上の方法は、AIが登場する前からいくつもありました。ただ、方法があるからといって、それで実際に上手くいくとは...</description>
+</item>
+<item>
+<title>【自動自律実験】 How the story of life and our planet unfolded — together</title>
+<link>https://www.nature.com/articles/d41586-026-02530-4</link>
+<guid>3cda36a6fbd1a02a3034a4fafd7ee1cfb0f20e0e3c7c7cde99897145fdfd7f6f</guid>
 <pubDate>2026-08-17</pubDate>
-<description>The influence of fine particulate pollution (PM2.5) on plant water-use efficiency remains poorly understood. The authors highlight that PM2.5 exerts a primarily negative effect across scales due to asymmetric effects on photosynthesis and evapotranspiration.</description>
+<description>Earth’s four-billion-year-long conversation with its resident life forms has shaped our world, and holds lessons for our future.</description>
+</item>
+<item>
+<title>【自動自律実験】 Universities must stop protecting bullies — or more people will leave science</title>
+<link>https://www.nature.com/articles/d41586-026-02526-0</link>
+<guid>3cf3c2d7fa98d80cbda44105e4bfce52b18fb2fb9b354896b2b8e157a10afc24</guid>
+<pubDate>2026-08-17</pubDate>
+<description>Letting powerful academics off the hook and punishing the people they bullied sends the message that abuse is acceptable in academia.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/potre-test-time-reasoning-inspired-by-cognitive-heterogeneity/</link>
-<guid>cc11a80c5155151041bdc0ff841adea5f6bfcd184b72a81ec9d62a0c30f2fa06</guid>
-<pubDate>Mon, 17 Aug 2026 09:30:16 GMT</pubDate>
+<link>https://research.google/pubs/airs-scaling-live-inference-in-resource-constrained-environments/</link>
+<guid>19253d714913851371ac7651583a14342c7484c06022ffabc8032d04f763065d</guid>
+<pubDate>Mon, 17 Aug 2026 10:05:37 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>c94663a0f50282c904263dd3f5c40c80481251f4db74fa8a121fa5936c2c1803</guid>
-<pubDate>Mon, 17 Aug 2026 09:30:18 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
 </channel>
