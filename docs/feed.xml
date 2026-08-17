@@ -4,35 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 17 Aug 2026 10:06:34 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 10:55:20 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIネイティブがもたらす価値は生産性と効率化なのか</title>
-<link>https://qiita.com/iwa-set/items/9c2a93d6a6218e809b54</link>
-<guid>95a364ddc4d3f3d8585cb6905a88ffcb3cd5eef36ce176bd2091214df672fda4</guid>
-<pubDate>2026-08-17T19:04:45+09:00</pubDate>
-<description>はじめに AIで効率化したい、生産性を上げたい。そう思って使ってみたものの、期待したほどは上手くいかない。そんな感覚を持ったことはないでしょうか。 効率化や生産性向上の方法は、AIが登場する前からいくつもありました。ただ、方法があるからといって、それで実際に上手くいくとは...</description>
+<title>【Qiita】 【Claude Code】sqzでトークン23%削減</title>
+<link>https://qiita.com/yuhisato/items/a324d39bf9418fc4b62a</link>
+<guid>72393b41ee84ba645e829473e5396b14932e331c18410aa20bbde95e57b2cd42</guid>
+<pubDate>2026-08-17T19:21:40+09:00</pubDate>
+<description>本記事では、Claude Code のトークン消費を抑える sqz というツールのインストールと設定を紹介する。個人アプリ開発・Qiita記事のネタ探し・記事執筆など複数の用途が混在する自分の環境に導入してしばらく使った結果、平均23.5％のトークン削減になった（あくまで自...</description>
 </item>
 <item>
-<title>【自動自律実験】 How the story of life and our planet unfolded — together</title>
-<link>https://www.nature.com/articles/d41586-026-02530-4</link>
-<guid>3cda36a6fbd1a02a3034a4fafd7ee1cfb0f20e0e3c7c7cde99897145fdfd7f6f</guid>
-<pubDate>2026-08-17</pubDate>
-<description>Earth’s four-billion-year-long conversation with its resident life forms has shaped our world, and holds lessons for our future.</description>
+<title>【Qiita】 【MCP】wakeでターミナルのログをそのままAIに渡す</title>
+<link>https://qiita.com/yuhisato/items/5450b2cf44ef32179aa1</link>
+<guid>988cbb519110d8cbf11e5d0d2e806f080de546fddc7e1675a516f174f90d1924</guid>
+<pubDate>2026-08-17T19:21:07+09:00</pubDate>
+<description>本記事では、ターミナルのログをClaude Codeに渡すwake MCPの導入と使い方を紹介します。 ターミナルのエラーをClaude Codeへ伝えるたびに、ログを手動で貼り付けていませんか？ビルドが失敗したとき、ログが流れたとき。「この出力をAIに見せたい」と思うたび...</description>
 </item>
 <item>
-<title>【自動自律実験】 Universities must stop protecting bullies — or more people will leave science</title>
-<link>https://www.nature.com/articles/d41586-026-02526-0</link>
-<guid>3cf3c2d7fa98d80cbda44105e4bfce52b18fb2fb9b354896b2b8e157a10afc24</guid>
+<title>【自動自律実験】 Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer</title>
+<link>https://www.nature.com/articles/s41586-026-10995-6</link>
+<guid>279c2daad34d048c475b646d85fa6eca3f764208ef5eb47621291b1d0ac0fb2f</guid>
 <pubDate>2026-08-17</pubDate>
-<description>Letting powerful academics off the hook and punishing the people they bullied sends the message that abuse is acceptable in academia.</description>
+<description>Author Correction: Synthetic vulnerabilities of mesenchymal subpopulations in pancreatic cancer</description>
+</item>
+<item>
+<title>【自動自律実験】 Too hot to sleep? How heatwaves at night affect our health</title>
+<link>https://www.nature.com/articles/d41586-026-02532-2</link>
+<guid>c662a319ae351ad749e88676079ec79a21f41988a19ef33f21c63b0ecd2742b6</guid>
+<pubDate>2026-08-17</pubDate>
+<description>As climate change ramps up, scientists must urgently understand how night-time heat makes it harder for our bodies to rest and recover.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/airs-scaling-live-inference-in-resource-constrained-environments/</link>
-<guid>19253d714913851371ac7651583a14342c7484c06022ffabc8032d04f763065d</guid>
-<pubDate>Mon, 17 Aug 2026 10:05:37 GMT</pubDate>
+<link>https://research.google/pubs/guide-a-benchmark-for-user-context-understanding-and-assistance-in-gui-workflow-videos/</link>
+<guid>09a3f7d1a700c48bf429218e0acdd658e6637768da2938cb2a01621768ae0a6e</guid>
+<pubDate>Mon, 17 Aug 2026 10:54:14 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>20650e244eb5d029204c412ecb37ed43424f445ecb05194b743b311ad72ef45d</guid>
+<pubDate>Mon, 17 Aug 2026 10:54:18 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>582cf15a0694cdc61e42e05a3d8f4444991b128f3c5a15b856a13fafc2f9d991</guid>
+<pubDate>Mon, 17 Aug 2026 10:54:20 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 
 </channel>
