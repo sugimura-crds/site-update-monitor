@@ -4,21 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 17 Aug 2026 21:17:29 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 21:47:35 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIに仕事を奪われる不安から始めるハーネス作成入門 第23回 AIハーネスを副業・受託・社内改善に転用する前に考えること</title>
-<link>https://qiita.com/singula/items/c3a38fbdb608e2261cc3</link>
-<guid>1305dd7bf79b779661851a04c49710e55737ba441bfb80d66c8f38835e4a49c6</guid>
-<pubDate>2026-08-18T06:06:07+09:00</pubDate>
-<description>この記事は連載『AIに仕事を奪われる不安から始めるハーネス作成入門』第23回です。 連載: AIに仕事を奪われる不安から始めるハーネス作成入門 連載目次 回 タイトル 状態 第1回〜第22回 （既刊） ✅ 第23回 AIハーネスを副業・受託・社内改善...</description>
+<title>【Qiita】 エンジニアの役割再定義～実装者からオーケストレーターへの変化</title>
+<link>https://qiita.com/mellowlaunch/items/2a81c80ba808417e2c00</link>
+<guid>a3e3d136fbb3860907ad62a794818cfcf83a3c01416bd5f79e3111a539487356</guid>
+<pubDate>2026-08-18T06:43:20+09:00</pubDate>
+<description>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 「ゼロから触ってわかった！Codex - AIエージェント時代のソフトウェア設計」 本書は、AIエージェン...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/mars-modular-agent-with-reflective-search-for-automated-ai-research/</link>
-<guid>b3cbf6bfe87bdc9218ba7d69c9d9874c73476c738767fe5866ed79672ee67c3c</guid>
-<pubDate>Mon, 17 Aug 2026 21:16:31 GMT</pubDate>
+<link>https://research.google/pubs/sample-complexity-of-agnostic-multiclass-classification-natarajan-dimension-strikes-back/</link>
+<guid>2356add9c79b04d5b58b2fdbba9b6d083a160080e82eed569bf55326a8516c25</guid>
+<pubDate>Mon, 17 Aug 2026 21:46:57 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>f9f751a027cf370e824085c085bce4aae385f0440ef8a6dccc9e67ebe03529b2</guid>
+<pubDate>Mon, 17 Aug 2026 21:47:00 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-76533-0</link>
+<guid>4baffd8a819fb65844748cd2282bb7608131af66c641c46998435ac00da7d4a4</guid>
+<pubDate>Mon, 17 Aug 2026 21:47:09 GMT</pubDate>
+<description>Self-driving laboratories are powerful tools for navigating high-dimensional process spaces, yet Bayesian-optimization decision layers optimize black-box objective functions without distilling transferable process understanding. Here, we demonstrate a mathematically interpretable self-driving laboratory framework that transforms autonomous optimization data into human-executable growth rules. As a benchmark, we apply this framework to sputtering, addressing a challenge in sputtering epitaxy: realizing high-quality β-Ga2O3 heteroepitaxy and single-crystalline β-Ga2O3 homoepitaxy. By combining Bayesian optimization with automated optical evaluation of the Urbach energy as a sub-bandgap disorder metric, the self-driving system identifies heteroepitaxial conditions yielding an Urbach energy of 182 meV, below previously reported values for sputtered β-Ga2O3 films. Importantly, the optimized growth window is transferable across substrates, realizing single-crystalline β-Ga2O3 homoepitaxy, corroborated by scanning transmission electron microscopy. To convert closed-loop data into interpretable growth rules, we train a random forest surrogate and reveal that the growth landscape is describ</description>
 </item>
 
 </channel>
