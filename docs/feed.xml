@@ -4,35 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 17 Aug 2026 00:40:40 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 02:14:31 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 オフライン環境での Vibe Coding: VS Code Chat / Agent をローカル SLM/LLM で使うために整理したこと</title>
-<link>https://qiita.com/dahatake/items/5f9a1ec26ce812685b50</link>
-<guid>5005362efc348aa2f9e6d772c7d5ed2af3642710460f43e44f917097973d8d9d</guid>
-<pubDate>2026-08-17T09:05:33+09:00</pubDate>
-<description>背景 最近、生成AIを開発環境へ組み込む話をしていると、「ローカルLLMを使えばオフラインでもだいたい同じことができるのでは」という話になることがあります。 方向性としては間違っていません。 一方で、実際に現場へ持っていこうとすると、モデルを1つダウンロードして終わり、と...</description>
+<title>【Qiita】 2026/08/17 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/ca50869742a0f894accd</link>
+<guid>c93745887bba93891d17a3619daf131f5ea35f6043c0cbb5548fc395c847e526</guid>
+<pubDate>2026-08-17T11:12:02+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 エラーを 3 秒で AI に丸投げする若手を見...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeに動画を見せる /watch-video、実は「渡すだけ」じゃなかった — 3つの深さを使い分ける</title>
-<link>https://qiita.com/jqit_suwa/items/fe5975104ffefa49f632</link>
-<guid>15dda82bbec6ef9404a00312b4d3cfabec7b9aad238ba0d27f6e22349b100bec</guid>
-<pubDate>2026-08-17T08:43:14+09:00</pubDate>
-<description>Claude Code に動画を見せて、内容を整理させる Skill が話題になっています。/watch-video というやつです。 紹介ではこう書かれていることが多いです。 動画を渡すだけで、文字起こし・重要フレーム抽出・画像解析・構造化ノート作成まで自動で実行 便...</description>
-</item>
-<item>
-<title>【Qiita】 【Vibe Coding】一切コードを書かずにRaspberry Pi Pico(相当)でI2S音声再生！AIエージェント乗り換えでトラブルを突破</title>
-<link>https://qiita.com/AbeMarkn/items/bbeba9939192fe9d2c7f</link>
-<guid>b493eb0b21ea2f978886a23c978989f8b16c1df4d72203e7f130f6cc0b443b1d</guid>
-<pubDate>2026-08-17T08:26:31+09:00</pubDate>
-<description>はじめに 2026年の夏休みの自由研究として、今話題(?)の Vibe Coding（AIに主導させるコーディング） を試してみました。 人間が一切コードを書くことなく、AI（Gemini,Copilot,ChatGPT / Antigravity,Cursor）に仕様策...</description>
+<title>【Qiita】 Gemini 3.7 Flashは何が変わった？3.6 Flashとの違い・価格・注意点</title>
+<link>https://qiita.com/nkstm_0410/items/8fcd7dcadce7df9e0cb5</link>
+<guid>6b85b59377e8054138084ae32e6f7adbfbdef3b5466d55daafaa38831235a171</guid>
+<pubDate>2026-08-17T10:08:43+09:00</pubDate>
+<description>2026年8月14日、Googleは Gemini 3.7 Flash を発表しました。 Gemini 3.6 Flashの公開から、わずか3週間でのアップデートです。コーディング、エージェント、専門文書を扱う業務で性能が向上しました。 前モデルについては、Gemini ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/nudging-developers-toward-privacy-evaluating-the-impact-of-personalized-app-review-reports/</link>
-<guid>df3365a3dbeda2e5d32edf7e031c9ecc2e71029c8a82329f83143b3f835e06bc</guid>
-<pubDate>Mon, 17 Aug 2026 00:39:41 GMT</pubDate>
+<link>https://research.google/pubs/window-size-versus-accuracy-experiments-in-voice-activity-detectors/</link>
+<guid>21a60e8927e1c3e6712ce3c5ec12f916f7d0b957112921babb6993f9d2981f50</guid>
+<pubDate>Mon, 17 Aug 2026 02:13:52 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>f3bbf07fbaf7812934843de1395f8298ab5ea95b34380d9e5935b9bf8ea47ad3</guid>
+<pubDate>Mon, 17 Aug 2026 02:13:55 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>a56c8febc5b9b1635e4d3d772057072a25e27c5f233bfb4ecea2f5d3382201c9</guid>
+<pubDate>Mon, 17 Aug 2026 02:13:58 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>8294f43da86fe3562e58f8fa50cdeb8e59d0260ad29bd738203317498783435f</guid>
+<pubDate>Mon, 17 Aug 2026 02:14:01 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 
 </channel>
