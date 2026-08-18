@@ -4,57 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 18 Aug 2026 15:32:42 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 16:19:55 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 allowlist が破れる4パターン — Claude Code / Codex / Cursor の実CVE</title>
-<link>https://qiita.com/ryoji9702/items/238ce9ef6af93691d818</link>
-<guid>bb80b49159a913aff90ecd34567f3ef0feb32196e56c46dc1df8dc4846f6e26b</guid>
-<pubDate>2026-08-19T00:08:50+09:00</pubDate>
-<description>はじめに コーディングエージェントを常用していると、承認プロンプトが煩わしくなって settings.json に allowlist を書き足していきます。筆者の .claude/settings.local.json も、気づけば Bash(git:*) Bash(n...</description>
-</item>
-<item>
-<title>【環境】 Beyond the engine room</title>
-<link>https://www.nature.com/articles/s41893-026-01919-3</link>
-<guid>0c130b383541ae00b16c2acc321497f6abb2a733f4bf66e14d0ab0c54ef7b3df</guid>
-<pubDate>2026-08-18</pubDate>
-<description>Technological progress can help address the environmental impacts of shipping, but implementing solutions remains slow and problematic. Understanding shipping as a complex physical, economic and governance system is the key to accelerating a sustainable transition.</description>
-</item>
-<item>
-<title>【環境】 Phased fuel transition for low-carbon shipping</title>
-<link>https://www.nature.com/articles/s41893-026-01907-7</link>
-<guid>65de295f872119a4333910a0b3cbd44be80bb9f04af0c628a259c66a5eb91066</guid>
-<pubDate>2026-08-18</pubDate>
-<description>Along the Asia–Europe shipping corridor, biofuels offer the strongest near-term option, potentially cutting greenhouse gas emissions by 31–47%, while electrofuels become more competitive after 2040 under the International Maritime Organization Net-Zero Framework. Policymakers could therefore adopt a phased stra</description>
-</item>
-<item>
-<title>【環境】 Phased fuel transitions for decarbonizing the Asia–Europe Green Shipping Corridor</title>
-<link>https://www.nature.com/articles/s41893-026-01878-9</link>
-<guid>ff5f6f1122233d53ea636ecd48612e1052930705045e94b87e368b7796e2c44c</guid>
-<pubDate>2026-08-18</pubDate>
-<description>Shipping remains almost entirely reliant on fossil fuels, and identifying viable fuel transition pathways under evolving regulations is a key challenge. A study now evaluates 13 alternative marine fuels for the Asia–Europe corridor, revealing phased transitions shaped by policy design and timing.</description>
-</item>
-<item>
-<title>【環境】 Black carbon emissions and climate impacts of cost-saving Arctic transit shipping through 2050</title>
-<link>https://www.nature.com/articles/s41893-026-01877-w</link>
-<guid>adf5e468a399446147640a25106f6421dfd02e59529a3673573bf7941b409dc5</guid>
-<pubDate>2026-08-18</pubDate>
-<description>Arctic transit routes offer economic gains from shorter voyages but increase regional black carbon deposition on snow and ice. A study now models the economic benefits and climate impacts of Arctic transit shipping through 2050, exploring the trade-offs of different policies.</description>
-</item>
-<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/convapparel-a-benchmark-dataset-and-validation-framework-for-user-simulators-in-conversational-recommenders-2/</link>
-<guid>f8ea18260627d1db359ad952a2180f33ee6db94a076173cf577f3b156d8948f0</guid>
-<pubDate>Tue, 18 Aug 2026 15:31:54 GMT</pubDate>
+<link>https://research.google/pubs/it-didnt-feel-right-but-i-needed-a-job-so-desperately-understanding-peoples-emotions-help-needs-during-financial-scams-2/</link>
+<guid>1c6a2d01146b4902536853347718ff011a6da48c5d372e78a036d7725600e811</guid>
+<pubDate>Tue, 18 Aug 2026 16:19:20 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>b5026f0a1cb42438dcda9fc60d15ef06fbeff72bc8b876023cfffdc6c9d4743c</guid>
-<pubDate>Tue, 18 Aug 2026 15:32:23 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>82c4cf98c7a11b7cff45502fec341f017a10ef18a4e3b3048aeeb561e0c71d66</guid>
+<pubDate>Tue, 18 Aug 2026 16:19:24 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>25e0cc1d62a70648421cd5f173b5f461c2e4d7dfa550c3ce2b00dda07f644e24</guid>
+<pubDate>Tue, 18 Aug 2026 16:19:26 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 
 </channel>
