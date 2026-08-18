@@ -4,57 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 18 Aug 2026 14:04:16 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 14:59:47 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Codexを使うたびにモデルを選ぶのをやめた。タスクに応じてモデルを自動選択する dev コマンドを作った</title>
-<link>https://qiita.com/dayaa/items/8eff5b9e7a6cd7f28ad4</link>
-<guid>0b38d74de0906c526c85bcb209cfb8ede4c2a67a20cfc8e9849604102abc66ae</guid>
-<pubDate>2026-08-18T22:47:50+09:00</pubDate>
-<description>Codexを日常的に使っていると、地味に悩むことがあります。 「このタスク、どのモデルでやるべきだろう？」 難しい実装なら強いモデルを使いたい。一方で、ちょっとした調査やログ整理まで毎回最上位モデルを使うのはもったいない。 たとえば自分の中では、ざっくり次のような使い分けが...</description>
-</item>
-<item>
-<title>【Qiita】 【応答時間 3.56 µs】AI AgentにCPUを持たないUSBホストをFPGAで作らせた話</title>
-<link>https://qiita.com/GeekMasahiro/items/4ea6e5cded806a54eee4</link>
-<guid>06ae73ae52b083988b74ca13fc17a3e42312db51608ceced5efcce03e277b1e3</guid>
-<pubDate>2026-08-18T22:36:52+09:00</pubDate>
-<description>はじめに AI Agent（Claude Code）によってFPGAの論理回路開発が容易になれば、従来はCPU（ソフトウェア処理）が前提だった領域にも、FPGAを適用するという新たな選択肢が生まれるのではないかと考えています。 そのPOC（概念実証）として、USBホストを...</description>
-</item>
-<item>
-<title>【Qiita】 Claude CodeのCLAUDE.mdに指示を1行書く — AIエージェントに毎回の前提を教える</title>
-<link>https://qiita.com/akira_papa_AI/items/2806b2cb42eb2c1a7acc</link>
-<guid>400e3fb8ae10c6092470b88ec0ed80aabfad18df51c3ac99af2c7896d6a1de0d</guid>
-<pubDate>2026-08-18T22:34:58+09:00</pubDate>
-<description>Claude CodeのCLAUDE.mdに指示を1行書く — AIエージェントに毎回の前提を教える Claude Codeを起動するたびに、同じテストコマンドやプロジェクトの約束を説明していませんか。 この記事では、プロジェクト直下の CLAUDE.md に指示を1行だ...</description>
-</item>
-<item>
-<title>【自動自律実験】 Scientific expedition makes the best of bad weather</title>
-<link>https://www.nature.com/articles/d41586-026-02381-z</link>
-<guid>c1e7c07ce6613599138ecbc67d2051569843ceb44a7849261ed454e221d160c4</guid>
-<pubDate>2026-08-18</pubDate>
-<description>Researchers grapple with the causes of evolution, and a sea voyage is blighted by storms, in our weekly dip into Nature’s archive.</description>
+<title>【Qiita】 Claude Codeのサブエージェントでドキュメント自動生成の仕組みを作る方法</title>
+<link>https://qiita.com/kamome_susume/items/57aadd7c794c37a390ef</link>
+<guid>a3a3206665efbc225f2be630971c4145ea13628e6f39730d88bdc47aaa1a73ab</guid>
+<pubDate>2026-08-18T23:24:13+09:00</pubDate>
+<description>Claude Codeでサブエージェントを使い始めたものの、ドキュメント生成がうまく自動化できずに悩んでいませんか？ 「設計書を毎回手打ちで直している」「要件定義がすぐ属人化する」そんな悩みを抱えるエンジニアは多いはずです。 この記事では、サブエージェントを使ったドキュメン...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/adversarial-attacks-on-multimodal-large-language-models-a-comprehensive-survey/</link>
-<guid>b70f46d9234d167a74d57b972fa49c3609e881d1bb74513aa1a0659056393d47</guid>
-<pubDate>Tue, 18 Aug 2026 14:03:36 GMT</pubDate>
+<link>https://research.google/pubs/doclens-a-tool-augmented-multi-agent-framework-for-long-visual-document-understanding/</link>
+<guid>8d48c104895e105d886a11a44c25419367b9d070b50c4e9f45a2db6416f0516a</guid>
+<pubDate>Tue, 18 Aug 2026 14:59:13 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>3822661f283f7801af9e3636fd306bd4aa94a7fb0730ac74b3691f098fee7c39</guid>
-<pubDate>Tue, 18 Aug 2026 14:03:42 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>7829aa2abdbd828f3755a8b8fe465578191380230ce76eda94b2b0ef80af8693</guid>
-<pubDate>Tue, 18 Aug 2026 14:03:59 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>d5259837bba143ce3600bb68687a4332ca76b73363e2d124681fa4517df80e81</guid>
+<pubDate>Tue, 18 Aug 2026 14:59:15 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
 </channel>
