@@ -4,35 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 18 Aug 2026 08:01:23 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 08:41:07 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 MCP AppsのAgent UIは、チャット欄より先にtool stateを型にする</title>
-<link>https://qiita.com/heftykoo/items/3305cf9878a1c5c08650</link>
-<guid>667d2c65c81b18254dd7cae1f7a0bdcdb266363d859806b812d96e7000f54018</guid>
-<pubDate>2026-08-18T16:47:25+09:00</pubDate>
-<description>MCP toolをReactへ載せると、chat bubbleの見た目より先に困ることがあります。承認待ちなのか、実行を始めてよいのか、処理中なのか止まったのか。その区別がUIから消えます。 transcriptにはtool callと結果が残っていても、ユーザーが知りたい...</description>
+<title>【Qiita】 14MBのAIモデルは本当に動いた — DLL 1個・RAM 37MB・1回0.5秒、ただし日本語は0/5</title>
+<link>https://qiita.com/jqit_suwa/items/acb61138c4550eef4803?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>7983ebfc4e8f8d520aafd6c8f210525a736a5dce7f044b4934b2434f2561331f</guid>
+<pubDate>2026-08-18T14:03:10+09:00</pubDate>
+<description>GitHub Trending に「14MB のモデル」が来ていました。 Cactus Compute の Needle 2 です。45M パラメータで、ツール呼び出しに特化しています。週で +3,627 スター伸びていました。 14MB というのは、画像1枚くらいのサイズ...</description>
 </item>
 <item>
-<title>【Qiita】 AIコーディングの実装漏れを防ぎやすくするプロセス（SKILL）</title>
-<link>https://qiita.com/spc_ksudoh/items/1209d01b2e2db4aa4525</link>
-<guid>5425d9c38c7135714e42ebe7bc47008f24b33c8cf383582150f9f0c7144ed278</guid>
-<pubDate>2026-08-18T16:44:16+09:00</pubDate>
-<description>概要 AIエージェントのコーディングでよく起きていた問題として、UnitTestは通るのに実際の処理がスタブのまま、あるいはPlanにある項目が実装されていない、などがありました。ドキュメント作成とチェックを挟むことでそうした問題を減らしたり状況を分かりやすくする、SKI...</description>
+<title>【Qiita】 DeepSeek Harnessで使ってみたい人気プラグイン10選【DSH】</title>
+<link>https://qiita.com/suuuuuu135/items/a9292a6dea3cfd3ff8b7</link>
+<guid>457c4d61eab01f4eaaea086822a510285151206f4ef6e550ecc6b2a00706e8b6</guid>
+<pubDate>2026-08-18T17:21:43+09:00</pubDate>
+<description>DeepSeek Harnessで使ってみたい人気プラグイン10選【DSH】 DeepSeek Harness（DSH）のプラグインがかなり増えてきました。 ただ、数が増えすぎて、 「結局どれを入れればいいの？」 となりがちです。 そこで今回は、現在のDSHエコシステ...</description>
 </item>
 <item>
-<title>【Qiita】 AIタイトル提案機能を作る：プロンプト設計と生成数のチューニング</title>
-<link>https://qiita.com/avecdogpresence/items/9fae026b29a27db63f01</link>
-<guid>9fda1b8f0c8cb43ee304d3e53240c25c2619a11abc46edb75fd52b69e3e367a1</guid>
-<pubDate>2026-08-18T16:35:07+09:00</pubDate>
-<description>SEO記事の量産を任されたとき、私は「記事のテーマは出せても、タイトルが毎回ブレる」問題にぶつかりました。クラスター記事やピラー記事を設計しても、タイトルの粒度が揃わないと、検索意図との噛み合いが弱くなり、結果的にコンテンツ資産化の手触りが薄くなるのです。特にAI記事生成で...</description>
+<title>【Qiita】 DeepSeek Harnessのプラグイン探しが大変なので、DSH Marketplaceを作った</title>
+<link>https://qiita.com/suuuuuu135/items/1245d82756b78d8a610a</link>
+<guid>c2732261b9d048230bf5d2b43802b22e55d48be4a7a791985d7e58eaff0c2c5f</guid>
+<pubDate>2026-08-18T17:16:12+09:00</pubDate>
+<description>DeepSeek Harnessのプラグイン探しが大変なので、DSH Marketplaceを作った 最近、DeepSeek Harness（DSH）のプラグインがかなり増えてきました。 GitHubで dsh-plugin を検索するといろいろ見つかるのですが、実際に使...</description>
+</item>
+<item>
+<title>【Qiita】 AI と NocoBase で 2 時間以内に企業 IT 運用システムを構築する方法</title>
+<link>https://qiita.com/TianqiYuan/items/8815a7d022bc9f6fc5ac</link>
+<guid>f05bb00450653521fb94dedb2e767f55d622d8a10eb1bd21992ce611ec8fa23c</guid>
+<pubDate>2026-08-18T17:06:32+09:00</pubDate>
+<description>はじめに 最近 Reddit の r/sysadmin で、あるユーザーが AI を使って ITSM を構築し、週末だけでチケット管理と資産管理まで作り上げたという投稿がありました。実際に使ってみると、これまで利用してきた多くの製品よりも使いやすかったそうです。 一方、...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/spatialstack-layered-geometry-language-fusion-for-3d-vlm-spatial-reasoning/</link>
-<guid>c2f5caf955bf7f6086036d0e84b5f66087c4bf914a6c4d862ffe8f691af3ccf8</guid>
-<pubDate>Tue, 18 Aug 2026 08:00:17 GMT</pubDate>
+<link>https://research.google/pubs/veriguard-enhancing-llm-agent-safety-via-verified-code-generation-2/</link>
+<guid>1d70cd5bbe08c6a5a509c26f4d7df356a3092151ee5c24ae19a8a198d0235ee6</guid>
+<pubDate>Tue, 18 Aug 2026 08:40:05 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>52b93c69ab016227aa37869b3af171d9a672e370a0390e874b8346db4d976da9</guid>
+<pubDate>Tue, 18 Aug 2026 08:40:08 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
 </channel>
