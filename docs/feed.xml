@@ -4,28 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 18 Aug 2026 13:16:58 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 14:04:16 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 Codexを使うたびにモデルを選ぶのをやめた。タスクに応じてモデルを自動選択する dev コマンドを作った</title>
+<link>https://qiita.com/dayaa/items/8eff5b9e7a6cd7f28ad4</link>
+<guid>0b38d74de0906c526c85bcb209cfb8ede4c2a67a20cfc8e9849604102abc66ae</guid>
+<pubDate>2026-08-18T22:47:50+09:00</pubDate>
+<description>Codexを日常的に使っていると、地味に悩むことがあります。 「このタスク、どのモデルでやるべきだろう？」 難しい実装なら強いモデルを使いたい。一方で、ちょっとした調査やログ整理まで毎回最上位モデルを使うのはもったいない。 たとえば自分の中では、ざっくり次のような使い分けが...</description>
+</item>
+<item>
+<title>【Qiita】 【応答時間 3.56 µs】AI AgentにCPUを持たないUSBホストをFPGAで作らせた話</title>
+<link>https://qiita.com/GeekMasahiro/items/4ea6e5cded806a54eee4</link>
+<guid>06ae73ae52b083988b74ca13fc17a3e42312db51608ceced5efcce03e277b1e3</guid>
+<pubDate>2026-08-18T22:36:52+09:00</pubDate>
+<description>はじめに AI Agent（Claude Code）によってFPGAの論理回路開発が容易になれば、従来はCPU（ソフトウェア処理）が前提だった領域にも、FPGAを適用するという新たな選択肢が生まれるのではないかと考えています。 そのPOC（概念実証）として、USBホストを...</description>
+</item>
+<item>
+<title>【Qiita】 Claude CodeのCLAUDE.mdに指示を1行書く — AIエージェントに毎回の前提を教える</title>
+<link>https://qiita.com/akira_papa_AI/items/2806b2cb42eb2c1a7acc</link>
+<guid>400e3fb8ae10c6092470b88ec0ed80aabfad18df51c3ac99af2c7896d6a1de0d</guid>
+<pubDate>2026-08-18T22:34:58+09:00</pubDate>
+<description>Claude CodeのCLAUDE.mdに指示を1行書く — AIエージェントに毎回の前提を教える Claude Codeを起動するたびに、同じテストコマンドやプロジェクトの約束を説明していませんか。 この記事では、プロジェクト直下の CLAUDE.md に指示を1行だ...</description>
+</item>
+<item>
+<title>【自動自律実験】 Scientific expedition makes the best of bad weather</title>
+<link>https://www.nature.com/articles/d41586-026-02381-z</link>
+<guid>c1e7c07ce6613599138ecbc67d2051569843ceb44a7849261ed454e221d160c4</guid>
+<pubDate>2026-08-18</pubDate>
+<description>Researchers grapple with the causes of evolution, and a sea voyage is blighted by storms, in our weekly dip into Nature’s archive.</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/who-is-at-risk-surveying-the-prevalence-of-risk-factors-and-tech-facilitated-attacks-in-the-united-states/</link>
-<guid>caa8480c42ede7e93c3ec55749accf04b5dc36e3cc3bc525e8f25067c9809c92</guid>
-<pubDate>Tue, 18 Aug 2026 13:15:50 GMT</pubDate>
+<link>https://research.google/pubs/adversarial-attacks-on-multimodal-large-language-models-a-comprehensive-survey/</link>
+<guid>b70f46d9234d167a74d57b972fa49c3609e881d1bb74513aa1a0659056393d47</guid>
+<pubDate>Tue, 18 Aug 2026 14:03:36 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>51d534a042543cb618540d2a592d070a59073db7bc693bfafc044c838b66a60b</guid>
-<pubDate>Tue, 18 Aug 2026 13:15:53 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>3822661f283f7801af9e3636fd306bd4aa94a7fb0730ac74b3691f098fee7c39</guid>
+<pubDate>Tue, 18 Aug 2026 14:03:42 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-64146-y</link>
-<guid>fdfd9a1a92b675d0c3a04c05b9126a2975aba3580e21b4a3fad38bda5f4d1424</guid>
-<pubDate>Tue, 18 Aug 2026 13:15:58 GMT</pubDate>
-<description>Insider threats continue to be a vexed and complicated risk in secure software development (SSD) organizations due to their origin in combination of malicious intent, negligence, credential abuse, and process vulnerability throughout the software development lifecycle. Artificial intelligence (AI)-inspired, agentic security strategies are increasingly suggested to enhance prevention and detection, but organizations have not yet a clear, decision-supportive approach to prioritize agentic mitigation practices in times of uncertainty. This paper aims to suggest and rank an agentic model of insider threats mitigation to secure software development companies based on the Fuzzy Analytic Hierarchy Process (Fuzzy AHP). Its main objectives include (i) organizing insider-threat mitigation into multi-level decision model, (ii) calculating priority weights of AI-directed agentic practices, and (iii) assisting actionable adoption choices of various insider-threat types. A systematic mapping study (SMS) was first carried out to investigate the state-of-the-art of insider threats in software development organization. The second phase involved performing an empirical survey among cybersecurity pro</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>7829aa2abdbd828f3755a8b8fe465578191380230ce76eda94b2b0ef80af8693</guid>
+<pubDate>Tue, 18 Aug 2026 14:03:59 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
