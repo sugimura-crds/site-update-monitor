@@ -4,28 +4,71 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 18 Aug 2026 00:39:53 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 02:10:16 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 オントロジーは「学者の道具」から「AIエージェントの教科書」になった話（2）なぜLLM時代に再注目されているのか</title>
-<link>https://qiita.com/keiichik_kk/items/b227e6ac89105e8c5512</link>
-<guid>d549d9be80723cbfd6c462808d4dc392a081cbdef37315dbe4e98cb627ab8a36</guid>
-<pubDate>2026-08-18T09:22:40+09:00</pubDate>
-<description>前回のおさらい 前回は、オントロジーとは「業務の概念と関係を機械が誤解しないよう整理した設計図」であり、2000年代の「セマンティックウェブ」時代には専門家が手作業で厳密に作る重い仕組みだった、という話をしました。 今回は本題、なぜこの古びた概念が2026年の今また注目さ...</description>
+<title>【Qiita】 スマホからプロンプト指示のみで 会員制 Webサイト内のジョブを完結（OPSM バージョン２）</title>
+<link>https://qiita.com/carol0226/items/f5e7ae82b200019b80ca</link>
+<guid>0a04a9c10833449b64dcf57056da1e7772542d0403e26e8131366ea1112c61d9</guid>
+<pubDate>2026-08-17T00:40:29+09:00</pubDate>
+<description>はじめに 本記事は、Project Opal のブラウザー操作において、会員制 Web サイトのログインを自動化する方法を紹介します。 序章 Project Opal を使い始めると、比較的早い段階で次の問題にぶつかります。 ※本記事では以降も、Project Opal...</description>
 </item>
 <item>
-<title>【Qiita】 Agentforce Coworker GA移行ガイド｜Beta版との差分・権限設定・課金体系を整理する</title>
-<link>https://qiita.com/ubakichi_sr_mc_ai_06/items/5b44d0f0486383b25ee9</link>
-<guid>3675ee5c70b5db5de09308ea450a16bd2dd2c9a7fd0f564a3c02e6209f12b07f</guid>
-<pubDate>2026-08-18T08:44:08+09:00</pubDate>
-<description>はじめに 2026年8月5日のGA移行で、Agentforce Coworkerの設定要件と接続できるデータソースの範囲が変わりました。 本記事ではBeta版との主な差分として、外部ソース接続の前提（Data 360の役割）、管理者とエンドユーザー双方に必要な権限、シート...</description>
+<title>【Qiita】 最初から業務全体を自動化しなくてよい</title>
+<link>https://qiita.com/mhamadajp/items/109238062fd35db3e201</link>
+<guid>908fbaa2baf2d347464a20081bf407caf9b3c2094bd2d83ed43003dcf53d6c60</guid>
+<pubDate>2026-08-18T11:06:46+09:00</pubDate>
+<description>日立建機の技術問い合わせ対応に学ぶ、ボトムアップ型AIエージェント導入 生成AIの全社導入では、経営が方針を示し、予算と共通基盤を用意し、情報システム部門がルールと研修を整えるトップダウンの推進が重要である。だが、それだけでは現場で本当に使われるAIは生まれにくい。 経営...</description>
+</item>
+<item>
+<title>【Qiita】 2026/08/18 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/4ebff2da0075e7e89f1d</link>
+<guid>2461ed4279f36e416841d732f503859ebc1063c6401fd8ea85adf63d7a6ce35d</guid>
+<pubDate>2026-08-18T10:57:24+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 AIエージェントの作業結果、マークダウンで読む...</description>
+</item>
+<item>
+<title>【Qiita】 「作って終わり」のAIエージェントは死ぬ</title>
+<link>https://qiita.com/ta-ito0611/items/674a5246577f47b972d2</link>
+<guid>a9eb67a422a3cd07b439b07eaced065add4bdff8a2eb12f8adc4520a03ea8485</guid>
+<pubDate>2026-08-18T10:36:38+09:00</pubDate>
+<description>はじめに こんにちは！KDDIアイレットの伊藤です。 「AI エージェントを開発したいが、どう設計すればいいかわからない」「いざ作ってみたものの、思ったほど成果が出ていない」「動き始めてから追加の構成が次々に必要になり、うまく回らなくなった」— そんな悩みはありませんか?...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeを複数並走させたら3回事故った——Git競合・死んだロック・想定外のコストをどう塞いだか</title>
+<link>https://qiita.com/fuji1009_REBELL/items/a90564ea09e0b183501f</link>
+<guid>5f45f3ac7c7174d73a22c07e6cc4254c563a0cf5333edc8bafd3212a538b8ac3</guid>
+<pubDate>2026-08-18T09:48:34+09:00</pubDate>
+<description>AIエージェントを2体以上、同じgitリポジトリ・同じブランチで並走させたことはありますか。 私は個人の業務自動化のために、Claude Codeのエージェントを部署に見立てて複数並走させ、タスクを依存グラフ（DAG）で連鎖・自走させる仕組みを自作して約1ヶ月運用してきまし...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/confusable-characters-as-endangered-language-markers-the-case-of-north-caucasus-writing-systems/</link>
-<guid>b4e26969858db3835c5f23c9bcd9e8703f43c18bfa1600943763769c0df8d28e</guid>
-<pubDate>Tue, 18 Aug 2026 00:39:09 GMT</pubDate>
+<link>https://research.google/pubs/learning-conditional-averages/</link>
+<guid>01666c9a974b8d1ceced86c6588c62a9a1d16ebe1e010b9f1d742ad4d3f46673</guid>
+<pubDate>Tue, 18 Aug 2026 02:09:35 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>63d3616bf311c0073ec065df1bcc343ee14d83ef3d69bb1b0bb3e08372b0e1d7</guid>
+<pubDate>Tue, 18 Aug 2026 02:09:39 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>14d7ab292a02208a3181935115cfb7a0b41cc5f7b34a3c0806e5d394928bebb8</guid>
+<pubDate>Tue, 18 Aug 2026 02:09:42 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>9cb7f7895916a2c7744e8c90f9cbd52e0e6d5ad11be4cbd2202517980f0ef706</guid>
+<pubDate>Tue, 18 Aug 2026 02:09:59 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
