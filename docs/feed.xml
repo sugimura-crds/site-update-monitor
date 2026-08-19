@@ -4,42 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 19 Aug 2026 09:24:05 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 09:56:33 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 リモートなしのローカルリポジトリで IBM Bob のレビューワークフローを動かす</title>
-<link>https://qiita.com/spssfun2017/items/22f3eaf5f60f3e08b7fa</link>
-<guid>d2afd0b668763620b6ba36ee4464c03921422091d998bb7fca0a52b5fa6ebd93</guid>
-<pubDate>2026-08-19T17:49:59+09:00</pubDate>
-<description>はじめに IBM Bob のレビューワークフロー（Code Reviews）は、Git のブランチ間の差分を AI がレビューしてくれる機能です。一通り試した内容は別記事にまとめました。 本編: IBM Bob のレビューワークフローを使ってみる 公式ドキュメント: ...</description>
+<title>【Qiita】 Claude Code のタスクリストが出ない — 原因は環境変数 ENABLE_TASKS=0 だった</title>
+<link>https://qiita.com/jqit_suwa/items/dda364cfccd770e110d6</link>
+<guid>9f9a6f28e0443185d32d1da3ab1a961383fbba1e99d75f930f38011a56ec76b0</guid>
+<pubDate>2026-08-19T18:37:52+09:00</pubDate>
+<description>複数手順の作業を頼むと、Claude Code は進捗をチェックリストで見せてくれます。 その TodoWrite が、手元の環境ではツールごと存在しない状態でした。 2.1.233 の changelog にこうあります。 Todo/task-tracking tool...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Bob のレビューワークフローを使ってみる（SQLインジェクションを検出して修正させるまで）</title>
-<link>https://qiita.com/spssfun2017/items/ba004675a4c0017afcef</link>
-<guid>05472533a68d301d4c34daccf400393cc4fe942e5efd42af4e7be31bffa75d98</guid>
-<pubDate>2026-08-19T17:48:22+09:00</pubDate>
-<description>はじめに IBM Bob には、Git のブランチ間の差分を AI がレビューしてくれるレビューワークフロー（Code Reviews）があります。指摘は Bob Findings パネルに一覧表示され、そこから直接 Bob に修正させることもできます。 公式ドキュメント...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェント自作のための技術書5選</title>
-<link>https://qiita.com/koukyo/items/c356e3ad31343051bd5c</link>
-<guid>e999e79441c37721ecf95950f0533cb854d9d2a9b9a386c3470299b2ae6ef4d5</guid>
-<pubDate>2026-08-19T17:50:39+09:00</pubDate>
-<description>はじめに 最近、自分のチームで社内向けのドキュメント検索エージェントを構築する機会があった。最初は既存フレームワークのチュートリアルをなぞるだけで動くものが作れたが、実運用に入ると問題が噴出した。ツール呼び出しの失敗時にどうリカバリさせるか、複数ステップの計画がトークン制...</description>
+<title>【自動自律実験】 Screening babies’ genomes could save lives. Here’s how it would work</title>
+<link>https://www.nature.com/articles/d41586-026-02528-y</link>
+<guid>3ffb3c403b1a13e2c094591569286fb8557deba33354b17bfc4b5e6aea795fd0</guid>
+<pubDate>2026-08-19</pubDate>
+<description>Massive genomic newborn-screening studies are under way all over the globe. But questions about scalability, feasibility and net benefit remain.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/you-have-been-selected-as-the-winner-characterizing-user-reported-scams-on-tiktok/</link>
-<guid>e12e97970c5594b36d415a3fd1dead9ab233c83054c597200718db3da5608492</guid>
-<pubDate>Wed, 19 Aug 2026 09:22:58 GMT</pubDate>
+<link>https://research.google/pubs/a-multi-layered-framework-for-behavioral-governance-of-non-deterministic-ai-agents/</link>
+<guid>bd3c4cdc2c0951c0fb57b13b7deaa000beee432252a9eafb199fe8560f909b16</guid>
+<pubDate>Wed, 19 Aug 2026 09:55:32 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>c23072602b9bee4604e24278ff9ff0bfb57053b81cf4b63c10a7707631875e7f</guid>
+<pubDate>Wed, 19 Aug 2026 09:55:35 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s42256-026-01301-0</link>
-<guid>7220f299ef7bc5944c918c310dda86cda815ba23d13ec328d63efca3cab1c3d7</guid>
-<pubDate>Wed, 19 Aug 2026 09:23:06 GMT</pubDate>
-<description>Frontier large language models (LLMs) have rapidly developed from helpful coding assistants to highly capable cybersecurity systems. After several security incidents in the past few months, more oversight and a strong focus on safe testing and deployment seem needed.</description>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>d6eefb21b0563297deaceaf5d2272505592af839a5913c5df979c1765b53315f</guid>
+<pubDate>Wed, 19 Aug 2026 09:55:37 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>45a7709c2162043c3569ba68537e5de3876746d554d78500852de07ef93efa71</guid>
+<pubDate>Wed, 19 Aug 2026 09:55:38 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
