@@ -4,36 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 19 Aug 2026 08:01:13 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 08:40:25 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「重複」30グループのうち24グループは重複ではなかった</title>
-<link>https://qiita.com/untactit/items/c2fe25fd71bb831ff2cf</link>
-<guid>9a5d23797db7d0308eac416f74d039364e15d668543229ce071f44fd3318d634</guid>
-<pubDate>2026-08-19T16:30:03+09:00</pubDate>
-<description>資産ストアをタイトルでグループ化したら、「重複」が 30 グループ見つかった。コンテンツハッシュで判定し直すと、そのうち 24 グループが溶けて消えた。本物は 5 つ。残る 1 グループは判定不能 — 行の中身が空だったからだ。 対象は複数プラットフォームから収集した AI...</description>
+<title>【Qiita】 オントロジーについて</title>
+<link>https://qiita.com/kurogoma939/items/565588e1b1dc66012b79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>afe220e0ec422cd47c80cf7ef1869bc5f8cb7e67a2de8a3da1d6f0fdcb3161f0</guid>
+<pubDate>2026-08-17T16:16:57+09:00</pubDate>
+<description>AI時代のオントロジー入門 文書検索を「組織の意味と行動の基盤」へ変える実装ガイド 生成AIを社内文書へ接続すると、最初のデモはたいていうまくいく。 規程を要約し、議事録を探し、過去の提案書から似た事例を見つけられるからだ。 ところが、利用者が「この顧客に適用される契約...</description>
+</item>
+<item>
+<title>【Qiita】 彼女の誕生日に、2人だけのSNS「Sync」を作った話</title>
+<link>https://qiita.com/dayaa/items/6e1719b24f56d4166d2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>d0f53bde68b5a489bd6911bb10afb3a5dc6412251d4634698deaeca9203cf315</guid>
+<pubDate>2026-08-16T20:35:44+09:00</pubDate>
+<description>これは、彼女の誕生日プレゼントとして作った、二人専用SNS「Sync」の開発記録です。 完成した機能だけでなく、本番環境でログインできなくなった失敗や、写真表示を約96%軽量化した改善までまとめます。 はじめに 彼女の誕生日に、何か形に残るものを贈りたかった。 写...</description>
+</item>
+<item>
+<title>【Qiita】 Codexのプロンプト一文で、Solを監督にしてLunaに作業をさせる方法</title>
+<link>https://qiita.com/spc_ksudoh/items/b1e73b74f10b5c99ffb0</link>
+<guid>4b13f952558b54558882ebe36758092e99fe37219411273d352c37dc5e2298b3</guid>
+<pubDate>2026-08-19T17:25:08+09:00</pubDate>
+<description>概要 Codexをちょっとお得に使える最新のTIPSを知ったので、紹介します。 プロンプトにちょっとした指示を含めるだけで、Sol/Terraを親エージェント・Lunaをサブエージェントにして動かせる。Sol/Terraの品質とLunaの安さのいいとこ取りが出来そう。と言...</description>
+</item>
+<item>
+<title>【Qiita】 Oracle IntegrationのMCPサーバーを有効化して、MCPクライアントからツールを実行してみた</title>
+<link>https://qiita.com/nakasato310/items/b287530a0ce0c2a3641b</link>
+<guid>df1e00820195fca4876a0872c672548af7783a1267ddbc44bcf7680a2d3dc28e</guid>
+<pubDate>2026-08-19T17:39:10+09:00</pubDate>
+<description>はじめに Oracle Integration（OIC） は、Oracle Cloud Infrastructure（OCI）が提供するiPaaS（Integration Platform as a Service）です。Oracle SaaSやOCIサービス、オンプレミ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/marginalized-bundle-adjustment-multi-view-camera-pose-from-monocular-depth-estimates/</link>
-<guid>2148783624b81d8a279306cde7e7f9bfd9dc89aa1970d5fe9c9e0ec138cf2e45</guid>
-<pubDate>Wed, 19 Aug 2026 08:00:15 GMT</pubDate>
+<link>https://research.google/pubs/method-for-secure-ai-grounding-using-semantic-token-substitution-and-client-side-re-hydration/</link>
+<guid>c4fade37786f01f0a42f067dddfd7500dd3f14786180db1e7b63fe016ccab9d6</guid>
+<pubDate>Wed, 19 Aug 2026 08:39:25 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s42256-026-01301-0</link>
-<guid>62f899ab9499be9b5fbb8b3189f65410380b786740d58cc3403d0aabf5defd92</guid>
-<pubDate>Wed, 19 Aug 2026 08:00:24 GMT</pubDate>
-<description>Frontier large language models (LLMs) have rapidly developed from helpful coding assistants to highly capable cybersecurity systems. After several security incidents in the past few months, more oversight and a strong focus on safe testing and deployment seem needed.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>e64134409f4b4b4fac430f066ddb53e0a89eef74142765ecc522913da8f3cae8</guid>
+<pubDate>Wed, 19 Aug 2026 08:39:27 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>d4f39e71c275ddca0ba008c22387883221b1b662e9fc2460559d11785be1234e</guid>
-<pubDate>Wed, 19 Aug 2026 08:00:54 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>f232e88bc98efbf41a8156f47f12afd4dc1b9b413dffd13db7134228c20f4b17</guid>
+<pubDate>Wed, 19 Aug 2026 08:39:30 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
