@@ -4,36 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 18 Aug 2026 23:43:46 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 00:40:34 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Code をやめて Codex で続きから作業できた — ただし引き継がれたのは要約ではなかった</title>
-<link>https://qiita.com/jqit_suwa/items/90f0c5866fb3516c909b</link>
-<guid>f011b15c1fc1be11008b313813cc238bc53c3dab23309b9e3f2311d92fc879e9</guid>
-<pubDate>2026-08-19T08:33:08+09:00</pubDate>
-<description>AI エージェントを乗り換えると、前提の説明をやり直すことになります。 Claude Code で「このプロジェクトは Node 18 では動かない」「認証は Cognito」と伝えてから、 別の理由で Codex に移ると、また同じ説明から始まります。 これを解決するとい...</description>
-</item>
-<item>
-<title>【Qiita】 Cursor Cloud Agent に CircleCI Remote MCP を登録し、CIの失敗分析やコスト調査を依頼する方法</title>
-<link>https://qiita.com/CircleCIJapan/items/ee59879522e5736ca4be</link>
-<guid>6db211b0d7072e550a68bd3205ce20df015a68dda3c69edcc2571e84a9c4a209</guid>
-<pubDate>2026-08-19T08:27:40+09:00</pubDate>
-<description>CircleCIのCI/CD状況を調べる際、CircleCIのダッシュボードを開いて該当のワークフローを探す作業は、リポジトリの数が増えるほど手間がかかります。CursorのCloud Agentからチャットで指示するだけでこの調査を済ませられれば、この手間を省けます。 C...</description>
+<title>【Qiita】 Claude Code の fork、既定ONのはずが使えなかった — 環境変数1つで決まっていた</title>
+<link>https://qiita.com/jqit_suwa/items/11f46a9fc9cb429ceaf5</link>
+<guid>0bef7d7be99a42f81570f6008f7443fb6f1817f6a597c05a02a7a3415bbdd043</guid>
+<pubDate>2026-08-19T08:56:07+09:00</pubDate>
+<description>Claude Code 2.1.232 で、サブエージェントの fork が既定で有効になりました。 fork は、親の会話をまるごと引き継ぐサブエージェントです。前提を説明し直さずに作業を投げられます。 使ってみようとしたら、こうなりました。 Agent type &#x27;fo...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/beyond-vector-similarity-hierarchical-context-aware-graph-rag-vs-standard-rag-in-enterprise-code-migration/</link>
-<guid>e40a994cf0af6ea7fd75ffd85683d6d71be9060c2ae9cba3e4e8e59390c0dab3</guid>
-<pubDate>Tue, 18 Aug 2026 23:43:05 GMT</pubDate>
+<link>https://research.google/pubs/tight-lower-bound-for-multicolor-discrepancy/</link>
+<guid>cac5bf0d4bc09454a8e49384705f9e810e5739d9c64e08dfeb436d5760bc2a44</guid>
+<pubDate>Wed, 19 Aug 2026 00:39:30 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>3e875087f56d7d9d5e3f35ed6fcf4365d43b599f95f23817843f00ade6820662</guid>
-<pubDate>Tue, 18 Aug 2026 23:43:27 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
