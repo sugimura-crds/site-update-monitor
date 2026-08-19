@@ -4,49 +4,50 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 19 Aug 2026 03:23:43 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 04:06:03 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 GLM-5.3 APIを使って分かった、常時thinking・3段階推論・3 API互換の実装ポイント</title>
-<link>https://qiita.com/xiongyuanmeng1006/items/f53baecdd73f485e60d9</link>
-<guid>3c6a78dcf51f844290fddee1e3fd8a7161c2d6492b400054e3a2db157371dc8f</guid>
-<pubDate>2026-08-19T12:17:51+09:00</pubDate>
-<description>2026年8月19日、GLM-5.3 APIの正式提供が始まりました。 GLM-5.3はGLM-5.2と同じベースモデルを使いながら、ポストトレーニングの強化によって、複雑なコーディングや長時間のエージェントタスクで性能を伸ばしたモデルです。 ただし、APIを既存のGLM-...</description>
-</item>
-<item>
-<title>【Qiita】 【AWS】ベクトル×クラスタリングで未知の障害をいち早く検知できるか</title>
-<link>https://qiita.com/kikuziro/items/f7c27d42c352f6d8bf38</link>
-<guid>92a18f300dae6d666b755444947ffe0b573be824a9961fbfc519df16db855652</guid>
-<pubDate>2026-08-19T12:05:35+09:00</pubDate>
-<description>📝 TL:DR 「今日この問い合わせ多くない？ バグってんじゃない？」をシステム検知してみた 本番運用で耐えうる精度までいかなかった チューニングが難しい... 🤔 1件なら環境問題、10件なら障害？ サポート業務をやったことのある方に質問です。 「ログインできま...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェント用検索APIの重複URLをPythonで測る</title>
-<link>https://qiita.com/hironakamura_ai/items/c8bf7edf7b7689dfeeb8</link>
-<guid>e656c5f0cd8475098bde5a2432328afa8b33cf9b907f2c6207577be4b929b170</guid>
-<pubDate>2026-08-19T11:33:07+09:00</pubDate>
-<description>AIエージェント用検索APIの重複URLをPythonで測る 朝、テスト用に保存した二つの検索応答を見比べていたら、片方にだけ utm_source が付いていた。同じ Python ドキュメントを返しているのに、そのまま集合を取ると別URL扱いになる。こういう地味な差で...</description>
-</item>
-<item>
-<title>【Qiita】 月3,400円のAI会社を通さない「依頼を書かない」仕組み</title>
-<link>https://qiita.com/macchan_ai_dev/items/419e4471d0abd586f848</link>
-<guid>9672316462d8b4e4c7debefee756c27225c2f82fbe27d0b990eef4e520b91f5f</guid>
-<pubDate>2026-08-19T11:26:38+09:00</pubDate>
-<description>前回の記事で「話者判別の詳細は別記事に譲ります」と書いたので、その回収です。うまくいっている部分と、まだ解けていない部分の両方を書きます。 TL;DR フォルダに会議の録音を置くだけで、数十分後に「誰が・何時何分に・何を言ったか」が並んだ逐語録ができあがり、チャッ...</description>
+<title>【Qiita】 【最速検証】Qwen3.8-27BをLlama.cppで動かす！16GB環境で自作Agentを完全自律実行させてみた</title>
+<link>https://qiita.com/lumichy/items/e8d3792c545ec71ed10e</link>
+<guid>3549610b5eb3794150ab87c7a3702d7ed02208373645e9d998e76f25c7a0f77e</guid>
+<pubDate>2026-08-19T12:52:49+09:00</pubDate>
+<description>オープンソースLLMの進化スピードが凄まじいことになっています。2026年8月中旬、Alibabaから電撃リリースされた Qwen3.8-27B は、「トップクラスの閉源モデルに匹敵する性能を持ちながら、最低8GB程度のVRAMから動作可能」として、ローカルLLMコミュニ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/linear-core-surrogates-smooth-loss-functions-with-linear-rates-for-classification-and-structured-prediction/</link>
-<guid>872009f06486ff8ebc4fbbfe2456c4408193df6346cb0bfbda348e479ad59ce0</guid>
-<pubDate>Wed, 19 Aug 2026 03:23:06 GMT</pubDate>
+<link>https://research.google/pubs/you-have-been-selected-as-the-winner-characterizing-user-reported-scams-on-tiktok/</link>
+<guid>d62d121bb66fd31ac2cfea285173391acd233895f80c2d747e840cb51026091c</guid>
+<pubDate>Wed, 19 Aug 2026 04:05:01 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>e26feaddcb7fb705b5405d8c8d5cf69ebeb6b8168a81019d8172b7893bfc7678</guid>
+<pubDate>Wed, 19 Aug 2026 04:05:06 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s42256-026-01301-0</link>
-<guid>c98c1482a8285e10c127184626f7898c78d5ad817f51e98afa6e77885d26aef1</guid>
-<pubDate>Wed, 19 Aug 2026 03:23:13 GMT</pubDate>
+<guid>c34e189e55fd7360eee200ac7141b0c3d6ed186c9503704b319d862ff821c68e</guid>
+<pubDate>Wed, 19 Aug 2026 04:05:08 GMT</pubDate>
 <description>Frontier large language models (LLMs) have rapidly developed from helpful coding assistants to highly capable cybersecurity systems. After several security incidents in the past few months, more oversight and a strong focus on safe testing and deployment seem needed.</description>
+</item>
+<item>
+<title>【U.S.】 scac@science.doe.gov</title>
+<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
+<guid>3e415ab4483cdbffbf3e9b80c82aee5bec6cf4d4b34fe111482fd0dfabe4b1e0</guid>
+<pubDate>Wed, 19 Aug 2026 04:05:13 GMT</pubDate>
+<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@science.doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and in</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>34cc97e834f248cec02847c0782a16225be8bc1ce2b6fd36f64010d57a13c07f</guid>
+<pubDate>Wed, 19 Aug 2026 04:05:43 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
