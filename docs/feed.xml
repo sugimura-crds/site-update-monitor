@@ -4,28 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 19 Aug 2026 12:24:51 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 13:23:34 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claudeに「過去」を与える 〜3年分のプロジェクト履歴をAIの判断材料にする〜</title>
-<link>https://qiita.com/kuri_megane/items/d2c118ec21982ac2e72f</link>
-<guid>af184782fe3a9caf8736cb84915fd39031f90d1e969b235f1fe42155cc2ff915</guid>
-<pubDate>2026-08-19T21:15:38+09:00</pubDate>
-<description>はじめに こんにちは、くりメガネです。株式会社センシンロボティクスでロボット運用支援ツールの開発とスクラムマスターを担当しているソフトウェアエンジニアです。 この記事は、Claude Codeを使ってコードを書くエンジニアはもちろん、仕様ドラフトの作成やQAのテスト設...</description>
+<title>【Qiita】 Claude CodeのCLAUDE.md書き方完全ガイド！相棒のようなclaudeにしよう</title>
+<link>https://qiita.com/kamome_susume/items/b14eb24cd4a8fd9f1c97</link>
+<guid>2c2fd13a5ec0636f5b4ef9ece37c84505c4481f65280235dec6e84d5705fe9f3</guid>
+<pubDate>2026-08-19T22:04:56+09:00</pubDate>
+<description>Claude Codeを使い始めたものの、思った通りに動いてくれない。 そんな経験はありませんか？ 実はその原因、CLAUDE.mdの書き方にあることが多いんです。 設定ファイル一つで、Claudeの理解度は驚くほど変わります。 この記事では、CLAUDE.mdを「ただの設...</description>
+</item>
+<item>
+<title>【Qiita】 【保存版】Claude Codeの/ commandsチートシート</title>
+<link>https://qiita.com/kamome_susume/items/41e959dbbf9e8bef51d7</link>
+<guid>4e2d9c692e68587a640dbc91b43af327ff35a7d7e1c9aadc8d8cc6bbaecb010a</guid>
+<pubDate>2026-08-19T21:40:13+09:00</pubDate>
+<description>「Claude Codeの/コマンド、種類が多すぎて覚えきれない」と感じたことはありませんか？ /compactと/clearの違いがあいまいなまま使っていたり、/planや/runの存在自体を知らなかったり。 実はこれ、かなり多くの人が同じところでつまずいています。 この...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェント時代の最重要スキル、コミュ力説</title>
+<link>https://qiita.com/java_wocky/items/f7e7bdca979d0ac4c434</link>
+<guid>77968887a4253459f85df44abbecd935702e879a200a91d2f93892e370005d45</guid>
+<pubDate>2026-08-19T21:44:47+09:00</pubDate>
+<description>私はメモツールとしてObsidianを愛用している。 Obsidianにはプラグインと呼ばれる拡張機能があり、基本機能だけではできないさまざまな機能を追加できる。その中でも私が気に入っているのが、タスク管理プラグインのTaskNotesである。 TaskNotesでは、T...</description>
+</item>
+<item>
+<title>【自動自律実験】 Delisted</title>
+<link>https://www.nature.com/articles/d41586-026-02410-x</link>
+<guid>90e5742d3e68d964ba9f748a4d860ed8f8710659d199466d5039d4f77479b674</guid>
+<pubDate>2026-08-19</pubDate>
+<description>Called to account.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/the-synthetic-gap-automating-forensic-investigation-of-ai-slop-with-the-scaled-abuse-forensics-examiner-safe/</link>
-<guid>df491180fac3385855e80c5a718bdf8acbb2e96bcf2bd2830c9113a3298ba027</guid>
-<pubDate>Wed, 19 Aug 2026 12:24:00 GMT</pubDate>
+<link>https://research.google/pubs/scaling-telemetry-to-terabytes-applying-googles-principles-to-opentelemetry-with-opamp/</link>
+<guid>531331bf6f5ed383329e30a7461aafeec6c6c3161e1b271939b96a4b5c3a4f4c</guid>
+<pubDate>Wed, 19 Aug 2026 13:22:55 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>f75e96c5e87a59d25cbb86bece0d35b3f20aa6e3ce1735aa51742ccb34c7fcb8</guid>
+<pubDate>Wed, 19 Aug 2026 13:22:59 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s42256-026-01301-0</link>
-<guid>c8ff7fe4fb7258ddc0143cdb70b77188456f243927937dcb8468593ca443acac</guid>
-<pubDate>Wed, 19 Aug 2026 12:24:16 GMT</pubDate>
-<description>Frontier large language models (LLMs) have rapidly developed from helpful coding assistants to highly capable cybersecurity systems. After several security incidents in the past few months, more oversight and a strong focus on safe testing and deployment seem needed.</description>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>b1c7aa131bc2e4dbcc027d0f402faa023b41d908886f007b8f1e047a3d32a09d</guid>
+<pubDate>Wed, 19 Aug 2026 13:23:02 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>1a5461f04d6c2816783e44c9371d9d8e817244b9233d884274e6a2fe49041ab5</guid>
+<pubDate>Wed, 19 Aug 2026 13:23:03 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
