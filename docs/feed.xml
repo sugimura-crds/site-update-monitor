@@ -4,21 +4,64 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 19 Aug 2026 00:40:34 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 02:12:36 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Code の fork、既定ONのはずが使えなかった — 環境変数1つで決まっていた</title>
-<link>https://qiita.com/jqit_suwa/items/11f46a9fc9cb429ceaf5</link>
-<guid>0bef7d7be99a42f81570f6008f7443fb6f1817f6a597c05a02a7a3415bbdd043</guid>
-<pubDate>2026-08-19T08:56:07+09:00</pubDate>
-<description>Claude Code 2.1.232 で、サブエージェントの fork が既定で有効になりました。 fork は、親の会話をまるごと引き継ぐサブエージェントです。前提を説明し直さずに作業を投げられます。 使ってみようとしたら、こうなりました。 Agent type &#x27;fo...</description>
+<title>【Qiita】 Graph Engineering 徹底解説 ― AIエージェントの「仕事の設計図」を明示グラフで組み立てる</title>
+<link>https://qiita.com/Simon_Zhang/items/e7531c40d11257ff00e8</link>
+<guid>42cb4aec264f30712772636d26d36ca8c161e6aa847b3e66d73ca8896cb68d33</guid>
+<pubDate>2026-08-19T10:37:53+09:00</pubDate>
+<description>この記事の対象：AIエージェントを「単発のプロンプト」や「1本のループ」ではなく、明示的な実行グラフ（Execution Graph） として設計したい人。 前提知識：LLM／プロンプトエンジニアリングの基礎。LangGraph などのコードが少し読めると理解が深まります...</description>
+</item>
+<item>
+<title>【Qiita】 生成AIをSES現場で使う方法 数学研究から学ぶ仮説・検証・反例探索</title>
+<link>https://qiita.com/s_horikoshi/items/0a11f6bb0a5c264b735e</link>
+<guid>f589b95a81c030e6ecadb24c46c06946f7605198168e6b29936ffeb17a1c2e19</guid>
+<pubDate>2026-08-19T10:03:09+09:00</pubDate>
+<description>はじめに 数学の難問にAIを使う研究では、AIが出した答えをそのまま正しいとしているわけではありません。AIに候補を幅広く出させ、プログラムや形式的な検証手段で確かめ、最後は専門家が意味を判断します。 この考え方は、SESエンジニアの仕事にも応用できます。 例えば、...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントのメモリ機能とは何か——「優秀な秘書のメモ帳」で会話履歴管理を完全理解</title>
+<link>https://qiita.com/handson-lab/items/8fa62a9b3bb8df623d9c</link>
+<guid>ac00765808763ae1171ba987c651c0f970fe70a9f5c0feade0fca2949110b5ba</guid>
+<pubDate>2026-08-19T09:40:42+09:00</pubDate>
+<description>こんにちは！ハンズオンラボ運営のえむです。 「さっき伝えたはずの情報を、AIがまた聞き返してくる」という経験はありませんか？逆に、別のAIツールでは「先週話した内容を覚えていて驚いた」ということもあるかもしれません。同じAIなのに、なぜこうも挙動が違うのか気になったことがあ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/tight-lower-bound-for-multicolor-discrepancy/</link>
-<guid>cac5bf0d4bc09454a8e49384705f9e810e5739d9c64e08dfeb436d5760bc2a44</guid>
-<pubDate>Wed, 19 Aug 2026 00:39:30 GMT</pubDate>
+<link>https://research.google/pubs/an-improved-entropy-measure-for-web-browser-fingerprinting-risk/</link>
+<guid>26f6e649bb47c4d2b0836e50fe62048e99460c416a694a3a0f23306cabb534b1</guid>
+<pubDate>Wed, 19 Aug 2026 02:11:58 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>67a89b9309f60adc5f90ae93e8ef273142fed4e201b0e28081b9eb0f91bc919b</guid>
+<pubDate>Wed, 19 Aug 2026 02:12:02 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>947105e4aab2ada6a5218f28206e515e29d2a522c37fd1f1d7d28000fbb9578d</guid>
+<pubDate>Wed, 19 Aug 2026 02:12:04 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>0302d5988fb4cf7133a567448504dd8849b465e9b1346938741e710636054135</guid>
+<pubDate>Wed, 19 Aug 2026 02:12:08 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>b9a0f58b0d2003d4af72ebe5c350c85fe51d677a54d833c08860b2f96cf2f69a</guid>
+<pubDate>Wed, 19 Aug 2026 02:12:18 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
