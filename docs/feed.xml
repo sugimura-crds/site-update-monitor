@@ -4,64 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 19 Aug 2026 02:12:36 GMT</lastBuildDate>
+<lastBuildDate>Wed, 19 Aug 2026 03:23:43 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Graph Engineering 徹底解説 ― AIエージェントの「仕事の設計図」を明示グラフで組み立てる</title>
-<link>https://qiita.com/Simon_Zhang/items/e7531c40d11257ff00e8</link>
-<guid>42cb4aec264f30712772636d26d36ca8c161e6aa847b3e66d73ca8896cb68d33</guid>
-<pubDate>2026-08-19T10:37:53+09:00</pubDate>
-<description>この記事の対象：AIエージェントを「単発のプロンプト」や「1本のループ」ではなく、明示的な実行グラフ（Execution Graph） として設計したい人。 前提知識：LLM／プロンプトエンジニアリングの基礎。LangGraph などのコードが少し読めると理解が深まります...</description>
+<title>【Qiita】 GLM-5.3 APIを使って分かった、常時thinking・3段階推論・3 API互換の実装ポイント</title>
+<link>https://qiita.com/xiongyuanmeng1006/items/f53baecdd73f485e60d9</link>
+<guid>3c6a78dcf51f844290fddee1e3fd8a7161c2d6492b400054e3a2db157371dc8f</guid>
+<pubDate>2026-08-19T12:17:51+09:00</pubDate>
+<description>2026年8月19日、GLM-5.3 APIの正式提供が始まりました。 GLM-5.3はGLM-5.2と同じベースモデルを使いながら、ポストトレーニングの強化によって、複雑なコーディングや長時間のエージェントタスクで性能を伸ばしたモデルです。 ただし、APIを既存のGLM-...</description>
 </item>
 <item>
-<title>【Qiita】 生成AIをSES現場で使う方法 数学研究から学ぶ仮説・検証・反例探索</title>
-<link>https://qiita.com/s_horikoshi/items/0a11f6bb0a5c264b735e</link>
-<guid>f589b95a81c030e6ecadb24c46c06946f7605198168e6b29936ffeb17a1c2e19</guid>
-<pubDate>2026-08-19T10:03:09+09:00</pubDate>
-<description>はじめに 数学の難問にAIを使う研究では、AIが出した答えをそのまま正しいとしているわけではありません。AIに候補を幅広く出させ、プログラムや形式的な検証手段で確かめ、最後は専門家が意味を判断します。 この考え方は、SESエンジニアの仕事にも応用できます。 例えば、...</description>
+<title>【Qiita】 【AWS】ベクトル×クラスタリングで未知の障害をいち早く検知できるか</title>
+<link>https://qiita.com/kikuziro/items/f7c27d42c352f6d8bf38</link>
+<guid>92a18f300dae6d666b755444947ffe0b573be824a9961fbfc519df16db855652</guid>
+<pubDate>2026-08-19T12:05:35+09:00</pubDate>
+<description>📝 TL:DR 「今日この問い合わせ多くない？ バグってんじゃない？」をシステム検知してみた 本番運用で耐えうる精度までいかなかった チューニングが難しい... 🤔 1件なら環境問題、10件なら障害？ サポート業務をやったことのある方に質問です。 「ログインできま...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントのメモリ機能とは何か——「優秀な秘書のメモ帳」で会話履歴管理を完全理解</title>
-<link>https://qiita.com/handson-lab/items/8fa62a9b3bb8df623d9c</link>
-<guid>ac00765808763ae1171ba987c651c0f970fe70a9f5c0feade0fca2949110b5ba</guid>
-<pubDate>2026-08-19T09:40:42+09:00</pubDate>
-<description>こんにちは！ハンズオンラボ運営のえむです。 「さっき伝えたはずの情報を、AIがまた聞き返してくる」という経験はありませんか？逆に、別のAIツールでは「先週話した内容を覚えていて驚いた」ということもあるかもしれません。同じAIなのに、なぜこうも挙動が違うのか気になったことがあ...</description>
+<title>【Qiita】 AIエージェント用検索APIの重複URLをPythonで測る</title>
+<link>https://qiita.com/hironakamura_ai/items/c8bf7edf7b7689dfeeb8</link>
+<guid>e656c5f0cd8475098bde5a2432328afa8b33cf9b907f2c6207577be4b929b170</guid>
+<pubDate>2026-08-19T11:33:07+09:00</pubDate>
+<description>AIエージェント用検索APIの重複URLをPythonで測る 朝、テスト用に保存した二つの検索応答を見比べていたら、片方にだけ utm_source が付いていた。同じ Python ドキュメントを返しているのに、そのまま集合を取ると別URL扱いになる。こういう地味な差で...</description>
+</item>
+<item>
+<title>【Qiita】 月3,400円のAI会社を通さない「依頼を書かない」仕組み</title>
+<link>https://qiita.com/macchan_ai_dev/items/419e4471d0abd586f848</link>
+<guid>9672316462d8b4e4c7debefee756c27225c2f82fbe27d0b990eef4e520b91f5f</guid>
+<pubDate>2026-08-19T11:26:38+09:00</pubDate>
+<description>前回の記事で「話者判別の詳細は別記事に譲ります」と書いたので、その回収です。うまくいっている部分と、まだ解けていない部分の両方を書きます。 TL;DR フォルダに会議の録音を置くだけで、数十分後に「誰が・何時何分に・何を言ったか」が並んだ逐語録ができあがり、チャッ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/an-improved-entropy-measure-for-web-browser-fingerprinting-risk/</link>
-<guid>26f6e649bb47c4d2b0836e50fe62048e99460c416a694a3a0f23306cabb534b1</guid>
-<pubDate>Wed, 19 Aug 2026 02:11:58 GMT</pubDate>
+<link>https://research.google/pubs/linear-core-surrogates-smooth-loss-functions-with-linear-rates-for-classification-and-structured-prediction/</link>
+<guid>872009f06486ff8ebc4fbbfe2456c4408193df6346cb0bfbda348e479ad59ce0</guid>
+<pubDate>Wed, 19 Aug 2026 03:23:06 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>67a89b9309f60adc5f90ae93e8ef273142fed4e201b0e28081b9eb0f91bc919b</guid>
-<pubDate>Wed, 19 Aug 2026 02:12:02 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>947105e4aab2ada6a5218f28206e515e29d2a522c37fd1f1d7d28000fbb9578d</guid>
-<pubDate>Wed, 19 Aug 2026 02:12:04 GMT</pubDate>
-<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>0302d5988fb4cf7133a567448504dd8849b465e9b1346938741e710636054135</guid>
-<pubDate>Wed, 19 Aug 2026 02:12:08 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>b9a0f58b0d2003d4af72ebe5c350c85fe51d677a54d833c08860b2f96cf2f69a</guid>
-<pubDate>Wed, 19 Aug 2026 02:12:18 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<link>https://www.nature.com/articles/s42256-026-01301-0</link>
+<guid>c98c1482a8285e10c127184626f7898c78d5ad817f51e98afa6e77885d26aef1</guid>
+<pubDate>Wed, 19 Aug 2026 03:23:13 GMT</pubDate>
+<description>Frontier large language models (LLMs) have rapidly developed from helpful coding assistants to highly capable cybersecurity systems. After several security incidents in the past few months, more oversight and a strong focus on safe testing and deployment seem needed.</description>
 </item>
 
 </channel>
