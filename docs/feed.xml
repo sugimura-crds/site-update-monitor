@@ -4,28 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 20 Aug 2026 03:22:22 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 04:05:13 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントは「賢いチャットボット」ではなく、アプリ同士をつなぐ実行レイヤーになる</title>
-<link>https://qiita.com/Naturalmelo/items/9f320a16f1bec43c5326</link>
-<guid>05db453f2a12056985484232940e43b7cab6af54fe9edaa3335f4de9c5e4da6f</guid>
-<pubDate>2026-08-20T11:38:42+09:00</pubDate>
-<description>AIエージェントというと、「人間の代わりに全部やってくれるAI」を想像する人が多いと思います。 でも最近いろいろなAIエージェントや自動化ツールを見ていると、実際にはもっと現実的な進化が起きているように感じます。 それは、AIがアプリの代わりになるのではなく、アプリ同士の間...</description>
-</item>
-<item>
-<title>【Qiita】 絶望から始まったAIエージェント超入門</title>
-<link>https://qiita.com/kyrieee/items/8f4c0e3596c2dd10f06e</link>
-<guid>3d3ebe983d1964f585c1b43eab4b9b8594c2f063a64ec9d048bcaa23e291cd8a</guid>
-<pubDate>2026-08-20T11:31:58+09:00</pubDate>
-<description>はじめに Amazon Bedrock Agent Core実践入門を読んだ背景 最近のAIの急成長ぶりについていけず、焦りを感じていたため、「AIを使う」というより「AIの仕組み」を理解することで根本から理解ができれば世の中の言っていることが理解できるんじゃないか？と...</description>
-</item>
-<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/genstrat-toward-a-science-of-strategic-reasoning-in-large-language-models/</link>
-<guid>84d3efd41a3ff46584ab020354f1c5e4d344ecd568427a3b0a8d80051c868621</guid>
-<pubDate>Thu, 20 Aug 2026 03:21:45 GMT</pubDate>
+<link>https://research.google/pubs/robust-wireless-resource-allocation-against-adversarial-jamming/</link>
+<guid>8ac6aed31c60faf7633a6c4db480cc44bd19675d24488fbf8492fba7bb49b43d</guid>
+<pubDate>Thu, 20 Aug 2026 04:04:31 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>3ea11b6b79d79f6b863bd6f1f69aaa601b2219a7dcc891ef87c7909cb06238c7</guid>
+<pubDate>Thu, 20 Aug 2026 04:04:34 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
 </channel>
