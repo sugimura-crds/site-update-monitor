@@ -4,36 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 20 Aug 2026 00:39:50 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 02:12:03 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 これからのAI開発ツールは「GitHub Copilot」と「Cline」に集約される</title>
-<link>https://qiita.com/lowgain/items/907ef13d8dfe4a23ab77</link>
-<guid>d92774d44632b39c10c2e4f6489e2e3fe0b3f5f7b0da3b388f61bb3ed42a9d7b</guid>
-<pubDate>2026-08-20T09:24:50+09:00</pubDate>
-<description>これからのAI開発ツールは「GitHub Copilot」と「Cline」に集約される AIを使ったソフトウェア開発ツールが急速に増えている。 GitHub Copilot、Cline、Claude Code、Cursor、Kiro、IBM Bob、Codexなど、少し追...</description>
+<title>【Qiita】 新卒エンジニアにAIをどこまで使わせるか</title>
+<link>https://qiita.com/y_bs/items/0c7b21399acf0705d3f2</link>
+<guid>5ce185188b75da428d340ea3b9688e948de751ab8c77438e2557276e5fae6a53</guid>
+<pubDate>2026-08-20T10:06:59+09:00</pubDate>
+<description>はじめに ここ1年、自分の実装業務はほぼすべてAIコーディングエージェント経由でやっています。 手を入れ続けたハーネスと、繰り返し使えるループとして運用している形です。 その一方で、新卒メンバーの支援には以前から関わっており、今年からは教育トレーナーを担当しています。そこ...</description>
+</item>
+<item>
+<title>【Qiita】 領収書を撮るだけで医療費控除の明細書ができる。ローカルLLMには読ませるだけ、確定はさせない</title>
+<link>https://qiita.com/macchan_ai_dev/items/82c960d62fd73536fcf3</link>
+<guid>fad2057afb1fdb1af48e0fe63a14670e2f40f9032ab65d0f995713541ff45e0c</guid>
+<pubDate>2026-08-20T10:55:05+09:00</pubDate>
+<description>皆さん、確定申告の医療費控除って、どうやって集計していますか。 封筒にためた領収書を年明けに全部出して、電卓を叩いて、Excelに打ち込む。私は毎年これをやっていました。面倒なうえに、普通に間違えます。 「マイナポータル連携があるでしょう」と言われそうですが、我が家ではそれ...</description>
+</item>
+<item>
+<title>【自動自律実験】 These trees are making air quality in cities worse</title>
+<link>https://www.nature.com/articles/d41586-026-02586-2</link>
+<guid>3dd2f53066cb8f2585165bb8ddc3e5ec7520657ab597b5ffc47f2cfcc918abef</guid>
+<pubDate>2026-08-20</pubDate>
+<description>They release compounds that contribute to ozone emissions, and rising temperatures could exacerbate the problem.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/prompt-level-distillation-a-non-parametric-alternative-to-model-fine-tuning-for-efficient-reasoning/</link>
-<guid>a9183a3991965906d2b52ed1867abb06be17a7c1aeaf10a197cf1d57c4488a3b</guid>
-<pubDate>Thu, 20 Aug 2026 00:39:16 GMT</pubDate>
+<link>https://research.google/pubs/calibrating-trustworthiness-in-genai/</link>
+<guid>25b03dcabdca70e428e53fd6d6316c0ae194e74725321295c823112e6cedf87e</guid>
+<pubDate>Thu, 20 Aug 2026 02:11:02 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>c1cf078305717395fada7e2a56648822a4a3d6ed80e0dc15419950ab2ca1c69a</guid>
-<pubDate>Thu, 20 Aug 2026 00:39:22 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>69a645c184c34fd10cdc7e26b96aa8ddaf4600e29296266a297955a2fa07fad2</guid>
+<pubDate>Thu, 20 Aug 2026 02:11:04 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>64ae91fbb83e4cdd334f9403c94c1619e453e2dcf3d3a00dc24d7258ac7e1998</guid>
-<pubDate>Thu, 20 Aug 2026 00:39:33 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>412a8658d95451e50f7910c366ff8b04d953940d29e3cee3a03c38e168c5518d</guid>
+<pubDate>Thu, 20 Aug 2026 02:11:07 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>6383e0dc4039599f90f2eb35cf7f18a3436804418a6046a58e57f027461112f8</guid>
+<pubDate>Thu, 20 Aug 2026 02:11:22 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 
 </channel>
