@@ -4,35 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 20 Aug 2026 07:23:31 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 08:03:27 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 UbuntuでAntigravity IDEをアップデートする方法</title>
-<link>https://qiita.com/haru960197/items/54909a0673bdff34c8c6</link>
-<guid>7f362d7eced9e8bd20592d6daa8289ed96eb4393fcf18c4b2e8d3c7446619870</guid>
-<pubDate>2026-08-20T15:36:45+09:00</pubDate>
-<description>アップデート方法がわかりづらい Gemini 3.7 Flashがリリースされたということで，IDEをアップデートしたくなった． アプリで「Update Available」と表示されたため，クリックすると，公式サイトに飛ばされる． しかし，飛んだ先はIDEではなく，無印...</description>
+<title>【Qiita】 Windows ServerのBitlockerについて仕組みを調べてみた。</title>
+<link>https://qiita.com/shiyasu/items/143b6076d6cc4ef3b041</link>
+<guid>dc190853190dbf5a7d17dbe048d0f8a8126075e061cfb1bd99b9ba228000b4d0</guid>
+<pubDate>2026-08-20T16:59:38+09:00</pubDate>
+<description>1. BitLockerの暗号化とProtectorの仕組み Cドライブなどのボリューム内のデータは、FVEK (Full Volume Encryption Key) によって暗号化される。 FVEK自体もディスク上に保存されるが、そのまま保存されるわけではなく、VM...</description>
+</item>
+<item>
+<title>【Qiita】 VMware環境におけるvTPMの設定とBitLockerの構成</title>
+<link>https://qiita.com/shiyasu/items/890a7ef1e043d6a2c18c</link>
+<guid>e6ff6def40cf4f87a8d7f30a36e3d959d7fb97ad75ef0fa893ebc98bf7632314</guid>
+<pubDate>2026-08-20T16:53:27+09:00</pubDate>
+<description>1. TPMの有効化 vCenter名を選択し、Configureから、Key Providersを選択し、Add Native Key Provicerを選択する（本来は外部のKMS Providerを選択する方がよりセキュアなのだろうが、手っ取り早く検証したいので...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeを3ヶ月回して分かった、速さより「任せ方」で差がつく運用術</title>
+<link>https://qiita.com/kapsel/items/ecb4a744e836df9ad3e9</link>
+<guid>d20767ee5581b9f82bceb21ccd0e00c93b5a8fb71fa7df811d170932da566437</guid>
+<pubDate>2026-08-20T17:00:06+09:00</pubDate>
+<description>Claude Codeを使い始めた最初の1ヶ月、自分は「どれだけ書かせられるか」を試していました。大きめの機能もひとことで指示すればそれっぽく実装が出てくるので、最初は単純に速いツールだと思っていました。 3ヶ月回してみて印象が変わりました。速さそのものより効いてくるのは「...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/ten-insights-from-other-domains-that-inform-responsible-ai-frameworks/</link>
-<guid>f5c4786b78bca5132f77680938980b7cb9fe451de691719ae109f4eb83c4ccf3</guid>
-<pubDate>Thu, 20 Aug 2026 07:22:46 GMT</pubDate>
+<link>https://research.google/pubs/system-for-a-secure-outcome-based-synthetic-labor-market-using-trusted-execution-environments/</link>
+<guid>bdb5e96ed55ff7cd3ecc7930943c349e2e773cd1b382316cc11ac032c79614f6</guid>
+<pubDate>Thu, 20 Aug 2026 08:02:40 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>2625fb72ed07e0a0f4ade42c5e3099898915d3d0c9ce477c618f79a001907649</guid>
-<pubDate>Thu, 20 Aug 2026 07:22:49 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>5a83bc6f053a9679f6d45f2cdc207f748c30c2ff9e7546baeaed215d4701a24f</guid>
-<pubDate>Thu, 20 Aug 2026 07:23:12 GMT</pubDate>
+<guid>b80a59f8587f43d58ea5cf9aede9fe554a03d8af885cb0cd691b92d153f7626c</guid>
+<pubDate>Thu, 20 Aug 2026 08:03:07 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
