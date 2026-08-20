@@ -4,50 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 20 Aug 2026 05:53:49 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 06:28:18 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントの「完了しました」を信じない：外部状態で完了を検証する設計</title>
-<link>https://qiita.com/LemonCake/items/5da2519caa8f8468968b</link>
-<guid>da69ba92a392a7d0999c5358a13d3eb18932fdd04607488a8f9506e00026d562</guid>
-<pubDate>2026-08-20T14:34:47+09:00</pubDate>
-<description>AIエージェントを業務システムに接続すると、ログ上の SUCCESS と「業務が完了した」は別の意味になります。 たとえば、CRMの更新APIが200を返した、返金メールを送った、Slackへ招待を送った。これらはすべて実行された操作の証拠です。しかし、顧客が「Qualif...</description>
-</item>
-<item>
-<title>【Qiita】 Oracle AI Data Platformでプログラム無しで、AIエージェントを使って、自分のデータのRAG構成をつくってみた</title>
-<link>https://qiita.com/s-nori/items/c57ab78ef4b45071077a</link>
-<guid>d7079a4d9652506068de352738175f63725bd4fd848af5a549875e7e0aeadff9</guid>
-<pubDate>2026-08-20T14:23:12+09:00</pubDate>
-<description>はじめに 生成AIを使ったアプリケーションを作る際、よく登場する構成の一つが RAG（Retrieval-Augmented Generation） です。 RAGを利用すると、LLMがもともと持っている知識だけではなく、自分たちが用意したドキュメントやナレッジを検索し、...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Codeを毎朝7時に一足先に「出社」させて、今日の予定と「Slackの宿題」を1通で提出させる</title>
-<link>https://qiita.com/inoyu-qiita/items/da761304846db4e34c7b</link>
-<guid>d7e776fbc961f8ea909c63d678f4ae2cd0043ff55efebbfc83b3bbc4c2bcc0cc</guid>
-<pubDate>2026-08-20T14:14:00+09:00</pubDate>
-<description>先日AI HACK2026で優勝した社内のUさん(@haru-qiita)に教えていただいたクラウドルーティン活用術の実践編です！ はじめに Claude Codeの「ルーティン」（クラウド上で定期実行されるエージェント）に、毎平日の朝7時、自分より一足先に「出社」しても...</description>
+<title>【Qiita】 Windows Serverの評価版ライセンスを延長する方法</title>
+<link>https://qiita.com/shiyasu/items/cfa50e382bc8a9d6d967</link>
+<guid>857b6a1c428b505ad269bd54a4330f03443f42170d48c587fadb09433f88c9cb</guid>
+<pubDate>2026-08-20T15:18:45+09:00</pubDate>
+<description>定期的に勝手にWindows Severが止まる！？ なぜか定期的に勝手にWindows Serverが止まってしまう問題に遭遇したら、使っていた評価版ライセンスが切れていたことを発見した。 PS C:\&gt; Get-WinEvent -FilterHashtable @{...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/scalable-detection-of-adversarial-synthetic-slop-and-coordinated-media-abuse-a-lora-enabled-multimodal-defense-system-2/</link>
-<guid>7289f306bfa7020574a13cef2fb8130824c2c87e1395b9d1a0f12f49157428ee</guid>
-<pubDate>Thu, 20 Aug 2026 05:53:01 GMT</pubDate>
+<link>https://research.google/pubs/calibrating-trustworthiness-in-genai/</link>
+<guid>cabc21153d159de473492930373555ffd5da7b8fc53911bf3e4a3ac881c57123</guid>
+<pubDate>Thu, 20 Aug 2026 06:27:33 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>ebc336337086d57d2c614b80feae8c747e642b4d2488845e912947a751bcdd4d</guid>
-<pubDate>Thu, 20 Aug 2026 05:53:04 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>2b9c8a4cc78eda4607d104fd192a41fb817c1181eaea4c3ed0867f7d9b59cf70</guid>
-<pubDate>Thu, 20 Aug 2026 05:53:32 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
