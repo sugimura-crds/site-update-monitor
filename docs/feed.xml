@@ -4,35 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 20 Aug 2026 15:02:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 15:56:55 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 プロンプトインジェクションの「その後」を設計する — エージェントフレームワークの信頼境界</title>
-<link>https://qiita.com/ryoji9702/items/4e14d1976bd0eb3f815c</link>
-<guid>cba2f5b762ed193b89f287adc796ccd3ea08c74171d0205c9b70ee60f1c3e007</guid>
-<pubDate>2026-08-20T23:43:22+09:00</pubDate>
-<description>はじめに プロンプトインジェクションの記事はこの1年でずいぶん増えました。しかし、ほとんどが「どうやって注入を検知・ブロックするか」という入口の話で終わっています。 本記事ではそこから一歩踏み込んでCheck Point の Black Hat 報告記事/The Regi...</description>
+<title>【Qiita】 議事録も実験結果も全部mdに ── 松尾研究所の半分以上のプロジェクトで動く「LLM Wiki」を勉強会で覗いてきた</title>
+<link>https://qiita.com/inoyu-qiita/items/933228c1d16cc3b72833</link>
+<guid>ae595dfe717c99763962e1612804064f9ce3e24e713fbc0768cc2d83a6ec4517</guid>
+<pubDate>2026-08-21T00:36:32+09:00</pubDate>
+<description>はじめに 「議事録も実験結果も仮説もタスクも、全部Markdownにしてエージェントと一緒に育てる」──そんな運用が、松尾研究所では半分以上のプロジェクトにすでに入っているそうです。 2026年8月20日に開催された松尾研究所の勉強会「松尾研究所データサイエンティストはい...</description>
 </item>
 <item>
-<title>【Qiita】 AI開発の進行管理を、自作ワークフローエンジンに任せてみた</title>
-<link>https://qiita.com/shrimpTail/items/5bb73d553409653938fd</link>
-<guid>66b214c6bcbc0487abe4a18f2c10a03f7aec095c389261b46afcbd8ae8c11a3d</guid>
-<pubDate>2026-08-20T23:54:58+09:00</pubDate>
-<description>AI開発の進行管理を、自作ワークフローエンジンに任せてみた はじめに AIコーディングエージェントに実装を任せる場面が増える一方で、こんな指示を何度も繰り返していないでしょうか。 まず調査して 方針を出して、いったん待って 実装して テストが失敗したら戻って直して 何...</description>
+<title>【Qiita】 Bedrockを調べていたら、Claude Codeのハーネスの理解がちょっとだけ深まった話</title>
+<link>https://qiita.com/makoware/items/05e398627a1f3b5d4176</link>
+<guid>9d7de8843e1618a019b38e68ab6ad94334c11a1f44077cc6861e93c9ef186ea1</guid>
+<pubDate>2026-08-21T00:35:10+09:00</pubDate>
+<description>1. はじめに 最近、Yes!東京 で「わびさびニキ」が気になっているmakowareです。 先日、担当しているプロジェクトでClaude Codeが使えるようになり、デフォルトでどんな設定がされているのかなと、何気なく /config を叩いてみました。 設定画面を眺め...</description>
+</item>
+<item>
+<title>【Qiita】 AIに仕事を奪われる不安から始めるハーネス作成入門 第24回 12週間のハーネス連載を振り返り、次に作るAI基盤を決める</title>
+<link>https://qiita.com/singula/items/f3b49c33d941feaf899b</link>
+<guid>58e289c2357d63bd6bccbf9a2c66fccc9969c0025f4b4753ab240dabeb11c1ab</guid>
+<pubDate>2026-08-21T00:05:49+09:00</pubDate>
+<description>この記事は連載『AIに仕事を奪われる不安から始めるハーネス作成入門』第24回（最終回）です。 連載目次 回 タイトル 状態 第1回 AIに仕事を奪われる不安から「ハーネス作成」を学ぶ理由 ✅ 第2回 最小構成のAIハーネスをMermaidで設計してみ...</description>
+</item>
+<item>
+<title>【自動自律実験】 Dialkyl ether synthesis through heteroatom homolytic substitution</title>
+<link>https://www.nature.com/articles/s41586-026-11043-z</link>
+<guid>476a82942d328de47407d962fce838ddb5b279e240dff47bdbb5a589eb77563b</guid>
+<pubDate>2026-08-20</pubDate>
+<description>Dialkyl ether synthesis through heteroatom homolytic substitution</description>
+</item>
+<item>
+<title>【自動自律実験】 Astronaut vest cuts radiation exposure in half</title>
+<link>https://www.nature.com/articles/d41586-026-02556-8</link>
+<guid>7410a88ef3110fc3c822acdce4fabce4f6377f172052a1086809c119826f0016</guid>
+<pubDate>2026-08-20</pubDate>
+<description>Tests on uncrewed NASA mission showed garment could spare astronauts the worst effects of solar storms.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/impact-of-user-tonalities-on-coding-ai-model-performance-and-behavior/</link>
-<guid>9bb72a65a2994b4ee5193cf72cec18cea1f98c25bbe17f2e3951447b8fc09396</guid>
-<pubDate>Thu, 20 Aug 2026 15:01:38 GMT</pubDate>
+<link>https://research.google/pubs/convapparel-a-benchmark-dataset-and-validation-framework-for-user-simulators-in-conversational-recommenders-2/</link>
+<guid>303be7649a51b5ffa2dbc36fae1ed9e836b1ffd0b0bc42e8ddc1c67283eaf397</guid>
+<pubDate>Thu, 20 Aug 2026 15:55:51 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>8e5d4b160a2bbc174e618a2fa1c86f51924830f8a730760df747eba8633510d7</guid>
+<pubDate>Thu, 20 Aug 2026 15:55:55 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s42256-026-01301-0</link>
-<guid>a0d6fb498ef7c70c6ecd8aea9d66390d167a66e4ec00184623e1c70ad2814de6</guid>
-<pubDate>Thu, 20 Aug 2026 15:01:45 GMT</pubDate>
-<description>Frontier large language models (LLMs) have rapidly developed from helpful coding assistants to highly capable cybersecurity systems. After several security incidents in the past few months, more oversight and a strong focus on safe testing and deployment seem needed.</description>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>86e0030b376f8d22cc8ae9d5e576131552aac49acb9cbd93d9ba4359fc2a9c7f</guid>
+<pubDate>Thu, 20 Aug 2026 15:55:57 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>e855e8e3d6b41a8ac8daee08e14833cb1abe6a5349bd9e1db269b4f7608daa27</guid>
+<pubDate>Thu, 20 Aug 2026 15:55:58 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>a5bb44fa9010823fdc4558c2bbaae247b2e1216f307e0ba5b021c22c65180314</guid>
+<pubDate>Thu, 20 Aug 2026 15:56:04 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 
 </channel>
