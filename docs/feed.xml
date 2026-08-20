@@ -4,28 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 20 Aug 2026 14:07:17 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 15:02:15 GMT</lastBuildDate>
 
 <item>
-<title>【自動自律実験】 Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?</title>
-<link>https://www.nature.com/articles/d41586-026-02612-3</link>
-<guid>c850edaabacc6cdeab150a1d5940dedaf9e553034a943c903c9b354df9d2e2f3</guid>
-<pubDate>2026-08-20</pubDate>
-<description>Promising trial results suggest cancer vaccines work and could be used to target other tumours.</description>
+<title>【Qiita】 プロンプトインジェクションの「その後」を設計する — エージェントフレームワークの信頼境界</title>
+<link>https://qiita.com/ryoji9702/items/4e14d1976bd0eb3f815c</link>
+<guid>cba2f5b762ed193b89f287adc796ccd3ea08c74171d0205c9b70ee60f1c3e007</guid>
+<pubDate>2026-08-20T23:43:22+09:00</pubDate>
+<description>はじめに プロンプトインジェクションの記事はこの1年でずいぶん増えました。しかし、ほとんどが「どうやって注入を検知・ブロックするか」という入口の話で終わっています。 本記事ではそこから一歩踏み込んでCheck Point の Black Hat 報告記事/The Regi...</description>
+</item>
+<item>
+<title>【Qiita】 AI開発の進行管理を、自作ワークフローエンジンに任せてみた</title>
+<link>https://qiita.com/shrimpTail/items/5bb73d553409653938fd</link>
+<guid>66b214c6bcbc0487abe4a18f2c10a03f7aec095c389261b46afcbd8ae8c11a3d</guid>
+<pubDate>2026-08-20T23:54:58+09:00</pubDate>
+<description>AI開発の進行管理を、自作ワークフローエンジンに任せてみた はじめに AIコーディングエージェントに実装を任せる場面が増える一方で、こんな指示を何度も繰り返していないでしょうか。 まず調査して 方針を出して、いったん待って 実装して テストが失敗したら戻って直して 何...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/bi-level-hierarchical-neural-contextual-bandits-for-online-recommendation/</link>
-<guid>badb6d0134be8090a21678bf71740f260ab44e288f8573111afb6df0520234a1</guid>
-<pubDate>Thu, 20 Aug 2026 14:06:16 GMT</pubDate>
+<link>https://research.google/pubs/impact-of-user-tonalities-on-coding-ai-model-performance-and-behavior/</link>
+<guid>9bb72a65a2994b4ee5193cf72cec18cea1f98c25bbe17f2e3951447b8fc09396</guid>
+<pubDate>Thu, 20 Aug 2026 15:01:38 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>f65ff9b879b73d9ed75a41b6e80c01c7f4fc215f0053e2d24f56b102dc44ffea</guid>
-<pubDate>Thu, 20 Aug 2026 14:06:18 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s42256-026-01301-0</link>
+<guid>a0d6fb498ef7c70c6ecd8aea9d66390d167a66e4ec00184623e1c70ad2814de6</guid>
+<pubDate>Thu, 20 Aug 2026 15:01:45 GMT</pubDate>
+<description>Frontier large language models (LLMs) have rapidly developed from helpful coding assistants to highly capable cybersecurity systems. After several security incidents in the past few months, more oversight and a strong focus on safe testing and deployment seem needed.</description>
 </item>
 
 </channel>
