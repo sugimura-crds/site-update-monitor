@@ -4,56 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 20 Aug 2026 02:12:03 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 03:22:22 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 新卒エンジニアにAIをどこまで使わせるか</title>
-<link>https://qiita.com/y_bs/items/0c7b21399acf0705d3f2</link>
-<guid>5ce185188b75da428d340ea3b9688e948de751ab8c77438e2557276e5fae6a53</guid>
-<pubDate>2026-08-20T10:06:59+09:00</pubDate>
-<description>はじめに ここ1年、自分の実装業務はほぼすべてAIコーディングエージェント経由でやっています。 手を入れ続けたハーネスと、繰り返し使えるループとして運用している形です。 その一方で、新卒メンバーの支援には以前から関わっており、今年からは教育トレーナーを担当しています。そこ...</description>
+<title>【Qiita】 AIエージェントは「賢いチャットボット」ではなく、アプリ同士をつなぐ実行レイヤーになる</title>
+<link>https://qiita.com/Naturalmelo/items/9f320a16f1bec43c5326</link>
+<guid>05db453f2a12056985484232940e43b7cab6af54fe9edaa3335f4de9c5e4da6f</guid>
+<pubDate>2026-08-20T11:38:42+09:00</pubDate>
+<description>AIエージェントというと、「人間の代わりに全部やってくれるAI」を想像する人が多いと思います。 でも最近いろいろなAIエージェントや自動化ツールを見ていると、実際にはもっと現実的な進化が起きているように感じます。 それは、AIがアプリの代わりになるのではなく、アプリ同士の間...</description>
 </item>
 <item>
-<title>【Qiita】 領収書を撮るだけで医療費控除の明細書ができる。ローカルLLMには読ませるだけ、確定はさせない</title>
-<link>https://qiita.com/macchan_ai_dev/items/82c960d62fd73536fcf3</link>
-<guid>fad2057afb1fdb1af48e0fe63a14670e2f40f9032ab65d0f995713541ff45e0c</guid>
-<pubDate>2026-08-20T10:55:05+09:00</pubDate>
-<description>皆さん、確定申告の医療費控除って、どうやって集計していますか。 封筒にためた領収書を年明けに全部出して、電卓を叩いて、Excelに打ち込む。私は毎年これをやっていました。面倒なうえに、普通に間違えます。 「マイナポータル連携があるでしょう」と言われそうですが、我が家ではそれ...</description>
-</item>
-<item>
-<title>【自動自律実験】 These trees are making air quality in cities worse</title>
-<link>https://www.nature.com/articles/d41586-026-02586-2</link>
-<guid>3dd2f53066cb8f2585165bb8ddc3e5ec7520657ab597b5ffc47f2cfcc918abef</guid>
-<pubDate>2026-08-20</pubDate>
-<description>They release compounds that contribute to ozone emissions, and rising temperatures could exacerbate the problem.</description>
+<title>【Qiita】 絶望から始まったAIエージェント超入門</title>
+<link>https://qiita.com/kyrieee/items/8f4c0e3596c2dd10f06e</link>
+<guid>3d3ebe983d1964f585c1b43eab4b9b8594c2f063a64ec9d048bcaa23e291cd8a</guid>
+<pubDate>2026-08-20T11:31:58+09:00</pubDate>
+<description>はじめに Amazon Bedrock Agent Core実践入門を読んだ背景 最近のAIの急成長ぶりについていけず、焦りを感じていたため、「AIを使う」というより「AIの仕組み」を理解することで根本から理解ができれば世の中の言っていることが理解できるんじゃないか？と...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/calibrating-trustworthiness-in-genai/</link>
-<guid>25b03dcabdca70e428e53fd6d6316c0ae194e74725321295c823112e6cedf87e</guid>
-<pubDate>Thu, 20 Aug 2026 02:11:02 GMT</pubDate>
+<link>https://research.google/pubs/genstrat-toward-a-science-of-strategic-reasoning-in-large-language-models/</link>
+<guid>84d3efd41a3ff46584ab020354f1c5e4d344ecd568427a3b0a8d80051c868621</guid>
+<pubDate>Thu, 20 Aug 2026 03:21:45 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>69a645c184c34fd10cdc7e26b96aa8ddaf4600e29296266a297955a2fa07fad2</guid>
-<pubDate>Thu, 20 Aug 2026 02:11:04 GMT</pubDate>
-<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>412a8658d95451e50f7910c366ff8b04d953940d29e3cee3a03c38e168c5518d</guid>
-<pubDate>Thu, 20 Aug 2026 02:11:07 GMT</pubDate>
-<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>6383e0dc4039599f90f2eb35cf7f18a3436804418a6046a58e57f027461112f8</guid>
-<pubDate>Thu, 20 Aug 2026 02:11:22 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 
 </channel>
