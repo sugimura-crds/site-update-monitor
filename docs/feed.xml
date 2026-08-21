@@ -4,28 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 21 Aug 2026 09:06:21 GMT</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 09:59:01 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Code/AI駆動開発入門 サブエージェントと並列実行で変わる開発ワークフロー</title>
-<link>https://qiita.com/Hideki_Tamae/items/7752a3ef8e17ff78a8b8</link>
-<guid>c0d9c30f9226c19893857b846175a2f17ab7abd1e1e5dc262e73a60a8bc5f8ea</guid>
-<pubDate>2026-08-21T17:16:01+09:00</pubDate>
-<description>はじめに この連載では、AIエージェントを支える考え方として、Harness、Loop Engineering、Tool Engineering、Memoryといった要素を扱ってきました。以前の記事では、Claude Codeの自動モードを取り上げ、Human-in-th...</description>
+<title>【Qiita】 Agent Plugins とは — スキルとMCPサーバーを1つのフォルダにまとめて、どのAIエージェントでも動かす標準規格</title>
+<link>https://qiita.com/y-morimatsu/items/6ab84503f4cd7efc6882</link>
+<guid>a8f23a9162493936d04a8948bae28202a84d405bbcbf80bde739540e2906639b</guid>
+<pubDate>2026-08-21T18:46:54+09:00</pubDate>
+<description>グラレコ はじめに Agent Plugins は、AI エージェントを拡張する部品を1つのディレクトリにまとめて、複数のクライアント間で持ち運べるようにする仕様です。バージョン 1.0.0 が 2026年8月6日に公開されました。 対象は2種類だけです。Agent ...</description>
+</item>
+<item>
+<title>【Qiita】 AGENTS.md設計ガイド — エージェントに効く規約ファイルの書き方</title>
+<link>https://qiita.com/snowcode_jp/items/2c2e45796a57795dfaa5</link>
+<guid>b74e577f8ebd170884db78b9d2f8f7505ea6f6f15f3d62c00a98b90f7c6c8d86</guid>
+<pubDate>2026-08-21T18:17:10+09:00</pubDate>
+<description>複数のAIエージェントが参照する共通フォーマット AGENTS.md。ただ置くだけでは効かず、書き方で成果が変わります。エージェントに効く規約ファイルの設計 を整理します。 AGENTS.md とは ツール非依存の規約ファイルで、Codex・Cursor・Copilot ...</description>
+</item>
+<item>
+<title>【Qiita】 「トマトと卵の炒め物（東坡肉なし）」──AIはなぜ「書くな」と言ったことを書くのか</title>
+<link>https://qiita.com/ruumalilja/items/58dabaccef3fb88922a9</link>
+<guid>31f6703bc212d7b34ba302302185cb51336bf7220a0283ed8596c20c7d4ae482</guid>
+<pubDate>2026-08-21T18:14:12+09:00</pubDate>
+<description>Xでこんな投稿を見かけました。 GPTにトマトと卵の炒め物を作らせたところ、なぜか東坡肉まで追加された。「東坡肉はいらない」と指摘すると料理からは消えたものの、そのままPRを作らせるとタイトルが、 トマトと卵の炒め物（東坡肉なし） になり、本文では「なぜ東坡肉を入...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/the-sample-complexity-of-multiclass-and-sparse-contextual-bandits/</link>
-<guid>80e64a3d2f1f596c9f3614f6fcd1e52f6217a6cc46086f7eb8f0044513ab2570</guid>
-<pubDate>Fri, 21 Aug 2026 09:05:17 GMT</pubDate>
+<link>https://research.google/pubs/jaxbench-benchmarking-autonomous-tpu-kernel-optimization/</link>
+<guid>1dfc9958c209117c6d0de4a7b639dc415dff2a3f1e4213bd57bcd7182de5e40c</guid>
+<pubDate>Fri, 21 Aug 2026 09:57:58 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>2a4c61559fe6b361fc690dc910725c13da15d2a2b038036d9f762edf6fc92646</guid>
-<pubDate>Fri, 21 Aug 2026 09:05:20 GMT</pubDate>
+<guid>4487761d572038d0573328bcf4b56616db76db772c418d095bc3ec5b10420291</guid>
+<pubDate>Fri, 21 Aug 2026 09:58:01 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>e6f8bc317c906ccf87726afa88a5bc3b9668e701f8fb4958df1feee4c62d3164</guid>
+<pubDate>Fri, 21 Aug 2026 09:58:03 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 
 </channel>
