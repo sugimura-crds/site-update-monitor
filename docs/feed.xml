@@ -4,56 +4,29 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 21 Aug 2026 02:18:35 GMT</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 03:27:56 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 システムテストを GitHub Copilot に全て委ねたら、Software Engineer歴30年の私を一瞬で抜き去った話。品質管理</title>
-<link>https://qiita.com/dahatake/items/a56f793e3f1ae64673ea</link>
-<guid>aa52316e261d799ffc34685423e01f6698af66ec7b6cb1654511ada1e269cfdd</guid>
-<pubDate>2026-08-21T09:54:37+09:00</pubDate>
-<description>背景 最近、私が開発しているアプリケーションが、いわゆる開発の最後のフェーズに入ってきました。 主要な機能実装は一通り終わり、あとはシステムテストをしながら不具合を潰し、品質を上げていく段階です。 現在のアプリケーション 初期画面: 実行中: デバッグ用のログの...</description>
-</item>
-<item>
-<title>【Qiita】 2026/08/21 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/b1f59cd13a45e0fa7cea</link>
-<guid>a86ef1df0774588618cb573fc81c346b07aa400c51c05481e03e952c1d48081c</guid>
-<pubDate>2026-08-21T10:56:30+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 Cursor Originを触った。第一印象は...</description>
-</item>
-<item>
-<title>【Qiita】 OpenAI Agents SDKをさらに深掘りしてみた ～Agent・Tool・Handoff・Guardrailsを理解する～</title>
-<link>https://qiita.com/Sho5_Matsu/items/b5f94472202f06e7ab85</link>
-<guid>e13b1ab958208627d3bbcbb3155b37f19c49a2b55eb0cd83b2bbf00756b142ec</guid>
-<pubDate>2026-08-21T10:21:32+09:00</pubDate>
-<description>はじめに 以前、「OpenAI Agents SDKとは？AIエージェント開発を効率化するフレームワークを調べてみた」という記事を書きました。 前回の記事では、 OpenAI Agents SDKとは何か OpenAI APIとの違い Tool Calling マルチエ...</description>
-</item>
-<item>
-<title>【Qiita】 LangGraphをさらに深掘りしてみた ～State・Node・EdgeからAIエージェントを実装する～</title>
-<link>https://qiita.com/Sho5_Matsu/items/f59f44bb4e8e70ebb27b</link>
-<guid>fd9010f6ae6c4bd89115531b07d9ac07fe238d4a2aacdfce947800fb99d33aaa</guid>
-<pubDate>2026-08-21T10:21:15+09:00</pubDate>
-<description>はじめに 以前、「LangGraphとは？AIエージェント開発で注目されるフレームワークを調べてみた」という記事を書きました。 前回の記事では、 LangGraphとは何か なぜAIエージェント開発で利用されるのか NodeとEdgeとは何か LangChainとの違い...</description>
-</item>
-<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/what-happens-when-technical-debt-vanishes/</link>
-<guid>e25cd0bc322efc0713c293352c937c6b351bd02d18bd252133dbccf4721ec47f</guid>
-<pubDate>Fri, 21 Aug 2026 02:17:35 GMT</pubDate>
+<link>https://research.google/pubs/who-am-i-talking-to-a-large-scale-measurement-of-surface-attribution-across-real-world-security-and-privacy-interfaces/</link>
+<guid>0f73bfedb420ddf94723dfa98878cd4d9fb97e2945433ba235b268db268fd129</guid>
+<pubDate>Fri, 21 Aug 2026 03:27:12 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-75653-x</link>
-<guid>b03121cae7e65884db186f40bb1ec20a6c668a5bc80678319d7854ad9719cabd</guid>
-<pubDate>Fri, 21 Aug 2026 02:17:38 GMT</pubDate>
+<guid>4f879e328a0da44ecf70848ffed319f7982fcce439f38b4ff788c28f4c39fffd</guid>
+<pubDate>Fri, 21 Aug 2026 03:27:14 GMT</pubDate>
 <description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>e75f2716c677fc0a79c5bf830974cc622e4cee79bb2b59637723f1e49a059edd</guid>
-<pubDate>Fri, 21 Aug 2026 02:17:40 GMT</pubDate>
-<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>154f11862aa25ed7cb22ce325b79c88bc2140cfc3ea83289718f6c36424a7f1c</guid>
+<pubDate>Fri, 21 Aug 2026 03:27:39 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
