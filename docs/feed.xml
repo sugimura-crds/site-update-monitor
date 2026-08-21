@@ -4,21 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 21 Aug 2026 08:04:10 GMT</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 09:06:21 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントのMemory設計入門 — 何を覚え、何を忘れるか</title>
-<link>https://qiita.com/Hideki_Tamae/items/b98d1292f42f8c35869b</link>
-<guid>e91b595aef3a228320ddcd00dd7dad45771cc73297aec255abd3d91b53df3c07</guid>
-<pubDate>2026-08-21T17:01:50+09:00</pubDate>
-<description>はじめに これまでの記事で、Harness Engineering、Loop Engineering、Evaluation、Context Engineering、Tool Engineeringと、AIエージェントを支える要素を一つずつ見てきました。 今回は Memor...</description>
+<title>【Qiita】 Claude Code/AI駆動開発入門 サブエージェントと並列実行で変わる開発ワークフロー</title>
+<link>https://qiita.com/Hideki_Tamae/items/7752a3ef8e17ff78a8b8</link>
+<guid>c0d9c30f9226c19893857b846175a2f17ab7abd1e1e5dc262e73a60a8bc5f8ea</guid>
+<pubDate>2026-08-21T17:16:01+09:00</pubDate>
+<description>はじめに この連載では、AIエージェントを支える考え方として、Harness、Loop Engineering、Tool Engineering、Memoryといった要素を扱ってきました。以前の記事では、Claude Codeの自動モードを取り上げ、Human-in-th...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/neural-general-circulation-models-for-modeling-precipitation/</link>
-<guid>417f870b4de7957c87357b6706f67eaa9e3ded3d25bf7df4992433b5b2eb9508</guid>
-<pubDate>Fri, 21 Aug 2026 08:03:07 GMT</pubDate>
+<link>https://research.google/pubs/the-sample-complexity-of-multiclass-and-sparse-contextual-bandits/</link>
+<guid>80e64a3d2f1f596c9f3614f6fcd1e52f6217a6cc46086f7eb8f0044513ab2570</guid>
+<pubDate>Fri, 21 Aug 2026 09:05:17 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>2a4c61559fe6b361fc690dc910725c13da15d2a2b038036d9f762edf6fc92646</guid>
+<pubDate>Fri, 21 Aug 2026 09:05:20 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
 </channel>
