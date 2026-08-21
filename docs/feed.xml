@@ -4,21 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 21 Aug 2026 06:29:20 GMT</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 07:24:14 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 AIエージェントへの丸投げで状況理解を失わないための運用チェックリスト</title>
+<link>https://qiita.com/Kai_GenAI/items/c12bcadb73862b047473</link>
+<guid>9c63d9ab313327379de06a93ebadc5aa096e6e179861073b527fa6e4fac013ba</guid>
+<pubDate>2026-08-21T15:42:36+09:00</pubDate>
+<description>TL;DR AIエージェントへ作業を委任するときは、少なくとも次の4点を人間側に残します。 目的：なぜ実行するのか 合格条件：何をもって完了とするのか 証拠：何を根拠に結果を信頼するのか 停止条件：どの状態で人間へ戻すのか AIが生成、実行、自己評価まで担当し、結果だ...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントの精度改善を支える設計原則〜Architecture・Context・Toolsの最適化ポイント〜【AWS Summit 2026 - セッションレポート】</title>
+<link>https://qiita.com/yuna112611/items/c29bdb6d56f126b1c10b</link>
+<guid>ccaaac03ea10cc5536fbf2ba7f22d29947213edb27811be1b0cfd6741b04872a</guid>
+<pubDate>2026-08-21T15:42:16+09:00</pubDate>
+<description>はじめに AWS Summit 2026のセッション「AI エージェント精度改善のポイント - Architecture・Context・Tools の設計方針」では、AIエージェントの挙動が不安定になる原因を、Architecture / Context / Tools...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/identifying-hearing-difficulty-moments-in-conversational-audio/</link>
-<guid>d8e479a87ef8310b0ba4341e0639ad91101b246daf97b75ffe0e711d6c3ea142</guid>
-<pubDate>Fri, 21 Aug 2026 06:28:17 GMT</pubDate>
+<link>https://research.google/pubs/leveraging-llms-to-understand-public-perception-of-earthquake-early-warnings-a-case-study-of-the-2025-m62-t%C3%BCrkiye-earthquake/</link>
+<guid>0543fa3c71f849940e36c69bb8ed88e532efa8fa3f40cc33c0a9b37376671841</guid>
+<pubDate>Fri, 21 Aug 2026 07:23:14 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>a55200672ce38d6cf809909f91083e234870f98da6496dbcb6d1ce045f9059e0</guid>
+<pubDate>Fri, 21 Aug 2026 07:23:17 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
+</item>
+<item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s42256-026-01301-0</link>
-<guid>c246396405bd84eeec5be29cba660c857fe339a5460cf47dbc621cec1236b462</guid>
-<pubDate>Fri, 21 Aug 2026 06:28:26 GMT</pubDate>
-<description>Frontier large language models (LLMs) have rapidly developed from helpful coding assistants to highly capable cybersecurity systems. After several security incidents in the past few months, more oversight and a strong focus on safe testing and deployment seem needed.</description>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>e9ae2faa18edb8754bf8f4b9582c9ec5f5e1a981610fa710410f0c28c3b66aea</guid>
+<pubDate>Fri, 21 Aug 2026 07:23:19 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>fa06144c609f73036fa425f0c64bf6914ffe174e3fed1733b4135a01020666c9</guid>
+<pubDate>Fri, 21 Aug 2026 07:23:20 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
