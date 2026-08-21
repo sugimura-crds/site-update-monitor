@@ -4,21 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 21 Aug 2026 15:00:56 GMT</lastBuildDate>
+<lastBuildDate>Fri, 21 Aug 2026 15:37:44 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 野良プラグインが怖かったので自分で作った——Herdrプラグインで初めてstarをもらうまで</title>
+<link>https://qiita.com/y-hirakaw/items/a3794ce62bd87f693e50</link>
+<guid>58529c02537b5f8550e49f5aaedca2cfa6788ddfd043a5abebe7aa0a07e5b85e</guid>
+<pubDate>2026-08-22T00:12:56+09:00</pubDate>
+<description>この記事でわかること Herdr のプラグインがどれくらいの手間で作れるか（TOML のマニフェスト1枚 + スクリプト） 他人のプラグインを入れる前に何を気にすべきか 自分専用のつもりで作ったツールを公開する意味 動作環境 Herdr 0.7.4 以上 Pyth...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/semantic-data-modeling-graph-query-and-sql-together-at-last/</link>
-<guid>7b415b50574308295b2b9f8561bdd37cdf92b3cf5d7d688f8a44e7e7587853e2</guid>
-<pubDate>Fri, 21 Aug 2026 15:00:21 GMT</pubDate>
+<link>https://research.google/pubs/snpeek-side-channel-analysis-for-privacy-applications-on-confidential-vms/</link>
+<guid>d25e259cfd7faa0b00ae51b65cbd6873abe92e1e5f662776f7f57f1178803e0b</guid>
+<pubDate>Fri, 21 Aug 2026 15:36:41 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>094b3ba5a617b0bc2b9be362763415168ccc99d97ac74575b2591a3751d9fb0c</guid>
-<pubDate>Fri, 21 Aug 2026 15:00:30 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-75653-x</link>
+<guid>f18ca75513d268c4c18fa23c03d093b0fa7f4ccd209ef078c8369ae341a74684</guid>
+<pubDate>Fri, 21 Aug 2026 15:36:44 GMT</pubDate>
+<description>Evolving methods rooted in artificial intelligence (AI) offer new opportunities for linking human behavior and experience to brain function. Here, we introduce the Concept2Brain model, a deep network designed to generate synthetic electrophysiological responses to semantic/emotional information conveyed through pictures or text. Leveraging AI solutions like CLIP from OpenAI, the model generates a representation of a stimulus and maps it into an electrophysiological latent space. We demonstrate that this openly available resource generates synthetic neural responses that closely resemble those observed empirically. The Concept2Brain model is provided as a web service tool for creating open and reproducible EEG datasets by predicting brain responses to any semantic concept or picture. Beyond its practical applications, it also paves the way for AI-driven brain activity modeling, offering new possibilities for studying how the brain represents the world. Advancing toward human brain simulation remains a major challenge. Here, the authors introduce Concept2Brain, an AI web tool that predicts neural activity, thus generating synthetic and reproducible EEG datasets from text or picture i</description>
 </item>
 
 </channel>
