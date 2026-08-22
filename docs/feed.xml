@@ -4,13 +4,27 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 22 Aug 2026 09:48:46 GMT</lastBuildDate>
+<lastBuildDate>Sat, 22 Aug 2026 10:13:33 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 Agentforce トークン上限(TPM)エラーが出たときの原因と対処法</title>
+<link>https://qiita.com/ubakichi_sr_mc_ai_06/items/5da721c70cfd311252dc</link>
+<guid>0ae747f1c5c858e620ffc91d8239868b1952e1b2debe9be08222d2c7facaf386</guid>
+<pubDate>2026-08-22T19:06:56+09:00</pubDate>
+<description>はじめに AgentforceやModels APIをバッチ処理やFlowから呼び出していて、突然429やレート制限のエラーに遭遇したことはないでしょうか。 原因の多くは、2026年4月から導入された「1分あたりのトークン数(TPM)」という新しい制限です。この記事では実...</description>
+</item>
+<item>
+<title>【Qiita】 Grill-me に丸コゲにされた俺は、もっと軽くて速いスキルを作った</title>
+<link>https://qiita.com/magicant/items/0f93dd0b38fda076174f</link>
+<guid>6174aaa3640e678ff9a8dcad4cd8bc047c685ed9263ac8f483276c698e0582d4</guid>
+<pubDate>2026-08-22T18:52:19+09:00</pubDate>
+<description>ご安心ください、この記事は 100% 手打ちです この記事の内容は筆者自身の開発スタイルに基づくものです。効果・効能には個人差があります。スキルは各自が自分のためにカスタマイズすることを推奨します! しばらく前にコーディングエージェントに何かを実装させる前に gr...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/mull-tokens-modality-agnostic-latent-thinking/</link>
-<guid>55bb44c8aa70b9fa678f2b4f07a3ef292cf56b418177aef2136efd70aeb02914</guid>
-<pubDate>Sat, 22 Aug 2026 09:48:14 GMT</pubDate>
+<link>https://research.google/pubs/adversarial-attacks-on-multimodal-large-language-models-a-comprehensive-survey/</link>
+<guid>526227b85666ea5979e614e612c5f2ed6e54417f5619972f19f80de69b2bd4ae</guid>
+<pubDate>Sat, 22 Aug 2026 10:13:00 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 
