@@ -4,21 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 23 Aug 2026 20:12:38 GMT</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 20:46:04 GMT</lastBuildDate>
 
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/on-the-ptas-complexity-of-multidimensional-knapsack/</link>
-<guid>a879417c56576378a3837e8edcc904459a0d91da97a87808057e71d7eaae443f</guid>
-<pubDate>Sun, 23 Aug 2026 20:11:35 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 わかったようでわからない非同期処理の完全理解①</title>
+<link>https://qiita.com/yuki_crossroad/items/a99f0d9f0db6ebd87c00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>2252c5dc9305dac4ee7e4de2c99a4f25ff267f2088a78aff65b0e1e9ac5a4a48</guid>
+<pubDate>2026-08-22T16:08:53+09:00</pubDate>
+<description>非同期処理は、すぐに答えが返らない仕事を待つための書き方です。 今回はVue 3を使って、ゲーム世界で剣（ソード）の情報をファイルから読み込み、届いたら画面へ表示する流れをつくってみます。まずは「普通に書くと何が起きるのか」と、async / await を使う理由を小さな...</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-76076-4</link>
-<guid>61bf956652852a6f376a6487e5d73e488018c3ef4fd3b9f64f0a0c2a4efe104a</guid>
-<pubDate>Sun, 23 Aug 2026 20:11:38 GMT</pubDate>
-<description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
+<title>【Qiita】 個人開発をiOSアプリで半年やって「勝てない」と悟った話</title>
+<link>https://qiita.com/gts/items/8c94ac8b76d7caa1b530?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>595918057c10228dac6fbb1de77e86e30f83f1eb31fe6a5b334366a889a00051</guid>
+<pubDate>2026-08-22T17:28:15+09:00</pubDate>
+<description>「個人開発したアプリがバズって、会社に辞表を叩きつけるんだ…！」——そんな夢を見たことがある人は、私だけではないはずです。 結論から言います。個人開発、半年やってみたけど、勝てる気が全くしません。AI時代到来でアプリ開発は「ちょろい」と思っていたのに、実際にぶつかったのはア...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/rethinking-context-enriched-time-series-forecasting-evaluation/</link>
+<guid>0d1f91d021db4e2db938bbd81655efbaa6e93e81c8187bfc37cd1b46449573e0</guid>
+<pubDate>Sun, 23 Aug 2026 20:45:23 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 
 </channel>
