@@ -4,14 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 23 Aug 2026 18:15:25 GMT</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 18:54:28 GMT</lastBuildDate>
 
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-backdoors-go-beyond-triggers-semantic-drift-in-diffusion-models-under-encoder-attacks/</link>
-<guid>aecda168fc7fd75fa2b4177bf30675162a9c12456222f44742a8af4b1f501ec2</guid>
-<pubDate>Sun, 23 Aug 2026 18:14:56 GMT</pubDate>
+<link>https://research.google/pubs/see2refine-vision-language-feedback-improves-llm-based-ehmi-action-designers/</link>
+<guid>82f1f427b18a31609244bc864d3bd2709790af48dff8bc66db4f89c606e6185d</guid>
+<pubDate>Sun, 23 Aug 2026 18:53:50 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-76076-4</link>
+<guid>390baf669ad873b37dba07abd64253ef6e86c959e0256f980e9f57e50b5a7aef</guid>
+<pubDate>Sun, 23 Aug 2026 18:53:53 GMT</pubDate>
+<description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
 </item>
 
 </channel>
