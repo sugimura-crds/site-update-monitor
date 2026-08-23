@@ -4,42 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 23 Aug 2026 05:28:55 GMT</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 05:55:06 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェント8体を自律で動かしてゲーム企画を作らせてみたら、決定権でつまずいた話</title>
-<link>https://qiita.com/BeginnerTK/items/c3a27301fafcc15c4495</link>
-<guid>0df33fa694ff2bc7479b48861dedb0b8496e5e5b26968cecedb7f6d4958c0621</guid>
-<pubDate>2026-08-23T14:15:32+09:00</pubDate>
-<description>※本記事はAIを使用しています 前々からAIエージェントを自律で動かす実験をしてみたくて、ゲーム企画の初期資料づくりを丸ごと複数のAIエージェントに任せてみた。人数を増やせば早く終わるだろう、くらいの軽い気持ちで始めたが、実際にやってみると全然そんな甘い話ではなかった。 担...</description>
-</item>
-<item>
-<title>【Qiita】 OmnigentのSmart Routingを試す: サブエージェントごとにhaikuとopusが自動で振り分けられるまで</title>
-<link>https://qiita.com/taka_yayoi/items/811095bf73fba5c50f91</link>
-<guid>b9420374feb8f95a30d8021427ff1db67fc3c445b31276dd620ae9c2479660db</guid>
-<pubDate>2026-08-23T14:06:35+09:00</pubDate>
-<description>はじめに Omnigent v0.9.0のリリースで、Smart Routingが大きく強化されました。各タスクとそのサブエージェントを、最適なモデルとハーネスに自動でルーティングする機能です。 Omnigent Releases Smart Routing · Omn...</description>
+<title>【Qiita】 Raspberry Pi PicoのePaper表示を、治具とカメラとGemini APIで自動テストしてみた</title>
+<link>https://qiita.com/AbeMarkn/items/f3be9500c7e00c98656f</link>
+<guid>8960bca022690b9f7d11a2d0bea00d6aaee4b6cc7e2ee940bb8b5845ff370682</guid>
+<pubDate>2026-08-23T14:44:13+09:00</pubDate>
+<description>はじめに AIが作るのをサポートしてくれる今、簡単にソフトが作れます。ただ、組込ソフトの場合、作った後のテストがめんどくさい...と思っていました というのも、組込機器はボタンを押したり目視での確認が必要です。ソフトウェアだけでなく、ハードウェアがあるので なんとかしたい...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/eco-accurate-quantization-aware-training-without-master-weights/</link>
-<guid>535ea5dfd53834791da5c47dd24bbfc6020adc24f5499acb0fdd97be8263219f</guid>
-<pubDate>Sun, 23 Aug 2026 05:28:20 GMT</pubDate>
+<link>https://research.google/pubs/how-google-sres-use-gemini-cli-to-solve-real-world-outages/</link>
+<guid>c8c4b643ce4fb8325116ee3242266c1e34575141f1c7814a2d581b4969977099</guid>
+<pubDate>Sun, 23 Aug 2026 05:54:09 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-76076-4</link>
-<guid>dfd836feb68f1b7a3e2c156301dbb515051ab97b84262ce813305f27ce7ca268</guid>
-<pubDate>Sun, 23 Aug 2026 05:28:23 GMT</pubDate>
+<guid>4488bb4f9f7bfb401a91de648fbdafb99035274f6b74446f456fc42433825127</guid>
+<pubDate>Sun, 23 Aug 2026 05:54:12 GMT</pubDate>
 <description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s42256-026-01301-0</link>
-<guid>b42eae766a9b17bea5dcb4066fdc323133af62f1b0721c6421dc47c21738c941</guid>
-<pubDate>Sun, 23 Aug 2026 05:28:28 GMT</pubDate>
-<description>Frontier large language models (LLMs) have rapidly developed from helpful coding assistants to highly capable cybersecurity systems. After several security incidents in the past few months, more oversight and a strong focus on safe testing and deployment seem needed.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>d2405cba3205b5408ec9cb82ed6ee67aa1341521af9ba2163badb4ecdf0d98bd</guid>
+<pubDate>Sun, 23 Aug 2026 05:54:16 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
