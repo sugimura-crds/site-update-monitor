@@ -4,21 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 23 Aug 2026 14:14:36 GMT</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 14:46:54 GMT</lastBuildDate>
 
+<item>
+<title>【Qiita】 Spring AIでLLMの出力品質をテストする — 回帰検知と自動リトライ</title>
+<link>https://qiita.com/ryoji9702/items/3c296a6e002064e20090</link>
+<guid>473c1b0da7dc0f1c3f685529c7b1c2b637becbd2eb53f3e8b75052131effedbc</guid>
+<pubDate>2026-08-23T23:40:06+09:00</pubDate>
+<description>はじめに LLMを組み込んだアプリケーションを本番に載せようとすると、必ずぶつかるのが「出力品質をどう担保するか」という問題です。同じプロンプトでも毎回違う文章が返ってくる非決定的な相手に対して、従来の「入力Xに対して出力はYと等しい」というアサーションは通用しません。 ...</description>
+</item>
+<item>
+<title>【Qiita】 依存グラフで「企画を完了まで自走させる」タスクオーケストレーターを自作した話</title>
+<link>https://qiita.com/fuji1009_REBELL/items/75e7769453367a869f7c</link>
+<guid>89c278a38dbe69a3b2d30d1d482797dfaa6a77f419ec58b60c2d6943fd815ef4</guid>
+<pubDate>2026-08-23T23:42:35+09:00</pubDate>
+<description>「積まれたタスクを1件処理したら止まる」——私が半年運用してきたAIワーカーの限界はここでした。 夜間に1件だけ調査して結果を書いて、あとは次の指示を待つ。人間が「じゃあ次はこれ」と言い続けないと前に進まない。これでは「自動化」ではなく「半自動」です。今回は、この受動モデル...</description>
+</item>
+<item>
+<title>【Qiita】 はじめての技術書執筆の裏側。『Claude Codeで作って学ぶ』ができるまで</title>
+<link>https://qiita.com/tomada/items/bcd4e136ae5c05c26547</link>
+<guid>b56b0cebeda59766f08083eda3735c755831583ba2410393646218b68aeda878</guid>
+<pubDate>2026-08-23T23:40:16+09:00</pubDate>
+<description>この記事は、筆者が音声入力で話した内容を Claude Code で読みやすく整理したものです。 書いてある主張も検証結果も筆者自身のもので、公開前にすべて目を通しています。 2026年9月8日に、『Claude Codeで作って学ぶ AI駆動アプリ開発入門』（技術...</description>
+</item>
+<item>
+<title>【Qiita】 AI時代の学習コストのかけ方</title>
+<link>https://qiita.com/s-dash/items/0dd51e15fcd68ba8e81c</link>
+<guid>0b8d22a90f1db9400b3af5115caea481cb2f4a49587774caec33ee736131d6eb</guid>
+<pubDate>2026-08-23T23:21:29+09:00</pubDate>
+<description>理解することとスピードを意識することのバランス プログラムを作るとき、ネット上からコピーしたコードを使ったり、AIにテキトーな指示で書かせたコードを使うと、「中身はよく分からないけどとりあえず動く」みたいな状態がよく起きる。 自分しか使わないプログラムや、使用用途が限定的...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-hardware-anchored-privacy-middleware-for-pii-sharing-across-heterogeneous-embedded-consumer-devices/</link>
+<guid>4ef6955f56b91f2aa462d43c34072b748cdfa0e2b21b382796035dfb975a2893</guid>
+<pubDate>Sun, 23 Aug 2026 14:46:19 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-76076-4</link>
-<guid>319aa2ec9b06d21bb6525aa78ff5064986994bf75232c5593ae3f0c476a64aa7</guid>
-<pubDate>Sun, 23 Aug 2026 14:13:47 GMT</pubDate>
+<guid>8a75ad72389b6ebfb2667f3dd87e23b3686f2a2414e63807be00a40a6eb7d87b</guid>
+<pubDate>Sun, 23 Aug 2026 14:46:22 GMT</pubDate>
 <description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>287e207960d8bc33d5580b1888343de454c9659873450bf58050264445cbe9c7</guid>
-<pubDate>Sun, 23 Aug 2026 14:14:21 GMT</pubDate>
+<guid>96d32d7130549087e8ae177d56dbdd6e3e5573395090647e3964cbc375517ba6</guid>
+<pubDate>Sun, 23 Aug 2026 14:46:37 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
