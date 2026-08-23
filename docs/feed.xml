@@ -4,14 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 23 Aug 2026 10:14:04 GMT</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 10:47:14 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIAU Craft Dayで、つけまつげを変えずに人だけAIモデルへ変えるPoCを作った</title>
-<link>https://qiita.com/dario_okazaki/items/7f65cf579900df3c1828</link>
-<guid>7c278f2dc4ac25e03c35d7175439d57e21c6dfdb9e435a135b280f5d796a3879</guid>
-<pubDate>2026-08-23T16:26:31+09:00</pubDate>
-<description>2026年8月14日から16日に開催された「AIAU Craft Day」に、2人チームで参加した。 AIAU Craft Dayは、AIエージェントユーザー会（AIAU）が主催した3日間のオフラインハッカソンだ。CognitionのAIコーディングエージェント「Devin...</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/alf-advertiser-large-foundation-model-for-multi-modal-advertiser-understanding/</link>
+<guid>e501cd3bf458d86fe16502c4b60e96b5eabe3a1a5e1ef930ca111ffb8eae6118</guid>
+<pubDate>Sun, 23 Aug 2026 10:46:46 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-76076-4</link>
+<guid>ac3a9df1c9a465e4980daab02bb3a54dd52f13fa4e60af3c7dd22aaef00962ea</guid>
+<pubDate>Sun, 23 Aug 2026 10:46:49 GMT</pubDate>
+<description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
 </item>
 
 </channel>
