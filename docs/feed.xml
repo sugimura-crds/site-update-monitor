@@ -4,29 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 23 Aug 2026 03:28:03 GMT</lastBuildDate>
+<lastBuildDate>Sun, 23 Aug 2026 04:09:07 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 Hermes AgentでInstagramとThreadsの自動投稿システムを作った話</title>
+<link>https://qiita.com/neko-sen/items/a88d0db63d00de46e9de</link>
+<guid>795871a69f7503e1b6567b6fb26ffa3d79dd8f02d492c6adf5ebad4e037ad5ed</guid>
+<pubDate>2026-08-23T13:00:02+09:00</pubDate>
+<description>はじめに 猫のいる宿を紹介するサイト「ねこ宿研究所」では、公開した記事をInstagramとThreadsでも紹介しています。 手作業で投稿を続けるのは難しいため、VPS上で動かしているHermes Agentの運用環境に、次の処理を行う自動投稿システムを作りました。 ...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/jaxbench-benchmarking-autonomous-tpu-kernel-optimization/</link>
-<guid>cff107b4efda82973da93476923356472230b066a813b2ab69f50a3164935221</guid>
-<pubDate>Sun, 23 Aug 2026 03:27:23 GMT</pubDate>
+<link>https://research.google/pubs/raman-spectroscopy-pre-trained-encoder-a-self-supervised-learning-approach-for-data-efficient-domain-independent-spectroscopy-analysis/</link>
+<guid>f13668c19aec6ec63dd37d73d65cdc11118941fc21258f8c131535529e447875</guid>
+<pubDate>Sun, 23 Aug 2026 04:08:10 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-76533-0</link>
-<guid>067b30dcaf57d3128feb9a64cb4729bec3a03bf8a88e57d0e99b597d0e1c3637</guid>
-<pubDate>Sun, 23 Aug 2026 03:27:34 GMT</pubDate>
-<description>Self-driving laboratories are powerful tools for navigating high-dimensional process spaces, yet Bayesian-optimization decision layers optimize black-box objective functions without distilling transferable process understanding. Here, we demonstrate a mathematically interpretable self-driving laboratory framework that transforms autonomous optimization data into human-executable growth rules. As a benchmark, we apply this framework to sputtering, addressing a challenge in sputtering epitaxy: realizing high-quality β-Ga2O3 heteroepitaxy and single-crystalline β-Ga2O3 homoepitaxy. By combining Bayesian optimization with automated optical evaluation of the Urbach energy as a sub-bandgap disorder metric, the self-driving system identifies heteroepitaxial conditions yielding an Urbach energy of 182 meV, below previously reported values for sputtered β-Ga2O3 films. Importantly, the optimized growth window is transferable across substrates, realizing single-crystalline β-Ga2O3 homoepitaxy, corroborated by scanning transmission electron microscopy. To convert closed-loop data into interpretable growth rules, we train a random forest surrogate and reveal that the growth landscape is describ</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-76076-4</link>
+<guid>c2c11fd9996c9a6d9f6e2f4a4180731b120ddb7b27e3095d831ae54d4a04f56c</guid>
+<pubDate>Sun, 23 Aug 2026 04:08:12 GMT</pubDate>
+<description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>b2d0ddc653b4af6e5d0f266d1a720316ee3f95c62f419ce9cd828750276b0d4c</guid>
-<pubDate>Sun, 23 Aug 2026 03:27:48 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
+<guid>fdfac6dc4277cba7ac43fa260cbd13b8959fd13edbf6506be8a2369dbf83deb0</guid>
+<pubDate>Sun, 23 Aug 2026 04:08:17 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
