@@ -4,49 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 24 Aug 2026 10:09:36 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 11:02:11 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 OpenSpecでAIコーディングの実装・レビュー・検証を分ける —— ithyno入門</title>
-<link>https://qiita.com/fluentdb-dev/items/9da546029f1c6dfcbe3b</link>
-<guid>164a09b7d495b351b6b642a0f2fcb6c6b3d8c53d322e72ebdc0d953789bb4379</guid>
-<pubDate>2026-08-24T18:16:14+09:00</pubDate>
-<description>この記事は、AIコーディングエージェントを実際の機能開発に使っている人向けです。 次のような問題を感じたことはないでしょうか。 要件が固まる前にエージェントが実装を始める 要件がチャット履歴の中に埋もれる 実装したセッションが、そのまま自分の実装をレビューする 複数の変...</description>
-</item>
-<item>
-<title>【Qiita】 自律型AIエージェントで記事生成を非同期化する：ジョブキュー設計の実践</title>
-<link>https://qiita.com/avecdogpresence/items/f0c9d18bf6b1dcd1c091</link>
-<guid>0562fd44608ff97476b9cbf9b2731c503110e17bcef35e5370c79b1d329e1012</guid>
-<pubDate>2026-08-24T18:10:53+09:00</pubDate>
-<description>大規模メディアでコンテンツ資産化を進めるほど、AI記事生成の運用が「都度のプロンプト入力」と「人手の確認」に引き戻される場面が増えた。ピラー記事を起点にクラスター記事へ広げる設計は分かっていても、生成タイミングごとに手が塞がると、SEOの更新サイクルが伸びない。私はこのボト...</description>
-</item>
-<item>
-<title>【環境】 Climate warming drives thermal shocks and accelerated freshwater habitat fragmentation</title>
-<link>https://www.nature.com/articles/s41558-026-02731-9</link>
-<guid>bae45e61845fdd58e3548ef39be877edae1fce9733e2a850985d78171dc05ece</guid>
-<pubDate>2026-08-24</pubDate>
-<description>Assessing 9,809 freshwater fish species globally, this study shows risk to a high proportion of species in the tropics, and severe extremes in non-tropical regions. Under high emissions, gradual warming drives abrupt exposure, with 63% of species facing accelerating thermal fragmentation by 2099.</description>
-</item>
-<item>
-<title>【環境】 Lessons learned from European land subsidence</title>
-<link>https://www.nature.com/articles/s41893-026-01918-4</link>
-<guid>f75fb725cfebb251b38ddd661f4e37d8240e19560978e51be9f2791022455249</guid>
-<pubDate>2026-08-24</pubDate>
-<description>Millions of people are impacted by land subsidence, which is accelerated by human-induced drivers. Across Europe, research and policy is focused on managing these drivers and mitigating their influence, with data and monitoring infrastructure playing a key role in tackling future challenges.</description>
-</item>
-<item>
-<title>【自動自律実験】 Frontier-technology markets are too narrow — here’s how to widen them</title>
-<link>https://www.nature.com/articles/d41586-026-02572-8</link>
-<guid>327e9665db060d7b0d8d25552cda44a11357086923591e5a89549b7ece79aa71</guid>
-<pubDate>2026-08-24</pubDate>
-<description>Governments need to keep their procurement processes as open as possible, or they will face risks of technological lock-in down the line.</description>
-</item>
-<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/smarter-tools-weaker-minds-introducing-the-ctrl-theory-of-youthai-dependency/</link>
-<guid>319b00997311a8b69b6525cb1193d84a761437de24116286a4fc32bcdb7714d0</guid>
-<pubDate>Mon, 24 Aug 2026 10:08:28 GMT</pubDate>
+<link>https://research.google/pubs/performance-analysis-of-updated-sleep-tracking-algorithms-across-google-and-fitbit-wearable-devices/</link>
+<guid>ce2d1c69a40ee2aea736f7ec677b8ab3a42baecc3f9f189e9f2b7f4512a1518c</guid>
+<pubDate>Mon, 24 Aug 2026 11:01:30 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-76076-4</link>
+<guid>4a49b81cc489e84c611906727220eda4e0225463a4734bb001684274311b8599</guid>
+<pubDate>Mon, 24 Aug 2026 11:01:32 GMT</pubDate>
+<description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>f3acb3793b5b4cea4ab9f8358de65438aca6479282591deba84cdd2247551734</guid>
+<pubDate>Mon, 24 Aug 2026 11:01:34 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 
 </channel>
