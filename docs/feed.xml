@@ -4,35 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 24 Aug 2026 12:28:12 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 13:30:27 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【無料】さくらのAI EngineをOpenCodeに設定し、Qiita CLIで記事を自動作成・投稿する方法</title>
-<link>https://qiita.com/ryou09269639/items/2fa16ac376ff93d74236</link>
-<guid>d9b859eb8789845c23990a2ef8080fce2a217b350f7cbd8187803c67c3d2a40a</guid>
-<pubDate>2026-08-24T21:05:06+09:00</pubDate>
-<description>はじめに こんにちは。普段からQiitaに技術記事を投稿したり、OpenCodeなどのAIコーディングエージェントを活用している方も多いのではないでしょうか。 2026/08/25（明日）まで！ さくらのAI Engineでは、月3,000リクエスト無料のキャンペーン「...</description>
-</item>
-<item>
-<title>【農業】 FAO Director-General: Unlocking horticulture’s potential is key to transforming agrifood systems and delivering healthy diets for all</title>
-<link>https://www.fao.org/newsroom/detail/fao-director-general--unlocking-horticulture-s-potential-is-key-to-transforming-agrifood-systems-and-delivering-healthy-diets-for-all/en</link>
-<guid>d8308173a0bf6f2851f4c6ddf28b5e94024f8f84dd0cddcaed6caaae1974e50c</guid>
-<pubDate>Mon, 24 Aug 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【自動自律実験】 The exoskeletons are coming (to a store near you)</title>
-<link>https://www.nature.com/articles/d41586-026-02641-y</link>
-<guid>f74fb97e31f4d7b293bba7b130cfc3292c1d4472c39ffa502a9c226e90f482c7</guid>
-<pubDate>2026-08-24</pubDate>
-<description>Technology to help people walk, run and jump is moving rapidly from labs to hiking trails.</description>
+<title>【Qiita】 Claude Code の 5 つの Output style を同じお題で実際にざっくり比較してみた</title>
+<link>https://qiita.com/leomarokun/items/92efccef414304ab87fe</link>
+<guid>087388a2f359de1a16a2ac0db97cfce4b98734623d6e721e055e59d81e3ce540</guid>
+<pubDate>2026-08-24T21:52:05+09:00</pubDate>
+<description>はじめに /config を開くと「Output style」という項目があり、Default・Proactive・Concise・Explanatory・Learning の 5 つから選べます。 説明文だけ読んでも「Proactive は実行優先」「Concise は...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/an-ai-system-to-help-scientists-write-expert-level-empirical-software/</link>
-<guid>d834162270013bdde6c6b1e66d4fd9e4ffaf9c9e26306c5f2e29e66d37ad1d2a</guid>
-<pubDate>Mon, 24 Aug 2026 12:27:10 GMT</pubDate>
+<link>https://research.google/pubs/eco-accurate-quantization-aware-training-without-master-weights/</link>
+<guid>2ce10285a29a3e4975531caf05ad140fefa4dfe83244a604dbe3eb36bf77e8de</guid>
+<pubDate>Mon, 24 Aug 2026 13:29:28 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-76076-4</link>
+<guid>57ca85c8f0f793c991f3e3ae33459285f6f478ca4d9e2526b0c1ab17e4930e25</guid>
+<pubDate>Mon, 24 Aug 2026 13:29:30 GMT</pubDate>
+<description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
 </item>
 
 </channel>
