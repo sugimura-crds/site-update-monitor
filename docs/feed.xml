@@ -4,36 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 24 Aug 2026 00:41:45 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 02:18:01 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントたちのガントチャートを作ってみた</title>
-<link>https://qiita.com/shyamagu/items/2915cc693364b2a872c5</link>
-<guid>68fa6b61d755eae716f07683beab0edd9d4313b3c4560d67c5ee03eb2b76a96c</guid>
-<pubDate>2026-08-24T09:24:24+09:00</pubDate>
-<description>この記事のまとめ: 複数のセッションでエージェントを走らせていると、AIクレジットがどこで減ったのか分からなくなってきます。そこでセッションとサブエージェントの動きを時系列に並べる GitHub Copilot App 向け Canvas エクステンション「Credit ...</description>
+<title>【Qiita】 ChatGPT/Codexの自走をSchedulerで作るのをやめた ― 統合管理チャット＋複数Worker方式にたどり着くまで</title>
+<link>https://qiita.com/vivinko/items/4c882d3f86f8bd86621b</link>
+<guid>a4c6ddf4ee2d36ff7db514fe41d5fffaba6446cadb9c2b1d6c9577fae506408c</guid>
+<pubDate>2026-08-24T10:56:06+09:00</pubDate>
+<description>AIにコードを書かせるだけではなく、できれば人が毎回指示しなくても開発を進めてほしい。 自分がやりたかったのは、 TASKを実行する 完了したら次のTASKへ進む 依存関係がおかしければ修復する TASKがなくなったら再監査する 改善点を見つける 新しいTASKを作る ま...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeのセッション間通信、Windowsでも動きます（v2.1.234から）</title>
-<link>https://qiita.com/jqit_suwa/items/137a2810fb3fa3f773e8</link>
-<guid>3359542d0cfe7b954c62179ac57d788bf6243e46f9dae8492ec6bf995fe26b47</guid>
-<pubDate>2026-08-24T09:33:19+09:00</pubDate>
-<description>Claude Code には、自分の別セッションにメッセージを送る cross-session messaging という機能があります。ターミナルを2枚開いて並行作業しているとき、片方の変更をもう片方に伝えるやつです。 これ、「Windowsでは使えない」と思っている人が...</description>
+<title>【Qiita】 情報を集め、判断し、行動する時代へ：データ基盤・AI エージェント・エッジ AI で変わる製造現場【AWS Summit 2026 - セッションレポート】</title>
+<link>https://qiita.com/hondakaito/items/7689d08b2c1c6f00fe8e</link>
+<guid>536f4b1dff77e1ff64f7a4453dfc190f5470a67c3725629957d156b2268ecc9d</guid>
+<pubDate>2026-08-24T09:52:07+09:00</pubDate>
+<description>はじめに 本記事では、AWS Summit のセッション「情報を集め、判断し、行動する時代へ：データ基盤・AI エージェント・エッジ AI で変わる製造現場」の内容を、製造業におけるAI活用という観点で整理します。 単なる要約ではなく、どのような課題認識があり、どんなアー...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/calibrating-trustworthiness-in-genai/</link>
-<guid>cf29a5105bb03f52ee0c984c1cb8b2e8358ecfd56bc8952256af4827fbef42ed</guid>
-<pubDate>Mon, 24 Aug 2026 00:41:05 GMT</pubDate>
+<link>https://research.google/pubs/on-optimal-materialization-in-data-lakes/</link>
+<guid>ec93578d1362c2540d6554f7a34cd07343f25ad1aa13e8def9c2613d73a2683c</guid>
+<pubDate>Mon, 24 Aug 2026 02:17:02 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>db98b8a8bbae7966942d0dfab7287735e608f46cf69ade796b793670ef42b2c9</guid>
-<pubDate>Mon, 24 Aug 2026 00:41:27 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-76076-4</link>
+<guid>1dbb5b41706b0835b712cc46cad287cfd53a6a9e3be4ff7ec858583fceede39b</guid>
+<pubDate>Mon, 24 Aug 2026 02:17:04 GMT</pubDate>
+<description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>db1afe97204caab3c8ac053f74ef6a2f4b2332051d272846cc5cd53a66ef74ac</guid>
+<pubDate>Mon, 24 Aug 2026 02:17:07 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 
 </channel>
