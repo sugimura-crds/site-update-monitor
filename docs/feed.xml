@@ -4,28 +4,43 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 24 Aug 2026 13:30:27 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 14:11:29 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Code の 5 つの Output style を同じお題で実際にざっくり比較してみた</title>
-<link>https://qiita.com/leomarokun/items/92efccef414304ab87fe</link>
-<guid>087388a2f359de1a16a2ac0db97cfce4b98734623d6e721e055e59d81e3ce540</guid>
-<pubDate>2026-08-24T21:52:05+09:00</pubDate>
-<description>はじめに /config を開くと「Output style」という項目があり、Default・Proactive・Concise・Explanatory・Learning の 5 つから選べます。 説明文だけ読んでも「Proactive は実行優先」「Concise は...</description>
+<title>【Qiita】 AI開発エージェントを「Repository is the Source of Truth」で動かしたら個人開発がかなり変わった話</title>
+<link>https://qiita.com/mizzz-ivr/items/44cd3077d732eea1bf6e</link>
+<guid>50d4c00b2e3818d6d649d3b8b4543295e5668cf921941809112f320254b831fd</guid>
+<pubDate>2026-08-24T23:01:00+09:00</pubDate>
+<description>AI開発エージェントを「Repository is the Source of Truth」で動かしたら個人開発がかなり変わった話 個人開発でAIを使っていると、たまに変なことが起きます。 「次に何を実装しよう？」と聞くと、それっぽい機能をいくつか提案してくれる。便利そう...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeの /model で現在のモデルを確認する — 変更せず10分で選択画面を開く</title>
+<link>https://qiita.com/akira_papa_AI/items/2859ba0dfa19cc955e99</link>
+<guid>aad168716c0016fe9fb6922d49cd24eac4acc9ba89b7d28babf543f67b33d1a4</guid>
+<pubDate>2026-08-24T22:32:02+09:00</pubDate>
+<description>Claude Codeの /model で現在のモデルを確認する — 変更せず10分で選択画面を開く Claude Codeを起動したものの、「いま、どのAIモデルが選ばれているんやろ」 と気になることがありますよね。 この記事で扱うのは、Claude Codeの組み込み...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/eco-accurate-quantization-aware-training-without-master-weights/</link>
-<guid>2ce10285a29a3e4975531caf05ad140fefa4dfe83244a604dbe3eb36bf77e8de</guid>
-<pubDate>Mon, 24 Aug 2026 13:29:28 GMT</pubDate>
+<link>https://research.google/pubs/whats-on-my-network-using-large-language-models-to-identify-real-world-iot-devices-at-scale/</link>
+<guid>ca63731792490fc1aa09b5871c09ee33e39b509202e79cda798ba99064a6236a</guid>
+<pubDate>Mon, 24 Aug 2026 14:10:52 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-76076-4</link>
-<guid>57ca85c8f0f793c991f3e3ae33459285f6f478ca4d9e2526b0c1ab17e4930e25</guid>
-<pubDate>Mon, 24 Aug 2026 13:29:30 GMT</pubDate>
+<guid>755093b8592a07e2243d63cc8e31489379ec9524edc8f4c4cee2d88ad0dc42fa</guid>
+<pubDate>Mon, 24 Aug 2026 14:10:54 GMT</pubDate>
 <description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>2f5e8988d6f8171117a1fa732c04c5191f38be278c7a3d933d47cd4c2f052cdc</guid>
+<pubDate>Mon, 24 Aug 2026 14:11:12 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
