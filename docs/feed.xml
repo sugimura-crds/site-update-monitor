@@ -4,21 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 24 Aug 2026 05:09:25 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 06:01:21 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【AIエージェント初心者向け】Codex CLI、どこまでやってくれる？Java開発環境をゼロから作ってみた</title>
-<link>https://qiita.com/hashiryu_/items/1e4e49b69f18f35a13c2</link>
-<guid>c258c0815ba0fc1583f8f7ecc9f6a6a5282e09714258b1235c6d42be93d80767</guid>
-<pubDate>2026-08-24T13:32:35+09:00</pubDate>
-<description>1. はじめに 1-1. 今回やってみたこと 今回、次のプロジェクトに向けて、少しブランクのあるJava / Spring Bootを基本的なところから復習することになりました。 せっかく復習するのであれば、実際に手を動かしながら簡単なアプリケーションを作ってみたい。さ...</description>
+<title>【Qiita】 Databricks Certified Generative AI Engineer Associate 合格備忘録</title>
+<link>https://qiita.com/taktac/items/5cb55002ed5c79ba1e30</link>
+<guid>f95ccdb494d66efbd77260b6fc468d20777a63ed622807503e7a80b0f4a7ca57</guid>
+<pubDate>2026-08-24T14:37:52+09:00</pubDate>
+<description>■受験の目的 LLMやRAGなどの生成AIアプリケーションをプロトタイプから実運用レベルへ移行させるための、データ前処理やVector Search、Mosaic AIを活用したアプリ構築における一連のアーキテクチャ設計、プロンプトエンジニアリング、モデル評価、ガバナンス...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/developer-productivity-in-the-age-of-generative-ai-a-psychological-perspective/</link>
-<guid>3288eb592f50ff066c19be9e8fc61b3a39b1766edf04ee14f22f546a961ef69a</guid>
-<pubDate>Mon, 24 Aug 2026 05:08:23 GMT</pubDate>
+<link>https://research.google/pubs/automated-multi-stage-build-error-remediation-by-propagating-dormant-suppression-tags/</link>
+<guid>a3d4da1462eb3a914a25c5bcee73ac1c47237f215a1c6c4da42eb2ad51766e6a</guid>
+<pubDate>Mon, 24 Aug 2026 06:00:21 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-76076-4</link>
+<guid>6c3a119ecb349f46584046a8a47415caa7e27e18b199f374cc09b65c414757a2</guid>
+<pubDate>Mon, 24 Aug 2026 06:00:23 GMT</pubDate>
+<description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
 </item>
 
 </channel>
