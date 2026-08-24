@@ -4,14 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 24 Aug 2026 15:08:24 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 16:02:40 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 Claude Codeの「引き継ぎ」新機能、自前handoffシステムと何が代替できるか比較した</title>
+<link>https://qiita.com/fuji1009_REBELL/items/f69e11af5118a88353f3</link>
+<guid>0cff52d2fbb592f53721c067894d0f3cf56d3cce2a8d38c73c2924e8bcf4c024</guid>
+<pubDate>2026-08-25T00:15:13+09:00</pubDate>
+<description>セッションが切れるたびに「前回どこまでやったっけ」を思い出すコストに、正直うんざりしていた時期がある。今は複数のAIエージェントを運用していて、セッション終了時に進行中タスク・保留事項・次アクションを自動でファイルに書き出す仕組み（以下、handoffファイルと呼ぶ）を2ヶ...</description>
+</item>
+<item>
+<title>【Anthropic】 Introducing Claude Opus 5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>fbfb04bcfa071b6de7aaefcc93507dcf96544921f04c2150a1ce3bd2c03daf8a</guid>
+<pubDate>Mon, 24 Aug 2026 16:01:51 GMT</pubDate>
+<description>Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/platform-competition-in-the-autobidding-world/</link>
-<guid>c4e4bd832bd10c5b7c5d6f51287493b1e9a7c20016321479afb41b6566cc82aa</guid>
-<pubDate>Mon, 24 Aug 2026 15:07:15 GMT</pubDate>
+<link>https://research.google/pubs/robust-wireless-resource-allocation-against-adversarial-jamming/</link>
+<guid>67da3ca0b3d892c0d23f07e3c6aeff40644439fd6455ed5571d22db69b425738</guid>
+<pubDate>Mon, 24 Aug 2026 16:01:55 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-76076-4</link>
+<guid>c2524ad219a75f13a8eb0d45c81ee5be098184c92e4ab069cee2077b18b6f3c2</guid>
+<pubDate>Mon, 24 Aug 2026 16:01:58 GMT</pubDate>
+<description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>60edc917ead23d8d9742e6c4098272c30f062e59c06c4b7054ba95a4d39edeb6</guid>
+<pubDate>Mon, 24 Aug 2026 16:02:00 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-64146-y</link>
+<guid>7ec4ab39d0ae42ddc8e7c87dfc51787c4b99b729d323103bc4613461384b94e9</guid>
+<pubDate>Mon, 24 Aug 2026 16:02:03 GMT</pubDate>
+<description>Insider threats continue to be a vexed and complicated risk in secure software development (SSD) organizations due to their origin in combination of malicious intent, negligence, credential abuse, and process vulnerability throughout the software development lifecycle. Artificial intelligence (AI)-inspired, agentic security strategies are increasingly suggested to enhance prevention and detection, but organizations have not yet a clear, decision-supportive approach to prioritize agentic mitigation practices in times of uncertainty. This paper aims to suggest and rank an agentic model of insider threats mitigation to secure software development companies based on the Fuzzy Analytic Hierarchy Process (Fuzzy AHP). Its main objectives include (i) organizing insider-threat mitigation into multi-level decision model, (ii) calculating priority weights of AI-directed agentic practices, and (iii) assisting actionable adoption choices of various insider-threat types. A systematic mapping study (SMS) was first carried out to investigate the state-of-the-art of insider threats in software development organization. The second phase involved performing an empirical survey among cybersecurity pro</description>
 </item>
 
 </channel>
