@@ -4,63 +4,43 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 24 Aug 2026 08:10:48 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Aug 2026 09:11:13 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Loop Engineeringとは何か？AIエージェントを「失敗から改善するシステム」に変える方法</title>
-<link>https://qiita.com/Hideki_Tamae/items/5b28ba76273525247380</link>
-<guid>5f68c6062e9443a077e8df999c7b6417dd852cec6230d5ee120ca728081fd883</guid>
-<pubDate>2026-08-24T16:27:14+09:00</pubDate>
-<description>はじめに これまでの記事で、Memory設計、Claude Code/AI駆動開発、企業導入のつまずき、RAGとローカルLLMと、AIエージェントを支える要素を一つずつ見てきました。 今回は、このシリーズの土台になっている考え方のひとつ、Loop Engineering ...</description>
+<title>【Qiita】 元ヤフーエンジニア社長が考える、AI時代のエンジニアに必要な3つのスキル</title>
+<link>https://qiita.com/ryoheiiwamoto/items/5f21adcca8aff1b0357a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>2d0db64cbe41adee3e552bdc5d8fd1d8119af79212441894fb8caf99d3d52219</guid>
+<pubDate>2026-08-24T16:31:36+09:00</pubDate>
+<description>AIを使いこなす力だけでは、生き残れない こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。 https://prum.jp/ 「AIを使いこなせれば、この先も食っていける」と思っている人、結構多いと思います。 でも僕は、それだけでは足りな...</description>
 </item>
 <item>
-<title>【Qiita】 はじめてのGrok Bot</title>
-<link>https://qiita.com/asitec/items/1670fed3032eb109d0dd</link>
-<guid>a4fd4d7244b7878c4c6491d4625a33cf0e352757d76fa165dd0dee7842c59dae</guid>
-<pubDate>2026-08-24T16:47:46+09:00</pubDate>
-<description>はじめに 2026年8月、SpaceXAIからGrok Botが公開されました。 Grok Botは、クラウド上のコンピュータを使ってWebやアプリを操作し、複数ステップの業務をバックグラウンドで進められるAI Agentです。 SpaceXAIでは、Sales、Grow...</description>
-</item>
-<item>
-<title>【Qiita】 Codex CLIのexecをAPIキー認証でCIに組み込む</title>
-<link>https://qiita.com/kai_kou/items/8520a86d7993100396dd</link>
-<guid>f804a34e36529407cc7a4f17ff300dbf130a655d36cf539bfa102a3790fba36f</guid>
-<pubDate>2026-08-24T16:11:20+09:00</pubDate>
-<description>はじめに OpenAI Codex CLI には、対話セッションを開かずにタスクを実行できる exec サブコマンドがあります1。CI パイプラインや使い捨てコンテナのような、人間が張り付いてターミナルを操作できない環境で Codex CLI を動かせるかどうかは、この ...</description>
-</item>
-<item>
-<title>【自動自律実験】 Patient’s own mitochondria injected into eyes in attempt to restore vision</title>
-<link>https://www.nature.com/articles/d41586-026-02616-z</link>
-<guid>f30c7ef20592ce92b80d64d56087e160a0aedabc99671a709130f8ec7588604b</guid>
-<pubDate>2026-08-24</pubDate>
-<description>Injection of a person’s own mitochondria into the retina was safe but had only a temporary effect on restoring vision.</description>
+<title>【Qiita】 Apache Iceberg Sink Connectorを使ってConfluent Cloudのトピックデータをwatsonx.dataへ連携する</title>
+<link>https://qiita.com/nishikyon/items/562048fd42efb1ae0a6a</link>
+<guid>8dfd6276bef7781fb4bf4acce43d58b9940cdb3adf2cde9b350c19816ac4adc0</guid>
+<pubDate>2026-08-24T17:42:30+09:00</pubDate>
+<description>以下に記載されている「watsonx.dataへのConfluent Apache Iceberg Sink Connectorの統合」をやってみました!リンク先では S3 を利用した例が記載されていますが、本記事では ICOS を使って試してみます。またS3 の設定値につ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/it-didnt-feel-right-but-i-needed-a-job-so-desperately-understanding-peoples-emotions-help-needs-during-financial-scams-2/</link>
-<guid>8eab160aa298add0572949e422f3f205abf64894d2227e935f30b3332ce59eb1</guid>
-<pubDate>Mon, 24 Aug 2026 08:09:46 GMT</pubDate>
+<link>https://research.google/pubs/improved-differentially-private-algorithms-for-rank-aggregation/</link>
+<guid>259c51eab36eafedd2e0338eddfe55e9e950ec8a78fe92e263972559b1b8635f</guid>
+<pubDate>Mon, 24 Aug 2026 09:10:38 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-76076-4</link>
-<guid>34ed66a70dc9ff77486589895551ff99ef9d02512c449d4d6999a1b7ab5a3571</guid>
-<pubDate>Mon, 24 Aug 2026 08:09:49 GMT</pubDate>
+<guid>da8031040c391b989cad105a1cf981b4253a9318552801ad343cf2f235bbfe1b</guid>
+<pubDate>Mon, 24 Aug 2026 09:10:41 GMT</pubDate>
 <description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>95795a7321b240e00cd23a170a518a0a2e758c2194da6e4a5556d3a3e5ab1a2f</guid>
-<pubDate>Mon, 24 Aug 2026 08:09:51 GMT</pubDate>
-<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
-</item>
-<item>
-<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
-<link>https://www.eurohpc-ju.europa.eu/index_en</link>
-<guid>644a1f7059f1f46c3d9e821a3d412edd3c123f1d16a2680cf059800d5bbdc7c3</guid>
-<pubDate>Mon, 24 Aug 2026 08:09:58 GMT</pubDate>
-<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>e0236e3d744691a569bd9b0232a51d1dd995e912cd17661b99097d39d9865965</guid>
+<pubDate>Mon, 24 Aug 2026 09:10:55 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
