@@ -4,43 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 25 Aug 2026 08:06:14 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 09:06:49 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Azure Local 上で VM と AKS を構築し、運用機能を確認してみた</title>
-<link>https://qiita.com/ManabuYamamoto/items/7ad68fe20bde80c597dd</link>
-<guid>6b0fe116ca5e96f841b5e566a91626a4404edc0af550dad1648bc4da0baa2b94</guid>
-<pubDate>2026-08-25T16:25:50+09:00</pubDate>
-<description>物理ハードウェアなしで Azure Local を構築し、2 ノードの CPU とメモリを Azure ポータルから確認できました。 はじめに Azure Local を確認したいものの、検証用の物理ハードウェアをすぐに用意できないことがあります。そこで、Azure V...</description>
+<title>【Qiita】 【ローカルLLM】国産LLM「LLM-jp-4-33B」と「Qwen3.8-27B」の推論性能比較（RTX 5070 Ti + RTX 3070 Ti）</title>
+<link>https://qiita.com/h-nabata/items/b80484406e839ee6507b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>904b5fb621ac1d5234aeeaea669d26d6315531e62f298333c10687ccec577c92</guid>
+<pubDate>2026-08-24T02:34:14+09:00</pubDate>
+<description>はじめに 先週、LLMCが大規模言語モデル「LLM-jp-4 33B」を公開した。これは約332億パラメーターのDense型のモデルで、今年4月に公開されたMoE型のモデルのDense版に対応する。 以前、性能比較検証に関してLLMCが以下のような声明を発表している。確か...</description>
 </item>
 <item>
-<title>【Qiita】 「AI時代の兎と亀」を読んで、兎の先にいる&quot;非エンジニアのバイブコーダー&quot;の話がしたくなった</title>
-<link>https://qiita.com/Wadachan69/items/6e720057ba48322951bf</link>
-<guid>8884bbfeaf813ffcf5f8edb87ad4754e3e3487a7c68feaacae69ffd9ab8215e7</guid>
-<pubDate>2026-08-25T16:51:07+09:00</pubDate>
-<description>はじめに 先日、このLT資料を読みました。 AI時代の兎と亀 - miso_taku 童話の兎と亀になぞらえて、AIの使い方でエンジニアが二極化していく話です。これがめっちゃ良かった。スライド自体は数分で読めるので、まず原典を読んでほしいです。 この記事は要約じゃなく...</description>
+<title>【Qiita】 さわってみよう Netezza #1 〜NPSaaS v11.3.1.3 新機能編 Part#1〜</title>
+<link>https://qiita.com/ibm_tk/items/bcae40876898b7888ece</link>
+<guid>a15523891d271282a71a4f9670a88fa0f56bbcfa2bd3e9557bdb0a4efe279926</guid>
+<pubDate>2026-08-25T17:37:15+09:00</pubDate>
+<description>IBM Netezzaは、大量のデータを高速に分析するために設計された、高性能なエンタープライズ向けデータウェアハウス（DWH）です。 下記の特長を持っています。 超並列処理（MPP）: 多数のプロセッサで同時にデータを処理するため、複雑なクエリや大規模な分析を高速に行えま...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/cardio-load-in-exercise-and-everyday-life-a-modified-trimp-metric-for-continuously-sensing-consumer-wearables/</link>
-<guid>9ef547ac9dc3e4e6b722d0dc50b956c9782224b8ecec5ed3e160e8dd01ff0219</guid>
-<pubDate>Tue, 25 Aug 2026 08:05:14 GMT</pubDate>
+<link>https://research.google/pubs/moxart-audio-visual-object-guided-sound-interaction-for-xr-2/</link>
+<guid>f544e9cb2d96c12ce88f93ee95ebc8f4caf78df13d34132f56a6a68efe1e3ce3</guid>
+<pubDate>Tue, 25 Aug 2026 09:06:08 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>4ebe823f845e5ecde5efed986923784b065378f91cc92a52b496d5ef4837949d</guid>
-<pubDate>Tue, 25 Aug 2026 08:05:59 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-76076-4</link>
+<guid>91835e0eb235b9b694273fab6ab467025b6dc1651ab9b650a55695d5a7242d57</guid>
+<pubDate>Tue, 25 Aug 2026 09:06:12 GMT</pubDate>
+<description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
 </item>
 <item>
-<title>【環境】 239 Results</title>
-<link>https://www.canarymedia.com/search?q=artificial+intelligence</link>
-<guid>024f7244ac2f6fce078c5e6fe32601e545191d6eda6da49b0fd6681c6b7ff3b3</guid>
-<pubDate>Tue, 25 Aug 2026 08:06:14 GMT</pubDate>
-<description>The leading newsroom covering the transition to clean energy, electrification and climate solutions. We report on how the world is decarbonizing with a…</description>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>b8e498caccbdbaf233516a146e6bdaf9931b7a55fee9ebce38fb5f83e57563ed</guid>
+<pubDate>Tue, 25 Aug 2026 09:06:41 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
