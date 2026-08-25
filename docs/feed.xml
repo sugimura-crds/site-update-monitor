@@ -4,28 +4,14 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 25 Aug 2026 23:17:42 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 23:46:08 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Koog製のAIエージェントからClaude Codeをツールとして使う</title>
-<link>https://qiita.com/kk__777/items/eba07ad9a01dcc21bfff</link>
-<guid>f0166119f6179ef24661c2b94d503949a2507b41b3c4fbc9840ec669e7598b18</guid>
-<pubDate>2026-08-26T08:15:57+09:00</pubDate>
-<description>AI生成記事です。 KotlinのAIエージェントフレームワークであるKoogを触っていて、エージェントのツールとしてClaude Code CLIもてるのでは と思ったのでやってみた記録。 AgentがAgentを呼ぶいわゆるA2Aというやつ。それをローカルでやる。Cla...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Code / Codexに「公開前レビューして」と頼む前に ― Safety Contractで作業境界を決める</title>
-<link>https://qiita.com/iwadjp/items/bec4c05111eedb11c9c2</link>
-<guid>9d54bd3be76bea32c699391053f6c75b357f1af6292d63009952892f0337cd13</guid>
-<pubDate>2026-08-26T07:59:19+09:00</pubDate>
-<description>1. Agentに任せるほど「境界」が重要になる Claude CodeやCodexへ、調査、修正、test、build、commitまで任せている個人開発者を対象に、公開準備でAgentが止まる位置を決める方法を紹介します。問題はAgentの能力ではなく、次の依頼に作業...</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-dynamic-numerical-model-for-real-time-estimation-of-latent-cognitive-states-using-oculomotor-metrics/</link>
-<guid>31a915f511ec267138e08580907e6fdb6f5b5754aab93cf2fda2d9ed83985fed</guid>
-<pubDate>Tue, 25 Aug 2026 23:16:44 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 空のリポジトリから1日で実装、デプロイ、ドキュメント化まで。AIエージェントに計画書1枚を渡してみた</title>
+<link>https://qiita.com/shungineer/items/68ff7476df59ce4f978a</link>
+<guid>effae23d627157f10ca4f5d21d37b3dfec3563866badedbcad585eec49c8da10</guid>
+<pubDate>2026-08-26T08:26:11+09:00</pubDate>
+<description>こんにちは。大規模金融システムでSREをやっているshungineerです。 AIエージェントにターミナルを触らせると、コードを書くだけでなく、テストやデプロイ、エラー調査までかなり任せられるようになってきました。 とはいえ、毎回「次はこのファイルを直して」「今度はデプロイ...</description>
 </item>
 
 </channel>
