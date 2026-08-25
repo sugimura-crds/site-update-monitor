@@ -4,28 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 25 Aug 2026 12:28:13 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 13:27:57 GMT</lastBuildDate>
 
 <item>
-<title>【農業】 Power representation in food systems</title>
-<link>https://www.nature.com/articles/s43016-026-01423-z</link>
-<guid>84baea097b325effebf8d092309f4f6b68b4311997d7da1e8dca1c53b3d1b1f8</guid>
-<pubDate>2026-08-25</pubDate>
-<description>Systems modelling and power mapping illuminate different dimensions of power in food systems but are rarely used to interrogate one another. This Comment proposes recursive representational revision, a methodological approach that organizes iterative engagement between the two so that each becomes a resource for revising</description>
+<title>【Qiita】 IBM Verify SaaS＋Quarkusで体験する OIDC連携</title>
+<link>https://qiita.com/mi-ta/items/2a6c30b0e239e11b3e99</link>
+<guid>540c7eac2e03c2b9944ba5a7cf9b0829d9179dc54d4270a1529319a7b9e5860c</guid>
+<pubDate>2026-08-25T22:08:23+09:00</pubDate>
+<description>はじめに 現在のWebアプリケーション開発では、認証機能はほぼ必須の要件といえます。パスワード認証の画面をつくりこむこともありますが、業務利用では認証基盤を使用することになると思います。 この記事では、どのようにアプリケーションに認証機能を付与するかを体験するために、IB...</description>
 </item>
 <item>
-<title>【自動自律実験】 Addendum: Sea level much higher than assumed in most coastal hazard assessments</title>
-<link>https://www.nature.com/articles/s41586-026-11017-1</link>
-<guid>5e323aad87617073861b2a4f43cb19cc1f66105ade27321812db6fc478e7c9c8</guid>
+<title>【Qiita】 【2026年8月】1年でどう変わった？AgentspaceからGemini Enterpriseへ</title>
+<link>https://qiita.com/a_tochi/items/44dcb8f994871bee365e</link>
+<guid>b04fc84e75d819b10674152f7b7bfef2ee98f80ab9f546cefb0138531e59e1ad</guid>
+<pubDate>2026-08-25T21:40:47+09:00</pubDate>
+<description>はじめに 約1年前、Google Agentspace（当時GA直後）について以下の記事を投稿しました。 あれから1年経ち、AgentspaceはGemini Enterpriseという形に名前を変え、機能も大きく進化し、一つの統合プラットフォームになりました。 本...</description>
+</item>
+<item>
+<title>【自動自律実験】 Ancient surveying instrument found in Egypt</title>
+<link>https://www.nature.com/articles/d41586-026-02382-y</link>
+<guid>d1e6c42d49c94da285c0c528c413d6cf091543de4a66f8281e82d796d8f1e1ca</guid>
 <pubDate>2026-08-25</pubDate>
-<description>Addendum: Sea level much higher than assumed in most coastal hazard assessments</description>
+<description>The earliest known example of a tool used to build in a straight line, and remembering an early trailblazer in radio communication in this week’s pick from the Nature archive.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/in-search-of-weird-corners-diagnosing-the-limits-of-convergent-ai-in-professional-creative-practice/</link>
-<guid>fba6d90e02da0d57eec17e83abdf25c822d3e43287a7d07b0a28b20acad5b392</guid>
-<pubDate>Tue, 25 Aug 2026 12:27:15 GMT</pubDate>
+<link>https://research.google/pubs/fair-allocation-of-indivisible-goods-with-variable-groups/</link>
+<guid>1257825f2bba1feddb8d3a74a0b3d0093ccc5112a794ebd77509817c6d43c609</guid>
+<pubDate>Tue, 25 Aug 2026 13:27:22 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-76076-4</link>
+<guid>67b357ba3996839c8087abffd654c6c864f604f8285ce33d91d818366fcb04a2</guid>
+<pubDate>Tue, 25 Aug 2026 13:27:24 GMT</pubDate>
+<description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
 </item>
 
 </channel>
