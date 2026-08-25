@@ -4,35 +4,43 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 25 Aug 2026 05:02:01 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 05:55:39 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIに「この機密語を書くな」と教えたら、その指示が機密検知された</title>
-<link>https://qiita.com/hc_terashima/items/0bb1164aed45e0fabc37</link>
-<guid>f37bfe30d8e5ac52e1a001a65c1e41f93c351a6429c2d3c21dae536184921aed</guid>
-<pubDate>2026-08-25T13:58:12+09:00</pubDate>
-<description>6本中3本の原稿が、機密情報の「注意書き」を理由に公開ブロックされた 図1: 「書くな」と渡した実値が出力へ再掲され、検査器が正しく遮断する自己言及トラップ。 TL;DR AIエージェントで記事プロットを6本生成したところ、3本が機密情報チェックでブロックされた 原...</description>
+<title>【Qiita】 GLM-5.3が示す「モデル本体を変えずに能力を伸ばす」時代──企業はポストトレーニングをどう評価するか</title>
+<link>https://qiita.com/mhamadajp/items/b33fc2e72ffc3b9fecd1</link>
+<guid>9f87b3e0a5a884f4a5c24f8b9472c93b18e0f12243ca1f2cabb020b51bb8e70c</guid>
+<pubDate>2026-08-25T14:37:11+09:00</pubDate>
+<description>AIモデルの新バージョンと聞くと、「より大きい基盤モデルを新しく学習した」と考えがちです。ところがZ.aiが公開したGLM-5.3は、GLM-5.2と同じ基盤モデルを使い、ポストトレーニングの規模拡大によって性能を伸ばしたと説明しています。Z.aiの技術発表 これは、単に一...</description>
 </item>
 <item>
-<title>【Qiita】 【保存版】AIコーディングを &quot;なんとなく&quot; で終わらせないための実践ガイド</title>
-<link>https://qiita.com/maimai_develop/items/86cb354a331beaec24d5</link>
-<guid>e7286f4eb0c001c2891f322889fbe0d48a3a5146ad27ab8c54fd59be4e5c8f9a</guid>
-<pubDate>2026-08-25T13:57:10+09:00</pubDate>
-<description>はじめに ChatGPT、Claude Code、Codex、GitHub Copilotなどを使えば、プログラミングを始めたばかりでも、短時間でコードを生成できるようになりました。 一方で、AIが生成したコードをそのまま利用すると、次のような問題が起こる可能性があります...</description>
-</item>
-<item>
-<title>【Qiita】 KVキャッシュ(Key-Value Cache)ってなんだ？ ── 最大6倍速くなった理由</title>
-<link>https://qiita.com/GeneLab_999/items/bc3ca69a9be8419cbce2</link>
-<guid>39a591a0a5364004ac54d6de5bbeb038f0b4e4fbdf4398118b089bf62c15370e</guid>
-<pubDate>2026-08-25T13:26:44+09:00</pubDate>
-<description>Attentionの記事で、Cross-AttentionのKVキャッシュは一度計算すれば増えないと書いた。その「増える／増えない」の実体を、自分の手で測ってみたことがなかった。この記事で考えてほしいのは、KVキャッシュを小さくする方法には性質の違う2つの対策があるというこ...</description>
+<title>【Qiita】 AIは指示通り動いていた。それでも開発ドキュメントは破綻した</title>
+<link>https://qiita.com/joyrswd/items/a58ba5ac49bd575abf99</link>
+<guid>700de91cb9e9b8d91e4eda0586309671fda094f262a33db2cb0f6cce038a066c</guid>
+<pubDate>2026-08-25T14:23:44+09:00</pubDate>
+<description>以前、AI駆動開発で使うためのリポジトリ構造として「AIDD Skeleton」というものを作りました。」という記事を投稿しました。 目的はシンプルです。 AIに毎回長いプロンプトで、 まず要件を確認して 設計を読んで 実装して テストして ドキュメントも更新して と指...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/moxart-audio-visual-object-guided-sound-interaction-for-xr-2/</link>
-<guid>c12addab2256518f416963aed1ee34270f4d0ede38e08cb6cd5be21d2cbe454c</guid>
-<pubDate>Tue, 25 Aug 2026 05:01:24 GMT</pubDate>
+<link>https://research.google/pubs/mining-informally-romanized-seed-corpora-without-romanizations/</link>
+<guid>2a333ba4e657a3e1ecb4bed0dac2a30825799719012c103323cd4169895c469f</guid>
+<pubDate>Tue, 25 Aug 2026 05:54:47 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-76076-4</link>
+<guid>5aed07ffc951a3ef0d6c414e9081f0bf447773bf84b5a3f8b7217ff5f449cb75</guid>
+<pubDate>Tue, 25 Aug 2026 05:54:49 GMT</pubDate>
+<description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>9af7c92fc743858d8913452e1ccf95f5d965590e359af1feadd9fc91242c218f</guid>
+<pubDate>Tue, 25 Aug 2026 05:55:23 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
