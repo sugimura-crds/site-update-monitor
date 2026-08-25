@@ -4,42 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 25 Aug 2026 04:06:45 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 05:02:01 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIに変な言葉遣いをさせないプロンプト</title>
-<link>https://qiita.com/tonluqclml/items/ecf4d326fc54dccbedd2</link>
-<guid>bc000c23d4112993c0e8fa82ffdaf4af04c7d85d22d943b489195bd7de62226f</guid>
-<pubDate>2026-08-25T12:37:55+09:00</pubDate>
-<description>問題 AIが書く文章ってなんか変。 その理由の一つは効く、投げる、潰すといった、物理的動作を表す動詞を多用するから。 エンジニアは「引数を投げる」「戻り値を潰す」といったスラングを使いますが、AIエージェントはネット上の文章を学習したせいか、これを人間以上に使いたがります...</description>
+<title>【Qiita】 AIに「この機密語を書くな」と教えたら、その指示が機密検知された</title>
+<link>https://qiita.com/hc_terashima/items/0bb1164aed45e0fabc37</link>
+<guid>f37bfe30d8e5ac52e1a001a65c1e41f93c351a6429c2d3c21dae536184921aed</guid>
+<pubDate>2026-08-25T13:58:12+09:00</pubDate>
+<description>6本中3本の原稿が、機密情報の「注意書き」を理由に公開ブロックされた 図1: 「書くな」と渡した実値が出力へ再掲され、検査器が正しく遮断する自己言及トラップ。 TL;DR AIエージェントで記事プロットを6本生成したところ、3本が機密情報チェックでブロックされた 原...</description>
 </item>
 <item>
-<title>【Qiita】 「Opus 5にしておけば勝ち」ではなかった。Anthropic公式記事から読むAIエージェントの「ハーネス」超入門</title>
-<link>https://qiita.com/TakanobuSano/items/9281ec7f306073144312</link>
-<guid>dce208150b5372cf051d76450673ad54109ec5741b24f147c6a443c5183e8321</guid>
-<pubDate>2026-08-25T12:32:22+09:00</pubDate>
-<description>AIモデルは、どんどん賢くなっています。 Claude であれば、現在は Claude Opus 5 のような非常に強力なモデルが利用できます。 すると、こんな疑問が出てきます。 「一番賢いモデルを選べば、それでAIエージェントは完成なのでは？」 実は Anthropic...</description>
+<title>【Qiita】 【保存版】AIコーディングを &quot;なんとなく&quot; で終わらせないための実践ガイド</title>
+<link>https://qiita.com/maimai_develop/items/86cb354a331beaec24d5</link>
+<guid>e7286f4eb0c001c2891f322889fbe0d48a3a5146ad27ab8c54fd59be4e5c8f9a</guid>
+<pubDate>2026-08-25T13:57:10+09:00</pubDate>
+<description>はじめに ChatGPT、Claude Code、Codex、GitHub Copilotなどを使えば、プログラミングを始めたばかりでも、短時間でコードを生成できるようになりました。 一方で、AIが生成したコードをそのまま利用すると、次のような問題が起こる可能性があります...</description>
 </item>
 <item>
-<title>【Qiita】 「AI時代の兎と亀」を読んで、兎の先にいる&quot;非エンジニアのバイブコーダー&quot;の話がしたくなった</title>
-<link>https://qiita.com/Wadachan69/items/89cd6db18c6a8a10c48b</link>
-<guid>fb1af379356e2ea97fced9658ee62fd400f89372cbf0f99c0062eb9952dba8b9</guid>
-<pubDate>2026-08-25T12:42:53+09:00</pubDate>
-<description>はじめに 先日、このLT資料を読みました。 AI時代の兎と亀 - miso_taku 童話の兎と亀になぞらえて、AIの使い方でエンジニアが二極化していく話です。これがめっちゃ良かった。スライド自体は数分で読めるので、まず原典を読んでほしいです。 この記事は要約じゃなく...</description>
+<title>【Qiita】 KVキャッシュ(Key-Value Cache)ってなんだ？ ── 最大6倍速くなった理由</title>
+<link>https://qiita.com/GeneLab_999/items/bc3ca69a9be8419cbce2</link>
+<guid>39a591a0a5364004ac54d6de5bbeb038f0b4e4fbdf4398118b089bf62c15370e</guid>
+<pubDate>2026-08-25T13:26:44+09:00</pubDate>
+<description>Attentionの記事で、Cross-AttentionのKVキャッシュは一度計算すれば増えないと書いた。その「増える／増えない」の実体を、自分の手で測ってみたことがなかった。この記事で考えてほしいのは、KVキャッシュを小さくする方法には性質の違う2つの対策があるというこ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/agentic-trend-to-knowledge-a-methodology-for-automating-case-deflection-through-proactive-content-surfacing-in-enterprise-employee-support/</link>
-<guid>d96d03fd094447dd40d151b7c27243d7a848460b486e2adf039fdff61ff29e9f</guid>
-<pubDate>Tue, 25 Aug 2026 04:05:45 GMT</pubDate>
+<link>https://research.google/pubs/moxart-audio-visual-object-guided-sound-interaction-for-xr-2/</link>
+<guid>c12addab2256518f416963aed1ee34270f4d0ede38e08cb6cd5be21d2cbe454c</guid>
+<pubDate>Tue, 25 Aug 2026 05:01:24 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-76076-4</link>
-<guid>b9733728c554479cc21fb2f8682529975d17df4752f3f948f5ee5d9a44f4e0df</guid>
-<pubDate>Tue, 25 Aug 2026 04:05:48 GMT</pubDate>
-<description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
 </item>
 
 </channel>
