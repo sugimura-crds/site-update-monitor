@@ -4,49 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 25 Aug 2026 03:24:50 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 04:06:45 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 New Relic アップデート(2026年7月)</title>
-<link>https://qiita.com/nr-mito/items/20d4b104679227ff4314</link>
-<guid>93f715b7faca7f7b59c6d8d2ae5c1233fdbe1c80994c9e6ce741f7f0d8c23c4f</guid>
-<pubDate>2026-08-25T11:54:39+09:00</pubDate>
-<description>2026年7月のNew Relic のアップデートをまとめて紹介です！！AIエージェントがテレメトリデータへアクセスし、障害調査の自律自動化と即時復旧を実現するAutopilot(旧SRE Agent)や、トラブルシューティングの際の調査手順や知見を組織全体で共有し、手順に...</description>
+<title>【Qiita】 AIに変な言葉遣いをさせないプロンプト</title>
+<link>https://qiita.com/tonluqclml/items/ecf4d326fc54dccbedd2</link>
+<guid>bc000c23d4112993c0e8fa82ffdaf4af04c7d85d22d943b489195bd7de62226f</guid>
+<pubDate>2026-08-25T12:37:55+09:00</pubDate>
+<description>問題 AIが書く文章ってなんか変。 その理由の一つは効く、投げる、潰すといった、物理的動作を表す動詞を多用するから。 エンジニアは「引数を投げる」「戻り値を潰す」といったスラングを使いますが、AIエージェントはネット上の文章を学習したせいか、これを人間以上に使いたがります...</description>
 </item>
 <item>
-<title>【Qiita】 AIにテストを書かせると、決まって同じ場所が抜ける</title>
-<link>https://qiita.com/jqit_suwa/items/a0fa9752528e2b3def71</link>
-<guid>85834a30c178a6d21dc62289a2f33ecbea3a5f6aca3f19596f67677c38e15d0d</guid>
-<pubDate>2026-08-25T11:15:47+09:00</pubDate>
-<description>AI にテストを書かせると、AI は「問題ありません」と言います。 そこで多くの人が次にやることは決まっています。別の AI にレビューさせることです。 ただ、それは独立したレビューになっているのでしょうか。そして、そもそも何が抜けているのでしょうか。 この記事では、AI ...</description>
+<title>【Qiita】 「Opus 5にしておけば勝ち」ではなかった。Anthropic公式記事から読むAIエージェントの「ハーネス」超入門</title>
+<link>https://qiita.com/TakanobuSano/items/9281ec7f306073144312</link>
+<guid>dce208150b5372cf051d76450673ad54109ec5741b24f147c6a443c5183e8321</guid>
+<pubDate>2026-08-25T12:32:22+09:00</pubDate>
+<description>AIモデルは、どんどん賢くなっています。 Claude であれば、現在は Claude Opus 5 のような非常に強力なモデルが利用できます。 すると、こんな疑問が出てきます。 「一番賢いモデルを選べば、それでAIエージェントは完成なのでは？」 実は Anthropic...</description>
+</item>
+<item>
+<title>【Qiita】 「AI時代の兎と亀」を読んで、兎の先にいる&quot;非エンジニアのバイブコーダー&quot;の話がしたくなった</title>
+<link>https://qiita.com/Wadachan69/items/89cd6db18c6a8a10c48b</link>
+<guid>fb1af379356e2ea97fced9658ee62fd400f89372cbf0f99c0062eb9952dba8b9</guid>
+<pubDate>2026-08-25T12:42:53+09:00</pubDate>
+<description>はじめに 先日、このLT資料を読みました。 AI時代の兎と亀 - miso_taku 童話の兎と亀になぞらえて、AIの使い方でエンジニアが二極化していく話です。これがめっちゃ良かった。スライド自体は数分で読めるので、まず原典を読んでほしいです。 この記事は要約じゃなく...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/efficient-property-aligned-fan-out-retrieval-via-rl-compiled-diffusion/</link>
-<guid>1fdb6135805f1f08a8b4738d7663fca150b60eec4e0edb57398e7a22d4295876</guid>
-<pubDate>Tue, 25 Aug 2026 03:23:57 GMT</pubDate>
+<link>https://research.google/pubs/agentic-trend-to-knowledge-a-methodology-for-automating-case-deflection-through-proactive-content-surfacing-in-enterprise-employee-support/</link>
+<guid>d96d03fd094447dd40d151b7c27243d7a848460b486e2adf039fdff61ff29e9f</guid>
+<pubDate>Tue, 25 Aug 2026 04:05:45 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-76076-4</link>
-<guid>ed855dac3b23e5a4d719f33edd240a8212601c3f039b9b37061d0644d2c6a245</guid>
-<pubDate>Tue, 25 Aug 2026 03:24:00 GMT</pubDate>
+<guid>b9733728c554479cc21fb2f8682529975d17df4752f3f948f5ee5d9a44f4e0df</guid>
+<pubDate>Tue, 25 Aug 2026 04:05:48 GMT</pubDate>
 <description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>4aab384be92b81a1c363d23d317127d8243b1513e97e81aee7f498b2d6fdd21e</guid>
-<pubDate>Tue, 25 Aug 2026 03:24:04 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【環境】 Talking Points</title>
-<link>https://www.reuters.com/sustainability/deadly-earthquake-strikes-indonesia-2026-08-18/</link>
-<guid>ace03ba848a7bbaa3c7e4817862dd2b8df8a36392a474d043c6e3c7207654eb3</guid>
-<pubDate>Tue, 25 Aug 2026 03:24:41 GMT</pubDate>
-<description>Today’s newsletter focuses on the aftermath of a powerful earthquake that killed at least 68 people in eastern Indonesia as rescuers combed through collapsed buildings in search of people trapped beneath the rubble.</description>
 </item>
 
 </channel>
