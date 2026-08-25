@@ -4,21 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 25 Aug 2026 15:12:27 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 16:07:22 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントとの協働を円滑にする「索引」ベースの情報設計：タスクリストと参照ドキュメントの軽量化</title>
-<link>https://qiita.com/sh39/items/0904bc1e78e869e1f151</link>
-<guid>83cc7277b02e53396344cf3a53d6e182243beada33a827a403f0e2b868806848</guid>
-<pubDate>2026-08-25T23:52:34+09:00</pubDate>
-<description>1. はじめに エンジニアがAIエージェントやLLMと協働する際、読み込ませる情報量（コンテキスト）の増大は、処理精度の低下やトークンコストの増大を招き、開発効率を著しく阻害します。この「コンテキスト肥大化」を防ぐためには、情報の持ち方を「蓄積型」から「索引型」へと転換...</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/optimal-partition-selection-with-renyi-differential-privacy/</link>
+<guid>251074ee2c83cff39d0d2603c097afc022b84c3f8d28916dc4b45d3a61ffd109</guid>
+<pubDate>Tue, 25 Aug 2026 16:06:15 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/rethinking-context-enriched-time-series-forecasting-evaluation/</link>
-<guid>81ccd792f8fcb4fd660ecc046175753184e1ffa2eb120dbcac8eebe6b5de9f80</guid>
-<pubDate>Tue, 25 Aug 2026 15:11:27 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-76076-4</link>
+<guid>9b129c50c9e4c267f6df9b83a80088f9076fafdaa60cbe72b32e218284fb7c83</guid>
+<pubDate>Tue, 25 Aug 2026 16:06:20 GMT</pubDate>
+<description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-64146-y</link>
+<guid>46d5917286ee5cb9c85cecad7e415f41844a1798ded2dc71acfff348ad83b659</guid>
+<pubDate>Tue, 25 Aug 2026 16:06:25 GMT</pubDate>
+<description>Insider threats continue to be a vexed and complicated risk in secure software development (SSD) organizations due to their origin in combination of malicious intent, negligence, credential abuse, and process vulnerability throughout the software development lifecycle. Artificial intelligence (AI)-inspired, agentic security strategies are increasingly suggested to enhance prevention and detection, but organizations have not yet a clear, decision-supportive approach to prioritize agentic mitigation practices in times of uncertainty. This paper aims to suggest and rank an agentic model of insider threats mitigation to secure software development companies based on the Fuzzy Analytic Hierarchy Process (Fuzzy AHP). Its main objectives include (i) organizing insider-threat mitigation into multi-level decision model, (ii) calculating priority weights of AI-directed agentic practices, and (iii) assisting actionable adoption choices of various insider-threat types. A systematic mapping study (SMS) was first carried out to investigate the state-of-the-art of insider threats in software development organization. The second phase involved performing an empirical survey among cybersecurity pro</description>
 </item>
 
 </channel>
