@@ -4,57 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 25 Aug 2026 02:13:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 03:24:50 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 PostgreSQL→Spanner移行後に248テーブルのER図（A5:SQL Mk-2）を効率的に再構築した話</title>
-<link>https://qiita.com/kane_ryu/items/219eef10918760c057b6</link>
-<guid>3a89454f700f66a8992f480179c023291e9c291102dc6a22518132ad3e6e15bf</guid>
-<pubDate>2026-08-25T09:48:34+09:00</pubDate>
-<description>はじめに 「DBはSpannerに移行完了！……でもER図がPostgreSQL時代のままだ」 そんな状況になっていませんか。我々のチームも同じ問題に直面しました。248テーブルにおよぶスキーマの変更を、A5:SQL Mk-2形式のER図（.a5er）に反映するという作業...</description>
+<title>【Qiita】 New Relic アップデート(2026年7月)</title>
+<link>https://qiita.com/nr-mito/items/20d4b104679227ff4314</link>
+<guid>93f715b7faca7f7b59c6d8d2ae5c1233fdbe1c80994c9e6ce741f7f0d8c23c4f</guid>
+<pubDate>2026-08-25T11:54:39+09:00</pubDate>
+<description>2026年7月のNew Relic のアップデートをまとめて紹介です！！AIエージェントがテレメトリデータへアクセスし、障害調査の自律自動化と即時復旧を実現するAutopilot(旧SRE Agent)や、トラブルシューティングの際の調査手順や知見を組織全体で共有し、手順に...</description>
 </item>
 <item>
-<title>【Qiita】 PAT と GITHUB_TOKEN は何が違うのか — Actions が 5 日間死んで調べ直した認証設計</title>
-<link>https://qiita.com/aktsmm/items/d68a90356f6d6b288832</link>
-<guid>70050285a7c8136069fd898a5dfc972b15e949302b844d628ca1dd89e07739cc</guid>
-<pubDate>2026-08-25T10:59:50+09:00</pubDate>
-<description>こんにちは、自分のワークフローが 5 日間死んでいたことに気づかなかったアーキテクトのやまぱん！です 😅 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ TL;DR PAT（Personal Access Token）...</description>
+<title>【Qiita】 AIにテストを書かせると、決まって同じ場所が抜ける</title>
+<link>https://qiita.com/jqit_suwa/items/a0fa9752528e2b3def71</link>
+<guid>85834a30c178a6d21dc62289a2f33ecbea3a5f6aca3f19596f67677c38e15d0d</guid>
+<pubDate>2026-08-25T11:15:47+09:00</pubDate>
+<description>AI にテストを書かせると、AI は「問題ありません」と言います。 そこで多くの人が次にやることは決まっています。別の AI にレビューさせることです。 ただ、それは独立したレビューになっているのでしょうか。そして、そもそも何が抜けているのでしょうか。 この記事では、AI ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/scientist-one-verifiable-autonomous-research-via-chain-of-evidence/</link>
-<guid>1832949abeb70b228aac857a82cc6c4143ec47237d63871818eb41751e62f60c</guid>
-<pubDate>Tue, 25 Aug 2026 02:12:37 GMT</pubDate>
+<link>https://research.google/pubs/efficient-property-aligned-fan-out-retrieval-via-rl-compiled-diffusion/</link>
+<guid>1fdb6135805f1f08a8b4738d7663fca150b60eec4e0edb57398e7a22d4295876</guid>
+<pubDate>Tue, 25 Aug 2026 03:23:57 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-76076-4</link>
-<guid>8e2b351821e21cdb603f1d7505e864bafe0baf42b9e1ad60b8993218a0581185</guid>
-<pubDate>Tue, 25 Aug 2026 02:12:40 GMT</pubDate>
+<guid>ed855dac3b23e5a4d719f33edd240a8212601c3f039b9b37061d0644d2c6a245</guid>
+<pubDate>Tue, 25 Aug 2026 03:24:00 GMT</pubDate>
 <description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-64146-y</link>
-<guid>ffcab4f7bf9395f233b2d45cd7f4c28624b04a91a9c5cc39a3ed2587d9a9af13</guid>
-<pubDate>Tue, 25 Aug 2026 02:12:46 GMT</pubDate>
-<description>Insider threats continue to be a vexed and complicated risk in secure software development (SSD) organizations due to their origin in combination of malicious intent, negligence, credential abuse, and process vulnerability throughout the software development lifecycle. Artificial intelligence (AI)-inspired, agentic security strategies are increasingly suggested to enhance prevention and detection, but organizations have not yet a clear, decision-supportive approach to prioritize agentic mitigation practices in times of uncertainty. This paper aims to suggest and rank an agentic model of insider threats mitigation to secure software development companies based on the Fuzzy Analytic Hierarchy Process (Fuzzy AHP). Its main objectives include (i) organizing insider-threat mitigation into multi-level decision model, (ii) calculating priority weights of AI-directed agentic practices, and (iii) assisting actionable adoption choices of various insider-threat types. A systematic mapping study (SMS) was first carried out to investigate the state-of-the-art of insider threats in software development organization. The second phase involved performing an empirical survey among cybersecurity pro</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>4aab384be92b81a1c363d23d317127d8243b1513e97e81aee7f498b2d6fdd21e</guid>
+<pubDate>Tue, 25 Aug 2026 03:24:04 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>5bc6361af93df2b3e15cbc5c0ce1ffc9c1b858a1baaa773a315ab6c03abb0a2f</guid>
-<pubDate>Tue, 25 Aug 2026 02:12:50 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>f9c3aed5b7c5e51d62c800cf7c787f4b168ea130b28e2f0b80b32a1ed77d45e6</guid>
-<pubDate>Tue, 25 Aug 2026 02:13:06 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
+<title>【環境】 Talking Points</title>
+<link>https://www.reuters.com/sustainability/deadly-earthquake-strikes-indonesia-2026-08-18/</link>
+<guid>ace03ba848a7bbaa3c7e4817862dd2b8df8a36392a474d043c6e3c7207654eb3</guid>
+<pubDate>Tue, 25 Aug 2026 03:24:41 GMT</pubDate>
+<description>Today’s newsletter focuses on the aftermath of a powerful earthquake that killed at least 68 people in eastern Indonesia as rescuers combed through collapsed buildings in search of people trapped beneath the rubble.</description>
 </item>
 
 </channel>
