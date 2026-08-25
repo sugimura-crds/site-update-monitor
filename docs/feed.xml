@@ -4,28 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 25 Aug 2026 00:42:18 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Aug 2026 02:13:24 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 ついに実現！ Project Opal と GSA (EFP) のマリアージュによる AI ガードレール</title>
-<link>https://qiita.com/carol0226/items/de854d39bb970892a85e</link>
-<guid>af787e29447f7c98bb944ccbb17ba5d8dc04ab030335fe8d4e043537053fe342</guid>
-<pubDate>2026-08-23T17:17:45+09:00</pubDate>
-<description>はじめに このたび、AI エージェントによる自律運転を実現する Project Opal に対して、Global Secure Access (以降: GSA) を適用させることに成功したので、記事にしてみました。 Project Opal が利用する Windows 3...</description>
+<title>【Qiita】 PostgreSQL→Spanner移行後に248テーブルのER図（A5:SQL Mk-2）を効率的に再構築した話</title>
+<link>https://qiita.com/kane_ryu/items/219eef10918760c057b6</link>
+<guid>3a89454f700f66a8992f480179c023291e9c291102dc6a22518132ad3e6e15bf</guid>
+<pubDate>2026-08-25T09:48:34+09:00</pubDate>
+<description>はじめに 「DBはSpannerに移行完了！……でもER図がPostgreSQL時代のままだ」 そんな状況になっていませんか。我々のチームも同じ問題に直面しました。248テーブルにおよぶスキーマの変更を、A5:SQL Mk-2形式のER図（.a5er）に反映するという作業...</description>
 </item>
 <item>
-<title>【Qiita】 /model を1度でも押すと ANTHROPIC_DEFAULT_MODEL は効きません</title>
-<link>https://qiita.com/jqit_suwa/items/7ecdfc6067e09aed00a1</link>
-<guid>50633b002554b0a361d1ef96830a24a3e71d8eab8b386c3cc562ac020fecb394</guid>
-<pubDate>2026-08-25T08:59:39+09:00</pubDate>
-<description>Claude Code v2.1.236 に ANTHROPIC_DEFAULT_MODEL という環境変数が入りました。新しいセッションが開始するモデルを決めるものです。 チームで初期モデルを揃えたくて設定したんですが、まったく効きませんでした。 ANTHROPIC_DE...</description>
+<title>【Qiita】 PAT と GITHUB_TOKEN は何が違うのか — Actions が 5 日間死んで調べ直した認証設計</title>
+<link>https://qiita.com/aktsmm/items/d68a90356f6d6b288832</link>
+<guid>70050285a7c8136069fd898a5dfc972b15e949302b844d628ca1dd89e07739cc</guid>
+<pubDate>2026-08-25T10:59:50+09:00</pubDate>
+<description>こんにちは、自分のワークフローが 5 日間死んでいたことに気づかなかったアーキテクトのやまぱん！です 😅 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ TL;DR PAT（Personal Access Token）...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/dynamic-case-precedent-an-architecture-for-accelerating-agent-proficiency-and-resolution-consistency-in-large-scale-people-operations/</link>
-<guid>a9db6eeec11fb98ad8be28ae4f35b1d901c377ec5fbdedeb19ae99cfe821c24e</guid>
-<pubDate>Tue, 25 Aug 2026 00:40:45 GMT</pubDate>
+<link>https://research.google/pubs/scientist-one-verifiable-autonomous-research-via-chain-of-evidence/</link>
+<guid>1832949abeb70b228aac857a82cc6c4143ec47237d63871818eb41751e62f60c</guid>
+<pubDate>Tue, 25 Aug 2026 02:12:37 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-76076-4</link>
+<guid>8e2b351821e21cdb603f1d7505e864bafe0baf42b9e1ad60b8993218a0581185</guid>
+<pubDate>Tue, 25 Aug 2026 02:12:40 GMT</pubDate>
+<description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-64146-y</link>
+<guid>ffcab4f7bf9395f233b2d45cd7f4c28624b04a91a9c5cc39a3ed2587d9a9af13</guid>
+<pubDate>Tue, 25 Aug 2026 02:12:46 GMT</pubDate>
+<description>Insider threats continue to be a vexed and complicated risk in secure software development (SSD) organizations due to their origin in combination of malicious intent, negligence, credential abuse, and process vulnerability throughout the software development lifecycle. Artificial intelligence (AI)-inspired, agentic security strategies are increasingly suggested to enhance prevention and detection, but organizations have not yet a clear, decision-supportive approach to prioritize agentic mitigation practices in times of uncertainty. This paper aims to suggest and rank an agentic model of insider threats mitigation to secure software development companies based on the Fuzzy Analytic Hierarchy Process (Fuzzy AHP). Its main objectives include (i) organizing insider-threat mitigation into multi-level decision model, (ii) calculating priority weights of AI-directed agentic practices, and (iii) assisting actionable adoption choices of various insider-threat types. A systematic mapping study (SMS) was first carried out to investigate the state-of-the-art of insider threats in software development organization. The second phase involved performing an empirical survey among cybersecurity pro</description>
+</item>
+<item>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>5bc6361af93df2b3e15cbc5c0ce1ffc9c1b858a1baaa773a315ab6c03abb0a2f</guid>
+<pubDate>Tue, 25 Aug 2026 02:12:50 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>f9c3aed5b7c5e51d62c800cf7c787f4b168ea130b28e2f0b80b32a1ed77d45e6</guid>
+<pubDate>Tue, 25 Aug 2026 02:13:06 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
 </item>
 
 </channel>
