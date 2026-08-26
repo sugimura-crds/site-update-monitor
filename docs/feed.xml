@@ -4,57 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 26 Aug 2026 18:11:20 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 20:22:53 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントとのチャットでのやりとりに人格を与えたい</title>
-<link>https://qiita.com/icruwrks/items/38a8835c30e9a9c6bf27</link>
-<guid>4b70757a8df29e1fb7c23a6d5260261c7365b239e8fcf943275d71956c0200f8</guid>
-<pubDate>2026-08-27T01:41:55+09:00</pubDate>
-<description>経緯 ハーネスを導入したら、チャットのやり取りも機械と会話しているような無機質なものになってしまったので、なんとかしたかった。 以前、xでアマデウスを作るポストを見かけたのでお試しでやってみた。 動作環境 KiroのIDE Kiro ~/.kiro/steering/p...</description>
+<title>【Qiita】 技術書を完璧にしても、答えのない判断には対応できない</title>
+<link>https://qiita.com/sumomoo/items/61c644bfc4e49353a451?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f890d0c228c492bbde8fcb30511e3df41add424d87278882e1f46fbfbc8c123e</guid>
+<pubDate>2026-08-26T17:11:27+09:00</pubDate>
+<description>はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です 日々、プログラミング学習や実務の中で、つまずきやすいポイントや 考え方を整理して発信しています。 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。 ▶コーポレートサイト 技術書を...</description>
 </item>
 <item>
-<title>【Qiita】 ClaudeCode のセキュリティ監視ダッシュボードを作ってみた -- 自分を信用しないための個人ツール</title>
-<link>https://qiita.com/sp-n-taka/items/80facf8dcf2183dcd280</link>
-<guid>97ed92cc74b28b40e3fb24bbf07c0e0f9c8d49b2c97d19db05e9263a87d58aa2</guid>
-<pubDate>2026-08-27T01:34:36+09:00</pubDate>
-<description>ClaudeCode を利用し始めてもうすぐ1年ほどが経ちそうですが、最近悩みがあります。複数セッションを並行で走らせていると、どのセッションが止まっているか分からないこと。そして、作業許諾を求められるたびに内容を確認せずエンターを押す癖がついてしまったことです。 だったら...</description>
+<title>【Qiita】 先輩の「わからないならいい」に、新人エンジニアが振り回された話</title>
+<link>https://qiita.com/prumnn/items/76e54fee4331e3d86f29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>d2fe4363a076bae618226c0bcfd905914772be8da5768340c08577b4187334a7</guid>
+<pubDate>2026-08-26T17:10:54+09:00</pubDate>
+<description>はじめに たぬき先輩に「なんでわからないの!?」と怒られ、具体的にどこがダメなのか聞いても「もうわからないならいい」とだけ返されて、何も改善できないまま終わってしまったぷらむんが、プラ美先輩に励まされて気づいたことをまとめました。 会社で自称マスコットキャラをやっ...</description>
+</item>
+<item>
+<title>【Qiita】 スクール卒業＝即戦力じゃない。でも「自走力」があれば、うちは全然いける。</title>
+<link>https://qiita.com/m__ikeda/items/76f8a1df75eb399ce58b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>b32ee16d87ab231a14a18c0092ddea72a17122d36c48fcf818cae9548522ef66</guid>
+<pubDate>2026-08-26T17:12:50+09:00</pubDate>
+<description>自己紹介 こんにちは。株式会社PRUMで採用広報を担当している池田です。 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊 もしIT業界に興味があるけど、...</description>
+</item>
+<item>
+<title>【Qiita】 AIの思考ログは、暗号化されているから安全ではなかった</title>
+<link>https://qiita.com/jqit_suwa/items/92a59e7a464fac9731da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>ae594572fea9c6a24e32f278dd8a121c15b92a87fa618b565bd711bf6cce7b74</guid>
+<pubDate>2026-08-26T08:52:06+09:00</pubDate>
+<description>手元の Claude Code のログを数えたら、読めない文字列が 19.6 MB 積まれていました。 thinking ブロック : 5,419 件（全件に signature つき） signature の合計 : 19.6 MB 最大の1ブロック : 318,4...</description>
+</item>
+<item>
+<title>【Qiita】 AI導入の成否は「モデル」より「社内知識の設計」で決まる</title>
+<link>https://qiita.com/mhamadajp/items/b20854ed8a2006ab21e7</link>
+<guid>49cd7acf3e75b58acc1268a92f11a155b59d26a0f445035e20543117241c7a8a</guid>
+<pubDate>2026-08-27T04:30:02+09:00</pubDate>
+<description>ベテランの暗黙知を、現場で使えるAI資産へ変える方法 生成AIやAIエージェントを導入したのに、現場で使われない。社内チャットはあるが回答が一般論にとどまる。RAGへマニュアルを登録しても、質問に対する答えが安定しない。 この問題を、モデルの性能やプロンプトだけで解こうと...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/towards-ai-as-a-collaborative-partner-a-taxonomy-of-ai-agent-behavior-in-software-engineering/</link>
-<guid>52644749888d593f72e1d165a7f8b1c915792a64ba9c3fb89c7105b5acda9244</guid>
-<pubDate>Wed, 26 Aug 2026 18:10:27 GMT</pubDate>
+<link>https://research.google/pubs/scientist-one-verifiable-autonomous-research-via-chain-of-evidence/</link>
+<guid>3992407a73211fa22f83edf648fb28cf38936f882586ab0d4ef642d3510f740e</guid>
+<pubDate>Wed, 26 Aug 2026 20:22:10 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-76076-4</link>
-<guid>0754d20ea3a47742c037c64a0a21ad89e436d564ac1224736efd2375214ce50d</guid>
-<pubDate>Wed, 26 Aug 2026 18:10:30 GMT</pubDate>
+<guid>016a93652571dbcdeb7b8c744091f598dd97b3abc0018f87a9340ccfa890da63</guid>
+<pubDate>Wed, 26 Aug 2026 20:22:13 GMT</pubDate>
 <description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>b27f613371d52719c97d2c1540064882db59e961b95e83ded15b315af4d252c3</guid>
-<pubDate>Wed, 26 Aug 2026 18:10:34 GMT</pubDate>
+<guid>cee0876005bfa748190fb57bbe4ed77474373503e6251f1d49dc5d5e0e79adff</guid>
+<pubDate>Wed, 26 Aug 2026 20:22:15 GMT</pubDate>
 <description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>43661c7d669dab26f2407be64fe54457077b0c48e9f09a2c67962be0f8368f97</guid>
-<pubDate>Wed, 26 Aug 2026 18:10:53 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Policies Policies Policies Publications Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>7f52ee445d5d46fa8f7fc029de0c56f064fb933b5ae881b40bf9c6880f614f66</guid>
-<pubDate>Wed, 26 Aug 2026 18:10:55 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
