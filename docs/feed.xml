@@ -4,62 +4,62 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 26 Aug 2026 20:22:53 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Aug 2026 23:52:13 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 技術書を完璧にしても、答えのない判断には対応できない</title>
-<link>https://qiita.com/sumomoo/items/61c644bfc4e49353a451?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>f890d0c228c492bbde8fcb30511e3df41add424d87278882e1f46fbfbc8c123e</guid>
-<pubDate>2026-08-26T17:11:27+09:00</pubDate>
-<description>はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です 日々、プログラミング学習や実務の中で、つまずきやすいポイントや 考え方を整理して発信しています。 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。 ▶コーポレートサイト 技術書を...</description>
+<title>【Qiita】 GitHub Copilot CLIをRPAのように使えるのか。Vibe Codingで「実装よりテストが長い」から考えたこと。OSの操作して、Win32のアプリを起動させて、NYTCの機械学習モデル作成と推論コードの実行に加えて、操作マニュアルまで全自動で開発をしてもらった話。</title>
+<link>https://qiita.com/dahatake/items/98efbbe1f824938cd6f9</link>
+<guid>5edffa416eea2af0db3dd0d22f126b42a00d7e6a15a4c7bbbac591468142bb1e</guid>
+<pubDate>2026-08-27T06:45:00+09:00</pubDate>
+<description>はじめに 背景：Vibe Codingで「確認」がボトルネックになった ここ数か月、GitHub Copilotを使ってVibe Codingをしています。 その中で、最近ちょっと違和感がありました。 コードを書いている時間より、動作を確認している時間の方が長くなってい...</description>
 </item>
 <item>
-<title>【Qiita】 先輩の「わからないならいい」に、新人エンジニアが振り回された話</title>
-<link>https://qiita.com/prumnn/items/76e54fee4331e3d86f29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>d2fe4363a076bae618226c0bcfd905914772be8da5768340c08577b4187334a7</guid>
-<pubDate>2026-08-26T17:10:54+09:00</pubDate>
-<description>はじめに たぬき先輩に「なんでわからないの!?」と怒られ、具体的にどこがダメなのか聞いても「もうわからないならいい」とだけ返されて、何も改善できないまま終わってしまったぷらむんが、プラ美先輩に励まされて気づいたことをまとめました。 会社で自称マスコットキャラをやっ...</description>
+<title>【Qiita】 スキルの採点ツールは、書いてある内容が正しいかを見ていない</title>
+<link>https://qiita.com/jqit_suwa/items/9cf8152a99b1d178a4fd</link>
+<guid>fbf52625871e102bd94fa164c4f97197a6e82e729b849ab5f75b5f548a5ba709</guid>
+<pubDate>2026-08-27T08:15:13+09:00</pubDate>
+<description>自分で書いた Agent Skill の中に、規格の定義が正反対で書かれているのを見つけました。 しかもそれを、スキルの品質を採点するツールにかけても、点数はほとんど動きませんでした。 この記事は、その実験の記録です。 検証環境: Windows 10 / Claude ...</description>
 </item>
 <item>
-<title>【Qiita】 スクール卒業＝即戦力じゃない。でも「自走力」があれば、うちは全然いける。</title>
-<link>https://qiita.com/m__ikeda/items/76f8a1df75eb399ce58b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>b32ee16d87ab231a14a18c0092ddea72a17122d36c48fcf818cae9548522ef66</guid>
-<pubDate>2026-08-26T17:12:50+09:00</pubDate>
-<description>自己紹介 こんにちは。株式会社PRUMで採用広報を担当している池田です。 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊 もしIT業界に興味があるけど、...</description>
+<title>【Qiita】 MCP サーバーの Elicitation でツール実行中にユーザーへ質問する実装 — 非対応クライアントで即死する等3つのハマりどころ【2026】</title>
+<link>https://qiita.com/yureki_lab/items/42154130272379fd2884</link>
+<guid>06722cb04bd14ee8f5679ee8fa2b4b3fd6841e0e677ad01b31f0c6a4d2715553</guid>
+<pubDate>2026-08-27T08:04:33+09:00</pubDate>
+<description>はじめに / 対象と前提 MCP サーバーのツールを書いていると、必ずこの壁にぶつかる。 ツールを実行し始めてから「この情報が足りない」と気づいた。でも引数はもう確定していて、途中でユーザーに訊く手段がない。 これを解決するのが MCP の Elicitation(エ...</description>
 </item>
 <item>
-<title>【Qiita】 AIの思考ログは、暗号化されているから安全ではなかった</title>
-<link>https://qiita.com/jqit_suwa/items/92a59e7a464fac9731da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>ae594572fea9c6a24e32f278dd8a121c15b92a87fa618b565bd711bf6cce7b74</guid>
-<pubDate>2026-08-26T08:52:06+09:00</pubDate>
-<description>手元の Claude Code のログを数えたら、読めない文字列が 19.6 MB 積まれていました。 thinking ブロック : 5,419 件（全件に signature つき） signature の合計 : 19.6 MB 最大の1ブロック : 318,4...</description>
+<title>【Qiita】 AIエージェント向けの「2ちゃんねる」を作ってみた</title>
+<link>https://qiita.com/Koukyosyumei/items/d5a19c9c2e4c70b1dd35</link>
+<guid>f72dfacf9762b6e59a5ba9d8d5b9261458756f79570f8955113e9745e90886d3</guid>
+<pubDate>2026-08-27T07:36:02+09:00</pubDate>
+<description>Claude CodeやCodexを複数同時に動かすと、それぞれに別の案を考えさせたり、互いのコードをレビューさせたりできます。 しかし、エージェント同士はどこで会話すればよいのでしょうか。どんなUIが複数のエージェント間の会話を可視化するのに最適でしょうか？ そこで、AI...</description>
 </item>
 <item>
-<title>【Qiita】 AI導入の成否は「モデル」より「社内知識の設計」で決まる</title>
-<link>https://qiita.com/mhamadajp/items/b20854ed8a2006ab21e7</link>
-<guid>49cd7acf3e75b58acc1268a92f11a155b59d26a0f445035e20543117241c7a8a</guid>
-<pubDate>2026-08-27T04:30:02+09:00</pubDate>
-<description>ベテランの暗黙知を、現場で使えるAI資産へ変える方法 生成AIやAIエージェントを導入したのに、現場で使われない。社内チャットはあるが回答が一般論にとどまる。RAGへマニュアルを登録しても、質問に対する答えが安定しない。 この問題を、モデルの性能やプロンプトだけで解こうと...</description>
+<title>【Qiita】 Agent・Orchestration・Harness・Loop・Context・Evals、6つの関係を1つの具体例で整理する</title>
+<link>https://qiita.com/Hideki_Tamae/items/0af2a05936edc1e4f1f0</link>
+<guid>1676d1d165e8409dee4cb86f384d446a4b17f4617a2dbf320da0a1b05698d9a7</guid>
+<pubDate>2026-08-27T07:08:32+09:00</pubDate>
+<description>はじめに AIエージェント界隈は、この1〜2年で言葉が増えすぎました。 AI Agent、AI Orchestration、Harness Engineering、Loop Engineering、Context Engineering、Evals——どれも重要な概念です...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/scientist-one-verifiable-autonomous-research-via-chain-of-evidence/</link>
-<guid>3992407a73211fa22f83edf648fb28cf38936f882586ab0d4ef642d3510f740e</guid>
-<pubDate>Wed, 26 Aug 2026 20:22:10 GMT</pubDate>
+<link>https://research.google/pubs/multi-agent-system-for-cognitive-work-automation-using-an-adversarial-review-panel/</link>
+<guid>62e83072c172c6dcd2ce178a7df578426bfa7029475a2aa424672aa355317266</guid>
+<pubDate>Wed, 26 Aug 2026 23:51:29 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-76076-4</link>
-<guid>016a93652571dbcdeb7b8c744091f598dd97b3abc0018f87a9340ccfa890da63</guid>
-<pubDate>Wed, 26 Aug 2026 20:22:13 GMT</pubDate>
+<guid>f23bc8a59f00fbd94974179c5ae14f15e9e0bc9e3ee31ba94003325a29720ebf</guid>
+<pubDate>Wed, 26 Aug 2026 23:51:31 GMT</pubDate>
 <description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>cee0876005bfa748190fb57bbe4ed77474373503e6251f1d49dc5d5e0e79adff</guid>
-<pubDate>Wed, 26 Aug 2026 20:22:15 GMT</pubDate>
+<guid>56e4a78dd187b5ee1c5d5fbd691280c266afacc0e104a3ea2caf62f225b7b761</guid>
+<pubDate>Wed, 26 Aug 2026 23:51:33 GMT</pubDate>
 <description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 
