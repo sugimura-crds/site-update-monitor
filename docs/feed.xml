@@ -4,63 +4,78 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 26 Aug 2026 23:52:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Aug 2026 05:47:38 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 GitHub Copilot CLIをRPAのように使えるのか。Vibe Codingで「実装よりテストが長い」から考えたこと。OSの操作して、Win32のアプリを起動させて、NYTCの機械学習モデル作成と推論コードの実行に加えて、操作マニュアルまで全自動で開発をしてもらった話。</title>
-<link>https://qiita.com/dahatake/items/98efbbe1f824938cd6f9</link>
-<guid>5edffa416eea2af0db3dd0d22f126b42a00d7e6a15a4c7bbbac591468142bb1e</guid>
-<pubDate>2026-08-27T06:45:00+09:00</pubDate>
-<description>はじめに 背景：Vibe Codingで「確認」がボトルネックになった ここ数か月、GitHub Copilotを使ってVibe Codingをしています。 その中で、最近ちょっと違和感がありました。 コードを書いている時間より、動作を確認している時間の方が長くなってい...</description>
+<title>【Qiita】 AI Orchestration / Multi-Agent Systemsとは何か？複数のAIエージェントを指揮する設計</title>
+<link>https://qiita.com/Hideki_Tamae/items/b4e54575bdc2862e774d</link>
+<guid>288b1c32c7fca437593f5c08f8fab2c3508b4386219a97c15ae33d6ee6b55439</guid>
+<pubDate>2026-08-27T13:56:47+09:00</pubDate>
+<description>はじめに このシリーズでは、Harness Engineering・Loop Engineering・Context Engineering・Evaluationなど、1体のAIエージェントを支える要素を1つずつ見てきました。前回の記事では、それらの関係を1つの具体例で整...</description>
 </item>
 <item>
-<title>【Qiita】 スキルの採点ツールは、書いてある内容が正しいかを見ていない</title>
-<link>https://qiita.com/jqit_suwa/items/9cf8152a99b1d178a4fd</link>
-<guid>fbf52625871e102bd94fa164c4f97197a6e82e729b849ab5f75b5f548a5ba709</guid>
-<pubDate>2026-08-27T08:15:13+09:00</pubDate>
-<description>自分で書いた Agent Skill の中に、規格の定義が正反対で書かれているのを見つけました。 しかもそれを、スキルの品質を採点するツールにかけても、点数はほとんど動きませんでした。 この記事は、その実験の記録です。 検証環境: Windows 10 / Claude ...</description>
+<title>【Qiita】 【図解】AI・ChatGPT・RPA・iPaaS・n8n…業務自動化の言葉が多すぎる！66 製品を 6 役に例えたら、1 枚の工場イラスト図になった</title>
+<link>https://qiita.com/songchong/items/dc75c6f3789348408f9b</link>
+<guid>872f9c470b74af1fec6ec2c6c5e08aaa9706bf795c7f653f8b770c884c098c27</guid>
+<pubDate>2026-08-27T12:08:03+09:00</pubDate>
+<description>「業務を自動化したい」と調べ始めた瞬間、名前の洪水に遭います。 AI、生成AI、LLM、AIエージェント、Agent、MCP、RPA、iPaaS、ワークフロー、AI-OCR、ノーコード、ローコード、API、ChatGPT、Gemini、Claude、Microsoft 36...</description>
 </item>
 <item>
-<title>【Qiita】 MCP サーバーの Elicitation でツール実行中にユーザーへ質問する実装 — 非対応クライアントで即死する等3つのハマりどころ【2026】</title>
-<link>https://qiita.com/yureki_lab/items/42154130272379fd2884</link>
-<guid>06722cb04bd14ee8f5679ee8fa2b4b3fd6841e0e677ad01b31f0c6a4d2715553</guid>
-<pubDate>2026-08-27T08:04:33+09:00</pubDate>
-<description>はじめに / 対象と前提 MCP サーバーのツールを書いていると、必ずこの壁にぶつかる。 ツールを実行し始めてから「この情報が足りない」と気づいた。でも引数はもう確定していて、途中でユーザーに訊く手段がない。 これを解決するのが MCP の Elicitation(エ...</description>
+<title>【Qiita】 2026年8月27日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/19301e1fc8347f635977</link>
+<guid>e3ec579cad806b2b5be7e773b70a8bb386485e091d71af58a3e5eec659297ecc</guid>
+<pubDate>2026-08-27T11:01:25+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 【ローカルLLM】国産LLM「LLM-jp-4...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント向けの「2ちゃんねる」を作ってみた</title>
-<link>https://qiita.com/Koukyosyumei/items/d5a19c9c2e4c70b1dd35</link>
-<guid>f72dfacf9762b6e59a5ba9d8d5b9261458756f79570f8955113e9745e90886d3</guid>
-<pubDate>2026-08-27T07:36:02+09:00</pubDate>
-<description>Claude CodeやCodexを複数同時に動かすと、それぞれに別の案を考えさせたり、互いのコードをレビューさせたりできます。 しかし、エージェント同士はどこで会話すればよいのでしょうか。どんなUIが複数のエージェント間の会話を可視化するのに最適でしょうか？ そこで、AI...</description>
+<title>【Qiita】 Databricks Genie One のデスクトップアプリを試す: サインインで迷った話つき</title>
+<link>https://qiita.com/taka_yayoi/items/319d85541d1cbddb7117</link>
+<guid>a0b5f062c2a9faff9f87d20755c4a450a7ef257467a44c487d0d8da70c67ed80</guid>
+<pubDate>2026-08-27T10:38:46+09:00</pubDate>
+<description>はじめに Genie Oneのデスクトップアプリが提供されるようになりました。macOSネイティブのアプリで、ブラウザを開かずにGenie Oneを使えます。 Genie One デスクトップアプリ Genie One 6月にモバイルアプリを一通り触った記事を書きまし...</description>
 </item>
 <item>
-<title>【Qiita】 Agent・Orchestration・Harness・Loop・Context・Evals、6つの関係を1つの具体例で整理する</title>
-<link>https://qiita.com/Hideki_Tamae/items/0af2a05936edc1e4f1f0</link>
-<guid>1676d1d165e8409dee4cb86f384d446a4b17f4617a2dbf320da0a1b05698d9a7</guid>
-<pubDate>2026-08-27T07:08:32+09:00</pubDate>
-<description>はじめに AIエージェント界隈は、この1〜2年で言葉が増えすぎました。 AI Agent、AI Orchestration、Harness Engineering、Loop Engineering、Context Engineering、Evals——どれも重要な概念です...</description>
+<title>【Qiita】 n8nの Chat ModelノードをClaudeサブスクで動かす</title>
+<link>https://qiita.com/AlohaYos/items/a32bfc10c2a1342a8580</link>
+<guid>277f89cf40481279e0ee66bae6f32fe8251a315eb38e336bf920586f3503b1e1</guid>
+<pubDate>2026-08-27T12:20:31+09:00</pubDate>
+<description>n8nの「Anthropic Chat Model」ノードはAPI課金前提ですが、認証情報のBase URL欄を差し替えるとバックエンドを自由に変えられます Claude Code CLI（claude login済み）をAnthropic Messages API互換の...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/multi-agent-system-for-cognitive-work-automation-using-an-adversarial-review-panel/</link>
-<guid>62e83072c172c6dcd2ce178a7df578426bfa7029475a2aa424672aa355317266</guid>
-<pubDate>Wed, 26 Aug 2026 23:51:29 GMT</pubDate>
+<link>https://research.google/pubs/from-silicon-to-boardroom-a-multivocal-survey-of-the-techno-economic-layers-governing-generative-ai-monetization/</link>
+<guid>677febc8b8927a8c7bc81ce59f18d05d96e3622e3f2ea2c63d5c2ee3dc7bd589</guid>
+<pubDate>Thu, 27 Aug 2026 05:46:43 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-76076-4</link>
-<guid>f23bc8a59f00fbd94974179c5ae14f15e9e0bc9e3ee31ba94003325a29720ebf</guid>
-<pubDate>Wed, 26 Aug 2026 23:51:31 GMT</pubDate>
+<guid>12ce4f35959061d352ff144821c1bb0e5faf41cd33092669f03c62c971e86c1e</guid>
+<pubDate>Thu, 27 Aug 2026 05:46:47 GMT</pubDate>
 <description>Foundational artificial intelligence models are gaining traction in various applications, including medical fields like radiology. However, medical foundation models are often tested on limited tasks, leaving their generalisability and biases unexplored. Here we introduce RayDINO, a large-scale self-supervised visual encoder for chest X-rays trained on 840,000 images and evaluated on 82,000 images sourced from 12 publicly available datasets. We compare RayDINO to previous state-of-the-art models across nine radiology tasks, from classification and dense segmentation to text generation, and provide an in-depth analysis of population, age and sex biases of our model. Our findings suggest that self-supervision enables patient-centric analysis useful in clinical workflows, allowing for a more holistic interpretation of X-rays. With RayDINO and small task-specific adapters, we reach state-of-the-art results and improve generalization to unseen populations while mitigating bias, illustrating the versatility and robustness of foundation models. In this study, Moutakanni and colleagues introduce RayDINO, a self-supervised chest X-ray foundation model trained on 840,000 images, that outperf</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>56e4a78dd187b5ee1c5d5fbd691280c266afacc0e104a3ea2caf62f225b7b761</guid>
-<pubDate>Wed, 26 Aug 2026 23:51:33 GMT</pubDate>
+<guid>84ea0598e6aa14797e87847ef851c009f560c9f050f6473863c25b0afc170325</guid>
+<pubDate>Thu, 27 Aug 2026 05:46:50 GMT</pubDate>
 <description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>047e6c4851310c0a340915e59658243381e8348a3f4511cf3573863a421d225d</guid>
+<pubDate>Thu, 27 Aug 2026 05:46:54 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>9a9ee2d16c0c485f2e17fa9248fc33757bcd171a544844791678d8dd39a323dd</guid>
+<pubDate>Thu, 27 Aug 2026 05:47:21 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
