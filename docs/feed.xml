@@ -4,111 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 28 Aug 2026 23:18:19 GMT</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 04:14:05 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IT業界で皆知ってる「クラウド」「AWS」、分かったふりやめて先輩に聞いてみた</title>
-<link>https://qiita.com/prumnn/items/d155a4ac10477d1eb41f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>e470659d838934f2915f1af335b81a6a202f7065cb79bd251c4b39f74dbc4515</guid>
-<pubDate>2026-08-28T16:21:15+09:00</pubDate>
-<description>はじめに 会社でしょっちゅう飛び交う「クラウド」という言葉に、分かったふりで相槌を打ち続けていたぷらむんが、思い切ってたぬき先輩に「クラウドって結局何なんですか?」と聞いてみたら、モヤモヤの正体がようやく整理できた話です。 会社で自称マスコットキャラをやってるのに...</description>
+<title>【Qiita】 AIにテストを書かせると毎回同じ場所が抜ける理由と対策</title>
+<link>https://qiita.com/syun136_616/items/b8e94720d9259864b022</link>
+<guid>25c6953eea1ac560f190667a440b7db7ef9a1caf42c52f43ad1b1f8a41c14a42</guid>
+<pubDate>2026-08-29T12:38:07+09:00</pubDate>
+<description>この記事の要点 AIにテストを書かせると、境界値・異常系・非同期処理・副作用の検証が毎回同じように抜けやすい傾向があります。 原因は、AIが正常系の使われ方を推測してテストを組み立てるため、失敗パスや副作用の検証が後回しになりやすいことです。 対策として、プロンプトに検証...</description>
 </item>
 <item>
-<title>【Qiita】 面接で「前職への不満」を聞かれたら。無理にきれいな退職理由をつくらなくても大丈夫です</title>
-<link>https://qiita.com/m__ikeda/items/b96813bc8a482b3d0074?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>ef1cb7a8b4f8672f73ce2d7d20ff4ae40231f7df986d95fb1c1417adc1697a23</guid>
-<pubDate>2026-08-28T16:25:01+09:00</pubDate>
-<description>自己紹介 こんにちは。株式会社PRUMで採用広報を担当している池田です。 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊 もしIT業界に興味があるけど、...</description>
+<title>【Qiita】 AIエージェントにどこまで任せる？自動送信・購入・削除の前に置く安全設計</title>
+<link>https://qiita.com/kz2021019/items/7a77df3892afdf318a9c</link>
+<guid>09d7d7cc8262a2556b9d3500bf0f8cdd5b368a00806203579deec8f75dc2737d</guid>
+<pubDate>2026-08-29T09:24:24+09:00</pubDate>
+<description>文章を回答する生成AIと、メール送信、商品購入、ファイル削除、システム変更まで実行するAIエージェントでは、失敗の影響が違います。 回答が間違っていれば人が無視できます。しかし、間違った操作が自動実行されると、情報漏えい、誤発注、データ消失など現実の被害につながります。便利...</description>
 </item>
 <item>
-<title>【Qiita】 ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった</title>
-<link>https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>9c944571385d34d14811a3b903d21213c19ac9773515c26b78f4253262417e7a</guid>
-<pubDate>2026-08-26T22:31:54+09:00</pubDate>
-<description>自分のレビューが薄い理由が分からなかった 同じPRを見ているのに、自分は「LGTM」で終わり、隣の人は10件の的確な指摘を出してくる。何を見ればそうなるのか、聞いてみても「気になった箇所を見てるだけ」という答えしか返ってこない。同じ経験、ありませんか。 それなら実物を数え...</description>
+<title>【Qiita】 AIチェッカーの反証テストを自動化する無料ツール「Guardrail Red-Team」を作った</title>
+<link>https://qiita.com/tosh_vance/items/2701b5fc3abd995abc73</link>
+<guid>1c3f667daf9f3e49786e4a747c9a61f287fdbe9e9ae4e3dc0a04705efd9631f9</guid>
+<pubDate>2026-08-29T09:00:06+09:00</pubDate>
+<description>背景 自分が開発しているAI戦略分析ツール(AnchorStrategy)には、AIの主張が元ソースに実在するかを機械的にチェックするcitation-fidelityガードレールがあります。このガードレールに対して反証テスト(意図的に破ろうとするテスト)を行ったところ、8...</description>
 </item>
 <item>
-<title>【Qiita】 10年分ぐらいのQiitaの自分の投稿を蒸留したら、自分っぽい記事を書いてくれるようになったww</title>
-<link>https://qiita.com/moritalous/items/4a70f0bee16d5d690a73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>773766a18b78d986984d1dbca64f0d687b642050c95c7bcc2c76448882dac22c</guid>
-<pubDate>2026-08-27T22:01:16+09:00</pubDate>
-<description>この投稿は、100%人間が書いています。 さっき公開したこの記事、実は100%生成AI製です。 （内容は実際に検証した結果なので、合ってると思います。） ただ、文体とか流れは、自分っぽい😁 やり方（というか実施したプロンプト）です プロンプト まずは...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントに EDR は必要か -- コーディングエージェントのランタイムセキュリティを考える</title>
-<link>https://qiita.com/sp-n-taka/items/3adbd57bbf054aeba0ef</link>
-<guid>95aed31f10b5a55234a88fc4908be8090e2d04e5cd0a0475616c2af03175e631</guid>
-<pubDate>2026-08-29T02:45:54+09:00</pubDate>
-<description>前回の記事で、ClaudeCode の hooks を使ったセキュリティ監視ダッシュボード「CC Pipeline」を作りました。ツール呼び出しを可視化し、致命的な操作をブロックし、危険な操作を警告します。個人ツールとしては役立っています。 ただ、使っていて限界に気付きまし...</description>
-</item>
-<item>
-<title>【Qiita】 ClaudeCodeの使い方、本人（本AI?）に聞いてみた</title>
-<link>https://qiita.com/Feyet-cl/items/257f929de1fe7f18ad26</link>
-<guid>91999b25049e32bdc14c5a5fddbc5f98a3eddfcb39ed384ea3efab9964df5882</guid>
-<pubDate>2026-08-28T23:47:32+09:00</pubDate>
-<description>はじめに Claude Codeを使い始めてしばらく経ちますが、正直なところ最初は「CLIで使えるClaude」くらいの認識しかありませんでした。 質問には答えてくれるし、コードも書いてくれる。でも、それ以上の使い方があるのかはよく分からない。気付けば、Web版Claud...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Codeの /help で使えるコマンドの入口を確認する — 最初の10分で迷子にならない</title>
-<link>https://qiita.com/akira_papa_AI/items/7f6820328876a216d596</link>
-<guid>aba9fd47a74b38daa72e2b4a03b075a6b4c5780839b3f401fb03ebeee40afc0c</guid>
-<pubDate>2026-08-28T22:33:40+09:00</pubDate>
-<description>この記事は2026年8月28日時点の公式ドキュメントをもとにしています。 Claude Codeを起動できた。でも、画面を見た瞬間に「ここから何を入力したらええんやろ」と手が止まる。 最初は、それで普通です。Claude Codeにはできることが多いぶん、全部を覚えてか...</description>
-</item>
-<item>
-<title>【自動自律実験】 Briefing Chat: How Dolly Parton left her mark on science</title>
-<link>https://www.nature.com/articles/d41586-026-02732-w</link>
-<guid>254fef6c89591c1b32806ec9925f2d81cbb59d13299442c69a03ae8bcc33ee5f</guid>
+<title>【農業】 Emerging biofuel crop frontiers risk repeating old land injustices</title>
+<link>https://www.nature.com/articles/s43016-026-01425-x</link>
+<guid>614d1f17c2a3abdf07d8e1bbbabf6698010594adf747e43975a784c301157cf6</guid>
 <pubDate>2026-08-28</pubDate>
-<description>Nature reporters discuss the country-music icon&#x27;s advocacy for vaccines and public health — plus, promising trial results for an mRNA cancer therapy.</description>
+<description>Past biofuel expansions reveal that when industrial-scale investment outpaces land governance, independent scrutiny and community participation, low-carbon crop transitions can reproduce land concentration, displacement and ecological simplification. A close examination of an emerging biofuel frontier in Brazil shows why</description>
 </item>
 <item>
-<title>【自動自律実験】 The Moderna cancer vaccine offers hope — now we must speed up personalized therapies</title>
-<link>https://www.nature.com/articles/d41586-026-02680-5</link>
-<guid>78dd0a8b33bd07f8d46a9be0687960161d4186f17d2b91a2450f637c95e458f5</guid>
+<title>【農業】 Systematic review of nutrient profile models for front-of-pack nutrition labelling</title>
+<link>https://www.nature.com/articles/s43016-026-01414-0</link>
+<guid>240b565ac4567d4d2a5153ceb7a7e6abffd7ce3fb898f784973915bb0c63d3af</guid>
 <pubDate>2026-08-28</pubDate>
-<description>A positive trial holds promise for treating people with cancer. More research is needed to get effective vaccines to the clinic.</description>
-</item>
-<item>
-<title>【自動自律実験】 Will Meta’s deal make social media safe for kids? Researchers are dubious</title>
-<link>https://www.nature.com/articles/d41586-026-02733-9</link>
-<guid>d46342e51faf234aba45be914ce5f3427249e8040e4233488961486ff620abed</guid>
-<pubDate>2026-08-28</pubDate>
-<description>Nature talks to specialists about the changes coming to Facebook and Instagram, and whether there’s evidence they will help.</description>
+<description>Nutrient profile models (NPMs) underpin front-of-pack nutrition labelling (FOPNL), which can help consumers to make healthier food choices. This systematic review identifies and characterizes existing NPMs for FOPNL systems globally.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/who-controls-the-curriculum-for-ai-the-limits-of-participatory-design-for-educational-ai/</link>
-<guid>d3d7c7a7bbe20af22d82282f41fb136e8c074fac04c262f16a594fbdd536f1bd</guid>
-<pubDate>Fri, 28 Aug 2026 23:17:40 GMT</pubDate>
+<link>https://research.google/pubs/ams-detecting-unsafe-and-tampered-language-models-via-activation-analysis/</link>
+<guid>71122f03d273c41ff719697bf13caeb4b4cc51d9a41503cb72df3f4b1338c16a</guid>
+<pubDate>Sat, 29 Aug 2026 04:13:23 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77130-x</link>
-<guid>ea572dd7a927ef65913fc5958f17b4aee1cc7ba76b8c92d2acaafbc912d6ee03</guid>
-<pubDate>Fri, 28 Aug 2026 23:17:43 GMT</pubDate>
+<guid>054629d0a0a8b20000e987a50591dd90c1ef5a0ee6cf2bd19712596ec2a154ad</guid>
+<pubDate>Sat, 29 Aug 2026 04:13:26 GMT</pubDate>
 <description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>1a946de0cf55d7b8619d9fc17d00d2bf6d8347289f273563addc6a74b7b14d34</guid>
-<pubDate>Fri, 28 Aug 2026 23:17:45 GMT</pubDate>
-<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+<link>https://www.nature.com/articles/s42256-026-01301-0</link>
+<guid>1eac697c2a0e6885d36d2e111e3a47584d7b46388eed5eb589da29b80379c4e2</guid>
+<pubDate>Sat, 29 Aug 2026 04:13:31 GMT</pubDate>
+<description>Frontier large language models (LLMs) have rapidly developed from helpful coding assistants to highly capable cybersecurity systems. After several security incidents in the past few months, more oversight and a strong focus on safe testing and deployment seem needed.</description>
 </item>
 <item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>439440221b38c7145464ecd4daa1f44cfada27f317cf55766d0181ec7aa8b945</guid>
-<pubDate>Fri, 28 Aug 2026 23:18:01 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>88aefacd23030b6950bab58adae47daf914d7487c684473aec92325c7bdbefae</guid>
+<pubDate>Sat, 29 Aug 2026 04:13:49 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 <item>
 <title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
 <link>https://agfundernews.com</link>
-<guid>505877cb77aebaf51e460732ae7d10cd1ea226b2702d5c50aead2d462deae806</guid>
-<pubDate>Fri, 28 Aug 2026 23:18:06 GMT</pubDate>
+<guid>dc5129390ed571659b2346772f3f363081d5eaad39c3a1032ab400ba40750ec6</guid>
+<pubDate>Sat, 29 Aug 2026 04:13:55 GMT</pubDate>
 <description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
