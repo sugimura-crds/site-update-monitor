@@ -4,85 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 29 Aug 2026 15:42:12 GMT</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 19:01:01 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Codeでトライ！④ - Claude CodeとFlutterで麻雀点数計算アプリを作ってみた</title>
-<link>https://qiita.com/OnuuuumaX/items/4bb47e2770e28207778a</link>
-<guid>71f94cb11869f4c045471d9a638ecb14a9275ff6eeb9166072c2b700d60704d2</guid>
-<pubDate>2026-08-29T22:03:43+09:00</pubDate>
-<description>はじめに Flutterで「牌をカメラで撮影するだけで点数計算してくれるアプリ」を思い付きましたのでclaudeにお願いするだけで作れるか試してみました。 （リサーチの結果、巷には同じようなアプリは多数存在するようです） 実装はClaude Code（AIコーディングエ...</description>
-</item>
-<item>
-<title>【Qiita】 Agent Plugins 1.0で持ち運べるのは「梱包」まで。実行前のtrust preflightを作る</title>
-<link>https://qiita.com/heftykoo/items/4614631e8607d7e8ce38</link>
-<guid>65bd352ea4d4408b8ff912f64377d0612c39a73850c822584caf5b1cc28fadb6</guid>
-<pubDate>2026-08-29T23:58:30+09:00</pubDate>
-<description>UIレビュー用のskillとPlaywright系MCPを一つのdirectoryへまとめ、VS CodeとCLIの両方へ配りたい。Agent Plugins 1.0は、こういう用途にかなり素直なpackage形を用意しています。 ただし、両方のhostがpackageを認...</description>
-</item>
-<item>
-<title>【Qiita】 Codexのconfig profileでread-only起動を保存する — 毎回の長いオプションを10分で短くする</title>
-<link>https://qiita.com/akira_papa_AI/items/84d0b74935523dd0bbcc</link>
-<guid>1c8e055d07d0b158b932d496a3070406446a34e784312c532e4abce13042ede8</guid>
-<pubDate>2026-08-29T22:37:35+09:00</pubDate>
-<description>この記事は2026年8月29日時点のOpenAI公式ドキュメントをもとにしています。 Codexを安全に試すたび、こんな長いコマンドを入力していませんか。 codex --sandbox read-only 1回だけなら、これで十分です。でも、READMEの要約やコー...</description>
-</item>
-<item>
-<title>【Qiita】 Google Antigravityとは？種類・料金・Cursorとの違いからIDEの使い方まで紹介</title>
-<link>https://qiita.com/uyhnt73w/items/9a36a7c0a53304b037f5</link>
-<guid>a3f43d69cf39b0a7f411841181c24ec72618aaf82a3d3d7e73b2761394a8896f</guid>
-<pubDate>2026-08-29T22:07:03+09:00</pubDate>
-<description>Google Antigravityとは？種類・料金・Cursorとの違いからIDEの使い方まで紹介 1. はじめに 近年、CursorやGitHub Copilotなど、AIを活用した開発ツールが急速に普及しています。 私自身も普段の開発でAIを利用する機会が増えてき...</description>
-</item>
-<item>
-<title>【Qiita】 ローカル LLM で A2A (Agent2Agent) を試す：独立した Agent 間連携を動かす</title>
-<link>https://qiita.com/00b012deb7c8/items/419dc707eb415f296056</link>
-<guid>04231963a4de0e0e9992e45424e733244abdb9fc6d70bbf2e58da8e7ace34434</guid>
-<pubDate>2026-08-29T21:21:21+09:00</pubDate>
-<description>はじめに 前回は、ローカル LLM を OpenAI Agents SDK に接続し、単一の Agent を実行しました。 今回は、Agent が別の Agent に仕事を依頼する仕組みである A2A（Agent2Agent）を試します。売上分析を受け付ける Age...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントに記事を書かせる前に「もう書いていないか」を数えさせたら、24時間前の自分と鉢合わせした話</title>
-<link>https://qiita.com/Hideki_Tamae/items/7f7811c8c4e2f8d540a3</link>
-<guid>40a6bfcc9935dc6575cae24fdaf98a126f0678136cb9b20e0c137afe6eca38f2</guid>
-<pubDate>2026-08-29T20:27:13+09:00</pubDate>
-<description>はじめに 13本。 これが何の数字か、先に種明かしはしません。まずこの記事を書くまでの経緯から話させてください。 この技術記事シリーズは、テーマ選定から執筆、Zenn・Qiita向けのフォーマット整形、git commit、pushまでをAIエージェントに任せ、GitHu...</description>
-</item>
-<item>
-<title>【農業】 FAO Headquarters New Gate Pavilion achieves LEED Gold certification</title>
-<link>https://www.fao.org/newsroom/detail/fao-headquarters-new-gate-pavilion-achieves-leed-gold-certification/en</link>
-<guid>9a68c689083ae5ec7a1baa82b346832544e498716a46f3833a35f15a866dda77</guid>
-<pubDate>Sat, 29 Aug 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/ai-is-not-the-new-a-diagnostic-analogy-framework-for-generative-ais-cultural-impacts/</link>
-<guid>466ebd766751fe65b4f7306c5af088d5c24a70228a8c2a1c004d1617de84a387</guid>
-<pubDate>Sat, 29 Aug 2026 15:41:38 GMT</pubDate>
+<link>https://research.google/pubs/moxart-audio-visual-object-guided-sound-interaction-for-xr-2/</link>
+<guid>8c77e4b2ec75e91c6f4dfa2c8f491297dfd3d5e009e85133e708d349adba1a66</guid>
+<pubDate>Sat, 29 Aug 2026 19:00:27 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77130-x</link>
-<guid>5259910bf341efc911a61e129d5d72f157717a37bce223367d197a956987b332</guid>
-<pubDate>Sat, 29 Aug 2026 15:41:41 GMT</pubDate>
+<guid>eed8aa3b93d4df13c8bbfc982f9ac76915d794aee0e5a354ba4ed90cf87c446f</guid>
+<pubDate>Sat, 29 Aug 2026 19:00:30 GMT</pubDate>
 <description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>47d073f4d2c092a81d4e0e948b7bbf2ff77cd5208c9ba2832cb7cb4ad80e1227</guid>
-<pubDate>Sat, 29 Aug 2026 15:41:43 GMT</pubDate>
+<guid>9d46a0b8f16c82f049656db0bc8bd6ae5110d5faaecdc04bb7c3bb24aa0a55aa</guid>
+<pubDate>Sat, 29 Aug 2026 19:00:33 GMT</pubDate>
 <description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>ea21d9a4837537484ff8f8c93e6ad68db4f9570d1f0ad60e83049ce04464c555</guid>
-<pubDate>Sat, 29 Aug 2026 15:41:55 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>f7fa8d461f880959b7172ffb5387e57e3684bf5473b933c72d59c3c1192d75ae</guid>
+<pubDate>Sat, 29 Aug 2026 19:00:46 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
