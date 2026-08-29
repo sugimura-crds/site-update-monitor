@@ -4,78 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 29 Aug 2026 04:14:05 GMT</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 11:15:21 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIにテストを書かせると毎回同じ場所が抜ける理由と対策</title>
-<link>https://qiita.com/syun136_616/items/b8e94720d9259864b022</link>
-<guid>25c6953eea1ac560f190667a440b7db7ef9a1caf42c52f43ad1b1f8a41c14a42</guid>
-<pubDate>2026-08-29T12:38:07+09:00</pubDate>
-<description>この記事の要点 AIにテストを書かせると、境界値・異常系・非同期処理・副作用の検証が毎回同じように抜けやすい傾向があります。 原因は、AIが正常系の使われ方を推測してテストを組み立てるため、失敗パスや副作用の検証が後回しになりやすいことです。 対策として、プロンプトに検証...</description>
+<title>【Qiita】 環境変数でサブエージェントのモデルを固定できなくなった</title>
+<link>https://qiita.com/jqit_suwa/items/fc7f964572190fb8a77a</link>
+<guid>8fe169720c3f734f71f35a9fd5ce25b6b467599c2b341291061063f491bf008f</guid>
+<pubDate>2026-08-29T19:54:28+09:00</pubDate>
+<description>CLAUDE_CODE_SUBAGENT_MODEL は、サブエージェントのモデルを指定する環境変数です。 これまでは全部を上書きしていました。 Claude Code 2.1.251 で、エージェント定義側が勝つように変わりました。 手元で4通り試したら、はっきり分かれま...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントにどこまで任せる？自動送信・購入・削除の前に置く安全設計</title>
-<link>https://qiita.com/kz2021019/items/7a77df3892afdf318a9c</link>
-<guid>09d7d7cc8262a2556b9d3500bf0f8cdd5b368a00806203579deec8f75dc2737d</guid>
-<pubDate>2026-08-29T09:24:24+09:00</pubDate>
-<description>文章を回答する生成AIと、メール送信、商品購入、ファイル削除、システム変更まで実行するAIエージェントでは、失敗の影響が違います。 回答が間違っていれば人が無視できます。しかし、間違った操作が自動実行されると、情報漏えい、誤発注、データ消失など現実の被害につながります。便利...</description>
+<title>【Qiita】 AgentCore Gateway と Lambda で決定論的な処理をツール化する AI エージェントの「Workflow as Tools」を理解</title>
+<link>https://qiita.com/leomarokun/items/bcd9ae7dd4244e08cb52</link>
+<guid>90f0a87c65c272cf72705108940712442b7551f33f774d33b11122b87e808785</guid>
+<pubDate>2026-08-29T17:26:49+09:00</pubDate>
+<description>はじめに この記事は是非以下の記事とセットで読んでください https://qiita.com/leomarokun/items/10c29c5eab780dfab3cb 前回の記事では、「非決定的な調査は AgentCore harness に、決定論的な Sl...</description>
 </item>
 <item>
-<title>【Qiita】 AIチェッカーの反証テストを自動化する無料ツール「Guardrail Red-Team」を作った</title>
-<link>https://qiita.com/tosh_vance/items/2701b5fc3abd995abc73</link>
-<guid>1c3f667daf9f3e49786e4a747c9a61f287fdbe9e9ae4e3dc0a04705efd9631f9</guid>
-<pubDate>2026-08-29T09:00:06+09:00</pubDate>
-<description>背景 自分が開発しているAI戦略分析ツール(AnchorStrategy)には、AIの主張が元ソースに実在するかを機械的にチェックするcitation-fidelityガードレールがあります。このガードレールに対して反証テスト(意図的に破ろうとするテスト)を行ったところ、8...</description>
+<title>【Qiita】 Loop Engineeringを実装する — 評価と再実行をコードに落とす</title>
+<link>https://qiita.com/Hideki_Tamae/items/fcca6e5355d421acb309</link>
+<guid>3ccf440bd5e2ce14eb51c7fa9750726fcdbd267856a437409e95371781482293</guid>
+<pubDate>2026-08-29T15:13:09+09:00</pubDate>
+<description>以前の記事「Loop Engineeringとは何か」では、概念として「失敗から改善するシステム」を扱いました。そして前回の実装編「Harness Engineeringを実装する」では、エージェントに何をさせて良いかを権限として明文化しました。 今回はその続きです。権限の...</description>
 </item>
 <item>
-<title>【農業】 Emerging biofuel crop frontiers risk repeating old land injustices</title>
-<link>https://www.nature.com/articles/s43016-026-01425-x</link>
-<guid>614d1f17c2a3abdf07d8e1bbbabf6698010594adf747e43975a784c301157cf6</guid>
-<pubDate>2026-08-28</pubDate>
-<description>Past biofuel expansions reveal that when industrial-scale investment outpaces land governance, independent scrutiny and community participation, low-carbon crop transitions can reproduce land concentration, displacement and ecological simplification. A close examination of an emerging biofuel frontier in Brazil shows why</description>
-</item>
-<item>
-<title>【農業】 Systematic review of nutrient profile models for front-of-pack nutrition labelling</title>
-<link>https://www.nature.com/articles/s43016-026-01414-0</link>
-<guid>240b565ac4567d4d2a5153ceb7a7e6abffd7ce3fb898f784973915bb0c63d3af</guid>
-<pubDate>2026-08-28</pubDate>
-<description>Nutrient profile models (NPMs) underpin front-of-pack nutrition labelling (FOPNL), which can help consumers to make healthier food choices. This systematic review identifies and characterizes existing NPMs for FOPNL systems globally.</description>
+<title>【Qiita】 Harness Engineeringを実装する — 権限・ツール・ガードレールをコードに落とす</title>
+<link>https://qiita.com/Hideki_Tamae/items/622f338fafaaece57962</link>
+<guid>5aae7799e07d9d2a3ec97aaeea0e9a5d29fc7032e31f95d1fe10e2f9fadab3ac</guid>
+<pubDate>2026-08-29T15:02:10+09:00</pubDate>
+<description>以前の記事「Harness Engineeringとは何か」では、概念として「エージェントが動く実行環境そのものの設計」を扱いました。今回は、それを実際にどう構築するかを、Claude Codeを例に手を動かしながら見ていきます。 概念として理解するのと、自分の環境に組み込...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/ams-detecting-unsafe-and-tampered-language-models-via-activation-analysis/</link>
-<guid>71122f03d273c41ff719697bf13caeb4b4cc51d9a41503cb72df3f4b1338c16a</guid>
-<pubDate>Sat, 29 Aug 2026 04:13:23 GMT</pubDate>
+<link>https://research.google/pubs/nearly-optimal-private-selection-via-gaussian-mechanism/</link>
+<guid>2e3f94b8eb403c7abd8e5045d5decb55ac85ee8eed984ff6ae704c64b1c9d080</guid>
+<pubDate>Sat, 29 Aug 2026 11:14:22 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77130-x</link>
-<guid>054629d0a0a8b20000e987a50591dd90c1ef5a0ee6cf2bd19712596ec2a154ad</guid>
-<pubDate>Sat, 29 Aug 2026 04:13:26 GMT</pubDate>
+<guid>01bd114696f4739287308c335b44e6219b885b5677232a3cff44e9d8f49e6f46</guid>
+<pubDate>Sat, 29 Aug 2026 11:14:24 GMT</pubDate>
 <description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s42256-026-01301-0</link>
-<guid>1eac697c2a0e6885d36d2e111e3a47584d7b46388eed5eb589da29b80379c4e2</guid>
-<pubDate>Sat, 29 Aug 2026 04:13:31 GMT</pubDate>
-<description>Frontier large language models (LLMs) have rapidly developed from helpful coding assistants to highly capable cybersecurity systems. After several security incidents in the past few months, more oversight and a strong focus on safe testing and deployment seem needed.</description>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>090b3dde21919a955d549e5f9431cb4b1eddb7d994307d26f7f3f9e6061a3644</guid>
+<pubDate>Sat, 29 Aug 2026 11:14:26 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>88aefacd23030b6950bab58adae47daf914d7487c684473aec92325c7bdbefae</guid>
-<pubDate>Sat, 29 Aug 2026 04:13:49 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>dc5129390ed571659b2346772f3f363081d5eaad39c3a1032ab400ba40750ec6</guid>
-<pubDate>Sat, 29 Aug 2026 04:13:55 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>c1894d146fd65ef712d87ff0ab6bd842dc50600e9492237e95b27a97390e936e</guid>
+<pubDate>Sat, 29 Aug 2026 11:14:27 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
