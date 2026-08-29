@@ -4,35 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 29 Aug 2026 19:01:01 GMT</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 21:50:53 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 AIの口癖を日本語記事で測ろうとして、3回とも失敗した</title>
+<link>https://qiita.com/jqit_suwa/items/4231026d13f7527c0f69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>d3480bede31fe79995d6d5209510cc56f414c83cddb6a1ba48c696e90201546e</guid>
+<pubDate>2026-08-29T19:54:43+09:00</pubDate>
+<description>AI が書いた文章には、特徴的な語彙がある。 そういう分析が Hacker News で 663 ポイントを集めていました。 面白かったので、自分の Qiita 記事30本で同じことをやろうとしました。 3回とも失敗しました。 この記事は、その記録です。 「日本語でも同じ手...</description>
+</item>
+<item>
+<title>【Qiita】 【ポエム】2026年 AIコーディングプログラマの心象風景</title>
+<link>https://qiita.com/ssc-ksaitou/items/d48a62b87545a0e7d2c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>7852c5317a38d87e6ea28d8f63069a9f6c8f56a4c136b55cd3ce4015018bde15</guid>
+<pubDate>2026-08-28T14:09:03+09:00</pubDate>
+<description>はじめに 2026年現在、AIコーディングエージェントを使ってプログラミングしている時に、私がどういうメンタルモデルで作業しているかメモしておきます。 ハーネスについての考え方 制約がなければ出力は無限にある AIコーディングエージェントを何も制約のない状態で動かし...</description>
+</item>
+<item>
+<title>【Qiita】 Cloudflare Workersに「一時アカウント」機能が来たので、ログインなしでデプロイして、ついでにミニゲームも作ってみた</title>
+<link>https://qiita.com/moritalous/items/728b20d34d36275c0a33?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>356b5949cdd2ce86b4fb3bb059d4509df82b4adfa9bc097f5c7fe40e8d5f6ea6</guid>
+<pubDate>2026-08-27T20:41:06+09:00</pubDate>
+<description>Cloudflareのブログで、AIエージェント向けの新機能「Temporary Accounts」が発表されました。 事前のアカウント登録もOAuthもMFAもAPIトークンのコピペも無し、wrangler deploy --temporary一発でWorkerをデ...</description>
+</item>
+<item>
+<title>【Qiita】 進行中のガントチャートをAIで引き直す - Claude CodeとProject Schedulerによるスケジュール調整</title>
+<link>https://qiita.com/hideki/items/bb16426af7b6815ab70a</link>
+<guid>0849092016c4468ad3fbd41ae9247ea86bb04eebdc66095bf10affbbf443f9aa</guid>
+<pubDate>2026-08-30T06:23:56+09:00</pubDate>
+<description>プロジェクト開始後のスケジュール変更は、計画時より難しくなります。完了済みタスクの実績は変えず、着手済みタスクの開始日も維持したまま、残りの計画だけを引き直す必要があるためです。 Project Scheduler には、保存した計画をClaude Codeから調整するため...</description>
+</item>
+<item>
+<title>【Qiita】 CLAUDE.md と AGENTS.md と GEMINI.md を全部書くのをやめた。どの AI CLI が何を読むか実測して正本 1 本に寄せる</title>
+<link>https://qiita.com/ishizakahiroshi/items/ffecb88684c29803b3c6</link>
+<guid>51cee4621c77032b8bd32fe4e19930d161d6d35c963b9ba80b7cf64bd7d32e9b</guid>
+<pubDate>2026-08-30T04:05:14+09:00</pubDate>
+<description>手元の AI コーディング CLI が 6 本になりました。Claude Code、Codex、OpenCode、GitHub Copilot CLI、Grok、Cursor Agent。ここに Antigravity が加わって 7 本目です。 同じ「ビルドは勝手にする...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/moxart-audio-visual-object-guided-sound-interaction-for-xr-2/</link>
-<guid>8c77e4b2ec75e91c6f4dfa2c8f491297dfd3d5e009e85133e708d349adba1a66</guid>
-<pubDate>Sat, 29 Aug 2026 19:00:27 GMT</pubDate>
+<link>https://research.google/pubs/crosscheck-input-validation-for-wan-control-systems/</link>
+<guid>0c095286a93bf0234d35dad766a297918636ab067a5ce1e385e61194265ad307</guid>
+<pubDate>Sat, 29 Aug 2026 21:49:54 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77130-x</link>
-<guid>eed8aa3b93d4df13c8bbfc982f9ac76915d794aee0e5a354ba4ed90cf87c446f</guid>
-<pubDate>Sat, 29 Aug 2026 19:00:30 GMT</pubDate>
+<guid>95fe5d3e742c091a8c730bf6bc4503ee3cd987de31a111ec47a2f7e3bd7096aa</guid>
+<pubDate>Sat, 29 Aug 2026 21:49:57 GMT</pubDate>
 <description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>9d46a0b8f16c82f049656db0bc8bd6ae5110d5faaecdc04bb7c3bb24aa0a55aa</guid>
-<pubDate>Sat, 29 Aug 2026 19:00:33 GMT</pubDate>
-<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>f7fa8d461f880959b7172ffb5387e57e3684bf5473b933c72d59c3c1192d75ae</guid>
-<pubDate>Sat, 29 Aug 2026 19:00:46 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
