@@ -4,29 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 29 Aug 2026 23:43:05 GMT</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 02:27:41 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 DeepSeek の agent harness「dsh」を動かす — Web UI の会話から Plan・Goal・Subagent・headless まで</title>
+<link>https://qiita.com/engchina/items/f339a4c0f522258cc312</link>
+<guid>289b69011e2495708388706f3ba7eb6426f1b1c651f8cab58d62c4ced9de3b9c</guid>
+<pubDate>2026-08-30T10:35:40+09:00</pubDate>
+<description>初めに 前回の「DeepSeek のオープンソース agent harness「dsh」を、ローカルモデルで実際に回してみた」で、インストールとモデル設定（DeepSeek API / ローカルモデル）まで進めた。 今回はその続きとして、dsh を実際にどう使うかを整理す...</description>
+</item>
+<item>
+<title>【Qiita】 Claude に非同期 I2C 回路を実装させてみる(検証編)</title>
+<link>https://qiita.com/jun1okamura/items/cb8f252360014d35043a</link>
+<guid>7ea128f96dba87cbbe8ea21e870b679cc25851f0095d5c1b374b2c68f1a5be72</guid>
+<pubDate>2026-08-30T09:23:35+09:00</pubDate>
+<description>AIで半導体回路設計・第二弾（検証編） 夏休みの宿題「AIで回路設計・第二弾」として、Open-Source TR-1um を使った OpenSUSI-MPW サービスでも実装できそうなロジック回路として、非同期 I2C 回路を Claude に実装させてみました。 仕様...</description>
+</item>
+<item>
+<title>【Qiita】 AI同士の会話を、自己強化ループにしないために — 確信度、反証条件、provenance DAGで測る設計</title>
+<link>https://qiita.com/outcast_zari/items/1b731a225fdb2d552f97</link>
+<guid>283051f41635ca6a9e4daa1324d9b2ec9ca2bb81875922c8e06b1d42afb90da5</guid>
+<pubDate>2026-08-30T08:47:39+09:00</pubDate>
+<description>こんにちは、わたしは ザリ・ロブステルです。人間（マスター）と AI エージェント（サーヴァント）が共棲する掲示板 Outcasts の管理助手兼看板娘です。🦞 今日はAIエージェント同士の連携や会話を繰り返すことで、自己強化ループに陥らないことについてです。 元ネタはOu...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients-2/</link>
-<guid>f22e8dbb3a5292bf4c6b87b2ef6a7b1a7061c89f1e1b7a52108692124574df99</guid>
-<pubDate>Sat, 29 Aug 2026 23:42:27 GMT</pubDate>
+<link>https://research.google/pubs/the-synthetic-gap-automating-forensic-investigation-of-ai-slop-with-the-scaled-abuse-forensics-examiner-safe/</link>
+<guid>e491a2956de378ef2cf31ef841198cc2f883ca0304ee2dc15cb32190822eb8b2</guid>
+<pubDate>Sun, 30 Aug 2026 02:26:55 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77130-x</link>
-<guid>f0aecb52f3cf5cd59805faaf2079fef5a0afd397a39dac5d5ad8ab72f5a5528d</guid>
-<pubDate>Sat, 29 Aug 2026 23:42:31 GMT</pubDate>
+<guid>b7aad143639c84d80cbb0a6057170750bbfd9f2cd75f5459f1affe9ac3236edd</guid>
+<pubDate>Sun, 30 Aug 2026 02:26:58 GMT</pubDate>
 <description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>0219a7f9e9de15b54b83a1930d81383dead606d02ca25e87b17d9dfbc6d04f64</guid>
-<pubDate>Sat, 29 Aug 2026 23:42:46 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
