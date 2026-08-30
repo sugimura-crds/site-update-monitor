@@ -4,56 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 30 Aug 2026 17:51:20 GMT</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 20:19:02 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 WindowsでAIエージェント用CLIを試したらUTF-8 BOMで壊れた――RPR 0.1.0a5で直すまで</title>
-<link>https://qiita.com/dantarg/items/719c87aea34976b0d2e5</link>
-<guid>4a277f9a8a9ed82b368d9c09563d7b0d49ff64beb8dd158d483f38bd3f043395</guid>
-<pubDate>2026-08-31T01:45:41+09:00</pubDate>
-<description>OSSを公開したあと、実際に別環境で動かすと初めて見える不具合があります。 今回、Python製のAIエージェント向けRuntime Responsibility Pathway Runtime（RPR） をWindowsで試したところ、PowerShellから作ったJSO...</description>
+<title>【Qiita】 【2026年8月調査】API連携でデータを外部に渡して大丈夫なのか調べてみた｜OAuth・APIキー・保管場所・やめ方を業務システム56件で</title>
+<link>https://qiita.com/songchong/items/bed44cf5b639df476952?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>6fafb22e80464f285437e2f60e96ace489d07239ed10bf00e5dd7841711c6131</guid>
+<pubDate>2026-08-31T00:40:22+09:00</pubDate>
+<description>「外部のサービスにデータを渡して、大丈夫なんですか」 社内で連携の話をすると、必ず出る質問です。そして、この質問には答えにくい。「大丈夫です」と言っても根拠がなく、「危ないです」と言えば話が止まるからです。 問題は、「安全か」が漠然としすぎていることです。分けて聞けば答えら...</description>
 </item>
 <item>
-<title>【Qiita】 「企画検証AIチーム」に法務観点を足す ― 判断させず確認事項だけ出させる【Claude Code・テンプレ公開】</title>
-<link>https://qiita.com/TakanobuSano/items/1220a3f4b13938b97cf5</link>
-<guid>bbed697263e07883c51299de6994e2dc6af746a9f55ea29a0d81b576c2f0a4f9</guid>
-<pubDate>2026-08-31T00:01:47+09:00</pubDate>
-<description>🧭 本記事は Claude Code実務運用シリーズ の STEP 5「レビュー自動化する」です。 前回の企画検証AIチームに、判断させず確認事項だけを出させる法務観点を足します。 シリーズ全体の地図と読む順は 親記事 にまとめています。 はじめに 企画書を投げると...</description>
+<title>【Qiita】 ESP32 シリーズを使ってイチから電子工作まとめ (回路設計/基板設計編)</title>
+<link>https://qiita.com/_shin_/items/47bc69006f6467d79e91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>a15407134caa54f87a4a706502c13acab8d4a5163ac037b193f88515de87b918</guid>
+<pubDate>2026-08-29T22:22:25+09:00</pubDate>
+<description>はじめに 最近、ESP32を使った電子工作にハマったので、いくつかガラクタを作ってみた経験をもとにESP32を使ったおおまかな電子工作のやり方を紹介しようと思う ESP32とは ESP32シリーズとはEspressif Systemsという中国の会社が開発しているマイ...</description>
 </item>
 <item>
-<title>【Qiita】 AI Agentが決済で予算超過させた時インフラ制御で暴走を止められるのかをAgentCore Payments使って実験してみた</title>
-<link>https://qiita.com/R-You/items/e8cf2f1c783401563ef2</link>
-<guid>5021c3a2a6e65612e5e057a52c8de6751a6af34c1cff2b4625cd3581b0756480</guid>
-<pubDate>2026-08-30T23:17:20+09:00</pubDate>
-<description>「2026 Japan AWS Jr. Champions 真夏のQiitaリレー」 の30日目の投稿です！ 過去の投稿は以下の（リンク集）からご覧ください！ https://qiita.com/ys-yoshida/private/6f7c7f85155a993e2c...</description>
+<title>【Qiita】 Active Directoryを構築しよう</title>
+<link>https://qiita.com/takumi_security/items/b7c90c0ad73ffe3b54ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>39d3f0dd90a887f4dc69791b4de6f22fb506d3072760d7ae0fd26973fa3d5f59</guid>
+<pubDate>2026-08-29T20:51:40+09:00</pubDate>
+<description>やりたいこと 今回は！！ 自宅にActive Directory(以下AD)環境を構築していく！！ やりたいことがいくつかある。 ADの操作に慣れたい。（権限周りとか。） SIEM接続（splunk?） ADへのレッドチーム演習 攻撃後のDF ADのハードニング AD...</description>
 </item>
 <item>
-<title>【Qiita】 Cursorはもう&quot;エディタ&quot;じゃない。Cursor 3で、コードを書く画面からエージェントを指揮する画面に変わっていた</title>
-<link>https://qiita.com/startdevin/items/eeecb8ff45938977f47c</link>
-<guid>35dc8e9fe7c27ae2f49a8baf8d1dd27f70d5e5df829e356822cd69708024052d</guid>
-<pubDate>2026-08-30T23:10:55+09:00</pubDate>
-<description>はじめに Cursorを「AIが賢いVS Code」だと思って使っていました。補完が速くて、チャットで書き直してくれる、便利なエディタ。その認識のまま2026年のCursorを触ると、たぶん半分も使えていません。 きっかけは、久しぶりに大きめの改修をCursorに頼んだと...</description>
+<title>【Qiita】 【AWS DevOps Agent】コードレビューと自動検証テストの検証</title>
+<link>https://qiita.com/aliean/items/bec57a9a20c7f9e60f79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>acda0a234ba31a18a02ae5a669e8ac5aa1bd3c50ee2e5725a72f866dd8d81363</guid>
+<pubDate>2026-08-29T23:48:38+09:00</pubDate>
+<description>この記事は「2026 Japan AWS Jr. Champions 真夏のQiitaリレー」の29日目の記事となります。 過去の投稿（リンク集）は以下リンクからご覧ください。 はじめに 開発が進むにつれて提出される Pull Request（PR）。 気づ...</description>
+</item>
+<item>
+<title>【Qiita】 【Claude Code】始める前に決める3つは？課金方式・プラン・どこから使うか</title>
+<link>https://qiita.com/tomada/items/c46851da3aebb6b22066</link>
+<guid>8b0c560c583db307ff59c5ea4c6ba67e54fb768331341be9da62a5aca04605c8</guid>
+<pubDate>2026-08-31T03:50:37+09:00</pubDate>
+<description>この記事は、筆者が音声入力で話した内容を Claude Code で読みやすく整理したものです。 書いてある主張も検証結果も筆者自身のもので、公開前にすべて目を通しています。 Claude Code を始めようと料金ページを開いたら、プランがいくつも並んでいました。...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/genai-on-google-cloud-enterprise-generative-ai-systems-and-ai-agents/</link>
-<guid>484564ca5ed7ea7bbee962f1eaa53193f08cdbdceeb2eef0cedf2fa9f3d61e40</guid>
-<pubDate>Sun, 30 Aug 2026 17:50:40 GMT</pubDate>
+<link>https://research.google/pubs/scalable-detection-of-adversarial-synthetic-slop-and-coordinated-media-abuse-a-lora-enabled-multimodal-defense-system-2/</link>
+<guid>76d8fbf1ad57c532c09a67c83ede76ba755ca9090cb849a7726d9bdae7375442</guid>
+<pubDate>Sun, 30 Aug 2026 20:17:57 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77130-x</link>
-<guid>1c3745ebd310b2420f543bc6368c0d117a312e3b06ae325fbde4ab262de88cfc</guid>
-<pubDate>Sun, 30 Aug 2026 17:50:43 GMT</pubDate>
+<guid>dc80f14df3799b2c54e508e8a8a8c4bd9687b5355c515aff7b5fea9c39db654b</guid>
+<pubDate>Sun, 30 Aug 2026 20:18:00 GMT</pubDate>
 <description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>9a57faab05be379c4959e00b8c9a5bd89f94f685f0571058a0d94f49792184d1</guid>
-<pubDate>Sun, 30 Aug 2026 17:51:04 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
