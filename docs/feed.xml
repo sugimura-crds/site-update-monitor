@@ -4,56 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 30 Aug 2026 20:19:02 GMT</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 22:52:34 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【2026年8月調査】API連携でデータを外部に渡して大丈夫なのか調べてみた｜OAuth・APIキー・保管場所・やめ方を業務システム56件で</title>
-<link>https://qiita.com/songchong/items/bed44cf5b639df476952?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>6fafb22e80464f285437e2f60e96ace489d07239ed10bf00e5dd7841711c6131</guid>
-<pubDate>2026-08-31T00:40:22+09:00</pubDate>
-<description>「外部のサービスにデータを渡して、大丈夫なんですか」 社内で連携の話をすると、必ず出る質問です。そして、この質問には答えにくい。「大丈夫です」と言っても根拠がなく、「危ないです」と言えば話が止まるからです。 問題は、「安全か」が漠然としすぎていることです。分けて聞けば答えら...</description>
+<title>【Qiita】 TLS証明書更新を学ぶ ：HTTP-01とDNS-01 チャレンジの仕組み〜運用設計</title>
+<link>https://qiita.com/c_u/items/ec356ea035bf819b2ff6</link>
+<guid>002c32a81db5cfdf0cb53eec3ed81359e7dcffd87f16b7ae645733f2ce8ff8e6</guid>
+<pubDate>2026-08-31T07:47:21+09:00</pubDate>
+<description>動画 当記事の動画です。理解の一助にご参照ください。 はじめに HTTPS通信を成立させるために不可欠な TLS/SSL証明書 は、定期的な更新作業が求められます。しかし、手作業による証明書管理を継続することには、運用上の重大なリスクや構造的な課題が伴います。 手...</description>
 </item>
 <item>
-<title>【Qiita】 ESP32 シリーズを使ってイチから電子工作まとめ (回路設計/基板設計編)</title>
-<link>https://qiita.com/_shin_/items/47bc69006f6467d79e91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>a15407134caa54f87a4a706502c13acab8d4a5163ac037b193f88515de87b918</guid>
-<pubDate>2026-08-29T22:22:25+09:00</pubDate>
-<description>はじめに 最近、ESP32を使った電子工作にハマったので、いくつかガラクタを作ってみた経験をもとにESP32を使ったおおまかな電子工作のやり方を紹介しようと思う ESP32とは ESP32シリーズとはEspressif Systemsという中国の会社が開発しているマイ...</description>
+<title>【Qiita】 AI にどこまで任せるか、を5段階で考える — Ansible Automation Platform の設定確認は「レベル1」</title>
+<link>https://qiita.com/c_u/items/009d5034778f3d63e2bd</link>
+<guid>8cbfd11c604955fec1f1ecdda08afeddbad46f5f21f14f6b25a7e2065badf1df</guid>
+<pubDate>2026-08-31T07:46:57+09:00</pubDate>
+<description>はじめに AIを業務で使用する話をすると、議論が合わないことがあります。 片方は「AIが自律的に判断して直してくれる世界」を語っていて、もう片方は「AIに調べてもらって最後は自分で確認する」話をしている。どちらも「AIを使う」なのですが、人がどれだけ関与するか が違う。 ...</description>
 </item>
 <item>
-<title>【Qiita】 Active Directoryを構築しよう</title>
-<link>https://qiita.com/takumi_security/items/b7c90c0ad73ffe3b54ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>39d3f0dd90a887f4dc69791b4de6f22fb506d3072760d7ae0fd26973fa3d5f59</guid>
-<pubDate>2026-08-29T20:51:40+09:00</pubDate>
-<description>やりたいこと 今回は！！ 自宅にActive Directory(以下AD)環境を構築していく！！ やりたいことがいくつかある。 ADの操作に慣れたい。（権限周りとか。） SIEM接続（splunk?） ADへのレッドチーム演習 攻撃後のDF ADのハードニング AD...</description>
+<title>【Qiita】 プロフェッショナルTLS＆PKIを読む19 CAA（CAに対する認証）</title>
+<link>https://qiita.com/gomAnomalocaris/items/995feab77047568b0d74</link>
+<guid>360ef24200031346c4c43d6799f6051d70292c903ee4af50d76cd318dae37f52</guid>
+<pubDate>2026-08-31T07:27:51+09:00</pubDate>
+<description>CAAとは CAA（Certification Authority Authorization）とはドメインの所有者が自身のドメインに対する証明書の発行ができるCAを制御するための仕組みです。具体的にはDNSのCAA RR（CAA リソースレコード）を使用して制御します。...</description>
 </item>
 <item>
-<title>【Qiita】 【AWS DevOps Agent】コードレビューと自動検証テストの検証</title>
-<link>https://qiita.com/aliean/items/bec57a9a20c7f9e60f79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>acda0a234ba31a18a02ae5a669e8ac5aa1bd3c50ee2e5725a72f866dd8d81363</guid>
-<pubDate>2026-08-29T23:48:38+09:00</pubDate>
-<description>この記事は「2026 Japan AWS Jr. Champions 真夏のQiitaリレー」の29日目の記事となります。 過去の投稿（リンク集）は以下リンクからご覧ください。 はじめに 開発が進むにつれて提出される Pull Request（PR）。 気づ...</description>
+<title>【Qiita】 Claude Codeの制限モードでスキルが消えた原因と直し方</title>
+<link>https://qiita.com/syun136_616/items/15af05d2d643f7050144</link>
+<guid>7178d20160bdd9e573c738c18ea65fe2cae7b256905802d9b0a0c094abbaccba</guid>
+<pubDate>2026-08-31T07:34:02+09:00</pubDate>
+<description>この記事の要点 Claude Codeは権限設定やサンドボックス機能により、状況次第でツールやスキルの実行を制限することがあります。 Qiitaでは、制限モードの導入後に自作スキル47本がすべて認識されなくなったという報告があります。 スキルが消えたときは、設定ファイルの...</description>
 </item>
 <item>
-<title>【Qiita】 【Claude Code】始める前に決める3つは？課金方式・プラン・どこから使うか</title>
-<link>https://qiita.com/tomada/items/c46851da3aebb6b22066</link>
-<guid>8b0c560c583db307ff59c5ea4c6ba67e54fb768331341be9da62a5aca04605c8</guid>
-<pubDate>2026-08-31T03:50:37+09:00</pubDate>
-<description>この記事は、筆者が音声入力で話した内容を Claude Code で読みやすく整理したものです。 書いてある主張も検証結果も筆者自身のもので、公開前にすべて目を通しています。 Claude Code を始めようと料金ページを開いたら、プランがいくつも並んでいました。...</description>
+<title>【Qiita】 Difyで学ぶHuman-in-the-Loop〜Human Inputノードの使い方〜</title>
+<link>https://qiita.com/wooooo/items/35cf9e6113cc0f80c95d</link>
+<guid>2f6250fd76c74140ba72dd6d175cdca1d4ecbfe80ebc545119a1dfdf7d0d9210</guid>
+<pubDate>2026-08-31T06:34:36+09:00</pubDate>
+<description>はじめに DifyにはHuman Inputという、ワークフローの途中で処理を一時停止し、人間の入力や判断を挟み込めるノードがあります。 LLMが生成した内容をそのまま後続処理に流すのではなく、「一度人間の目を通す」というステップを組み込めるため、業務利用を考えると欠かせ...</description>
+</item>
+<item>
+<title>【Qiita】 コーディングエージェント動かすならherdrが便利だった</title>
+<link>https://qiita.com/mochiflappe/items/73b89cb28a4a99c85577</link>
+<guid>73e00694ae6d59e9d836515a98d316340c6c3739984d100c117d7df18b56b296</guid>
+<pubDate>2026-08-31T06:00:05+09:00</pubDate>
+<description>最近 herdr + Ghostty でAIエージェントを動かしているのですが herdr がかなり便利でした。 （ハーダーと読むらしい） herdr とは herdr は tmux のようにターミナルを複数のペインやタブに分けて管理できる Rust 製のランタイム...</description>
+</item>
+<item>
+<title>【Qiita】 AIツールの導入ではなく、「会社のOS」を書き換える</title>
+<link>https://qiita.com/mhamadajp/items/0a5cf6305aa637b4719f</link>
+<guid>d8acb7559d20c729f6548f64d5077ded93df0cbd27a019c535c1eb49e97ce240</guid>
+<pubDate>2026-08-31T05:56:32+09:00</pubDate>
+<description>コインチェックが進めるAIネイティブ化の構想と現在地 生成AIを社員へ配布し、会議資料、要約、調査、プログラミングに使ってもらう企業は増えた。しかし、ツールを配っただけで組織全体の生産性が大きく変わるとは限らない。 個人の作業が速くなっても、業務の前後にある情報探索、規定...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/scalable-detection-of-adversarial-synthetic-slop-and-coordinated-media-abuse-a-lora-enabled-multimodal-defense-system-2/</link>
-<guid>76d8fbf1ad57c532c09a67c83ede76ba755ca9090cb849a7726d9bdae7375442</guid>
-<pubDate>Sun, 30 Aug 2026 20:17:57 GMT</pubDate>
+<link>https://research.google/pubs/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/</link>
+<guid>5645ee97b4fc9e157d8197582674af724186b9c139478253efdf8dc9f6eca2f1</guid>
+<pubDate>Sun, 30 Aug 2026 22:51:32 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-77130-x</link>
-<guid>dc80f14df3799b2c54e508e8a8a8c4bd9687b5355c515aff7b5fea9c39db654b</guid>
-<pubDate>Sun, 30 Aug 2026 20:18:00 GMT</pubDate>
-<description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
 </item>
 
 </channel>
