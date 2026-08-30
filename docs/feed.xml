@@ -4,85 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 30 Aug 2026 13:54:33 GMT</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 17:51:20 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Codeの /compact で長い会話を要約して続ける — 最初の約束を残して10分で試す</title>
-<link>https://qiita.com/akira_papa_AI/items/2724a05ab35221a7e8a6</link>
-<guid>fc11ec24d00818163136b5f48f58450d19c9511ba176d387ae982906b8cfa2e0</guid>
-<pubDate>2026-08-30T22:30:52+09:00</pubDate>
-<description>この記事は2026年8月30日時点のAnthropic公式ドキュメントをもとにしています。 Claude Codeとやり取りを続けるうち、調査結果やコマンドの出力が増えて、「最初に何を大事にすると決めたんやったっけ」と見失いそうになることがあります。 会話が長くなるのは...</description>
+<title>【Qiita】 WindowsでAIエージェント用CLIを試したらUTF-8 BOMで壊れた――RPR 0.1.0a5で直すまで</title>
+<link>https://qiita.com/dantarg/items/719c87aea34976b0d2e5</link>
+<guid>4a277f9a8a9ed82b368d9c09563d7b0d49ff64beb8dd158d483f38bd3f043395</guid>
+<pubDate>2026-08-31T01:45:41+09:00</pubDate>
+<description>OSSを公開したあと、実際に別環境で動かすと初めて見える不具合があります。 今回、Python製のAIエージェント向けRuntime Responsibility Pathway Runtime（RPR） をWindowsで試したところ、PowerShellから作ったJSO...</description>
 </item>
 <item>
-<title>【Qiita】 Amazon.co.jp出品者が陥りやすい「リスティングの3つの壁」と、その理由</title>
-<link>https://qiita.com/ListingGood/items/5106a00b2b79da577110</link>
-<guid>c6877d5351493f914797408883344a14b75295caef506ce3a1bbda04c58b5c38</guid>
-<pubDate>2026-08-30T21:43:42+09:00</pubDate>
-<description>amazon.co.jp で出品していると、商品自体は悪くないのに「検索で上位に出ない」「クリックはあるのに買われない」という壁に必ずぶつかります。 複数の日本出品者のページを眺めていて気づいたのは、多くのケースで「言語・キーワード・信頼表示」の3点が欠けていることです。こ...</description>
+<title>【Qiita】 「企画検証AIチーム」に法務観点を足す ― 判断させず確認事項だけ出させる【Claude Code・テンプレ公開】</title>
+<link>https://qiita.com/TakanobuSano/items/1220a3f4b13938b97cf5</link>
+<guid>bbed697263e07883c51299de6994e2dc6af746a9f55ea29a0d81b576c2f0a4f9</guid>
+<pubDate>2026-08-31T00:01:47+09:00</pubDate>
+<description>🧭 本記事は Claude Code実務運用シリーズ の STEP 5「レビュー自動化する」です。 前回の企画検証AIチームに、判断させず確認事項だけを出させる法務観点を足します。 シリーズ全体の地図と読む順は 親記事 にまとめています。 はじめに 企画書を投げると...</description>
 </item>
 <item>
-<title>【Qiita】 FreeTokenで さっそく DeepSeek Harness をやってみた</title>
-<link>https://qiita.com/kazleo/items/01e5c646907b19f9459a</link>
-<guid>8a0eb124b522a90a42c34c0b67a927cf11e8ef752eadbbecea4ef66add793984</guid>
-<pubDate>2026-08-30T21:37:01+09:00</pubDate>
-<description>はじめに 8月も終わりますが、今年の８月は、ローカルLLM界隈が毎週騒がしかったです。 8月13日：DeepSeek AIがエージェントハーネス DeepSeek Harness（dsh） を公開。 8月17日：UC Berkeley・MITの研究者チームが、VRA...</description>
+<title>【Qiita】 AI Agentが決済で予算超過させた時インフラ制御で暴走を止められるのかをAgentCore Payments使って実験してみた</title>
+<link>https://qiita.com/R-You/items/e8cf2f1c783401563ef2</link>
+<guid>5021c3a2a6e65612e5e057a52c8de6751a6af34c1cff2b4625cd3581b0756480</guid>
+<pubDate>2026-08-30T23:17:20+09:00</pubDate>
+<description>「2026 Japan AWS Jr. Champions 真夏のQiitaリレー」 の30日目の投稿です！ 過去の投稿は以下の（リンク集）からご覧ください！ https://qiita.com/ys-yoshida/private/6f7c7f85155a993e2c...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントのAPI timeout後に再実行していい？――RPOS 0.1.0a2で「結果不明」を扱う</title>
-<link>https://qiita.com/dantarg/items/d9b4750d5c71800ae3a8</link>
-<guid>b7a59deb0729694e06cdb758513559f01106dc40ddbf32784331be8ddc3a6587</guid>
-<pubDate>2026-08-30T20:47:11+09:00</pubDate>
-<description>AIエージェントや自動化処理に、外部API、SaaS変更、デプロイ、通知、権限操作を任せるとき、厄介なのは単純な「失敗」だけではありません。 失敗したように見えるのに、外部ではすでに実行済みかもしれない。 たとえば、API requestを送った直後にtimeoutしたとし...</description>
-</item>
-<item>
-<title>【Qiita】 Tool Engineeringを実装する — エージェントに渡す道具そのものを設計する</title>
-<link>https://qiita.com/Hideki_Tamae/items/f47582a494755b8db4ec</link>
-<guid>58339f95a89533c1c9668b8ce59191d24f076a8bb0f6dd8b922d25eb8c001929</guid>
-<pubDate>2026-08-30T19:48:01+09:00</pubDate>
-<description>以前の記事「AIエージェントのTool Engineering入門」では概念を扱いました。実装編ではここまで、Harness Engineeringを実装する（何をさせて良いか）、Loop Engineeringを実装する（結果の検証と再実行）、Context Engine...</description>
-</item>
-<item>
-<title>【Qiita】 Context Engineeringを実装する — 「何を見せるか」をトークン制約の中で設計する</title>
-<link>https://qiita.com/Hideki_Tamae/items/58fc32fef8c6fcfecb4a</link>
-<guid>33691ccf5ea3aad3ebd01561a8d565702659b001fafc38e5debc86bc1079fc64</guid>
-<pubDate>2026-08-30T18:37:31+09:00</pubDate>
-<description>以前の記事「Context Engineeringとは何か」では、概念として「エージェントに何を見せるか」を扱いました。そして実装編では、Harness Engineeringを実装するで「何をさせて良いか」、Loop Engineeringを実装するで「結果をどう検証し直...</description>
-</item>
-<item>
-<title>【自動自律実験】 Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries</title>
-<link>https://www.nature.com/articles/d41586-026-02727-7</link>
-<guid>951682e853a7359fcaaa064fb7d33d4aaba171e79c5f37c3c0ed8bd8b387eea7</guid>
-<pubDate>2026-08-30</pubDate>
-<description>The space observatory will have an expansive view of the Universe as well as sharp resolution.</description>
+<title>【Qiita】 Cursorはもう&quot;エディタ&quot;じゃない。Cursor 3で、コードを書く画面からエージェントを指揮する画面に変わっていた</title>
+<link>https://qiita.com/startdevin/items/eeecb8ff45938977f47c</link>
+<guid>35dc8e9fe7c27ae2f49a8baf8d1dd27f70d5e5df829e356822cd69708024052d</guid>
+<pubDate>2026-08-30T23:10:55+09:00</pubDate>
+<description>はじめに Cursorを「AIが賢いVS Code」だと思って使っていました。補完が速くて、チャットで書き直してくれる、便利なエディタ。その認識のまま2026年のCursorを触ると、たぶん半分も使えていません。 きっかけは、久しぶりに大きめの改修をCursorに頼んだと...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/nearly-optimal-private-selection-via-gaussian-mechanism/</link>
-<guid>a1a55bcf6892bbb56f75242397c92be28a327a48403bd5057cbd0b26973dabfa</guid>
-<pubDate>Sun, 30 Aug 2026 13:53:55 GMT</pubDate>
+<link>https://research.google/pubs/genai-on-google-cloud-enterprise-generative-ai-systems-and-ai-agents/</link>
+<guid>484564ca5ed7ea7bbee962f1eaa53193f08cdbdceeb2eef0cedf2fa9f3d61e40</guid>
+<pubDate>Sun, 30 Aug 2026 17:50:40 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77130-x</link>
-<guid>e8130c7b84d46f93efd458ce9f629e1e82bf0deeb8120cdda93b6f6c7772c98b</guid>
-<pubDate>Sun, 30 Aug 2026 13:53:58 GMT</pubDate>
+<guid>1c3745ebd310b2420f543bc6368c0d117a312e3b06ae325fbde4ab262de88cfc</guid>
+<pubDate>Sun, 30 Aug 2026 17:50:43 GMT</pubDate>
 <description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>f4c61753e1577e75f92a45f550df207af15d3dd7aa9d171aa61a00da4ea26100</guid>
-<pubDate>Sun, 30 Aug 2026 13:54:00 GMT</pubDate>
-<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>5c7ba737705fe01280d88406b02ef4f453e6d03727da3600d2bc09bc6638d200</guid>
-<pubDate>Sun, 30 Aug 2026 13:54:16 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>9a57faab05be379c4959e00b8c9a5bd89f94f685f0571058a0d94f49792184d1</guid>
+<pubDate>Sun, 30 Aug 2026 17:51:04 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
