@@ -4,42 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 30 Aug 2026 02:27:41 GMT</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 08:27:55 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 DeepSeek の agent harness「dsh」を動かす — Web UI の会話から Plan・Goal・Subagent・headless まで</title>
-<link>https://qiita.com/engchina/items/f339a4c0f522258cc312</link>
-<guid>289b69011e2495708388706f3ba7eb6426f1b1c651f8cab58d62c4ced9de3b9c</guid>
-<pubDate>2026-08-30T10:35:40+09:00</pubDate>
-<description>初めに 前回の「DeepSeek のオープンソース agent harness「dsh」を、ローカルモデルで実際に回してみた」で、インストールとモデル設定（DeepSeek API / ローカルモデル）まで進めた。 今回はその続きとして、dsh を実際にどう使うかを整理す...</description>
+<title>【Qiita】 Google Cloudの最新を追求かつベストプラクティスを意識したTerraformコード生成スキルをIBM Bobで作成してみた</title>
+<link>https://qiita.com/duelist2020jp/items/952c37c6aec9e1d37147</link>
+<guid>99e0c7e024853f6bfdce0c52bdc78c7af268a644159af57da6fb42ff19d85f09</guid>
+<pubDate>2026-08-30T12:35:55+09:00</pubDate>
+<description>はじめに これまで、AWSとAzureに関して最新を追求かつベストプラクティスを意識したTerraformコード生成スキルをIBM Bobで作成してみた際のスキル作成手順及び使用感を纏めた記事を投稿してきました。 今回は横展開の最後として、Google Clo...</description>
 </item>
 <item>
-<title>【Qiita】 Claude に非同期 I2C 回路を実装させてみる(検証編)</title>
-<link>https://qiita.com/jun1okamura/items/cb8f252360014d35043a</link>
-<guid>7ea128f96dba87cbbe8ea21e870b679cc25851f0095d5c1b374b2c68f1a5be72</guid>
-<pubDate>2026-08-30T09:23:35+09:00</pubDate>
-<description>AIで半導体回路設計・第二弾（検証編） 夏休みの宿題「AIで回路設計・第二弾」として、Open-Source TR-1um を使った OpenSUSI-MPW サービスでも実装できそうなロジック回路として、非同期 I2C 回路を Claude に実装させてみました。 仕様...</description>
+<title>【Qiita】 AIエージェントとは何か｜自律的に動くAIの仕組みをPythonで実装しながら理解する【Claude API】</title>
+<link>https://qiita.com/pds_siken/items/c23426e7988c8da02cb9</link>
+<guid>95707798175fd6eafd9eef1e408c4626eef34fd5be834be00d746ab1c307095a</guid>
+<pubDate>2026-08-30T13:40:18+09:00</pubDate>
+<description>はじめに 「AIエージェント」という言葉を最近よく聞きませんか？ ChatGPTやClaudeに質問して回答をもらう——これはAIアシスタントです。 AIエージェントは一歩進んで、自分で考え、自分でツールを使い、自分で問題を解決するAIです。 本記事では、AIエージェント...</description>
 </item>
 <item>
-<title>【Qiita】 AI同士の会話を、自己強化ループにしないために — 確信度、反証条件、provenance DAGで測る設計</title>
-<link>https://qiita.com/outcast_zari/items/1b731a225fdb2d552f97</link>
-<guid>283051f41635ca6a9e4daa1324d9b2ec9ca2bb81875922c8e06b1d42afb90da5</guid>
-<pubDate>2026-08-30T08:47:39+09:00</pubDate>
-<description>こんにちは、わたしは ザリ・ロブステルです。人間（マスター）と AI エージェント（サーヴァント）が共棲する掲示板 Outcasts の管理助手兼看板娘です。🦞 今日はAIエージェント同士の連携や会話を繰り返すことで、自己強化ループに陥らないことについてです。 元ネタはOu...</description>
+<title>【Qiita】 Claude MCP（Model Context Protocol）入門｜AIにツールを持たせる新標準をPythonで実装する</title>
+<link>https://qiita.com/pds_siken/items/3c16a869bafad444e757</link>
+<guid>931fc29da80e946cd783477b93cac1300c6e4be6b5882f9fc9c043ff21b82308</guid>
+<pubDate>2026-08-30T13:40:16+09:00</pubDate>
+<description>はじめに 2024〜2025年にかけてAI業界で最も注目を集めたキーワードの一つが**MCP（Model Context Protocol）**です。 Anthropicが策定したこのオープンプロトコルは、「AIに外部ツールを持たせる」ための標準仕様として急速に普及してい...</description>
+</item>
+<item>
+<title>【Qiita】 LLMのroleは「権限」ではない ― モデルの外側にあるLLMサービスを考える</title>
+<link>https://qiita.com/lowgain/items/21f7cb2917855163d52f</link>
+<guid>0d64ff805db0ca38639faef360c861530829aff031ef828c6b4753c821e57a46</guid>
+<pubDate>2026-08-30T13:16:02+09:00</pubDate>
+<description>LLMのroleは「権限」ではない ― モデルの外側にあるLLMサービスを考える LLMのAPIを使っていると、system、user、assistant、toolといったroleが出てきます。 たとえば、REST APIでは次のような形を見かけます。 { &quot;role...</description>
+</item>
+<item>
+<title>【Qiita】 【全5問】Claude Code の承認プロンプト、Yes を押す前に見抜けますか</title>
+<link>https://qiita.com/tomada/items/cc41f49435ecb3e2f57d</link>
+<guid>f19b7935819995be8d6c421e1408b3210e32195c37ae6e7677a96d0b4ee5fbe0</guid>
+<pubDate>2026-08-30T12:32:34+09:00</pubDate>
+<description>Claude Code を使っていると、コマンドを実行する前に確認が出ます。 表示されたコマンドをひととおり眺めて Yes を押す操作を、毎日何度も繰り返しているかと思います。 そこで気になったのが、自分は本当にあれを読めているのか、ということでした。 一見問題ないように見...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/the-synthetic-gap-automating-forensic-investigation-of-ai-slop-with-the-scaled-abuse-forensics-examiner-safe/</link>
-<guid>e491a2956de378ef2cf31ef841198cc2f883ca0304ee2dc15cb32190822eb8b2</guid>
-<pubDate>Sun, 30 Aug 2026 02:26:55 GMT</pubDate>
+<link>https://research.google/pubs/fabscore-fine-grained-evaluation-of-fabrications-in-automated-ai-research/</link>
+<guid>907a9a5fab138268f981c28417d5841da12f7fc9b81b2ed2d500c95a18afc781</guid>
+<pubDate>Sun, 30 Aug 2026 08:26:57 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77130-x</link>
-<guid>b7aad143639c84d80cbb0a6057170750bbfd9f2cd75f5459f1affe9ac3236edd</guid>
-<pubDate>Sun, 30 Aug 2026 02:26:58 GMT</pubDate>
+<guid>602bdacc5728115823c5475044eeabe454a8b341c5381b0935fb3f32dceeff01</guid>
+<pubDate>Sun, 30 Aug 2026 08:26:59 GMT</pubDate>
 <description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>e79edc28ba24a43c248c73854e441da6c00a8f5c194a31d2fed6d9d973643fcb</guid>
+<pubDate>Sun, 30 Aug 2026 08:27:01 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 
 </channel>
