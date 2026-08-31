@@ -4,174 +4,62 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 31 Aug 2026 14:37:23 GMT</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 20:30:14 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 元ヤフーエンジニア社長が考える、20代のうちにやっておくべき3つのこと</title>
-<link>https://qiita.com/ryoheiiwamoto/items/22dd373e882bf938ad1e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>9a2b197bebccee8bd8550bf2f30e53a4709ba05d84536b08620f6b957359c832</guid>
-<pubDate>2026-08-31T16:16:17+09:00</pubDate>
-<description>20代の頑張りは、30代以降ずっと効いてくる こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。 https://prum.jp/ 「今の仕事、このままでいいのかな」「自分は何がやりたいんだろう」 20代のメンバーから、こういう相談を本当に...</description>
+<title>【Qiita】 未経験からIT業界へ。「できるようになってから」じゃなくて大丈夫です</title>
+<link>https://qiita.com/m__ikeda/items/668edf1abb33d35d5630?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>0ae374008b114719ac05d9c0e3457ce04af5ab90ceaa13a7bd7b34f49841045b</guid>
+<pubDate>2026-08-31T16:14:13+09:00</pubDate>
+<description>自己紹介 こんにちは。株式会社PRUMで採用広報を担当している池田です。 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊 もしIT業界に興味があるけど、...</description>
 </item>
 <item>
-<title>【Qiita】 【個人開発】MLBの試合日程をGoogleカレンダー・Appleカレンダーに自動同期するWebアプリを作りました【React/TypeScript/iCalendar】</title>
-<link>https://qiita.com/takahiro_honda/items/b44d4e2b526aa009f822?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>7aac4ac246bf2227fb94db58fc7edef8b64522c9f9a7e1982b5d23d5e64cf477</guid>
-<pubDate>2026-08-30T17:00:11+09:00</pubDate>
-<description>はじめに MLB（メジャー・リーグ・ベースボール）の試合日程をGoogleカレンダー・Appleカレンダーに自動同期するWebアプリを作成しました。 その感想を書いていきます。 開発理由 最近、大谷翔平選手の所属するドジャースの試合にめちゃくちゃどハマりしています！ ...</description>
+<title>【Qiita】 AIは止めない、実行は止める。Cloudflare OSの「承認待ち」が面白い理由と落とし穴</title>
+<link>https://qiita.com/WhaleTech/items/8b46d89550d35c735881</link>
+<guid>b83d28205cf502395e7b2241c741447207100b1f5bf15cc9b41f791b429ba61c</guid>
+<pubDate>2026-09-01T02:09:39+09:00</pubDate>
+<description>Abstract（要旨） AIに仕事を頼んで席を離れ、戻ったら最初の承認で止まっていた。逆に自動承認にすると、見ていないところで変更される。この二択を変えようとしているのが、Cloudflare OSの承認前シミュレーションです。 対応するGatekeeperは、変更をま...</description>
 </item>
 <item>
-<title>【Qiita】 「いつもの一言」を置き換えるだけで、AIへの指示の精度はかなり変わる</title>
-<link>https://qiita.com/sumomoo/items/7bd7345600b1ed09d5a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>964e99782978a038329ef0bbf0496ed0cea0599a978d22dfddc17bc8cc8eab95</guid>
-<pubDate>2026-08-31T16:18:00+09:00</pubDate>
-<description>はじめまして。株式会社PRUMでエンジニアをしている、すもも🍑です 日々、プログラミング学習や実務の中で、つまずきやすいポイントや 考え方を整理して発信しています。 PRUMについて気になった方は、コーポレートサイトもぜひご覧ください。 ▶コーポレートサイト 「これっ...</description>
-</item>
-<item>
-<title>【Qiita】 新人エンジニア、「ラズベリーパイ」を美味しいパイだと思ってた話</title>
-<link>https://qiita.com/prumnn/items/357c4c9e239d2b9427d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>caaf22bba8997c203fb1b4296b4ed99ac55c006056ff80b6c5fabfa07456b58e</guid>
-<pubDate>2026-08-31T16:12:20+09:00</pubDate>
-<description>はじめに 会社の昔の写真フォルダで見つけた「ラズベリーパイ部」の文字に、てっきりパイやタルトを食べ歩く同好会だと思い込んでいたぷらむんが、プラ美先輩に聞いてみたら、全然違うジャンルの話だった、という話です。 会社で自称マスコットキャラをやってるのに、社内で一番空気...</description>
-</item>
-<item>
-<title>【Qiita】 スター6万のAgent Skillを入れたら、呼ぶたびに9万トークン必要だった</title>
-<link>https://qiita.com/jqit_suwa/items/817a26e02cd1f08c7edd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>ff8013401df197bc1bdf863502b89b0e45956e72f62ef868f90e472da4400e8d</guid>
-<pubDate>2026-08-31T08:35:15+09:00</pubDate>
-<description>GitHub Trending に、スター 60,480 の Agent Skill が上がっていました。 Reddit・X・YouTube・Hacker News・Polymarket など19以上のソースを横断して調べ、upvote や likes といった実際の反応で...</description>
-</item>
-<item>
-<title>【Qiita】 IBM BobによるSPSS需要予測時系列モデル解釈の自動化</title>
-<link>https://qiita.com/spssfun2017/items/2fb9b4b3868b600d5b3b</link>
-<guid>0357aead1b1a4f9e809cae8d9e87c2bb12c3c74e1856ea65779c9ca766a3ea5c</guid>
-<pubDate>2026-08-31T17:33:04+09:00</pubDate>
-<description>IBM BobによるSPSS需要予測時系列モデル解釈の自動化 はじめに 「需要予測モデルを作ったけど、統計の指標をどう読み解けばいい？」 「R²やMAPEと言われても、ビジネス担当者に説明できない…」 そんな悩みを、IBM Bob（AIコーディングアシスタント） が解消...</description>
-</item>
-<item>
-<title>【Qiita】 Azureテナント開設時のログ保管設定をPowerShellで自動化する</title>
-<link>https://qiita.com/valpasucucci43/items/85c7fd6cf302cd940ad4</link>
-<guid>3de9390ca318144e9c67b7406ccd3caf4c463f4433ab9a1c5dc51e45ddb04aa0</guid>
-<pubDate>2026-08-31T18:45:07+09:00</pubDate>
-<description>はじめに Azureのテナントを開設したとき、最初にやっておくべきことの1つがログの保管設定です。 しかし、Azure Portal から手動で設定しようとすると設定箇所が複数に分散しており、手順書通りに進めても抜け漏れが発生しやすいという問題があります。 本記事では、A...</description>
-</item>
-<item>
-<title>【Qiita】 「AIと会話する」が本当に会話っぽくなってきたので、Gemini Live APIについて調べてみた</title>
-<link>https://qiita.com/orangist/items/b2aee6cdb3a1368e884d</link>
-<guid>624295ee905e05fcc3ddc25240711abb7148a3ca1cfe2ce953ffee64a8a7a749</guid>
-<pubDate>2026-08-31T23:21:30+09:00</pubDate>
-<description>対象読者 Gemini Live API が何者なのか気になっている人 音声AI・AIエージェント・マルチモーダルAIに興味がある人 AIアバターや音声接客、ゲームNPCなどを作ってみたい人 通常の Gemini API と Live API の使い分けを知りたい人 ...</description>
-</item>
-<item>
-<title>【Qiita】 Google Cloudで作るAIエージェントを実際に作ってみた</title>
-<link>https://qiita.com/orangist/items/cc712fc24c0c855a7a1d</link>
-<guid>0ea2e6ae4ac0e313219431c88ab1559b9b1ad5eab5565711b4a853793323344c</guid>
-<pubDate>2026-08-31T23:18:13+09:00</pubDate>
-<description>対象読者 前回の「Google Cloudで作るAIエージェントを検討してみた」の続きが気になる人 Gemini, Google ADK,Cloud Runを使ってAIエージェントを実装してみたい人 AIエージェントを「チャットボット」で終わらせず、実際の業務フローに組...</description>
-</item>
-<item>
-<title>【Qiita】 Codexの codex cloud exec でクラウドへ1タスク送る — README調査を10分で任せる</title>
-<link>https://qiita.com/akira_papa_AI/items/24ceb2f38e5f6ee677c1</link>
-<guid>335d4ad177d6b5a7fb6daab9e370429d00b6bbad3ea9afaafac0d19b55174825</guid>
-<pubDate>2026-08-31T22:43:07+09:00</pubDate>
-<description>PCを閉じたいのに、AIの調査が終わるまでターミナルを見ている。最初にAIエージェントを使うと、こんな待ち時間に出会います。 今回やることは1つだけです。 Codex CLIの codex cloud exec で、設定済みのCodex cloud環境へREADME調査を1...</description>
-</item>
-<item>
-<title>【Qiita】 【備忘録】VS Code Agent Hostを試す前に整理する - Copilot時代のエージェント実行基盤とsubagents可視化</title>
-<link>https://qiita.com/Tadataka_Takahashi/items/d645a604d8bcccace2d6</link>
-<guid>a19197e5f4b12d120b571a3f99d320c052f7df75083c0ceb133d77b8501111d2</guid>
-<pubDate>2026-08-31T22:35:40+09:00</pubDate>
-<description>はじめに VS CodeでCopilot Chatやagentic codingを使う場面が増えると、単に「AIに依頼する」だけでなく、次のような点も気になります。 エージェントのセッションはどこで動いているのか 複数ウィンドウや長めの作業で、状態をどう扱うのか su...</description>
-</item>
-<item>
-<title>【Qiita】 Google Cloudで作るAIエージェントを検討してみた</title>
-<link>https://qiita.com/orangist/items/227d452fa933fe15dcfd</link>
-<guid>c17e1d07b25049768cf2a69eb2224c2011305577fc742807eeb1fedc49289fb5</guid>
-<pubDate>2026-08-31T23:09:54+09:00</pubDate>
-<description>対象読者 Google CloudでAIエージェントを作ってみたい人 Gemin, ADK, Cloud Run, BigQueryあたりをどう組み合わせるか悩んでいる人 RAGだけではなく、継続的に情報を集めて学習する仕組みを作ってみたい人 TL;DR 今回考えた...</description>
-</item>
-<item>
-<title>【環境】 Land-use optimization for food security, bioenergy and forest conservation in Indonesia</title>
-<link>https://www.nature.com/articles/s41893-026-01923-7</link>
-<guid>44c89cd2460a3e419b54a8830cfd687643ed99299c86ff2f7d6c56c04b0354c5</guid>
-<pubDate>2026-08-31</pubDate>
-<description>Balancing food and energy security is a key priority for Indonesia, but the associated land conversion could induce deforestation. This study examines how best to optimize energy security (biodiesel blend ratios of 50%) and food security (rice cropping) given land constraints and current policy.</description>
-</item>
-<item>
-<title>【自動自律実験】 Scale of snakebites estimated globally</title>
-<link>https://www.nature.com/articles/d41586-026-02642-x</link>
-<guid>b375140d0ae4e4543a1b6f4b041130b7ff88e0e97be02bff9d3a069bb33343a8</guid>
-<pubDate>2026-08-31</pubDate>
-<description>Using available data and modelling to assess the incidence of snakebites and associated deaths provides information needed for efforts to tackle this public-health concern.</description>
-</item>
-<item>
-<title>【自動自律実験】 What’s your lab’s archetype? The answer could inform how you use AI</title>
-<link>https://www.nature.com/articles/d41586-026-02543-z</link>
-<guid>10825988cc41fffb386215dc836371625efc97706a7940c765328c08a27f38e2</guid>
-<pubDate>2026-08-31</pubDate>
-<description>A white paper gives research groups four priority models, each of which uses artificial intelligence differently.</description>
-</item>
-<item>
-<title>【自動自律実験】 Order from disorder: do we need a new law of physics?</title>
-<link>https://www.nature.com/articles/d41586-026-02685-0</link>
-<guid>6182948fcc864999d171ae455263742a7f7ed414c5da7a84fb21f7c0cb22f5cd</guid>
-<pubDate>2026-08-31</pubDate>
-<description>A radical proposal that evolutionary pressures apply to atoms as much as animals should provoke scientific debate.</description>
-</item>
-<item>
-<title>【自動自律実験】 The leap second is dead. Long live the leap hour?</title>
-<link>https://www.nature.com/articles/d41586-026-02669-0</link>
-<guid>840e16b62fdac8ee6c33e6ef067dcf36bfab9c9898c052e5c4da65456692386f</guid>
-<pubDate>2026-08-31</pubDate>
-<description>Fear of a possible ‘negative’ leap second is accelerating plans to abolish the practice.</description>
-</item>
-<item>
-<title>【自動自律実験】 Why are rich people so pessimistic? What the numbers say</title>
-<link>https://www.nature.com/articles/d41586-026-02687-y</link>
-<guid>4df4817c20a9d4dc0b0b2a9e12f7a584dbb91aa84ccdcfa7ad1fc8842f21d6a5</guid>
-<pubDate>2026-08-31</pubDate>
-<description>Optimism about the future can seem in short supply nowadays, but people’s age, where they live and their expectations have a lot to do with it.</description>
+<title>【Qiita】 AI時代の「AIに読みやすいリポジトリ設計」を考える ― AI Context Architectureという考え方</title>
+<link>https://qiita.com/ARMKAS/items/fc4964c1a30843873f8d</link>
+<guid>fe2a3ea93bbc758f8f1aeb7794226df16614965666a0940d3e4f493927e7abd0</guid>
+<pubDate>2026-09-01T00:10:04+09:00</pubDate>
+<description>はじめに 最近、AI Coding Agentを使って実際のソフトウェア開発を続けていると、以前とは少し違う問題に気づくようになりました。それは「AIのコーディング能力が足りない」という問題ではなく、AIが既存のリポジトリを正しく理解するまでのコストが非常に大きいという問...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/guide-a-benchmark-for-user-context-understanding-and-assistance-in-gui-workflow-videos/</link>
-<guid>8e9114fa562264cca52569a734c847e7bf8acddc567a1e377d025d69ca49e8a6</guid>
-<pubDate>Mon, 31 Aug 2026 14:36:22 GMT</pubDate>
+<link>https://research.google/pubs/from-correctness-to-collaboration-a-human-centered-taxonomy-of-ai-agent-behavior-in-software-engineering/</link>
+<guid>47a6aeb785df07eb2eebd32b25434d8d98fb9b29181819d9df9537dcaa0e13a3</guid>
+<pubDate>Mon, 31 Aug 2026 20:29:06 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77130-x</link>
-<guid>7f5fbe708026a7a0344c94580e33020bd92c7cd38d37911dfa453cd242fd87c7</guid>
-<pubDate>Mon, 31 Aug 2026 14:36:25 GMT</pubDate>
+<guid>dfc854825312582228543c633a30560fe662e9573b1cabba302dc701c418807e</guid>
+<pubDate>Mon, 31 Aug 2026 20:29:10 GMT</pubDate>
 <description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>17b89b2772df93718710feb7c19ff4bce5c2fd4abaddff93775d47b8334a1402</guid>
-<pubDate>Mon, 31 Aug 2026 14:36:27 GMT</pubDate>
+<guid>f36ef1b1f2513fed84886053ba8d31bbdc24db7e1371d13c48d330413fc6d787</guid>
+<pubDate>Mon, 31 Aug 2026 20:29:12 GMT</pubDate>
 <description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 <item>
-<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
-<link>https://www.eurohpc-ju.europa.eu/index_en</link>
-<guid>670d93ee61f4612bbe5f8269c6794bbad69c0c3e351e9cb2a0f098f9b808146b</guid>
-<pubDate>Mon, 31 Aug 2026 14:36:34 GMT</pubDate>
-<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
-</item>
-<item>
-<title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.soken.ac.jp/news/2026/20260805.html</link>
-<guid>d1a3a48612fdf649b4bf9c475fcb02d09cc8b440d1acc719bc588d5af2558758</guid>
-<pubDate>Mon, 31 Aug 2026 14:37:11 GMT</pubDate>
-<description>【プレスリリース】全ゲノム塩基配列で解明：ニホンイノシシとリュウキュウイノシシは共通祖先から進化していた</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>a75c2fddef2befbe9afa7868a3226f9390138795c4430904e2352c2de476b576</guid>
+<pubDate>Mon, 31 Aug 2026 20:29:55 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 <item>
 <title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
 <link>https://agfundernews.com</link>
-<guid>016b1f44e155228e9518355d12c69044ac7f91f58ca1e12d317904d803ea9abc</guid>
-<pubDate>Mon, 31 Aug 2026 14:37:12 GMT</pubDate>
+<guid>47a361fc03716b2acf01b4d09c95e78c52f6d41f6c7e39495ccce41e1c4aeaeb</guid>
+<pubDate>Mon, 31 Aug 2026 20:29:59 GMT</pubDate>
 <description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
