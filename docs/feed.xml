@@ -4,62 +4,41 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 30 Aug 2026 22:52:34 GMT</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 01:00:20 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 TLS証明書更新を学ぶ ：HTTP-01とDNS-01 チャレンジの仕組み〜運用設計</title>
-<link>https://qiita.com/c_u/items/ec356ea035bf819b2ff6</link>
-<guid>002c32a81db5cfdf0cb53eec3ed81359e7dcffd87f16b7ae645733f2ce8ff8e6</guid>
-<pubDate>2026-08-31T07:47:21+09:00</pubDate>
-<description>動画 当記事の動画です。理解の一助にご参照ください。 はじめに HTTPS通信を成立させるために不可欠な TLS/SSL証明書 は、定期的な更新作業が求められます。しかし、手作業による証明書管理を継続することには、運用上の重大なリスクや構造的な課題が伴います。 手...</description>
+<title>【Qiita】 AI Gatewayを理解するための基礎知識 AIエージェントとは何か?</title>
+<link>https://qiita.com/mellowlaunch/items/451c7d6767d95fdce324</link>
+<guid>43e68994fc403f83fc0b677d0ceef59bc151f54c1da9f2f0777517638345c4a2</guid>
+<pubDate>2026-08-31T09:13:45+09:00</pubDate>
+<description>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 ####『ゼロから触ってわかった！AI Agent Observability入門― MLflow・Data...</description>
 </item>
 <item>
-<title>【Qiita】 AI にどこまで任せるか、を5段階で考える — Ansible Automation Platform の設定確認は「レベル1」</title>
-<link>https://qiita.com/c_u/items/009d5034778f3d63e2bd</link>
-<guid>8cbfd11c604955fec1f1ecdda08afeddbad46f5f21f14f6b25a7e2065badf1df</guid>
-<pubDate>2026-08-31T07:46:57+09:00</pubDate>
-<description>はじめに AIを業務で使用する話をすると、議論が合わないことがあります。 片方は「AIが自律的に判断して直してくれる世界」を語っていて、もう片方は「AIに調べてもらって最後は自分で確認する」話をしている。どちらも「AIを使う」なのですが、人がどれだけ関与するか が違う。 ...</description>
+<title>【Qiita】 Loop Engnieering &amp; Kiro Crew に入門してみた</title>
+<link>https://qiita.com/yu-Matsu/items/8210d13adddcfcae3055</link>
+<guid>25e9901787a73ec7b97f9627bfc45d6aa1712d38736407b496157fd21b147d5b</guid>
+<pubDate>2026-08-31T08:56:41+09:00</pubDate>
+<description>はじめに こんにちは！ yu-Matsuです。 ここ最近、AIエージェント界隈で「ループエンジニアリング」という新しい考え方が出てきて気になっていたのですが、今月頭に AWS から Kiro Crew というエージェントオーケストレーション基盤が公開されたので、今回はこ...</description>
 </item>
 <item>
-<title>【Qiita】 プロフェッショナルTLS＆PKIを読む19 CAA（CAに対する認証）</title>
-<link>https://qiita.com/gomAnomalocaris/items/995feab77047568b0d74</link>
-<guid>360ef24200031346c4c43d6799f6051d70292c903ee4af50d76cd318dae37f52</guid>
-<pubDate>2026-08-31T07:27:51+09:00</pubDate>
-<description>CAAとは CAA（Certification Authority Authorization）とはドメインの所有者が自身のドメインに対する証明書の発行ができるCAを制御するための仕組みです。具体的にはDNSのCAA RR（CAA リソースレコード）を使用して制御します。...</description>
+<title>【Qiita】 【2026年版】生成AIを学ぶための51冊 ― LLM・RAG・AIエージェント・LLMOps・Physical AIまで</title>
+<link>https://qiita.com/aokikenichi/items/97b326122334c7f8eea3</link>
+<guid>88b0b78b5f36edaacdf866dfa64ad5dc9d88981384371fd80b07cfaef886092a</guid>
+<pubDate>2026-08-31T08:55:25+09:00</pubDate>
+<description>1. 本記事の目当て 生成AIを単に使うだけであればWeb上の情報もあり、書籍は不要と思います。本記事の対象読者は 生成AIの組織導入を検討している方 一歩進んだ・踏み込んだ使い方を模索している方 生成AI開発・運用のために理論を知る必要がある方 生成AI開発・運用のた...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeの制限モードでスキルが消えた原因と直し方</title>
-<link>https://qiita.com/syun136_616/items/15af05d2d643f7050144</link>
-<guid>7178d20160bdd9e573c738c18ea65fe2cae7b256905802d9b0a0c094abbaccba</guid>
-<pubDate>2026-08-31T07:34:02+09:00</pubDate>
-<description>この記事の要点 Claude Codeは権限設定やサンドボックス機能により、状況次第でツールやスキルの実行を制限することがあります。 Qiitaでは、制限モードの導入後に自作スキル47本がすべて認識されなくなったという報告があります。 スキルが消えたときは、設定ファイルの...</description>
-</item>
-<item>
-<title>【Qiita】 Difyで学ぶHuman-in-the-Loop〜Human Inputノードの使い方〜</title>
-<link>https://qiita.com/wooooo/items/35cf9e6113cc0f80c95d</link>
-<guid>2f6250fd76c74140ba72dd6d175cdca1d4ecbfe80ebc545119a1dfdf7d0d9210</guid>
-<pubDate>2026-08-31T06:34:36+09:00</pubDate>
-<description>はじめに DifyにはHuman Inputという、ワークフローの途中で処理を一時停止し、人間の入力や判断を挟み込めるノードがあります。 LLMが生成した内容をそのまま後続処理に流すのではなく、「一度人間の目を通す」というステップを組み込めるため、業務利用を考えると欠かせ...</description>
-</item>
-<item>
-<title>【Qiita】 コーディングエージェント動かすならherdrが便利だった</title>
-<link>https://qiita.com/mochiflappe/items/73b89cb28a4a99c85577</link>
-<guid>73e00694ae6d59e9d836515a98d316340c6c3739984d100c117d7df18b56b296</guid>
-<pubDate>2026-08-31T06:00:05+09:00</pubDate>
-<description>最近 herdr + Ghostty でAIエージェントを動かしているのですが herdr がかなり便利でした。 （ハーダーと読むらしい） herdr とは herdr は tmux のようにターミナルを複数のペインやタブに分けて管理できる Rust 製のランタイム...</description>
-</item>
-<item>
-<title>【Qiita】 AIツールの導入ではなく、「会社のOS」を書き換える</title>
-<link>https://qiita.com/mhamadajp/items/0a5cf6305aa637b4719f</link>
-<guid>d8acb7559d20c729f6548f64d5077ded93df0cbd27a019c535c1eb49e97ce240</guid>
-<pubDate>2026-08-31T05:56:32+09:00</pubDate>
-<description>コインチェックが進めるAIネイティブ化の構想と現在地 生成AIを社員へ配布し、会議資料、要約、調査、プログラミングに使ってもらう企業は増えた。しかし、ツールを配っただけで組織全体の生産性が大きく変わるとは限らない。 個人の作業が速くなっても、業務の前後にある情報探索、規定...</description>
+<title>【Qiita】 LangGraphが渡すのは、設計図</title>
+<link>https://qiita.com/haru-qiita/items/e93ba2ec0cc317d8cac1</link>
+<guid>fa00ace15f865f412aabb68c345e355a2b8e398f4a340c3656432629439ec645</guid>
+<pubDate>2026-08-31T08:51:21+09:00</pubDate>
+<description>自分で作ったエージェントに、「なぜ今その処理をしたのか」を説明できなくなったことがあります。 指示を渡せば、検索し、道具を使い、文章を返す。それらしく動いていました。ところが妙な寄り道をしたとき、どこで判断が変わったのかを追えません。賢いのに、手綱がない。正直、その状態を本...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/</link>
-<guid>5645ee97b4fc9e157d8197582674af724186b9c139478253efdf8dc9f6eca2f1</guid>
-<pubDate>Sun, 30 Aug 2026 22:51:32 GMT</pubDate>
+<link>https://research.google/pubs/beyond-pii-how-users-perceive-and-attempt-to-mitigate-implicit-llm-inference/</link>
+<guid>8e713c457660681e82e0b6479c1a42cda695b76bbc9b56f9480c36169a5dc601</guid>
+<pubDate>Mon, 31 Aug 2026 00:59:46 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 
