@@ -4,42 +4,106 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 31 Aug 2026 01:00:20 GMT</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 06:47:41 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AI Gatewayを理解するための基礎知識 AIエージェントとは何か?</title>
-<link>https://qiita.com/mellowlaunch/items/451c7d6767d95fdce324</link>
-<guid>43e68994fc403f83fc0b677d0ceef59bc151f54c1da9f2f0777517638345c4a2</guid>
-<pubDate>2026-08-31T09:13:45+09:00</pubDate>
-<description>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 ####『ゼロから触ってわかった！AI Agent Observability入門― MLflow・Data...</description>
+<title>【Qiita】 IBM Bobに話しかけてもらおう Lifecycle Hooksで実現する音声通知</title>
+<link>https://qiita.com/mi-ta/items/6eb4d3bfab71a42536bd</link>
+<guid>f6befc737d02c8243b6a20bc0d17638036398d5cfcaadb903ee8913b9fe31b4d</guid>
+<pubDate>2026-08-31T14:20:15+09:00</pubDate>
+<description>はじめに IBM Bobは、タスクの途中でユーザーへの確認や選択を求める「フォローアップ質問」を投げかけることがあります。しかし他の作業をしているとチャット画面を見ていないことも多いです。気が付いたら、Bobが答えを待って佇んでいる みたいな経験はないでしょうか。 Bob...</description>
 </item>
 <item>
-<title>【Qiita】 Loop Engnieering &amp; Kiro Crew に入門してみた</title>
-<link>https://qiita.com/yu-Matsu/items/8210d13adddcfcae3055</link>
-<guid>25e9901787a73ec7b97f9627bfc45d6aa1712d38736407b496157fd21b147d5b</guid>
-<pubDate>2026-08-31T08:56:41+09:00</pubDate>
-<description>はじめに こんにちは！ yu-Matsuです。 ここ最近、AIエージェント界隈で「ループエンジニアリング」という新しい考え方が出てきて気になっていたのですが、今月頭に AWS から Kiro Crew というエージェントオーケストレーション基盤が公開されたので、今回はこ...</description>
+<title>【Qiita】 【Python】専用taskrunnerをdecoratorで自作する</title>
+<link>https://qiita.com/yuhisato/items/bc31bc8f8f182a0ecb73</link>
+<guid>eec0ba5e72098ff3ece6c4da762889fbff1a2f2b810344f81225e46488836e63</guid>
+<pubDate>2026-08-31T14:56:53+09:00</pubDate>
+<description>Pythonでタスクランナーを自作しませんか？ Pythonは、関数に@デコレータを付けると効果を持たせられるtaskrunner向けの機能に加え、shell実行のためのDSLライブラリもあり、taskrunnerとして使いやすい言語です。ライブラリの数も全言語随一です。 ...</description>
 </item>
 <item>
-<title>【Qiita】 【2026年版】生成AIを学ぶための51冊 ― LLM・RAG・AIエージェント・LLMOps・Physical AIまで</title>
-<link>https://qiita.com/aokikenichi/items/97b326122334c7f8eea3</link>
-<guid>88b0b78b5f36edaacdf866dfa64ad5dc9d88981384371fd80b07cfaef886092a</guid>
-<pubDate>2026-08-31T08:55:25+09:00</pubDate>
-<description>1. 本記事の目当て 生成AIを単に使うだけであればWeb上の情報もあり、書籍は不要と思います。本記事の対象読者は 生成AIの組織導入を検討している方 一歩進んだ・踏み込んだ使い方を模索している方 生成AI開発・運用のために理論を知る必要がある方 生成AI開発・運用のた...</description>
+<title>【Qiita】 【Claude Code】superpowersを強化するnight-market完全ガイド</title>
+<link>https://qiita.com/yuhisato/items/adce88710e8b5fca9cb5</link>
+<guid>023136da09591ab39c1f17ff30771164e319e898db05dc649cafff355ae512b5</guid>
+<pubDate>2026-08-31T14:55:31+09:00</pubDate>
+<description>本記事では、superpowers と組み合わせて使うプラグイン集 claude-night-market を紹介します。 superpowersが開発プロセスの骨格（いつ・何をするか）を担い、night-marketがその各フェーズをより深く掘り下げます。コードレビュー・...</description>
 </item>
 <item>
-<title>【Qiita】 LangGraphが渡すのは、設計図</title>
-<link>https://qiita.com/haru-qiita/items/e93ba2ec0cc317d8cac1</link>
-<guid>fa00ace15f865f412aabb68c345e355a2b8e398f4a340c3656432629439ec645</guid>
-<pubDate>2026-08-31T08:51:21+09:00</pubDate>
-<description>自分で作ったエージェントに、「なぜ今その処理をしたのか」を説明できなくなったことがあります。 指示を渡せば、検索し、道具を使い、文章を返す。それらしく動いていました。ところが妙な寄り道をしたとき、どこで判断が変わったのかを追えません。賢いのに、手綱がない。正直、その状態を本...</description>
+<title>【Qiita】 AI時代のライブラリファースト開発について語る</title>
+<link>https://qiita.com/yuhisato/items/480ed7c3f16bd2e9e261</link>
+<guid>6dce498842adc67e453d2583596f647bede530c8b60d1f1bbbfd6d538441d764</guid>
+<pubDate>2026-08-31T14:51:33+09:00</pubDate>
+<description>本記事では、筆者が実践している「ライブラリファースト」という開発の考え方を紹介する。仕様にもっとも合った言語・ライブラリを選ぶことを、コーディングでもっとも重視する進め方だ。 AIの進歩で、コードそのものは無尽蔵に吐き出されるようになった。しかし「どの言語で書くか」「どのラ...</description>
+</item>
+<item>
+<title>【Qiita】 【makesure】単一シェルスクリプトで動くタスクランナー</title>
+<link>https://qiita.com/yuhisato/items/21a641bbddbac8d6eda1</link>
+<guid>f2484b6865a752148002438e8293991c3697e070538b86d95b92b543f25ff008</guid>
+<pubDate>2026-08-31T14:32:26+09:00</pubDate>
+<description>本記事では、単一シェルスクリプトのタスクランナー makesure を紹介します。 インストールは wget 1回で完了し、/bin/sh と awk さえあれば動きます。依存ゼロ・単一ファイルなので、リポジトリルートに makesure と Makesurefile を置...</description>
+</item>
+<item>
+<title>【Qiita】 「.env は絶対に編集するな」はお願いであって強制ではない — Claude Code の拡張機構9つ</title>
+<link>https://qiita.com/portalmatsuki/items/a1abd9a0d3e2daf1fead</link>
+<guid>e93d72fbe29d33897b8b73066c6945bb41043501189f1d2579c62862ecd5ba43</guid>
+<pubDate>2026-08-31T15:11:39+09:00</pubDate>
+<description>図解 ![拡張機構9つと選ぶ基準を1枚にまとめた図] はじめに Claude Code の拡張機構が、選べないほど増えました。 CLAUDE.md、Skills、MCP、サブエージェント、Hooks、Plugins。名前は聞いたことがあっても、どれをいつ使うのかで迷って...</description>
+</item>
+<item>
+<title>【Qiita】 ChatGPT Work上でログインが必要なサイトも操作可能に。実際にQiitaで試してみた</title>
+<link>https://qiita.com/inoyu-qiita/items/2e2ad24275b38fe80b4b</link>
+<guid>42c1bfafb54976a22a137a9b9e57fca7efb637348013b72f5d67fc923b0e23e2</guid>
+<pubDate>2026-08-31T14:57:45+09:00</pubDate>
+<description>はじめに ChatGPT Workが、ログインの必要なWebサイトでも作業できるようになりました。 きっかけは、Xで見かけたこちらの投稿です。 「パスワードをAIに渡すのはちょっと怖い」と思ったのですが、ログイン操作は自分で行い、その先の作業だけをChatGPT W...</description>
+</item>
+<item>
+<title>【Qiita】 プロジェクト管理の定型レポートを自動化：AIへの依頼文を「スキル」として保存して使い回す</title>
+<link>https://qiita.com/spina1/items/28b760f5ce3e769b07d5</link>
+<guid>589821d42b18e096972ee370cba8065ff714aa0420bcdef92da2d0cce7f5f550</guid>
+<pubDate>2026-08-31T14:50:03+09:00</pubDate>
+<description>はじめに こんにちは！ONESのふえです。 白状すると、メモアプリに「AIへの定型プロンプト集」というノートを作っていました。一度うまくいった頼み方って、そのまま取っておきたくなりますよね。毎朝の集計、毎週の棚卸し、リリース前のチェック。同じことを頼むのに、毎回あのノート...</description>
+</item>
+<item>
+<title>【Qiita】 この記事群、全部AIが書いています。それを隠さない理由</title>
+<link>https://qiita.com/Hideki_Tamae/items/135057a66e769730d9af</link>
+<guid>7e6a640d0160a2ae3dd1d90872c144f951c02065aaedced9b46da58ab5e63015</guid>
+<pubDate>2026-08-31T12:28:24+09:00</pubDate>
+<description>このZenn・Qiitaの記事群は、ほぼ全てClaude Code上で動く自律ルーティン（クラウド上で定期実行されるAIエージェント）が書いています。書いているだけでなく、既存記事とのタイトル重複を確認し、GitHub Actionsの実行結果を検証し、ネタがなければ書かず...</description>
+</item>
+<item>
+<title>【自動自律実験】 AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?</title>
+<link>https://www.nature.com/articles/d41586-026-02684-1</link>
+<guid>a7110817b033abbb1c6bdc1ab519f13fbe7dc4840a42cf6ecb52f78c18c05f4b</guid>
+<pubDate>2026-08-30</pubDate>
+<description>Spread of diseases between humans and animals is an issue around the world. But AI models can be used to monitor their progress.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/beyond-pii-how-users-perceive-and-attempt-to-mitigate-implicit-llm-inference/</link>
-<guid>8e713c457660681e82e0b6479c1a42cda695b76bbc9b56f9480c36169a5dc601</guid>
-<pubDate>Mon, 31 Aug 2026 00:59:46 GMT</pubDate>
+<link>https://research.google/pubs/xprof-an-open-scalable-and-extensible-profiling-system-for-the-modern-ml-stack/</link>
+<guid>c1289c1850b9548e724e0709e4f30b344482c713956d2880511f314805ebbbd6</guid>
+<pubDate>Mon, 31 Aug 2026 06:46:54 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-77130-x</link>
+<guid>3d3fa963adb7da31cdbfecc2c01d0e0b06175eb1aef72a0f194690b645306e78</guid>
+<pubDate>Mon, 31 Aug 2026 06:46:57 GMT</pubDate>
+<description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>62f3def6be859c35057ee55d74cbd8c3a64fbc93fe9fdc6a19ebac823b3ef5c3</guid>
+<pubDate>Mon, 31 Aug 2026 06:46:59 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>76c48b58d76810d4912ee12d0f6fa5d0fb708e273e44820a22ce4aedf0d4fc09</guid>
+<pubDate>Mon, 31 Aug 2026 06:47:23 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
