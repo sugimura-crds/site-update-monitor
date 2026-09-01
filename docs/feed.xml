@@ -4,84 +4,105 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 01 Sep 2026 09:31:41 GMT</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 14:24:43 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「いい感じに分けといて」と頼まれたので、「いい感じ」を定義してみた</title>
-<link>https://qiita.com/KYoshiyama/items/50f50f39fd0da34e3dce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>daad1f056cbc8b3aabbee7e52f5e97b2263b4ae643728457001c79bf626dd241</guid>
-<pubDate>2026-09-01T11:11:47+09:00</pubDate>
-<description>「いい感じに分けてくれない？」 そう頼まれたことはないでしょうか。 困るのは、その「いい感じ」を誰も定義していないことです。 聞いてみると、だいたいこういう感じの回答が返ってきます。 シフトを、なるべく公平に 当番を、なるべく連続させずに レビュアーを、なるべく同じ人に...</description>
+<title>【Qiita】 AWS KiroでAWS-GCPマルチクラウド活用支援スキルを作成してみた</title>
+<link>https://qiita.com/duelist2020jp/items/90a1c001d95efce2f2ec</link>
+<guid>5df379e9f0663b5659a81ae6ae2fd67bf4766318ab11a651b13769f7f84a3038</guid>
+<pubDate>2026-09-01T19:36:06+09:00</pubDate>
+<description>はじめに かつてはAWSやAzureに代表されるパブリッククラウドは、単体利用のケースが多かったかと思いますが、ここ数年来、耐障害性や拡張性を考慮して、マルチクラウドで利用するケースが増えてきているかと思います。その一方で、個々のクラウドのエキスパートは年々増加傾向にある...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code でモデルを切り替えると、そのターンだけ書き直しが287倍</title>
-<link>https://qiita.com/jqit_suwa/items/5fe930eb46d064b3da06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>b0b5801d875743be5814f5c14f56bb9fc20acef2a27211e6aa4c8163998b0efb</guid>
-<pubDate>2026-09-01T09:03:06+09:00</pubDate>
-<description>/model でモデルを切り替えるのは一瞬です。キャッシュが温かいうちなら確認も出ます（2.1.238以降）。では、そこで何を捨てているのか。 Claude Code 2.1.251 でプロンプトキャッシュが数字で見えるようになったので、測ってみました。 同じセッションを継...</description>
+<title>【Qiita】 【備忘録】ADKでLive/Voice Agentを評価する前に整理する - 音声対話をCIでどこまで確認できるか</title>
+<link>https://qiita.com/Tadataka_Takahashi/items/acc407820b7fc6ffe210</link>
+<guid>159e9a2ef85fbcb384f6068e5ba0cc006df9358477a86511975f85a80b5bcac5</guid>
+<pubDate>2026-09-01T23:11:20+09:00</pubDate>
+<description>はじめに Google Developers Blogで、Agent Development Kit（ADK）のLive / Voice agentを評価する方法が紹介されていました。 音声で対話するagentは「動かしてみて、聞いて、良さそう」で終わりがちです。この記...</description>
 </item>
 <item>
-<title>【Qiita】 ChatGPT・Gemini・Claude…データはAIの学習に使われるのか？情報漏洩のリスクは？ 34製品の利用規約を読み比べてみた</title>
-<link>https://qiita.com/songchong/items/3abbc43f0d7c471e6688?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>57663ae5029e7dff8f898f80e3c126d0e944b12975034db32c73ed7057c54487</guid>
-<pubDate>2026-09-01T00:18:40+09:00</pubDate>
-<description>「このAIに入れた内容、バレませんか」 社内で AI を使い始めるとき、いちばん多い質問だと思います。聞かれる側は「たぶん法人版なら大丈夫です」と答えがちで、私もそうでした。曖昧にしか答えられないのが気になったので、AI チャット・AI エージェント・AI-OCR・iPaa...</description>
+<title>【Qiita】 Claude Codeのpermissions.denyでREADMEの書き換えを止める — 読み取り相談を10分で試す</title>
+<link>https://qiita.com/akira_papa_AI/items/502f27abf8adf9d99244</link>
+<guid>8dbb5105428a0d7526aad50f0211ac6721f2891b3485a8f0cac4cabeccbfa9e0</guid>
+<pubDate>2026-09-01T22:37:31+09:00</pubDate>
+<description>「Claude Codeにリポジトリを読ませて、まずは説明だけしてほしい。でも、まだファイルは書き換えてほしくない」 最初にAIエージェントを動かすとき、こう感じるのは自然なことやと思います。便利さを確かめる前に、どこまで動くのか分からない。そこが不安なんですよね。 この記...</description>
 </item>
 <item>
-<title>【Qiita】 さわってみよう Db2 AI エディション #16 〜モニタリング編 Part#3〜</title>
-<link>https://qiita.com/ibm_tk/items/ae5d9a0c2a6b88188900</link>
-<guid>907973a80f980c8c5704a5df63876c04b8891245cb6b0b6d93012273ee3e4f0b</guid>
-<pubDate>2026-09-01T17:03:42+09:00</pubDate>
-<description>Db2 Genius Hubによる複数データベースのメトリックと構成の比較 当記事では、Db2 AIエディションで利用できるようになったDb2 Genius Hubの主たる機能のうち、 (1)統合Db2管理 (2)エージェント型AIアシスタント (3)ログ分析 (4)異常...</description>
+<title>【Qiita】 AsanaのAIチームメイトの有用性まとめました 〜社内で使い倒してわかったこと〜</title>
+<link>https://qiita.com/Militani/items/7c2407194ff4da82fe7e</link>
+<guid>ccc6d1882649f1ef323451a2d1f3dfa98f97ffa71d4bf0ebe9385f117b2ebeb2</guid>
+<pubDate>2026-09-01T21:31:17+09:00</pubDate>
+<description>こんにちは！株式会社ミリタンイの大石です。 AsanaにAIチームメイトが加わって、「AIに仕事を任せる」という選択肢が現実的になってきました。ただ、支援の現場でよくいただくのが「作ってはみたけど、どう話しかければいいのか分からない」というご相談です。 弊社でもしばらく実際...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code のトークン使用量を実測したら1ターン23万 ― 節約に効いたのは「セッションを切る」だった</title>
-<link>https://qiita.com/manabu49-ai/items/2598a30d5140e4445ab6</link>
-<guid>834fb7e263015613c6856a1c1b1815d032e9b699eacbe037cd767d5bbff72677</guid>
-<pubDate>2026-09-01T18:17:43+09:00</pubDate>
-<description>AIエージェントに仕事を任せる、という話が増えています。 私も3日間、実際に回してみました。データ収集、分析、検証を複数のエージェントに分担させて、24時間動かす構成です。 結論から書きます。いちばん高くついたのは、エージェントの数ではありませんでした。 実測した数字 セ...</description>
+<title>【Qiita】 Claude のモデル提供終了、猶予は告知から約60日 ― 過去9回を数えて、手元を検査するスクリプトを書いた</title>
+<link>https://qiita.com/manabu49-ai/items/bc2a7be2a6ee4ceb6185</link>
+<guid>7db77733e588a00954a1baaa66fbfeed175210908af093b4beb01a5d6ca3f8d1</guid>
+<pubDate>2026-09-01T21:01:43+09:00</pubDate>
+<description>公式のモデル提供終了ページを見ていて、読み間違えかけました。 claude-sonnet-4-5-20250929 Not sooner than September 29, 2026 「9月29日に消える」と読みました。違いました。 この記事は、その読み間違いを直...</description>
 </item>
 <item>
-<title>【Qiita】 【2026年9月1日版】Devin、OpenClaw、Codex、Claude Code、Cursor eyc… AIエージェントとLLMを料金まで含めて整理した個人的メモ</title>
-<link>https://qiita.com/rino_yume/items/9cbf9497295fa3eb8690</link>
-<guid>92a4be0c15706df011027f66d67bf4b6d64059f9838275e787b8a7809884bedf</guid>
-<pubDate>2026-09-01T15:28:57+09:00</pubDate>
-<description>【2026年9月1日版】Devin、OpenClaw、Codex、Claude Code、Cursor eyc… AIエージェントとLLMを料金まで含めて整理した個人的メモ 正直、AIエージェントが増えすぎて花盛り、情報多くて最近かなり分からなくなってきた。 Devin、...</description>
+<title>【環境】 Seagrass fisheries expose the poverty dimensions of marine conservation</title>
+<link>https://www.nature.com/articles/s41893-026-01932-6</link>
+<guid>8d4b71df08a916909d30980a74170364620535e2e400fef7f42b1f3c279868d9</guid>
+<pubDate>2026-09-01</pubDate>
+<description>The livelihood of people in poor coastal areas depends directly on local ecosystems, but such reliance is not well documented. With data from across 156 Indo-Pacific communities, this study examines the relationship between seagrass-associated fishing and household poverty.</description>
 </item>
 <item>
-<title>【Qiita】 【BigQuery】Conversational Analyticsを使って自然言語でデータ分析！</title>
-<link>https://qiita.com/a_tochi/items/9d1ee9b6cbf26db777d0</link>
-<guid>f9b186bc15e1e21655397671c7d71e1df0def4a40a96cb64335f8664c14b36c5</guid>
-<pubDate>2026-09-01T15:02:49+09:00</pubDate>
-<description>はじめに 前回は、BigQuery Graphの「measures」機能を使って、セマンティックレイヤをBigQueryだけで実現できるか試してみました。 今回は少し方向を変えて、「メトリクスの定義」ではなく自然言語で聞くだけでBigQueryのデータを分析できると...</description>
+<title>【自動自律実験】 Charmed by comets</title>
+<link>https://www.nature.com/articles/d41586-026-02383-x</link>
+<guid>e9c362b9b31e726b05629a2008d2f4b4e7413930f998fbcadf9b90af730936b0</guid>
+<pubDate>2026-09-01</pubDate>
+<description>Astronomy that has long gripped people’s imagination, and a celebration of the health benefits of sunshine and the open air in this week’s pick from the Nature archive.</description>
 </item>
 <item>
-<title>【Qiita】 Copilot Studioで「放置されている議題」を見つけるエージェントを作ってみた</title>
-<link>https://qiita.com/YukiSaku_2FC/items/2618944447213102f701</link>
-<guid>a3c3b35decab1aafe1d3e4effe20235ef053b0d5069784aa24ee4ca407813d6a</guid>
-<pubDate>2026-09-01T13:28:45+09:00</pubDate>
-<description>はじめに 私は普段はデザイナーとして働いてるのですが、最近Copilot Studioを使ったAIエージェント作りにも挑戦し始めました。 今回はその最初の一歩として触った内容をまとめます。 この記事は、デザイナー畑の方でこれからAIに触ってみようとしている方に向けて書いて...</description>
+<title>【自動自律実験】 China’s regulatory innovation for new biomedical technologies</title>
+<link>https://www.nature.com/articles/d41586-026-02737-5</link>
+<guid>37a2ac49b893c1e64f634ab314e92bbf7f9d1620d8333f08cd60d4317a804bf8</guid>
+<pubDate>2026-09-01</pubDate>
+<description>China’s regulatory innovation for new biomedical technologies</description>
 </item>
 <item>
-<title>【Qiita】 Cursorのallowlist、gitを許可したのに任意コード実行になる仕組みを再現した</title>
-<link>https://qiita.com/kai_kou/items/f30661c6957116cc3da2</link>
-<guid>1014f909381c846b656daa386f1cc43e37d250f157cc7301380eadccbaaf1fb2</guid>
-<pubDate>2026-09-01T16:08:27+09:00</pubDate>
-<description>TL;DR Cursor の CVE-2026-22708 は、コマンド allowlist を有効にした Auto-Run Mode でも、シェルの組み込みコマンド（export など）が allowlist を通らずに実行できてしまう脆弱性です（GitHub Sec...</description>
+<title>【自動自律実験】 When AI does science, who is accountable for mistakes?</title>
+<link>https://www.nature.com/articles/d41586-026-02735-7</link>
+<guid>9520a87578bd506f1a9b9e10a1230c4f2a9b917c01f54a1fb2af9a6833323c0b</guid>
+<pubDate>2026-09-01</pubDate>
+<description>When AI does science, who is accountable for mistakes?</description>
+</item>
+<item>
+<title>【自動自律実験】 The global plastics treaty must account for conflict-driven energy insecurity</title>
+<link>https://www.nature.com/articles/d41586-026-02738-4</link>
+<guid>d10122875cdfab966c43d4831fb8f71d6edd3de240bac6e4aec1396305363613</guid>
+<pubDate>2026-09-01</pubDate>
+<description>The global plastics treaty must account for conflict-driven energy insecurity</description>
+</item>
+<item>
+<title>【自動自律実験】 Europe should adapt, not copy, China’s practical PhD</title>
+<link>https://www.nature.com/articles/d41586-026-02736-6</link>
+<guid>b2ee14dceed893957b9827ccf67ad4ac3d9ba6e8af3335ee0d63ef468727b0ab</guid>
+<pubDate>2026-09-01</pubDate>
+<description>Europe should adapt, not copy, China’s practical PhD</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/mull-tokens-modality-agnostic-latent-thinking/</link>
-<guid>e52bc7ced4fcee6949c2590983bd41000400f619bb99633aaedd0370dfaed245</guid>
-<pubDate>Tue, 01 Sep 2026 09:30:35 GMT</pubDate>
+<link>https://research.google/pubs/designing-privacy-choice-in-generative-ai-chatbot-ecosystems/</link>
+<guid>bd4c2d35818e6301011edb6001869bb1e632241daf3b1041f86515341bffad03</guid>
+<pubDate>Tue, 01 Sep 2026 14:23:55 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.soken.ac.jp/news/2026/20260805.html</link>
-<guid>685f37a0e99062bb1817883b336bdf21a1eec40765b5ec4acbd9e475927ddfa7</guid>
-<pubDate>Tue, 01 Sep 2026 09:31:26 GMT</pubDate>
-<description>【プレスリリース】全ゲノム塩基配列で解明：ニホンイノシシとリュウキュウイノシシは共通祖先から進化していた</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-77130-x</link>
+<guid>a9d3e0e85ff71efd05a3a42942640e938714cc3cf003aa435d457737ac4baeeb</guid>
+<pubDate>Tue, 01 Sep 2026 14:23:59 GMT</pubDate>
+<description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>4339f5ed2a54f0ebceb6712cd4db3f986ecded395091b5acd5e820e30d7de10b</guid>
+<pubDate>Tue, 01 Sep 2026 14:24:01 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 
 </channel>
