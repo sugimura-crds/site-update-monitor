@@ -4,63 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 31 Aug 2026 20:30:14 GMT</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 00:01:24 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 未経験からIT業界へ。「できるようになってから」じゃなくて大丈夫です</title>
-<link>https://qiita.com/m__ikeda/items/668edf1abb33d35d5630?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>0ae374008b114719ac05d9c0e3457ce04af5ab90ceaa13a7bd7b34f49841045b</guid>
-<pubDate>2026-08-31T16:14:13+09:00</pubDate>
-<description>自己紹介 こんにちは。株式会社PRUMで採用広報を担当している池田です。 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊 もしIT業界に興味があるけど、...</description>
-</item>
-<item>
-<title>【Qiita】 AIは止めない、実行は止める。Cloudflare OSの「承認待ち」が面白い理由と落とし穴</title>
-<link>https://qiita.com/WhaleTech/items/8b46d89550d35c735881</link>
-<guid>b83d28205cf502395e7b2241c741447207100b1f5bf15cc9b41f791b429ba61c</guid>
-<pubDate>2026-09-01T02:09:39+09:00</pubDate>
-<description>Abstract（要旨） AIに仕事を頼んで席を離れ、戻ったら最初の承認で止まっていた。逆に自動承認にすると、見ていないところで変更される。この二択を変えようとしているのが、Cloudflare OSの承認前シミュレーションです。 対応するGatekeeperは、変更をま...</description>
-</item>
-<item>
-<title>【Qiita】 AI時代の「AIに読みやすいリポジトリ設計」を考える ― AI Context Architectureという考え方</title>
-<link>https://qiita.com/ARMKAS/items/fc4964c1a30843873f8d</link>
-<guid>fe2a3ea93bbc758f8f1aeb7794226df16614965666a0940d3e4f493927e7abd0</guid>
-<pubDate>2026-09-01T00:10:04+09:00</pubDate>
-<description>はじめに 最近、AI Coding Agentを使って実際のソフトウェア開発を続けていると、以前とは少し違う問題に気づくようになりました。それは「AIのコーディング能力が足りない」という問題ではなく、AIが既存のリポジトリを正しく理解するまでのコストが非常に大きいという問...</description>
+<title>【Qiita】 AIを導入する企業から、AIで変わり続ける企業へ</title>
+<link>https://qiita.com/mhamadajp/items/bb3dd060730edb919a7a</link>
+<guid>24de2be48619ef341cecd6d94f0fbc54d91d0a555a4af3cdd9883ed2193591f5</guid>
+<pubDate>2026-09-01T06:03:55+09:00</pubDate>
+<description>非連続な突破と堅牢さを両立する、AI時代の組織条件 生成AIを導入する企業は急速に増えている。社員へChatGPTやClaudeを配り、社内チャットボットを作り、議事録を自動化し、一部部門でAIエージェントのPoCを始める。いずれも重要な第一歩である。 しかし、AIを導入...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/from-correctness-to-collaboration-a-human-centered-taxonomy-of-ai-agent-behavior-in-software-engineering/</link>
-<guid>47a6aeb785df07eb2eebd32b25434d8d98fb9b29181819d9df9537dcaa0e13a3</guid>
-<pubDate>Mon, 31 Aug 2026 20:29:06 GMT</pubDate>
+<link>https://research.google/pubs/expert-evaluation-of-llm-world-models-a-high-tc-superconductivity-case-study/</link>
+<guid>8d0ef382ae57cca1ecbde15897eb338b9391393bfb04829cab6f94e8bc94a597</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:20 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77130-x</link>
-<guid>dfc854825312582228543c633a30560fe662e9573b1cabba302dc701c418807e</guid>
-<pubDate>Mon, 31 Aug 2026 20:29:10 GMT</pubDate>
+<guid>d7630f69d5aed7f400c0335240b47bcdb4f7c4747db4e71eb07ea7d9c980fa07</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:24 GMT</pubDate>
 <description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>f36ef1b1f2513fed84886053ba8d31bbdc24db7e1371d13c48d330413fc6d787</guid>
-<pubDate>Mon, 31 Aug 2026 20:29:12 GMT</pubDate>
+<guid>d9449a4365f576f5b34a599699e59755ead10d1837b8e7511ab3094d53b8d6be</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:26 GMT</pubDate>
 <description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>a75c2fddef2befbe9afa7868a3226f9390138795c4430904e2352c2de476b576</guid>
-<pubDate>Mon, 31 Aug 2026 20:29:55 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
-</item>
-<item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>47a361fc03716b2acf01b4d09c95e78c52f6d41f6c7e39495ccce41e1c4aeaeb</guid>
-<pubDate>Mon, 31 Aug 2026 20:29:59 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
