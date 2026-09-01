@@ -4,105 +4,99 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 01 Sep 2026 14:24:43 GMT</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 17:54:33 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AWS KiroでAWS-GCPマルチクラウド活用支援スキルを作成してみた</title>
-<link>https://qiita.com/duelist2020jp/items/90a1c001d95efce2f2ec</link>
-<guid>5df379e9f0663b5659a81ae6ae2fd67bf4766318ab11a651b13769f7f84a3038</guid>
-<pubDate>2026-09-01T19:36:06+09:00</pubDate>
-<description>はじめに かつてはAWSやAzureに代表されるパブリッククラウドは、単体利用のケースが多かったかと思いますが、ここ数年来、耐障害性や拡張性を考慮して、マルチクラウドで利用するケースが増えてきているかと思います。その一方で、個々のクラウドのエキスパートは年々増加傾向にある...</description>
+<title>【Qiita】 AIコーディング基盤 実装編 / GCE上にAgent Runnerを構築し、承認済みAgent BriefからCodex / Claude Codeを動かす</title>
+<link>https://qiita.com/mamono210/items/d319e032a16ef1ee707b</link>
+<guid>171d4914dba70f993639fa0fa616bc0dacbcaf4f7b4a5b45fac9be26dda0f333</guid>
+<pubDate>2026-09-02T00:42:15+09:00</pubDate>
+<description>前編では、Redmineの要求をAI Agentへ渡し、実装・CI・Pull RequestまでつなぐAIコーディング基盤の全体設計を整理しました。 この設計で重要なのは、単純な Redmine ↓ ChatGPT ↓ Git ↓ AI Agent ではなく、AI Age...</description>
 </item>
 <item>
-<title>【Qiita】 【備忘録】ADKでLive/Voice Agentを評価する前に整理する - 音声対話をCIでどこまで確認できるか</title>
-<link>https://qiita.com/Tadataka_Takahashi/items/acc407820b7fc6ffe210</link>
-<guid>159e9a2ef85fbcb384f6068e5ba0cc006df9358477a86511975f85a80b5bcac5</guid>
-<pubDate>2026-09-01T23:11:20+09:00</pubDate>
-<description>はじめに Google Developers Blogで、Agent Development Kit（ADK）のLive / Voice agentを評価する方法が紹介されていました。 音声で対話するagentは「動かしてみて、聞いて、良さそう」で終わりがちです。この記...</description>
+<title>【Qiita】 Redmine・ChatGPT・Git・AI Agent・CIで作るAIコーディング基盤</title>
+<link>https://qiita.com/mamono210/items/72591b1ca8ce802d4a2b</link>
+<guid>79b2043bf5981a716681e230ab8931f904f5e8f7da5bfb741954cb0457f4b167</guid>
+<pubDate>2026-09-02T00:39:23+09:00</pubDate>
+<description>はじめに 本手法の適用条件は、Acceptance Criteria を CI が判定できることを条件としています。フロントエンドではロジック層には適用できますが、視覚的な完了判断を伴うタスクでは検証者が人間になり、自動 retry ループが成立しないと考えられます。 ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeのpermissions.denyでREADMEの書き換えを止める — 読み取り相談を10分で試す</title>
-<link>https://qiita.com/akira_papa_AI/items/502f27abf8adf9d99244</link>
-<guid>8dbb5105428a0d7526aad50f0211ac6721f2891b3485a8f0cac4cabeccbfa9e0</guid>
-<pubDate>2026-09-01T22:37:31+09:00</pubDate>
-<description>「Claude Codeにリポジトリを読ませて、まずは説明だけしてほしい。でも、まだファイルは書き換えてほしくない」 最初にAIエージェントを動かすとき、こう感じるのは自然なことやと思います。便利さを確かめる前に、どこまで動くのか分からない。そこが不安なんですよね。 この記...</description>
+<title>【Qiita】 Grok Bot のサンドボックス内でしか再現しないバグを、手元から詰める。Tailscale SSH を通すまで人力の伝書鳩をしていた話</title>
+<link>https://qiita.com/ishizakahiroshi/items/6a9edc768efea629bf07</link>
+<guid>f06f3e1990cc0b72eef7cc7fe02de1a9ac59993e65d7c101d250935012cdc11e</guid>
+<pubDate>2026-09-02T00:16:22+09:00</pubDate>
+<description>主題: Grok Bot が持っているマシンの中を、手元からどう調べるか 前回、Grok Bot に付いてくるクラウド PC（Debian 13 / 8 コア / 16GB）へ自作 CLI を入れた記事を書きました。そこでバグを 1 つ踏みました。 厄介だったのは、バ...</description>
 </item>
 <item>
-<title>【Qiita】 AsanaのAIチームメイトの有用性まとめました 〜社内で使い倒してわかったこと〜</title>
-<link>https://qiita.com/Militani/items/7c2407194ff4da82fe7e</link>
-<guid>ccc6d1882649f1ef323451a2d1f3dfa98f97ffa71d4bf0ebe9385f117b2ebeb2</guid>
-<pubDate>2026-09-01T21:31:17+09:00</pubDate>
-<description>こんにちは！株式会社ミリタンイの大石です。 AsanaにAIチームメイトが加わって、「AIに仕事を任せる」という選択肢が現実的になってきました。ただ、支援の現場でよくいただくのが「作ってはみたけど、どう話しかければいいのか分からない」というご相談です。 弊社でもしばらく実際...</description>
+<title>【Qiita】 AIがAIのために業務コンテキストを作る？BigQuery×Knowledge Catalogでメタデータを自動生成</title>
+<link>https://qiita.com/a_tochi/items/f76d3d6b4b77bd389f75</link>
+<guid>339b547e26eab28c181a74afa33cdbef3bb147df658326d33122205c783835c4</guid>
+<pubDate>2026-09-01T23:30:17+09:00</pubDate>
+<description>はじめに 前回に引き続き、Google Cloudのセマンティックレイヤ・データ分析まわりを本記事でも検証していきます。 過去の記事はこちら↓ 今回は、エージェントが活用できるメタデータに着目し、以下について実際に試してみたいと思います。 BigQueryで...</description>
 </item>
 <item>
-<title>【Qiita】 Claude のモデル提供終了、猶予は告知から約60日 ― 過去9回を数えて、手元を検査するスクリプトを書いた</title>
-<link>https://qiita.com/manabu49-ai/items/bc2a7be2a6ee4ceb6185</link>
-<guid>7db77733e588a00954a1baaa66fbfeed175210908af093b4beb01a5d6ca3f8d1</guid>
-<pubDate>2026-09-01T21:01:43+09:00</pubDate>
-<description>公式のモデル提供終了ページを見ていて、読み間違えかけました。 claude-sonnet-4-5-20250929 Not sooner than September 29, 2026 「9月29日に消える」と読みました。違いました。 この記事は、その読み間違いを直...</description>
-</item>
-<item>
-<title>【環境】 Seagrass fisheries expose the poverty dimensions of marine conservation</title>
-<link>https://www.nature.com/articles/s41893-026-01932-6</link>
-<guid>8d4b71df08a916909d30980a74170364620535e2e400fef7f42b1f3c279868d9</guid>
+<title>【農業】 Global patterns and feasible improvement potential of phosphorus use efficiency in cereal croplands</title>
+<link>https://www.nature.com/articles/s43016-026-01419-9</link>
+<guid>53b3a5eed9fbee1980890020c8f3f004dabf3809fae80fb544d831d3f4c9f65b</guid>
 <pubDate>2026-09-01</pubDate>
-<description>The livelihood of people in poor coastal areas depends directly on local ecosystems, but such reliance is not well documented. With data from across 156 Indo-Pacific communities, this study examines the relationship between seagrass-associated fishing and household poverty.</description>
+<description>Low phosphorus use efficiency limits crop production while accelerating the depletion of finite phosphorus resources and environmental pollution. Using a machine learning framework that incorporates feasibility constraints, this study maps global phosphorus use efficiency for major cereal crops and identifies region-s</description>
 </item>
 <item>
-<title>【自動自律実験】 Charmed by comets</title>
-<link>https://www.nature.com/articles/d41586-026-02383-x</link>
-<guid>e9c362b9b31e726b05629a2008d2f4b4e7413930f998fbcadf9b90af730936b0</guid>
+<title>【自動自律実験】 Author Correction: Plasticity and language in the anaesthetized human hippocampus</title>
+<link>https://www.nature.com/articles/s41586-026-11071-9</link>
+<guid>5a1cbc42ff86e5e1a58c5c4b0ffbafe77073f3f2a0ac2c711b5702d6bb43ba2e</guid>
 <pubDate>2026-09-01</pubDate>
-<description>Astronomy that has long gripped people’s imagination, and a celebration of the health benefits of sunshine and the open air in this week’s pick from the Nature archive.</description>
+<description>Author Correction: Plasticity and language in the anaesthetized human hippocampus</description>
 </item>
 <item>
-<title>【自動自律実験】 China’s regulatory innovation for new biomedical technologies</title>
-<link>https://www.nature.com/articles/d41586-026-02737-5</link>
-<guid>37a2ac49b893c1e64f634ab314e92bbf7f9d1620d8333f08cd60d4317a804bf8</guid>
+<title>【自動自律実験】 These greenhouse-gas sources have trotters and snouts</title>
+<link>https://www.nature.com/articles/d41586-026-02734-8</link>
+<guid>fa0f36bae1767a90f7b113b73e770358bdfdb9fdacccf3b9bc22aecd8fcae778</guid>
 <pubDate>2026-09-01</pubDate>
-<description>China’s regulatory innovation for new biomedical technologies</description>
-</item>
-<item>
-<title>【自動自律実験】 When AI does science, who is accountable for mistakes?</title>
-<link>https://www.nature.com/articles/d41586-026-02735-7</link>
-<guid>9520a87578bd506f1a9b9e10a1230c4f2a9b917c01f54a1fb2af9a6833323c0b</guid>
-<pubDate>2026-09-01</pubDate>
-<description>When AI does science, who is accountable for mistakes?</description>
-</item>
-<item>
-<title>【自動自律実験】 The global plastics treaty must account for conflict-driven energy insecurity</title>
-<link>https://www.nature.com/articles/d41586-026-02738-4</link>
-<guid>d10122875cdfab966c43d4831fb8f71d6edd3de240bac6e4aec1396305363613</guid>
-<pubDate>2026-09-01</pubDate>
-<description>The global plastics treaty must account for conflict-driven energy insecurity</description>
-</item>
-<item>
-<title>【自動自律実験】 Europe should adapt, not copy, China’s practical PhD</title>
-<link>https://www.nature.com/articles/d41586-026-02736-6</link>
-<guid>b2ee14dceed893957b9827ccf67ad4ac3d9ba6e8af3335ee0d63ef468727b0ab</guid>
-<pubDate>2026-09-01</pubDate>
-<description>Europe should adapt, not copy, China’s practical PhD</description>
+<description>Emissions linked to global warming are higher at sites where feral pigs disturb the soil.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/designing-privacy-choice-in-generative-ai-chatbot-ecosystems/</link>
-<guid>bd4c2d35818e6301011edb6001869bb1e632241daf3b1041f86515341bffad03</guid>
-<pubDate>Tue, 01 Sep 2026 14:23:55 GMT</pubDate>
+<link>https://research.google/pubs/ai-propeller-warehouse-scale-inter-procedural-code-layout-optimization-with-alphaevolve/</link>
+<guid>14c8e186d6040fcd45e99ea71740082840db64291dbe0841b33aa8366d951cec</guid>
+<pubDate>Tue, 01 Sep 2026 17:53:34 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77130-x</link>
-<guid>a9d3e0e85ff71efd05a3a42942640e938714cc3cf003aa435d457737ac4baeeb</guid>
-<pubDate>Tue, 01 Sep 2026 14:23:59 GMT</pubDate>
+<guid>152df7bac6d51c6b326f21acc32a444431dfc8c34ce11034dd005177cfea5a26</guid>
+<pubDate>Tue, 01 Sep 2026 17:53:38 GMT</pubDate>
 <description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>4339f5ed2a54f0ebceb6712cd4db3f986ecded395091b5acd5e820e30d7de10b</guid>
-<pubDate>Tue, 01 Sep 2026 14:24:01 GMT</pubDate>
+<guid>288bbaa877073ed7cd575d0f7d2ff2384222aea8b3c43d2d47760fa2288f63ec</guid>
+<pubDate>Tue, 01 Sep 2026 17:53:41 GMT</pubDate>
 <description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-64146-y</link>
+<guid>f202fd3d0c3efd4881902b0048103d7d5c97276c5368b93eef914be9ccde88fe</guid>
+<pubDate>Tue, 01 Sep 2026 17:53:44 GMT</pubDate>
+<description>Insider threats continue to be a vexed and complicated risk in secure software development (SSD) organizations due to their origin in combination of malicious intent, negligence, credential abuse, and process vulnerability throughout the software development lifecycle. Artificial intelligence (AI)-inspired, agentic security strategies are increasingly suggested to enhance prevention and detection, but organizations have not yet a clear, decision-supportive approach to prioritize agentic mitigation practices in times of uncertainty. This paper aims to suggest and rank an agentic model of insider threats mitigation to secure software development companies based on the Fuzzy Analytic Hierarchy Process (Fuzzy AHP). Its main objectives include (i) organizing insider-threat mitigation into multi-level decision model, (ii) calculating priority weights of AI-directed agentic practices, and (iii) assisting actionable adoption choices of various insider-threat types. A systematic mapping study (SMS) was first carried out to investigate the state-of-the-art of insider threats in software development organization. The second phase involved performing an empirical survey among cybersecurity pro</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>1e201eeedb3f2250b73e5f8060af09a33ee696671bd50ee1ad7eaea65eafed25</guid>
+<pubDate>Tue, 01 Sep 2026 17:54:12 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>a96bf698e3925b2f263fc145f80c21d1b76c6cba7de34ceef5ebeb2079bbf03d</guid>
+<pubDate>Tue, 01 Sep 2026 17:54:14 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
