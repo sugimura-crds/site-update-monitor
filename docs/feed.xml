@@ -4,85 +4,84 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 01 Sep 2026 04:18:53 GMT</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 09:31:41 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 セキュリティ基準のpinは9日で腐る。監査プロンプト集を58体のAIエージェントで最新化した実録</title>
-<link>https://qiita.com/ishizakahiroshi/items/288dbf9aa52b8d9bafbe</link>
-<guid>b521c39f8853fcfb141471f3a4f7aadd365efaaddebc56340003fa75debd5e26</guid>
-<pubDate>2026-09-01T12:27:27+09:00</pubDate>
-<description>自作の監査プロンプト集 ai-audit-prompts を「2026年の最新トレンドに追随しているか」で総点検し、AIエージェントのworkflowで更新しました。結論だけ先に書きます。 9日前に全項目確認したはずのpinned基準が、再確認したら1本古くなっていた（...</description>
+<title>【Qiita】 「いい感じに分けといて」と頼まれたので、「いい感じ」を定義してみた</title>
+<link>https://qiita.com/KYoshiyama/items/50f50f39fd0da34e3dce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>daad1f056cbc8b3aabbee7e52f5e97b2263b4ae643728457001c79bf626dd241</guid>
+<pubDate>2026-09-01T11:11:47+09:00</pubDate>
+<description>「いい感じに分けてくれない？」 そう頼まれたことはないでしょうか。 困るのは、その「いい感じ」を誰も定義していないことです。 聞いてみると、だいたいこういう感じの回答が返ってきます。 シフトを、なるべく公平に 当番を、なるべく連続させずに レビュアーを、なるべく同じ人に...</description>
 </item>
 <item>
-<title>【Qiita】 Claude TagでSlack要望を集約、漏れを戻せる依頼文</title>
-<link>https://qiita.com/eiri_ai/items/7b1e62d96f3e3db3e74b</link>
-<guid>129a37eba23a141956efba5385e2ae6cffed479c931f84bb6f8e99f0532fbbc2</guid>
-<pubDate>2026-09-01T12:23:54+09:00</pubDate>
-<description>Claude TagでSlack要望を集約、漏れを戻せる依頼文 8月28日、AnthropicはClaude Tagの社内例を公開しました。Slack横断では約20通りの検索で24件ほどを拾い、元の依頼へのリンクも残しています。公式記事 真似したいのは、検索の速さより「元...</description>
+<title>【Qiita】 Claude Code でモデルを切り替えると、そのターンだけ書き直しが287倍</title>
+<link>https://qiita.com/jqit_suwa/items/5fe930eb46d064b3da06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>b0b5801d875743be5814f5c14f56bb9fc20acef2a27211e6aa4c8163998b0efb</guid>
+<pubDate>2026-09-01T09:03:06+09:00</pubDate>
+<description>/model でモデルを切り替えるのは一瞬です。キャッシュが温かいうちなら確認も出ます（2.1.238以降）。では、そこで何を捨てているのか。 Claude Code 2.1.251 でプロンプトキャッシュが数字で見えるようになったので、測ってみました。 同じセッションを継...</description>
 </item>
 <item>
-<title>【Qiita】 Omarchy Quattroのコマンド定義をCIで検査する</title>
-<link>https://qiita.com/hironakamura_ai/items/a9d769e5739e2e6eba22</link>
-<guid>2e0b92f4e272c7f52b9187e61dcb830a82bca0c7e18bf2a95eb9683229a0cdcd</guid>
-<pubDate>2026-09-01T11:28:23+09:00</pubDate>
-<description>Omarchy Quattroのコマンド定義をCIで検査する：先頭80行のメタデータ 9月1日のPublickeyの記事は「AIエージェントが設定変更もアプリの追加もやってくれる」と伝えていた。ここまでOSに近い操作を渡すなら、エージェントに読ませるコマンド一覧は、人間向...</description>
+<title>【Qiita】 ChatGPT・Gemini・Claude…データはAIの学習に使われるのか？情報漏洩のリスクは？ 34製品の利用規約を読み比べてみた</title>
+<link>https://qiita.com/songchong/items/3abbc43f0d7c471e6688?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>57663ae5029e7dff8f898f80e3c126d0e944b12975034db32c73ed7057c54487</guid>
+<pubDate>2026-09-01T00:18:40+09:00</pubDate>
+<description>「このAIに入れた内容、バレませんか」 社内で AI を使い始めるとき、いちばん多い質問だと思います。聞かれる側は「たぶん法人版なら大丈夫です」と答えがちで、私もそうでした。曖昧にしか答えられないのが気になったので、AI チャット・AI エージェント・AI-OCR・iPaa...</description>
 </item>
 <item>
-<title>【Qiita】 AI人物生成機能を要件とテストに落とす：アバターとデジタルヒューマンの分離</title>
-<link>https://qiita.com/Diiiii/items/1514d89582c1b6d9b72e</link>
-<guid>800ee9c62e9fa183f40c411d02201d8dc71d945cd41f7995387d945dfb4b8e0f</guid>
-<pubDate>2026-09-01T11:16:40+09:00</pubDate>
-<description>本稿は公開されている画面・説明をもとにした要件定義とテスト設計の例です。内部実装、モデル構成、API、品質、処理時間を確認したものではありません。ここでの型、画面、テストケースは類似した生成UIを設計するための提案です。 問題：同じ出力形式でも、利用者の目的は異なる 人物...</description>
+<title>【Qiita】 さわってみよう Db2 AI エディション #16 〜モニタリング編 Part#3〜</title>
+<link>https://qiita.com/ibm_tk/items/ae5d9a0c2a6b88188900</link>
+<guid>907973a80f980c8c5704a5df63876c04b8891245cb6b0b6d93012273ee3e4f0b</guid>
+<pubDate>2026-09-01T17:03:42+09:00</pubDate>
+<description>Db2 Genius Hubによる複数データベースのメトリックと構成の比較 当記事では、Db2 AIエディションで利用できるようになったDb2 Genius Hubの主たる機能のうち、 (1)統合Db2管理 (2)エージェント型AIアシスタント (3)ログ分析 (4)異常...</description>
 </item>
 <item>
-<title>【Qiita】 LangGraphのdurability、exitで落ちると再開すらできなかった</title>
-<link>https://qiita.com/kai_kou/items/cf6a2ef912caf8a6a230</link>
-<guid>97f01f30c9892f2192dc5134886ff73ecf422a6758aa0619ed2740e7f0f3c749</guid>
-<pubDate>2026-09-01T09:08:53+09:00</pubDate>
-<description>はじめに LangGraph のグラフを checkpointer 付きでコンパイルすると、途中でプロセスが落ちても続きから再開できます。ただし「どこまで書き込まれているか」は durability という引数で変わります。対象読者は、LangGraph でエージェントを...</description>
+<title>【Qiita】 Claude Code のトークン使用量を実測したら1ターン23万 ― 節約に効いたのは「セッションを切る」だった</title>
+<link>https://qiita.com/manabu49-ai/items/2598a30d5140e4445ab6</link>
+<guid>834fb7e263015613c6856a1c1b1815d032e9b699eacbe037cd767d5bbff72677</guid>
+<pubDate>2026-09-01T18:17:43+09:00</pubDate>
+<description>AIエージェントに仕事を任せる、という話が増えています。 私も3日間、実際に回してみました。データ収集、分析、検証を複数のエージェントに分担させて、24時間動かす構成です。 結論から書きます。いちばん高くついたのは、エージェントの数ではありませんでした。 実測した数字 セ...</description>
 </item>
 <item>
-<title>【農業】 Disruptions of global crop yields</title>
-<link>https://www.nature.com/articles/s43016-026-01424-y</link>
-<guid>bbdbb1b11fb75a7970d30abbfa47c9bbfb7d237991bf9b0eb9b56be91eec5415</guid>
-<pubDate>2026-08-31</pubDate>
-<description>Timely estimation and forecasting of crop yields at national and global levels is essential to manage market volatility. Yet, better understanding of estimation accuracy and whether and how this impacts market volatility is essential.</description>
+<title>【Qiita】 【2026年9月1日版】Devin、OpenClaw、Codex、Claude Code、Cursor eyc… AIエージェントとLLMを料金まで含めて整理した個人的メモ</title>
+<link>https://qiita.com/rino_yume/items/9cbf9497295fa3eb8690</link>
+<guid>92a4be0c15706df011027f66d67bf4b6d64059f9838275e787b8a7809884bedf</guid>
+<pubDate>2026-09-01T15:28:57+09:00</pubDate>
+<description>【2026年9月1日版】Devin、OpenClaw、Codex、Claude Code、Cursor eyc… AIエージェントとLLMを料金まで含めて整理した個人的メモ 正直、AIエージェントが増えすぎて花盛り、情報多くて最近かなり分からなくなってきた。 Devin、...</description>
 </item>
 <item>
-<title>【農業】 An integrative framework for early estimation of global crop yields demonstrated under large-scale disruptions</title>
-<link>https://www.nature.com/articles/s43016-026-01418-w</link>
-<guid>03eda7896fc56e5872f0528ece91cd7bacec61190a6b6f6f00b8988a6b88947c</guid>
-<pubDate>2026-08-31</pubDate>
-<description>Timely crop-yield estimates are essential for anticipating food-supply risks and informing crop trade policies. This study presents a framework that integrates yield statistics, multi-source remote-sensing and complementary geospatial data and random forest models to estimate major crop yields across global production co</description>
+<title>【Qiita】 【BigQuery】Conversational Analyticsを使って自然言語でデータ分析！</title>
+<link>https://qiita.com/a_tochi/items/9d1ee9b6cbf26db777d0</link>
+<guid>f9b186bc15e1e21655397671c7d71e1df0def4a40a96cb64335f8664c14b36c5</guid>
+<pubDate>2026-09-01T15:02:49+09:00</pubDate>
+<description>はじめに 前回は、BigQuery Graphの「measures」機能を使って、セマンティックレイヤをBigQueryだけで実現できるか試してみました。 今回は少し方向を変えて、「メトリクスの定義」ではなく自然言語で聞くだけでBigQueryのデータを分析できると...</description>
+</item>
+<item>
+<title>【Qiita】 Copilot Studioで「放置されている議題」を見つけるエージェントを作ってみた</title>
+<link>https://qiita.com/YukiSaku_2FC/items/2618944447213102f701</link>
+<guid>a3c3b35decab1aafe1d3e4effe20235ef053b0d5069784aa24ee4ca407813d6a</guid>
+<pubDate>2026-09-01T13:28:45+09:00</pubDate>
+<description>はじめに 私は普段はデザイナーとして働いてるのですが、最近Copilot Studioを使ったAIエージェント作りにも挑戦し始めました。 今回はその最初の一歩として触った内容をまとめます。 この記事は、デザイナー畑の方でこれからAIに触ってみようとしている方に向けて書いて...</description>
+</item>
+<item>
+<title>【Qiita】 Cursorのallowlist、gitを許可したのに任意コード実行になる仕組みを再現した</title>
+<link>https://qiita.com/kai_kou/items/f30661c6957116cc3da2</link>
+<guid>1014f909381c846b656daa386f1cc43e37d250f157cc7301380eadccbaaf1fb2</guid>
+<pubDate>2026-09-01T16:08:27+09:00</pubDate>
+<description>TL;DR Cursor の CVE-2026-22708 は、コマンド allowlist を有効にした Auto-Run Mode でも、シェルの組み込みコマンド（export など）が allowlist を通らずに実行できてしまう脆弱性です（GitHub Sec...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/securing-elliptic-curve-cryptocurrencies-against-quantum-vulnerabilities-resource-estimates-and-mitigations/</link>
-<guid>369864998807e48561adc947b9ca37e9e3d48620b75b9ae302ad3460a34c75ff</guid>
-<pubDate>Tue, 01 Sep 2026 04:18:03 GMT</pubDate>
+<link>https://research.google/pubs/mull-tokens-modality-agnostic-latent-thinking/</link>
+<guid>e52bc7ced4fcee6949c2590983bd41000400f619bb99633aaedd0370dfaed245</guid>
+<pubDate>Tue, 01 Sep 2026 09:30:35 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-77130-x</link>
-<guid>61ab693f4bca5cc0c944e4f38f70a48c132bb464d3fd3e239600bf822926c696</guid>
-<pubDate>Tue, 01 Sep 2026 04:18:06 GMT</pubDate>
-<description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>3646527ca4dbe5a3e1db21f5474ccf72d4bb9f0f258dc35cc1e794f35ac3601e</guid>
-<pubDate>Tue, 01 Sep 2026 04:18:08 GMT</pubDate>
-<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>91ca7903f39c44188c9df8a51ed2eb8331d59dd2c74cd5b3cfc00ddc1b27a9a2</guid>
-<pubDate>Tue, 01 Sep 2026 04:18:35 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.soken.ac.jp/news/2026/20260805.html</link>
+<guid>685f37a0e99062bb1817883b336bdf21a1eec40765b5ec4acbd9e475927ddfa7</guid>
+<pubDate>Tue, 01 Sep 2026 09:31:26 GMT</pubDate>
+<description>【プレスリリース】全ゲノム塩基配列で解明：ニホンイノシシとリュウキュウイノシシは共通祖先から進化していた</description>
 </item>
 
 </channel>
