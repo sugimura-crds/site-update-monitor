@@ -4,35 +4,85 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 01 Sep 2026 00:01:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 04:18:53 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIを導入する企業から、AIで変わり続ける企業へ</title>
-<link>https://qiita.com/mhamadajp/items/bb3dd060730edb919a7a</link>
-<guid>24de2be48619ef341cecd6d94f0fbc54d91d0a555a4af3cdd9883ed2193591f5</guid>
-<pubDate>2026-09-01T06:03:55+09:00</pubDate>
-<description>非連続な突破と堅牢さを両立する、AI時代の組織条件 生成AIを導入する企業は急速に増えている。社員へChatGPTやClaudeを配り、社内チャットボットを作り、議事録を自動化し、一部部門でAIエージェントのPoCを始める。いずれも重要な第一歩である。 しかし、AIを導入...</description>
+<title>【Qiita】 セキュリティ基準のpinは9日で腐る。監査プロンプト集を58体のAIエージェントで最新化した実録</title>
+<link>https://qiita.com/ishizakahiroshi/items/288dbf9aa52b8d9bafbe</link>
+<guid>b521c39f8853fcfb141471f3a4f7aadd365efaaddebc56340003fa75debd5e26</guid>
+<pubDate>2026-09-01T12:27:27+09:00</pubDate>
+<description>自作の監査プロンプト集 ai-audit-prompts を「2026年の最新トレンドに追随しているか」で総点検し、AIエージェントのworkflowで更新しました。結論だけ先に書きます。 9日前に全項目確認したはずのpinned基準が、再確認したら1本古くなっていた（...</description>
+</item>
+<item>
+<title>【Qiita】 Claude TagでSlack要望を集約、漏れを戻せる依頼文</title>
+<link>https://qiita.com/eiri_ai/items/7b1e62d96f3e3db3e74b</link>
+<guid>129a37eba23a141956efba5385e2ae6cffed479c931f84bb6f8e99f0532fbbc2</guid>
+<pubDate>2026-09-01T12:23:54+09:00</pubDate>
+<description>Claude TagでSlack要望を集約、漏れを戻せる依頼文 8月28日、AnthropicはClaude Tagの社内例を公開しました。Slack横断では約20通りの検索で24件ほどを拾い、元の依頼へのリンクも残しています。公式記事 真似したいのは、検索の速さより「元...</description>
+</item>
+<item>
+<title>【Qiita】 Omarchy Quattroのコマンド定義をCIで検査する</title>
+<link>https://qiita.com/hironakamura_ai/items/a9d769e5739e2e6eba22</link>
+<guid>2e0b92f4e272c7f52b9187e61dcb830a82bca0c7e18bf2a95eb9683229a0cdcd</guid>
+<pubDate>2026-09-01T11:28:23+09:00</pubDate>
+<description>Omarchy Quattroのコマンド定義をCIで検査する：先頭80行のメタデータ 9月1日のPublickeyの記事は「AIエージェントが設定変更もアプリの追加もやってくれる」と伝えていた。ここまでOSに近い操作を渡すなら、エージェントに読ませるコマンド一覧は、人間向...</description>
+</item>
+<item>
+<title>【Qiita】 AI人物生成機能を要件とテストに落とす：アバターとデジタルヒューマンの分離</title>
+<link>https://qiita.com/Diiiii/items/1514d89582c1b6d9b72e</link>
+<guid>800ee9c62e9fa183f40c411d02201d8dc71d945cd41f7995387d945dfb4b8e0f</guid>
+<pubDate>2026-09-01T11:16:40+09:00</pubDate>
+<description>本稿は公開されている画面・説明をもとにした要件定義とテスト設計の例です。内部実装、モデル構成、API、品質、処理時間を確認したものではありません。ここでの型、画面、テストケースは類似した生成UIを設計するための提案です。 問題：同じ出力形式でも、利用者の目的は異なる 人物...</description>
+</item>
+<item>
+<title>【Qiita】 LangGraphのdurability、exitで落ちると再開すらできなかった</title>
+<link>https://qiita.com/kai_kou/items/cf6a2ef912caf8a6a230</link>
+<guid>97f01f30c9892f2192dc5134886ff73ecf422a6758aa0619ed2740e7f0f3c749</guid>
+<pubDate>2026-09-01T09:08:53+09:00</pubDate>
+<description>はじめに LangGraph のグラフを checkpointer 付きでコンパイルすると、途中でプロセスが落ちても続きから再開できます。ただし「どこまで書き込まれているか」は durability という引数で変わります。対象読者は、LangGraph でエージェントを...</description>
+</item>
+<item>
+<title>【農業】 Disruptions of global crop yields</title>
+<link>https://www.nature.com/articles/s43016-026-01424-y</link>
+<guid>bbdbb1b11fb75a7970d30abbfa47c9bbfb7d237991bf9b0eb9b56be91eec5415</guid>
+<pubDate>2026-08-31</pubDate>
+<description>Timely estimation and forecasting of crop yields at national and global levels is essential to manage market volatility. Yet, better understanding of estimation accuracy and whether and how this impacts market volatility is essential.</description>
+</item>
+<item>
+<title>【農業】 An integrative framework for early estimation of global crop yields demonstrated under large-scale disruptions</title>
+<link>https://www.nature.com/articles/s43016-026-01418-w</link>
+<guid>03eda7896fc56e5872f0528ece91cd7bacec61190a6b6f6f00b8988a6b88947c</guid>
+<pubDate>2026-08-31</pubDate>
+<description>Timely crop-yield estimates are essential for anticipating food-supply risks and informing crop trade policies. This study presents a framework that integrates yield statistics, multi-source remote-sensing and complementary geospatial data and random forest models to estimate major crop yields across global production co</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/expert-evaluation-of-llm-world-models-a-high-tc-superconductivity-case-study/</link>
-<guid>8d0ef382ae57cca1ecbde15897eb338b9391393bfb04829cab6f94e8bc94a597</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:20 GMT</pubDate>
+<link>https://research.google/pubs/securing-elliptic-curve-cryptocurrencies-against-quantum-vulnerabilities-resource-estimates-and-mitigations/</link>
+<guid>369864998807e48561adc947b9ca37e9e3d48620b75b9ae302ad3460a34c75ff</guid>
+<pubDate>Tue, 01 Sep 2026 04:18:03 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77130-x</link>
-<guid>d7630f69d5aed7f400c0335240b47bcdb4f7c4747db4e71eb07ea7d9c980fa07</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:24 GMT</pubDate>
+<guid>61ab693f4bca5cc0c944e4f38f70a48c132bb464d3fd3e239600bf822926c696</guid>
+<pubDate>Tue, 01 Sep 2026 04:18:06 GMT</pubDate>
 <description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>d9449a4365f576f5b34a599699e59755ead10d1837b8e7511ab3094d53b8d6be</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:26 GMT</pubDate>
+<guid>3646527ca4dbe5a3e1db21f5474ccf72d4bb9f0f258dc35cc1e794f35ac3601e</guid>
+<pubDate>Tue, 01 Sep 2026 04:18:08 GMT</pubDate>
 <description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>91ca7903f39c44188c9df8a51ed2eb8331d59dd2c74cd5b3cfc00ddc1b27a9a2</guid>
+<pubDate>Tue, 01 Sep 2026 04:18:35 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
