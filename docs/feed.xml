@@ -4,126 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 02 Sep 2026 09:47:15 GMT</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 13:58:02 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 カジュアル面談で「特に質問ないです」が、実は一番もったいない理由</title>
-<link>https://qiita.com/m__ikeda/items/1db92012f8477071e4b4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>c64ca4d852b873e67bdd6462c12519876058fd9821255e8f5b940e1f4961bc2c</guid>
-<pubDate>2026-09-02T10:47:20+09:00</pubDate>
-<description>自己紹介 こんにちは。株式会社PRUMで採用広報を担当している池田です。 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊 もしIT業界に興味があるけど、...</description>
+<title>【Qiita】 Codexの codex completion zsh でTab補完を有効にする — コマンド候補を10分で表示する</title>
+<link>https://qiita.com/akira_papa_AI/items/f71d3b287c3b1997f97b</link>
+<guid>e01884df32bf3b190af20dede4223000ba431f3152fa5695508dade226014f38</guid>
+<pubDate>2026-09-02T22:40:27+09:00</pubDate>
+<description>Codex CLIを使い始めたけれど、サブコマンドやオプション名を毎回思い出せない。 そんな方に向けて、この記事では codex completion zshによるTab入力補完 だけを扱います。macOSまたはLinuxでZ shellを使っている方が、いきなり設定ファイ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Fable 5.1、2ターン目のキャッシュに12回中8回乗り損ねた</title>
-<link>https://qiita.com/jqit_suwa/items/8ae6739d0bb525e1b41b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>3875b12eb511f203569ddc9df33f4356d2566ef323a40c8b60c0afbeef07bc11</guid>
-<pubDate>2026-09-02T09:40:44+09:00</pubDate>
-<description>9月1日に Claude Fable 5.1 が出ました。キャッシュ読みが $0.25/M で、入力が半額の Opus 5（$0.50/M）より安い、という珍しい価格です。 長いセッションほど得なはずだと思って測ったら、2ターン目にキャッシュへ乗るかどうかが安定しませんでし...</description>
+<title>【Qiita】 EC-CUBE AIチャットプラグイン開発記録</title>
+<link>https://qiita.com/smapira/items/f332571cf28ddbea4f7a</link>
+<guid>8585ef052e9def617c3f4e9de691aad7860d4c5845a52d4fbc85f7f3658cb639</guid>
+<pubDate>2026-09-02T22:37:39+09:00</pubDate>
+<description>73ファイル、13,189行を一晩で生んでからが本番だった EC-CUBE 4.2 向けプラグイン AiChatAssistant42 を、8月16日深夜の一括生成から9月2日の公開版申請まで、17日間で83コミットかけて育てた記録ですコードは公開しています → htt...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code のサブエージェント、モデルの固定手段が4日で戻ってきた</title>
-<link>https://qiita.com/jqit_suwa/items/e0e1ca2287fb4da46852?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>cb11da29888310d19a3997c8c8769f19befb44f8a4e1625445ea87c657032dab</guid>
-<pubDate>2026-09-02T09:40:27+09:00</pubDate>
-<description>8月28日、Claude Code 2.1.251 で CLAUDE_CODE_SUBAGENT_MODEL の挙動が変わりました。全部を上書きしていたのが、エージェント定義の model: に負けるようになった。それを記事にしました。 9月1日、2.1.257 で上書き手...</description>
+<title>【Qiita】 失敗したら、何も変えない ― AIの変更提案を、リポジトリに当てるまで</title>
+<link>https://qiita.com/R2-san/items/d34d7572a3b20848f510</link>
+<guid>f66205dc99408c7defde7130a71c1c0fbac987496e373ac76c1dec4ba9ab0f1e</guid>
+<pubDate>2026-09-02T22:27:21+09:00</pubDate>
+<description>本記事の内容は私（R2-san）の体験（実装コード）・判断・指示に基づきますが、文章作成は生成 AI が行い、私の監修・確認を経て公開しています。 前回、AIも人間も設計判断を忘れる で、設計判断を1件1ファイルで残す仕組みの話を書きました。 ここまで3本書いてきて、ま...</description>
 </item>
 <item>
-<title>【Qiita】 【JavaScript】usingがStage4になったので、ようやくリソース解放忘れから解放されるよ</title>
-<link>https://qiita.com/rana_kualu/items/83783c6dd3b4b51fa77f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>f0fd0b8799eb9f4feef2342ccdf5c5a46134e7062f2213345147044ded9fd05c</guid>
-<pubDate>2026-08-31T20:53:39+09:00</pubDate>
-<description>だめ function hoge(){ const handle = exampleResource(); // なんかのリソース /* なんか長い処理 */ handle.release(); // リソース解放 } hoge(); うっか...</description>
+<title>【Qiita】 Claude Code の定額プランのまま、PR を作ったら自動でレビューが走る仕組みを PostToolUse hook で作る</title>
+<link>https://qiita.com/Oskra/items/676670c0ea3f1538248e</link>
+<guid>907bfb22c1d295f7a600db6036016c495f075fc4f65372ac8f6f3c8904d6e9ff</guid>
+<pubDate>2026-09-02T20:52:50+09:00</pubDate>
+<description>この記事で分かること gh pr create が成功した直後に、「レビューして、直して、push しろ」という指示を Claude に自動で差し込む hook の作り方 この仕組みで走るレビューは、Pro / Max の定額プランの範囲内で動く。追加の契約や従量課金...</description>
 </item>
 <item>
-<title>【Qiita】 Javaアプリの脆弱性をIBM Bob Premium Package for Javaで検出・修正してみた</title>
-<link>https://qiita.com/ktgr/items/af46c1d53ad24280a178</link>
-<guid>bdd4199661f5d5c69a7875ffdedb145f2b573bb335ca771dccfb609a2273baec</guid>
-<pubDate>2026-09-02T18:42:25+09:00</pubDate>
-<description>はじめに Javaアプリケーションでは、多くのOSSライブラリを依存関係として利用します。 これらのライブラリに脆弱性が見つかった場合、対象ライブラリの特定、修正版の調査、依存関係の更新、ビルド、再スキャンといった作業が必要です。 今回は、IBM Bob Premium ...</description>
-</item>
-<item>
-<title>【Qiita】 生成AI時代、本当に重要なのは「AIを選ぶ力」より「AIを外せる力」である</title>
-<link>https://qiita.com/mhamadajp/items/6938b35a74799e5fe3b9</link>
-<guid>520a28d2744ec2bbfe8fcc6dc1d4f1bae7645043afe9c9f93095d221b804cadc</guid>
-<pubDate>2026-09-02T17:44:07+09:00</pubDate>
-<description>生成AIを企業へ導入するとき、「どのモデルが最も優秀か」が議論の中心になりやすい。だが、検索支援や文書作成を越えて、受注、顧客対応、審査、調達、開発、サプライチェーンへAIが組み込まれるほど、先に問うべきことが変わる。 このAIを明日止めても、業務は安全に続けられるか。 ...</description>
-</item>
-<item>
-<title>【Qiita】 Google Cloudの新機能「ボーダーレス Lakehouse」— 他社クラウドのデータもコピーせず分析できる仕組み</title>
-<link>https://qiita.com/kuno_/items/cb792a9435587cdbbb91</link>
-<guid>87c4e9d64bf3f74040423f954bf109facb6c5e7641da1e30bada757ef5661048</guid>
-<pubDate>2026-09-02T17:28:47+09:00</pubDate>
-<description>はじめに マルチクラウド環境でのデータ分析といえば、「S3やSnowflakeにあるデータをBigQueryで使いたいけど、コピーするとコストもかかるし鮮度も落ちる」という悩みが定番でした。2026年7月30日、Google CloudはNext Tokyoで「Borde...</description>
-</item>
-<item>
-<title>【Qiita】 仕様書は2日前から手元にあった ― 読まずに実装した対処が、データを永久に失う設計だった</title>
-<link>https://qiita.com/manabu49-ai/items/9b947604d3dc4958fa36</link>
-<guid>d5225907ae4288dd727ec39ce3a4036935d1e24ecf52af06d52d6a0d8b82de3b</guid>
-<pubDate>2026-09-02T17:25:21+09:00</pubDate>
-<description>外部のデータ提供元から、大量のファイルを一括で受け取る処理を書いていました。 途中で、あるファイルが「壊れている」を意味する戻り値を返しました。処理はそこで止まります。 私はAIエージェントに「壊れたファイルは飛ばして続行する」を実装させ、その分岐を検査するテストまで書いて...</description>
-</item>
-<item>
-<title>【Qiita】 57分間、死んだジョブを誰も見ていなかった ― AIエージェントの見張りを機械に渡す</title>
-<link>https://qiita.com/manabu49-ai/items/5c7506c94b5be58c040e</link>
-<guid>63d5cd06f37f5dd52fb68b470024163a6385986ba749aa062c67bb4bb0280896</guid>
-<pubDate>2026-09-02T17:17:00+09:00</pubDate>
-<description>この記事は note / Zenn にも同じ内容で公開しています（筆者本人による転載）。 前の記事で、AIエージェントを17時間回した実測を書きました。その最後に「見張りスクリプト、状態ファイルの設計、判断待ちの出し方は別の記事に書く」と約束したので、それを書きます...</description>
-</item>
-<item>
-<title>【自動自律実験】 Satellite images before Nepal disaster showed warning signs</title>
-<link>https://www.nature.com/articles/d41586-026-02746-4</link>
-<guid>6b6ed6a71da76ce47bcab69a3b0d6b22954cb815883e2d3374cf68d17ddd464d</guid>
+<title>【環境】 Declines in European bumblebee habitat suitability attributable to climate change</title>
+<link>https://www.nature.com/articles/s41558-026-02734-6</link>
+<guid>7abbc012e481b3d5b0d34b34ecbe9385216f95a66b7463c02ad8c55878fd3091</guid>
 <pubDate>2026-09-02</pubDate>
-<description>Images revealed the accelerated movement of a glacier–rock mass just days before it collapsed, triggering a deadly flash flood.</description>
-</item>
-<item>
-<title>【自動自律実験】 Say hello to the next generation of lobsters — August’s best science images</title>
-<link>https://www.nature.com/articles/d41586-026-02597-z</link>
-<guid>842189b8fe7e09697ad8b4e0dcee39634bac5bbb3923f937af5fd32cdadd88dc</guid>
-<pubDate>2026-09-02</pubDate>
-<description>The month’s sharpest science shots, selected by Nature’s photo team.</description>
+<description>The authors consider factual and counterfactual scenarios to isolate the role of climate change in the decline of suitable habitats for European bumblebees (1901–2019). They show reductions of 5% on average, and up to 19% locally, with high-altitude gains partially offsetting losses.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/aase-activation-based-ai-safety-enforcement-via-lightweight-probes/</link>
-<guid>843194aff18352b09ca1d63f47984ca0e88cd2553e5bbda2c8202bd0b4ca5b94</guid>
-<pubDate>Wed, 02 Sep 2026 09:46:24 GMT</pubDate>
+<link>https://research.google/pubs/agentic-coding-needs-proactivity-not-just-autonomy/</link>
+<guid>118c5a2d6c61ac2a94047b888ab8e6756bb20521b38395c966006ef4abbbebcf</guid>
+<pubDate>Wed, 02 Sep 2026 13:57:26 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77130-x</link>
-<guid>ad066e6fd2ba4959fcc08cedb9e3d910588279ed4010f79af4e400c96af65111</guid>
-<pubDate>Wed, 02 Sep 2026 09:46:27 GMT</pubDate>
+<guid>357c5a480ab572bc2b32f66472d7916de9caecd484598c5634cf6017353a5fc9</guid>
+<pubDate>Wed, 02 Sep 2026 13:57:30 GMT</pubDate>
 <description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>0f071840b2dc22dd2b0784ba53a0f1be33180ee8c53c4dc74def35e9ff8d58c7</guid>
-<pubDate>Wed, 02 Sep 2026 09:46:29 GMT</pubDate>
+<guid>c88ca259a84e3993bec988e35d56def4df4e7182d825d85aabcb803d759f7f89</guid>
+<pubDate>Wed, 02 Sep 2026 13:57:32 GMT</pubDate>
 <description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>c7df9185fe2f7cf2f3bdb9621a13a8a433069da35c0f20bbc96e128254d332c9</guid>
-<pubDate>Wed, 02 Sep 2026 09:46:33 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
-</item>
-<item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>8e26102cbe6392393a86d5ce99726ffc4837d50f40335ff1d296faed35f5f8f6</guid>
-<pubDate>Wed, 02 Sep 2026 09:47:03 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>c254a66d8edc89e4d2b571cb5507a108cc6fea4106b644627ddc57680e789246</guid>
-<pubDate>Wed, 02 Sep 2026 09:47:06 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
