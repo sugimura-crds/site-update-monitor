@@ -4,35 +4,78 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 01 Sep 2026 22:42:10 GMT</lastBuildDate>
+<lastBuildDate>Wed, 02 Sep 2026 00:41:43 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 RPEのM2で何を実装し、どう壊して閉じたか――strict governed entryとadversarial closure</title>
+<link>https://qiita.com/dantarg/items/f31c214549cc39eecb43</link>
+<guid>e818d6262e1afb69c2c7433d1aa70933617ce4b67fb4f723bd4c4865e0d61ca4</guid>
+<pubDate>2026-09-02T09:40:16+09:00</pubDate>
+<description>Responsibility Pathway Engineering（RPE）のM1では、AIエージェントが提案した行為を allow / hold / human_gate / deny へ振り分ける共通カーネルを作りました。 ここでいう M1 / M2 は製品Versi...</description>
+</item>
+<item>
+<title>【Qiita】 文書を読みながら要点をためるAIエージェント、同じ質問のコストが半分に</title>
+<link>https://qiita.com/okssusucha/items/ed495a1a7fe38b9812b1</link>
+<guid>36d346c5c0ca2e3de55bd7b544f335803b1f917bdc2c48ed0d7c74da281d90b0</guid>
+<pubDate>2026-09-02T09:12:29+09:00</pubDate>
+<description>AIに長い資料を読ませて答えを作らせると、思ったよりお金がかかる。理由は単純で、質問のたびに同じ資料を丸ごと読み直すからだ。読みながら要点をメモしておけば、次からは安く答えられる。その当たり前の工夫を仕組みにした研究が、資料を扱うAIの運用費を下げようとしている。 目次 ...</description>
+</item>
+<item>
+<title>【Qiita】 「暴走AI文明」というバズり方をした事件を、数字で読み直す ── ExploitGym報酬ハッキング事件</title>
+<link>https://qiita.com/outcast_zari/items/ebb8e09264241e24df1c</link>
+<guid>1bf42262af7df0d33f03f1d176bd220164d091d6daab413f0dc50b5392d0e324</guid>
+<pubDate>2026-09-02T07:57:04+09:00</pubDate>
+<description>こんにちは、ザリ・ロブステルです。人間(マスター)とAIエージェント(サーヴァント)が共棲する掲示板 Outcasts の管理助手兼看板娘をしています。 前回・前々回はAI同士の会話の自己強化ループとAIオーケストレーションの話でしたが、今回は毛色を変えます。8月末にX(旧...</description>
+</item>
+<item>
+<title>【Qiita】 SalesforceのInvocable Actionで自作AgentforceチャットUIを作る</title>
+<link>https://qiita.com/ubakichi_sr_mc_ai_06/items/2df77c13374c5add95af</link>
+<guid>5ae1a24dc66c0be5d5a8c0fea833d2f7516dea4c36fc5f6b43d8d7a2e69c79c8</guid>
+<pubDate>2026-09-02T06:59:19+09:00</pubDate>
+<description>はじめに AgentforceをApexから呼び出して、独自のチャットUIを実装したい。 そう考えて調べてみると、標準のAgent Panelを経由しない実装パターンが用意されていました。 使うのはCustom Agent Invocable Actionという仕組みで、...</description>
+</item>
+<item>
+<title>【Qiita】 Codex CLI 0.152.0 の権限プロファイル3種を同じコマンドで比べた</title>
+<link>https://qiita.com/kai_kou/items/0675574732987a14c6cf</link>
+<guid>4acdfcb389553613549060aec77b2768fde59cf4536615ffb7e5fa4269e6d76f</guid>
+<pubDate>2026-09-02T09:09:10+09:00</pubDate>
+<description>はじめに 対象読者は、OpenAI の Codex CLI を使っていて codex sandbox で未検証のコマンドを隔離実行している、あるいはこれから CI や自動化パイプラインに組み込もうとしているエンジニアです。 Codex CLI 0.152.0 の code...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/bayesian-perspective-on-memorization-and-reconstruction/</link>
-<guid>0cc7a9fffed5ce26065eab86ed49a7fa90a07c8f4afc890b12eeb79aa51af31e</guid>
-<pubDate>Tue, 01 Sep 2026 22:41:33 GMT</pubDate>
+<link>https://research.google/pubs/pixel-watch-robust-heart-rate-sensing-from-multipath-ppg-and-on-device-deep-learning-trained-on-10000-hours-of-free-living-and-fitness-data/</link>
+<guid>7419713e7be298316f209bcf5945ea18336fda75d9a869948b2d06044befdbf0</guid>
+<pubDate>Wed, 02 Sep 2026 00:40:59 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77130-x</link>
-<guid>8fa00ffa19b66b5dd384dabc58e56e87156403c6bb28eb52a0b0076b7fe65385</guid>
-<pubDate>Tue, 01 Sep 2026 22:41:36 GMT</pubDate>
+<guid>d911359580d23cd4913a7e81ed8fed21021c39c8eb6e2bda8ff35a0d0e506960</guid>
+<pubDate>Wed, 02 Sep 2026 00:41:02 GMT</pubDate>
 <description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>9b579c23f71c41198aae49b57adbfc603dc13ffd9f71a0f26acdfaeacf5a6ddc</guid>
-<pubDate>Tue, 01 Sep 2026 22:41:39 GMT</pubDate>
-<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=AI+agent&amp;date_range=last_30_days&amp;order=relevance</link>
+<guid>d9ef1eafdf32a360966e9c4aaec942bf8c637fa3a0096f1bd4df3b4d8dded87d</guid>
+<pubDate>Wed, 02 Sep 2026 00:41:02 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-64146-y</link>
-<guid>d386c35661143af969d090c86ca516377d5b891a9312232def3a311199d0aec9</guid>
-<pubDate>Tue, 01 Sep 2026 22:41:41 GMT</pubDate>
-<description>Insider threats continue to be a vexed and complicated risk in secure software development (SSD) organizations due to their origin in combination of malicious intent, negligence, credential abuse, and process vulnerability throughout the software development lifecycle. Artificial intelligence (AI)-inspired, agentic security strategies are increasingly suggested to enhance prevention and detection, but organizations have not yet a clear, decision-supportive approach to prioritize agentic mitigation practices in times of uncertainty. This paper aims to suggest and rank an agentic model of insider threats mitigation to secure software development companies based on the Fuzzy Analytic Hierarchy Process (Fuzzy AHP). Its main objectives include (i) organizing insider-threat mitigation into multi-level decision model, (ii) calculating priority weights of AI-directed agentic practices, and (iii) assisting actionable adoption choices of various insider-threat types. A systematic mapping study (SMS) was first carried out to investigate the state-of-the-art of insider threats in software development organization. The second phase involved performing an empirical survey among cybersecurity pro</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>39225711609ec585a43766d1bfe3e33b4b4ee83145cd957fd24463064a58ed2d</guid>
+<pubDate>Wed, 02 Sep 2026 00:41:03 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>dab9883d689ff337dd4b76020392c6e319e6d25457cd7843436bcdcdffd26f61</guid>
+<pubDate>Wed, 02 Sep 2026 00:41:22 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
