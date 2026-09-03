@@ -4,112 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 03 Sep 2026 09:59:30 GMT</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 14:11:33 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 企業様に呼ばれて、1時間Copilotについて登壇してきました</title>
-<link>https://qiita.com/sadabon444/items/1fd4d4ef522f5b5d88f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>dfe65f717cdd628ca97db66a9e791e567a9b93860197d6dba431ecf394e56d37</guid>
-<pubDate>2026-09-01T10:45:24+09:00</pubDate>
-<description>企業様に呼ばれて、1時間Copilotについて登壇してきました。 この記事で扱うCopilotは、企業向けのものを指します。 具体的には、M365を導入している企業において利用できる以下を対象とします: Microsoft 365 Copilot（有料アドオンライセ...</description>
+<title>【Qiita】 Claude CodeのSessionStart Hookで起動ログを残す — AIエージェントの自動処理を10分で体験する</title>
+<link>https://qiita.com/akira_papa_AI/items/09959e0a7a3d8348c194</link>
+<guid>e269516e55439943410fb9c57a472eb7eeed044664572dc04e3c69c58fd093a4</guid>
+<pubDate>2026-09-03T22:31:11+09:00</pubDate>
+<description>Claude Codeを起動するだけで、次の1行がログへ増えるようにします。 started この記事で扱うのは、Claude Codeの SessionStart Hook だけです。通知、コード整形、コマンド制限など、ほかのHook機能は扱いません。 ゴールは、練習用...</description>
 </item>
 <item>
-<title>【Qiita】 ネットワークフロー理論における「最小カット問題」の考え方を総整理！ 〜 カットの理論から現実への応用例まで 〜</title>
-<link>https://qiita.com/drken/items/52aafd8c073b37749539?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>4908057e257287c6f46be1b08993f6cfcbe9580041c2c037b2d5fc50127701d2</guid>
-<pubDate>2026-09-02T20:26:46+09:00</pubDate>
-<description>お久しぶりです！ NTT データ数理システムで顧問をしている大槻（けんちょん）です。好きなアルゴリズムは最小カットです。 今回は、競技プログラミングの世界で「燃やす埋める」という愛称で親しまれている問題について書きます。「$i$ 番目を選ぶならば $j$ 番目も選ばないとペ...</description>
+<title>【Qiita】 「同じ人らしさ」を守るために、最初に書くメモ</title>
+<link>https://qiita.com/Diiiii/items/9827cb70c43abbf28784</link>
+<guid>92e93507abeba2c6593cfdf3ee094d0775ad68ec9a8b43b5ccfd52d3bbd46197</guid>
+<pubDate>2026-09-03T20:50:16+09:00</pubDate>
+<description>AIで人物のビジュアルを作るとき、私は「どんな顔にするか」より前に、ひとつだけ文章を書いておくとよいと思っています。 その人は、誰のどんな迷いを軽くするためにいるのか。 見た目の一貫性は、表現を狭めるためではなく、受け手が安心して文脈を読めるようにするためのもの。 顔よ...</description>
 </item>
 <item>
-<title>【Qiita】 SPSS Modelerで始める店舗別需要予測 ── 時系列モデル</title>
-<link>https://qiita.com/spssfun2017/items/00387495d20ebc98148c</link>
-<guid>0abf571976db7b912638201ba86107ac771cec52d4c053992a3a6c74ba925636</guid>
-<pubDate>2026-09-03T16:22:41+09:00</pubDate>
-<description>POSデータとカレンダー情報（祝日・販促・長期休暇フラグ）を組み合わせ、店舗ごとの日次出荷数を3日先まで予測するストリームを構築します。データ読み込みからグラフ可視化まで一気通貫で完成させます。 稼働確認環境 Modeler 19.0 Windows 11 デー...</description>
+<title>【Qiita】 1票を持つAIは、審査対象ブランチから指示を読む。GitHub Copilot承認機能の設計と落とし穴</title>
+<link>https://qiita.com/emi_ndk/items/675894eca29351303b35</link>
+<guid>3b0a19b8a22c54d26fa127cb64ea7aa90d84e2879a4088d5a7d0a3ebb26589c6</guid>
+<pubDate>2026-09-03T19:46:34+09:00</pubDate>
+<description>AIレビューは、ついに「参考意見」ではなく、マージを成立させる1票になった。 ところがそのAIは、審査対象であるhead branchからレビュー指示とスキルを読む。 2026年9月1日のGitHub Copilot Code Review更新は、レビュー自動化よりも重要な...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Bob＋MCP＋スキルでSPSS Modelerストリームを自動生成</title>
-<link>https://qiita.com/spssfun2017/items/09df222094a34035b04a</link>
-<guid>e7248812cece8c73d80248b7f289a3b4c0d72b98b82a0e482b675055d2b432f6</guid>
-<pubDate>2026-09-03T16:17:00+09:00</pubDate>
-<description>IBM Bob＋MCP＋スキルでSPSS Modelerストリームを自動生成 はじめに IBM Bob（IBM の AI コーディングアシスタント）を使って、SPSS Modeler のストリームを自動作成してみました。 SPSS Modeler は通常、ノードをGUI...</description>
-</item>
-<item>
-<title>【Qiita】 AIを触り始めて3日で24時間動くものを作った ― そして8回間違えた</title>
-<link>https://qiita.com/manabu49-ai/items/acd01b13abe9c8cbea16</link>
-<guid>fc6adeb916ab679065fca8b428d5083baaebdaf477ca6c752db51b9a29eaad1d</guid>
-<pubDate>2026-09-03T15:26:36+09:00</pubDate>
-<description>私はAIの専門家ではありません。 3日前まで、エージェントという言葉の意味もよく分かっていませんでした。それでも、複数のAIに仕事を分担させて24時間動かす構成を作ることはできました。 そして、3日間で8回、自分の間違いを訂正しました。 この記事は、うまくいった話ではありま...</description>
-</item>
-<item>
-<title>【Qiita】 RAGの正答率だけでは足りない。問い合わせAIを「検索・回答・実行・引き継ぎ」で評価する</title>
-<link>https://qiita.com/Udesk/items/f4cb2b87e805817305be</link>
-<guid>aff5d0116f45e702a4fd784cd8764fc2d056ec30f3f2de80934025b3d296c438</guid>
-<pubDate>2026-09-03T15:24:22+09:00</pubDate>
-<description>「昨日キャンセルしたのに、まだ発送通知が来ています」 この問い合わせに対して、AIが「キャンセルは受け付け済みです。発送通知はシステム反映前に送信された可能性があります」と答えたとします。文章は自然で、顧客の不安にも答えているように見えます。 しかし、最終回答だけではシステ...</description>
-</item>
-<item>
-<title>【Qiita】 メンバー評価を複数の視点でチェックする 評価用のエージェントSkill設定</title>
-<link>https://qiita.com/jof-fumi/items/16c72694a991c0855564</link>
-<guid>4d5e1c5fa535977c5d260397e99accfe52be216ad6469f0df9617b2c1b984c8d</guid>
-<pubDate>2026-09-03T15:00:36+09:00</pubDate>
-<description>皆さん、評価していますか？ 株式会社よりそうにてエンジニアリングマネージャーをしております、jofと申します。 マネージャーとなって、はや一年。メンバーに対する評価なるものに、毎回毎回、神経をすり減らしております。 幸い、私がマネージャーという立場で評価をするようになったと...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントを使うエンジニアが面談で伝えるべき「自分の判断」5つ</title>
-<link>https://qiita.com/SunSunTech/items/30006235a5cea5ec76c8</link>
-<guid>e9c360b4947d64ffc7a82958d3d0ab512cc202b9f96dcbb9ff7c42eaf7d09f7a</guid>
-<pubDate>2026-09-03T14:55:42+09:00</pubDate>
-<description>生成AIやAIエージェントを使って実装することは、すでに特別なスキルではなくなりつつあります。 ただし、フリーランスやSESの案件面談で「AIを使っています」とだけ伝えても、評価にはつながりにくいものです。発注側が知りたいのは、コードを早く出せるかだけではありません。曖...</description>
-</item>
-<item>
-<title>【Qiita】 Rust製MCPサーバーをcargoに繋いだら、ツール定義だけで66KB消えた</title>
-<link>https://qiita.com/kai_kou/items/b6159e7189a539c157ad</link>
-<guid>3a293bbbc85f05451472920b0d545863b02b5cfd81a00c75685637a515c6bb17</guid>
-<pubDate>2026-09-03T16:08:59+09:00</pubDate>
-<description>TL;DR rust-mcp-server v0.4.1 を cargo install して、MCP の stdio トランスポートに素の JSON-RPC で直接つなぎ、33 個のツールを実測しました tools/list の応答は 65,934 バイト。ツール...</description>
+<title>【自動自律実験】 Immune therapy engineered inside the body eases multiple sclerosis</title>
+<link>https://www.nature.com/articles/d41586-026-02765-1</link>
+<guid>d0fe95e8586b4339cf537a005881c299f7b99f5482b7b73318fc559c3072e9cb</guid>
+<pubDate>2026-09-03</pubDate>
+<description>Results from a small trial suggest a modified virus can instruct the immune system to wipe out disease-causing cells.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/reinforcement-learning-with-discrete-diffusion-policies-for-combinatorial-action-spaces/</link>
-<guid>c73605e118706e2c37b1bf161570b650d933266dc3f0c625950b5ba565d0f38d</guid>
-<pubDate>Thu, 03 Sep 2026 09:58:52 GMT</pubDate>
+<link>https://research.google/pubs/llm-powered-analysis-of-iot-user-reviews-tracking-and-ranking-security-and-privacy-concerns/</link>
+<guid>09b2ec6a01fa951c1812e77519e304287bb18f876828e549ece8084ff811a9e2</guid>
+<pubDate>Thu, 03 Sep 2026 14:10:30 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>cc1b9793536e45b80e4785caa4549bc21c714de65419f4971ffcc83312e4f055</guid>
-<pubDate>Thu, 03 Sep 2026 09:58:54 GMT</pubDate>
-<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>9103beb230de15704fb42bfc5afa6ad3310b3d21a60baf67af4152c2b019f1f4</guid>
-<pubDate>Thu, 03 Sep 2026 09:58:56 GMT</pubDate>
-<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>435aef03d4cff87ce248503c305ad31bc88bb8eb6f5f1a86d07fae45abd6534c</guid>
-<pubDate>Thu, 03 Sep 2026 09:59:00 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
-</item>
-<item>
-<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
-<link>https://www.eurohpc-ju.europa.eu/index_en</link>
-<guid>ebf495eb64d51e7c188a79a149785267a93aefe9b20e505c03ed573cf0a661cb</guid>
-<pubDate>Thu, 03 Sep 2026 09:59:02 GMT</pubDate>
-<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
-</item>
-<item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>f2c009a1a7093e6fc19ef335d667adda9018778bae48a108e365829a2ada4fc5</guid>
-<pubDate>Thu, 03 Sep 2026 09:59:18 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+<link>https://www.nature.com/articles/s41467-026-77130-x</link>
+<guid>7c0a26dfb5dd3ba018c7d80c2c6880b292068d240693ac6fc3b36a3ece961b7c</guid>
+<pubDate>Thu, 03 Sep 2026 14:10:33 GMT</pubDate>
+<description>Current artificial intelligence systems for leukemia detection typically rely on costly whole-slide scanners, limiting accessibility in low-resource settings. We present ALLocate, a low-cost, artificial intelligence-powered microscope plugin that enables self-driving microscopy for leukemia detection. ALLocate attaches directly to conventional microscopes and provides automated analysis at a fraction of the cost of a whole-slide scanner. We evaluate its robustness at three levels: region-of-interest identification, cell detection, and end-to-end slide-level diagnosis. The system is trained and evaluated using more than 11,000 annotated regions and 130,000 annotated cells and is further validated using independent multi-institutional cohorts, including 165 physical bone marrow smear slides. ALLocate achieves an area under the receiver operating characteristic curve greater than 0.99 for region-of-interest identification, a mean average precision at 50% intersection over union of 0.90 for cell detection, and 88% accuracy for slide-level diagnosis on glass slides without requiring a whole-slide scanner. These results suggest that ALLocate provides an accurate, generalizable, and cost-</description>
 </item>
 
 </channel>
