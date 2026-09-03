@@ -4,64 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 03 Sep 2026 00:52:39 GMT</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 05:21:36 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIにインフラ構築からデバッグまで任せたら、分散トレースPoCが1日で終わった</title>
-<link>https://qiita.com/shungineer/items/b9bc29823af329f93bea</link>
-<guid>becbf8a8ac91e09951a43a9f6426e861f94ab15a401d7c0dddb4368c41c6ca04</guid>
-<pubDate>2026-09-03T08:49:34+09:00</pubDate>
-<description>マイクロサービスの可視化において、分散トレースは強力な武器です。しかし、いざ共通プラットフォームに分散トレースを導入しようとすると、自動計装の裏に潜む「サンプリング仕様の不整合」や「通信経路上のセキュリティ制限」といった厄介なトイル（手作業の繰り返しや検証の壁）が立ちはだか...</description>
+<title>【Qiita】 AI エージェントに開発マシンの鍵を渡していいのか。借り物のサンドボックスを実測して、9 案を比べた</title>
+<link>https://qiita.com/ishizakahiroshi/items/52030bd9ae36f77124a7</link>
+<guid>87ff7631dade781d4f37b5972409a246aa2cee772e450cae09ca173fc2a14c87</guid>
+<pubDate>2026-09-03T13:28:42+09:00</pubDate>
+<description>忙しい人向け（AI 音声解説・24 分） この記事の音声版を NotebookLM で作りました。移動中・作業中の &quot;ながら聴き&quot; にどうぞ。 主題: 借りているサンドボックスと、自分の開発マシン。境界はどこにあるのか 先に結論だけ置きます。 AI エージェン...</description>
 </item>
 <item>
-<title>【Qiita】 Anthropic がコマース用エージェントをオープンソース化した</title>
-<link>https://qiita.com/suwa_nobu/items/1c0f27da8eb685f6ba05</link>
-<guid>ec391d36ddf047a138c9bc64b70c50930c88e9728670c697568e8011c53b695a</guid>
-<pubDate>2026-09-03T08:39:19+09:00</pubDate>
-<description>9月2日、Anthropic が anthropics/commerce-agents を公開しました。Apache 2.0 です。 「Claude でショッピングエージェントを作るときの参考実装」で、動くコードがそのまま入っています。 何が入っているのかを整理します。 ...</description>
+<title>【Qiita】 長時間AIエージェントの記憶を「要約」だけに任せない──Self-GCが示すコンテキストのライフサイクル管理</title>
+<link>https://qiita.com/mhamadajp/items/ac678c4bfe7a482d113e</link>
+<guid>6799a18f2fe820dad55fd8c4268ce27bfc7b1ac84f0eb57cdf24ef08519bb1ae</guid>
+<pubDate>2026-09-03T12:31:09+09:00</pubDate>
+<description>長時間動くAIエージェントは、会話だけを覚えているわけではない。検索で見つけたURL、ツール実行の結果、編集したファイルのパス、ユーザーが途中で加えた修正指示、失敗から得た原因、再開に必要なハンドルなどを抱え込む。 この履歴が長くなると、入力トークンの費用と応答遅延が増える...</description>
 </item>
 <item>
-<title>【Qiita】 AutoGenesisで継続的に実行できるテスト資産を作る</title>
-<link>https://qiita.com/nakasho-dev/items/ad4b2c66100d4d3e4e52</link>
-<guid>dec66f85ddd51c2faf803a6d245d79d313637a2bc8499f11c23747792e4ded7d</guid>
-<pubDate>2026-09-03T08:35:01+09:00</pubDate>
-<description>モバイルアプリのE2Eテストでは、テストケースを考えること以上に、AndroidとiOSそれぞれの操作コードを書く作業に時間を取られます。 今回作った検証アプリでも、確認したいログインフローは同じなのに、AndroidではUiAutomator2、iOSではXCUITest...</description>
+<title>【Qiita】 Sentinel × Microsoft Foundry Hosted Agentで「アラート疲れ」しないSOCトリアージ自動化基盤を作った話</title>
+<link>https://qiita.com/shahin0809/items/f0b7be9fe686763a5aba</link>
+<guid>1c066782ae83b6ddf78325560d1a6c4aaf209413c9e6b2c06bf4210cce34b115</guid>
+<pubDate>2026-09-03T11:21:48+09:00</pubDate>
+<description>はじめに こんにちは！Microsoft Student Ambassador として活動しながら、最近は SOC 領域のAIエージェントにどっぷりハマっているロホマン シャヒンです！ 情報学部2年・20歳で、普段はこんな感じで動いています。 Microsoft Stu...</description>
 </item>
 <item>
-<title>【Qiita】 LangGraphのDeltaChannel、400ターンでチェックポイントが77倍の差</title>
-<link>https://qiita.com/kai_kou/items/2520927f5dbc1a31e231</link>
-<guid>5066f64ab16b8b7b1cc68553150554f70442f6f65d159cf10221d0d42cca8da9</guid>
-<pubDate>2026-09-03T09:08:59+09:00</pubDate>
-<description>はじめに LangGraph でチェックポイントを有効にしたまま長いスレッドを回すと、保存されるデータ量がターン数の二乗で増えていきます。会話履歴を state に貯めるエージェントなら、100 ターン目のチェックポイントは 100 ターン分の履歴を丸ごと書き直しているか...</description>
+<title>【Qiita】 【第3部】AI開発オーケストレーターを作った話</title>
+<link>https://qiita.com/Yo19920508/items/8fea0711f05a55748ee2</link>
+<guid>ae5f8396da63a7241a461ecf3e3fd36d77cfb63b3bbd6ba1a91a503c9113355e</guid>
+<pubDate>2026-09-03T11:10:35+09:00</pubDate>
+<description>はじめに どうも、@Yo19920508です。 第2部では、 Claude Code、Codex、Geminiにそれぞれ役割を持たせて、AI開発チームとして動かす という話を書きました。 Claude Codeが実装。 Codexが厳しめレビュー。 Geminiが別視...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/expert-evaluation-of-llm-world-models-a-high-tc-superconductivity-case-study/</link>
-<guid>e717ecf36e37238ceca34a9e9030c7638e985a608715dd605d8356f642acd0b6</guid>
-<pubDate>Thu, 03 Sep 2026 00:51:48 GMT</pubDate>
+<link>https://research.google/pubs/developer-productivity-in-the-age-of-generative-ai-a-psychological-perspective/</link>
+<guid>dcbfc78a1b074c5647570e4332ff36309221773cbce7ed8f39dffdad1c614148</guid>
+<pubDate>Thu, 03 Sep 2026 05:20:58 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>70838606d99a366db4aa3240ca123ce71187fe3766ac9bcd0fadd7d999a92cd5</guid>
-<pubDate>Thu, 03 Sep 2026 00:51:53 GMT</pubDate>
+<guid>681c8ae34b0c828b43dc9a0432141367bacd6165bdfd255a2a4ef3aef4bec1c3</guid>
+<pubDate>Thu, 03 Sep 2026 05:21:00 GMT</pubDate>
 <description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>f0f5bf0b62d9b0f4968a077bacbd256e9c700beb0a77610b48110afa54614670</guid>
-<pubDate>Thu, 03 Sep 2026 00:51:55 GMT</pubDate>
+<guid>7b0c5982f7336c47df73e4b18b5adbabbcc9bb035c6756ea567a00bb77722cf0</guid>
+<pubDate>Thu, 03 Sep 2026 05:21:02 GMT</pubDate>
 <description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>132cefb84b5abcf20ebce8722584ee0eef5d1e882278f0e2980cc766d97738f4</guid>
-<pubDate>Thu, 03 Sep 2026 00:52:22 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
