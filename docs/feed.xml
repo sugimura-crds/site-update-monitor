@@ -4,56 +4,64 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 02 Sep 2026 22:44:28 GMT</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 00:52:39 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Qiitaで何が読まれるかを3,478本から探した ― 106通り掃いて、残ったのは6つだけだった</title>
-<link>https://qiita.com/manabu49-ai/items/d78a5aeaecf8d7f3f20b</link>
-<guid>0e5521437873d5271ea76b765274d8d5d0db3c90d44a602087f408efd8ebfda8</guid>
-<pubDate>2026-09-03T07:31:38+09:00</pubDate>
-<description>自分の記事が読まれなかったので、Qiita の記事3,478本を集めて、何が読まれる記事の特徴なのかを数えました。 先に結論から書きます。 掃いたセル 106 ヌル較正・多重補正・時期分割を通過 **6** **100通り試せば、効果がゼロでも「有意」は...</description>
+<title>【Qiita】 AIにインフラ構築からデバッグまで任せたら、分散トレースPoCが1日で終わった</title>
+<link>https://qiita.com/shungineer/items/b9bc29823af329f93bea</link>
+<guid>becbf8a8ac91e09951a43a9f6426e861f94ab15a401d7c0dddb4368c41c6ca04</guid>
+<pubDate>2026-09-03T08:49:34+09:00</pubDate>
+<description>マイクロサービスの可視化において、分散トレースは強力な武器です。しかし、いざ共通プラットフォームに分散トレースを導入しようとすると、自動計装の裏に潜む「サンプリング仕様の不整合」や「通信経路上のセキュリティ制限」といった厄介なトイル（手作業の繰り返しや検証の壁）が立ちはだか...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code v2.1.258｜macOS 12 で起動できない退行が直る｜毎日Changelog解説</title>
-<link>https://qiita.com/moha0918_/items/9cdc566dadb9a8e30e1a</link>
-<guid>f8228855d51a887550f2d90646f60116f1eece9a6ba32fd2cd978c9471c01716</guid>
-<pubDate>2026-09-03T07:04:48+09:00</pubDate>
-<description>Claude Codeの公式Changelogをリリースから最速で翻訳・解説しています。 macOS 12 (Monterey) で Claude Code が起動できない退行が v2.1.258 で直りました。壊れたのは v2.1.255。あわせて、リモート / ...</description>
+<title>【Qiita】 Anthropic がコマース用エージェントをオープンソース化した</title>
+<link>https://qiita.com/suwa_nobu/items/1c0f27da8eb685f6ba05</link>
+<guid>ec391d36ddf047a138c9bc64b70c50930c88e9728670c697568e8011c53b695a</guid>
+<pubDate>2026-09-03T08:39:19+09:00</pubDate>
+<description>9月2日、Anthropic が anthropics/commerce-agents を公開しました。Apache 2.0 です。 「Claude でショッピングエージェントを作るときの参考実装」で、動くコードがそのまま入っています。 何が入っているのかを整理します。 ...</description>
 </item>
 <item>
-<title>【Qiita】 MCP vs. API（REST・SOAP・GraphQL・gRPC）どれが使える？ 日本の業務システム 56 件を調べてみた</title>
-<link>https://qiita.com/songchong/items/64a8710cffb39963c2b3</link>
-<guid>442f85859b8ba13d693eda878192d63a208e58e5691cfb12703f26527de8ad5f</guid>
-<pubDate>2026-09-03T04:42:43+09:00</pubDate>
-<description>＜空想の中小企業の話＞ 経理から：「CRM とクラウド会計の取引先、連携できないの？」 → IT担当：「調べてみます。」 社長から：「AI エージェントにデータ分析してもらえないかい？」 → IT担当：「調べてみます。」 総務から：「クラウドや AI にデータが流れて、セキ...</description>
+<title>【Qiita】 AutoGenesisで継続的に実行できるテスト資産を作る</title>
+<link>https://qiita.com/nakasho-dev/items/ad4b2c66100d4d3e4e52</link>
+<guid>dec66f85ddd51c2faf803a6d245d79d313637a2bc8499f11c23747792e4ded7d</guid>
+<pubDate>2026-09-03T08:35:01+09:00</pubDate>
+<description>モバイルアプリのE2Eテストでは、テストケースを考えること以上に、AndroidとiOSそれぞれの操作コードを書く作業に時間を取られます。 今回作った検証アプリでも、確認したいログインフローは同じなのに、AndroidではUiAutomator2、iOSではXCUITest...</description>
+</item>
+<item>
+<title>【Qiita】 LangGraphのDeltaChannel、400ターンでチェックポイントが77倍の差</title>
+<link>https://qiita.com/kai_kou/items/2520927f5dbc1a31e231</link>
+<guid>5066f64ab16b8b7b1cc68553150554f70442f6f65d159cf10221d0d42cca8da9</guid>
+<pubDate>2026-09-03T09:08:59+09:00</pubDate>
+<description>はじめに LangGraph でチェックポイントを有効にしたまま長いスレッドを回すと、保存されるデータ量がターン数の二乗で増えていきます。会話履歴を state に貯めるエージェントなら、100 ターン目のチェックポイントは 100 ターン分の履歴を丸ごと書き直しているか...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/multi-agent-system-for-cognitive-work-automation-using-an-adversarial-review-panel/</link>
-<guid>b41792fbe91e3adbc8c6bb883db1476f148f69d7a17f51a9312f9477c39a99b7</guid>
-<pubDate>Wed, 02 Sep 2026 22:43:49 GMT</pubDate>
+<link>https://research.google/pubs/expert-evaluation-of-llm-world-models-a-high-tc-superconductivity-case-study/</link>
+<guid>e717ecf36e37238ceca34a9e9030c7638e985a608715dd605d8356f642acd0b6</guid>
+<pubDate>Thu, 03 Sep 2026 00:51:48 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>909c9e0ca7c49d5b46eaafdf3b918bc642a9070cc7d771cb1ef8c02299f6b2bf</guid>
-<pubDate>Wed, 02 Sep 2026 22:43:52 GMT</pubDate>
+<guid>70838606d99a366db4aa3240ca123ce71187fe3766ac9bcd0fadd7d999a92cd5</guid>
+<pubDate>Thu, 03 Sep 2026 00:51:53 GMT</pubDate>
 <description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>b7cbc1c6d674a55ab00c76133aa22598ce889790c71071b584d9f9aad307e169</guid>
-<pubDate>Wed, 02 Sep 2026 22:43:55 GMT</pubDate>
+<guid>f0f5bf0b62d9b0f4968a077bacbd256e9c700beb0a77610b48110afa54614670</guid>
+<pubDate>Thu, 03 Sep 2026 00:51:55 GMT</pubDate>
 <description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>add61b35b59c02ee1750de92fa9825ce268ebdb2bc450f35146c3c2ec2a12290</guid>
-<pubDate>Wed, 02 Sep 2026 22:44:00 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>132cefb84b5abcf20ebce8722584ee0eef5d1e882278f0e2980cc766d97738f4</guid>
+<pubDate>Thu, 03 Sep 2026 00:52:22 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
