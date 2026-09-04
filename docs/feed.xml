@@ -4,63 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 03 Sep 2026 22:41:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 00:32:47 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Codeのモデル切り替えで書き直しが急増する理由</title>
-<link>https://qiita.com/syun136_616/items/96ce74dc54cfb63a7089</link>
-<guid>5be22a52eff7ae51ba15f1a025a2b65e4e69c659422bade79471b8551603c1c3</guid>
-<pubDate>2026-09-04T07:32:17+09:00</pubDate>
-<description>この記事の要点 Claude Codeでセッション中に /model でモデルを切り替えると、キャッシュが引き継がれず直後のターンだけ入力トークンが全量再計算されます。 キャッシュはモデルごとに分かれているため、切り替え直後のターンはキャッシュ読み取りの割引（通常価格の約...</description>
-</item>
-<item>
-<title>【Qiita】 生成AIは、業務効率化ツールではなく組織変革のエンジンである</title>
-<link>https://qiita.com/mhamadajp/items/9c61a4116836dd9abe31</link>
-<guid>b2f7b5a68b1f72007d7fbbd7f2a82f480fd131391e76dc896f0e03281b3996a7</guid>
-<pubDate>2026-09-04T05:29:33+09:00</pubDate>
-<description>村田製作所の挑戦から考える「知の循環」とAIエージェント時代の組織設計 生成AIの企業導入では、議事録、要約、資料作成、情報検索といった業務効率化が注目されやすい。これらは重要な出発点である。 しかし、生成AIやAIエージェントの本当の可能性は、個人の作業時間を削減するこ...</description>
-</item>
-<item>
-<title>【農業】 FAO calls for systemic action to advance generational renewal in rural areas</title>
-<link>https://www.fao.org/newsroom/detail/fao-calls-for-systemic-action-to-advance-generational-renewal-in-rural-areas/en</link>
-<guid>f5f6daffc61c964dc7fd952ac5e16e34b8ce2018ce3e282d2dbb736110512596</guid>
-<pubDate>Thu, 03 Sep 2026 12:00:00 Z</pubDate>
-<description></description>
+<title>【Qiita】 GPT-6 Astra、ARC-AGI-3で99.9%──なぜこれから「プロンプト」より「エージェントアーキテクチャ」が重要になるのか</title>
+<link>https://qiita.com/TakanobuSano/items/5647f4c68d4fe96f42bc</link>
+<guid>fa1d406775237ceda7de431e7f4f15e91d9ad373b14749bf04e4eab1ee2945da</guid>
+<pubDate>2026-09-04T09:17:33+09:00</pubDate>
+<description>「GPT-6 Astraが、ARC-AGI-3で99.9%を出したらしい」 「99.9%？」 「そう」 「ほぼ100%じゃないですか。ということは、AGIが完成したんですか？」 「いや。そこまで単純ではない」 「では、何がすごいんですか？」 「実は99.9%より、もっと注目...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/quantum-state-preparation-with-optimal-t-count/</link>
-<guid>622ae077723f60c9073690ccec0bddaa319f0cd25a1580b350e6ddebb3cf3bed</guid>
-<pubDate>Thu, 03 Sep 2026 22:40:41 GMT</pubDate>
+<link>https://research.google/pubs/its-still-abuse-community-attitudes-and-perceptions-on-ai-generated-image-based-sexual-abuse/</link>
+<guid>b9d05887b0b01ea2052d1ffbe4af24991a81a05f22d1bcde2a5a42baac9bc8f9</guid>
+<pubDate>Fri, 04 Sep 2026 00:31:51 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=AI+for+Science&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>36d1dbb367ab923a3dd1a71fe1026b47488cf929ac23b30e9acf9025dce7471c</guid>
-<pubDate>Thu, 03 Sep 2026 22:40:42 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-69355-z</link>
+<guid>519fc5abc2edf0620e30ae07db6a128cb796aa8c3d695a46a5f515f66aadf60a</guid>
+<pubDate>Fri, 04 Sep 2026 00:31:55 GMT</pubDate>
+<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=AI+agent&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>a9f00a03d99609ab96f49ec233d8a05c0de628762a7c36a7696fefdd7eb42619</guid>
-<pubDate>Thu, 03 Sep 2026 22:40:43 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>0004b7989db6cae7332431d218ba200b655cc4b3ddec6e818b7d581312f2342a</guid>
+<pubDate>Fri, 04 Sep 2026 00:31:58 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 <item>
 <title>【U.S.】 Latest Press Releases</title>
 <link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>684c52a3a68a12332a899b3e2f323b7e8565b6ca28fef324d3fc1e812a3d56d9</guid>
-<pubDate>Thu, 03 Sep 2026 22:40:46 GMT</pubDate>
+<guid>c9c17b8474e2f207be069847c32c4bfc4c230b071703de27f8f6fd9180376614</guid>
+<pubDate>Fri, 04 Sep 2026 00:32:18 GMT</pubDate>
 <description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>ba4cf198ec8c6e3422006127ffbf108a54085bde969b14a8f371a13832f6fbc3</guid>
-<pubDate>Thu, 03 Sep 2026 22:41:09 GMT</pubDate>
+<guid>bfc9780623bc3db3402d78a7b6e952b965ffc642ac8b93e716dd7d0ca6bba2f9</guid>
+<pubDate>Fri, 04 Sep 2026 00:32:28 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
