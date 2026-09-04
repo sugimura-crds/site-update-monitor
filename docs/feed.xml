@@ -4,84 +4,71 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 04 Sep 2026 09:47:55 GMT</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 13:53:19 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IT面接で職務経歴書で見ているのは「すごい実績」だけではありません</title>
-<link>https://qiita.com/m__ikeda/items/c8705ed320aa15dc9db0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>7d5fb1fc95cdeffbe2d9c73747af158f82f45c84c2f309dce569bb772f2be365</guid>
-<pubDate>2026-09-04T11:56:14+09:00</pubDate>
-<description>自己紹介 こんにちは。株式会社PRUMで採用広報を担当している池田です。 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊 もしIT業界に興味があるけど、...</description>
+<title>【Qiita】 Claude Codeの /rewind でREADMEを元に戻す — AIの編集を10分で取り消す</title>
+<link>https://qiita.com/akira_papa_AI/items/15aababaae9020e983ff</link>
+<guid>a9d123d2b60d9de1b6a7661816d1dc848fd02f147fe412bf39cbaccdb9accf41</guid>
+<pubDate>2026-09-04T22:29:42+09:00</pubDate>
+<description>AIエージェントにファイルを編集してもらいたい。でも、思った結果と違ったときに戻せないのはちょっと怖い。 最初は、ここで手が止まりやすいんですよね。 Claude Codeには、AIが行ったファイル編集をセッション内の以前の状態へ戻す チェックポイント があります。今回は機...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code のキャッシュ、ツールを使ったターンだけ乗るようになった</title>
-<link>https://qiita.com/suwa_nobu/items/3a135f5db9d53257a9e4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>745ba3138528adee25087361aff955ed1f3beb77e32b89abd1d1fe67058a15a7</guid>
-<pubDate>2026-09-04T10:33:35+09:00</pubDate>
-<description>9月2日に、Claude Fable 5.1 が2ターン目のキャッシュに乗ったり乗らなかったりすると書きました。18回測って13回外れ、原因は分かりませんでした。 翌9月3日の 2.1.260 に、Fable 5.1 のキャッシュ修正が3件入りました。測り直したらこうなりま...</description>
+<title>【Qiita】 AIエージェントの「できました」を12回ぜんぶ確かめた ― 的中率82%、そして私の検証自体が2回間違っていた</title>
+<link>https://qiita.com/manabu49-ai/items/c55d35b493e38fcec241</link>
+<guid>a9f8ce0413257c1fd8632130abbe75a8b5408f1c12dec7f42ca881fd781a5c71</guid>
+<pubDate>2026-09-04T20:36:29+09:00</pubDate>
+<description>AIエージェントを常時動かしていると、こういう報告が毎日かえってきます。 「対処しました」 「公開しました」 「修正済みです」 これがどれくらい本当なのか、私は数えていませんでした。 この記事は、数え始めた話です。結論を先に書くと、一番壊れていたのはエージェントではなく、...</description>
 </item>
 <item>
-<title>【Qiita】 トークン課金を気にせず生成AIを使いたい！OpenAI互換APIで“社内生成AI”を構築できるOracle Private AI Services Containerを試してみた</title>
-<link>https://qiita.com/ssfujita/items/1b902f20dfc2c64ad44f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>703b3c86601fe8f7949ea3bbd2e437f71dcf5881b9f816ccea208b79faa50ea1</guid>
-<pubDate>2026-09-03T17:14:41+09:00</pubDate>
-<description>生成AIを業務システムに組み込みたい一方で、「機密データを外部AIサービスに送れない」「閉域環境でLLMを動かしたい」「APIのトークン料金を気にせず使いたい」といった課題があります。 Oracle Private AI Services Containerは、こうしたニー...</description>
+<title>【Qiita】 メルカリの設計記事を自分の .claude/ に当ててみた 〜「軸」と「心構え」は点検に使えない 〜</title>
+<link>https://qiita.com/MOZK_SEA/items/98a7f8a1ee34f9e4cdc3</link>
+<guid>f309d89a8edca9b1703dd7fcf9b5aceb3263e8b426a6ec85a5cb8376259e898f</guid>
+<pubDate>2026-09-04T20:23:07+09:00</pubDate>
+<description>AIエージェント設計の記事を読んで、「なるほど」で終わってしまうことがよくあります。読んだ内容で自分の構成を実際に点検しようとすると、そもそも点検項目にならない主張が混ざっていることに気づきます。 メルカリの NFT事業でのAI-Native開発の記事（2026-06-30...</description>
 </item>
 <item>
-<title>【Qiita】 GPTを入口にしたiOSアプリ開発の記録 Ashiato Map 2.0と「YAMATO」</title>
-<link>https://qiita.com/sakumori/items/090b860510ef200996ca</link>
-<guid>d97e9295cceefcea0ff97a5e49928e03388523955914bde3a5a01d092a59a4d3</guid>
-<pubDate>2026-09-04T18:44:04+09:00</pubDate>
-<description>「YAMATO」という仕組みを使い、iPhoneアプリ「Ashiato Map」のVersion 2.0を開発しました。現在はTestFlightで動作を確認できるところまで進んでいます。 Ashiato Mapは、私が公開している「記 -Shirushi-」のチェックイン...</description>
+<title>【Qiita】 プロジェクトのスケジュールをProject Schedulerで調整し、タスクをBacklogで管理する</title>
+<link>https://qiita.com/hideki/items/624d2bf36b1fd2d6d72e</link>
+<guid>2006f999e269ad453c7223c720442ad8cbb3b6e0eb5991436de335514169fdb5</guid>
+<pubDate>2026-09-04T20:22:51+09:00</pubDate>
+<description>プロジェクト管理ツールとして有名な Backlog 用のCLIツールとして bee がリリースされました。CLIツールは単独で使っても便利ですが、最近はAIエージェントから利用することを想定しており、ご多分に漏れずbeeもAIエージェント用のSkillを提供しています。 今...</description>
 </item>
 <item>
-<title>【Qiita】 Kiro（AWSのAIエージェント）のセッション保存構造を調べてみた ── ローカルJSONからサーバー側管理への移行まで</title>
-<link>https://qiita.com/caymezon/items/90dd0641f32dbffe6227</link>
-<guid>5517efe02f50d185332cfdb9806256437337988e6b324c88b7b64adc9e393001</guid>
-<pubDate>2026-09-04T16:50:38+09:00</pubDate>
-<description>AWSのAIエージェント開発ツール「Kiro」のセッションログを外部から扱うために内部構造を調査した記録です。2026年8月時点の「v1形式」（ローカルJSONファイル保存）の構造と、同月の大型アップデートで切り替わった「v2形式」（サーバー側管理）への移行の様子、そして新...</description>
-</item>
-<item>
-<title>【Qiita】 トークン数はコストの代理変数にならない ― 自分のログ25,574ターンで測り直したら、他の人と結論が分かれた</title>
-<link>https://qiita.com/manabu49-ai/items/96fc4cb58cf11a55b37b</link>
-<guid>9ff8438c7f8760d04143a282b4469c7160614ada8cb2aa4489582835f6816ff5</guid>
-<pubDate>2026-09-04T16:30:16+09:00</pubDate>
-<description>3日前、私は「1ターンあたり23万トークンを読み直していた」という記事を書きました。 **その書き方に不足がありました。**この記事は、その訂正と、 訂正しようとして測り直したら、別の人と結論が分かれた話です。 何が不足していたか トークンの量を測って、それをコストの大き...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントが間違えたとき、ログに何を残すべきか。問い合わせAIのObservability設計</title>
-<link>https://qiita.com/Udesk/items/3bf062e16477384e7a3c</link>
-<guid>2cc62994aa956a75cff991e3c49a6154618ea093e0207549ad9e0c2cda2317e6</guid>
-<pubDate>2026-09-04T15:45:03+09:00</pubDate>
-<description>「配送先を会社の住所へ変更してください」 顧客には未発送の注文が二件ありました。問い合わせAIは「変更しました」と返したものの、翌日確認すると、対象ではない注文の住所だけが更新されていました。 ユーザー入力と最終回答しか残っていなければ、原因候補は広がるばかりです。変更対象...</description>
-</item>
-<item>
-<title>【農業】 Supply concerns drive FAO Food Price Index higher in August</title>
-<link>https://www.fao.org/newsroom/detail/supply-concerns-drive-fao-food-price-index-higher/en</link>
-<guid>acdf8a63adc285b433b25018ace4847e3c08db52d994d2a57574e5892047b970</guid>
-<pubDate>Fri, 04 Sep 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【自動自律実験】 Body parts used for ancient Egyptian artworks traced to surprising source</title>
-<link>https://www.nature.com/articles/d41586-026-02739-3</link>
-<guid>5a7db2511e2454118617984d5511a243827ad56a7f89e41f9ce014cc70a04f69</guid>
+<title>【自動自律実験】 Super-precise optical clocks in four nations tick in harmony</title>
+<link>https://www.nature.com/articles/d41586-026-02741-9</link>
+<guid>f55cc21fd0433b3d2ba14fc8f03d90e158d25ed98290db9aaf3b400f5a2fc1cd</guid>
 <pubDate>2026-09-04</pubDate>
-<description>Coffin decorations and wall paintings were made with tissue from a broad range of organisms.</description>
+<description>Comparison using signals sent over fibre-optic cable tests agreement between seven devices spread across Europe.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/calibrating-trustworthiness-in-genai/</link>
-<guid>38c87c0786a7ec4127de7a867f73eb8ac95ce2d6cb904b9ecd93466b6f08da53</guid>
-<pubDate>Fri, 04 Sep 2026 09:47:17 GMT</pubDate>
+<link>https://research.google/pubs/keeping-a-secret-requires-a-good-memory-space-lower-bounds-for-private-algorithms/</link>
+<guid>71ec565c8f4f3de53443f37a8667f48aa51ea8af9e757e88352f2b776421e9b7</guid>
+<pubDate>Fri, 04 Sep 2026 13:52:34 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>345ea39c08d14779052f84eed569405ba82fc61f11fcfb6a8193ad90d7636edc</guid>
-<pubDate>Fri, 04 Sep 2026 09:47:20 GMT</pubDate>
+<guid>246a7be101d7ddf8f00f78d5d3b2ec8e0777486768e7454eafb1c46a601f4712</guid>
+<pubDate>Fri, 04 Sep 2026 13:52:37 GMT</pubDate>
 <description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=AI+agent&amp;date_range=last_30_days&amp;order=relevance</link>
+<guid>29556687f06b749ded72935c9f95c9af225245e864747638ca0addd600b8ae5d</guid>
+<pubDate>Fri, 04 Sep 2026 13:52:38 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>74864fb78b105149efa5649d27046db7c1f53b8ee3e40868144a8a61e70a43ad</guid>
+<pubDate>Fri, 04 Sep 2026 13:53:02 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
