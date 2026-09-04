@@ -4,71 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 04 Sep 2026 13:53:19 GMT</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 17:16:48 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Codeの /rewind でREADMEを元に戻す — AIの編集を10分で取り消す</title>
-<link>https://qiita.com/akira_papa_AI/items/15aababaae9020e983ff</link>
-<guid>a9d123d2b60d9de1b6a7661816d1dc848fd02f147fe412bf39cbaccdb9accf41</guid>
-<pubDate>2026-09-04T22:29:42+09:00</pubDate>
-<description>AIエージェントにファイルを編集してもらいたい。でも、思った結果と違ったときに戻せないのはちょっと怖い。 最初は、ここで手が止まりやすいんですよね。 Claude Codeには、AIが行ったファイル編集をセッション内の以前の状態へ戻す チェックポイント があります。今回は機...</description>
+<title>【Qiita】 CC Pipeline の限界を3つの PoC で検証した</title>
+<link>https://qiita.com/sp-n-taka/items/9ea4453c39e18c5ef161</link>
+<guid>4352113ab5630cb5afe569530467f63ce63a9f9b66c167d0070af972cfee5ec7</guid>
+<pubDate>2026-09-05T01:58:47+09:00</pubDate>
+<description>前回の記事（AIDR: AI Detection &amp; Response 構想）で、CC Pipeline の限界を3つ整理しました。 自己申告テレメトリでは OS 上の実挙動が見えない -- hooks で拾えるのはエージェントの「やります宣言」だけ。実際にホスト上で何...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントの「できました」を12回ぜんぶ確かめた ― 的中率82%、そして私の検証自体が2回間違っていた</title>
-<link>https://qiita.com/manabu49-ai/items/c55d35b493e38fcec241</link>
-<guid>a9f8ce0413257c1fd8632130abbe75a8b5408f1c12dec7f42ca881fd781a5c71</guid>
-<pubDate>2026-09-04T20:36:29+09:00</pubDate>
-<description>AIエージェントを常時動かしていると、こういう報告が毎日かえってきます。 「対処しました」 「公開しました」 「修正済みです」 これがどれくらい本当なのか、私は数えていませんでした。 この記事は、数え始めた話です。結論を先に書くと、一番壊れていたのはエージェントではなく、...</description>
+<title>【農業】 New Adriatic Sea fisheries unit inaugurated in Split to strengthen science-based fisheries management</title>
+<link>https://www.fao.org/newsroom/detail/new-adriatic-sea-fisheries-unit-inaugurated-in-split-to-strengthen-science-based-fisheries-management/en</link>
+<guid>01975f383ff830f6b2224b6d48e444d2891c9790627b227e7635567de17555cd</guid>
+<pubDate>Fri, 04 Sep 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【Qiita】 メルカリの設計記事を自分の .claude/ に当ててみた 〜「軸」と「心構え」は点検に使えない 〜</title>
-<link>https://qiita.com/MOZK_SEA/items/98a7f8a1ee34f9e4cdc3</link>
-<guid>f309d89a8edca9b1703dd7fcf9b5aceb3263e8b426a6ec85a5cb8376259e898f</guid>
-<pubDate>2026-09-04T20:23:07+09:00</pubDate>
-<description>AIエージェント設計の記事を読んで、「なるほど」で終わってしまうことがよくあります。読んだ内容で自分の構成を実際に点検しようとすると、そもそも点検項目にならない主張が混ざっていることに気づきます。 メルカリの NFT事業でのAI-Native開発の記事（2026-06-30...</description>
-</item>
-<item>
-<title>【Qiita】 プロジェクトのスケジュールをProject Schedulerで調整し、タスクをBacklogで管理する</title>
-<link>https://qiita.com/hideki/items/624d2bf36b1fd2d6d72e</link>
-<guid>2006f999e269ad453c7223c720442ad8cbb3b6e0eb5991436de335514169fdb5</guid>
-<pubDate>2026-09-04T20:22:51+09:00</pubDate>
-<description>プロジェクト管理ツールとして有名な Backlog 用のCLIツールとして bee がリリースされました。CLIツールは単独で使っても便利ですが、最近はAIエージェントから利用することを想定しており、ご多分に漏れずbeeもAIエージェント用のSkillを提供しています。 今...</description>
-</item>
-<item>
-<title>【自動自律実験】 Super-precise optical clocks in four nations tick in harmony</title>
-<link>https://www.nature.com/articles/d41586-026-02741-9</link>
-<guid>f55cc21fd0433b3d2ba14fc8f03d90e158d25ed98290db9aaf3b400f5a2fc1cd</guid>
+<title>【自動自律実験】 Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health</title>
+<link>https://www.nature.com/articles/d41586-026-02800-1</link>
+<guid>d1a95b86d2f86b60a2a3da6f9fa8338e0d4d25382308afe6563f1607fd69eb2f</guid>
 <pubDate>2026-09-04</pubDate>
-<description>Comparison using signals sent over fibre-optic cable tests agreement between seven devices spread across Europe.</description>
+<description>Nature staff discuss the winners of the 2026 Ig Nobel prizes — plus, the isolated energy flash that could be the first glimpse of dark matter.</description>
+</item>
+<item>
+<title>【自動自律実験】 Tropical cyclones could be predicted with an extra day’s warning, thanks to an AI model</title>
+<link>https://www.nature.com/articles/d41586-026-02643-w</link>
+<guid>2e0672f491cb9fc318c204ba030d1204dbd7d80a3e10e8966dee576dbeb13b86</guid>
+<pubDate>2026-09-04</pubDate>
+<description>The track and intensity of tropical cyclones can be predicted with high accuracy using an AI model, which has the potential to protect lives if shared responsibly worldwide.</description>
+</item>
+<item>
+<title>【自動自律実験】 Ada Yonath obituary: Crystallographer who overcame ‘impossible’ challenge of mapping the ribosome</title>
+<link>https://www.nature.com/articles/d41586-026-02801-0</link>
+<guid>3a4ac3dce941b7983a0fc18b968fe5a834077340dcc181674075b0d7c8cbb519</guid>
+<pubDate>2026-09-04</pubDate>
+<description>Nobel laureate persisted despite widespread derision and revolutionized structural biology by protecting fragile crystals.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/keeping-a-secret-requires-a-good-memory-space-lower-bounds-for-private-algorithms/</link>
-<guid>71ec565c8f4f3de53443f37a8667f48aa51ea8af9e757e88352f2b776421e9b7</guid>
-<pubDate>Fri, 04 Sep 2026 13:52:34 GMT</pubDate>
+<link>https://research.google/pubs/scientist-one-verifiable-autonomous-research-via-chain-of-evidence/</link>
+<guid>a3c2046390df0a0f89368717b055074fad0abdf04a20dc43aef9a7c4b0b63bf8</guid>
+<pubDate>Fri, 04 Sep 2026 17:16:06 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>246a7be101d7ddf8f00f78d5d3b2ec8e0777486768e7454eafb1c46a601f4712</guid>
-<pubDate>Fri, 04 Sep 2026 13:52:37 GMT</pubDate>
+<guid>ed981b9d6c5622cca828fb6c22559b5203ad4fe53271a156b95cf66ef2f6756b</guid>
+<pubDate>Fri, 04 Sep 2026 17:16:10 GMT</pubDate>
 <description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=AI+agent&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>29556687f06b749ded72935c9f95c9af225245e864747638ca0addd600b8ae5d</guid>
-<pubDate>Fri, 04 Sep 2026 13:52:38 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43018-026-01228-w</link>
+<guid>1650fb829c43fe63cd718d7bc87b7dde2d269aa261e99fdbfefee2df07726ae2</guid>
+<pubDate>Fri, 04 Sep 2026 17:16:12 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>74864fb78b105149efa5649d27046db7c1f53b8ee3e40868144a8a61e70a43ad</guid>
-<pubDate>Fri, 04 Sep 2026 13:53:02 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>35b6986f73bb81b0e02dae3d6a669e2f5d9457932b8f4e9aef4f657a7a24d2da</guid>
+<pubDate>Fri, 04 Sep 2026 17:16:29 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
