@@ -4,49 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 04 Sep 2026 19:44:44 GMT</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 21:57:49 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIを入れる前に、仕事そのものを作り直す</title>
-<link>https://qiita.com/mhamadajp/items/ce0739c377e48da94634</link>
-<guid>691a603252584831b5ace6543ce20eb626301d6d031624ff135b16b05f5ba538</guid>
-<pubDate>2026-09-05T04:28:16+09:00</pubDate>
-<description>みずほが進める「エンドツーエンドの業務プロセス変革」 生成AIやAIエージェントを導入すれば、業務は自動的に効率化される。そう考えがちだが、複雑で無駄の多い業務へ、そのままAIを組み込んでも変革にはならない。 不要な確認作業が自動化される。重複した審査が速く処理される。部...</description>
-</item>
-<item>
-<title>【Qiita】 VBAマネージャーをAIエージェントにしようと思ったら、結構大変なことがわかった話</title>
-<link>https://qiita.com/shu15511551/items/3c116723f37412dc6cee</link>
-<guid>1772656338bcc9c1abfd966d1f50e90ec838e31582e619dff87ef8147d7810ed</guid>
-<pubDate>2026-09-05T03:10:14+09:00</pubDate>
-<description>はじめに ここ三回、Excelコンボという自作の道具の話を書いてきました。Excelの中に住んでいて、注文を出すと表を直してくれる、うちの忠犬です。 三本書いているうちに、あちらは自分でも「かなりいい感じに仕上がった」と言えるところまで来ました。それで、こう思ったわ...</description>
+<title>【Qiita】 【実験】ECSのサービス間を繋ぐ6つの繋ぎ方、実際どれくらい速さが違うのか</title>
+<link>https://qiita.com/sh_fukatsu/items/524a76ad04930e774829?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>6c376c2854118e6b4585117148afc9e0a9a5d1c13e6402a794ad79da012df5fd</guid>
+<pubDate>2026-09-03T23:36:40+09:00</pubDate>
+<description>1. はじめに 先日、JAWS-UGコンテナ支部×NW-JAWSのコラボイベント「コンテナネットワークを学ぼう！！」会に参加し、ECS Service ConnectとVPC Latticeをハンズオンで実際に構築してきました。 ハンズオンでは各サービスを実際に動か...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/understanding-us-users-security-and-privacy-transparency-needs-for-consumer-facing-generative-ai/</link>
-<guid>f4b8e5ec23542af8ca5d5ca696f3e523f6a6c1d1878bad56841b207b854c6204</guid>
-<pubDate>Fri, 04 Sep 2026 19:43:42 GMT</pubDate>
+<link>https://research.google/pubs/usability-hasnt-peaked-exploring-how-expressive-design-overcomes-the-usability-plateau/</link>
+<guid>dc2e5e9af1563886c96d1f5dcdd91f984a8901d01ed060ef6310e801bc472b73</guid>
+<pubDate>Fri, 04 Sep 2026 21:56:46 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>c82ed270f12c0629068f5092b9e046b7afe8928341bccbace356806b45a8b799</guid>
-<pubDate>Fri, 04 Sep 2026 19:43:45 GMT</pubDate>
+<guid>78d936c71ae9df068cdcc9cdab65a7791c2cb2af650d4639371da0bf2fcdca44</guid>
+<pubDate>Fri, 04 Sep 2026 21:56:49 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>f0afb0de06602d4be19a07fbcb5ebd86e927783054a4299648aaffa5645823fa</guid>
-<pubDate>Fri, 04 Sep 2026 19:43:48 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>26097364ff0fa172d82d158554e10ab3dfe15d062a93110aa93e43b4586628ac</guid>
-<pubDate>Fri, 04 Sep 2026 19:44:35 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
