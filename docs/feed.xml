@@ -4,84 +4,84 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 04 Sep 2026 05:14:53 GMT</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 09:47:55 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Flexera SSO</title>
-<link>https://qiita.com/natsumi-abe/items/195ab7010df1de5dd870</link>
-<guid>48020d426aa14f7ca95c9fe66e03804459362592c1009e11fdac46415fd3da70</guid>
-<pubDate>2026-09-04T11:36:30+09:00</pubDate>
-<description>Flexeraでのユーザー自動管理 Flexeraでユーザーを自動で登録する方法は大きく2つあります。 本記事ではその2つの方法についてまとめました。 SCIM ドキュメント Microsoft Entra ID (旧Azure ADのみサポート) SCIMを有効に...</description>
+<title>【Qiita】 IT面接で職務経歴書で見ているのは「すごい実績」だけではありません</title>
+<link>https://qiita.com/m__ikeda/items/c8705ed320aa15dc9db0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>7d5fb1fc95cdeffbe2d9c73747af158f82f45c84c2f309dce569bb772f2be365</guid>
+<pubDate>2026-09-04T11:56:14+09:00</pubDate>
+<description>自己紹介 こんにちは。株式会社PRUMで採用広報を担当している池田です。 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊 もしIT業界に興味があるけど、...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Bob : IBM i ユーザープロフィールのパスワードを満了にセットするCLPを作ってください</title>
-<link>https://qiita.com/gomAnomalocaris/items/6ea39e5bb811e938278e</link>
-<guid>59e4f5c99890ce881303481a044866937a622b3706d9e101323e4859b8718e3c</guid>
-<pubDate>2026-09-04T10:30:05+09:00</pubDate>
-<description>(QA) IBM i ユーザーIDの最小パスワード長を12桁に変更したいで紹介したユーザープロフィールのパスワード有効期間を変更するプログラムをIBM Bob で作成します。 素のIBM Bobでの手順 まずは素のBobに指示してみます。 CLPを作成するプロンプト ガ...</description>
+<title>【Qiita】 Claude Code のキャッシュ、ツールを使ったターンだけ乗るようになった</title>
+<link>https://qiita.com/suwa_nobu/items/3a135f5db9d53257a9e4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>745ba3138528adee25087361aff955ed1f3beb77e32b89abd1d1fe67058a15a7</guid>
+<pubDate>2026-09-04T10:33:35+09:00</pubDate>
+<description>9月2日に、Claude Fable 5.1 が2ターン目のキャッシュに乗ったり乗らなかったりすると書きました。18回測って13回外れ、原因は分かりませんでした。 翌9月3日の 2.1.260 に、Fable 5.1 のキャッシュ修正が3件入りました。測り直したらこうなりま...</description>
 </item>
 <item>
-<title>【Qiita】 新しいチェック観点を足す前に、既存設計書を整える。設計工程を42回やり直して測った話</title>
-<link>https://qiita.com/ntaka329/items/739a86968bb242a28969</link>
-<guid>ce4325410860c358f8b672c8817ecc65e30e47b57fb146323322607961e8e3ff</guid>
-<pubDate>2026-09-04T10:56:51+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 前回、引き継いだ案件の git log からレビュー観点を掘り起こす話を書きました。 今回はその続きで、作った観点が本当に効くのかを測っています。 きっかけは、その案件で外部連携の試験に入ってからAPIの改修漏れが次々に出たこと...</description>
+<title>【Qiita】 トークン課金を気にせず生成AIを使いたい！OpenAI互換APIで“社内生成AI”を構築できるOracle Private AI Services Containerを試してみた</title>
+<link>https://qiita.com/ssfujita/items/1b902f20dfc2c64ad44f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>703b3c86601fe8f7949ea3bbd2e437f71dcf5881b9f816ccea208b79faa50ea1</guid>
+<pubDate>2026-09-03T17:14:41+09:00</pubDate>
+<description>生成AIを業務システムに組み込みたい一方で、「機密データを外部AIサービスに送れない」「閉域環境でLLMを動かしたい」「APIのトークン料金を気にせず使いたい」といった課題があります。 Oracle Private AI Services Containerは、こうしたニー...</description>
 </item>
 <item>
-<title>【Qiita】 同じデータを2つのAIに測らせたら、中央値が5通り出た ― 全部、計算は正しかった</title>
-<link>https://qiita.com/manabu49-ai/items/dc699a8458b129d6be39</link>
-<guid>288a31c5b87a3d18f6e3f7ce1686ded7b6ea21d4e09b130c23a4c00cd3824990</guid>
-<pubDate>2026-09-04T14:12:28+09:00</pubDate>
-<description>2つのAIエージェントに、同じデータベースを渡して、同じことを聞きました。 「初回の値の中央値はいくつか」 5通りの答えが返ってきました。 $0.83 / $2.47 / $3.71 / $1.47 / $34.22 そして、どれも計算は正しかった。 ...</description>
+<title>【Qiita】 GPTを入口にしたiOSアプリ開発の記録 Ashiato Map 2.0と「YAMATO」</title>
+<link>https://qiita.com/sakumori/items/090b860510ef200996ca</link>
+<guid>d97e9295cceefcea0ff97a5e49928e03388523955914bde3a5a01d092a59a4d3</guid>
+<pubDate>2026-09-04T18:44:04+09:00</pubDate>
+<description>「YAMATO」という仕組みを使い、iPhoneアプリ「Ashiato Map」のVersion 2.0を開発しました。現在はTestFlightで動作を確認できるところまで進んでいます。 Ashiato Mapは、私が公開している「記 -Shirushi-」のチェックイン...</description>
 </item>
 <item>
-<title>【Qiita】 【Build With Google Day 1 2026 #2】AntigravityはAIの何を管理するのか——「チャット」ではなく職場として読む</title>
-<link>https://qiita.com/WhaleTech/items/1cea8980bcf7e2349329</link>
-<guid>260797ed6abf2e35f0dcd5e43a0d9660d07176caa605054ad270076cd4beb357</guid>
-<pubDate>2026-09-04T12:53:34+09:00</pubDate>
-<description>Executive Summary AIとの会話だけなら、チャット画面があれば十分に見えます。しかし、仕事を継続し、別の日に再開し、外部システムを使い、危険な操作を止め、作業内容を人が確認するには、会話の外側が必要です。 Google Antigravityを理解する鍵は...</description>
+<title>【Qiita】 Kiro（AWSのAIエージェント）のセッション保存構造を調べてみた ── ローカルJSONからサーバー側管理への移行まで</title>
+<link>https://qiita.com/caymezon/items/90dd0641f32dbffe6227</link>
+<guid>5517efe02f50d185332cfdb9806256437337988e6b324c88b7b64adc9e393001</guid>
+<pubDate>2026-09-04T16:50:38+09:00</pubDate>
+<description>AWSのAIエージェント開発ツール「Kiro」のセッションログを外部から扱うために内部構造を調査した記録です。2026年8月時点の「v1形式」（ローカルJSONファイル保存）の構造と、同月の大型アップデートで切り替わった「v2形式」（サーバー側管理）への移行の様子、そして新...</description>
 </item>
 <item>
-<title>【Qiita】 【Build With Google Day 1 2026 #1】AIがコードを書ける、その先へ——Agentic Engineeringとは何か</title>
-<link>https://qiita.com/WhaleTech/items/c687f6a7f8bacae9aae0</link>
-<guid>b673f0ce6f56e6b9d2d3be7ccf3cd8fc7eb3b40876aa9b9d24984d681a31cbeb</guid>
-<pubDate>2026-09-04T12:53:10+09:00</pubDate>
-<description>Executive Summary AIがコードを書けることと、AIへ仕事を任せられることは同じではありません。 モデルがどれほど賢くても、目的が曖昧で、必要な資料がなく、使ってよい道具と権限が決まらず、結果を検査できなければ、業務としては不安定です。Agentic En...</description>
+<title>【Qiita】 トークン数はコストの代理変数にならない ― 自分のログ25,574ターンで測り直したら、他の人と結論が分かれた</title>
+<link>https://qiita.com/manabu49-ai/items/96fc4cb58cf11a55b37b</link>
+<guid>9ff8438c7f8760d04143a282b4469c7160614ada8cb2aa4489582835f6816ff5</guid>
+<pubDate>2026-09-04T16:30:16+09:00</pubDate>
+<description>3日前、私は「1ターンあたり23万トークンを読み直していた」という記事を書きました。 **その書き方に不足がありました。**この記事は、その訂正と、 訂正しようとして測り直したら、別の人と結論が分かれた話です。 何が不足していたか トークンの量を測って、それをコストの大き...</description>
 </item>
 <item>
-<title>【Qiita】 【Build With Google Day 1 2026 #5】AIエージェントの「できた」をどう信じるか——OutputとTrajectoryの評価</title>
-<link>https://qiita.com/WhaleTech/items/b820cd8268f815559b2b</link>
-<guid>d02dff0bee6c82fc296a264f4c178518c1e724aceca8ea5e93f18c2c2994ec2d</guid>
-<pubDate>2026-09-04T12:52:02+09:00</pubDate>
-<description>Executive Summary Agentが正しい最終回答を返しても、その途中で権限外のデータを見たり、必要な承認を飛ばしたり、不要な変更を行ったなら、仕事としては合格にできません。 逆に、正しいToolを正しい順序で呼んでも、最終回答の金額や宛先が間違っていれば失敗...</description>
+<title>【Qiita】 AIエージェントが間違えたとき、ログに何を残すべきか。問い合わせAIのObservability設計</title>
+<link>https://qiita.com/Udesk/items/3bf062e16477384e7a3c</link>
+<guid>2cc62994aa956a75cff991e3c49a6154618ea093e0207549ad9e0c2cda2317e6</guid>
+<pubDate>2026-09-04T15:45:03+09:00</pubDate>
+<description>「配送先を会社の住所へ変更してください」 顧客には未発送の注文が二件ありました。問い合わせAIは「変更しました」と返したものの、翌日確認すると、対象ではない注文の住所だけが更新されていました。 ユーザー入力と最終回答しか残っていなければ、原因候補は広がるばかりです。変更対象...</description>
 </item>
 <item>
-<title>【Qiita】 4経路を塞いでも、2つの穴が残る：Copilotコンテンツ除外の設計を読む</title>
-<link>https://qiita.com/emi_ndk/items/4bbad8d7f705d3ae01f6</link>
-<guid>8e019c752b06ad08cf9689d33ee777e714c2ee7025753f9e1b6542f2d8d1b6c4</guid>
-<pubDate>2026-09-04T10:01:11+09:00</pubDate>
-<description>AIコーディングエージェントに見せたくないコードを、管理者が一元的に除外できる範囲が広がった。 しかし、2026年9月2日にGAとなったGitHub Copilotの新対応は、秘密情報の完全な遮断機構ではない。 4つの利用経路を制御しても、IDEのAgent modeとファ...</description>
+<title>【農業】 Supply concerns drive FAO Food Price Index higher in August</title>
+<link>https://www.fao.org/newsroom/detail/supply-concerns-drive-fao-food-price-index-higher/en</link>
+<guid>acdf8a63adc285b433b25018ace4847e3c08db52d994d2a57574e5892047b970</guid>
+<pubDate>Fri, 04 Sep 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【自動自律実験】 Body parts used for ancient Egyptian artworks traced to surprising source</title>
+<link>https://www.nature.com/articles/d41586-026-02739-3</link>
+<guid>5a7db2511e2454118617984d5511a243827ad56a7f89e41f9ce014cc70a04f69</guid>
+<pubDate>2026-09-04</pubDate>
+<description>Coffin decorations and wall paintings were made with tissue from a broad range of organisms.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/rethinking-context-enriched-time-series-forecasting-evaluation/</link>
-<guid>5268d2882d767dc2277b318c1cadcfe6451cac8e43f04f40c1fa265825ad4dfa</guid>
-<pubDate>Fri, 04 Sep 2026 05:14:10 GMT</pubDate>
+<link>https://research.google/pubs/calibrating-trustworthiness-in-genai/</link>
+<guid>38c87c0786a7ec4127de7a867f73eb8ac95ce2d6cb904b9ecd93466b6f08da53</guid>
+<pubDate>Fri, 04 Sep 2026 09:47:17 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>f7e144dcceb93b050ffef827d22b76af36e716343d437c37933c107612702a04</guid>
-<pubDate>Fri, 04 Sep 2026 05:14:13 GMT</pubDate>
+<guid>345ea39c08d14779052f84eed569405ba82fc61f11fcfb6a8193ad90d7636edc</guid>
+<pubDate>Fri, 04 Sep 2026 09:47:20 GMT</pubDate>
 <description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43018-026-01228-w</link>
-<guid>34da1d7857b64533daeb32c88a25903c58796643873f29fd373d0ce85fb1322c</guid>
-<pubDate>Fri, 04 Sep 2026 05:14:15 GMT</pubDate>
-<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 
 </channel>
