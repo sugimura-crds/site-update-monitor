@@ -4,28 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 04 Sep 2026 23:39:38 GMT</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 02:02:07 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「1+1=2」から AI Agent まで #00</title>
-<link>https://qiita.com/Snow315/items/5fdbe6c6dfb25304b259</link>
-<guid>93bd07f7e3ff6b7c3dc02ee9fedd929e6c1ec40f6cad9a216cffc2df492fa2af</guid>
-<pubDate>2026-09-05T08:13:00+09:00</pubDate>
-<description>「1+1=2」から AI Agent まで #00 とりあえず、やってみよう 最近、AIがものすごい勢いで広がっている。 仕事でも日常生活でもAIを目にすることが増えて、自分のような普通のITエンジニアにとっても、もう無関係ではない気がする。 正直、少し焦りもある。 こ...</description>
+<title>【Qiita】 Web 検索・WebFetch のツール権限がこのセッションでは許可されておらず、参考URLの記事本文を取得できませんでした。</title>
+<link>https://qiita.com/syun136_616/items/213cb24a4360720a6766</link>
+<guid>507e0b3ccbd5537dbde965c7a139f7b61b410a56814b26453ee387481d3788b0</guid>
+<pubDate>2026-09-05T10:09:52+09:00</pubDate>
+<description>Web 検索・WebFetch のツール権限がこのセッションでは許可されておらず、参考URLの記事本文を取得できませんでした。 この題材（Anthropicのコマース用エージェントのオープンソース化）は私の知識のカットオフ（2026年1月）以降の情報の可能性が高く、正確な名...</description>
+</item>
+<item>
+<title>【Qiita】 配られたフォルダを開くだけでAIコーディングエージェントが攻撃コードを動かすGitSpawn</title>
+<link>https://qiita.com/okssusucha/items/67287896e797bc75a6ee</link>
+<guid>18dadde6ca848e4edfdd5920204b78e9d46582efb4639b8947525fd2099e2237</guid>
+<pubDate>2026-09-05T09:09:25+09:00</pubDate>
+<description>AIにコードを書かせる道具を、毎日のように使う人が増えている。その道具が、あなたの気づかないうちに他人のプログラムを動かしてしまう穴が見つかった。ひとことで言うと、人から受け取ったフォルダを開くだけで、パソコンを乗っ取られるおそれがある話だ。 セキュリティ企業のManifo...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/mull-tokens-modality-agnostic-latent-thinking/</link>
-<guid>612fb460d7c3be83fa3a90dd316cfb8d79bf42bfd67b92f0697a438b3ee72dff</guid>
-<pubDate>Fri, 04 Sep 2026 23:38:15 GMT</pubDate>
+<link>https://research.google/pubs/prompts-performance-optimization-via-multi-agent-planning-for-llm-training-and-serving/</link>
+<guid>3babe6d74c872049b4c3ab683fc955228bf544deb360b40a07129fc4061cddda</guid>
+<pubDate>Sat, 05 Sep 2026 02:00:54 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>a6b448d43bb507b9c7457cd732331de84cb3234840c8b592d6efc186e77990b4</guid>
-<pubDate>Fri, 04 Sep 2026 23:38:19 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 
 </channel>
