@@ -4,70 +4,85 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 05 Sep 2026 11:11:19 GMT</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 13:56:13 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIに設計を任せるときに気をつけたい。「正しく動く」と「増えても耐えられる」は別だった</title>
-<link>https://qiita.com/adgjmptw0/items/365a4437aad4c939d1cc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>f6e60dd57fb0c3285dd4ffb269e4f397eacb4a99dd43244ea015cb6b6b92d216</guid>
-<pubDate>2026-09-04T09:39:25+09:00</pubDate>
-<description>生成AIを使ってPush通知機能の設計を進めていたとき、性能面で気になる構造に気付きました。 設計上、通知対象者1人を処理するために最大約11回、DBへ問い合わせる可能性がある状態でした。 通知対象者 DBへの問い合わせ 1人 約11回 100人 約1,1...</description>
+<title>【Qiita】 Prompt EngineeringからLoop Engineeringまで 〜6年間のAIアプリケーションの歴史〜</title>
+<link>https://qiita.com/y_yoko/items/831e013a600b8d91ac44</link>
+<guid>199605cf71049e7e6305c4c4f35977fa6c6a20e5b5f56908440a59f15a930d24</guid>
+<pubDate>2026-09-05T22:52:12+09:00</pubDate>
+<description>1. はじめに ここ数年で、 Prompt Engineering RAG MCP Context Engineering Harness Engineering Loop Engineering など、様々な言葉を目にするようになりました。改めて振り返ってみると、こ...</description>
 </item>
 <item>
-<title>【Qiita】 30代薬剤師が2ヶ月でITエンジニアをクビになって求職活動した</title>
-<link>https://qiita.com/kentyo0813/items/effb9105cf6267312d9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>51210d5204494397803cbf8a8ef847f3672708ebb5e5e555517b474767ab87a4</guid>
-<pubDate>2026-09-04T10:43:28+09:00</pubDate>
-<description>こんにちは。 今回は直近の離職～求職活動の話を書きます。 要約 2017年薬学部卒の30代男が1年でCCNAや基本情報や応用情報などを取得してITエンジニア転職をしたが、2ヶ月でクビになった。 2026年8月に求職活動をはじめ、複数の企業から400万～550万のレンジで内...</description>
+<title>【Qiita】 Codexの codex fork --last で会話を分岐する — 元の相談を残して別案を10分で試す</title>
+<link>https://qiita.com/akira_papa_AI/items/65f663404a19c2878871</link>
+<guid>23554977543cbb3480a8ce9eeffb156564d4dc314a0dd02d588dc570887ca6cb</guid>
+<pubDate>2026-09-05T22:32:17+09:00</pubDate>
+<description>「別の方針も試してみたい。でも、ここまでの相談は残しておきたい」 AIエージェントと相談していると、こんな場面が出てきます。今の会話をそのまま書き換えるのは少し怖い。でも、最初から説明し直すのも大変です。 今回使うのは、Codex CLIの codex fork --las...</description>
 </item>
 <item>
-<title>【Qiita】 LUI on Spreadsheet 表計算ソフトをLLMインターフェースで動かす</title>
-<link>https://qiita.com/aDAVISk/items/8eb8a7c47b5be0fd6688</link>
-<guid>f6f43b5b5f707bac36221d5d7221b3362d04bb6c353a464e335d487dd086b484</guid>
-<pubDate>2026-09-05T17:40:35+09:00</pubDate>
-<description>免責事項 Desclaimer 本稿で扱う方法により情報がLLMサービスに流れます。LLMの契約内容を確認したうえで利用には十分に注意してください。当方では本稿内容を利用したことによる情報流出等の損害について一切の責任を取りません。 The procedure descr...</description>
+<title>【Qiita】 AIレビューの指摘を一件ずつ潰すのに疲れて、AGENTS.mdで再レビューを減らした話</title>
+<link>https://qiita.com/joyrswd/items/626ca37ac25b4e19b6a4</link>
+<guid>898ee8b9ff84b1406e90b288a933a0a3e53c2726ed8fa1eea91a2d66e210a13d</guid>
+<pubDate>2026-09-05T20:47:43+09:00</pubDate>
+<description>TL;DR AIレビューは便利ですが、指摘された箇所だけを直して再レビューすると、次のレビューで似た問題が別の場所から出てきます。 そこで、レビュー結果を受けたAIが、指摘箇所だけでなく類似箇所まで確認し、さらに自分の修正自体も反証するようにAGENTS.mdの規約を変え...</description>
 </item>
 <item>
-<title>【Qiita】 AgentDojo入門 #自分用メモ</title>
-<link>https://qiita.com/juna1013/items/7f78723c9368e8441b80</link>
-<guid>e8544921cd68e04d57453d87b3fc388e1faebb8e6e49df4c8fc8aec2924e598c</guid>
-<pubDate>2026-09-05T17:21:51+09:00</pubDate>
-<description>はじめに 現在、卒業研究でAIエージェントのツール呼び出しにおけるインジェクションの影響を研究しています。その実験として、AIエージェントのプロンプトインジェクションに対する耐性を測定する評価フレームワーク「AgentDojo」を使用することになりました。本記事では、その...</description>
+<title>【Qiita】 Databricksでエージェント向け非構造データ検索を比較してみる：AI Search / Lakebase Search / コンテンツ検索</title>
+<link>https://qiita.com/isanakamishiro2/items/9d9df686202f53ccdc41</link>
+<guid>c0c0d2945fb2fc493ec24a5fdf2dae0c5deb2c07c118ea807a299cd43db44573</guid>
+<pubDate>2026-09-05T20:34:46+09:00</pubDate>
+<description>個人的にはLakebase Searchの発展に期待（オートスケールのコントロールが容易だから） はじめに Databricksでは非構造データ（PDF、Wordドキュメント、テキストなど）を検索して回答に使うエージェントを作ることができますが、最近複数のアプローチが提供...</description>
 </item>
 <item>
-<title>【Qiita】 AI時代に消えるのは職種ではない — 『システム開発と「具体と抽象」』を読んで</title>
-<link>https://qiita.com/y-hirakaw/items/81f231deec3856c957f3</link>
-<guid>cb0ea7525d16ba09c3c8d5f860b7839153abf34c278b5925dbdc79783b5ec25e</guid>
-<pubDate>2026-09-05T16:43:52+09:00</pubDate>
-<description>細谷功さんの『システム開発と「具体と抽象」』（技術評論社, 2026）を読みました。 読んで分かったことが2つあります。ひとつは、AI に仕事が奪われるという話の中身です。もうひとつは、自分が上流に来たつもりで、まだ中間までしか来ていなかったということです。 「奪わ...</description>
+<title>【Qiita】 【Build With Google Day 2 2026】調べるAIを、判断し実行できる業務システムへ——Business Builders編</title>
+<link>https://qiita.com/WhaleTech/items/120681917bb37a972026</link>
+<guid>ed20663c98c153f2e7257d91b64010accb4d4bece13358c31b1d223627377320</guid>
+<pubDate>2026-09-05T21:23:09+09:00</pubDate>
+<description>Day 1で迎えた「ものすごく優秀な新人」は、資料を読み、検索し、要点をまとめるのが得意でした。Day 2のBusiness Builders Trackでは、その新人へ、もう一段難しい仕事を任せます。 市場と社内データを調べ、買収候補を比較し、レポートを作り、承認された...</description>
 </item>
 <item>
-<title>【Qiita】 【Build With Google Day 1 2026 #3】長いプロンプトから業務マニュアルへ——Agent Skillsの設計</title>
-<link>https://qiita.com/WhaleTech/items/5e8e8d127c9bf4209b7e</link>
-<guid>eef491c3459159e9f7c5e72f096327b04b9dfd8ae0d8550ae253c75c844c10f6</guid>
-<pubDate>2026-09-05T16:34:46+09:00</pubDate>
-<description>Executive Summary Agentへ詳しい指示を与えるために、毎回すべての規則を長いPromptへ入れる方法には限界があります。仕事が増えるほどPromptは膨らみ、関係のない規則が混ざり、重要な条件が埋もれるからです。 Agent Skillは、単なる「保存...</description>
+<title>【Qiita】 【Build With Google Day 2 2026】自然言語の依頼を、本番で動くAIエージェントへ翻訳する——App Builders編</title>
+<link>https://qiita.com/WhaleTech/items/f9d7db8e569c63edec54</link>
+<guid>0cc382f2fe5ea7b6cf1f926f149833f7cf95e95c94450b9caeaee74ecb833ee7</guid>
+<pubDate>2026-09-05T21:22:53+09:00</pubDate>
+<description>Day 1で迎えた「ものすごく優秀な新人」に、今度は仕事道具を作ってもらうことになりました。 依頼は一見簡単です。 顧客からの質問に答え、必要なら社内データを検索し、計算もできるサポートAgentを作ってください。 ここでいうAgentは、利用者の依頼を読み、必要な手順...</description>
+</item>
+<item>
+<title>【Qiita】 【Build With Google Day 2 2026】優秀なAIエージェントを、安心して会社に迎える——Platform Builders編</title>
+<link>https://qiita.com/WhaleTech/items/548474e3c5b209383b04</link>
+<guid>78c37ae3dc6210e86dedb8c24243ef969ef24171b0b439238f0244a9a8c68829</guid>
+<pubDate>2026-09-05T21:22:36+09:00</pubDate>
+<description>Day 1では、自然言語で頼むと驚くほど速く仕事を進める「ものすごく優秀な新人」を迎えました。Day 2のPlatform Builders Trackで考えたのは、その新人が一人ではなくなった世界です。 営業支援、顧客分析、問い合わせ対応、販促。部署ごとにエージェントが増...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/abstain-and-validate-a-dual-llm-policy-for-reducing-noise-in-agentic-program-repair/</link>
-<guid>83e181a5a4b10d35bc2d3606c75738e7a3b03b864074d9255a5391e4713e4430</guid>
-<pubDate>Sat, 05 Sep 2026 11:10:36 GMT</pubDate>
+<link>https://research.google/pubs/who-is-at-risk-surveying-the-prevalence-of-risk-factors-and-tech-facilitated-attacks-in-the-united-states/</link>
+<guid>08fba87e0db37b22bc2591eaf747428cedb94dc9d397562e7f902b8151b03990</guid>
+<pubDate>Sat, 05 Sep 2026 13:55:37 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>55ab588296c9c929d638316a13c9fb8be618505592b8323fc50ad9df6224fc62</guid>
-<pubDate>Sat, 05 Sep 2026 11:10:38 GMT</pubDate>
+<guid>f648d395b13d82f7fbc173add157c4dd0eeb86a9e4b750527cceb3c0e62cd036</guid>
+<pubDate>Sat, 05 Sep 2026 13:55:40 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>20daaa2ef1d87405be103ddaad9e2de34c64e594c1e5c9f58c900d552cf13717</guid>
-<pubDate>Sat, 05 Sep 2026 11:10:41 GMT</pubDate>
+<guid>3757f290712af9d2f55968e12886ec8d510199110b3cbfed402f99b1ad77e2f5</guid>
+<pubDate>Sat, 05 Sep 2026 13:55:42 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>14814e059d4cbde9dacfac9525be1d0f80322991a22d3e5d518419702f86cac0</guid>
+<pubDate>Sat, 05 Sep 2026 13:55:57 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
