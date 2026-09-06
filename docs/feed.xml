@@ -4,90 +4,48 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 06 Sep 2026 12:59:36 GMT</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 16:00:58 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AWS認定全冠してないけどAWS Microcredentials全冠した話</title>
-<link>https://qiita.com/takumiida1/items/5e9e8d24d02afbbaaeb4</link>
-<guid>80a1e49c00068d8afa102904834e52e700d301861c0423c51347edb8946d9748</guid>
-<pubDate>2026-09-06T20:39:13+09:00</pubDate>
-<description>Summary AWS実務経験7年・対策時間ゼロで、2025年12月〜2026年9月にかけてAWS Microcredentials全8種を完全制覇した Microcredentialsは「知識を問う」試験ではなく「実際に手を動かして、動くものを作ること・修正すること...</description>
+<title>【Qiita】 【備忘録】Gensparkの「GenTeam」とは？ 複数のAIエージェントと人で作業を分担する仕組みを調べてみた</title>
+<link>https://qiita.com/Tadataka_Takahashi/items/ebbd8d2005e994f5e6ef</link>
+<guid>ccd3a9196bf6d5d5db54b36f8ecc1c46edce23ded1f0e2061b88f36a877906f9</guid>
+<pubDate>2026-09-07T00:10:30+09:00</pubDate>
+<description>はじめに 普段Gensparkを使っていたところ、画面に 「GenTeam」 というメニューがあることに気づきました。 何だろうと思って開いてみると、人と複数のAIエージェントが同じワークスペースで会話しながら、タスクを分担して進められる仕組みのようです。 調査を...</description>
 </item>
 <item>
-<title>【Qiita】 要求定義Promptをレビューして、何が変わったか ― Draft・改善用・改善後の実文から考える</title>
-<link>https://qiita.com/dahatake/items/52e08fc7d52b77e30a47</link>
-<guid>62c6ab0fe2a671602b68711e83e5890b25c8bd4a96d203aa53da01d3d2985acb</guid>
-<pubDate>2026-09-06T21:56:28+09:00</pubDate>
-<description>本記事は、2026年9月6日時点の個人的な試行記録です。本番利用の承認や、一般的な品質・速度の改善を保証するものではありません。 背景 私は、自分で書いた要求定義用のPromptを、要求のレビュー・改善用に作った別のPromptへ渡す試みを進めています。 気になってい...</description>
+<title>【Qiita】 レビューエージェントには「どう操作したらそうなるか」を書かせるとよい</title>
+<link>https://qiita.com/shu_pf/items/80c0eea763e14d871c6f</link>
+<guid>d21dd94ba7fc884c0dd8e687b4c4f3b91ba2e68fc3482983363044465a8fb534</guid>
+<pubDate>2026-09-06T22:38:06+09:00</pubDate>
+<description>この記事は AI エージェントと共同で書いています。構成は自分が行い、下書きをエージェントが出し、最終的な内容の確認と書き直しは自分で行っています。 レビューエージェントの失敗 エージェントに実装を依頼しました。しかし、1,000 行で終わるはずだった実装が、気づ...</description>
 </item>
 <item>
-<title>【Qiita】 AI Driven Development の実装構造 - Agent Brief・Handler・Runner・CI から見る開発スタイルの進化</title>
-<link>https://qiita.com/mamono210/items/33518365e1ef92b96a6c</link>
-<guid>9e163aa991d0a0751737541f0102fcc21694a2cc327d81cd4c5f7142de1a09ec</guid>
-<pubDate>2026-09-06T21:17:21+09:00</pubDate>
-<description>生成AIをソフトウェア開発へ導入するとき、最初はコード補完や質問応答から始まる。 しかしAI Agentが実用的になるにつれて、問題は徐々に、 AIにコードを書かせられるか ではなく、 AIに何を、どこまで、どの契約に従って実装させるか へ移っていく。 さらに進むと...</description>
-</item>
-<item>
-<title>【Qiita】 ローカル LLM の Agent に Tool を持たせる：OpenAI Agents SDK から Python 処理を実行する</title>
-<link>https://qiita.com/00b012deb7c8/items/76c693d26b20dd7e5e9d</link>
-<guid>0170d317a783c2936d6247384ed6b4a79490061e1eb18f1e7fb04d36f1721a85</guid>
-<pubDate>2026-09-06T20:11:40+09:00</pubDate>
-<description>はじめに 前回は、売上分析を受け付ける Agent A と、分析を担当する Agent B を別プロセスとして起動し、A2A（Agent2Agent）で連携させました。 そのとき Agent B は、受け取った売上データの抽出・集計・説明をローカル LLM にまとめ...</description>
-</item>
-<item>
-<title>【Qiita】 VS Code Agent Mergeをいきなり自動化しない。PR修復ループに停止条件を置く</title>
-<link>https://qiita.com/heftykoo/items/89626596bf4e2aad8ad5</link>
-<guid>1a50f15ed4925948aa036e164ee9e94741eb1ef117a74403d2dc717291e8fe78</guid>
-<pubDate>2026-09-06T20:08:56+09:00</pubDate>
-<description>agentがreview commentを直した。ところがrequired checkは落ちたまま。次の修正では、最初の依頼に入っていないfileまで変わっている。 PR作成後もagentを動かすなら、こうした場面は珍しくなくなるはずです。自分が怖いのは一回の誤修正より、修...</description>
-</item>
-<item>
-<title>【Qiita】 GPT-6 Astraで99.9%を記録した「Provider Adapter harness」を、自分で作るとしたら？──Responses APIで仕組みを理解する</title>
-<link>https://qiita.com/TakanobuSano/items/bd1d850164128eb0c131</link>
-<guid>56e01cf08e083179f97104689f516db58d22b526b811ff131964a0bec2d37993</guid>
-<pubDate>2026-09-06T19:05:07+09:00</pubDate>
-<description>「前回の記事で紹介した『GPT-6 AstraのStandard harness 62.7%とProvider Adapter harness 99.9%の比較』って、自分でも作れるんですか？」 「作れる。ただし、“何を作れるのか”を最初に正確にしておこう」 「というと？」...</description>
-</item>
-<item>
-<title>【農業】 FAO hosts summit for sustainability of small-scale fisheries</title>
-<link>https://www.fao.org/newsroom/detail/fao-hosts-summit-for-sustainability-of-small-scale-fisheries/en</link>
-<guid>0a20e31640cb814f00ca16b1a8226b1313423eefc014af5d9eb88078b0646a7c</guid>
-<pubDate>Sun, 06 Sep 2026 12:00:00 Z</pubDate>
-<description></description>
+<title>【Qiita】 Claude CodeのExploreサブエージェントにREADME調査を任せる — 結果1行だけを10分で受け取る</title>
+<link>https://qiita.com/akira_papa_AI/items/70e7461acdb60148723b</link>
+<guid>5afa7a69bacf3b43057f0f7e4b56cd8f4dc903da22d3b0b523169885bb06a008</guid>
+<pubDate>2026-09-06T22:27:52+09:00</pubDate>
+<description>「READMEを調べて」と頼んだだけなのに、途中の検索結果やファイルの説明で会話が長くなってきた。 AIエージェントを使い始めると、こんな場面が出てきます。調査は必要。でも、その途中経過を今の会話へ全部持ち込みたいわけではないんですよね。 今回使うのは、Claude Cod...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/genstrat-toward-a-science-of-strategic-reasoning-in-large-language-models/</link>
-<guid>371cad01414b99d88edb3fc12ca2495b84453e890616ea7e77edc4e7dd9defec</guid>
-<pubDate>Sun, 06 Sep 2026 12:58:59 GMT</pubDate>
+<link>https://research.google/pubs/scalable-detection-of-adversarial-synthetic-slop-and-coordinated-media-abuse-a-lora-enabled-multimodal-defense-system-3/</link>
+<guid>4749ebd26ed222151f4673f53fe564ac8299f824b48274c54fbdf54b11adc3a4</guid>
+<pubDate>Sun, 06 Sep 2026 16:00:22 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>d48a673f581de342bd2e10ee086433507c0d747602af9036b54c953025a91ab0</guid>
-<pubDate>Sun, 06 Sep 2026 12:59:02 GMT</pubDate>
+<guid>a449bc796251c25bd78b357d302d3909deba285be566a132593bbe026bb78430</guid>
+<pubDate>Sun, 06 Sep 2026 16:00:25 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>e517ae613a88fe412be717505bb13d5a5e0fc396d7b7deefc71b31671caff028</guid>
-<pubDate>Sun, 06 Sep 2026 12:59:04 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>f23080fcbd6f29f991932e841a88291f2e2b1f7abde1f5fd80f263f0ffb8f1aa</guid>
-<pubDate>Sun, 06 Sep 2026 12:59:06 GMT</pubDate>
-<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>dd7f8db5cf7934f36f5aea316a5d264a863072cf352474caf43d395927755f8f</guid>
-<pubDate>Sun, 06 Sep 2026 12:59:08 GMT</pubDate>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>4125cf9ce0eb41a28fe83689ae759b7a64c382f6fdaecb2df76047efbadf6da8</guid>
+<pubDate>Sun, 06 Sep 2026 16:00:28 GMT</pubDate>
 <description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
