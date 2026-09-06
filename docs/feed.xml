@@ -4,21 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 06 Sep 2026 00:08:27 GMT</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 04:54:14 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 新元号を当てないと脱出できないAIエージェント</title>
+<link>https://qiita.com/persimmon-persimmon/items/1ece7e349c394bc9ac77</link>
+<guid>f2935d6b9694dbb344410d7d47bfd9caa6ef498ab6484853a9f34fdb1e03c4a9</guid>
+<pubDate>2026-09-06T13:25:10+09:00</pubDate>
+<description>はじめに AIエージェントが盛り上がっています。 AIエージェントとは、目標に向かって状況を観測し、次の行動を決め、必要なツールを使いながらタスクを進めるソフトウェアである と説明されても、「なるほど、そういうことか」とはならないのではないでしょうか。 エンジニアとしては...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Fable 5.1 が [cyber] 判定で Opus 4.8 に落とされたとき、Opus 5 のまま続きを走らせる</title>
+<link>https://qiita.com/ishizakahiroshi/items/f4e53dc483ba42d33f6a</link>
+<guid>de95490ca54f499da965ffc7f361049b6b67c01a6ad303c0ad6a322a0cf9813e</guid>
+<pubDate>2026-09-06T13:22:39+09:00</pubDate>
+<description>コードの監査を回している最中に、画面のモデル表示が勝手に変わりました。自分で選んだのは Fable 5.1 なのに、Opus 4.8 になっています。 止めて選び直したら、そのまま最後まで走りました。かかったのは 19.2662 ドルでした。 先に結論だけ書きます F...</description>
+</item>
+<item>
+<title>【Qiita】 作った PR が、リポジトリの持ち主にも 404。GitHub で bot アカウントが隠れたときの切り分けと回避手順</title>
+<link>https://qiita.com/ishizakahiroshi/items/c9aea320ca2e76fa1fbe</link>
+<guid>aae2cbc45d03371f750023f4a974b5177d811faf5f0fe79b36303a3b3238eb32</guid>
+<pubDate>2026-09-06T13:14:27+09:00</pubDate>
+<description>朝の 6 時 24 分に、AI エージェントが Pull Request を作りました。テストは緑で、修正内容も筋が通っていました。18 分後、スマホの GitHub アプリで自分のリポジトリを開いたら、Pull Requests の件数が 0 と出ていました。 番号を直...</description>
+</item>
+<item>
+<title>【Qiita】 ZOE好きが日々の開発テンションをあげるためにADAアプリを作った</title>
+<link>https://qiita.com/kazaf91/items/23cb0ee6139965e27fea</link>
+<guid>1b5255183853cd2489455e06094c9e323d2e0753c79be15be161d5fe06c9365f</guid>
+<pubDate>2026-09-06T12:35:39+09:00</pubDate>
+<description>君は「はいだらー！」を知っているか？ 間違えた。 君はZOEを知っているか？ ZOEとは、ZONE OF THE ENDERSの略で、とあるロボットアクションゲームシリーズの総称です。 今回はそんなZOE好きが、作中に登場する戦闘支援AIであるADAを模したアプリを開発し...</description>
+</item>
+<item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/spatialstack-layered-geometry-language-fusion-for-3d-vlm-spatial-reasoning/</link>
-<guid>5b756440e4ce218cec3ff6ccb01768a19cb5c6e53f04c61d1f55b3fdb381c66e</guid>
-<pubDate>Sun, 06 Sep 2026 00:07:20 GMT</pubDate>
+<link>https://research.google/pubs/adversarial-attacks-on-multimodal-large-language-models-a-comprehensive-survey/</link>
+<guid>2e0e155e95faed09cfcf743d06d97409d5209330b27079ad39cfcf2af8d7fd65</guid>
+<pubDate>Sun, 06 Sep 2026 04:53:40 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>b5c23d771aebf294b3cf5c38b4cb9a2b587b5b5b64f519685a9ea48e83cd56e2</guid>
+<pubDate>Sun, 06 Sep 2026 04:53:43 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>3c3398968ef5153eb394436cf71e97c65db2ec35effb727a25a77b830be3ab49</guid>
+<pubDate>Sun, 06 Sep 2026 04:53:45 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>28ddcf79f8fab494c1e938b8932a5f18d1afadf114ee6dfe1f91fa67292cde60</guid>
-<pubDate>Sun, 06 Sep 2026 00:08:12 GMT</pubDate>
+<guid>21d2f2a1fefa7a66f3a0eb58a57ce0df6b6fd3ef8adc11c984a5985b075eecea</guid>
+<pubDate>Sun, 06 Sep 2026 04:53:59 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
