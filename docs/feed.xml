@@ -4,56 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 07 Sep 2026 00:30:41 GMT</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 05:05:23 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AAP 2.6 Self-Managed Containerized: Execution Node 追加時に発生した &quot;Host is not a registered instance&quot; の原因と対処</title>
-<link>https://qiita.com/c_u/items/c66fabeb38090cbba9bb</link>
-<guid>a4298274fb45541aae20302eb1a5ded727f4a595a531a21e98b82560dc1c7b8c</guid>
-<pubDate>2026-09-07T07:57:19+09:00</pubDate>
-<description>はじめに Ansible Automation Platform (AAP) 2.6 Containerized 環境へ Execution Node を追加した際のトラブルシューティング記録です。 AAP Self-managed Containerized 版の導入手...</description>
+<title>【Qiita】 Claude Code にスキルを80本足しても、増えたトークンは185だった</title>
+<link>https://qiita.com/suwa_nobu/items/e02595193c2ec2e733a3</link>
+<guid>a1064884337b51f542178f01d62f017827d47d5abb9a0db4dc47971a2fd8d816</guid>
+<pubDate>2026-09-07T13:34:23+09:00</pubDate>
+<description>/skill-doctor に「19本が一度も呼ばれていない。毎ターン、システムプロンプトに載り続けている」と言われました。 消したら 3,710トークン減りました。予告は約2,160だったので、多めに減っています。 では逆はどうか。ダミーのスキルを足していきました。 4...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Bob による Web 記事からの 環境構築手順書Excel ファイル作成</title>
-<link>https://qiita.com/c_u/items/c8ada34e5619a3938a28</link>
-<guid>8562ee0a3e2a4c75538e6e9553fd2e02a3075daf8c3654b84f763b5a6c77a89f</guid>
-<pubDate>2026-09-07T07:56:36+09:00</pubDate>
-<description>はじめに AI の登場によってドキュメント作成は以前と比べてずいぶん楽になりましたが、今回は IBM Bob を使用して環境構築手順書の Excel ファイル（.xlsx）を作成してもらいました。 本記事は、Web 上（Qiita）で公開されている既存の構築手順記事をもと...</description>
+<title>【Qiita】 ジュニアの「AIが書いたコードが理解できない」問題の対応策</title>
+<link>https://qiita.com/im_yoneda/items/f27e52d2f852ba017a7e</link>
+<guid>9a1d7d6ef0e190faba5f9115846a240b8c63978343f4271dce14e61f5dd5d2e3</guid>
+<pubDate>2026-09-07T11:53:07+09:00</pubDate>
+<description>はじめに 私は新卒でエンジニアになって1年が経ちました。 生成AIに実装を依頼すると、コードを書く時間そのものは大きく短縮できることを実感しています。 一方、私のようなジュニアエンジニアの場合、生成されたコードを理解するまでに時間がかかるため、 期待したほど開発全体は速く...</description>
 </item>
 <item>
-<title>【Qiita】 「Issueの対応をして」だけだと、どんなに詳しくIssueを書いてもAIエージェントの沼にハマった話</title>
-<link>https://qiita.com/shinkai_/items/ba73ce583aee40e40403</link>
-<guid>e04433e16d03e8e4953f40de94699a4eb4c23153e37c199127fe9b8c43db32a8</guid>
-<pubDate>2026-09-07T08:37:23+09:00</pubDate>
-<description>はじめに 注意書き この記事は生成AI・AIエージェント運用の超初心者向けです。「そんなの当たり前でしょ」でしかないので玄人の方はそっとブラウザバックしていただければと思います 生成AIを組み込んだ設計書作成パイプラインを運用しています。 パイプラインを動かしてい...</description>
-</item>
-<item>
-<title>【Qiita】 AIが自分で動き出す時代に、人はどこで関わるべきか</title>
-<link>https://qiita.com/okssusucha/items/f948f2270a3e37feb0a4</link>
-<guid>035493115c7bb450f6fc0ad3fb1c3da08ee00ea8f8315587674ccd71d58732ea</guid>
-<pubDate>2026-09-07T08:16:16+09:00</pubDate>
-<description>AIが、人の指示を待たずに自分で動く場面が増えています。便利ですが、AIが暴走すると危険です。この記事は、どこまでAIに任せ、どこで人が出るかを考える手がかりです。 筆者は米ペンシルベニア大の教授、Ethan Mollickさんです。記事名は「Agency and agen...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントに判断を任せるな</title>
-<link>https://qiita.com/sai029/items/f0073f1ea5ad30f71ac5</link>
-<guid>b2946bc8351957fabce1116c39c5f8dcc501822d9aac5fbb0d262e2638194e4d</guid>
-<pubDate>2026-09-07T07:36:32+09:00</pubDate>
-<description>はじめに こんにちは。とまと🍅好きエンジニアです。 先日、Google Cloud Japan 協賛の DevOps × AI Agent Hackathon 2026 で、 チームで開発した「こレッジ」という作品で特別賞をいただきました。 こレッジは、子どもの「な...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Fable 5.1のtool_choice仕様と400エラー対策</title>
-<link>https://qiita.com/syun136_616/items/5ed3d24c0b0eadbd5688</link>
-<guid>d309a8f30ae323f39f9cf9e77ac664e9903d625466c7305d513e3668be9969a7</guid>
-<pubDate>2026-09-07T07:33:24+09:00</pubDate>
-<description>この記事の要点 Claude Fable 5.1では、拡張思考（Extended Thinking）を有効にした状態でtool_choiceにanyや特定ツール名（tool）を指定すると400エラーが返ります。 個人の検証記事によると、Claude Fable 5.1のプ...</description>
+<title>【Qiita】 分散データベースからOceanBase AIデータベースへ――OceanBaseの技術進化を読み解く</title>
+<link>https://qiita.com/oceanbasejapan/items/b68bb05ca7bd0f387857</link>
+<guid>15a384cab909bd5c2a89d693e1ed6c1c8995caa00c8481d088c88fcb1fc77be4</guid>
+<pubDate>2026-09-07T09:42:29+09:00</pubDate>
+<description>OceanBaseは、分散データベースから出発し、いまではAI時代に対応する新たな製品群へと進化しつつあります。本記事では、その技術的な歩みをたどります。 OceanBaseの製品進化 OceanBaseは2010年に分散データベースの開発を開始しました。当初はNoSQL...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/how-google-sres-use-gemini-cli-to-solve-real-world-outages/</link>
-<guid>1f0c24a8552a50e08034edaafc5a8567acdfb7cd94aacccc5c3cf3f0a8f29b90</guid>
-<pubDate>Mon, 07 Sep 2026 00:29:39 GMT</pubDate>
+<link>https://research.google/pubs/a-hardware-anchored-privacy-middleware-for-pii-sharing-across-heterogeneous-embedded-consumer-devices/</link>
+<guid>75fa0387550e67ced3fda682e86eb8fe96db24e82b7a0534fdd1da6eb62c331a</guid>
+<pubDate>Mon, 07 Sep 2026 05:04:25 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>d700a4e4a0d1f7be84adbc52fbd94400e7abd82218cf96d670c1613c91160b7e</guid>
+<pubDate>Mon, 07 Sep 2026 05:04:27 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>66ac65242184121b4a5ce285e17fb9daa76aea0f3de53f89898f2ab58f985952</guid>
+<pubDate>Mon, 07 Sep 2026 05:04:29 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-69355-z</link>
+<guid>6ec717fde823def548592a96e016b8c209e1131ce5ee895e81a24a647d1d0913</guid>
+<pubDate>Mon, 07 Sep 2026 05:04:31 GMT</pubDate>
+<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>662eee3ce0479dc509095998adf07982e982aa9fc91c48c8a036cee9d295f6c1</guid>
+<pubDate>Mon, 07 Sep 2026 05:04:33 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 
 </channel>
