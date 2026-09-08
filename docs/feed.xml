@@ -4,50 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 07 Sep 2026 22:55:28 GMT</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 00:49:34 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 最近取り入れたClaude Codeの個人的tips 4選</title>
-<link>https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>1fd1015600ee7e72e84fed76c1692afefb02e297f7317699b8b2d01c42628e78</guid>
-<pubDate>2026-09-07T06:48:30+09:00</pubDate>
-<description>はじめに ここ最近取り入れた Claude Code の tips を4つ紹介します。1つだけツールの話です。 どれも大がかりな仕組みではないので、気になったものだけ拾ってもらえればと思います。 この記事をざっくり図解 1. セッション名を自動で付ける 知っている方...</description>
+<title>【Qiita】 AI性能は光速がボトルネックで頭打ちになる説</title>
+<link>https://qiita.com/nolanlover0527/items/aa85cf3ac67558ab9bbb</link>
+<guid>87789e9ff3603ecf94c2e462f4189b65e8f2732a6cb932917e526c496f32d6c6</guid>
+<pubDate>2026-09-08T09:45:12+09:00</pubDate>
+<description>光速はAI性能における物理的な上限になるのでは? 光の速さは真空中で秒速約30万kmと決まっており、これはどんな技術を使っても超えることができません。 ということは、AIチップの中を伝わる電気信号やチップ同士をつなぐ通信も、この上限より速く情報を運ぶことは原理的に不可能で...</description>
 </item>
 <item>
-<title>【Qiita】 GitHub Copilot は、速いモデルを繰り返せば十分なのか? 7つのモデルを実測して考えたこと</title>
-<link>https://qiita.com/dahatake/items/c4f466a89d0c5dee65c3</link>
-<guid>c7e4bcef6d4617b636dbc43dd36771f2e4ede60b5555234e3f9e30d226712802</guid>
-<pubDate>2026-09-08T06:10:10+09:00</pubDate>
-<description>背景 最近、GitHub Copilotで作業をしていて、モデルの回答を待つ時間が少し気になっていました。 私がよく依頼するのは、要求定義の矛盾調査、変更計画、コード修正とテスト、UIや配布方法の検討です。高性能なモデルを選ぶ理由はありますが、毎回その能力が必要なのかは気...</description>
+<title>【Qiita】 Claude Code の設定10件を測り直したら、2件は挙動が変わっていた</title>
+<link>https://qiita.com/suwa_nobu/items/e42b66ded61c85d02f1c</link>
+<guid>401c58a71a996307e89d0378e2ed83abf493eee78d881c55f0d483a4730cf753</guid>
+<pubDate>2026-09-08T09:38:33+09:00</pubDate>
+<description>この1か月、Claude Code の設定を測っては「ドキュメントに書いていない」「書いてあることと違う」と記事にしてきました。10件たまったので、今どうなっているか全部測り直しました。 解消していた（文書に載り、挙動も当時と同じ） 6件 挙動が変わっていた ...</description>
+</item>
+<item>
+<title>【Qiita】 Grok Botの公式MarketplaceとCommunity Templateを比較して実際に使ってみた</title>
+<link>https://qiita.com/asitec/items/7961870995a6fafad3a2</link>
+<guid>a6940f815c6e43e088de46aa365bf9ad8fa22a4cfe99dcd6780729952e9cb170</guid>
+<pubDate>2026-09-08T09:22:51+09:00</pubDate>
+<description>はじめに Grok Botでは、自分でBotを作るだけでなく、他のユーザーが公開したBotを自分の環境へ追加して使えます。 2026年9月にはGrok Bot公式のBot Marketplaceも公開され、公開されているBotを探して追加できるようになりました。 一方で、...</description>
+</item>
+<item>
+<title>【Qiita】 OpenClawで9体のAIエージェント経営OSを構築した実践記録</title>
+<link>https://qiita.com/sescore/items/0c1f0b6168e5199847ff</link>
+<guid>a8d98529eaf9ac92df1f4a93dcfbd515789556de53204a35f183c8d5572bb99b</guid>
+<pubDate>2026-09-08T08:16:17+09:00</pubDate>
+<description>はじめに：なぜ経営そのものをAIエージェント化したのか 2026年9月現在、生成AIやClaudeCodeといったタグはQiitaでも直近2週間で高ストック記事が続出しており、AIエージェントの実務活用が「試してみた」段階から「本番運用」段階に移りつつあるのを肌で感じる。...</description>
+</item>
+<item>
+<title>【Qiita】 LangGraphのinterrupt、checkpointerなしで止まるが再開できない</title>
+<link>https://qiita.com/kai_kou/items/6ebd78d87ff27e4f7e97</link>
+<guid>b32e7dd80b3d7298e99b261f9087b90ffcefb4517818f2df5eb1e9dad2de0208</guid>
+<pubDate>2026-09-08T09:09:07+09:00</pubDate>
+<description>TL;DR LangGraph 1.2.11 で interrupt() の挙動を条件別に実測したところ、中断と再開で checkpointer の要求が非対称 でした。 条件 interrupt() を含むノードの実行 結果 checkpointer な...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/bayesian-perspective-on-memorization-and-reconstruction/</link>
-<guid>c986b93f2c1a9f3b89b8bdd4413f1e23d07e16702bb7b1cfcd891ab1696d4726</guid>
-<pubDate>Mon, 07 Sep 2026 22:54:47 GMT</pubDate>
+<link>https://research.google/pubs/mining-informally-romanized-seed-corpora-without-romanizations/</link>
+<guid>ae827bc2586b032c6d1cca52949c6357a87c4d99814c918c3f70f14095c2a6b6</guid>
+<pubDate>Tue, 08 Sep 2026 00:48:33 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>efb2ed26ec239cd4abe2638ee466b071342caeb88eb5547101464334b0e5864c</guid>
-<pubDate>Mon, 07 Sep 2026 22:54:51 GMT</pubDate>
+<guid>8e7b65e9fcf6b36f85be789f76ebb58c2b0d70a3305be66d4188ba4bcc3707f4</guid>
+<pubDate>Tue, 08 Sep 2026 00:48:36 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>364dbfaf5c45e58f0eaffed1e26b6f53b1292b4aca4d2d77f8cbfc8737ccae54</guid>
-<pubDate>Mon, 07 Sep 2026 22:54:53 GMT</pubDate>
+<guid>ee51ea15cb88e67c8f0d1ca29754d5130aaab89b4d694c4a105cdfa3201a07dd</guid>
+<pubDate>Tue, 08 Sep 2026 00:48:39 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>67796d4079de0334b706683ea68d6bdf19674e4f640ac5687d2bc056a21b20a7</guid>
-<pubDate>Mon, 07 Sep 2026 22:55:09 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
