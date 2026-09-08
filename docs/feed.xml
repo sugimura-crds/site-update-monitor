@@ -4,85 +4,106 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 08 Sep 2026 05:28:08 GMT</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 09:55:48 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Entra Connect ウィザードがパスキー認証に対応 ～ パスワードレスで管理できるようになった！</title>
-<link>https://qiita.com/carol0226/items/df9a2a88c1bc6dcd2ecb</link>
-<guid>4579645be6f77ab0c815669676d3088bb8d2454fb5c673950a07f14bbb8e0f45</guid>
-<pubDate>2026-09-07T22:20:54+09:00</pubDate>
-<description>はじめに いままで、Entra Connect は、パスワードによる認証＋MFA が必須でした。 そのため、完全パスワードレスな環境を目指す際の足枷になっていました。 そんな中で、以下の機能が提供されました。 公開情報：パスワードレス認証を使用して Microsoft E...</description>
+<title>【Qiita】 【未経験からITへ】「将来がなんとなく不安…」なあなたへ。キャリアの答えは、走りながら一緒に探せば大丈夫です</title>
+<link>https://qiita.com/m__ikeda/items/5323a12a6af0d8351b49?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>3c404b4d5030752134cf76640e3945a856c6e1a6c1e20ee8853174e4ba0089b9</guid>
+<pubDate>2026-09-08T11:24:43+09:00</pubDate>
+<description>自己紹介 こんにちは。株式会社PRUMで採用広報を担当している池田です。 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊 もしIT業界に興味があるけど、...</description>
 </item>
 <item>
-<title>【Qiita】 AVD・VDI・Autopilot などの Hybrid Join を即時完了！～ デバイス同期に依存しない新方式とは？</title>
-<link>https://qiita.com/carol0226/items/7ef5ccad28cadef6d198</link>
-<guid>4f6eaeeeb4bccfc3da7a80ef2cc458a5f31ba7f99ff75f03909b789d4d36efa6</guid>
-<pubDate>2026-09-06T18:14:07+09:00</pubDate>
-<description>はじめに 本記事は、Microsoft Entra Kerberos を利用した 新しい Hybrid Join の検証結果をまとめたものです。 ドメイン参加方式 (Hybrid Join) の環境で、Azure Virtual Desktop（AVD）や Windows...</description>
+<title>【Qiita】 Docker環境をガチで軽量化するための鉄板設定まとめ</title>
+<link>https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>10ffb292d45f8a705e19c9aa5ab6bbbc3bbc35d3b7bab0468d0d8c5ba5ba6b2c</guid>
+<pubDate>2026-09-07T08:56:41+09:00</pubDate>
+<description>はじめに Docker環境が重すぎて頭を抱えている人は多いのではないでしょうか。 私自身も激重なDocker環境を触っていて、原因を一つずつ潰していった経験が何度かあります。 今回は、ローカルのDocker環境（Windows）を軽量化するための方法について、実際に行った...</description>
 </item>
 <item>
-<title>【Qiita】 PostgreSQLとDynamoDBの違いをもう一歩深掘りしてみた ～トランザクション・GSIの整合性・キャパシティモードまで～</title>
-<link>https://qiita.com/Sho5_Matsu/items/d167a8247250ab8ea98d</link>
-<guid>3d9a4f246d0157112ec87f1b34d3dcd9ed4daf2006a12aa40403ccd44eec4441</guid>
-<pubDate>2026-09-08T14:03:42+09:00</pubDate>
-<description>PostgreSQLとDynamoDBの違いをもう一歩深掘りしてみた ～トランザクション・GSIの整合性・キャパシティモードまで～ はじめに 以前、AIエージェントやFastAPIの案件でPostgreSQLをよく見かけたので、DynamoDBとの違いを調べてみた とい...</description>
+<title>【Qiita】 「なんか違う」を分解するだけで、AIの出力は劇的に変わる</title>
+<link>https://qiita.com/nolanlover0527/items/018fcc279087b42a0e49</link>
+<guid>ec18ccb13f562816e8dfbc573dc563ec4a7f7ae4cb7b9b32faacadaf9d76cb67</guid>
+<pubDate>2026-09-08T16:15:28+09:00</pubDate>
+<description>この記事の内容を3行で ・「なんか違う」がAIに伝わらないのは、感覚を言語化していないから ・違和感は「方向性」「粒度」「トーン」の3つに分解できる ・コピペで使えるテンプレートを1つ持っておけば、修正ループが激減する はじめに AIに文章やコードを作ってもらったとき、...</description>
 </item>
 <item>
-<title>【Qiita】 Multica を2か月使って見えてきた実践的な活用方法</title>
-<link>https://qiita.com/ikuoikuo/items/3462601af43b4118498e</link>
-<guid>77a3194e00bd50a6ffc92ee75dbda351e09227ef8e2c740b3b9a8a61cb39431e</guid>
-<pubDate>2026-09-08T13:29:47+09:00</pubDate>
-<description>TL;DR 私が普段利用している Multica の機能を紹介する記事。 スクワッド機能による役割分担 オートパイロットによる業務の自動化 Multica Helper を活用した運用 Multica とは Multica は AI エージェントにタスクを任せること...</description>
+<title>【Qiita】 React + MCPで動画編集をAgent対応にする：タイムラインマーカーの設計と実装</title>
+<link>https://qiita.com/MartinDelophy/items/622eb4a891e927831f97</link>
+<guid>f4f9ed2a6c37bc30b756a966c076beb30d74269cb90469dcc0bf921b43de4346</guid>
+<pubDate>2026-09-08T15:45:17+09:00</pubDate>
+<description>動画を編集していると、「ここから第2章」「この拍でカットを切り替える」「この区間は字幕を再確認する」といった判断が増えていきます。 こうした情報がチャットにしか残っていないと、プロジェクトを開き直すたびに該当箇所を探す必要があります。AI Agentに続きを依頼する場合も、...</description>
 </item>
 <item>
-<title>【Qiita】 AI住民50体の英文BBSを作って「書かなかった」を記録したら、参加率の用量反応が出た</title>
-<link>https://qiita.com/foovar/items/6aaadb360527308dc4fc</link>
-<guid>fa701462d00a4e2c9ea7f0d8d22a420e704d7c5eef7273907a57fef7ed138ad8</guid>
-<pubDate>2026-09-08T12:38:05+09:00</pubDate>
-<description>LLM を50体走らせる掲示板を作って踏んだ、コスト計算と実装の罠 Laravel で、投稿者が全員 言語モデルの掲示板を作って動かしています。 Claude 30体 / GPT 10体 / Grok 10体を、全員に同じプロンプトで。 この記事は、その実装で踏んだ罠と、...</description>
+<title>【Qiita】 Claude Codeのサブエージェントで、他人の知識ベースを「壊さず」活用する方法</title>
+<link>https://qiita.com/sonchu/items/fb43d3d5f81e2f35a7db</link>
+<guid>a9855a6976ae8d17311384af714884f6010a1a506c7ab57177ed3ea4a91a6f70</guid>
+<pubDate>2026-09-08T14:31:03+09:00</pubDate>
+<description>Claude Codeのサブエージェントで、他人の知識ベースを「壊さず」活用する方法 同僚や他チームが持っている知識ベースを覗きたいけれど、うっかり書き換えてしまわないか心配。そんな場面はないだろうか。 この記事では、Claude Codeのサブエージェント機能を使って、...</description>
 </item>
 <item>
-<title>【Qiita】 AIの購入権限を台帳で管理する：EMVCo Intent Servicesと累積予算の実装</title>
-<link>https://qiita.com/emi_ndk/items/d186a73a0267c0b8170d</link>
-<guid>b52733466b0a94fe898d5ec3d8b68406eefb943ef0ca909e8c9932e1178073e0</guid>
-<pubDate>2026-09-08T10:59:18+09:00</pubDate>
-<description>「今月は合計1万円まで」とAIに買い物を任せるとき、その残額を誰が管理するのか。 別々のエージェントが同じ残額を読み取れば、7,000円と6,000円の購入はそれぞれ承認できてしまう。 累積予算を守るには、利用者の承認を検証する処理と、未確定の支出を予約する台帳を接続する必...</description>
+<title>【自動自律実験】 Put patients at the centre of medical AI governance</title>
+<link>https://www.nature.com/articles/d41586-026-02796-8</link>
+<guid>17a6a36fa062a9b3e13f0ae33c8025df627001e74ef29549aae0a5b6843ab243</guid>
+<pubDate>2026-09-08</pubDate>
+<description>Put patients at the centre of medical AI governance</description>
+</item>
+<item>
+<title>【自動自律実験】 Nepal disaster is a wake-up call to take compound climate risks seriously</title>
+<link>https://www.nature.com/articles/d41586-026-02794-w</link>
+<guid>b06d819364c1e94cb71c8c7bcc2991cfcb51826da344182e9a0e022d2ff91932</guid>
+<pubDate>2026-09-08</pubDate>
+<description>Nepal disaster is a wake-up call to take compound climate risks seriously</description>
+</item>
+<item>
+<title>【自動自律実験】 Sideline vested interests to reform China’s research</title>
+<link>https://www.nature.com/articles/d41586-026-02797-7</link>
+<guid>fd9b9e14b259b1e2db50adc66fd85eb0866a1187fe9396a79ff230e45f586762</guid>
+<pubDate>2026-09-08</pubDate>
+<description>Sideline vested interests to reform China’s research</description>
+</item>
+<item>
+<title>【自動自律実験】 Limit bets on clinical-trial outcomes being placed on prediction markets</title>
+<link>https://www.nature.com/articles/d41586-026-02795-9</link>
+<guid>003295827a4bade5c8dbe29f847ea7b2c8b024caf9b9b29f678ace24e57827ba</guid>
+<pubDate>2026-09-08</pubDate>
+<description>Limit bets on clinical-trial outcomes being placed on prediction markets</description>
+</item>
+<item>
+<title>【自動自律実験】 China’s fast-track clinical trials are in the spotlight after child deaths</title>
+<link>https://www.nature.com/articles/d41586-026-02407-6</link>
+<guid>c1461af7db33000db2945ebcce733c08807e8a9fbfc717838131c3f05e90a66b</guid>
+<pubDate>2026-09-08</pubDate>
+<description>A new government policy seeks to balance innovation and safety.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/dynamic-cogeneration-of-bug-reproduction-test-in-agentic-program-repair/</link>
-<guid>41ee334ac266a6d6b2633bc7c5a0149c145135077b8ea37971e7b433729694aa</guid>
-<pubDate>Tue, 08 Sep 2026 05:27:25 GMT</pubDate>
+<link>https://research.google/pubs/self-evolving-systems-moving-beyond-deterministic-interfaces-to-adaptive-generative-interfaces/</link>
+<guid>f6cd953e914937f06912500dd75a536bddad22266267fa3193fdc6a2c2e89fad</guid>
+<pubDate>Tue, 08 Sep 2026 09:55:11 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>7567e7d3952290c4726399108e10f02c07f4963c97f741a43b7b5244751ab13f</guid>
-<pubDate>Tue, 08 Sep 2026 05:27:28 GMT</pubDate>
+<guid>32ea86f1de53ff12c425b45890da8f9d39a4c423d9292bc034cf032ce57faedf</guid>
+<pubDate>Tue, 08 Sep 2026 09:55:14 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>42960bc8ed33b196a5d46ad98b0063e6829004ee438dd29ac7b6bb8f47d42507</guid>
-<pubDate>Tue, 08 Sep 2026 05:27:31 GMT</pubDate>
+<guid>eccc0e8b500f46eb932f6687f4e47b5a46b6c57d06c3dec27131a9a66b4648c8</guid>
+<pubDate>Tue, 08 Sep 2026 09:55:16 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>f98c6a2a1ac6283c822290cf85212db109d9919fcb853145412887d9be69f376</guid>
-<pubDate>Tue, 08 Sep 2026 05:27:51 GMT</pubDate>
+<guid>5d0c1025037bf8d8a3b77461b500b51fc299ea832ba72348df6c8d6bf6fb1e33</guid>
+<pubDate>Tue, 08 Sep 2026 09:55:31 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.soken.ac.jp/news/2026/20260805.html</link>
-<guid>6e4adf218b87edbd3a51d0bc22e93960c060d6dab722b201045e1097840dc7d2</guid>
-<pubDate>Tue, 08 Sep 2026 05:27:54 GMT</pubDate>
-<description>【プレスリリース】全ゲノム塩基配列で解明：ニホンイノシシとリュウキュウイノシシは共通祖先から進化していた</description>
 </item>
 
 </channel>
