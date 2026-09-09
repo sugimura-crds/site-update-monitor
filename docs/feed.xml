@@ -4,70 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 09 Sep 2026 05:34:19 GMT</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 10:24:26 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 ローカルLLMには荷が重いと思っていた。39万字のエージェント作業を20回採点して見方が変わった</title>
-<link>https://qiita.com/ntaka329/items/1cc88224caee4ac57a53</link>
-<guid>4dcaac3583d4e1cc048636970503648ca26142eff054b6445e09383bb5026420</guid>
-<pubDate>2026-09-09T10:13:33+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 外に出せない資料をAIエージェントに読ませたい、という場面があります。12ファイル・約39万字の仕様書群をツールで探索させて、条件に合う項目を漏れなく表に起こす。ファイル一覧を取り、検索し、中身を読み、また検索する。ツールを何十回も呼...</description>
+<title>【Qiita】 元ヤフーエンジニア社長が考える、AIに仕事が奪われないと思う理由</title>
+<link>https://qiita.com/ryoheiiwamoto/items/0134c989bb86519eec2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>64043c9f3df830cb2b17b25763bc8003e6bc0bf87f92f50f829e08dcceb40c6d</guid>
+<pubDate>2026-09-09T11:31:41+09:00</pubDate>
+<description>対象者 ・AIの進化を見ていて、正直この仕事を選んで大丈夫なのか不安な方 ・「AI時代、エンジニアってオワコンなのかな」と将来に迷っている方 に読んでいただけると嬉しいです！ こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。 https:...</description>
 </item>
 <item>
-<title>【Qiita】 パスキーでも被害に遭うデバイスコードフロー攻撃とは？ ～ Entra ID での防御と検証方法を解説</title>
-<link>https://qiita.com/carol0226/items/c9cccdd64e71a731a58d</link>
-<guid>3600ad679681fd24916c3f46323b4c745625ccebfe55b85bdeb6ecfbf49ffb6c</guid>
-<pubDate>2026-09-09T02:38:46+09:00</pubDate>
-<description>はじめに 私はパスキーに出会って以来、「これこそが本来あるべき認証の姿だ」と強く感じるようになり、それ以降、積極的にパスキーを推進してきました。 そんな中、パスキーを利用していても攻撃を受ける可能性がある手法として、「デバイスコード フローを悪用したフィッシング攻撃」の存...</description>
+<title>【Qiita】 AI時代にコードの理解を「習慣にする」ために1日5問の学習アプリを作った話</title>
+<link>https://qiita.com/kitagawa_sapeet/items/f8f00a1330b249830a3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>cf3fea3cb37e2b764207960744a6e7b68200a8e299d6d3fff0ad7bfb8f36a391</guid>
+<pubDate>2026-09-09T11:32:50+09:00</pubDate>
+<description>1. AI駆動開発とコードレビューの変化 昨今、AIによって実装速度は大きく向上しました。AIの作業量が増えることで、自分でコードを書くよりも確認の工数が増えていっているのは、多くの人に共通する流れだと思います。私のチームでも、人によるレビューに加えてAIにも別の観点から...</description>
 </item>
 <item>
-<title>【Qiita】 AGENTS.mdはどう育てる？ 開発中の意思決定から運用ルールを更新する</title>
-<link>https://qiita.com/KaiShoya/items/4dd434b96745f6e060b7</link>
-<guid>90fce7457687649a372aeed781bc6fb2682e86b8a73e3f0bf476629f5d834c8d</guid>
-<pubDate>2026-09-09T14:23:01+09:00</pubDate>
-<description>はじめに AGENTS.md を最初に書くとき、そこに何を書けばいいのかは、あまり分かっていませんでした。 実際に開発を進めると、AIエージェントが迷う場所や、自分が何度も同じ指摘をしている場所が見えてきます。 運用ルールは、書き始める前より後から分かることの方がずっと多...</description>
+<title>【Qiita】 1M contextより先に測る。Qwen3.8-Maxの長時間codingに5つの完了証拠を残す</title>
+<link>https://qiita.com/heftykoo/items/f8a2ce8c58ad23261bb0</link>
+<guid>605a445cac0ce6a746957217188fbcba81148f225e2506dc20741f46cabe5c5d</guid>
+<pubDate>2026-09-09T18:20:22+09:00</pubDate>
+<description>AI coding agentの評価で、いちばん信用できない文字列は「完了しました」だと思う。 たとえば、pnpm testが未実行で、指定外の共通コンポーネントまで変わっている。途中では同じtool errorを何度も踏み、都合の悪い部分も残った。それでも最終メッセージだ...</description>
 </item>
 <item>
-<title>【Qiita】 3万スターの Claude Code スキルを入れたら、出力が43%短くなった</title>
-<link>https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc</link>
-<guid>6177dea8bb3c7d4575c1644f044980fd4339648c8831dceac4649f2a9a9dd6c6</guid>
-<pubDate>2026-09-09T13:38:11+09:00</pubDate>
-<description>ayghri/i-have-adhd が Hacker News で269ポイントを集めていました。GitHub 30,233スター（2026-09-09 時点、API取得）。エージェントの回答から前置きを取り、行動を先頭に置かせるスキルです。 日本語の紹介記事は3本ありま...</description>
+<title>【Qiita】 AIエージェントの失敗を全部「人間判断」へ戻さない――RPR 0.1.0a6のResponsibility Routing実装</title>
+<link>https://qiita.com/dantarg/items/2236b8bf9fb16756cf70</link>
+<guid>48484375a43bd403453172b8a502b50fd8842f6b41affd57149251d64fedbebc</guid>
+<pubDate>2026-09-09T18:00:39+09:00</pubDate>
+<description>最近ずっと、AIエージェントが外部操作で止まったあと、その未解決状態を誰へ返すべきかを詰めています。 最初は「危なければ人間へ判断を返せばよい」で足りそうに見えました。 ところが実装してみると、APIの結果確認待ち、route破損、receiver不適格、高影響操作を全部同...</description>
 </item>
 <item>
-<title>【Qiita】 自宅のAI会社で、ローカルLLM（2Bの小型モデル）に任せている4つの仕事</title>
-<link>https://qiita.com/macchan_ai_dev/items/f8d11a504b8226a69797</link>
-<guid>00b9292aaf6aa01ddd4ddf0f07fbb3b08d43d13a54e38dab0aebddc92e0e7aa8</guid>
-<pubDate>2026-09-09T11:59:31+09:00</pubDate>
-<description>自宅のミニPCで動かしているAIエージェントの会社には、Claudeとは別に、ローカルで動く小さなLLM（gemma2:2b）がいます。今回はこのモデルが実際に何をしているのか、4つの仕事を紹介します。 TL;DR gemma2:2b（パラメータ約20億の小型モデ...</description>
+<title>【Qiita】 AI CLI を 7 本並べたら、次に要るのは「契約」と「引き継ぎ」と「委譲」だった。many-ai-cli v0.8.0</title>
+<link>https://qiita.com/ishizakahiroshi/items/49f6a29a43bf64168c1a</link>
+<guid>f45aecb79755dad55176584ab25880fbaa32deb4ae23b94eac5494bd2a61e4d5</guid>
+<pubDate>2026-09-09T16:17:16+09:00</pubDate>
+<description>2026-09-09 に v0.8.0 を出しました。CHANGELOG の項目は 78 個です。前回の v0.7.0 が 27 個だったので、3 倍近くになりました。 数が増えたのは、機能を増やしたからというより、1 画面で回す AI CLI が 6 本から 7 本にな...</description>
 </item>
 <item>
-<title>【Qiita】 エージェントのツール定義、117万トークンが約1,000に。Code Modeという「コードで呼ぶ」設計と、痛む場面</title>
-<link>https://qiita.com/startdevin/items/7b8b9ad3735596ebfc5f</link>
-<guid>bad04d28d0d567d884bb5854acc4f766abc2e0e4337950269a115725774b545c</guid>
-<pubDate>2026-09-09T10:51:35+09:00</pubDate>
-<description>はじめに 前回、Cloudflare OSの設計を読み解いたとき、賭けの2つ目として「Code Mode」に軽く触れました。エージェントが決まったツールを呼ぶのではなく、その場でコードを書いて実行する、という方式です。あのときは「そういう作りになっている」で流しましたが、...</description>
+<title>【Qiita】 DGX Sparkで探る、検証・改善可能なAI × Harness－3</title>
+<link>https://qiita.com/maokiXXX/items/e53b439eb26882a34950</link>
+<guid>131fd37bd181025972ecc058ba4a87834894bb4292737ce2373141019132ca96</guid>
+<pubDate>2026-09-09T16:16:29+09:00</pubDate>
+<description>【第3部】知性の経験を残し、検証する Memory、Observability、Git、Policyで多層Harnessを捉える はじめに 第1部で二体のHermesによる討議を作り、第2部でMCPを通じてRikAI2を接続しました。 必要になったのは、...</description>
+</item>
+<item>
+<title>【環境】 Physiological flexibility in changing climates</title>
+<link>https://www.nature.com/articles/s41558-026-02738-2</link>
+<guid>dec43591263ed80a8a1a00b364fb1fda51906c612c66f35b7ab3ffc69788cb2b</guid>
+<pubDate>2026-09-09</pubDate>
+<description>How much ectothermic animals can rely on plastic adjustments in their physiology remains a central challenge when forecasting climate change impacts. Here, I look back on a 2015 paper that examined the role of physiological plasticity in thermal performance and discuss subsequent research and broader conserv</description>
+</item>
+<item>
+<title>【環境】 Higher odds of produced-water-like chemistry in groundwater vulnerable to shale gas spills</title>
+<link>https://www.nature.com/articles/s41893-026-01933-5</link>
+<guid>e0f259f73566f12725f6a0e07315185577b33592a495cb11a37e089d5284db2a</guid>
+<pubDate>2026-09-09</pubDate>
+<description>Horizontal drilling and hydraulic fracturing are a core part of the US domestic energy economy, particularly in the Appalachian region. However, surface spills occurring in areas of high hydrologic vulnerability could pose a risk to the drinking-water sources of more than 120,000 local residents.</description>
+</item>
+<item>
+<title>【環境】 Emissions and system-level decarbonization pathways for global petrochemical production</title>
+<link>https://www.nature.com/articles/s41893-026-01931-7</link>
+<guid>941e16250a9953f367bdc9ad80b6ea901a2fe8dd550d5f8904181db8103f1160</guid>
+<pubDate>2026-09-09</pubDate>
+<description>The petrochemical sector is a major source of greenhouse gas emissions, yet a consistent facility-level emissions inventory is missing, hindering effective sectoral decarbonization. This study fills the gap through a bottom-up and detailed assessment of 37,379 facilities globally.</description>
+</item>
+<item>
+<title>【自動自律実験】 Why the super-fun Ig Nobel prizes bring serious value to science</title>
+<link>https://www.nature.com/articles/d41586-026-02793-x</link>
+<guid>8d8c52e3bbe28b91422a095233515dc3dbba75e615cd7d96fe9f18d9e9ca215a</guid>
+<pubDate>2026-09-09</pubDate>
+<description>Awards that celebrate humour, curiosity and irreverence are a balm in hard times.</description>
+</item>
+<item>
+<title>【自動自律実験】 Why we need an International Panel on Inequality</title>
+<link>https://www.nature.com/articles/d41586-026-02806-9</link>
+<guid>eecf65835da6ae771dfacc592e343a2625d2071c1cba8842b906db3983ffeaca</guid>
+<pubDate>2026-09-09</pubDate>
+<description>Disparities in income and wealth are growing. A scientific assessment process can give governments the information they need to tackle them.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/ai-propeller-warehouse-scale-inter-procedural-code-layout-optimization-with-alphaevolve/</link>
-<guid>e2ce55317456b52f406a93973ddde372541de5eab147a418df65b67d9fb6085e</guid>
-<pubDate>Wed, 09 Sep 2026 05:33:10 GMT</pubDate>
+<link>https://research.google/pubs/managing-and-securing-googles-fleet-of-multi-node-servers/</link>
+<guid>229cfce87a46f46fbe53448b7f394a19dc476a8fa3c2d44aedbb711069c96619</guid>
+<pubDate>Wed, 09 Sep 2026 10:23:44 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>410f3fcdce9ed5cf0a0574395d2eb3279d9163faa5d61683cdc2048452101582</guid>
-<pubDate>Wed, 09 Sep 2026 05:33:13 GMT</pubDate>
+<guid>0d333d754b702983ff8ffc1ad752c5e7a67a27e18588dda59fc259e7ea74fea9</guid>
+<pubDate>Wed, 09 Sep 2026 10:23:47 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>6ede029f8a65718fd0c328df13d8f53e6028721a339af7c3c04794d49ff33f3b</guid>
-<pubDate>Wed, 09 Sep 2026 05:33:18 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 
 </channel>
