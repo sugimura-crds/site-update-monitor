@@ -4,49 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 09 Sep 2026 21:03:29 GMT</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 23:24:03 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【採用担当の本音】入社1ヶ月目で「この人を採用して本当に良かった」と思われる人の特徴</title>
-<link>https://qiita.com/m__ikeda/items/bfd4639b3278a3f1c9ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>99ad2264a91790ea938aee8cffb18039aa890c9c587e1db6db95018e3893aff3</guid>
-<pubDate>2026-09-09T11:51:18+09:00</pubDate>
-<description>自己紹介 こんにちは。株式会社PRUMで採用広報を担当している池田です。 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊 もしIT業界に興味があるけど、...</description>
+<title>【Qiita】 AIコーディングエージェント向けAcceptance Criteriaの書き方――「完了しました」を検証可能にする7項目</title>
+<link>https://qiita.com/tsuzuri_ai/items/8694fec0b8f944db4009</link>
+<guid>2b0705811303f5be49fce7906f1230bb01f7dd8980a212001497aa6805c91df4</guid>
+<pubDate>2026-09-10T08:13:11+09:00</pubDate>
+<description>AIコーディングエージェント向けAcceptance Criteriaの書き方――「完了しました」を検証可能にする7項目 AIコーディングエージェントへ、こんな依頼を出したことはないでしょうか。 ログイン画面のボタンがスマホで崩れるので直して。 数分後、AIは返します...</description>
 </item>
 <item>
-<title>【Qiita】 気象庁の天気予報を読むスキルを作ったら、公開データの奥が思ったより深かった【kurashi-skill Day 2】</title>
-<link>https://qiita.com/Ichiropen/items/2d39edfaad6d7a0c3187</link>
-<guid>589760ffa750a3c7f106bae348db8e441aa026e3bc62fcf171cc217b327484b0</guid>
-<pubDate>2026-09-10T04:31:00+09:00</pubDate>
-<description>前回、日本の暮らしに特化したAgent Skill集「kurashi-skill」を30日間の公開開発で作ると宣言した。 今日はその2日目、jma-weatherの話。気象庁の公開JSONから天気予報を取ってくるスキルだ。正直に言うと、これは宣言の前に仕込んであった5...</description>
+<title>【Qiita】 AI生成コードが理解できないジュニアへの対処法まとめ</title>
+<link>https://qiita.com/syun136_616/items/9459bc40243ae827a51c</link>
+<guid>dea6a331d8f08335a98c91f5951fd2ecf11928e399e0980e658f549e5cd8cc30</guid>
+<pubDate>2026-09-10T07:31:08+09:00</pubDate>
+<description>この記事の要点 AI生成コードが理解できない主因は「知識不足」ではなく「思考プロセスの省略」にある 対処には「分割して読む」「再実装する」「レビューを学習の場にする」の3手順が有効 チーム側がレビュー基準と質問文化を整えないと、個人の努力だけでは解決しない AI生成コ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/neural-general-circulation-models-for-modeling-precipitation-2/</link>
-<guid>e32103eff5663451be6b61f0b1d697bc3f232edc50ec9b167c052d17401de20d</guid>
-<pubDate>Wed, 09 Sep 2026 21:02:23 GMT</pubDate>
+<link>https://research.google/pubs/peeking-ahead-of-the-field-study-exploring-vlm-personas-as-support-tools-for-embodied-studies-in-hci/</link>
+<guid>5e2d3881a8ffa881dd43fc056c2808e07e6c26897b2c33bc1071acc4d7614f97</guid>
+<pubDate>Wed, 09 Sep 2026 23:23:19 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>dc61e383309f4ff0e63659aa5bc3ad5ec06e5b251a56600c1a2af6bda0d5c431</guid>
-<pubDate>Wed, 09 Sep 2026 21:02:27 GMT</pubDate>
+<guid>b602c6f43efc50f709f615cec22befccb32fb3779f3ca21631129fcb7ceee589</guid>
+<pubDate>Wed, 09 Sep 2026 23:23:22 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>dabc7598e4b59112a9d4a2833ceac75b2627c0eeb9004c413161d024d0226b8d</guid>
-<pubDate>Wed, 09 Sep 2026 21:02:29 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>afbed5fd5cd8a75f2171d36437a4cf2a45f9aecbbc9b31f61b163a30253482a1</guid>
-<pubDate>Wed, 09 Sep 2026 21:02:37 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 
 </channel>
