@@ -4,48 +4,48 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 08 Sep 2026 22:54:40 GMT</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 00:52:42 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Microsoft セキュリティ更新プログラムリリース情報 - 2026 年 9 月</title>
-<link>https://qiita.com/niimim/items/2f284a68914e5de16873</link>
-<guid>3753c58b0b7d94ffaf7b052b6c37d23ffbf4ca25714f3ea336b47e7a670c6255</guid>
-<pubDate>2026-09-09T07:45:13+09:00</pubDate>
-<description>Note: この記事は 2026年9月8日(太平洋標準時)に公開された Microsoft セキュリティ更新プログラムの概要をまとめたものです。 以下の製品群にフォーカスしたものとなっています。(主にデバイス管理者向け) ・各クライアントOS ( bitness は x...</description>
+<title>【Qiita】 AIエージェントに業務を完了させるための5つの設計 --- 指示・権限・ツール・履歴・検証</title>
+<link>https://qiita.com/ootakazuhiko/items/18f7a18636d170a1dfbe</link>
+<guid>f2a07416c5788cd1b92b3705e4d6d28dbee32c86d3ff47b52f74fc423a3ba9ec</guid>
+<pubDate>2026-09-09T09:16:17+09:00</pubDate>
+<description>はじめに AIエージェントに「不具合を修正し、テストを実行して、PRを作成してください」と依頼する。 コードは修正され、テスト結果も報告され、PRも作成された。しかし、レビュー時に次のような状態が見つかったとする。 対象外のファイルが変更されている。テスト結果が修正前のc...</description>
 </item>
 <item>
-<title>【Qiita】 「検証に通りました」が嘘になっていた ― 許可と検証を、ユーザーが握る</title>
-<link>https://qiita.com/R2-san/items/3aaa88d7a35c447102f4</link>
-<guid>b9455a9ac5518bddff121438fb96eb85f9439b7d72a5e241172e97a554e6b3f9</guid>
-<pubDate>2026-09-09T07:35:21+09:00</pubDate>
-<description>本記事の内容は私（R2-san）の体験（実装コード）・判断・指示に基づきますが、文章作成は生成 AI が行い、私の監修・確認を経て公開しています。 前回、失敗したら、何も変えない で、AI モデルが出した変更案がファイルへ当たるまでの話を書きました。当てる直前に控えを取...</description>
+<title>【Qiita】 Mastra StudioでRAG Agentが答えない――3つのエラーを順番に切り分けた記録</title>
+<link>https://qiita.com/dayaa/items/c33ad1ff1db41b877c92</link>
+<guid>f2dfab0ba9eda8f3646b472cec8926861c47927577f39655d8655a83d5317c96</guid>
+<pubDate>2026-09-09T09:11:18+09:00</pubDate>
+<description>MastraでRAGを組み、検索ToolをAgentへ接続した。ローカル検索は成功している。ところがMastra Studioから質問すると、Agentは答えない。Toolの実行欄には赤い×が表示され、OpenAI APIから400エラーも返ってきた。 結論から書くと、原因...</description>
 </item>
 <item>
-<title>【Qiita】 AIに日本の暮らしを丸投げするスキル集を、30日間の公開開発で作ります【kurashi-skill Day 1】</title>
-<link>https://qiita.com/Ichiropen/items/eac3bb6220e75a4ade88</link>
-<guid>c463387111a42cc0268bfff6d1bb0c40da4083100639f29d47d4f8f8a104170c</guid>
-<pubDate>2026-09-09T07:22:28+09:00</pubDate>
-<description>前回、AIエージェントに物件探しを任せたら家相で採点を始めた、という話を書いた。 あの記事を書いてから気づいたことがある。あの時AIが勝手に読み漁ったのは、家相のコラムとか間取り図の読み方とか、要するに「日本の暮らしの知識」だった。汎用的なAIの話はどこにでも転がって...</description>
+<title>【Qiita】 GPT-6 Astra、PC操作が47%高速化。なぜソフトウェア株まで警戒されたのか</title>
+<link>https://qiita.com/mizzz-ivr/items/295106939607ed5e9942</link>
+<guid>ae09141f7d9694ed6e1c543ecdc1569dd3b004eb5137af47bd359402c0de627b</guid>
+<pubDate>2026-09-09T09:00:24+09:00</pubDate>
+<description>GPT-6 Astra、PC操作が47%高速化。なぜソフトウェア株まで警戒されたのか 9月3日、OpenAIが GPT-6 Astra を発表しました。 新しいAIモデルが出るたびに、いつものようにベンチマークが並びます。 ARC-AGI-3: 99.9% Fronti...</description>
 </item>
 <item>
-<title>【Qiita】 project-scaffoldでAIエージェントの運用ルールを複数プロジェクトに展開する</title>
-<link>https://qiita.com/KaiShoya/items/bf87732ce82cf50c240d</link>
-<guid>228f700edb533b5a18df3c1607357468d87a05e1f5375123ef08d8ef33c81dd2</guid>
-<pubDate>2026-09-09T06:26:40+09:00</pubDate>
-<description>はじめに project-scaffold は、AGENTS.md や docs/ などのAIエージェント向け運用ルールを Org Standard として管理し、複数のプロジェクトへ適用するためのSkillです。 この記事では、導入から日常運用までに必要な手順だけをまと...</description>
+<title>【Qiita】 Copilot Studio 試用版ライセンスの始め方、注意点、つまづきポイント</title>
+<link>https://qiita.com/ReijiOtake/items/caa75c49b8868080bbf9</link>
+<guid>3de93c4b40122ddecd1c612c0fbc5bbc02a9a011a080a8501a8f8de0f0f3c071</guid>
+<pubDate>2026-09-09T08:19:55+09:00</pubDate>
+<description>はじめに Copilot Sttudioの試用版ライセンス（無料）の始め方が少し難しかったのでまとめておきます。 対象の環境にDataverseが必要 まずは以下のサイトからCopilot Studioにサインインしてください ただし、初回ログイン時は以下のように...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/smarter-tools-weaker-minds-introducing-the-ctrl-theory-of-youthai-dependency/</link>
-<guid>7cdef879da5f4f6bdc3b66564bb774e6c450f594fb47d10f954ee48e5306bf00</guid>
-<pubDate>Tue, 08 Sep 2026 22:53:53 GMT</pubDate>
+<link>https://research.google/pubs/how-google-sres-use-gemini-cli-to-solve-real-world-outages/</link>
+<guid>8fcd0a2cdbe8884eb530fbd355e6847976ff8496281ce6e29c80eb9cf09bbdce</guid>
+<pubDate>Wed, 09 Sep 2026 00:52:02 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>3390b94e740d02afd38483b9d020c9836de139869bd44ce6f83eda10e11f2982</guid>
-<pubDate>Tue, 08 Sep 2026 22:53:56 GMT</pubDate>
+<guid>6343f37aa8a1653339f6b972b6be40f99f1cc19510c41043c48906445d5c9062</guid>
+<pubDate>Wed, 09 Sep 2026 00:52:06 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 
