@@ -4,49 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 10 Sep 2026 15:30:27 GMT</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 18:38:19 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AgentCore Memory の CreateEvent が JSON ペイロードに対応、会話じゃないデータもそのまま長期記憶にできるように</title>
-<link>https://qiita.com/leomarokun/items/e083bf6c9600209797eb</link>
-<guid>a0fde67c03d4d41a60bdc1e27d13e8c23b850e55aec452237408969b3c847568</guid>
-<pubDate>2026-09-10T23:53:39+09:00</pubDate>
-<description>はじめに Amazon Bedrock AgentCore Memoryは、エージェントとユーザーの会話から長期記憶を自動抽出してくれる機能ですが、これまでCreateEvent(短期記憶にイベントを1件書き込むAPI)に渡せるのは実質「会話文(role + text)」...</description>
+<title>【農業】 Nepal floods damage 1,800 hectares of crops and kill thousands of livestock</title>
+<link>https://www.fao.org/newsroom/detail/nepal-floods-damage-1-800-hectares-of-crops-and-kill-thousands-of-livestock/en</link>
+<guid>5f002db00bdd30bcbc74428b45f1f81b0c32d87ceaac1fd4e351226302e0fe8b</guid>
+<pubDate>Thu, 10 Sep 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【Qiita】 AI並行開発ツールを自作して分かったこと</title>
-<link>https://qiita.com/iostar/items/91eb7aa9ebc7fc8df7fb</link>
-<guid>7acfe485277f615bdd9248027cc6371a6c80866cd7e0ed05f5514ccb22d045d7</guid>
-<pubDate>2026-09-10T23:38:16+09:00</pubDate>
-<description>まず、何を作っているかの話から AIを何本も同時に走らせることだけを考えて作った、Windows 用のターミナルを公開しています。SHIKISHA-TERM といいます。 AIが一発でそれなりのコードを書くようになってから、勝負どころが「同時に何本進められるか」に移りまし...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェント間の費用見積・同意・請求・照合シーケンス AECS v0.1 仕様書案 — AP2／x402／MPPの上に「不確定消費の見積」「多段委任」「明細への照合」を載せる</title>
-<link>https://qiita.com/k2_naka/items/e533f31baa0670a8c4b7</link>
-<guid>3d4cf39e7c5254c320f1becbdbe3b028cb12821d1832f75d4f56a36fd0b7699b</guid>
-<pubDate>2026-09-10T22:51:49+09:00</pubDate>
-<description>この記事について エージェントが別のエージェントに作業を委ね、その対価を支払う場面では、費用見積 → 同意 → 実行・計量 → 請求・決済 → 照合 の一連の流れが要ります。認可（AP2）と決済（x402／MPP／カード網）は2025年9月〜2026年7月に急速に標準化さ...</description>
-</item>
-<item>
-<title>【Qiita】 Google AntigravityとBlenderをMCP連携</title>
-<link>https://qiita.com/5avvadaJ1r0/items/de41fcdecc71d8c13eb4</link>
-<guid>009749dde6c2ede21c0251d7f584057b19071ee4b2cfc3f67c95062063c2a25e</guid>
-<pubDate>2026-09-10T22:50:17+09:00</pubDate>
-<description>AIエージェントの選定について AIエージェントからMCP連携でBlenderを操作する手段ですが、Google Antigravityが一番お手軽で安定していたので手順をまとめました。(macOSのみ) 他のAIエージェントに関しては下記の理由で見送っています。 Cl...</description>
+<title>【Anthropic】 Introducing Claude Fable 5.1 and Claude Mythos 5.1</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>5a053146b11c43a1d41de8fc80c9587b98e35c7c9a3454e446535e0ee6294270</guid>
+<pubDate>Thu, 10 Sep 2026 18:37:36 GMT</pubDate>
+<description>Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>5c0285b4f9bab019bbda7cab2414426010befcfffbd653e3babb481cd3e55bb9</guid>
-<pubDate>Thu, 10 Sep 2026 15:29:28 GMT</pubDate>
+<guid>5675c8dddd34ffc3e658dba5ced711764ca9cfa483bd645d19fc03bda2e143dd</guid>
+<pubDate>Thu, 10 Sep 2026 18:37:43 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>efcc77555fe51b545577c313452f37b0ae5a8481bcdd3294f58baea39d1a8fa7</guid>
-<pubDate>Thu, 10 Sep 2026 15:29:30 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>e3015c718ba40b553ecb107530ea24ec5b2762372e98d8c23b307406e404a515</guid>
+<pubDate>Thu, 10 Sep 2026 18:38:01 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
