@@ -4,104 +4,48 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 10 Sep 2026 11:35:29 GMT</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 15:30:27 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【採用担当の本音】AI時代だからこそ、私たちが面接で「なぜ？」を繰り返す本当の理由</title>
-<link>https://qiita.com/m__ikeda/items/26cc98906fbae40e4e71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>5e266200a5c1e24f9d1d69ea6a997e7025c6e936f30e71124c255e07011ea247</guid>
-<pubDate>2026-09-10T12:33:53+09:00</pubDate>
-<description>自己紹介 こんにちは。株式会社PRUMで採用広報を担当している池田です。 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊 もしIT業界に興味があるけど、...</description>
+<title>【Qiita】 AgentCore Memory の CreateEvent が JSON ペイロードに対応、会話じゃないデータもそのまま長期記憶にできるように</title>
+<link>https://qiita.com/leomarokun/items/e083bf6c9600209797eb</link>
+<guid>a0fde67c03d4d41a60bdc1e27d13e8c23b850e55aec452237408969b3c847568</guid>
+<pubDate>2026-09-10T23:53:39+09:00</pubDate>
+<description>はじめに Amazon Bedrock AgentCore Memoryは、エージェントとユーザーの会話から長期記憶を自動抽出してくれる機能ですが、これまでCreateEvent(短期記憶にイベントを1件書き込むAPI)に渡せるのは実質「会話文(role + text)」...</description>
 </item>
 <item>
-<title>【Qiita】 Hashicorp Vault Enterprise で userpass ログインに Sentinel EGP で IP 制限をかける</title>
-<link>https://qiita.com/fitz/items/77e8a14122e0fa409910</link>
-<guid>c25f534d3688a16d843815d952b9f08e947dd77fc359e7bebc8fa205a3c14546</guid>
-<pubDate>2026-09-10T17:37:33+09:00</pubDate>
-<description>やりたかったこと Vault の userpass 認証では、IP 制限（token_bound_cidrs）はユーザー単位でしか設定できません。ユーザーが増えるたびに個別設定するのは運用上厳しいため、「Sentinel の EGP（Enterprise Governan...</description>
+<title>【Qiita】 AI並行開発ツールを自作して分かったこと</title>
+<link>https://qiita.com/iostar/items/91eb7aa9ebc7fc8df7fb</link>
+<guid>7acfe485277f615bdd9248027cc6371a6c80866cd7e0ed05f5514ccb22d045d7</guid>
+<pubDate>2026-09-10T23:38:16+09:00</pubDate>
+<description>まず、何を作っているかの話から AIを何本も同時に走らせることだけを考えて作った、Windows 用のターミナルを公開しています。SHIKISHA-TERM といいます。 AIが一発でそれなりのコードを書くようになってから、勝負どころが「同時に何本進められるか」に移りまし...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Cloud: Owner/作成者を調べる方法</title>
-<link>https://qiita.com/shiyasu/items/fbe8c1b16b7152a60029</link>
-<guid>d47ee788b05befa172314b5bb2c13010fc73f80ce83e906c46e7ec3a888f7824</guid>
-<pubDate>2026-09-10T17:20:34+09:00</pubDate>
-<description>1. はじめに このリソース、誰が作ったんだろう？って思うことはありませんか？ IBM Cloud consoleを見ても誰が作ったかは分かりません。実はAPIやCLIであれば分かる可能性があります。 2. 調べる方法 以下のように、ibmcloud resource ...</description>
+<title>【Qiita】 AIエージェント間の費用見積・同意・請求・照合シーケンス AECS v0.1 仕様書案 — AP2／x402／MPPの上に「不確定消費の見積」「多段委任」「明細への照合」を載せる</title>
+<link>https://qiita.com/k2_naka/items/e533f31baa0670a8c4b7</link>
+<guid>3d4cf39e7c5254c320f1becbdbe3b028cb12821d1832f75d4f56a36fd0b7699b</guid>
+<pubDate>2026-09-10T22:51:49+09:00</pubDate>
+<description>この記事について エージェントが別のエージェントに作業を委ね、その対価を支払う場面では、費用見積 → 同意 → 実行・計量 → 請求・決済 → 照合 の一連の流れが要ります。認可（AP2）と決済（x402／MPP／カード網）は2025年9月〜2026年7月に急速に標準化さ...</description>
 </item>
 <item>
-<title>【Qiita】 Power Automateクラウドフロー入門｜ロジック設計(1) Apply to each の遅さを体感する</title>
-<link>https://qiita.com/kaiinaba/items/d00e720ccb2b4fdb9aec</link>
-<guid>a66531d4a06bf3e69fbd201450a7e3b9ff911d32c917685769593b249dd7faf4</guid>
-<pubDate>2026-09-10T17:35:19+09:00</pubDate>
-<description>Power Automateクラウドフロー入門｜ロジック設計 第1回 Power Automate初心者向け｜Apply to each の遅さを体感する Power Automate では、さまざまな業務を自動化できます。 たとえば、ライセンス利用数の集計、Team...</description>
-</item>
-<item>
-<title>【Qiita】 Kimi Code大全 — 公式ドキュメントから整理した、コマンド・オプション・設定の完全リファレンス（2026年9月版）</title>
-<link>https://qiita.com/Takuya__/items/6298daaee2b745cc2e56</link>
-<guid>d5c790984e9b99de9b220a30c6b35dcdbf86a5de10629754bafedbb54f70f9cf</guid>
-<pubDate>2026-09-10T19:42:25+09:00</pubDate>
-<description>はじめに 「Kimi Codeを試してみたいが、Claude Codeと何が違うのか」「kimi-cliとkimi-codeとKimi K2.7 Codeは同じものなのか」「設定ファイルにどこまで書けるのか」。Kimi Codeは開発が非常に速く、日本語の情報は断片的で、...</description>
-</item>
-<item>
-<title>【Qiita】 WebMCPで動画編集アプリをAIエージェント対応にする：状態検証・プレビュー・Undoの実装</title>
-<link>https://qiita.com/MartinDelophy/items/bcf2909553d02b47edde</link>
-<guid>75ccc6065c03911a47dc2b06dc35fba01ad8e1b7f65f958ec5f77f865cec900d</guid>
-<pubDate>2026-09-10T18:56:07+09:00</pubDate>
-<description>ブラウザで動くオープンソースの動画エディタ「Timeline Studio」に、WebMCP経由でAIエージェントが操作できる機能を追加しました。v1.0.8では、プロジェクトの確認、編集案のプレビュー、適用、取り消し、編集可能なプロジェクトの保存までを扱います。 この記事...</description>
-</item>
-<item>
-<title>【Qiita】 社内ドキュメントの陳腐化をAIで洗い出す：仕様書と課題の食い違いを月1回チェックする運用にしました</title>
-<link>https://qiita.com/spina1/items/7dc1eb54fd26b315beb9</link>
-<guid>fce5fbd59028e8fc626585fa7ed28539e39fb40dccd0242766b174ece7f9b512</guid>
-<pubDate>2026-09-10T17:45:03+09:00</pubDate>
-<description>はじめに うちのナレッジベースを数えてみたら、1年以上まったく更新されていないページが3割ありました。 こんにちは！ONESのふえです。この数字自体は、正直そんなに怖くありません。まるごと古いページは、開いた人が「これは古いな」と自分で気づけるからです。 本当に事故になる...</description>
-</item>
-<item>
-<title>【Qiita】 実際に使われるAIは「1つの手順を消すAI」だった——G2が600件超のレビューで見たオーディエンス分析ツールの現実</title>
-<link>https://qiita.com/Navaneeth/items/5f9525243d2b00f12589</link>
-<guid>5fd9012336c382cfc09545486d543d8e6ec70e0adc557c43ff5e692b519e3965</guid>
-<pubDate>2026-09-10T15:59:23+09:00</pubDate>
-<description>はじめに 「エージェンティックAIがデータを分析し、トレンドを見つけ、戦略まで自律的に決める」——オーディエンスインテリジェンス（オーディエンス分析）ツールの未来像として、こういう言葉がよく語られます。 では、いま実際にユーザーが使っているAI機能は何なのか？ G2が 60...</description>
-</item>
-<item>
-<title>【環境】 Where global warming meets urban development</title>
-<link>https://www.nature.com/articles/s41558-026-02743-5</link>
-<guid>21a56acca5e1542408f541c0645d2ab04f3ddc9f85ecbaf3552dcc19af19bf36</guid>
-<pubDate>2026-09-10</pubDate>
-<description>Global warming and urban development combine to shape the temperatures people experience in cities. Here I revisit a 2016 attribution study of urban warming in China and consider what its legacy reveals about urban climate knowledge, responsibility and action.</description>
-</item>
-<item>
-<title>【環境】 Greening masks stability loss in drylands</title>
-<link>https://www.nature.com/articles/s41558-026-02733-7</link>
-<guid>afcd9a71b3d1ef22652d3fe28ea2d4d07c2230ca6db08ed8c15a7389b106d4c8</guid>
-<pubDate>2026-09-10</pubDate>
-<description>The authors consider greening trends and interannual variability, linked to ecosystem stability, in dryland ecosystems across 40 years (1982–2020). They show persistent greening yet increased interannual variability, with the latter driven by increasing rainfall sensitivity.</description>
-</item>
-<item>
-<title>【環境】 Discovering catastrophic weather risks</title>
-<link>https://www.nature.com/articles/s41893-026-01929-1</link>
-<guid>7414006ca850041b5a619899937fee71a27a442a2bd792321f9c0da09a20c73c</guid>
-<pubDate>2026-09-10</pubDate>
-<description>Extreme weather is becoming more common as Earth’s climate changes. This Perspective argues that the most catastrophic extremes, beyond what has been previously recorded, must be considered and prepared for to avoid drastic impacts.</description>
-</item>
-<item>
-<title>【自動自律実験】 AI researchers reckon with the $1.5 million ‘academia tax’</title>
-<link>https://www.nature.com/articles/d41586-026-02026-1</link>
-<guid>84e12c2206eb24a8974d39483bccf05349fe5f858869fc357e79cbd463419e11</guid>
-<pubDate>2026-09-10</pubDate>
-<description>Academics explain that their research freedom beats the increased salary they would get in the corporate sector, but emerging hybrid models might allow them to get the best of both worlds.</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>9c5ff1f4aa044b5615e90fba1aa700f959953c3ad6d681a2f4944cf8ffc8c58a</guid>
-<pubDate>Thu, 10 Sep 2026 11:34:49 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 Google AntigravityとBlenderをMCP連携</title>
+<link>https://qiita.com/5avvadaJ1r0/items/de41fcdecc71d8c13eb4</link>
+<guid>009749dde6c2ede21c0251d7f584057b19071ee4b2cfc3f67c95062063c2a25e</guid>
+<pubDate>2026-09-10T22:50:17+09:00</pubDate>
+<description>AIエージェントの選定について AIエージェントからMCP連携でBlenderを操作する手段ですが、Google Antigravityが一番お手軽で安定していたので手順をまとめました。(macOSのみ) 他のAIエージェントに関しては下記の理由で見送っています。 Cl...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>7c431d2309a8e1f1dcbcc2ab23916e4ca2f25f3ac0d9aca2005c3ddfb45f2b71</guid>
-<pubDate>Thu, 10 Sep 2026 11:34:52 GMT</pubDate>
+<guid>5c0285b4f9bab019bbda7cab2414426010befcfffbd653e3babb481cd3e55bb9</guid>
+<pubDate>Thu, 10 Sep 2026 15:29:28 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>efcc77555fe51b545577c313452f37b0ae5a8481bcdd3294f58baea39d1a8fa7</guid>
+<pubDate>Thu, 10 Sep 2026 15:29:30 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 
