@@ -4,43 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 11 Sep 2026 18:53:24 GMT</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 21:27:27 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Code Routinesは、なぜ毎回「初めまして」なのか ― gitリポジトリを&quot;記憶&quot;にして朝刊メールを動かした話</title>
-<link>https://qiita.com/depolycore/items/bd3910b889f6ba921900</link>
-<guid>01c424bd0b1715311d2d32e77245ade356e70f604d3855242fceba1c2439026a</guid>
-<pubDate>2026-09-12T00:42:01+09:00</pubDate>
-<description>「AIエージェントの記憶」を扱った記事はすでにたくさんあります。ただ、その多くは汎用的な設計論か、mem0・Zepみたいなメモリライブラリの比較が中心でした。この記事はそのどちらでもなく、Claude Code Routinesという具体的な機能の制約の上で、実際に毎朝...</description>
+<title>【Qiita】 【体験談】1年目、バッチ実装で3ヶ月溶かした話 — 『世界一流エンジニアの思考法』で振り返る</title>
+<link>https://qiita.com/suneo46/items/522f0bcac1532e23048d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>057b239588bd909420b22f6e7747184d012a56983755feba454b90476d25ec4b</guid>
+<pubDate>2026-09-10T13:47:07+09:00</pubDate>
+<description>はじめに エンジニアになって4年目になりました。 1年目の頃、あるバッチ処理の実装を行ったことがあります。 見積もりは1週間でした。しかし実際は、完成するまでに3ヶ月かかりました。 原因は、技術的に難しかったからではありません。 「何をすればいいか分からない」「何が分から...</description>
+</item>
+<item>
+<title>【Qiita】 VBAマネージャーのAIエージェント化、どうしてこんな事をやるかようやくAIが理解してくれた話</title>
+<link>https://qiita.com/shu15511551/items/b20d34e01e63cbd15b3b</link>
+<guid>f00bcdead12861647224f9e1f5280d39e6f1a8f0a3b8ee8bc9f2602ecb7943fb</guid>
+<pubDate>2026-09-12T04:31:07+09:00</pubDate>
+<description>はじめに 前回はこう書いて締めました。「思うようには進みません。ただ、進む向きは変わりました。」 正直に書くと、ここまで VBAマネージャーのAIエージェント化を進めてきて、私はずっと一つの印象を持っていました。道具を一緒に作っている Claude Code が、な...</description>
+</item>
+<item>
+<title>【自動自律実験】 NSF moves to overhaul funding approach in line with White House priorities</title>
+<link>https://www.nature.com/articles/d41586-026-02892-9</link>
+<guid>149050bb3c776a3ea9d73320942c97a720bda0a57cc600256d2e669525156447</guid>
+<pubDate>2026-09-11</pubDate>
+<description>The major funder of basic science has not said how its new initiatives will be funded — but staff worry streamlined approach will further squeeze cash for core sciences.</description>
+</item>
+<item>
+<title>【自動自律実験】 People trust scientists seen to be &#x27;on their side&#x27;, UK study find</title>
+<link>https://www.nature.com/articles/d41586-026-02883-w</link>
+<guid>19905bade8f92331a9a22babe6043a73947eed279c94bd67d7934f55fa591bab</guid>
+<pubDate>2026-09-11</pubDate>
+<description>Politics and personal values influence people’s confidence in scientists, finds new report</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>ca98ce81db7c609283ba2af858f3c627808ca91f306c2f55f5ed618f5299a93b</guid>
-<pubDate>Fri, 11 Sep 2026 18:52:40 GMT</pubDate>
+<guid>9353b3afb4716276672db9de36918318820dc0e3c4f07aad6abe345041c88207</guid>
+<pubDate>Fri, 11 Sep 2026 21:26:27 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>1bf90e12e21a8f0e57cd60686419a58b91fd9bfbdb57f18c09689c0d6f5392c7</guid>
-<pubDate>Fri, 11 Sep 2026 18:52:42 GMT</pubDate>
+<guid>6693eb3fea62c5971beb1559e26555fab677ebdd9f3d390c48d395ece3a71e54</guid>
+<pubDate>Fri, 11 Sep 2026 21:26:29 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>0e7660717253b0af4b2314342cc7e0050b23c1b87028c9a5f383b14d7ac9a38a</guid>
-<pubDate>Fri, 11 Sep 2026 18:53:03 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>6954bdb3e6ed160f3a882736774ddae2a92ea9ff5a3766997e3514d32d5a1dad</guid>
-<pubDate>Fri, 11 Sep 2026 18:53:05 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
