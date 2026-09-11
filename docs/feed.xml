@@ -4,49 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 11 Sep 2026 21:27:27 GMT</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 23:26:36 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【体験談】1年目、バッチ実装で3ヶ月溶かした話 — 『世界一流エンジニアの思考法』で振り返る</title>
-<link>https://qiita.com/suneo46/items/522f0bcac1532e23048d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>057b239588bd909420b22f6e7747184d012a56983755feba454b90476d25ec4b</guid>
-<pubDate>2026-09-10T13:47:07+09:00</pubDate>
-<description>はじめに エンジニアになって4年目になりました。 1年目の頃、あるバッチ処理の実装を行ったことがあります。 見積もりは1週間でした。しかし実際は、完成するまでに3ヶ月かかりました。 原因は、技術的に難しかったからではありません。 「何をすればいいか分からない」「何が分から...</description>
+<title>【Qiita】 PowerVS IBM i 日記(113): PowerVS ストレージコントローラーの新モデルへの更新 - eu-de-1(FRA04)での実施例</title>
+<link>https://qiita.com/6onoda/items/79da18484bbd54fd9b34</link>
+<guid>16395fa38c2480e05614f817a59e0fbeb1733aebe7fe286be131b373e63a8069</guid>
+<pubDate>2026-09-12T07:46:57+09:00</pubDate>
+<description>前回の下記ではTOK04のPowerVS ストレージコントローラーの新モデルへの更新の対象かの確認をお願いしました。 PowerVS IBM i 日記(112): PowerVS TOK04でストレージコントローラーの新モデルへの更新 - 2026-09-18までに対象か...</description>
 </item>
 <item>
-<title>【Qiita】 VBAマネージャーのAIエージェント化、どうしてこんな事をやるかようやくAIが理解してくれた話</title>
-<link>https://qiita.com/shu15511551/items/b20d34e01e63cbd15b3b</link>
-<guid>f00bcdead12861647224f9e1f5280d39e6f1a8f0a3b8ee8bc9f2602ecb7943fb</guid>
-<pubDate>2026-09-12T04:31:07+09:00</pubDate>
-<description>はじめに 前回はこう書いて締めました。「思うようには進みません。ただ、進む向きは変わりました。」 正直に書くと、ここまで VBAマネージャーのAIエージェント化を進めてきて、私はずっと一つの印象を持っていました。道具を一緒に作っている Claude Code が、な...</description>
-</item>
-<item>
-<title>【自動自律実験】 NSF moves to overhaul funding approach in line with White House priorities</title>
-<link>https://www.nature.com/articles/d41586-026-02892-9</link>
-<guid>149050bb3c776a3ea9d73320942c97a720bda0a57cc600256d2e669525156447</guid>
-<pubDate>2026-09-11</pubDate>
-<description>The major funder of basic science has not said how its new initiatives will be funded — but staff worry streamlined approach will further squeeze cash for core sciences.</description>
-</item>
-<item>
-<title>【自動自律実験】 People trust scientists seen to be &#x27;on their side&#x27;, UK study find</title>
-<link>https://www.nature.com/articles/d41586-026-02883-w</link>
-<guid>19905bade8f92331a9a22babe6043a73947eed279c94bd67d7934f55fa591bab</guid>
-<pubDate>2026-09-11</pubDate>
-<description>Politics and personal values influence people’s confidence in scientists, finds new report</description>
+<title>【Qiita】 PowerVS IBM i 日記(112): PowerVS TOK04でストレージコントローラーの新モデルへの更新 - 2026-09-18までに対象か確認を</title>
+<link>https://qiita.com/6onoda/items/6681ec58fd206b6af826</link>
+<guid>e7914c96c8bb44b652c5327b99734827d11043a0e4da0938b53c318bf117d8d8</guid>
+<pubDate>2026-09-12T07:44:22+09:00</pubDate>
+<description>PowerVSでストレージコントローラーの新モデルへの更新 IBM CloudのいくつかのDCでPowerVS用の外部ストレージ・コントローラーが新モデルへ更新中です。 必ずしも、すべてのDCで更新されるわけではありません。TOK04は更新対象ですが、OSA21は今のとこ...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>9353b3afb4716276672db9de36918318820dc0e3c4f07aad6abe345041c88207</guid>
-<pubDate>Fri, 11 Sep 2026 21:26:27 GMT</pubDate>
+<guid>34fa1f1daf02c7b844382d2a7f5fd5a77215ce698b47d6c3f37f7f22ceb6ec54</guid>
+<pubDate>Fri, 11 Sep 2026 23:25:00 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>6693eb3fea62c5971beb1559e26555fab677ebdd9f3d390c48d395ece3a71e54</guid>
-<pubDate>Fri, 11 Sep 2026 21:26:29 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+<link>https://www.nature.com/articles/s41598-026-69355-z</link>
+<guid>59b4832506d8f9e982d2047e943bbafb73b0f53ea51bfe518e6456c31a1d8e03</guid>
+<pubDate>Fri, 11 Sep 2026 23:25:05 GMT</pubDate>
+<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
 </item>
 
 </channel>
