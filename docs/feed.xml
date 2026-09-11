@@ -4,56 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 11 Sep 2026 01:16:37 GMT</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 06:14:59 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「Critical」という格付けをGPT-6 Astraが受け取った週、このタスクが触れていいリポジトリは2つしかなかった</title>
-<link>https://qiita.com/Hideki_Tamae/items/e94b93c17d48f4673ade</link>
-<guid>d344f45376ec7658bc55bd4db103f751b0e53e67c0cb52db8163318e5cd0d433</guid>
-<pubDate>2026-09-11T09:46:02+09:00</pubDate>
-<description>はじめに 100%。 これが今回の数字です。何の100%かというと、OpenAIが2026年9月3日に発表した新モデル「GPT-6 Astra」が、本番用の安全対策を外した状態で、自社のエクスプロイト開発ベンチマーク「ExploitBench」に記録したスコアです。同じ評...</description>
+<title>【Qiita】 「Agent Execution Watchdog」のススメ - GitHub Copilotの長時間ジョブは、待ち続けてよいのか。私のチャットログから考えた、進捗・停止・Tokenの扱い</title>
+<link>https://qiita.com/dahatake/items/a9631a1c906bcbb12cd3</link>
+<guid>815ed8a748dbf485cc678b7433f6d2f72405e1106297304799a63e391335074a</guid>
+<pubDate>2026-09-11T13:32:48+09:00</pubDate>
+<description>本記事は、私個人の見解と、私の開発環境で得られた記録に基づくものです。所属組織の公式見解ではありません。記載したPromptや監視機構を、そのままプロダクションの自動停止に使うことは勧めていません。 1. 背景 GitHub Copilotに開発を任せていると、1つの...</description>
 </item>
 <item>
-<title>【Qiita】 Shopifyがモバイルアプリをネイティブに戻す、AIが二度書きを安くした</title>
-<link>https://qiita.com/okssusucha/items/9ad8c8585a6d9292641b</link>
-<guid>d81bd59dc00d41ee793fa37601f578125a2048f1bb27dfe3ded7d5c9e5661890</guid>
-<pubDate>2026-09-11T09:11:24+09:00</pubDate>
-<description>ひとことで言うと、「AIがコードを書けるので、手間が増える作り方でも割に合う時代になった」という話です。ネット通販の基盤を作るShopifyが、スマホアプリの作り方を大きく変えました。私たちが技術を選ぶときの当たり前も、静かに動き始めています。 きっかけは同社が公開した2本...</description>
+<title>【Qiita】 Hono + zod の既存APIから、本体を1行も変えずにOpenAPIを自動生成する</title>
+<link>https://qiita.com/amanity-haray/items/36c4e4d7443703159cac</link>
+<guid>f8e1f63c0f2202f4a6f39cc580e9ad427fffa021b234800f0c9afb35f30217ff</guid>
+<pubDate>2026-09-11T13:07:19+09:00</pubDate>
+<description>AIエージェントに社内のAPIを叩かせていたところ、毎回同じ種類の失敗をしていました。必須項目を取り違えて400、選択肢に無い値を送って400、レスポンスの形を知らずに「空だった」と誤解する、呼び出し先のURLをソースコードから探す。どれも「呼ぶ前にスキーマが分かっていれ...</description>
 </item>
 <item>
-<title>【Qiita】 Agentic AI Lens の Lightweight Classifier って何？AI Supervisor 比較するとコスト効率が90倍以上になった</title>
-<link>https://qiita.com/R-You/items/43eb506421c5265d505b</link>
-<guid>cdfcd2223803e80a8e69857544e53beadcc1aba4895f399b1a530d7bbea58f22</guid>
-<pubDate>2026-09-11T08:47:31+09:00</pubDate>
-<description>「2026 Japan AWS Jr. Champions 真夏のQiitaリレー」 の42日目の投稿です！ 過去の投稿は以下の（リンク集）からご覧ください！ https://qiita.com/ys-yoshida/private/6f7c7f85155a993e2c86...</description>
+<title>【Qiita】 2026年9月11日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/552b61295bfa9bc2c20a</link>
+<guid>0f5fd798d360cd1ed585402aea534c6cc609df7c4cfdc07e6f9bd49ff3415d27</guid>
+<pubDate>2026-09-11T10:53:39+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 AIっぽくない画像を作る画風プロンプト38種類...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code の changelog が「変更した」と書いた挙動は、5バージョン前から同じだった</title>
-<link>https://qiita.com/suwa_nobu/items/e710494b7f98c653eec0</link>
-<guid>81bdf053341a6baa6c8a44da563f2b7667a12a3fbf6f7bfcd8da348695e979da</guid>
-<pubDate>2026-09-11T08:39:38+09:00</pubDate>
-<description>Claude Code 2.1.268（2026-09-10）の changelog に、こう書かれています。 Changed the task-tracking tools (TaskCreate/Get/Update/List, TodoWrite) to be of...</description>
+<title>【Qiita】 Claude Code を Jetbrains IDE の中で動かす、無料プラグイン「Air Alpha」を使ってみた</title>
+<link>https://qiita.com/nattogohan123/items/8328a51b81879ca7053e</link>
+<guid>dec063896b5d2d5be1d6449ccccfce65964f99419908271acd5addc61a970f87</guid>
+<pubDate>2026-09-11T10:20:52+09:00</pubDate>
+<description>はじめに Claude Code と Codex CLI をターミナルで使っていて、エージェントの変更をエディター/IDEでコードを読み、別ウィンドウのターミナルで指示を出し、書き換わった差分を見るためにエディター/IDEに戻る、という往復をしていませんか。 同時に複数の...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>718af78c167edc035028a564a4de50c2bd11ecdc55d40042883a87625590f69b</guid>
+<pubDate>Fri, 11 Sep 2026 06:14:01 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>ecbe71099888faceda01733ea0421a2896ef4a8f7a39568860865c5b33f2d428</guid>
+<pubDate>Fri, 11 Sep 2026 06:14:01 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overall shape class. read more read more read more read more read more read </description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>489d089d7cbb24e1630e193e1a85f945d87a5d8b7c0680702663679185bcf6e4</guid>
-<pubDate>Fri, 11 Sep 2026 01:15:39 GMT</pubDate>
+<guid>e04288f9e6915e0827b869d87f3efb07d927c5256742c1de4f2e385a0d15b20b</guid>
+<pubDate>Fri, 11 Sep 2026 06:14:03 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>4ed9d2a8ce12a08f5852e3c1af099f19a99895b51d08e29139ae4b61b4e9e7a8</guid>
-<pubDate>Fri, 11 Sep 2026 01:15:42 GMT</pubDate>
+<guid>a01ac8a538015539396236055776ca18045a1466bafd5b5f8c810af4d4182cd6</guid>
+<pubDate>Fri, 11 Sep 2026 06:14:05 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>b80ecc4999a3104714accae54cc6630b93834d6cf9a8c117abec959fb81ca399</guid>
-<pubDate>Fri, 11 Sep 2026 01:15:45 GMT</pubDate>
-<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>277cb433edff6aa950de86b9deffc7cb107355a57a39d9604e430fcf2e8a68bc</guid>
+<pubDate>Fri, 11 Sep 2026 06:14:06 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
