@@ -4,57 +4,43 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 11 Sep 2026 15:32:35 GMT</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 18:53:24 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Amazon Quick のデスクトップアプリがGAしました！同時に来た2つのアップデートも合わせて紹介します</title>
-<link>https://qiita.com/ryosaan/items/5011610ffcd1eb6710c5</link>
-<guid>8860563603f89183e6cd03314c47be6efd8e2786d6e47e06bca68e6d28ff3ff3</guid>
-<pubDate>2026-09-11T23:07:25+09:00</pubDate>
-<description>はじめに みなさん、Amazon Quick はもう触られていますか？ 2026年9月9日に、デスクトップアプリが GA（一般提供開始） になりました。しかも同じ日に、Quick まわりのアップデートが他に2本出ています。 Amazon Quick desktop ap...</description>
-</item>
-<item>
-<title>【自動自律実験】 Briefing Chat: The Bunsen burner myth that turns out to be just hot air</title>
-<link>https://www.nature.com/articles/d41586-026-02893-8</link>
-<guid>46846279623d130559688358d0ce03e63ebeb8cd2c31f29be57c422c4b5dd49a</guid>
-<pubDate>2026-09-11</pubDate>
-<description>Nature staff discuss an AI tool that can assess the impact of 9 billion mutations — plus, how the Bunsen burner’s reputation for sterilization might be based on tradition alone.</description>
-</item>
-<item>
-<title>【自動自律実験】 El Niño goes viral — and scientists learn what makes people care about the climate</title>
-<link>https://www.nature.com/articles/d41586-026-02763-3</link>
-<guid>a3fa460dc7cc97effeabfedae53c8fcdf46fd67ec93a0b4b0b3ee7751422ebcc</guid>
-<pubDate>2026-09-11</pubDate>
-<description>Evoking emotions is more likely to prompt people to engage with climate efforts than are data alone.</description>
-</item>
-<item>
-<title>【自動自律実験】 Successful early-career scientists rely on network of mentors</title>
-<link>https://www.nature.com/articles/d41586-026-02827-4</link>
-<guid>bf7aa58609044b6ef55aa852d992ec5c5b09644711c0af1f75cc57e871533244</guid>
-<pubDate>2026-09-11</pubDate>
-<description>Large networks are particularly beneficial to researchers in under-represented groups.</description>
+<title>【Qiita】 Claude Code Routinesは、なぜ毎回「初めまして」なのか ― gitリポジトリを&quot;記憶&quot;にして朝刊メールを動かした話</title>
+<link>https://qiita.com/depolycore/items/bd3910b889f6ba921900</link>
+<guid>01c424bd0b1715311d2d32e77245ade356e70f604d3855242fceba1c2439026a</guid>
+<pubDate>2026-09-12T00:42:01+09:00</pubDate>
+<description>「AIエージェントの記憶」を扱った記事はすでにたくさんあります。ただ、その多くは汎用的な設計論か、mem0・Zepみたいなメモリライブラリの比較が中心でした。この記事はそのどちらでもなく、Claude Code Routinesという具体的な機能の制約の上で、実際に毎朝...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>fb91428720ed98147f349075620854087f97da214fb916506d69b1a015714466</guid>
-<pubDate>Fri, 11 Sep 2026 15:31:17 GMT</pubDate>
+<guid>ca98ce81db7c609283ba2af858f3c627808ca91f306c2f55f5ed618f5299a93b</guid>
+<pubDate>Fri, 11 Sep 2026 18:52:40 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>3f5215c340d3150d25f31e608cff79a93cd0967c9f45045b7c508b2921109fd8</guid>
-<pubDate>Fri, 11 Sep 2026 15:31:19 GMT</pubDate>
+<guid>1bf90e12e21a8f0e57cd60686419a58b91fd9bfbdb57f18c09689c0d6f5392c7</guid>
+<pubDate>Fri, 11 Sep 2026 18:52:42 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>fb8c176fbe9571ad5a6944c66e26063a1aca6a55cced53d1943c76dd50a3fb8e</guid>
-<pubDate>Fri, 11 Sep 2026 15:32:14 GMT</pubDate>
+<guid>0e7660717253b0af4b2314342cc7e0050b23c1b87028c9a5f383b14d7ac9a38a</guid>
+<pubDate>Fri, 11 Sep 2026 18:53:03 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>6954bdb3e6ed160f3a882736774ddae2a92ea9ff5a3766997e3514d32d5a1dad</guid>
+<pubDate>Fri, 11 Sep 2026 18:53:05 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
