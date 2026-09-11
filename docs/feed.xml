@@ -4,70 +4,106 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 11 Sep 2026 06:14:59 GMT</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 11:37:09 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「Agent Execution Watchdog」のススメ - GitHub Copilotの長時間ジョブは、待ち続けてよいのか。私のチャットログから考えた、進捗・停止・Tokenの扱い</title>
-<link>https://qiita.com/dahatake/items/a9631a1c906bcbb12cd3</link>
-<guid>815ed8a748dbf485cc678b7433f6d2f72405e1106297304799a63e391335074a</guid>
-<pubDate>2026-09-11T13:32:48+09:00</pubDate>
-<description>本記事は、私個人の見解と、私の開発環境で得られた記録に基づくものです。所属組織の公式見解ではありません。記載したPromptや監視機構を、そのままプロダクションの自動停止に使うことは勧めていません。 1. 背景 GitHub Copilotに開発を任せていると、1つの...</description>
+<title>【Qiita】 うっかり世界最強のWasmコンパイラを作ってしまった件</title>
+<link>https://qiita.com/kanryu/items/95147e22ed5ac542ba58?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>512efd8c9477788a243706943d88f4f20e696c5518b5069ca83c3d4e6f5c653f</guid>
+<pubDate>2026-09-09T16:52:55+09:00</pubDate>
+<description>はじめに ブラウザで高速なバイナリ処理や計算ロジックを動かしたいとき、WebAssembly（Wasm）の導入を検討したことのあるWebエンジニアは多いはずです。しかし、いざ手を出そうとすると、常に過剰なトレードオフに突き当たります。 C/C++（Emscripten...</description>
 </item>
 <item>
-<title>【Qiita】 Hono + zod の既存APIから、本体を1行も変えずにOpenAPIを自動生成する</title>
-<link>https://qiita.com/amanity-haray/items/36c4e4d7443703159cac</link>
-<guid>f8e1f63c0f2202f4a6f39cc580e9ad427fffa021b234800f0c9afb35f30217ff</guid>
-<pubDate>2026-09-11T13:07:19+09:00</pubDate>
-<description>AIエージェントに社内のAPIを叩かせていたところ、毎回同じ種類の失敗をしていました。必須項目を取り違えて400、選択肢に無い値を送って400、レスポンスの形を知らずに「空だった」と誤解する、呼び出し先のURLをソースコードから探す。どれも「呼ぶ前にスキーマが分かっていれ...</description>
+<title>【Qiita】 「IT業界ってドライ？」社外でも助け合うエンジニアたちが、実は誰よりも「仲間」を大事にしている理由</title>
+<link>https://qiita.com/m__ikeda/items/134e4f90c60aeeff7194?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>e43325136da4160ba5ded98338d86ad4bffc7047a9946707f21822be5e3e4b95</guid>
+<pubDate>2026-09-11T15:18:03+09:00</pubDate>
+<description>自己紹介 こんにちは。株式会社PRUMで採用広報を担当している池田です。 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊 もしIT業界に興味があるけど、...</description>
 </item>
 <item>
-<title>【Qiita】 2026年9月11日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/552b61295bfa9bc2c20a</link>
-<guid>0f5fd798d360cd1ed585402aea534c6cc609df7c4cfdc07e6f9bd49ff3415d27</guid>
-<pubDate>2026-09-11T10:53:39+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 AIっぽくない画像を作る画風プロンプト38種類...</description>
+<title>【Qiita】 terraform plan -minimal-refreshでplanを爆速にする</title>
+<link>https://qiita.com/minamijoyo/items/92c094b554d090b54a17?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>47ca83a62a52248ba57f164d69088bda578b8b045d518218aa451d280b4b02f3</guid>
+<pubDate>2026-09-11T10:46:51+09:00</pubDate>
+<description>はじめに terraformで管理しているリソースが増えてきて、tfstateが肥大化してくると、terraform planがどんどん遅くなり、待ってる間にインターネッツを眺めがちです。 根本解決は、適度な粒度にtfstate分割ですが、もっとお手軽な小手先のテクニック...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code を Jetbrains IDE の中で動かす、無料プラグイン「Air Alpha」を使ってみた</title>
-<link>https://qiita.com/nattogohan123/items/8328a51b81879ca7053e</link>
-<guid>dec063896b5d2d5be1d6449ccccfce65964f99419908271acd5addc61a970f87</guid>
-<pubDate>2026-09-11T10:20:52+09:00</pubDate>
-<description>はじめに Claude Code と Codex CLI をターミナルで使っていて、エージェントの変更をエディター/IDEでコードを読み、別ウィンドウのターミナルで指示を出し、書き換わった差分を見るためにエディター/IDEに戻る、という往復をしていませんか。 同時に複数の...</description>
+<title>【Qiita】 AIエージェントとは何か</title>
+<link>https://qiita.com/aimldl/items/9a45003e773bac28ff48</link>
+<guid>87e2456b4000b41c3616238a75de3f348ba73893b7636eda6b8916dbaf400a3c</guid>
+<pubDate>2026-09-11T20:23:29+09:00</pubDate>
+<description>はじめに 生成AIについて調べていると、「AIエージェント」という言葉をよく目にします。しかし、チャットボットや従来の自動化システムと何が違うのか、曖昧に感じることもあります。 AIエージェントの基本的な定義を確認したうえで、手動・従来の自動化・AIエージェントの違いを整...</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>718af78c167edc035028a564a4de50c2bd11ecdc55d40042883a87625590f69b</guid>
-<pubDate>Fri, 11 Sep 2026 06:14:01 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 Claude Codeのパーミッション設定でハマりやすい落とし穴</title>
+<link>https://qiita.com/Yusei_tech/items/3445ecd6b726b8bf7517</link>
+<guid>17063f200510bb5616bfa34a21fbfdfdd32b6a815858380d309b1adb584c568d</guid>
+<pubDate>2026-09-11T20:01:44+09:00</pubDate>
+<description>はじめに はじめまして、テックバディ運営の大下です。 Claude Codeを使い始めて最初にやるのが、パーミッション（許可）設定です。毎回「このコマンドを実行していいですか？」と聞かれるのが煩わしくなり、.claude/settings.json に allow を書き...</description>
 </item>
 <item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>ecbe71099888faceda01733ea0421a2896ef4a8f7a39568860865c5b33f2d428</guid>
-<pubDate>Fri, 11 Sep 2026 06:14:01 GMT</pubDate>
-<description>Sakana AI Blog read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overall shape class. read more read more read more read more read more read </description>
+<title>【Qiita】 権限の93%は読まずに通っている — Claude Code auto mode が何を見て止めているか</title>
+<link>https://qiita.com/portalmatsuki/items/bef78a921f43e23692f9</link>
+<guid>a82b7cd4303ac4c500b017366b5a2b72a179370dab8aaba02cc4e486b4771523</guid>
+<pubDate>2026-09-11T19:11:12+09:00</pubDate>
+<description>図解 はじめに 権限の確認ダイアログが出たとき、中身をどれくらい読んでいるでしょうか。 Anthropic が数字を出しました。 Users approve 93% of permission prompts in Claude Code. （利用者は Claude...</description>
+</item>
+<item>
+<title>【Qiita】 VBAマネージャーのAIエージェント化、いろいろやって意味があるとわかってきた話</title>
+<link>https://qiita.com/shu15511551/items/fee39a2d7c86ed93e08d</link>
+<guid>39c28ccf3939a648e9f115c900dc2b6a7f132aee472fbb9bfb4f185d381c41ee</guid>
+<pubDate>2026-09-11T18:26:16+09:00</pubDate>
+<description>はじめに VBAマネージャーのAIエージェント化に変わらず取り組んでいますが、なかなか思うようには進みません。 前回はこう書いて締めました。「次は、他人のブックです。」 その次の一枚は、まだ開いていません。代わりにこの四日間で起きたのは、テスト射撃で残高を使い切った...</description>
+</item>
+<item>
+<title>【Qiita】 C# と AI Agent で入札適合性チェックを実装する：PDF と Word の条項照合</title>
+<link>https://qiita.com/iceblue/items/d6db1f5059ca946d6503</link>
+<guid>955cf1b153115e68486d0cd0b943972288047fecb4c4bd546bd8f62bf9335a5c</guid>
+<pubDate>2026-09-11T19:45:06+09:00</pubDate>
+<description>入札では、価格だけでなく、入札説明書に記載された必須要件を一つでも満たしていないことが失格につながる場合があります。しかし、必須要件は「参加資格」「契約条件」「技術要件」など複数の章に分散しており、数十ページから百ページを超える文書を人手で確認すると、見落としが発生しやすく...</description>
+</item>
+<item>
+<title>【Qiita】 C#で経費精算を監査する：Word規程とExcel明細をAIで照合</title>
+<link>https://qiita.com/iceblue/items/725bc1f282b666db065a</link>
+<guid>9cf2607d8cd7969d9d8798eaf8225b56fd4e182db3b590b0d2bdc0406da82922</guid>
+<pubDate>2026-09-11T18:31:23+09:00</pubDate>
+<description>経費精算の監査では、Wordに記載された社内規程と、Excelにまとめられた精算明細を照合し、規定違反や証憑不足、期限超過などを確認する必要があります。明細が増えるほど、こうした確認を手作業で行う負担も大きくなります。 従来は、監査ルールをコードに組み込む方法が一般的でした...</description>
+</item>
+<item>
+<title>【Qiita】 自律型AIエージェントの認証と最小権限IAM：MCP・トークン委任・Policy-as-Code完全解説</title>
+<link>https://qiita.com/agdexai/items/f24bcadb4812273505a0</link>
+<guid>c4fc75ac6d84f397e4a618d5fdd50dc47c1f98d24128c0830163e327d94f02cb</guid>
+<pubDate>2026-09-11T17:33:40+09:00</pubDate>
+<description>2026年、自律型AIエージェントはソースコードの修正、本番データベースの照会、クラウドインフラの自動変更を担う存在となりました。しかし、多くのエンタープライズ実装では依然として管理者権限を持つ静的APIキーが環境変数にベタ書きされており、間接プロンプトインジェクションによ...</description>
+</item>
+<item>
+<title>【環境】 Compound and heterogeneous relationships between climate extremes and global net migration</title>
+<link>https://www.nature.com/articles/s41558-026-02752-4</link>
+<guid>bfe648d21baa59eb77e01be2f852af00771702bb9373db13e197845662dd469d</guid>
+<pubDate>2026-09-11</pubDate>
+<description>Climate extremes influence migration, but their long-term and compounding impacts are understudied. The authors show that associations between climate extremes and migration vary by hazard type, timing, the occurrence of consecutive events and local socioeconomic conditions.</description>
+</item>
+<item>
+<title>【環境】 Divergence between physical and emotional heat resilience in Chinese cities</title>
+<link>https://www.nature.com/articles/s41558-026-02732-8</link>
+<guid>f7b6f2560e465a322db5dfac4b501e5961258afd92d5e169cfc471d88b676c09</guid>
+<pubDate>2026-09-11</pubDate>
+<description>Heatwaves threaten both physical and mental health, yet physical heat exposure and emotional responses often diverge. The study shows that 84.9% of Chinese cities experienced severe emotional shocks, compared with 52.1% facing severe heat exposure, driven by socioeconomic and environmental factors.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>e04288f9e6915e0827b869d87f3efb07d927c5256742c1de4f2e385a0d15b20b</guid>
-<pubDate>Fri, 11 Sep 2026 06:14:03 GMT</pubDate>
+<guid>f97dd236dd83885cbe314148729139f6df43d5a042c7e68445880ee6bb4dc196</guid>
+<pubDate>Fri, 11 Sep 2026 11:36:28 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>a01ac8a538015539396236055776ca18045a1466bafd5b5f8c810af4d4182cd6</guid>
-<pubDate>Fri, 11 Sep 2026 06:14:05 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>277cb433edff6aa950de86b9deffc7cb107355a57a39d9604e430fcf2e8a68bc</guid>
-<pubDate>Fri, 11 Sep 2026 06:14:06 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>4bcd55434242bcc4f2c4916cdc6c995550aaed1eb0384d7158989179602e495e</guid>
+<pubDate>Fri, 11 Sep 2026 11:36:51 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
