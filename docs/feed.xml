@@ -4,29 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 12 Sep 2026 13:56:12 GMT</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 16:40:33 GMT</lastBuildDate>
 
 <item>
+<title>【Qiita】 仕様駆動開発をエージェントの進化に合わせて軽くしたい</title>
+<link>https://qiita.com/y-hirakaw/items/d64d1c077302a50f2e69</link>
+<guid>2136c737ce8cb1450131d33d69a337dd9afa18cd9e6b50539ce597117038ba4a</guid>
+<pubDate>2026-09-13T00:15:52+09:00</pubDate>
+<description>最近はバックエンドチームにいて、サーバ側のAPIを作る案件をメインでやっています。そのチームで仕様駆動開発（SDD）をやっています。ツールはOpenSpecで、PBIごとに要望（proposal.md）、仕様（spec.md）、対応方針（design.md）、タスク（tas...</description>
+</item>
+<item>
+<title>【Qiita】 コーディングエージェントを使う上でのコンテキスト管理入門 — Claude CodeとCodexの公式ドキュメントから「なぜ必要か」「放置するとどうなるか」「どのコマンドで管理するか」を整理する</title>
+<link>https://qiita.com/Takuya__/items/85659512e93f4d8fa3ef</link>
+<guid>f09bd9f418d648760afdbf4e1854d2da370f6ec9b94204fdb4e69a930759f76c</guid>
+<pubDate>2026-09-12T23:55:21+09:00</pubDate>
+<description>はじめに Claude CodeやCodexのようなコーディングエージェントを使い始めると、最初の数十分はとても快適です。ところが、同じセッションで1〜2時間作業を続けていると、次のような症状に出会うことがあります。 序盤に伝えた「APIの形は変えないでください」という...</description>
+</item>
+<item>
+<title>【Qiita】 AI Agentのレビューを後付けにしないRust製OSSを作った</title>
+<link>https://qiita.com/DwarfM42/items/89c36495164f906f3ffa</link>
+<guid>8932874cc306d77e5ead8c6b91f35ba5a98238fed5b3ff6a0c433ed09c543172</guid>
+<pubDate>2026-09-12T23:26:12+09:00</pubDate>
+<description>AI Agentに実装を任せる。 別のAgentにレビューさせる。 問題があれば修正し、もう一度レビューする。 こうした開発フローは、もうそれほど珍しくなくなりました。 私自身もAgentへかなりの作業を任せています。 そこで気になったのが、ログの量ではなく「何を根拠に次の...</description>
+</item>
+<item>
+<title>【Qiita】 図解：AI Agentは裏側で何をしているのか？ LLM・Skills・MCP・Toolsまで20ステップで理解する</title>
+<link>https://qiita.com/softbase/items/6cd88fdd97420bba680c</link>
+<guid>4c01eb46b1ebc7d85b0598945ace1d36d0ad924f24337e4e753a9e15c892188e</guid>
+<pubDate>2026-09-13T00:19:32+09:00</pubDate>
+<description>LLMを利用したアプリケーションは、ここ数年で単純な「質問 → 回答」の仕組みから、自分で必要な処理を判断し、外部システムを操作するAI Agentへと進化しています。 従来のLLMアプリケーションであれば、基本的な流れは次のようなものでした。 User ↓ LLM ...</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>47f1ccc2f149d9d7f6f0a579094a79b4fd91d09db7d2c3c2ecbb12ceb1800970</guid>
+<pubDate>Sat, 12 Sep 2026 16:39:11 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overall shape class. read more read more read more read more read </description>
+</item>
+<item>
 <title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>6fb2f0f765f6769b98c05b28da249d15c70cf66fa40f171eed4584943ee51a74</guid>
-<pubDate>Sat, 12 Sep 2026 13:55:30 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+<link>https://www.nature.com/articles/s41467-026-77657-z</link>
+<guid>822cfe46ed1a357758dabea20023c0189f19876f65fd7c34b582f3cb822282d4</guid>
+<pubDate>Sat, 12 Sep 2026 16:39:13 GMT</pubDate>
+<description>This study reports a series of CRBN molecular glues that selectively induce proteasomal degradation of VAV1, a hematopoietic-specific signaling protein and key target in hematological malignancies and autoimmune diseases. Using unbiased global proteomics, we identify phenyl-glutarimide derivatives (e.g., NGT-201-12) as effective VAV1 degraders that engage its C-terminal SH3 domain (SH3-2). We elucidate a non-canonical RT-loop degron (RDxS motif, residues 796–799) in SH3-2, distinct from previously characterized G-loop degrons, supported by the physics- and AI-driven GluePlex workflow and site-directed mutagenesis. Applying Free Energy Perturbation (FEP) to predicted ternary structures yields cooperativity metrics that correlate with degradation potency, overcoming limitations of standard docking and enabling prospective ranking of analogs—even from weak initial binders. We further show that conformational restriction via halogen substitution (e.g., NGT-201-18) potentiates degradation, a principle rationalized by DFT calculations, while comprehensive SAR studies chart a roadmap for next-generation degraders. Dose-response proteomics confirms VAV1 as the primary target and reveals LI</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>8fbb4cf547a8de5320f867111ec05eb6a47e05e7e7057e7cdcc3f37f571efd8d</guid>
-<pubDate>Sat, 12 Sep 2026 13:55:54 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>de7bdb03751dd9b0d28702b8c44b5d3fb71672a73bbc0c70fe3924f3d96675ee</guid>
-<pubDate>Sat, 12 Sep 2026 13:56:04 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<title>【Self-driving laboratories】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-76533-0</link>
+<guid>55edd319b888e92f2971ecf7aaacd6d474b65924948310c19e21e18bb4638ff4</guid>
+<pubDate>Sat, 12 Sep 2026 16:39:40 GMT</pubDate>
+<description>Self-driving laboratories are powerful tools for navigating high-dimensional process spaces, yet Bayesian-optimization decision layers optimize black-box objective functions without distilling transferable process understanding. Here, we demonstrate a mathematically interpretable self-driving laboratory framework that transforms autonomous optimization data into human-executable growth rules. As a benchmark, we apply this framework to sputtering, addressing a challenge in sputtering epitaxy: realizing high-quality β-Ga2O3 heteroepitaxy and single-crystalline β-Ga2O3 homoepitaxy. By combining Bayesian optimization with automated optical evaluation of the Urbach energy as a sub-bandgap disorder metric, the self-driving system identifies heteroepitaxial conditions yielding an Urbach energy of 182 meV, below previously reported values for sputtered β-Ga2O3 films. Importantly, the optimized growth window is transferable across substrates, realizing single-crystalline β-Ga2O3 homoepitaxy, corroborated by scanning transmission electron microscopy. To convert closed-loop data into interpretable growth rules, we train a random forest surrogate and reveal that the growth landscape is describ</description>
 </item>
 
 </channel>
