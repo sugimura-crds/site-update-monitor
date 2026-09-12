@@ -4,63 +4,29 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 12 Sep 2026 11:01:27 GMT</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 13:56:12 GMT</lastBuildDate>
 
-<item>
-<title>【Qiita】 アクセスログから不正アクセスの兆候を見つける7つの集計(nginx/Apache対応・コピペOK)</title>
-<link>https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>618ed4b3c1285d8a1955e93532997e0880fb1a31aed6b6b0049aed0052b8f997</guid>
-<pubDate>2026-09-11T07:30:00+09:00</pubDate>
-<description>「うちのサイト、攻撃されていませんか?」と聞かれたとき、答えはたいていサーバのアクセスログの中にあります。ただ生ログを tail で眺めても、1 日数万行の中から異常だけを拾うことはできません。 この記事は、サーバに SSH で入れる Web 担当者・サイト運営者・制作会社...</description>
-</item>
-<item>
-<title>【Qiita】 AWSのインフラ導入でAIを使っている箇所と手でやっている箇所</title>
-<link>https://qiita.com/infra365/items/aa30a54fc6f0849385a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>d77a63f83b357e811c122c29cbda22b89d9e1544b6b5de0e310f3dab4763f5f5</guid>
-<pubDate>2026-09-11T14:51:35+09:00</pubDate>
-<description>はじめに 「AIはボトルネックを解消するものではなく、ボトルネックを他の工程に移しているだけ」という話を聞きました。私はシステム導入の中でAIを使いこなせているわけではないのですが、当然一部にはAIを活用しているため、改めてどのようにシステム導入の工程を実施していて、どこ...</description>
-</item>
-<item>
-<title>【Qiita】 最新版FRRouting(FRR)のインストール方法</title>
-<link>https://qiita.com/shiyasu/items/6ec8582157272fabcca5</link>
-<guid>7112934c9155b2637752eca464d9dd6e128ec83c667e1949f5508ce81abc1e6b</guid>
-<pubDate>2026-09-12T18:57:18+09:00</pubDate>
-<description>1. はじめに FRRouting（FRR） は、Linux サーバーをルーターとして動作させるためのオープンソースのルーティングソフトウェアです。BGP、OSPF、IS-IS、RIP などの主要なルーティングプロトコルをサポートしており、データセンター、クラウド、サービ...</description>
-</item>
-<item>
-<title>【Qiita】 Bedrock AgentCore Memory にカスタム名前空間変数が追加されたので、マルチテナントAIエージェントのメモリ分離を試してみた</title>
-<link>https://qiita.com/leomarokun/items/ec629bcabd0046ec0ce5</link>
-<guid>60441d9d3df167dce5630378b2c96da4a48e81e4b15182e8615f8507d4f25d60</guid>
-<pubDate>2026-09-12T17:47:05+09:00</pubDate>
-<description>はじめに エージェントの長期記憶(メモリ)をどうやってテナントごとに分離するか Amazon Bedrock AgentCore Memoryは、エージェントの会話から長期記憶を自動抽出してくれる便利な機能ですが、これまでは記憶の整理に使える軸が以下の通りでした。 a...</description>
-</item>
-<item>
-<title>【Qiita】 1本のShortsができるまでの全部 — AIエージェントと毎日更新のニュース動画を作る</title>
-<link>https://qiita.com/kernel_yu/items/70d65dc8bcc00412fd2c</link>
-<guid>a72e5a1837625cad560d842b1188e9f2f0ef3dbf490a574b29ba6764073e0f64</guid>
-<pubDate>2026-09-12T17:16:25+09:00</pubDate>
-<description>ずんだもんがAIニュースを5本読み上げるYouTube Shortsシリーズを、AIエージェント(Claude Code)と立ち上げました。ニュース集めから投稿までを6工程に分けた記録です。1本あたり約40分、費用はほぼゼロ。 できたもの: https://www.yout...</description>
-</item>
-<item>
-<title>【Qiita】 「解析できなかった」を「何も無い」に見せない。静的コード索引 omitnix を出しました</title>
-<link>https://qiita.com/ishizakahiroshi/items/ecb2576dd459f058920b</link>
-<guid>dad7c7d33d8094fd1490ce546814eb9ea51b9ade62774df7060bf58361dcaa7e</guid>
-<pubDate>2026-09-12T16:54:24+09:00</pubDate>
-<description>コードベースの目録を作る道具は、いくつもあります。作ること自体は難しくありません。 難しいのは、その目録が「全量です」と言い切れる状態を保つことのほうでした。 パーサが理解できないファイルが 1 つ足されると、たいていの生成器はそれを黙って飛ばします。行が消えるだけなので...</description>
-</item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>41a7ba42cfc6f9eb22212e310e51b5a2b80b7cdd6a6c466699e546e07481d637</guid>
-<pubDate>Sat, 12 Sep 2026 11:00:23 GMT</pubDate>
+<guid>6fb2f0f765f6769b98c05b28da249d15c70cf66fa40f171eed4584943ee51a74</guid>
+<pubDate>Sat, 12 Sep 2026 13:55:30 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>183c5918abae274e2928691039cedf530ae1fd6f3ff964d2c11ab3148a55dfb4</guid>
-<pubDate>Sat, 12 Sep 2026 11:00:35 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>8fbb4cf547a8de5320f867111ec05eb6a47e05e7e7057e7cdcc3f37f571efd8d</guid>
+<pubDate>Sat, 12 Sep 2026 13:55:54 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>de7bdb03751dd9b0d28702b8c44b5d3fb71672a73bbc0c70fe3924f3d96675ee</guid>
+<pubDate>Sat, 12 Sep 2026 13:56:04 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
