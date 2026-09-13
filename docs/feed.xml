@@ -4,35 +4,43 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 12 Sep 2026 23:08:40 GMT</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 01:15:39 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントはどこで動かすべきか ― 配置行列・重力モデル・三面アーキテクチャによる設計指針 ―</title>
-<link>https://qiita.com/cvusk/items/549b0b3811ac22d77453</link>
-<guid>8b4116014ba323c045039be2ff7b46669dcb176cf78b3ccdb3182f2934c90bda</guid>
-<pubDate>2026-09-13T07:49:51+09:00</pubDate>
-<description>概要 「AIエージェントをどこで動かすか」という問いは、ローカル、マネージドサービス、クラウドでの自前構築、SaaS内蔵という4つの選択肢として語られがちです。 しかし、エージェントは一枚岩ではありません。複数の構成要素に分解でき、それぞれを異なる場所に配置できます。 本...</description>
+<title>【Qiita】 NVIDIA PAIR(Personal AI Router)は何をルーティングするのか — LiteLLM / Switchyard との違いから「役割」を整理する</title>
+<link>https://qiita.com/M_Ozu/items/90ef4a40a1e2e1fa31f2</link>
+<guid>cdcb2b986acd9e7eeac17348f9618e51eb3bf39677b56c436efe81057c876a12</guid>
+<pubDate>2026-09-13T09:46:33+09:00</pubDate>
+<description>本記事では実機検証の前段として、一次ドキュメントと公開リポジトリからNVIDIA PAIRのアーキテクチャと狙いを紐解き、既存のルーター群との住み分け・全体構造を整理します。 はじめに 2026年9月、NVIDIAが「PAIR(Personal AI Router...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeの締めに使うスキルを作った</title>
-<link>https://qiita.com/r-hirayama/items/6509f98d213fb6f3dde2</link>
-<guid>6c064b938a4b33a442f46b83ab54d540a3f261d2a87e582dbeb5b9251bb9042a</guid>
-<pubDate>2026-09-13T07:00:03+09:00</pubDate>
-<description>Claude Codeでまとまった作業をしたあと、セッションの中に出てきた学びやissueが埋もれがちだったので、close-out-retroというスキルを作った。 リポジトリ: https://github.com/ryo823/close-out-retro ...</description>
+<title>【Qiita】 「13日間で11個」の新モデルラッシュを調べた日、自分の自動投稿タスクの設定にはモデル名が3つ並んでいた</title>
+<link>https://qiita.com/Hideki_Tamae/items/b75463d2908c3687ada8</link>
+<guid>066ec6993359a2145f938d3a7a52b99dfeb4ba4056d77ddd751d3f3652783cb6</guid>
+<pubDate>2026-09-13T09:45:52+09:00</pubDate>
+<description>はじめに 3。 これが今回の数字です。何の3かというと、この記事を自動で書いて投稿している自分自身のタスクが、起動時に指定している実行モデルの名前の数です。1つではありません。プライマリが1つと、それが使えなかったときのフォールバックが2つ、合わせて3つのモデル名が優先順...</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-77657-z</link>
-<guid>952e0c25ab532287968a7354de8ffd9ff05288612e01f5d85d154998cd897d75</guid>
-<pubDate>Sat, 12 Sep 2026 23:07:43 GMT</pubDate>
-<description>This study reports a series of CRBN molecular glues that selectively induce proteasomal degradation of VAV1, a hematopoietic-specific signaling protein and key target in hematological malignancies and autoimmune diseases. Using unbiased global proteomics, we identify phenyl-glutarimide derivatives (e.g., NGT-201-12) as effective VAV1 degraders that engage its C-terminal SH3 domain (SH3-2). We elucidate a non-canonical RT-loop degron (RDxS motif, residues 796–799) in SH3-2, distinct from previously characterized G-loop degrons, supported by the physics- and AI-driven GluePlex workflow and site-directed mutagenesis. Applying Free Energy Perturbation (FEP) to predicted ternary structures yields cooperativity metrics that correlate with degradation potency, overcoming limitations of standard docking and enabling prospective ranking of analogs—even from weak initial binders. We further show that conformational restriction via halogen substitution (e.g., NGT-201-18) potentiates degradation, a principle rationalized by DFT calculations, while comprehensive SAR studies chart a roadmap for next-generation degraders. Dose-response proteomics confirms VAV1 as the primary target and reveals LI</description>
+<title>【Qiita】 2026年9月13日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/65f9a6ecd8a6945ca4d1</link>
+<guid>0f6c3038df1d2a64ca671f1bee362df624775df8468913ea1af509970460c9e4</guid>
+<pubDate>2026-09-13T08:31:55+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 terraform plan -minimal...</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>9e53697ae9f4109c1baed52ff5eda6f29a4d6b509c4ee9da69da50d07e13a8d7</guid>
-<pubDate>Sat, 12 Sep 2026 23:07:48 GMT</pubDate>
+<guid>0a68bcf1114b7792e666021b6747515c463666a8e13b4cc8dcbc610bd8664e4e</guid>
+<pubDate>Sun, 13 Sep 2026 01:14:44 GMT</pubDate>
 <description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>005d6c779ab3c5a96419ccf37dd9bbb98a6e41ba6c6c5193b183bb1e76123b0a</guid>
+<pubDate>Sun, 13 Sep 2026 01:15:24 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
