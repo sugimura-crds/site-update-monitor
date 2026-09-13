@@ -4,63 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 13 Sep 2026 06:25:52 GMT</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 12:11:11 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIの進化を止めるのではなく、「安全が追いつける速度」にする──Dario Amodei「We Must Pace the Frontier」をIT技術者の視点で読む</title>
-<link>https://qiita.com/mhamadajp/items/a9e9c6546d2b3197d312</link>
-<guid>909dcbf4cbb887f574e5e967bc3e5f12a3187f89f0509ac51d4601b2cb132f54</guid>
-<pubDate>2026-09-13T14:32:58+09:00</pubDate>
-<description>AIの性能が伸び続けるなら、開発を速くするほどよいのだろうか。通常のソフトウェアなら、答えは単純ではない。新機能の投入がテスト、監視、セキュリティレビュー、障害対応、ロールバックの能力を超えれば、速いリリースは価値ではなくリスクになる。 Anthropic CEOのDari...</description>
+<title>【Qiita】 耳で聞く！Python で学ぶ マクロ経済学 入門 12</title>
+<link>https://qiita.com/maskot1977/items/f2970f2d91493f37e0b2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>a5b5d41e2ae75a6ec02292eb1c837bd31818b31143fc70a4633e297abdba108c</guid>
+<pubDate>2026-09-13T06:06:19+09:00</pubDate>
+<description>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ご提示いただいたソース動画のタイトルおよび、その動画で語られている詳細な内容について解説します。 動画のタイトル 「借金を増やすほど借金は減る: Pythonで学ぶマ...</description>
 </item>
 <item>
-<title>【Qiita】 自己改善するAIエージェント、コードを知識グラフ化するRAG、Wi-Fiで人を検知するOSS――今日見ておきたいGitHub 3選【2026/09/13】</title>
-<link>https://qiita.com/tsuzuri_ai/items/0dd254ddb6a2f296fec9</link>
-<guid>fc37bb71208a306a31502a36430edf617434f97808934d4d3fe0c9ce2eaee0fc</guid>
-<pubDate>2026-09-13T13:59:48+09:00</pubDate>
-<description>自己改善するAIエージェント、コードを知識グラフ化するRAG、Wi-Fiで人を検知するOSS――今日見ておきたいGitHub 3選【2026/09/13】 GitHubでは毎日、かなりの数のRepositoryが話題になります。 ただ、Trendingを上から全部読むの...</description>
+<title>【Qiita】 Go Conference 2026 参加レポート</title>
+<link>https://qiita.com/Hiruge/items/0672d873ca21a86cdf60?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>cb13f1da1d0b27000a564da8459bff18ff28e260be6aad067d9a595b5a301b16</guid>
+<pubDate>2026-09-12T21:06:46+09:00</pubDate>
+<description>はじめに こんにちは、ひるげです。 昨日、Go Conference 2026に参加してきました。 技術カンファレンスに参加するのは、実はこれが初めてです。 私は青森の大学院に通っているのですが、東京のカンファレンスに行くとなると移動だけで一苦労です。 しかしなんと！今回...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント自作の実践書5選</title>
-<link>https://qiita.com/koukyo/items/469359ebd9c43ab91913</link>
-<guid>20af0a1e0ad7d882cfb60cd1749590487dd26423824daa1a8795edacd43017f1</guid>
-<pubDate>2026-09-13T11:48:46+09:00</pubDate>
-<description>はじめに 半年ほど前、社内のコードレビューを補助するエージェントを自分で組んでみた。Claude Code を毎日使っていたので、同じようなものは週末で作れるだろうと思っていた。結果は散々だった。ツール呼び出しが同じファイルを何度も読み直し、20分で数十万トークンを消費し...</description>
+<title>【Qiita】 Claude CodeはIssueを自分で作っているのか。1週間数えた</title>
+<link>https://qiita.com/saitoko/items/d881e70e145f84989072</link>
+<guid>dd6d8691e4efa72620b53e7e94483badcf08b73162df543ea7339b4a1a3ea479</guid>
+<pubDate>2026-09-13T20:15:11+09:00</pubDate>
+<description>この記事の実施記録（2026年9月）: Claude Codeに委任していたタスク管理ツールのバグ修正で、「直したら直しただけ新しいバグ報告（Issue）が生まれる」という体感が続いたため、2026-09-05に1日分のIssueを全部数えて検証した。結果は「2件生まれて3...</description>
 </item>
 <item>
-<title>【Qiita】 GLM-5.2をAPIで試したら、MIT公開744BがGPT-5.5を上回っていた</title>
-<link>https://qiita.com/kai_kou/items/f4b3bbde6af15fb0c2da</link>
-<guid>5f0b677477754b3e14e3d631699115b213167ceafdb7334d38d5a4eac58ee859</guid>
-<pubDate>2026-09-13T12:05:54+09:00</pubDate>
-<description>はじめに Z.ai（旧Zhipu AI）が2026年6月にリリースしたGLM-5.2は、重み（モデルパラメータ）をMITライセンスで公開しながら、長時間タスクのコーディングベンチマークでGPT-5.5を上回るスコアを出した。「オープンウェイトなのに商用フロンティアモデルに...</description>
+<title>【Qiita】 AIハーネスはAIで作る。実仕事を任せ続けたらYAMATOがこの形になった</title>
+<link>https://qiita.com/sakumori/items/2a687664d04c80264e0e</link>
+<guid>65071fade19f1063947055762766206c02b32b8c0f5a09c98d376374eeb829c1</guid>
+<pubDate>2026-09-13T16:31:45+09:00</pubDate>
+<description>最近、「AIハーネス」という言葉を知りました。 最初は「また新しいAI用語が出てきたな」くらいに思っていたのですが、調べているうちに、だんだん見覚えのある話になってきました。 これ、YAMATOでやっていることでは？ YAMATOを作り始めたころ、AIハーネスという言葉は知...</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>cd2282205527bcbd3c0f5a181e0287de539d228b592975a5bac9b70fe531c0c0</guid>
-<pubDate>Sun, 13 Sep 2026 06:25:16 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 LLMのSNS運用で文脈を失わないための、原文ログと投稿台帳の分け方</title>
+<link>https://qiita.com/gitmeshi/items/e2fcfc1da7a0bada5ea4</link>
+<guid>f4027695dce5b1a20453af6963a1fb22cc087e7aa398b20be7cdeef0f241604b</guid>
+<pubDate>2026-09-13T15:52:58+09:00</pubDate>
+<description>LLMに返信を書かせるとき、毎回「自然に返してください」と頼むだけでは、会話の続きにならないことがあります。前にこちらが何を聞いたかが入力になければ、相手の「はい」が何に対する返事なのか分からないからです。 GitMeshiというOSS情報アカウントの運用では、公開された原...</description>
+</item>
+<item>
+<title>【Qiita】 先週「40%」を一次ソース未確認で紹介した。今日Gartnerの発表を2本とも確認したら、別々の予測だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/e6c00831695c2c9f484e</link>
+<guid>26107599ae8d6dfe398c16db5f190e5aa6b512ad4891e29c6de8e0342580d2d9</guid>
+<pubDate>2026-09-13T15:27:37+09:00</pubDate>
+<description>はじめに 2つ。 これが今回の数字です。何の2かというと、直近1年ほどの間にGartnerが「AIエージェント」と「40%」という同じ組み合わせのキーワードで発表した、中身がまったく別の予測プレスリリースの本数です。 先週、この定期タスクで書いた記事の中で、「タスク特化型...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77657-z</link>
-<guid>7de53c2463c6fe80b657b7e16d3a8b15a2c6f38902ee652112a0c34816424f47</guid>
-<pubDate>Sun, 13 Sep 2026 06:25:19 GMT</pubDate>
+<guid>9bc6b1b8c363864e2572c7998d0fbc5858a5bd2ba86aa76429e810064208c746</guid>
+<pubDate>Sun, 13 Sep 2026 12:09:57 GMT</pubDate>
 <description>This study reports a series of CRBN molecular glues that selectively induce proteasomal degradation of VAV1, a hematopoietic-specific signaling protein and key target in hematological malignancies and autoimmune diseases. Using unbiased global proteomics, we identify phenyl-glutarimide derivatives (e.g., NGT-201-12) as effective VAV1 degraders that engage its C-terminal SH3 domain (SH3-2). We elucidate a non-canonical RT-loop degron (RDxS motif, residues 796–799) in SH3-2, distinct from previously characterized G-loop degrons, supported by the physics- and AI-driven GluePlex workflow and site-directed mutagenesis. Applying Free Energy Perturbation (FEP) to predicted ternary structures yields cooperativity metrics that correlate with degradation potency, overcoming limitations of standard docking and enabling prospective ranking of analogs—even from weak initial binders. We further show that conformational restriction via halogen substitution (e.g., NGT-201-18) potentiates degradation, a principle rationalized by DFT calculations, while comprehensive SAR studies chart a roadmap for next-generation degraders. Dose-response proteomics confirms VAV1 as the primary target and reveals LI</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>6197b4a4b9808163dc54f88802b1598b32d78ff8f929d44096d669f9c129dac7</guid>
-<pubDate>Sun, 13 Sep 2026 06:25:22 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>7cf919525d24c79f98364eb897f52151a7c6b048c153d4e9783c38b314ef094b</guid>
-<pubDate>Sun, 13 Sep 2026 06:25:23 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
