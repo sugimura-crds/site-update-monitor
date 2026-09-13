@@ -4,43 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 13 Sep 2026 01:15:39 GMT</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 06:25:52 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 NVIDIA PAIR(Personal AI Router)は何をルーティングするのか — LiteLLM / Switchyard との違いから「役割」を整理する</title>
-<link>https://qiita.com/M_Ozu/items/90ef4a40a1e2e1fa31f2</link>
-<guid>cdcb2b986acd9e7eeac17348f9618e51eb3bf39677b56c436efe81057c876a12</guid>
-<pubDate>2026-09-13T09:46:33+09:00</pubDate>
-<description>本記事では実機検証の前段として、一次ドキュメントと公開リポジトリからNVIDIA PAIRのアーキテクチャと狙いを紐解き、既存のルーター群との住み分け・全体構造を整理します。 はじめに 2026年9月、NVIDIAが「PAIR(Personal AI Router...</description>
+<title>【Qiita】 AIの進化を止めるのではなく、「安全が追いつける速度」にする──Dario Amodei「We Must Pace the Frontier」をIT技術者の視点で読む</title>
+<link>https://qiita.com/mhamadajp/items/a9e9c6546d2b3197d312</link>
+<guid>909dcbf4cbb887f574e5e967bc3e5f12a3187f89f0509ac51d4601b2cb132f54</guid>
+<pubDate>2026-09-13T14:32:58+09:00</pubDate>
+<description>AIの性能が伸び続けるなら、開発を速くするほどよいのだろうか。通常のソフトウェアなら、答えは単純ではない。新機能の投入がテスト、監視、セキュリティレビュー、障害対応、ロールバックの能力を超えれば、速いリリースは価値ではなくリスクになる。 Anthropic CEOのDari...</description>
 </item>
 <item>
-<title>【Qiita】 「13日間で11個」の新モデルラッシュを調べた日、自分の自動投稿タスクの設定にはモデル名が3つ並んでいた</title>
-<link>https://qiita.com/Hideki_Tamae/items/b75463d2908c3687ada8</link>
-<guid>066ec6993359a2145f938d3a7a52b99dfeb4ba4056d77ddd751d3f3652783cb6</guid>
-<pubDate>2026-09-13T09:45:52+09:00</pubDate>
-<description>はじめに 3。 これが今回の数字です。何の3かというと、この記事を自動で書いて投稿している自分自身のタスクが、起動時に指定している実行モデルの名前の数です。1つではありません。プライマリが1つと、それが使えなかったときのフォールバックが2つ、合わせて3つのモデル名が優先順...</description>
+<title>【Qiita】 自己改善するAIエージェント、コードを知識グラフ化するRAG、Wi-Fiで人を検知するOSS――今日見ておきたいGitHub 3選【2026/09/13】</title>
+<link>https://qiita.com/tsuzuri_ai/items/0dd254ddb6a2f296fec9</link>
+<guid>fc37bb71208a306a31502a36430edf617434f97808934d4d3fe0c9ce2eaee0fc</guid>
+<pubDate>2026-09-13T13:59:48+09:00</pubDate>
+<description>自己改善するAIエージェント、コードを知識グラフ化するRAG、Wi-Fiで人を検知するOSS――今日見ておきたいGitHub 3選【2026/09/13】 GitHubでは毎日、かなりの数のRepositoryが話題になります。 ただ、Trendingを上から全部読むの...</description>
 </item>
 <item>
-<title>【Qiita】 2026年9月13日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/65f9a6ecd8a6945ca4d1</link>
-<guid>0f6c3038df1d2a64ca671f1bee362df624775df8468913ea1af509970460c9e4</guid>
-<pubDate>2026-09-13T08:31:55+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 terraform plan -minimal...</description>
+<title>【Qiita】 AIエージェント自作の実践書5選</title>
+<link>https://qiita.com/koukyo/items/469359ebd9c43ab91913</link>
+<guid>20af0a1e0ad7d882cfb60cd1749590487dd26423824daa1a8795edacd43017f1</guid>
+<pubDate>2026-09-13T11:48:46+09:00</pubDate>
+<description>はじめに 半年ほど前、社内のコードレビューを補助するエージェントを自分で組んでみた。Claude Code を毎日使っていたので、同じようなものは週末で作れるだろうと思っていた。結果は散々だった。ツール呼び出しが同じファイルを何度も読み直し、20分で数十万トークンを消費し...</description>
+</item>
+<item>
+<title>【Qiita】 GLM-5.2をAPIで試したら、MIT公開744BがGPT-5.5を上回っていた</title>
+<link>https://qiita.com/kai_kou/items/f4b3bbde6af15fb0c2da</link>
+<guid>5f0b677477754b3e14e3d631699115b213167ceafdb7334d38d5a4eac58ee859</guid>
+<pubDate>2026-09-13T12:05:54+09:00</pubDate>
+<description>はじめに Z.ai（旧Zhipu AI）が2026年6月にリリースしたGLM-5.2は、重み（モデルパラメータ）をMITライセンスで公開しながら、長時間タスクのコーディングベンチマークでGPT-5.5を上回るスコアを出した。「オープンウェイトなのに商用フロンティアモデルに...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>cd2282205527bcbd3c0f5a181e0287de539d228b592975a5bac9b70fe531c0c0</guid>
+<pubDate>Sun, 13 Sep 2026 06:25:16 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-77657-z</link>
+<guid>7de53c2463c6fe80b657b7e16d3a8b15a2c6f38902ee652112a0c34816424f47</guid>
+<pubDate>Sun, 13 Sep 2026 06:25:19 GMT</pubDate>
+<description>This study reports a series of CRBN molecular glues that selectively induce proteasomal degradation of VAV1, a hematopoietic-specific signaling protein and key target in hematological malignancies and autoimmune diseases. Using unbiased global proteomics, we identify phenyl-glutarimide derivatives (e.g., NGT-201-12) as effective VAV1 degraders that engage its C-terminal SH3 domain (SH3-2). We elucidate a non-canonical RT-loop degron (RDxS motif, residues 796–799) in SH3-2, distinct from previously characterized G-loop degrons, supported by the physics- and AI-driven GluePlex workflow and site-directed mutagenesis. Applying Free Energy Perturbation (FEP) to predicted ternary structures yields cooperativity metrics that correlate with degradation potency, overcoming limitations of standard docking and enabling prospective ranking of analogs—even from weak initial binders. We further show that conformational restriction via halogen substitution (e.g., NGT-201-18) potentiates degradation, a principle rationalized by DFT calculations, while comprehensive SAR studies chart a roadmap for next-generation degraders. Dose-response proteomics confirms VAV1 as the primary target and reveals LI</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>0a68bcf1114b7792e666021b6747515c463666a8e13b4cc8dcbc610bd8664e4e</guid>
-<pubDate>Sun, 13 Sep 2026 01:14:44 GMT</pubDate>
-<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>6197b4a4b9808163dc54f88802b1598b32d78ff8f929d44096d669f9c129dac7</guid>
+<pubDate>Sun, 13 Sep 2026 06:25:22 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>005d6c779ab3c5a96419ccf37dd9bbb98a6e41ba6c6c5193b183bb1e76123b0a</guid>
-<pubDate>Sun, 13 Sep 2026 01:15:24 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>7cf919525d24c79f98364eb897f52151a7c6b048c153d4e9783c38b314ef094b</guid>
+<pubDate>Sun, 13 Sep 2026 06:25:23 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
