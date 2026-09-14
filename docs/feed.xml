@@ -4,126 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 14 Sep 2026 14:50:44 GMT</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 19:42:01 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【未経験】勉強する時間がない。それでも今の仕事の中で、ITにつながる経験はつくれる</title>
-<link>https://qiita.com/m__ikeda/items/86a44010e433b1d0081c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>f68f13bc97e0067058bff057caec1437753b228ae515d87bf3cf8443b6dbe5a4</guid>
-<pubDate>2026-09-14T15:27:42+09:00</pubDate>
-<description>自己紹介 こんにちは。株式会社PRUMで採用広報を担当している池田です。 未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊 もしIT業界に興味があるけど、...</description>
+<title>【Qiita】 Confluent で非構造化データを扱う：Claim Check パターンで作る RAG パイプライン</title>
+<link>https://qiita.com/NobuMochizuki/items/c4cfa6af364fb27b8d43</link>
+<guid>d84947e8c970f483101f0b80be38303d6ac57a2c5d8c563965d20f546f8973bf</guid>
+<pubDate>2026-09-15T00:06:12+09:00</pubDate>
+<description>はじめに：Kafka で非構造化データを扱う難しさ Kafka はもともと構造化されたイベントデータを高速・大量に流すために設計されたメッセージバスです。ログ、トランザクション、センサーデータなど、スキーマが定義された比較的小さなメッセージを扱うのが得意です。 一方で、P...</description>
 </item>
 <item>
-<title>【Qiita】 【参加レポート】CrazyなBossと戯れる「深夜のAWS Gameday」に挑んできた【JAWS SONIC】</title>
-<link>https://qiita.com/y_wakai/items/c795939c85cc23c5e74e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>39b7e89165da88b8a2ad6537cd42962787d5b8e7e2ba57a9de1de982f25d3bc6</guid>
-<pubDate>2026-09-14T10:46:38+09:00</pubDate>
-<description>はじめに 2026年9月6日（日）深夜2時、JAWS SONICの「深夜のAWS Gameday」というセッションで、AWS GameDayに参加してきました。JAWS SONICはJAWS-UG（AWS User Group – Japan）主催の24時間オンラインリレ...</description>
+<title>【Qiita】 AI Agentは「誰の権限」で動くのか？ Entra IDの権限とOBOを整理する</title>
+<link>https://qiita.com/tanemudao/items/20be4b7ddc0c3e4123f6</link>
+<guid>1d97dab05be52a608a6f6400800d8464bbf0303851e44e58fedd49923eb1f8c1</guid>
+<pubDate>2026-09-15T02:02:38+09:00</pubDate>
+<description>この記事は、連載「AI AgentとIdentity」の第1回：概念編です。 生成AIの活用が進み、最近では「質問に答えるだけ」ではなく、AI Agentがメールを読んだり、予定を確認したり、社内システムを操作したりするケースが増えてきました。 例えば、こんなAgentです...</description>
 </item>
 <item>
-<title>【Qiita】 最初は「背景が真っ黒」としか言えなかった — 専門外でAIの出力を判定できるようになるまで</title>
-<link>https://qiita.com/kernel_yu/items/531d65791c256cb611a5</link>
-<guid>4b3418ce2ff9a833ad535414d942b0fe02b39fcdacd9f53cc5e63b0b9c753101</guid>
-<pubDate>2026-09-14T23:23:45+09:00</pubDate>
-<description>専門外の分野をAIエージェントに作らせると、出てきたものが良いのか悪いのか判定できないという壁に当たります。バグなら落ちるので分かりますが、「この背景は廃棄層に見えるか」は落ちません。 私は3Dで止まりました。最初に言えたのは「背景が真っ黒」だけです。12日後、同じ私が「低...</description>
+<title>【Qiita】 BeatAPIは、汎用AIエージェントのためのケイパビリティレイヤーです</title>
+<link>https://qiita.com/beatapi/items/b96d85fd7b2f9d7bfc87</link>
+<guid>67585140486eac5ec1d5ed946adaa1b645806ddbaf39d1fce8ebf71afc16401a</guid>
+<pubDate>2026-09-15T01:10:48+09:00</pubDate>
+<description>実用的なAIエージェントが、ひとつのモデルだけで完結することはほとんどありません。 計画にはテキストモデル、素材制作には画像モデル、成果物の生成には動画モデル、ソーシャルプラットフォームで今何が起きているかを知るためには外部データが必要になります。さらに将来は、外部サービ...</description>
 </item>
 <item>
-<title>【Qiita】 Chat Completions APIの会話は毎回パラレルワールド？ Responses APIと比較して理解する会話の継続性</title>
-<link>https://qiita.com/kataoka_se_sionic/items/d34cd70f1b6218a4f330</link>
-<guid>6201fd0e9483f33fa29ce85dfda1e079db53d6547ec6b69ad3d71824f435aade</guid>
-<pubDate>2026-09-14T20:32:21+09:00</pubDate>
-<description>はじめに LLMを使ったチャットアプリケーションを作っていると、当たり前のように「前の会話を覚えている」ように見えます。 例えば、 User: 私の名前は田中です。 Assistant: 田中さんですね。 User: 私の名前は何ですか？ Assistant: 田中...</description>
+<title>【Qiita】 OpenCode をWindowsで使ったときの文字化けを解決したかった話</title>
+<link>https://qiita.com/uniuni_dtg/items/b67ea8d69c2c7533b6e9</link>
+<guid>72954c24a22f3cbebc02a0a8cd257cf3438df0ea0a88aad843fbd79c2e5a209a</guid>
+<pubDate>2026-09-15T00:22:41+09:00</pubDate>
+<description>はじめに Windows上でOpenCodeを使っていると、bashツール経由でGitの結果やファイル内容を表示したときに、日本語が文字化けすることがあります。 Gitの差分やを読ませている場合、単に表示が崩れるだけでは済みません。 文字化けした内容をAIが解釈する ↓ ...</description>
 </item>
 <item>
-<title>【Qiita】 商談中の離脱ポイントを可視化するイベントトラッキング設計</title>
-<link>https://qiita.com/avecdogpresence/items/ff913144fa510389d327</link>
-<guid>d005919298175928a9dabd8639e0a2dabcc433c1906fb39146be56bb4bf6d8eb</guid>
-<pubDate>2026-09-14T17:24:19+09:00</pubDate>
-<description>商談の進捗はCRMの入力項目で追えているはずなのに、なぜか「次回連絡が途絶えた理由」だけが霧の中に残ることが多かった。私は提案資料の改善やメール文面の見直しを繰り返していたが、改善の当たり外れが大きく、原因が施策の外側にある気配を感じた。そこで注目したのが、商談中に発生する...</description>
-</item>
-<item>
-<title>【Qiita】 ママ「常にFable使うのは、銀座の伝説のママを指名して、おしぼり畳ませてるのと同じことなのよ💋」</title>
-<link>https://qiita.com/is3to4/items/5aacac48fa04cf9d0e1e</link>
-<guid>8ac2d61e8bbcb26c7e774dd6a373c63c700890aa2e054b3a366cc9602705b554</guid>
-<pubDate>2026-09-14T17:16:48+09:00</pubDate>
-<description>ちぃママ、水曜日に週次上限を溶かす 💀 ──「一番いいモデル使っときゃいいでしょ」の代償 この記事の情報は 2026年9月時点 のものです。プラン条件・必要バージョン・価格は変動が速い領域なので、実際に設定を変える前に公式ドキュメントで最新をご確認ください。 🍸 ...</description>
-</item>
-<item>
-<title>【農業】 European Union and FAO join forces to boost climate resilience of agrifood systems in Afghanistan</title>
-<link>https://www.fao.org/newsroom/detail/european-union-and-fao-join-forces-to-boost-climate-resilience-of-agrifood-systems-in-afghanistan/en</link>
-<guid>214eeac53add09643ed0e6e1dc4da5400e0fbe6fccad1c07701a336c7f87746a</guid>
-<pubDate>Mon, 14 Sep 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【環境】 Marine carbon removal at a crossroads</title>
-<link>https://www.nature.com/articles/s41558-026-02740-8</link>
-<guid>70523e217e6dd2f3c2612be3f23caac3e3cb28e083c27667a7405aec20da4219</guid>
-<pubDate>2026-09-14</pubDate>
-<description>Marine carbon dioxide removal must advance through rigorous, transparent science, but caution cannot become paralysis. With billions of tonnes of carbon removal likely to be needed each year, we need to test promising approaches responsibly while uncertainty remains.</description>
-</item>
-<item>
-<title>【環境】 Minimizing climate change adaptation trade-offs in African rangelands</title>
-<link>https://www.nature.com/articles/s41893-026-01938-0</link>
-<guid>4cba494cd0e811a4746899d595152497acdfcb985dc7e9d1bd2ca9eb552ad782</guid>
-<pubDate>2026-09-14</pubDate>
-<description>Changing rainfall patterns and intensity make adaptation a necessity for African pastoralists. Paired weather forecasting and risk smoothing help manage the trade-offs inherent to these adaptations.</description>
-</item>
-<item>
-<title>【自動自律実験】 The roots of astrology, the mysterious nature of time and more: Books in brief</title>
-<link>https://www.nature.com/articles/d41586-026-02908-4</link>
-<guid>419f5605291105b88eff614212157d84cfbf7d5b59bad50402fd1cdb28b982de</guid>
-<pubDate>2026-09-14</pubDate>
-<description>Andrew Robinson reviews five of the best science picks.</description>
-</item>
-<item>
-<title>【自動自律実験】 How is climate change affecting conifers and their ability to sequester carbon?</title>
-<link>https://www.nature.com/articles/d41586-026-02847-0</link>
-<guid>a79dd03d1ae4df2cedc03a0c7eb6efef19ea81a86000acaae4694a84dff8b482</guid>
-<pubDate>2026-09-14</pubDate>
-<description>Fresh evidence reveals that the interplay of several factors could affect the ability of these trees to grow.</description>
-</item>
-<item>
-<title>【自動自律実験】 The pet trade puts reptiles and amphibians at risk: close legal gaps now</title>
-<link>https://www.nature.com/articles/d41586-026-02852-3</link>
-<guid>0d24bf12911bd55e43ed47c39eab8c62ff1fc583b659580a123496e3ca56a219</guid>
-<pubDate>2026-09-14</pubDate>
-<description>Patchy legislation means that animals are routinely taken from their natural habitats and sold in other countries. Fresh national and international measures could help to stop this exploitation.</description>
-</item>
-<item>
-<title>【自動自律実験】 UK universities are on the brink — what is their greatest source of stress?</title>
-<link>https://www.nature.com/articles/d41586-026-02608-z</link>
-<guid>07b066acd43ef48fd3af7c638bca1548a169fbc05ccb22cb6f4080b9d0fa6f51</guid>
-<pubDate>2026-09-14</pubDate>
-<description>Nature asked eight leaders in higher education what they thought about the state of UK institutions. Here’s how they answered.</description>
-</item>
-<item>
-<title>【自動自律実験】 Fraud sealed the fate of controversial zoologist Paul Kammerer — 100 years on, his ideas deserve revisiting</title>
-<link>https://www.nature.com/articles/d41586-026-02851-4</link>
-<guid>929292823b554f9510041f3f4a44179b489bfaead1c9bac1db3d6d27b7c73f66</guid>
-<pubDate>2026-09-14</pubDate>
-<description>After an eventful life in the limelight, the discovery of a manipulated specimen preceded the biologist’s death. Questions about his findings remain.</description>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>f790d6b7715a9d514e71ed84bcbd1a341b232b3622326f99653649382fef9786</guid>
+<pubDate>Mon, 14 Sep 2026 19:41:20 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overall shape class. read more read more read more read </description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77657-z</link>
-<guid>12cbe3672e5d5d668a114fafc58d0897a8dcc86dd13f96bb75fdf337a2f82df7</guid>
-<pubDate>Mon, 14 Sep 2026 14:49:39 GMT</pubDate>
+<guid>5688819b721087ef1bba7c5c16a903470a58eb50bffb49af6928985aaa2d885a</guid>
+<pubDate>Mon, 14 Sep 2026 19:41:22 GMT</pubDate>
 <description>This study reports a series of CRBN molecular glues that selectively induce proteasomal degradation of VAV1, a hematopoietic-specific signaling protein and key target in hematological malignancies and autoimmune diseases. Using unbiased global proteomics, we identify phenyl-glutarimide derivatives (e.g., NGT-201-12) as effective VAV1 degraders that engage its C-terminal SH3 domain (SH3-2). We elucidate a non-canonical RT-loop degron (RDxS motif, residues 796–799) in SH3-2, distinct from previously characterized G-loop degrons, supported by the physics- and AI-driven GluePlex workflow and site-directed mutagenesis. Applying Free Energy Perturbation (FEP) to predicted ternary structures yields cooperativity metrics that correlate with degradation potency, overcoming limitations of standard docking and enabling prospective ranking of analogs—even from weak initial binders. We further show that conformational restriction via halogen substitution (e.g., NGT-201-18) potentiates degradation, a principle rationalized by DFT calculations, while comprehensive SAR studies chart a roadmap for next-generation degraders. Dose-response proteomics confirms VAV1 as the primary target and reveals LI</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>94ddca91c30e764aaa86e7eb3844d8f7713b59f4cadf77acc21ceedc1cb6b647</guid>
-<pubDate>Mon, 14 Sep 2026 14:49:41 GMT</pubDate>
+<guid>1fd8490cc6290220aef3646ce8d3202e4b2178d6ad92dc63fc93f969eb614ba2</guid>
+<pubDate>Mon, 14 Sep 2026 19:41:25 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 AI Agents for Laboratory Instruments: 7 Use Cases and What to Automate First</title>
-<link>https://qpillars.com/blog</link>
-<guid>3ba03a3105a516e49982224bbd48d9b440043762c5d93b2b8bca6ac230a8f63e</guid>
-<pubDate>Mon, 14 Sep 2026 14:49:43 GMT</pubDate>
-<description>Technical insights from building intelligent laboratory infrastructure. Engineering deep dives, product updates, and industry analysis from the QPillars team.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>585eea6ead8f5a81d98849096e82872b844aaeba82d7546da89fc8e862892eb9</guid>
+<pubDate>Mon, 14 Sep 2026 19:41:45 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+</item>
+<item>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>e94839e7a8054864fc8bd59fcfd63a0b141c72f5f99b092af7c3cdb783a140d9</guid>
+<pubDate>Mon, 14 Sep 2026 19:41:49 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
