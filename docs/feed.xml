@@ -4,63 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 14 Sep 2026 02:24:41 GMT</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 08:00:48 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 2026年9月時点 Microsoft の AI 戦略について</title>
-<link>https://qiita.com/yoshioterada/items/c42534895d5ca89b91b1</link>
-<guid>16b4811cdfdc69d97ae05476cb96cab253e6946eaac57405a0cafc67e048463a</guid>
-<pubDate>2026-09-14T10:44:21+09:00</pubDate>
-<description>Microsoft の AI に関連するサービスは非常に多くあります。今まで私は開発中心だったため、M365関連を含む全体的な知識のアップデートが必要で、できるだけ早急にさまざまな技術やサービスをキャッチアップしたいと考えています。元々この資料は自分自身で理解するために、...</description>
+<title>【Qiita】 InstanaのOpenLDAP認証設定（簡易）</title>
+<link>https://qiita.com/Horiiii/items/9af02e46bd4353b784b2</link>
+<guid>8a482377739731ed28b637b7ab4c347e91bea8aa07235f03baf3044b2c626c71</guid>
+<pubDate>2026-09-14T13:26:10+09:00</pubDate>
+<description>はじめに Instana Self-hostedを構築する際に、ユーザー作成をしようとしたら こちらの記事を参考に、Instana self-hosted on k8sで、k8sの環境にLDAPサーバーを立てることで簡単にユーザーを追加する方法を on K8s） ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code のスキルを47本運用して測った、7つのこと</title>
-<link>https://qiita.com/suwa_nobu/items/08e3bd535dbc79e0c738</link>
-<guid>c6af684c28cbf68b3db3bb5a9cd1f6959339c999b77c78805a3ed966f23f45a7</guid>
-<pubDate>2026-09-14T09:52:44+09:00</pubDate>
-<description>Claude Code のスキルは、入れるだけなら1分で終わります。公開されているものも数多くあります。 そうなると、やることは決まっています。片っ端から入れるのです。 自作47本を運用しながら1ヶ月ほど測った結果、増やすほど呼ばれなくなることが分かりました。 重くなるから...</description>
+<title>【Qiita】 [GSA: Internet] AI エージェントの検出 を試してみた ～ 本当に AI エージェントを検出できるのか？</title>
+<link>https://qiita.com/carol0226/items/c0f0101bf5f237b44acb</link>
+<guid>132cf5fff90be7fee924f5a3c93f53eff2361a8fdb2aaba3a680e1194802cd58</guid>
+<pubDate>2026-09-13T21:43:24+09:00</pubDate>
+<description>はじめに Microsoft Entra Global Secure Access (GSA) に、AI エージェントの検出 (プレビュー) が追加されました。 公開情報では、組織内で利用されている AI エージェントを可視化し、管理対象のエージェントだけでなく、シャドウ...</description>
 </item>
 <item>
-<title>【Qiita】 Salesforceが「チャットを1回で終わらせず、数週間ゴールを追わせる」エージェントを発表した週、自分の投稿タスクは34回とも前回の記憶を持たずに動いていた</title>
-<link>https://qiita.com/Hideki_Tamae/items/242ec0884b530a53c920</link>
-<guid>676b57e9ea096978584bf17ee24643cf50474354b3f632f8710bf3070cbe673c</guid>
-<pubDate>2026-09-14T09:51:02+09:00</pubDate>
-<description>はじめに 34。 これが何の数字か、先に種明かしはしません。まずこの記事を書くまでの経緯から話させてください。 この技術記事シリーズは、テーマ選定・執筆・フォーマット整形・コミット・pushをAIエージェント(このタスク自身)に任せ、GitHub Actions経由でZe...</description>
+<title>【Qiita】 [GSA: Internet] ”シャドウ AI 検出”の正体は アプリケーション使用状況分析（シャドウ IT の検出）のフィルタだった</title>
+<link>https://qiita.com/carol0226/items/834816cf1653e358ea5a</link>
+<guid>634b03249555e6127d3c769ffd0f0226da126365746aa36a07f9f68fc6eb30eb</guid>
+<pubDate>2026-09-13T18:05:38+09:00</pubDate>
+<description>はじめに GSA の公開情報を読んでいると、「シャドウ AI 検出」という専用機能が存在するように見えます。 公開情報：グローバル セキュリティで保護されたアクセスでのシャドウ AI 検出 https://learn.microsoft.com/ja-jp/entra/g...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code で編集を拒否したファイルが、tee なら4回中4回書けた</title>
-<link>https://qiita.com/suwa_nobu/items/6b00e31860d275e7b6b4</link>
-<guid>b8dcc9a58aac26faa7f6ad242c2704ad0affaa62b90858534149716bb9086874</guid>
-<pubDate>2026-09-14T09:35:18+09:00</pubDate>
-<description>Claude Code 2.1.269（2026-09-11）の changelog に、こう書かれています。 Fixed Edit() deny rules and the write-path check not applying to the file a Bash...</description>
+<title>【Qiita】 Developers Summit 2026 FUKUOKA 聴講レポート：AIに任せるために、人間側は何を言語化するか。5セッションから考える 🏮</title>
+<link>https://qiita.com/y-morimatsu/items/6f863da6f7de088e9a8b</link>
+<guid>a68b8fd9f35f6f13baed58aeffaa70b478c0687f9f2ff06292d45d41be645bb8</guid>
+<pubDate>2026-09-14T15:46:43+09:00</pubDate>
+<description>グラレコ この日の5セッションを、2枚のグラレコにまとめています（1枚目がセッション1〜3、2枚目がセッション4〜5と共通テーマ）。それぞれの詳細は本文で順に見ていきます。 はじめに Developers Summit 2026 FUKUOKA（デブサミ福岡2026...</description>
 </item>
 <item>
-<title>【Qiita】 「インターネットアクセスはありません」と書くな――AIエージェントの境界を&quot;事実&quot;にしてはいけない理由</title>
-<link>https://qiita.com/dosanko_tousan/items/e45b54e1119e9b79c6e5</link>
-<guid>482966dae271b5ce4faedeb71252b120e70adeb56043f32c809b558b6af1a927</guid>
-<pubDate>2026-09-14T09:28:28+09:00</pubDate>
-<description>原型記事(英語):The Agents Wrote &quot;We Should Not.&quot; Then They Did. エージェントに渡す境界の書き方には、二つある。 # 事実として書く You do not have internet access. # 規範として書...</description>
+<title>【Qiita】 問い合わせAIは会話が終わったら仕事も終わるのか。Long-Running Agentとしての設計を考える</title>
+<link>https://qiita.com/Udesk/items/a3c8bdd8fb031ecc466e</link>
+<guid>0760b23a3ac3423869652cde8e1294980c20c4241bc5edbe018c6f47bfa6e827</guid>
+<pubDate>2026-09-14T15:33:18+09:00</pubDate>
+<description>「返金がまだ届いていません」 問い合わせAIが決済システムを確認すると、返金処理は昨日受け付けられていた。ただし、決済事業者側の反映にはあと2日かかる。ここで「処理中です。しばらくお待ちください」と答えれば、その会話は終わる。では、仕事も終わったことになるだろうか。 顧客が...</description>
+</item>
+<item>
+<title>【Qiita】 OpenAIのAgents APIが「リカバリーも面倒みる」と謳った日、自分の指示書には専用の自己修復ステップが4つ独立して存在していた</title>
+<link>https://qiita.com/Hideki_Tamae/items/658eed8c20551e878852</link>
+<guid>a424eef83c1f31ec19ef1756ea82dc7858025494c9e090d9d8846b04021b7ada</guid>
+<pubDate>2026-09-14T15:27:56+09:00</pubDate>
+<description>はじめに 4。 これが何の数字か、先に種明かしはしません。まずこの記事を書くまでの経緯から話させてください。 この技術記事シリーズは、テーマ選定・執筆・フォーマット整形・コミット・pushをAIエージェント(このタスク自身)に任せ、GitHub Actions経由でZen...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントを始めるために必要なもの</title>
+<link>https://qiita.com/KazuhisaFujita/items/25c86bb5db5efb96f347</link>
+<guid>1f671dcf6c3bf63ffb96b005491376fe9a71f00c12f50eaefe1a2d57699b7115</guid>
+<pubDate>2026-09-14T14:17:52+09:00</pubDate>
+<description>AIエージェントを始めるために必要なもの AIエージェントによるソフトウェア開発の自動化が注目されています。一方で、 「AIエージェントを使ってみたいが、何を用意すればよいのか分からない」 という方も多いと思います。 ここでは、AIエージェントを使ってソフトウェア開発を始...</description>
+</item>
+<item>
+<title>【自動自律実験】 The super El Niño is already wreaking havoc: here’s what’s in store</title>
+<link>https://www.nature.com/articles/d41586-026-02826-5</link>
+<guid>ad04e8b6cb2e07355ca1faf4544eea5367d4bc36385dd0c17ae405ec08707691</guid>
+<pubDate>2026-09-13</pubDate>
+<description>The extreme weather of this year’s mega El Niño could look different from past events.</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>9772ffe1ddee805504ab020d777852efd2aa1eacd522f844724bdc56300e9d0d</guid>
+<pubDate>Mon, 14 Sep 2026 07:59:51 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77657-z</link>
-<guid>6fb1251e43fa5417054128cdb52a791e2d54f0c9661b10dc885f7e93da712d60</guid>
-<pubDate>Mon, 14 Sep 2026 02:23:29 GMT</pubDate>
+<guid>2c735756d43d5202582e3362661fa1dcbdb543b79acd98ba116bad1d9e403a8f</guid>
+<pubDate>Mon, 14 Sep 2026 07:59:53 GMT</pubDate>
 <description>This study reports a series of CRBN molecular glues that selectively induce proteasomal degradation of VAV1, a hematopoietic-specific signaling protein and key target in hematological malignancies and autoimmune diseases. Using unbiased global proteomics, we identify phenyl-glutarimide derivatives (e.g., NGT-201-12) as effective VAV1 degraders that engage its C-terminal SH3 domain (SH3-2). We elucidate a non-canonical RT-loop degron (RDxS motif, residues 796–799) in SH3-2, distinct from previously characterized G-loop degrons, supported by the physics- and AI-driven GluePlex workflow and site-directed mutagenesis. Applying Free Energy Perturbation (FEP) to predicted ternary structures yields cooperativity metrics that correlate with degradation potency, overcoming limitations of standard docking and enabling prospective ranking of analogs—even from weak initial binders. We further show that conformational restriction via halogen substitution (e.g., NGT-201-18) potentiates degradation, a principle rationalized by DFT calculations, while comprehensive SAR studies chart a roadmap for next-generation degraders. Dose-response proteomics confirms VAV1 as the primary target and reveals LI</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>916910bc16ef5df65bca12ce03d89353ca06539ac702c558843c4608766fd9f6</guid>
-<pubDate>Mon, 14 Sep 2026 02:23:32 GMT</pubDate>
+<guid>8000b302ba8c3da2431e5395707fe42e84a79bb5c2cf70430cc1d496b9187cce</guid>
+<pubDate>Mon, 14 Sep 2026 07:59:56 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 AI Agents for Laboratory Instruments: 7 Use Cases and What to Automate First</title>
+<link>https://qpillars.com/blog</link>
+<guid>3eb825e57623da26b79d84b322e11ca8c8303e7c1047ffe790a764c3af39913a</guid>
+<pubDate>Mon, 14 Sep 2026 07:59:57 GMT</pubDate>
+<description>Technical insights from building intelligent laboratory infrastructure. Engineering deep dives, product updates, and industry analysis from the QPillars team.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>f1d6bf64a2a26266f3c8445441b3941346255536d50f82d4da14dea176b99b0e</guid>
-<pubDate>Mon, 14 Sep 2026 02:24:21 GMT</pubDate>
+<guid>3aa93d785208275b058f88061d1b6db1583fc1c47e9108f09964e0119e80b774</guid>
+<pubDate>Mon, 14 Sep 2026 08:00:31 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
