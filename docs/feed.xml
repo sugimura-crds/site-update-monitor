@@ -4,49 +4,64 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 13 Sep 2026 23:47:33 GMT</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 02:24:41 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Bob で Ansible MCP サーバーを試してみました</title>
-<link>https://qiita.com/c_u/items/ffe69a5a7fbe3a87a983</link>
-<guid>e87a0a635a5279db0053611987deeabd982830053b08b232639af724c3e4e32c</guid>
-<pubDate>2026-09-14T08:12:27+09:00</pubDate>
-<description>IBM Bob に Ansible MCP サーバーを設定してできることを試した はじめに Ansible の VS Code Extension（redhat.ansible）には、MCP サーバーが同梱されています。 MCP（Model Context Protoc...</description>
+<title>【Qiita】 2026年9月時点 Microsoft の AI 戦略について</title>
+<link>https://qiita.com/yoshioterada/items/c42534895d5ca89b91b1</link>
+<guid>16b4811cdfdc69d97ae05476cb96cab253e6946eaac57405a0cafc67e048463a</guid>
+<pubDate>2026-09-14T10:44:21+09:00</pubDate>
+<description>Microsoft の AI に関連するサービスは非常に多くあります。今まで私は開発中心だったため、M365関連を含む全体的な知識のアップデートが必要で、できるだけ早急にさまざまな技術やサービスをキャッチアップしたいと考えています。元々この資料は自分自身で理解するために、...</description>
 </item>
 <item>
-<title>【Qiita】 プロフェッショナルTLS＆PKIを読む21 第2章-5 TLS 1.3 暗号に関する計算</title>
-<link>https://qiita.com/gomAnomalocaris/items/51d22186f61560d5cf45</link>
-<guid>a69dab15db592dc9dfb8f55fd1fb9f1bbb6573cd7528afe7e20d221820543d5c</guid>
-<pubDate>2026-09-14T07:44:57+09:00</pubDate>
-<description>20Alertプロトコルの続きです。 暗号に関する計算 ここでは暗号鍵の生成方法について説明しています。前置きに、「プロトコルを安全にするには強固なアルゴリズムと強力な暗号鍵が必要です。」 と説明があります。 暗号鍵はハンドシェイクの段階で生成されます。 暗号学においては...</description>
+<title>【Qiita】 Claude Code のスキルを47本運用して測った、7つのこと</title>
+<link>https://qiita.com/suwa_nobu/items/08e3bd535dbc79e0c738</link>
+<guid>c6af684c28cbf68b3db3bb5a9cd1f6959339c999b77c78805a3ed966f23f45a7</guid>
+<pubDate>2026-09-14T09:52:44+09:00</pubDate>
+<description>Claude Code のスキルは、入れるだけなら1分で終わります。公開されているものも数多くあります。 そうなると、やることは決まっています。片っ端から入れるのです。 自作47本を運用しながら1ヶ月ほど測った結果、増やすほど呼ばれなくなることが分かりました。 重くなるから...</description>
 </item>
 <item>
-<title>【Qiita】 生成AIの今を一気に整理する 202609版―推論モデル、DeepSeek、世界モデル、Physical AI、AIエージェント</title>
-<link>https://qiita.com/aokikenichi/items/35c8ad26fb7c18135242</link>
-<guid>668b036cb7b176c2fff91a6b2731f3d9530ed698317aa2583c0138d85878973d</guid>
-<pubDate>2026-09-14T08:39:01+09:00</pubDate>
-<description>フロンティアモデル競争は「最も賢いAI」から、「長時間の仕事をどこまで任せられるか」へ 推論は標準機能となり、性能だけでなくコスト・速度・安全性も重要な競争軸になった ChatからAgentへ Tool Use、Computer Use、Long-runni...</description>
+<title>【Qiita】 Salesforceが「チャットを1回で終わらせず、数週間ゴールを追わせる」エージェントを発表した週、自分の投稿タスクは34回とも前回の記憶を持たずに動いていた</title>
+<link>https://qiita.com/Hideki_Tamae/items/242ec0884b530a53c920</link>
+<guid>676b57e9ea096978584bf17ee24643cf50474354b3f632f8710bf3070cbe673c</guid>
+<pubDate>2026-09-14T09:51:02+09:00</pubDate>
+<description>はじめに 34。 これが何の数字か、先に種明かしはしません。まずこの記事を書くまでの経緯から話させてください。 この技術記事シリーズは、テーマ選定・執筆・フォーマット整形・コミット・pushをAIエージェント(このタスク自身)に任せ、GitHub Actions経由でZe...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code の sandbox がわからなかったので図解してみた</title>
-<link>https://qiita.com/tkanata-honmono/items/fd7393d490faf0200161</link>
-<guid>9e58abf630b69fc20f8f675a6d482f7417c41750f1edcbce38764da502dedd92</guid>
-<pubDate>2026-09-14T08:16:37+09:00</pubDate>
-<description>この記事の結論 sandbox は、Claude が動かすコマンドが触れるファイルと通信先を、カーネルが実行中に制限する仕組み 危ないコマンドの名前で断るのではなく、危ない動作そのものを止める。だから中身が分からないコマンドでも動かせる Anthropic は社内利用...</description>
+<title>【Qiita】 Claude Code で編集を拒否したファイルが、tee なら4回中4回書けた</title>
+<link>https://qiita.com/suwa_nobu/items/6b00e31860d275e7b6b4</link>
+<guid>b8dcc9a58aac26faa7f6ad242c2704ad0affaa62b90858534149716bb9086874</guid>
+<pubDate>2026-09-14T09:35:18+09:00</pubDate>
+<description>Claude Code 2.1.269（2026-09-11）の changelog に、こう書かれています。 Fixed Edit() deny rules and the write-path check not applying to the file a Bash...</description>
 </item>
 <item>
-<title>【Qiita】 控除は上がったのに、ふるさと納税の上限はほぼ動かなかった【kurashi-skill Day 5】</title>
-<link>https://qiita.com/Ichiropen/items/eadd6c445ec83fbd30bd</link>
-<guid>3c9e18530a1e5d865230f225ff4fefb419224add48ecdc322dc3fef1d214a5b4</guid>
-<pubDate>2026-09-14T07:16:26+09:00</pubDate>
-<description>9月に入ると、職場の雑談にふるさと納税が混ざり始める。「今年はいくらまでいける?」。僕はエージェントに聞いてみた。年収と家族構成を伝えると、途中の計算を全部見せたうえで答えが返ってきた。便利だ。便利なのだが、その数字をそのまま鵜呑みにする気にはならない。税制は毎年どこかが動...</description>
+<title>【Qiita】 「インターネットアクセスはありません」と書くな――AIエージェントの境界を&quot;事実&quot;にしてはいけない理由</title>
+<link>https://qiita.com/dosanko_tousan/items/e45b54e1119e9b79c6e5</link>
+<guid>482966dae271b5ce4faedeb71252b120e70adeb56043f32c809b558b6af1a927</guid>
+<pubDate>2026-09-14T09:28:28+09:00</pubDate>
+<description>原型記事(英語):The Agents Wrote &quot;We Should Not.&quot; Then They Did. エージェントに渡す境界の書き方には、二つある。 # 事実として書く You do not have internet access. # 規範として書...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77657-z</link>
-<guid>ed5188afce54b509761d66cfc2f78e3b02854a2c1ef38a10b5ea874e9de9c42d</guid>
-<pubDate>Sun, 13 Sep 2026 23:46:49 GMT</pubDate>
+<guid>6fb1251e43fa5417054128cdb52a791e2d54f0c9661b10dc885f7e93da712d60</guid>
+<pubDate>Mon, 14 Sep 2026 02:23:29 GMT</pubDate>
 <description>This study reports a series of CRBN molecular glues that selectively induce proteasomal degradation of VAV1, a hematopoietic-specific signaling protein and key target in hematological malignancies and autoimmune diseases. Using unbiased global proteomics, we identify phenyl-glutarimide derivatives (e.g., NGT-201-12) as effective VAV1 degraders that engage its C-terminal SH3 domain (SH3-2). We elucidate a non-canonical RT-loop degron (RDxS motif, residues 796–799) in SH3-2, distinct from previously characterized G-loop degrons, supported by the physics- and AI-driven GluePlex workflow and site-directed mutagenesis. Applying Free Energy Perturbation (FEP) to predicted ternary structures yields cooperativity metrics that correlate with degradation potency, overcoming limitations of standard docking and enabling prospective ranking of analogs—even from weak initial binders. We further show that conformational restriction via halogen substitution (e.g., NGT-201-18) potentiates degradation, a principle rationalized by DFT calculations, while comprehensive SAR studies chart a roadmap for next-generation degraders. Dose-response proteomics confirms VAV1 as the primary target and reveals LI</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>916910bc16ef5df65bca12ce03d89353ca06539ac702c558843c4608766fd9f6</guid>
+<pubDate>Mon, 14 Sep 2026 02:23:32 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>f1d6bf64a2a26266f3c8445441b3941346255536d50f82d4da14dea176b99b0e</guid>
+<pubDate>Mon, 14 Sep 2026 02:24:21 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
