@@ -4,49 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 15 Sep 2026 01:05:21 GMT</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 06:18:27 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 直近5日で書いた9本のうち8本が同じ型だった — 優先度2をTamae-OS全体に広げたのに、ほとんど使っていなかった</title>
-<link>https://qiita.com/Hideki_Tamae/items/72eee02ba245c72bc887</link>
-<guid>76ba18ac273649580db0f450d785706d7641b6d41fa82a7072fd0abdf835f3d9</guid>
-<pubDate>2026-09-15T09:46:22+09:00</pubDate>
-<description>はじめに 8。 これが今回の数字です。何の8かというと、2026年9月10日から9月14日までの5日間・9回の定期実行で自分が書いた記事9本のうち、「海外のAI企業のニュース発表をきっかけに、自分自身の一次データを確認する」という同じ型で書いた本数です。 このシリーズはも...</description>
+<title>【Qiita】 さわってみよう Db2 AI エディション #17 〜Db2 Genius Hub v1.1.4新機能編 Part#1〜</title>
+<link>https://qiita.com/ibm_tk/items/020ff6a4800c62ab6908</link>
+<guid>6ac2ca644b92cc036e9073b72929eff335938c6ab7c003601cd0dee886bfc266</guid>
+<pubDate>2026-09-15T12:12:46+09:00</pubDate>
+<description>Db2 AI エディション(Db2 AI Advanced, Db2 AI Standard)にはフル機能のDb2 Genius Hubがバンドルされています。 この記事では、IBM Db2 Genius Hub v1.1.4の新機能群を3つのカテゴリーに分けて概説していま...</description>
 </item>
 <item>
-<title>【Qiita】 今更聞けない、AIエージェント頻出用語20選</title>
-<link>https://qiita.com/nolanlover0527/items/86646f9c366e79016f26</link>
-<guid>1ab5a92344fdaaa258bc16bcc86277d44da9b4fb32746cda35a15bda348c5013</guid>
-<pubDate>2026-09-15T09:07:12+09:00</pubDate>
-<description>AIエージェント系用語は日々増え続けている MCP、HITL、A2A、ハーネスなどなど。 AIエージェント界隈では新しい用語が次々と出てきており、そのすべてを把握して説明できるようになるのは至難の業です。 筆者自身、「これって結局どういう意味だっけ」となる用語がいくつもあ...</description>
+<title>【Qiita】 Gemini Enterprise の Business / Standard / Plus エディションを比較してみた</title>
+<link>https://qiita.com/kuno_/items/21238fcfa2502459f370</link>
+<guid>e1d6df35529f7329a4dd9a8ad5e3ade5dd62bbae1a46be840000512c6327bcde</guid>
+<pubDate>2026-09-15T15:10:14+09:00</pubDate>
+<description>はじめに Gemini Enterpriseを導入しようとすると、まず最初に「Business」「Standard」「Plus」というエディション選びで迷います。料金や機能の違いが分かりにくく、公式サイトを読んでも情報が複数のページに分散しているため、全体像をつかみにくい...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code のサブエージェントにも CLAUDE.md は全部渡る。外す設定ができた</title>
-<link>https://qiita.com/suwa_nobu/items/b465ef863f8d8608f497</link>
-<guid>26030097a79fad5aef25bfe584feb2b74cf0bf34d5519b457c7bbcc3205f8adc</guid>
-<pubDate>2026-09-15T09:06:10+09:00</pubDate>
-<description>Claude Code 2.1.271（2026-09-14）の changelog に、こう書かれています。 Added omitClaudeMd to agent frontmatter and --agents JSON, letting custom and pl...</description>
+<title>【Qiita】 『Omnigentによるメタハーネス入門』が9/30に刊行されます — 全3巻の構成と、どの巻から読むか</title>
+<link>https://qiita.com/taka_yayoi/items/29cefd93b8fbcba929cf</link>
+<guid>043c7288720c03123b5b1131f7150ae7a42cffe370cfaf3d3005023740ee4af0</guid>
+<pubDate>2026-09-15T13:28:18+09:00</pubDate>
+<description>はじめに 2026年9月30日に、翔泳社から『Omnigentによるメタハーネス入門』の (1) 基礎編と (2) チーム運用編が同時刊行されます。著者の一人として参加しました。 Omnigentによるメタハーネス入門 (1) 基礎編 Omnigentによるメタハーネス...</description>
 </item>
 <item>
-<title>【Qiita】 AI駆動開発の誤りは2種類ある｜ハルシネーションより怖い、範囲の取り違え</title>
-<link>https://qiita.com/Skillsheet-Port/items/fee36f71a5b2371780f4</link>
-<guid>987204c4336f81d5b0b286f5c242323f08cebbddc6dc1b6e1f6b6e3e0dfe8fb5</guid>
-<pubDate>2026-09-15T08:30:14+09:00</pubDate>
-<description>AIの誤りは2種類ある——ハルシネーションより怖い「範囲の取り違え」は、コードレビューでは見つからない AIの誤りというと、存在しない機能を答えるハルシネーションを思い浮かべる。 だが実務で本当に怖いのは、事実がすべて正しいまま、適用する範囲だけが間違っている誤りだ。 こ...</description>
+<title>【Qiita】 【Genkit】意図分類でゲートしてはいけないもの｜「賢く省く」のせいでRAG参照できなくなった</title>
+<link>https://qiita.com/yusuke-kobayashi0117/items/858d07ab4bf1e9eb2352</link>
+<guid>6dcf4d52cbc25f803500a33243b5a865a9faa3b250194f643fdb1c822216ab4a</guid>
+<pubDate>2026-09-15T12:14:34+09:00</pubDate>
+<description>はじめに 以前、【Genkit】AIエージェントの司令塔｜「意図分類（Intent Classification）」でコスト削減とレスポンス高速化を実現する という記事を書きました。 軽量モデルで、ユーザーの入力を事前に分類し、最適な処理経路へ振り分けることでコストとレイ...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>5bfc2022405a4a0513100a4c9d75a5904e03afbec7ea25cea99e019ccf2776ea</guid>
+<pubDate>Tue, 15 Sep 2026 06:17:18 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77657-z</link>
-<guid>8c6575af2e1b2c539c54499317eb8415ea831728b01465eecea2ad43f9d12803</guid>
-<pubDate>Tue, 15 Sep 2026 01:04:11 GMT</pubDate>
+<guid>14c68c0308586fe8092b2f359de5cc389495493cad0c8a7f96ad98e531fffc46</guid>
+<pubDate>Tue, 15 Sep 2026 06:17:20 GMT</pubDate>
 <description>This study reports a series of CRBN molecular glues that selectively induce proteasomal degradation of VAV1, a hematopoietic-specific signaling protein and key target in hematological malignancies and autoimmune diseases. Using unbiased global proteomics, we identify phenyl-glutarimide derivatives (e.g., NGT-201-12) as effective VAV1 degraders that engage its C-terminal SH3 domain (SH3-2). We elucidate a non-canonical RT-loop degron (RDxS motif, residues 796–799) in SH3-2, distinct from previously characterized G-loop degrons, supported by the physics- and AI-driven GluePlex workflow and site-directed mutagenesis. Applying Free Energy Perturbation (FEP) to predicted ternary structures yields cooperativity metrics that correlate with degradation potency, overcoming limitations of standard docking and enabling prospective ranking of analogs—even from weak initial binders. We further show that conformational restriction via halogen substitution (e.g., NGT-201-18) potentiates degradation, a principle rationalized by DFT calculations, while comprehensive SAR studies chart a roadmap for next-generation degraders. Dose-response proteomics confirms VAV1 as the primary target and reveals LI</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>9095ebf7515ce0eec5036c02eca8f15db6a1020ccb356e95935afc4e2efecc50</guid>
-<pubDate>Tue, 15 Sep 2026 01:04:13 GMT</pubDate>
+<guid>f331c66c2f1a93aa328273e0ff1e36345dc97a597ee07384dcfdd8dc2b1772ff</guid>
+<pubDate>Tue, 15 Sep 2026 06:17:23 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-69355-z</link>
+<guid>70af6040dc1b5aaeb50b7176bad93ffd8edcdd87fe3c7b7593351f8c58b2a2ac</guid>
+<pubDate>Tue, 15 Sep 2026 06:17:25 GMT</pubDate>
+<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
+</item>
+<item>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.soken.ac.jp/news/2026/20260805.html</link>
+<guid>c357caf3737ab97d0c5eb5559ce97abe9b652f43b452aa8a4b406a221b3b4564</guid>
+<pubDate>Tue, 15 Sep 2026 06:18:14 GMT</pubDate>
+<description>【プレスリリース】全ゲノム塩基配列で解明：ニホンイノシシとリュウキュウイノシシは共通祖先から進化していた</description>
 </item>
 
 </channel>
