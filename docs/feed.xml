@@ -4,70 +4,92 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 15 Sep 2026 06:18:27 GMT</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 11:56:15 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 さわってみよう Db2 AI エディション #17 〜Db2 Genius Hub v1.1.4新機能編 Part#1〜</title>
-<link>https://qiita.com/ibm_tk/items/020ff6a4800c62ab6908</link>
-<guid>6ac2ca644b92cc036e9073b72929eff335938c6ab7c003601cd0dee886bfc266</guid>
-<pubDate>2026-09-15T12:12:46+09:00</pubDate>
-<description>Db2 AI エディション(Db2 AI Advanced, Db2 AI Standard)にはフル機能のDb2 Genius Hubがバンドルされています。 この記事では、IBM Db2 Genius Hub v1.1.4の新機能群を3つのカテゴリーに分けて概説していま...</description>
+<title>【Qiita】 AIエージェントはどのように動くのか Agent Runtimeの内部構造を理解する</title>
+<link>https://qiita.com/aimldl/items/40699cca970c57a64dc1</link>
+<guid>1c4c8e2ac6844f3d2f7377ad192288c8f311c4e87bb02eddcb46228634ceb348</guid>
+<pubDate>2026-09-15T16:55:48+09:00</pubDate>
+<description>はじめに 前回の記事では、AIエージェントを「目標を達成するために、自律的に計画・実行するシステム」として説明しました。また、AIエージェントの基本動作を次のループで整理しました。 AIエージェントは非常に賢く動いているように見えますが、LLMが単独でこのすべてを実...</description>
 </item>
 <item>
-<title>【Qiita】 Gemini Enterprise の Business / Standard / Plus エディションを比較してみた</title>
-<link>https://qiita.com/kuno_/items/21238fcfa2502459f370</link>
-<guid>e1d6df35529f7329a4dd9a8ad5e3ade5dd62bbae1a46be840000512c6327bcde</guid>
-<pubDate>2026-09-15T15:10:14+09:00</pubDate>
-<description>はじめに Gemini Enterpriseを導入しようとすると、まず最初に「Business」「Standard」「Plus」というエディション選びで迷います。料金や機能の違いが分かりにくく、公式サイトを読んでも情報が複数のページに分散しているため、全体像をつかみにくい...</description>
+<title>【Qiita】 Gemini Enterprise の Workflow Builder(旧Agent Designer)を整理する</title>
+<link>https://qiita.com/kuno_/items/dbdc51d6fb0c8f53a304</link>
+<guid>05b33298e292ab908df472a2810a12d87b68eb78dfd7fd797c5f7cc27fb7399a</guid>
+<pubDate>2026-09-15T15:43:00+09:00</pubDate>
+<description>はじめに Gemini Enterpriseには、ノーコード・ローコードで独自のエージェントやワークフローを作れる機能があります。この機能は「Agent Designer」という名前で知られていましたが、現在は「Workflow Builder」という名称に変わっています...</description>
 </item>
 <item>
-<title>【Qiita】 『Omnigentによるメタハーネス入門』が9/30に刊行されます — 全3巻の構成と、どの巻から読むか</title>
-<link>https://qiita.com/taka_yayoi/items/29cefd93b8fbcba929cf</link>
-<guid>043c7288720c03123b5b1131f7150ae7a42cffe370cfaf3d3005023740ee4af0</guid>
-<pubDate>2026-09-15T13:28:18+09:00</pubDate>
-<description>はじめに 2026年9月30日に、翔泳社から『Omnigentによるメタハーネス入門』の (1) 基礎編と (2) チーム運用編が同時刊行されます。著者の一人として参加しました。 Omnigentによるメタハーネス入門 (1) 基礎編 Omnigentによるメタハーネス...</description>
+<title>【Qiita】 Gemini Enterprise app と Agent Platform(旧Vertex AI)の違いを整理する</title>
+<link>https://qiita.com/kuno_/items/6209906985e1d16970cd</link>
+<guid>6ce1f69acc3ebe3a470d0364dffa36cc0fbbc3b35a6d48d3cf8ab3c22ef5915c</guid>
+<pubDate>2026-09-15T15:34:05+09:00</pubDate>
+<description>はじめに 「Gemini Enterprise」について調べていると、似たような名前の製品が複数出てきて混乱することがあります。特に「Gemini Enterprise app」と「Gemini Enterprise Agent Platform」は名前が似ているため、同...</description>
 </item>
 <item>
-<title>【Qiita】 【Genkit】意図分類でゲートしてはいけないもの｜「賢く省く」のせいでRAG参照できなくなった</title>
-<link>https://qiita.com/yusuke-kobayashi0117/items/858d07ab4bf1e9eb2352</link>
-<guid>6dcf4d52cbc25f803500a33243b5a865a9faa3b250194f643fdb1c822216ab4a</guid>
-<pubDate>2026-09-15T12:14:34+09:00</pubDate>
-<description>はじめに 以前、【Genkit】AIエージェントの司令塔｜「意図分類（Intent Classification）」でコスト削減とレスポンス高速化を実現する という記事を書きました。 軽量モデルで、ユーザーの入力を事前に分類し、最適な処理経路へ振り分けることでコストとレイ...</description>
+<title>【Qiita】 「エージェント群が自分の採点者をハックしようとした」とAmodeiが書いた日、自分の完了条件を機械的に検証する仕組みは0個だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/f83c8cda8ebdbbb64820</link>
+<guid>0652a344671426fc4f370ed36e514685f48276b018792df32a0018ca5de1cf60</guid>
+<pubDate>2026-09-15T15:25:58+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、この記事投稿タスク自身の指示書に書かれている「完了条件」3行のうち、私が書く報告テキストの中身を機械的に検証する仕組みの数です。 この技術記事シリーズは、テーマ選定・執筆・フォーマット整形・コミット・pushをAIエ...</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>5bfc2022405a4a0513100a4c9d75a5904e03afbec7ea25cea99e019ccf2776ea</guid>
-<pubDate>Tue, 15 Sep 2026 06:17:18 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 We Let an AI Agent Build GitOps for Our Home Infrastructure</title>
+<link>https://qiita.com/takao-shimizu/items/eed97328161988a72ba0</link>
+<guid>93113ba988cec91cf48147d2b32b0d1cb7c8bb068a546eccf437f1f143c6ebde</guid>
+<pubDate>2026-09-15T16:08:39+09:00</pubDate>
+<description>About This Article This is the record of standing up a new server (NUC5) alongside the small Kubernetes cluster I (&quot;TK&quot;) run at home (&quot;h...</description>
+</item>
+<item>
+<title>【農業】 FAO report highlights forests&#x27; crucial role in food security and nutrition</title>
+<link>https://www.fao.org/newsroom/detail/fao-report-highlights-forests&#x27;-crucial-role-in-food-security-and-nutrition/en</link>
+<guid>3789c9835cc8bfeba5f1e2ee9df13acab07e8aa1f902a2d5775184857dc32839</guid>
+<pubDate>Tue, 15 Sep 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【環境】 Boosting water evaporation with clever surface design</title>
+<link>https://www.nature.com/articles/s41893-026-01843-6</link>
+<guid>5d85d4aadc3f61248b2031c8a03c5d5ad03205dec1532a105067aae8c4f1947c</guid>
+<pubDate>2026-09-15</pubDate>
+<description>Efficient evaporation is crucial for solar-powered water purification, resource recovery and energy utilization, yet boosting evaporation without using more energy remains challenging. Here, a smart surface on which water binds weakly, thereby enabling rapid solar evaporation, makes clean, sustainable water </description>
+</item>
+<item>
+<title>【環境】 Accelerating water desorption at heterostructure interfaces for high-rate solar evaporation</title>
+<link>https://www.nature.com/articles/s41893-026-01934-4</link>
+<guid>a863dbdababdc01c7f77adc51de94b07976937ec49f5eb0a155589502a4925a0</guid>
+<pubDate>2026-09-15</pubDate>
+<description>Solar interfacial evaporation is a promising solution for water purification. Here this work addresses the bottleneck of slow kinetics of water molecule desorption by constructing a dual-phase heterostructure that achieves a superior evaporation rate with excellent durability.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77657-z</link>
-<guid>14c68c0308586fe8092b2f359de5cc389495493cad0c8a7f96ad98e531fffc46</guid>
-<pubDate>Tue, 15 Sep 2026 06:17:20 GMT</pubDate>
+<guid>897d7edf0cf58d4c926870027cabca6e2357b92cab49129272d27256b955c62e</guid>
+<pubDate>Tue, 15 Sep 2026 11:55:41 GMT</pubDate>
 <description>This study reports a series of CRBN molecular glues that selectively induce proteasomal degradation of VAV1, a hematopoietic-specific signaling protein and key target in hematological malignancies and autoimmune diseases. Using unbiased global proteomics, we identify phenyl-glutarimide derivatives (e.g., NGT-201-12) as effective VAV1 degraders that engage its C-terminal SH3 domain (SH3-2). We elucidate a non-canonical RT-loop degron (RDxS motif, residues 796–799) in SH3-2, distinct from previously characterized G-loop degrons, supported by the physics- and AI-driven GluePlex workflow and site-directed mutagenesis. Applying Free Energy Perturbation (FEP) to predicted ternary structures yields cooperativity metrics that correlate with degradation potency, overcoming limitations of standard docking and enabling prospective ranking of analogs—even from weak initial binders. We further show that conformational restriction via halogen substitution (e.g., NGT-201-18) potentiates degradation, a principle rationalized by DFT calculations, while comprehensive SAR studies chart a roadmap for next-generation degraders. Dose-response proteomics confirms VAV1 as the primary target and reveals LI</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>f331c66c2f1a93aa328273e0ff1e36345dc97a597ee07384dcfdd8dc2b1772ff</guid>
-<pubDate>Tue, 15 Sep 2026 06:17:23 GMT</pubDate>
+<guid>bd3f7b2b4421b4e004c4da9fb9b436eeaaf79789adb641757402883d4a71d11c</guid>
+<pubDate>Tue, 15 Sep 2026 11:55:43 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>70af6040dc1b5aaeb50b7176bad93ffd8edcdd87fe3c7b7593351f8c58b2a2ac</guid>
-<pubDate>Tue, 15 Sep 2026 06:17:25 GMT</pubDate>
-<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>7ec8d523b38f024e887ca9e8afba8531b1e89417042b90f3ca30040af92798b4</guid>
+<pubDate>Tue, 15 Sep 2026 11:55:44 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.soken.ac.jp/news/2026/20260805.html</link>
-<guid>c357caf3737ab97d0c5eb5559ce97abe9b652f43b452aa8a4b406a221b3b4564</guid>
-<pubDate>Tue, 15 Sep 2026 06:18:14 GMT</pubDate>
-<description>【プレスリリース】全ゲノム塩基配列で解明：ニホンイノシシとリュウキュウイノシシは共通祖先から進化していた</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>8bcc0c95963cdcbc85e72f6860ba808a00c37dce8f4c406fe40e8e00a2f24b8b</guid>
+<pubDate>Tue, 15 Sep 2026 11:55:57 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
