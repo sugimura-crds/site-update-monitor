@@ -4,71 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 15 Sep 2026 22:24:17 GMT</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 00:36:42 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 熊本地震をドラレコで撮影してしまったので、ffmpegで音声を消してWikimedia Commonsに公開した話</title>
-<link>https://qiita.com/inakano_ojisan/items/baa529a57648b2a364fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>1975155012a8e986332789ca2720a533e932ebde859ad7b5c847500d44dae318</guid>
-<pubDate>2026-09-13T11:41:13+09:00</pubDate>
-<description>2026年7月28日、私は高速道路を運転中に――正確には、インターチェンジから降りようとする直前に――令和8年熊本地震に遭遇しました。 助手席に置いていたカバンの中から、スマートフォンから「ブーッ、ブーッ」という音（緊急地震速報）が鳴り響きました。その時は、なんだこの変な音...</description>
+<title>【Qiita】 LLMアプリのTraceとSpanをMicrosoft Agent Frameworkで考える</title>
+<link>https://qiita.com/lowgain/items/7be8ea22df5acb74011a</link>
+<guid>f0d434d1cd71aa48fa5ce6ef3839b007e61a66c840a763cf717ee9cd8fad66ee</guid>
+<pubDate>2026-09-16T09:06:06+09:00</pubDate>
+<description>LLMアプリのTraceとSpanをMicrosoft Agent Frameworkで考える LLMアプリやAIエージェントを見ていると、Trace と Span という言葉がよく出てくる。 Microsoft Agent FrameworkもOpenTelemetry...</description>
 </item>
 <item>
-<title>【Qiita】 あなたのAIエージェント、サボっていませんか？「model」だけでなく「effort」も指定しましょう、という話</title>
-<link>https://qiita.com/shou-dev19/items/2d73cd63d2bf76b4dea9</link>
-<guid>cc316de726032d35ddbe3e6cba13874e487a00190b7f234a13ad56381af397ea</guid>
-<pubDate>2026-09-16T07:05:02+09:00</pubDate>
-<description>対象読者 この記事は、Claude Code や Codex のようなAIエージェントを使って日々仕事をしているが、タスクごとに「モデル」は選んでいても「effort」までは意識して選んでいない、という人に向けて書きました。 私自身もAIエージェントを使って開発をし始め...</description>
-</item>
-<item>
-<title>【Qiita】 1週間毎日書いたら、記事より先に「癖」ができた【kurashi-skill Day 7】</title>
-<link>https://qiita.com/Ichiropen/items/ec4490eebbbcc951c1fe</link>
-<guid>cce5af1723776723e9a17e2b3808f5b1c85c897fbb272658d23710fa438f9ccc</guid>
-<pubDate>2026-09-16T06:57:33+09:00</pubDate>
-<description>kurashi-skillの30日チャレンジ、1週間が経った。この振り返りが7本目だ。先に正直な数字から言おう。Qiitaの反応は、いいね合計3、ストック合計4。GitHubのスターは2、フォークは1。派手ではない。派手ではないが、ゼロではない。ゼロでないことは、毎日書く側...</description>
-</item>
-<item>
-<title>【Qiita】 図書館APIを読んだら、format=jsonがJSONを返さなかった【kurashi-skill Day 6】</title>
-<link>https://qiita.com/Ichiropen/items/b77b467f8265360e3b12</link>
-<guid>4a412a421b6405de8a332903b9331d07d3c76ed7fa4a74f2feb04535fa9bc545</guid>
-<pubDate>2026-09-16T06:56:47+09:00</pubDate>
-<description>読みたい本がある。買う前に、エージェントに聞いた。「近所の図書館にある?」。数秒で返ってきた。「世田谷の中央図書館にはありますが、貸出中です」。蔵書の有無だけじゃなく、いま借りられるかどうかまで分かる。図書館はタダだ。この一手間で本代が浮く。 kurashi-skillの6...</description>
-</item>
-<item>
-<title>【Qiita】 CTF形式で徹底的に学ぶWeb Security ① - HTTPリクエストの改ざん</title>
-<link>https://qiita.com/Koukyosyumei/items/70bdd6fb05fdde09081c</link>
-<guid>8580beaddc8231a05349e6582a3e1879b0642f17c5715817393ee08fc8e2f06a</guid>
-<pubDate>2026-09-16T06:12:48+09:00</pubDate>
-<description>コロンビア大学の博士課程でAI・システムセキュリティの研究をしているKoukyosyumeiです。この記事では、Web Securityの基本であるHTTP リクエストの改ざんを、CLIベースでレッドチーミングを行うためのツールであるh5iを使いながら解説していきます。 ...</description>
-</item>
-<item>
-<title>【環境】 California to spend billions on ‘visionary’ plan to boost fish habitat</title>
-<link>https://www.science.org/content/article/california-spend-billions-visionary-plan-boost-fish-habitat</link>
-<guid>c1999c3191ca27cdc2bc97041b5f5aa13a8c537f149d284d75d4245389ad1889</guid>
-<pubDate>2026-09-15T03:30:55Z</pubDate>
-<description>But skeptics question whether effort to save San Francisco Bay delta region will work without allocating more water for nature</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>a6dd6d23874a0d9e9f2f49570904585d3f709c895d066e3d87adea99d19f601c</guid>
-<pubDate>Tue, 15 Sep 2026 22:23:23 GMT</pubDate>
-<description>Sakana AI Blog read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overall shape class. read more read more read </description>
+<title>【Qiita】 AI基盤ならGoogle Cloud？ 知っておきたいAgent Platform</title>
+<link>https://qiita.com/shungineer/items/deaa5499de63bd40b334</link>
+<guid>2dcf9089508c45698f34acf3d05496d0ef9e5072416828532406bf340970219d</guid>
+<pubDate>2026-09-16T08:34:46+09:00</pubDate>
+<description>AI基盤におけるGoogle Cloudという選択肢 生成AIの基盤としてAWS、Azure、Google Cloudのどれを選ぶか。この話になると、Google Cloudはかなりの確率でGeminiとセットで語られます。「Geminiを使うならGoogle Cloud...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>732cf1802fa62a1b191d877010c3a1c923e4e222bffae46a209dfccd9abfac99</guid>
-<pubDate>Tue, 15 Sep 2026 22:23:25 GMT</pubDate>
+<guid>b05c37bc16d7cc5e781a6d24c8ac9af4ae745fcf6f706e26c52c74be732f37e9</guid>
+<pubDate>Wed, 16 Sep 2026 00:35:42 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>caef9412d1f509dde5080a864eb54d8c894f32516aac24eb972c59ad942a0619</guid>
-<pubDate>Tue, 15 Sep 2026 22:23:57 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
