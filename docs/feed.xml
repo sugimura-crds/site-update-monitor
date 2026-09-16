@@ -4,70 +4,84 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 16 Sep 2026 15:05:36 GMT</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 18:59:26 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 3.1 agent-workdaysって結局何？ OpenAIの公開情報から読み解くAIエージェントの「仕事量」</title>
-<link>https://qiita.com/Tadataka_Takahashi/items/5d1e5b0ca76186bb6c6f</link>
-<guid>256eae1c422991862fbbf9975e302e87c5c7645d36e849872eb3dd703bad689a</guid>
-<pubDate>2026-09-16T23:41:11+09:00</pubDate>
-<description>はじめに 先日、OpenAIが公開した「Research acceleration: The view inside OpenAI」をもとに、AIがAI研究そのものを加速する「Research acceleration」について整理しました。 その中で、特に気になった数...</description>
+<title>【Qiita】 ネイティブmacOSランチャー／研究Agent基盤／検証付きセキュリティ監査――今日のGitHub 3選</title>
+<link>https://qiita.com/tsuzuri_ai/items/c032cb6fa7dcb881c802</link>
+<guid>3a2399e0c86a5bacd00da755643deb8965359417b600bfc823f7531005f45586</guid>
+<pubDate>2026-09-17T01:27:10+09:00</pubDate>
+<description>2026年9月17日時点で、今日見ておきたいGitHub Repositoryを3件だけ選びました。今回は「毎日使う道具」「研究Agentの実行基盤」「AIセキュリティ監査」と、かなり違う3方向です。 Repository 何これ？ 最短の入口 私の評価 T...</description>
 </item>
 <item>
-<title>【Qiita】 Codexの /mention でREADMEを指定する — 読ませたい1ファイルを10分で添付</title>
-<link>https://qiita.com/akira_papa_AI/items/408353894bd201181893</link>
-<guid>dd164933158aa5af171e664cff4bb2e482d897c8a13e395c5b64139d9629c06c</guid>
-<pubDate>2026-09-16T22:29:21+09:00</pubDate>
-<description>Codexの /mention でREADMEを指定する — 読ませたい1ファイルを10分で添付 Codex CLIを使い始めたばかりで、「このREADMEだけを読んでほしい」と確実に伝えたい方向けです。 この記事では、練習用のREADME.mdを作り、/mentionか...</description>
+<title>【Qiita】 【AI×設計レビュー】面倒な「反映もれの確認」を、サクっと誰でもできるように。Copilotのエージェントを育てた話</title>
+<link>https://qiita.com/jjworks/items/6bff31eba8f29672291d</link>
+<guid>1e57d2b9664a3e147b8bfa8e639a4d242282e17db10b1828a66ac467bcf56bee</guid>
+<pubDate>2026-09-17T01:26:33+09:00</pubDate>
+<description>はじめに 「基本設計書の内容は、全部詳細設計書にもれなく記載できてるんだよね？」 詳細設計書のレビュー会で、PMやPLがこう聞く場面があります。返ってくるのは、たいていこれです。 「してます。大丈夫です」 ただ、言い方に少し間が空くことがある。全部書けてます（たぶん）、...</description>
 </item>
 <item>
-<title>【Qiita】 バイブコーディングの次は「お気持ち駆動開発」かもしれない</title>
-<link>https://qiita.com/hotstaff/items/cb129cee7f6919b52896</link>
-<guid>401a1e3751f767074051e19ec85402e764283bdd6ea3cb672ece30b6b2e743a5</guid>
-<pubDate>2026-09-16T21:25:45+09:00</pubDate>
-<description>— 人間が指示する時代の、その先を考えてみた ここ数年、自分はAIコーディングについて何度か未来予想を書いてきた。 最初に考えたのは、 人間が直接AIコーダーへ指示する構造は長続きしない ということだった。 人間というものは、だいたい指示が雑である。 「なんかここ変」...</description>
+<title>【Qiita】 The Next Big SaaS Product Could Be Built by One Person</title>
+<link>https://qiita.com/reeCodes/items/e3423d41720a0cd2404c</link>
+<guid>c56ad6b167f0942bae6b414aa0d66c607dad71ae008a73d6c158e8973b92e219</guid>
+<pubDate>2026-09-17T00:12:17+09:00</pubDate>
+<description>The idea of a solo founder building a serious software business isn&#x27;t new, but AI is making the early stages more accessible. A single pe...</description>
 </item>
 <item>
-<title>【Qiita】 DuplexSLAの論文を読んでみた！〜AIが「聞く・話す・考える・動く」を同時にこなす時代へ〜</title>
-<link>https://qiita.com/kojima-ryosuke/items/5f1d75394db37f515f23</link>
-<guid>a84764b66a92155b59c0b8aa3825639d29b43cada09e0e50516d96d90f1b7a2e</guid>
-<pubDate>2026-09-16T20:52:55+09:00</pubDate>
-<description>はじめに：AIとの会話、もう少し自然にならない？ 音声AIと話していて、こんなやり取りを経験したことはありませんか。 自分「明日の予定なんだけど、えーっと……」 AI 「明日の予定ですね！ まずは……」 自分「いや、まだ考えてる途中なんだけど……」 返事が速いのは嬉し...</description>
-</item>
-<item>
-<title>【Qiita】 [AWS]DynamoDBベクトル検索のTopK:100制限をシャーディングで限界突破してみる</title>
-<link>https://qiita.com/kikuziro/items/0f47489319e9b4c23002</link>
-<guid>6f6076b2844c571cb3c3e0242a8d1c5c4dc6ea85b8ebfcbb546776b4118f4e07</guid>
-<pubDate>2026-09-16T21:28:30+09:00</pubDate>
-<description>🎯 対象者 DynamoDBでベクトルデータを扱ってみたい人 でも一回で最大100件しか抽出できないから、集約もリランキングもできないと嘆いている人 🆕 DynamoDBでベクトルデータが扱えるようになった DynamoDBでは、2026年8月にベクトルデータを扱え...</description>
-</item>
-<item>
-<title>【農業】 Large nutritional and environmental improvements can be achieved across the product portfolios of major UK food and beverage manufacturers</title>
-<link>https://www.nature.com/articles/s43016-026-01420-2</link>
-<guid>d7f8f9bfbec57bcd30f064e4df510506621895166f4e6cd0cb4edc5090d8758f</guid>
+<title>【自動自律実験】 Inflection points and transitions in Alzheimer’s disease</title>
+<link>https://www.nature.com/articles/s41586-026-11110-5</link>
+<guid>847fccc1b79a19c80e5c6e0249a8fbd350cfe2d0467a26fdbd09edee1017fed5</guid>
 <pubDate>2026-09-16</pubDate>
-<description>Food and beverage manufacturers have the potential to contribute to the transition towards a more nutritious and sustainable food system. By analysing products sold by 44 major food and beverage manufacturers in the UK, this study identifies how, and to what extent, changes to product portfolios could improve the heal</description>
+<description>Inflection points and transitions in Alzheimer’s disease</description>
 </item>
 <item>
-<title>【環境】 New labour and agricultural damages improve climate cost estimates</title>
-<link>https://www.nature.com/articles/s41558-026-02749-z</link>
-<guid>89ffa5170bba5e14277e03d13660a4cbdf2d93aff58a8d89485ee42b94479e0e</guid>
+<title>【自動自律実験】 Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors</title>
+<link>https://www.nature.com/articles/s41586-026-11123-0</link>
+<guid>1fe3e40b025444be2cb909f246a77c0e3e8bf99394e2a3496e1529db854827b7</guid>
 <pubDate>2026-09-16</pubDate>
-<description>Heat stress reduces labour productivity, but economy-wide assessments are mostly missing. Using high-resolution projections and global economic modelling, the authors provide new cost estimates, and updated agricultural damages improve confidence in the social cost of carbon.</description>
+<description>Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors</description>
+</item>
+<item>
+<title>【自動自律実験】 Transplanted human brain-tissue takes root in mice without a cortex</title>
+<link>https://www.nature.com/articles/d41586-026-02927-1</link>
+<guid>f3bc028d873a0bc2931efbbadb8e9bc70ba739fded19ba2fc018a941ded83d9a</guid>
+<pubDate>2026-09-16</pubDate>
+<description>Extensive cellular integration might provide platform for in vivo testing of new therapies — plus, the AI tool that turns papers into ‘virtual corresponding authors’.</description>
+</item>
+<item>
+<title>【自動自律実験】 Development of a random background to understand ligand optimization</title>
+<link>https://www.nature.com/articles/s41586-026-11013-5</link>
+<guid>50d8b2bd21cc8c44fca7b758e3d3a4e46d419f5132649bc44d490fcc02337fcf</guid>
+<pubDate>2026-09-16</pubDate>
+<description>An approach to improve efficiency and establish a background expectation for ligand potency optimization is described.</description>
+</item>
+<item>
+<title>【自動自律実験】 Developmental xenocortication using human-derived organoids in mice</title>
+<link>https://www.nature.com/articles/s41586-026-11032-2</link>
+<guid>fb030ea26f40c76133306b799cb724071d9fe64912ea31d19b10ab2acddd150a</guid>
+<pubDate>2026-09-16</pubDate>
+<description>Xenocortication with human neurons enables circuit- and behaviour-level analysis of neurodevelopment in mice.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>75cd1e48735b67e537f81fd3704a74779cc5873322d161b0872b6824574a6d5b</guid>
-<pubDate>Wed, 16 Sep 2026 15:04:59 GMT</pubDate>
+<guid>29387347eba4674d77526bf2bf0cf2d6ace4e21d906ee6c297d03001f6820ead</guid>
+<pubDate>Wed, 16 Sep 2026 18:58:27 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>8eb57ff8cc2176894b74da7ca7537d7890d37e3c778cd8d784c19ec59807b0fc</guid>
-<pubDate>Wed, 16 Sep 2026 15:05:02 GMT</pubDate>
+<guid>f6f517eeb16ba7115e79597956292456c2922aa697802033c6d96be9e1486a85</guid>
+<pubDate>Wed, 16 Sep 2026 18:58:29 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>cc646428923614811dc99dc892164336676dec688f1466cb9738d26e0d90fe5e</guid>
+<pubDate>Wed, 16 Sep 2026 18:59:09 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
