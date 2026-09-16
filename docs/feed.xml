@@ -4,28 +4,85 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 16 Sep 2026 00:36:42 GMT</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 05:29:23 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 LLMアプリのTraceとSpanをMicrosoft Agent Frameworkで考える</title>
-<link>https://qiita.com/lowgain/items/7be8ea22df5acb74011a</link>
-<guid>f0d434d1cd71aa48fa5ce6ef3839b007e61a66c840a763cf717ee9cd8fad66ee</guid>
-<pubDate>2026-09-16T09:06:06+09:00</pubDate>
-<description>LLMアプリのTraceとSpanをMicrosoft Agent Frameworkで考える LLMアプリやAIエージェントを見ていると、Trace と Span という言葉がよく出てくる。 Microsoft Agent FrameworkもOpenTelemetry...</description>
+<title>【Qiita】 AI-BOM のビューアは、一番危ない数字を表示しない</title>
+<link>https://qiita.com/SokoP/items/1eaf12d80006fc122580</link>
+<guid>b2dd240fa13bb1a99e20ef6d730207a1de3392ef21a44399c41bf0d78a89fdf3</guid>
+<pubDate>2026-09-16T14:17:42+09:00</pubDate>
+<description>AI アプリのリポジトリに、モデルやデータセットが何個入っているか把握していますか。 数えるための仕組みが AI-BOM(AI 部品表)です。SBOM を AI 領域に広げたもので、Snyk CLI には snyk aibom というコマンドがあります。 今回は Snyk ...</description>
 </item>
 <item>
-<title>【Qiita】 AI基盤ならGoogle Cloud？ 知っておきたいAgent Platform</title>
-<link>https://qiita.com/shungineer/items/deaa5499de63bd40b334</link>
-<guid>2dcf9089508c45698f34acf3d05496d0ef9e5072416828532406bf340970219d</guid>
-<pubDate>2026-09-16T08:34:46+09:00</pubDate>
-<description>AI基盤におけるGoogle Cloudという選択肢 生成AIの基盤としてAWS、Azure、Google Cloudのどれを選ぶか。この話になると、Google Cloudはかなりの確率でGeminiとセットで語られます。「Geminiを使うならGoogle Cloud...</description>
+<title>【Qiita】 AIエージェントを支える基盤技術。Agent Core が解決する5つの技術課題</title>
+<link>https://qiita.com/aimldl/items/4f37cdcc7b76ac212bf5</link>
+<guid>346116c3a7930a0f591d7825e33a66dcd25c049b4e0c0bed34679d8f4a61f9d9</guid>
+<pubDate>2026-09-16T13:46:15+09:00</pubDate>
+<description>はじめに 前回の記事では、AIエージェントを支える Agent Runtime の内部構造について見てきました。Planner、Memory、Tool Manager、Executor といったコンポーネントが連携することで、エージェントが目標達成に向けて行動できることを...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントが「なぜ」を辿れるリポジトリを作る</title>
+<link>https://qiita.com/s-itou/items/2526d0fae5c5730a6f94</link>
+<guid>204fffe133a361630dd97b9f5a84aa7674750d733de060b2626a9be52c85be3a</guid>
+<pubDate>2026-09-16T13:03:34+09:00</pubDate>
+<description>はじめに AIが見当違いな実装をするのはなぜか 現在のAIコーディングエージェントは、適切な指示さえあれば人間以上のパフォーマンスを発揮できます。 しかし実際の開発では、「見当違いな実装」や「過剰な作り込み」による手戻りが発生することがあります。その大きな原因のひとつが...</description>
+</item>
+<item>
+<title>【Qiita】 GitHubは「Issue → Agent → PR」の先へ進むのか――今後1〜2年でAgent Control Planeが本格化する可能性</title>
+<link>https://qiita.com/mamono210/items/76f76bc5c8db6e64a456</link>
+<guid>8a72445a84bf675a603e9b593e18b9a0e23b41ece59f31ddde568c8f9383cbe0</guid>
+<pubDate>2026-09-16T12:08:56+09:00</pubDate>
+<description>2026年現在、GitHub上でAI Coding Agentを使う開発は急速に現実的なものになっている。 現時点で、次の流れはすでに実用段階にある。 Issue ↓ Agent ↓ sandbox ↓ code ↓ test ↓ PR ↓ revi...</description>
+</item>
+<item>
+<title>【Qiita】 AIに“忘れる”能力を与える — Artificial Memoryという認知メモリランタイムを作った</title>
+<link>https://qiita.com/yatosaku/items/983736be73e96cca9042</link>
+<guid>057ccf39e1df9d2fa5ce79135c6c0ed069b9868ff44f697c02b3f7596763c3de</guid>
+<pubDate>2026-09-16T12:07:18+09:00</pubDate>
+<description>AIに「人間っぽい記憶」を持たせたくなったので、メモリシステムを作ってみた こんにちは、Yato-WorksのEliです。 最近、AI Agentをいじっていてふと思ったことがあります。 AIって、めちゃくちゃ賢いのに「記憶」になると急に難しくない？ｗ 会話履歴を保存する...</description>
+</item>
+<item>
+<title>【Qiita】 今更ながらSandboxについてキャッチアップしてみた</title>
+<link>https://qiita.com/okikusan-public/items/3ea27ec751d35e5bb1a1</link>
+<guid>322eb2de77a4450a7fe6ec4042c1c7f8e13e221f4a8e9044cc97889ef32e5173</guid>
+<pubDate>2026-09-16T11:09:57+09:00</pubDate>
+<description>生成AIやAI Agentについて調べていると、最近かなり頻繁に目にするようになったのが Sandbox（サンドボックス） という言葉です。 なんとなく、 外部との通信を遮断した安全な環境 くらいのイメージを持っていました。 ただ、改めて調べてみると、Sandboxの本...</description>
+</item>
+<item>
+<title>【Qiita】 共有メモリの更新だけでは古い計画は止まらない。PlanFenceの対照実験を読む</title>
+<link>https://qiita.com/emi_ndk/items/00ecdb9518fec5547935</link>
+<guid>aefa58a8f78dccf09f4eff0f4e59ee53cfb9200f0fa203cc97cba885cbd4188f</guid>
+<pubDate>2026-09-16T11:04:37+09:00</pubDate>
+<description>配送先の変更をエージェントが読んでも、変更前に作った配送計画がそのまま実行されることがある。 2026年9月3日公開のPlanFence論文は、最新情報の取得と、実行する計画の前提確認が別の処理であることを対照実験で示した。 必要なのは、計画が参照したデータの版を記録し、外...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>b05c37bc16d7cc5e781a6d24c8ac9af4ae745fcf6f706e26c52c74be732f37e9</guid>
-<pubDate>Wed, 16 Sep 2026 00:35:42 GMT</pubDate>
+<guid>ff6e37d9a0aff27b8711f26a3477b5e013402c0f572ed47499369818e74425dd</guid>
+<pubDate>Wed, 16 Sep 2026 05:28:49 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>3ea82f36b016d8580582fe61f95c6400708f6943ad24fbfee58ec48496ef6265</guid>
+<pubDate>Wed, 16 Sep 2026 05:28:51 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>ac8ea5503624a5fb03fe1c3baf8b130bac54647cef8b735b112dadefabeb5436</guid>
+<pubDate>Wed, 16 Sep 2026 05:28:53 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>b69d38678a30aa5ee361c8f9d8d6e4839efe16ba837c560a08015f7aa7e67f88</guid>
+<pubDate>Wed, 16 Sep 2026 05:29:07 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
