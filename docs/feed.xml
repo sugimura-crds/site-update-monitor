@@ -4,98 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 16 Sep 2026 10:11:44 GMT</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 15:05:36 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「最近どう？」しか聞けなかった1on1で、メンバーが退職届を出してきた話</title>
-<link>https://qiita.com/fe1ix/items/5d733c267370e0e06661?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>edd8c35e7860d155407bd79e865cd0ded5a22bd0b7c2ebb0c58d0c313a644be5</guid>
-<pubDate>2026-09-15T09:38:28+09:00</pubDate>
-<description>はじめに 1年前、僕は週に1回、チームメンバー全員と1on1をやっていました。真面目にやってたつもりだったんですよね。でもある日、一番期待していたメンバーから退職の相談をされて、正直かなり動揺しました。 「1on1、ちゃんとやってたのに何で気づけなかったんだろう」って。 ...</description>
+<title>【Qiita】 3.1 agent-workdaysって結局何？ OpenAIの公開情報から読み解くAIエージェントの「仕事量」</title>
+<link>https://qiita.com/Tadataka_Takahashi/items/5d1e5b0ca76186bb6c6f</link>
+<guid>256eae1c422991862fbbf9975e302e87c5c7645d36e849872eb3dd703bad689a</guid>
+<pubDate>2026-09-16T23:41:11+09:00</pubDate>
+<description>はじめに 先日、OpenAIが公開した「Research acceleration: The view inside OpenAI」をもとに、AIがAI研究そのものを加速する「Research acceleration」について整理しました。 その中で、特に気になった数...</description>
 </item>
 <item>
-<title>【Qiita】 元ヤフーエンジニア社長が考える、AI時代の採用基準</title>
-<link>https://qiita.com/ryoheiiwamoto/items/7f388029f8821fc3ea6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>34558e6a2fd1db7ef88586144a90a13525b060db7d0732279900822a92e0d984</guid>
-<pubDate>2026-09-16T15:20:43+09:00</pubDate>
-<description>スキルより先に見ているものがある こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。 https://prum.jp/ 面接だと、つい「スキルをどうアピールしよう」と考えてしまいますよね。 確かに、スキルがあるに越したことはありません。 で...</description>
+<title>【Qiita】 Codexの /mention でREADMEを指定する — 読ませたい1ファイルを10分で添付</title>
+<link>https://qiita.com/akira_papa_AI/items/408353894bd201181893</link>
+<guid>dd164933158aa5af171e664cff4bb2e482d897c8a13e395c5b64139d9629c06c</guid>
+<pubDate>2026-09-16T22:29:21+09:00</pubDate>
+<description>Codexの /mention でREADMEを指定する — 読ませたい1ファイルを10分で添付 Codex CLIを使い始めたばかりで、「このREADMEだけを読んでほしい」と確実に伝えたい方向けです。 この記事では、練習用のREADME.mdを作り、/mentionか...</description>
 </item>
 <item>
-<title>【Qiita】 拒否ルールを全部消しても、Claude Code は eval を止めた。守っていたのは別の仕組みだった</title>
-<link>https://qiita.com/suwa_nobu/items/5145961004e38e2fe316?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>fe9a47e3fc6a6438cbe9df60584504b7991e42a30ffa66352eb4ff5ac0d10501</guid>
-<pubDate>2026-09-16T09:22:25+09:00</pubDate>
-<description>Claude Code 2.1.273（2026-09-15）の changelog に、こう書かれています。 Reverted a 2.1.268 change that checked Read and Edit deny rules on Bash lines th...</description>
+<title>【Qiita】 バイブコーディングの次は「お気持ち駆動開発」かもしれない</title>
+<link>https://qiita.com/hotstaff/items/cb129cee7f6919b52896</link>
+<guid>401a1e3751f767074051e19ec85402e764283bdd6ea3cb672ece30b6b2e743a5</guid>
+<pubDate>2026-09-16T21:25:45+09:00</pubDate>
+<description>— 人間が指示する時代の、その先を考えてみた ここ数年、自分はAIコーディングについて何度か未来予想を書いてきた。 最初に考えたのは、 人間が直接AIコーダーへ指示する構造は長続きしない ということだった。 人間というものは、だいたい指示が雑である。 「なんかここ変」...</description>
 </item>
 <item>
-<title>【Qiita】 watsonx.data SaaS版のOpenRAGを使ってみた</title>
-<link>https://qiita.com/nishikyon/items/9b5ddbf9da3dd5068c64</link>
-<guid>c22fde8a1398f572f01313b1c6f2f9a7b4afdb970ea9cc727cfa90dd46048448</guid>
-<pubDate>2026-09-16T17:49:01+09:00</pubDate>
-<description>当記事ではIBM Cloud の watsonx.data SaaS 版 OpenRAGをセットアップして使ってみます。 公式ドキュメント: 『 OpenRAG 』入門 より引用： OpenRAGはwatsonx.dataで利用可能な、フルマネージドのエージェント型RAG...</description>
+<title>【Qiita】 DuplexSLAの論文を読んでみた！〜AIが「聞く・話す・考える・動く」を同時にこなす時代へ〜</title>
+<link>https://qiita.com/kojima-ryosuke/items/5f1d75394db37f515f23</link>
+<guid>a84764b66a92155b59c0b8aa3825639d29b43cada09e0e50516d96d90f1b7a2e</guid>
+<pubDate>2026-09-16T20:52:55+09:00</pubDate>
+<description>はじめに：AIとの会話、もう少し自然にならない？ 音声AIと話していて、こんなやり取りを経験したことはありませんか。 自分「明日の予定なんだけど、えーっと……」 AI 「明日の予定ですね！ まずは……」 自分「いや、まだ考えてる途中なんだけど……」 返事が速いのは嬉し...</description>
 </item>
 <item>
-<title>【Qiita】 さわってみよう Db2 AI エディション #18 〜Db2 Genius Hub v1.1.5新機能編 Part#1〜</title>
-<link>https://qiita.com/ibm_tk/items/ea6eb16f379d8cf52407</link>
-<guid>1e890f682f6811913cc0374991f1119c161bd4331ff918c9420051e946a79a92</guid>
-<pubDate>2026-09-16T16:31:42+09:00</pubDate>
-<description>Db2 AI エディション(Db2 AI Advanced, Db2 AI Standard)にはフル機能のDb2 Genius Hubがバンドルされています。 IBM Db2 Genius Hub v1.1.5*1では、データベース管理、監視、ユーザー・エクスペリエンス、...</description>
+<title>【Qiita】 [AWS]DynamoDBベクトル検索のTopK:100制限をシャーディングで限界突破してみる</title>
+<link>https://qiita.com/kikuziro/items/0f47489319e9b4c23002</link>
+<guid>6f6076b2844c571cb3c3e0242a8d1c5c4dc6ea85b8ebfcbb546776b4118f4e07</guid>
+<pubDate>2026-09-16T21:28:30+09:00</pubDate>
+<description>🎯 対象者 DynamoDBでベクトルデータを扱ってみたい人 でも一回で最大100件しか抽出できないから、集約もリランキングもできないと嘆いている人 🆕 DynamoDBでベクトルデータが扱えるようになった DynamoDBでは、2026年8月にベクトルデータを扱え...</description>
 </item>
 <item>
-<title>【Qiita】 GitもPythonもNode.jsも使えないWindows環境でCursorを使ったら辛すぎた</title>
-<link>https://qiita.com/kangju1988/items/004d2b67d6c850b4caab</link>
-<guid>92dffacba42a90e6cad8ec568d5ae25e6e706579ae72de68b80fbfa3894aa4d1</guid>
-<pubDate>2026-09-16T18:33:45+09:00</pubDate>
-<description>はじめに AI活用の推進をしている企業が多いと思いますが、実際に使おうとすると今までのいろいろなルールのせいで全くAIが使えないこと多くあると思います。 この記事では、AIが動けない環境下でAI（Cursor）を使ったときに困ったことを書いていこうと思います。 AI利用...</description>
+<title>【農業】 Large nutritional and environmental improvements can be achieved across the product portfolios of major UK food and beverage manufacturers</title>
+<link>https://www.nature.com/articles/s43016-026-01420-2</link>
+<guid>d7f8f9bfbec57bcd30f064e4df510506621895166f4e6cd0cb4edc5090d8758f</guid>
+<pubDate>2026-09-16</pubDate>
+<description>Food and beverage manufacturers have the potential to contribute to the transition towards a more nutritious and sustainable food system. By analysing products sold by 44 major food and beverage manufacturers in the UK, this study identifies how, and to what extent, changes to product portfolios could improve the heal</description>
 </item>
 <item>
-<title>【Qiita】 権限があっても、実行していいとは限らない。問い合わせAIのRuntime Governance設計</title>
-<link>https://qiita.com/Udesk/items/f99709295507f840d21d</link>
-<guid>bc280f80e08559f7241e4af434491f918838a3ed5b1d130fbf6a7d4f9f1ffbae</guid>
-<pubDate>2026-09-16T18:03:07+09:00</pubDate>
-<description>顧客が「返金について確認したいです」と入力した。問い合わせAIは注文を特定し、返金処理用の refund_order Toolも使える。引数のorder_idも金額も正しい。IAM上の権限チェックも通る。 それでも、このToolを実行してはいけない。顧客が求めたのは返金状況...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントUIは「失敗」より最初のズレを見る。3つのfixtureでイベントをリプレイする</title>
-<link>https://qiita.com/heftykoo/items/b8fe71d2104429f12766</link>
-<guid>366814cf443705b270c5a4a981a8e2482405dd6fb9af684b23a3b9e37b8f0054</guid>
-<pubDate>2026-09-16T17:49:26+09:00</pubDate>
-<description>AIエージェントが呼んだtoolは失敗しているのに、ボタンはずっと「実行中」のまま。チャット末尾にはエラーメッセージもある。原因を探そうとして履歴を上から読み直すが、UIがどのイベントを受け損ねたのかは分からない。 この手の不具合を最後のerrorから逆算すると、見る範囲が...</description>
-</item>
-<item>
-<title>【Qiita】 Devin の Playbooks と Skills、何が違う？共通点・相違点・使い分けを整理する</title>
-<link>https://qiita.com/Kinopee/items/8ca5ce1611694307811a</link>
-<guid>fcf98e2a0e22db56c51303cf9147fde4976b1476209871fa94f6ff5c36afe72a</guid>
-<pubDate>2026-09-16T17:19:39+09:00</pubDate>
-<description>Devin には、エージェントへ処理手順を伝える仕組みとして Skills と Playbooks の2つが用意されています。どちらも「Devin にタスクの進め方を指示する」ための機能ですが、開発された背景や動作の仕組み、設計思想は大きく異なります。 本記事では、両者の共...</description>
-</item>
-<item>
-<title>【Qiita】 【2026年版】自律型ディープリサーチ（Deep Research）の解体新書：マルチエージェント艦隊、MCTS探索木、引用グラフ合成のアーキテクチャ</title>
-<link>https://qiita.com/agdexai/items/8156a1c01f2eb5592605</link>
-<guid>af9ef700c11cc75429ba60d5f9b76c0f17df7708d56a79a4abfbdedc6d81c8d4</guid>
-<pubDate>2026-09-16T18:19:58+09:00</pubDate>
-<description>2026年、従来のシングルショット型Naive RAGや単純な対話型検索は構造的な限界を迎えました。複雑な産業動向の調査や学術的サーベイにおいて、単純なベクトル検索は浅薄でハルシネーションの多い回答しか出力できません。20ページを超える本格的な技術レポートを自律生成するため...</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>b3147883b3f7c0f4b9e470e7719ee2b2ba291787bf3c04d207e2d41ec92b478a</guid>
-<pubDate>Wed, 16 Sep 2026 10:11:08 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【環境】 New labour and agricultural damages improve climate cost estimates</title>
+<link>https://www.nature.com/articles/s41558-026-02749-z</link>
+<guid>89ffa5170bba5e14277e03d13660a4cbdf2d93aff58a8d89485ee42b94479e0e</guid>
+<pubDate>2026-09-16</pubDate>
+<description>Heat stress reduces labour productivity, but economy-wide assessments are mostly missing. Using high-resolution projections and global economic modelling, the authors provide new cost estimates, and updated agricultural damages improve confidence in the social cost of carbon.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>59018423cf9cee55c2f4c3f5e2cce186577de7ac2262a2b0e4bf2afccd3104ca</guid>
-<pubDate>Wed, 16 Sep 2026 10:11:10 GMT</pubDate>
+<guid>75cd1e48735b67e537f81fd3704a74779cc5873322d161b0872b6824574a6d5b</guid>
+<pubDate>Wed, 16 Sep 2026 15:04:59 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>6339d09332f22f7185c6df8badb0ba7aedece4c0ce65ff2305337da10cc0ed95</guid>
-<pubDate>Wed, 16 Sep 2026 10:11:35 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>8eb57ff8cc2176894b74da7ca7537d7890d37e3c778cd8d784c19ec59807b0fc</guid>
+<pubDate>Wed, 16 Sep 2026 15:05:02 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 
 </channel>
