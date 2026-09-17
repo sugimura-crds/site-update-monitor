@@ -4,98 +4,71 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 17 Sep 2026 08:51:58 GMT</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 13:57:42 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 新言語「Hike」をシステムに採用したらバイナリ99.8%削減・ネットワークも実働処理も爆速になった話</title>
-<link>https://qiita.com/kinop3/items/fdb57313458c2aa1bcdc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>26583d2c1ca2b35c77f02b86a89a62b9849ffa291d0b626532481dbb578aec85</guid>
-<pubDate>2026-09-15T14:32:59+09:00</pubDate>
-<description>皆様はじめまして！普段はマネジメントや別事業をしつつ、インフラからアプリまで何でもこなす現場のIT何でも屋です。 ある日、Qiitaのトレンドに流れてきた kanryu さんの うっかり世界最強のWasmコンパイラを作ってしまった件 などの記事を拝見し、「自社のファイル暗号...</description>
+<title>【Qiita】 「/compact」コマンド、使えてる？ コンテキストを手動で整理する理由</title>
+<link>https://qiita.com/inoyu-qiita/items/12d579dc822ffb1b3297</link>
+<guid>35470bc5df21b361d6c78994b239bc7b73e500dfd96a3a316b8f6bdd7ad02be1</guid>
+<pubDate>2026-09-17T22:40:58+09:00</pubDate>
+<description>きっかけ：Codexではコンテキスト管理ができてない！ Claude CodeはiTerm2で使い、/statuslineで画面下にコンテキストの使用率を表示しています。 自分はコンテキストの残りが80％あたりになったら、手動で/compactしています。 一方、Code...</description>
 </item>
 <item>
-<title>【Qiita】 SQL構文は日本語で例えると理解しやすい</title>
-<link>https://qiita.com/nolanlover0527/items/f856f09d7bf23cdd0ae6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>af914700cb76ef184091bdb0fa501268aa77335b457893fb58f8e5d823b06985</guid>
-<pubDate>2026-09-15T09:05:46+09:00</pubDate>
-<description>SQLの基本構文 まずは基本形です。 SELECT カラム名 FROM テーブル名 WHERE 条件 GROUP BY カラム名 HAVING 条件 ORDER BY カラム名 LIMIT 件数 これを見て「何が何やら」となった方も多いと思います。順番に日本語へ変...</description>
+<title>【Qiita】 Claude CodeのConcise出力スタイルで返答を短くする — プロジェクト単位で10分設定</title>
+<link>https://qiita.com/akira_papa_AI/items/7bd73968360989a72d66</link>
+<guid>adf113afb8c37d15c0fa0f81d3ec5244d619f7b3d031054bb0b68e9727fe4148</guid>
+<pubDate>2026-09-17T22:32:27+09:00</pubDate>
+<description>Claude CodeのConcise出力スタイルで返答を短くする — プロジェクト単位で10分設定 Claude Codeを使い始めたものの、毎回「短く答えて」と書くのが面倒な人向けです。 この記事ではConcise出力スタイルを選び、次の返答から簡潔にする設定を10分...</description>
 </item>
 <item>
-<title>【Qiita】 【Porffor】JavaScriptをCにコンパイルして圧倒的パフォーマンスを見せる</title>
-<link>https://qiita.com/rana_kualu/items/f82f870ef8481d9b1f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>820f032938a0277ce19fad244d7cd884ff81667348035c0c9032461e38921a82</guid>
-<pubDate>2026-09-14T21:34:39+09:00</pubDate>
-<description>と謳うライブラリPorfforが、先日2026/08/25にアルファ版に到達しました。 とのことで、以下は公式サイトとGitHubの紹介です。 porffor公式サイト PorfforはJavaScriptをコンパイラでリビルドします。 これによってメモリ使用量とサイズ...</description>
+<title>【Qiita】 Jevとは何か？ 従来型LLMやAIエージェントとの違いを理解する</title>
+<link>https://qiita.com/nasuvitz/items/44f20ed515b9734afb26</link>
+<guid>54c35cfafe2f0c7209a8592416b2c730b5fa8f46abeb26a5f3229907c27bb746</guid>
+<pubDate>2026-09-17T22:26:18+09:00</pubDate>
+<description>はじめに Jevは、文章や業務データを読み取り、分類・採点・条件判定の結果を確率付きで返すAIモデルです。 モデルが返す結果は、ソフトウェアが処理を分岐する場面に利用することが想定されています。プログラムは条件を明確に判定し、複雑な制御に応用することが可能です。 このJe...</description>
 </item>
 <item>
-<title>【Qiita】 watsonx Orchestrate の Agent Skills を試してみる</title>
-<link>https://qiita.com/yuka_nm/items/c557e0c940f04dabb263</link>
-<guid>2c3874d209d77c3de303bd8425c6fbfc204f3ce6bed82d385f1802a8ddf1e52f</guid>
-<pubDate>2026-09-17T16:28:03+09:00</pubDate>
-<description>はじめに watsonx Orchestrate のエージェントを作るとき、私がやってきた中で一番多いのは「Agentのinstructionにひたすら指示を書く」「Toolを呼び出す指示やガイドラインを書く」という方法でした。 シンプルなユースケースならそれで十分です。...</description>
+<title>【Qiita】 Astra時代のCodex再設計――「モデル補償負債」を捨ててクレジットを節約する</title>
+<link>https://qiita.com/comty/items/b1df0f63688d3232c590</link>
+<guid>ff3601706c4656a1d7f3b7bb509a6d577f91a299b2bed3a6a2b98c9284e3234f</guid>
+<pubDate>2026-09-17T21:49:19+09:00</pubDate>
+<description>はじめに Codexを長く使っていると、だんだん指示が増えていきます。 「作業前にこのファイルを読んでください」「変更後は必ずこのチェックをしてください」「勝手に判断せず確認してください」「この順番で作業してください」「最後にもう一度全部確認してください」。 一つひとつ...</description>
 </item>
 <item>
-<title>【Qiita】 【Gemini Enterprise】Co-Scientist(AI共同研究者)の仕組みを整理する</title>
-<link>https://qiita.com/kuno_/items/f50f2564925288199c09</link>
-<guid>3f24a542c816d6b08352a9cb15b28bd52402dc7d59ce81440156eb1e3c51b30d</guid>
-<pubDate>2026-09-17T17:06:16+09:00</pubDate>
-<description>はじめに Gemini Enterprise Agent Platformには、AlphaEvolveと並んで「Google DeepMindが開発した研究開発を加速するエージェント」として位置づけられている「Co-Scientist」があります。研究者の仮説立案を支援す...</description>
+<title>【自動自律実験】 Exclusive: New evidence for hidden chambers beyond Tutankhamun’s tomb</title>
+<link>https://www.nature.com/articles/d41586-026-02621-2</link>
+<guid>1233ad48279c5e6a23af7e691a0461de1bd8ff9ee6eb5b172e82c92c12f5b50a</guid>
+<pubDate>2026-09-17</pubDate>
+<description>Geophysical survey yields ‘tantalizing’ data that could point to Nefertiti’s burial place – but it’s too early to draw definitive conclusions.</description>
 </item>
 <item>
-<title>【Qiita】 「1日のうち複数回（朝・午後）」を実際に数えたら、起動トリガーは3つあり、3つ目は1回だけ動いて無効化されていた</title>
-<link>https://qiita.com/Hideki_Tamae/items/b850408a402772329d1f</link>
-<guid>6d7a2d985f8f674a2a2d6ecea892a24327f43c8cbb06be8056da2bebd53b70f3</guid>
-<pubDate>2026-09-17T15:30:36+09:00</pubDate>
-<description>はじめに 3。 これが今回の数字です。何の3かというと、この定期タスクを起動している仕組み自体を今日初めて実際に確認したところ見つかった、Zenn/Qiita自動投稿の起動トリガー(スケジュール実行の設定)の総数です。 このタスクの指示書には毎回「1日のうち複数回(朝・午...</description>
-</item>
-<item>
-<title>【Qiita】 エージェントエンジニアリング：AIを活用したエンジニアリングチームの構築</title>
-<link>https://qiita.com/inouekenta/items/47bfd3358ddef05941fe</link>
-<guid>3df8923050145778aab30b04a1ab8191525ebefe40053867a85fca5303da02b9</guid>
-<pubDate>2026-09-17T13:04:59+09:00</pubDate>
-<description>AIコーディングエージェントは、ソフトウェア開発のあり方を変えつつあります。 しかし、AIエージェントを効果的に活用することは、単にClaude CodeやCodex、その他のコーディングエージェントを開いてコードを書くよう依頼するだけではありません。 より重要な問いは次の...</description>
-</item>
-<item>
-<title>【農業】 New roadmap signals Africa’s pathway for sustainable and resilient agriculture</title>
-<link>https://www.fao.org/newsroom/detail/new-roadmap-signals-africa-s-pathway-for-sustainable-and-resilient-agriculture/en</link>
-<guid>79dfe6a434b1744130369489608e01a9128934a6d5eb9bcd9d401f8c0a2f7879</guid>
-<pubDate>Thu, 17 Sep 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>0064deaadbc524ff23ed0e2f07214337cb46e877e57e52f9817a1388ffe8b7da</guid>
-<pubDate>Thu, 17 Sep 2026 08:50:55 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【自動自律実験】 OpenAI maths bombshell sparks debate about who gets credit in age of AI</title>
+<link>https://www.nature.com/articles/d41586-026-02910-w</link>
+<guid>1a158553c8d104e7404d04aa2b3974765968c5fe61d8eae82d063cb0e5bdb6f3</guid>
+<pubDate>2026-09-17</pubDate>
+<description>Controversy around OpenAI’s claim to have solved the Navier–Stokes problem highlights how researchers could be inadvertently sharing — and absorbing— ideas through chatbots.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>1aca273dd2cbc15bb4553a959a5210536e6c649914b934897ec6176d33c2ae03</guid>
-<pubDate>Thu, 17 Sep 2026 08:50:58 GMT</pubDate>
+<guid>d05d0511957607a84167328188fde2bf45429a18da85f7b3a3d7ced90fc1108d</guid>
+<pubDate>Thu, 17 Sep 2026 13:56:35 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>91477f5c48b8feed746ef2eb09b5ea3ffa4f9798d8b3689c7a33175684f40919</guid>
-<pubDate>Thu, 17 Sep 2026 08:51:01 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>86250630ef0dcc133e3def6f9ed1c7c9fdab2de09f5fbebf603aee19becd1ece</guid>
+<pubDate>Thu, 17 Sep 2026 13:57:23 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>22c61f3c8968674cc85efb77a13e90b658f9f48f98a16c5a63b01c7a04b57544</guid>
-<pubDate>Thu, 17 Sep 2026 08:51:02 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【農業】 0 search results</title>
-<link>https://www.cgiar.org/news</link>
-<guid>38d23cc42a7c8f3a093fa4d4a164d4ac2cbe5f5c7508414722b4bc01348a6339</guid>
-<pubDate>Thu, 17 Sep 2026 08:51:46 GMT</pubDate>
-<description>News Overview Clear Search Input Submit Search Reset Reset Filter 0 search results go to top</description>
+<title>【農業】 8564 search results</title>
+<link>https://www.cgiar.org/news?page=0</link>
+<guid>b233be4a5b4c1a3a17e82dd9b2538b799a52e7202941a04f9939cfd71cb92b0a</guid>
+<pubDate>Thu, 17 Sep 2026 13:57:28 GMT</pubDate>
+<description>The Frontlines Learning Exchange 2026 webinar series creates learning spaces to tackle complex agricultural challenges in a changing world.</description>
 </item>
 
 </channel>
