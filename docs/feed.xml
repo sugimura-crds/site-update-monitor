@@ -4,63 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 17 Sep 2026 03:30:51 GMT</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 08:51:58 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 24時間動き続けるAIエージェント：途中で「死なない」ようにする設計</title>
-<link>https://qiita.com/Ikegamik_genee/items/a628f20cd7fe262cbeb4</link>
-<guid>3cd221c553ad3378e4f001bb3a887423df8500bb86882ee34602b26a68b6bb26</guid>
-<pubDate>2026-09-17T12:06:19+09:00</pubDate>
-<description>24時間動き続けるAIエージェント：途中で「死なない」ようにする設計 なぜこれが難しいのか AIエージェントをデモとして動かすだけなら簡単です。LLMを呼び、結果を受け取り、画面に出力する。それだけで済みます。しかし、エージェントを何時間も、何日も連続で動かし、ツール呼...</description>
+<title>【Qiita】 新言語「Hike」をシステムに採用したらバイナリ99.8%削減・ネットワークも実働処理も爆速になった話</title>
+<link>https://qiita.com/kinop3/items/fdb57313458c2aa1bcdc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>26583d2c1ca2b35c77f02b86a89a62b9849ffa291d0b626532481dbb578aec85</guid>
+<pubDate>2026-09-15T14:32:59+09:00</pubDate>
+<description>皆様はじめまして！普段はマネジメントや別事業をしつつ、インフラからアプリまで何でもこなす現場のIT何でも屋です。 ある日、Qiitaのトレンドに流れてきた kanryu さんの うっかり世界最強のWasmコンパイラを作ってしまった件 などの記事を拝見し、「自社のファイル暗号...</description>
 </item>
 <item>
-<title>【Qiita】 研究のためのAIエージェントを用いたワークフロー</title>
-<link>https://qiita.com/KazuhisaFujita/items/f2a87a5db451666443cb</link>
-<guid>0dcf9f42f8bf78516334387d8d597ab5c01bae919b88e6055146cc52e1d690a7</guid>
-<pubDate>2026-09-17T10:52:33+09:00</pubDate>
-<description>AIエージェントの活用が急速に進み始めています。しかし、実際にどのように使えばよいのかは、使ってみないと分からない部分がまだ多いように思います。 その理由の一つは、現在のAIエージェントが単なる「便利なツール」ではなく、ある程度まとまった仕事を自律的に遂行できるほど高性能に...</description>
+<title>【Qiita】 SQL構文は日本語で例えると理解しやすい</title>
+<link>https://qiita.com/nolanlover0527/items/f856f09d7bf23cdd0ae6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>af914700cb76ef184091bdb0fa501268aa77335b457893fb58f8e5d823b06985</guid>
+<pubDate>2026-09-15T09:05:46+09:00</pubDate>
+<description>SQLの基本構文 まずは基本形です。 SELECT カラム名 FROM テーブル名 WHERE 条件 GROUP BY カラム名 HAVING 条件 ORDER BY カラム名 LIMIT 件数 これを見て「何が何やら」となった方も多いと思います。順番に日本語へ変...</description>
 </item>
 <item>
-<title>【Qiita】 2026年9月17日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/039cf89339f272c3524a</link>
-<guid>95640bac4062425d9b2b25252f51638268378d3e0b347478256526c371341b89</guid>
-<pubDate>2026-09-17T10:30:12+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 生成AIが書いたドキュメントを読みたくない h...</description>
+<title>【Qiita】 【Porffor】JavaScriptをCにコンパイルして圧倒的パフォーマンスを見せる</title>
+<link>https://qiita.com/rana_kualu/items/f82f870ef8481d9b1f0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>820f032938a0277ce19fad244d7cd884ff81667348035c0c9032461e38921a82</guid>
+<pubDate>2026-09-14T21:34:39+09:00</pubDate>
+<description>と謳うライブラリPorfforが、先日2026/08/25にアルファ版に到達しました。 とのことで、以下は公式サイトとGitHubの紹介です。 porffor公式サイト PorfforはJavaScriptをコンパイラでリビルドします。 これによってメモリ使用量とサイズ...</description>
 </item>
 <item>
-<title>【Qiita】 ブラウザだけで Spring Boot のテストまで通した - JetBrains Air のクラウドタスクを使ってみた</title>
-<link>https://qiita.com/nattogohan123/items/fb5ff718223349504e91</link>
-<guid>725d0694d1fca0c17ce4956529abcbc4ff37192ff592160c8120057346f5f02e</guid>
-<pubDate>2026-09-17T10:08:28+09:00</pubDate>
-<description>はじめに コーディングエージェントに長めの作業を任せると、終わるまでノート PC を閉じられません。 ビルドとテストが走ればファンが回り、その間に別の作業をすると動きが重くなります。 タスクが途中で止まるのが嫌でスリープにしたくない。 エージェントを使い始めた人なら、こん...</description>
+<title>【Qiita】 watsonx Orchestrate の Agent Skills を試してみる</title>
+<link>https://qiita.com/yuka_nm/items/c557e0c940f04dabb263</link>
+<guid>2c3874d209d77c3de303bd8425c6fbfc204f3ce6bed82d385f1802a8ddf1e52f</guid>
+<pubDate>2026-09-17T16:28:03+09:00</pubDate>
+<description>はじめに watsonx Orchestrate のエージェントを作るとき、私がやってきた中で一番多いのは「Agentのinstructionにひたすら指示を書く」「Toolを呼び出す指示やガイドラインを書く」という方法でした。 シンプルなユースケースならそれで十分です。...</description>
+</item>
+<item>
+<title>【Qiita】 【Gemini Enterprise】Co-Scientist(AI共同研究者)の仕組みを整理する</title>
+<link>https://qiita.com/kuno_/items/f50f2564925288199c09</link>
+<guid>3f24a542c816d6b08352a9cb15b28bd52402dc7d59ce81440156eb1e3c51b30d</guid>
+<pubDate>2026-09-17T17:06:16+09:00</pubDate>
+<description>はじめに Gemini Enterprise Agent Platformには、AlphaEvolveと並んで「Google DeepMindが開発した研究開発を加速するエージェント」として位置づけられている「Co-Scientist」があります。研究者の仮説立案を支援す...</description>
+</item>
+<item>
+<title>【Qiita】 「1日のうち複数回（朝・午後）」を実際に数えたら、起動トリガーは3つあり、3つ目は1回だけ動いて無効化されていた</title>
+<link>https://qiita.com/Hideki_Tamae/items/b850408a402772329d1f</link>
+<guid>6d7a2d985f8f674a2a2d6ecea892a24327f43c8cbb06be8056da2bebd53b70f3</guid>
+<pubDate>2026-09-17T15:30:36+09:00</pubDate>
+<description>はじめに 3。 これが今回の数字です。何の3かというと、この定期タスクを起動している仕組み自体を今日初めて実際に確認したところ見つかった、Zenn/Qiita自動投稿の起動トリガー(スケジュール実行の設定)の総数です。 このタスクの指示書には毎回「1日のうち複数回(朝・午...</description>
+</item>
+<item>
+<title>【Qiita】 エージェントエンジニアリング：AIを活用したエンジニアリングチームの構築</title>
+<link>https://qiita.com/inouekenta/items/47bfd3358ddef05941fe</link>
+<guid>3df8923050145778aab30b04a1ab8191525ebefe40053867a85fca5303da02b9</guid>
+<pubDate>2026-09-17T13:04:59+09:00</pubDate>
+<description>AIコーディングエージェントは、ソフトウェア開発のあり方を変えつつあります。 しかし、AIエージェントを効果的に活用することは、単にClaude CodeやCodex、その他のコーディングエージェントを開いてコードを書くよう依頼するだけではありません。 より重要な問いは次の...</description>
+</item>
+<item>
+<title>【農業】 New roadmap signals Africa’s pathway for sustainable and resilient agriculture</title>
+<link>https://www.fao.org/newsroom/detail/new-roadmap-signals-africa-s-pathway-for-sustainable-and-resilient-agriculture/en</link>
+<guid>79dfe6a434b1744130369489608e01a9128934a6d5eb9bcd9d401f8c0a2f7879</guid>
+<pubDate>Thu, 17 Sep 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>0064deaadbc524ff23ed0e2f07214337cb46e877e57e52f9817a1388ffe8b7da</guid>
+<pubDate>Thu, 17 Sep 2026 08:50:55 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>e9f972cc9a3d03cae1185e9101ed501d5d77427082d28b120167fce96f25c009</guid>
-<pubDate>Thu, 17 Sep 2026 03:29:51 GMT</pubDate>
+<guid>1aca273dd2cbc15bb4553a959a5210536e6c649914b934897ec6176d33c2ae03</guid>
+<pubDate>Thu, 17 Sep 2026 08:50:58 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>9f8ac0d7891de69e1df5f67f42e9106732d949c1c2b80a57a68dd78f515ef105</guid>
-<pubDate>Thu, 17 Sep 2026 03:29:53 GMT</pubDate>
+<guid>91477f5c48b8feed746ef2eb09b5ea3ffa4f9798d8b3689c7a33175684f40919</guid>
+<pubDate>Thu, 17 Sep 2026 08:51:01 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>b921b418df4eb591d39b6aafee24587083517b9f1e30e1fa4a00127780d602fe</guid>
-<pubDate>Thu, 17 Sep 2026 03:29:56 GMT</pubDate>
-<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>22c61f3c8968674cc85efb77a13e90b658f9f48f98a16c5a63b01c7a04b57544</guid>
+<pubDate>Thu, 17 Sep 2026 08:51:02 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>8b7ae4c221575030790fdc195adbc87621ae922864783fc7cce7a991261df2b1</guid>
-<pubDate>Thu, 17 Sep 2026 03:30:16 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+<title>【農業】 0 search results</title>
+<link>https://www.cgiar.org/news</link>
+<guid>38d23cc42a7c8f3a093fa4d4a164d4ac2cbe5f5c7508414722b4bc01348a6339</guid>
+<pubDate>Thu, 17 Sep 2026 08:51:46 GMT</pubDate>
+<description>News Overview Clear Search Input Submit Search Reset Reset Filter 0 search results go to top</description>
 </item>
 
 </channel>
