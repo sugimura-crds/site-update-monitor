@@ -4,49 +4,71 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 17 Sep 2026 20:45:59 GMT</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 23:16:31 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 常駐コンテキストを削りClaude Codeのコストを抑えてみた</title>
-<link>https://qiita.com/ya-mizobuchi/items/6ae906dd28bf61b32329?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>e5a962c0ffdaa206fde50395d2ce8f6b1c6490ff9f77cb5db8eac38534e55fef</guid>
-<pubDate>2026-09-17T11:06:07+09:00</pubDate>
-<description>はじめに こんにちは。KDDIアジャイル開発センターの溝渕です。 ここ 2 か月ほど、Claude Code での個人開発を進めながら、精度を極力下げずにトークンの消費を抑える仕組みづくりと効果の計測に挑戦してました。 8月の約 1 か月の計測で、かなりトークン消費を抑え...</description>
+<title>【Qiita】 IBM Bob + IBM i 雑記帳</title>
+<link>https://qiita.com/gomAnomalocaris/items/f66a8c8da809860a4a82</link>
+<guid>b3a1c4af9e08d10d0e272af2b5b48764d9e3d6fab1a5e235e2000292233db5bb</guid>
+<pubDate>2026-09-18T07:59:21+09:00</pubDate>
+<description>QA他の雑記帳です。 1. Bob(AI) 開発者は自分がやりたいことだけ考えがち（危険かも） 状況）Bob接続ユーザーをSECOFRクラスからPGMRクラスに変えた（私のガイドにより）らオブジェクトの移動、削除などができなくなった。Bobが*ALLOBJ, SAVSYS...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント開発をプロンプト術で終わらせない──Vibe CodingからAgentic Engineeringへ</title>
-<link>https://qiita.com/mhamadajp/items/a2e4eeceddaca99f97af</link>
-<guid>dbf930da59a7519082d620651e66367f0ea34987c01f83776a6a87f6c99072ed</guid>
-<pubDate>2026-09-18T04:40:56+09:00</pubDate>
-<description>AIコーディングエージェントに「この機能を作って」と頼むと、コードを調べ、編集し、コマンドを実行し、テストまで進めてくれるようになりました。 この体験は便利です。しかし本番の開発では、動くコードが出たことだけで完了にはできません。 仕様にない振る舞いをAIが補っていないか...</description>
+<title>【Qiita】 AI 駆動開発に変更管理を組み込んだ話</title>
+<link>https://qiita.com/haruki_nakayama/items/65cc8517912ca5ceb670</link>
+<guid>0389be205e9c0f7e92e2c625474a6f1a6934721d4fe1fcf89569859ecbdc41cb</guid>
+<pubDate>2026-09-18T08:15:08+09:00</pubDate>
+<description>はじめに ここ半年ほど、Claude CodeでのAI駆動開発を業務で実際に運用してきました。 その中で変更管理の仕組みを導入してしてみたところ、思った以上によかったので記事にまとめてみました。 「なぜこの実装になったのか」「何を確認してからマージしたのか」が後から追える...</description>
 </item>
 <item>
-<title>【環境】 As forests burn, can we replant trees ready for a warmer world?</title>
-<link>https://www.science.org/content/article/forests-burn-can-we-replant-trees-ready-warmer-world</link>
-<guid>3baefdedd67eecfc5fd8a95871d91aa9c2082f9b5a8c6bb7cfe55f765ebec98a</guid>
-<pubDate>2026-09-17T02:00:00Z</pubDate>
-<description>Ecologists testing “assisted migration” are pushing seedlings to the limits—and finding that location matters</description>
+<title>【Qiita】 OpenClawで9体のAIエージェント経営OSを作った話｜Claude Code実践ログ</title>
+<link>https://qiita.com/sescore/items/85da19e77bdad85bbdc4</link>
+<guid>1f1bc6aafad9c3af040b57aca0ee44981e4760ec81eab2b2117ac0efb6ccfe01</guid>
+<pubDate>2026-09-18T08:04:25+09:00</pubDate>
+<description>はじめに——一人でも「取締役会」を持てる時代になった 「経営者なのに経理も営業もマーケも自分でやっている」というSES/フリーランス界隈の悩みは、実は技術で相当な部分を肩代わりできるようになってきました。この記事では、Claude Codeのエージェント基盤であるOpen...</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Fable 5.1 and Claude Mythos 5.1</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>2b1ff448745d5ef33514ac890417b0d52fca16537fb48507f2bbd10dc784e220</guid>
-<pubDate>Thu, 17 Sep 2026 20:44:53 GMT</pubDate>
-<description>Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.</description>
+<title>【Qiita】 Jevとは？判断に特化したAIが、DifyやAIエージェントを変えるかもしれない理由</title>
+<link>https://qiita.com/Ryotaro-namaketAI/items/40f794da339db2c8563e</link>
+<guid>a27ac07bcb87f60802cde0b77120165ded30ec33e6d0049f6631cdee498e24ff</guid>
+<pubDate>2026-09-18T08:04:03+09:00</pubDate>
+<description>はじめに 新しいAIの発表を見て「これ、あの処理に使えるのでは？」と手が止まることがあります。 TypeSafe AIの「Jev」は、まさにそんな技術でした。 「次にどのツールを呼ぶか」「検索を続けるか」。 LLMに任せていた判断の一部を切り出せたら、面白いものが作れそう...</description>
+</item>
+<item>
+<title>【Qiita】 攻撃者目線で考える、AI時代のCI/CD - 発見した攻撃をGitHub Actionsで再実行する</title>
+<link>https://qiita.com/Koukyosyumei/items/ae8771d192ac5092fb2f</link>
+<guid>30d4b2d4f7a1527e23e57781c3c1f89cbb22d961b363cc15ac067c8190cf340c</guid>
+<pubDate>2026-09-18T07:25:42+09:00</pubDate>
+<description>生成AIやAIエージェントの発達によって、コードから脆弱性の候補を探したり、Webアプリケーションに対する攻撃手順を組み立てたることは、以前よりずっと簡単になりました。 しかし、脆弱性を一度見つけて修正しただけでは十分ではありません。数か月後のリファクタリングで同じ問題が復...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>9540815febc274957ed7c0fb7a7d59411704fada79c37f3598fd54d1998de6bd</guid>
-<pubDate>Thu, 17 Sep 2026 20:45:00 GMT</pubDate>
+<guid>5a9d274223f4e37de0c75541058d98ba1e5d19e2a8bd18b779fdca89c3bd9ad0</guid>
+<pubDate>Thu, 17 Sep 2026 23:15:44 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>eb37745ee0641046377973dc423f7c6acb7202a76f698750c657fd2d73a80a98</guid>
-<pubDate>Thu, 17 Sep 2026 20:45:03 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>3125ac273e068317c91c62b8fd532d60898648015711b5eaba9caf248e93a847</guid>
+<pubDate>Thu, 17 Sep 2026 23:15:47 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>13ecb0d581b41d66be1fb678332d3a3e68deec6897df8504ca7518ce69baa3de</guid>
+<pubDate>Thu, 17 Sep 2026 23:15:53 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>06cbf8ce16e23927833703bc0f719e609fe1fc9915b2af91af89e18614abfdfe</guid>
+<pubDate>Thu, 17 Sep 2026 23:16:14 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
