@@ -4,71 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 17 Sep 2026 13:57:42 GMT</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 17:54:26 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「/compact」コマンド、使えてる？ コンテキストを手動で整理する理由</title>
-<link>https://qiita.com/inoyu-qiita/items/12d579dc822ffb1b3297</link>
-<guid>35470bc5df21b361d6c78994b239bc7b73e500dfd96a3a316b8f6bdd7ad02be1</guid>
-<pubDate>2026-09-17T22:40:58+09:00</pubDate>
-<description>きっかけ：Codexではコンテキスト管理ができてない！ Claude CodeはiTerm2で使い、/statuslineで画面下にコンテキストの使用率を表示しています。 自分はコンテキストの残りが80％あたりになったら、手動で/compactしています。 一方、Code...</description>
+<title>【Qiita】 自走する社内ナレッジ／職種別AIプラグイン／結論を先に出すSkill――今日のGitHub 3選</title>
+<link>https://qiita.com/tsuzuri_ai/items/7b60a852fb2d471759da</link>
+<guid>dda052b7618b53a09a567ad66a19adedf7a3b8c95bde05d8943237959bc0cd74</guid>
+<pubDate>2026-09-18T01:06:13+09:00</pubDate>
+<description>2026年9月18日時点で、今日見ておきたいGitHub Repositoryを3件だけ選びました。今回は「社内ナレッジ基盤」「職種別AIの配り方」「回答そのものの設計」という3方向です。 Repository 何これ？ 最短の入口 私の評価 WeKnora...</description>
 </item>
 <item>
-<title>【Qiita】 Claude CodeのConcise出力スタイルで返答を短くする — プロジェクト単位で10分設定</title>
-<link>https://qiita.com/akira_papa_AI/items/7bd73968360989a72d66</link>
-<guid>adf113afb8c37d15c0fa0f81d3ec5244d619f7b3d031054bb0b68e9727fe4148</guid>
-<pubDate>2026-09-17T22:32:27+09:00</pubDate>
-<description>Claude CodeのConcise出力スタイルで返答を短くする — プロジェクト単位で10分設定 Claude Codeを使い始めたものの、毎回「短く答えて」と書くのが面倒な人向けです。 この記事ではConcise出力スタイルを選び、次の返答から簡潔にする設定を10分...</description>
+<title>【Qiita】 AIエージェントは増やせば速くなる？ 並列化とボトルネックを公開情報から考える</title>
+<link>https://qiita.com/Tadataka_Takahashi/items/72186c5d8c23f62061a5</link>
+<guid>3aefe8317abb2a5fb462a3433d707d361d56d0fa7eb815f40fb2e062c4722429</guid>
+<pubDate>2026-09-17T23:18:27+09:00</pubDate>
+<description>はじめに 先日、OpenAIが公開した「Research acceleration: The view inside OpenAI」をもとに、3.1 agent-workdays という数字について整理しました。 そこで次に気になったのが、 AIエージェントは、...</description>
 </item>
 <item>
-<title>【Qiita】 Jevとは何か？ 従来型LLMやAIエージェントとの違いを理解する</title>
-<link>https://qiita.com/nasuvitz/items/44f20ed515b9734afb26</link>
-<guid>54c35cfafe2f0c7209a8592416b2c730b5fa8f46abeb26a5f3229907c27bb746</guid>
-<pubDate>2026-09-17T22:26:18+09:00</pubDate>
-<description>はじめに Jevは、文章や業務データを読み取り、分類・採点・条件判定の結果を確率付きで返すAIモデルです。 モデルが返す結果は、ソフトウェアが処理を分岐する場面に利用することが想定されています。プログラムは条件を明確に判定し、複雑な制御に応用することが可能です。 このJe...</description>
+<title>【Qiita】 OCI Enterprise AI(Generative AI)で利用できるモデルをIAMポリシーで制限してみる</title>
+<link>https://qiita.com/yuji-arakawa/items/2d49b6e23cdf45fc22d6</link>
+<guid>10d38d876eb8e3d4a806cb9df9a5e23c184806b9d839c1863b6a2529384d82b6</guid>
+<pubDate>2026-09-17T23:01:09+09:00</pubDate>
+<description>はじめに OCI Enterprise AI（Generative AI）で、IAMポリシーを使って推論可能なモデルを制限できるようになりました。 ちなみに、OCI の生成AI の API サービスは、これまで、OCI Generative AI 、日本語だと「生成AI」...</description>
 </item>
 <item>
-<title>【Qiita】 Astra時代のCodex再設計――「モデル補償負債」を捨ててクレジットを節約する</title>
-<link>https://qiita.com/comty/items/b1df0f63688d3232c590</link>
-<guid>ff3601706c4656a1d7f3b7bb509a6d577f91a299b2bed3a6a2b98c9284e3234f</guid>
-<pubDate>2026-09-17T21:49:19+09:00</pubDate>
-<description>はじめに Codexを長く使っていると、だんだん指示が増えていきます。 「作業前にこのファイルを読んでください」「変更後は必ずこのチェックをしてください」「勝手に判断せず確認してください」「この順番で作業してください」「最後にもう一度全部確認してください」。 一つひとつ...</description>
+<title>【農業】 FAO emergency food production support helps vulnerable Haitian families produce food and meet urgent needs</title>
+<link>https://www.fao.org/newsroom/detail/fao-emergency-food-production-support-helps-vulnerable-haitian-families-produce-food-and-meet-urgent-needs/en</link>
+<guid>c1ff1a68937dc636e223ef3828d7b0b467acd4600fa3286406e8b38ed82f92f8</guid>
+<pubDate>Thu, 17 Sep 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【自動自律実験】 Exclusive: New evidence for hidden chambers beyond Tutankhamun’s tomb</title>
-<link>https://www.nature.com/articles/d41586-026-02621-2</link>
-<guid>1233ad48279c5e6a23af7e691a0461de1bd8ff9ee6eb5b172e82c92c12f5b50a</guid>
+<title>【自動自律実験】 Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer</title>
+<link>https://www.nature.com/articles/s41586-026-11134-x</link>
+<guid>d27be0dc0a5f0c8c5983efe777faa7e9a6f835ec2158ebdc3b38cceb35c6ada9</guid>
 <pubDate>2026-09-17</pubDate>
-<description>Geophysical survey yields ‘tantalizing’ data that could point to Nefertiti’s burial place – but it’s too early to draw definitive conclusions.</description>
+<description>Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer</description>
 </item>
 <item>
-<title>【自動自律実験】 OpenAI maths bombshell sparks debate about who gets credit in age of AI</title>
-<link>https://www.nature.com/articles/d41586-026-02910-w</link>
-<guid>1a158553c8d104e7404d04aa2b3974765968c5fe61d8eae82d063cb0e5bdb6f3</guid>
+<title>【自動自律実験】 Schoolhouse meals serve up an income bump</title>
+<link>https://www.nature.com/articles/d41586-026-02896-5</link>
+<guid>12c7f21e0d7ae1a257a232ed1cf49ec957a0aa145e4d56add9d0ac7c17f4d151</guid>
 <pubDate>2026-09-17</pubDate>
-<description>Controversy around OpenAI’s claim to have solved the Navier–Stokes problem highlights how researchers could be inadvertently sharing — and absorbing— ideas through chatbots.</description>
+<description>Modelling shows a link between feeding programmes and higher potential earning in five African nations.</description>
+</item>
+<item>
+<title>【自動自律実験】 How fast are you ageing? Ask AI</title>
+<link>https://www.nature.com/articles/d41586-026-02913-7</link>
+<guid>80d22b159dde05b3872700ef0057645e6a30ad9585f23221c95ab29b806723e6</guid>
+<pubDate>2026-09-17</pubDate>
+<description>A new system will help scientists to refine large language models for longevity research and clarify ‘biological’ age.</description>
+</item>
+<item>
+<title>【自動自律実験】 Take a risk or play it safe? Neuronal tug-of-war helps the brain decide</title>
+<link>https://www.nature.com/articles/d41586-026-02911-9</link>
+<guid>fa924ba96e2a9a72c01495d298aafcaeaad1fa8aa7818777cf83f7f5d58c7f18</guid>
+<pubDate>2026-09-17</pubDate>
+<description>Using a video game involving bombs and treasure chests, researchers show how neural activity flickers between two regions of the frontal cortex when the brain weighs up a tricky decision.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>d05d0511957607a84167328188fde2bf45429a18da85f7b3a3d7ced90fc1108d</guid>
-<pubDate>Thu, 17 Sep 2026 13:56:35 GMT</pubDate>
+<guid>118e9e47e8772cc46fed7ce85d431f3a1316dc07883bcfdc6065b032bdd1b91d</guid>
+<pubDate>Thu, 17 Sep 2026 17:53:23 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>86250630ef0dcc133e3def6f9ed1c7c9fdab2de09f5fbebf603aee19becd1ece</guid>
-<pubDate>Thu, 17 Sep 2026 13:57:23 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>fd07ecbe666a1c772b53c6d8fb4ee3fb8cc63a636405243a6c1eb7c5e34622c9</guid>
+<pubDate>Thu, 17 Sep 2026 17:53:26 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【農業】 8564 search results</title>
-<link>https://www.cgiar.org/news?page=0</link>
-<guid>b233be4a5b4c1a3a17e82dd9b2538b799a52e7202941a04f9939cfd71cb92b0a</guid>
-<pubDate>Thu, 17 Sep 2026 13:57:28 GMT</pubDate>
-<description>The Frontlines Learning Exchange 2026 webinar series creates learning spaces to tackle complex agricultural challenges in a changing world.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-69355-z</link>
+<guid>74449068b7975380b4548a7d88061d985af982a98f95f1698b020d7d9c5abed8</guid>
+<pubDate>Thu, 17 Sep 2026 17:53:28 GMT</pubDate>
+<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>c72a10e5cb5ac05ef4ded2aa3b0cc043ff1d501c8a137a4495f5b339663f8f44</guid>
+<pubDate>Thu, 17 Sep 2026 17:54:11 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+</item>
+<item>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>7afafb1de305bd260ae29787ff4f0c4a8f5b199fd8f7f2231d0bb89a75c555c4</guid>
+<pubDate>Thu, 17 Sep 2026 17:54:15 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
