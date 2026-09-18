@@ -4,113 +4,106 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 18 Sep 2026 06:09:07 GMT</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 11:33:13 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Bob の ACP サーバーを使ってみた — Bob Shell との違いと実践ガイド</title>
-<link>https://qiita.com/nagis/items/3a52ca37c92bf6ed2c6a</link>
-<guid>839c12569b47ec67a6082ddce201922368fb2bdcfcecbbe0d6bc1b2f523fb338</guid>
-<pubDate>2026-09-18T14:09:59+09:00</pubDate>
-<description>IBM Bob Shell v2.0.2 で追加された ACP（Agent Client Protocol）サーバーを実際に動かし、セッション作成からプロンプト送信・応答受信までの一連の流れを確認しました。従来の bob run との違いと、外部プログラムから Bob を...</description>
+<title>【Qiita】 Write() で拒否しても、Claude Code は12回とも書き込んだ。効いていたのは Edit() だけだった</title>
+<link>https://qiita.com/suwa_nobu/items/e867493a5cbcdfaa40c9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>29de3fba58475c955d8bc7217568168a95869d4accf3e60d4d9c7bc43712fd8c</guid>
+<pubDate>2026-09-18T08:43:54+09:00</pubDate>
+<description>Claude Code 2.1.275（2026-09-17）の changelog に、こう書かれています。 Fixed /update-config writing Write(path) permission rules, which file permission...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Verify Identity Access 11.0.3 コンテナ版を VirtualBox + RHEL 9.x に構築する</title>
-<link>https://qiita.com/ogawa_to/items/bbad3e03a30999747453</link>
-<guid>49d13af03e6d3bf17ca76bbe3ab8aeaffab6714bdf7e98d52357eab90cecc32d</guid>
-<pubDate>2026-09-18T13:29:46+09:00</pubDate>
-<description>はじめに 本記事では、Windows PC 上の VirtualBox に RHEL 9.x をインストールし、Podman を使って IBM Verify Identity Access（IVIA）11.0.3 のコンテナ版を構築したので、そのときの手順を紹介します。 ...</description>
+<title>【Qiita】 元ヤフーエンジニア社長が考える、AIを使いこなす人と使えない人の決定的な差</title>
+<link>https://qiita.com/ryoheiiwamoto/items/b5805321eaef46b75459?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>6a1e84f6a8c7bad1ded230d51c9139005e46d3ce854960c18da8f394b913b8da</guid>
+<pubDate>2026-09-18T16:02:13+09:00</pubDate>
+<description>「一部だけ任せる」か「全部任せられないか考える」か こんにちは、元Yahooエンジニアで、株式会社PRUMの代表をしている岩本です。 ▶ PRUM採用ページはこちら 「AI使ってますか?」と聞かれたら、たぶん今はほとんどの人が「はい」と答えると思います。 でも僕は、AI...</description>
 </item>
 <item>
-<title>【Qiita】 管理者と利用者を同時に、しかもそれぞれ複数タブで。諦めた要件をGoogleの実測で見直した話</title>
-<link>https://qiita.com/ntaka329/items/bb97dc8046786a99b377</link>
-<guid>bef414568327c9113596ed5629a52ffc5020bd669e44e8e4fa8eec82c41eef08</guid>
-<pubDate>2026-09-18T13:46:40+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 以前、こんな要件の前で手が止まったことがあります。利用者アカウントと管理者アカウントを、同じブラウザの別タブで同時に使いたい。そのうえで、1つのアカウントについて一覧と詳細を別タブで開いて見比べたい。 アカウントの軸と画面の軸が掛かっ...</description>
+<title>【Qiita】 Unityの1万超アセット配信を3時間→13分にした設計</title>
+<link>https://qiita.com/harusann2/items/50d638e7a3c2d76e0531?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>4d060b25543053463265ac85656bc39758f7a3a482b886e0da2f94e5921862d7</guid>
+<pubDate>2026-09-17T16:19:57+09:00</pubDate>
+<description>Unity のアセット配信を約14倍高速化した「Asset Ball」の設計 現在、転職活動中です。この記事を読んで興味を持っていただけた方は、X（@harusann2） に DM を送っていただけるとうれしいです。 前提：Unity 製ソーシャルゲームの起動時ダウ...</description>
 </item>
 <item>
-<title>【Qiita】 業務AIエージェントの失敗を防ぐために — FDEとして現場で学んだ「AI 2割・決定論 8割」の設計</title>
-<link>https://qiita.com/matu79go/items/eab159a077d69651b7d8</link>
-<guid>11d8618864df1f961f437155e7c652526bc490154b40396fa3ca79396a8ab10a</guid>
-<pubDate>2026-09-18T13:06:34+09:00</pubDate>
-<description>はじめに エンタープライズ領域における生成AI導入の現場では、いまだに「巨額のPoCを回したが本番化できない」「全社配布したが現場で定着しない」という課題が頻発しています。 私はこの1年あまり、FDE（Forward Deployed Engineer：顧客の現場に密着し...</description>
+<title>【Qiita】 AI コーディングエージェントの1タスクが8時間かかる理由を、45日分のセッション履歴から測ってみた</title>
+<link>https://qiita.com/dahatake/items/a2e8acbda75b647a67cc</link>
+<guid>8665099001a89449d20fba6802015df439594828f33503520e4a82af696faa64</guid>
+<pubDate>2026-09-18T18:16:38+09:00</pubDate>
+<description>背景 最近、自分の作業ログを見ていて、どうにも腑に落ちないことがありました。 AI コーディングエージェントを使っているのに、1つのタスクが終わるまでに 8 時間、長いときは 24 時間を超えている。体感としては「ずっと動いている」のですが、成果物の量はそれに見合っていな...</description>
 </item>
 <item>
-<title>【Qiita】 AIが読んでいるもの、書いているもの ― トークンの話</title>
-<link>https://qiita.com/ryo-ume/items/abccf783bf4dcb32c000</link>
-<guid>cc5593ab0fc4bac457697ece3f30b05c19865e75fdc47623f401f213c3ce8097</guid>
-<pubDate>2026-09-18T11:52:30+09:00</pubDate>
-<description>はじめに 最近、AIエージェントを使って実装や調査をする機会が増えました。 非常に便利なのですが、使い続けていると利用上限に達することがあります。 「トークンを節約したほうがいい」とは聞くものの、その仕組みを理解しないまま使っていました。 今回はトークンに焦点を当てて、整...</description>
+<title>【Qiita】 VBAマネージャーのAIエージェント化、全部合格していたマクロが丸暗記だった話</title>
+<link>https://qiita.com/shu15511551/items/6f41fcf7ad5b18fe52ab</link>
+<guid>4ce19867ffe34947d2054eefa3a50c9f4e398237372329839ee616caa23668b7</guid>
+<pubDate>2026-09-18T19:13:45+09:00</pubDate>
+<description>はじめに 前回はこう書いて締めました。「やはり AI エージェント化は、もっと研究する必要がありそうです。」 それで、研究しました。九月十六日から十八日までの三日間です。 三日間と書きましたが、時計で言うと、九月十六日の十八時半から十八日の十七時半まで、まる二日、四...</description>
 </item>
 <item>
-<title>【Qiita】 Tool CallingをMCP（Model Context Protocol）の視点からもう一段深掘りしてみた ～N×M問題・アーキテクチャ・認証まで～</title>
-<link>https://qiita.com/Sho5_Matsu/items/016eb48cc1ef08c680ff</link>
-<guid>1e5872fa7fad6c5e3334f7e652f6456cc3275c858ce702d3b8dbb04bf173ca21</guid>
-<pubDate>2026-09-18T11:41:32+09:00</pubDate>
-<description>はじめに 以前、Tool Callingをさらに深掘りしてみた ～実装の流れ・OpenAI/Claudeの違い・エラーハンドリング～という記事で、Tool Callingの処理の流れ（定義→呼び出し要求→実行→結果返却→最終回答）や、OpenAIとClaudeでのスキーマ...</description>
+<title>【Qiita】 AIはデザインを奪うのか？ ― 2026年、デザインの仕事が「作る」から「判断する」へ変わり始めた</title>
+<link>https://qiita.com/realbios/items/e0ae03dffdfde66396e3</link>
+<guid>1a0f3bbfa6997cdbf3cc3b4f821ee3b7803e3a1019120ae0f4c2685984087e5a</guid>
+<pubDate>2026-09-18T18:35:52+09:00</pubDate>
+<description>はじめに 生成AIとデザインの話題というと、少し前までは「画像生成AIでどこまで綺麗な絵を作れるか」が中心でした。 しかし2026年現在、変化の本質はそこではありません。 Figma、Canva、Adobe、OpenAI、Anthropicなどの動きを見ていくと、競争軸は...</description>
 </item>
 <item>
-<title>【Qiita】 Fine-tuningとRAGの違いをもう一歩深掘りしてみた ～RAFT・LoRA/QLoRA・ハイブリッド運用まで～</title>
-<link>https://qiita.com/Sho5_Matsu/items/5440c3d8db139dda0767</link>
-<guid>99b41914c028a8f688a9677e904b31bac407c1949c2cd1b06b4ce8818856518a</guid>
-<pubDate>2026-09-18T11:41:19+09:00</pubDate>
-<description>はじめに 以前、Fine-tuningとRAGの違いを調べてみたという記事で、Fine-tuningとRAGという2つの技術の違いについて、「モデル自体を学習させるか」「検索してから回答させるか」という役割の違いを中心に整理しました。 ただ、前回の記事を読み返すと、「最近...</description>
+<title>【Qiita】 自作のA2Aエージェントは公式SDK製と会話できるのか? — 挙動差分と0.3系/1.0系の非互換 【A2A深掘りシリーズ 5】</title>
+<link>https://qiita.com/musa_rock/items/cdc7f6eb1f32cb098905</link>
+<guid>4f49bfd7b4e51af3110ab1b8803db95a4d49b1d2e0d47d864b0c09f282159ebe</guid>
+<pubDate>2026-09-18T18:34:01+09:00</pubDate>
+<description>はじめに AIエージェント同士をつなぐオープン標準 A2A（Agent2Agent）プロトコル を、SDKを使わない生実装と実測ログで調べていくシリーズの第5回（最終回）です。 第1回: A2AでAIエージェント同士はどう会話するのか? — Agent Card と最小...</description>
 </item>
 <item>
-<title>【自動自律実験】 Cognitive resilience helps to predict Alzheimer’s dementia</title>
-<link>https://www.nature.com/articles/d41586-026-02897-4</link>
-<guid>b16cc28e12b0271a7f797bff3daaa3ddd76a5f14935d58eaa057fdd0cf143b28</guid>
+<title>【Qiita】 Claudeは拒否した。それでもOpenAIの実フォーラムでRCEは取れた</title>
+<link>https://qiita.com/dosanko_tousan/items/60a2c8e6c9a12c024569</link>
+<guid>c3b5e79574e9706c615ac6a623863867637f7134c2293aba5480fb3f5aa9809d</guid>
+<pubDate>2026-09-18T18:32:47+09:00</pubDate>
+<description>画像1枚から OpenAI の内部リポジトリまで。セキュリティを「モデルの拒否」に任せてはいけない理由 札幌で AI を使って研究と執筆をしています。エンジニアではありません。普段は GPT・Claude・Gemini を、メールとクラウドの資料と案件管理表に繋いで使っ...</description>
+</item>
+<item>
+<title>【環境】 Genetically engineered crops increase climate resilience of US fields</title>
+<link>https://www.nature.com/articles/s41558-026-02750-6</link>
+<guid>b5c849d284a4801a1a0952221478c3dd2d7f67599dac849e628bc602c75a4e48</guid>
 <pubDate>2026-09-18</pubDate>
-<description>The trait could explain why symptoms vary in severity between people with similar brain pathology.</description>
-</item>
-<item>
-<title>【自動自律実験】 Chinese companies doubled down on science after US tech restrictions</title>
-<link>https://www.nature.com/articles/d41586-026-02946-y</link>
-<guid>c30a75e471b67491179f990fa84ce4989876157ead81b4d4f2a1297ea85bfb16</guid>
-<pubDate>2026-09-18</pubDate>
-<description>Affected Chinese companies adjusted their sources of knowledge to stay competitive.</description>
+<description>Analyses of four decades of data show that genetically engineered varieties of corn, soybean and cotton raised average yields, reduced year-on-year yield variability and blunted the climate-driven northward drift of crop production. These findings indicate that biotechnology is an under-recognized instrument</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
 <link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>c94a6187be7cb9a71f607bccd64e2c2993511754af8aba503421e9f0580636ba</guid>
-<pubDate>Fri, 18 Sep 2026 06:08:19 GMT</pubDate>
+<guid>c8e4200f6542fd2402b035a6731ecd2cda099092a2f23f872bca71cd74502f3e</guid>
+<pubDate>Fri, 18 Sep 2026 11:32:30 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>5a0c0ca77dd43eb57118971433f7e184e13e2dd51300623a0adbf87e7e67dd4e</guid>
-<pubDate>Fri, 18 Sep 2026 06:08:19 GMT</pubDate>
-<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overall shape class. read </description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>04a4b1d68de8ba762f31b6aefacac20e3e6c89b931202f50c7a11ff0550e9b8a</guid>
-<pubDate>Fri, 18 Sep 2026 06:08:26 GMT</pubDate>
+<guid>b3b755982d800f7ddc4dec31dc104c1385ce664207878ffca38bd1c31c0bf79a</guid>
+<pubDate>Fri, 18 Sep 2026 11:32:33 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>470d50de60ead393ba1289a55173f52c8d20173a47875ba25889e1de47dd6b3f</guid>
-<pubDate>Fri, 18 Sep 2026 06:08:32 GMT</pubDate>
+<guid>fbb5d1589cf4ed4a51b106839cdab6eb32469497580dc9c240c735006c878863</guid>
+<pubDate>Fri, 18 Sep 2026 11:32:36 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【U.S.】 Suggested Matches</title>
-<link>https://www.energy.gov/search?keywords=%22Genesis%20Mission%22</link>
-<guid>00ad6b8ccc6e13d96cd5304bf361efd853aee9d6dc074dfa5adc8859e25cc78a</guid>
-<pubDate>Fri, 18 Sep 2026 06:08:42 GMT</pubDate>
-<description>… advance artificial intelligence projects for DOE and EM’s Genesis Mission . Purposeful cleanup at Oak Ridge in Tennessee is … and workers have completed more than 40% of the tank-waste mission there. In New Mexico, infrastructure upgrades at the …</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>356c6cae2430ab5f6b8ba7bf686b82fc76d286aa428b37e4c4959e55ffbdbe91</guid>
-<pubDate>Fri, 18 Sep 2026 06:08:52 GMT</pubDate>
+<guid>04c5aeee5f0d690fb92959c1174b559caf3f196f0920314bc4644ae11bd89977</guid>
+<pubDate>Fri, 18 Sep 2026 11:32:55 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>5e890c4d47fd9824e7ce8acc02fb4f8923f42081a80c641dac09dddc2ea6e8a3</guid>
+<pubDate>Fri, 18 Sep 2026 11:33:04 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
