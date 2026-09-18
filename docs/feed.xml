@@ -4,64 +4,50 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 18 Sep 2026 18:36:35 GMT</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 21:22:28 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIにExcelマクロを書かせ、道具に採点させたら67本の棚ができたので、「秀エクセルマネージャー」として開発中のまま公開する話</title>
-<link>https://qiita.com/shu15511551/items/d478de0d5a38e910f6e4</link>
-<guid>4f4d1575e91ff438c6a3a06b59abc3aebcd4cec5fe389da111d4ad448c0e6a6b</guid>
-<pubDate>2026-09-19T03:17:05+09:00</pubDate>
-<description>はじめに 前回はこう書いて締めました。「満点が並んだら、まず、お題を疑うことにします。」 その夜のうちに、道具を GitHub に置きました。名前は「秀エクセルマネージャー」です。 ZIP でダウンロード：最新版 先に、はっきり書いておきます。これは開発中のも...</description>
+<title>【Qiita】 話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説</title>
+<link>https://qiita.com/yushibats/items/472325ce548da370ed5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>44f55b2ac7b0e5ed1185d4862b172b986317b3df2c92d329f32749a1d22f2e03</guid>
+<pubDate>2026-09-18T14:21:55+09:00</pubDate>
+<description>はじめに Jevが話題ですね。 文章を書かないAIと紹介されていますが、では代わりに何を返すんでしょうか。 この記事は、Jevが何をするものかの解像度を上げるために自分なりに整理したものです。 ざっくりまとめ 公開元と時期 — サンフランシスコのTypeSafe A...</description>
 </item>
 <item>
-<title>【Qiita】 窓口は Claude Code、実装は安いモデルに任せる — 個人開発の並列エージェント運用と 2 つのハーネス</title>
-<link>https://qiita.com/kewton/items/9a5f09a666bdfa7b83c8</link>
-<guid>764204292f84f2a9b3e27c0a0310d592b9d5ddab268d35a278f0c4f21523bbc3</guid>
-<pubDate>2026-09-19T01:47:41+09:00</pubDate>
-<description>AI コーディングエージェントを 5 つ、10 と並べると、指示を出す時間より監視の時間が増えます。私は窓口のエージェント 1 体とだけ話し、実装は安いモデルのワーカーに任せる形に変えました。この記事では、その体制と、成立させるために必要だった 2 つのハーネス（開発プロセ...</description>
+<title>【Qiita】 AIエージェント時代、「認証」だけでは信頼を設計できない——オードリー・タン氏の「Trust by Design」をIT技術者の視点で考える</title>
+<link>https://qiita.com/mhamadajp/items/28e8722dbbf86288d1da</link>
+<guid>c3eab4ab1d112b53183bfec610f4a3749b3eb8f232b22ac099647155233bafd5</guid>
+<pubDate>2026-09-19T06:09:43+09:00</pubDate>
+<description>AIエージェントに hotel.reserve や crm.write を許可するとき、OAuth の Scope だけで十分だろうか。 答えは、業務への影響による。Scope は「このクライアントが呼べるAPI」を表すには有用だが、「誰が、何の目的で、いくらまで、いつまで...</description>
 </item>
 <item>
-<title>【Qiita】 ログイン済みブラウザをAgentへ／Rust製S3ストレージ／GitHubを構成図に――今日のGitHub 3選</title>
-<link>https://qiita.com/tsuzuri_ai/items/9f803e5781270a31f3ed</link>
-<guid>38c561bdb38dd85d1e9a6ee18ea359d5f8f663645f7c0953d596871c6c9cdb5d</guid>
-<pubDate>2026-09-19T01:01:51+09:00</pubDate>
-<description>2026年9月19日時点で、今日見ておきたいGitHub Repositoryを3件だけ選びました。今回は「Agentに実ブラウザを渡す」「S3互換StorageをRustで作る」「Codebaseを構成図へ変える」の3方向です。 Repository 何これ？ 最...</description>
-</item>
-<item>
-<title>【自動自律実験】 Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun&#x27;s tomb</title>
-<link>https://www.nature.com/articles/d41586-026-02984-6</link>
-<guid>6675b1a303ba87c05323caf98cdc86b45a712e5a3ee4534b56f52ca733f25ff5</guid>
-<pubDate>2026-09-18</pubDate>
-<description>Nature staff discuss data that could point to Nefertiti’s burial place — plus, the implant that translates brain activity into speech and gestures.</description>
-</item>
-<item>
-<title>【自動自律実験】 Europe pushes for space independence amid geopolitical rifts</title>
-<link>https://www.nature.com/articles/d41586-026-02919-1</link>
-<guid>40b6bf03eb10f982b6fd635ee6fcf78d140935451ab61311d5ae050ab9a04ada</guid>
-<pubDate>2026-09-18</pubDate>
-<description>The European Union is easing its reliance on US space infrastructure — and is seeking to grow its satellite and launch operations.</description>
+<title>【環境】 Satellite reveals a world of ‘weird rivers’ shaped by humans</title>
+<link>https://www.science.org/content/article/satellite-reveals-world-weird-rivers-shaped-humans</link>
+<guid>e08fdb3ff56cce86084b3798c98659dd40b66f6a77ade3387fefa453efa8ef99</guid>
+<pubDate>2026-09-18T04:10:28Z</pubDate>
+<description>SWOT is exposing humans’ effects on rivers—and challenging flood prediction models</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>1f8440c189e1a17f170e2b00b6e9f9a82a2c8aed0a770addd8b5cc753e6ba70b</guid>
-<pubDate>Fri, 18 Sep 2026 18:35:53 GMT</pubDate>
+<guid>60b4ca37a377b00a53323b94e3d63204860d056c361fd317f0a4a72e2fc03225</guid>
+<pubDate>Fri, 18 Sep 2026 21:21:49 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>615eaf953a454f0671eb84c6506a3ddb76cc5aa5801cdea233fe45ab5a5cbb57</guid>
+<pubDate>Fri, 18 Sep 2026 21:21:51 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>2f6ccf9de36ae15b895a7b217873eb5e8e1277e0022390d45c0236f3c35a85c0</guid>
-<pubDate>Fri, 18 Sep 2026 18:36:18 GMT</pubDate>
+<guid>40ed6f4d038f211593853a2deaec5a74efc1e9c9c539b9f6526d09d3948486d0</guid>
+<pubDate>Fri, 18 Sep 2026 21:22:12 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>cbc306885374a02b6d95699d6f2bacb6d35f582cf55d4631b12d0181e73c02f9</guid>
-<pubDate>Fri, 18 Sep 2026 18:36:20 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
