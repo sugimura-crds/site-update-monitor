@@ -4,49 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 18 Sep 2026 21:22:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 23:25:40 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 話題のJevとは？文章を書かずに判断だけを返すAIモデルをざっくり解説</title>
-<link>https://qiita.com/yushibats/items/472325ce548da370ed5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>44f55b2ac7b0e5ed1185d4862b172b986317b3df2c92d329f32749a1d22f2e03</guid>
-<pubDate>2026-09-18T14:21:55+09:00</pubDate>
-<description>はじめに Jevが話題ですね。 文章を書かないAIと紹介されていますが、では代わりに何を返すんでしょうか。 この記事は、Jevが何をするものかの解像度を上げるために自分なりに整理したものです。 ざっくりまとめ 公開元と時期 — サンフランシスコのTypeSafe A...</description>
+<title>【Qiita】 iPXE/wimbootを使ってVPCベアメタルにWindows Server 2022をネットワークインストール</title>
+<link>https://qiita.com/y_tama/items/a770871ee53b31af04d7</link>
+<guid>8b5161f568b7227f777d73b21b86438bdfcd08293f5931a716681c7430427464</guid>
+<pubDate>2026-09-19T07:30:10+09:00</pubDate>
+<description>IBM Cloud Bare Metal Servers for VPC（以下、BM for VPC）では、OSプロビジョニング時に Network boot を選択することで任意のOSをネットワークインストールできます。 VPCベアメタルのネットワークブートについては、下...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント時代、「認証」だけでは信頼を設計できない——オードリー・タン氏の「Trust by Design」をIT技術者の視点で考える</title>
-<link>https://qiita.com/mhamadajp/items/28e8722dbbf86288d1da</link>
-<guid>c3eab4ab1d112b53183bfec610f4a3749b3eb8f232b22ac099647155233bafd5</guid>
-<pubDate>2026-09-19T06:09:43+09:00</pubDate>
-<description>AIエージェントに hotel.reserve や crm.write を許可するとき、OAuth の Scope だけで十分だろうか。 答えは、業務への影響による。Scope は「このクライアントが呼べるAPI」を表すには有用だが、「誰が、何の目的で、いくらまで、いつまで...</description>
-</item>
-<item>
-<title>【環境】 Satellite reveals a world of ‘weird rivers’ shaped by humans</title>
-<link>https://www.science.org/content/article/satellite-reveals-world-weird-rivers-shaped-humans</link>
-<guid>e08fdb3ff56cce86084b3798c98659dd40b66f6a77ade3387fefa453efa8ef99</guid>
-<pubDate>2026-09-18T04:10:28Z</pubDate>
-<description>SWOT is exposing humans’ effects on rivers—and challenging flood prediction models</description>
+<title>【Qiita】 参考URLの取得がツール権限で許可されませんでした。「Jev」という用語は私の知識にも確証がなく、固有名詞を推測で書くことは避けたいです（ユーザー指示のBLOC</title>
+<link>https://qiita.com/syun136_616/items/3f7f0ce2b0240367c1d3</link>
+<guid>e1b6cd25909f31dea21b18ebe6f42193f241253ef93986a5c8d5107aa07f3616</guid>
+<pubDate>2026-09-19T08:09:32+09:00</pubDate>
+<description>参考URLの取得がツール権限で許可されませんでした。「Jev」という用語は私の知識にも確証がなく、固有名詞を推測で書くことは避けたいです（ユーザー指示のBLOCKING REQUIREMENTS: 固有名詞を勝手に想像しない）。 次のいずれかで進めたいのですが、どちらがよい...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>60b4ca37a377b00a53323b94e3d63204860d056c361fd317f0a4a72e2fc03225</guid>
-<pubDate>Fri, 18 Sep 2026 21:21:49 GMT</pubDate>
+<guid>77ecc52916ea7f748b4baee50333f0c08d5d05ffb3b342c65dd7a065c11ae1d9</guid>
+<pubDate>Fri, 18 Sep 2026 23:25:05 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>615eaf953a454f0671eb84c6506a3ddb76cc5aa5801cdea233fe45ab5a5cbb57</guid>
-<pubDate>Fri, 18 Sep 2026 21:21:51 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>40ed6f4d038f211593853a2deaec5a74efc1e9c9c539b9f6526d09d3948486d0</guid>
-<pubDate>Fri, 18 Sep 2026 21:22:12 GMT</pubDate>
+<guid>24f24f3125fb8f9a4c944f2be2e9005a7992490fddf0c36fb2a0dc2a09e4fa9a</guid>
+<pubDate>Fri, 18 Sep 2026 23:25:22 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
