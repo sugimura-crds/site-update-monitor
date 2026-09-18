@@ -4,63 +4,113 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 18 Sep 2026 01:22:16 GMT</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 06:09:07 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 指示書のステップ0は「両リポジトリでgit fetch origin」から始まる。今回、そのリポジトリは1つも存在しなかった</title>
-<link>https://qiita.com/Hideki_Tamae/items/fc44eb8e8fc580d25bdc</link>
-<guid>f94bcf7ab2682d93537ead2e78ecbf6c4f87bd96f922834121f2f9a7730b3fe8</guid>
-<pubDate>2026-09-18T09:44:14+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、この定期タスクの指示書「ステップ0」に書かれている4つの確認項目のうち、「そもそもローカルにリポジトリが存在するか」に触れているものの数です。 この指示書のステップ0は、他のルーティンや田前さん本人のセッションとの衝...</description>
+<title>【Qiita】 IBM Bob の ACP サーバーを使ってみた — Bob Shell との違いと実践ガイド</title>
+<link>https://qiita.com/nagis/items/3a52ca37c92bf6ed2c6a</link>
+<guid>839c12569b47ec67a6082ddce201922368fb2bdcfcecbbe0d6bc1b2f523fb338</guid>
+<pubDate>2026-09-18T14:09:59+09:00</pubDate>
+<description>IBM Bob Shell v2.0.2 で追加された ACP（Agent Client Protocol）サーバーを実際に動かし、セッション作成からプロンプト送信・応答受信までの一連の流れを確認しました。従来の bob run との違いと、外部プログラムから Bob を...</description>
 </item>
 <item>
-<title>【Qiita】 大安と仏滅は6日周期じゃない。六曜を計算したら、旧暦に迷い込んだ【kurashi-skill Day 9】</title>
-<link>https://qiita.com/Ichiropen/items/1b18c0b00179329c4a23</link>
-<guid>f718903cfb5dc246236ad0f8737ca9efe397842663c0cc04b919200ceec44d92</guid>
-<pubDate>2026-09-18T09:21:01+09:00</pubDate>
-<description>大安と仏滅は6日周期じゃない。六曜を計算したら、旧暦に迷い込んだ【kurashi-skill Day 9】 結婚式場の見積もりで、日付によって値段が変わることに気づいた。大安は高く、仏滅は安い。友引の日の葬儀を避ける話も聞いたことがある。縁起を信じるかどうかは別として、日本...</description>
+<title>【Qiita】 IBM Verify Identity Access 11.0.3 コンテナ版を VirtualBox + RHEL 9.x に構築する</title>
+<link>https://qiita.com/ogawa_to/items/bbad3e03a30999747453</link>
+<guid>49d13af03e6d3bf17ca76bbe3ab8aeaffab6714bdf7e98d52357eab90cecc32d</guid>
+<pubDate>2026-09-18T13:29:46+09:00</pubDate>
+<description>はじめに 本記事では、Windows PC 上の VirtualBox に RHEL 9.x をインストールし、Podman を使って IBM Verify Identity Access（IVIA）11.0.3 のコンテナ版を構築したので、そのときの手順を紹介します。 ...</description>
 </item>
 <item>
-<title>【Qiita】 文章を書かない判断専用AI『Jev』、桁違いに速く安い</title>
-<link>https://qiita.com/okssusucha/items/f0955a549cd489dcef14</link>
-<guid>1a52ae62a6deafc909fa7a1e1a029384ac09489e6cfd65e5a5640490d6040dbe</guid>
-<pubDate>2026-09-18T09:11:01+09:00</pubDate>
-<description>AIチャットは、文章を作るのが得意だ。でも現場の仕事には、「この問い合わせは緊急か」「どの担当に回すか」のように、一言で決めたいだけの場面も多い。そこへ毎回おしゃべり上手なAIを呼ぶと、答えが返るまで待たされ、料金もかさむ。 ひとことで言うと、Jev(ジェブ)は文章を書かず...</description>
+<title>【Qiita】 管理者と利用者を同時に、しかもそれぞれ複数タブで。諦めた要件をGoogleの実測で見直した話</title>
+<link>https://qiita.com/ntaka329/items/bb97dc8046786a99b377</link>
+<guid>bef414568327c9113596ed5629a52ffc5020bd669e44e8e4fa8eec82c41eef08</guid>
+<pubDate>2026-09-18T13:46:40+09:00</pubDate>
+<description>はじめに GMOコネクトの永田です。 以前、こんな要件の前で手が止まったことがあります。利用者アカウントと管理者アカウントを、同じブラウザの別タブで同時に使いたい。そのうえで、1つのアカウントについて一覧と詳細を別タブで開いて見比べたい。 アカウントの軸と画面の軸が掛かっ...</description>
 </item>
 <item>
-<title>【Qiita】 【Jev】文章を返さない判断モデル Jev とは？〜システム運用での活用方法についても想像してみる〜</title>
-<link>https://qiita.com/ryu-ki/items/e3fe99b5f6704d08a19b</link>
-<guid>26b9e7d5adfc20dc0fd7e7f0ba3da0aada8bb9aa8d0c437c9340381c75a6906d</guid>
-<pubDate>2026-09-18T08:55:25+09:00</pubDate>
-<description>はじめに TypeSafe AI という会社が Jev というモデルを発表しました。文章を生成しない、質問に対して判断と確率だけを返す、というモデルです。 早期アクセスの段階で私は触れていません。が、面白そうな代物なので、前半でドキュメントに書いてあることを、後半で...</description>
+<title>【Qiita】 業務AIエージェントの失敗を防ぐために — FDEとして現場で学んだ「AI 2割・決定論 8割」の設計</title>
+<link>https://qiita.com/matu79go/items/eab159a077d69651b7d8</link>
+<guid>11d8618864df1f961f437155e7c652526bc490154b40396fa3ca79396a8ab10a</guid>
+<pubDate>2026-09-18T13:06:34+09:00</pubDate>
+<description>はじめに エンタープライズ領域における生成AI導入の現場では、いまだに「巨額のPoCを回したが本番化できない」「全社配布したが現場で定着しない」という課題が頻発しています。 私はこの1年あまり、FDE（Forward Deployed Engineer：顧客の現場に密着し...</description>
 </item>
 <item>
-<title>【自動自律実験】 Mercury is shrinking with age — faster than thought</title>
-<link>https://www.nature.com/articles/d41586-026-02898-3</link>
-<guid>8a8af80b0d8784c24bf7a607f9092a00e6c9f7d6927b9a58a483510ce336eec7</guid>
-<pubDate>2026-09-17</pubDate>
-<description>Impacts by space objects have obscured some of the evidence of the planet’s contraction over the past 4.5 billion years.</description>
+<title>【Qiita】 AIが読んでいるもの、書いているもの ― トークンの話</title>
+<link>https://qiita.com/ryo-ume/items/abccf783bf4dcb32c000</link>
+<guid>cc5593ab0fc4bac457697ece3f30b05c19865e75fdc47623f401f213c3ce8097</guid>
+<pubDate>2026-09-18T11:52:30+09:00</pubDate>
+<description>はじめに 最近、AIエージェントを使って実装や調査をする機会が増えました。 非常に便利なのですが、使い続けていると利用上限に達することがあります。 「トークンを節約したほうがいい」とは聞くものの、その仕組みを理解しないまま使っていました。 今回はトークンに焦点を当てて、整...</description>
+</item>
+<item>
+<title>【Qiita】 Tool CallingをMCP（Model Context Protocol）の視点からもう一段深掘りしてみた ～N×M問題・アーキテクチャ・認証まで～</title>
+<link>https://qiita.com/Sho5_Matsu/items/016eb48cc1ef08c680ff</link>
+<guid>1e5872fa7fad6c5e3334f7e652f6456cc3275c858ce702d3b8dbb04bf173ca21</guid>
+<pubDate>2026-09-18T11:41:32+09:00</pubDate>
+<description>はじめに 以前、Tool Callingをさらに深掘りしてみた ～実装の流れ・OpenAI/Claudeの違い・エラーハンドリング～という記事で、Tool Callingの処理の流れ（定義→呼び出し要求→実行→結果返却→最終回答）や、OpenAIとClaudeでのスキーマ...</description>
+</item>
+<item>
+<title>【Qiita】 Fine-tuningとRAGの違いをもう一歩深掘りしてみた ～RAFT・LoRA/QLoRA・ハイブリッド運用まで～</title>
+<link>https://qiita.com/Sho5_Matsu/items/5440c3d8db139dda0767</link>
+<guid>99b41914c028a8f688a9677e904b31bac407c1949c2cd1b06b4ce8818856518a</guid>
+<pubDate>2026-09-18T11:41:19+09:00</pubDate>
+<description>はじめに 以前、Fine-tuningとRAGの違いを調べてみたという記事で、Fine-tuningとRAGという2つの技術の違いについて、「モデル自体を学習させるか」「検索してから回答させるか」という役割の違いを中心に整理しました。 ただ、前回の記事を読み返すと、「最近...</description>
+</item>
+<item>
+<title>【自動自律実験】 Cognitive resilience helps to predict Alzheimer’s dementia</title>
+<link>https://www.nature.com/articles/d41586-026-02897-4</link>
+<guid>b16cc28e12b0271a7f797bff3daaa3ddd76a5f14935d58eaa057fdd0cf143b28</guid>
+<pubDate>2026-09-18</pubDate>
+<description>The trait could explain why symptoms vary in severity between people with similar brain pathology.</description>
+</item>
+<item>
+<title>【自動自律実験】 Chinese companies doubled down on science after US tech restrictions</title>
+<link>https://www.nature.com/articles/d41586-026-02946-y</link>
+<guid>c30a75e471b67491179f990fa84ce4989876157ead81b4d4f2a1297ea85bfb16</guid>
+<pubDate>2026-09-18</pubDate>
+<description>Affected Chinese companies adjusted their sources of knowledge to stay competitive.</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>c94a6187be7cb9a71f607bccd64e2c2993511754af8aba503421e9f0580636ba</guid>
+<pubDate>Fri, 18 Sep 2026 06:08:19 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>5a0c0ca77dd43eb57118971433f7e184e13e2dd51300623a0adbf87e7e67dd4e</guid>
+<pubDate>Fri, 18 Sep 2026 06:08:19 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overall shape class. read </description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>a1e7e432ad2873546dfadf1a6cdf2f870190c3a215b806d9eb189eb7dea5ed6b</guid>
-<pubDate>Fri, 18 Sep 2026 01:21:11 GMT</pubDate>
+<guid>04a4b1d68de8ba762f31b6aefacac20e3e6c89b931202f50c7a11ff0550e9b8a</guid>
+<pubDate>Fri, 18 Sep 2026 06:08:26 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>7585501f8de9f385d3c8cd8698f5b3d324e1969cd739ca7e6783e700e9c031aa</guid>
-<pubDate>Fri, 18 Sep 2026 01:21:15 GMT</pubDate>
+<guid>470d50de60ead393ba1289a55173f52c8d20173a47875ba25889e1de47dd6b3f</guid>
+<pubDate>Fri, 18 Sep 2026 06:08:32 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
 <title>【U.S.】 Suggested Matches</title>
 <link>https://www.energy.gov/search?keywords=%22Genesis%20Mission%22</link>
-<guid>3e61bbd971781f5fd6b8ac1f40ee57155a85c9152cde7bda15f24c7b881177ad</guid>
-<pubDate>Fri, 18 Sep 2026 01:21:25 GMT</pubDate>
+<guid>00ad6b8ccc6e13d96cd5304bf361efd853aee9d6dc074dfa5adc8859e25cc78a</guid>
+<pubDate>Fri, 18 Sep 2026 06:08:42 GMT</pubDate>
 <description>… advance artificial intelligence projects for DOE and EM’s Genesis Mission . Purposeful cleanup at Oak Ridge in Tennessee is … and workers have completed more than 40% of the tank-waste mission there. In New Mexico, infrastructure upgrades at the …</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>356c6cae2430ab5f6b8ba7bf686b82fc76d286aa428b37e4c4959e55ffbdbe91</guid>
+<pubDate>Fri, 18 Sep 2026 06:08:52 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
