@@ -4,70 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 19 Sep 2026 14:35:42 GMT</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 17:36:40 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 『AIを業務に活用しきれない理由』を思いつくまま挙げたら、そもそもAI-Readyってなんだっけ？と思って整理してみた</title>
-<link>https://qiita.com/M_Ozu/items/a3fb5a60a7526bd91968</link>
-<guid>56546610775c2bdc309fe60a82ca19ee70a08e6fe9b81b040d16bac36e93001d</guid>
-<pubDate>2026-09-19T23:31:14+09:00</pubDate>
-<description>「AIを業務に活用しきれていない理由って、なんででしょうね」 先日こう聞かれて意見を求められたので、せっかくなので、とりあえず思いつく限りの理由を挙げてみることにしました。 ① 目的が定まっていない(効率化なのか、高度化なのか) ② ユースケースが決まっていない ③ 機密デ...</description>
+<title>【Qiita】 2026年9月19日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/17859bf1e9b72ef4daa0</link>
+<guid>8a207aa2624b313936967e5f3704ebb4c3eed939aa8f81f579aae62d24834f36</guid>
+<pubDate>2026-09-20T01:10:35+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 「最近どう？」しか聞けなかった1on1で、メン...</description>
 </item>
 <item>
-<title>【Qiita】 AIに自分の行動ログをどこまで読ませるか——棚卸ししたら、結論が3回ひっくり返った</title>
-<link>https://qiita.com/saitoko/items/5702ef6e198564797d9f</link>
-<guid>58a700fbbf4a4f7c112ebd0409475382ebd3c78c10691654477e9e2467fe926f</guid>
-<pubDate>2026-09-19T22:57:05+09:00</pubDate>
-<description>この記事の実施記録(2026年9月): 「AIに自分をどこまで読ませるか」を棚卸ししようとしたら、棚卸しの実行段階そのものでAIの安全装置に止められた——という出来事をきっかけに、実際にどこまで読めるか・読ませた後に出てくる数字がどこまで信用できるかを検証した(2026年9...</description>
+<title>【Qiita】 AI と NocoBase で実際の業務システムを構築する方法</title>
+<link>https://qiita.com/TianqiYuan/items/210d5352652ff88dca4d</link>
+<guid>70168c5e88d1113ebb54a41bf395a683d4e29bfd04a35e3ad8367cf2ac8ecd9e</guid>
+<pubDate>2026-09-20T01:02:58+09:00</pubDate>
+<description>最近、Vibe Coding vs. Production Realityという氷山図が X や Reddit で話題になりました。水面上には現在のさまざまな AI Coding ツールが並び、水面下には権限、決済、データ整合性、ログ、ロールバック、監視など、実際に本番稼働...</description>
 </item>
 <item>
-<title>【Qiita】 Codexの /rename で会話に名前を付ける — 前回の作業を10分で見つけやすくする</title>
-<link>https://qiita.com/akira_papa_AI/items/68971558064aecd79d6e</link>
-<guid>3452a20305b53dbe3aed97ba5a7ef70e018d61546dd63f3b80d93df8ee2356b0</guid>
-<pubDate>2026-09-19T22:30:29+09:00</pubDate>
-<description>Codexの /rename で会話に名前を付ける — 前回の作業を10分で見つけやすくする Codex CLIを使い始め、会話が増えて「どれがREADMEの相談やったっけ」と迷い始めた人向けです。 この記事では、完了した会話にreadme-checkという名前を付け、名...</description>
-</item>
-<item>
-<title>【Qiita】 AIに“判断だけ”させると何が変わるのか — 0.5秒で答える新モデル「Jev」を理解する</title>
-<link>https://qiita.com/Takuya__/items/10d175adc96cdf04f8cb</link>
-<guid>478e0413b92e28263bb5b7891805ac9b999124eab5a7136d6a4ad39b93211c09</guid>
-<pubDate>2026-09-19T20:27:07+09:00</pubDate>
-<description>はじめに AIチャットボットに質問を送って、回答が表示されるまでの数秒間を「なんとなく待たされているな」と感じたことはないでしょうか。じつはあの待ち時間の何割かは、AIが回答の文章を書いている時間ではなく、「この質問はどういう種類のものか」「急ぎかどうか」といった回答の前...</description>
-</item>
-<item>
-<title>【Qiita】 # [AWS] DevOpsAgent × M5StackChan で対話指示＆報告をやってみた</title>
-<link>https://qiita.com/kikuziro/items/8ee76227681010b6f413</link>
-<guid>5def2aafebe4caeb80d0280763794b6898076a8b086bb1cacb4c954650e4d45a</guid>
-<pubDate>2026-09-19T22:34:43+09:00</pubDate>
-<description>対象者 DevOpsAgentが好きな方 でもチャットやSlackの指示では物足りなくなってきて音声でやりとりしたい方 この記事でやらないこと M5スタックちゃん側の実装紹介とLambdaの細かいコードの説明はしません。 構成とやってみて分かったことを中心に書きます。 ...</description>
+<title>【Qiita】 AIにPCを貸す／開発環境を隔離する／自分専用検索を作る――今日のGitHub 3選</title>
+<link>https://qiita.com/tsuzuri_ai/items/fed0d28a675280c80328</link>
+<guid>101745ba4cf87e38b86181bf8c3e04d27fe40d0760c12e6f1cce81d5cc8a586e</guid>
+<pubDate>2026-09-20T01:01:55+09:00</pubDate>
+<description>2026年9月20日時点で、今日見ておきたいGitHub Repositoryを3件だけ選びました。今回は「AgentにPCを渡す」「Agentの作業場を隔離する」「自分が見た情報を検索可能に戻す」の3方向です。 Repository 何これ？ 最短の入口 私の評価...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77887-1</link>
-<guid>4d65526e760decb8f57fabc0c35587f2ecf409e1adffcc9cf07d56f592335f99</guid>
-<pubDate>Sat, 19 Sep 2026 14:34:38 GMT</pubDate>
+<guid>21540035e378e02a96488f1803fc0f1378a25f38c30466875261f0fa0a649230</guid>
+<pubDate>Sat, 19 Sep 2026 17:35:37 GMT</pubDate>
 <description>Pathology remains central to clinical diagnosis, yet adoption of digital pathology is constrained by financial, operational, and workflow burdens of fully digital infrastructure. We introduce HistoCAM, a platform for ambient, real-time datafication and digitization of glass-slide microscopy that preserves microscope workflows. A 31-megapixel, high space-bandwidth-time-product camera and custom software application stream and composite the pathologist’s eyepiece view, passively generating multi-resolution images from 2X to 40X while recording magnification use, search paths, and dwell times. These outputs provide immediate workflow uplift through digital annotation, measurement, quality assurance, and real-time integration of configurable AI tools. Simultaneously, HistoCAM links image content with expert interaction data and supports rapid generation of annotated, pre-embedded training data during routine slide review. By converting routine microscopy into an AI-ready data stream without requiring additional acquisition steps, HistoCAM provides a practical bridge to computational pathology while creating process-aware datasets that capture how pathologists examine and interpret tiss</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>3bc9c4987b9a09ad23c75d68802ca272e8f4ebdc2febecc8033f096b684782c3</guid>
-<pubDate>Sat, 19 Sep 2026 14:34:41 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>bdac617da97d021232c45aca1638b00c143cb17fa67f2ac685139597f61a9768</guid>
-<pubDate>Sat, 19 Sep 2026 14:34:42 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>6d7b3ccf990e2ed609de984c88fafd7a744abe83c1354af72344617641cd01b2</guid>
-<pubDate>Sat, 19 Sep 2026 14:34:46 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>7cc041db329334b6bdd22462e7abcff4c6ad0c2b95818beefc7ece678b5395d2</guid>
+<pubDate>Sat, 19 Sep 2026 17:36:23 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
