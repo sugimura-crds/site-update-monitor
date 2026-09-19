@@ -4,56 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 19 Sep 2026 11:17:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 14:35:42 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 実はコミュニティ運営をやめようと思っていました</title>
-<link>https://qiita.com/sadabon444/items/6b4e0a5e4946d1a941ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>bec060fe625bf300e76ca7561bb1078b6e0478d676caa35ac9aa906d54f503da</guid>
-<pubDate>2026-09-19T08:51:25+09:00</pubDate>
-<description>おそらく初めて打ち明けることですが、コミュニティ運営をやめようと思っていました。 運営している社外コミュニティ Copilotを学ぶ「なんでもCopilot」に加えて、AWSユーザーグループの「JAWS-UG Sales」の運営メンバーです。 別件と重なり続け...</description>
+<title>【Qiita】 『AIを業務に活用しきれない理由』を思いつくまま挙げたら、そもそもAI-Readyってなんだっけ？と思って整理してみた</title>
+<link>https://qiita.com/M_Ozu/items/a3fb5a60a7526bd91968</link>
+<guid>56546610775c2bdc309fe60a82ca19ee70a08e6fe9b81b040d16bac36e93001d</guid>
+<pubDate>2026-09-19T23:31:14+09:00</pubDate>
+<description>「AIを業務に活用しきれていない理由って、なんででしょうね」 先日こう聞かれて意見を求められたので、せっかくなので、とりあえず思いつく限りの理由を挙げてみることにしました。 ① 目的が定まっていない(効率化なのか、高度化なのか) ② ユースケースが決まっていない ③ 機密デ...</description>
 </item>
 <item>
-<title>【Qiita】 Jev は業務で使えるのか? 契約書レビューで実測してみました</title>
-<link>https://qiita.com/matu79go/items/375459d17411f9e73607</link>
-<guid>c11fb8cc5cfbc09ce782935bdb922b76935620c42a3bcbb271d4afdd07631c91</guid>
-<pubDate>2026-09-19T20:07:52+09:00</pubDate>
-<description>はじめに Jev は、TypeSafe AI が 2026 年 9 月に公開した 「文章を書かず、判断だけを返す」AI モデル です。「この問い合わせは返金の依頼か」「この文書にこの条項はあるか」といった質問に、選択肢や確率で答えます。普通の LLM より桁違いに速くて安...</description>
+<title>【Qiita】 AIに自分の行動ログをどこまで読ませるか——棚卸ししたら、結論が3回ひっくり返った</title>
+<link>https://qiita.com/saitoko/items/5702ef6e198564797d9f</link>
+<guid>58a700fbbf4a4f7c112ebd0409475382ebd3c78c10691654477e9e2467fe926f</guid>
+<pubDate>2026-09-19T22:57:05+09:00</pubDate>
+<description>この記事の実施記録(2026年9月): 「AIに自分をどこまで読ませるか」を棚卸ししようとしたら、棚卸しの実行段階そのものでAIの安全装置に止められた——という出来事をきっかけに、実際にどこまで読めるか・読ませた後に出てくる数字がどこまで信用できるかを検証した(2026年9...</description>
 </item>
 <item>
-<title>【Qiita】 ｽﾀｯｸﾁｬﾝの会話の判断を Jev に任せてみた</title>
-<link>https://qiita.com/kamo-shika/items/99b9a1e6213857126c66</link>
-<guid>91b011302e47f4e665141230d127fa1243c04accc54030a4a6ee6d5d5f2cec7e</guid>
-<pubDate>2026-09-19T18:01:19+09:00</pubDate>
-<description>はじめに 最近ｽﾀｯｸﾁｬﾝと Fitbit Air を買いました。Databricks も合わせて、自分の健康データをいろいろ収集・集計して遊んでいます。 いま実装しているのは、以下の機能です。 朝・昼・晩に、健康データをもとにｽﾀｯｸﾁｬﾝから報告させる 本体を軽く...</description>
+<title>【Qiita】 Codexの /rename で会話に名前を付ける — 前回の作業を10分で見つけやすくする</title>
+<link>https://qiita.com/akira_papa_AI/items/68971558064aecd79d6e</link>
+<guid>3452a20305b53dbe3aed97ba5a7ef70e018d61546dd63f3b80d93df8ee2356b0</guid>
+<pubDate>2026-09-19T22:30:29+09:00</pubDate>
+<description>Codexの /rename で会話に名前を付ける — 前回の作業を10分で見つけやすくする Codex CLIを使い始め、会話が増えて「どれがREADMEの相談やったっけ」と迷い始めた人向けです。 この記事では、完了した会話にreadme-checkという名前を付け、名...</description>
 </item>
 <item>
-<title>【Qiita】 AIがテストを書ける時代、「何をテストしないか」をどう決めるか</title>
-<link>https://qiita.com/y0us91/items/61edde2960bd6cdbdfa9</link>
-<guid>316fbaec9c853aa69fcdfbfefc5a3c6c06b9b22578ab5516c9861708fc849373</guid>
-<pubDate>2026-09-19T16:41:57+09:00</pubDate>
-<description>Coding Agentに実装を任せていると、テストも簡単に増えていきます。 コードを変更する。 AIが変更に合わせてテストを書く。 テストを実行してGreenになる。 便利です。 ただ、最近少し気になることがあります。 そのテスト、本当に必要だったのだろうか。 「変更し...</description>
+<title>【Qiita】 AIに“判断だけ”させると何が変わるのか — 0.5秒で答える新モデル「Jev」を理解する</title>
+<link>https://qiita.com/Takuya__/items/10d175adc96cdf04f8cb</link>
+<guid>478e0413b92e28263bb5b7891805ac9b999124eab5a7136d6a4ad39b93211c09</guid>
+<pubDate>2026-09-19T20:27:07+09:00</pubDate>
+<description>はじめに AIチャットボットに質問を送って、回答が表示されるまでの数秒間を「なんとなく待たされているな」と感じたことはないでしょうか。じつはあの待ち時間の何割かは、AIが回答の文章を書いている時間ではなく、「この質問はどういう種類のものか」「急ぎかどうか」といった回答の前...</description>
 </item>
 <item>
-<title>【Qiita】 今更聞けない、レビューの指摘をAIのルールに変える仕組み</title>
-<link>https://qiita.com/y-hirakaw/items/27fec1be94bc832f9d97</link>
-<guid>4a4ad9de9e3f3bd5a71e5da9f921fdc008f871703f93ddd29597279f0ee67cc5</guid>
-<pubDate>2026-09-19T16:09:16+09:00</pubDate>
-<description>チームでAIに成果物を作らせて、人がレビューして、直させる、を毎日やっています。その「直させる」が、どこにも残っていないことに気づきました。 うちの流れはこうです。 空コミットでPRを作る ローカルでAIに成果物を作らせて、人が確認し、問題があればその場で直させる 揃った...</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>afaafefd3d595bf8f5f60e5c8e8c3c1d734aa83e05538f846855ba14a99b53fd</guid>
-<pubDate>Sat, 19 Sep 2026 11:16:15 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 # [AWS] DevOpsAgent × M5StackChan で対話指示＆報告をやってみた</title>
+<link>https://qiita.com/kikuziro/items/8ee76227681010b6f413</link>
+<guid>5def2aafebe4caeb80d0280763794b6898076a8b086bb1cacb4c954650e4d45a</guid>
+<pubDate>2026-09-19T22:34:43+09:00</pubDate>
+<description>対象者 DevOpsAgentが好きな方 でもチャットやSlackの指示では物足りなくなってきて音声でやりとりしたい方 この記事でやらないこと M5スタックちゃん側の実装紹介とLambdaの細かいコードの説明はしません。 構成とやってみて分かったことを中心に書きます。 ...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77887-1</link>
-<guid>0bf1af43c047631f6dc543977e3899260dd158787a3761dd62673cc52fdd0b9a</guid>
-<pubDate>Sat, 19 Sep 2026 11:16:18 GMT</pubDate>
+<guid>4d65526e760decb8f57fabc0c35587f2ecf409e1adffcc9cf07d56f592335f99</guid>
+<pubDate>Sat, 19 Sep 2026 14:34:38 GMT</pubDate>
 <description>Pathology remains central to clinical diagnosis, yet adoption of digital pathology is constrained by financial, operational, and workflow burdens of fully digital infrastructure. We introduce HistoCAM, a platform for ambient, real-time datafication and digitization of glass-slide microscopy that preserves microscope workflows. A 31-megapixel, high space-bandwidth-time-product camera and custom software application stream and composite the pathologist’s eyepiece view, passively generating multi-resolution images from 2X to 40X while recording magnification use, search paths, and dwell times. These outputs provide immediate workflow uplift through digital annotation, measurement, quality assurance, and real-time integration of configurable AI tools. Simultaneously, HistoCAM links image content with expert interaction data and supports rapid generation of annotated, pre-embedded training data during routine slide review. By converting routine microscopy into an AI-ready data stream without requiring additional acquisition steps, HistoCAM provides a practical bridge to computational pathology while creating process-aware datasets that capture how pathologists examine and interpret tiss</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>3bc9c4987b9a09ad23c75d68802ca272e8f4ebdc2febecc8033f096b684782c3</guid>
+<pubDate>Sat, 19 Sep 2026 14:34:41 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>bdac617da97d021232c45aca1638b00c143cb17fa67f2ac685139597f61a9768</guid>
+<pubDate>Sat, 19 Sep 2026 14:34:42 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>6d7b3ccf990e2ed609de984c88fafd7a744abe83c1354af72344617641cd01b2</guid>
+<pubDate>Sat, 19 Sep 2026 14:34:46 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 
 </channel>
