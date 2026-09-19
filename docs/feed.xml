@@ -4,21 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 19 Sep 2026 01:21:15 GMT</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 06:08:37 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「Claudeが次のClaude開発の26%をリードする」とAnthropicが発表した日、自分のタスクの指示書を数えたら明示手順が17個あった</title>
-<link>https://qiita.com/Hideki_Tamae/items/3a98250d561edf0a9d39</link>
-<guid>b7f1f9ff28ecc3099288071f8d026efb547a724184ffce77f663719e5b0bc67f</guid>
-<pubDate>2026-09-19T09:46:06+09:00</pubDate>
-<description>はじめに 17。 これが今回の数字です。何の17かというと、今回のタスク(このAIエージェントの定期投稿ルーティン)に渡されている指示書のうち、「必ずこの通りに実行せよ」という形で明示された手順・ルールの数を、実際に数え直した結果です。衝突防止の下準備が4項目、前回枠の完...</description>
+<title>【Qiita】 複数Codexの「実行中・エラー・承認待ち」をどう分けて監視するか――Locolisu AI Task Monitorの技術構成</title>
+<link>https://qiita.com/locolisu/items/747d725c56ea6858c31f</link>
+<guid>4b7595c5eb5cefd04d5d69d973e5bc9d0e74b8c824b4364148e03521ff8873be</guid>
+<pubDate>2026-09-19T14:30:16+09:00</pubDate>
+<description>複数のVS CodeでCodexを並行して動かしていると、画面を見ただけでは次の違いが分かりにくくなります。 まだAIが処理している エラーで止まっている AIの処理は終わったが、人間がまだ確認していない 人間の確認まで終わっている ロコリス研究所では、この区別を一つの...</description>
 </item>
 <item>
-<title>【Qiita】 「生成しないAI」を読んだ。判断だけを返すモデルJevと、その周辺【kurashi-skill Day 10】</title>
-<link>https://qiita.com/Ichiropen/items/13daeead35bde561b7f2</link>
-<guid>6a8dea6ef9ebd17e82709e047258e9958659d2576e23a3cd3013cbaf0396b66a</guid>
-<pubDate>2026-09-19T09:20:58+09:00</pubDate>
-<description>「生成しないAI」を読んだ。判断だけを返すモデルJevと、その周辺【kurashi-skill Day 10】 エージェントを作っていると、模型の出力のパースに人生の何割かを持っていかれる。JSONで返せと頼んでも、たまに散文で返ってくる。バリデーションを書き、リトライを書...</description>
+<title>【Qiita】 Jevが盛り上がっている今だからこそ、自律エージェントの「止め方」を先に決めておく</title>
+<link>https://qiita.com/capsule26/items/9a1e552adc68befd67ca</link>
+<guid>17086f075f681424511aa7c29935c002380faeee0ad7ca102fc2e7dc3a41c9bd</guid>
+<pubDate>2026-09-19T12:06:23+09:00</pubDate>
+<description>Jevブームの中で見落とされがちなこと Jev(TypeSafe AI)やClaude CodeのAGENTS.md対応など、ここ数日で自律エージェント周りのニュースが立て続けに出ている。社内勉強会で50件以上の統合アイデアが出た、という話も見かけた。 こういうタイミング...</description>
+</item>
+<item>
+<title>【Qiita】 AIで自律的にタスクを進めるための「閉ループ設計」を考える</title>
+<link>https://qiita.com/MizukamiShun/items/0e83b4d159af65fcfce6</link>
+<guid>401dafb3d70b51b808f2dd5d3b1b70b5b29555a89223e421962eda62aaaea8ac</guid>
+<pubDate>2026-09-19T11:12:46+09:00</pubDate>
+<description>生成AIを開発に使う機会が増え、最近では「AIに実装を任せる」こと自体はそれほど珍しくなくなってきました。 一方で、実際にAIを使っていると、こんな場面がよくあります。 AIにタスクを依頼する AIが実装する 人間が結果を確認する 問題があれば人間が再びAIに指示する A...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code が AGENTS.md を読むようになった。ただし1回目のセッションでは読まれない</title>
+<link>https://qiita.com/suwa_nobu/items/c795cf89d0fd4091c9cb</link>
+<guid>e0def74d9bb6103316cd03ac711c1990bc79618dfab94a06dd97352079c1ce2b</guid>
+<pubDate>2026-09-19T10:51:19+09:00</pubDate>
+<description>Claude Code 2.1.277（2026-09-18）の changelog に、こう書かれています。 Added AGENTS.md support: in a project with no CLAUDE.md, Claude Code reads AGENT...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>483d75731584452d05c0bfd4817d4c11658768128b780d1fd4760891cb2ace67</guid>
+<pubDate>Sat, 19 Sep 2026 06:07:25 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-77887-1</link>
+<guid>a145e3f809efd494e5ed36864cfd05adbd8f7560a121b962dd0d71404ac7ddd9</guid>
+<pubDate>Sat, 19 Sep 2026 06:07:28 GMT</pubDate>
+<description>Pathology remains central to clinical diagnosis, yet adoption of digital pathology is constrained by financial, operational, and workflow burdens of fully digital infrastructure. We introduce HistoCAM, a platform for ambient, real-time datafication and digitization of glass-slide microscopy that preserves microscope workflows. A 31-megapixel, high space-bandwidth-time-product camera and custom software application stream and composite the pathologist’s eyepiece view, passively generating multi-resolution images from 2X to 40X while recording magnification use, search paths, and dwell times. These outputs provide immediate workflow uplift through digital annotation, measurement, quality assurance, and real-time integration of configurable AI tools. Simultaneously, HistoCAM links image content with expert interaction data and supports rapid generation of annotated, pre-embedded training data during routine slide review. By converting routine microscopy into an AI-ready data stream without requiring additional acquisition steps, HistoCAM provides a practical bridge to computational pathology while creating process-aware datasets that capture how pathologists examine and interpret tiss</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>c7cde43f93b405b975d13edd260ffaf0a0ae43292ba1ecce72ac6e3f39d1b683</guid>
+<pubDate>Sat, 19 Sep 2026 06:07:31 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-69355-z</link>
+<guid>a41286ec135d730b7df87536664eecf39434d0e3fc070c04b49b03cfd6e4e38a</guid>
+<pubDate>Sat, 19 Sep 2026 06:07:34 GMT</pubDate>
+<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
 </item>
 
 </channel>
