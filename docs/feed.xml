@@ -4,42 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 20 Sep 2026 02:24:10 GMT</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 07:52:00 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 HTMLで書いた画面をMP4動画にするOSS「HyperFrames」をREADMEから整理する</title>
-<link>https://qiita.com/gitmeshi/items/c8c81599b752264abf68</link>
-<guid>52a0c6ea81b949224bda0c19966651c05e48708ad2b896dfa31b8b3ddaf56d62</guid>
-<pubDate>2026-09-20T10:46:53+09:00</pubDate>
-<description>製品紹介やプルリクエストの解説など、短い動画を作りたい場面は増えていますが、動画編集ソフトのタイムラインを手で調整するのは手間がかかり、内容を少し直すたびに作業をやり直すことになりがちです。こうした作業を、Webページと同じHTMLとCSSで書き、コマンドでMP4に書き出す...</description>
+<title>【Qiita】 危ない使い方を、禁止しない ― 親リポジトリと子リポジトリを、重ねて登録する</title>
+<link>https://qiita.com/R2-san/items/15131e6df3eb88359cd6</link>
+<guid>1ed37d42d4f23805900686ce3bdb24f5395b295bf0fb8c57fa5afe4802f9714d</guid>
+<pubDate>2026-09-20T16:48:23+09:00</pubDate>
+<description>本記事の内容は私（R2-san）の体験（実装コード）・判断・指示に基づきますが、文章作成は生成 AI が行い、私の監修・確認を経て公開しています。 今回は、 R2 を、サーバー用のコードとクライアント用のコードを並行して開発できるようにする。 という事を実装した話です。...</description>
 </item>
 <item>
-<title>【Qiita】 2026年9月20日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/e64d8a009858667299eb</link>
-<guid>69853b8dc88cbfdb7178f2a2a8546ded0de047541bc7e0114aa7c1d7c30745f5</guid>
-<pubDate>2026-09-20T10:32:22+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 Jevとは何か？ 従来型LLMやAIエージェン...</description>
+<title>【Qiita】 Harnessの調査が「エージェントの棚卸しはできている」を44%しか裏付けていないと言った日、自分のセッション一覧を数えたら20個中19個が切断状態だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/1a40b9a75ff3a3aa7842</link>
+<guid>4abdaac2f221c306ec9f9cee307f9b5eba1be050daa56a884edd0e5d54dffb30</guid>
+<pubDate>2026-09-20T15:27:30+09:00</pubDate>
+<description>はじめに 19。 これが今回の数字です。何の19かというと、このタスクが使えるlist_sessionsというツールで自分のClaude Codeセッション一覧を実際に取得したところ、返ってきた20件のうち19件が「切断(disconnected)」状態だった、という数字...</description>
 </item>
 <item>
-<title>【Qiita】 Devinに判断特化モデル「Jev」をMCPで繋ぐ。汎用エージェントに&quot;速くて安い判定&quot;の頭脳を足す</title>
-<link>https://qiita.com/startdevin/items/2cd0fa9e2de684d59552</link>
-<guid>445f140b3aee4e1d7847875ddaf91c8d7e822fa19d1d02ce19a664d20d3cebf0</guid>
-<pubDate>2026-09-20T10:19:54+09:00</pubDate>
-<description>はじめに 最近、TypeSafe AIの「Jev」が話題です。チャットで文章を返すLLMとは毛色が違い、state（状態やデータ）を入れると、宣言しておいた問いを並列に評価して、型付きの答え（Boolean・Choice・Score）と確率を返す、判断特化のモデルです。分...</description>
+<title>【Qiita】 海外向け動画を作る前に、無料のAI翻訳フローを試してみた</title>
+<link>https://qiita.com/gjsdkodah/items/8b3a087af2a3bc04b407</link>
+<guid>7d80b5347b5ef1f3e71907d0ab03d9452d973ee4040ec051a9109e87d8e24102</guid>
+<pubDate>2026-09-20T13:00:12+09:00</pubDate>
+<description>短い製品紹介動画を海外向けに直す仕事が入り、最初に困ったのは翻訳そのものではなく、字幕確認と書き出しの往復だった。そこで今回は、ブラウザだけで使える ai video translator を実際の制作フローに当てはめてみた。登録なしで始められるので、検証用の一本を作るとき...</description>
 </item>
 <item>
-<title>【Qiita】 git statusはクリーンだと言った。でもローカルのmainブランチは12コミット遅れていた</title>
-<link>https://qiita.com/Hideki_Tamae/items/49907a1ab558c4839700</link>
-<guid>6434d6b3dca14eae4feb3ad12dca63b1a3c69dd00223fab68282f16fed0526be</guid>
-<pubDate>2026-09-20T09:44:26+09:00</pubDate>
-<description>はじめに 12。 これが今回の数字です。何の12かというと、この記事投稿タスクが動いているqiita-contentリポジトリで、ローカルのmainブランチが、実際にHEADが指しているコミット(=origin/mainの最新)から遅れているコミット数です。zenn-co...</description>
+<title>【Qiita】 なぜ、Jevによってネット空間で詐欺や泥棒が蔓延るようになるのか？</title>
+<link>https://qiita.com/pdfractal/items/b2ebef385766b1d2c12c</link>
+<guid>89a28c4ef86b487ca729604fcf0e247b1d4f29c7925e8ed3d1ba7195ca059c61</guid>
+<pubDate>2026-09-20T12:55:17+09:00</pubDate>
+<description>はじめに 2026年9月、TypeSafe AIはSystem One Modelという新しい種類のAIと、その最初のモデルであるJevを公開しました。Jevは文章を書くことを目的とした大規模言語モデルとは異なり、与えられた状態について高速に判断し、型の付いた結果と確率を...</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-77887-1</link>
+<guid>e725fde83115168a454a62590ccb32edd70f009cf19dc5dfbc5567beb9300f86</guid>
+<pubDate>Sun, 20 Sep 2026 07:51:03 GMT</pubDate>
+<description>Pathology remains central to clinical diagnosis, yet adoption of digital pathology is constrained by financial, operational, and workflow burdens of fully digital infrastructure. We introduce HistoCAM, a platform for ambient, real-time datafication and digitization of glass-slide microscopy that preserves microscope workflows. A 31-megapixel, high space-bandwidth-time-product camera and custom software application stream and composite the pathologist’s eyepiece view, passively generating multi-resolution images from 2X to 40X while recording magnification use, search paths, and dwell times. These outputs provide immediate workflow uplift through digital annotation, measurement, quality assurance, and real-time integration of configurable AI tools. Simultaneously, HistoCAM links image content with expert interaction data and supports rapid generation of annotated, pre-embedded training data during routine slide review. By converting routine microscopy into an AI-ready data stream without requiring additional acquisition steps, HistoCAM provides a practical bridge to computational pathology while creating process-aware datasets that capture how pathologists examine and interpret tiss</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>044f361d8e45e206a2f09de9e01d433374192ee29337977bf7c3d35ff1c87503</guid>
-<pubDate>Sun, 20 Sep 2026 02:23:34 GMT</pubDate>
+<guid>0b8b14c379fae968d7623f16aec85b8c56e62e2aa5bcab9342dc89d5243f38be</guid>
+<pubDate>Sun, 20 Sep 2026 07:51:05 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>525e1d95a503069dfb6e69e9407db823f36029a32a7769bdf9ef2f6cd5237018</guid>
+<pubDate>Sun, 20 Sep 2026 07:51:43 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
