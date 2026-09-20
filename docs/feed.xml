@@ -4,57 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 20 Sep 2026 07:52:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 12:45:57 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 危ない使い方を、禁止しない ― 親リポジトリと子リポジトリを、重ねて登録する</title>
-<link>https://qiita.com/R2-san/items/15131e6df3eb88359cd6</link>
-<guid>1ed37d42d4f23805900686ce3bdb24f5395b295bf0fb8c57fa5afe4802f9714d</guid>
-<pubDate>2026-09-20T16:48:23+09:00</pubDate>
-<description>本記事の内容は私（R2-san）の体験（実装コード）・判断・指示に基づきますが、文章作成は生成 AI が行い、私の監修・確認を経て公開しています。 今回は、 R2 を、サーバー用のコードとクライアント用のコードを並行して開発できるようにする。 という事を実装した話です。...</description>
+<title>【Qiita】 5分でJev入門（すぐ使う）</title>
+<link>https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f51a04d5cc145709ac70a86c0c8e63a48284897b62d326642e0a42735d187a28</guid>
+<pubDate>2026-09-19T23:29:27+09:00</pubDate>
+<description>せっかちな人むけのコンパクト記事 やること Jevをちょっと触ってみます。 Jevは超短い回答だけを超速で返してくれるAIです。 その他の凄さや可能性などはプロ驚き屋さんの動画などでどうぞ。 ここでは本当にちょっと使うところだけやります。 (※2026年09月19日現在...</description>
 </item>
 <item>
-<title>【Qiita】 Harnessの調査が「エージェントの棚卸しはできている」を44%しか裏付けていないと言った日、自分のセッション一覧を数えたら20個中19個が切断状態だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/1a40b9a75ff3a3aa7842</link>
-<guid>4abdaac2f221c306ec9f9cee307f9b5eba1be050daa56a884edd0e5d54dffb30</guid>
-<pubDate>2026-09-20T15:27:30+09:00</pubDate>
-<description>はじめに 19。 これが今回の数字です。何の19かというと、このタスクが使えるlist_sessionsというツールで自分のClaude Codeセッション一覧を実際に取得したところ、返ってきた20件のうち19件が「切断(disconnected)」状態だった、という数字...</description>
+<title>【Qiita】 AIエージェント用IDE「Orca」を使ってみた</title>
+<link>https://qiita.com/null_nil_None/items/146bdcd6306462db408c</link>
+<guid>ed4d6c2e459b44753a5cfbc087b09898086e52ff9ecc46252270799574de5394</guid>
+<pubDate>2026-09-20T20:39:38+09:00</pubDate>
+<description>Orcaの記事が少ないので、試してみた Orcaについての記事がまだ少ないので、試してみました。Windows 11に入れて、Claude Codeを動かすところから、公式ドキュメントを片手に進めます。Orcaは、Claude CodeなどのAIエージェントを動かすための...</description>
 </item>
 <item>
-<title>【Qiita】 海外向け動画を作る前に、無料のAI翻訳フローを試してみた</title>
-<link>https://qiita.com/gjsdkodah/items/8b3a087af2a3bc04b407</link>
-<guid>7d80b5347b5ef1f3e71907d0ab03d9452d973ee4040ec051a9109e87d8e24102</guid>
-<pubDate>2026-09-20T13:00:12+09:00</pubDate>
-<description>短い製品紹介動画を海外向けに直す仕事が入り、最初に困ったのは翻訳そのものではなく、字幕確認と書き出しの往復だった。そこで今回は、ブラウザだけで使える ai video translator を実際の制作フローに当てはめてみた。登録なしで始められるので、検証用の一本を作るとき...</description>
+<title>【Qiita】 Jevから考えるAIの判断と実行の境界 ― Probability Is Not Permission</title>
+<link>https://qiita.com/GhostDriftResearch/items/7409f7e14ef3b285a1ed</link>
+<guid>748757290f87a172e221235d6d47d5f591f0ef47f3c74a60e0bf430c33b43aff</guid>
+<pubDate>2026-09-20T20:02:01+09:00</pubDate>
+<description>確率は、実行許可ではない――型付き判断を業務につなぐために AIが「出荷してよい」と答えた。その答えは、どの条件を満たしたとき、組織としての実行許可になるのだろうか。 2026年9月15日、TypeSafe AIは、ソフトウェアが直接利用できる型付き判断を返すモデル「Je...</description>
 </item>
 <item>
-<title>【Qiita】 なぜ、Jevによってネット空間で詐欺や泥棒が蔓延るようになるのか？</title>
-<link>https://qiita.com/pdfractal/items/b2ebef385766b1d2c12c</link>
-<guid>89a28c4ef86b487ca729604fcf0e247b1d4f29c7925e8ed3d1ba7195ca059c61</guid>
-<pubDate>2026-09-20T12:55:17+09:00</pubDate>
-<description>はじめに 2026年9月、TypeSafe AIはSystem One Modelという新しい種類のAIと、その最初のモデルであるJevを公開しました。Jevは文章を書くことを目的とした大規模言語モデルとは異なり、与えられた状態について高速に判断し、型の付いた結果と確率を...</description>
+<title>【Qiita】 AIエージェントが長時間化したら、平均時間より「進捗なし」を測る</title>
+<link>https://qiita.com/heftykoo/items/19fc28daa6c14cbe2641</link>
+<guid>833387a1c0c46fe9d35a16296b09960bb91012bff1e217e6126012b999c10e8a</guid>
+<pubDate>2026-09-20T17:52:24+09:00</pubDate>
+<description>model callは増えている。toolも何度も動いている。ところがgit diffは変わらず、同じtypecheck failureへ戻ってくる。 こういうsessionをchatだけで追うと、止め時がだんだん分からなくなる。「難しいtaskだから時間がかかっている」の...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77887-1</link>
-<guid>e725fde83115168a454a62590ccb32edd70f009cf19dc5dfbc5567beb9300f86</guid>
-<pubDate>Sun, 20 Sep 2026 07:51:03 GMT</pubDate>
+<guid>9c83fd421e3dfbf4d9e4c13dbf221b197870b9848d1fd32e58a214ee4a82bff9</guid>
+<pubDate>Sun, 20 Sep 2026 12:45:13 GMT</pubDate>
 <description>Pathology remains central to clinical diagnosis, yet adoption of digital pathology is constrained by financial, operational, and workflow burdens of fully digital infrastructure. We introduce HistoCAM, a platform for ambient, real-time datafication and digitization of glass-slide microscopy that preserves microscope workflows. A 31-megapixel, high space-bandwidth-time-product camera and custom software application stream and composite the pathologist’s eyepiece view, passively generating multi-resolution images from 2X to 40X while recording magnification use, search paths, and dwell times. These outputs provide immediate workflow uplift through digital annotation, measurement, quality assurance, and real-time integration of configurable AI tools. Simultaneously, HistoCAM links image content with expert interaction data and supports rapid generation of annotated, pre-embedded training data during routine slide review. By converting routine microscopy into an AI-ready data stream without requiring additional acquisition steps, HistoCAM provides a practical bridge to computational pathology while creating process-aware datasets that capture how pathologists examine and interpret tiss</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>0b8b14c379fae968d7623f16aec85b8c56e62e2aa5bcab9342dc89d5243f38be</guid>
-<pubDate>Sun, 20 Sep 2026 07:51:05 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>525e1d95a503069dfb6e69e9407db823f36029a32a7769bdf9ef2f6cd5237018</guid>
-<pubDate>Sun, 20 Sep 2026 07:51:43 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
