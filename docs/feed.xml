@@ -4,63 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 20 Sep 2026 16:39:14 GMT</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 19:11:55 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Windowsに対応したのでPerplexity Portable Computerを使ってQwen3.8 27Bを試してみた</title>
-<link>https://qiita.com/76Hata/items/84ca562a806c8732ee1e</link>
-<guid>2f7632111e0b1eb301c609fbde70e080a6dbc8f5935fa357b2cd0bd0d2e87cb2</guid>
-<pubDate>2026-09-21T01:36:22+09:00</pubDate>
-<description>この記事で分かること WindowsでPortable Computerを起動し、Qwen3.8 27Bベースのモデルを動かしてみた顛末 MCP接続を巡ってローカルモデルが見せた、思いがけない粘り強さ 本命だったコーディング用途で、実際に何が起きたか ローカルとフロンテ...</description>
-</item>
-<item>
-<title>【Qiita】 AIは1日に60時間働ける？ OpenAIのデータから見る「Agent時代の仕事量」</title>
-<link>https://qiita.com/Tadataka_Takahashi/items/f23ce964bfeffc30bf70</link>
-<guid>990280d1276079bd068377b6e97e0930f7cccdf8417f903d5286e05183865924</guid>
-<pubDate>2026-09-21T01:27:24+09:00</pubDate>
-<description>はじめに 1日は24時間です。 人間が1日に使える時間には、当然ながら物理的な上限があります。 ところが、AI Agentの利用データを見ると、この当たり前の前提が少し揺らいで見えます。 OpenAIは、2026年6月までに、社内の日次アクティブユーザーのうち利用量が9...</description>
-</item>
-<item>
-<title>【Qiita】 【OpenCode】自前でOrchestratorを編成してみた話</title>
-<link>https://qiita.com/uniuni_dtg/items/e0b99952df023ec85738</link>
-<guid>6fe1ed3482843011a0da4584b9d5ff5231e22c676ea0589f58677dfa6622d840</guid>
-<pubDate>2026-09-21T00:30:36+09:00</pubDate>
-<description>はじめに OpenCodeでOrchestratorを編成するといえば、ほとんどの方はoh-my-opencodeを考えるのではないでしょうか。 しかしこのプラグインはかなり重厚で何をしているか分かりづらいですし、既存プラグインとの互換など注意する必要もあります。 ちょっ...</description>
-</item>
-<item>
-<title>【Qiita】 全部LLMにしない判断設計 — ハッカソンでJevを選んだ理由</title>
-<link>https://qiita.com/Kazeneko/items/869f2d0bc2150818e886</link>
-<guid>1e36ac0537233087c387d19d14af1992a35d531774dc7deaa0a07b111eebadb2</guid>
-<pubDate>2026-09-20T23:40:19+09:00</pubDate>
-<description>はじめに 2026年9月、TypeSafe AI が Jev を公開しました。 文章を生成せず、型付きの判断と確率を返すモデルです。公式はこれを System One モデルと呼んでいます。 機械学習を学習している側から見ると、気になるのは速さの宣伝より次の整理です。 ...</description>
+<title>【Qiita】 VBAマネージャーのAIエージェント化、32枚のテスト全問合格でドヤ顔したGeminiを、Claude先生が「3つの致命的な穴」で一瞬にして論破した話</title>
+<link>https://qiita.com/shu15511551/items/0105f5a52612a9d9094f</link>
+<guid>b58694942892c430b787a4cd19c6221c8ce674d368d850e28537527acdd94679</guid>
+<pubDate>2026-09-21T02:47:38+09:00</pubDate>
+<description>はじめに 前回の記事では、Claude Code が敷いてくれた強固なレールに乗っかることで、Google の Antigravity（Gemini）でも Qiita の記事やマクロの答案が書けるようになった話を記録しました。 「これで別の AI でも作業が回せる。...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77887-1</link>
-<guid>dce999f395ba6828dafa7d62666ef12a7d2c7bc50d3c0cbbfe55cff95c4b0a4b</guid>
-<pubDate>Sun, 20 Sep 2026 16:38:08 GMT</pubDate>
+<guid>0209d68d9c52ba97930fe99306bad8c2ae07cc411449ddb41841c8a72d380d82</guid>
+<pubDate>Sun, 20 Sep 2026 19:11:11 GMT</pubDate>
 <description>Pathology remains central to clinical diagnosis, yet adoption of digital pathology is constrained by financial, operational, and workflow burdens of fully digital infrastructure. We introduce HistoCAM, a platform for ambient, real-time datafication and digitization of glass-slide microscopy that preserves microscope workflows. A 31-megapixel, high space-bandwidth-time-product camera and custom software application stream and composite the pathologist’s eyepiece view, passively generating multi-resolution images from 2X to 40X while recording magnification use, search paths, and dwell times. These outputs provide immediate workflow uplift through digital annotation, measurement, quality assurance, and real-time integration of configurable AI tools. Simultaneously, HistoCAM links image content with expert interaction data and supports rapid generation of annotated, pre-embedded training data during routine slide review. By converting routine microscopy into an AI-ready data stream without requiring additional acquisition steps, HistoCAM provides a practical bridge to computational pathology while creating process-aware datasets that capture how pathologists examine and interpret tiss</description>
 </item>
 <item>
-<title>【環境】 Talking Points</title>
-<link>https://www.reuters.com/sustainability/private-jet-boom-raises-climate-concerns-2026-09-18/</link>
-<guid>8f11d17f7f50bbdf06b168a26298e4ddfe62010af4fa425befb7d3e9a929772a</guid>
-<pubDate>Sun, 20 Sep 2026 16:39:03 GMT</pubDate>
-<description>Today’s newsletter tackles a topic that’s been on my radar – private jets.</description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>eb6987d1948504b1052c875255076482e4c6e6a2de5172b2f954e33457b69d68</guid>
-<pubDate>Sun, 20 Sep 2026 16:39:05 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
-</item>
-<item>
-<title>【全分野】 Search Reuters Search Reuters No search results match the term “” Some suggestions: Check spelling of all words Try diff</title>
-<link>https://www.reuters.com/site-search/?query=AI</link>
-<guid>f0aa4aee68d9d52c9071ec3ca94a13ec93dfbff63d3be653d0a9f106c0c6ebf2</guid>
-<pubDate>Sun, 20 Sep 2026 16:39:14 GMT</pubDate>
-<description>Search Reuters Search Reuters No search results match the term “” Some suggestions: Check spelling of all words Try different words that mean the same thing Enter fewer words</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>b915119a0aac08acd95bb2cb5b2c8fb22124580acdbd58ffba2a74a30e1f4928</guid>
+<pubDate>Sun, 20 Sep 2026 19:11:41 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
