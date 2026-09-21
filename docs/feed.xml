@@ -4,43 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 20 Sep 2026 23:43:25 GMT</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 02:22:52 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【GitHub公式が解説】最近よく耳にするAI新用語まとめ：ループ、ハーネス、スクワッド、山登り法とは？</title>
-<link>https://qiita.com/mamono210/items/6cd20696f66e752d59fe</link>
-<guid>df69d67b08cd9f1ad08156d3318e51f8e240dd92d13a0eae3321c74c86606d36</guid>
-<pubDate>2026-09-21T07:32:07+09:00</pubDate>
-<description>この記事の対象読者 AIエージェント開発に興味があるエンジニア、GitHub Copilotの裏側に興味がある方を想定しています。 はじめに 近年の生成AIやAIエージェントの急速な発展に伴い、開発の現場では新しい専門用語やスラングが次々と生まれています。 「ループエン...</description>
+<title>【Qiita】 CLAUDE.md vs AGENTS.md 完全使い分けガイド──実プロジェクトで検証した設定パターン集</title>
+<link>https://qiita.com/hikariclaude01/items/21083118a6f3db6494d9</link>
+<guid>c302f8f85c48f57c942097a556e2668bd9372220e5d7d775e1ad93a8477088e1</guid>
+<pubDate>2026-09-21T10:02:07+09:00</pubDate>
+<description>結論：CLAUDE.mdは「プロジェクトの憲法」、AGENTS.mdは「エージェントの職務記述書」 AGENTS.mdが登場した今、CLAUDE.mdに何を書いてAGENTS.mdに何を書くべきか──3つのプロジェクトで試行錯誤した結果、明確な使い分け基準が見えてきました...</description>
 </item>
 <item>
-<title>【Qiita】 WebFetch の権限が許可されず、参考記事の内容を直接確認できませんでした。この状態で記事を書くと、設定名やAPI仕様などの固有情報を憶測で書くことになり、</title>
-<link>https://qiita.com/syun136_616/items/bb23c4ff35b93c6381eb</link>
-<guid>9477d79861048e5abc679f2230ab0a900672139ed8eac1357a9db184bce062d9</guid>
-<pubDate>2026-09-21T07:31:01+09:00</pubDate>
-<description>WebFetch の権限が許可されず、参考記事の内容を直接確認できませんでした。この状態で記事を書くと、設定名やAPI仕様などの固有情報を憶測で書くことになり、ユーザーのCLAUDE.mdルール（固有名詞や仕様を勝手に想像しない、出典のない数値は書かない）に反してしまいます...</description>
+<title>【Qiita】 MetaのMuseが「許可なく機微情報をアップロードした」と報じられた日、自分が公開した記事106本を機密ガードレールのキーワードで検査したら、該当0件だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/aab6c78744c1e5c6edf2</link>
+<guid>55891850155828a2f8649db2c489bd3012a462141eac43531c43b935abdabd63</guid>
+<pubDate>2026-09-21T09:46:30+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿タスク自身の指示書に明記されている「書いてはいけないこと」5カテゴリに触れるキーワードを、これまで公開した記事106本(Qiita 62本・Zenn 44本)全文に対して機械的に検索し...</description>
+</item>
+<item>
+<title>【Qiita】 手紙は110円、でも「30g」だけじゃ答えられない。郵便料金表を内蔵した話【kurashi-skill Day 12】</title>
+<link>https://qiita.com/Ichiropen/items/3623c1997021d8630501</link>
+<guid>67ac8b445babc673014f3f8506543fc3fafd93c7f36ae5cca4a410b3c307020e</guid>
+<pubDate>2026-09-21T09:13:04+09:00</pubDate>
+<description>手紙は110円、でも「30g」だけじゃ答えられない。郵便料金表を内蔵した話【kurashi-skill Day 12】 役所に書類を返送する封筒を持って、ふと思った。切手、いくら分貼ればいいんだっけ。コンビニで聞けば済む話なのだが、エージェントに聞けるならそのほうが早い。 ...</description>
+</item>
+<item>
+<title>【Qiita】 無断Git履歴アップロード騒動から作る、AIエージェントの権限最小化チェックリスト</title>
+<link>https://qiita.com/capsule26/items/f2c73b47a1fb66733a2f</link>
+<guid>97aa6f41f482e23fd6b5d26511f5c6ccba0a15302c9166e91680c4b14badab42</guid>
+<pubDate>2026-09-21T09:08:31+09:00</pubDate>
+<description>あるAIコーディングツールが同意なくGit履歴をアップロードしていた、という話題を見かけました。 真偽・詳細はここでは扱いませんが、この種の話が出るたびに「このツールにどこまでのアクセス権を 渡しているか」を再確認する必要が出てきます。個人開発でエージェントに予算とツール呼...</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-77887-1</link>
+<guid>4f8b66ea4a4ec753c86b67bca49e3dba319c63eb06b9b597057bdd4e85d07782</guid>
+<pubDate>Mon, 21 Sep 2026 02:22:17 GMT</pubDate>
+<description>Pathology remains central to clinical diagnosis, yet adoption of digital pathology is constrained by financial, operational, and workflow burdens of fully digital infrastructure. We introduce HistoCAM, a platform for ambient, real-time datafication and digitization of glass-slide microscopy that preserves microscope workflows. A 31-megapixel, high space-bandwidth-time-product camera and custom software application stream and composite the pathologist’s eyepiece view, passively generating multi-resolution images from 2X to 40X while recording magnification use, search paths, and dwell times. These outputs provide immediate workflow uplift through digital annotation, measurement, quality assurance, and real-time integration of configurable AI tools. Simultaneously, HistoCAM links image content with expert interaction data and supports rapid generation of annotated, pre-embedded training data during routine slide review. By converting routine microscopy into an AI-ready data stream without requiring additional acquisition steps, HistoCAM provides a practical bridge to computational pathology while creating process-aware datasets that capture how pathologists examine and interpret tiss</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>49a895168e004ec87febbab88b97164509ca179d896119cd4c4a58786f41faf4</guid>
-<pubDate>Sun, 20 Sep 2026 23:42:47 GMT</pubDate>
-<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>c515240bb1aac6a87229b58bb46fd5409af1db035f263f52080bbe50eb2b4a8e</guid>
+<pubDate>Mon, 21 Sep 2026 02:22:20 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>228993a70f70a804884edd92b54df2c11cc944844519eae4c993ae5aa63cca87</guid>
-<pubDate>Sun, 20 Sep 2026 23:43:08 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>27ee16e95cd71dab378d96952d86b9e9fae9ec0aa7e531d383634b67fabe8eaf</guid>
+<pubDate>Mon, 21 Sep 2026 02:22:21 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>0fe5c514ad288b1e9fe7b067711bd1e4ea9354a1f72b71dae95804f837d4cfcf</guid>
-<pubDate>Sun, 20 Sep 2026 23:43:09 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>03d3dacd9def095723a5040ca5ea76ee3cb851629008e808f14808aaee05e6da</guid>
+<pubDate>Mon, 21 Sep 2026 02:22:24 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 
 </channel>
