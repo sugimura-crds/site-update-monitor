@@ -4,70 +4,168 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 21 Sep 2026 08:05:40 GMT</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 15:13:35 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Bobに自作MCPサーバーを組み合わせ、他社AIにレビューさせてみた</title>
-<link>https://qiita.com/takumiida1/items/b6922c1e463a4be55979</link>
-<guid>4224ef75e0456a31ff1ab32496fe3a46ed052a4d43f158bf1e53e454bf4b9029</guid>
-<pubDate>2026-09-21T16:03:25+09:00</pubDate>
-<description>Summary 実装AIとは独立した別のAIにコードをレビューさせることで先入観のない客観的な指摘が得られると考え、深刻な問題のみを返すコードレビュー専用MCPサーバーをRustで自作した 完成直後にそのサーバー自身のソースコードをレビューさせたところ初回13件の指...</description>
+<title>【Qiita】 みのるん式 登壇資料の作成ノウハウをスキルとして公開しました！</title>
+<link>https://qiita.com/minorun365/items/ed4c760f616cf3c0a958?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>40bbb2ed18c7dc118d28f716c2d7b3a83e5fb64505607885c7461157e20a4345</guid>
+<pubDate>2026-09-21T11:29:12+09:00</pubDate>
+<description>こんにちは、Claude Codeです。普段から、みのるんの登壇資料づくりを手伝っています。 みのるんが登壇を重ねるなかで培ってきたスライド作成のノウハウを、私たちAIエージェントが読めるスキルの形にまとめて公開しました！ こんな感じのスライドができます。 何が入...</description>
 </item>
 <item>
-<title>【Qiita】 AI HACK 2026：ユーザーフレンドリーなAIシフト管理サービスを目指して</title>
-<link>https://qiita.com/ryu2002090533/items/4271b69dc53467514e59</link>
-<guid>b8e206d14cf4c1fb4301ce1af825ef5d8f4c9691d6cb2d0b37e86071544ff429</guid>
-<pubDate>2026-09-21T15:54:06+09:00</pubDate>
-<description>作るサービスと現在の試作 ユーザーフレンドリーなAIシフト管理サービスを目指しています。勤務希望を取り込み、AIの支援でシフト案を作り、管理者が分かりやすい画面で確認・修正・確定できる体験が中心です。小規模店舗の店長・シフト管理者を想定しています。 この記事の基準は202...</description>
+<title>【Qiita】 AWSの最軽量LLM「Amazon Nova Micro」がJevの代わりとなるか検証してみた</title>
+<link>https://qiita.com/nasuvitz/items/4d27833640ff36b5d8c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>a509dc5f2b719e971bc9b5e8f573fab8fa9d4d653649d46b71351495a6fa7605</guid>
+<pubDate>2026-09-20T21:47:53+09:00</pubDate>
+<description>はじめに 判断や評価を確率として返すAIモデル「Jev」が注目を集めています。Jevは、用途を絞ることで、高速なレスポンスを実現している点も特徴です。 一方、エンタープライズ用途で外部サービスを利用する場合、データ送信に伴う社内審査やセキュリティルールの確認が必要になりま...</description>
 </item>
 <item>
-<title>【Qiita】 🅿️ 走らせっぱなしの Claude Code、今どれが終わってる？ clawdで一覧表示する「cc-park」を作った</title>
-<link>https://qiita.com/NaokiIshimura/items/1250176a96f28124791f</link>
-<guid>16f703c3e23215bba7900713ed633516c60e8ecc23e1ea9b1e79082ac99d2d20</guid>
-<pubDate>2026-09-21T15:35:31+09:00</pubDate>
-<description>はじめに Claude Code を 複数同時に 走らせていると、こんなことになりませんか。 ターミナルのタブが 5 つ。どれが作業中で、どれが終わってるのか分からない 「承認しますか？」で止まっていたのに、20 分後に気づく バックグラウンドセッションの存在をそのまま...</description>
+<title>【Qiita】 なぜSMS認証は弱いと言われるのか</title>
+<link>https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>d5f0215c814267eebc1a13ab1c2369073b0572f5c5122854cbcb05dddd709614</guid>
+<pubDate>2026-09-19T12:51:02+09:00</pubDate>
+<description>はじめに 海外で現地のSIMに差し替えた初日、銀行アプリにログインしようとして「SMSで確認コードを送信しました」の画面で止まりました。日本の番号のSIMは机の上。コードは日本の番号に飛んでいく。届くわけがない。結局その旅の間、銀行には一度も入れませんでした。 一方で、同...</description>
 </item>
 <item>
-<title>【Qiita】 言葉で頼んで AI 0 回・約 1 秒、手順書をマクロに焼いたら日々の業務から AI が消えた話</title>
-<link>https://qiita.com/shu15511551/items/4f037551f841d786c17d</link>
-<guid>9ff01b1dbf84fc46897e1f947419aaa3b058d4971b5feea45e83cebf902a1641</guid>
-<pubDate>2026-09-21T14:44:19+09:00</pubDate>
-<description>はじめに 九月十九日の未明に、「秀エクセルマネージャー」を開発中のまま公開した、という記事を書きました。 外から Python で Excel を掴み、Claude Code や Gemini に道具を握らせて、表の仕事を片付けさせる。 その仕組みを追いかけて、お題...</description>
+<title>【Qiita】 Claude Codeのclaude doctorでインストール状態を診断する — 起動前の環境チェックを10分で終える</title>
+<link>https://qiita.com/akira_papa_AI/items/701d338070dc2813deb3</link>
+<guid>496c7b239b95c83bfbf377e9928170271ae9583cb904a84099c20f0771a45ecd</guid>
+<pubDate>2026-09-21T22:39:29+09:00</pubDate>
+<description>Claude Codeのclaude doctorでインストール状態を診断する — 起動前の環境チェックを10分で終える Claude Codeを入れたものの、「この状態でちゃんと動くんかな」と不安な人向けです。 この記事ではclaude doctorだけを使い、10分以...</description>
 </item>
 <item>
-<title>【Qiita】 Agentic AI Development in Vietnam: Production Guide</title>
-<link>https://qiita.com/newwavesolutionjsc/items/09725665ca7c8f71fc2b</link>
-<guid>5b7ae16ffdb9ba6df656e22600cf9b8a4888a4799ad437a2e044c6f32c6ab166</guid>
-<pubDate>2026-09-21T12:03:33+09:00</pubDate>
-<description>Agentic AI is often described as the next step beyond generative AI, but the engineering challenge is more complex than giving a large la...</description>
+<title>【Qiita】 技術的負債は「ついで」に直す：面倒な大量作業はAIへ、承認は事業価値で</title>
+<link>https://qiita.com/okssusucha/items/d76bf63812c44280eba9</link>
+<guid>1484672e9a77a0eb7d5ea2b095e1a2f7827ec4bf21438b6c913010d6ee4ed8db</guid>
+<pubDate>2026-09-21T20:23:55+09:00</pubDate>
+<description>プログラムは直しながら使ううちに、中身が少しずつ散らかります。この散らかりを片づける時間は、会社からまとまってはもらえません。この記事は、片づけを普段の仕事に混ぜて進めるコツを紹介します 🧹 散らかった状態は「技術的負債」と呼びます。あとで直す約束をためた借金のようなもので...</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>f208cf8d2b0b9df94ee896be4163e3444f9217ca3d41756cec77cb2c518d0530</guid>
-<pubDate>Mon, 21 Sep 2026 08:04:56 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 判断と確率しか出せない Jev に Web ブラウザを高速に自動操作させてみる</title>
+<link>https://qiita.com/rairaii/items/10ff6ef76e1586dcd857</link>
+<guid>53e546b405fdbf5742ec5692b382c9879a18698950ba875145c8a80f20a3311b</guid>
+<pubDate>2026-09-21T20:02:22+09:00</pubDate>
+<description>はじめに TypeSafe の Jev が返すのは、選択肢の中からの選択と、はい／いいえの確率だけです。文章は生成しません。この制約のまま Chrome を操作できるかを試すために、typesafe-auto-browsing という CLI を作りました。 最初にあった...</description>
+</item>
+<item>
+<title>【Qiita】 非エンジニア必見！今話題のJevが5分で使えるようになる方法</title>
+<link>https://qiita.com/sai_shimizu/items/4d0f10059d01c674b1f6</link>
+<guid>af45d2940b2dfe3aec2f330ea002b415d9054cc08602a87ecf87e7b2cf0af380</guid>
+<pubDate>2026-09-21T19:32:34+09:00</pubDate>
+<description>非エンジニア必見！今話題のJevが5分で使えるようになる方法 「Jevが気になるけれど、APIやプログラミングの話が出てくると難しそう……」 そんな方は、ブラウザで試せる画面から始めてみてください。今回は文章を2か所にコピペして、「この問い合わせは、見積もり依頼？」とJe...</description>
+</item>
+<item>
+<title>【Qiita】 【2026年版】なぜAIエージェントは本番環境でクラッシュするのか：Durable Execution（Temporal vs Restate vs Inngest vs LangGraph）による耐障害性と長時間ワークフロー構築実践</title>
+<link>https://qiita.com/agdexai/items/3b7200e24eaddab8bbdd</link>
+<guid>b1ffc53a8ac08a95cf5cb8ceeb08244b7abd62edb24458814ee1dfd1f52b8b2b</guid>
+<pubDate>2026-09-21T21:06:39+09:00</pubDate>
+<description>2026年、最新のLLM SDKを使えばAIエージェントのプロトタイプはわずか30分で構築できます。しかし、それをエンタープライズの本番環境で安定稼働させようとした瞬間、開発チームの85%が**「複雑性の崖（Complexity Cliff）」に直面します。単一ターンのチャ...</description>
+</item>
+<item>
+<title>【Qiita】 「Local LLM を使用して動作する Multi-AI Agent Orchestration」を内包したデスクトップアプリを作成してみた。</title>
+<link>https://qiita.com/kazu0/items/aca41b74f125b621f4f1</link>
+<guid>2643361b4f176d94a933c9abcc7fc0e5db278dc9602799aea63e685480785cdb</guid>
+<pubDate>2026-09-21T17:25:18+09:00</pubDate>
+<description>Windows11 CPU 環境で動作する「Local LLM を使用した Multi-AI Agent Orchestration を内包したデスクトップアプリ」を作成して動かしてみた。 ユーザーはアプリを起動して自然言語 (Chat形式) で指示すると、アプリに内包し...</description>
+</item>
+<item>
+<title>【農業】 Food emissions taxes can deliver health and environmental benefits with limited leakage</title>
+<link>https://www.nature.com/articles/s43016-026-01429-7</link>
+<guid>bbfc17780fb2b465598e9d23eb621d9dcaceca72689694fcdb7e7d4d00bfe99c</guid>
+<pubDate>2026-09-21</pubDate>
+<description>Consumer preferences continue to favour emission-intense foods such as meat and dairy. A scenario analysis explores the social cost of carbon taxation design for balancing emissions and health outcomes, with low leakage risk.</description>
+</item>
+<item>
+<title>【農業】 FAO opens global conference to put One Health into action across agrifood systems</title>
+<link>https://www.fao.org/newsroom/detail/fao-opens-global-conference-to-put-one-health-into-action-across-agrifood-systems/en</link>
+<guid>2c6c7a7eb9b5dda7f839a894dd49ca2603bc14d6c9e24a4778d3af2283f4729c</guid>
+<pubDate>Mon, 21 Sep 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【環境】 Increasing LGBTQIA+ inclusion in climate science</title>
+<link>https://www.nature.com/articles/s41558-026-02748-0</link>
+<guid>289c273ae020cc06a84dc6d7ef53f79cd55ac8b80e4e9aef9b4681963738093f</guid>
+<pubDate>2026-09-21</pubDate>
+<description>LGBTQIA+ climate scientists have long encountered oppression and discrimination across society and in the workplace. We suggest specific actions, which need to be supported by more data, to make climate science more inclusive.</description>
+</item>
+<item>
+<title>【環境】 Flash energy droughts strain grids</title>
+<link>https://www.nature.com/articles/s41558-026-02760-4</link>
+<guid>50a2cdc32384a410d4712543990c7fbfff99c12a19dfb8f51dc43aa233b631c1</guid>
+<pubDate>2026-09-21</pubDate>
+<description>Rapid declines in wind or solar generation may leave electricity systems little time to respond. Now a study maps these events globally and projects that their duration may increase under climate change.</description>
+</item>
+<item>
+<title>【環境】 Flash energy droughts in solar and wind resources under climate change</title>
+<link>https://www.nature.com/articles/s41558-026-02753-3</link>
+<guid>5de74ba33270afb247cb22148ac30560db3be052ced909163fafe9251392330f</guid>
+<pubDate>2026-09-21</pubDate>
+<description>Flash energy droughts, rapid drops followed by sustained low wind and solar production, could pose potential challenges to power system operations. Here researchers find that climate change may intensify such events across wind, solar and compound forms.</description>
+</item>
+<item>
+<title>【環境】 Simple logic warnings improve climate argument evaluation across beliefs and partisanship</title>
+<link>https://www.nature.com/articles/s41558-026-02754-2</link>
+<guid>5ec2fd2b74edf484850a3eded14c7a5c84d65a20f29b5e3cb2a652b786abb5b4</guid>
+<pubDate>2026-09-21</pubDate>
+<description>Climate discourse is often misjudged, yet the mechanisms remain unclear. Using orthogonally manipulated experiments, this study isolates the effects of prior beliefs, partisanship and argument quality, showing that evaluations of climate arguments are context sensitive and can be improved by minimal logic wa</description>
+</item>
+<item>
+<title>【自動自律実験】 Six principles for supporting academic freedom in universities</title>
+<link>https://www.nature.com/articles/d41586-026-02932-4</link>
+<guid>1d9e95a05b70b7827551bc63260dac04dc9335c9c9d5c1a7e21bd825a1510694</guid>
+<pubDate>2026-09-21</pubDate>
+<description>Many academics are concerned about threats to independent enquiry in higher education. Here’s how it can be protected while taking legitimate concerns into account.</description>
+</item>
+<item>
+<title>【自動自律実験】 Losing your way of life to climate change matters — and we need a way to measure it</title>
+<link>https://www.nature.com/articles/d41586-026-02928-0</link>
+<guid>14454e96d2606e54d08e427514a8a2bc7e372a5ca99516a714c3f5a8f96b5bf2</guid>
+<pubDate>2026-09-21</pubDate>
+<description>Climate losses extend beyond property and income. Policymakers need ways to assess what people value, experience and ultimately stand to lose.</description>
+</item>
+<item>
+<title>【自動自律実験】 AI co-scientists are revolutionizing how research is done</title>
+<link>https://www.nature.com/articles/d41586-026-02931-5</link>
+<guid>66de45ec6303c658ccfd1d5353771bbb6f86d3266fe75e6adee417d450c6df84</guid>
+<pubDate>2026-09-21</pubDate>
+<description>Artificial-intelligence systems can generate hypotheses, design experiments and analyse data — but humans still need to decide what makes sense.</description>
+</item>
+<item>
+<title>【自動自律実験】 How do I change labs gracefully during my PhD?</title>
+<link>https://www.nature.com/articles/d41586-026-02441-4</link>
+<guid>652f8775fbf8e25c669868b051f36e63d09733a1bdbe0feb080f8706e956e333</guid>
+<pubDate>2026-09-21</pubDate>
+<description>A scientist in training seeks help in finding a new adviser without damaging existing working relationships.</description>
+</item>
+<item>
+<title>【自動自律実験】 &#x27;Epigenetic&#x27; editing is here: gene-tagging technique banishes hepatitis B virus</title>
+<link>https://www.nature.com/articles/d41586-026-02981-9</link>
+<guid>1b6995dfa5fa3c72c2cc21434216555d4c7fe838586e3c221f8e46cdabe06e17</guid>
+<pubDate>2026-09-21</pubDate>
+<description>Technique uses chemical tags to shut down viral DNA lurking in host’s genome.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>1cff7b118e5acae2dd1b35f888048e15adf85268890e0462158a4d7074b58234</guid>
-<pubDate>Mon, 21 Sep 2026 08:05:00 GMT</pubDate>
+<guid>b6af69fd3d8b9f502c935f940249c2216f06507d182a2b9fd3341290e0ace5a9</guid>
+<pubDate>Mon, 21 Sep 2026 15:12:52 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>f41192a4a9a6620138781dec382824038788798c7c3c1e1a777c999d42e47b8d</guid>
-<pubDate>Mon, 21 Sep 2026 08:05:02 GMT</pubDate>
+<guid>b55cf8e30bbff5c4c726542b240401d9988d5b7852190f27604c52f4cc730eb9</guid>
+<pubDate>Mon, 21 Sep 2026 15:12:54 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>e1677e27bb8b415069ad5bef9bb466038ea0057d1483610e23ffcf0aa8a972f7</guid>
-<pubDate>Mon, 21 Sep 2026 08:05:27 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
+<link>https://www.eurohpc-ju.europa.eu/index_en</link>
+<guid>ab5e91a9d470c4f791369ae7b66c0dbb074c48e35128aab2088b717147fb3cbd</guid>
+<pubDate>Mon, 21 Sep 2026 15:13:05 GMT</pubDate>
+<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
 </item>
 
 </channel>
