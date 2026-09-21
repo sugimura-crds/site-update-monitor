@@ -4,63 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 21 Sep 2026 02:22:52 GMT</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 08:05:40 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 CLAUDE.md vs AGENTS.md 完全使い分けガイド──実プロジェクトで検証した設定パターン集</title>
-<link>https://qiita.com/hikariclaude01/items/21083118a6f3db6494d9</link>
-<guid>c302f8f85c48f57c942097a556e2668bd9372220e5d7d775e1ad93a8477088e1</guid>
-<pubDate>2026-09-21T10:02:07+09:00</pubDate>
-<description>結論：CLAUDE.mdは「プロジェクトの憲法」、AGENTS.mdは「エージェントの職務記述書」 AGENTS.mdが登場した今、CLAUDE.mdに何を書いてAGENTS.mdに何を書くべきか──3つのプロジェクトで試行錯誤した結果、明確な使い分け基準が見えてきました...</description>
+<title>【Qiita】 IBM Bobに自作MCPサーバーを組み合わせ、他社AIにレビューさせてみた</title>
+<link>https://qiita.com/takumiida1/items/b6922c1e463a4be55979</link>
+<guid>4224ef75e0456a31ff1ab32496fe3a46ed052a4d43f158bf1e53e454bf4b9029</guid>
+<pubDate>2026-09-21T16:03:25+09:00</pubDate>
+<description>Summary 実装AIとは独立した別のAIにコードをレビューさせることで先入観のない客観的な指摘が得られると考え、深刻な問題のみを返すコードレビュー専用MCPサーバーをRustで自作した 完成直後にそのサーバー自身のソースコードをレビューさせたところ初回13件の指...</description>
 </item>
 <item>
-<title>【Qiita】 MetaのMuseが「許可なく機微情報をアップロードした」と報じられた日、自分が公開した記事106本を機密ガードレールのキーワードで検査したら、該当0件だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/aab6c78744c1e5c6edf2</link>
-<guid>55891850155828a2f8649db2c489bd3012a462141eac43531c43b935abdabd63</guid>
-<pubDate>2026-09-21T09:46:30+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿タスク自身の指示書に明記されている「書いてはいけないこと」5カテゴリに触れるキーワードを、これまで公開した記事106本(Qiita 62本・Zenn 44本)全文に対して機械的に検索し...</description>
+<title>【Qiita】 AI HACK 2026：ユーザーフレンドリーなAIシフト管理サービスを目指して</title>
+<link>https://qiita.com/ryu2002090533/items/4271b69dc53467514e59</link>
+<guid>b8e206d14cf4c1fb4301ce1af825ef5d8f4c9691d6cb2d0b37e86071544ff429</guid>
+<pubDate>2026-09-21T15:54:06+09:00</pubDate>
+<description>作るサービスと現在の試作 ユーザーフレンドリーなAIシフト管理サービスを目指しています。勤務希望を取り込み、AIの支援でシフト案を作り、管理者が分かりやすい画面で確認・修正・確定できる体験が中心です。小規模店舗の店長・シフト管理者を想定しています。 この記事の基準は202...</description>
 </item>
 <item>
-<title>【Qiita】 手紙は110円、でも「30g」だけじゃ答えられない。郵便料金表を内蔵した話【kurashi-skill Day 12】</title>
-<link>https://qiita.com/Ichiropen/items/3623c1997021d8630501</link>
-<guid>67ac8b445babc673014f3f8506543fc3fafd93c7f36ae5cca4a410b3c307020e</guid>
-<pubDate>2026-09-21T09:13:04+09:00</pubDate>
-<description>手紙は110円、でも「30g」だけじゃ答えられない。郵便料金表を内蔵した話【kurashi-skill Day 12】 役所に書類を返送する封筒を持って、ふと思った。切手、いくら分貼ればいいんだっけ。コンビニで聞けば済む話なのだが、エージェントに聞けるならそのほうが早い。 ...</description>
+<title>【Qiita】 🅿️ 走らせっぱなしの Claude Code、今どれが終わってる？ clawdで一覧表示する「cc-park」を作った</title>
+<link>https://qiita.com/NaokiIshimura/items/1250176a96f28124791f</link>
+<guid>16f703c3e23215bba7900713ed633516c60e8ecc23e1ea9b1e79082ac99d2d20</guid>
+<pubDate>2026-09-21T15:35:31+09:00</pubDate>
+<description>はじめに Claude Code を 複数同時に 走らせていると、こんなことになりませんか。 ターミナルのタブが 5 つ。どれが作業中で、どれが終わってるのか分からない 「承認しますか？」で止まっていたのに、20 分後に気づく バックグラウンドセッションの存在をそのまま...</description>
 </item>
 <item>
-<title>【Qiita】 無断Git履歴アップロード騒動から作る、AIエージェントの権限最小化チェックリスト</title>
-<link>https://qiita.com/capsule26/items/f2c73b47a1fb66733a2f</link>
-<guid>97aa6f41f482e23fd6b5d26511f5c6ccba0a15302c9166e91680c4b14badab42</guid>
-<pubDate>2026-09-21T09:08:31+09:00</pubDate>
-<description>あるAIコーディングツールが同意なくGit履歴をアップロードしていた、という話題を見かけました。 真偽・詳細はここでは扱いませんが、この種の話が出るたびに「このツールにどこまでのアクセス権を 渡しているか」を再確認する必要が出てきます。個人開発でエージェントに予算とツール呼...</description>
+<title>【Qiita】 言葉で頼んで AI 0 回・約 1 秒、手順書をマクロに焼いたら日々の業務から AI が消えた話</title>
+<link>https://qiita.com/shu15511551/items/4f037551f841d786c17d</link>
+<guid>9ff01b1dbf84fc46897e1f947419aaa3b058d4971b5feea45e83cebf902a1641</guid>
+<pubDate>2026-09-21T14:44:19+09:00</pubDate>
+<description>はじめに 九月十九日の未明に、「秀エクセルマネージャー」を開発中のまま公開した、という記事を書きました。 外から Python で Excel を掴み、Claude Code や Gemini に道具を握らせて、表の仕事を片付けさせる。 その仕組みを追いかけて、お題...</description>
+</item>
+<item>
+<title>【Qiita】 Agentic AI Development in Vietnam: Production Guide</title>
+<link>https://qiita.com/newwavesolutionjsc/items/09725665ca7c8f71fc2b</link>
+<guid>5b7ae16ffdb9ba6df656e22600cf9b8a4888a4799ad437a2e044c6f32c6ab166</guid>
+<pubDate>2026-09-21T12:03:33+09:00</pubDate>
+<description>Agentic AI is often described as the next step beyond generative AI, but the engineering challenge is more complex than giving a large la...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>f208cf8d2b0b9df94ee896be4163e3444f9217ca3d41756cec77cb2c518d0530</guid>
+<pubDate>Mon, 21 Sep 2026 08:04:56 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-77887-1</link>
-<guid>4f8b66ea4a4ec753c86b67bca49e3dba319c63eb06b9b597057bdd4e85d07782</guid>
-<pubDate>Mon, 21 Sep 2026 02:22:17 GMT</pubDate>
-<description>Pathology remains central to clinical diagnosis, yet adoption of digital pathology is constrained by financial, operational, and workflow burdens of fully digital infrastructure. We introduce HistoCAM, a platform for ambient, real-time datafication and digitization of glass-slide microscopy that preserves microscope workflows. A 31-megapixel, high space-bandwidth-time-product camera and custom software application stream and composite the pathologist’s eyepiece view, passively generating multi-resolution images from 2X to 40X while recording magnification use, search paths, and dwell times. These outputs provide immediate workflow uplift through digital annotation, measurement, quality assurance, and real-time integration of configurable AI tools. Simultaneously, HistoCAM links image content with expert interaction data and supports rapid generation of annotated, pre-embedded training data during routine slide review. By converting routine microscopy into an AI-ready data stream without requiring additional acquisition steps, HistoCAM provides a practical bridge to computational pathology while creating process-aware datasets that capture how pathologists examine and interpret tiss</description>
+<link>https://www.nature.com/articles/s41467-026-77619-5</link>
+<guid>1cff7b118e5acae2dd1b35f888048e15adf85268890e0462158a4d7074b58234</guid>
+<pubDate>Mon, 21 Sep 2026 08:05:00 GMT</pubDate>
+<description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>c515240bb1aac6a87229b58bb46fd5409af1db035f263f52080bbe50eb2b4a8e</guid>
-<pubDate>Mon, 21 Sep 2026 02:22:20 GMT</pubDate>
+<guid>f41192a4a9a6620138781dec382824038788798c7c3c1e1a777c999d42e47b8d</guid>
+<pubDate>Mon, 21 Sep 2026 08:05:02 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>27ee16e95cd71dab378d96952d86b9e9fae9ec0aa7e531d383634b67fabe8eaf</guid>
-<pubDate>Mon, 21 Sep 2026 02:22:21 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>03d3dacd9def095723a5040ca5ea76ee3cb851629008e808f14808aaee05e6da</guid>
-<pubDate>Mon, 21 Sep 2026 02:22:24 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>e1677e27bb8b415069ad5bef9bb466038ea0057d1483610e23ffcf0aa8a972f7</guid>
+<pubDate>Mon, 21 Sep 2026 08:05:27 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
