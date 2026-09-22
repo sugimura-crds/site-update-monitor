@@ -4,85 +4,105 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 22 Sep 2026 07:03:56 GMT</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 12:44:16 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 生成しないAI「Jev」とは？ IBM BobでJavaアプリの検索リランキングに組み込んでみた</title>
-<link>https://qiita.com/mi-ta/items/cf3559dba904cdac2398</link>
-<guid>dad7e3f0a7c341d5e0c096f8e090b105db95e4d9571b9e0a054fe1fe48744bf4</guid>
-<pubDate>2026-09-22T15:52:35+09:00</pubDate>
-<description>はじめに 「AIの機能が進化したら、ビジネスルールのテキストとAIだけでアプリケーションを置き換えられるのではないか？」 そんなふうに考えていた時期が私にもありました。 AIがアプリケーションの挙動を代替できたら「アプリケーション開発」という業務がほぼ不要になるという未来...</description>
+<title>【Qiita】 ローカル動作するJevっぽいものを調べてたら、なんとマルチモーダル対応もできてた！</title>
+<link>https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>a73671dccce9b46e1dc689ea702547fd802382449bc7d4e683692dbb29ce98a0</guid>
+<pubDate>2026-09-21T11:47:44+09:00</pubDate>
+<description>Jevが大流行してますね。 すごいなーと思いつつ、ローカルでもできるのかなーと思ってたら、すでに試されてる方がいました！ 早い！！ ソースコード公開されているので、これをそのまま使えばいいのですが、せっかくなので、どういう仕組なのか調べてみました。 きしださんが公...</description>
 </item>
 <item>
-<title>【Qiita】 長期対話AIと専門エージェントを分離する――春風システムの設計概要</title>
-<link>https://qiita.com/netkaeru/items/583a56f75246fb108e8f</link>
-<guid>0077c7fc8a01d7f7e2c4a0a178f8d969875d94260199d125c7ad30b864241bf7</guid>
-<pubDate>2026-09-22T15:46:56+09:00</pubDate>
-<description>この記事は、2026年9月23日「生成AIなんでも展示会」に合わせた先行公開版です。全体構成と設計原則を先に公開し、内部構造、実装、検証結果を順次追記します。 概要 春風システムは、長期対話でユーザー理解を担うAIと、専門領域の問題を直接解決するAIエージェント群を分...</description>
+<title>【Qiita】 JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた</title>
+<link>https://qiita.com/kikuziro/items/2be9091b328d8b844640?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>b40cfd4d7da004aefe88d91c23449b3269109df01484606518c28e225d2e9998</guid>
+<pubDate>2026-09-21T08:45:56+09:00</pubDate>
+<description>👋 はじめに RAGのあちこちにJevを差し込んでどこがどう変わるのか測ってみました！ 🎯 対象購読者 ぶっちゃけJevってRAG検索に使えるの？と思っている方 RAG検索を愛している方 ⚡ Jevってなに？ JevはTypeSafe AIが2026年9月15日に...</description>
 </item>
 <item>
-<title>【Qiita】 シングル・サブ・マルチエージェントの違いを「作業机」で理解する ― Claude Codeで学ぶAIの分業入門</title>
-<link>https://qiita.com/Takuya__/items/f1711865fa67e0b86cea</link>
-<guid>10c0cab7a0bf5a2329e6773e3350dcfb7b3797acc2bd0fd535233b60ca947391</guid>
-<pubDate>2026-09-22T15:10:45+09:00</pubDate>
-<description>はじめに:言葉が3つ出てきて、混乱していませんか? AIエージェントの話を追いかけていると、似た言葉が次々に出てきます。 「シングルエージェントで十分です」 「ここはサブエージェントに任せましょう」 「これからはマルチエージェントの時代です」 どれも「AIに仕事をさせ...</description>
+<title>【Qiita】 Astraくんから利用枠の過剰消費を抑制する施策</title>
+<link>https://qiita.com/ramutarafarm/items/3fbe096b726694b94ae0</link>
+<guid>bf1f5f7df557fa494712334788fbe064523b1ab9c95439c5caa5949247db1abd</guid>
+<pubDate>2026-09-22T21:29:31+09:00</pubDate>
+<description>Astraくんから利用枠の過剰消費を抑制する施策 Astraは優秀。しかし燃費がわるい。車に例えると1km/㍑くらいしか走れないのでは、、と思うようなセッションがかなり発生しています。 小さな修正を頼んだだけなのに、意図のわからない検証が多数実行される。サブエージェントに...</description>
 </item>
 <item>
-<title>【Qiita】 「前回の結果」から次の施策を考えるAIエージェントを作った話</title>
-<link>https://qiita.com/aki-09/items/4eed3599e5cb5fdec901</link>
-<guid>d6c5c066587809f6211ad5815d46624bf019598916cd0efaea77f6def3baa46a</guid>
-<pubDate>2026-09-22T14:46:31+09:00</pubDate>
-<description>はじめに ハッカソン名：AIハッカソン2026 開催期間：2026/09/19-23(5日間) 今回のハッカソンでは、「前回の結果を次の企画に生かせないか」という課題に対して、施策の企画・投稿・承認・計測・記憶を一つのサイクルとしてつなぐAIエージェント「Hiro...</description>
+<title>【Qiita】 A loop guard changes what your AI review workflow can do</title>
+<link>https://qiita.com/zackchew67/items/a457aa3ffc8c1033e6bb</link>
+<guid>5d04639f8b64d014d8752627ff795f59581c5483379712879af5ec7235b8b9d5</guid>
+<pubDate>2026-09-22T20:53:57+09:00</pubDate>
+<description>After an AI reviewer responds, can the original writer speak again in the same human turn? Your routing policy determines whether the wo...</description>
 </item>
 <item>
-<title>【Qiita】 git の代替「gglet」を開発〜APFS の clonefile で作業単位ごとに worktree を複製するコストを最小に〜</title>
-<link>https://qiita.com/yuji_yasuhara/items/a6963fe6a6a95dfa8bf4</link>
-<guid>b7903001d392992dcd8c83f02e0618a502afb0ee3d21dc2959efb83f603c11f7</guid>
-<pubDate>2026-09-22T14:44:45+09:00</pubDate>
-<description>はじめに 前回の記事で、Claude Code や Codex を複数並列で走らせるために Herdr と git worktree で環境を組みました。worker 1 人に worktree 1 つ、という構成です。しばらく運用してみると、調整の問題は MyKanba...</description>
+<title>【Qiita】 MCPとA2Aはどう使い分けるのか? — MCP 2025-06-18版とA2A v1.0での比較</title>
+<link>https://qiita.com/musa_rock/items/514df239da84d07ec25a</link>
+<guid>d3bc5984a6fde882b912602a593bb67a03c5400a8e807c5ccd10ca812e20b9f9</guid>
+<pubDate>2026-09-22T18:19:55+09:00</pubDate>
+<description>はじめに AIエージェントをつなぐ2つのオープン標準、MCP（Model Context Protocol） と A2A（Agent2Agent）プロトコル について、これまで9本の記事を書いてきました。外部ライブラリを使わない生実装と通信ログの実測で仕組みを調べる記事が...</description>
 </item>
 <item>
-<title>【Qiita】 Jev AIとは？TypeSafe AIが開発した「意思決定」に特化した構造化AIモデル</title>
-<link>https://qiita.com/Adachit-1411/items/d999baeb6598d527b2f1</link>
-<guid>aea76ca7bc32147ce2f0f0c08f3ca1d23f38f2a56ae5a7eb691c967365debbb4</guid>
-<pubDate>2026-09-22T15:49:18+09:00</pubDate>
-<description>現在のAIモデル（LLM）は、テキスト生成や質疑応答、自然言語処理を伴うタスクにおいて非常に優れた性能を発揮します。しかし、AIを実際のソフトウェアやシステムに組み込む際、別の課題が浮き彫りになります。 それは、**「ソフトウェアが常に求めているのはテキストによる回答ではな...</description>
+<title>【Qiita】 Grok 4.7はAIエージェントの第一候補になれるか</title>
+<link>https://qiita.com/beatapi/items/6819bae3352128650d1c</link>
+<guid>bf5338e267a738dbf154f64160dbc1a8f1dac0dc05b94899f62c3b8ab3fc0842</guid>
+<pubDate>2026-09-22T18:10:46+09:00</pubDate>
+<description>新しいAIモデルが公開されると、議論は一つの数字に集約されがちだ。総合スコア、コーディングベンチマーク、コンテキスト長。だが、Grok 4.7を理解するうえで本当に有用な問いは、首位を取ったかどうかではない。 コーディングエージェントが標準で選ぶモデルになれるか。 xAIは...</description>
 </item>
 <item>
-<title>【Qiita】 Reusy｜リユースの「メンドくさい」は Agent にまかせた</title>
-<link>https://qiita.com/d_3_/items/2a2932cbdba70d0d1878</link>
-<guid>dfb63da07dd8c8ddea95294c3cb2c6c9eed36eeac7b1da9af1e56f2c40cbe288</guid>
-<pubDate>2026-09-22T14:47:55+09:00</pubDate>
-<description>いきなりですが、リユースがどれだけメンドくさいか。フリマ取引を思い出しながら、一度ウンザリしてみましょう。 商品の状態が伝わるように写真を撮る 購入時期や使用状況を思い出しながら、商品説明を書く 家の中が在庫であふれないよう、値段調整する 購入希望者の質問に答える。しっか...</description>
+<title>【農業】 New FAO report surveys how different livestock production systems can contribute to social, economic and environmental sustainability</title>
+<link>https://www.fao.org/newsroom/detail/new-fao-report-surveys-how-different-livestock-production-systems-can-contribute-to-social--economic-and-environmental-sustainability/en</link>
+<guid>cc66b007c56e879aaf04a5777b0b12318a4e56d43944956b31618d9f32d5281a</guid>
+<pubDate>Tue, 22 Sep 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>ca14c7e7545959acd8aaf0d2abcf2b4b8e7718dd3353f7f99ef9d43bdb727bff</guid>
-<pubDate>Tue, 22 Sep 2026 07:03:20 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【自動自律実験】 Biosecurity must protect human functional capacity</title>
+<link>https://www.nature.com/articles/d41586-026-02996-2</link>
+<guid>4ef20f4eb7418d5e254cb9c0c52949e1057ada09b0050ff9ac728e6962450cb0</guid>
+<pubDate>2026-09-22</pubDate>
+<description>Biosecurity must protect human functional capacity</description>
+</item>
+<item>
+<title>【自動自律実験】 Why insects need their own protected areas</title>
+<link>https://www.nature.com/articles/d41586-026-02997-1</link>
+<guid>a7d33bf850d1ace982db23c7fc1b5d02c60d13c2d07aafdd9de0e0e3d487d764</guid>
+<pubDate>2026-09-22</pubDate>
+<description>Why insects need their own protected areas</description>
+</item>
+<item>
+<title>【自動自律実験】 A global safety net for climate-risk intelligence is urgently needed</title>
+<link>https://www.nature.com/articles/d41586-026-02995-3</link>
+<guid>9af589317727890d23cbe343a71d0d8ac408cd19d1cd4022169120f49441d7e1</guid>
+<pubDate>2026-09-22</pubDate>
+<description>A global safety net for climate-risk intelligence is urgently needed</description>
+</item>
+<item>
+<title>【自動自律実験】 Watch scientists decipher burnt scrolls without unrolling them</title>
+<link>https://www.nature.com/articles/d41586-026-02920-8</link>
+<guid>0b89b7e1700563ad39dba2350a368839bc02599b98c9cf92587fcf0ead9b6d0b</guid>
+<pubDate>2026-09-22</pubDate>
+<description>By making and burning their own papyrus, researchers have come up with a method that might help to read glowing text from unopened scrolls from Herculaneum.</description>
+</item>
+<item>
+<title>【自動自律実験】 Hundreds of ‘free’ academic journals have started charging fees</title>
+<link>https://www.nature.com/articles/d41586-026-02818-5</link>
+<guid>d278f9b8202b90f721b1d40b16601f57cf18decc06e4635bafbffea6c229d950</guid>
+<pubDate>2026-09-22</pubDate>
+<description>A study tracking diamond open-access journals has found an increase in titles switching to other publishing models — especially over the past few years.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>64a77920ed932f72f112defb15bc62a79eb322a9b393497a03a8d76946c795ba</guid>
-<pubDate>Tue, 22 Sep 2026 07:03:22 GMT</pubDate>
+<guid>f5e0ebf39d898f3c52080c333d1b08ebaac0438046d5ea577e103d51e847f51f</guid>
+<pubDate>Tue, 22 Sep 2026 12:43:11 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>287f2f003d531dca9878ebac659fc04c848dfebc2b75beab0ba0c12ade0bee00</guid>
-<pubDate>Tue, 22 Sep 2026 07:03:25 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>0345b675aa21cc9050393c52c02fc3c1caafeb5857e9c08ec47a7fc6b17f3c69</guid>
-<pubDate>Tue, 22 Sep 2026 07:03:41 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>6cdf369bb02e37a0a8052b7b8e29553bc3d44e50cf08993dd55c2d9b65779d9f</guid>
+<pubDate>Tue, 22 Sep 2026 12:44:08 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
