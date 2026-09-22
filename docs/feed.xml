@@ -4,49 +4,85 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 22 Sep 2026 01:42:02 GMT</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 07:03:56 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「宴会の店を探すAI」ではなく「幹事を進めるAI」を作った ── ENCOPA × OrcaRouterで宴会調整をAgentic AI化した話</title>
-<link>https://qiita.com/keyakima/items/9a281111a27b1fd5f75c</link>
-<guid>79dfe6e44ca40b8b9ee396b6b7a70956b728e902e133315e2109f69b84185f36</guid>
-<pubDate>2026-09-22T10:15:08+09:00</pubDate>
-<description>はじめに こんにちは、チームGGGのはまぐちです。 本件は、AI HACK2026の参加のため、記事を作成しておりますが、内容は皆さまがイメージできるように出来る限り詳しく書いております。 早速ですが、皆さまはこのようなことを言われたことないですか 「次の飲み会、幹事お願...</description>
+<title>【Qiita】 生成しないAI「Jev」とは？ IBM BobでJavaアプリの検索リランキングに組み込んでみた</title>
+<link>https://qiita.com/mi-ta/items/cf3559dba904cdac2398</link>
+<guid>dad7e3f0a7c341d5e0c096f8e090b105db95e4d9571b9e0a054fe1fe48744bf4</guid>
+<pubDate>2026-09-22T15:52:35+09:00</pubDate>
+<description>はじめに 「AIの機能が進化したら、ビジネスルールのテキストとAIだけでアプリケーションを置き換えられるのではないか？」 そんなふうに考えていた時期が私にもありました。 AIがアプリケーションの挙動を代替できたら「アプリケーション開発」という業務がほぼ不要になるという未来...</description>
 </item>
 <item>
-<title>【Qiita】 AIに実装させるなら、ガード自身をテストしないと意味がない</title>
-<link>https://qiita.com/yuli_ohkawa/items/46d2c59bd4dffaa67937</link>
-<guid>5708e0e4a18fcade8be03046d6d1767d70dfdc2840a06d2e61583cf8ae30aa34</guid>
-<pubDate>2026-09-22T09:54:15+09:00</pubDate>
-<description>AIに実装させるなら、ガード自身をテストしないと意味がない AIエージェントに実装を任せて、その成果物を本番に出す運用を1年ほど続けている。 最初に置いたのはガード（出荷前の自動検査）だった。それは正しかったと思う。ただ、ガードを置いただけでは足りなかった。ガードは腐る。...</description>
+<title>【Qiita】 長期対話AIと専門エージェントを分離する――春風システムの設計概要</title>
+<link>https://qiita.com/netkaeru/items/583a56f75246fb108e8f</link>
+<guid>0077c7fc8a01d7f7e2c4a0a178f8d969875d94260199d125c7ad30b864241bf7</guid>
+<pubDate>2026-09-22T15:46:56+09:00</pubDate>
+<description>この記事は、2026年9月23日「生成AIなんでも展示会」に合わせた先行公開版です。全体構成と設計原則を先に公開し、内部構造、実装、検証結果を順次追記します。 概要 春風システムは、長期対話でユーザー理解を担うAIと、専門領域の問題を直接解決するAIエージェント群を分...</description>
 </item>
 <item>
-<title>【Qiita】 Slack に自分のじいやを住まわせたら、AI 返信の「ちょい直し」がなくなった話</title>
-<link>https://qiita.com/thekiai/items/850bfc649ea1f2deabbe</link>
-<guid>9e1c33675dbf117534fe971df7ff12966e0c61e71568ac54161e7a319cd5da42</guid>
-<pubDate>2026-09-22T09:36:51+09:00</pubDate>
-<description>AI HACK 2026 第2回（テーマ: 業務を自律化する AI エージェント）に出場しました。作ったのは、Slack で自分宛てのメンションに、自分の執事（じいや）が「〇〇さまのじいや」と名乗って代わりに返信してくれる Slack アプリ「じいやエージェント」です。LL...</description>
+<title>【Qiita】 シングル・サブ・マルチエージェントの違いを「作業机」で理解する ― Claude Codeで学ぶAIの分業入門</title>
+<link>https://qiita.com/Takuya__/items/f1711865fa67e0b86cea</link>
+<guid>10c0cab7a0bf5a2329e6773e3350dcfb7b3797acc2bd0fd535233b60ca947391</guid>
+<pubDate>2026-09-22T15:10:45+09:00</pubDate>
+<description>はじめに:言葉が3つ出てきて、混乱していませんか? AIエージェントの話を追いかけていると、似た言葉が次々に出てきます。 「シングルエージェントで十分です」 「ここはサブエージェントに任せましょう」 「これからはマルチエージェントの時代です」 どれも「AIに仕事をさせ...</description>
 </item>
 <item>
-<title>【Qiita】 「生成しないAI」が騒がれた1週間。Jevバズの中身を点検する【kurashi-skill 番外編】</title>
-<link>https://qiita.com/Ichiropen/items/cfd3e3f9dc33407dd948</link>
-<guid>6f7343e1464b6aee3fac5b6e574d8d0c7aa18be5798e5dfe6cf6a5d6f0ee6d8b</guid>
-<pubDate>2026-09-22T09:16:01+09:00</pubDate>
-<description>ここ1週間、開発者のタイムラインがやたら「Jev」で埋まった。生成しないAI、判断だけを返す模型、System One。僕は先日この模型のドキュメントを読んだばかりなので、今回は模型そのものではなく、騒ぎのほうを点検する。バズは何を正しく伝え、何を盛ったのか。 起: 1週...</description>
+<title>【Qiita】 「前回の結果」から次の施策を考えるAIエージェントを作った話</title>
+<link>https://qiita.com/aki-09/items/4eed3599e5cb5fdec901</link>
+<guid>d6c5c066587809f6211ad5815d46624bf019598916cd0efaea77f6def3baa46a</guid>
+<pubDate>2026-09-22T14:46:31+09:00</pubDate>
+<description>はじめに ハッカソン名：AIハッカソン2026 開催期間：2026/09/19-23(5日間) 今回のハッカソンでは、「前回の結果を次の企画に生かせないか」という課題に対して、施策の企画・投稿・承認・計測・記憶を一つのサイクルとしてつなぐAIエージェント「Hiro...</description>
+</item>
+<item>
+<title>【Qiita】 git の代替「gglet」を開発〜APFS の clonefile で作業単位ごとに worktree を複製するコストを最小に〜</title>
+<link>https://qiita.com/yuji_yasuhara/items/a6963fe6a6a95dfa8bf4</link>
+<guid>b7903001d392992dcd8c83f02e0618a502afb0ee3d21dc2959efb83f603c11f7</guid>
+<pubDate>2026-09-22T14:44:45+09:00</pubDate>
+<description>はじめに 前回の記事で、Claude Code や Codex を複数並列で走らせるために Herdr と git worktree で環境を組みました。worker 1 人に worktree 1 つ、という構成です。しばらく運用してみると、調整の問題は MyKanba...</description>
+</item>
+<item>
+<title>【Qiita】 Jev AIとは？TypeSafe AIが開発した「意思決定」に特化した構造化AIモデル</title>
+<link>https://qiita.com/Adachit-1411/items/d999baeb6598d527b2f1</link>
+<guid>aea76ca7bc32147ce2f0f0c08f3ca1d23f38f2a56ae5a7eb691c967365debbb4</guid>
+<pubDate>2026-09-22T15:49:18+09:00</pubDate>
+<description>現在のAIモデル（LLM）は、テキスト生成や質疑応答、自然言語処理を伴うタスクにおいて非常に優れた性能を発揮します。しかし、AIを実際のソフトウェアやシステムに組み込む際、別の課題が浮き彫りになります。 それは、**「ソフトウェアが常に求めているのはテキストによる回答ではな...</description>
+</item>
+<item>
+<title>【Qiita】 Reusy｜リユースの「メンドくさい」は Agent にまかせた</title>
+<link>https://qiita.com/d_3_/items/2a2932cbdba70d0d1878</link>
+<guid>dfb63da07dd8c8ddea95294c3cb2c6c9eed36eeac7b1da9af1e56f2c40cbe288</guid>
+<pubDate>2026-09-22T14:47:55+09:00</pubDate>
+<description>いきなりですが、リユースがどれだけメンドくさいか。フリマ取引を思い出しながら、一度ウンザリしてみましょう。 商品の状態が伝わるように写真を撮る 購入時期や使用状況を思い出しながら、商品説明を書く 家の中が在庫であふれないよう、値段調整する 購入希望者の質問に答える。しっか...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>ca14c7e7545959acd8aaf0d2abcf2b4b8e7718dd3353f7f99ef9d43bdb727bff</guid>
+<pubDate>Tue, 22 Sep 2026 07:03:20 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>2d389c89d9ee28129903007c83a6e4e2168938efe3babccc3246c9aefde95b86</guid>
-<pubDate>Tue, 22 Sep 2026 01:40:59 GMT</pubDate>
+<guid>64a77920ed932f72f112defb15bc62a79eb322a9b393497a03a8d76946c795ba</guid>
+<pubDate>Tue, 22 Sep 2026 07:03:22 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>4065740994bb464afba15a7f58eb1ba90758eabd6725a689bf00e28f38ef729b</guid>
-<pubDate>Tue, 22 Sep 2026 01:41:02 GMT</pubDate>
+<guid>287f2f003d531dca9878ebac659fc04c848dfebc2b75beab0ba0c12ade0bee00</guid>
+<pubDate>Tue, 22 Sep 2026 07:03:25 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>0345b675aa21cc9050393c52c02fc3c1caafeb5857e9c08ec47a7fc6b17f3c69</guid>
+<pubDate>Tue, 22 Sep 2026 07:03:41 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
