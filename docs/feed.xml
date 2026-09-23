@@ -4,42 +4,64 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 22 Sep 2026 23:06:04 GMT</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 01:36:08 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Power上のAIXにPowerSCを導入（GUIサーバー / Agent構成）</title>
-<link>https://qiita.com/Jun__Saito/items/4b57f5f400d401c2a405</link>
-<guid>8aaf06eb6f353545d5e16fe34ca66a5786f85b7dc552045618510bba96474c23</guid>
-<pubDate>2026-09-23T05:25:57+09:00</pubDate>
-<description>はじめに IBM PowerSC は、PowerSC 独自の機能や AIX/Linux/IBM i のOSのセキュリティー機能をGUI画面で一元管理することにより、IBM Power のセキュリティーとコンプライアンスを管理するソフトウェア製品です。 本記事は、 Powe...</description>
+<title>【Qiita】 自作(AI作) 画像圧縮ツール「Image Compressor」 のご紹介</title>
+<link>https://qiita.com/c_u/items/e1e0ce7904557c84454a</link>
+<guid>cd26c5ca166f3e21b58c99ef3a5075bd0ab1207de295394d1443786f8691b4cd</guid>
+<pubDate>2026-09-23T08:07:40+09:00</pubDate>
+<description>はじめに ブログやWebサイトに画像を掲載するとき、気になるのがファイルサイズです。 画質はできるだけ保ちたい一方で、大きな画像をそのまま使うとページの読み込みに時間がかかります。 そんな悩みを抱えていましたが、AI Codingを活用して作成した、画像圧縮ツール「Ima...</description>
 </item>
 <item>
-<title>【Qiita】 VBAマネージャーのAIエージェント化、「棚撃ち式 Excelマネージャー」として育成する話</title>
-<link>https://qiita.com/shu15511551/items/0cc9efaa2865646e8e20</link>
-<guid>d3a4843dc3bea5488115195d00f26108054b83dea9e1e5a96c13a70eb8a81b96</guid>
-<pubDate>2026-09-23T07:10:04+09:00</pubDate>
-<description>はじめに これまで、Claude Code に作成してもらっているExcelマネージャー（VBAマネージャー）ですが、ずいぶん形になってきました。 直前の記事では、AI の作業窓にあった「定型の質問（三十件）」「長い手順書（二十本）」「マクロの棚」という三つの引き出...</description>
+<title>【Qiita】 AIエージェントを変えるたびに、ツールの接続設定をやり直していた</title>
+<link>https://qiita.com/beatapi/items/84caa5901993ff2909b3</link>
+<guid>994fe3c6b052017b5a0f2b1356e69617a8fd219b5ad4fe1e828f43fb04a5e2bb</guid>
+<pubDate>2026-09-23T10:04:18+09:00</pubDate>
+<description>普段の仕事では主にCodexを使っています。新しいものを試したいときは、OpenCodeを使うこともあります。 先日、OpenCodeでGrokの新しいモデルを試そうとしました。調査に使うSkillはすでにCodexで書いていたので、同じ仕事にそのまま使いたかったのです。 ...</description>
 </item>
 <item>
-<title>【Qiita】 AIは仕事をどこまで代替するのか──「業務代替表」で見る2026年の現在地</title>
-<link>https://qiita.com/mhamadajp/items/3f6f50a85e33e8e91c9b</link>
-<guid>fc97ae94c45aa2e85aebca562829709059f297c9be7ebb4d9740b4ce4e0a48aa</guid>
-<pubDate>2026-09-23T05:39:54+09:00</pubDate>
-<description>「AIに仕事を奪われるのか」という問いは、少し大きすぎます。 現実には、AIが置き換えるのは職業を丸ごとではなく、仕事の中にある一部の業務です。メールの下書き、会議記録の要約、コードの雛形、問い合わせの分類。こうした作業はAIに任せやすくなっています。 一方で、顧客との関係...</description>
+<title>【Qiita】 AIエージェントの「できました」を疑うための実装 — 15日間気づかなかった配信失敗と、報告が嘘をつく4つの型</title>
+<link>https://qiita.com/BrainCommunity/items/f484f031636fb9753bb7</link>
+<guid>2ddac0b6a38346a9d7827c64e6ae3334c5a30b242244d777a4934c3772ec2360</guid>
+<pubDate>2026-09-23T09:49:58+09:00</pubDate>
+<description>AIエージェントの「できました」を疑うための実装 AIエージェントに実装を任せ、記録が残っている7月1日から12週間が経ちました。番号をつけて台帳に残した決定は707件あります（2026-09-23 時点）。そこから「機械が成功を名乗ったのに、実際には効いていなかった」ケ...</description>
 </item>
 <item>
-<title>【環境】 Single wildfire smoke exposure causes lasting harm, monkey study suggests</title>
-<link>https://www.science.org/content/article/single-wildfire-smoke-exposure-causes-lasting-harm-monkey-study-suggests</link>
-<guid>c617935b2af99b1999b909a41b5e57f4bb597b64920a5afa496b9cc2afe29a62</guid>
-<pubDate>2026-09-22T04:40:00Z</pubDate>
-<description>Infant macaques showed immune changes and signs of faster aging years after inhaling smoke</description>
+<title>【Qiita】 「降水確率40%」は傘の答えにならない。雨雲レーダーのタイルを直接読んだ話【kurashi-skill Day 13】</title>
+<link>https://qiita.com/Ichiropen/items/be5cde20b89290a22fc5</link>
+<guid>09ac56eb0b0d6abb505f5a8aec83f1c7a68135ad403258edf32938ef606584fb</guid>
+<pubDate>2026-09-23T09:19:09+09:00</pubDate>
+<description>朝、ベランダの洗濯物を見て考える。天気予報は「降水確率40%」と言う。だが僕が知りたいのは確率じゃない。今、我が家の上空に雨雲があるのか、ないのか。あと30分でどうなるのかだ。 その答え、気象庁がタイル画像で公開していた。しかも気象庁はユーザー登録なしで機械可読な気象・防災...</description>
+</item>
+<item>
+<title>【Qiita】 科学者の2年分の仕事が数週間に？Anthropic「Claude Science」の正体とその代償</title>
+<link>https://qiita.com/kinamocchi_tech/items/41a9012d13031a07a96d</link>
+<guid>66c97e1951b171a9527f18519319b46b73ebc4f18f2ef2f074f1ff1a95c4d0bd</guid>
+<pubDate>2026-09-23T09:11:15+09:00</pubDate>
+<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → 科学者の2年分の仕事が数週間に？Anthropic「Claude Science」の正体とその代償 🐹🦜 この記事に登場する2匹 🐹 もっちー...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>a90d56f56485f1ae76d6e3ccfab909f5f1cce2c682c2c30fbdb776416bbdd0e4</guid>
-<pubDate>Tue, 22 Sep 2026 23:04:43 GMT</pubDate>
+<guid>8d8d79074cd354e33125fffb9e867b07c160039e8fed27bb418cdb127d62c583</guid>
+<pubDate>Wed, 23 Sep 2026 01:35:17 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>b6247334f02d68ed48793e16bc2ef31a30e3593fe8929aaac810ff2a5a16cd5e</guid>
+<pubDate>Wed, 23 Sep 2026 01:35:21 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>0b4abb84a9a1ed445754161a017dc2d9b4f94bd6f7bee40727258c498e4dd274</guid>
+<pubDate>Wed, 23 Sep 2026 01:35:51 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
