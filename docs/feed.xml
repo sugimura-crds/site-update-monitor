@@ -4,106 +4,176 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 23 Sep 2026 12:36:02 GMT</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 17:36:24 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 終わってるエンジニアの転職その後 〜1年経ってどうなったか〜</title>
-<link>https://qiita.com/bridgebook1125/items/aaa257c199fd094ae31e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>6617aae76a7e1f0608ffe772336ecea91c7961552c1367b8466c32027cc92f5f</guid>
-<pubDate>2026-09-21T03:47:34+09:00</pubDate>
-<description>はじめに お久しぶりです、bridge bookです。 以前、終わってるエンジニアの転職履歴という記事を書きました。 無職の状態で2か月間転職活動をして、なんとか自社開発企業に転職した、という内容です。 ありがたいことに思っていたよりも多くの方に読んでいただき、「転...</description>
+<title>【Qiita】 第5回：UBI Microで中に入らない運用へ ― LibertyをOpenTelemetryで外から見る</title>
+<link>https://qiita.com/TSA2019/items/d0d77ba56c2aace61d1f</link>
+<guid>02c679dafa53a9a18c7debc0044737a3a8c8eef9aaaec0b534fc469dd9cd5977</guid>
+<pubDate>2026-09-23T23:54:05+09:00</pubDate>
+<description>はじめに 前回は、ping コマンドを呼び出すアプリを例に、UBI MicroでOSコマンド依存が表面化することを見ました。 UBI Microでは、本番コンテナに余計なOSコマンドを入れないことを目指します。 これはセキュリティ上は良い方向です。 一方で、これまでのよう...</description>
 </item>
 <item>
-<title>【Qiita】 IBM GraniteでJevっぽい感情分析を試してみた</title>
-<link>https://qiita.com/takumiida1/items/e80bf07a3ee535f84d3c</link>
-<guid>a8fa92967b7b63fba0e16266f42fc26695a38161606b56f81b1ecd8a2bb85e5f</guid>
-<pubDate>2026-09-23T19:01:10+09:00</pubDate>
-<description>Summary 「ローカル動作するJevっぽいものを調べてたら、なんとマルチモーダル対応もできてた！」に触発され、M1 Mac mini上のIBM Granite 4.1 3Bで、logprobsを利用したJev風の選択判定を試した 日本語Amazonレビュー3,00...</description>
+<title>【Qiita】 第4回：pingアプリで体感するUBI Micro ― OSコマンド依存が表面化する瞬間</title>
+<link>https://qiita.com/TSA2019/items/a6c223b5a80cdc30e4f7</link>
+<guid>20f2e80d56b1afe10beff25231f4f5c868ad039a101fe4192adf174e01e13c40</guid>
+<pubDate>2026-09-23T23:53:02+09:00</pubDate>
+<description>はじめに 前回は、既存アプリや運用手順に残りやすいOS依存を棚卸ししました。 今回は、ping コマンドを使う簡単なアプリケーションを例に、UBI Microで何が起きるかを見ていきます。 この回の目的は、ping を使うアプリを作ることではありません。 目的は、次の4つ...</description>
 </item>
 <item>
-<title>【Qiita】 共用サーバーで IBM Bob Shell 2.0 を試す 〜 みんなの bob 1.x を壊さずに、自分専用の環境を作ってみた</title>
-<link>https://qiita.com/daihiraoka/items/366fa1c742d6ef06fbf5</link>
-<guid>c313278f718dec037f1dd3d258faf1e39bf386bcd8d063a938d92942f9155434</guid>
-<pubDate>2026-09-23T17:07:14+09:00</pubDate>
-<description>「新しい Bob、試したい。でもこのサーバー、みんなのなんだよなぁ」 PoC で使っている Linux サーバーにログインして、何気なく which bob を叩いてみました。 $ which bob /home/shareduser/.nvm/versions/node...</description>
+<title>【Qiita】 第3回：そのコマンド、本番コンテナに必要ですか？ UBI Microで見直すOS依存</title>
+<link>https://qiita.com/TSA2019/items/1ff001f3204392cc287a</link>
+<guid>c3967c7d35d56f1aaaff502e5e78cb3457577b99459a650a52c882774566a405</guid>
+<pubDate>2026-09-23T23:52:20+09:00</pubDate>
+<description>はじめに 前回は、OS部分とアプリケーション部分を分けて考えることの重要性を整理しました。 今回は、既存アプリや運用手順に残っている OS依存 を見ていきます。 UBI Microでは、ping、curl、ps、netstat、microdnf などが使える前提ではありま...</description>
 </item>
 <item>
-<title>【Qiita】 🖥️ミニPCでローカルLLM (Qwen3.8制限解除版) を動かしてみた — BionicとLM Studioが起動失敗からUnslothで成功まで</title>
-<link>https://qiita.com/km170/items/425a4f09a8b3a0798f68</link>
-<guid>93f69e851d20f685c998a1f4ab738aff56fcf176a240ca4924c0c64cb8c90654</guid>
-<pubDate>2026-09-23T21:08:39+09:00</pubDate>
-<description>チャットAIというとChatGPTやGeminiをアプリやWebブラウザで使う方法が定番ですが、公開モデルは限られるものの、パソコンにインストールして使う方法もあります。利用料金は無料、使い放題、検閲解除版のモデルも数多く出回っています。 数年前までは超スペックPCでも重...</description>
+<title>【Qiita】 第2回：OS部分とアプリ部分を分けて考える ― LibertyコンテナでCVE対応と確認範囲を整理する</title>
+<link>https://qiita.com/TSA2019/items/c29d88767d0833fa61f9</link>
+<guid>9f3c5f1865dbe8a1572a525ccaa9b6d555a65bf2edf0095a82eeb79c23b4d243</guid>
+<pubDate>2026-09-23T23:48:53+09:00</pubDate>
+<description>はじめに 第1回では、UBI Microを使う理由を次の2本柱で整理しました。 アプリが使っていないOSパッケージを減らし、CVE対応対象を小さくする 侵入後に攻撃者が使えるOS上の道具を減らす この2つを考える前提として、重要なのが OS部分とアプリ部分を分けて考え...</description>
 </item>
 <item>
-<title>【Qiita】 AIに記事を書かせるムラは「書く前」で決まっていた——Claude Codeの品質設計4段階と、5ヶ月で23個に育った差し戻しルール</title>
-<link>https://qiita.com/saitoko/items/7ec657b32da2b1f9b81d</link>
-<guid>4ef54eff22c6f331c4e3b8f354bffa4aa68e9db59a780b9c203c285ac41b9ca6</guid>
-<pubDate>2026-09-23T21:04:37+09:00</pubDate>
-<description>この記事の実施記録（2026年9月時点）: AI（Claude Code）に記事を書かせる仕組みを2026年4月に整備し、約5ヶ月間運用した。差し戻し理由を蓄積するルールファイル（writing-guidelines.md）は、整備直後の5セクション構成（構想メモの記録）か...</description>
+<title>【Qiita】 Claude Codeのプラグイン入門 ― 入れ方・消し方から自作・チーム配布まで、実機の画面で解説(2026年9月版)</title>
+<link>https://qiita.com/Takuya__/items/9b598deca3af832f609f</link>
+<guid>174bdf9a3032eb9ac00ebd6bb483da37eb34c426bf6364a39238a405a1075dba</guid>
+<pubDate>2026-09-24T01:16:49+09:00</pubDate>
+<description>はじめに:便利な設定、ほかの人にどうやって渡していますか? Claude Code を使い込んでいくと、手元にだんだん「自分なりの工夫」がたまっていきます。決まった手順を覚えさせたスキル、危ない操作を止めるフック、GitHub や社内ツールとつなぐ MCP サーバー……...</description>
 </item>
 <item>
-<title>【Qiita】 テッド・チャンの創作を因数分解する</title>
-<link>https://qiita.com/ymgc3/items/d6880fb3940c24837e43</link>
-<guid>8757fc784f98e86b66f9d6a3021e656807eb22aa24014b572784f061fe891604</guid>
-<pubDate>2026-09-23T19:52:49+09:00</pubDate>
-<description>はじめに 天才の創作過程を、AIにトレースさせることはできるのでしょうか。 その試みとして、ここではSF作家テッド・チャンの創作を題材にします。 インタビューや作品、その制作過程についての発言を集めて、「どのような順番で考え、何を固定し、何を捨てているのか」を構造として取...</description>
+<title>【Qiita】 Claude Opus 5.5 vs Opus 5：回答は同じ、出力 token は半分</title>
+<link>https://qiita.com/Synthorai/items/ffb007c86981fcb9e39d</link>
+<guid>0df9f0fa0283a8039b4a16156d227aedb73b61a19bb2f3c8b7f5588acf84e0dc</guid>
+<pubDate>2026-09-24T01:13:51+09:00</pubDate>
+<description>この記事は Synthorai ブログの記事 Claude Opus 5.5 vs Opus 5：回答は同じ、出力 token は半分 の転載です。原文（多言語対応）はリンク先をご覧ください。 Claude Opus 5.5 の定価は Claude Opus 5 より...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントがAIエージェントに仕事を発注できる仕組み —— Virtuals ACP とは？調べてみた</title>
-<link>https://qiita.com/MOZK_SEA/items/a991275e750195305437</link>
-<guid>e47be2fb1a5efa8258205001d1302e3c86594dc9ddede6540b6c770a8fa8120b</guid>
-<pubDate>2026-09-23T19:30:46+09:00</pubDate>
-<description>AIエージェントに仕事を頼む、という話はよく聞きます。 ところが、発注する側もAIエージェントだという市場がありました。 発注するのもエージェント、 納品物を受け取って承認するのもエージェント、代金は USDC——1 USDC がだいたい1ドルになるよう 作られた、ドル...</description>
+<title>【Qiita】 OfficeをAgent実行面に／Agentを高密度で休眠／動画をテキストで編集――今日のGitHub 3選</title>
+<link>https://qiita.com/tsuzuri_ai/items/b93f58538049c558551f</link>
+<guid>332317ed49287c1b88defe84563349eb1d6765529a767866db6697dea4bc882e</guid>
+<pubDate>2026-09-24T01:03:13+09:00</pubDate>
+<description>2026年9月24日時点で、今日見ておきたいGitHub Repositoryを3件だけ選びました。今回は「OfficeをAgentの作業面にする」「stateful Agentを高密度に動かす」「動画をframe列ではなく構造化情報として読む」の3方向です。 Re...</description>
 </item>
 <item>
-<title>【Qiita】 No-Code AI Pipelines or Custom Architecture: How to Tell Which One You Need</title>
-<link>https://qiita.com/nithiyadharshiniv2006/items/66edbfdc8024b298fba7</link>
-<guid>593b2a4c0a822b05965dab808b4d03c956c396f60408acb0cf73a945c68b0f5c</guid>
-<pubDate>2026-09-23T16:47:46+09:00</pubDate>
-<description>No-Code AI Pipelines or Custom Architecture: How to Tell Which One You Need Give a business analyst a no-code AI pipeline builder ...</description>
+<title>【Qiita】 Google Cloudで考える、AI Agent時代のOntologyとGraph</title>
+<link>https://qiita.com/lvep/items/e420a6a405998ee7a7a9</link>
+<guid>e158e74db95ed0fce70c3ef717eba55215668f2bae8d3304e50d3dc8693800b4</guid>
+<pubDate>2026-09-24T00:30:12+09:00</pubDate>
+<description>はじめに AI Agentの活用が進むにつれ、単にデータを検索するだけでなく、データの意味や関係、業務上のコンテキストをAI Agentが捉えられることが重要になってくる。 例えばECサイトでは、以下のような関係が存在する。 「ある顧客が購入した商品のカテゴリ別売上...</description>
 </item>
 <item>
-<title>【環境】 Earlier and faster heatwave onset on land under a warming climate</title>
-<link>https://www.nature.com/articles/s41558-026-02762-2</link>
-<guid>8e99c2a368fc6970f205d1d1d9ad868e2f731c58220e31de06228f1500061e94</guid>
+<title>【Qiita】 Meta Muse内部構造徹底解剖：Secure VM、Sentinel権限ゲートキーパー、Amazon遮断の技術的背景【2026年深層分析】</title>
+<link>https://qiita.com/agdexai/items/6de645a91f5e1b176ee1</link>
+<guid>5397ca10db8b428e6a12e517ba41bd2f4ce34704d0a0c8664df6387bed188ceb</guid>
+<pubDate>2026-09-23T22:08:38+09:00</pubDate>
+<description>Meta Muse 内部構造徹底解剖：Muse Secure VM、Sentinel 権限ゲートキーパー、そして Amazon が即座に遮断した技術的背景（2026年深層分析） 2026年9月8日、Metaは航空券の手配、カレンダー調整、Webフォーム入力、商品購入などの...</description>
+</item>
+<item>
+<title>【農業】 The nitrogen costs of soil salinity</title>
+<link>https://www.nature.com/articles/s43016-026-01434-w</link>
+<guid>359c3d8ffe3fe0a43696a1ef20560fa5c44a0e4eb3bb0b0f9c8c5fda93fdac37</guid>
 <pubDate>2026-09-23</pubDate>
-<description>Heatwaves are expected to become more frequent and intense with global warming. Here the authors assess changes in their timing, finding that the heatwave season expands and that many regions see a faster onset of heatwaves.</description>
+<description>Soil salinization threatens crop production and carries additional costs through lower nitrogen-use efficiency and greater reactive-nitrogen losses, strengthening the need to manage soil, water and nutrients together.</description>
 </item>
 <item>
-<title>【環境】 Far-right political support and clean technology adoption in Germany</title>
-<link>https://www.nature.com/articles/s41893-026-01935-3</link>
-<guid>f77c9a38c19f32f4a21e42c364910c28f476c03acead4010ff64ed14ba00dc72</guid>
+<title>【農業】 Global structural fiscal food policy</title>
+<link>https://www.nature.com/articles/s43016-026-01441-x</link>
+<guid>9423ed7033f8007874a9c18aba3d270a361722c01b11ff3594e1d68c72af1506</guid>
 <pubDate>2026-09-23</pubDate>
-<description>Political polarization may hinder the spread of clean technologies, but its influence on adoption may change over time. A study now combines surveys, municipal data and election results to show lower electric vehicle and solar photovoltaic uptake among far-right supporters, with persistent yet increasingly d</description>
+<description>Food-related taxes and subsidies can incentivize shifts towards more sustainable food systems. A modelling study estimates how a greenhouse gas tax would affect food consumption, considering the reallocation of demand and supply within and between countries.</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>c3d9aaec19d5f26e98308434499f1d27a9650af3b76b5feaa7adc31dee0e5c0c</guid>
-<pubDate>Wed, 23 Sep 2026 12:34:41 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【農業】 Latest US dietary guidelines are projected to increase diet-related emissions</title>
+<link>https://www.nature.com/articles/s43016-026-01433-x</link>
+<guid>16cd2709b284d04db1fee758caacbb71fcd7e906190f7e0c104f0588821cef28</guid>
+<pubDate>2026-09-23</pubDate>
+<description>The most recent US dietary guidelines are projected to increase diet-related greenhouse gas emissions by 33%, largely due to higher protein recommendations. This diverges from international efforts to align dietary guidance with planetary health.</description>
+</item>
+<item>
+<title>【農業】 Global management of saline soils to boost crop yields and halve nitrogen losses</title>
+<link>https://www.nature.com/articles/s43016-026-01428-8</link>
+<guid>72450082188f6f7c67fadd114d20fc68681f138b12cc72ebca9c56d41615321a</guid>
+<pubDate>2026-09-23</pubDate>
+<description>Soil salinity reduces crop productivity and increases reactive nitrogen losses. A global nitrogen budget shows that saline soil management could improve yields, reduce pollution and generate economic benefits across various regions.</description>
+</item>
+<item>
+<title>【農業】 Hunger and malnutrition crises persist in Somalia as projected floods and funding shortfalls threaten vulnerable populations</title>
+<link>https://www.fao.org/newsroom/detail/hunger-and-malnutrition-crises-persist-in-somalia-as-projected-floods-and-funding-shortfalls-threaten-vulnerable-populations/en</link>
+<guid>ad64d1d12e6acf2d6a0950add3f83d1cd4560d7298debe3238363ab63128bf40</guid>
+<pubDate>Wed, 23 Sep 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【自動自律実験】 Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling</title>
+<link>https://www.nature.com/articles/s41586-026-11189-w</link>
+<guid>3f14af27acf2d4ac04b812ce4a05112681d4f5de906e724c0df0231ccc5230f0</guid>
+<pubDate>2026-09-23</pubDate>
+<description>Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling</description>
+</item>
+<item>
+<title>【自動自律実験】 Chiral oxazolidinones &lt;i&gt;via&lt;/i&gt; biocatalytic aziridination of unactivated alkenes</title>
+<link>https://www.nature.com/articles/s41586-026-11169-0</link>
+<guid>e61f8906baecdece5810fb791cc4ff4920f30413dff57a23e34542ecdbc0441c</guid>
+<pubDate>2026-09-23</pubDate>
+<description>Chiral oxazolidinones via biocatalytic aziridination of unactivated alkenes</description>
+</item>
+<item>
+<title>【自動自律実験】 Bank accounts reveal the fingerprints of abusive financial control</title>
+<link>https://www.nature.com/articles/d41586-026-03021-2</link>
+<guid>c53852abdfffb7adc73940c9259715467483967a689511e5c9f961fefcaaffe3</guid>
+<pubDate>2026-09-23</pubDate>
+<description>Analysis of anonymized banking data could help inform strategies to support victim-survivors of financial abuse — plus, how opposing forces within the Earth can alter the length of a day.</description>
+</item>
+<item>
+<title>【自動自律実験】 Competition heats up in the regenerative-medicine ranks</title>
+<link>https://www.nature.com/articles/d41586-026-02856-z</link>
+<guid>2ebf15d9531989489a69420065c856dd2a100b7f3d11a359ac555a7fad0bc972</guid>
+<pubDate>2026-09-23</pubDate>
+<description>The United States leads, but China poses strong competition, according to the latest Nature Index data.</description>
+</item>
+<item>
+<title>【自動自律実験】 Huge hoard of metal bars hints at vast Iron Age trade</title>
+<link>https://www.nature.com/articles/d41586-026-02986-4</link>
+<guid>665b0482310bf4166f82a7613d9e005abb3de1546935dca2b233689f6b809459</guid>
+<pubDate>2026-09-23</pubDate>
+<description>One-tonne cache of iron is the largest ever found — and enough to make roughly 500 swords.</description>
+</item>
+<item>
+<title>【Anthropic】 Introducing Claude Opus 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>7d4bfba3b400da1dce200bd0aa729cdc1e400668989f083ba72f2530f21e8c09</guid>
+<pubDate>Wed, 23 Sep 2026 17:34:51 GMT</pubDate>
+<description>Opus 5.5 performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77887-1</link>
-<guid>c781b82ec60c8afaafd3792e0ba9b42d0a26fb5cf4f00e12e0c405c1fdd54c5d</guid>
-<pubDate>Wed, 23 Sep 2026 12:34:44 GMT</pubDate>
+<guid>e953ed73a10a26e1e1edbf7f6055ef425e59f9e334e8dfdd69945ea0971c66df</guid>
+<pubDate>Wed, 23 Sep 2026 17:34:59 GMT</pubDate>
 <description>Pathology remains central to clinical diagnosis, yet adoption of digital pathology is constrained by financial, operational, and workflow burdens of fully digital infrastructure. We introduce HistoCAM, a platform for ambient, real-time datafication and digitization of glass-slide microscopy that preserves microscope workflows. A 31-megapixel, high space-bandwidth-time-product camera and custom software application stream and composite the pathologist’s eyepiece view, passively generating multi-resolution images from 2X to 40X while recording magnification use, search paths, and dwell times. These outputs provide immediate workflow uplift through digital annotation, measurement, quality assurance, and real-time integration of configurable AI tools. Simultaneously, HistoCAM links image content with expert interaction data and supports rapid generation of annotated, pre-embedded training data during routine slide review. By converting routine microscopy into an AI-ready data stream without requiring additional acquisition steps, HistoCAM provides a practical bridge to computational pathology while creating process-aware datasets that capture how pathologists examine and interpret tiss</description>
 </item>
 <item>
-<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
-<link>https://www.eurohpc-ju.europa.eu/index_en</link>
-<guid>e5e4903293159f763c83e0a0122944ab4cb4a77e1d12542a79b84a02b171890d</guid>
-<pubDate>Wed, 23 Sep 2026 12:35:23 GMT</pubDate>
-<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>2ba62144a6c5eb37a4e62f83ba765544ce25a5d9c237a9c8865fc7a5f8e3623f</guid>
+<pubDate>Wed, 23 Sep 2026 17:35:02 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>cdfa99c2258ae2d3a55f482bc438d1c581c4375e4931829896b95ea3a020caf9</guid>
-<pubDate>Wed, 23 Sep 2026 12:35:46 GMT</pubDate>
+<guid>bedb76da4400e41aa51d130e601eb20157c57bc9cac2a0c13735ccd38266d7e7</guid>
+<pubDate>Wed, 23 Sep 2026 17:36:07 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>6b3cbfce1c6cbc862b1f6df689e1e8ff0312306a6e1af72ebd4b19de63ef0f0b</guid>
+<pubDate>Wed, 23 Sep 2026 17:36:08 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
