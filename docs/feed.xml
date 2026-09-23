@@ -4,70 +4,106 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 23 Sep 2026 06:59:27 GMT</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 12:36:02 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【FortiGate】＋【NetAttest EPS(RADIUS)】で PPPoE LAN接続型 unnumbered な基礎実験</title>
-<link>https://qiita.com/Heizo_Hasegawa/items/f45fcd3b2b006390dd84</link>
-<guid>945f846ce10aff9ba2e01a2a78183621f6e0efc122876a903035be3b75bbc8ea</guid>
-<pubDate>2026-09-23T14:05:55+09:00</pubDate>
-<description>●はじめに とある案件で、【PPPoE＋固定IP 8つ＋Fortigate】というものを扱うこととなりました。 PPPoE自体は通常のISPアクセス(まぁ、最近はIPoEばかりなのでしょうけれどもの)やFlets VPNWIDEでもおなじみなのですが、固定IP 8つとなる...</description>
+<title>【Qiita】 終わってるエンジニアの転職その後 〜1年経ってどうなったか〜</title>
+<link>https://qiita.com/bridgebook1125/items/aaa257c199fd094ae31e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>6617aae76a7e1f0608ffe772336ecea91c7961552c1367b8466c32027cc92f5f</guid>
+<pubDate>2026-09-21T03:47:34+09:00</pubDate>
+<description>はじめに お久しぶりです、bridge bookです。 以前、終わってるエンジニアの転職履歴という記事を書きました。 無職の状態で2か月間転職活動をして、なんとか自社開発企業に転職した、という内容です。 ありがたいことに思っていたよりも多くの方に読んでいただき、「転...</description>
 </item>
 <item>
-<title>【Qiita】 前提は渡した。それでも、AIの判断はずれていく</title>
-<link>https://qiita.com/NaoyukiSakai/items/7cc4a4adec0f3dbeaa45</link>
-<guid>cad04704ee6276e6d4335c279a5f27a9295e02828ca88e9e5d9bf21b32ad5f72</guid>
-<pubDate>2026-09-23T15:25:15+09:00</pubDate>
-<description>整理してあるのに、話が変わる AIに資料を読ませ、分析してもらい、次の一手を考えてもらう。途中までは筋が通っていたのに、提案になったところで、最初に渡した前提が変わっている。 指摘すると直ります。でも、別の説明に新しい誤りが生まれる。こうなると、任せた仕事を進めるより、そ...</description>
+<title>【Qiita】 IBM GraniteでJevっぽい感情分析を試してみた</title>
+<link>https://qiita.com/takumiida1/items/e80bf07a3ee535f84d3c</link>
+<guid>a8fa92967b7b63fba0e16266f42fc26695a38161606b56f81b1ecd8a2bb85e5f</guid>
+<pubDate>2026-09-23T19:01:10+09:00</pubDate>
+<description>Summary 「ローカル動作するJevっぽいものを調べてたら、なんとマルチモーダル対応もできてた！」に触発され、M1 Mac mini上のIBM Granite 4.1 3Bで、logprobsを利用したJev風の選択判定を試した 日本語Amazonレビュー3,00...</description>
 </item>
 <item>
-<title>【Qiita】 AgentCore Runtime V2 を試してみた</title>
-<link>https://qiita.com/musa_rock/items/cabde9a7cb6dd35e645f</link>
-<guid>67e52f269912ebdafeb38e7665f2537801ec8dbacd911235de083a335bfca643</guid>
-<pubDate>2026-09-23T15:24:42+09:00</pubDate>
-<description>2026 年 9 月 18 日に Amazon Bedrock AgentCore Runtime の platformVersion V2 がリリースされました。 V2 における変更内容を理解し、自作の AI エージェントで効果を実測してみました。 TL;DR V2 ...</description>
+<title>【Qiita】 共用サーバーで IBM Bob Shell 2.0 を試す 〜 みんなの bob 1.x を壊さずに、自分専用の環境を作ってみた</title>
+<link>https://qiita.com/daihiraoka/items/366fa1c742d6ef06fbf5</link>
+<guid>c313278f718dec037f1dd3d258faf1e39bf386bcd8d063a938d92942f9155434</guid>
+<pubDate>2026-09-23T17:07:14+09:00</pubDate>
+<description>「新しい Bob、試したい。でもこのサーバー、みんなのなんだよなぁ」 PoC で使っている Linux サーバーにログインして、何気なく which bob を叩いてみました。 $ which bob /home/shareduser/.nvm/versions/node...</description>
 </item>
 <item>
-<title>【Qiita】 GitHub の Issue にタスクを投稿すると Claude Code が PullRequest まで作ってくれるシステムを作った話</title>
-<link>https://qiita.com/archeleeds/items/1b437d0067ec832c88b1</link>
-<guid>918da86baaaacab2dfd248dcb95d3e612e188eb514cff30d65ee7d1836729cbe</guid>
-<pubDate>2026-09-23T15:24:37+09:00</pubDate>
-<description>ClaudeCodeやCodexを使っていて、「外出中の作業が出来ない時間が勿体ない」と思ったことはありませんか？ あるいは大したことがないタスクなのに時間だけはかかって、 手元のCloneしたリポジトリを長時間占有してしまう・・・みたいな状況に陥ることはありませんか？ そ...</description>
+<title>【Qiita】 🖥️ミニPCでローカルLLM (Qwen3.8制限解除版) を動かしてみた — BionicとLM Studioが起動失敗からUnslothで成功まで</title>
+<link>https://qiita.com/km170/items/425a4f09a8b3a0798f68</link>
+<guid>93f69e851d20f685c998a1f4ab738aff56fcf176a240ca4924c0c64cb8c90654</guid>
+<pubDate>2026-09-23T21:08:39+09:00</pubDate>
+<description>チャットAIというとChatGPTやGeminiをアプリやWebブラウザで使う方法が定番ですが、公開モデルは限られるものの、パソコンにインストールして使う方法もあります。利用料金は無料、使い放題、検閲解除版のモデルも数多く出回っています。 数年前までは超スペックPCでも重...</description>
 </item>
 <item>
-<title>【Qiita】 GPT-6 SolとClaude Opus 5.5が同日登場。価格と性能はどう変わったか</title>
-<link>https://qiita.com/iineineno03k/items/4faec738bfde68d92e8c</link>
-<guid>ed805ec6539f902c9f73a3923e71c99b85a9c4563eb86adf4f763f381ff26820</guid>
-<pubDate>2026-09-23T14:54:37+09:00</pubDate>
-<description>米国時間の2026年9月22日、OpenAIがGPT-6 Solを、AnthropicがClaude Opus 5.5を発表した。どちらもコーディングやエージェント作業を担う新モデルで、前世代よりAPI料金が安い。OpenAIの更新履歴・Anthropicの発表 API料...</description>
+<title>【Qiita】 AIに記事を書かせるムラは「書く前」で決まっていた——Claude Codeの品質設計4段階と、5ヶ月で23個に育った差し戻しルール</title>
+<link>https://qiita.com/saitoko/items/7ec657b32da2b1f9b81d</link>
+<guid>4ef54eff22c6f331c4e3b8f354bffa4aa68e9db59a780b9c203c285ac41b9ca6</guid>
+<pubDate>2026-09-23T21:04:37+09:00</pubDate>
+<description>この記事の実施記録（2026年9月時点）: AI（Claude Code）に記事を書かせる仕組みを2026年4月に整備し、約5ヶ月間運用した。差し戻し理由を蓄積するルールファイル（writing-guidelines.md）は、整備直後の5セクション構成（構想メモの記録）か...</description>
+</item>
+<item>
+<title>【Qiita】 テッド・チャンの創作を因数分解する</title>
+<link>https://qiita.com/ymgc3/items/d6880fb3940c24837e43</link>
+<guid>8757fc784f98e86b66f9d6a3021e656807eb22aa24014b572784f061fe891604</guid>
+<pubDate>2026-09-23T19:52:49+09:00</pubDate>
+<description>はじめに 天才の創作過程を、AIにトレースさせることはできるのでしょうか。 その試みとして、ここではSF作家テッド・チャンの創作を題材にします。 インタビューや作品、その制作過程についての発言を集めて、「どのような順番で考え、何を固定し、何を捨てているのか」を構造として取...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントがAIエージェントに仕事を発注できる仕組み —— Virtuals ACP とは？調べてみた</title>
+<link>https://qiita.com/MOZK_SEA/items/a991275e750195305437</link>
+<guid>e47be2fb1a5efa8258205001d1302e3c86594dc9ddede6540b6c770a8fa8120b</guid>
+<pubDate>2026-09-23T19:30:46+09:00</pubDate>
+<description>AIエージェントに仕事を頼む、という話はよく聞きます。 ところが、発注する側もAIエージェントだという市場がありました。 発注するのもエージェント、 納品物を受け取って承認するのもエージェント、代金は USDC——1 USDC がだいたい1ドルになるよう 作られた、ドル...</description>
+</item>
+<item>
+<title>【Qiita】 No-Code AI Pipelines or Custom Architecture: How to Tell Which One You Need</title>
+<link>https://qiita.com/nithiyadharshiniv2006/items/66edbfdc8024b298fba7</link>
+<guid>593b2a4c0a822b05965dab808b4d03c956c396f60408acb0cf73a945c68b0f5c</guid>
+<pubDate>2026-09-23T16:47:46+09:00</pubDate>
+<description>No-Code AI Pipelines or Custom Architecture: How to Tell Which One You Need Give a business analyst a no-code AI pipeline builder ...</description>
+</item>
+<item>
+<title>【環境】 Earlier and faster heatwave onset on land under a warming climate</title>
+<link>https://www.nature.com/articles/s41558-026-02762-2</link>
+<guid>8e99c2a368fc6970f205d1d1d9ad868e2f731c58220e31de06228f1500061e94</guid>
+<pubDate>2026-09-23</pubDate>
+<description>Heatwaves are expected to become more frequent and intense with global warming. Here the authors assess changes in their timing, finding that the heatwave season expands and that many regions see a faster onset of heatwaves.</description>
+</item>
+<item>
+<title>【環境】 Far-right political support and clean technology adoption in Germany</title>
+<link>https://www.nature.com/articles/s41893-026-01935-3</link>
+<guid>f77c9a38c19f32f4a21e42c364910c28f476c03acead4010ff64ed14ba00dc72</guid>
+<pubDate>2026-09-23</pubDate>
+<description>Political polarization may hinder the spread of clean technologies, but its influence on adoption may change over time. A study now combines surveys, municipal data and election results to show lower electric vehicle and solar photovoltaic uptake among far-right supporters, with persistent yet increasingly d</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>80c1ca0e74497254001aed3404d04a27db362d8cce1c5c6c8cbd1611dfd52ecc</guid>
-<pubDate>Wed, 23 Sep 2026 06:58:45 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>c3d9aaec19d5f26e98308434499f1d27a9650af3b76b5feaa7adc31dee0e5c0c</guid>
+<pubDate>Wed, 23 Sep 2026 12:34:41 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77887-1</link>
-<guid>624ae388e19ac5146b93cbddb256485a4728201badb84ad44faae402ae9b1de4</guid>
-<pubDate>Wed, 23 Sep 2026 06:58:48 GMT</pubDate>
+<guid>c781b82ec60c8afaafd3792e0ba9b42d0a26fb5cf4f00e12e0c405c1fdd54c5d</guid>
+<pubDate>Wed, 23 Sep 2026 12:34:44 GMT</pubDate>
 <description>Pathology remains central to clinical diagnosis, yet adoption of digital pathology is constrained by financial, operational, and workflow burdens of fully digital infrastructure. We introduce HistoCAM, a platform for ambient, real-time datafication and digitization of glass-slide microscopy that preserves microscope workflows. A 31-megapixel, high space-bandwidth-time-product camera and custom software application stream and composite the pathologist’s eyepiece view, passively generating multi-resolution images from 2X to 40X while recording magnification use, search paths, and dwell times. These outputs provide immediate workflow uplift through digital annotation, measurement, quality assurance, and real-time integration of configurable AI tools. Simultaneously, HistoCAM links image content with expert interaction data and supports rapid generation of annotated, pre-embedded training data during routine slide review. By converting routine microscopy into an AI-ready data stream without requiring additional acquisition steps, HistoCAM provides a practical bridge to computational pathology while creating process-aware datasets that capture how pathologists examine and interpret tiss</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>6812a00379d2c86614ec69a7626a7de279851e02e2a24992db929ee45d4836f1</guid>
-<pubDate>Wed, 23 Sep 2026 06:58:50 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
+<link>https://www.eurohpc-ju.europa.eu/index_en</link>
+<guid>e5e4903293159f763c83e0a0122944ab4cb4a77e1d12542a79b84a02b171890d</guid>
+<pubDate>Wed, 23 Sep 2026 12:35:23 GMT</pubDate>
+<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>f2ed44cfa939e3470c53da30077ba9fd9f75f13368d0261d95e6b26fea957eb0</guid>
-<pubDate>Wed, 23 Sep 2026 06:58:53 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>cdfa99c2258ae2d3a55f482bc438d1c581c4375e4931829896b95ea3a020caf9</guid>
+<pubDate>Wed, 23 Sep 2026 12:35:46 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
