@@ -4,64 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 23 Sep 2026 01:36:08 GMT</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 06:59:27 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 自作(AI作) 画像圧縮ツール「Image Compressor」 のご紹介</title>
-<link>https://qiita.com/c_u/items/e1e0ce7904557c84454a</link>
-<guid>cd26c5ca166f3e21b58c99ef3a5075bd0ab1207de295394d1443786f8691b4cd</guid>
-<pubDate>2026-09-23T08:07:40+09:00</pubDate>
-<description>はじめに ブログやWebサイトに画像を掲載するとき、気になるのがファイルサイズです。 画質はできるだけ保ちたい一方で、大きな画像をそのまま使うとページの読み込みに時間がかかります。 そんな悩みを抱えていましたが、AI Codingを活用して作成した、画像圧縮ツール「Ima...</description>
+<title>【Qiita】 【FortiGate】＋【NetAttest EPS(RADIUS)】で PPPoE LAN接続型 unnumbered な基礎実験</title>
+<link>https://qiita.com/Heizo_Hasegawa/items/f45fcd3b2b006390dd84</link>
+<guid>945f846ce10aff9ba2e01a2a78183621f6e0efc122876a903035be3b75bbc8ea</guid>
+<pubDate>2026-09-23T14:05:55+09:00</pubDate>
+<description>●はじめに とある案件で、【PPPoE＋固定IP 8つ＋Fortigate】というものを扱うこととなりました。 PPPoE自体は通常のISPアクセス(まぁ、最近はIPoEばかりなのでしょうけれどもの)やFlets VPNWIDEでもおなじみなのですが、固定IP 8つとなる...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントを変えるたびに、ツールの接続設定をやり直していた</title>
-<link>https://qiita.com/beatapi/items/84caa5901993ff2909b3</link>
-<guid>994fe3c6b052017b5a0f2b1356e69617a8fd219b5ad4fe1e828f43fb04a5e2bb</guid>
-<pubDate>2026-09-23T10:04:18+09:00</pubDate>
-<description>普段の仕事では主にCodexを使っています。新しいものを試したいときは、OpenCodeを使うこともあります。 先日、OpenCodeでGrokの新しいモデルを試そうとしました。調査に使うSkillはすでにCodexで書いていたので、同じ仕事にそのまま使いたかったのです。 ...</description>
+<title>【Qiita】 前提は渡した。それでも、AIの判断はずれていく</title>
+<link>https://qiita.com/NaoyukiSakai/items/7cc4a4adec0f3dbeaa45</link>
+<guid>cad04704ee6276e6d4335c279a5f27a9295e02828ca88e9e5d9bf21b32ad5f72</guid>
+<pubDate>2026-09-23T15:25:15+09:00</pubDate>
+<description>整理してあるのに、話が変わる AIに資料を読ませ、分析してもらい、次の一手を考えてもらう。途中までは筋が通っていたのに、提案になったところで、最初に渡した前提が変わっている。 指摘すると直ります。でも、別の説明に新しい誤りが生まれる。こうなると、任せた仕事を進めるより、そ...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントの「できました」を疑うための実装 — 15日間気づかなかった配信失敗と、報告が嘘をつく4つの型</title>
-<link>https://qiita.com/BrainCommunity/items/f484f031636fb9753bb7</link>
-<guid>2ddac0b6a38346a9d7827c64e6ae3334c5a30b242244d777a4934c3772ec2360</guid>
-<pubDate>2026-09-23T09:49:58+09:00</pubDate>
-<description>AIエージェントの「できました」を疑うための実装 AIエージェントに実装を任せ、記録が残っている7月1日から12週間が経ちました。番号をつけて台帳に残した決定は707件あります（2026-09-23 時点）。そこから「機械が成功を名乗ったのに、実際には効いていなかった」ケ...</description>
+<title>【Qiita】 AgentCore Runtime V2 を試してみた</title>
+<link>https://qiita.com/musa_rock/items/cabde9a7cb6dd35e645f</link>
+<guid>67e52f269912ebdafeb38e7665f2537801ec8dbacd911235de083a335bfca643</guid>
+<pubDate>2026-09-23T15:24:42+09:00</pubDate>
+<description>2026 年 9 月 18 日に Amazon Bedrock AgentCore Runtime の platformVersion V2 がリリースされました。 V2 における変更内容を理解し、自作の AI エージェントで効果を実測してみました。 TL;DR V2 ...</description>
 </item>
 <item>
-<title>【Qiita】 「降水確率40%」は傘の答えにならない。雨雲レーダーのタイルを直接読んだ話【kurashi-skill Day 13】</title>
-<link>https://qiita.com/Ichiropen/items/be5cde20b89290a22fc5</link>
-<guid>09ac56eb0b0d6abb505f5a8aec83f1c7a68135ad403258edf32938ef606584fb</guid>
-<pubDate>2026-09-23T09:19:09+09:00</pubDate>
-<description>朝、ベランダの洗濯物を見て考える。天気予報は「降水確率40%」と言う。だが僕が知りたいのは確率じゃない。今、我が家の上空に雨雲があるのか、ないのか。あと30分でどうなるのかだ。 その答え、気象庁がタイル画像で公開していた。しかも気象庁はユーザー登録なしで機械可読な気象・防災...</description>
+<title>【Qiita】 GitHub の Issue にタスクを投稿すると Claude Code が PullRequest まで作ってくれるシステムを作った話</title>
+<link>https://qiita.com/archeleeds/items/1b437d0067ec832c88b1</link>
+<guid>918da86baaaacab2dfd248dcb95d3e612e188eb514cff30d65ee7d1836729cbe</guid>
+<pubDate>2026-09-23T15:24:37+09:00</pubDate>
+<description>ClaudeCodeやCodexを使っていて、「外出中の作業が出来ない時間が勿体ない」と思ったことはありませんか？ あるいは大したことがないタスクなのに時間だけはかかって、 手元のCloneしたリポジトリを長時間占有してしまう・・・みたいな状況に陥ることはありませんか？ そ...</description>
 </item>
 <item>
-<title>【Qiita】 科学者の2年分の仕事が数週間に？Anthropic「Claude Science」の正体とその代償</title>
-<link>https://qiita.com/kinamocchi_tech/items/41a9012d13031a07a96d</link>
-<guid>66c97e1951b171a9527f18519319b46b73ebc4f18f2ef2f074f1ff1a95c4d0bd</guid>
-<pubDate>2026-09-23T09:11:15+09:00</pubDate>
-<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → 科学者の2年分の仕事が数週間に？Anthropic「Claude Science」の正体とその代償 🐹🦜 この記事に登場する2匹 🐹 もっちー...</description>
+<title>【Qiita】 GPT-6 SolとClaude Opus 5.5が同日登場。価格と性能はどう変わったか</title>
+<link>https://qiita.com/iineineno03k/items/4faec738bfde68d92e8c</link>
+<guid>ed805ec6539f902c9f73a3923e71c99b85a9c4563eb86adf4f763f381ff26820</guid>
+<pubDate>2026-09-23T14:54:37+09:00</pubDate>
+<description>米国時間の2026年9月22日、OpenAIがGPT-6 Solを、AnthropicがClaude Opus 5.5を発表した。どちらもコーディングやエージェント作業を担う新モデルで、前世代よりAPI料金が安い。OpenAIの更新履歴・Anthropicの発表 API料...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>80c1ca0e74497254001aed3404d04a27db362d8cce1c5c6c8cbd1611dfd52ecc</guid>
+<pubDate>Wed, 23 Sep 2026 06:58:45 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>8d8d79074cd354e33125fffb9e867b07c160039e8fed27bb418cdb127d62c583</guid>
-<pubDate>Wed, 23 Sep 2026 01:35:17 GMT</pubDate>
-<description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
+<link>https://www.nature.com/articles/s41467-026-77887-1</link>
+<guid>624ae388e19ac5146b93cbddb256485a4728201badb84ad44faae402ae9b1de4</guid>
+<pubDate>Wed, 23 Sep 2026 06:58:48 GMT</pubDate>
+<description>Pathology remains central to clinical diagnosis, yet adoption of digital pathology is constrained by financial, operational, and workflow burdens of fully digital infrastructure. We introduce HistoCAM, a platform for ambient, real-time datafication and digitization of glass-slide microscopy that preserves microscope workflows. A 31-megapixel, high space-bandwidth-time-product camera and custom software application stream and composite the pathologist’s eyepiece view, passively generating multi-resolution images from 2X to 40X while recording magnification use, search paths, and dwell times. These outputs provide immediate workflow uplift through digital annotation, measurement, quality assurance, and real-time integration of configurable AI tools. Simultaneously, HistoCAM links image content with expert interaction data and supports rapid generation of annotated, pre-embedded training data during routine slide review. By converting routine microscopy into an AI-ready data stream without requiring additional acquisition steps, HistoCAM provides a practical bridge to computational pathology while creating process-aware datasets that capture how pathologists examine and interpret tiss</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>b6247334f02d68ed48793e16bc2ef31a30e3593fe8929aaac810ff2a5a16cd5e</guid>
-<pubDate>Wed, 23 Sep 2026 01:35:21 GMT</pubDate>
+<guid>6812a00379d2c86614ec69a7626a7de279851e02e2a24992db929ee45d4836f1</guid>
+<pubDate>Wed, 23 Sep 2026 06:58:50 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>0b4abb84a9a1ed445754161a017dc2d9b4f94bd6f7bee40727258c498e4dd274</guid>
-<pubDate>Wed, 23 Sep 2026 01:35:51 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>f2ed44cfa939e3470c53da30077ba9fd9f75f13368d0261d95e6b26fea957eb0</guid>
+<pubDate>Wed, 23 Sep 2026 06:58:53 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 
 </channel>
