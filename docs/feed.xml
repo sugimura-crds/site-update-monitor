@@ -4,176 +4,92 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 23 Sep 2026 17:36:24 GMT</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 20:53:07 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 第5回：UBI Microで中に入らない運用へ ― LibertyをOpenTelemetryで外から見る</title>
-<link>https://qiita.com/TSA2019/items/d0d77ba56c2aace61d1f</link>
-<guid>02c679dafa53a9a18c7debc0044737a3a8c8eef9aaaec0b534fc469dd9cd5977</guid>
-<pubDate>2026-09-23T23:54:05+09:00</pubDate>
-<description>はじめに 前回は、ping コマンドを呼び出すアプリを例に、UBI MicroでOSコマンド依存が表面化することを見ました。 UBI Microでは、本番コンテナに余計なOSコマンドを入れないことを目指します。 これはセキュリティ上は良い方向です。 一方で、これまでのよう...</description>
+<title>【Qiita】 生成AI を使ったら著作権侵害になる？ — 4 大リスクと対策を LLM のメカニズム・法務・補償条項から整理してみた</title>
+<link>https://qiita.com/songchong/items/7306e0b1a9207e08d86e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>c5df97393c627841023556bbb559f099394dabf946876900a0f364ed57fa228c</guid>
+<pubDate>2026-09-23T16:45:44+09:00</pubDate>
+<description>「生成 AI の出力は、単語を確率で並べ直した“新しい創作物”だから、他人の著作権を侵害することはない」 AI ツールを入れようとするとき、営業の場や社内の勉強会で、こうした説明を聞いたことがある方は多いと思います。 この記事では、この説明のどこまでが正しく、どこから先に...</description>
 </item>
 <item>
-<title>【Qiita】 第4回：pingアプリで体感するUBI Micro ― OSコマンド依存が表面化する瞬間</title>
-<link>https://qiita.com/TSA2019/items/a6c223b5a80cdc30e4f7</link>
-<guid>20f2e80d56b1afe10beff25231f4f5c868ad039a101fe4192adf174e01e13c40</guid>
-<pubDate>2026-09-23T23:53:02+09:00</pubDate>
-<description>はじめに 前回は、既存アプリや運用手順に残りやすいOS依存を棚卸ししました。 今回は、ping コマンドを使う簡単なアプリケーションを例に、UBI Microで何が起きるかを見ていきます。 この回の目的は、ping を使うアプリを作ることではありません。 目的は、次の4つ...</description>
+<title>【Qiita】 攻撃者の視点でセキュリティを理解したいエンジニアへ。bashで学ぶ侵入技術の実践書</title>
+<link>https://qiita.com/yasu1109/items/1002367721b1650fcdf3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>6b25955dca47fa610e19c8cecf7f2ce44fef3e9dbb8742190564a40079f2b5ce</guid>
+<pubDate>2026-09-23T08:56:43+09:00</pubDate>
+<description>脆弱性診断のレポートを読んでも、どういう手順で攻撃者がそこにたどり着くのか実感が湧かない。守る側の知識だけを積み上げていると、対策の優先順位を誤ってしまうことがある。『侵入技術入門 ―bashで学ぶ攻撃者の技法』は、あえて攻撃者の手順を追体験させることでその感覚のズレを埋め...</description>
 </item>
 <item>
-<title>【Qiita】 第3回：そのコマンド、本番コンテナに必要ですか？ UBI Microで見直すOS依存</title>
-<link>https://qiita.com/TSA2019/items/1ff001f3204392cc287a</link>
-<guid>c3967c7d35d56f1aaaff502e5e78cb3457577b99459a650a52c882774566a405</guid>
-<pubDate>2026-09-23T23:52:20+09:00</pubDate>
-<description>はじめに 前回は、OS部分とアプリケーション部分を分けて考えることの重要性を整理しました。 今回は、既存アプリや運用手順に残っている OS依存 を見ていきます。 UBI Microでは、ping、curl、ps、netstat、microdnf などが使える前提ではありま...</description>
+<title>【Qiita】 AIX環境へのClamAV導入手順</title>
+<link>https://qiita.com/Jun__Saito/items/cdbe7bbebd16673b1e7f</link>
+<guid>e987f607bf3dfdb3e7a73d9808d4beb568553415dfda0baf255d09096314ff55</guid>
+<pubDate>2026-09-24T02:39:54+09:00</pubDate>
+<description>はじめに AIX では、オープンソースのソフトウェアである ClamAV を用いてマルウェアのスキャンを行うことができます。 さらに、IBM PowerSC を活用することで、複数台の AIX LPAR に導入された ClamAV の定義ファイル更新状況やスキャンステータ...</description>
 </item>
 <item>
-<title>【Qiita】 第2回：OS部分とアプリ部分を分けて考える ― LibertyコンテナでCVE対応と確認範囲を整理する</title>
-<link>https://qiita.com/TSA2019/items/c29d88767d0833fa61f9</link>
-<guid>9f3c5f1865dbe8a1572a525ccaa9b6d555a65bf2edf0095a82eeb79c23b4d243</guid>
-<pubDate>2026-09-23T23:48:53+09:00</pubDate>
-<description>はじめに 第1回では、UBI Microを使う理由を次の2本柱で整理しました。 アプリが使っていないOSパッケージを減らし、CVE対応対象を小さくする 侵入後に攻撃者が使えるOS上の道具を減らす この2つを考える前提として、重要なのが OS部分とアプリ部分を分けて考え...</description>
+<title>【Qiita】 VisaのAI機会――決済データを「信頼の資産」に変える条件</title>
+<link>https://qiita.com/mhamadajp/items/e99a0672d74a63e7b54a</link>
+<guid>0e6a13b17bdcc3c06e5ad3ef34288621876a351b1de09441ad36d90c76b5f484</guid>
+<pubDate>2026-09-24T04:59:16+09:00</pubDate>
+<description>Visaが決済ネットワーク上のデータとAIを組み合わせ、加盟店や金融機関に新しい価値を提供しようとしている。これは単に「決済データをAIで分析して儲ける」という話ではない。 決済には、購入金額、時刻、加盟店、チャネル、承認・否認といった、取引に必要な情報が伴う。そのパターン...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeのプラグイン入門 ― 入れ方・消し方から自作・チーム配布まで、実機の画面で解説(2026年9月版)</title>
-<link>https://qiita.com/Takuya__/items/9b598deca3af832f609f</link>
-<guid>174bdf9a3032eb9ac00ebd6bb483da37eb34c426bf6364a39238a405a1075dba</guid>
-<pubDate>2026-09-24T01:16:49+09:00</pubDate>
-<description>はじめに:便利な設定、ほかの人にどうやって渡していますか? Claude Code を使い込んでいくと、手元にだんだん「自分なりの工夫」がたまっていきます。決まった手順を覚えさせたスキル、危ない操作を止めるフック、GitHub や社内ツールとつなぐ MCP サーバー……...</description>
+<title>【Qiita】 Cursor Cloud Agent の料金と仕組み — 追加課金ゼロのクレジット消費と使い分け判断基準</title>
+<link>https://qiita.com/DevMasatoman/items/4d6d6e10471cf76a4989</link>
+<guid>7f83a0b99d31f1d31f47b261355c987e6717cbaf78d1dfd52bbf24e5d8e8cbf4</guid>
+<pubDate>2026-09-24T04:14:59+09:00</pubDate>
+<description>「Cursor の Cloud Agent を使うと追加で課金される？」という疑問に直接答えます。 結論: Cloud Agent は追加料金ゼロ。 既存のプランクレジットプール（Pro なら $20/月）から消費されます。ただし、クラウド実行は環境プロビジョニングコストが...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Opus 5.5 vs Opus 5：回答は同じ、出力 token は半分</title>
-<link>https://qiita.com/Synthorai/items/ffb007c86981fcb9e39d</link>
-<guid>0df9f0fa0283a8039b4a16156d227aedb73b61a19bb2f3c8b7f5588acf84e0dc</guid>
-<pubDate>2026-09-24T01:13:51+09:00</pubDate>
-<description>この記事は Synthorai ブログの記事 Claude Opus 5.5 vs Opus 5：回答は同じ、出力 token は半分 の転載です。原文（多言語対応）はリンク先をご覧ください。 Claude Opus 5.5 の定価は Claude Opus 5 より...</description>
+<title>【Qiita】 VBAマネージャーのAIエージェント化、「棚撃ち式 Excelマネージャー」を Gemini に触らせてみたら、以前とは比べものにならないほど使い勝手が劇的に向上していた話</title>
+<link>https://qiita.com/shu15511551/items/7429e3b0615c4ae4b0c3</link>
+<guid>dbe1dfb882d73ce4f208a04b615f20376bf511084c29a2445d9b6ec20107ab64</guid>
+<pubDate>2026-09-24T03:12:54+09:00</pubDate>
+<description>はじめに 前回、Excelマネージャーの新しい運用についての記事を書きました。 長年現場で鍛えてきたマクロを「棚」として整理し、AI にゼロからコードを書かせるのではなく、棚から最適なマクロを選んで一撃で撃たせる。名付けて**「棚撃ち式 Excelマネージャー」**...</description>
 </item>
 <item>
-<title>【Qiita】 OfficeをAgent実行面に／Agentを高密度で休眠／動画をテキストで編集――今日のGitHub 3選</title>
-<link>https://qiita.com/tsuzuri_ai/items/b93f58538049c558551f</link>
-<guid>332317ed49287c1b88defe84563349eb1d6765529a767866db6697dea4bc882e</guid>
-<pubDate>2026-09-24T01:03:13+09:00</pubDate>
-<description>2026年9月24日時点で、今日見ておきたいGitHub Repositoryを3件だけ選びました。今回は「OfficeをAgentの作業面にする」「stateful Agentを高密度に動かす」「動画をframe列ではなく構造化情報として読む」の3方向です。 Re...</description>
-</item>
-<item>
-<title>【Qiita】 Google Cloudで考える、AI Agent時代のOntologyとGraph</title>
-<link>https://qiita.com/lvep/items/e420a6a405998ee7a7a9</link>
-<guid>e158e74db95ed0fce70c3ef717eba55215668f2bae8d3304e50d3dc8693800b4</guid>
-<pubDate>2026-09-24T00:30:12+09:00</pubDate>
-<description>はじめに AI Agentの活用が進むにつれ、単にデータを検索するだけでなく、データの意味や関係、業務上のコンテキストをAI Agentが捉えられることが重要になってくる。 例えばECサイトでは、以下のような関係が存在する。 「ある顧客が購入した商品のカテゴリ別売上...</description>
-</item>
-<item>
-<title>【Qiita】 Meta Muse内部構造徹底解剖：Secure VM、Sentinel権限ゲートキーパー、Amazon遮断の技術的背景【2026年深層分析】</title>
-<link>https://qiita.com/agdexai/items/6de645a91f5e1b176ee1</link>
-<guid>5397ca10db8b428e6a12e517ba41bd2f4ce34704d0a0c8664df6387bed188ceb</guid>
-<pubDate>2026-09-23T22:08:38+09:00</pubDate>
-<description>Meta Muse 内部構造徹底解剖：Muse Secure VM、Sentinel 権限ゲートキーパー、そして Amazon が即座に遮断した技術的背景（2026年深層分析） 2026年9月8日、Metaは航空券の手配、カレンダー調整、Webフォーム入力、商品購入などの...</description>
-</item>
-<item>
-<title>【農業】 The nitrogen costs of soil salinity</title>
-<link>https://www.nature.com/articles/s43016-026-01434-w</link>
-<guid>359c3d8ffe3fe0a43696a1ef20560fa5c44a0e4eb3bb0b0f9c8c5fda93fdac37</guid>
-<pubDate>2026-09-23</pubDate>
-<description>Soil salinization threatens crop production and carries additional costs through lower nitrogen-use efficiency and greater reactive-nitrogen losses, strengthening the need to manage soil, water and nutrients together.</description>
-</item>
-<item>
-<title>【農業】 Global structural fiscal food policy</title>
-<link>https://www.nature.com/articles/s43016-026-01441-x</link>
-<guid>9423ed7033f8007874a9c18aba3d270a361722c01b11ff3594e1d68c72af1506</guid>
-<pubDate>2026-09-23</pubDate>
-<description>Food-related taxes and subsidies can incentivize shifts towards more sustainable food systems. A modelling study estimates how a greenhouse gas tax would affect food consumption, considering the reallocation of demand and supply within and between countries.</description>
-</item>
-<item>
-<title>【農業】 Latest US dietary guidelines are projected to increase diet-related emissions</title>
-<link>https://www.nature.com/articles/s43016-026-01433-x</link>
-<guid>16cd2709b284d04db1fee758caacbb71fcd7e906190f7e0c104f0588821cef28</guid>
-<pubDate>2026-09-23</pubDate>
-<description>The most recent US dietary guidelines are projected to increase diet-related greenhouse gas emissions by 33%, largely due to higher protein recommendations. This diverges from international efforts to align dietary guidance with planetary health.</description>
-</item>
-<item>
-<title>【農業】 Global management of saline soils to boost crop yields and halve nitrogen losses</title>
-<link>https://www.nature.com/articles/s43016-026-01428-8</link>
-<guid>72450082188f6f7c67fadd114d20fc68681f138b12cc72ebca9c56d41615321a</guid>
-<pubDate>2026-09-23</pubDate>
-<description>Soil salinity reduces crop productivity and increases reactive nitrogen losses. A global nitrogen budget shows that saline soil management could improve yields, reduce pollution and generate economic benefits across various regions.</description>
-</item>
-<item>
-<title>【農業】 Hunger and malnutrition crises persist in Somalia as projected floods and funding shortfalls threaten vulnerable populations</title>
-<link>https://www.fao.org/newsroom/detail/hunger-and-malnutrition-crises-persist-in-somalia-as-projected-floods-and-funding-shortfalls-threaten-vulnerable-populations/en</link>
-<guid>ad64d1d12e6acf2d6a0950add3f83d1cd4560d7298debe3238363ab63128bf40</guid>
-<pubDate>Wed, 23 Sep 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【自動自律実験】 Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling</title>
-<link>https://www.nature.com/articles/s41586-026-11189-w</link>
-<guid>3f14af27acf2d4ac04b812ce4a05112681d4f5de906e724c0df0231ccc5230f0</guid>
-<pubDate>2026-09-23</pubDate>
-<description>Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling</description>
-</item>
-<item>
-<title>【自動自律実験】 Chiral oxazolidinones &lt;i&gt;via&lt;/i&gt; biocatalytic aziridination of unactivated alkenes</title>
-<link>https://www.nature.com/articles/s41586-026-11169-0</link>
-<guid>e61f8906baecdece5810fb791cc4ff4920f30413dff57a23e34542ecdbc0441c</guid>
-<pubDate>2026-09-23</pubDate>
-<description>Chiral oxazolidinones via biocatalytic aziridination of unactivated alkenes</description>
-</item>
-<item>
-<title>【自動自律実験】 Bank accounts reveal the fingerprints of abusive financial control</title>
-<link>https://www.nature.com/articles/d41586-026-03021-2</link>
-<guid>c53852abdfffb7adc73940c9259715467483967a689511e5c9f961fefcaaffe3</guid>
-<pubDate>2026-09-23</pubDate>
-<description>Analysis of anonymized banking data could help inform strategies to support victim-survivors of financial abuse — plus, how opposing forces within the Earth can alter the length of a day.</description>
-</item>
-<item>
-<title>【自動自律実験】 Competition heats up in the regenerative-medicine ranks</title>
-<link>https://www.nature.com/articles/d41586-026-02856-z</link>
-<guid>2ebf15d9531989489a69420065c856dd2a100b7f3d11a359ac555a7fad0bc972</guid>
-<pubDate>2026-09-23</pubDate>
-<description>The United States leads, but China poses strong competition, according to the latest Nature Index data.</description>
-</item>
-<item>
-<title>【自動自律実験】 Huge hoard of metal bars hints at vast Iron Age trade</title>
-<link>https://www.nature.com/articles/d41586-026-02986-4</link>
-<guid>665b0482310bf4166f82a7613d9e005abb3de1546935dca2b233689f6b809459</guid>
-<pubDate>2026-09-23</pubDate>
-<description>One-tonne cache of iron is the largest ever found — and enough to make roughly 500 swords.</description>
-</item>
-<item>
-<title>【Anthropic】 Introducing Claude Opus 5.5</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>7d4bfba3b400da1dce200bd0aa729cdc1e400668989f083ba72f2530f21e8c09</guid>
-<pubDate>Wed, 23 Sep 2026 17:34:51 GMT</pubDate>
-<description>Opus 5.5 performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5.</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>d099e06f2f7f8ef2d56dcfbb037612f3f116989e025f1ff5bc9ee4ff6ba988c2</guid>
+<pubDate>Wed, 23 Sep 2026 20:51:41 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77887-1</link>
-<guid>e953ed73a10a26e1e1edbf7f6055ef425e59f9e334e8dfdd69945ea0971c66df</guid>
-<pubDate>Wed, 23 Sep 2026 17:34:59 GMT</pubDate>
+<guid>6c8e077b4f548882adc1d505ad0110fddfcb62c7d22c81a2d28dfd47a95b8edd</guid>
+<pubDate>Wed, 23 Sep 2026 20:51:44 GMT</pubDate>
 <description>Pathology remains central to clinical diagnosis, yet adoption of digital pathology is constrained by financial, operational, and workflow burdens of fully digital infrastructure. We introduce HistoCAM, a platform for ambient, real-time datafication and digitization of glass-slide microscopy that preserves microscope workflows. A 31-megapixel, high space-bandwidth-time-product camera and custom software application stream and composite the pathologist’s eyepiece view, passively generating multi-resolution images from 2X to 40X while recording magnification use, search paths, and dwell times. These outputs provide immediate workflow uplift through digital annotation, measurement, quality assurance, and real-time integration of configurable AI tools. Simultaneously, HistoCAM links image content with expert interaction data and supports rapid generation of annotated, pre-embedded training data during routine slide review. By converting routine microscopy into an AI-ready data stream without requiring additional acquisition steps, HistoCAM provides a practical bridge to computational pathology while creating process-aware datasets that capture how pathologists examine and interpret tiss</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>2ba62144a6c5eb37a4e62f83ba765544ce25a5d9c237a9c8865fc7a5f8e3623f</guid>
-<pubDate>Wed, 23 Sep 2026 17:35:02 GMT</pubDate>
+<guid>aa14bf808ffc2eb361c263c974941a5727cd8b748249bbac36fc0211f0a66ff2</guid>
+<pubDate>Wed, 23 Sep 2026 20:51:47 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-69355-z</link>
+<guid>18fa7142679847cd20be29edf6bc5a05f6f8843bd3f15639d4302594521ace63</guid>
+<pubDate>Wed, 23 Sep 2026 20:51:49 GMT</pubDate>
+<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>bedb76da4400e41aa51d130e601eb20157c57bc9cac2a0c13735ccd38266d7e7</guid>
-<pubDate>Wed, 23 Sep 2026 17:36:07 GMT</pubDate>
+<guid>5a5c2b89fff327f3fb375ebc12f54ed6596f6588189a3a58e7671e0349df878b</guid>
+<pubDate>Wed, 23 Sep 2026 20:52:50 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 <item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>6b3cbfce1c6cbc862b1f6df689e1e8ff0312306a6e1af72ebd4b19de63ef0f0b</guid>
-<pubDate>Wed, 23 Sep 2026 17:36:08 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>7b25ab0bd82299188555409d3f656cc4c728934b809391c981ed67f20e2184da</guid>
+<pubDate>Wed, 23 Sep 2026 20:52:57 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
