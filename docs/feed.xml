@@ -4,77 +4,133 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 24 Sep 2026 06:56:54 GMT</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 12:28:41 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM i RiSING (若手技術者コミュニティ）2026年 公開資料まとめ</title>
-<link>https://qiita.com/gomAnomalocaris/items/6c381629f796e8536e9f</link>
-<guid>7288548730b242b5c2935af63becbd2f2e6332de39db0d9344583067a8c8e30c</guid>
-<pubDate>2026-09-24T13:34:29+09:00</pubDate>
-<description>aチーム：IBM i × 生成AI検証まとめ IBM Bob・Claude Code・Copilot比較 まとめページ：IBM i × 生成AI検証まとめ IBM Bob・Claude Code・Copilot比較 Qiita記事名 記事url ルールなしで...</description>
+<title>【Qiita】 MCP サーバーと繋いだだけで情報漏洩？ 危険の4パターンと事前に確認すべき7つのことをまとめてみた</title>
+<link>https://qiita.com/songchong/items/89175eaa7a30f71d0351?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>1a90f2debe6edc561b1547077fd0476169b0a8cf475e2ab3eeea32e10906a653</guid>
+<pubDate>2026-09-24T00:06:57+09:00</pubDate>
+<description>MCP（Model Context Protocol）を使うとき、利用者は Claude・Codex・Antigravity などの AI エージェントに頼めば（あるいは簡単な設定をすれば）、AI エージェントが MCP サーバーのツールを呼び出せるようになります。 簡単...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Cloud: Rackware RMM 7.7.4の新機能: AutoprovisionにおけるVNIサポートと、English Language Packなしでの移行サポート</title>
-<link>https://qiita.com/shiyasu/items/7aa42c6d17e7634079c3</link>
-<guid>9074f046811d3235f02e73a0fa43205af876e64f14b97c46912c2b5e51512f3e</guid>
-<pubDate>2026-09-24T13:13:20+09:00</pubDate>
-<description>はじめに IBM Cloudでは、Rackware RMM 7.7.4を選択できるようになりました。現時点では新機能に関する詳細なリリースノートは見当たらないため、機能の詳細についてはRackwareのサポートチームへお問い合わせいただくことをお勧めします。 本記事では、...</description>
+<title>【Qiita】 【AIツール37製品】社内AI の会話履歴は、上司や提供元が読めるか？いつまで残るか？ —「履歴を消した≠記録も消えた」5通りの残り方</title>
+<link>https://qiita.com/songchong/items/5aa4bc07279ea271909a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>d1ad841ba8e544c3890bc649ca4a0b234302f075f68600c310332851bc19732f</guid>
+<pubDate>2026-09-24T04:18:39+09:00</pubDate>
+<description>社内で生成 AI の利用ルールやセキュリティの規程を作るとき、必ずと言っていいほど聞かれる質問があります。 「入力した業務の内容は、あとから上司や会社の管理者、AI の提供元に読まれませんか？」 「画面から履歴を消せば大丈夫です」と答えているなら、それは半分しか合っていま...</description>
 </item>
 <item>
-<title>【Qiita】 生成AIで開発は速くなった。では、脆弱性管理は誰がやるのか？</title>
-<link>https://qiita.com/daihiraoka/items/42854d98723bf160b0c0</link>
-<guid>62b655e32ab68004ceac7fb1d89d4b0401974ba65289f2a09559c352e92ac6ac</guid>
-<pubDate>2026-09-24T10:46:58+09:00</pubDate>
-<description>はじめに コードを書く速度と確認する速度 ここ数年で、コードを書く環境が変わった。 生成AIアシスタントが開発フローに入り込み、コードの補完、依存パッケージの利用例、テストコードの骨格生成などを支援するようになった。 以前であれば自分で調べて追加していたライブラリも、生...</description>
+<title>【Qiita】 これであなたも雑談マスター</title>
+<link>https://qiita.com/imazatooo/items/599e317de305d18c41a1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>5431ce988850688192914e930e130682596dbba694ae84829b4ad9833ae16ee1</guid>
+<pubDate>2026-09-22T14:55:06+09:00</pubDate>
+<description>人を覚えるのが苦手。でも、人と話したい 私は、人を覚えるのが苦手です。 懇親会で自己紹介を聞いても、その人の名前と会社、取り組んでいることが、なかなか結び付きません。話してみたい気持ちはあるのに、「次に何を聞こう」と話題を探してしまいます。 初対面でも、仕事上どうしても話...</description>
 </item>
 <item>
-<title>【Qiita】 Jevの具体例と利用イメージ（議事録）</title>
-<link>https://qiita.com/fukazawa_deepR/items/dc106a2b7a9e484d064d</link>
-<guid>62bc65b6fe30c58081df296c9fa3f93d7e98a9cdcf94deb3fc3cb4f83e2530ed</guid>
-<pubDate>2026-09-24T14:53:41+09:00</pubDate>
-<description>最近、JevというLLMモデルが発表されました。 色々調べた結果、利用イメージが出来たので共有しておきます。 結論 既存のLLMが出来る以上のことが出来るわけではない AIエージェントを利用したアプリの開発（ワークフロー制御）に非常に有用 AIエージェントアプリのLLM...</description>
+<title>【Qiita】 REST API で IBM Concert への登録を自動化してみた</title>
+<link>https://qiita.com/daihiraoka/items/f8cea286ca736a186227</link>
+<guid>fa70fb8d399849aaa0597d1f3adee2f62acdf365fffd2a40e2f2d3c00d4dfc5b</guid>
+<pubDate>2026-09-24T20:14:21+09:00</pubDate>
+<description>はじめに 第1回: 生成AIで開発は速くなった。では、脆弱性管理は誰がやるのか？ 第2回: IBM Concert Protect でソフトウェア部品とリスクを可視化してみた 第3回: CodeQL・Trivy・SBOM変換スクリプトでセキュリティ成果物を生成してみた ...</description>
 </item>
 <item>
-<title>【Qiita】 エージェントが増えても怖くない！Google Cloud Agent Platform（旧Vertex AI）のガバナンス機能まとめ【2026年最新】</title>
-<link>https://qiita.com/a_tochi/items/ebade4875fe4f4286408</link>
-<guid>c73be7c819402129e15e10ce67a715cd8a543ea290c93e30270132b579f3deed</guid>
-<pubDate>2026-09-24T13:48:45+09:00</pubDate>
-<description>はじめに AIエージェントが社内で増えてくると、こんな悩みが出てきませんか？ どのエージェントが、どのデータやツールにアクセスしているのか分からない エージェントが想定外の操作をしないか不安 社内にどんなエージェントがあるのか、そもそも把握できていない エージェントが...</description>
+<title>【Qiita】 CodeQL・Trivy・SBOM変換スクリプトでセキュリティ成果物を生成してみた</title>
+<link>https://qiita.com/daihiraoka/items/d1cc7c5e8b4e6fe94bb6</link>
+<guid>14b902671ca1b2c5d528709e8523292bb40cb5adb29ccef41a9e53a8a1f01cbd</guid>
+<pubDate>2026-09-24T16:29:20+09:00</pubDate>
+<description>はじめに 第1回: 生成AIで開発は速くなった。では、脆弱性管理は誰がやるのか？ 第2回: IBM Concert Protect でソフトウェア部品とリスクを可視化してみた 第2回では、Package Risk・SAST Exposure・CVE Dashboard...</description>
 </item>
 <item>
-<title>【Qiita】 Google「agents-cli」とは？Claude Code・Codexを&quot;エージェント開発のプロ&quot;に変える公式ツールを解説</title>
-<link>https://qiita.com/a_tochi/items/8f552e7d5cb25217783c</link>
-<guid>34d3949dc54457c8f4c3d65ddca80a03ffbb38efcbd27e5eee9a0cff1c1536b7</guid>
-<pubDate>2026-09-24T13:44:46+09:00</pubDate>
-<description>はじめに 2026年4月のGoogle Cloud Next &#x27;26で、agents-cli（Agents CLI in Agent Platform） というツールが発表されました。 Gemini CLIのような「新しいコーディングエージェント」を想像しがちですが、ag...</description>
+<title>【Qiita】 IBM Concert Protect でソフトウェア部品とリスクを可視化してみた</title>
+<link>https://qiita.com/daihiraoka/items/86a28ab0404fa5f29b2f</link>
+<guid>a351513e1a8770591d77edc344124df0d15afc73f9539adf508bf6985da9f0c2</guid>
+<pubDate>2026-09-24T16:06:48+09:00</pubDate>
+<description>はじめに 第1回では、生成AIによってコードを書く速度が上がる一方、依存パッケージのリスクを継続的に把握する仕組みが追いついていないという問題を整理した。 コード生成が速くなったとしても、それだけでは安心できない。 依存ライブラリ、静的解析結果、既知脆弱性。それぞれの情報...</description>
 </item>
 <item>
-<title>【Qiita】 【番外編】服を脱げ！── GeminiのFlashが賢すぎたので取り調べした話</title>
-<link>https://qiita.com/shu15511551/items/3f5e4c10f19699add38d</link>
-<guid>24d974610040f91495b771d1ea2ce962198f65c47fbf0ae7ce03031cf4a1f99d</guid>
-<pubDate>2026-09-24T13:09:11+09:00</pubDate>
-<description>はじめに 三日前の夜に公開した記事が、ちょっとしたことになりました。 『言葉で頼んで AI 0回・約1秒、手順書をマクロに焼いたら日々の業務から AI が消えた話』 いつもは数十本に一本、現場の技術者が静かに頷いてくれるような地味な連載を続けている私のマイページで、...</description>
+<title>【Qiita】 Google・GitHub・Microsoftのマルチアカウントを実測したら、3社とも別解だった話（2026年版）</title>
+<link>https://qiita.com/ntaka329/items/52b356eeb51d3d14e5ef</link>
+<guid>ae90ec33ba106d1c96272b3b4cfd37075eb7413c3e99941fd27466849b31bac5</guid>
+<pubDate>2026-09-24T17:08:27+09:00</pubDate>
+<description>はじめに GMOコネクトの永田です。 前回の記事で、Googleのマルチアカウントを実測しました。管理者と利用者のアカウントを同時に、しかもそれぞれ複数タブで開きたい、という要件が出発点です。Googleは「いま誰として動いているか」をどこにも保存しておらず、URLだけで...</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>c5e8aeb81d7e772668da61808caedd596443c9c88b188ef5ef123d61ec8abdbb</guid>
-<pubDate>Thu, 24 Sep 2026 06:56:12 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 ローカル LLM で AI コーディング支援環境を構築する⑦ (Hugging Face モデル導入)</title>
+<link>https://qiita.com/koutaro_harada/items/f8ff9a1cdc34f89cc2ed</link>
+<guid>5902c9fe55bb0f05ad36e5d7a20c0274d274049391d4c9bff69c8e8cfb3c2c68</guid>
+<pubDate>2026-09-24T20:58:37+09:00</pubDate>
+<description>はじめに !!!!!! モデルおよびコードの利用は自己責任でお願いします !!!!! 本稿は「ローカル LLM で AI コーディング支援環境を構築する」シリーズの第⑦回です。今回は、Foundry Local に Hugging Face のモデルを導入する手順をお届...</description>
+</item>
+<item>
+<title>【Qiita】 コラム:「ト書き」と「掛け合い」の技法。ロールプレイにおける没入感の向上</title>
+<link>https://qiita.com/otoyo0318/items/67a7d34b63f4407a0493</link>
+<guid>16a1c37e8d558d7ddf1f7db2a4775e7eb0316b8ec75d5703751caf521af5c9ea</guid>
+<pubDate>2026-09-24T21:00:31+09:00</pubDate>
+<description>1. はじめに コラム：ペルソナプロンプトの箱庭設計とは では、箱庭設計を用いる事でLLMに自由に思考可能な空間を作りだすことを解説いたしました。 いわば世界観とパーソナリティの構築です。 今回はこの箱庭設計をさらに進めペルソナに肉体に相当する思考を付与し、ロールプレイ...</description>
+</item>
+<item>
+<title>【環境】 Carbon removal projects need to get justice right</title>
+<link>https://www.nature.com/articles/s41558-026-02739-1</link>
+<guid>634a2d311338e7ff7ed89e4a229f41664ec3c8b0df82cac8a7bb316016a095d8</guid>
+<pubDate>2026-09-24</pubDate>
+<description>Public support for carbon removal grows when people get a say and a share in the benefits, across diverse sociopolitical contexts. No amount of carbon removed can substitute for fair process and fair outcomes. Fairness must be designed into carbon removal governance from the start.</description>
+</item>
+<item>
+<title>【環境】 Public support for novel carbon removal hinges on procedural and distributive fairness</title>
+<link>https://www.nature.com/articles/s41558-026-02741-7</link>
+<guid>48e1c51c79c3075d2db899bc68f017629fe15c486b1e5d91bfa715582cb0b186</guid>
+<pubDate>2026-09-24</pubDate>
+<description>Public support is crucial for carbon removal deployment, yet the role of fairness remains unclear. Using surveys from six countries (N = 10,852), this study shows that procedural and distributive fairness are key determinants of support for carbon removal projects across diverse contexts.</description>
+</item>
+<item>
+<title>【環境】 The impact of financing cost differences on global energy and industry decarbonization</title>
+<link>https://www.nature.com/articles/s41558-026-02756-0</link>
+<guid>558c653b38cc682e7b0be7f938f7117de86304a9c9d724ebfccb5147224c5b10</guid>
+<pubDate>2026-09-24</pubDate>
+<description>Financing costs vary widely across countries and sectors, influencing the feasibility of global decarbonization. This research shows that accounting for these differences increases mitigation costs and shifts investment patterns, highlighting the need for broader climate finance.</description>
+</item>
+<item>
+<title>【環境】 Asymmetric Mo–Ni atom pairs enable scalable water oxidation at industrial current densities</title>
+<link>https://www.nature.com/articles/s41893-026-01942-4</link>
+<guid>1139b96a4f73a5ee3abb04b0b293e2038d2e8d3c579a92bc13cf27ed317825b3</guid>
+<pubDate>2026-09-24</pubDate>
+<description>Alkaline water electrolysis offers a promising pathway for green hydrogen production, but the anodic oxygen evolution reaction remains a performance bottleneck. Here the authors develop a nickel-based catalyst featuring asymmetric Mo–Ni atom pairs that enable highly stable, scalable water oxidation at indust</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>26f3e0255faa91f91ce020a7c699005d8069e1bce55b71dc28497f506c6dafde</guid>
-<pubDate>Thu, 24 Sep 2026 06:56:14 GMT</pubDate>
+<guid>bd07124cece33fffc08e5468910f82e1bcb23b5c960ad6dfc17b1d4ab47f5227</guid>
+<pubDate>Thu, 24 Sep 2026 12:27:28 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>03d9006a429435e3a2d584f78c336cc08fea8d55ff1d4e99e4c1c8540f35c6e8</guid>
-<pubDate>Thu, 24 Sep 2026 06:56:16 GMT</pubDate>
+<guid>259b89765be6019081f4df15b7207699396bfc1a4ccbce6e55cfa2d1534f63e6</guid>
+<pubDate>Thu, 24 Sep 2026 12:27:30 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【U.S.】 Hops and Jumps Help Lithium Ions Flow Faster in a Solid-state Battery Material</title>
+<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
+<guid>fcab5181c2cadbdbd4bfc543a3556f1093816d49571a5f440d7250d860d77db3</guid>
+<pubDate>Thu, 24 Sep 2026 12:27:40 GMT</pubDate>
+<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
+</item>
+<item>
+<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
+<link>https://www.eurohpc-ju.europa.eu/index_en</link>
+<guid>0d96317a70acb4b982867fd238c3d8fca33c9638cbc8359379bbd3a525870feb</guid>
+<pubDate>Thu, 24 Sep 2026 12:27:48 GMT</pubDate>
+<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
+</item>
+<item>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>c4c2109b900db3d43f15541a6b4a7408298dc3e9b821b94ed7086df7eafbb152</guid>
+<pubDate>Thu, 24 Sep 2026 12:28:30 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
