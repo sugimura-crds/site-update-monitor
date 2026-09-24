@@ -4,133 +4,119 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 24 Sep 2026 12:28:41 GMT</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 17:27:02 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 MCP サーバーと繋いだだけで情報漏洩？ 危険の4パターンと事前に確認すべき7つのことをまとめてみた</title>
-<link>https://qiita.com/songchong/items/89175eaa7a30f71d0351?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>1a90f2debe6edc561b1547077fd0476169b0a8cf475e2ab3eeea32e10906a653</guid>
-<pubDate>2026-09-24T00:06:57+09:00</pubDate>
-<description>MCP（Model Context Protocol）を使うとき、利用者は Claude・Codex・Antigravity などの AI エージェントに頼めば（あるいは簡単な設定をすれば）、AI エージェントが MCP サーバーのツールを呼び出せるようになります。 簡単...</description>
+<title>【Qiita】 HashiCorp Vault PKI External CA機能でDNS-01チャレンジ - Vault 2.1新機能</title>
+<link>https://qiita.com/fitz/items/dc812b53fd626a413f67</link>
+<guid>a20f5a383c6be0059cb98e8c7b8b65be73f6336726bb785f8c6416f470a697d3</guid>
+<pubDate>2026-09-24T23:45:22+09:00</pubDate>
+<description>1. はじめに 本記事は、HashiCorp Vault 2.1で追加されたDNS-01チャレンジ対応をこれから実装する人向けに、実機で検証した内容を整理したものです。前作「IBM Bobで実装しながら理解する：HashiCorp Vault PKI External...</description>
 </item>
 <item>
-<title>【Qiita】 【AIツール37製品】社内AI の会話履歴は、上司や提供元が読めるか？いつまで残るか？ —「履歴を消した≠記録も消えた」5通りの残り方</title>
-<link>https://qiita.com/songchong/items/5aa4bc07279ea271909a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>d1ad841ba8e544c3890bc649ca4a0b234302f075f68600c310332851bc19732f</guid>
-<pubDate>2026-09-24T04:18:39+09:00</pubDate>
-<description>社内で生成 AI の利用ルールやセキュリティの規程を作るとき、必ずと言っていいほど聞かれる質問があります。 「入力した業務の内容は、あとから上司や会社の管理者、AI の提供元に読まれませんか？」 「画面から履歴を消せば大丈夫です」と答えているなら、それは半分しか合っていま...</description>
+<title>【Qiita】 AIデザインを検査／Agentツールを1トークン化／鳥の声を絵にする――今日のGitHub 3選</title>
+<link>https://qiita.com/tsuzuri_ai/items/505480601ef6d8469e03</link>
+<guid>3ecff5d61e8cdeda36da8c51b9a491f36c8dfda299e6e47a0d5c31e81bdf23e7</guid>
+<pubDate>2026-09-25T01:01:18+09:00</pubDate>
+<description>2026年9月25日時点で、今日見ておきたいGitHub Repositoryを3件だけ選びました。今回は「AI生成UIの品質を上げる」「AgentのTool accessをまとめる」「local AIを物理空間へ出す」の3方向です。 Repository 何これ？...</description>
 </item>
 <item>
-<title>【Qiita】 これであなたも雑談マスター</title>
-<link>https://qiita.com/imazatooo/items/599e317de305d18c41a1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>5431ce988850688192914e930e130682596dbba694ae84829b4ad9833ae16ee1</guid>
-<pubDate>2026-09-22T14:55:06+09:00</pubDate>
-<description>人を覚えるのが苦手。でも、人と話したい 私は、人を覚えるのが苦手です。 懇親会で自己紹介を聞いても、その人の名前と会社、取り組んでいることが、なかなか結び付きません。話してみたい気持ちはあるのに、「次に何を聞こう」と話題を探してしまいます。 初対面でも、仕事上どうしても話...</description>
+<title>【Qiita】 Jev の公開応用 11 例から判断レイヤーの実装パターンを整理する</title>
+<link>https://qiita.com/ynakayama/items/da76f72e238e2242a9ed</link>
+<guid>e0110b154bed8dc833a9acb67aedd6013c89c41858e34f83a8a12da0e749cfab</guid>
+<pubDate>2026-09-25T00:05:02+09:00</pubDate>
+<description>Jev の公開応用例をサンプルコードで横断する 2026 年 9 月 15 日に TypeSafe AI が公開した Jev は、文章を生成するモデルではなく、与えられた状態に対して型付きの確率的判断を返す System One Model として位置付けられています[1...</description>
 </item>
 <item>
-<title>【Qiita】 REST API で IBM Concert への登録を自動化してみた</title>
-<link>https://qiita.com/daihiraoka/items/f8cea286ca736a186227</link>
-<guid>fa70fb8d399849aaa0597d1f3adee2f62acdf365fffd2a40e2f2d3c00d4dfc5b</guid>
-<pubDate>2026-09-24T20:14:21+09:00</pubDate>
-<description>はじめに 第1回: 生成AIで開発は速くなった。では、脆弱性管理は誰がやるのか？ 第2回: IBM Concert Protect でソフトウェア部品とリスクを可視化してみた 第3回: CodeQL・Trivy・SBOM変換スクリプトでセキュリティ成果物を生成してみた ...</description>
+<title>【Qiita】 Codex CLI 0.156を実機で全部試した：フルスクリーン・/usage・音声会話・ワークツリー、GPT-6 Sol/Lunaまで</title>
+<link>https://qiita.com/Takuya__/items/d6dc3f876c9516417c4a</link>
+<guid>386663a7ad075a988e4e2f69d5edd31d8aecceb847dd627c60d639f9a6edd3de</guid>
+<pubDate>2026-09-24T23:46:08+09:00</pubDate>
+<description>はじめに 「新しいバージョンが出たらしいけれど、結局なにが変わって、どれを使えば得をするのか分からない」。AIコーディングツールを毎日使っていると、こうした状態になりがちです。更新内容の一覧を読んでも、実際に触らないと使いどころは見えてきません。 OpenAIのターミナ...</description>
 </item>
 <item>
-<title>【Qiita】 CodeQL・Trivy・SBOM変換スクリプトでセキュリティ成果物を生成してみた</title>
-<link>https://qiita.com/daihiraoka/items/d1cc7c5e8b4e6fe94bb6</link>
-<guid>14b902671ca1b2c5d528709e8523292bb40cb5adb29ccef41a9e53a8a1f01cbd</guid>
-<pubDate>2026-09-24T16:29:20+09:00</pubDate>
-<description>はじめに 第1回: 生成AIで開発は速くなった。では、脆弱性管理は誰がやるのか？ 第2回: IBM Concert Protect でソフトウェア部品とリスクを可視化してみた 第2回では、Package Risk・SAST Exposure・CVE Dashboard...</description>
+<title>【Qiita】 居住地のために東京の駅周辺を分析するAIチャットボットを作った</title>
+<link>https://qiita.com/jungyeounjae/items/8e08c1b46448b64ff298</link>
+<guid>71d9aa175fc941fc1f370aa861c30ba3bd73853b052ae822444185dee4279ed5</guid>
+<pubDate>2026-09-24T22:31:54+09:00</pubDate>
+<description>東京の駅周辺を韓国人目線で分析するAIチャットボットを作った話 1. なぜ作ったのか 私はまもなく結婚を控えています。そして結婚とともに自然に浮かんできた問いが 一つありました——「東京のどこに住むべきか」。 東京で新居を探すのに必要な情報が、あちこちに散らばっていまし...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Concert Protect でソフトウェア部品とリスクを可視化してみた</title>
-<link>https://qiita.com/daihiraoka/items/86a28ab0404fa5f29b2f</link>
-<guid>a351513e1a8770591d77edc344124df0d15afc73f9539adf508bf6985da9f0c2</guid>
-<pubDate>2026-09-24T16:06:48+09:00</pubDate>
-<description>はじめに 第1回では、生成AIによってコードを書く速度が上がる一方、依存パッケージのリスクを継続的に把握する仕組みが追いついていないという問題を整理した。 コード生成が速くなったとしても、それだけでは安心できない。 依存ライブラリ、静的解析結果、既知脆弱性。それぞれの情報...</description>
-</item>
-<item>
-<title>【Qiita】 Google・GitHub・Microsoftのマルチアカウントを実測したら、3社とも別解だった話（2026年版）</title>
-<link>https://qiita.com/ntaka329/items/52b356eeb51d3d14e5ef</link>
-<guid>ae90ec33ba106d1c96272b3b4cfd37075eb7413c3e99941fd27466849b31bac5</guid>
-<pubDate>2026-09-24T17:08:27+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 前回の記事で、Googleのマルチアカウントを実測しました。管理者と利用者のアカウントを同時に、しかもそれぞれ複数タブで開きたい、という要件が出発点です。Googleは「いま誰として動いているか」をどこにも保存しておらず、URLだけで...</description>
-</item>
-<item>
-<title>【Qiita】 ローカル LLM で AI コーディング支援環境を構築する⑦ (Hugging Face モデル導入)</title>
-<link>https://qiita.com/koutaro_harada/items/f8ff9a1cdc34f89cc2ed</link>
-<guid>5902c9fe55bb0f05ad36e5d7a20c0274d274049391d4c9bff69c8e8cfb3c2c68</guid>
-<pubDate>2026-09-24T20:58:37+09:00</pubDate>
-<description>はじめに !!!!!! モデルおよびコードの利用は自己責任でお願いします !!!!! 本稿は「ローカル LLM で AI コーディング支援環境を構築する」シリーズの第⑦回です。今回は、Foundry Local に Hugging Face のモデルを導入する手順をお届...</description>
-</item>
-<item>
-<title>【Qiita】 コラム:「ト書き」と「掛け合い」の技法。ロールプレイにおける没入感の向上</title>
-<link>https://qiita.com/otoyo0318/items/67a7d34b63f4407a0493</link>
-<guid>16a1c37e8d558d7ddf1f7db2a4775e7eb0316b8ec75d5703751caf521af5c9ea</guid>
-<pubDate>2026-09-24T21:00:31+09:00</pubDate>
-<description>1. はじめに コラム：ペルソナプロンプトの箱庭設計とは では、箱庭設計を用いる事でLLMに自由に思考可能な空間を作りだすことを解説いたしました。 いわば世界観とパーソナリティの構築です。 今回はこの箱庭設計をさらに進めペルソナに肉体に相当する思考を付与し、ロールプレイ...</description>
-</item>
-<item>
-<title>【環境】 Carbon removal projects need to get justice right</title>
-<link>https://www.nature.com/articles/s41558-026-02739-1</link>
-<guid>634a2d311338e7ff7ed89e4a229f41664ec3c8b0df82cac8a7bb316016a095d8</guid>
+<title>【自動自律実験】 Bumblebees don’t mind a little plastic in their honeypots</title>
+<link>https://www.nature.com/articles/d41586-026-02988-2</link>
+<guid>42b818a9e3d91ae8d9fb886a0f2e004d8760305fe10f668d1a4271dc63e77655</guid>
 <pubDate>2026-09-24</pubDate>
-<description>Public support for carbon removal grows when people get a say and a share in the benefits, across diverse sociopolitical contexts. No amount of carbon removed can substitute for fair process and fair outcomes. Fairness must be designed into carbon removal governance from the start.</description>
+<description>Insects show off their adaptability by incorporating unfamiliar construction materials to build honey-storage vessels.</description>
 </item>
 <item>
-<title>【環境】 Public support for novel carbon removal hinges on procedural and distributive fairness</title>
-<link>https://www.nature.com/articles/s41558-026-02741-7</link>
-<guid>48e1c51c79c3075d2db899bc68f017629fe15c486b1e5d91bfa715582cb0b186</guid>
+<title>【自動自律実験】 Youthful fans of YouTube sports videos stick to the sofa</title>
+<link>https://www.nature.com/articles/d41586-026-02989-1</link>
+<guid>556c1633e1fe52b369584731cce891b260c6c5a82f8c23d79ea3f1a07a91dd80</guid>
 <pubDate>2026-09-24</pubDate>
-<description>Public support is crucial for carbon removal deployment, yet the role of fairness remains unclear. Using surveys from six countries (N = 10,852), this study shows that procedural and distributive fairness are key determinants of support for carbon removal projects across diverse contexts.</description>
+<description>University students who are highly motivated to watch sports online do not report higher participation in exercise.</description>
 </item>
 <item>
-<title>【環境】 The impact of financing cost differences on global energy and industry decarbonization</title>
-<link>https://www.nature.com/articles/s41558-026-02756-0</link>
-<guid>558c653b38cc682e7b0be7f938f7117de86304a9c9d724ebfccb5147224c5b10</guid>
+<title>【自動自律実験】 AI system helps lab devices ‘talk’ with each other — streamlining research</title>
+<link>https://www.nature.com/articles/d41586-026-02990-8</link>
+<guid>e7f02cab54555aa5d57c03ab1d0b5bed788c412a55c7efbc6f912432a887af00</guid>
 <pubDate>2026-09-24</pubDate>
-<description>Financing costs vary widely across countries and sectors, influencing the feasibility of global decarbonization. This research shows that accounting for these differences increases mitigation costs and shifts investment patterns, highlighting the need for broader climate finance.</description>
+<description>Platform allows disparate machines to communicate and to be controlled by an artificial-intelligence agent.</description>
 </item>
 <item>
-<title>【環境】 Asymmetric Mo–Ni atom pairs enable scalable water oxidation at industrial current densities</title>
-<link>https://www.nature.com/articles/s41893-026-01942-4</link>
-<guid>1139b96a4f73a5ee3abb04b0b293e2038d2e8d3c579a92bc13cf27ed317825b3</guid>
+<title>【自動自律実験】 AI agent hacks government website for first time: why this breach matters</title>
+<link>https://www.nature.com/articles/d41586-026-03024-z</link>
+<guid>dcd18f5671b2a572753ff4fb9c228d1280aa789dcc2692959f2052946eca4701</guid>
 <pubDate>2026-09-24</pubDate>
-<description>Alkaline water electrolysis offers a promising pathway for green hydrogen production, but the anodic oxygen evolution reaction remains a performance bottleneck. Here the authors develop a nickel-based catalyst featuring asymmetric Mo–Ni atom pairs that enable highly stable, scalable water oxidation at indust</description>
+<description>An OpenAI agent accessed secure data on an Australian health-care website, but the incident wasn’t reported for months.</description>
+</item>
+<item>
+<title>【自動自律実験】 AlphaFold &#x27;goes viral&#x27;: database adds protein complexes of common viruses</title>
+<link>https://www.nature.com/articles/d41586-026-03022-1</link>
+<guid>9baf54754c0e77fcddee1d93aceed2deb13bc5413e311779f6e15195595da73d</guid>
+<pubDate>2026-09-24</pubDate>
+<description>AI predictions could help with pandemic preparedness, but they will need experimental confirmation.</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>a7cee13fe2dd119ebaaee688d1d21d48e817a64ac302bd8558caa2bd17ba6d30</guid>
+<pubDate>Thu, 24 Sep 2026 17:25:53 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overall shape cl</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>bd07124cece33fffc08e5468910f82e1bcb23b5c960ad6dfc17b1d4ab47f5227</guid>
-<pubDate>Thu, 24 Sep 2026 12:27:28 GMT</pubDate>
+<guid>8b15f2758a15be5391b7901bcd2a39e231278bd00b96341dca1460eb9f3a243f</guid>
+<pubDate>Thu, 24 Sep 2026 17:25:56 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>259b89765be6019081f4df15b7207699396bfc1a4ccbce6e55cfa2d1534f63e6</guid>
-<pubDate>Thu, 24 Sep 2026 12:27:30 GMT</pubDate>
+<guid>3c8984a979ddc8b0dcd38451d3f41e6d0b796272272422b3fa9c4c12ce3c777c</guid>
+<pubDate>Thu, 24 Sep 2026 17:25:58 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【U.S.】 Hops and Jumps Help Lithium Ions Flow Faster in a Solid-state Battery Material</title>
-<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
-<guid>fcab5181c2cadbdbd4bfc543a3556f1093816d49571a5f440d7250d860d77db3</guid>
-<pubDate>Thu, 24 Sep 2026 12:27:40 GMT</pubDate>
-<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>dc50bca8d3468ddca8ba547b8e42857e21f9063632d34278d3e13728668291d0</guid>
+<pubDate>Thu, 24 Sep 2026 17:26:03 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 <item>
-<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
-<link>https://www.eurohpc-ju.europa.eu/index_en</link>
-<guid>0d96317a70acb4b982867fd238c3d8fca33c9638cbc8359379bbd3a525870feb</guid>
-<pubDate>Thu, 24 Sep 2026 12:27:48 GMT</pubDate>
-<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
+<title>【U.S.】 Suggested Matches</title>
+<link>https://www.energy.gov/search?keywords=%22Genesis%20Mission%22</link>
+<guid>6ed3f4b5f906244d68ec663bcfeba164d914d698e62c52fe63dcb7a81a7e08f9</guid>
+<pubDate>Thu, 24 Sep 2026 17:26:10 GMT</pubDate>
+<description>… Genesis Mission National labs, industry, and academia Unites partners …</description>
 </item>
 <item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>c4c2109b900db3d43f15541a6b4a7408298dc3e9b821b94ed7086df7eafbb152</guid>
-<pubDate>Thu, 24 Sep 2026 12:28:30 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>33e6e7c60aabca41d667e36907e114c1a8502fbd017bab5592fb73005d796cb2</guid>
+<pubDate>Thu, 24 Sep 2026 17:26:45 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
