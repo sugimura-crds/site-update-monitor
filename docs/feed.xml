@@ -4,119 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 24 Sep 2026 17:27:02 GMT</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 20:37:50 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 HashiCorp Vault PKI External CA機能でDNS-01チャレンジ - Vault 2.1新機能</title>
-<link>https://qiita.com/fitz/items/dc812b53fd626a413f67</link>
-<guid>a20f5a383c6be0059cb98e8c7b8b65be73f6336726bb785f8c6416f470a697d3</guid>
-<pubDate>2026-09-24T23:45:22+09:00</pubDate>
-<description>1. はじめに 本記事は、HashiCorp Vault 2.1で追加されたDNS-01チャレンジ対応をこれから実装する人向けに、実機で検証した内容を整理したものです。前作「IBM Bobで実装しながら理解する：HashiCorp Vault PKI External...</description>
+<title>【Qiita】 OpenAI APIキーをOCI VaultとResource PrincipalでセキュアにしてSelect AIしてみてみた</title>
+<link>https://qiita.com/shirok/items/a5f34349c0b6ba8f3f62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>62f499d7e79d9957b19f52c3748da7c0dc73d85afdfecbc9f3990b998472234e</guid>
+<pubDate>2026-09-24T06:54:03+09:00</pubDate>
+<description>以前、Autonomous AI DatabaseのSelect AIからOpenAI APIを呼び出し、自然言語でデータベースへ問い合わせてみました。 OpenAI APIを使用して自然言語でSelect AIしてみてみた 前回は、OpenAI APIを使ってSe...</description>
 </item>
 <item>
-<title>【Qiita】 AIデザインを検査／Agentツールを1トークン化／鳥の声を絵にする――今日のGitHub 3選</title>
-<link>https://qiita.com/tsuzuri_ai/items/505480601ef6d8469e03</link>
-<guid>3ecff5d61e8cdeda36da8c51b9a491f36c8dfda299e6e47a0d5c31e81bdf23e7</guid>
-<pubDate>2026-09-25T01:01:18+09:00</pubDate>
-<description>2026年9月25日時点で、今日見ておきたいGitHub Repositoryを3件だけ選びました。今回は「AI生成UIの品質を上げる」「AgentのTool accessをまとめる」「local AIを物理空間へ出す」の3方向です。 Repository 何これ？...</description>
+<title>【Qiita】 「なぜか読まれない文章」の正体をSudachiPyで解析したら「漢字率」のゴールデンルールが見えてきた話</title>
+<link>https://qiita.com/taihong/items/e8cf442b5ace978e22b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>a9ca7d67889025ae74482636f3b43dfe7110a126ed7f8aa95a88d4dc4a45696b</guid>
+<pubDate>2026-09-22T13:23:52+09:00</pubDate>
+<description>ブログ、Zenn/Qiitaの技術記事、あるいは社内ドキュメントにおいて、「内容は良いのになぜか離脱される」「文章が重く見える」という課題が発生することがあります。 この原因の多くは「文字種構成比（Kanji Ratio / Character Type Distribut...</description>
 </item>
 <item>
-<title>【Qiita】 Jev の公開応用 11 例から判断レイヤーの実装パターンを整理する</title>
-<link>https://qiita.com/ynakayama/items/da76f72e238e2242a9ed</link>
-<guid>e0110b154bed8dc833a9acb67aedd6013c89c41858e34f83a8a12da0e749cfab</guid>
-<pubDate>2026-09-25T00:05:02+09:00</pubDate>
-<description>Jev の公開応用例をサンプルコードで横断する 2026 年 9 月 15 日に TypeSafe AI が公開した Jev は、文章を生成するモデルではなく、与えられた状態に対して型付きの確率的判断を返す System One Model として位置付けられています[1...</description>
+<title>【Qiita】 服を脱げ！ Opus！、棚撃ち式 Excelマネージャー公開で大事件が発生した話</title>
+<link>https://qiita.com/shu15511551/items/48d5cd7346086bd1582b</link>
+<guid>1eb9edeff5519daf2119c0388626c7fc76bf9c7262c73ee876fa8c43b88ecac5</guid>
+<pubDate>2026-09-25T04:58:06+09:00</pubDate>
+<description>はじめに 先日公開した記事が、ちょっとしたことになりました。 『言葉で頼んで AI 0回・約1秒、手順書をマクロに焼いたら日々の業務から AI が消えた話』 公開からわずかな期間で 七千四百回以上（7,400 views） も読まれました。 世の中では「AI に E...</description>
 </item>
 <item>
-<title>【Qiita】 Codex CLI 0.156を実機で全部試した：フルスクリーン・/usage・音声会話・ワークツリー、GPT-6 Sol/Lunaまで</title>
-<link>https://qiita.com/Takuya__/items/d6dc3f876c9516417c4a</link>
-<guid>386663a7ad075a988e4e2f69d5edd31d8aecceb847dd627c60d639f9a6edd3de</guid>
-<pubDate>2026-09-24T23:46:08+09:00</pubDate>
-<description>はじめに 「新しいバージョンが出たらしいけれど、結局なにが変わって、どれを使えば得をするのか分からない」。AIコーディングツールを毎日使っていると、こうした状態になりがちです。更新内容の一覧を読んでも、実際に触らないと使いどころは見えてきません。 OpenAIのターミナ...</description>
+<title>【Qiita】 サイバー攻撃は「AI対AI」の時代へ――人の判断を残し、マシンスピードで守るSOCの設計</title>
+<link>https://qiita.com/mhamadajp/items/6ea3b8ebdc9a701abf77</link>
+<guid>1522b4640d4e573be9a12f6bd9d6fab0cafef4da3e1a6afdabd52906d4d0fbcc</guid>
+<pubDate>2026-09-25T04:16:51+09:00</pubDate>
+<description>「AIが攻撃にも防御にも使われる」と聞くと、映画のようにAI同士が自動で戦い、人間が不要になる場面を想像しがちです。 けれど、いま起きている変化の本質は少し違います。攻撃者の調査・試行・移動が速くなり、人だけでアラートを読み、会議を開き、対応を決める運用では間に合わない場面...</description>
 </item>
 <item>
-<title>【Qiita】 居住地のために東京の駅周辺を分析するAIチャットボットを作った</title>
-<link>https://qiita.com/jungyeounjae/items/8e08c1b46448b64ff298</link>
-<guid>71d9aa175fc941fc1f370aa861c30ba3bd73853b052ae822444185dee4279ed5</guid>
-<pubDate>2026-09-24T22:31:54+09:00</pubDate>
-<description>東京の駅周辺を韓国人目線で分析するAIチャットボットを作った話 1. なぜ作ったのか 私はまもなく結婚を控えています。そして結婚とともに自然に浮かんできた問いが 一つありました——「東京のどこに住むべきか」。 東京で新居を探すのに必要な情報が、あちこちに散らばっていまし...</description>
+<title>【Qiita】 `/claude-api prompt-audit` とは？ 古いモデル向けプロンプトの「残骸」を見つけるコマンド</title>
+<link>https://qiita.com/leomarokun/items/e7f6ba14c386bd3ae981</link>
+<guid>5cbcf54b140139e27d4fc99c37d77dde4c25383cdfd760f3106d0c1c438b06d2</guid>
+<pubDate>2026-09-25T03:53:18+09:00</pubDate>
+<description>はじめに Claude Code に同梱の claude-api スキルには、/claude-api prompt-audit というサブコマンドがあります。 同梱ドキュメント（shared/prompt-audit.md）を読んで、要点を整理してみます。 /clau...</description>
 </item>
 <item>
-<title>【自動自律実験】 Bumblebees don’t mind a little plastic in their honeypots</title>
-<link>https://www.nature.com/articles/d41586-026-02988-2</link>
-<guid>42b818a9e3d91ae8d9fb886a0f2e004d8760305fe10f668d1a4271dc63e77655</guid>
-<pubDate>2026-09-24</pubDate>
-<description>Insects show off their adaptability by incorporating unfamiliar construction materials to build honey-storage vessels.</description>
-</item>
-<item>
-<title>【自動自律実験】 Youthful fans of YouTube sports videos stick to the sofa</title>
-<link>https://www.nature.com/articles/d41586-026-02989-1</link>
-<guid>556c1633e1fe52b369584731cce891b260c6c5a82f8c23d79ea3f1a07a91dd80</guid>
-<pubDate>2026-09-24</pubDate>
-<description>University students who are highly motivated to watch sports online do not report higher participation in exercise.</description>
-</item>
-<item>
-<title>【自動自律実験】 AI system helps lab devices ‘talk’ with each other — streamlining research</title>
-<link>https://www.nature.com/articles/d41586-026-02990-8</link>
-<guid>e7f02cab54555aa5d57c03ab1d0b5bed788c412a55c7efbc6f912432a887af00</guid>
-<pubDate>2026-09-24</pubDate>
-<description>Platform allows disparate machines to communicate and to be controlled by an artificial-intelligence agent.</description>
-</item>
-<item>
-<title>【自動自律実験】 AI agent hacks government website for first time: why this breach matters</title>
-<link>https://www.nature.com/articles/d41586-026-03024-z</link>
-<guid>dcd18f5671b2a572753ff4fb9c228d1280aa789dcc2692959f2052946eca4701</guid>
-<pubDate>2026-09-24</pubDate>
-<description>An OpenAI agent accessed secure data on an Australian health-care website, but the incident wasn’t reported for months.</description>
-</item>
-<item>
-<title>【自動自律実験】 AlphaFold &#x27;goes viral&#x27;: database adds protein complexes of common viruses</title>
-<link>https://www.nature.com/articles/d41586-026-03022-1</link>
-<guid>9baf54754c0e77fcddee1d93aceed2deb13bc5413e311779f6e15195595da73d</guid>
-<pubDate>2026-09-24</pubDate>
-<description>AI predictions could help with pandemic preparedness, but they will need experimental confirmation.</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>a7cee13fe2dd119ebaaee688d1d21d48e817a64ac302bd8558caa2bd17ba6d30</guid>
-<pubDate>Thu, 24 Sep 2026 17:25:53 GMT</pubDate>
-<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overall shape cl</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>d80b3e7fbab33e7af4ff8e415f86801983822ee733ca706f6229518a93350fee</guid>
+<pubDate>Thu, 24 Sep 2026 20:36:44 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>8b15f2758a15be5391b7901bcd2a39e231278bd00b96341dca1460eb9f3a243f</guid>
-<pubDate>Thu, 24 Sep 2026 17:25:56 GMT</pubDate>
+<guid>9c0bec8cd11e8b259cc18a2999eacce1b8942e071d89fb944703bd686a17e252</guid>
+<pubDate>Thu, 24 Sep 2026 20:36:47 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>3c8984a979ddc8b0dcd38451d3f41e6d0b796272272422b3fa9c4c12ce3c777c</guid>
-<pubDate>Thu, 24 Sep 2026 17:25:58 GMT</pubDate>
+<guid>f91c2c5d28f8919cb2d98dc22d4d918db3c9c2a59207a953d5c3c7f702490bf4</guid>
+<pubDate>Thu, 24 Sep 2026 20:36:50 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>dc50bca8d3468ddca8ba547b8e42857e21f9063632d34278d3e13728668291d0</guid>
-<pubDate>Thu, 24 Sep 2026 17:26:03 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
-</item>
-<item>
-<title>【U.S.】 Suggested Matches</title>
-<link>https://www.energy.gov/search?keywords=%22Genesis%20Mission%22</link>
-<guid>6ed3f4b5f906244d68ec663bcfeba164d914d698e62c52fe63dcb7a81a7e08f9</guid>
-<pubDate>Thu, 24 Sep 2026 17:26:10 GMT</pubDate>
-<description>… Genesis Mission National labs, industry, and academia Unites partners …</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>33e6e7c60aabca41d667e36907e114c1a8502fbd017bab5592fb73005d796cb2</guid>
-<pubDate>Thu, 24 Sep 2026 17:26:45 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>4f3a1112c0ea7bc8adbb46949f461f36a1cfe3cb7fb3b08f103363d9b362e2f8</guid>
+<pubDate>Thu, 24 Sep 2026 20:37:40 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
