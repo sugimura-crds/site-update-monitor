@@ -4,70 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 24 Sep 2026 20:37:50 GMT</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 23:41:43 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 OpenAI APIキーをOCI VaultとResource PrincipalでセキュアにしてSelect AIしてみてみた</title>
-<link>https://qiita.com/shirok/items/a5f34349c0b6ba8f3f62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>62f499d7e79d9957b19f52c3748da7c0dc73d85afdfecbc9f3990b998472234e</guid>
-<pubDate>2026-09-24T06:54:03+09:00</pubDate>
-<description>以前、Autonomous AI DatabaseのSelect AIからOpenAI APIを呼び出し、自然言語でデータベースへ問い合わせてみました。 OpenAI APIを使用して自然言語でSelect AIしてみてみた 前回は、OpenAI APIを使ってSe...</description>
+<title>【Qiita】 第6回：ネット越しの攻撃から考えるLiberty UBI Micro ― CVE対応対象と侵入後の道具を減らす</title>
+<link>https://qiita.com/TSA2019/items/1b6e44cc717edc2edeb3</link>
+<guid>7c97212850ecaafdf5126c614b9374853f4ad809d9dd21bb974441fc0b961567</guid>
+<pubDate>2026-09-25T06:39:01+09:00</pubDate>
+<description>はじめに このシリーズでは、これまで次のような内容を見てきました。 UBI Microとは何か OSにインストールして使ってきたWebSphere/Liberty環境から見ると何が変わるのか ping や curl など、OSコマンドに依存した作りがどう見えてくるのか...</description>
 </item>
 <item>
-<title>【Qiita】 「なぜか読まれない文章」の正体をSudachiPyで解析したら「漢字率」のゴールデンルールが見えてきた話</title>
-<link>https://qiita.com/taihong/items/e8cf442b5ace978e22b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>a9ca7d67889025ae74482636f3b43dfe7110a126ed7f8aa95a88d4dc4a45696b</guid>
-<pubDate>2026-09-22T13:23:52+09:00</pubDate>
-<description>ブログ、Zenn/Qiitaの技術記事、あるいは社内ドキュメントにおいて、「内容は良いのになぜか離脱される」「文章が重く見える」という課題が発生することがあります。 この原因の多くは「文字種構成比（Kanji Ratio / Character Type Distribut...</description>
+<title>【Qiita】 Claude Codeに渡す構築プロンプトの書き方 〜機能一覧より先に「作らないもの・厳守ルール・未決事項・受け入れ基準」を書く〜</title>
+<link>https://qiita.com/charge0315/items/630e0a68680a7e237ee4</link>
+<guid>f579157be1dd5eae0acd8c6fe2191a871d4e48d433df88571ff494a7779de507</guid>
+<pubDate>2026-09-25T07:23:56+09:00</pubDate>
+<description>はじめに 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を個人で開発・運用しています。開発には Claude Code を使っています。 第1話では、Markdown 1枚の構築プロンプトから約25時間・27コミットで一通り動く...</description>
 </item>
 <item>
-<title>【Qiita】 服を脱げ！ Opus！、棚撃ち式 Excelマネージャー公開で大事件が発生した話</title>
-<link>https://qiita.com/shu15511551/items/48d5cd7346086bd1582b</link>
-<guid>1eb9edeff5519daf2119c0388626c7fc76bf9c7262c73ee876fa8c43b88ecac5</guid>
-<pubDate>2026-09-25T04:58:06+09:00</pubDate>
-<description>はじめに 先日公開した記事が、ちょっとしたことになりました。 『言葉で頼んで AI 0回・約1秒、手順書をマクロに焼いたら日々の業務から AI が消えた話』 公開からわずかな期間で 七千四百回以上（7,400 views） も読まれました。 世の中では「AI に E...</description>
-</item>
-<item>
-<title>【Qiita】 サイバー攻撃は「AI対AI」の時代へ――人の判断を残し、マシンスピードで守るSOCの設計</title>
-<link>https://qiita.com/mhamadajp/items/6ea3b8ebdc9a701abf77</link>
-<guid>1522b4640d4e573be9a12f6bd9d6fab0cafef4da3e1a6afdabd52906d4d0fbcc</guid>
-<pubDate>2026-09-25T04:16:51+09:00</pubDate>
-<description>「AIが攻撃にも防御にも使われる」と聞くと、映画のようにAI同士が自動で戦い、人間が不要になる場面を想像しがちです。 けれど、いま起きている変化の本質は少し違います。攻撃者の調査・試行・移動が速くなり、人だけでアラートを読み、会議を開き、対応を決める運用では間に合わない場面...</description>
-</item>
-<item>
-<title>【Qiita】 `/claude-api prompt-audit` とは？ 古いモデル向けプロンプトの「残骸」を見つけるコマンド</title>
-<link>https://qiita.com/leomarokun/items/e7f6ba14c386bd3ae981</link>
-<guid>5cbcf54b140139e27d4fc99c37d77dde4c25383cdfd760f3106d0c1c438b06d2</guid>
-<pubDate>2026-09-25T03:53:18+09:00</pubDate>
-<description>はじめに Claude Code に同梱の claude-api スキルには、/claude-api prompt-audit というサブコマンドがあります。 同梱ドキュメント（shared/prompt-audit.md）を読んで、要点を整理してみます。 /clau...</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>d80b3e7fbab33e7af4ff8e415f86801983822ee733ca706f6229518a93350fee</guid>
-<pubDate>Thu, 24 Sep 2026 20:36:44 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【自動自律実験】 GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers</title>
+<link>https://www.nature.com/articles/d41586-026-03020-3</link>
+<guid>1297a0c241b8b22e9948a0b3ff1f071dd279733817b39633579a5e86932c2af0</guid>
+<pubDate>2026-09-24</pubDate>
+<description>Understanding why some people see no benefits from potent anti-obesity medications could lead to new therapies and personalized weight-loss regimens.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>9c0bec8cd11e8b259cc18a2999eacce1b8942e071d89fb944703bd686a17e252</guid>
-<pubDate>Thu, 24 Sep 2026 20:36:47 GMT</pubDate>
+<guid>ec1c5ed58b62cd1958d93b4d870affd038689e292cbb7d07045ab1b8e678faa9</guid>
+<pubDate>Thu, 24 Sep 2026 23:40:45 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>f91c2c5d28f8919cb2d98dc22d4d918db3c9c2a59207a953d5c3c7f702490bf4</guid>
-<pubDate>Thu, 24 Sep 2026 20:36:50 GMT</pubDate>
+<guid>aa0abc4b8ef38cf59c8a4231a237085ea4d0294402ad90e274e9530b20654188</guid>
+<pubDate>Thu, 24 Sep 2026 23:40:48 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>4f3a1112c0ea7bc8adbb46949f461f36a1cfe3cb7fb3b08f103363d9b362e2f8</guid>
-<pubDate>Thu, 24 Sep 2026 20:37:40 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>5da4baeb857fdfbdcd104a466dbb19e0e7ee9f5653569523830e7cc1f5459b2d</guid>
+<pubDate>Thu, 24 Sep 2026 23:41:31 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
