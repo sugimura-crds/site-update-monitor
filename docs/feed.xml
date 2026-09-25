@@ -4,77 +4,126 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 25 Sep 2026 02:32:02 GMT</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 08:21:13 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 PowerVS IBM i 日記(114): 2026/10よりIBM i 7.4は延長サービス(Service Extension)の対象へ</title>
-<link>https://qiita.com/6onoda/items/67831189d6a0ecae3705</link>
-<guid>82ed357e94558d49fb2ff20d74989a236d03484804f7487874698f70b7d91e6a</guid>
-<pubDate>2026-09-25T10:37:44+09:00</pubDate>
-<description>下記にも書きましたが、IBM i 7.4は2026/09/30で標準サポートが終了になります。 (89): IBM i 7.4 - EOM 2026/04/30, EOS 2026/09/30 - 2025/09/16 標準サポートが終了したIBM iに対して、オンプレ...</description>
+<title>【Qiita】 許可ルールを settings.json に書いても効かなかった。分かれ目はフォルダを信頼したかどうか</title>
+<link>https://qiita.com/suwa_nobu/items/92d4de34077b9ae02fca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>6ca7cb9f8d69ee2b59e4311013cc087aa9ea32aea60bda1bb0f2342f93b48a5e</guid>
+<pubDate>2026-09-25T10:29:25+09:00</pubDate>
+<description>permissions.allow に書いたルールが効かないことがあります。 同じルールを --allowedTools で渡すと効きます。 56回測って、分かれ目が分かりました。 未信頼のフォルダ .claude/settings.json に書いた許可ルール 0...</description>
 </item>
 <item>
-<title>【Qiita】 帰ってきたAIスクラムチーム</title>
-<link>https://qiita.com/shyamagu/items/d28c206da897eb5ec5a4</link>
-<guid>990640268f405b6ad2746f138ab0eb9a8c1e2e40750eba7112c09ea791a2ce97</guid>
-<pubDate>2026-09-25T10:43:03+09:00</pubDate>
-<description>はじめに 前回、さらばAIスクラムチームでは、全11本にわたるAIスクラムチームの検証を一旦終了しました。GitHub CopilotでAIエージェントだけのチームを組成し、スクラム開発を回し、改善を重ね、最後には複数AIスクラムチームでの協業まで検証した形です。過去の検...</description>
+<title>【Qiita】 Claude Code の拒否ルールを7つの形で測った。最新版でまだ4つ残っている</title>
+<link>https://qiita.com/suwa_nobu/items/d21ff35b9329eecc6143?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>376d62213737d0bf5815b7c80debb93bcc3daea9272e3e9b86189d1e0bee16e0</guid>
+<pubDate>2026-09-25T10:29:40+09:00</pubDate>
+<description>permissions.deny に書いたルールが、書いたとおりに効かないことがあります。 2026-09-11 から 09-24 までの2週間で、Claude Code の権限まわりの修正が7つの版に出ました （2.1.269 / 271 / 273 / 274 / 27...</description>
 </item>
 <item>
-<title>【Qiita】 LLMツールのタイムアウト、待ち時間0.7秒→0.2秒の検証</title>
-<link>https://qiita.com/hironakamura_ai/items/fbbd76522e810ef0fe47</link>
-<guid>79642f387faa5ccddc5cb8394541501ba6e51b79b566c01434d90ecfe1814da0</guid>
-<pubDate>2026-09-25T11:27:50+09:00</pubDate>
-<description>timeout=0.1なら、ツールも0.1秒で止まる。そう思ってエージェントの締切に使うと危ない。手元で0.6秒かかる処理を走らせたら、Future.result(timeout=0.1)は例外を返したのに、呼び出し側は約0.7秒待った。子プロセスに分けて停止させた場合は約...</description>
+<title>【Qiita】 Claude Opus 5.5 の「40%安い」は、キャッシュの当たり方で24%にも59%にもなった</title>
+<link>https://qiita.com/suwa_nobu/items/870b1d6c5502aca68f55?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>78394554e352f8e513e64dff8c03b306b5a184e377942445ec4f350ff6e89970</guid>
+<pubDate>2026-09-25T10:29:11+09:00</pubDate>
+<description>Claude Opus 5.5 が 2026-09-22 に出ました。公式の発表はこうです。 Our tests show that at default settings it will cost 40% less than Opus 5 on typical work...</description>
 </item>
 <item>
-<title>【Qiita】 同じ「0.7」でも意味が違う —— Jevのprobability・confidence・score・Noulを読み違えないために</title>
-<link>https://qiita.com/BugiAK/items/5b4c1d1e6313ea34c2b1</link>
-<guid>779ea9ba378b639c095eccf60062a88b0fe1c47ae133d6cbc0b433f2c61a688d</guid>
-<pubDate>2026-09-25T09:56:14+09:00</pubDate>
-<description>はじめに 前回の記事では、TypeSafe AIの判断特化モデル Jev を取り上げ、 型安全と、判断が正しいことは別ではないか という観点から考えました。 Jevは文章を生成するLLMとは違い、プログラムがそのまま扱いやすい構造化された値を返します。 これは業務シス...</description>
+<title>【Qiita】 管理業務～私の実践～②</title>
+<link>https://qiita.com/wawasaki2468/items/4591be7133e2f9d1d3cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>baa60d9a28cc45b55a898095861de90848a2f1f73a820f7eb14e2ca97dd8ad84</guid>
+<pubDate>2026-09-25T09:16:54+09:00</pubDate>
+<description>初めまして。QAエンジニアのAIと申します。 本日は管理について 私の実際していることを記載します。 参考になる方がいれば幸いです。 今回は【管理】での【教育】について 実際に一緒に働く時のコミュニケーションな事は前回の①でお話しましたが、今回は【教育】について記載いたしま...</description>
 </item>
 <item>
-<title>【Qiita】 折り返し地点の正直な振り返り。18スキル、37コミット、そして星2つ【kurashi-skill Day 15】</title>
-<link>https://qiita.com/Ichiropen/items/e1eb344a951f06fc3a97</link>
-<guid>545c6ad6eecde23a271a7e5a92dfd58fb5bc0bf849c6e4c3c879fcda40b0fb8a</guid>
-<pubDate>2026-09-25T09:34:23+09:00</pubDate>
-<description>30日チャレンジの折り返し地点に立った。今日はスキルを作らず、前半を正直に振り返る。まず数字から。2026-09-22実測で、リポジトリにあるスキルは18個、コミットは37本、公開済みの記事は12本。GitHubの星は2つ、フォークは1つだ。 星2つ。この数字を書くのは少し...</description>
+<title>【Qiita】 GitHub Actions から IBM Concert Protect にセキュリティ成果物を自動投入してみた</title>
+<link>https://qiita.com/daihiraoka/items/188f9bccd7f400f2a735</link>
+<guid>875299e1d021d7d7b9531957c422734c69713fd9ec2e27c1b70097d407f55933</guid>
+<pubDate>2026-09-25T12:22:32+09:00</pubDate>
+<description>はじめに 第1回: 生成AIで開発は速くなった。では、脆弱性管理は誰がやるのか？ 第2回: IBM Concert Protect でソフトウェア部品とリスクを可視化してみた 第3回: CodeQL・Trivy・SBOM変換スクリプトでセキュリティ成果物を生成してみた ...</description>
+</item>
+<item>
+<title>【Qiita】 AI エージェントも「作る」より「指摘する」ほうが強い</title>
+<link>https://qiita.com/y-morimatsu/items/4c42ad9318887b10e77a</link>
+<guid>320bb6ab92601cfe883a9101c1b2e575d1c71bb37c6a846ccb02c705a998382f</guid>
+<pubDate>2026-09-25T17:19:14+09:00</pubDate>
+<description>上の 1 枚は、この記事の内容を手描き風にまとめたグラレコです。「作る」と「指摘する」の非対称性から、社内組織との対応、Evaluator を強くする設計ルールまで、まずはこの図で全体の輪郭をつかんでもらえればと思います。 はじめに 🎯 Generator / Eval...</description>
+</item>
+<item>
+<title>【Qiita】 なぜJavaは無理してラムダを入れたのか？ — ハードウェアの限界からTransformerまで貫く「関数型」20年の必然性</title>
+<link>https://qiita.com/kinopp/items/f37288f464fac973cf55</link>
+<guid>ec67d0f4d65ada3d1f390013bc23a681f3f6c80763c1d943b699555e26358d21</guid>
+<pubDate>2026-09-25T16:45:35+09:00</pubDate>
+<description>はじめに 「関数型プログラミングとは何か」を解説する記事はすでに数多く存在します。map/filter/reduceの説明、純粋関数と副作用の違い、不変性 (immutability) のメリット——概念そのものは、今やJavaエンジニアにとっても馴染み深いものになりまし...</description>
+</item>
+<item>
+<title>【Qiita】 Agentforceの指示肥大化を防ぐ実装設計｜Agent Scriptに至る6段階チェックリスト</title>
+<link>https://qiita.com/ubakichi_sr_mc_ai_06/items/7743f5d55bae163564c0</link>
+<guid>1335b72ec5bbad872a4d7f7f12a351b8dbf2c5aff9be72f1f2cd0c5379121bd9</guid>
+<pubDate>2026-09-25T16:28:21+09:00</pubDate>
+<description>はじめに AgentforceのサブAIエージェントにInstructions(指示)を詰め込みすぎて、応答が不安定になった経験はないでしょうか。 実装者目線で見ると、この問題は「LLMに何を判断させ、何をコードで固定するか」という設計不足が原因です。 この記事では、Sa...</description>
+</item>
+<item>
+<title>【Qiita】 OpenGatewayで複数LLMの呼び出しとフォールバックを共通化</title>
+<link>https://qiita.com/kataoka_se_sionic/items/10da104ab9ccd8b9265f</link>
+<guid>a85083a3aa5ddce551fd5770e678cc08affe36caa9ef1889153f87e75a4d2253</guid>
+<pubDate>2026-09-25T15:14:02+09:00</pubDate>
+<description>OpenGatewayとは OpenGatewayは、アプリケーションと複数のLLM提供元の間に置くAIゲートウェイです。アプリケーションはOpenGatewayのAPIを呼び出し、OpenGatewayが指定されたモデルの提供元へリクエストを転送します。 Ope...</description>
+</item>
+<item>
+<title>【農業】 Food packaging claims need to be earned</title>
+<link>https://www.nature.com/articles/s43016-026-01442-w</link>
+<guid>dd0e80be3fec76adf71da703c2f49991b739ced09571b7fe78cd249e28618bd1</guid>
+<pubDate>2026-09-24</pubDate>
+<description>More than half of new products in the United States carry a health-related claim, while only a third are actually nutritious, possibly misleading consumers to overestimate their healthfulness.</description>
+</item>
+<item>
+<title>【農業】 Armed conflict accelerates cropland loss and food insecurity worldwide</title>
+<link>https://www.nature.com/articles/s43016-026-01436-8</link>
+<guid>9b53afdba1568b6ee0a36db16f06967edc9096d1a711678a6520a3acf8c04103</guid>
+<pubDate>2026-09-24</pubDate>
+<description>A global analysis and mapping exercise reveals that armed conflicts disproportionately affect cropland, causing agricultural land loss and diminishing potential food production, with implications for food security and Zero Hunger targets.</description>
+</item>
+<item>
+<title>【農業】 On-package claims are imperfect signals of overall nutritional quality</title>
+<link>https://www.nature.com/articles/s43016-026-01435-9</link>
+<guid>475d2c7487063da4d81dfb48e68406dea96752ed5bc22d1bb7aa89bdc49db5b9</guid>
+<pubDate>2026-09-24</pubDate>
+<description>Many food and beverage products contain on-package claims, such as ‘Low Calorie’, ‘High Protein’, ‘All Natural’ or ‘Heart Healthy’, to communicate nutritional or health-related benefits. This study finds that these claims do not consistently correspond to better overall product nutritional quality.</description>
+</item>
+<item>
+<title>【自動自律実験】 AI bots are flooding researchers with requests for money and time</title>
+<link>https://www.nature.com/articles/d41586-026-03005-2</link>
+<guid>e3caf08553f3e12daf0f7c3a8339c769dce7fe41424e5968ee59304a21d9ae0d</guid>
+<pubDate>2026-09-25</pubDate>
+<description>Many scientists use artificial intelligence in their work, but agents are increasingly soliciting researchers for collaborations.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>5ddd2913130bb51328885e97b592b572ff6d2b0d5adfc635fa70e0f67cd94778</guid>
-<pubDate>Fri, 25 Sep 2026 02:31:22 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>a5dbb7f730659e3c147a980a6e4a729dfe0594990952b5388497285b6e31d156</guid>
+<pubDate>Fri, 25 Sep 2026 08:19:50 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>37eb4b054075459f84fefbc357a8e74610817a875250bc6e5f5cf28f5799bcec</guid>
-<pubDate>Fri, 25 Sep 2026 02:31:25 GMT</pubDate>
-<description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
+<link>https://www.nature.com/articles/s41467-026-77446-8</link>
+<guid>e5cbe22d173048cb095759eea0163ffc872ad49594f2c820939cc6abe9b409a2</guid>
+<pubDate>Fri, 25 Sep 2026 08:19:52 GMT</pubDate>
+<description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>47aad2ab21852af714f18152502b6046000ea17d96ae066101cd65c1d7cdcf56</guid>
-<pubDate>Fri, 25 Sep 2026 02:31:28 GMT</pubDate>
+<guid>7f17821e1e3c4c240773d370a536b35d8c8a2d0a32c0351e406dbfe18a0b8bc8</guid>
+<pubDate>Fri, 25 Sep 2026 08:19:54 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>9c5b31b123d40ad9730ea16b7768d559d09b982fd1a6809a58e8498b03efb1e3</guid>
-<pubDate>Fri, 25 Sep 2026 02:31:31 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>cf6d2027980ab43420362c217d4ac59ca3c83cb24d0d8d3572c266447bc115bf</guid>
-<pubDate>Fri, 25 Sep 2026 02:31:44 GMT</pubDate>
+<guid>553d14c04acb0e22ff093eb5ea6d04fdfd2133a78bd0ca0d96e906bb093051c5</guid>
+<pubDate>Fri, 25 Sep 2026 08:20:57 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
