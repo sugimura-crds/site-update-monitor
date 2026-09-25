@@ -4,98 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 25 Sep 2026 18:16:59 GMT</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 21:43:46 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 WebブラウザからIBM Bobを使ってみた ― ACPで開発環境を変えずにAIエージェントを使う</title>
-<link>https://qiita.com/takumiida1/items/23e20ca455d70938d8f8</link>
-<guid>288d1da706692cbec5ee765bcf33687dfe730f20472ecf4f5e350aaf1c8ac101</guid>
-<pubDate>2026-09-25T23:16:46+09:00</pubDate>
-<description>Summary IBM Bob ShellのACPサーバー機能とACP Proを利用し、WebブラウザでVSCodeライクな開発ができるCode ServerからIBM Bobを操作した IBM BobのIDEやCLIへ乗り換えなくても、チャット、コマンド実行、ファ...</description>
+<title>【Qiita】 JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI</title>
+<link>https://qiita.com/jqit-yukiono/items/8675266928f574677d9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f83a76e0e0b5f5766763dffcb31d90d98b3b0a1c5d2ad17258217fd322b645a5</guid>
+<pubDate>2026-09-25T20:39:46+09:00</pubDate>
+<description>JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI これまでに、GitHub Actionsの失敗を自己修復するパイプラインと、JenkinsでGitHub Copilot CLIにPRを自動レ...</description>
 </item>
 <item>
-<title>【Qiita】 Google の Antigravity（Gemini）に棚を追加してもらい、試してみた話</title>
-<link>https://qiita.com/shu15511551/items/ef5caed563cba61ad045</link>
-<guid>6e1ec5f319701cdb34650ef454aa2d982b17818d80ee85f3959180d24b37d159</guid>
-<pubDate>2026-09-26T02:19:18+09:00</pubDate>
-<description>はじめに 先日、自作の「棚撃ち式 Excelマネージャー」を手元の姿のまま GitHub に公開した、という記事を書きました。 長年家で育ててきた約百二十本のマクロを「棚」として並べ、AI にゼロからコードを書かせるのではなく、手元のマクロを一撃で撃たせる。名付けて...</description>
+<title>【Qiita】 「シンギュラリティはもう始まった」のか──IT技術者が見るべき、本当の変化</title>
+<link>https://qiita.com/mhamadajp/items/94c52a45acf2b5e3b6ec</link>
+<guid>94382350c182c26f70b0ae8ac4e4a2c892d20f9f50c30c250dba351ab77a2497</guid>
+<pubDate>2026-09-26T05:04:03+09:00</pubDate>
+<description>「私たちは、すでにシンギュラリティの中にいるのではないか」。以前なら突飛に聞こえたこの問いが、いまは現実の技術課題として語られるようになりました。 きっかけの一つは、OpenAI CEOのサム・アルトマン氏が2025年6月に公表した The Gentle Singulari...</description>
 </item>
 <item>
-<title>【Qiita】 AIにExcelの試験仕様書をレビューさせてみた。どこまで実用になる？</title>
-<link>https://qiita.com/Ito_110/items/c2571cf39359610a3eac</link>
-<guid>74d959a69f89dc626ed79b637444fbc6bee0d7e115a7adb63a31e9b08b2fd8c7</guid>
-<pubDate>2026-09-26T01:41:31+09:00</pubDate>
-<description>はじめに 業務システムの開発では、試験仕様書をExcelで作成している現場も多いと思います。 例えば、 No 試験項目 前提条件 操作 期待結果 1 正常登録 未登録 登録する 登録される 2 必須チェック 名称未入力 登録する エラーになる のよ...</description>
-</item>
-<item>
-<title>【Qiita】 「コードレビューして」だけでは弱い。AIコードレビュー用プロンプトを設計する</title>
-<link>https://qiita.com/Ito_110/items/e4251c0ac57cae4955bc</link>
-<guid>8feec0dee9d8ebfc0a05e3300d04387bb0e70438d26f5fe5e085602100b405b3</guid>
-<pubDate>2026-09-26T01:38:57+09:00</pubDate>
-<description>はじめに 生成AIにコードを渡して、 このコードをレビューしてください。 とお願いしたことがある人は多いと思います。 もちろん、それでもある程度レビューしてくれます。 しかし実際に業務で使うなら、この依頼だけでは少し弱いです。 理由は簡単で、 何をレビューしてほしいのか...</description>
-</item>
-<item>
-<title>【Qiita】 AI Agentに実装を丸投げして失敗したので、タスクの切り方を整理した</title>
-<link>https://qiita.com/Ito_110/items/3d770c8affe7e9499497</link>
-<guid>06e000eea37adb8de9c0b99fafa1fe14a0e1b1633748c4baf1e4e368232b4d4e</guid>
-<pubDate>2026-09-26T01:29:24+09:00</pubDate>
-<description>はじめに Codex、Claude Code、AntigravityなどのCoding Agentを使うと、 「この機能を実装して」 だけでも、ある程度コードを書いてくれます。 ただ、実際の開発で使っていると、 想定していないファイルまで変更された 既存仕様を壊され...</description>
-</item>
-<item>
-<title>【自動自律実験】 Briefing Chat: Why scientists made papyrus scrolls, then burnt them</title>
-<link>https://www.nature.com/articles/d41586-026-03041-y</link>
-<guid>3aaf1cc4addb8e5d452792f4933decc427997f19d09064e2a367b4978c1e555e</guid>
+<title>【自動自律実験】 Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?</title>
+<link>https://www.nature.com/articles/d41586-026-03039-6</link>
+<guid>0ed73f4f868fe56a9bbe18bfef9fda3c276afb572d0cd8af057fb7a5d736fb7e</guid>
 <pubDate>2026-09-25</pubDate>
-<description>Nature staff discuss a technique that could help researchers read charred Herculaneum scrolls — plus, a biodegradeable, edible battery.</description>
-</item>
-<item>
-<title>【自動自律実験】 Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts</title>
-<link>https://www.nature.com/articles/d41586-026-03023-0</link>
-<guid>5b5af231ae73e18f59d05b77eeb9d6dc58e9d69b80b14ee2eecc3852cd54f798</guid>
-<pubDate>2026-09-25</pubDate>
-<description>Laboratories are still using dangerous and carbon-intensive liquids much more often than environmentally friendly ones, according to a 40-year survey of patents.</description>
-</item>
-<item>
-<title>【自動自律実験】 Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast</title>
-<link>https://www.nature.com/articles/d41586-026-03016-z</link>
-<guid>c3cdfa8ef248e5182eecbbb7580f1228acf2bb90af4bbce80b054fa38118cf6f</guid>
-<pubDate>2026-09-25</pubDate>
-<description>The UN’s climate loss and damage fund needs to consider how to make decisions about finance fairly and quickly, without disadvantaging low-resource nations.</description>
-</item>
-<item>
-<title>【自動自律実験】 Exclusive: Sham scientific societies are misleading star researchers</title>
-<link>https://www.nature.com/articles/d41586-026-02980-w</link>
-<guid>caf7456b1a2169ae5bec70b4a2ffafab5da87bf3ac7dd6a4bfb71c1a77f9632c</guid>
-<pubDate>2026-09-25</pubDate>
-<description>A Nature investigation reveals a network of organizations that have been building their ranks through deceptive practices.</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>877beed5d526b3c9260616f325223391c834a9c83cc93dce6d7170ba1e1e78af</guid>
-<pubDate>Fri, 25 Sep 2026 18:15:59 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<description>The detection effort enlisted roughly 950 AI agents that spent more than 21 hours combing through DNA sequence databases.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>01098d8740c93ee45b94aee5dcd194d8b4205b08a9462aa6c130ee41572cd2d5</guid>
-<pubDate>Fri, 25 Sep 2026 18:16:02 GMT</pubDate>
+<guid>1805b010ff868d4510cd9cccd6df01fee7ab1f71f8eace4ebf2b72038858f80e</guid>
+<pubDate>Fri, 25 Sep 2026 21:43:02 GMT</pubDate>
 <description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>3739c89a40edefa5ca9d0a5371dc75019e8d2137113b541d09d43d61bfa415ae</guid>
-<pubDate>Fri, 25 Sep 2026 18:16:04 GMT</pubDate>
+<guid>59ddc2f738dad641e02d0b07c0e55b6ff780ced2aebc8fd452da5d61aa4edc0e</guid>
+<pubDate>Fri, 25 Sep 2026 21:43:04 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>653ed1b6efb7743bd9935b1d4eab42570c6458dd18defeb0726c3c2a6f7b786e</guid>
-<pubDate>Fri, 25 Sep 2026 18:16:37 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
