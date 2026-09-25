@@ -4,49 +4,78 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 24 Sep 2026 23:41:43 GMT</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 02:32:02 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 第6回：ネット越しの攻撃から考えるLiberty UBI Micro ― CVE対応対象と侵入後の道具を減らす</title>
-<link>https://qiita.com/TSA2019/items/1b6e44cc717edc2edeb3</link>
-<guid>7c97212850ecaafdf5126c614b9374853f4ad809d9dd21bb974441fc0b961567</guid>
-<pubDate>2026-09-25T06:39:01+09:00</pubDate>
-<description>はじめに このシリーズでは、これまで次のような内容を見てきました。 UBI Microとは何か OSにインストールして使ってきたWebSphere/Liberty環境から見ると何が変わるのか ping や curl など、OSコマンドに依存した作りがどう見えてくるのか...</description>
+<title>【Qiita】 PowerVS IBM i 日記(114): 2026/10よりIBM i 7.4は延長サービス(Service Extension)の対象へ</title>
+<link>https://qiita.com/6onoda/items/67831189d6a0ecae3705</link>
+<guid>82ed357e94558d49fb2ff20d74989a236d03484804f7487874698f70b7d91e6a</guid>
+<pubDate>2026-09-25T10:37:44+09:00</pubDate>
+<description>下記にも書きましたが、IBM i 7.4は2026/09/30で標準サポートが終了になります。 (89): IBM i 7.4 - EOM 2026/04/30, EOS 2026/09/30 - 2025/09/16 標準サポートが終了したIBM iに対して、オンプレ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeに渡す構築プロンプトの書き方 〜機能一覧より先に「作らないもの・厳守ルール・未決事項・受け入れ基準」を書く〜</title>
-<link>https://qiita.com/charge0315/items/630e0a68680a7e237ee4</link>
-<guid>f579157be1dd5eae0acd8c6fe2191a871d4e48d433df88571ff494a7779de507</guid>
-<pubDate>2026-09-25T07:23:56+09:00</pubDate>
-<description>はじめに 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を個人で開発・運用しています。開発には Claude Code を使っています。 第1話では、Markdown 1枚の構築プロンプトから約25時間・27コミットで一通り動く...</description>
+<title>【Qiita】 帰ってきたAIスクラムチーム</title>
+<link>https://qiita.com/shyamagu/items/d28c206da897eb5ec5a4</link>
+<guid>990640268f405b6ad2746f138ab0eb9a8c1e2e40750eba7112c09ea791a2ce97</guid>
+<pubDate>2026-09-25T10:43:03+09:00</pubDate>
+<description>はじめに 前回、さらばAIスクラムチームでは、全11本にわたるAIスクラムチームの検証を一旦終了しました。GitHub CopilotでAIエージェントだけのチームを組成し、スクラム開発を回し、改善を重ね、最後には複数AIスクラムチームでの協業まで検証した形です。過去の検...</description>
 </item>
 <item>
-<title>【自動自律実験】 GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers</title>
-<link>https://www.nature.com/articles/d41586-026-03020-3</link>
-<guid>1297a0c241b8b22e9948a0b3ff1f071dd279733817b39633579a5e86932c2af0</guid>
-<pubDate>2026-09-24</pubDate>
-<description>Understanding why some people see no benefits from potent anti-obesity medications could lead to new therapies and personalized weight-loss regimens.</description>
+<title>【Qiita】 LLMツールのタイムアウト、待ち時間0.7秒→0.2秒の検証</title>
+<link>https://qiita.com/hironakamura_ai/items/fbbd76522e810ef0fe47</link>
+<guid>79642f387faa5ccddc5cb8394541501ba6e51b79b566c01434d90ecfe1814da0</guid>
+<pubDate>2026-09-25T11:27:50+09:00</pubDate>
+<description>timeout=0.1なら、ツールも0.1秒で止まる。そう思ってエージェントの締切に使うと危ない。手元で0.6秒かかる処理を走らせたら、Future.result(timeout=0.1)は例外を返したのに、呼び出し側は約0.7秒待った。子プロセスに分けて停止させた場合は約...</description>
+</item>
+<item>
+<title>【Qiita】 同じ「0.7」でも意味が違う —— Jevのprobability・confidence・score・Noulを読み違えないために</title>
+<link>https://qiita.com/BugiAK/items/5b4c1d1e6313ea34c2b1</link>
+<guid>779ea9ba378b639c095eccf60062a88b0fe1c47ae133d6cbc0b433f2c61a688d</guid>
+<pubDate>2026-09-25T09:56:14+09:00</pubDate>
+<description>はじめに 前回の記事では、TypeSafe AIの判断特化モデル Jev を取り上げ、 型安全と、判断が正しいことは別ではないか という観点から考えました。 Jevは文章を生成するLLMとは違い、プログラムがそのまま扱いやすい構造化された値を返します。 これは業務シス...</description>
+</item>
+<item>
+<title>【Qiita】 折り返し地点の正直な振り返り。18スキル、37コミット、そして星2つ【kurashi-skill Day 15】</title>
+<link>https://qiita.com/Ichiropen/items/e1eb344a951f06fc3a97</link>
+<guid>545c6ad6eecde23a271a7e5a92dfd58fb5bc0bf849c6e4c3c879fcda40b0fb8a</guid>
+<pubDate>2026-09-25T09:34:23+09:00</pubDate>
+<description>30日チャレンジの折り返し地点に立った。今日はスキルを作らず、前半を正直に振り返る。まず数字から。2026-09-22実測で、リポジトリにあるスキルは18個、コミットは37本、公開済みの記事は12本。GitHubの星は2つ、フォークは1つだ。 星2つ。この数字を書くのは少し...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>5ddd2913130bb51328885e97b592b572ff6d2b0d5adfc635fa70e0f67cd94778</guid>
+<pubDate>Fri, 25 Sep 2026 02:31:22 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77619-5</link>
-<guid>ec1c5ed58b62cd1958d93b4d870affd038689e292cbb7d07045ab1b8e678faa9</guid>
-<pubDate>Thu, 24 Sep 2026 23:40:45 GMT</pubDate>
+<guid>37eb4b054075459f84fefbc357a8e74610817a875250bc6e5f5cf28f5799bcec</guid>
+<pubDate>Fri, 25 Sep 2026 02:31:25 GMT</pubDate>
 <description>Navigating a vast formulation-preparation design space that is highly sensitive to perturbations makes trial-and-error approaches inefficient and costly for diverse clinical needs. Here, we introduce an expert-mimic AI framework called E-MAF that integrates a process-aware surrogate with an optimized genetic algorithm to emulate coarse-to-fine reasoning, autonomously generating lab-ready designs tailored to desired release profiles. We show that E-MAF delivers on-demand release and shortens design cycles from 6-12 months to approximately 1 hour. We demonstrate that in vitro release, in vivo pharmacokinetics and therapeutic effects match or surpass commercial benchmarks across 7 active pharmaceutical ingredients. We show that E-MAF also enables release profiles that are hard to achieve by conventional approaches, exemplified by ≤2% risperidone burst within 1 h and near-zero-order release over ~28 days in vivo. These results demonstrate E-MAF’s potential to accelerate polymeric controlled-release system development and drug-delivery industrialization. Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>aa0abc4b8ef38cf59c8a4231a237085ea4d0294402ad90e274e9530b20654188</guid>
-<pubDate>Thu, 24 Sep 2026 23:40:48 GMT</pubDate>
+<guid>47aad2ab21852af714f18152502b6046000ea17d96ae066101cd65c1d7cdcf56</guid>
+<pubDate>Fri, 25 Sep 2026 02:31:28 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>5da4baeb857fdfbdcd104a466dbb19e0e7ee9f5653569523830e7cc1f5459b2d</guid>
-<pubDate>Thu, 24 Sep 2026 23:41:31 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>9c5b31b123d40ad9730ea16b7768d559d09b982fd1a6809a58e8498b03efb1e3</guid>
+<pubDate>Fri, 25 Sep 2026 02:31:31 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>cf6d2027980ab43420362c217d4ac59ca3c83cb24d0d8d3572c266447bc115bf</guid>
+<pubDate>Fri, 25 Sep 2026 02:31:44 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
