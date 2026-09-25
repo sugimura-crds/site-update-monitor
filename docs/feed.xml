@@ -4,127 +4,84 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 25 Sep 2026 08:21:13 GMT</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 13:59:59 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 許可ルールを settings.json に書いても効かなかった。分かれ目はフォルダを信頼したかどうか</title>
-<link>https://qiita.com/suwa_nobu/items/92d4de34077b9ae02fca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>6ca7cb9f8d69ee2b59e4311013cc087aa9ea32aea60bda1bb0f2342f93b48a5e</guid>
-<pubDate>2026-09-25T10:29:25+09:00</pubDate>
-<description>permissions.allow に書いたルールが効かないことがあります。 同じルールを --allowedTools で渡すと効きます。 56回測って、分かれ目が分かりました。 未信頼のフォルダ .claude/settings.json に書いた許可ルール 0...</description>
+<title>【Qiita】 ChatGPT Windowsアプリ起動時の Failed to load cloud config bundle (workspace-managed policies) 解消記録</title>
+<link>https://qiita.com/kzmasa/items/fa991218f4b6f246122c</link>
+<guid>58c120de8911d384c6cbd2011572727f721fcb6cee0a63b73a8370edea9308ee</guid>
+<pubDate>2026-09-25T21:33:29+09:00</pubDate>
+<description>1. 概要 (ここだけ読めばOK) ChatGPT Windowsアプリを起動すると、突然こんなエラーが出るようになりました。 failed to read configuration layers: Failed to load cloud config bundle ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code の拒否ルールを7つの形で測った。最新版でまだ4つ残っている</title>
-<link>https://qiita.com/suwa_nobu/items/d21ff35b9329eecc6143?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>376d62213737d0bf5815b7c80debb93bcc3daea9272e3e9b86189d1e0bee16e0</guid>
-<pubDate>2026-09-25T10:29:40+09:00</pubDate>
-<description>permissions.deny に書いたルールが、書いたとおりに効かないことがあります。 2026-09-11 から 09-24 までの2週間で、Claude Code の権限まわりの修正が7つの版に出ました （2.1.269 / 271 / 273 / 274 / 27...</description>
+<title>【Qiita】 ローカルLLMエージェントの最適解？「oh-my-pi」と要約しないコンテキスト圧縮（snapcompact）を試した結果</title>
+<link>https://qiita.com/minato1198/items/8cbd7f355086ae4ec147</link>
+<guid>a79ce040858070eadf663cb214eaed7a6cd4bc91a0371a77aa4e4c93292f6d7b</guid>
+<pubDate>2026-09-25T21:29:42+09:00</pubDate>
+<description>はじめに 今までローカルLLMをエージェントとして使うにあたって様々なハーネスを試してきた。 変遷としては GithubCopilotCLI → ClaudeCodeCli → Codex Cli → hermes → Pi といった感じ。 そこまで高価なマシンを持ってい...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Opus 5.5 の「40%安い」は、キャッシュの当たり方で24%にも59%にもなった</title>
-<link>https://qiita.com/suwa_nobu/items/870b1d6c5502aca68f55?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>78394554e352f8e513e64dff8c03b306b5a184e377942445ec4f350ff6e89970</guid>
-<pubDate>2026-09-25T10:29:11+09:00</pubDate>
-<description>Claude Opus 5.5 が 2026-09-22 に出ました。公式の発表はこうです。 Our tests show that at default settings it will cost 40% less than Opus 5 on typical work...</description>
+<title>【Qiita】 ザッカーバーグの Muse はチャットから始まらない。何を知ることが許されるかから始まる。</title>
+<link>https://qiita.com/beatapi/items/8d4612298671a2213951</link>
+<guid>36d4d443898cc8afbafbe1a44d869c6dbb97c85cdc22a88e39472054daee85eb</guid>
+<pubDate>2026-09-25T20:30:10+09:00</pubDate>
+<description>最後のメッセージに答えるだけのパーソナルエージェントは、記憶力の長いチャットボットだ。Meta の Muse が目指すのは、その先にあるもの。アプリを閉じたあとも、目標に向けて動き続けるエージェントである。 この分野の形はまだ定まっていない。クラウドで動くのか、自分のマシ...</description>
 </item>
 <item>
-<title>【Qiita】 管理業務～私の実践～②</title>
-<link>https://qiita.com/wawasaki2468/items/4591be7133e2f9d1d3cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>baa60d9a28cc45b55a898095861de90848a2f1f73a820f7eb14e2ca97dd8ad84</guid>
-<pubDate>2026-09-25T09:16:54+09:00</pubDate>
-<description>初めまして。QAエンジニアのAIと申します。 本日は管理について 私の実際していることを記載します。 参考になる方がいれば幸いです。 今回は【管理】での【教育】について 実際に一緒に働く時のコミュニケーションな事は前回の①でお話しましたが、今回は【教育】について記載いたしま...</description>
+<title>【Qiita】 Claude CodeとCodexはどうやって関連ファイルを検索しているのか？</title>
+<link>https://qiita.com/ktdatascience/items/069ec535466838724e87</link>
+<guid>d6d9407d6c50d83f8da7ba7e367f72fc306415c70d7723f72c113c6b82860aaa</guid>
+<pubDate>2026-09-25T20:29:14+09:00</pubDate>
+<description>はじめに 自分は1年半ほど、業務メモや調査ノートをMarkdownで1つのリポジトリに溜めて、Claude CodeとCodexの両方に読ませています。ある日「タチバナ社（仮名）の案件で使ったSQLはどこ？」と聞いたら「見当たりません」と返ってきました。ファイルはありまし...</description>
 </item>
 <item>
-<title>【Qiita】 GitHub Actions から IBM Concert Protect にセキュリティ成果物を自動投入してみた</title>
-<link>https://qiita.com/daihiraoka/items/188f9bccd7f400f2a735</link>
-<guid>875299e1d021d7d7b9531957c422734c69713fd9ec2e27c1b70097d407f55933</guid>
-<pubDate>2026-09-25T12:22:32+09:00</pubDate>
-<description>はじめに 第1回: 生成AIで開発は速くなった。では、脆弱性管理は誰がやるのか？ 第2回: IBM Concert Protect でソフトウェア部品とリスクを可視化してみた 第3回: CodeQL・Trivy・SBOM変換スクリプトでセキュリティ成果物を生成してみた ...</description>
+<title>【Qiita】 ツール結果は呼び出しの隣に置く：call_id が合っていても No tool output found になる</title>
+<link>https://qiita.com/Karentia/items/fc864c94b6b5c9a24683</link>
+<guid>d3ee885f70c1b1962335b65985beacdfff6fdeabab51ccd62365ab2034c73e34</guid>
+<pubDate>2026-09-25T20:02:45+09:00</pubDate>
+<description>結論 OpenAI 互換の /responses には、function_call の直後に function_call_output が無いと 400 を返す実装があります。call_id が完全に一致していても、間に別のパートが 1 つ挟まるだけで落ちます。 厄介な...</description>
 </item>
 <item>
-<title>【Qiita】 AI エージェントも「作る」より「指摘する」ほうが強い</title>
-<link>https://qiita.com/y-morimatsu/items/4c42ad9318887b10e77a</link>
-<guid>320bb6ab92601cfe883a9101c1b2e575d1c71bb37c6a846ccb02c705a998382f</guid>
-<pubDate>2026-09-25T17:19:14+09:00</pubDate>
-<description>上の 1 枚は、この記事の内容を手描き風にまとめたグラレコです。「作る」と「指摘する」の非対称性から、社内組織との対応、Evaluator を強くする設計ルールまで、まずはこの図で全体の輪郭をつかんでもらえればと思います。 はじめに 🎯 Generator / Eval...</description>
+<title>【農業】 Sudan: FAO launches nationwide livestock vaccination campaign to protect food security and livelihoods amid conflict</title>
+<link>https://www.fao.org/newsroom/detail/sudan--fao-launches-nationwide-livestock-vaccination-campaign-to-protect-food-security-and-livelihoods-amid-conflict/en</link>
+<guid>c8dac0b6c0afc63faa3aa49ba1f2339725052b53135d19a7c66dd5b5f59b980f</guid>
+<pubDate>Fri, 25 Sep 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【Qiita】 なぜJavaは無理してラムダを入れたのか？ — ハードウェアの限界からTransformerまで貫く「関数型」20年の必然性</title>
-<link>https://qiita.com/kinopp/items/f37288f464fac973cf55</link>
-<guid>ec67d0f4d65ada3d1f390013bc23a681f3f6c80763c1d943b699555e26358d21</guid>
-<pubDate>2026-09-25T16:45:35+09:00</pubDate>
-<description>はじめに 「関数型プログラミングとは何か」を解説する記事はすでに数多く存在します。map/filter/reduceの説明、純粋関数と副作用の違い、不変性 (immutability) のメリット——概念そのものは、今やJavaエンジニアにとっても馴染み深いものになりまし...</description>
-</item>
-<item>
-<title>【Qiita】 Agentforceの指示肥大化を防ぐ実装設計｜Agent Scriptに至る6段階チェックリスト</title>
-<link>https://qiita.com/ubakichi_sr_mc_ai_06/items/7743f5d55bae163564c0</link>
-<guid>1335b72ec5bbad872a4d7f7f12a351b8dbf2c5aff9be72f1f2cd0c5379121bd9</guid>
-<pubDate>2026-09-25T16:28:21+09:00</pubDate>
-<description>はじめに AgentforceのサブAIエージェントにInstructions(指示)を詰め込みすぎて、応答が不安定になった経験はないでしょうか。 実装者目線で見ると、この問題は「LLMに何を判断させ、何をコードで固定するか」という設計不足が原因です。 この記事では、Sa...</description>
-</item>
-<item>
-<title>【Qiita】 OpenGatewayで複数LLMの呼び出しとフォールバックを共通化</title>
-<link>https://qiita.com/kataoka_se_sionic/items/10da104ab9ccd8b9265f</link>
-<guid>a85083a3aa5ddce551fd5770e678cc08affe36caa9ef1889153f87e75a4d2253</guid>
-<pubDate>2026-09-25T15:14:02+09:00</pubDate>
-<description>OpenGatewayとは OpenGatewayは、アプリケーションと複数のLLM提供元の間に置くAIゲートウェイです。アプリケーションはOpenGatewayのAPIを呼び出し、OpenGatewayが指定されたモデルの提供元へリクエストを転送します。 Ope...</description>
-</item>
-<item>
-<title>【農業】 Food packaging claims need to be earned</title>
-<link>https://www.nature.com/articles/s43016-026-01442-w</link>
-<guid>dd0e80be3fec76adf71da703c2f49991b739ced09571b7fe78cd249e28618bd1</guid>
-<pubDate>2026-09-24</pubDate>
-<description>More than half of new products in the United States carry a health-related claim, while only a third are actually nutritious, possibly misleading consumers to overestimate their healthfulness.</description>
-</item>
-<item>
-<title>【農業】 Armed conflict accelerates cropland loss and food insecurity worldwide</title>
-<link>https://www.nature.com/articles/s43016-026-01436-8</link>
-<guid>9b53afdba1568b6ee0a36db16f06967edc9096d1a711678a6520a3acf8c04103</guid>
-<pubDate>2026-09-24</pubDate>
-<description>A global analysis and mapping exercise reveals that armed conflicts disproportionately affect cropland, causing agricultural land loss and diminishing potential food production, with implications for food security and Zero Hunger targets.</description>
-</item>
-<item>
-<title>【農業】 On-package claims are imperfect signals of overall nutritional quality</title>
-<link>https://www.nature.com/articles/s43016-026-01435-9</link>
-<guid>475d2c7487063da4d81dfb48e68406dea96752ed5bc22d1bb7aa89bdc49db5b9</guid>
-<pubDate>2026-09-24</pubDate>
-<description>Many food and beverage products contain on-package claims, such as ‘Low Calorie’, ‘High Protein’, ‘All Natural’ or ‘Heart Healthy’, to communicate nutritional or health-related benefits. This study finds that these claims do not consistently correspond to better overall product nutritional quality.</description>
-</item>
-<item>
-<title>【自動自律実験】 AI bots are flooding researchers with requests for money and time</title>
-<link>https://www.nature.com/articles/d41586-026-03005-2</link>
-<guid>e3caf08553f3e12daf0f7c3a8339c769dce7fe41424e5968ee59304a21d9ae0d</guid>
+<title>【環境】 Generative artifical intelligence for climate dialogue justice</title>
+<link>https://www.nature.com/articles/s41558-026-02759-x</link>
+<guid>5be7c134cc8e37683f7dc5197dfad2d49c0ae73a401d9772362acd4babf84b10</guid>
 <pubDate>2026-09-25</pubDate>
-<description>Many scientists use artificial intelligence in their work, but agents are increasingly soliciting researchers for collaborations.</description>
+<description>Climate action requires inclusive dialogue among diverse stakeholders to help inform decision-making for governance and planning. We examine how generative artificial intelligence (GenAI) could broaden participation and support synthesis across regions, disciplines and participants, while underscoring the im</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>a5dbb7f730659e3c147a980a6e4a729dfe0594990952b5388497285b6e31d156</guid>
-<pubDate>Fri, 25 Sep 2026 08:19:50 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【自動自律実験】 Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief</title>
+<link>https://www.nature.com/articles/d41586-026-03032-z</link>
+<guid>bd5393ced0b48d52bba49835b8904e65c7beb3cbdd67b256171d529d05be444a</guid>
+<pubDate>2026-09-25</pubDate>
+<description>Andrew Robinson reviews five of the best science picks.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>e5cbe22d173048cb095759eea0163ffc872ad49594f2c820939cc6abe9b409a2</guid>
-<pubDate>Fri, 25 Sep 2026 08:19:52 GMT</pubDate>
+<guid>6a44ae13f0dc73299508643032fb1dceff95f2c4cb4e7c7aa3c62c2a881c3539</guid>
+<pubDate>Fri, 25 Sep 2026 13:59:14 GMT</pubDate>
 <description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>7f17821e1e3c4c240773d370a536b35d8c8a2d0a32c0351e406dbfe18a0b8bc8</guid>
-<pubDate>Fri, 25 Sep 2026 08:19:54 GMT</pubDate>
+<guid>e6737f2275d67aeb261ae13a0a2cbad6968d17c73723cbe279e2c8b69d1d9f79</guid>
+<pubDate>Fri, 25 Sep 2026 13:59:17 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>553d14c04acb0e22ff093eb5ea6d04fdfd2133a78bd0ca0d96e906bb093051c5</guid>
-<pubDate>Fri, 25 Sep 2026 08:20:57 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>cb9c60779f5bd6a57876a305c04b338d7a35c5bfac05e41230db34cf770131b3</guid>
+<pubDate>Fri, 25 Sep 2026 13:59:49 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
