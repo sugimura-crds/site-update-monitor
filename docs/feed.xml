@@ -4,42 +4,21 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 25 Sep 2026 21:43:46 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 00:16:53 GMT</lastBuildDate>
 
-<item>
-<title>【Qiita】 JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI</title>
-<link>https://qiita.com/jqit-yukiono/items/8675266928f574677d9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>f83a76e0e0b5f5766763dffcb31d90d98b3b0a1c5d2ad17258217fd322b645a5</guid>
-<pubDate>2026-09-25T20:39:46+09:00</pubDate>
-<description>JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI これまでに、GitHub Actionsの失敗を自己修復するパイプラインと、JenkinsでGitHub Copilot CLIにPRを自動レ...</description>
-</item>
-<item>
-<title>【Qiita】 「シンギュラリティはもう始まった」のか──IT技術者が見るべき、本当の変化</title>
-<link>https://qiita.com/mhamadajp/items/94c52a45acf2b5e3b6ec</link>
-<guid>94382350c182c26f70b0ae8ac4e4a2c892d20f9f50c30c250dba351ab77a2497</guid>
-<pubDate>2026-09-26T05:04:03+09:00</pubDate>
-<description>「私たちは、すでにシンギュラリティの中にいるのではないか」。以前なら突飛に聞こえたこの問いが、いまは現実の技術課題として語られるようになりました。 きっかけの一つは、OpenAI CEOのサム・アルトマン氏が2025年6月に公表した The Gentle Singulari...</description>
-</item>
-<item>
-<title>【自動自律実験】 Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?</title>
-<link>https://www.nature.com/articles/d41586-026-03039-6</link>
-<guid>0ed73f4f868fe56a9bbe18bfef9fda3c276afb572d0cd8af057fb7a5d736fb7e</guid>
-<pubDate>2026-09-25</pubDate>
-<description>The detection effort enlisted roughly 950 AI agents that spent more than 21 hours combing through DNA sequence databases.</description>
-</item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>1805b010ff868d4510cd9cccd6df01fee7ab1f71f8eace4ebf2b72038858f80e</guid>
-<pubDate>Fri, 25 Sep 2026 21:43:02 GMT</pubDate>
+<guid>7aa4e786cdf9171147f29d244d348716fa78621ebe9f55e4e90b24cabfd5c639</guid>
+<pubDate>Sat, 26 Sep 2026 00:15:54 GMT</pubDate>
 <description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>59ddc2f738dad641e02d0b07c0e55b6ff780ced2aebc8fd452da5d61aa4edc0e</guid>
-<pubDate>Fri, 25 Sep 2026 21:43:04 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+<link>https://www.nature.com/articles/s41598-026-69355-z</link>
+<guid>828b1a14423ecb82a3a6656b9b940ca1b642052345f5dfc5a13b5143e184ee49</guid>
+<pubDate>Sat, 26 Sep 2026 00:16:00 GMT</pubDate>
+<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
 </item>
 
 </channel>
