@@ -4,57 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 26 Sep 2026 14:13:32 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 17:51:31 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Code の hooks は sed 経由の編集を見ていない</title>
-<link>https://qiita.com/maeda-kazutoshi/items/e60c19932b9676cff694</link>
-<guid>a674a96909a53bc1254c50191c5c22395f029e8c886b7c98c7d903dce1401f6b</guid>
-<pubDate>2026-09-26T22:26:22+09:00</pubDate>
-<description>先日、Claude Code の PostToolUse hook に Bash の matcher を足しました。それまでは Edit|Write|MultiEdit にだけ張っていて、エージェントが sed -i やヒアドキュメントで書いたファイルは、型チェックも保護パ...</description>
+<title>【Qiita】 Agent組織を統治／長期記憶を育てる／MacでiPhoneを仮想化――今日のGitHub 3選</title>
+<link>https://qiita.com/tsuzuri_ai/items/6049a7cee8c218f55637</link>
+<guid>b66dccb4b506934098f9c29d5203ca624d8cd1b2f1c5bd22de15bcc162ded2a4</guid>
+<pubDate>2026-09-27T01:01:48+09:00</pubDate>
+<description>2026年9月27日時点で、今日見ておきたいGitHub Repositoryを3件選びました。「Agentをどう統治するか」「Agentがどう学び続けるか」「iPhone環境をどう仮想化するか」の3方向です。 Repository 何これ？ 最短の入口 私の評価 ...</description>
 </item>
 <item>
-<title>【Qiita】 AGENTS.md を 38 行にしたら指示が通るようになった</title>
-<link>https://qiita.com/maeda-kazutoshi/items/2633e0984551bfe2b124</link>
-<guid>d6a176cb74566908f7dc716d6bb4bccbf7f67a7bebb33a4341fc995f6a8c627c</guid>
-<pubDate>2026-09-26T22:26:10+09:00</pubDate>
-<description>9 月の半ばに、Claude Code と Kiro の両方で使うルールファイルを作り直しました。それまで使っていた memory-bank 方式では、書いたはずの指示がセッションの途中から反映されなくなっていたからです。作り直してから 2 週間ほど経ち、タスクも 30 個...</description>
+<title>【Qiita】 AIに任せる仕事をどう設計するか――n8nの事例から考える「監督と記録」</title>
+<link>https://qiita.com/sin-aiagent/items/2fd0ab440dfedff4b974</link>
+<guid>1eb18d2be52b0d1f8100e28b31c0fa3a16eb5631daf6724a0dff2ddb3ff8a97d</guid>
+<pubDate>2026-09-26T23:22:49+09:00</pubDate>
+<description>導入：何を頼むかと、何ができるかを分ける AIにお願いしたいのは、顧客への連絡メモを残すこと。 それなのに、顧客情報を丸ごと削除できる権限まで渡していたら……。 「いや、そこまで頼んでないｗ」と言いたくなりますよね。 これは実際の事故を紹介する話ではなく、AIに仕事を任...</description>
 </item>
 <item>
-<title>【Qiita】 AgentRunとは？ 小さな判断はJevに、調査だけAIエージェントに任せるワークフロー言語</title>
-<link>https://qiita.com/Takuya__/items/bce7a1c63886b8eb0609</link>
-<guid>8b1190adb80179be6342fe0bfd1ab2671cac13d11fbb99b12176a86edb12774a</guid>
-<pubDate>2026-09-26T20:41:54+09:00</pubDate>
-<description>はじめに：その判断、毎回エージェントに考えさせていませんか AIエージェントを業務に入れると、多くのチームが同じところでつまずきます。「この問い合わせはどのチームの担当か」「この回答で足りているか」といった小さな判断まで、毎回エージェントに長く考えさせてしまう問題です。...</description>
+<title>【Qiita】 950のClaudeがDNAを探索――未知の酵素系「ART」候補を発見</title>
+<link>https://qiita.com/sin-aiagent/items/1a41c252020426f2659f</link>
+<guid>bec11bf4f58ca1a3ff000d49d0d6f68dbce049532edb246a9a3c6ea8396c8660</guid>
+<pubDate>2026-09-27T00:30:49+09:00</pubDate>
+<description>公開日：2026年9月26日 ｜ 一次資料確認：Anthropic公式発表・同社プレプリント案内 約950のClaudeエージェントが21時間かけて巨大なDNAデータベースを探索し、未知の酵素系候補を見つけた――。Anthropicは2026年9月23日、CRISPRを思...</description>
 </item>
 <item>
-<title>【Qiita】 Meta Museの実地検証13件から考える、AIエージェントの「実行前チェック」設計</title>
-<link>https://qiita.com/beatapi/items/7985e5cd1885a8450094</link>
-<guid>2ee250f1488e9d75b26a0a47ebb75cf77c9b92aa456181b59d7f1a4c31140ed9</guid>
-<pubDate>2026-09-26T19:49:35+09:00</pubDate>
-<description>Meta Museの公開後、CNN、Yahoo Finance、The Verge、WIREDなどが実際の用事を任せて検証しました。引っ越し業者への連絡や旅行計画は進んだ一方で、閉店した店の推薦や架空の電話番号も報告されています。本稿では、これらの結果をAIエージェントを作...</description>
+<title>【Qiita】 会話を止めず、裏で仕事するAIアバター。Google「Gemini 3.8 Live with Live Avatar」が本番へ</title>
+<link>https://qiita.com/sin-aiagent/items/7dc48b9dbc174945ae64</link>
+<guid>067ba4a9e82a9e7ed243b9f0fd72ea5d20b315e6576e20527d0ea70a3b67cae3</guid>
+<pubDate>2026-09-27T00:04:30+09:00</pubDate>
+<description>公開日：2026年9月26日 ｜ 一次資料確認：Google／Google Cloud／Google DeepMind 画面の中のアバターが、こちらを見て、話を聞き、自然に返事をする。その会話を続けたまま、裏では予約確認や情報取得などのツール処理まで進める。Googleが...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>e10d1553e3882ee6bb2e5df20bab35815b7677cb7c3d6c2a1a321952c315a8c3</guid>
-<pubDate>Sat, 26 Sep 2026 14:12:49 GMT</pubDate>
+<guid>0011909ad2280c21d32e5044c3edd106f857d7bc342254e3ff0a0b57bc35cd9c</guid>
+<pubDate>Sat, 26 Sep 2026 17:50:35 GMT</pubDate>
 <description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>40aaa40ff996435d9c540f489222347194c273a7958f762278c1b95afacdb21d</guid>
-<pubDate>Sat, 26 Sep 2026 14:13:13 GMT</pubDate>
+<guid>b18a1c70017ed77ccb0f81306d94e84198f2c9ecdec13da98345acf9f59d7989</guid>
+<pubDate>Sat, 26 Sep 2026 17:51:12 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 <item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>b12a0b1aecc1d799b59bdf0877c68a54a210a8b8c8a767730d7a320c5f024bc9</guid>
-<pubDate>Sat, 26 Sep 2026 14:13:22 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>2b199b0618f9b9f68b92cfd6ee11cfcf3fdb375ee41cc9cbb9d086b1f4a8a32c</guid>
+<pubDate>Sat, 26 Sep 2026 17:51:13 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
