@@ -4,21 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 26 Sep 2026 00:16:53 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 05:14:08 GMT</lastBuildDate>
 
+<item>
+<title>【Qiita】 AI に SSH でコマンドを実行させると端末が無い ― systemctl edit の失敗から決めたこと</title>
+<link>https://qiita.com/kishitaku8207/items/9072887049040c74ee4b</link>
+<guid>9fb853ddb53bc52bdd1d52e8b1c6be872d0a17bbec8fc7f5124c7b07a538c769</guid>
+<pubDate>2026-09-26T12:05:28+09:00</pubDate>
+<description>はじめに Claude Code に、SSH で別の Linux サーバ（検証用の VM）のコマンドを実行させていました。 その中で、人が打てば動くはずのコマンドが、AI 経由だと失敗することがありました。systemctl edit です。 Cannot edit un...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントから届く「◯◯できない」系の問い合わせに時間を削られる問題と対策</title>
+<link>https://qiita.com/s-katsumata/items/e1641ff520827a8c4728</link>
+<guid>00690687856af1a35b11dfdfbe6bcdce0b3575616d2a1e091c093902a11965c3</guid>
+<pubDate>2026-09-26T11:25:26+09:00</pubDate>
+<description>背景 ついにAIエージェントから問い合わせが入るようになりました。 完全にクロなのが2日間で2件。 予約代行を訴求しているMetaのMuseのリリースと関係してそうです。 メタのAIエージェント、無料で買い物や予約代行－「Muse」提供を開始 - Bloomberg 問...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェント対応IDEは「モデル数」より、渡せる文脈と検証手段で選ぶ</title>
+<link>https://qiita.com/heftykoo/items/82d4d48f668de6c26565</link>
+<guid>1bb5816a06f75a4cdd384786051f0a74590bf3e5c5bc2f84b68db77d4a795720</guid>
+<pubDate>2026-09-26T09:59:13+09:00</pubDate>
+<description>「このIDEなら好きなエージェントを接続できます」と言われても、自分が気になるのは接続後だ。Reactの画面を直すとき、エージェントは既存の型やテストをどこまで把握できるのか。ビルドが落ちたら診断を見られるのか。途中で止めた作業を、人間はどこから引き継げるのか。 Andro...</description>
+</item>
+<item>
+<title>【Qiita】 19年前の噴火警報が、いまもJSONに住んでいる【kurashi-skill Day 16】</title>
+<link>https://qiita.com/Ichiropen/items/dbd45061458713de4c7e</link>
+<guid>83c6f8912a4548f038c64dd1a16513e8e1efbf2cd39249c0d10e58e732a7de80</guid>
+<pubDate>2026-09-26T09:32:46+09:00</pubDate>
+<description>旅先が決まるたびに調べる。「その火山、いま噴火してる?」。ニュースは「噴火警報発表」とだけ言う。いつの発表かは書いていない。気象庁は、ユーザー登録なしで機械可読な気象・防災データを公開している。火山も例外ではない。僕はそのJSONを読むスキルを作った。そこで、時を止めた警報...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>75f4b456aeb6106344d7fed316cd7e936e51cabc0aaa6ddd02e7c9f29502bff9</guid>
+<pubDate>Sat, 26 Sep 2026 05:13:07 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>4a0ed8f7f0525a362db0020f14a0aae2c86e8b348108ec80cfb24fe1522e3247</guid>
+<pubDate>Sat, 26 Sep 2026 05:13:07 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overal</description>
+</item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>7aa4e786cdf9171147f29d244d348716fa78621ebe9f55e4e90b24cabfd5c639</guid>
-<pubDate>Sat, 26 Sep 2026 00:15:54 GMT</pubDate>
+<guid>da3025b32d6c2345bdf3f073b3b6c4db7e09536e93059cfadc84208b40d9b9d3</guid>
+<pubDate>Sat, 26 Sep 2026 05:13:09 GMT</pubDate>
 <description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>828b1a14423ecb82a3a6656b9b940ca1b642052345f5dfc5a13b5143e184ee49</guid>
-<pubDate>Sat, 26 Sep 2026 00:16:00 GMT</pubDate>
-<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>b4cf1f41a4a0dbcbf0418a64194d6a8a37a4da70f52d6c4bd06c456edd3ee493</guid>
+<pubDate>Sat, 26 Sep 2026 05:13:11 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>f8c03da7acf8d8132fb14119a5c308590e2bd80bc01dd239ef323c89c7fac0ea</guid>
+<pubDate>Sat, 26 Sep 2026 05:13:12 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
