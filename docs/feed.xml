@@ -4,77 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 26 Sep 2026 10:00:47 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 14:13:32 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故</title>
-<link>https://qiita.com/jqit-yukiono/items/21973aaa1c605b34c174?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>c60a0aca4bdf7cbf02a2990e3af17a1cbf962be4db87e1374994a11213aecd4f</guid>
-<pubDate>2026-09-25T20:38:43+09:00</pubDate>
-<description>個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故 前回の記事で、iOS（UIKit）+ FastAPI + Kubernetesで作ったMinecraftサーバー監視アプリ「MineWatch」が3回のリジェクトを...</description>
+<title>【Qiita】 Claude Code の hooks は sed 経由の編集を見ていない</title>
+<link>https://qiita.com/maeda-kazutoshi/items/e60c19932b9676cff694</link>
+<guid>a674a96909a53bc1254c50191c5c22395f029e8c886b7c98c7d903dce1401f6b</guid>
+<pubDate>2026-09-26T22:26:22+09:00</pubDate>
+<description>先日、Claude Code の PostToolUse hook に Bash の matcher を足しました。それまでは Edit|Write|MultiEdit にだけ張っていて、エージェントが sed -i やヒアドキュメントで書いたファイルは、型チェックも保護パ...</description>
 </item>
 <item>
-<title>【Qiita】 AI生成そのままのスライドを使った登壇が多すぎてちょっと食傷気味なんだよォーーーッ！！！</title>
-<link>https://qiita.com/shimagaji/items/8acd9b94dfe56fefc0dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>82af7e2a3f4bedb98a1cd9b2e11c09d8227bde95a4afe55b7c259b65b24e300c</guid>
-<pubDate>2026-09-24T23:40:45+09:00</pubDate>
-<description>ちいかわは未履修です。 本記事は「カンファレンスなどでAI生成のスライドをそのまま使った登壇が多すぎてしんどい」という主張を、「それってあなたの感想ですよね」となるべく言われないように可能な限り補強したものです。裏付けが正直弱いのでポエムとしてお読みください。 ...</description>
+<title>【Qiita】 AGENTS.md を 38 行にしたら指示が通るようになった</title>
+<link>https://qiita.com/maeda-kazutoshi/items/2633e0984551bfe2b124</link>
+<guid>d6a176cb74566908f7dc716d6bb4bccbf7f67a7bebb33a4341fc995f6a8c627c</guid>
+<pubDate>2026-09-26T22:26:10+09:00</pubDate>
+<description>9 月の半ばに、Claude Code と Kiro の両方で使うルールファイルを作り直しました。それまで使っていた memory-bank 方式では、書いたはずの指示がセッションの途中から反映されなくなっていたからです。作り直してから 2 週間ほど経ち、タスクも 30 個...</description>
 </item>
 <item>
-<title>【Qiita】 高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜</title>
-<link>https://qiita.com/ast-24/items/454fc975b095230565c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>b488fef2f98be4169277f8be195006b3874098c95ce084bfa4fca4db6e45ffe0</guid>
-<pubDate>2026-09-24T00:11:53+09:00</pubDate>
-<description>こんにちは！とある高校のSE志望の学生です。 今年の文化祭で、私のクラスは模擬店としてホットドッグを販売することになりました。 そこで、注文から受け渡しまでを担うPOSシステムを1から開発・運用してみました！ インフラには一番手軽に使えて自由度も高いCloudflareを採...</description>
+<title>【Qiita】 AgentRunとは？ 小さな判断はJevに、調査だけAIエージェントに任せるワークフロー言語</title>
+<link>https://qiita.com/Takuya__/items/bce7a1c63886b8eb0609</link>
+<guid>8b1190adb80179be6342fe0bfd1ab2671cac13d11fbb99b12176a86edb12774a</guid>
+<pubDate>2026-09-26T20:41:54+09:00</pubDate>
+<description>はじめに：その判断、毎回エージェントに考えさせていませんか AIエージェントを業務に入れると、多くのチームが同じところでつまずきます。「この問い合わせはどのチームの担当か」「この回答で足りているか」といった小さな判断まで、毎回エージェントに長く考えさせてしまう問題です。...</description>
 </item>
 <item>
-<title>【Qiita】 AI感のないAWS構成図をAIエージェントに描かせたい！</title>
-<link>https://qiita.com/sagochiko/items/ef77b084ff2dee1f859c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>8341a875c8dc132400b2dd3b25a72da290438c11a3f63da5dcf5f9eddf0194c1</guid>
-<pubDate>2026-09-25T21:57:18+09:00</pubDate>
-<description>みなさんが過去にClaudeやCodex（今後はまとめて「AIエージェント」と呼びます）に作成してもらった構成図ってこんな感じの構成図じゃなかったですか？ アイコンやサブネットの角が丸っぽくてAI感ありますよね。「これじゃ自分で書いたほうがいいや」となっちゃいます。 コー...</description>
-</item>
-<item>
-<title>【Qiita】 2026年9月25日に発表された新しい Microsoft Copilot についての整理</title>
-<link>https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3</link>
-<guid>5cd8159ad402800221f74914fddb32396825e0b3f5b320463517e7eb6c94c7fc</guid>
-<pubDate>2026-09-26T17:19:44+09:00</pubDate>
-<description>はじめに (※ この記事は、Microsoft Copilot を活用しまとめ、修正やレビュー後投稿しています。) 2026年9月25日、Microsoft は Microsoft Copilot の大規模なアップデートを発表しました。 今回発表された新しい Copil...</description>
-</item>
-<item>
-<title>【Qiita】 Gemini Robotics 2は「歩くAI」ではない──全身制御を本番運用へ入れるための境界設計</title>
-<link>https://qiita.com/mhamadajp/items/5ea7632d4ec761c43704</link>
-<guid>7c65d42adea150cb3530410d30f7ad1a2ef32a8d1bd3ca44b72dc6e1564ebe5d</guid>
-<pubDate>2026-09-26T18:29:46+09:00</pubDate>
-<description>「ロボットが棚の下へしゃがみ、物をつかみ、立ち上がる」。Gemini Robotics 2の発表で目を引くのは、このような全身を使う動作です。Google DeepMindは、脚から指先までを制御できるVision-Language-Action（VLA）モデルとして位置付...</description>
-</item>
-<item>
-<title>【Qiita】 自律開発ループが「自分のリトライ記録」を push して、10時間で94周した</title>
-<link>https://qiita.com/made_in_jp2525/items/10b179d322b1868cf59d</link>
-<guid>373d8749abb5efd4134091518dcb8a8aa3307515a5f1099782e0ffb742eb50c8</guid>
-<pubDate>2026-09-26T17:56:47+09:00</pubDate>
-<description>自律開発ループが「自分のリトライ記録」を push して、10時間で94周した GitHub Actions 上で Claude のエージェントを回している自律開発ループが、1本の Issue で10時間・94周し、セッション枠を3つ焼きました。 原因は一行で言えます。 ...</description>
-</item>
-<item>
-<title>【Qiita】 Codex CLI 0.157 が Windows で空のターミナル窓を起動のたびに開く。config.toml の 1 行で止めた（ブラウザ操作は残したまま）</title>
-<link>https://qiita.com/ishizakahiroshi/items/2e87da3628a9ac7322c3</link>
-<guid>b5d896ab82b8f0b6f4ba359592f7ae9975ba6240337fb76c348ebd66c46036a9</guid>
-<pubDate>2026-09-26T17:11:24+09:00</pubDate>
-<description>Codex を起動するたびに、中身が空の黒いターミナル窓が 1 枚ずつ増えていきました。2 つの契約（アカウント）を切り替えて使っていたら、気づいたときにはタスクバーに 4 枚並んでいて、なんだこれ、と思いました。 先に結論です。~/.codex/config.toml ...</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>9c00bec675d775446ef957321a8c69f4afc91eee84edfc75a0ff0c69d6b34dd6</guid>
-<pubDate>Sat, 26 Sep 2026 09:59:45 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 Meta Museの実地検証13件から考える、AIエージェントの「実行前チェック」設計</title>
+<link>https://qiita.com/beatapi/items/7985e5cd1885a8450094</link>
+<guid>2ee250f1488e9d75b26a0a47ebb75cf77c9b92aa456181b59d7f1a4c31140ed9</guid>
+<pubDate>2026-09-26T19:49:35+09:00</pubDate>
+<description>Meta Museの公開後、CNN、Yahoo Finance、The Verge、WIREDなどが実際の用事を任せて検証しました。引っ越し業者への連絡や旅行計画は進んだ一方で、閉店した店の推薦や架空の電話番号も報告されています。本稿では、これらの結果をAIエージェントを作...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>e9fa28b594fe79f66bdf7d7e473f6e83842669a6ab73aed875ebbdcdd15d6ad4</guid>
-<pubDate>Sat, 26 Sep 2026 09:59:47 GMT</pubDate>
+<guid>e10d1553e3882ee6bb2e5df20bab35815b7677cb7c3d6c2a1a321952c315a8c3</guid>
+<pubDate>Sat, 26 Sep 2026 14:12:49 GMT</pubDate>
 <description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>40aaa40ff996435d9c540f489222347194c273a7958f762278c1b95afacdb21d</guid>
+<pubDate>Sat, 26 Sep 2026 14:13:13 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>b12a0b1aecc1d799b59bdf0877c68a54a210a8b8c8a767730d7a320c5f024bc9</guid>
+<pubDate>Sat, 26 Sep 2026 14:13:22 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
