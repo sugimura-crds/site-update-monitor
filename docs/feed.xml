@@ -4,56 +4,28 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 26 Sep 2026 20:22:55 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 23:02:18 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 新しい Copilot（Home・Code・Autopilot）と料金体系を整理し、大企業で広く展開する際の課題を考えてみる</title>
-<link>https://qiita.com/Takashi_Masumori/items/6f65c23e580dd454d4c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>b025a495e25ffcc9c0fd754dfbd93ed049f03cb19594c74cb8fefc2f24d90180</guid>
-<pubDate>2026-09-26T16:36:58+09:00</pubDate>
-<description>はじめに 2026年9月25日、Microsoft から「新しい Copilot」が発表されました。Copilot アプリそのものの形が変わる大きな発表で、あわせて料金体系も「ユーザー単位のライセンス」と「利用量に応じた課金」の2本立てに整理されています。 発表の内容自体...</description>
+<title>【Qiita】 長尺AI動画は「一発生成」から「AI制作チーム」へ――Googleが公開した4つのマルチエージェント研究</title>
+<link>https://qiita.com/sin-aiagent/items/b0664a1d1428265136d2</link>
+<guid>b22c9ce74c5e1919a95022dd8de3b3c2d62f0c5f1b0900f8b5e9a79d74e58a1a</guid>
+<pubDate>2026-09-27T07:59:12+09:00</pubDate>
+<description>短いAI動画は驚くほどきれいになりました。けれど、数分の物語に伸ばすと、同じ人物の服が変わる、部屋の配置がずれる、小道具が別物になる――そんな「長尺ならではの崩れ」が起きやすくなります。 Google Researchは2026年9月24日、長尺動画を一本のモデルに一気に...</description>
 </item>
 <item>
-<title>【Qiita】 FlutterからFoundation Modelsを呼ぶ最小構成</title>
-<link>https://qiita.com/TechStudioLab/items/1d08c21fd53cecaff4c4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>b3f7eea719d737693754416946d40316c41d4aff52466d29e30f2e5e5d14be3e</guid>
-<pubDate>2026-09-26T13:15:52+09:00</pubDate>
-<description>はじめに FlutterでiOSアプリを作っていると、Apple固有の新しいAPIを使いたい場面があります。 Foundation Modelsもその一つです。Apple Intelligenceを支えるオンデバイスモデルへ、SwiftのFoundationModelsフ...</description>
+<title>【Qiita】 AIエージェントにSmalltalk処理系を作らせてみた 前編</title>
+<link>https://qiita.com/silentmalachite/items/0a8f0d68cb8c7ba013c2</link>
+<guid>7d9b8e0264827665b09a05b8568ed84f15fa62414c085f43578446285260e32c</guid>
+<pubDate>2026-09-27T06:38:22+09:00</pubDate>
+<description>（長文です） 突然ですが、現在、休職中です。 何もしないでいるとかえって辛くなってしまうので、この機会に以前から作ってみたかった自分だけのSmalltalk処理系を作ってみることとしました。 ちゃんと日々の計画や週ごとの目標を立ててのことです。 最初に全体の感想を！ 日頃、...</description>
 </item>
 <item>
-<title>【Qiita】 Opus がお休みなので Gemini と話したら、Excelマネージャーはすごいと評価してくれた話</title>
-<link>https://qiita.com/shu15511551/items/8064dc3c64656970e5ac</link>
-<guid>8c3cd5676a3dddc7083a96f327773d2decd167142b481c85f28554d590d02cb5</guid>
-<pubDate>2026-09-27T03:57:20+09:00</pubDate>
-<description>はじめに 先日の夜、長年家で育ててきた道具一式を GitHub に公開した顛末について記事を書きました。 『服を脱げ！ Opus！、棚撃ち式 Excelマネージャー公開で大事件が発生した話』 公開の直前、設計役の Claude（Opus）が勝手に看板機能である「先撃...</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>9a775bc8069ff6f77a6f75b7cc2b5a0a3cf8f2b509e2cafd6dea50e84668e348</guid>
-<pubDate>Sat, 26 Sep 2026 20:22:12 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>4673e3fa6334f4c1a816d9416a46af2fc04e881fccc41b4744cbce65350e49e2</guid>
-<pubDate>Sat, 26 Sep 2026 20:22:15 GMT</pubDate>
-<description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>c5bb91abff4f4679fe1dc32540da8bfb2392772f57d932dbce918b37691fcbb8</guid>
-<pubDate>Sat, 26 Sep 2026 20:22:18 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>608e426d1d33e5069fdbfa4de1a7ff6f0201f31f06e6d3777e4900297fd74053</guid>
-<pubDate>Sat, 26 Sep 2026 20:22:23 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【Qiita】 AIコーディングが「1ドルから10セント」になるとき、IT部門は何を判断すべきか</title>
+<link>https://qiita.com/mhamadajp/items/8461a7fa08571e03e965</link>
+<guid>3465b1232c81a9f4e84c3cdb822830d2ef24d240999a6bf0a7ce68702f0420eb</guid>
+<pubDate>2026-09-27T05:36:49+09:00</pubDate>
+<description>Metaの「Muse Code」と「Muse Spark 1.2」で注目したいのは、モデル性能だけではありません。料金ティアによって、開発データの扱いが変わる点です。 結論：安い利用料は、計算資源の値引きだけではない 価格表は次のように読めます。 ティア 入力 キャ...</description>
 </item>
 
 </channel>
