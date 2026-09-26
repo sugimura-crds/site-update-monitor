@@ -4,70 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 26 Sep 2026 05:14:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 10:00:47 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AI に SSH でコマンドを実行させると端末が無い ― systemctl edit の失敗から決めたこと</title>
-<link>https://qiita.com/kishitaku8207/items/9072887049040c74ee4b</link>
-<guid>9fb853ddb53bc52bdd1d52e8b1c6be872d0a17bbec8fc7f5124c7b07a538c769</guid>
-<pubDate>2026-09-26T12:05:28+09:00</pubDate>
-<description>はじめに Claude Code に、SSH で別の Linux サーバ（検証用の VM）のコマンドを実行させていました。 その中で、人が打てば動くはずのコマンドが、AI 経由だと失敗することがありました。systemctl edit です。 Cannot edit un...</description>
+<title>【Qiita】 個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故</title>
+<link>https://qiita.com/jqit-yukiono/items/21973aaa1c605b34c174?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>c60a0aca4bdf7cbf02a2990e3af17a1cbf962be4db87e1374994a11213aecd4f</guid>
+<pubDate>2026-09-25T20:38:43+09:00</pubDate>
+<description>個人開発でApp Storeリリースフローを学ぶ（三部作）― 本番だけ静かに壊れた、CI/CDの2つの事故 前回の記事で、iOS（UIKit）+ FastAPI + Kubernetesで作ったMinecraftサーバー監視アプリ「MineWatch」が3回のリジェクトを...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントから届く「◯◯できない」系の問い合わせに時間を削られる問題と対策</title>
-<link>https://qiita.com/s-katsumata/items/e1641ff520827a8c4728</link>
-<guid>00690687856af1a35b11dfdfbe6bcdce0b3575616d2a1e091c093902a11965c3</guid>
-<pubDate>2026-09-26T11:25:26+09:00</pubDate>
-<description>背景 ついにAIエージェントから問い合わせが入るようになりました。 完全にクロなのが2日間で2件。 予約代行を訴求しているMetaのMuseのリリースと関係してそうです。 メタのAIエージェント、無料で買い物や予約代行－「Muse」提供を開始 - Bloomberg 問...</description>
+<title>【Qiita】 AI生成そのままのスライドを使った登壇が多すぎてちょっと食傷気味なんだよォーーーッ！！！</title>
+<link>https://qiita.com/shimagaji/items/8acd9b94dfe56fefc0dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>82af7e2a3f4bedb98a1cd9b2e11c09d8227bde95a4afe55b7c259b65b24e300c</guid>
+<pubDate>2026-09-24T23:40:45+09:00</pubDate>
+<description>ちいかわは未履修です。 本記事は「カンファレンスなどでAI生成のスライドをそのまま使った登壇が多すぎてしんどい」という主張を、「それってあなたの感想ですよね」となるべく言われないように可能な限り補強したものです。裏付けが正直弱いのでポエムとしてお読みください。 ...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント対応IDEは「モデル数」より、渡せる文脈と検証手段で選ぶ</title>
-<link>https://qiita.com/heftykoo/items/82d4d48f668de6c26565</link>
-<guid>1bb5816a06f75a4cdd384786051f0a74590bf3e5c5bc2f84b68db77d4a795720</guid>
-<pubDate>2026-09-26T09:59:13+09:00</pubDate>
-<description>「このIDEなら好きなエージェントを接続できます」と言われても、自分が気になるのは接続後だ。Reactの画面を直すとき、エージェントは既存の型やテストをどこまで把握できるのか。ビルドが落ちたら診断を見られるのか。途中で止めた作業を、人間はどこから引き継げるのか。 Andro...</description>
+<title>【Qiita】 高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜</title>
+<link>https://qiita.com/ast-24/items/454fc975b095230565c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>b488fef2f98be4169277f8be195006b3874098c95ce084bfa4fca4db6e45ffe0</guid>
+<pubDate>2026-09-24T00:11:53+09:00</pubDate>
+<description>こんにちは！とある高校のSE志望の学生です。 今年の文化祭で、私のクラスは模擬店としてホットドッグを販売することになりました。 そこで、注文から受け渡しまでを担うPOSシステムを1から開発・運用してみました！ インフラには一番手軽に使えて自由度も高いCloudflareを採...</description>
 </item>
 <item>
-<title>【Qiita】 19年前の噴火警報が、いまもJSONに住んでいる【kurashi-skill Day 16】</title>
-<link>https://qiita.com/Ichiropen/items/dbd45061458713de4c7e</link>
-<guid>83c6f8912a4548f038c64dd1a16513e8e1efbf2cd39249c0d10e58e732a7de80</guid>
-<pubDate>2026-09-26T09:32:46+09:00</pubDate>
-<description>旅先が決まるたびに調べる。「その火山、いま噴火してる?」。ニュースは「噴火警報発表」とだけ言う。いつの発表かは書いていない。気象庁は、ユーザー登録なしで機械可読な気象・防災データを公開している。火山も例外ではない。僕はそのJSONを読むスキルを作った。そこで、時を止めた警報...</description>
+<title>【Qiita】 AI感のないAWS構成図をAIエージェントに描かせたい！</title>
+<link>https://qiita.com/sagochiko/items/ef77b084ff2dee1f859c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>8341a875c8dc132400b2dd3b25a72da290438c11a3f63da5dcf5f9eddf0194c1</guid>
+<pubDate>2026-09-25T21:57:18+09:00</pubDate>
+<description>みなさんが過去にClaudeやCodex（今後はまとめて「AIエージェント」と呼びます）に作成してもらった構成図ってこんな感じの構成図じゃなかったですか？ アイコンやサブネットの角が丸っぽくてAI感ありますよね。「これじゃ自分で書いたほうがいいや」となっちゃいます。 コー...</description>
+</item>
+<item>
+<title>【Qiita】 2026年9月25日に発表された新しい Microsoft Copilot についての整理</title>
+<link>https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3</link>
+<guid>5cd8159ad402800221f74914fddb32396825e0b3f5b320463517e7eb6c94c7fc</guid>
+<pubDate>2026-09-26T17:19:44+09:00</pubDate>
+<description>はじめに (※ この記事は、Microsoft Copilot を活用しまとめ、修正やレビュー後投稿しています。) 2026年9月25日、Microsoft は Microsoft Copilot の大規模なアップデートを発表しました。 今回発表された新しい Copil...</description>
+</item>
+<item>
+<title>【Qiita】 Gemini Robotics 2は「歩くAI」ではない──全身制御を本番運用へ入れるための境界設計</title>
+<link>https://qiita.com/mhamadajp/items/5ea7632d4ec761c43704</link>
+<guid>7c65d42adea150cb3530410d30f7ad1a2ef32a8d1bd3ca44b72dc6e1564ebe5d</guid>
+<pubDate>2026-09-26T18:29:46+09:00</pubDate>
+<description>「ロボットが棚の下へしゃがみ、物をつかみ、立ち上がる」。Gemini Robotics 2の発表で目を引くのは、このような全身を使う動作です。Google DeepMindは、脚から指先までを制御できるVision-Language-Action（VLA）モデルとして位置付...</description>
+</item>
+<item>
+<title>【Qiita】 自律開発ループが「自分のリトライ記録」を push して、10時間で94周した</title>
+<link>https://qiita.com/made_in_jp2525/items/10b179d322b1868cf59d</link>
+<guid>373d8749abb5efd4134091518dcb8a8aa3307515a5f1099782e0ffb742eb50c8</guid>
+<pubDate>2026-09-26T17:56:47+09:00</pubDate>
+<description>自律開発ループが「自分のリトライ記録」を push して、10時間で94周した GitHub Actions 上で Claude のエージェントを回している自律開発ループが、1本の Issue で10時間・94周し、セッション枠を3つ焼きました。 原因は一行で言えます。 ...</description>
+</item>
+<item>
+<title>【Qiita】 Codex CLI 0.157 が Windows で空のターミナル窓を起動のたびに開く。config.toml の 1 行で止めた（ブラウザ操作は残したまま）</title>
+<link>https://qiita.com/ishizakahiroshi/items/2e87da3628a9ac7322c3</link>
+<guid>b5d896ab82b8f0b6f4ba359592f7ae9975ba6240337fb76c348ebd66c46036a9</guid>
+<pubDate>2026-09-26T17:11:24+09:00</pubDate>
+<description>Codex を起動するたびに、中身が空の黒いターミナル窓が 1 枚ずつ増えていきました。2 つの契約（アカウント）を切り替えて使っていたら、気づいたときにはタスクバーに 4 枚並んでいて、なんだこれ、と思いました。 先に結論です。~/.codex/config.toml ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>75f4b456aeb6106344d7fed316cd7e936e51cabc0aaa6ddd02e7c9f29502bff9</guid>
-<pubDate>Sat, 26 Sep 2026 05:13:07 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>9c00bec675d775446ef957321a8c69f4afc91eee84edfc75a0ff0c69d6b34dd6</guid>
+<pubDate>Sat, 26 Sep 2026 09:59:45 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>4a0ed8f7f0525a362db0020f14a0aae2c86e8b348108ec80cfb24fe1522e3247</guid>
-<pubDate>Sat, 26 Sep 2026 05:13:07 GMT</pubDate>
-<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overal</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>da3025b32d6c2345bdf3f073b3b6c4db7e09536e93059cfadc84208b40d9b9d3</guid>
-<pubDate>Sat, 26 Sep 2026 05:13:09 GMT</pubDate>
+<guid>e9fa28b594fe79f66bdf7d7e473f6e83842669a6ab73aed875ebbdcdd15d6ad4</guid>
+<pubDate>Sat, 26 Sep 2026 09:59:47 GMT</pubDate>
 <description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>b4cf1f41a4a0dbcbf0418a64194d6a8a37a4da70f52d6c4bd06c456edd3ee493</guid>
-<pubDate>Sat, 26 Sep 2026 05:13:11 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>f8c03da7acf8d8132fb14119a5c308590e2bd80bc01dd239ef323c89c7fac0ea</guid>
-<pubDate>Sat, 26 Sep 2026 05:13:12 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
