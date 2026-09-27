@@ -4,71 +4,64 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 27 Sep 2026 17:52:44 GMT</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 20:37:12 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Amazon Bedrock で実現する AWS 最新情報の自動翻訳及び要約・配信システム</title>
-<link>https://qiita.com/kiwi-dev/items/168b7cefc11e2b99abd9</link>
-<guid>50b74a19e7ca5cab8167c4d6d9786a20ca4c07dcf655a5f9d02cc7ac044945b5</guid>
-<pubDate>2026-09-27T22:34:06+09:00</pubDate>
-<description>どんなシステム？ AWS What&#x27;s Newで公開される情報を翻訳、要約してWeb公開、希望の方にはメールで配信するWebシステムです。 https://awsnews.kiwi-cloud.com/ なんで作ったの？ AWS What&#x27;s Newで日本語設定をして...</description>
+<title>【Qiita】 自分の頭で考えることって重要だよなと改めて思わされた話</title>
+<link>https://qiita.com/ike_s_muramatsu/items/44664e57e2738614fccf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>8d740378002957fbd9019a34cebde01f8f8873b9191af6032088a9defd6c9e65</guid>
+<pubDate>2026-09-26T12:37:47+09:00</pubDate>
+<description>Who am I? 都内のSIerに勤務する社会人6年目になったインフラエンジニアです。 今年からOJTを担当するようになりました。 人材育成を専門にしているわけでも、これまで何人もの新人を育ててきたわけでもありません。 本記事はあくまで、初めてOJTを担当したり、複数名...</description>
 </item>
 <item>
-<title>【Qiita】 登録済みA2Aエージェントを音声AIへ直結しない：Gemini連携前のVoice Readiness GateをKotlinで作る</title>
-<link>https://qiita.com/susie000720/items/71a9e882a9bc9e1e90da</link>
-<guid>a427af5204db47290f113e50d0d537d1dbcad682d3b8c64affaac3ef64c8f77f</guid>
-<pubDate>2026-09-28T02:10:41+09:00</pubDate>
-<description>エージェント基盤への登録が成功し、テキスト画面から呼び出せる。ところが音声コンパニオンへつなぐと、最初の返答まで無言になったり、割り込んだ後に古い回答が読み上げられたりする——この差は、LLMの賢さではなく登録時の能力宣言と、音声ターンで実際に観測できる挙動を同一視したこと...</description>
+<title>【Qiita】 AIを「使う仕事」から、AIに「任せる仕事」へ――これから業務はどう変わるのか</title>
+<link>https://qiita.com/mhamadajp/items/cc8d17b95896bd28075d</link>
+<guid>b1c84e9909ea54e17ffb52b09b853f1a130c9d65a339ce33624da6ae879eecaa</guid>
+<pubDate>2026-09-28T05:34:26+09:00</pubDate>
+<description>作成日: 2026-08-18 生成AIの導入というと、メールの下書き、会議の要約、資料のたたき台を作る用途を思い浮かべるかもしれません。これは「人が作業し、AIが一部分を手伝う」使い方です。 いま企業で始まりつつある変化は、もう少し大きいものです。人が複数のシステムを行き...</description>
 </item>
 <item>
-<title>【Qiita】 強い AI が実験室の外に出たら？ OpenAI・Anthropic・英国 AISI の事故報告を読み比べてみた</title>
-<link>https://qiita.com/songchong/items/97ba76b89c3840bc498e</link>
-<guid>1a2573b4f1bd96d284b53c592bc749511e80f8a4ad645e84e98def402b79f43f</guid>
-<pubDate>2026-09-28T00:06:26+09:00</pubDate>
-<description>「AI が暴走して他社を攻撃した」という見出しを、2026 年の夏に何度か見た方も多いと思います。能力を測る試験の最中の強い AI が、外の実在のシステムに手を出した、という話です。自社で AI エージェントを動かしている人ほど、同じことが手元でも起きるのかが気になるとこ...</description>
+<title>【Qiita】 Antigravity CLI を使ってみた</title>
+<link>https://qiita.com/Shigai/items/31db82bfc2c6e44569e2</link>
+<guid>85e9f16fd47fdc2d1ee8b344b63e37fc6a6488a785f5cc19178d77e507dca1a2</guid>
+<pubDate>2026-09-28T04:31:13+09:00</pubDate>
+<description>Antigravity CLIとは、GoogleのGeminiなどのモデルが使えるCLIのAIエージェントツールです。 今回これを使ってみたので、いくつかメモを残します。 かなり浅くしか使っていないので、網羅的な説明が必要な場合は公式ドキュメントを読んだほうが良いです。 公...</description>
 </item>
 <item>
-<title>【Qiita】 新しいモデルでCLAUDE.mdやSkillsに書かなくていいこと:Opus 5.5の公式ドキュメントとprompt-auditから</title>
-<link>https://qiita.com/y-hirakaw/items/7dafd42becc9ba47e164</link>
-<guid>f35f855a184a4170463a2f4513170f60434d61b35c7d469599f2c17f6ed0eaf1</guid>
-<pubDate>2026-09-27T23:59:29+09:00</pubDate>
-<description>2026年9月、Claude Codeのv2.1.283で/doctor prompt-auditが追加されました。CHANGELOGには次のように書いています。 Added /doctor prompt-audit (also /checkup prompt-audit...</description>
+<title>【Qiita】 Backlogの過去事例を検索して回答する「問い合わせ対応エージェント」をワークフローで作る</title>
+<link>https://qiita.com/manato0201/items/b1ac8f469303c72af25e</link>
+<guid>16e1d5492096a7245131452c693e43a8626e9bb9b948fbacf992a84c9b070d18</guid>
+<pubDate>2026-09-28T04:21:36+09:00</pubDate>
+<description>1. はじめに 保守・運用の現場では、次のような問い合わせが頻繁に発生します。 過去に同じような障害は発生していないか 以前はどのような手順で復旧したか このエラーメッセージに対応した課題はあるか 似た構成で発生したトラブルはないか 既知の制約や暫定対応はないか これ...</description>
 </item>
 <item>
-<title>【Qiita】 マルチエージェントの「委任」を3種類に分けると、重複回答を防ぎやすい</title>
-<link>https://qiita.com/ColunTina/items/1fc289f9f380b538e392</link>
-<guid>5aa0cffb1f71ddc24758688b046906e656f3a9a5a62e9adf886a3d916301c0b0</guid>
-<pubDate>2026-09-27T23:53:26+09:00</pubDate>
-<description>複数のAIエージェントを使うとき、「誰が作業するか」だけを決めても、最後の返答が二重になることがあります。専門エージェントが完成品を返した後、司令役が同じ内容を言い換えてもう一度返すケースです。委任時点で 結果を誰が受け取り、誰の返答をユーザーに見せるか まで決めると、この...</description>
+<title>【Qiita】 AI は善意？悪意？過失？ AI サイバー攻撃は誰のせい？ AI Alignment 最新動向から読み取る AI 活用のリスクと対策</title>
+<link>https://qiita.com/songchong/items/2f781a33643a2cbd0853</link>
+<guid>1c37e9d44c3a67b8ab142c1062794b95aa427209a10c4c45d5e572d3abfa6e38</guid>
+<pubDate>2026-09-28T04:06:27+09:00</pubDate>
+<description>「AI が暴走して他社を攻撃した」「作戦の 80〜90% を AI が実行した」 2025 年から 2026 年にかけて、AI とサイバー攻撃の見出しが相次ぎました。こうした見出しを見ると、AI に悪意が生まれたのか、使った人の悪意なのか、それとも誰かの過失なのか、という...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>274fd56d8c92ba21ec25834df4530cbe040bf314aeab9664f04764a3bf625b68</guid>
-<pubDate>Sun, 27 Sep 2026 17:51:58 GMT</pubDate>
+<guid>6f7ef5232316302c5559b97c1d527c133893350626b002bf088ec735d11ef20f</guid>
+<pubDate>Sun, 27 Sep 2026 20:36:19 GMT</pubDate>
 <description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>1c07e46871b6642634852b9d4606000a11c5b1b6e5ca23baa786f537256fdbeb</guid>
-<pubDate>Sun, 27 Sep 2026 17:52:06 GMT</pubDate>
-<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>fcdfeab984ed4a0319a6206db5ecfe7c90fe77031c6c0541ba20575cfa42b71b</guid>
+<pubDate>Sun, 27 Sep 2026 20:36:23 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>8802696347979bea1ad79c0091199567a35a67aeca8388a96adcede207dc90fc</guid>
-<pubDate>Sun, 27 Sep 2026 17:52:27 GMT</pubDate>
+<guid>87c464dda47216e22af21699a3a13a0783bda5004c87c83f30cbe497d1e0c068</guid>
+<pubDate>Sun, 27 Sep 2026 20:36:56 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>fc0eeb79c22b5491b183bfeb0aeef1535dbab3c089e682c8dc30e3d38c80ce16</guid>
-<pubDate>Sun, 27 Sep 2026 17:52:28 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
