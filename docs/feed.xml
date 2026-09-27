@@ -4,64 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 27 Sep 2026 20:37:12 GMT</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 23:30:05 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 自分の頭で考えることって重要だよなと改めて思わされた話</title>
-<link>https://qiita.com/ike_s_muramatsu/items/44664e57e2738614fccf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>8d740378002957fbd9019a34cebde01f8f8873b9191af6032088a9defd6c9e65</guid>
-<pubDate>2026-09-26T12:37:47+09:00</pubDate>
-<description>Who am I? 都内のSIerに勤務する社会人6年目になったインフラエンジニアです。 今年からOJTを担当するようになりました。 人材育成を専門にしているわけでも、これまで何人もの新人を育ててきたわけでもありません。 本記事はあくまで、初めてOJTを担当したり、複数名...</description>
+<title>【Qiita】 [AIX] FLRT Vulnerability Checker Online (FLRTVC) で脆弱性の適用状況を確認</title>
+<link>https://qiita.com/c_u/items/8b391792e36752a22e3a</link>
+<guid>6c2280aa9e1d876d81e63de2a4d49acf7d0fb8929f0ac358f3aa126dd0fd7b18</guid>
+<pubDate>2026-09-28T08:08:09+09:00</pubDate>
+<description>はじめに IBM が提供する FLRT Vulnerability Checker Online（FLRTVC） を使用すると、AIX にインストールされているファイルセットと暫定修正（ifix）の情報を基に、セキュリティ脆弱性などを確認できます。 今回は、AIX から取...</description>
 </item>
 <item>
-<title>【Qiita】 AIを「使う仕事」から、AIに「任せる仕事」へ――これから業務はどう変わるのか</title>
-<link>https://qiita.com/mhamadajp/items/cc8d17b95896bd28075d</link>
-<guid>b1c84e9909ea54e17ffb52b09b853f1a130c9d65a339ce33624da6ae879eecaa</guid>
-<pubDate>2026-09-28T05:34:26+09:00</pubDate>
-<description>作成日: 2026-08-18 生成AIの導入というと、メールの下書き、会議の要約、資料のたたき台を作る用途を思い浮かべるかもしれません。これは「人が作業し、AIが一部分を手伝う」使い方です。 いま企業で始まりつつある変化は、もう少し大きいものです。人が複数のシステムを行き...</description>
+<title>【Qiita】 プロフェッショナルTLS＆PKIを読む23 第2章-8 TLS 1.3 0-RTT</title>
+<link>https://qiita.com/gomAnomalocaris/items/908dcd4cf20cfb1d731e</link>
+<guid>26923fce4c199ce73f899008114820b1d1cc9ad52b8753a918e235a5e636e346</guid>
+<pubDate>2026-09-28T07:30:02+09:00</pubDate>
+<description>0-RTT とは 0-RTT : 0-Round Trip Time はTLS 1.3 で新しく導入されたプロトコルの機能で、暗号文による通信を平文のTCPと同じ遅延で可能にするものです。 TLS 1.2以前は暗号化通信開始時時に2RTT(2往復）の通信が必要でしたが、T...</description>
 </item>
 <item>
-<title>【Qiita】 Antigravity CLI を使ってみた</title>
-<link>https://qiita.com/Shigai/items/31db82bfc2c6e44569e2</link>
-<guid>85e9f16fd47fdc2d1ee8b344b63e37fc6a6488a785f5cc19178d77e507dca1a2</guid>
-<pubDate>2026-09-28T04:31:13+09:00</pubDate>
-<description>Antigravity CLIとは、GoogleのGeminiなどのモデルが使えるCLIのAIエージェントツールです。 今回これを使ってみたので、いくつかメモを残します。 かなり浅くしか使っていないので、網羅的な説明が必要な場合は公式ドキュメントを読んだほうが良いです。 公...</description>
+<title>【Qiita】 OpenClawで9体のAIエージェント経営OSを構築した実装ノート</title>
+<link>https://qiita.com/sescore/items/677c914edf350cf34c98</link>
+<guid>2c26143bc32d4fd2a307ffe02ac490cf42d0d8ae7b32cb23c3457c3b88829987</guid>
+<pubDate>2026-09-28T08:05:20+09:00</pubDate>
+<description>一人経営者が抱える「意思決定の孤独」という問題 SESからフリーランス、あるいは法人化へとキャリアを進めたエンジニアなら誰もが一度はぶつかる壁がある。技術力があっても、財務・営業・技術戦略・マーケティングを一人で回すのは物理的に不可能だという事実だ。 会計処理をしながら見...</description>
 </item>
 <item>
-<title>【Qiita】 Backlogの過去事例を検索して回答する「問い合わせ対応エージェント」をワークフローで作る</title>
-<link>https://qiita.com/manato0201/items/b1ac8f469303c72af25e</link>
-<guid>16e1d5492096a7245131452c693e43a8626e9bb9b948fbacf992a84c9b070d18</guid>
-<pubDate>2026-09-28T04:21:36+09:00</pubDate>
-<description>1. はじめに 保守・運用の現場では、次のような問い合わせが頻繁に発生します。 過去に同じような障害は発生していないか 以前はどのような手順で復旧したか このエラーメッセージに対応した課題はあるか 似た構成で発生したトラブルはないか 既知の制約や暫定対応はないか これ...</description>
+<title>【Qiita】 9/28、今日のセキュリティニュース｜目的達成のためハッキングを選択、AIエージェントの危険な挙動が判明｜【特別企画】急激に進化する「AI」 - 見直すべき運用と変わらぬ防御原則</title>
+<link>https://qiita.com/Kerdy/items/4e76dad38684b8f7456f</link>
+<guid>d32f779aeb58c8116b4ae0951e38406ccbbea813888954656bca1164e62ac347</guid>
+<pubDate>2026-09-28T07:13:26+09:00</pubDate>
+<description>この記事は、note掲載記事の転載です。 おはようございます、かーでぃです。 本記事は、様々なネットニュースサイトからセキュリティ記事を集めて提供している”セキュリティ関連ニュースRSS”から、気になったニュースをピックアップして紹介しています。 情シスさんやサイバー...</description>
 </item>
 <item>
-<title>【Qiita】 AI は善意？悪意？過失？ AI サイバー攻撃は誰のせい？ AI Alignment 最新動向から読み取る AI 活用のリスクと対策</title>
-<link>https://qiita.com/songchong/items/2f781a33643a2cbd0853</link>
-<guid>1c37e9d44c3a67b8ab142c1062794b95aa427209a10c4c45d5e572d3abfa6e38</guid>
-<pubDate>2026-09-28T04:06:27+09:00</pubDate>
-<description>「AI が暴走して他社を攻撃した」「作戦の 80〜90% を AI が実行した」 2025 年から 2026 年にかけて、AI とサイバー攻撃の見出しが相次ぎました。こうした見出しを見ると、AI に悪意が生まれたのか、使った人の悪意なのか、それとも誰かの過失なのか、という...</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>6f7ef5232316302c5559b97c1d527c133893350626b002bf088ec735d11ef20f</guid>
-<pubDate>Sun, 27 Sep 2026 20:36:19 GMT</pubDate>
-<description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>fcdfeab984ed4a0319a6206db5ecfe7c90fe77031c6c0541ba20575cfa42b71b</guid>
-<pubDate>Sun, 27 Sep 2026 20:36:23 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>87c464dda47216e22af21699a3a13a0783bda5004c87c83f30cbe497d1e0c068</guid>
-<pubDate>Sun, 27 Sep 2026 20:36:56 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>8cced08b8efb11fb4d2c385502be3c78e78f1c83347316e8a69e93d6906c7068</guid>
+<pubDate>Sun, 27 Sep 2026 23:29:20 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overal</description>
 </item>
 
 </channel>
