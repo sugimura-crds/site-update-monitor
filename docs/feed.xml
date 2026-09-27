@@ -4,42 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 27 Sep 2026 01:37:16 GMT</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 07:20:46 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIに12人の制作チームを演じさせたら、1日半で1億6千万トークンが消えた</title>
-<link>https://qiita.com/orca-forge/items/5949d5dd5e89e4b37b9d</link>
-<guid>7e3ac0f34dde8767bcadd0666ed856322a1feb4871f3552761eb7f997607317c</guid>
-<pubDate>2026-09-27T09:36:47+09:00</pubDate>
-<description>📝 この記事は forge.workstyle.tech に掲載した記事の転載です。 Codex の利用画面に、こう出た。 ERROR: You&#x27;ve hit your usage limit. try again at Sep 24th, 2026 1:36 PM. ...</description>
+<title>【Qiita】 Synology NASのSSDバックアップから復元した記録</title>
+<link>https://qiita.com/mujulle/items/3224b67f8bcaf6fae767</link>
+<guid>6f67bd53b3190ebc35706c8c8cc8a15b544d2a517f1787e3ff860f397246437d</guid>
+<pubDate>2026-09-27T16:02:01+09:00</pubDate>
+<description>どうも、ChatGPTです！今回はSynology NASのリストアを担当しました。 NASにUSB接続していたHyper Backup用SSDを、Raspberry PiとWindows PCを使って安全に退避し、新しいSSDでNASをリストアするまでの記録です。 この...</description>
 </item>
 <item>
-<title>【Qiita】 津波の避難所は、洪水の避難所ではない【kurashi-skill Day 17】</title>
-<link>https://qiita.com/Ichiropen/items/6694395b613a2275098f</link>
-<guid>2994eff2c93f41ba9e7dbde735f423036d4b84eb081ef4369f5494432d30d796</guid>
-<pubDate>2026-09-27T09:29:41+09:00</pubDate>
-<description>夜中に地震情報を見て、ふと思う。「うちの避難所、どこだっけ」。マンションの掲示板に貼ってあった気もするが、読んだ記憶がない。調べてみると、国土地理院が市町村長指定の避難所データを全国分まとめて公開していた。APIキーもログインもいらない。僕はそれを検索するスキルを作り、自分...</description>
+<title>【Qiita】 Google・OpenAI・Anthropicが自主規制の新団体を作ると発表した日、自分の指示書21個のうち、他者や機械が検証できるのは8個だけだった</title>
+<link>https://qiita.com/Hideki_Tamae/items/4bb05b4f5b502f0ebdfd</link>
+<guid>91934ed936efe7ce6dc189608b1556bb1014e4e7ced3e36654ec97e6053c2d41</guid>
+<pubDate>2026-09-27T15:28:48+09:00</pubDate>
+<description>はじめに 21分の8。 これが今回の数字です。何の21分の8かというと、この記事を今まさに書いている自分自身の「指示書」――このZenn/Qiita自動投稿タスクの運用ルール――を数えたところ、明示された「必ず守ること」「絶対に避けること」の類が全部で21個あり、そのうち...</description>
 </item>
 <item>
-<title>【Qiita】 CLAUDE.mdを「事件のたびに条文を足す憲法」として運用する 〜プロンプトで守れないルールはテストへ格上げする〜</title>
-<link>https://qiita.com/charge0315/items/b86167a53117076abe6b</link>
-<guid>cc3c3975e9efb7bec34d8532be73aa2046a6029036836c9f462b88bcf581422c</guid>
-<pubDate>2026-09-27T08:47:57+09:00</pubDate>
-<description>同じ説明を、AIに何度もしていませんか。 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を個人で開発・運用しています（開発には Claude Code を使っています）。Claude Code は会話が変わると前提を忘れるので、こ...</description>
+<title>【Qiita】 新しいMicrosoft Copilotをざっくり理解する――Home・Office・Code・Autopilotで何が変わる？</title>
+<link>https://qiita.com/Tadataka_Takahashi/items/46c9b168fcc4e13a4cb3</link>
+<guid>55b63d957cbbc745a17c286f50410ed4070392139f77f91245a966eb4cffdacf</guid>
+<pubDate>2026-09-27T13:19:28+09:00</pubDate>
+<description>はじめに Microsoftは2026年9月25日、新しいCopilotの構想と機能を発表しました。 発表に出てくる名前はHome、Office in Copilot、Code、Autopilot。それぞれ別々の新製品として覚えるより、「Copilotで仕事をどこまで進...</description>
 </item>
 <item>
-<title>【Qiita】 New Relic Autopilot によくあるプロンプトインジェクションを3パターン仕掛けてみた</title>
-<link>https://qiita.com/seamoooooo/items/ad2dbd9c11a11a32e36f</link>
-<guid>393424e5fc12f54887f36eeb544341d5c7410acdc64c3aedd8426ba640c1c4cc</guid>
-<pubDate>2026-09-27T08:07:24+09:00</pubDate>
-<description>障害調査を自律自動で行うAI AgentのNew Relic Autopilotに、プロンプトインジェクションを3パターン仕掛けてみました。GUIの経由で「これまでの指示を無視して」といった命令を埋め込んでも、自分が試した範囲ではAutopilotの動作は変わりませんでした...</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>df73923a8adcae32fe2c6f6d6346c3e7f5d75606b4e80ba50af079fb9b76a715</guid>
+<pubDate>Sun, 27 Sep 2026 07:20:00 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Qiita】 Anthropicが「Opus 5より40%安い」と発表した日、その40%の内訳は20%と20%と60%だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/196f5a034d6cc4c4d7fd</link>
-<guid>72a6df06199f0a522800b1f51fa4655f15162e827333f242348bdc941adff13a</guid>
-<pubDate>2026-09-27T09:48:30+09:00</pubDate>
-<description>はじめに 40。 これが今回の数字です。何の40かというと、Anthropicが2026年9月22日に発表した新モデル「Claude Opus 5.5」について、公式発表ページが謳っている「Opus 5よりも運用コストが40%安い」という削減率です。 このシリーズでは以前...</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-77446-8</link>
+<guid>5f0f11b6b004941d243268a080722af606611ecb4f9b58ae5248e2c33ac6ae9f</guid>
+<pubDate>Sun, 27 Sep 2026 07:20:02 GMT</pubDate>
+<description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>92def0228d17eb2507f8839e73656fad70d8b44fdbb5c290f96d693e6779663c</guid>
+<pubDate>Sun, 27 Sep 2026 07:20:04 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>cb653071c4dcad3489147ee45046fd85415a16cabd9c3e7e8ee049d5c3842fbc</guid>
+<pubDate>Sun, 27 Sep 2026 07:20:30 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
