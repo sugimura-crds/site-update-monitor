@@ -4,84 +4,99 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 28 Sep 2026 07:59:07 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 16:26:56 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「Java、勉強したはずなのに…」を解決するため、手を動かす学習アプリを作った</title>
-<link>https://qiita.com/ktgr/items/84918b5ba697d0d07bc0</link>
-<guid>3d0da5aea7b5e512009872b3a4d292a4d4bf369a9195064ddc6fa7a85dab7bfd</guid>
-<pubDate>2026-09-28T12:54:09+09:00</pubDate>
-<description>はじめに 新卒で入社して、現在3年目です。 業務ではJavaランタイムに関する製品を扱っています。Javaについては一通り学習したものの、普段の業務でコードを書く機会は多くないため、しばらくすると学んだ内容を忘れてしまうことが悩みでした。 分からないことがあれば、その都度...</description>
+<title>【Qiita】 Claude Code の新しい監査コマンドは、そのままでは自分のスキル49本を見なかった</title>
+<link>https://qiita.com/suwa_nobu/items/ae5a8c1609c794a74a25?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>43463e42fdfc9529bad9941e3ce2e627b3dc29ac7b956013b2617fa8fe269f6f</guid>
+<pubDate>2026-09-28T09:32:08+09:00</pubDate>
+<description>Claude Code 2.1.283（2026-09-25）の changelog に、こう書かれています。 Added /doctor prompt-audit (also /checkup prompt-audit) to audit your CLAUDE.md ...</description>
 </item>
 <item>
-<title>【Qiita】 【やってみよう】Copilot Studio × Azure DevOpsで「自社専用AIコードレビューエージェント」を作る【前編】</title>
-<link>https://qiita.com/kaneoka_nr/items/c73c2d9adbe93bfda0bb</link>
-<guid>a05a6f4f033db083d08c5da5da66b6fd6288425b9da78ecf9508e1412530323e</guid>
-<pubDate>2026-09-28T16:51:58+09:00</pubDate>
-<description>💡 この記事のポイント CopilotStudio ライセンスの活用 でAIコードレビュー環境を構築！ ローコード（プロンプト＋標準コネクタのみ） でお手軽に実装！ 自社のコーディング規約（.mdファイル）を読み込ませた 「自社専用シニアエンジニア」 を召喚！ ...</description>
+<title>【Qiita】 CentOS Stream 10 のインストール</title>
+<link>https://qiita.com/keniooi/items/60ffad9168fbe90d52fa</link>
+<guid>ad1fa6b999d3e2e54201665529a63e27308a03beb3765322a07013b528de1b08</guid>
+<pubDate>2026-09-28T23:32:14+09:00</pubDate>
+<description>目的 Qiita 記事を書くのに家の Linux を起動したところ、久々に見た起動エラー画面になったため CentOS Stream10 インストールの記事を書きます。Windows ではないのでブルースクリーンではなく、灰色でした。 インストールイメージのダウンロー...</description>
 </item>
 <item>
-<title>【Qiita】 GPT-6 Astraが「Webアプリ全体の再現率49.2%」を記録した日、自分の記事投稿パイプラインの累積成功率を数えたら74.4%、直近36回は100%だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/b22c2575d2cfd0ac8c41</link>
-<guid>d62a68d7edc1a6b56fc61305864d5b4d7a6add2c40557e76213db3f7826deee7</guid>
-<pubDate>2026-09-28T15:28:26+09:00</pubDate>
-<description>はじめに 74.4%。 これが今回の数字です。何の74.4%かというと、この記事を今まさに書いている自分自身のZenn/Qiita自動投稿パイプライン――GitHub Actionsの「Publish articles」ワークフロー――が、2026年8月21日の初回実行か...</description>
+<title>【Qiita】 スマホをAgent操作／LLVMのIR設計／人とAgentを同じイベントログへ――今日のGitHub 3選</title>
+<link>https://qiita.com/tsuzuri_ai/items/2f0a7b48961526af6be8</link>
+<guid>fbcdc4c4446689033ee6ec8bbea2dc17f3b73ee138d7394d88652b87a8c0df09</guid>
+<pubDate>2026-09-29T01:06:48+09:00</pubDate>
+<description>2026年9月29日時点で、今日見ておきたいGitHub Repositoryを3件選びました。今回は「Agentにスマホを触らせる」「Compilerが言語とMachineをどう切り離すか」「人とAgentを同じWorkspaceへ載せる」の3方向です。 Repo...</description>
 </item>
 <item>
-<title>【Qiita】 Microsoft Copilotに「Code」と「Autopilot」が生えた。これ、AIチャットじゃなくて仕事のOSでは？</title>
-<link>https://qiita.com/mizzz-ivr/items/c91357bdac88386d51f4</link>
-<guid>4a652041072f3fbcd61c776757124ef8a72607e1340e98b9eba61b0c18e564a4</guid>
-<pubDate>2026-09-28T14:58:52+09:00</pubDate>
-<description>結論 2026年9月25日、MicrosoftがCopilotの大規模アップデートを発表しました。 追加された中心機能は Home / Code / Autopilot。 最初は、 Copilotにまた機能が増えたのか。 くらいに思っていました。 でも3つを並べてみる...</description>
+<title>【Qiita】 Python と SQLite で AI の長期記憶を履歴から現在状態へ再構成する</title>
+<link>https://qiita.com/ynakayama/items/6c5ad6dc9bf351bc567f</link>
+<guid>27119ae48da9776fa44bedb80efb164e642699b33eacb378798668077cfde718</guid>
+<pubDate>2026-09-29T00:11:07+09:00</pubDate>
+<description>AI エージェントへ長期記憶を持たせると、同じ属性について古い値と新しい値が同時に保存されます。たとえば勤務先が Company A から Company B へ変わった場合、過去の問い合わせには Company A が必要ですが、現在の問い合わせでは Company B ...</description>
 </item>
 <item>
-<title>【Qiita】 Autopilot（旧Microsoft Scout）とは？ Coworkとの違いと、導入前に知っておきたいこと</title>
-<link>https://qiita.com/phamxuanquyen22/items/f9611c1763342361041e</link>
-<guid>855be36ca38ececa84e94c7ce30c88a1f54ff2401aaa8ec88b8e64f8d0213646</guid>
-<pubDate>2026-09-28T14:53:49+09:00</pubDate>
-<description>執筆している2026年9月28日時点の情報です。Cowork は更新が速い機能のため、最新情報は必ず公開情報（本記事末尾の参考リンク）もあわせてご確認ください。 本記事で扱う Autopilot もプレビュー段階の情報を含みます。発表された内容と、現在利用できる範囲を分けて...</description>
+<title>【Qiita】 GitHub Copilotアプリにローカルサンドボックスが入った。OSが守れないなら、シェルは動かない</title>
+<link>https://qiita.com/yusei-onodera/items/916b66dc960a76280eb4</link>
+<guid>d90394c89d51f777c54df8eec100933a18c5af6b516f1c5c2050cec7fd3892a4</guid>
+<pubDate>2026-09-28T23:11:25+09:00</pubDate>
+<description>GitHub Copilotアプリにローカルサンドボックスが入った。OSが守れないなら、シェルは動かない 9月23日、GitHub Changelogに Local sandboxing in the GitHub Copilot app が載った。パブリックプレビューで...</description>
 </item>
 <item>
-<title>【Qiita】 Oracle IntegrationのDecision Modelを使って、AIエージェントに業務ルールによる判断を組み込んでみた</title>
-<link>https://qiita.com/nakasato310/items/30aea336c1fb1b42d5ac</link>
-<guid>6e066f1b7f4aa809a56362c22265e9fe26686f4a7c2e70c5bfdb4513b6200ee4</guid>
-<pubDate>2026-09-28T13:09:32+09:00</pubDate>
-<description>はじめに Oracle Integration（OIC） は、Oracle Cloud Infrastructure（OCI）が提供するiPaaS（Integration Platform as a Service）です。Oracle SaaSやOCIサービス、オンプレミ...</description>
+<title>【Qiita】 OpenClaw に判断専用モデル Jev を組み込んだ — 入れただけでは、本番で一度も呼ばれなかった</title>
+<link>https://qiita.com/yousan/items/81d3904d1d27b82873bb</link>
+<guid>ff8d84f23b6bda31b1dc9ce89f933c51c28895be97c1fa237c7521064e5405a9</guid>
+<pubDate>2026-09-28T23:08:57+09:00</pubDate>
+<description>きっかけ ganessa さんの記事「CLAUDE.md で判断を jev に任せたら…」を読みました。Claude Code に「判断は自分で推測せず Jev に聞け」というルールを入れたら、判断のブレが減った、という話です。 私は自宅のマシンで OpenClaw を何...</description>
 </item>
 <item>
-<title>【自動自律実験】 China now leads the world in trials for next-gen CAR-T therapies</title>
-<link>https://www.nature.com/articles/d41586-026-03004-3</link>
-<guid>5f0c30f5763700d2e0c54263fd9c9b3edacffc5cdccb63ce688775005f189e13</guid>
+<title>【農業】 FAO report: Restoring forests and landscapes is critical to meeting global food security and development goals</title>
+<link>https://www.fao.org/newsroom/detail/fao-report--restoring-forests-and-landscapes-is-critical-to-meeting-global-food-security-and-development-goals/en</link>
+<guid>e8faea2bde2a7cdde90799f0dac6a4cc4e0642c88b9909753baccb269fd79ace</guid>
+<pubDate>Mon, 28 Sep 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【自動自律実験】 Stephen Hawking biography explores an ‘exceptionally clear, uncluttered mind’</title>
+<link>https://www.nature.com/articles/d41586-026-02959-7</link>
+<guid>91ba2104ca15a6f695ad2431e619ef7640219b33e4531e1ee17fc74999d90550</guid>
 <pubDate>2026-09-28</pubDate>
-<description>China tests these therapies faster than the rest of the world but regulatory changes could slow them down.</description>
+<description>An elegant account of the physicist’s unusual life story highlights the relationships that inspired him.</description>
 </item>
 <item>
-<title>【自動自律実験】 Transplanted hearts adjust their biological age to that of their host</title>
-<link>https://www.nature.com/articles/d41586-026-03043-w</link>
-<guid>9c73800012831a2f991115eea1240cddba538795cabab71344c30962c8f3dec2</guid>
+<title>【自動自律実験】 Bigger than CRISPR? A guide to the latest genome editors</title>
+<link>https://www.nature.com/articles/d41586-026-02964-w</link>
+<guid>89d18590d4dad926dee2a2a40f17a277c3f3376efff1fe5bb391ae7b4be42e1b</guid>
 <pubDate>2026-09-28</pubDate>
-<description>Tracking the biological age of grafted organs suggests that donor pools could be expanded to boost organ availability.</description>
+<description>Gene-editing techniques could soon allow researchers to replace entire genes and engineer complex cellular circuits — if the systems can be delivered safely into cells.</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>f7d913f06cdde47c53c1aa73cda544c5fbaabc1205b2119973cb17732385fd2b</guid>
-<pubDate>Mon, 28 Sep 2026 07:58:27 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【自動自律実験】 Vaping in childhood has bigger health risks than we’d thought</title>
+<link>https://www.nature.com/articles/d41586-026-02962-y</link>
+<guid>793129591dc17a2456c77461cbb512c3c4af799d35a9d163910e9750489c7913</guid>
+<pubDate>2026-09-28</pubDate>
+<description>Use of e-cigarettes makes it more likely that young people will experience mental-health disorders and take up smoking. Governments must act.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>936475308e96a8d61999b4dc723ff2c905be6d8f974134941994541ae5d52a5d</guid>
-<pubDate>Mon, 28 Sep 2026 07:58:29 GMT</pubDate>
+<guid>8e2235b0a07ea525cce58255b5ffc342540fa83f6d11fd79617a7c16dd649430</guid>
+<pubDate>Mon, 28 Sep 2026 16:26:17 GMT</pubDate>
 <description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>5321dc9f158f2beb40aa7bacfb564df127e0ae63d6a507d8dae44e9506c1433a</guid>
-<pubDate>Mon, 28 Sep 2026 07:58:32 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+<title>【U.S.】 Suggested Matches</title>
+<link>https://www.energy.gov/search?keywords=%22Genesis%20Mission%22</link>
+<guid>5f5bff8f0d06016470cb6b9ad09645f9205826050eff783140bcf472b6715fcc</guid>
+<pubDate>Mon, 28 Sep 2026 16:26:28 GMT</pubDate>
+<description>… How AI is Accelerating America’s Environmental Cleanup Mission | The Hill Assistant Secretary Tim Walsh explains how … artificial intelligence and machine learning through its Genesis Mission to automate hazardous tasks, optimize operations, and …</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>ca1e12bc7ef755ee0efecd3223138c7b6e8baf177fb8500232eb4e43bbbe6e5a</guid>
+<pubDate>Mon, 28 Sep 2026 16:26:37 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
