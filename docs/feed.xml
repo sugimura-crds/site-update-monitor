@@ -4,42 +4,50 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 27 Sep 2026 23:30:05 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 01:54:00 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 [AIX] FLRT Vulnerability Checker Online (FLRTVC) で脆弱性の適用状況を確認</title>
-<link>https://qiita.com/c_u/items/8b391792e36752a22e3a</link>
-<guid>6c2280aa9e1d876d81e63de2a4d49acf7d0fb8929f0ac358f3aa126dd0fd7b18</guid>
-<pubDate>2026-09-28T08:08:09+09:00</pubDate>
-<description>はじめに IBM が提供する FLRT Vulnerability Checker Online（FLRTVC） を使用すると、AIX にインストールされているファイルセットと暫定修正（ifix）の情報を基に、セキュリティ脆弱性などを確認できます。 今回は、AIX から取...</description>
+<title>【Qiita】 サーバの「設定」を検査して直す——Sysdig Secure と Claude Code の役割分担を、構成の健全性チェックでも自宅ラボで実測してみた</title>
+<link>https://qiita.com/takao-shimizu/items/5a24b232033e94062ced</link>
+<guid>f3e3d631647d1cdbcd238071eecd7a5e0bdb3f514438e9e67ab36679986178b5</guid>
+<pubDate>2026-09-28T10:42:11+09:00</pubDate>
+<description>この記事について 前回の記事では、脆弱性対応という1つの仕事を、Sysdig Secureの中にいるエージェントと、私の手元のClaude Codeがどう分担するのかを実測しました。その結びで、次にやることとして「Posture（設定の健全性）のドメインでも、同じ『判定と...</description>
 </item>
 <item>
-<title>【Qiita】 プロフェッショナルTLS＆PKIを読む23 第2章-8 TLS 1.3 0-RTT</title>
-<link>https://qiita.com/gomAnomalocaris/items/908dcd4cf20cfb1d731e</link>
-<guid>26923fce4c199ce73f899008114820b1d1cc9ad52b8753a918e235a5e636e346</guid>
-<pubDate>2026-09-28T07:30:02+09:00</pubDate>
-<description>0-RTT とは 0-RTT : 0-Round Trip Time はTLS 1.3 で新しく導入されたプロトコルの機能で、暗号文による通信を平文のTCPと同じ遅延で可能にするものです。 TLS 1.2以前は暗号化通信開始時時に2RTT(2往復）の通信が必要でしたが、T...</description>
+<title>【Qiita】 RAGをもう一歩深掘りしてみた ～チャンク分割・ハイブリッド検索・Agentic RAGまで～</title>
+<link>https://qiita.com/Sho5_Matsu/items/5b100e0b37e43bb02af9</link>
+<guid>b7b15ff51eb265661c3142ec2460e3ea4f983adbb3023b8dad4d2e0bd767186a</guid>
+<pubDate>2026-09-28T10:39:59+09:00</pubDate>
+<description>はじめに 以前、【データサイエンティスト入門】RAG（Retrieval-Augmented Generation）とは？生成AIはなぜ最新情報を知らないのか調べてみた という記事で、RAGは「LLMの外部に知識源を用意し、質問に関連する情報を検索して、その情報をもとにL...</description>
 </item>
 <item>
-<title>【Qiita】 OpenClawで9体のAIエージェント経営OSを構築した実装ノート</title>
-<link>https://qiita.com/sescore/items/677c914edf350cf34c98</link>
-<guid>2c26143bc32d4fd2a307ffe02ac490cf42d0d8ae7b32cb23c3457c3b88829987</guid>
-<pubDate>2026-09-28T08:05:20+09:00</pubDate>
-<description>一人経営者が抱える「意思決定の孤独」という問題 SESからフリーランス、あるいは法人化へとキャリアを進めたエンジニアなら誰もが一度はぶつかる壁がある。技術力があっても、財務・営業・技術戦略・マーケティングを一人で回すのは物理的に不可能だという事実だ。 会計処理をしながら見...</description>
+<title>【Qiita】 GPT‑6 Sol / Luna、API価格を半額に――AIエージェントは「働き続けられるコスト」へ</title>
+<link>https://qiita.com/sin-aiagent/items/c7126282f7e867d22384</link>
+<guid>ecc5e99e814d5497b17c4eca463484a12c2039f3bbdfad847cbd43ea7e11b7b4</guid>
+<pubDate>2026-09-28T10:15:44+09:00</pubDate>
+<description>OpenAIは2026年9月22日、GPT‑6ファミリーの新モデル「GPT‑6 Sol」と「GPT‑6 Luna」を発表しました。 ニュースの核心は、単に“新しいモデルが増えた”ことではありません。API価格は、GPT‑5.6世代の販促価格との比較で50%引き。さらに、長...</description>
 </item>
 <item>
-<title>【Qiita】 9/28、今日のセキュリティニュース｜目的達成のためハッキングを選択、AIエージェントの危険な挙動が判明｜【特別企画】急激に進化する「AI」 - 見直すべき運用と変わらぬ防御原則</title>
-<link>https://qiita.com/Kerdy/items/4e76dad38684b8f7456f</link>
-<guid>d32f779aeb58c8116b4ae0951e38406ccbbea813888954656bca1164e62ac347</guid>
-<pubDate>2026-09-28T07:13:26+09:00</pubDate>
-<description>この記事は、note掲載記事の転載です。 おはようございます、かーでぃです。 本記事は、様々なネットニュースサイトからセキュリティ記事を集めて提供している”セキュリティ関連ニュースRSS”から、気になったニュースをピックアップして紹介しています。 情シスさんやサイバー...</description>
+<title>【Qiita】 53と71。同じ内容を両方に投稿しているはずのパイプラインで、記事本数だけが18本ずれていた</title>
+<link>https://qiita.com/Hideki_Tamae/items/3da3654c99ce3c08dba3</link>
+<guid>82986ea93a2b4a16b5a34e96128d9453cf2b6fad13669e67c23849457685e55d</guid>
+<pubDate>2026-09-28T09:50:39+09:00</pubDate>
+<description>はじめに 53と71。 これが今回の数字です。何の53と71かというと、この記事を書いている自分自身の自動投稿パイプラインが、これまでZennに公開した記事数とQiitaに公開した記事数です。 このタスクの指示書には「内容はZenn・Qiitaで同一のものを1本ずつ（合計...</description>
 </item>
 <item>
 <title>【AI4S】 read more</title>
 <link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>8cced08b8efb11fb4d2c385502be3c78e78f1c83347316e8a69e93d6906c7068</guid>
-<pubDate>Sun, 27 Sep 2026 23:29:20 GMT</pubDate>
-<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, collaboratively infer their overal</description>
+<guid>af508833dfb5aed51961b288c00089ee4893a789e89d7b6a9ded29d3310c9875</guid>
+<pubDate>Mon, 28 Sep 2026 01:53:10 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, coll</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>61aaf5dda4a0349ef3cf346b5fe8bb519667c950e94a57346c643da6b359d005</guid>
+<pubDate>Mon, 28 Sep 2026 01:53:42 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
