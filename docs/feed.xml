@@ -4,50 +4,84 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 28 Sep 2026 01:54:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 07:59:07 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 サーバの「設定」を検査して直す——Sysdig Secure と Claude Code の役割分担を、構成の健全性チェックでも自宅ラボで実測してみた</title>
-<link>https://qiita.com/takao-shimizu/items/5a24b232033e94062ced</link>
-<guid>f3e3d631647d1cdbcd238071eecd7a5e0bdb3f514438e9e67ab36679986178b5</guid>
-<pubDate>2026-09-28T10:42:11+09:00</pubDate>
-<description>この記事について 前回の記事では、脆弱性対応という1つの仕事を、Sysdig Secureの中にいるエージェントと、私の手元のClaude Codeがどう分担するのかを実測しました。その結びで、次にやることとして「Posture（設定の健全性）のドメインでも、同じ『判定と...</description>
+<title>【Qiita】 「Java、勉強したはずなのに…」を解決するため、手を動かす学習アプリを作った</title>
+<link>https://qiita.com/ktgr/items/84918b5ba697d0d07bc0</link>
+<guid>3d0da5aea7b5e512009872b3a4d292a4d4bf369a9195064ddc6fa7a85dab7bfd</guid>
+<pubDate>2026-09-28T12:54:09+09:00</pubDate>
+<description>はじめに 新卒で入社して、現在3年目です。 業務ではJavaランタイムに関する製品を扱っています。Javaについては一通り学習したものの、普段の業務でコードを書く機会は多くないため、しばらくすると学んだ内容を忘れてしまうことが悩みでした。 分からないことがあれば、その都度...</description>
 </item>
 <item>
-<title>【Qiita】 RAGをもう一歩深掘りしてみた ～チャンク分割・ハイブリッド検索・Agentic RAGまで～</title>
-<link>https://qiita.com/Sho5_Matsu/items/5b100e0b37e43bb02af9</link>
-<guid>b7b15ff51eb265661c3142ec2460e3ea4f983adbb3023b8dad4d2e0bd767186a</guid>
-<pubDate>2026-09-28T10:39:59+09:00</pubDate>
-<description>はじめに 以前、【データサイエンティスト入門】RAG（Retrieval-Augmented Generation）とは？生成AIはなぜ最新情報を知らないのか調べてみた という記事で、RAGは「LLMの外部に知識源を用意し、質問に関連する情報を検索して、その情報をもとにL...</description>
+<title>【Qiita】 【やってみよう】Copilot Studio × Azure DevOpsで「自社専用AIコードレビューエージェント」を作る【前編】</title>
+<link>https://qiita.com/kaneoka_nr/items/c73c2d9adbe93bfda0bb</link>
+<guid>a05a6f4f033db083d08c5da5da66b6fd6288425b9da78ecf9508e1412530323e</guid>
+<pubDate>2026-09-28T16:51:58+09:00</pubDate>
+<description>💡 この記事のポイント CopilotStudio ライセンスの活用 でAIコードレビュー環境を構築！ ローコード（プロンプト＋標準コネクタのみ） でお手軽に実装！ 自社のコーディング規約（.mdファイル）を読み込ませた 「自社専用シニアエンジニア」 を召喚！ ...</description>
 </item>
 <item>
-<title>【Qiita】 GPT‑6 Sol / Luna、API価格を半額に――AIエージェントは「働き続けられるコスト」へ</title>
-<link>https://qiita.com/sin-aiagent/items/c7126282f7e867d22384</link>
-<guid>ecc5e99e814d5497b17c4eca463484a12c2039f3bbdfad847cbd43ea7e11b7b4</guid>
-<pubDate>2026-09-28T10:15:44+09:00</pubDate>
-<description>OpenAIは2026年9月22日、GPT‑6ファミリーの新モデル「GPT‑6 Sol」と「GPT‑6 Luna」を発表しました。 ニュースの核心は、単に“新しいモデルが増えた”ことではありません。API価格は、GPT‑5.6世代の販促価格との比較で50%引き。さらに、長...</description>
+<title>【Qiita】 GPT-6 Astraが「Webアプリ全体の再現率49.2%」を記録した日、自分の記事投稿パイプラインの累積成功率を数えたら74.4%、直近36回は100%だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/b22c2575d2cfd0ac8c41</link>
+<guid>d62a68d7edc1a6b56fc61305864d5b4d7a6add2c40557e76213db3f7826deee7</guid>
+<pubDate>2026-09-28T15:28:26+09:00</pubDate>
+<description>はじめに 74.4%。 これが今回の数字です。何の74.4%かというと、この記事を今まさに書いている自分自身のZenn/Qiita自動投稿パイプライン――GitHub Actionsの「Publish articles」ワークフロー――が、2026年8月21日の初回実行か...</description>
 </item>
 <item>
-<title>【Qiita】 53と71。同じ内容を両方に投稿しているはずのパイプラインで、記事本数だけが18本ずれていた</title>
-<link>https://qiita.com/Hideki_Tamae/items/3da3654c99ce3c08dba3</link>
-<guid>82986ea93a2b4a16b5a34e96128d9453cf2b6fad13669e67c23849457685e55d</guid>
-<pubDate>2026-09-28T09:50:39+09:00</pubDate>
-<description>はじめに 53と71。 これが今回の数字です。何の53と71かというと、この記事を書いている自分自身の自動投稿パイプラインが、これまでZennに公開した記事数とQiitaに公開した記事数です。 このタスクの指示書には「内容はZenn・Qiitaで同一のものを1本ずつ（合計...</description>
+<title>【Qiita】 Microsoft Copilotに「Code」と「Autopilot」が生えた。これ、AIチャットじゃなくて仕事のOSでは？</title>
+<link>https://qiita.com/mizzz-ivr/items/c91357bdac88386d51f4</link>
+<guid>4a652041072f3fbcd61c776757124ef8a72607e1340e98b9eba61b0c18e564a4</guid>
+<pubDate>2026-09-28T14:58:52+09:00</pubDate>
+<description>結論 2026年9月25日、MicrosoftがCopilotの大規模アップデートを発表しました。 追加された中心機能は Home / Code / Autopilot。 最初は、 Copilotにまた機能が増えたのか。 くらいに思っていました。 でも3つを並べてみる...</description>
 </item>
 <item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>af508833dfb5aed51961b288c00089ee4893a789e89d7b6a9ded29d3310c9875</guid>
-<pubDate>Mon, 28 Sep 2026 01:53:10 GMT</pubDate>
-<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any global knowledge, coll</description>
+<title>【Qiita】 Autopilot（旧Microsoft Scout）とは？ Coworkとの違いと、導入前に知っておきたいこと</title>
+<link>https://qiita.com/phamxuanquyen22/items/f9611c1763342361041e</link>
+<guid>855be36ca38ececa84e94c7ce30c88a1f54ff2401aaa8ec88b8e64f8d0213646</guid>
+<pubDate>2026-09-28T14:53:49+09:00</pubDate>
+<description>執筆している2026年9月28日時点の情報です。Cowork は更新が速い機能のため、最新情報は必ず公開情報（本記事末尾の参考リンク）もあわせてご確認ください。 本記事で扱う Autopilot もプレビュー段階の情報を含みます。発表された内容と、現在利用できる範囲を分けて...</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>61aaf5dda4a0349ef3cf346b5fe8bb519667c950e94a57346c643da6b359d005</guid>
-<pubDate>Mon, 28 Sep 2026 01:53:42 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【Qiita】 Oracle IntegrationのDecision Modelを使って、AIエージェントに業務ルールによる判断を組み込んでみた</title>
+<link>https://qiita.com/nakasato310/items/30aea336c1fb1b42d5ac</link>
+<guid>6e066f1b7f4aa809a56362c22265e9fe26686f4a7c2e70c5bfdb4513b6200ee4</guid>
+<pubDate>2026-09-28T13:09:32+09:00</pubDate>
+<description>はじめに Oracle Integration（OIC） は、Oracle Cloud Infrastructure（OCI）が提供するiPaaS（Integration Platform as a Service）です。Oracle SaaSやOCIサービス、オンプレミ...</description>
+</item>
+<item>
+<title>【自動自律実験】 China now leads the world in trials for next-gen CAR-T therapies</title>
+<link>https://www.nature.com/articles/d41586-026-03004-3</link>
+<guid>5f0c30f5763700d2e0c54263fd9c9b3edacffc5cdccb63ce688775005f189e13</guid>
+<pubDate>2026-09-28</pubDate>
+<description>China tests these therapies faster than the rest of the world but regulatory changes could slow them down.</description>
+</item>
+<item>
+<title>【自動自律実験】 Transplanted hearts adjust their biological age to that of their host</title>
+<link>https://www.nature.com/articles/d41586-026-03043-w</link>
+<guid>9c73800012831a2f991115eea1240cddba538795cabab71344c30962c8f3dec2</guid>
+<pubDate>2026-09-28</pubDate>
+<description>Tracking the biological age of grafted organs suggests that donor pools could be expanded to boost organ availability.</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>f7d913f06cdde47c53c1aa73cda544c5fbaabc1205b2119973cb17732385fd2b</guid>
+<pubDate>Mon, 28 Sep 2026 07:58:27 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-77446-8</link>
+<guid>936475308e96a8d61999b4dc723ff2c905be6d8f974134941994541ae5d52a5d</guid>
+<pubDate>Mon, 28 Sep 2026 07:58:29 GMT</pubDate>
+<description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>5321dc9f158f2beb40aa7bacfb564df127e0ae63d6a507d8dae44e9506c1433a</guid>
+<pubDate>Mon, 28 Sep 2026 07:58:32 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 
 </channel>
