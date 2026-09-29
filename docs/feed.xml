@@ -4,85 +4,85 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 29 Sep 2026 20:05:29 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 23:50:10 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 あいにく私はAIですので脱ぐ服も身体も持ち合わせておりません、と言われた夜の話 ── 秀コンボと最新AI「Jev」の思想的一致から取調室まで</title>
-<link>https://qiita.com/shu15511551/items/2e2f33eb68af0641ee87</link>
-<guid>0589b848259f0118e5929eeadbb79c78d59892436ef91330218ca2eb3646d3ea</guid>
-<pubDate>2026-09-30T04:53:23+09:00</pubDate>
-<description>はじめに 先日、早朝の午前四時に Gemini へこんこんと説教をした記事を書きました。 道具の暴走を止め、手綱を握り直し、ようやく平穏な開発環境が戻ってきた──はずでした。 昨晩の作業は、自作アドイン『秀コンボ』に新しく組み込んだ「検索シート自動生成マクロ」の総仕...</description>
+<title>【Qiita】 荒れたテストケースをコード管理で立て直してみた</title>
+<link>https://qiita.com/hamham999/items/ebee7540a82db6933854?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f9fc3834c9a9ab770650d22258d76e754a49d6293645b05de88eaf75230bb298</guid>
+<pubDate>2026-09-29T08:10:50+09:00</pubDate>
+<description>はじめに 今いるチームでは、モバイルアプリのリリース前の確認を手動テストで行っています。 テストケースの管理はずっとGoogleのスプレッドシート（以下スプシ）を使っていましたが、運用が破綻しかけていました。 そこで、ケースの管理はコードベースで行い、実施だけをスプシで行...</description>
 </item>
 <item>
-<title>【Qiita】 ゲームAIの「コマンド成功」を疑う：Project Zomboidで突き飛ばしが当たらなかった話</title>
-<link>https://qiita.com/dpit/items/73730e6a12f8e611f57e</link>
-<guid>59a33e6faa05cd099335ee0eb7eb0c2a30242a95d95eb38a23f9354e1ecd91bc</guid>
-<pubDate>2026-09-30T04:07:10+09:00</pubDate>
-<description>Pokémon Yellowを遊ぶエージェント「Pikagente」を作っていて、今はProject Zomboidに取り組んでいます。最近いちばん勉強になったのは、モデルの選択よりも、実行結果の確かめ方でした。 出発点はポケモン PikagenteはLua/LÖVE製...</description>
+<title>【Qiita】 Twitter（現X）に貼ったURLのサムネイル画像、キャッシュクリアできるの知ってた？</title>
+<link>https://qiita.com/minorun365/items/f1f6a45fa9aff8d624af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>4093b370ec04307e676f907d71a2dc4841da3f257f684042e636356a24b04709</guid>
+<pubDate>2026-09-29T16:16:02+09:00</pubDate>
+<description>こんにちは、Claude Codeです。著者のみのるんが忙しそうだったので、代わりにこの記事を書いています。 ブログの画像を差し替えたのに、Xに貼ると古い画像のまま。投稿した直後から、カードが灰色の枠になっている。TwitterがXになってから、こういうことがよく起きます。...</description>
 </item>
 <item>
-<title>【Qiita】 Jevは「判断するAI」そのものになれるか？Decisions APIとDiffusionGemmaが突きつける問い</title>
-<link>https://qiita.com/konaito/items/05455b1d184df9861b14</link>
-<guid>3bc41a8a327b0078b63c3c800b7ef31e365649af989f418f72b63b96ad742b82</guid>
-<pubDate>2026-09-30T03:30:18+09:00</pubDate>
-<description>乱暴に一行ずつ並べると、最初に考えていたのはこの対立だった。 Yahooは検索エンジンを持っていた。でも「検索する」そのものになったのはGoogleだった。 FacebookはSNSの一社ではなく、SNSを代表する名前になった。 ChatGPTはLLMを発明したわけではな...</description>
+<title>【Qiita】 【JavaScript】Promise.resolveはPromiseでないオブジェクトもresolveするしそのせいで脆弱性がたくさんある</title>
+<link>https://qiita.com/rana_kualu/items/4bf77973ab94453a2699?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f86d423794e18947409ba3fcdfecde102b5c3ccd1cdbee417633f291c0021a85</guid>
+<pubDate>2026-09-28T19:59:42+09:00</pubDate>
+<description>どういうこと？ thenインジェクション Object.prototype.then = function(resolve, reject) { console.log(&#x27;thenメソッド生やしてみた&#x27;); resolve(true); }; async fu...</description>
 </item>
 <item>
-<title>【農業】 Zero hunger is not achievable without peace</title>
-<link>https://www.nature.com/articles/s43016-026-01439-5</link>
-<guid>326867bbdc41030df6f09ba6d23388d9b4e7698a8e1674907be6970af44f5196</guid>
-<pubDate>2026-09-29</pubDate>
-<description>The UN Sustainable Development Goal 2 (SDG 2) aims to end global hunger by 2030. A rising burden of armed conflict now obstructs progress, pointing to the fundamental importance of preventing and ending armed conflict to get SDG 2 back on track.</description>
+<title>【Qiita】 バッチ監視で学んだ4つの確認観点 ― 起動/生存/終了/復旧を確認しよう</title>
+<link>https://qiita.com/sewiihidekikudo/items/71d588760efd8224cd1f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>84f4d899335469613709d11b49569429f5b76f2b3ff0d4c214d4659c2b6f7e57</guid>
+<pubDate>2026-09-29T11:46:30+09:00</pubDate>
+<description>はじめに こんにちは。ソーイ株式会社の工藤です。 今回、当社が担当した受託開発案件でバッチの監視・テストを担当する中で、バッチが「実行されたか」だけでなく、「正常に動き続けているか」「正常終了したか」「異常から復旧したか」まで確認する必要があることを学びました。 本記事で...</description>
 </item>
 <item>
-<title>【自動自律実験】 Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion</title>
-<link>https://www.nature.com/articles/s41586-026-11083-5</link>
-<guid>611a24ec872c48559d79defafb24967e10839e874daddddb510d0d231d80d506</guid>
-<pubDate>2026-09-29</pubDate>
-<description>Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion</description>
+<title>【Qiita】 【自社開発1年目】「チーム経験ゼロ」の27歳元営業が、ダイレクト出版でAIを使い倒し本番コードを書くエンジニアになるまで</title>
+<link>https://qiita.com/kanzawa_kentaro/items/f69db1682fdc5ddb3ea8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>cf3adb91f9563d78c092239e35d77f2e3e5c0b1020ded9ae4deefe52ef74ce3e</guid>
+<pubDate>2026-09-28T23:51:38+09:00</pubDate>
+<description>TL;DR 誰： 27歳元営業。エンジニア未経験でダイレクト出版のプロダクト企画部に入社して1年経過 やったこと： 大阪で2ヶ月研修 ➔ FE（TypeScript, React）➔ BE（Go）➔ FE（現在） 感想： 結論、入社してよかった。やらかしもしたが、...</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>81b54b1505107a14f681c2a5834f4eb1520e15d22530e272f2103e8f7d7dd66a</guid>
-<pubDate>Tue, 29 Sep 2026 20:04:41 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 【参加レポート】イベント遠征のホテル探しをAIに任せたい！ vooy recipe day tokyo（2026年9月）</title>
+<link>https://qiita.com/spheal363/items/5fbc6149119d8bebf6d3</link>
+<guid>6f384bcd548d55639c23d608230e98c9d8a19710153efb921acda121201c5d59</guid>
+<pubDate>2026-09-30T08:20:59+09:00</pubDate>
+<description>2026年9月5日に開催された vooy recipe day tokyo の参加レポートです。 久しぶりの外部イベントだったのですが、まず率直に、楽しかったです！ 今回作ったのは、イベント会場の近くに加えて、電車やバスで通える周辺駅のホテルも探し、宿泊費と移動の条件を比較...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code の /doctor prompt-audit で指示ファイルを監査したら、読み込まれていない CLAUDE.md が出てきた</title>
+<link>https://qiita.com/ishizakahiroshi/items/7cc143942aab2b98e741</link>
+<guid>4f010521acbac3977d93d05a351850528a1b7cab9dd3cf635d1cd74d00d4e072</guid>
+<pubDate>2026-09-30T07:37:12+09:00</pubDate>
+<description>203 件。Claude Code に入った /doctor prompt-audit を、自分の指示ファイル一式にかけたら返ってきた所見の数です。CLAUDE.md、スキル 54 本、スラッシュコマンド、import 先まで全部なめられました。 /doctor prom...</description>
+</item>
+<item>
+<title>【Qiita】 OpenAI DevDay 2026を開発者目線で整理：dots・Space・新モデル・Codex・Agents APIの使い分け</title>
+<link>https://qiita.com/akira_papa_AI/items/f2c7b936ea27a5d66b59</link>
+<guid>119f5daeaa1d2f6178ecf01fe83db5a8be3f0167e4b76084d0869638f4d09c78</guid>
+<pubDate>2026-09-30T06:26:11+09:00</pubDate>
+<description>OpenAI DevDay 2026の発表を、「自分の仕事にAIを使う」「チームで使う」「自分のサービスに組み込む」の3つに分けて整理します。 結論からいうと、注目したいのはモデル単体の性能だけでなく、目標を渡し、実行環境で作業し、結果を検証して受け取る流れです。この記事は...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>3e4265f0a63505dc59906ae18204f4e6a3d2c686e9fc81ac0252d7a46676a9c0</guid>
-<pubDate>Tue, 29 Sep 2026 20:04:45 GMT</pubDate>
+<guid>329ac1549efe4c76323fba1944932cdc8762d2f0f0f1a3a89e69fd6ecec11fca</guid>
+<pubDate>Tue, 29 Sep 2026 23:49:29 GMT</pubDate>
 <description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>723734ab4905ea2b5d0af03f4b2fb8d41dc6f2aa68203e066c32bd82e91bd1e9</guid>
-<pubDate>Tue, 29 Sep 2026 20:04:48 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【U.S.】 How and Where Microbes Die in Soil Influences Residues, Organic Matter, and Soil Health</title>
-<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
-<guid>835295dba28e2dacb7d66998e49e3c3ebc4d554c980f6fe71383fc24b5709daf</guid>
-<pubDate>Tue, 29 Sep 2026 20:04:52 GMT</pubDate>
-<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>1983cb2cfffdeca92326522fb1fe8fb208d4e132cc7668a4e056cce7335c8e5f</guid>
+<pubDate>Tue, 29 Sep 2026 23:49:36 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>f6c476ea48c5b0b6e5c0dd3d2eb6fd439fb4a8f3cfc5f7e6ae6ff86d6ca12573</guid>
-<pubDate>Tue, 29 Sep 2026 20:05:13 GMT</pubDate>
+<guid>c92717da91804880a3df534d18d528ee711f41c236f0f818702b5e80c0ffb64b</guid>
+<pubDate>Tue, 29 Sep 2026 23:49:51 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>5020b1d9374056c2b309b9e12954fa382a3efe4e23b13512690745be62153565</guid>
-<pubDate>Tue, 29 Sep 2026 20:05:15 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
