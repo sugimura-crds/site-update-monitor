@@ -4,77 +4,134 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 29 Sep 2026 08:48:27 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 15:14:31 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 個人開発のMinecraft監視アプリに負荷試験をしてみた ― 読み取り専用のAPIが、実は毎回DBへ書き込んでいた</title>
-<link>https://qiita.com/jqit-yukiono/items/a8d8177d02cc4f7f2553?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>b941e4f4182df0da2a70c82c350958450a45312a38a6d299647c57780085459a</guid>
-<pubDate>2026-09-28T20:26:30+09:00</pubDate>
-<description>個人開発のMinecraft監視アプリに負荷試験をしてみた ― 読み取り専用のAPIが、実は毎回DBへ書き込んでいた 前回の記事の最後で、「負荷や長時間稼働に対する挙動は、自動では見ていません」と書きました。個人開発しているMinecraftサーバー監視アプリ「MineW...</description>
+<title>【Qiita】 [続] watsonx Orchestrate の Agent Skills を試してみる — references と scripts 編</title>
+<link>https://qiita.com/yuka_nm/items/0d1ef880e8834ac1bc20</link>
+<guid>32a53af6e27f01b98df364292ba3c19ffe9e7a9c82e3dabcd093e26e051914b4</guid>
+<pubDate>2026-09-29T18:54:35+09:00</pubDate>
+<description>はじめに 前回の記事（watsonx Orchestrate の Agent Skills を試してみる）では、SKILL.md だけで出張精算チェックのエージェントを作りました。 今回は Skill ディレクトリに置ける references/ と scripts/ を...</description>
 </item>
 <item>
-<title>【Qiita】 Argo RolloutsのBlue-Greenは「2つの環境の交代」じゃなかった ― 名前に引きずられて誤解していた話</title>
-<link>https://qiita.com/jqit-yukiono/items/8d17257a9778a086c7cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>85102807ed0a2fbca8c2de3f5560adcb666c8d16ccfc9fd34741b530aac2a7cf</guid>
-<pubDate>2026-09-28T20:26:30+09:00</pubDate>
-<description>Argo RolloutsのBlue-Greenは「2つの環境の交代」じゃなかった ― 名前に引きずられて誤解していた話 個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）の本番環境は、Argo Rollout...</description>
+<title>【Qiita】 「仕様駆動開発(SDD)」って何ですかい？おじさんでも分かるように調べてみた</title>
+<link>https://qiita.com/OnuuuumaX/items/65da696f33c1aa19e697</link>
+<guid>5ef8f4d41aa14152023199f62a79080520cc0b68ae429440cbcbd5a47896c371</guid>
+<pubDate>2026-09-29T18:56:20+09:00</pubDate>
+<description>はじめに 前回、AIに仕事を安定して任せるための仕組みとして「ハーネス」について取り上げました。今回は、最近よく見かける「仕様駆動開発(Spec-Driven Development、以下SDD)」を。Claudeに教えてもらいつつまとめ上げました。 名前は難しそうですが...</description>
 </item>
 <item>
-<title>【Qiita】 不適切なセンサーフィードは優れたVLAモデルを台無しにする：その根拠と対策</title>
-<link>https://qiita.com/bsteep1234/items/28da1aa7a5d15a4058c3</link>
-<guid>130dd106d9255de3dc388408d7f7b892b73b4764afaef6643492059a1607c9a1</guid>
-<pubDate>2026-09-29T17:39:59+09:00</pubDate>
-<description>「自動車は、日々生じる些細な不満によって評価が完全に台無しになることがある」 これはXpengに関するRedditのスレッドのコメントからの引用であり、機械学習について書かれたものではありません。このユーザーは以下の点について不満を述べていました。 音声ストリーミ...</description>
+<title>【Qiita】 [AWS] AgenticRAGの判断をJevにしたら、爆速にはならなかったけど主導権が返ってきた</title>
+<link>https://qiita.com/kikuziro/items/6ca269daa54c74e3bf1d</link>
+<guid>9b44e8c10f6e28d8fc28db1a862a352a80467cca0c6436c5197253ab8c043308</guid>
+<pubDate>2026-09-29T23:29:23+09:00</pubDate>
+<description>🧭 はじめに 以前RAGにJevを使うと効率がよくなるという記事を書きました。 今回はそれをAgenticRAGへ持ち込むとどうなるのか踏み込んでみました。 📌 TL;DR 判断をJevに置き換えれば爆速になると思ったら思いのほか速くなりませんでした 理由はA...</description>
 </item>
 <item>
-<title>【Qiita】 2台のPCのAIエージェントに引き継ぎをさせた — 足りなかったのは共有ではなく履歴だった</title>
-<link>https://qiita.com/Suisei498/items/281a8c09d48a8105092e</link>
-<guid>8e90cfd97efd8975c898019196a3c50d5634af410cf56bf2b743234886677686</guid>
-<pubDate>2026-09-29T17:35:39+09:00</pubDate>
-<description>この記事は、note で連載した「自動売買をつくってみる」第7回の転載です（全9回）。 元記事: https://note.com/suisei498/n/nf6ca47c9caa3 前回まで書いてきたとおり、開発する母艦と、売買を動かす専用機の2台になりました。 どち...</description>
+<title>【Qiita】 Can an Agentforce Partner Customize Agents for Specific Business Processes?</title>
+<link>https://qiita.com/bmcloud/items/729764dca0f93f1ecf4f</link>
+<guid>1ff412f3c38c3adcd3c866a574a6dafc241799b55c198f28b584de1a5becc84e</guid>
+<pubDate>2026-09-29T21:57:53+09:00</pubDate>
+<description>Short answer: i.e., yes, and it&#x27;s one of the main reasons why companies hire one. The out-of-the-box Agentforce agents are just the start...</description>
 </item>
 <item>
-<title>【Qiita】 Google AX × Kubernetes | kindクラスタ構築からAgentのTask実行・SSHデバッグまで</title>
-<link>https://qiita.com/GYact/items/4450f33aba56765c8acf</link>
-<guid>ed0c0351affe75c8e026b7b80409cab289e2b5a3626ecf2c905dc3eedffc532b</guid>
-<pubDate>2026-09-29T17:21:52+09:00</pubDate>
-<description>「エージェントを100個並列で動かしたら、どこかで必ず1つが暴走する」 この感覚は正しいです。ローカルで1〜2体のAIエージェントを動かしている分には気づきませんが、並列数が増えると「どのエージェントがどのファイルを触ったか」「暴走したプロセスをどう隔離するか」「クラッシ...</description>
+<title>【Qiita】 Agentforceがユーザーによって挙動が変わる時に確認する権限・共有設定チェックリスト</title>
+<link>https://qiita.com/ubakichi_sr_mc_ai_06/items/b223e5f65787e3bb3d99</link>
+<guid>f1962c3d13af19b554c36e527a39e0307eda014d96f679f99af4dc8bb58dce06</guid>
+<pubDate>2026-09-29T21:48:54+09:00</pubDate>
+<description>はじめに Agentforceのエージェントアクションを実装していると、動作確認は管理者権限で行うことが多いと思います。 ただ本番投入後に一般ユーザーから「情報が取得できない」という問い合わせが来て、慌てて原因を追うことになったケースがありました。 実はこれ、Agentf...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code × Agent Skills | SKILL.mdの設計から自動発火・権限制御まで</title>
-<link>https://qiita.com/GYact/items/96ba2c23fd6e27871362</link>
-<guid>c2cdc4b00ca05342f9bfd35f86e6b599bb35ac2c878aa1ccb159f6965ff455ca</guid>
-<pubDate>2026-09-29T17:21:25+09:00</pubDate>
-<description>「また同じ手順書をチャットに貼り付けている」――この感覚は正しいです。 デプロイ手順、コミット規約、社内API設計ルール。同じコンテキストを毎回プロンプトに貼っていると、そのうち「毎回貼る」こと自体が仕事になります。Claude Code の Agent Skills は、...</description>
+<title>【Qiita】 NVIDIA OpenShell を Mac に入れてみた：AI エージェントを「箱」に入れると、何が止まるのか</title>
+<link>https://qiita.com/Takuya__/items/fdac5d94e09447a9202b</link>
+<guid>dfe903f4cfc27ad980bcba28052cf2b971b57ad1831fd61bf9df5d1bb408443d</guid>
+<pubDate>2026-09-29T18:35:49+09:00</pubDate>
+<description>はじめに Claude Code や Codex のような AI エージェントに、ターミナルの操作を任せる場面が増えました。便利な一方で、次のような不安を感じたことはないでしょうか。 指示していないフォルダまで読まれたり、書き換えられたりしないか ソースコードや AP...</description>
+</item>
+<item>
+<title>【Qiita】 【2026年版】ブラウザ自動化の先へ：UI-TARS、Claude Computer Use、OSWorld 2.0で構築するデスクトップGUI自律操作エージェント実践</title>
+<link>https://qiita.com/agdexai/items/6e26c803a14a2b64c799</link>
+<guid>defeffa4f562a69bf56539c4ac7c5577b1d6a30d8fb9cd870d76ed9eec65ad6b</guid>
+<pubDate>2026-09-29T19:14:39+09:00</pubDate>
+<description>【2026年版】ブラウザ自動化の先へ：UI-TARS、Claude Computer Use、OSWorld 2.0で構築するデスクトップGUI自律操作エージェント実践 過去3年間、生成AIエコシステムはBrowser-Use、Stagehand、Playwright M...</description>
+</item>
+<item>
+<title>【農業】 Reducing food loss and waste to protect forests and transform agrifood systems</title>
+<link>https://www.fao.org/newsroom/detail/reducing-food-loss-and-waste-to-protect-forests-and-transform-agrifood-systems/en</link>
+<guid>e751be4d8a5f56d5d470a0d962d7483dae2841e3c453c40f02e44201ab9bc243</guid>
+<pubDate>Tue, 29 Sep 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【環境】 Governments must reconcile dissonant climate assessment approaches</title>
+<link>https://www.nature.com/articles/s41558-026-02736-4</link>
+<guid>530670d5bf0494fc5c051cbc4e0b2e5686bbda8b815d28b50ed3c8ddd96c5fac</guid>
+<pubDate>2026-09-29</pubDate>
+<description>Security analysts and government economists increasingly present policymakers with different pictures of the same climate and nature risk. We argue that governments need a shared way to weigh these assessments, particularly given that under-preparing for a severe, irreversible outcome costs far more than ove</description>
+</item>
+<item>
+<title>【自動自律実験】 Strange and beautiful creatures spotted on the &lt;i&gt;Challenger&lt;/i&gt; expedition</title>
+<link>https://www.nature.com/articles/d41586-026-02972-w</link>
+<guid>7a72ddbebcbd4a32c5eb1dafbcb1ca3c56ef22f87a05bb49fb5e0cf3b58b68d8</guid>
+<pubDate>2026-09-29</pubDate>
+<description>A genus of soil-dwelling beetle discovered in Italy, and a glimpse at the wonders of the deep sea, in our weekly dip into Nature’s archive.</description>
+</item>
+<item>
+<title>【自動自律実験】 PhD training should encourage ethical dissent</title>
+<link>https://www.nature.com/articles/d41586-026-03053-8</link>
+<guid>0c156ce600fbfb37ae917a086631a6edd3a3949e7e7a391207b8c248058842b1</guid>
+<pubDate>2026-09-29</pubDate>
+<description>PhD training should encourage ethical dissent</description>
+</item>
+<item>
+<title>【自動自律実験】 Biodiversity protection must include language preservation</title>
+<link>https://www.nature.com/articles/d41586-026-03056-5</link>
+<guid>3a6cf19a3f668dcf63e176d99b5fcf15f6cacbbaa085dca583b449f05ccbbc16</guid>
+<pubDate>2026-09-29</pubDate>
+<description>Biodiversity protection must include language preservation</description>
+</item>
+<item>
+<title>【自動自律実験】 Patents alone won’t unlock critical-mineral supply chains</title>
+<link>https://www.nature.com/articles/d41586-026-03054-7</link>
+<guid>e3d8925d715f9341d05e59626a62df3737900962028dc497003cd86d5b800920</guid>
+<pubDate>2026-09-29</pubDate>
+<description>Patents alone won’t unlock critical-mineral supply chains</description>
+</item>
+<item>
+<title>【自動自律実験】 The cost of lost labour on a warming planet</title>
+<link>https://www.nature.com/articles/d41586-026-02971-x</link>
+<guid>9c8055ad3caf3505e879e73e9ce23602d9d2202f9096417527878b26ac2e8a35</guid>
+<pubDate>2026-09-29</pubDate>
+<description>Researchers quantify the economic damage caused by climate-change-related heat stress on the global workforce.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>b78b5ede5550659b5d7470115baa3ffa1df8d1d84c0dfbbd2e17db6063bf3b67</guid>
-<pubDate>Tue, 29 Sep 2026 08:47:23 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>5b8020429c1a14ee9167ef99cb6aecbb2ef80e39dbb44991ea215017e23da1c4</guid>
+<pubDate>Tue, 29 Sep 2026 15:13:43 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>218a20b6b1df5438d04fded10ab7ba8456f891b4d84ec803ab0c42ddec8c9e4f</guid>
-<pubDate>Tue, 29 Sep 2026 08:47:26 GMT</pubDate>
+<guid>ce34111039e61aec936f934e88a2ae26a205155ecc08c046053d888cb65b88f5</guid>
+<pubDate>Tue, 29 Sep 2026 15:13:46 GMT</pubDate>
 <description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>474e2ff3812db92a91aaa9262a1c6824a54a14ff48a9499cb59b2ed140595bd0</guid>
-<pubDate>Tue, 29 Sep 2026 08:47:29 GMT</pubDate>
+<guid>13d9c915191a36951747a597a39236c2e8a603241c631517d9289eb7283df1a1</guid>
+<pubDate>Tue, 29 Sep 2026 15:13:49 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.soken.ac.jp/news/2026/20260805.html</link>
-<guid>1206ad8ea4ecbc1ca64a0e62b332cdd204eb0deeab5cbbc0b066bab2d815554d</guid>
-<pubDate>Tue, 29 Sep 2026 08:48:10 GMT</pubDate>
-<description>【プレスリリース】全ゲノム塩基配列で解明：ニホンイノシシとリュウキュウイノシシは共通祖先から進化していた</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>bf8a57e9faab04f6b973327b1beb5b18be2b7b4f90c486370aad817fcd6f04e7</guid>
+<pubDate>Tue, 29 Sep 2026 15:14:12 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
