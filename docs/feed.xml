@@ -4,71 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 29 Sep 2026 02:08:05 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 08:48:27 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 2026年9月29日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/f09e622a5069f34b89c5</link>
-<guid>e0ab34d3c5b97e6c8ea087fa25ab67222b7edf6be517099a55e75ccb618319b9</guid>
-<pubDate>2026-09-29T10:55:07+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 AI感のないAWS構成図をAIエージェントに描...</description>
+<title>【Qiita】 個人開発のMinecraft監視アプリに負荷試験をしてみた ― 読み取り専用のAPIが、実は毎回DBへ書き込んでいた</title>
+<link>https://qiita.com/jqit-yukiono/items/a8d8177d02cc4f7f2553?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>b941e4f4182df0da2a70c82c350958450a45312a38a6d299647c57780085459a</guid>
+<pubDate>2026-09-28T20:26:30+09:00</pubDate>
+<description>個人開発のMinecraft監視アプリに負荷試験をしてみた ― 読み取り専用のAPIが、実は毎回DBへ書き込んでいた 前回の記事の最後で、「負荷や長時間稼働に対する挙動は、自動では見ていません」と書きました。個人開発しているMinecraftサーバー監視アプリ「MineW...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントのコードレビューをどう設計して検証するか — code-review-skillsをリリースしました</title>
-<link>https://qiita.com/akkie76/items/f08ac38fd81aa19ae832</link>
-<guid>301c1acab84c0bcc7e4209dcb95cc321ac24ed4b65bb0c1b2a2676ca8c7b6ef1</guid>
-<pubDate>2026-09-29T09:42:13+09:00</pubDate>
-<description>はじめに 先日、AIコーディングエージェント向けのコードレビューSkill「code-review-skills」をリリースしました。Xで予想以上に反響をいただき、ありがとうございます。 この記事では、Skillを作った背景と設計、レビューの振る舞いをどう確かめているかを...</description>
+<title>【Qiita】 Argo RolloutsのBlue-Greenは「2つの環境の交代」じゃなかった ― 名前に引きずられて誤解していた話</title>
+<link>https://qiita.com/jqit-yukiono/items/8d17257a9778a086c7cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>85102807ed0a2fbca8c2de3f5560adcb666c8d16ccfc9fd34741b530aac2a7cf</guid>
+<pubDate>2026-09-28T20:26:30+09:00</pubDate>
+<description>Argo RolloutsのBlue-Greenは「2つの環境の交代」じゃなかった ― 名前に引きずられて誤解していた話 個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）の本番環境は、Argo Rollout...</description>
 </item>
 <item>
-<title>【Qiita】 どのURLも200を返すサイトで、CSVだけを信じる話【kurashi-skill Day 19】</title>
-<link>https://qiita.com/Ichiropen/items/78b09ec83e18f387afa1</link>
-<guid>d10cc172780e4c6a2062b21f9029b1dd38090e44d9a0c9f604a29543ff1edc4f</guid>
-<pubDate>2026-09-29T09:35:39+09:00</pubDate>
-<description>朝からのどがイガイガする。PM2.5か、黄砂か、ただの乾燥か。「今、空気は悪いの?」に答えるデータは、環境省が公開している。大気汚染物質広域監視システム、通称そらまめくん(AEROS)。全国の測定局の速報値を24時間公開していて、しかも公式サイトに開発者向けのAPI説明ペー...</description>
+<title>【Qiita】 不適切なセンサーフィードは優れたVLAモデルを台無しにする：その根拠と対策</title>
+<link>https://qiita.com/bsteep1234/items/28da1aa7a5d15a4058c3</link>
+<guid>130dd106d9255de3dc388408d7f7b892b73b4764afaef6643492059a1607c9a1</guid>
+<pubDate>2026-09-29T17:39:59+09:00</pubDate>
+<description>「自動車は、日々生じる些細な不満によって評価が完全に台無しになることがある」 これはXpengに関するRedditのスレッドのコメントからの引用であり、機械学習について書かれたものではありません。このユーザーは以下の点について不満を述べていました。 音声ストリーミ...</description>
 </item>
 <item>
-<title>【Qiita】 停止判断・保持・実行を分けると、ハーネスの側で今日できることと、モデルの側にまだ答えが無いことが見えてくる ── OpenAI・Anthropic・Apollo の公開事故報告と介入実験から</title>
-<link>https://qiita.com/dosanko_tousan/items/61a24ee6571602a67ac7</link>
-<guid>87daa59c6f524e7a7d825629e73831c395a679fa725e49fb2b151cba50b5c986</guid>
-<pubDate>2026-09-29T09:28:03+09:00</pubDate>
-<description>この記事は、Towards AI に掲載された英語版を、同じ一次資料から Qiita 向けに組み直した日本語版です。英語版に無い「ハーネスの側で今日できること」の節を足しています(その節の中身は設計上の示唆で、効果は検証していません)。 英語版:AI Agents Ke...</description>
+<title>【Qiita】 2台のPCのAIエージェントに引き継ぎをさせた — 足りなかったのは共有ではなく履歴だった</title>
+<link>https://qiita.com/Suisei498/items/281a8c09d48a8105092e</link>
+<guid>8e90cfd97efd8975c898019196a3c50d5634af410cf56bf2b743234886677686</guid>
+<pubDate>2026-09-29T17:35:39+09:00</pubDate>
+<description>この記事は、note で連載した「自動売買をつくってみる」第7回の転載です（全9回）。 元記事: https://note.com/suisei498/n/nf6ca47c9caa3 前回まで書いてきたとおり、開発する母艦と、売買を動かす専用機の2台になりました。 どち...</description>
 </item>
 <item>
-<title>【Qiita】 Anthropicが「30%速く、最大30%安く」とSonnet 5.5を発表した翌日、自分のパイプラインの実行モデルはまだ旧世代のままだった</title>
-<link>https://qiita.com/Hideki_Tamae/items/a081c9500c2a34fd8c0c</link>
-<guid>cbfb5d6d402ce34490d9f5b55571c2d76327b460462a52bbf91daca08d263953</guid>
-<pubDate>2026-09-29T09:45:25+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、Anthropicが2026年9月28日に発表した新モデル「Claude Sonnet 5.5」が謳う「30%以上速く、タスクによっては最大30%安く」という改善を、自分の記事投稿パイプラインが発表翌日の時点で実際に...</description>
+<title>【Qiita】 Google AX × Kubernetes | kindクラスタ構築からAgentのTask実行・SSHデバッグまで</title>
+<link>https://qiita.com/GYact/items/4450f33aba56765c8acf</link>
+<guid>ed0c0351affe75c8e026b7b80409cab289e2b5a3626ecf2c905dc3eedffc532b</guid>
+<pubDate>2026-09-29T17:21:52+09:00</pubDate>
+<description>「エージェントを100個並列で動かしたら、どこかで必ず1つが暴走する」 この感覚は正しいです。ローカルで1〜2体のAIエージェントを動かしている分には気づきませんが、並列数が増えると「どのエージェントがどのファイルを触ったか」「暴走したプロセスをどう隔離するか」「クラッシ...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code × Agent Skills | SKILL.mdの設計から自動発火・権限制御まで</title>
+<link>https://qiita.com/GYact/items/96ba2c23fd6e27871362</link>
+<guid>c2cdc4b00ca05342f9bfd35f86e6b599bb35ac2c878aa1ccb159f6965ff455ca</guid>
+<pubDate>2026-09-29T17:21:25+09:00</pubDate>
+<description>「また同じ手順書をチャットに貼り付けている」――この感覚は正しいです。 デプロイ手順、コミット規約、社内API設計ルール。同じコンテキストを毎回プロンプトに貼っていると、そのうち「毎回貼る」こと自体が仕事になります。Claude Code の Agent Skills は、...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
 <link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>8de47669d39384c22c0cf4bad15b29fe19f6ac9ae4b23750f6c7507dcfb5042c</guid>
-<pubDate>Tue, 29 Sep 2026 02:07:06 GMT</pubDate>
+<guid>b78b5ede5550659b5d7470115baa3ffa1df8d1d84c0dfbbd2e17db6063bf3b67</guid>
+<pubDate>Tue, 29 Sep 2026 08:47:23 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>6c703096f63df9147ab9bc69405c65d636752d8ff799b44eae9a615f070ddf59</guid>
-<pubDate>Tue, 29 Sep 2026 02:07:09 GMT</pubDate>
+<guid>218a20b6b1df5438d04fded10ab7ba8456f891b4d84ec803ab0c42ddec8c9e4f</guid>
+<pubDate>Tue, 29 Sep 2026 08:47:26 GMT</pubDate>
 <description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>7e1dff6cad6270c634936bbe3ea6cf7dbf668ad49ddeb376e258c5687dc8745e</guid>
-<pubDate>Tue, 29 Sep 2026 02:07:18 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>474e2ff3812db92a91aaa9262a1c6824a54a14ff48a9499cb59b2ed140595bd0</guid>
+<pubDate>Tue, 29 Sep 2026 08:47:29 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>8b5043f3798dbab44b43b266d2b4d7e5f5f5580d565cc3e0d0f544f64f133451</guid>
-<pubDate>Tue, 29 Sep 2026 02:07:46 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.soken.ac.jp/news/2026/20260805.html</link>
+<guid>1206ad8ea4ecbc1ca64a0e62b332cdd204eb0deeab5cbbc0b066bab2d815554d</guid>
+<pubDate>Tue, 29 Sep 2026 08:48:10 GMT</pubDate>
+<description>【プレスリリース】全ゲノム塩基配列で解明：ニホンイノシシとリュウキュウイノシシは共通祖先から進化していた</description>
 </item>
 
 </channel>
