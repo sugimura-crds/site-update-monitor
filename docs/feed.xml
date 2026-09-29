@@ -4,134 +4,85 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 29 Sep 2026 15:14:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 20:05:29 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 [続] watsonx Orchestrate の Agent Skills を試してみる — references と scripts 編</title>
-<link>https://qiita.com/yuka_nm/items/0d1ef880e8834ac1bc20</link>
-<guid>32a53af6e27f01b98df364292ba3c19ffe9e7a9c82e3dabcd093e26e051914b4</guid>
-<pubDate>2026-09-29T18:54:35+09:00</pubDate>
-<description>はじめに 前回の記事（watsonx Orchestrate の Agent Skills を試してみる）では、SKILL.md だけで出張精算チェックのエージェントを作りました。 今回は Skill ディレクトリに置ける references/ と scripts/ を...</description>
+<title>【Qiita】 あいにく私はAIですので脱ぐ服も身体も持ち合わせておりません、と言われた夜の話 ── 秀コンボと最新AI「Jev」の思想的一致から取調室まで</title>
+<link>https://qiita.com/shu15511551/items/2e2f33eb68af0641ee87</link>
+<guid>0589b848259f0118e5929eeadbb79c78d59892436ef91330218ca2eb3646d3ea</guid>
+<pubDate>2026-09-30T04:53:23+09:00</pubDate>
+<description>はじめに 先日、早朝の午前四時に Gemini へこんこんと説教をした記事を書きました。 道具の暴走を止め、手綱を握り直し、ようやく平穏な開発環境が戻ってきた──はずでした。 昨晩の作業は、自作アドイン『秀コンボ』に新しく組み込んだ「検索シート自動生成マクロ」の総仕...</description>
 </item>
 <item>
-<title>【Qiita】 「仕様駆動開発(SDD)」って何ですかい？おじさんでも分かるように調べてみた</title>
-<link>https://qiita.com/OnuuuumaX/items/65da696f33c1aa19e697</link>
-<guid>5ef8f4d41aa14152023199f62a79080520cc0b68ae429440cbcbd5a47896c371</guid>
-<pubDate>2026-09-29T18:56:20+09:00</pubDate>
-<description>はじめに 前回、AIに仕事を安定して任せるための仕組みとして「ハーネス」について取り上げました。今回は、最近よく見かける「仕様駆動開発(Spec-Driven Development、以下SDD)」を。Claudeに教えてもらいつつまとめ上げました。 名前は難しそうですが...</description>
+<title>【Qiita】 ゲームAIの「コマンド成功」を疑う：Project Zomboidで突き飛ばしが当たらなかった話</title>
+<link>https://qiita.com/dpit/items/73730e6a12f8e611f57e</link>
+<guid>59a33e6faa05cd099335ee0eb7eb0c2a30242a95d95eb38a23f9354e1ecd91bc</guid>
+<pubDate>2026-09-30T04:07:10+09:00</pubDate>
+<description>Pokémon Yellowを遊ぶエージェント「Pikagente」を作っていて、今はProject Zomboidに取り組んでいます。最近いちばん勉強になったのは、モデルの選択よりも、実行結果の確かめ方でした。 出発点はポケモン PikagenteはLua/LÖVE製...</description>
 </item>
 <item>
-<title>【Qiita】 [AWS] AgenticRAGの判断をJevにしたら、爆速にはならなかったけど主導権が返ってきた</title>
-<link>https://qiita.com/kikuziro/items/6ca269daa54c74e3bf1d</link>
-<guid>9b44e8c10f6e28d8fc28db1a862a352a80467cca0c6436c5197253ab8c043308</guid>
-<pubDate>2026-09-29T23:29:23+09:00</pubDate>
-<description>🧭 はじめに 以前RAGにJevを使うと効率がよくなるという記事を書きました。 今回はそれをAgenticRAGへ持ち込むとどうなるのか踏み込んでみました。 📌 TL;DR 判断をJevに置き換えれば爆速になると思ったら思いのほか速くなりませんでした 理由はA...</description>
+<title>【Qiita】 Jevは「判断するAI」そのものになれるか？Decisions APIとDiffusionGemmaが突きつける問い</title>
+<link>https://qiita.com/konaito/items/05455b1d184df9861b14</link>
+<guid>3bc41a8a327b0078b63c3c800b7ef31e365649af989f418f72b63b96ad742b82</guid>
+<pubDate>2026-09-30T03:30:18+09:00</pubDate>
+<description>乱暴に一行ずつ並べると、最初に考えていたのはこの対立だった。 Yahooは検索エンジンを持っていた。でも「検索する」そのものになったのはGoogleだった。 FacebookはSNSの一社ではなく、SNSを代表する名前になった。 ChatGPTはLLMを発明したわけではな...</description>
 </item>
 <item>
-<title>【Qiita】 Can an Agentforce Partner Customize Agents for Specific Business Processes?</title>
-<link>https://qiita.com/bmcloud/items/729764dca0f93f1ecf4f</link>
-<guid>1ff412f3c38c3adcd3c866a574a6dafc241799b55c198f28b584de1a5becc84e</guid>
-<pubDate>2026-09-29T21:57:53+09:00</pubDate>
-<description>Short answer: i.e., yes, and it&#x27;s one of the main reasons why companies hire one. The out-of-the-box Agentforce agents are just the start...</description>
-</item>
-<item>
-<title>【Qiita】 Agentforceがユーザーによって挙動が変わる時に確認する権限・共有設定チェックリスト</title>
-<link>https://qiita.com/ubakichi_sr_mc_ai_06/items/b223e5f65787e3bb3d99</link>
-<guid>f1962c3d13af19b554c36e527a39e0307eda014d96f679f99af4dc8bb58dce06</guid>
-<pubDate>2026-09-29T21:48:54+09:00</pubDate>
-<description>はじめに Agentforceのエージェントアクションを実装していると、動作確認は管理者権限で行うことが多いと思います。 ただ本番投入後に一般ユーザーから「情報が取得できない」という問い合わせが来て、慌てて原因を追うことになったケースがありました。 実はこれ、Agentf...</description>
-</item>
-<item>
-<title>【Qiita】 NVIDIA OpenShell を Mac に入れてみた：AI エージェントを「箱」に入れると、何が止まるのか</title>
-<link>https://qiita.com/Takuya__/items/fdac5d94e09447a9202b</link>
-<guid>dfe903f4cfc27ad980bcba28052cf2b971b57ad1831fd61bf9df5d1bb408443d</guid>
-<pubDate>2026-09-29T18:35:49+09:00</pubDate>
-<description>はじめに Claude Code や Codex のような AI エージェントに、ターミナルの操作を任せる場面が増えました。便利な一方で、次のような不安を感じたことはないでしょうか。 指示していないフォルダまで読まれたり、書き換えられたりしないか ソースコードや AP...</description>
-</item>
-<item>
-<title>【Qiita】 【2026年版】ブラウザ自動化の先へ：UI-TARS、Claude Computer Use、OSWorld 2.0で構築するデスクトップGUI自律操作エージェント実践</title>
-<link>https://qiita.com/agdexai/items/6e26c803a14a2b64c799</link>
-<guid>defeffa4f562a69bf56539c4ac7c5577b1d6a30d8fb9cd870d76ed9eec65ad6b</guid>
-<pubDate>2026-09-29T19:14:39+09:00</pubDate>
-<description>【2026年版】ブラウザ自動化の先へ：UI-TARS、Claude Computer Use、OSWorld 2.0で構築するデスクトップGUI自律操作エージェント実践 過去3年間、生成AIエコシステムはBrowser-Use、Stagehand、Playwright M...</description>
-</item>
-<item>
-<title>【農業】 Reducing food loss and waste to protect forests and transform agrifood systems</title>
-<link>https://www.fao.org/newsroom/detail/reducing-food-loss-and-waste-to-protect-forests-and-transform-agrifood-systems/en</link>
-<guid>e751be4d8a5f56d5d470a0d962d7483dae2841e3c453c40f02e44201ab9bc243</guid>
-<pubDate>Tue, 29 Sep 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【環境】 Governments must reconcile dissonant climate assessment approaches</title>
-<link>https://www.nature.com/articles/s41558-026-02736-4</link>
-<guid>530670d5bf0494fc5c051cbc4e0b2e5686bbda8b815d28b50ed3c8ddd96c5fac</guid>
+<title>【農業】 Zero hunger is not achievable without peace</title>
+<link>https://www.nature.com/articles/s43016-026-01439-5</link>
+<guid>326867bbdc41030df6f09ba6d23388d9b4e7698a8e1674907be6970af44f5196</guid>
 <pubDate>2026-09-29</pubDate>
-<description>Security analysts and government economists increasingly present policymakers with different pictures of the same climate and nature risk. We argue that governments need a shared way to weigh these assessments, particularly given that under-preparing for a severe, irreversible outcome costs far more than ove</description>
+<description>The UN Sustainable Development Goal 2 (SDG 2) aims to end global hunger by 2030. A rising burden of armed conflict now obstructs progress, pointing to the fundamental importance of preventing and ending armed conflict to get SDG 2 back on track.</description>
 </item>
 <item>
-<title>【自動自律実験】 Strange and beautiful creatures spotted on the &lt;i&gt;Challenger&lt;/i&gt; expedition</title>
-<link>https://www.nature.com/articles/d41586-026-02972-w</link>
-<guid>7a72ddbebcbd4a32c5eb1dafbcb1ca3c56ef22f87a05bb49fb5e0cf3b58b68d8</guid>
+<title>【自動自律実験】 Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion</title>
+<link>https://www.nature.com/articles/s41586-026-11083-5</link>
+<guid>611a24ec872c48559d79defafb24967e10839e874daddddb510d0d231d80d506</guid>
 <pubDate>2026-09-29</pubDate>
-<description>A genus of soil-dwelling beetle discovered in Italy, and a glimpse at the wonders of the deep sea, in our weekly dip into Nature’s archive.</description>
-</item>
-<item>
-<title>【自動自律実験】 PhD training should encourage ethical dissent</title>
-<link>https://www.nature.com/articles/d41586-026-03053-8</link>
-<guid>0c156ce600fbfb37ae917a086631a6edd3a3949e7e7a391207b8c248058842b1</guid>
-<pubDate>2026-09-29</pubDate>
-<description>PhD training should encourage ethical dissent</description>
-</item>
-<item>
-<title>【自動自律実験】 Biodiversity protection must include language preservation</title>
-<link>https://www.nature.com/articles/d41586-026-03056-5</link>
-<guid>3a6cf19a3f668dcf63e176d99b5fcf15f6cacbbaa085dca583b449f05ccbbc16</guid>
-<pubDate>2026-09-29</pubDate>
-<description>Biodiversity protection must include language preservation</description>
-</item>
-<item>
-<title>【自動自律実験】 Patents alone won’t unlock critical-mineral supply chains</title>
-<link>https://www.nature.com/articles/d41586-026-03054-7</link>
-<guid>e3d8925d715f9341d05e59626a62df3737900962028dc497003cd86d5b800920</guid>
-<pubDate>2026-09-29</pubDate>
-<description>Patents alone won’t unlock critical-mineral supply chains</description>
-</item>
-<item>
-<title>【自動自律実験】 The cost of lost labour on a warming planet</title>
-<link>https://www.nature.com/articles/d41586-026-02971-x</link>
-<guid>9c8055ad3caf3505e879e73e9ce23602d9d2202f9096417527878b26ac2e8a35</guid>
-<pubDate>2026-09-29</pubDate>
-<description>Researchers quantify the economic damage caused by climate-change-related heat stress on the global workforce.</description>
+<description>Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>5b8020429c1a14ee9167ef99cb6aecbb2ef80e39dbb44991ea215017e23da1c4</guid>
-<pubDate>Tue, 29 Sep 2026 15:13:43 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>81b54b1505107a14f681c2a5834f4eb1520e15d22530e272f2103e8f7d7dd66a</guid>
+<pubDate>Tue, 29 Sep 2026 20:04:41 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>ce34111039e61aec936f934e88a2ae26a205155ecc08c046053d888cb65b88f5</guid>
-<pubDate>Tue, 29 Sep 2026 15:13:46 GMT</pubDate>
+<guid>3e4265f0a63505dc59906ae18204f4e6a3d2c686e9fc81ac0252d7a46676a9c0</guid>
+<pubDate>Tue, 29 Sep 2026 20:04:45 GMT</pubDate>
 <description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>13d9c915191a36951747a597a39236c2e8a603241c631517d9289eb7283df1a1</guid>
-<pubDate>Tue, 29 Sep 2026 15:13:49 GMT</pubDate>
+<guid>723734ab4905ea2b5d0af03f4b2fb8d41dc6f2aa68203e066c32bd82e91bd1e9</guid>
+<pubDate>Tue, 29 Sep 2026 20:04:48 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【U.S.】 How and Where Microbes Die in Soil Influences Residues, Organic Matter, and Soil Health</title>
+<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
+<guid>835295dba28e2dacb7d66998e49e3c3ebc4d554c980f6fe71383fc24b5709daf</guid>
+<pubDate>Tue, 29 Sep 2026 20:04:52 GMT</pubDate>
+<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>bf8a57e9faab04f6b973327b1beb5b18be2b7b4f90c486370aad817fcd6f04e7</guid>
-<pubDate>Tue, 29 Sep 2026 15:14:12 GMT</pubDate>
+<guid>f6c476ea48c5b0b6e5c0dd3d2eb6fd439fb4a8f3cfc5f7e6ae6ff86d6ca12573</guid>
+<pubDate>Tue, 29 Sep 2026 20:05:13 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>5020b1d9374056c2b309b9e12954fa382a3efe4e23b13512690745be62153565</guid>
+<pubDate>Tue, 29 Sep 2026 20:05:15 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
