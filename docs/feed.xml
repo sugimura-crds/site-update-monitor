@@ -4,126 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 30 Sep 2026 16:10:36 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 20:54:59 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Microsoft Learn のドキュメントリポジトリが順次終了へ。誰でもできた「修正を送る」と「履歴を追う」はどうなる?</title>
-<link>https://qiita.com/aktsmm/items/b7440aa7838a5a9e7dc1</link>
-<guid>15fe9a5ce533efec2fc52069c9ad71c10acbf4720c355a9cd046f54e92632dae</guid>
-<pubDate>2026-09-30T19:01:23+09:00</pubDate>
-<description>こんにちは、Learn の「編集」アイコンの行き先が気になったアーキテクトのやまぱん！です 😊 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ Microsoft Learn のドキュメントは、原稿が GitHub の公開...</description>
+<title>【Qiita】 BedrockのClaudeに暗黙的なプロンプトキャッシュが登場！！とドキュメントにある（暗黙的とは？）</title>
+<link>https://qiita.com/moritalous/items/1b6a05842724fc1fff66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>0e276fdfab002fa3103b90de54bf809c99e968d5d0ff4cc169c5556f7f0cea3c</guid>
+<pubDate>2026-09-29T21:34:51+09:00</pubDate>
+<description>Claude Sonnet 5.5が出ましたね！当たり前のようにAWSのAmazon Bedrockでも使えます。 ドキュメントもすでに更新されています。（仕事が早い！） 「RuntimeエンドポイントとMantleエンドポイントに対応、おすすめはRuntime...</description>
 </item>
 <item>
-<title>【Qiita】 Kiro Crewがよくわかっていないのでとりあえず導入してみた</title>
-<link>https://qiita.com/ss_IT_study/items/73ce976074e327838d9f</link>
-<guid>82d3a15fab36c992ac946a8f44323f376fc95546e518a12dbc0363b63b9967ca</guid>
-<pubDate>2026-09-30T23:46:56+09:00</pubDate>
-<description>#1.はじめに #2.環境 #3.セットアップ #4.あとがき 1.はじめに 先日AWSブログにて「Kiro Crew」が紹介されていました。 どうやらKiro CrewはOSSとして提供されているAIエージェント環境で、WebベースのUIから操作できるようです。 ...</description>
+<title>【Qiita】 AIを導入した会社の次にあるもの──フロンティア企業を運用設計に翻訳する</title>
+<link>https://qiita.com/mhamadajp/items/fe23ee09733be6f5b112</link>
+<guid>db547d440c8a6549c1590508e72bb260fc9981603b958fe4f9d1d959823058f5</guid>
+<pubDate>2026-10-01T05:28:34+09:00</pubDate>
+<description>作成日: 2026-08-19 生成AIを全社員へ配布し、Copilotの研修を実施した。それだけで「AI企業になった」とはいえない。メール作成や会議要約が速くなっても、仕事の流れ、責任の所在、評価の仕方が以前のままなら、AIは便利な個人ツールにとどまるからだ。 Micro...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Sonnet 5.5 vs Sonnet 5：同価格でタスク単価 80% 減</title>
-<link>https://qiita.com/Synthorai/items/98e776a66f483f3ceeaf</link>
-<guid>d1bd4f7f839600a45bf5ffc0bae95d24ad22330d939a2ad887fb8177f039034a</guid>
-<pubDate>2026-09-30T22:41:10+09:00</pubDate>
-<description>この記事は Synthorai ブログの記事 Claude Sonnet 5.5 vs Sonnet 5：同価格でタスク単価 80% 減 の転載です。原文（多言語対応）はリンク先をご覧ください。 Claude Sonnet 5.5 と Claude Sonnet 5 ...</description>
-</item>
-<item>
-<title>【Qiita】 Codex の新モデル GPT-6.1 Sol を GPT-6 Sol と実測比較した──トークン内訳・Plus の使用枠・codex review の指摘</title>
-<link>https://qiita.com/mamagotolab/items/42057aba50936c100e62</link>
-<guid>eca797a85d9969c6890274c123d54dc49acc3b5eb61afdecd5686f72e273bee9</guid>
-<pubDate>2026-09-30T21:46:19+09:00</pubDate>
-<description>DevDay 2026（2026-09-29）で GPT-6.1 Sol が発表され、Codex CLI の既定モデルになりました。 「Codex 6.1」と呼ばれることもありますが、正式名称は GPT-6.1 Sol で、GPT-6 Sol の改良版モデルです。 API ...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントは増やすほど遅くなる：台数を増やす前に実装する3つの停止条件（Python）</title>
-<link>https://qiita.com/tsukurugawa/items/9917b0b858b181c3b87f</link>
-<guid>a57fd808476957e0f08ab9b1ba0cbba483c22d05bc14febc94d23fbf6b9e9add</guid>
-<pubDate>2026-09-30T20:45:18+09:00</pubDate>
-<description>エージェントを1体から3体に増やせば、3倍速くなるはず。ところが実際には、やり直しが増えて1体のときより遅くなる。 精度の問題に見えますが、違います。1体のときに暗黙で効いていたブレーキを、台数を増やすときに外しているだけです。 この記事では、エージェントを増やす前に実装し...</description>
-</item>
-<item>
-<title>【Qiita】 自然言語からシェルコマンドを生成し「ローカルで安全検査してから実行」するCLIを作った</title>
-<link>https://qiita.com/softbase/items/5316191ce29d09b90ccb</link>
-<guid>5660e7abebcc754388c327e10dc0915e97833d9a0d2c52883aec89d13b63f6a2</guid>
-<pubDate>2026-10-01T00:56:49+09:00</pubDate>
-<description>自然言語の依頼を Google Gemini / OpenAI に渡してシェルコマンドを1つ生成する CLI ツールです。 AI の「安全そう」という判断は信用せず、AI とは独立した決定論的なローカルポリシーで危険度（low / medium / high / bloc...</description>
-</item>
-<item>
-<title>【環境】 Preparing for disasters</title>
-<link>https://www.nature.com/articles/s41893-026-01956-y</link>
-<guid>bdd0a71e7e78ffeb548825b5b6750fb188b60085135f618d6d76474f7550e2fc</guid>
+<title>【自動自律実験】 Who’s the loudest of them all? The bare-throated bellbird vies for the prize</title>
+<link>https://www.nature.com/articles/d41586-026-03038-7</link>
+<guid>c6862e8a88160db8250e9607f891bdb2e2e5aaf8ec8ed5657ff75578500e5189</guid>
 <pubDate>2026-09-30</pubDate>
-<description>The impacts of extreme natural events are dramatic for both people and physical infrastructure. More can and should be done to contain the damage and prevent loss of life.</description>
+<description>The bellbird’s extra-large gape helps it to achieve pneumatic-drill-level volume.</description>
 </item>
 <item>
-<title>【環境】 Count what can be lost at once</title>
-<link>https://www.nature.com/articles/s41893-026-01957-x</link>
-<guid>6c7fcbab97b6731cb6139cf57de2295e53e1ea1cbbab3f24a48ddbae517a022e</guid>
+<title>【自動自律実験】 This award-winning microscopy image used AI — igniting controversy in a prestigious competition</title>
+<link>https://www.nature.com/articles/d41586-026-03086-z</link>
+<guid>ed2487f4193024970e86e9dac7b00f4ca946a1c2ce028b8bbf5889b084478620</guid>
 <pubDate>2026-09-30</pubDate>
-<description>Count what can be lost at once</description>
+<description>Researchers say that using artificial-intelligence tools to visualize scientific images can become problematic when models misrepresent the underlying data.</description>
 </item>
 <item>
-<title>【環境】 Himalayan hazards to high-mountain hydropower</title>
-<link>https://www.nature.com/articles/s41893-026-01955-z</link>
-<guid>c8ddbff358204fede5cee967dadea2615268513120b6279cf5906263dd42e4a5</guid>
-<pubDate>2026-09-30</pubDate>
-<description>Himalayan hazards to high-mountain hydropower</description>
-</item>
-<item>
-<title>【環境】 Beyond resilience in a changing Himalaya</title>
-<link>https://www.nature.com/articles/s41893-026-01958-w</link>
-<guid>21d92a7169921cca443c0eec224f90fc7ce05ddf8f71fc98e541462b8f2b4b1c</guid>
-<pubDate>2026-09-30</pubDate>
-<description>Beyond resilience in a changing Himalaya</description>
-</item>
-<item>
-<title>【環境】 Restoration-driven positive and negative leakage in sub-Saharan Africa</title>
-<link>https://www.nature.com/articles/s41893-026-01936-2</link>
-<guid>9c2894970275b176922b2e397c9ddd979fd297410abea3f39ece861b82b4cb71</guid>
-<pubDate>2026-09-30</pubDate>
-<description>Restoration initiatives are important for progress towards climate and biodiversity policy goals; however, whether they lead to the displacement of tree loss elsewhere (leakage effect) is still unclear. This study examines the leakage impacts of restoration projects in sub-Saharan Africa.</description>
-</item>
-<item>
-<title>【自動自律実験】 These optical illusions are whybutterflies are so hard to catch</title>
-<link>https://www.nature.com/articles/d41586-026-03124-w</link>
-<guid>f976facafb1661416281a6ff791cf530da82def5abdfb459ac63426e76fee3c2</guid>
-<pubDate>2026-09-30</pubDate>
-<description>High-speed footage of takeoffs reveal that the butterfly markings mislead the eye, making them harder to catch.</description>
-</item>
-<item>
-<title>【自動自律実験】 Is exposomics the key to making personalized medicine a reality?</title>
-<link>https://www.nature.com/articles/d41586-026-02958-8</link>
-<guid>46b245a423810abfc5d36f560571ddf75ef64226fd2ffccadabb389ddf7449c4</guid>
-<pubDate>2026-09-30</pubDate>
-<description>Scientists say tailored disease treatments require a comprehensive assessment of a person’s lifelong environmental exposures.</description>
-</item>
-<item>
-<title>【自動自律実験】 2D semiconductor aims to turbocharge development of high-performance electronics</title>
-<link>https://www.nature.com/articles/d41586-026-02777-x</link>
-<guid>c56340863e7e0eaf77f6acfb6904522416fc0e29feda59238c2fad03efa34e5e</guid>
-<pubDate>2026-09-30</pubDate>
-<description>An ultrathin semiconductor that conducts electricity using positively charged ‘holes’ might clear the way for next-generation electronic devices.</description>
-</item>
-<item>
-<title>【自動自律実験】 Elena, Aris, Marcus: AI-generated ‘ghosts’ are polluting the scientific literature</title>
-<link>https://www.nature.com/articles/d41586-026-02991-7</link>
-<guid>a1866393e9bf1588082ab5415a9934b9a593feff895110541ec619a17adf350d</guid>
-<pubDate>2026-09-30</pubDate>
-<description>The overuse of certain names has revealed the scale of fake experts on academic publishing platforms, say researchers.</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>539205981ff477c9453210fca30f2fb51d5874727e8ed060e3b92a3c8600fb6a</guid>
+<pubDate>Wed, 30 Sep 2026 20:53:46 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>eacdb2b5968b5e7b5f2d66679f39591ead159c71c107384ce26c211000b00f96</guid>
-<pubDate>Wed, 30 Sep 2026 16:09:40 GMT</pubDate>
+<guid>62741c9215731b5addd75333b2d2eba42e36033763bb9b2d69d056277c5fbd46</guid>
+<pubDate>Wed, 30 Sep 2026 20:53:50 GMT</pubDate>
 <description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>f8d8888423334d31d93d5752e4c87f59294bfa94030b791ac13c8b0322970c17</guid>
-<pubDate>Wed, 30 Sep 2026 16:09:43 GMT</pubDate>
+<guid>cdb3428ba036f6cf699b413cbe205a6223d8ced2d6dc32f0eb54dba1f649f34d</guid>
+<pubDate>Wed, 30 Sep 2026 20:53:52 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-69355-z</link>
+<guid>828ab77c59edf480584f09530918eecf8dd9a58df27b6600b0fcadd528abf659</guid>
+<pubDate>Wed, 30 Sep 2026 20:53:55 GMT</pubDate>
+<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>cddbcc220343c4d3818680fd25e73dcf85477140580f205f2f7cf0a4556bf08e</guid>
+<pubDate>Wed, 30 Sep 2026 20:54:42 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+</item>
+<item>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>922a410e15f7eaddafe717292e143bead64cd92992233d4f6fe07ee596d41aaa</guid>
+<pubDate>Wed, 30 Sep 2026 20:54:46 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
