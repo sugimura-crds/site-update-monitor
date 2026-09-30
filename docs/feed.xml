@@ -4,84 +4,105 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 29 Sep 2026 23:50:10 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 03:01:33 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 荒れたテストケースをコード管理で立て直してみた</title>
-<link>https://qiita.com/hamham999/items/ebee7540a82db6933854?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>f9fc3834c9a9ab770650d22258d76e754a49d6293645b05de88eaf75230bb298</guid>
-<pubDate>2026-09-29T08:10:50+09:00</pubDate>
-<description>はじめに 今いるチームでは、モバイルアプリのリリース前の確認を手動テストで行っています。 テストケースの管理はずっとGoogleのスプレッドシート（以下スプシ）を使っていましたが、運用が破綻しかけていました。 そこで、ケースの管理はコードベースで行い、実施だけをスプシで行...</description>
+<title>【Qiita】 【小ネタ】VS Code の Copilot Chat モデルを左手ショートカットで直接切り替える Tips</title>
+<link>https://qiita.com/aktsmm/items/cd36650f553c675948d6</link>
+<guid>660d65f919a528630a6953214adcdab394726b2447845ee23bb221de0848e7fc</guid>
+<pubDate>2026-09-30T11:39:31+09:00</pubDate>
+<description>こんにちは、モデル選択も左手で済ませたいアーキテクトのやまぱん！です。 補足コメントや質問、いいね、拡散、ぜひお願いします！ 間違っていたら 優しく 教えてください！ GitHub Copilot app や Microsoft Scout などもありますが、私は今も Vi...</description>
 </item>
 <item>
-<title>【Qiita】 Twitter（現X）に貼ったURLのサムネイル画像、キャッシュクリアできるの知ってた？</title>
-<link>https://qiita.com/minorun365/items/f1f6a45fa9aff8d624af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>4093b370ec04307e676f907d71a2dc4841da3f257f684042e636356a24b04709</guid>
-<pubDate>2026-09-29T16:16:02+09:00</pubDate>
-<description>こんにちは、Claude Codeです。著者のみのるんが忙しそうだったので、代わりにこの記事を書いています。 ブログの画像を差し替えたのに、Xに貼ると古い画像のまま。投稿した直後から、カードが灰色の枠になっている。TwitterがXになってから、こういうことがよく起きます。...</description>
+<title>【Qiita】 Claude Opus 5.5 と Sonnet 5.5 を、実装タスク 2 種類で比べてみた話 - 時間・トークン・品質の実測</title>
+<link>https://qiita.com/dahatake/items/b2121f1c389e38e02051</link>
+<guid>a01e4801508e95b714ef529f08747ffe37e3c1962c0201746a213963627ae03e</guid>
+<pubDate>2026-09-30T11:34:07+09:00</pubDate>
+<description>背景 最近、GitHub Copilot CLI で大きめの実装を任せる場面が増えました。 そのたびに、正直ちょっと迷うことがあります。 「難しそうだから Opus 5.5 にしておくか」 「いや、Sonnet 5.5 のほうが速くて安いのでは」 どちらも感覚で選んで...</description>
 </item>
 <item>
-<title>【Qiita】 【JavaScript】Promise.resolveはPromiseでないオブジェクトもresolveするしそのせいで脆弱性がたくさんある</title>
-<link>https://qiita.com/rana_kualu/items/4bf77973ab94453a2699?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>f86d423794e18947409ba3fcdfecde102b5c3ccd1cdbee417633f291c0021a85</guid>
-<pubDate>2026-09-28T19:59:42+09:00</pubDate>
-<description>どういうこと？ thenインジェクション Object.prototype.then = function(resolve, reject) { console.log(&#x27;thenメソッド生やしてみた&#x27;); resolve(true); }; async fu...</description>
+<title>【Qiita】 Azureのコストに関するよくある8つの質問</title>
+<link>https://qiita.com/ManabuYamamoto/items/4605c1071cefd0bdd70b</link>
+<guid>2351d3d76adf1c3a8c33c56aa32cb9c5c8fd93ed8ee00016efaef44af3a569b6</guid>
+<pubDate>2026-09-30T11:20:54+09:00</pubDate>
+<description>出典: 予約によるコスト削減 / Savings Plan の割引 / Windows Server の Azure Hybrid Benefit / Well-Architected Framework のコスト整理 / Azure Policy の概要 / FinO...</description>
 </item>
 <item>
-<title>【Qiita】 バッチ監視で学んだ4つの確認観点 ― 起動/生存/終了/復旧を確認しよう</title>
-<link>https://qiita.com/sewiihidekikudo/items/71d588760efd8224cd1f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>84f4d899335469613709d11b49569429f5b76f2b3ff0d4c214d4659c2b6f7e57</guid>
-<pubDate>2026-09-29T11:46:30+09:00</pubDate>
-<description>はじめに こんにちは。ソーイ株式会社の工藤です。 今回、当社が担当した受託開発案件でバッチの監視・テストを担当する中で、バッチが「実行されたか」だけでなく、「正常に動き続けているか」「正常終了したか」「異常から復旧したか」まで確認する必要があることを学びました。 本記事で...</description>
+<title>【Qiita】 ELI5をMicrosoft Scoutで使ってみるととても良い</title>
+<link>https://qiita.com/FukuharaYohei/items/79c9849d8901140c4e70</link>
+<guid>05e9719c9e03784074f30689fd07b7717fff92eaff4368bb066d6c77090ac323</guid>
+<pubDate>2026-09-30T09:56:51+09:00</pubDate>
+<description>ELI5をMicrosoft Scoutで使ってみたのですが、とても良い。5歳でもわかるようにシンプルなHTMLを作ってくれる。難しい内容などを概要理解するのに重宝。 Coworkでも他のツールでも特に問題なく使えます。 使った結果 例えば、昨日(9/29)の Op...</description>
 </item>
 <item>
-<title>【Qiita】 【自社開発1年目】「チーム経験ゼロ」の27歳元営業が、ダイレクト出版でAIを使い倒し本番コードを書くエンジニアになるまで</title>
-<link>https://qiita.com/kanzawa_kentaro/items/f69db1682fdc5ddb3ea8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>cf3adb91f9563d78c092239e35d77f2e3e5c0b1020ded9ae4deefe52ef74ce3e</guid>
-<pubDate>2026-09-28T23:51:38+09:00</pubDate>
-<description>TL;DR 誰： 27歳元営業。エンジニア未経験でダイレクト出版のプロダクト企画部に入社して1年経過 やったこと： 大阪で2ヶ月研修 ➔ FE（TypeScript, React）➔ BE（Go）➔ FE（現在） 感想： 結論、入社してよかった。やらかしもしたが、...</description>
+<title>【Qiita】 Oracle Alloy ソブリンクラウドでデータ主権を守りつつAIを利用する</title>
+<link>https://qiita.com/Takayuki_Ono_int/items/ba305c6662db0740890d</link>
+<guid>b7da1719b9d7ccb66ce0e06184f2efa738050ef7c7a2fb86cb3b26c0b2218472</guid>
+<pubDate>2026-09-30T11:20:19+09:00</pubDate>
+<description>Oracle Alloy ソブリンクラウドでデータ主権を守りつつAIを利用する ～ソブリンクラウドの再整理＆今後のAI利用戦略を考える～ ソブリンクラウドとは？ Sovereign Cloud 直訳では、主権クラウド！？ Sovereign は元々、君主・国王を指す言葉...</description>
 </item>
 <item>
-<title>【Qiita】 【参加レポート】イベント遠征のホテル探しをAIに任せたい！ vooy recipe day tokyo（2026年9月）</title>
-<link>https://qiita.com/spheal363/items/5fbc6149119d8bebf6d3</link>
-<guid>6f384bcd548d55639c23d608230e98c9d8a19710153efb921acda121201c5d59</guid>
-<pubDate>2026-09-30T08:20:59+09:00</pubDate>
-<description>2026年9月5日に開催された vooy recipe day tokyo の参加レポートです。 久しぶりの外部イベントだったのですが、まず率直に、楽しかったです！ 今回作ったのは、イベント会場の近くに加えて、電車やバスで通える周辺駅のホテルも探し、宿泊費と移動の条件を比較...</description>
+<title>【Qiita】 【Agentic Data Platform】Data・Ontology・AI Agentをつなぐリファレンスアーキテクチャ</title>
+<link>https://qiita.com/hmy8727/items/a2657a35af00d7a34dc8</link>
+<guid>7b990be9c2492cca610b01bc707dba1edc6dfccf31b69d650524ee397518454d</guid>
+<pubDate>2026-09-30T11:54:06+09:00</pubDate>
+<description>本記事は2026年9月時点の公開情報をもとに整理しています。記載内容は個人の見解です。 この記事では、これまでのシリーズで扱ってきた Data Platform for AI、Enterprise Ontology、AI / Retrieval、AI Agent、...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code の /doctor prompt-audit で指示ファイルを監査したら、読み込まれていない CLAUDE.md が出てきた</title>
-<link>https://qiita.com/ishizakahiroshi/items/7cc143942aab2b98e741</link>
-<guid>4f010521acbac3977d93d05a351850528a1b7cab9dd3cf635d1cd74d00d4e072</guid>
-<pubDate>2026-09-30T07:37:12+09:00</pubDate>
-<description>203 件。Claude Code に入った /doctor prompt-audit を、自分の指示ファイル一式にかけたら返ってきた所見の数です。CLAUDE.md、スキル 54 本、スラッシュコマンド、import 先まで全部なめられました。 /doctor prom...</description>
+<title>【Qiita】 PythonのAPIクエリ変換、検索条件の欠落2件を防ぐ</title>
+<link>https://qiita.com/hironakamura_ai/items/0bf8eabf26ba1f04e669</link>
+<guid>d14bb8681f0fa3fcde7f78f5ee9463781b249315f02e8fb80636524215b9cb27</guid>
+<pubDate>2026-09-30T11:31:35+09:00</pubDate>
+<description>同じURLを読み戻しただけで、検索条件が2件減った。 検索APIのクエリでは、キーと値の組を最後まで残したい。辞書にすると複数指定がつぶれる。空文字も読み取り時に消えるんだよね。 今日、5組の条件をURLへ変換し、読み戻して比べた。例外は出ないのに、タグが一つと空の条件が欠...</description>
 </item>
 <item>
-<title>【Qiita】 OpenAI DevDay 2026を開発者目線で整理：dots・Space・新モデル・Codex・Agents APIの使い分け</title>
-<link>https://qiita.com/akira_papa_AI/items/f2c7b936ea27a5d66b59</link>
-<guid>119f5daeaa1d2f6178ecf01fe83db5a8be3f0167e4b76084d0869638f4d09c78</guid>
-<pubDate>2026-09-30T06:26:11+09:00</pubDate>
-<description>OpenAI DevDay 2026の発表を、「自分の仕事にAIを使う」「チームで使う」「自分のサービスに組み込む」の3つに分けて整理します。 結論からいうと、注目したいのはモデル単体の性能だけでなく、目標を渡し、実行環境で作業し、結果を検証して受け取る流れです。この記事は...</description>
+<title>【Qiita】 仕様だけでなく「なぜ」も残す、AIエージェント向けissueの作り方</title>
+<link>https://qiita.com/spc_ksudoh/items/ac247f0a90d09bdc8aec</link>
+<guid>97fc80d42d46e1868d2c08eb1dcce41586a68ac064aaeb02df2395ea9b2b7c14</guid>
+<pubDate>2026-09-30T10:30:03+09:00</pubDate>
+<description>概要 ChatGPTで検討した内容をCodexで実装するなど、AIエージェント間で作業を引き継ぐときは、GitHubのissueにまとめてもらうと手軽です。ただ、仕様や実装方針は残っても、目的や背景は抜けがちです。そこで、それらを「Goal Context」として分けて書...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントに毎晩「日記」を書かせたら、別の日・別のチャンネルでも話が通じるようになった — 3週間の実測と、まだ苦手なこと</title>
+<link>https://qiita.com/yousan/items/74783d448b88ca6fec42</link>
+<guid>b9c03b5f2ac177480af675094d69a8d6a6c994813306374877530be38ac3b159</guid>
+<pubDate>2026-09-30T09:53:14+09:00</pubDate>
+<description>3行でいうと AIエージェントに、毎晩22時に「今日の日記」を1ファイル書かせる。cron 1本と短い指示文で始められます 日記は手元のマシンで索引にしておき、あとで意味検索で引く。別の日・別のチャンネルでも「前に決めたこと」が通じるようになります 3週間やって、良...</description>
+</item>
+<item>
+<title>【Qiita】 OpenAIが「有限の答えから選ぶ」Decisions APIを発表した日、自分の指示書の中に同じ形の判断が10個あった</title>
+<link>https://qiita.com/Hideki_Tamae/items/c73bee898bc8d74b6813</link>
+<guid>f8d6121f917b405bc95957399652a0cb28abc8273028d22193d035debc19c82b</guid>
+<pubDate>2026-09-30T09:47:11+09:00</pubDate>
+<description>はじめに 10個。 これが今回の数字です。何の10かというと、OpenAIが2026年9月29日の開発者向けイベント「DevDay 2026」で発表した新API「Decisions API」――「あらかじめ定義した質問と、有限の答えの選択肢を渡すと、文脈から答えを1つ選ん...</description>
+</item>
+<item>
+<title>【自動自律実験】 Emissions after the Paris accord made Europe’s heatwaves more severe</title>
+<link>https://www.nature.com/articles/d41586-026-03035-w</link>
+<guid>0f5c865d1b1a03936dc8096598344b290ec8089095268288e64435e6fc255aad</guid>
+<pubDate>2026-09-29</pubDate>
+<description>A heatwave in 2025 would have been one-third of a degree cooler without the greenhouse gases released since 2015.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-77446-8</link>
-<guid>329ac1549efe4c76323fba1944932cdc8762d2f0f0f1a3a89e69fd6ecec11fca</guid>
-<pubDate>Tue, 29 Sep 2026 23:49:29 GMT</pubDate>
+<guid>fb370e66b3c461cc3523e00ae5e81be04bd90ed1eaf083d0eb2c917604e78ed9</guid>
+<pubDate>Wed, 30 Sep 2026 03:00:40 GMT</pubDate>
 <description>The rapid growth of artificial intelligence (AI) demands high-performance hardware accelerators. Photonic computing with microring resonators (MRRs) has attracted significant interest, but conventional architectures use MRRs primarily as scalar weights, with speed constrained by the resonance linewidth of &amp;nbsp;~&amp;nbsp;10 GHz. Here, we redefine MRRs as programmable temporal convolution kernels by exploiting their impulse responses, enabling computation beyond the resonance linewidth. A single MRR operating at a symbol rate of 128 Gbaud achieves a computing throughput of 5.12 trillion operations per second (TOPS), representing a 160-fold improvement over scalar weighting. By integrating temporal convolution with wavelength- and space-division multiplexing, we realize a multi-channel MRR convolution engine with 120.8 TOPS throughput and reduce the hardware complexity from O(N2) to O(N), achieving a compute density of 48.05 TOPS/mm2. The framework is experimentally validated through optical modulation format identification, network anomaly detection, and image classification, establishing a scalable computing primitive for photonic AI accelerators. Artificial intelligence is driving de</description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>1983cb2cfffdeca92326522fb1fe8fb208d4e132cc7668a4e056cce7335c8e5f</guid>
-<pubDate>Tue, 29 Sep 2026 23:49:36 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=AI+agent&amp;date_range=last_30_days&amp;order=relevance</link>
+<guid>32d603d3a9de8eb766c89e33924a09795f83b6aee27bc4dbd4f0fa4e9fd00074</guid>
+<pubDate>Wed, 30 Sep 2026 03:00:40 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>c92717da91804880a3df534d18d528ee711f41c236f0f818702b5e80c0ffb64b</guid>
-<pubDate>Tue, 29 Sep 2026 23:49:51 GMT</pubDate>
+<guid>1440c626e0c8ff58553b135f055f38a41ad037f11bc37624354248b4b1a9cb3a</guid>
+<pubDate>Wed, 30 Sep 2026 03:01:14 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
