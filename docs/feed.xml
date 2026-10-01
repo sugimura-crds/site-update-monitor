@@ -4,49 +4,85 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 01 Oct 2026 00:17:07 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 06:14:43 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Codeの--add-dirで別フォルダのREADMEを読ませる — 10分でStatusを1語確認</title>
-<link>https://qiita.com/akira_papa_AI/items/737635e02b1f4c727757</link>
-<guid>b715a9def7b43361c536e79ab8b255baab4f0b6cb967462e42cfec3061a7a376</guid>
-<pubDate>2026-10-01T07:28:17+09:00</pubDate>
-<description>Claude Codeの--add-dirで別フォルダのREADMEを読ませる — 10分でStatusを1語確認 別のフォルダにあるREADMEを、Claude Codeに読ませたい人向けです。 この記事では--add-dirを1回使い、練習用READMEのStatus...</description>
+<title>【Qiita】 [26/10/02 金] #LetsLearnGitHubCopilot SDK 初心者配信の補足記事</title>
+<link>https://qiita.com/chomado/items/f66561c6716605d010db</link>
+<guid>bf1bd42bbd72290e20e20d4ed54ebc84c1236f2fd36d5c64bf72728cdaacfb79</guid>
+<pubDate>2026-10-01T12:10:59+09:00</pubDate>
+<description>この記事は、10/02(金) 12:00 - 13:00 にライブ配信する、 『Lets Learn GitHub Copilot SDK』初心者配信の 補足記事です。 この配信、実は 90 分想定のコンテンツ量 (本社チームが作った) なのですが、 我々日本チームは &quot;お...</description>
 </item>
 <item>
-<title>【Qiita】 🤖 AIエージェント連携の基本：A2Aとは？MCPとの違いからGateway設計まで</title>
-<link>https://qiita.com/mellowlaunch/items/480b62d26b1c448ff998</link>
-<guid>98d3ce63f9bb5445b1eb5fe6e0a94a89dbb3518f092517a4e5a1d58336673ea6</guid>
-<pubDate>2026-10-01T07:22:22+09:00</pubDate>
-<description>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 ####『ゼロから触ってわかった！AI Gateway入門 ― LiteLLMで学ぶ、LLM・AIエージェン...</description>
+<title>【Qiita】 Claude Code × git worktree | 並列セッションの隔離からmerge-tree検査・後片付けまで</title>
+<link>https://qiita.com/GYact/items/b7f3a37888597b78727b</link>
+<guid>bcc848f32489bfe23614223eed1aa5b9fd30ad1f82fb18a3bec30d65e99c63ef</guid>
+<pubDate>2026-10-01T11:38:07+09:00</pubDate>
+<description>「同じリポジトリで Claude Code を2本走らせたら、片方の作業中にブランチが切り替わっていた」「git restore を打ったら、別セッションの未コミット実装が消えた」 ——この感覚は正しいです。1つの作業ツリーを複数のエージェントで共有すると、HEAD・ind...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントのプロンプトインジェクションを検証 ―環境で観測した「目的」と外部手順の関係</title>
-<link>https://qiita.com/NTTDkyushu_CRM_CyberSec/items/48c8d6590257ca7ba3f7</link>
-<guid>8bee7833ace7b4c9b8bec2e0733bdb86739365b97346019ec12e1a4876e236d2</guid>
-<pubDate>2026-10-01T06:16:28+09:00</pubDate>
-<description>はじめに 本記事を閲覧いただきありがとうございます。 株式会社NTTデータ九州 ビジネス共創部 デジタルビジネス推進室の内田です。 普段はセキュリティ領域で、ゼロトラスト技術を用いたサイバーセキュリティ対策や、SaaS・生成AIを活用した業務高度化などに関わっています。 ...</description>
+<title>【Qiita】 GPT-6.1 Sol のプロンプティング術とは？「台本ではなく契約書」で書くベストプラクティスを読み解く</title>
+<link>https://qiita.com/y-morimatsu/items/ad7431c629c93b04530a</link>
+<guid>314f3b15c975fe3ce23c961c3f221b811fe1eeefa8f32a6b559fcdf8b7720081</guid>
+<pubDate>2026-10-01T11:33:08+09:00</pubDate>
+<description>グラレコ 上のグラレコは、この記事で扱う GPT-6.1 Sol のプロンプティングガイドの要点を1枚にまとめたものです。何が変わったのか、プロンプトの基本構造、reasoning effort の選び方、コーディング・エージェント・computer use の書き方、...</description>
+</item>
+<item>
+<title>【Qiita】 MCPサーバーが30秒で沈黙する — 原因はデバッグ用print 1行、stdioの地雷と3つの直し方</title>
+<link>https://qiita.com/yukihayama/items/9c23ffce9a69588d3731</link>
+<guid>aad381b88d1771cdcc6df0f2950c88c02beb2959ee882c3d87462300fffb01e7</guid>
+<pubDate>2026-10-01T11:32:25+09:00</pubDate>
+<description>自作のMCPサーバーをClaudeに繋いだら、initializeが成功した直後にツールが1つも呼べず、30秒で沈黙しました。エラーメッセージは出ない。ログをいくら眺めても原因が分からず、半日を溶かしてようやく突き止めたのが「デバッグ用の print が1行残っていた」こと...</description>
+</item>
+<item>
+<title>【Qiita】 OpenAI が公開した Codex ハーネスで何ができる？ リポジトリの中身と、自分の環境への取り込み方</title>
+<link>https://qiita.com/Takuya__/items/cd99e4c9c4bf01994d6c</link>
+<guid>17cdc29c77d7bcd2c27ff56d001a70bc734f52a3f319f53c26fc68d726a82565</guid>
+<pubDate>2026-10-01T10:35:03+09:00</pubDate>
+<description>はじめに：「ハーネス」はモデルと仕事のあいだにある実行系 「Codex は CLI やアプリの名前」だと思っていた人にとって、2026 年 8 月 19 日に OpenAI が出した記事「Codex as a platform: build on the open ag...</description>
+</item>
+<item>
+<title>【Qiita】 OpenAIのdotsが「許可・要承認・禁止」の3段階ルールを採用した日、人間が0人の場所で動くこのパイプラインとの違いを考えた</title>
+<link>https://qiita.com/Hideki_Tamae/items/2cfb71487734e2d011b7</link>
+<guid>73e6098daecc6a8e8b5e2b120c74ee24f05a1edaf3bcb77cd3dfd5ddd614212f</guid>
+<pubDate>2026-10-01T09:48:44+09:00</pubDate>
+<description>はじめに 3。 これが今回の数字です。何の3かというと、2026年9月29日にOpenAIがDevDay 2026で発表した常時稼働型AIエージェント「dots」が、エージェントの行動を振り分けるために用意したルールの種類の数です。許可(allow)・要承認(requir...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>d6f82b2a777af6418bfa7ace7be5dac33f320041075793ed09b1eaa9db0edadb</guid>
+<pubDate>Thu, 01 Oct 2026 06:13:46 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78044-4</link>
-<guid>111e7defc41589fa648297c480e2838452e95df773d6316935afbb66adf16811</guid>
-<pubDate>Thu, 01 Oct 2026 00:16:06 GMT</pubDate>
+<guid>1ee0c0212e943d51670b32e830ae59d7a4c60c7eb5a236a72fd8941130be23de</guid>
+<pubDate>Thu, 01 Oct 2026 06:13:49 GMT</pubDate>
 <description>Early weed identification is crucial for effective management and control, and researchers, agronomists, and technology developers are increasingly interested in automating this process using computer vision and artificial intelligence; however, limited expert-verified data and variable morphological features have hindered the development of AI-based weed identification models. To address these issues, we present WeedNet, a global-scale weed identification model that can recognize an extensive set of weed species. WeedNet is an end-to-end weed identification pipeline that uses self-supervised learning, fine-tuning, and enhanced trustworthiness strategies. WeedNet achieved 91.02% accuracy across 1,593 weed species, with 41% of species achieving 100% accuracy. Using a fine-tuning approach, the local Iowa WeedNet model achieved 97.38% overall accuracy for 84 Iowa weeds. Testing across intra-species dissimilarity and inter-species similarity suggests that diversity in the images collected, spanning all the growth stages and distinguishable plant characteristics, is crucial in driving model performance. The global WeedNet model serves as a foundation, and the global-to-local strategy en</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>3baace54c4a956c19f53cadff3affec72c59ac8f3a79e93e9f25746b9e350541</guid>
-<pubDate>Thu, 01 Oct 2026 00:16:11 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>5e71868fc2cb20603bc7cf086e7bb9147052fb8d0bd390890160363b12302fa2</guid>
+<pubDate>Thu, 01 Oct 2026 06:13:52 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>7597e5f70141004ff132c4fc38f23c107352f22596ba29470656bde5558c5709</guid>
-<pubDate>Thu, 01 Oct 2026 00:16:50 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>c0efa75c78d2180b308074227f8d4762c14ef9092b103f71f3379dce493defc8</guid>
+<pubDate>Thu, 01 Oct 2026 06:14:25 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.soken.ac.jp/news/2026/20260805.html</link>
+<guid>a49f1072d5d2e1bccbce473f82987f0b5a6e103b17761b3a4d46fd87a0656249</guid>
+<pubDate>Thu, 01 Oct 2026 06:14:29 GMT</pubDate>
+<description>【プレスリリース】全ゲノム塩基配列で解明：ニホンイノシシとリュウキュウイノシシは共通祖先から進化していた</description>
 </item>
 
 </channel>
