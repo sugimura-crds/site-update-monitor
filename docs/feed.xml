@@ -4,106 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 01 Oct 2026 19:09:48 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 23:18:00 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 GitHub Copilot SDK のランタイムとエージェントループについて</title>
-<link>https://qiita.com/chomado/items/8830d0e9f4b75a7ea2a5</link>
-<guid>67ce17572dfa24b9cfa7ce237e7c7d36c243e16b4a0b878277ee8e982b5d167e</guid>
-<pubDate>2026-10-02T01:33:37+09:00</pubDate>
-<description>これは、『Let&#x27;s Learn GitHub Copilot SDK (English)』(2026/09/25) の配信アーカイブを見ながら、 GitHub Copilot SDK (自分のアプリに Copilot の機能を組み込める SDK) について学ぶ記事です。 ...</description>
+<title>【Qiita】 AI生成コードを全部同じ密度で読む必要はある？―レビューを契約とテストで絞る設計</title>
+<link>https://qiita.com/masashige0904/items/43beaaabc2c0ef2dcb1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>d4b8978290bfe08ef8cf77021042a389409204a1dd080e7697ca4711dffd3190</guid>
+<pubDate>2026-09-30T22:08:39+09:00</pubDate>
+<description>この記事はこんな人におすすめ AIが生成したコードをどこまでレビューすべきか迷っている AIによって実装は速くなったが、レビュー負担も増えたと感じている AI時代に設計やテストを学ぶ意味を考えたい この記事で得られること この記事では、次の考え方を整理します。 契...</description>
 </item>
 <item>
-<title>【Qiita】 業務知識やデータを AI に対して安全に取り込める Microsoft Work IQ</title>
-<link>https://qiita.com/yoshioterada/items/3ac3c05be12e51ea05b0</link>
-<guid>6efb8bde546e4e6db283f92e0148272327b7d41921f8584bb54f3ae22cdb9109</guid>
-<pubDate>2026-10-02T01:13:02+09:00</pubDate>
-<description>1. はじめに 最近、X(ex-Twitter)で、@super_bonochin さんが WorkIQ を理解しるための、とても素晴らしい動画を作成してくださいました。とてもわかりやすい動画ですので、ぜひご覧ください。 Work IQ のさらに深掘り 今日は、W...</description>
+<title>【Qiita】 どこかで聞いた「アウトプットしないことは知的な便秘である」って素晴らしい言葉だよなぁ！</title>
+<link>https://qiita.com/PDC-Kurashinak/items/bde0e380eeb04fa28f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>c93cfc02600b29b8ec0ecf3472da5f22633d2aec0a2e24720d5a4a7927230306</guid>
+<pubDate>2026-10-01T10:24:15+09:00</pubDate>
+<description>どうもこんにちは。 以前、Xで「アウトプットしないことは知的な便秘だ！」っていうポストを見つけたことがありまして、今回はこれについての自分の考えを話したいと思います。 アウトプットをしない人のことを悪く言いたい記事ではありません。 僕が個人的に、この表現がしっくり来たの...</description>
 </item>
 <item>
-<title>【Qiita】 【続報】Novusの最近のアップデートが目覚ましい</title>
-<link>https://qiita.com/daichiiiiiii/items/47fd9ddf37cc1bf019d0</link>
-<guid>b2459865c9df7ac56873e5f1241b9612519f9bd090c18ee1021ae4567341bf92</guid>
-<pubDate>2026-10-02T01:22:16+09:00</pubDate>
-<description>以前、【半自律型AI PdM】PendoのNovusがヤバい。コードを理解して分析と改善を勝手に回すという記事を書きました。あのときは、コードを読んで計測を仕込み、Memoryでプロダクトを理解し、行動データから改善案を出し、PRまでつなげるところに興奮していました。 前の...</description>
+<title>【Qiita】 AIエージェントについて調べたことをもう一歩深掘りしてみた ～評価・可観測性・コスト管理・ガードレールまで～</title>
+<link>https://qiita.com/Sho5_Matsu/items/91dde7ad6280c182cf21</link>
+<guid>326017f6412101bf2377f010563a109b3218b654e0fb3d0b7dc6c4eac91c5bc5</guid>
+<pubDate>2026-10-02T08:10:47+09:00</pubDate>
+<description>はじめに 以前、「AIエージェントについて自分で調べてみてわかったこと」という記事を書きました。 前回の記事では、 AIエージェントは「目的達成のために自律的に動くAI」であること Function Callingを利用して外部ツールを実行する仕組みであること 法...</description>
 </item>
 <item>
-<title>【Qiita】 Claudeが止まりません</title>
-<link>https://qiita.com/BrainCommunity/items/daa4550af7b818ab4289</link>
-<guid>79a29c540a38e18181e7b0f34d7a6d39335aa658c71b93e1b20dfea4d941fc29</guid>
-<pubDate>2026-10-02T00:48:17+09:00</pubDate>
-<description>画像の表示は６時間１７分ですが、プロンプト入力したのは１５時過ぎ ９時間以上止まらずに処理を続けています こんなのは初めてです 一月かけて構築したRFPからの提案作成システムを全面リニューアルする指示を出したら一気に改修を始めて止まらない １万行以上のソースコードの書き換え...</description>
+<title>【Qiita】 じゃあ、Jevは何に使えるの？ ── 公式Cookbookで見る3つの配置パターン</title>
+<link>https://qiita.com/BugiAK/items/022f3223e17952c0ccb5</link>
+<guid>e13a61ef09d879678f692c7f01877deca35887ad6f55ea79054d30bbf6b279fa</guid>
+<pubDate>2026-10-02T06:37:52+09:00</pubDate>
+<description>はじめに Jevシリーズも3本目です。 第一弾では、 型が正しいことと、判断が正しいことは別ではないか という問題を取り上げました。 第二弾では、 Jevが返す0.7という数字は、Primitiveによって意味が違う というところから、Jevが返す評価値の読み方を...</description>
 </item>
 <item>
-<title>【Qiita】 systemd-journald で AI エージェントの監査ログをエージェント自身の変更権限から分離する</title>
-<link>https://qiita.com/ynakayama/items/e85392914b5efc88cc8e</link>
-<guid>1af8ba10886a10dbea677ed03ed4f6a0eeca4f348dca39227c157141cbf59a51</guid>
-<pubDate>2026-10-02T00:01:13+09:00</pubDate>
-<description>AI エージェントへ監査ログを残させる場合、確認すべきなのはログの有無だけではありません。エージェント自身が保存済みの監査記録を変更できる構成では、障害や不正操作を後から検証するときに、その記録が実行後に変更されていないことを別の証拠で確認する必要があります。 AI エージ...</description>
+<title>【Qiita】 AIエージェントは「作る技術」から「任せて運用する技術」へ──Microsoft Foundryから見える次の実装課題</title>
+<link>https://qiita.com/mhamadajp/items/ee0dc7026d413d3f5629</link>
+<guid>09d1c79f085a367600b8971653686083404a1278737e6de1edeb82023ca439a4</guid>
+<pubDate>2026-10-02T05:52:14+09:00</pubDate>
+<description>作成日: 2026-08-19 AIエージェントの議論は、しばらく「どのモデルを選ぶか」「どうツールを呼び出すか」「どうプロンプトを書くか」が中心だった。いずれも必要な技術である。しかし、エージェントが社内データを参照し、複数のシステムをまたいで仕事を進め、Teamsなどの...</description>
 </item>
 <item>
-<title>【Qiita】 Salesforce Koaを「学習・grounding・action」で整理する ― CRM reasoning modelの境界</title>
-<link>https://qiita.com/Tadataka_Takahashi/items/22675c72b52dced85cb3</link>
-<guid>bc6ecffbe629b811698f881b1809e60beec02e990b89de2d88b7d2359ad73b84</guid>
-<pubDate>2026-10-01T23:46:41+09:00</pubDate>
-<description>はじめに Salesforceは2026年9月、Agentforce向けのCRM reasoning modelとして「Koa」を発表しました。 公式ページを読むと、Koaには「CRM業務を学習している」「組織のデータでgroundingする」「適切なactionを選...</description>
-</item>
-<item>
-<title>【農業】 Cybersecurity and resiliency in agricultural and food systems</title>
-<link>https://www.nature.com/articles/s43016-026-01422-0</link>
-<guid>786d347363c7811dd785c26509bfb7878a229a1943601f959380bf40205c9ab8</guid>
-<pubDate>2026-10-01</pubDate>
-<description>Based on a workshop series involving more than 150 stakeholders, this Perspective proposes the implementation of a consortium led by regional land-grant universities with expertise in artificial intelligence and cybersecurity, outlining a roadmap for responding to emerging agrifood cyber risks.</description>
-</item>
-<item>
-<title>【自動自律実験】 Retraction Note: Ribosomal frameshifting in the &lt;i&gt;CCR5&lt;/i&gt; mRNA is regulated by miRNAs and the NMD pathway</title>
-<link>https://www.nature.com/articles/s41586-026-11149-4</link>
-<guid>037055689079929334c4844f86a1ec945ec7239ec071bc17c150cefe29ab8788</guid>
-<pubDate>2026-10-01</pubDate>
-<description>Retraction Note: Ribosomal frameshifting in the CCR5 mRNA is regulated by miRNAs and the NMD pathway</description>
-</item>
-<item>
-<title>【自動自律実験】 Sign of the times: AI lingo muscles into esteemed dictionary</title>
-<link>https://www.nature.com/articles/d41586-026-03044-9</link>
-<guid>eb33dad5eb4a5c20f2b0c226a6307926ad17e1ff48cb06fa5ed825a05b87014d</guid>
-<pubDate>2026-10-01</pubDate>
-<description>‘Agentic’, ‘prompt engineering’ and other technical terms are among the 1,400 entries added to Merriam-Webster’s online catalogue.</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>367307ed6873c43d7d667d21fd617977c6166c7368dcb622a04ca51437e8a874</guid>
+<pubDate>Thu, 01 Oct 2026 23:17:07 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78044-4</link>
-<guid>561991b69c68bb363415c457f93f9a09d79a63d6bdd7b1e49736b401dcb1729a</guid>
-<pubDate>Thu, 01 Oct 2026 19:08:50 GMT</pubDate>
+<guid>4bf842f8ae61127ee4c3dfdae78c7387a7c9f8f6a41cb10e5e0d0dd7bd69e2f5</guid>
+<pubDate>Thu, 01 Oct 2026 23:17:10 GMT</pubDate>
 <description>Early weed identification is crucial for effective management and control, and researchers, agronomists, and technology developers are increasingly interested in automating this process using computer vision and artificial intelligence; however, limited expert-verified data and variable morphological features have hindered the development of AI-based weed identification models. To address these issues, we present WeedNet, a global-scale weed identification model that can recognize an extensive set of weed species. WeedNet is an end-to-end weed identification pipeline that uses self-supervised learning, fine-tuning, and enhanced trustworthiness strategies. WeedNet achieved 91.02% accuracy across 1,593 weed species, with 41% of species achieving 100% accuracy. Using a fine-tuning approach, the local Iowa WeedNet model achieved 97.38% overall accuracy for 84 Iowa weeds. Testing across intra-species dissimilarity and inter-species similarity suggests that diversity in the images collected, spanning all the growth stages and distinguishable plant characteristics, is crucial in driving model performance. The global WeedNet model serves as a foundation, and the global-to-local strategy en</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>5309718da994c4e018ce8cd5933ff8a2ec1a1106f3524d230972a57f87f5b757</guid>
-<pubDate>Thu, 01 Oct 2026 19:08:52 GMT</pubDate>
+<guid>d4f4d4f192940ad7847bd0a978fa57f1cf39baeb53a4918fad55ff6d721d4e76</guid>
+<pubDate>Thu, 01 Oct 2026 23:17:13 GMT</pubDate>
 <description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>123022f33bafbd67189d0c4c32bed660e6b2a1985f0ab5a51e242a48de5b53b5</guid>
-<pubDate>Thu, 01 Oct 2026 19:09:32 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-69355-z</link>
+<guid>6061a998af2a9e6398dba66b4236db13a142b48470f2c3f3ad3081faf88ba7a6</guid>
+<pubDate>Thu, 01 Oct 2026 23:17:15 GMT</pubDate>
+<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
 </item>
 <item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>dab8b9693dbdf8b52cf02e5789141aaf80e6ac48f93b75fc4d0591dbf44c6a66</guid>
-<pubDate>Thu, 01 Oct 2026 19:09:34 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>3e2a5aaffa17276a3861a69ff2e50e2997c3e1229202da795e3b9c7317f52fec</guid>
-<pubDate>Thu, 01 Oct 2026 19:09:41 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>537ed22f6dfc3374f0c923b78d0bf8bce09c0f9d47e9d094adf60d75e954fdbe</guid>
+<pubDate>Thu, 01 Oct 2026 23:17:19 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 
 </channel>
