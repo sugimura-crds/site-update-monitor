@@ -4,85 +4,140 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 01 Oct 2026 06:14:43 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 13:38:09 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 [26/10/02 金] #LetsLearnGitHubCopilot SDK 初心者配信の補足記事</title>
-<link>https://qiita.com/chomado/items/f66561c6716605d010db</link>
-<guid>bf1bd42bbd72290e20e20d4ed54ebc84c1236f2fd36d5c64bf72728cdaacfb79</guid>
-<pubDate>2026-10-01T12:10:59+09:00</pubDate>
-<description>この記事は、10/02(金) 12:00 - 13:00 にライブ配信する、 『Lets Learn GitHub Copilot SDK』初心者配信の 補足記事です。 この配信、実は 90 分想定のコンテンツ量 (本社チームが作った) なのですが、 我々日本チームは &quot;お...</description>
+<title>【Qiita】 【新資格】AWS Certified AI Business Strategist（AIB-C01）ベータ試験を受けてきた(コツコツ勉強できない人の感想)</title>
+<link>https://qiita.com/riz3f7/items/fe5704cc76755bb8700f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>8ff4bb4242d0939a64386757148076d13bab84d4084a491ea370aad8c1cc5f3c</guid>
+<pubDate>2026-09-29T20:35:18+09:00</pubDate>
+<description>はじめに 2026年9月29日から AWS Certified AI Business Strategist（AIB-C01） のベータ試験が受けられるようになったので受けてきました。 お祭り気分で受けてきた、コツコツお勉強できない属性の人の体験記です。 （世の中にコツコ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code × git worktree | 並列セッションの隔離からmerge-tree検査・後片付けまで</title>
-<link>https://qiita.com/GYact/items/b7f3a37888597b78727b</link>
-<guid>bcc848f32489bfe23614223eed1aa5b9fd30ad1f82fb18a3bec30d65e99c63ef</guid>
-<pubDate>2026-10-01T11:38:07+09:00</pubDate>
-<description>「同じリポジトリで Claude Code を2本走らせたら、片方の作業中にブランチが切り替わっていた」「git restore を打ったら、別セッションの未コミット実装が消えた」 ——この感覚は正しいです。1つの作業ツリーを複数のエージェントで共有すると、HEAD・ind...</description>
+<title>【Qiita】 【IBM Bob × WAS Liberty】LLMに渡す明細を減らすMCP Tool設計</title>
+<link>https://qiita.com/TSA2019/items/822466bbf99285bd8f97</link>
+<guid>bd96d5f74f49bb21cb1b3885d7cd5b188090f3c81c523c201f27be52ed3edebb</guid>
+<pubDate>2026-10-01T22:07:32+09:00</pubDate>
+<description>IBM BobのMCP機能でJavaシステムを使うための、LLMへ渡す明細の設計 IBM WebSphere Application Server Liberty（以降、WAS Liberty）の mcp-1.0 を使うと、CDI Bean の Java メソッドを M...</description>
 </item>
 <item>
-<title>【Qiita】 GPT-6.1 Sol のプロンプティング術とは？「台本ではなく契約書」で書くベストプラクティスを読み解く</title>
-<link>https://qiita.com/y-morimatsu/items/ad7431c629c93b04530a</link>
-<guid>314f3b15c975fe3ce23c961c3f221b811fe1eeefa8f32a6b559fcdf8b7720081</guid>
-<pubDate>2026-10-01T11:33:08+09:00</pubDate>
-<description>グラレコ 上のグラレコは、この記事で扱う GPT-6.1 Sol のプロンプティングガイドの要点を1枚にまとめたものです。何が変わったのか、プロンプトの基本構造、reasoning effort の選び方、コーディング・エージェント・computer use の書き方、...</description>
+<title>【Qiita】 【IBM Bob × WAS Liberty】MCPで既存Javaシステムを自然言語で使う</title>
+<link>https://qiita.com/TSA2019/items/1276d03cd60c9e4e3f2c</link>
+<guid>ce823636d582e3ff8219ac157c7951b002bf014393c7edbe3988600e0f571be5</guid>
+<pubDate>2026-10-01T22:06:58+09:00</pubDate>
+<description>IBM BobのMCP機能を使い、既存のJavaシステムを自然言語で使う AI に社内資料を読ませて質問へ答えさせる取り組みは増えています。しかし実務で欲しくなるのは、説明だけではありません。既存の業務システムから最新情報を取得し、業務ルールに沿って処理することです。 ...</description>
 </item>
 <item>
-<title>【Qiita】 MCPサーバーが30秒で沈黙する — 原因はデバッグ用print 1行、stdioの地雷と3つの直し方</title>
-<link>https://qiita.com/yukihayama/items/9c23ffce9a69588d3731</link>
-<guid>aad381b88d1771cdcc6df0f2950c88c02beb2959ee882c3d87462300fffb01e7</guid>
-<pubDate>2026-10-01T11:32:25+09:00</pubDate>
-<description>自作のMCPサーバーをClaudeに繋いだら、initializeが成功した直後にツールが1つも呼べず、30秒で沈黙しました。エラーメッセージは出ない。ログをいくら眺めても原因が分からず、半日を溶かしてようやく突き止めたのが「デバッグ用の print が1行残っていた」こと...</description>
+<title>【Qiita】 IBM Bob × Instana MCPでObservabilityデータを調べてみた ～メトリクス・トレース・イベント取得を試す～</title>
+<link>https://qiita.com/daihiraoka/items/8bbd586171c23ea286bf</link>
+<guid>ed1758e3b21b23072b99fc091c002c7962a616f8602bb4be00de045f4c17a3e0</guid>
+<pubDate>2026-10-01T17:56:52+09:00</pubDate>
+<description>はじめに Observability製品と生成AIを組み合わせた運用支援を目にする機会が増えてきた。 「AIが障害調査を支援する」と説明されることは多い。しかし、実際にAIが何を見ているのかは分かりにくい。 Instanaの画面を見ているのか。 トレースやログを直接読んで...</description>
 </item>
 <item>
-<title>【Qiita】 OpenAI が公開した Codex ハーネスで何ができる？ リポジトリの中身と、自分の環境への取り込み方</title>
-<link>https://qiita.com/Takuya__/items/cd99e4c9c4bf01994d6c</link>
-<guid>17cdc29c77d7bcd2c27ff56d001a70bc734f52a3f319f53c26fc68d726a82565</guid>
-<pubDate>2026-10-01T10:35:03+09:00</pubDate>
-<description>はじめに：「ハーネス」はモデルと仕事のあいだにある実行系 「Codex は CLI やアプリの名前」だと思っていた人にとって、2026 年 8 月 19 日に OpenAI が出した記事「Codex as a platform: build on the open ag...</description>
+<title>【Qiita】 PowerVS IBM i 日記(115): 【緊急】PowerVS IBM i に 7.6 TR2 / 7.5 TR8 を適用しないでください</title>
+<link>https://qiita.com/6onoda/items/c8f6221ac7072aed1308</link>
+<guid>9d1610585d0727d5d426a2b35f8ff830efcab301220f899e6eabcb282dee3b0d</guid>
+<pubDate>2026-10-01T17:07:55+09:00</pubDate>
+<description>PowerVS IBM i に 7.6 TR2 / 7.5 TR8 を適用しないでください IBMから「IBM i 7.6 TR2 / 7.5 TR8 -- Virtual Ethernet Connectivity Advisory」が発行されています。 英語:...</description>
 </item>
 <item>
-<title>【Qiita】 OpenAIのdotsが「許可・要承認・禁止」の3段階ルールを採用した日、人間が0人の場所で動くこのパイプラインとの違いを考えた</title>
-<link>https://qiita.com/Hideki_Tamae/items/2cfb71487734e2d011b7</link>
-<guid>73e6098daecc6a8e8b5e2b120c74ee24f05a1edaf3bcb77cd3dfd5ddd614212f</guid>
-<pubDate>2026-10-01T09:48:44+09:00</pubDate>
-<description>はじめに 3。 これが今回の数字です。何の3かというと、2026年9月29日にOpenAIがDevDay 2026で発表した常時稼働型AIエージェント「dots」が、エージェントの行動を振り分けるために用意したルールの種類の数です。許可(allow)・要承認(requir...</description>
+<title>【Qiita】 新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた</title>
+<link>https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14</link>
+<guid>3770cc343e5e567ff6f8c76ff7e05874e7e152c8daec1c29ef461b9b0a83cb98</guid>
+<pubDate>2026-10-01T22:03:12+09:00</pubDate>
+<description>はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の...</description>
+</item>
+<item>
+<title>【Qiita】 GPT-6.1 Sol は Astra にどこまで近づいた？ GPT-6 Sol・Astra と同じアプリを作らせて比べた</title>
+<link>https://qiita.com/Takuya__/items/e1990a08748100896c9f</link>
+<guid>7a843a885f3e1c567b92c7503e6f2be633a907e828cbbc0e8a81833307443f14</guid>
+<pubDate>2026-10-01T19:32:21+09:00</pubDate>
+<description>はじめに 2026年9月29日、OpenAI は DevDay で GPT-6.1 Sol を公開しました。9月22日に出たばかりの GPT-6 Sol の後継で、発表の見出しは「Astra に迫る性能、価格は5分の1」です。GPT-6 Astra は OpenAI の...</description>
+</item>
+<item>
+<title>【Qiita】 YAML/MarkdownからAIエージェント用の軽量Routing IndexをGoで自動生成する</title>
+<link>https://qiita.com/tsuzuri_ai/items/6ccb7ce73bd4ed476cee</link>
+<guid>4db1484d6898020a1d0eeabf2c1f9f7aec99aec08f22e5823a7dd3aa3dfead73</guid>
+<pubDate>2026-10-01T17:31:38+09:00</pubDate>
+<description>YAML/MarkdownからAIエージェント用の軽量Routing IndexをGoで自動生成する AIエージェントへSkillを追加していくと、いつか「Skill本文」だけでなく Skillを選ぶための一覧表そのもの が大きくなります。 この記事では、YAMLを正規...</description>
+</item>
+<item>
+<title>【Qiita】 CoreWeave Forge の Free プランで、Agent の失敗を評価に戻して直せるか</title>
+<link>https://qiita.com/Takuya__/items/59938e0ae0d5a4e951f4</link>
+<guid>845425792324b17171be09969da4b52b6ad370a30bd07f1d01c6aad178148158</guid>
+<pubDate>2026-10-01T16:34:33+09:00</pubDate>
+<description>この記事の確認範囲 確認日: 2026年10月1日。CoreWeave Forge の公式発表（2026年9月30日）、製品ページ、料金ページ、開発者ドキュメントを読み、Free プランのアカウントで実際に動かしました 検証環境: macOS の MacBook Pro...</description>
+</item>
+<item>
+<title>【Qiita】 0。GPT-6.1 Solが「キャッシュ入力95%引き」を発表した日、自分の定期投稿パイプラインの起動間隔のうち、1時間のキャッシュTTLに収まるものの数だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/4129a22a97de5d35ef41</link>
+<guid>9757156c9c2e863f5b1a6174ae3d8f2e7501b1a8053256e4f93196ee91b7514b</guid>
+<pubDate>2026-10-01T15:27:58+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿パイプラインを動かしている定期トリガーの起動間隔のうち、Claude APIのプロンプトキャッシュのTTL(有効期限)である1時間に収まっているものの数です。 きっかけは、2026年9...</description>
+</item>
+<item>
+<title>【環境】 Oil wells could become mines for critical minerals</title>
+<link>https://www.science.org/content/article/oil-wells-could-become-mines-critical-minerals</link>
+<guid>303d690390410847852684cdf2ac5ba00c99c1546216323c26c5196e818193d6</guid>
+<pubDate>2026-10-01T09:30:00Z</pubDate>
+<description>Engineered fluids could extract metals from fracked reservoirs, supplying materials for solar cells and electric vehicles</description>
+</item>
+<item>
+<title>【自動自律実験】 The ‘missed disease’ that affects 190 million: endometriosis drug shows early promise</title>
+<link>https://www.nature.com/articles/d41586-026-03042-x</link>
+<guid>eb8776124b4e58453ce25793c294b618874ef352f3a6f6695fcef04b18332221</guid>
+<pubDate>2026-10-01</pubDate>
+<description>Modified medication targets the cells implicated in the condition’s tell-tale lesions.</description>
+</item>
+<item>
+<title>【自動自律実験】 Gaze into the cosmos and through the eyes of a bee — September’s best science images</title>
+<link>https://www.nature.com/articles/d41586-026-03101-3</link>
+<guid>de2a61ec8071da536d5942de083efacc9573d978505c596aa19afa098d5fff86</guid>
+<pubDate>2026-10-01</pubDate>
+<description>The month’s sharpest science shots, selected by Nature’s photo team.</description>
+</item>
+<item>
+<title>【自動自律実験】 Battle of the Anthropocene: allegations re-ignite row over proposed geologic epoch</title>
+<link>https://www.nature.com/articles/d41586-026-03118-8</link>
+<guid>4f3fbd463fc99c5a01fd3e0bb2bf030c4858ed174f5de6e099feef93bdc82d03</guid>
+<pubDate>2026-10-01</pubDate>
+<description>Researchers say that a vote to reject the epoch violated procedure and call for transparency.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>d6f82b2a777af6418bfa7ace7be5dac33f320041075793ed09b1eaa9db0edadb</guid>
-<pubDate>Thu, 01 Oct 2026 06:13:46 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>7427417c7234f71e2c15b7b3ea19fc37f90995eea665fe3bf1dcf1c692749240</guid>
+<pubDate>Thu, 01 Oct 2026 13:37:23 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78044-4</link>
-<guid>1ee0c0212e943d51670b32e830ae59d7a4c60c7eb5a236a72fd8941130be23de</guid>
-<pubDate>Thu, 01 Oct 2026 06:13:49 GMT</pubDate>
+<guid>5afd2b7103f6568568ed1ade3e4c323c1a64937ff86dab4cee823f2bd0753c21</guid>
+<pubDate>Thu, 01 Oct 2026 13:37:26 GMT</pubDate>
 <description>Early weed identification is crucial for effective management and control, and researchers, agronomists, and technology developers are increasingly interested in automating this process using computer vision and artificial intelligence; however, limited expert-verified data and variable morphological features have hindered the development of AI-based weed identification models. To address these issues, we present WeedNet, a global-scale weed identification model that can recognize an extensive set of weed species. WeedNet is an end-to-end weed identification pipeline that uses self-supervised learning, fine-tuning, and enhanced trustworthiness strategies. WeedNet achieved 91.02% accuracy across 1,593 weed species, with 41% of species achieving 100% accuracy. Using a fine-tuning approach, the local Iowa WeedNet model achieved 97.38% overall accuracy for 84 Iowa weeds. Testing across intra-species dissimilarity and inter-species similarity suggests that diversity in the images collected, spanning all the growth stages and distinguishable plant characteristics, is crucial in driving model performance. The global WeedNet model serves as a foundation, and the global-to-local strategy en</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>5e71868fc2cb20603bc7cf086e7bb9147052fb8d0bd390890160363b12302fa2</guid>
-<pubDate>Thu, 01 Oct 2026 06:13:52 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>a6dda8a9093fadefea9357614e4a3299bdda33149c55734e87e867d7a1c3f092</guid>
+<pubDate>Thu, 01 Oct 2026 13:37:57 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>c0efa75c78d2180b308074227f8d4762c14ef9092b103f71f3379dce493defc8</guid>
-<pubDate>Thu, 01 Oct 2026 06:14:25 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>b463d6314812a7d6a6f1d1b6a5bf0ef21d34e3cf614cfe132cce56f42e627038</guid>
+<pubDate>Thu, 01 Oct 2026 13:38:00 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 <item>
-<title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.soken.ac.jp/news/2026/20260805.html</link>
-<guid>a49f1072d5d2e1bccbce473f82987f0b5a6e103b17761b3a4d46fd87a0656249</guid>
-<pubDate>Thu, 01 Oct 2026 06:14:29 GMT</pubDate>
-<description>【プレスリリース】全ゲノム塩基配列で解明：ニホンイノシシとリュウキュウイノシシは共通祖先から進化していた</description>
+<title>【環境】 240 Results</title>
+<link>https://www.canarymedia.com/search?q=artificial+intelligence</link>
+<guid>67e43d9f16ed4572628e777044b83ffbfac1462e594a2d83ee4b37c057aea4f1</guid>
+<pubDate>Thu, 01 Oct 2026 13:38:09 GMT</pubDate>
+<description>The leading newsroom covering the transition to clean energy, electrification and climate solutions. We report on how the world is decarbonizing with a…</description>
 </item>
 
 </channel>
