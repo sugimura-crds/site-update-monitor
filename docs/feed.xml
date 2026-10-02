@@ -4,84 +4,99 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 02 Oct 2026 02:23:18 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 08:44:40 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Amazon Bedrock Guardrailsで個人情報を伏せたら、「みりん」が人名になった話（2026年版）</title>
-<link>https://qiita.com/ntaka329/items/260b76e087ee593998d3</link>
-<guid>4a0bcb3eb7200b7192cb750096b8ddbf4ecc1d96683b4fa50b923882ed52d1fd</guid>
-<pubDate>2026-10-02T11:19:34+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 音声で買い物をするデモを作っていて、利用者の発話を生成AIに渡す前に、名前や電話番号を伏せたくなりました。思い浮かんだのがデジタル庁の源内です。公開されているコードに、Amazon Bedrock Guardrails（以下 Guar...</description>
+<title>【Qiita】 AWSの新認定試験「AI Business Strategist」に宇宙最速(未遂)で合格しました！</title>
+<link>https://qiita.com/ry-harada/items/7a062c2ed9b82571f91f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>7936c6bd39fe0cfaaa2e3c6667ec5c31bfefb274fe15cd8f522e8c96602e00bb</guid>
+<pubDate>2026-10-01T08:49:01+09:00</pubDate>
+<description>どうも、AWS認定宇宙最速(未遂)受験芸人のあるけみーです。最寄りの試験会場が10時開始の回しか選べず地の利がありません。9時からやってる会場を選べと言われたらその通りです。 Generative AI Developer - Professional(AIP)で宇宙最速(...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code の「完了しました」を信用しない。判定専用AI「Jev」をフック3本に挟み、4日間1,519判定・約5.6円で止めた話</title>
-<link>https://qiita.com/shun-nonoshita/items/940c04a16bd453827dd1</link>
-<guid>525027498812a1864bfd4dddbedb8710c1bad27d075708b3a07b97490fa47ba2</guid>
-<pubDate>2026-10-02T10:55:30+09:00</pubDate>
-<description>はじめに Claude Code のフック3本に、判定専用AI「Jev」を挟みました。2026-09-28〜2026-10-01の4日間で、Bash ゲートは1,519件を判定し、API 費用は合計約5.6円でした。Stop フックは実運用で4件を止め、4件とも「変更あり...</description>
+<title>【Qiita】 IBM Bob（Bob Shell）をWebブラウザから利用する（code serve-web編）</title>
+<link>https://qiita.com/teruq/items/0a87d7add360d379f52a</link>
+<guid>b06eaf2a7601de0609c183ba282c50ffef626ad7804badd79c192b3f2675cf9c</guid>
+<pubDate>2026-10-02T16:23:58+09:00</pubDate>
+<description>目的 IBM BobはIDEまたはCLI（Bob Shell）で利用出来ますが、IDEのインストールが禁止された環境だったりCLIが苦手な人にとってはブラウザベースで操作できると一定の解決になる場合があるかもしれません。 IBM Bobの標準機能ではブラウザインターフェー...</description>
 </item>
 <item>
-<title>【Qiita】 MCP サーバーは、インストール時ではなく実行の瞬間に止める</title>
-<link>https://qiita.com/SokoP/items/e41dca283cb4fbe1b2f8</link>
-<guid>08e010c8582674ba73a1f9e34108edb6b475bbeabe298ceef4300f13f8b8239c</guid>
-<pubDate>2026-10-02T10:03:47+09:00</pubDate>
-<description>「何を使っているか」の次は「何をするか」 ここ2本の記事では、AI を組み込んだアプリのセキュリティを2つの角度から見てきました。 AI-BOM のビューアは、一番危ない数字を表示しない: 何を使っているか SAST は LLM の出力を「信頼できない入力」として...</description>
+<title>【Qiita】 【Db2 Genius Hub】ロック問題を解決する</title>
+<link>https://qiita.com/ISE_Db2LUW_Club/items/7fddabd8a2e2f1006bbb</link>
+<guid>0ebf88d798238e169848eae2d07d0f0082162c7764b19a25f28573377bf02a39</guid>
+<pubDate>2026-10-02T15:45:50+09:00</pubDate>
+<description>目次 はじめに ロック問題を検知する (1) モニターアラート (2) ロック状況モニター ロック問題の調査に向けた事前設定 (1) アラートの設定 (2) ロッキング・イベント・モニターの有効化と表示 問題発生！ (1) デッドロック (2) ロッ...</description>
 </item>
 <item>
-<title>【Qiita】 「できる」と「やってよい」は別だった 〜Claude Code がスクレイピングの実装前に利用規約を読み、辞退した話〜</title>
-<link>https://qiita.com/charge0315/items/6c1405c90d5ea0b61d86</link>
-<guid>e3a529516d68ecba8a04e9907917565d928310cdfd999391afd3ad65679e6379</guid>
-<pubDate>2026-10-02T09:52:24+09:00</pubDate>
-<description>「このサイトから、見出しを取ってきて」。AIに頼めば、おそらく数十分で動くコードが返ってきます。でも、動くことと、やってよいことは別でした。 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を個人で開発・運用しています（開発には C...</description>
+<title>【Qiita】 【Db2 Genius Hub】モニター対象DBに作成されるオブジェクト</title>
+<link>https://qiita.com/ISE_Db2LUW_Club/items/b674e8fa85897be6a93e</link>
+<guid>7d0baab8d0d54cfef304b685e3dade571443b4334fddc06904cc7c7813d59ba7</guid>
+<pubDate>2026-10-02T14:20:46+09:00</pubDate>
+<description>目次 はじめに 1. 検証環境と調査内容 2. 検証結果サマリーと作成オブジェクト一覧 2.1 [1] イベントモニター構成前に作成されるオブジェクト 2.2 [2] 表スペース定義後に作成されるオブジェクト 2.3 [3] 統計イベントモニター作成後に作成されるオ...</description>
 </item>
 <item>
-<title>【Qiita】 3週間目の正直な振り返り。24スキル、56コミット、そして初PR3本【kurashi-skill Day 22】</title>
-<link>https://qiita.com/Ichiropen/items/032fc855fd9fb57ba238</link>
-<guid>ac27727b2609a89e1eb81a78a5b96ca43e7ba56313a9eaecb5f206e3aca5cafe</guid>
-<pubDate>2026-10-02T09:32:20+09:00</pubDate>
-<description>前回の振り返り(Day 15)で「18スキル、37コミット、星2つ」と書いた。あれから1週間、毎日の発行は止まっていない。3週間を過ぎたので、また正直な数字を並べる。 起: 今週の数字 2026-10-02時点の実測: スキルは24個、mainへのコミットは56、GitH...</description>
+<title>【Qiita】 【Db2 Genius Hub】モニタリング・ダッシュボードを使ってみた</title>
+<link>https://qiita.com/ISE_Db2LUW_Club/items/497107a2005c04549e42</link>
+<guid>6e843b46d109a1f19b198c0c9c1b9194d032953dbfd96ac07832964aefef6eca</guid>
+<pubDate>2026-10-02T14:06:42+09:00</pubDate>
+<description>目次 はじめに 1. モニタリング・ダッシュボードの全体構成 2. 【画面上部】通知とAIアシスタントの連携 3. 【画面中央】グラフによる全体俯瞰と時間帯の絞り込み 3.1 グラフでデータベース全体の状況・スパイクを把握 3.2 ドリルダウンで問題の時間帯にフォー...</description>
 </item>
 <item>
-<title>【Qiita】 0。Sonatypeが「AIコーディングツールのパッケージ推奨、27.75%が幻覚」と報告した日、自分のパイプラインが依存する外部パッケージ・Actionを数えたら、実在しなかったものの数だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/1e66bf00b525f53c2476</link>
-<guid>85f6aca72fe7ab8004994a2e6de357e9b58a7dd8c61df97cd7159f68f32ea01e</guid>
-<pubDate>2026-10-02T09:49:55+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿パイプライン(2つのリポジトリ・2つのGitHub Actionsワークフロー)が名前で依存している外部パッケージ・GitHub Actionのうち、実在しないもの(いわゆる「幻覚パッ...</description>
+<title>【Qiita】 Cloudflare の判定モデル Clef は Jev の代わりになるか — 精度・速度・料金・互換性を比べる</title>
+<link>https://qiita.com/Takuya__/items/15323080d2ba039ad03b</link>
+<guid>0e0f97463323aa0718326147e1c750c9c80f02ca46bdf6569e026648c662cd9d</guid>
+<pubDate>2026-10-02T17:04:06+09:00</pubDate>
+<description>2026年10月1日に公開された Cloudflare の発表記事（blog.cloudflare.com） この記事の確認範囲 この記事は、Cloudflare が 2026年10月1日に公開した判定モデル Clef（クレフ） と Clef-flash について、公...</description>
 </item>
 <item>
-<title>【自動自律実験】 A black hole’s jets have a halo effect</title>
-<link>https://www.nature.com/articles/d41586-026-03036-9</link>
-<guid>09c41133e0405739a0b2cc6bc20a6e2d9a002b9faa65faf51dd03158aaf5ef6d</guid>
-<pubDate>2026-10-01</pubDate>
-<description>Observations confirm jets’ expected effect on the gas cloud that surrounds a galaxy.</description>
+<title>【Qiita】 月3,400円のAI会社は「ループエンジニアリング」の5要素を満たしているか、実装で照合してみた</title>
+<link>https://qiita.com/macchan_ai_dev/items/704af969a82a3d7079c8</link>
+<guid>089c2d2b3370905b84c42bc965b8dbc4540cc588bfe3d54db813c52e142ee6a5</guid>
+<pubDate>2026-10-02T15:49:45+09:00</pubDate>
+<description>増井敏克氏の「ループエンジニアリング」という考え方を読んで、自宅のAIエージェント会社の設計と照らし合わせてみたら、5つの要素すべてに対応する実装が既にありました。今回はその答え合わせを、実際のコード・設定でそのまま紹介します。 TL;DR 増井氏の「ループエンジニ...</description>
 </item>
 <item>
-<title>【自動自律実験】 Can pancreatic cancer be stopped in its tracks? Radical tactic raises hopes</title>
-<link>https://www.nature.com/articles/d41586-026-03119-7</link>
-<guid>5ab423a19514ce43a45f3b82416bc7300930680ece46d56a7f2541a165faed22</guid>
-<pubDate>2026-10-01</pubDate>
-<description>With prospects for new treatments at an all-time high, researchers are looking for ways to boost survival by treating the disease early.</description>
+<title>【Qiita】 ゴールとPRだけを別のAIへ渡す「目的レビュー」と、その自動化</title>
+<link>https://qiita.com/spc_ksudoh/items/2f8aaa1867d09f2bc057</link>
+<guid>80c45ffd0ff0044147e7a3b26a9379672385c5e10cf0e04686fc33da87ef1061</guid>
+<pubDate>2026-10-02T14:51:58+09:00</pubDate>
+<description>概要 AIエージェントは、一つ一つの判断には筋が通っていても、それを重ねるうちに当初の目的から外れた実装を膨らませてしまうことがあります。こうした「目的を見失った膨張」にも、別のAIによる目的レビューは一定の効果があると感じています。今回は、当初のゴールに立ち返ってPRを...</description>
+</item>
+<item>
+<title>【Qiita】 0。Nvidiaが「異常をミリ秒で隔離する」暴走エージェント対策基盤を100社超と発表した日、自分を外から動的に止める仕組みを数えたら、その数字だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/511ee7ca950bd51a524b</link>
+<guid>9f6a566ab66507b12f1eae62823d0f7d12e2ab884e829171f92ab9a9c546c814</guid>
+<pubDate>2026-10-02T15:26:33+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿パイプライン(自分=Claudeがpush権限を持つ2つのリポジトリ)に、「自分の振る舞いが異常だと外部が動的に検知し、自分の判断を介さず強制的に実行を止める」仕組みが何個あるか数えた...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>f47c452ad7bb9e2ae9c1cc547edbe0ff54b9ecfa53a585ba391abdd6994375bf</guid>
-<pubDate>Fri, 02 Oct 2026 02:22:02 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>c8d56d2e2635e10a28abdaa3787febde2a5547d3fe0fba823b632fdf5b8e6c00</guid>
+<pubDate>Fri, 02 Oct 2026 08:43:45 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78044-4</link>
-<guid>f8cd629e1aa058d81bc216b554db37c0f4e14a61a5af0e41d9760bcf344be73c</guid>
-<pubDate>Fri, 02 Oct 2026 02:22:05 GMT</pubDate>
+<guid>9fb13b78ec41b8566bfa9a0a3a2fc77642b0a0a8f3c6d12fa06190de28043ae6</guid>
+<pubDate>Fri, 02 Oct 2026 08:43:48 GMT</pubDate>
 <description>Early weed identification is crucial for effective management and control, and researchers, agronomists, and technology developers are increasingly interested in automating this process using computer vision and artificial intelligence; however, limited expert-verified data and variable morphological features have hindered the development of AI-based weed identification models. To address these issues, we present WeedNet, a global-scale weed identification model that can recognize an extensive set of weed species. WeedNet is an end-to-end weed identification pipeline that uses self-supervised learning, fine-tuning, and enhanced trustworthiness strategies. WeedNet achieved 91.02% accuracy across 1,593 weed species, with 41% of species achieving 100% accuracy. Using a fine-tuning approach, the local Iowa WeedNet model achieved 97.38% overall accuracy for 84 Iowa weeds. Testing across intra-species dissimilarity and inter-species similarity suggests that diversity in the images collected, spanning all the growth stages and distinguishable plant characteristics, is crucial in driving model performance. The global WeedNet model serves as a foundation, and the global-to-local strategy en</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>88238ebe0a7aee2c089a86f9fbf1e24065301a0e22ab30a0ffbf71e2e6f7148f</guid>
-<pubDate>Fri, 02 Oct 2026 02:22:09 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04694-y</link>
+<guid>5310d74d96fe72fc219fec21550052330286cbc9e6e10ceb141a5c71c580d94d</guid>
+<pubDate>Fri, 02 Oct 2026 08:43:50 GMT</pubDate>
+<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>411968cd197b1f25a3f86cf5875ce3970422fe586deb18337987dbc0c0edf420</guid>
+<pubDate>Fri, 02 Oct 2026 08:44:27 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
