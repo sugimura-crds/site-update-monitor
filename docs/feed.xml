@@ -4,77 +4,84 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 01 Oct 2026 23:18:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 02:23:18 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AI生成コードを全部同じ密度で読む必要はある？―レビューを契約とテストで絞る設計</title>
-<link>https://qiita.com/masashige0904/items/43beaaabc2c0ef2dcb1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>d4b8978290bfe08ef8cf77021042a389409204a1dd080e7697ca4711dffd3190</guid>
-<pubDate>2026-09-30T22:08:39+09:00</pubDate>
-<description>この記事はこんな人におすすめ AIが生成したコードをどこまでレビューすべきか迷っている AIによって実装は速くなったが、レビュー負担も増えたと感じている AI時代に設計やテストを学ぶ意味を考えたい この記事で得られること この記事では、次の考え方を整理します。 契...</description>
+<title>【Qiita】 Amazon Bedrock Guardrailsで個人情報を伏せたら、「みりん」が人名になった話（2026年版）</title>
+<link>https://qiita.com/ntaka329/items/260b76e087ee593998d3</link>
+<guid>4a0bcb3eb7200b7192cb750096b8ddbf4ecc1d96683b4fa50b923882ed52d1fd</guid>
+<pubDate>2026-10-02T11:19:34+09:00</pubDate>
+<description>はじめに GMOコネクトの永田です。 音声で買い物をするデモを作っていて、利用者の発話を生成AIに渡す前に、名前や電話番号を伏せたくなりました。思い浮かんだのがデジタル庁の源内です。公開されているコードに、Amazon Bedrock Guardrails（以下 Guar...</description>
 </item>
 <item>
-<title>【Qiita】 どこかで聞いた「アウトプットしないことは知的な便秘である」って素晴らしい言葉だよなぁ！</title>
-<link>https://qiita.com/PDC-Kurashinak/items/bde0e380eeb04fa28f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>c93cfc02600b29b8ec0ecf3472da5f22633d2aec0a2e24720d5a4a7927230306</guid>
-<pubDate>2026-10-01T10:24:15+09:00</pubDate>
-<description>どうもこんにちは。 以前、Xで「アウトプットしないことは知的な便秘だ！」っていうポストを見つけたことがありまして、今回はこれについての自分の考えを話したいと思います。 アウトプットをしない人のことを悪く言いたい記事ではありません。 僕が個人的に、この表現がしっくり来たの...</description>
+<title>【Qiita】 Claude Code の「完了しました」を信用しない。判定専用AI「Jev」をフック3本に挟み、4日間1,519判定・約5.6円で止めた話</title>
+<link>https://qiita.com/shun-nonoshita/items/940c04a16bd453827dd1</link>
+<guid>525027498812a1864bfd4dddbedb8710c1bad27d075708b3a07b97490fa47ba2</guid>
+<pubDate>2026-10-02T10:55:30+09:00</pubDate>
+<description>はじめに Claude Code のフック3本に、判定専用AI「Jev」を挟みました。2026-09-28〜2026-10-01の4日間で、Bash ゲートは1,519件を判定し、API 費用は合計約5.6円でした。Stop フックは実運用で4件を止め、4件とも「変更あり...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントについて調べたことをもう一歩深掘りしてみた ～評価・可観測性・コスト管理・ガードレールまで～</title>
-<link>https://qiita.com/Sho5_Matsu/items/91dde7ad6280c182cf21</link>
-<guid>326017f6412101bf2377f010563a109b3218b654e0fb3d0b7dc6c4eac91c5bc5</guid>
-<pubDate>2026-10-02T08:10:47+09:00</pubDate>
-<description>はじめに 以前、「AIエージェントについて自分で調べてみてわかったこと」という記事を書きました。 前回の記事では、 AIエージェントは「目的達成のために自律的に動くAI」であること Function Callingを利用して外部ツールを実行する仕組みであること 法...</description>
+<title>【Qiita】 MCP サーバーは、インストール時ではなく実行の瞬間に止める</title>
+<link>https://qiita.com/SokoP/items/e41dca283cb4fbe1b2f8</link>
+<guid>08e010c8582674ba73a1f9e34108edb6b475bbeabe298ceef4300f13f8b8239c</guid>
+<pubDate>2026-10-02T10:03:47+09:00</pubDate>
+<description>「何を使っているか」の次は「何をするか」 ここ2本の記事では、AI を組み込んだアプリのセキュリティを2つの角度から見てきました。 AI-BOM のビューアは、一番危ない数字を表示しない: 何を使っているか SAST は LLM の出力を「信頼できない入力」として...</description>
 </item>
 <item>
-<title>【Qiita】 じゃあ、Jevは何に使えるの？ ── 公式Cookbookで見る3つの配置パターン</title>
-<link>https://qiita.com/BugiAK/items/022f3223e17952c0ccb5</link>
-<guid>e13a61ef09d879678f692c7f01877deca35887ad6f55ea79054d30bbf6b279fa</guid>
-<pubDate>2026-10-02T06:37:52+09:00</pubDate>
-<description>はじめに Jevシリーズも3本目です。 第一弾では、 型が正しいことと、判断が正しいことは別ではないか という問題を取り上げました。 第二弾では、 Jevが返す0.7という数字は、Primitiveによって意味が違う というところから、Jevが返す評価値の読み方を...</description>
+<title>【Qiita】 「できる」と「やってよい」は別だった 〜Claude Code がスクレイピングの実装前に利用規約を読み、辞退した話〜</title>
+<link>https://qiita.com/charge0315/items/6c1405c90d5ea0b61d86</link>
+<guid>e3a529516d68ecba8a04e9907917565d928310cdfd999391afd3ad65679e6379</guid>
+<pubDate>2026-10-02T09:52:24+09:00</pubDate>
+<description>「このサイトから、見出しを取ってきて」。AIに頼めば、おそらく数十分で動くコードが返ってきます。でも、動くことと、やってよいことは別でした。 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を個人で開発・運用しています（開発には C...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントは「作る技術」から「任せて運用する技術」へ──Microsoft Foundryから見える次の実装課題</title>
-<link>https://qiita.com/mhamadajp/items/ee0dc7026d413d3f5629</link>
-<guid>09d1c79f085a367600b8971653686083404a1278737e6de1edeb82023ca439a4</guid>
-<pubDate>2026-10-02T05:52:14+09:00</pubDate>
-<description>作成日: 2026-08-19 AIエージェントの議論は、しばらく「どのモデルを選ぶか」「どうツールを呼び出すか」「どうプロンプトを書くか」が中心だった。いずれも必要な技術である。しかし、エージェントが社内データを参照し、複数のシステムをまたいで仕事を進め、Teamsなどの...</description>
+<title>【Qiita】 3週間目の正直な振り返り。24スキル、56コミット、そして初PR3本【kurashi-skill Day 22】</title>
+<link>https://qiita.com/Ichiropen/items/032fc855fd9fb57ba238</link>
+<guid>ac27727b2609a89e1eb81a78a5b96ca43e7ba56313a9eaecb5f206e3aca5cafe</guid>
+<pubDate>2026-10-02T09:32:20+09:00</pubDate>
+<description>前回の振り返り(Day 15)で「18スキル、37コミット、星2つ」と書いた。あれから1週間、毎日の発行は止まっていない。3週間を過ぎたので、また正直な数字を並べる。 起: 今週の数字 2026-10-02時点の実測: スキルは24個、mainへのコミットは56、GitH...</description>
+</item>
+<item>
+<title>【Qiita】 0。Sonatypeが「AIコーディングツールのパッケージ推奨、27.75%が幻覚」と報告した日、自分のパイプラインが依存する外部パッケージ・Actionを数えたら、実在しなかったものの数だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/1e66bf00b525f53c2476</link>
+<guid>85f6aca72fe7ab8004994a2e6de357e9b58a7dd8c61df97cd7159f68f32ea01e</guid>
+<pubDate>2026-10-02T09:49:55+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿パイプライン(2つのリポジトリ・2つのGitHub Actionsワークフロー)が名前で依存している外部パッケージ・GitHub Actionのうち、実在しないもの(いわゆる「幻覚パッ...</description>
+</item>
+<item>
+<title>【自動自律実験】 A black hole’s jets have a halo effect</title>
+<link>https://www.nature.com/articles/d41586-026-03036-9</link>
+<guid>09c41133e0405739a0b2cc6bc20a6e2d9a002b9faa65faf51dd03158aaf5ef6d</guid>
+<pubDate>2026-10-01</pubDate>
+<description>Observations confirm jets’ expected effect on the gas cloud that surrounds a galaxy.</description>
+</item>
+<item>
+<title>【自動自律実験】 Can pancreatic cancer be stopped in its tracks? Radical tactic raises hopes</title>
+<link>https://www.nature.com/articles/d41586-026-03119-7</link>
+<guid>5ab423a19514ce43a45f3b82416bc7300930680ece46d56a7f2541a165faed22</guid>
+<pubDate>2026-10-01</pubDate>
+<description>With prospects for new treatments at an all-time high, researchers are looking for ways to boost survival by treating the disease early.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>367307ed6873c43d7d667d21fd617977c6166c7368dcb622a04ca51437e8a874</guid>
-<pubDate>Thu, 01 Oct 2026 23:17:07 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>f47c452ad7bb9e2ae9c1cc547edbe0ff54b9ecfa53a585ba391abdd6994375bf</guid>
+<pubDate>Fri, 02 Oct 2026 02:22:02 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78044-4</link>
-<guid>4bf842f8ae61127ee4c3dfdae78c7387a7c9f8f6a41cb10e5e0d0dd7bd69e2f5</guid>
-<pubDate>Thu, 01 Oct 2026 23:17:10 GMT</pubDate>
+<guid>f8cd629e1aa058d81bc216b554db37c0f4e14a61a5af0e41d9760bcf344be73c</guid>
+<pubDate>Fri, 02 Oct 2026 02:22:05 GMT</pubDate>
 <description>Early weed identification is crucial for effective management and control, and researchers, agronomists, and technology developers are increasingly interested in automating this process using computer vision and artificial intelligence; however, limited expert-verified data and variable morphological features have hindered the development of AI-based weed identification models. To address these issues, we present WeedNet, a global-scale weed identification model that can recognize an extensive set of weed species. WeedNet is an end-to-end weed identification pipeline that uses self-supervised learning, fine-tuning, and enhanced trustworthiness strategies. WeedNet achieved 91.02% accuracy across 1,593 weed species, with 41% of species achieving 100% accuracy. Using a fine-tuning approach, the local Iowa WeedNet model achieved 97.38% overall accuracy for 84 Iowa weeds. Testing across intra-species dissimilarity and inter-species similarity suggests that diversity in the images collected, spanning all the growth stages and distinguishable plant characteristics, is crucial in driving model performance. The global WeedNet model serves as a foundation, and the global-to-local strategy en</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>d4f4d4f192940ad7847bd0a978fa57f1cf39baeb53a4918fad55ff6d721d4e76</guid>
-<pubDate>Thu, 01 Oct 2026 23:17:13 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother-Child AI Agent (MoChiAgent), an LLM-based clinical assistant that orchestrates multiple tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and internally evaluated using 4,401,599 longitudinal clinical visits and externally validated using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modelling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestational conditions, achieving AUROCs of</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>6061a998af2a9e6398dba66b4236db13a142b48470f2c3f3ad3081faf88ba7a6</guid>
-<pubDate>Thu, 01 Oct 2026 23:17:15 GMT</pubDate>
-<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>537ed22f6dfc3374f0c923b78d0bf8bce09c0f9d47e9d094adf60d75e954fdbe</guid>
-<pubDate>Thu, 01 Oct 2026 23:17:19 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>88238ebe0a7aee2c089a86f9fbf1e24065301a0e22ab30a0ffbf71e2e6f7148f</guid>
+<pubDate>Fri, 02 Oct 2026 02:22:09 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
