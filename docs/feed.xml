@@ -4,140 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 02 Oct 2026 15:11:56 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 20:01:59 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Bob で作る Personal Knowlege Management デスクトップアプリ on Tauri</title>
-<link>https://qiita.com/takumiida1/items/4b836977d1e75fe6fcad</link>
-<guid>dd7c738472524911cfb2a27996652498f76685532c3f0742f156e5e7e15c9e49</guid>
-<pubDate>2026-10-02T19:23:36+09:00</pubDate>
-<description>Summary 前回の記事で IBM Bob + Foam の PKM 環境を構築した。運用していく中で入力が手間になり、「声でさっとメモして、それをきちんとしたノートに整形したい」と考えるようになった 音声入力 → whisper-rs（Apple Silico...</description>
+<title>【Qiita】 ChatGPT Workで何が変わった？できることと、任せる前に知っておきたいリスク</title>
+<link>https://qiita.com/st_lab0934/items/c52f60898553b4c1b0d9</link>
+<guid>df6f3371a6b57fcc82204454f3c50f0fc0724f2640e8478f0c1a6f22ad102c45</guid>
+<pubDate>2026-10-03T00:51:35+09:00</pubDate>
+<description>皆さんはChatGPTをはじめとした生成AIをどのように活用していますか？ 分からないことを質問する 文章を作成・添削してもらう 情報を調べてもらう アイデアを一緒に考えてもらう 活用方法はいろいろあるかと思います。 では、こんなことまで頼めたらどうでしょうか？ 複数...</description>
 </item>
 <item>
-<title>【Qiita】 AIは「話し終わる前」に動き出す――Microsoftの新音声AIが、会話エージェントの待ち時間を削る</title>
-<link>https://qiita.com/sin-aiagent/items/58a896bd8cb5227845a7</link>
-<guid>8d8ba9bdb50f81f086a2587026bd5efc7d7245da360bb1841283a7526f84a5c2</guid>
-<pubDate>2026-10-02T23:26:44+09:00</pubDate>
-<description>人とAIが音声で話すとき、気になるのは賢さだけではありません。 こちらが話し終えてから、AIが文字起こしを確定し、考え、ツールを呼び、返事を作る。小さな待ち時間が何段も重なると、会話は急に「機械とのやり取り」らしくなります。 Microsoft AIは2026年10月1日...</description>
-</item>
-<item>
-<title>【Qiita】 OpenAI の dots とは？ Claude Code・Codex との違いは「会話を閉じても働く担当者」になったこと</title>
-<link>https://qiita.com/Takuya__/items/28fae9d8c6d9d09c4cc8</link>
-<guid>1657d4286203664a020b625a6be6a2e207134f65f22a7b1e9f033ae0baf095e8</guid>
-<pubDate>2026-10-02T22:49:31+09:00</pubDate>
-<description>はじめに 2026 年 9 月末の OpenAI DevDay で、dots（ドッツ） という新しいエージェントが発表されました。ChatGPT の中に「自分専用の dot」を 1 体置き、24 時間働いてもらうという機能です。 発表を見て、こう思った人も多いのではない...</description>
-</item>
-<item>
-<title>【Qiita】 画像生成が「お願い」から「配置設計」へ――FLUX 3 Imageは箱で構図を固定して直せる</title>
-<link>https://qiita.com/sin-aiagent/items/5b92bcffc3d84a11effa</link>
-<guid>c182d8dd573b42d7f71991b2856e068c2dc0aacc804b3c511f118f712b8da7c1</guid>
-<pubDate>2026-10-02T22:38:13+09:00</pubDate>
-<description>画像生成で、かなり厄介なのが「絵は良いのに、見出しを置く場所がない」「人物を少し右へ動かしたいだけなのに、全体が別物になる」という問題です。 Black Forest Labs（BFL）の FLUX 3 Image は、ここに「バウンディングボックス」という設計図を持ち込み...</description>
-</item>
-<item>
-<title>【Qiita】 OpenAIのdotsで話題の「AIの同僚」を、手元のClaude CodeとCodexで組む方法</title>
-<link>https://qiita.com/iostar/items/85e1a496225208ef2a59</link>
-<guid>6e5da0ccfd6ab19b43d7b0833167cc84f699d8f3809ffe7f1aa90e4f42e2f829</guid>
-<pubDate>2026-10-02T21:59:02+09:00</pubDate>
-<description>AIに書かせたコードを別のAIにレビューさせると、間に立つ人間が伝言係になります。 Claude Code の出力をコピーして Codex に貼り、Codex の指摘をコピーして Claude Code に戻す。往復が3回あれば、コピーと貼り付けを6回繰り返しています。 こ...</description>
-</item>
-<item>
-<title>【Qiita】 採用AIエージェントをゼロから作る：設計・実装・テストの課題</title>
-<link>https://qiita.com/osakurai/items/ae8e3ba7f9d3bf519848</link>
-<guid>ccdae255658c6d314fc75eab345d3ede4d2f5b2eced6a8a6316327b4a2b07690</guid>
-<pubDate>2026-10-02T23:29:40+09:00</pubDate>
-<description>採用AIエージェントをゼロから作る：設計・実装・テストの課題 採用業務には、応募者への連絡、面接日程の調整、候補者情報の整理、選考状況の更新など、定型化しやすい仕事が多くあります。AIエージェントを使えば、これらをまとめて自動化できそうに見えます。 しかし、採用は単なる事...</description>
-</item>
-<item>
-<title>【農業】 FAO Food Price Index rises in September amid weather concerns and transport disruptions</title>
-<link>https://www.fao.org/newsroom/detail/fao-food-price-index-rises-in-september-amid-weather-concerns-and-transport-disruptions/en</link>
-<guid>cb42943738358fdbe7e7ba3463eed8a51c19c3595e5aabf876626fad43a22bdb</guid>
-<pubDate>Fri, 02 Oct 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【農業】 World Forest Week: FAO urges greater investment and action for the world&#x27;s dryland forests</title>
-<link>https://www.fao.org/newsroom/detail/world-forest-week--fao-urges-greater-investment-and-action-for-the-world&#x27;s-dryland-forests/en</link>
-<guid>135b8110b958137e6feb48f7ab279f3002e3636db67401ed42b7affa5384421a</guid>
-<pubDate>Fri, 02 Oct 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【農業】 First UN International Coffee Day celebrates the people behind every cup</title>
-<link>https://www.fao.org/newsroom/detail/first-un-international-coffee-day-celebrates-the-people-behind-every-cup/en</link>
-<guid>f64db588ea6c7422f297af13a688d645eb9cc288309742e711a8924f3aba52ce</guid>
-<pubDate>Thu, 01 Oct 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【自動自律実験】 How to respond to hate speech without fuelling it further</title>
-<link>https://www.nature.com/articles/d41586-026-03058-3</link>
-<guid>7b4a0dcbe3aca464538822d302ad3f56a28dad55dc9b6e14686584dbd5cc7fd0</guid>
+<title>【自動自律実験】 ‘Learning about physics changed my life’: author Hernan Diaz on his new novel &lt;i&gt;Ply&lt;/i&gt;</title>
+<link>https://www.nature.com/articles/d41586-026-03057-4</link>
+<guid>8111a3f12b71d8de98137ba1e3d2fba8384a6e3ac417f19eec27e743036e4187</guid>
 <pubDate>2026-10-02</pubDate>
-<description>Psychologist Mirta Galesic discusses an increase in hateful comments online, and the science-backed way to react.</description>
+<description>The Pulitzer-Prize-winning author joins us to talk about his time visiting CERN and communicating quantum physics in fiction.</description>
 </item>
 <item>
-<title>【自動自律実験】 Stunning fossil shows dinosaurs’ distinctive path to flight</title>
-<link>https://www.nature.com/articles/d41586-026-03126-8</link>
-<guid>063033423d92ba897d3b583c149ea846c2f5d1938b041a2f3a54b832c357f314</guid>
+<title>【自動自律実験】 Nature has rights — it is time the world recognized them</title>
+<link>https://www.nature.com/articles/d41586-026-03145-5</link>
+<guid>002ef17650d80ad627df90b528de6978d4f4fe83af861c884d8eb304b7c4c1f5</guid>
 <pubDate>2026-10-02</pubDate>
-<description>A fossil from a previously undiscovered species with feathery limbs, unearthed in China, adds to evidence that dinosaurs and birds evolved flight more than once.</description>
+<description>Existing legal frameworks have not halted planetary crises. Recognizing the rights of nature could offer a different path.</description>
 </item>
 <item>
-<title>【自動自律実験】 Von Neumann’s party</title>
-<link>https://www.nature.com/articles/d41586-026-02976-6</link>
-<guid>e04044393c95c5cc12bce47580d3b57415b08aad9c7a60a87ad3445a15f4c6be</guid>
+<title>【自動自律実験】 Can you name the women who have won a science Nobel prize?</title>
+<link>https://www.nature.com/articles/d41586-026-03133-9</link>
+<guid>49817436eb077cf68156e000ed423176d641f1fe0db36057a0a247835f14997d</guid>
 <pubDate>2026-10-02</pubDate>
-<description>A tricky question.</description>
-</item>
-<item>
-<title>【自動自律実験】 Prozac use for childhood depression skewed by single flawed medical trial</title>
-<link>https://www.nature.com/articles/d41586-026-02769-x</link>
-<guid>4105de2a2a2bbce71661630bc47d6a7b8fc173fc4edf871056ea93072129c368</guid>
-<pubDate>2026-10-02</pubDate>
-<description>One small study in Iran swayed meta-analyses in favour of antidepressant use in children, researchers say.</description>
-</item>
-<item>
-<title>【自動自律実験】 Can we have class outside? Seven tips to breeze through outdoor lectures</title>
-<link>https://www.nature.com/articles/d41586-026-02564-8</link>
-<guid>afa6c18065999c4f54c385537b0421bb91bf45d492f3deeb0457cfee213f2430</guid>
-<pubDate>2026-10-02</pubDate>
-<description>Advocates say that delivering lectures and presentations al fresco can energize students and provide them with a complete experience.</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>e1f084bf166a95f140f7d0c22734ec1a43f12c4f3bb0d3b11c8a433209d1d425</guid>
-<pubDate>Fri, 02 Oct 2026 15:11:02 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<description>Take Nature’s quiz on female Nobel laureates in physics, chemistry and physiology or medicine.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-78044-4</link>
-<guid>abb8628eda0a6a8db26775654bfd0f8c42a04ff156af64b87c08ce3138bb951e</guid>
-<pubDate>Fri, 02 Oct 2026 15:11:05 GMT</pubDate>
-<description>Early weed identification is crucial for effective management and control, and researchers, agronomists, and technology developers are increasingly interested in automating this process using computer vision and artificial intelligence; however, limited expert-verified data and variable morphological features have hindered the development of AI-based weed identification models. To address these issues, we present WeedNet, a global-scale weed identification model that can recognize an extensive set of weed species. WeedNet is an end-to-end weed identification pipeline that uses self-supervised learning, fine-tuning, and enhanced trustworthiness strategies. WeedNet achieved 91.02% accuracy across 1,593 weed species, with 41% of species achieving 100% accuracy. Using a fine-tuning approach, the local Iowa WeedNet model achieved 97.38% overall accuracy for 84 Iowa weeds. Testing across intra-species dissimilarity and inter-species similarity suggests that diversity in the images collected, spanning all the growth stages and distinguishable plant characteristics, is crucial in driving model performance. The global WeedNet model serves as a foundation, and the global-to-local strategy en</description>
+<link>https://www.nature.com/articles/s41467-026-78268-4</link>
+<guid>a00abdccd3780a85e32401121553d037e789a31efd31afcacb8b87d0f848b326</guid>
+<pubDate>Fri, 02 Oct 2026 20:00:52 GMT</pubDate>
+<description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04694-y</link>
-<guid>d4406c9f397fc05eaf84ed4e72876ddceff2f2adb177573afa68562c6b9b17e1</guid>
-<pubDate>Fri, 02 Oct 2026 15:11:08 GMT</pubDate>
-<description>Current predictive models for pregnancy and infant outcomes often focus on limited endpoints and rely on costly tests or imaging. Here we developed the Mother–Child Artificial Intelligence Agent (MoChiAgent)—a large-language-model-based clinical assistant that orchestrates several tools to integrate sequential electronic health record (EHR) data, including routine laboratory tests, for forecasting maternal and infant diseases. MoChiAgent’s core predictive engine, MoChiFormer, was developed and evaluated internally using 4,401,599 longitudinal clinical visits and validated externally using independent maternal and infant cohorts consisting of 263,452 and 23,192 visits, respectively. MoChiFormer reconstructs missing laboratory values, reduces batch effects and learns EHR representations that support gestational, fetal and infant age estimation, health-trajectory modeling and stratification of current and future disease risk. Subsequently, a Knowledge Search Tool utilizes these forecasts to retrieve evidence-based intervention and treatment recommendations from curated medical literature and authoritative guidelines. For maternal health, MoChiFormer accurately identified key gestation</description>
+<link>https://www.nature.com/articles/d41586-026-02994-4</link>
+<guid>b25476c4b2b3fff4ffacc93597c99f6fa3c4d937dddb63a2cf1807a891f7be57</guid>
+<pubDate>Fri, 02 Oct 2026 20:00:56 GMT</pubDate>
+<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>2854f3e51b68f7db63a7f62b2d86e48cd05e511af89811ac086e3fc0e1fa55a0</guid>
-<pubDate>Fri, 02 Oct 2026 15:11:11 GMT</pubDate>
-<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>7d505c11f05befc7d648b645e9999312029ba67ed727917affda7fe5bafdab4b</guid>
+<pubDate>Fri, 02 Oct 2026 20:00:58 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【U.S.】 Improving How Models Predict Ocean Waves with AI</title>
-<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
-<guid>928567b313ae77ec7df99bcf0b447f13d23d5458453e5f733d0317d35e3968c8</guid>
-<pubDate>Fri, 02 Oct 2026 15:11:16 GMT</pubDate>
-<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>16e42981487526b9087c849e2c8006c2327b9ada9d22517a6709f76a2974cbf1</guid>
+<pubDate>Fri, 02 Oct 2026 20:01:45 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
