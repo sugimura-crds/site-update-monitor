@@ -4,91 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 03 Oct 2026 08:44:20 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 14:04:49 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Code ModsとJevでモデルルーターを構築（サブスクで使えるゾ！！）</title>
-<link>https://qiita.com/moritalous/items/8b663db633dde3c49d62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>48012f6a5d0da2e9a8e09644348a8e9e4ebfb1baeef0a41f27f2c43422638e18</guid>
-<pubDate>2026-10-02T20:20:01+09:00</pubDate>
-<description>Claude CodeにModsというものが追加されました。 公式ドキュメントはこちら 何やらいろんなことができそうです。 頼んでみた ドキュメントもろくに読まず、Claude Codeに聞いてみました。 Claude Code Mods（ https://...</description>
-</item>
-<item>
-<title>【Qiita】 日本企業「ハッキングされないでくれ」ランキング</title>
-<link>https://qiita.com/konaito/items/16a6d2c5da7d144efe95?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>2d5c60dc16e167ab03bc03cdbc5a14cfbb3c37f7ced371dacbea93aa8cfe3a48</guid>
-<pubDate>2026-10-02T19:12:24+09:00</pubDate>
-<description>漏れたら困るのは、お金だけじゃない。 2026年9月の終わりから、生活に近いサービスの不正アクセスの公表が続いている。 タイムズカーは9月25日に不正アクセスを検知した。退会済みの人や、入会手続きを終えなかった人も含めて、約660万アカウントの情報が第三者に取得されている...</description>
-</item>
-<item>
-<title>【Qiita】 Hermes Agentはどこから来たのか？</title>
-<link>https://qiita.com/Tadataka_Takahashi/items/c0c78be9d2395355c04d</link>
-<guid>d09da15fd6a91f5d9bcd4abf7d00380710094e7e0149112156ff36fca9c45575</guid>
-<pubDate>2026-10-03T17:20:24+09:00</pubDate>
-<description>はじめに 2026年2月25日、Nous ResearchはオープンソースのAIエージェント「Hermes Agent」を発表しました。 Hermes Agentには、ツール実行、メモリ、スキル、定期実行、Slackなどのメッセージングサービスとの連携といった機能があり...</description>
-</item>
-<item>
-<title>【Qiita】 plans/workbenchをdefinition/jobsに変えることになった話</title>
-<link>https://qiita.com/joyrswd/items/83fb02848b3aa38d4780</link>
-<guid>1678fc178eae378533b241cdc273d918250bf2981ee18e3040827b9b957da195</guid>
-<pubDate>2026-10-03T14:23:08+09:00</pubDate>
-<description>前回の記事では、AIレビューで見つかった指摘をすべてその場で直すのではなく、Defer や Observe として「あとで再考する」仕組みを入れました。 さらに、レビューから得た知見そのものをKnowledge Baseとして再利用しようとしましたが、過去の知見が現在の設計...</description>
-</item>
-<item>
-<title>【Qiita】 AI生成コードを全部同じ密度で読まない——契約とテストでレビュー対象を絞る設計</title>
-<link>https://qiita.com/fuji1009_REBELL/items/e1b9a0c9ed8f0263e237</link>
-<guid>08167571badaccbac8d5d56639b4c9faf8c40ddc7095d5b5e8e88570b97457c2</guid>
-<pubDate>2026-10-03T13:30:28+09:00</pubDate>
-<description>Claude Codeが生成したコードを、私は長い間「上から下まで同じ速度で」読んでいた。変数名の揺れも、N+1クエリも、認証漏れも、同じ注意力で追いかける。結果、レビューに使う時間がどんどん伸びていくのに、見逃しは減らなかった。 先日、「AI生成コードを全部同じ密度で読む...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Code の mods とは？ 画面もツール呼び出しも自分好みに変えられる新しい拡張</title>
-<link>https://qiita.com/Takuya__/items/50635331136ee6386286</link>
-<guid>d64448ca71c30c4b8ba67d7a34233bc663778451378884faeb3639cd08d13bef</guid>
-<pubDate>2026-10-03T13:17:51+09:00</pubDate>
-<description>はじめに Claude Code を毎日使っていると、「ここにこれが表示されていたら便利なのに」「このコマンドだけは実行前に一度止まってほしい」といった、小さいけれど自分にとっては切実な要望が出てきます。ところが、こうした要望の多くは「多くの人に必要とは言えない」ため、...</description>
-</item>
-<item>
-<title>【Qiita】 1。AIエージェントの信頼性を4種類の故障注入で測る論文を読んだ日、自分の自動投稿パイプラインが対策を持っていた故障の種類を数えたら、その数字だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/43205c281ec708971257</link>
-<guid>338bd2279d9147e52bab276d6318973a6c638145227b70b44a6091c779674e94</guid>
-<pubDate>2026-10-03T16:55:37+09:00</pubDate>
-<description>はじめに 1。 これが今回の数字です。何の1かというと、LLMエージェントの信頼性を「故障注入(fault injection)」というチャオスエンジニアリングの手法で測る2026年の論文「ReliabilityBench」が定義した4種類の故障──タイムアウト、レート制...</description>
-</item>
-<item>
-<title>【Qiita】 1。米上院議員が「操作者」と「開発者」を分けて罰するAI法案を公表した日、このパイプラインでその2つの役割を演じている人数を数えたら、その数字だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/dc040681a3f38586d558</link>
-<guid>79564e91cd30cf0f6f09342fcbdc3f2332369d750e8f313d0f0343d16181b4b6</guid>
-<pubDate>2026-10-03T15:22:00+09:00</pubDate>
-<description>はじめに 1。 これが今回の数字です。何の1かというと、2026年10月1日に米上院議員Josh Hawley(共和党・ミズーリ州)とChris Murphy(民主党・コネチカット州)が発表した「AI Agent Accountability Act」が、AIエージェント...</description>
+<title>【Qiita】 LangChainで履歴を渡しているはずなのにAIが忘れる — 会話メモリが3ターンで飛ぶ3つの原因と完全な直し方</title>
+<link>https://qiita.com/yukihayama/items/b44860c24e9de13c023c</link>
+<guid>92eeafd5b34c6beac36add9c0ddca4b909e99f5e2eb62f28e2c8371b8908cb82</guid>
+<pubDate>2026-10-03T22:46:34+09:00</pubDate>
+<description>「前の質問も覚えていてください」と指示したチャットアプリを動かしたら、会話が3ターン目で壊れました。「私の名前は何？」と聞いたユーザーに対し、AIは「存じ上げません」と返したのです。過去の会話はキレイにプロンプトへ渡している。原因を調べてもエラーは出ない。丸1日溶かしてよう...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>fa6e6a492c45a60dc0520551ad090e590fe8ad4daad77732665ec50c62dc66a4</guid>
-<pubDate>Sat, 03 Oct 2026 08:43:32 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>24ec88b64087328fb20c9bba57ee74022b083c34886acd2fda5d88b1c77231d2</guid>
+<pubDate>Sat, 03 Oct 2026 14:04:12 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>8284dce6454311f609ccb06934327edb0f339e8d815134b298aee4f02c2cc514</guid>
-<pubDate>Sat, 03 Oct 2026 08:43:35 GMT</pubDate>
+<guid>c8d7dd2b6e65cb9375b47187ce9b526196351afb32bab0c804b196742987a06c</guid>
+<pubDate>Sat, 03 Oct 2026 14:04:14 GMT</pubDate>
 <description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>31f081f0315de8f455b6bd19bf9adafaa5cf156f685feb235a155e702bd19807</guid>
-<pubDate>Sat, 03 Oct 2026 08:43:38 GMT</pubDate>
-<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>faa856425de404f285d0aa87e24a15355f52ce01786c96efda22fb60258b6b0c</guid>
-<pubDate>Sat, 03 Oct 2026 08:44:01 GMT</pubDate>
+<guid>1bf6d75820b87dbb8ad7a393b50bd538f926059831012a1a7bbb0636973978f8</guid>
+<pubDate>Sat, 03 Oct 2026 14:04:32 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
