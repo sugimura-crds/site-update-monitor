@@ -4,57 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 04 Oct 2026 20:17:20 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 23:21:42 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた</title>
-<link>https://qiita.com/songchong/items/02672765fe53f911a1a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>cbfd5ceb33709da7d8cbf2d1888a4edda2431817614c4a99d2728426a6dd3b50</guid>
-<pubDate>2026-10-05T02:13:59+09:00</pubDate>
-<description>「API キーが漏れた」と聞くと、悪意のある誰かに盗まれた場面を思い浮かべがちです。実際に多いのは、鍵を置いた場所が思ったより広く見えていた、という漏れ方です。 この記事では、公開されている報告と事例、そして私たちのサイトに実際に届いたアクセスの記録から、API キーが漏...</description>
+<title>【Qiita】 IBM Bob に「4 つの要素」を伝えてアニメーションを作る ― プロンプト 8 選</title>
+<link>https://qiita.com/c_u/items/cad33f1c7ede87c918a7</link>
+<guid>166e3acb528b1a39a2474a363401a0db394529ff003c7305cb3e3c839ff50dd9</guid>
+<pubDate>2026-10-05T08:02:25+09:00</pubDate>
+<description>はじめに Web サイトの背景、3D のテック感あるビジュアル、SNS 動画のオープニング……。こうした「動き」のあるコンテンツは、Canvas や Three.js、GSAP などのコードが使用されています。 本記事では、IBM Bob にプロンプトを書くだけでアニメ...</description>
 </item>
 <item>
-<title>【Qiita】 「シークレットスキャン」とは？漏れた API キー、誰が止めてくれるのか？ 業務システム 65 件と GitHub・GitLab を調べてみた</title>
-<link>https://qiita.com/songchong/items/5ee39ef5b71510e36c2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>b7dfd5127bdaa6ca2310d750e760e0c7d5b48237795bc97852673773c6316c21</guid>
-<pubDate>2026-10-05T04:05:48+09:00</pubDate>
-<description>API キーをうっかり GitHub に公開してしまったら、誰かが気づいて止めてくれるのでしょうか。GitHub には「シークレットスキャン」という仕組みがあります。ただ、その仕組みで自分の使っているシステムの鍵まで守られるのか、自分で何か設定する必要があるのかは、あまり...</description>
+<title>【Qiita】 IBM Power Virtual Server で割り当てメモリーがOS上で認識された値と異なる (RHELの例)</title>
+<link>https://qiita.com/c_u/items/8162e4eb13336166d12b</link>
+<guid>3e2a65e3f32464602c1455273a87280b14cee2ee359e1255322ffb884b347db4</guid>
+<pubDate>2026-10-05T08:02:03+09:00</pubDate>
+<description>はじめに IBM Power 環境では、VM（LPAR）作成時に割り当てたメモリー量と、OS 上で認識されるメモリー量が一致せず、OS 側が少なくなることがよくあります。これは、割り当てたメモリーの一部を PowerVM ハイパーバイザーがページテーブルや I/O 用の領...</description>
 </item>
 <item>
-<title>【Qiita】 Grok 4.6は何が変わったのか──Cursorとの連携が示す長時間AIエージェントの競争</title>
-<link>https://qiita.com/mhamadajp/items/bbeb3ebc4592c806b60a</link>
-<guid>ef7c1d103b52c2c8a62dd257dc3269a4c1bc4642c63b5f794d676b0395c4bc2d</guid>
-<pubDate>2026-10-05T05:11:59+09:00</pubDate>
-<description>作成日: 2026-08-23 Grok 4.6を「ベンチマークの順位が上がったモデル」とだけ見ると、変化の一部しか見えない。SpaceXAIはGrok 4.6を、調査、情報分析、コードベース横断、アプリケーションや成果物の作成といった、多段階で長く続く仕事を扱う long...</description>
+<title>【Qiita】 HENNGE AI設立：取締役2名以外の従業員を置かずAIエージェントが実務を担う組織と「AI Gateway」</title>
+<link>https://qiita.com/quotidia/items/9f7ee6638c6cc5a2dc63</link>
+<guid>f312cddc4182b6bfabdab4ce6f9c3a3ab06add0c5bb99628eb2ef428ff0f71d7</guid>
+<pubDate>2026-10-05T06:01:02+09:00</pubDate>
+<description>本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。 HENNGE (東京都渋谷区) は2026年10月1日(木)、新会社「HENNGE AI株式会社」を設立し、取締役2名以外の従業員を置かず、開発やカスタマーサポート、マーケティング、バックオフ...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>0af79b07b53f0effd4a7750921a73c9afc4c470bd6a3fbe9d2c10f7af1a8357b</guid>
-<pubDate>Sun, 04 Oct 2026 20:16:26 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>a602fa98a2faa3b855b9d4cefb84f6fd41047b8839c12878c218517bbb465670</guid>
+<pubDate>Sun, 04 Oct 2026 23:20:53 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>f84eda357ab93db6220739b31e59076a830b93fd3daa059d3aac66ede7eebaeb</guid>
-<pubDate>Sun, 04 Oct 2026 20:16:29 GMT</pubDate>
+<guid>cce7f3baed798a67c72b4333b3f3ca478aab48d3babdbba9d29403088cc20739</guid>
+<pubDate>Sun, 04 Oct 2026 23:20:57 GMT</pubDate>
 <description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>022ca875d1ab0cce2c932cdbabbd5e8342240f148d494625752ea3808301dd82</guid>
-<pubDate>Sun, 04 Oct 2026 20:16:32 GMT</pubDate>
-<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>26eb42247bb8db4a62ed4fddf8c576487b05228b80f6da8bf43397c0b1dfc923</guid>
-<pubDate>Sun, 04 Oct 2026 20:17:01 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<link>https://www.nature.com/articles/s41598-026-69355-z</link>
+<guid>8df383f2e1717fee799ad992447c5d325d1ce521f09dae42f39d63f6bf3b6170</guid>
+<pubDate>Sun, 04 Oct 2026 23:21:02 GMT</pubDate>
+<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
 </item>
 
 </channel>
