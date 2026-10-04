@@ -4,50 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 04 Oct 2026 12:38:22 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 17:12:17 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AI開発チームを設計する ― 役割分担・権限分離・コンテキスト設計</title>
-<link>https://qiita.com/Kotan-86/items/ccc5b6681aa940504aad</link>
-<guid>573e86180029b6ba3846a9229fb925abce120c276ba99399438e701835bf9ebe</guid>
-<pubDate>2026-10-04T21:31:08+09:00</pubDate>
-<description>個人開発、インターンでの開発、研究での開発、あらゆる場面でAIを常に使っています。その際、以下のフローで開発をしてきました。 対話セッションを立ち上げて仕様や設計を詰めて仕様書を書く 仕様書を書けたら、タスク分割を設計する タスクを分割したら、自ら立ち上げた複数のセッショ...</description>
+<title>【Qiita】 OpenAI dotsに何を任せていい？24時間働くAIの“任せる範囲”の決め方</title>
+<link>https://qiita.com/kinamocchi_tech/items/96eca14d41c170443310</link>
+<guid>cb93ba0a457394435873bd62ae1af3a55cb12052c437f9a75d349941c8d93488</guid>
+<pubDate>2026-10-05T02:08:41+09:00</pubDate>
+<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → OpenAI dotsに何を任せていい？24時間働くAIの“任せる範囲”の決め方 🐹🦜 この記事に登場する2匹 🐹 もっちー （ハムスター）…...</description>
 </item>
 <item>
-<title>【Qiita】 【ざっくり理解】LLMのFunction Callingはどこから来たのか？ ─ ReActからMCP・AIエージェントまで</title>
-<link>https://qiita.com/Tadataka_Takahashi/items/2d0af49099598316b5c6</link>
-<guid>6d5ad99c4ae95612b0e2dbcf9ff0a812563790b3e829eda345c457cdd3d79133</guid>
-<pubDate>2026-10-04T20:51:10+09:00</pubDate>
-<description>はじめに 最近は「AIエージェント」や「MCP」という言葉をよく見かけます。その土台の一つが、LLMに外部ツールを選ばせる Function Calling（Tool Use） です。 今では多くのLLM APIで利用できますが、最初から現在の形だったわけではありません...</description>
+<title>【Qiita】 Claude Codeの監査コマンド /doctor prompt-audit を、Skill・エージェント24本の自前構成で検証した</title>
+<link>https://qiita.com/fuji1009_REBELL/items/10a320e032953d898419</link>
+<guid>eaa85d0a5b229dd655e886b01e8642bd9207122a302f8657fab5a03aefc6da92</guid>
+<pubDate>2026-10-04T23:43:31+09:00</pubDate>
+<description>Claude Code v2.1.283（2026年9月25日リリース）で追加された /doctor prompt-audit（別名 /checkup prompt-audit）は、CLAUDE.md・Skill・エージェント定義・スラッシュコマンドを横断して「古いモデル向...</description>
 </item>
 <item>
-<title>【Qiita】 「エンジニア不要論の真実！」を読んでみて</title>
-<link>https://qiita.com/taki-umi/items/1ab4bce268e4aa6e7794</link>
-<guid>3c95f5d66fc6c61feb3d021f3676126fbc63b470e62a58c3aa35d527145616b5</guid>
-<pubDate>2026-10-04T20:04:42+09:00</pubDate>
-<description>プログラミングスクールJISOUを運営している渡邉 臣さん（@Sicut_study ）の以下記事を読んで率直に思った今の心境や、学び・気づいたこと、ネクストアクションをアウトプットします。 まず、自分はどんな人間なのか エンジニア歴は8年ほどで、現在はエンジニアチ...</description>
+<title>【Qiita】 世界モデルとは何か？ ― AIが「頭の中」で未来を試してから動く仕組み</title>
+<link>https://qiita.com/aokikenichi/items/d3309a2082c33fa8e6e2</link>
+<guid>baeff891a2b434899707bbf450d390fe7a82f738ded7b71b8177779421986c61</guid>
+<pubDate>2026-10-04T23:14:22+09:00</pubDate>
+<description>「Physical AI」という言葉だけが先行し、その中身が見えにくくなっています テキスト、画像、音声、動画で大きく進歩したAIに対して、「世界がどう変化するか」「自分が行動すると何が起きるか」を扱う世界モデルについて、日本語でまとまった情報はまだ多くありません。そ...</description>
 </item>
 <item>
-<title>【Qiita】 Kafkaのイベントを Claude に流す。イベント駆動 × LLM の接続パターンと勘所</title>
-<link>https://qiita.com/startdevin/items/09fee9423af551749261</link>
-<guid>9f7041fe68d4d52394447601fb7e25d6657197fc79d696c0213784c67d98ffe6</guid>
-<pubDate>2026-10-04T19:24:51+09:00</pubDate>
-<description>はじめに 「KafkaからClaude Codeって繋げられるの？」という問いから始まりました。注文やステータス変更やSlackの発言がKafkaに流れてくる環境で、そのイベントをトリガーにClaude（やClaude Codeで作ったエージェント）を動かしたい。イベント...</description>
+<title>【Qiita】 AI駆動開発時代の「テストの役割」論を、PHPUnitとCI/CDの実運用で検証してみた</title>
+<link>https://qiita.com/fuji1009_REBELL/items/694a82ca719a2af917a6</link>
+<guid>740d074d6bb5bf83f6e2a1338a3b557b790e1e798b2777a8f2d55267db693273</guid>
+<pubDate>2026-10-04T22:39:31+09:00</pubDate>
+<description>「AIがコードを書く時代なら、テストはもう要らないのでは」という話を聞くたびに、私は少し違和感を持っていた。実際に手を動かしてみると、テストが要らなくなるのではなく、テストに求められる役割そのものが変わるという方が実感に近い。 この違和感を考える手がかりになったのが、ABA...</description>
 </item>
 <item>
-<title>【Qiita】 Nvidia記事で『動的な異常検知は0個』と書いた2日後、自分のタスクが外部の分類器に2回ブロックされていた</title>
-<link>https://qiita.com/Hideki_Tamae/items/493fbda6eb6b4ac39ab5</link>
-<guid>f1a2d1e6da025a0ec12791a526474a9d42df2a06f1055128a5523fd9cfb425b1</guid>
-<pubDate>2026-10-04T15:36:04+09:00</pubDate>
-<description>はじめに 0。 2026年10月2日に自分が書いた記事で、「このパイプラインを、自分の判断を介さず外部から動的に止める仕組みは0個だった」と結論づけました。今日、その数字を訂正しなければならない出来事が、このまさに今の記事を書いている最中に2回起きました。 きっかけは、O...</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>747f416df19dcb0821edefc98ec99d43418aca07860821afe88390120aac49e1</guid>
-<pubDate>Sun, 04 Oct 2026 12:38:06 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>910367eaf70cfe986f784079815440f01dd92c3f329170c5cd5157fee2c12b36</guid>
+<pubDate>Sun, 04 Oct 2026 17:12:02 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
