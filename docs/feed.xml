@@ -4,56 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 04 Oct 2026 00:14:43 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 06:06:52 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 マルチエージェントが失敗する4つの境界と、委任前に決めたいこと</title>
-<link>https://qiita.com/Xim2jp/items/13b364974cc986527420</link>
-<guid>8418a2573c4a2db4eb281064e38609f5c7948345d9b5fcafc3841e029fe845a2</guid>
-<pubDate>2026-10-04T08:26:15+09:00</pubDate>
-<description>「エージェントを増やせば、仕事も速くなるはず」と考えたとき、先に決めたいのが仕事の渡し方です。親が知っている仕様を子も知っているとは限らず、子の「完了しました」だけでは成果物の正しさを判断できません。 ここでは、仕事を分解して統合する親を「司令塔」、担当範囲だけを作業する子...</description>
+<title>【Qiita】 DeepSeek Harness は Codex のハーネスと何が違う？ 中身を読んで、Claude Code・Codex に流用できる書き方を探す</title>
+<link>https://qiita.com/Takuya__/items/57fd8a2891eae291fb81</link>
+<guid>a7d003a159e627232a85ca0e650628a5c5084563c84880e3a1d6aee52001e6e4</guid>
+<pubDate>2026-10-04T14:06:51+09:00</pubDate>
+<description>はじめに：モデルより「外側」で差がつく時代に、DeepSeek が外側を丸ごと公開した コーディングエージェントを毎日使っていると、「同じモデルなのに、道具が変わると出来が変わる」と感じる場面が増えてきました。モデルに何を見せるか、どの道具を渡すか、危ない操作をどこで止...</description>
 </item>
 <item>
-<title>【Qiita】 仕事が忙しいので、プライベートに AI 秘書を雇ってみた</title>
-<link>https://qiita.com/araom/items/83f8180524500f685416</link>
-<guid>6a78976434ffc03e5fab6b4210958622cd86edb1980d09a9f6cb4af394aae96e</guid>
-<pubDate>2026-10-04T08:01:52+09:00</pubDate>
-<description>はじめに 本記事は、AI エージェント（Claude Code）を「秘書」にする取り組みを、プライベートで5日間（2026-09-29〜10-03）試した記録です。 業務では、すでに AI エージェントを開発作業に使っています。 ただ、メールや税金の手続きまで任せる「秘書...</description>
+<title>【Qiita】 Run a short-lived Vast.ai GPU job from Hermes Agent or OpenClaw</title>
+<link>https://qiita.com/zackchew67/items/06d90a67ed625f6dcdfd</link>
+<guid>346a54f7380d001585b4776514d18d5852a321190e33187c4925bf4986053520</guid>
+<pubDate>2026-10-04T12:19:49+09:00</pubDate>
+<description>A bot on a CPU server can control a short-lived cloud GPU job: it quotes the cost, rents a Vast.ai machine on your account, runs the job ...</description>
 </item>
 <item>
-<title>【Qiita】 AI変革を成功させるのは「賢さ」だけではない──Work IQを信頼設計として読む</title>
-<link>https://qiita.com/mhamadajp/items/26972e8aaf179ad42a51</link>
-<guid>648837ead561b083b45d239fef0c68b17bbb4b9034374703cfe40dedaf94c361</guid>
-<pubDate>2026-10-04T06:35:37+09:00</pubDate>
-<description>作成日: 2026-08-19 企業で生成AIを導入すると、ある段階で似た問題にぶつかる。モデルは高性能なのに、回答が一般論に見える。社内のメール、会議、ファイル、CRMに情報はあるのに、AIへ安全に渡せない。エージェントへ仕事を任せたいが、権限・承認・監査が曖昧で本番化で...</description>
+<title>【Qiita】 文章を書かずに「選ぶだけ」のAI、Jevが続々登場？任せ方を整理｜10/4のQiitaトレンド20本をポッドキャストで</title>
+<link>https://qiita.com/ennagara128/items/25c2b4895ebcc875ca44</link>
+<guid>8e6bf1d285b1a7c7740786641e3d57857f468cbbb1fd8174dc5756e448215f43</guid>
+<pubDate>2026-10-04T12:02:46+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 新しい日本語推敲スキル「yomiyasu」がバ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code mods 入門、TypeScript で挙動と UI を拡張する</title>
-<link>https://qiita.com/kai_kou/items/ad16b47644f9ad0b03c7</link>
-<guid>f0160afee3b9db5f84270a78a1939fda4a194a4b554f2ce7c56e39edf54fa49a</guid>
-<pubDate>2026-10-04T09:04:58+09:00</pubDate>
-<description>はじめに 2026年10月1日、Anthropic が Claude Code の新しい拡張機構 mods を発表しました（公式ブログ）。mods は Claude Code の内部で動く JavaScript / TypeScript の関数で、ツール呼び出しの許可・拒...</description>
-</item>
-<item>
-<title>【Qiita】 【2026年10月版】Claude Code・Copilot・Cursor・Windsurf・Codeiumを実装目線で比較する ― セットアップ・運用コード付き</title>
-<link>https://qiita.com/sescore/items/80adc15d3f9e3da8ce30</link>
-<guid>aaaab0553e344fd91c69785a9a744012b70540acce9093cc1b7cb15906752dce</guid>
-<pubDate>2026-10-04T08:07:39+09:00</pubDate>
-<description>はじめに 2026年10月現在、AIコーディングツールは「使うかどうか」ではなく「どれを、どういう設定で、どう組み合わせるか」を考える段階に入っています。本記事では主要5ツール — Claude Code / GitHub Copilot / Cursor / Winds...</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>1ff77e2a1cfde09fa2068ee966cefccd904f121d119a025321caf84b51c0cf74</guid>
-<pubDate>Sun, 04 Oct 2026 00:14:01 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 6言語で同じ動きを再現したら、正解に対する再現率は約49%だった</title>
+<link>https://qiita.com/ishizakahiroshi/items/2442e50dc7cb3fc79b6b</link>
+<guid>85880275a75277c1d850a88c3605367fa531f2993662304ad02971ab46ec0cc6</guid>
+<pubDate>2026-10-04T10:49:31+09:00</pubDate>
+<description>既存テストから取り出した178件の期待値に、6つの実装が全部通りました。その直後、独立した正解データで静的解析の再現率を測ると、約49%。AIエージェントと進めていた多言語への書き換えで、比べる基準を取り違えていたことが見えてきました。今回の公開採点基準 満点の隣に、半分し...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>b9fd45ad55c2697f4d78a146210a1df3fc78163eca13cdcd1cf9bbb5cd5cc87e</guid>
-<pubDate>Sun, 04 Oct 2026 00:14:05 GMT</pubDate>
+<guid>9fa5745c13fd00f3e98e5cb0c24d5e90d67526e2bd373852360af6fd548ddbe7</guid>
+<pubDate>Sun, 04 Oct 2026 06:06:07 GMT</pubDate>
 <description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/d41586-026-02994-4</link>
+<guid>13693315a42b42ed457596b50616df0b147d72e613dbb39e60af9c1527f3c7b0</guid>
+<pubDate>Sun, 04 Oct 2026 06:06:09 GMT</pubDate>
+<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>b448068196da07f77d1d5045d6b78a0cda12b7eb14a941570c3b3f51d5e252fa</guid>
+<pubDate>Sun, 04 Oct 2026 06:06:38 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
