@@ -4,50 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 03 Oct 2026 21:35:21 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 00:14:43 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIを使う前にマクロを使え──先撃ちで表の修正が0.1秒、Geminiと決意した夜の話</title>
-<link>https://qiita.com/shu15511551/items/1941cd71b04e8da039d8</link>
-<guid>ae7c45e1e54897ee2a4921957c218ae68fe905db4b90efef76a957271d065783</guid>
-<pubDate>2026-10-04T04:49:40+09:00</pubDate>
-<description>はじめに 週間制限も期間の半ばなのに、設計役として頼りにしている Claude が「今週の利用枠の上限に近づきました」と静かな警告を出し、お休みに入りました。 AI エージェントと二人三脚で道具を鍛えていると、定期的にこの瞬間が訪れます。Claude が目覚めるまでの間、...</description>
+<title>【Qiita】 マルチエージェントが失敗する4つの境界と、委任前に決めたいこと</title>
+<link>https://qiita.com/Xim2jp/items/13b364974cc986527420</link>
+<guid>8418a2573c4a2db4eb281064e38609f5c7948345d9b5fcafc3841e029fe845a2</guid>
+<pubDate>2026-10-04T08:26:15+09:00</pubDate>
+<description>「エージェントを増やせば、仕事も速くなるはず」と考えたとき、先に決めたいのが仕事の渡し方です。親が知っている仕様を子も知っているとは限らず、子の「完了しました」だけでは成果物の正しさを判断できません。 ここでは、仕事を分解して統合する親を「司令塔」、担当範囲だけを作業する子...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code Modsは一番深く拡張できて、一番持ち運べない — 直近のアップデート13個を★で評価（2026/10/3時点）</title>
-<link>https://qiita.com/faruryo/items/c075c8c3d664c38f2384</link>
-<guid>ba243be9adffdabf052c12c507cb98da014413334055b11a31977fa0e9b5aa39</guid>
-<pubDate>2026-10-04T04:35:09+09:00</pubDate>
-<description>仕事中もプライベートでも、ご飯を食べながらでもトイレの中でもAIエージェントを触っている私が、Claude Code 2.1.283〜2.1.288（2026-09-25〜10-02）の変更13個に★を付けました。基準は、自分の作業がどれだけ良くなったか（なりそうか）です。...</description>
+<title>【Qiita】 仕事が忙しいので、プライベートに AI 秘書を雇ってみた</title>
+<link>https://qiita.com/araom/items/83f8180524500f685416</link>
+<guid>6a78976434ffc03e5fab6b4210958622cd86edb1980d09a9f6cb4af394aae96e</guid>
+<pubDate>2026-10-04T08:01:52+09:00</pubDate>
+<description>はじめに 本記事は、AI エージェント（Claude Code）を「秘書」にする取り組みを、プライベートで5日間（2026-09-29〜10-03）試した記録です。 業務では、すでに AI エージェントを開発作業に使っています。 ただ、メールや税金の手続きまで任せる「秘書...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント全史｜スキル標準化からセキュリティ悪夢、PoC地獄を越えて自己改善する時代へ【総集編・2026最新補足つき】</title>
-<link>https://qiita.com/kinamocchi_tech/items/754c8dab12da7fa47548</link>
-<guid>e4ab338c2829fbcd06b682c5941d5d793f2af2fc607ec06a342063a23925f7c8</guid>
-<pubDate>2026-10-04T04:16:12+09:00</pubDate>
-<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → AIエージェント全史｜スキル標準化からセキュリティ悪夢、PoC地獄を越えて自己改善する時代へ【総集編・2026最新補足つき】 🐹🦜 この記事に登場す...</description>
+<title>【Qiita】 AI変革を成功させるのは「賢さ」だけではない──Work IQを信頼設計として読む</title>
+<link>https://qiita.com/mhamadajp/items/26972e8aaf179ad42a51</link>
+<guid>648837ead561b083b45d239fef0c68b17bbb4b9034374703cfe40dedaf94c361</guid>
+<pubDate>2026-10-04T06:35:37+09:00</pubDate>
+<description>作成日: 2026-08-19 企業で生成AIを導入すると、ある段階で似た問題にぶつかる。モデルは高性能なのに、回答が一般論に見える。社内のメール、会議、ファイル、CRMに情報はあるのに、AIへ安全に渡せない。エージェントへ仕事を任せたいが、権限・承認・監査が曖昧で本番化で...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code mods 入門、TypeScript で挙動と UI を拡張する</title>
+<link>https://qiita.com/kai_kou/items/ad16b47644f9ad0b03c7</link>
+<guid>f0160afee3b9db5f84270a78a1939fda4a194a4b554f2ce7c56e39edf54fa49a</guid>
+<pubDate>2026-10-04T09:04:58+09:00</pubDate>
+<description>はじめに 2026年10月1日、Anthropic が Claude Code の新しい拡張機構 mods を発表しました（公式ブログ）。mods は Claude Code の内部で動く JavaScript / TypeScript の関数で、ツール呼び出しの許可・拒...</description>
+</item>
+<item>
+<title>【Qiita】 【2026年10月版】Claude Code・Copilot・Cursor・Windsurf・Codeiumを実装目線で比較する ― セットアップ・運用コード付き</title>
+<link>https://qiita.com/sescore/items/80adc15d3f9e3da8ce30</link>
+<guid>aaaab0553e344fd91c69785a9a744012b70540acce9093cc1b7cb15906752dce</guid>
+<pubDate>2026-10-04T08:07:39+09:00</pubDate>
+<description>はじめに 2026年10月現在、AIコーディングツールは「使うかどうか」ではなく「どれを、どういう設定で、どう組み合わせるか」を考える段階に入っています。本記事では主要5ツール — Claude Code / GitHub Copilot / Cursor / Winds...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>6c1a52f5c40193c05516da2f6211dfe0277c6762bac56633488273a1ebf4b71c</guid>
-<pubDate>Sat, 03 Oct 2026 21:34:29 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>1ff77e2a1cfde09fa2068ee966cefccd904f121d119a025321caf84b51c0cf74</guid>
+<pubDate>Sun, 04 Oct 2026 00:14:01 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>173b555968c9e983ea91d102c4d994f4131f61f6e3df6191917bedaa728e16f8</guid>
-<pubDate>Sat, 03 Oct 2026 21:34:33 GMT</pubDate>
+<guid>b9fd45ad55c2697f4d78a146210a1df3fc78163eca13cdcd1cf9bbb5cd5cc87e</guid>
+<pubDate>Sun, 04 Oct 2026 00:14:05 GMT</pubDate>
 <description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>9ae513d81abf7cbba0a9e8a8e2aaa3b709003de64063806aa7f6b99255110e45</guid>
-<pubDate>Sat, 03 Oct 2026 21:35:03 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
