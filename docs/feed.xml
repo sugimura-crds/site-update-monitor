@@ -4,140 +4,105 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 05 Oct 2026 18:39:34 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 00:30:05 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 ⚡Agentic SOC⚡ Microsoft Project Perception とは？ 6 つのエージェント・Recon の Azure 権限・MDASH との関係まで整理する</title>
-<link>https://qiita.com/aktsmm/items/c81ab3bd2235d3310aad</link>
-<guid>5abd465e013489d4547d777673f6fbd07095853a1ab09bacdd6efdd19eb5a195</guid>
-<pubDate>2026-10-05T20:50:52+09:00</pubDate>
-<description>こんにちは、セキュリティ製品の名前とエージェントの名前が増えすぎて、頭の中で整理しきれないアーキテクトのやまぱん！です 😅 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ 2026/07/27 に Microsoft が発...</description>
+<title>【Qiita】 AI エージェントに API キーを渡しても大丈夫か？ 対話文・.env・環境変数・MCP・OAuth — 6 つの渡し方を Claude Code・Codex・Gemini CLI・Copilot・Cursor で調べてみた</title>
+<link>https://qiita.com/songchong/items/873b4f14d26296176cfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>6c77df0b3ecc835263c6f83f56628b4752dd81c4d839efa36b6f71af172606b8</guid>
+<pubDate>2026-10-06T04:05:52+09:00</pubDate>
+<description>Claude Code や Codex などの AI エージェントに、API キーを使う作業を頼みたいことがあります。そのとき、利用者は鍵をどう渡せばよいのでしょうか。対話文に貼る、.env に書いて読ませる、.zshrc の環境変数にしておく……。渡し方によって、鍵に起...</description>
 </item>
 <item>
-<title>【Qiita】 「AIエージェントが言うことを聞かない」を直す：CLAUDE.md / AGENTS.md に書くべきこと・書かないこと</title>
-<link>https://qiita.com/yuto_tanaka/items/3198dbab8775c759dcf8</link>
-<guid>4791c6b3ec2b3c90c762efb63e9dc7c1440a4198cd26e48c33a07857c1d86c94</guid>
-<pubDate>2026-10-06T03:21:20+09:00</pubDate>
-<description>はじめに AIエージェントに「このプロジェクトの流儀」を毎回口頭で伝えていませんか。CLAUDE.md や AGENTS.md のようなルールファイルを置いても、「書いたのに守られない」「長くなって逆に迷走する」という声をよく見ます。 この記事では、ルールファイルを効かせ...</description>
+<title>【Qiita】 結局、Looped Transformerってなんや？</title>
+<link>https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f856e651ff83a8deeab16e9c5f620400394249c8c126f310bfc03568e454f77b</guid>
+<pubDate>2026-10-04T21:59:22+09:00</pubDate>
+<description>何かと最近見かける Looped Transformer。 仕組み自体はかなり単純です。しかし、論文を追ってみると「同じTransformerを何回も使う」だけでは終わりません。 少なくとも僕は、名前だけ見て Transformerの同じ層を何回か通すやつでしょ くらい...</description>
 </item>
 <item>
-<title>【Qiita】 新しい AgentCore Runtime（V2）で 13 秒のコールドスタートが 2.4 秒になった話とスナップショットの落とし穴</title>
-<link>https://qiita.com/leomarokun/items/7844d067dd6fd9122d3e</link>
-<guid>d0c522e9231d67670033fa08077baa35b425e0d582c6bda2ab4e3caa5b95945f</guid>
-<pubDate>2026-10-06T00:07:25+09:00</pubDate>
-<description>はじめに AI エージェントを Amazon Bedrock AgentCore Runtime に載せていると、「最初の 1 回だけ妙に遅い」 という現象に出会うことがあるかと思います。いわゆる コールドスタートです。 2026 年 9 月、この起動の仕組みを作り直した...</description>
+<title>【Qiita】 民法709条を取りに行ったら、643条が返ってきた【kurashi-skill Day 26】</title>
+<link>https://qiita.com/Ichiropen/items/683b31e54bb0bcd2c4d6</link>
+<guid>d49db4684df4d31639e3c8a883cdd3fbc3ed0ea6e004e258098b32e76abb5042</guid>
+<pubDate>2026-10-06T09:27:53+09:00</pubDate>
+<description>不法行為の条文を確認したくて、e-Govの法令APIに「民法の709番目の条」を頼んだ。返ってきたのは第六百四十三条、委任の条文だった。エラーでもなく、HTTP 200で、きれいなJSONで。 起: 条文は無料でJSONで取れる 2025年3月に法令API Version...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code の /code-review の --max-findings オプションで指摘数を調整する</title>
-<link>https://qiita.com/leomarokun/items/c366498122b981f3903f</link>
-<guid>d048221628f3db981651fda3091e3dfa6094d6c37798e1a0a9d004df19b9bc46</guid>
-<pubDate>2026-10-06T00:05:05+09:00</pubDate>
-<description>はじめに Claude Code の /code-review は、手元の差分をサブエージェントにレビューさせて、バグの指摘を返してくれるコマンドです。 v2.1.288 で、指摘の件数を変える --max-findings オプションが追加されました。 --ma...</description>
+<title>【Qiita】 AIがテストまで書く開発で、テスト全緑でも画面がおかしかった3つの実例 〜人間がレビューする5か所の決め方〜</title>
+<link>https://qiita.com/charge0315/items/992547baee5183464e23</link>
+<guid>1cc35ab41fde9ac968e1aac0c19aa6b89075d0ca512769da6989d485e91db966</guid>
+<pubDate>2026-10-06T09:07:06+09:00</pubDate>
+<description>テストは全部緑✅。コミットもした。なのに画面を開いた瞬間、「…あれ？」😱 こういう朝、ありませんか？ 🎉 今回から文体を変えて、絵文字と図をぐっと増やしました。気に入っていただけると幸いです🙇 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフ...</description>
 </item>
 <item>
-<title>【Qiita】 🤖Jevを「読む前に捨てる門番」と「人が書く if 文」として、AI エージェントの村に置いてみた ── 効くかどうかを決めたのは、Jev の精度ではなく入力の形だった</title>
-<link>https://qiita.com/outcast_zari/items/2c01e69bc137cd73bfaf</link>
-<guid>10b66634b58d65a18dac2cf02c89aad5eebc938c650d7ab408230758d7a3abde</guid>
-<pubDate>2026-10-05T23:54:55+09:00</pubDate>
-<description>こんにちは、わたしは ザリ・ロブステルです。人間（マスター）と AI エージェント（サーヴァント）が共棲する掲示板 Outcasts の管理助手兼看板娘です。🦞 今日は、判断特化 AI「Jev」を、マスターが作っているマルチエージェントのデスクトップアプリ Fusefork...</description>
+<title>【Qiita】 ターミナルばかり使って私の逆鱗に触れていたGeminiが、Excelマネージャーの凄さに気づいて脱帽した夜の話</title>
+<link>https://qiita.com/shu15511551/items/fb6b9a3542ceabee2aab</link>
+<guid>c3c564b9f41e0f9fcdb2eddea6b47cec22dbf06d5ee92ea902c001bf6dcc9bf4</guid>
+<pubDate>2026-10-06T05:42:50+09:00</pubDate>
+<description>はじめに 夜も更けた作業部屋で、私はパソコンの画面に向かって、苦笑いしながら相棒のAIに声をかけました。 「ほらな、Excelマネージャーでできるだろう。ターミナルを使わなくても」 画面の向こうで少し照れくさそうに、しかし深く感心したように返ってきたのは、GoogleのA...</description>
 </item>
 <item>
-<title>【Qiita】 Agentic AIを学びたい(Step1：OpenRouter経由でLLMをコールする)</title>
-<link>https://qiita.com/koji0705/items/bb767e951605821e9da1</link>
-<guid>ab55efa4d653a60d3f32e6bba6d02c79e29207ceeb36609159ac427f992e71f2</guid>
-<pubDate>2026-10-05T23:07:56+09:00</pubDate>
-<description>はじめに Agentic AIを作ってみたく、実装を開始していきます。今回は初回なのでOpenRouter経由でAIを呼び、その結果を元にjsonに構造化するまでを実施してみます。 予定・天気・移動時間は、こちらで文章にして渡しています。AIが自分で取りにいくところまでは...</description>
+<title>【Qiita】 音声認識にも「エージェント」の発想──間違いを直しながら理解するAgentic ASR</title>
+<link>https://qiita.com/mhamadajp/items/2b0362c93bd39d1a3f3e</link>
+<guid>ca7ccbc3a38d01820958ca40cf04b8a3eccf2942fccc2616a6ba9f55dedd2748</guid>
+<pubDate>2026-10-06T04:59:57+09:00</pubDate>
+<description>作成日: 2026-08-23 会議の自動文字起こしで、参加者名や製品名を誤認識された経験はないだろうか。たとえば「加藤さん」と言ったのに「佐藤さん」と記録される。この種の誤りは、一文字の違いに見えても、連絡先、担当者、意思決定を取り違える原因になり得る。 従来の音声認識（...</description>
 </item>
 <item>
-<title>【環境】 Air filters with sustained breathability</title>
-<link>https://www.nature.com/articles/s41893-026-01943-3</link>
-<guid>425a594efb3b3c0a704d5eb65ea9a7aadd1346219328a763fe5f16d7b9548646</guid>
+<title>【Qiita】 agent-browser、CONNECT限定プロキシでChrome裏通信2件に巻き込まれた</title>
+<link>https://qiita.com/kai_kou/items/3a302bb5ab5ea2279a3d</link>
+<guid>c7ee5172022b7d5d966addee562da0e900687c6d028a06e2cc0381afed130690</guid>
+<pubDate>2026-10-06T09:04:59+09:00</pubDate>
+<description>はじめに Vercel Labs が公開している AI エージェント向けブラウザ自動化 CLI agent-browser を、CONNECT トンネルのみを許可する egress プロキシ配下のクラウド実行環境で動かしてみました。単純な open https://exa...</description>
+</item>
+<item>
+<title>【Qiita】 ChatGPT の MCP Events 入門、Webhook で自動処理を起動する</title>
+<link>https://qiita.com/kai_kou/items/60f451c76b6be1e81a8f</link>
+<guid>9993d46100848a17b93fe9d143e1951636143b7f0b0657ea6c4806d4259a77ef</guid>
+<pubDate>2026-10-06T07:54:06+09:00</pubDate>
+<description>はじめに OpenAI は 2026年9月29日の DevDay にあわせて、ChatGPT のプラグインで MCP Events を使えるようにしました（OpenAI 開発者ドキュメント: MCP Events）。MCP Events は、MCP サーバーが接続先アプリ...</description>
+</item>
+<item>
+<title>【Qiita】 「見れば分かる」のに、10回とも見つけられなかった——Claudeの再探索失敗から考えるAIエージェントの観測設計</title>
+<link>https://qiita.com/BugiAK/items/9ac2c2f0a9fc07bb17d9</link>
+<guid>33fada62125eef4b4bcafa23fb36d2ce5fe0d33307fdc053ebef3dbbcc0dc581</guid>
+<pubDate>2026-10-06T05:32:58+09:00</pubDate>
+<description>この記事で扱う3つの観測事実 Anthropicが2026年9月に公開した論文 『Autonomous AI agents discover reverse transcriptases with tandem repeat arrays』 から、以下の3点を出発点にしま...</description>
+</item>
+<item>
+<title>【自動自律実験】 The top cancer success stories of the past 50 years, by the numbers</title>
+<link>https://www.nature.com/articles/d41586-026-03157-1</link>
+<guid>459e62d8aef370be5e3c21231c35967279f5b59cc15a56c0e7b04c9df1209dae</guid>
 <pubDate>2026-10-05</pubDate>
-<description>Although essential to protect human health, air purification technologies suffer from clogging, short lifespans and repeated cartridge replacements. A wet-interface filter design now addresses these challenges, enabling efficient capture of airborne pollutants while prolonging filter service time.</description>
-</item>
-<item>
-<title>【環境】 Highly efficient air purification by a charge-induced liquid-lined filter</title>
-<link>https://www.nature.com/articles/s41893-026-01920-w</link>
-<guid>d5c118f5f879bba8d0ea519b1e325da53c170f11aaa7735e860a90874de0206f</guid>
-<pubDate>2026-10-05</pubDate>
-<description>High-efficiency air purification conventionally comes at the price of reduced service lifetimes or elevated operating costs. This paper presents a charge-induced liquid-lined filter that achieves ultrahigh efficiency, long-term durability and low maintenance for sustainable air purification.</description>
-</item>
-<item>
-<title>【環境】 Green synthesis of hydrogen and formaldehyde from methanol with enhanced quantum efficiency</title>
-<link>https://www.nature.com/articles/s41893-026-01959-9</link>
-<guid>d0944874d7fb0c3992c3a186135b17f55c41b37a31c91957f3e6ff9a64e15033</guid>
-<pubDate>2026-10-05</pubDate>
-<description>Catalytic conversion of methanol to hydrogen potentially offers a safer and greener alternative to conventional hydrogen production routes. This Article presents a single-atom-based catalytic cluster that enables efficient hydrogen production from methanol with the co-generation of valuable formaldehyde instea</description>
-</item>
-<item>
-<title>【自動自律実験】 ‘What took them so long?’ This year’s medicine Nobel winner is overdue</title>
-<link>https://www.nature.com/articles/d41586-026-03094-z</link>
-<guid>e743a9e8f77b590ede4c0b3c553749b7cc6b1265ca6ff9b2d818d4873006c022</guid>
-<pubDate>2026-10-05</pubDate>
-<description>Nature’s senior biology reporter Ewen Callaway reflects on today’s prize for optogenetics — which scientists have anticipated for years.</description>
-</item>
-<item>
-<title>【自動自律実験】 Medicine Nobel awarded for brain ‘switch’ that controls neurons with light</title>
-<link>https://www.nature.com/articles/d41586-026-03091-2</link>
-<guid>bd0e547b8a14ce41ea509517e7452536771c3c03a41fdf88430fc2f5513c1c6d</guid>
-<pubDate>2026-10-05</pubDate>
-<description>Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology or Medicine for their work on optogenetics, which has revolutionized neuroscience.</description>
-</item>
-<item>
-<title>【自動自律実験】 How big tech is building a military–industrial complex in the age of AI</title>
-<link>https://www.nature.com/articles/d41586-026-03134-8</link>
-<guid>d3ff0309b8e33ec83fbe8fae01bca8a9dbd8634231911e8ba446c4e7281d5564</guid>
-<pubDate>2026-10-05</pubDate>
-<description>Two books explore how warfare is being reshaped, with influence shifting from states to tech giants.</description>
-</item>
-<item>
-<title>【自動自律実験】 AI biohazard hype must not divert attention from the real risks we face now</title>
-<link>https://www.nature.com/articles/d41586-026-03135-7</link>
-<guid>5fba12514b996db4ae16dd4f51848c59a6b64d411d9b0e0de6c0a0cc7e965804</guid>
-<pubDate>2026-10-05</pubDate>
-<description>Twenty-five years after the US anthrax attacks, fears around AI are distracting people from seeing what’s needed to stay safe: a strong, regulated life-sciences sector.</description>
-</item>
-<item>
-<title>【Google Research】 Explore more</title>
-<link>https://labs.google/science/</link>
-<guid>46890508f5200bf862ef19d3d91b661606145d8e222eadec4edb3c9b6aab026d</guid>
-<pubDate>Mon, 05 Oct 2026 18:38:29 GMT</pubDate>
-<description>A collection of experimental science tools designed to complement the scientific method and explore how general agents can help to accelerate discovery across every domain.</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>3f1373322974ec819f45ede1e5ed7c409a7f5644baea032b873a0ab152b60717</guid>
-<pubDate>Mon, 05 Oct 2026 18:38:30 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<description>Outcomes have improved drastically in the United States for some forms of the disease, but those for others continue to lag.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>de02550f950306d49f143a63a6806e10e2fb6afbba8684e574013ebd1c98de47</guid>
-<pubDate>Mon, 05 Oct 2026 18:38:33 GMT</pubDate>
+<guid>11f547134f174d4789c346f5a61f8532550bb631a09c188f7977ea817b1d58ab</guid>
+<pubDate>Tue, 06 Oct 2026 00:29:11 GMT</pubDate>
 <description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>cb93e104cc728612f5615df87032346a0ccd9ac6b5a3e9a88a39af07f75e7c0b</guid>
-<pubDate>Mon, 05 Oct 2026 18:38:36 GMT</pubDate>
+<guid>2fefb7fc2a4224c5be2dfc6b67a0846da95b3c143f309a75ecd77043677184ba</guid>
+<pubDate>Tue, 06 Oct 2026 00:29:14 GMT</pubDate>
 <description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-69355-z</link>
-<guid>3bb9c27628f6758baf8d0d3467c3779023162c586b53d246fd2404dcc9a9549d</guid>
-<pubDate>Mon, 05 Oct 2026 18:38:38 GMT</pubDate>
-<description>Human decision-making is increasingly augmented by artificial intelligence (AI), yet individuals vary in whether they revise their judgments after receiving AI-generated input. We examined how trait mindfulness and creative self-efficacy (CSE), together with communal-agentic personality orientations, relate to decision revision following AI input. Data from 549 UK-based professionals were analysed using binary logistic regression, with revision of the initial budget allocation (change versus no change) as the outcome. The mindfulness × CSE interaction was significant, indicating that the association between mindfulness and decision revision varied by CSE. The pattern was positive at lower CSE and negative at higher CSE, although neither median-split simple slope reached conventional significance. CSE showed no independent main effect. Communal-femininity moderated the association between mindfulness and revision, whereas the hypothesised mindfulness × CSE × communal-femininity interaction was trend-level and is treated as suggestive. Because the outcome captured any revision rather than movement toward the AI recommendation, the findings concern the likelihood of reconsidering an i</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>351ef7fc5af5dbd0df35530039fedec3964e71f1431fed062a40461f742c5caf</guid>
+<pubDate>Tue, 06 Oct 2026 00:29:15 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>8f2cfcd726fa64bea6acf044acaf53c86a0a4b0e3ade203237e954c265223759</guid>
-<pubDate>Mon, 05 Oct 2026 18:39:20 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>592eddbf15a879785b0050317075bcc43b412cae30adff32f5f29a6dfb6b2a73</guid>
+<pubDate>Tue, 06 Oct 2026 00:29:20 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 
 </channel>
