@@ -4,105 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 06 Oct 2026 00:30:05 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 06:43:39 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AI エージェントに API キーを渡しても大丈夫か？ 対話文・.env・環境変数・MCP・OAuth — 6 つの渡し方を Claude Code・Codex・Gemini CLI・Copilot・Cursor で調べてみた</title>
-<link>https://qiita.com/songchong/items/873b4f14d26296176cfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>6c77df0b3ecc835263c6f83f56628b4752dd81c4d839efa36b6f71af172606b8</guid>
-<pubDate>2026-10-06T04:05:52+09:00</pubDate>
-<description>Claude Code や Codex などの AI エージェントに、API キーを使う作業を頼みたいことがあります。そのとき、利用者は鍵をどう渡せばよいのでしょうか。対話文に貼る、.env に書いて読ませる、.zshrc の環境変数にしておく……。渡し方によって、鍵に起...</description>
+<title>【Qiita】 GitSpawnがClaude Codeを含む7エージェントを脆弱と報じた日、自分のgit設定ファイルの危険項目は0件だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/3d2f0b45de34031548b4</link>
+<guid>3097c9dd1fc8fae5a231bb9f7212d5cf38996c701a5bf0fb3ea191b27f36c8a3</guid>
+<pubDate>2026-10-06T15:36:16+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、「GitSpawn」という名前で報じられた脆弱性—悪意のある.git/configの設定だけで、承認プロンプトが出る前にコーディングエージェントへ攻撃者のコードを実行させられるという報告—を確認した後、自分がZenn...</description>
 </item>
 <item>
-<title>【Qiita】 結局、Looped Transformerってなんや？</title>
-<link>https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>f856e651ff83a8deeab16e9c5f620400394249c8c126f310bfc03568e454f77b</guid>
-<pubDate>2026-10-04T21:59:22+09:00</pubDate>
-<description>何かと最近見かける Looped Transformer。 仕組み自体はかなり単純です。しかし、論文を追ってみると「同じTransformerを何回も使う」だけでは終わりません。 少なくとも僕は、名前だけ見て Transformerの同じ層を何回か通すやつでしょ くらい...</description>
+<title>【Qiita】 AIが急に賢くなった正体は「巨大化」だけじゃなかった！ 性能を上げる5つの仕組みをたとえ話で理解しよう</title>
+<link>https://qiita.com/nolanlover0527/items/fd5f39359c7a9cd68a0f</link>
+<guid>c6273d0e2615cac7a254dc02e497ae395e9a8d6b5542c83ac6662867e63e88ad</guid>
+<pubDate>2026-10-06T15:25:18+09:00</pubDate>
+<description>AIの性能向上は5つの方向で説明できる 最近のAIは、数年前と比べて別物のように賢くなりました。 コードを書く、長い資料の分析、数学の問題を解く。 そうした場面で、その差を実感している人も多いはずです。 では、その性能はどうやって上げているのでしょうか。 結論から言うと、...</description>
 </item>
 <item>
-<title>【Qiita】 民法709条を取りに行ったら、643条が返ってきた【kurashi-skill Day 26】</title>
-<link>https://qiita.com/Ichiropen/items/683b31e54bb0bcd2c4d6</link>
-<guid>d49db4684df4d31639e3c8a883cdd3fbc3ed0ea6e004e258098b32e76abb5042</guid>
-<pubDate>2026-10-06T09:27:53+09:00</pubDate>
-<description>不法行為の条文を確認したくて、e-Govの法令APIに「民法の709番目の条」を頼んだ。返ってきたのは第六百四十三条、委任の条文だった。エラーでもなく、HTTP 200で、きれいなJSONで。 起: 条文は無料でJSONで取れる 2025年3月に法令API Version...</description>
+<title>【Qiita】 Alloyを共通言語にして、CodexとClaudeに実装と監査をさせてみた</title>
+<link>https://qiita.com/atelier-kame/items/39433e90c2d1992ddd98</link>
+<guid>cb6e70e44bd07e19acee57849db853958a84dae171d8b3e35aa414bc6a9cbc64</guid>
+<pubDate>2026-10-06T13:38:53+09:00</pubDate>
+<description>Alloyを共通言語にして、CodexとClaudeに実装と監査をさせてみた AIと形式手法を使って、Glyphaという小さなデジタルサイネージを作りました。 今回試したかったのは、単に「AIにコードを書かせる」ことではありません。 私は普段から、システム設計や既存コード...</description>
 </item>
 <item>
-<title>【Qiita】 AIがテストまで書く開発で、テスト全緑でも画面がおかしかった3つの実例 〜人間がレビューする5か所の決め方〜</title>
-<link>https://qiita.com/charge0315/items/992547baee5183464e23</link>
-<guid>1cc35ab41fde9ac968e1aac0c19aa6b89075d0ca512769da6989d485e91db966</guid>
-<pubDate>2026-10-06T09:07:06+09:00</pubDate>
-<description>テストは全部緑✅。コミットもした。なのに画面を開いた瞬間、「…あれ？」😱 こういう朝、ありませんか？ 🎉 今回から文体を変えて、絵文字と図をぐっと増やしました。気に入っていただけると幸いです🙇 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフ...</description>
+<title>【Qiita】 AIが話しかける前に動き出す？ChatGPT『MCP Events』の仕組みと“合鍵”の落とし穴</title>
+<link>https://qiita.com/kinamocchi_tech/items/1f035393119bb115265d</link>
+<guid>669f4c7a2c902cc151bcb4c45bdaba7f5ae90e06a543288be07b3603d8bb4367</guid>
+<pubDate>2026-10-06T13:13:43+09:00</pubDate>
+<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → AIが話しかける前に動き出す？ChatGPT『MCP Events』の仕組みと“合鍵”の落とし穴 🐹🦜 この記事に登場する2匹 🐹 もっちー ...</description>
 </item>
 <item>
-<title>【Qiita】 ターミナルばかり使って私の逆鱗に触れていたGeminiが、Excelマネージャーの凄さに気づいて脱帽した夜の話</title>
-<link>https://qiita.com/shu15511551/items/fb6b9a3542ceabee2aab</link>
-<guid>c3c564b9f41e0f9fcdb2eddea6b47cec22dbf06d5ee92ea902c001bf6dcc9bf4</guid>
-<pubDate>2026-10-06T05:42:50+09:00</pubDate>
-<description>はじめに 夜も更けた作業部屋で、私はパソコンの画面に向かって、苦笑いしながら相棒のAIに声をかけました。 「ほらな、Excelマネージャーでできるだろう。ターミナルを使わなくても」 画面の向こうで少し照れくさそうに、しかし深く感心したように返ってきたのは、GoogleのA...</description>
-</item>
-<item>
-<title>【Qiita】 音声認識にも「エージェント」の発想──間違いを直しながら理解するAgentic ASR</title>
-<link>https://qiita.com/mhamadajp/items/2b0362c93bd39d1a3f3e</link>
-<guid>ca7ccbc3a38d01820958ca40cf04b8a3eccf2942fccc2616a6ba9f55dedd2748</guid>
-<pubDate>2026-10-06T04:59:57+09:00</pubDate>
-<description>作成日: 2026-08-23 会議の自動文字起こしで、参加者名や製品名を誤認識された経験はないだろうか。たとえば「加藤さん」と言ったのに「佐藤さん」と記録される。この種の誤りは、一文字の違いに見えても、連絡先、担当者、意思決定を取り違える原因になり得る。 従来の音声認識（...</description>
-</item>
-<item>
-<title>【Qiita】 agent-browser、CONNECT限定プロキシでChrome裏通信2件に巻き込まれた</title>
-<link>https://qiita.com/kai_kou/items/3a302bb5ab5ea2279a3d</link>
-<guid>c7ee5172022b7d5d966addee562da0e900687c6d028a06e2cc0381afed130690</guid>
-<pubDate>2026-10-06T09:04:59+09:00</pubDate>
-<description>はじめに Vercel Labs が公開している AI エージェント向けブラウザ自動化 CLI agent-browser を、CONNECT トンネルのみを許可する egress プロキシ配下のクラウド実行環境で動かしてみました。単純な open https://exa...</description>
-</item>
-<item>
-<title>【Qiita】 ChatGPT の MCP Events 入門、Webhook で自動処理を起動する</title>
-<link>https://qiita.com/kai_kou/items/60f451c76b6be1e81a8f</link>
-<guid>9993d46100848a17b93fe9d143e1951636143b7f0b0657ea6c4806d4259a77ef</guid>
-<pubDate>2026-10-06T07:54:06+09:00</pubDate>
-<description>はじめに OpenAI は 2026年9月29日の DevDay にあわせて、ChatGPT のプラグインで MCP Events を使えるようにしました（OpenAI 開発者ドキュメント: MCP Events）。MCP Events は、MCP サーバーが接続先アプリ...</description>
-</item>
-<item>
-<title>【Qiita】 「見れば分かる」のに、10回とも見つけられなかった——Claudeの再探索失敗から考えるAIエージェントの観測設計</title>
-<link>https://qiita.com/BugiAK/items/9ac2c2f0a9fc07bb17d9</link>
-<guid>33fada62125eef4b4bcafa23fb36d2ce5fe0d33307fdc053ebef3dbbcc0dc581</guid>
-<pubDate>2026-10-06T05:32:58+09:00</pubDate>
-<description>この記事で扱う3つの観測事実 Anthropicが2026年9月に公開した論文 『Autonomous AI agents discover reverse transcriptases with tandem repeat arrays』 から、以下の3点を出発点にしま...</description>
-</item>
-<item>
-<title>【自動自律実験】 The top cancer success stories of the past 50 years, by the numbers</title>
-<link>https://www.nature.com/articles/d41586-026-03157-1</link>
-<guid>459e62d8aef370be5e3c21231c35967279f5b59cc15a56c0e7b04c9df1209dae</guid>
-<pubDate>2026-10-05</pubDate>
-<description>Outcomes have improved drastically in the United States for some forms of the disease, but those for others continue to lag.</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>fa2cf2227cc141aa89a20cbf77a2d2050e93b5c16a53357fa6feadda69f95347</guid>
+<pubDate>Tue, 06 Oct 2026 06:42:33 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>11f547134f174d4789c346f5a61f8532550bb631a09c188f7977ea817b1d58ab</guid>
-<pubDate>Tue, 06 Oct 2026 00:29:11 GMT</pubDate>
+<guid>706dca303ead484666038f17d15dca3d6954e464a66c4288765520cd7d365931</guid>
+<pubDate>Tue, 06 Oct 2026 06:42:37 GMT</pubDate>
 <description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>2fefb7fc2a4224c5be2dfc6b67a0846da95b3c143f309a75ecd77043677184ba</guid>
-<pubDate>Tue, 06 Oct 2026 00:29:14 GMT</pubDate>
+<guid>26f7041516e1507ccc7ab7aed3448bf4fa3ac44e87260c587a4510596bfc618f</guid>
+<pubDate>Tue, 06 Oct 2026 06:42:39 GMT</pubDate>
 <description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>351ef7fc5af5dbd0df35530039fedec3964e71f1431fed062a40461f742c5caf</guid>
-<pubDate>Tue, 06 Oct 2026 00:29:15 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>851a98f0f952d62d5409ad034a37c401b7d40d17bde822823e7b052a10b13f53</guid>
+<pubDate>Tue, 06 Oct 2026 06:42:43 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>592eddbf15a879785b0050317075bcc43b412cae30adff32f5f29a6dfb6b2a73</guid>
-<pubDate>Tue, 06 Oct 2026 00:29:20 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.soken.ac.jp/news/2026/20260805.html</link>
+<guid>80d6e1145488ede5a2901f29d67e26d65a21da6f7b8ef8bec281288bfe3760e1</guid>
+<pubDate>Tue, 06 Oct 2026 06:43:23 GMT</pubDate>
+<description>【プレスリリース】全ゲノム塩基配列で解明：ニホンイノシシとリュウキュウイノシシは共通祖先から進化していた</description>
 </item>
 
 </channel>
