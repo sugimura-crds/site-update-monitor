@@ -4,70 +4,147 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 06 Oct 2026 06:43:39 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 13:47:34 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 GitSpawnがClaude Codeを含む7エージェントを脆弱と報じた日、自分のgit設定ファイルの危険項目は0件だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/3d2f0b45de34031548b4</link>
-<guid>3097c9dd1fc8fae5a231bb9f7212d5cf38996c701a5bf0fb3ea191b27f36c8a3</guid>
-<pubDate>2026-10-06T15:36:16+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、「GitSpawn」という名前で報じられた脆弱性—悪意のある.git/configの設定だけで、承認プロンプトが出る前にコーディングエージェントへ攻撃者のコードを実行させられるという報告—を確認した後、自分がZenn...</description>
+<title>【Qiita】 最近サイバー攻撃多いから、基本対策を見直そう</title>
+<link>https://qiita.com/HIsui0921/items/65fba77555a13af6b8a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>7a00f57c6fec1b7ef22b10bd6b9fd1a14ef9c697b547db8fa0d0c7b90c58155b</guid>
+<pubDate>2026-10-05T23:28:32+09:00</pubDate>
+<description>こんにちは、翡翠です。 去年セキュリティ業界へ入ったばかりの新人です。まだまだ勉強中の身なので至らない点もあるかと思いますが、今わかること・できることを自分なりにまとめたいと思います。 2026年9月下旬以降、大手企業などで不正アクセスや情報漏洩などのニュースが一気に増えた...</description>
 </item>
 <item>
-<title>【Qiita】 AIが急に賢くなった正体は「巨大化」だけじゃなかった！ 性能を上げる5つの仕組みをたとえ話で理解しよう</title>
-<link>https://qiita.com/nolanlover0527/items/fd5f39359c7a9cd68a0f</link>
-<guid>c6273d0e2615cac7a254dc02e497ae395e9a8d6b5542c83ac6662867e63e88ad</guid>
-<pubDate>2026-10-06T15:25:18+09:00</pubDate>
-<description>AIの性能向上は5つの方向で説明できる 最近のAIは、数年前と比べて別物のように賢くなりました。 コードを書く、長い資料の分析、数学の問題を解く。 そうした場面で、その差を実感している人も多いはずです。 では、その性能はどうやって上げているのでしょうか。 結論から言うと、...</description>
+<title>【Qiita】 watsonx.dataのIcebergテーブルをSparkでアクセスする4つの方法</title>
+<link>https://qiita.com/mohkawa/items/c295b41fcf94d3bcbaed</link>
+<guid>7c44d038d8e4b2f695ab8fc60624722d33715a5d2f48f2b1effb01378f6958b4</guid>
+<pubDate>2026-10-06T18:30:12+09:00</pubDate>
+<description>オンプレの watsonx.data Premium Edition 2.4.x (Software Hub 5.4.x) を導入するとSparkも導入されます。そのSparkを使ってwatsonx.dataに構築されたIcebergテーブルにアクセスするための方法として、...</description>
 </item>
 <item>
-<title>【Qiita】 Alloyを共通言語にして、CodexとClaudeに実装と監査をさせてみた</title>
-<link>https://qiita.com/atelier-kame/items/39433e90c2d1992ddd98</link>
-<guid>cb6e70e44bd07e19acee57849db853958a84dae171d8b3e35aa414bc6a9cbc64</guid>
-<pubDate>2026-10-06T13:38:53+09:00</pubDate>
-<description>Alloyを共通言語にして、CodexとClaudeに実装と監査をさせてみた AIと形式手法を使って、Glyphaという小さなデジタルサイネージを作りました。 今回試したかったのは、単に「AIにコードを書かせる」ことではありません。 私は普段から、システム設計や既存コード...</description>
+<title>【Qiita】 Azure Update 2026年9月まとめ</title>
+<link>https://qiita.com/ManabuYamamoto/items/c5a77adf391eac1bf6e5</link>
+<guid>9acefe5e9515677e3657ff82013c6e19b82e4fc52ae6823e9b36758d0d1d5f51</guid>
+<pubDate>2026-10-06T21:30:22+09:00</pubDate>
+<description>一般提供開始 (GA) パブリックプレビュー 廃止予定 発表・評価版 合計 Azure Updates 44件 27件 14件 2件 87件 項目 内容 対象期間 2026年9月1日 ~ 2026年9月30日 データ取得日 2026年...</description>
 </item>
 <item>
-<title>【Qiita】 AIが話しかける前に動き出す？ChatGPT『MCP Events』の仕組みと“合鍵”の落とし穴</title>
-<link>https://qiita.com/kinamocchi_tech/items/1f035393119bb115265d</link>
-<guid>669f4c7a2c902cc151bcb4c45bdaba7f5ae90e06a543288be07b3603d8bb4367</guid>
-<pubDate>2026-10-06T13:13:43+09:00</pubDate>
-<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → AIが話しかける前に動き出す？ChatGPT『MCP Events』の仕組みと“合鍵”の落とし穴 🐹🦜 この記事に登場する2匹 🐹 もっちー ...</description>
+<title>【Qiita】 プロンプト・Agent Skill・ツールはどう使い分ける？迷ったときの3択フロー</title>
+<link>https://qiita.com/Tadataka_Takahashi/items/1e6f17150888f310e261</link>
+<guid>0c3f31e78d32e29714233408c27e1a359a0d3a3e830c90fbdbc9cdf9a93dcff8</guid>
+<pubDate>2026-10-06T22:22:19+09:00</pubDate>
+<description>はじめに AIエージェントを使っていると、「プロンプト」「スキル」「ツール」という言葉が並んで出てきます。 私も最初は、スキルを「長いプロンプトを保存したもの」くらいに考えていました。ただ、実際にQiita記事を書く手順をスキルとしてまとめてみると、プロンプトやツールと...</description>
+</item>
+<item>
+<title>【Qiita】 分散人工知能：黒板モデル</title>
+<link>https://qiita.com/ymgc3/items/4b70ed63d839862bb480</link>
+<guid>3830913ed6778b660e29de904d801e8f715a5fb4db3b197852dca365fe48b1d4</guid>
+<pubDate>2026-10-06T20:53:37+09:00</pubDate>
+<description>2026年10月更新。前回投稿記事は古典的な黒板モデルの紹介でした。初版の誤り（階層の説明、CA/NAとFA/Cの表）も合わせて訂正しました。 前回投稿記事 結論 LLMマルチエージェントの協調方式は、メッセージパッシング型（オーケストレータが指示を配る...</description>
+</item>
+<item>
+<title>【Qiita】 AIコンパニオンを開発して分かった、チャット・画像・動画生成をつなぐプロダクト設計</title>
+<link>https://qiita.com/veline_ai/items/3c4ef7ead03f2e09dbda</link>
+<guid>701f90a1657acf5bf251fbe0fda43a5276ec4e141144a4029f96f6e15aa06d5e</guid>
+<pubDate>2026-10-06T20:29:16+09:00</pubDate>
+<description>AIコンパニオンを開発して分かった、チャット・画像・動画生成をつなぐプロダクト設計 生成AIを使ったプロダクトを作る場合、単純にLLMのAPIを接続するだけであれば、それほど難しくありません。 一方で、実際にユーザーが継続的に使うサービスを作ろうとすると、 キャラクター...</description>
+</item>
+<item>
+<title>【Qiita】 攻撃側の AI エージェントにゼロトラストで備える：侵入後の「速さ」と「数」を要求ごとの検証で止める</title>
+<link>https://qiita.com/shalXXXX/items/8168d601825c29e98a74</link>
+<guid>26061a8fd0684fa3023b540015537497ab21a8dfefabe85a65cd0149895db6ee</guid>
+<pubDate>2026-10-06T19:36:14+09:00</pubDate>
+<description>攻撃者が AI エージェントを使い、偵察から侵入、横展開、データの持ち出しまでを、ほぼ自動で進める事例が公開されるようになりました。人の攻撃者と比べて、攻撃エージェントは速く、疲れず、並行して何本もの攻撃を進められます。 この記事では、攻撃側の AI エージェントが組織の中...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントの実行環境設計：クラウドMicroVM (E2B/Modal) vs ローカルGit Worktree徹底比較</title>
+<link>https://qiita.com/agdexai/items/3e33f7666ec12ad976b3</link>
+<guid>dc069c95bdd15ecd92e89402d2d1a4017e6a10fec3ab52de9cdc3110b8605ef4</guid>
+<pubDate>2026-10-06T18:09:20+09:00</pubDate>
+<description>シェル実行やバイナリのビルド、テストスイートの自動実行を行うAIエージェントを本番運用しようとすると、必ずぶつかるインフラ設計上の課題があります。 「エージェントの実行環境（ハーネス）は、E2BやModalのようなクラウド上のMicroVMサンドボックスに置くべきか、それ...</description>
+</item>
+<item>
+<title>【Qiita】 Agentic AIを学びたい(Step4：getRouteで出発時刻を決める)</title>
+<link>https://qiita.com/koji0705/items/b357a1042b540c1bba8c</link>
+<guid>aa77ab6e289047598b1b0944e3087883e254673cfe5f01a7693d0c8c2a74edd8</guid>
+<pubDate>2026-10-06T20:56:15+09:00</pubDate>
+<description>はじめに 前回の記事の続きです。今回は移動時間の Tool を足し、出発時刻まで判断させます。 前回は getSchedule と getWeather を順に呼び、傘が必要だと答えました。移動時間が無かったので、家を出る時刻は出していません。 Agentic AIを学び...</description>
+</item>
+<item>
+<title>【Qiita】 Agentic AIを学びたい(Step3：予定と天気のToolを使い分ける)</title>
+<link>https://qiita.com/koji0705/items/91bb9237c4d606236700</link>
+<guid>fa3b9a235a5cc952cca8b31e3fa4f4684e7d99a6480f451817241f1f49564f39</guid>
+<pubDate>2026-10-06T20:31:28+09:00</pubDate>
+<description>はじめに 前回の記事の続きです。今回は予定の Tool を足し、LLM に予定と天気を使い分けさせます。 前回は「今日19時に梅田へ行くんだけど、傘いる？」と、場所と時刻をこちらが言っていました。LLM は getWeather だけを呼びました。 Agentic AIを...</description>
+</item>
+<item>
+<title>【Qiita】 Agentic AIを学びたい(Step2：LLMにgetWeatherを呼ばせる)</title>
+<link>https://qiita.com/koji0705/items/cf5519c3c35cc26c76f0</link>
+<guid>7d639d09defb514157aaae59e3e73cc614e0e3ed07ccbfc40b78377392d40529</guid>
+<pubDate>2026-10-06T18:07:26+09:00</pubDate>
+<description>はじめに 前回の記事の続きです。今回はTool化したものを実装していきます。 前回は、予定・天気・移動時間を文章で渡し、LLMに傘と出発時刻を判断させました。 Agentic AIを学びたい(Step1：OpenRouter経由でLLMをコールする) 今回は、天気の文章を...</description>
+</item>
+<item>
+<title>【環境】 Design principles for functional carbon materials derived from biomass conversion</title>
+<link>https://www.nature.com/articles/s41893-026-01948-y</link>
+<guid>9366d0ae3f7915ef51943e949155f2d59a3ee536961262e62fdefd41fb1f77a3</guid>
+<pubDate>2026-10-06</pubDate>
+<description>Biomass-derived carbon materials hold great promise for various sustainable technologies. This Perspective argues that biomass composition alone is insufficient to predict material performance and proposes a conversion pathway-guided framework to optimize reactivity, transport properties and stability.</description>
+</item>
+<item>
+<title>【自動自律実験】 Maintaining global science collaboration during conflict requires fairer rules</title>
+<link>https://www.nature.com/articles/d41586-026-03176-y</link>
+<guid>cc877194b390c61e0fd7c4f4c5679001bcb1ed28cf2cc0e0a5e885ad2d459792</guid>
+<pubDate>2026-10-06</pubDate>
+<description>Maintaining global science collaboration during conflict requires fairer rules</description>
+</item>
+<item>
+<title>【自動自律実験】 The Great Barrier Reef requires special attention in the developing super El Niño</title>
+<link>https://www.nature.com/articles/d41586-026-03174-0</link>
+<guid>e99f03ed444f748ed546b47a9484d9755be63c3852710124918c84a9c780ac10</guid>
+<pubDate>2026-10-06</pubDate>
+<description>The Great Barrier Reef requires special attention in the developing super El Niño</description>
+</item>
+<item>
+<title>【自動自律実験】 Preprints must not leak sensitive research information</title>
+<link>https://www.nature.com/articles/d41586-026-03177-x</link>
+<guid>620403a176c0840d6aa2676a11572699e39a89f5ccb1910b34e6baf9443c5c6e</guid>
+<pubDate>2026-10-06</pubDate>
+<description>Preprints must not leak sensitive research information</description>
+</item>
+<item>
+<title>【自動自律実験】 AI could undermine scientific independence in subtle ways</title>
+<link>https://www.nature.com/articles/d41586-026-03175-z</link>
+<guid>b37af9db63d286c4d3434448c8f6cbfd8ab59641fee42e9acd1c74ed671e1e55</guid>
+<pubDate>2026-10-06</pubDate>
+<description>AI could undermine scientific independence in subtle ways</description>
+</item>
+<item>
+<title>【自動自律実験】 Rising numbers of Asian and African PhD students choose to study in China</title>
+<link>https://www.nature.com/articles/d41586-026-02798-6</link>
+<guid>0d651b53ae110f52bd3666f0306b421f4ecdc275283522df1026b8ed668eb656</guid>
+<pubDate>2026-10-06</pubDate>
+<description>International students explain the advantages and challenges that come with pursuing a doctoral degree in China.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>fa2cf2227cc141aa89a20cbf77a2d2050e93b5c16a53357fa6feadda69f95347</guid>
-<pubDate>Tue, 06 Oct 2026 06:42:33 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>78b7890d209cdeee58a72174102a37ca1384a6980d764b358bc84b3b0d8e7569</guid>
+<pubDate>Tue, 06 Oct 2026 13:46:35 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>706dca303ead484666038f17d15dca3d6954e464a66c4288765520cd7d365931</guid>
-<pubDate>Tue, 06 Oct 2026 06:42:37 GMT</pubDate>
+<guid>0dd98da10c102133dd3f6001469fb502386811cd80add410a57df37c319a772b</guid>
+<pubDate>Tue, 06 Oct 2026 13:46:38 GMT</pubDate>
 <description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>26f7041516e1507ccc7ab7aed3448bf4fa3ac44e87260c587a4510596bfc618f</guid>
-<pubDate>Tue, 06 Oct 2026 06:42:39 GMT</pubDate>
+<guid>4df5f734b7cedf6e3a5f7355670d190a9971fdf3abea08af84d777969f597461</guid>
+<pubDate>Tue, 06 Oct 2026 13:46:40 GMT</pubDate>
 <description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>851a98f0f952d62d5409ad034a37c401b7d40d17bde822823e7b052a10b13f53</guid>
-<pubDate>Tue, 06 Oct 2026 06:42:43 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
-</item>
-<item>
-<title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.soken.ac.jp/news/2026/20260805.html</link>
-<guid>80d6e1145488ede5a2901f29d67e26d65a21da6f7b8ef8bec281288bfe3760e1</guid>
-<pubDate>Tue, 06 Oct 2026 06:43:23 GMT</pubDate>
-<description>【プレスリリース】全ゲノム塩基配列で解明：ニホンイノシシとリュウキュウイノシシは共通祖先から進化していた</description>
 </item>
 
 </channel>
