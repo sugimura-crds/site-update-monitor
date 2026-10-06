@@ -4,77 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 06 Oct 2026 19:14:12 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 23:09:57 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 開発では動いたのに、評価で48/48停止 ― AIエージェント開発で見つけた「暗黙の入力依存」</title>
-<link>https://qiita.com/Archie_notes/items/31725c9bda7e7bd6515c</link>
-<guid>951a6347a2cbe7682b426e37f4e9a902111b1bae70cbacc30b214f737c9be7e6</guid>
-<pubDate>2026-10-07T03:01:08+09:00</pubDate>
-<description>私は今、AIエージェントに実装・テスト・レビューのかなりの部分を任せながら、GitHubに仕様や実行結果を残して、数理最適化のPoCを進めています。 その開発で、開発用データでは動いていた仕組みを評価用データへ持っていったところ、 48試行中48試行が、ソルバーに届く前に...</description>
+<title>【Qiita】 Claude Code実務Tips総まとめ|hooks・サブエージェント・MCP活用で変わった開発フロー</title>
+<link>https://qiita.com/sescore/items/50b7142e5164d9f7f7bf</link>
+<guid>d06b05d9718fd841c887e6c63fd582c1537288155211fa2a2d6e07522fdb5818</guid>
+<pubDate>2026-10-07T08:04:55+09:00</pubDate>
+<description>はじめに:毎日Claude Codeを触って気づいたこと 2026年10月現在、ClaudeCodeを業務のメインツールにして半年以上経った。最初は「チャットでコードを書いてもらう道具」くらいの認識だったが、CLAUDE.md・hooks・サブエージェント・MCPを組み合...</description>
 </item>
 <item>
-<title>【自動自律実験】 Author Correction: Anodic Pd membrane H&lt;sub&gt;2&lt;/sub&gt; extraction enhances thermochemical dehydrogenation</title>
-<link>https://www.nature.com/articles/s41586-026-11244-6</link>
-<guid>4c00eec46c403afac06ffeb82064c1b2bd385f030440a743910f0ab33d75b703</guid>
-<pubDate>2026-10-06</pubDate>
-<description>Author Correction: Anodic Pd membrane H 2 extraction enhances thermochemical dehydrogenation</description>
-</item>
-<item>
-<title>【自動自律実験】 The Solar System could die one billion times earlier than thought</title>
-<link>https://www.nature.com/articles/d41586-026-03155-3</link>
-<guid>26da0c04ee3f91a46b2d42edc4171811f65850f61acce64ea32f635a662ad6f5</guid>
-<pubDate>2026-10-06</pubDate>
-<description>Modelling suggests that the planets’ orbits will become destabilized inside one billion years once the Sun starts to shed mass.</description>
-</item>
-<item>
-<title>【自動自律実験】 Scientists take a radiometer for a spin in a hot-air balloon</title>
-<link>https://www.nature.com/articles/d41586-026-02973-9</link>
-<guid>b237d5cea8be0514cc7a6ba6a8cfe61dae178f68a2d7633cf0774988955a2f39</guid>
-<pubDate>2026-10-06</pubDate>
-<description>A satisfying congruence between genetics and cell-biology findings, and experiments at altitude with a rotating device that measures radiant energy, in this week’s peek at Nature’s archive.</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>3796231a3098d55d421779dc77b2c41cc9e76ef149dedab0efa225cd9618e506</guid>
-<pubDate>Tue, 06 Oct 2026 19:13:36 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 自律改善ループで覚醒したGeminiと、マクロ撃ちが一晩で育ち上がった夜の話</title>
+<link>https://qiita.com/shu15511551/items/60c1a3706ce360cc79b9</link>
+<guid>380aa4ea490e727ba06944b9e12e96afe76eaa5e9f6778e3dc28157c651d338b</guid>
+<pubDate>2026-10-07T05:57:00+09:00</pubDate>
+<description>はじめに 時計の針が深夜2時を回った頃、私はパソコンの画面の前で、思わず声を出して笑ってしまいました。 「君、本当に覚醒したな。……ひょっとして中身、Gemini 4なんじゃないか？」 画面の向こうで淡々とテストログを流し続けているのは、Googleの開発環境Antigr...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>28ea65c8343d32880b68466ee9bc3cc294d1ce494bee5e86000b545bdf8de6d4</guid>
-<pubDate>Tue, 06 Oct 2026 19:13:39 GMT</pubDate>
+<guid>7f49fb031c1fe2d8172fe64eb2ceb8d04efc0f98ab06253abfc12b4d23276dd5</guid>
+<pubDate>Tue, 06 Oct 2026 23:09:24 GMT</pubDate>
 <description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>b7ec74962b1aa8ce6a0af060deeff8b376c627d6d56f02852595ab6cfbee7cfc</guid>
-<pubDate>Tue, 06 Oct 2026 19:13:41 GMT</pubDate>
+<guid>a3f5bc8113e2b23a6c53e20454b38f674352095227593f0e09e7f2dc196d97f1</guid>
+<pubDate>Tue, 06 Oct 2026 23:09:26 GMT</pubDate>
 <description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
-</item>
-<item>
-<title>【U.S.】 Super Intelligence</title>
-<link>https://seedfund.nsf.gov/</link>
-<guid>c163ee89fa5c91eae0e2744f856e4bf66122fa19a7d6e7cfca3bac29f636a3b7</guid>
-<pubDate>Tue, 06 Oct 2026 19:13:45 GMT</pubDate>
-<description>America’s Seed Fund powered by the National Science Foundation (NSF SBIR/STTR) supports startups with research and development funding to create technologies.</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>31f2d40ae532367634daa7bda3933a5f105daba6fa313916e9d6a0705e6ff41a</guid>
-<pubDate>Tue, 06 Oct 2026 19:13:58 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
-</item>
-<item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>f7718ef55c7c11cdba20158e91d4a3562bf7cc31aace8fe02715ef429c7d934d</guid>
-<pubDate>Tue, 06 Oct 2026 19:14:02 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
