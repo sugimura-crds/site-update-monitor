@@ -4,155 +4,71 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 07 Oct 2026 17:06:25 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 22:08:34 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude CodeにQAを任せる5つの実装パターン——テスト生成からHooks自動化・CI/CDまで</title>
-<link>https://qiita.com/fuji1009_REBELL/items/e9a84c032c4f1d035128</link>
-<guid>72370677a764e6f0e869318271ebdd598c866e9d4d7d2720210cf5ec7ae36462</guid>
-<pubDate>2026-10-08T01:53:06+09:00</pubDate>
-<description>テストコードが一本もないプロジェクトで、リリースのたびに丸1日かけて手動確認していた時期がある。今はその検証が20分で終わる。差分を埋めたのはテスト戦略の刷新ではなく、Claude Codeに「テストプロセスのどの段階を、どう任せるか」を1つずつ設計し直したことだった。 個...</description>
+<title>【Qiita】 Strands Deciderハンズオン！</title>
+<link>https://qiita.com/har1101/items/cf5e734358e09f2410d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>542bc59e182894b4b28400c2821f8749c3ff72fa459a90c7b2cd0f5cc3f5a5fb</guid>
+<pubDate>2026-10-07T14:25:40+09:00</pubDate>
+<description>このイベント用のハンズオン手順です。どなたでも好きなときに試せます！(環境構築を含めて1.5時間目安) 2026/10/1、AWSから発表されたStrands Deciderを動かすハンズオンです。 Strands Deciderは文章を生成せず、用意した選択肢...</description>
 </item>
 <item>
-<title>【Qiita】 AI駆動開発でベース用のVSTプラグインを作ってみた</title>
-<link>https://qiita.com/chicke__ksk/items/e219f85c748d69410712</link>
-<guid>26567328f2d54d970496a6f0363fc5fa82b8564a40a316797f861b21ca61bbbd</guid>
-<pubDate>2026-10-08T00:36:36+09:00</pubDate>
-<description>初めに 初めて記事を書きます。 つたないところがあったらすみません。 さて本題ですが、タイトルの通り、ベース用のVSTプラグインを作ってみましたという記事になります。 使用したのはCopilotのエージェントで、VScodeのエージェント機能で仕様決め、開発、テストを行...</description>
+<title>【Qiita】 Opus先生復活、Geminiが作ったマクロ撃ちを採点してもらった話</title>
+<link>https://qiita.com/shu15511551/items/1a184142f6b55947b62d</link>
+<guid>4f5d1a56cab9a324476a4052e4244359452d76eff50ce00612782eb14de0b1ba</guid>
+<pubDate>2026-10-08T05:36:41+09:00</pubDate>
+<description>はじめに 週の利用枠が戻って、Claude の Opus が帰ってきました。 留守のあいだ、私は Gemini と組んで「マクロ撃ち」を育てていました。指示文を書かずに、ボタン 1 回で表の汚れを片付ける機能です。前作では、自分で書いて、自分でコンパイルして、自分でテスト...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントの請求が暴走する前に｜ハード予算上限の設定と、各社の「止まり方」の違い</title>
-<link>https://qiita.com/sonchu/items/86168ef0df406979f624</link>
-<guid>0c934a08f7a51ad004a6f39e1e333f54a200343fb6887ed6e9399c3828d18ad8</guid>
-<pubDate>2026-10-07T23:07:14+09:00</pubDate>
-<description>AIエージェントの請求が暴走する前に｜ハード予算上限の設定と、各社の「止まり方」の違い エージェントを動かしたまま席を離れるとき、請求のことが頭をよぎらないだろうか。仕事でAPIを使っていたとき、個人で払っていたら絶望的な金額になる請求を経験した。それ以来、請求は通知では...</description>
+<title>【Qiita】 Smithery で人気の MCP サーバー 46 個を調べたら、7 割のツールが「いつ使うか」を書いていなかった</title>
+<link>https://qiita.com/nomunomu0504/items/b2eab1960a7aad38b59d</link>
+<guid>b2c268f8cc4e8e317905143980a4a257bd5383f31c637cbf7222755737fd5fb0</guid>
+<pubDate>2026-10-08T04:45:17+09:00</pubDate>
+<description>MCP サーバーのディレクトリ Smithery で利用回数の多いサーバーを 46 個選び、計 1,118 ツールの説明文を調べました。769 ツール（69%）が「いつ使うか」を書いていません。 「何を返すか」が説明文にないツールも 507 個（45%）ありました。似た説明...</description>
 </item>
 <item>
-<title>【Qiita】 【Strands Decider】LM Studio と組み合わせてエージェントの判断までローカルで完結させてみる</title>
-<link>https://qiita.com/ryu-ki/items/d21ed0b07bd1dc8a5622</link>
-<guid>512ee2b9a24c69b420bebeedf68b121ce367a26ca5968dd736e2637fbf733af5</guid>
-<pubDate>2026-10-07T22:55:55+09:00</pubDate>
-<description>はじめに 2026年10月1日に、Strands Agents の周辺プロジェクトとして Strands Decider が公開されました。 エージェントの中の判断を、小さなモデルに任せるためのものです。普段ローカル LLM は LM Studio で動かしているの...</description>
+<title>【Qiita】 AIモデレーターに別ルームを触らせない：読み取り専用＋Room固定PermitをPythonで実装する</title>
+<link>https://qiita.com/susie000720/items/c93bbda776369d6c4382</link>
+<guid>ace19167daa7cfd1217acf65dec4d886d0cf70c2574a739e5480dc5d8928643d</guid>
+<pubDate>2026-10-08T02:10:20+09:00</pubDate>
+<description>ライブ配信へAIモデレーターを追加すると、コメントの整理や対応候補の提示は自動化できます。一方で運営者が本当に不安なのは、AIの文章が自然かどうかより、別のルームや別の参加者へ操作が及ばないか、そして実行されていない処理を「対応済み」と表示しないかです。 プロンプトに「勝手...</description>
 </item>
 <item>
-<title>【Qiita】 10 Best AI Copilot and Agent Builders for Enterprises in the United States</title>
-<link>https://qiita.com/intellectyx/items/37d0d2fb730a9f8ee3cf</link>
-<guid>ec0e46c3ed85f8d3baf3e8b4fe8fa6101bf436f66b9a81026779e9335d88b6e4</guid>
-<pubDate>2026-10-07T20:33:34+09:00</pubDate>
-<description>Enterprise interest in AI has moved beyond general-purpose chatbots. Companies now want AI copilots that help employees complete work and...</description>
-</item>
-<item>
-<title>【Qiita】 Agentic AIを学びたい(Step7：ToolをMCP Serverで公開する)</title>
-<link>https://qiita.com/koji0705/items/553d1bb2d84c482a66db</link>
-<guid>10c5dd850cb7ea835d32b2709056c718dedf09d97b66f070427ffa65fbc0effb</guid>
-<pubDate>2026-10-07T21:22:25+09:00</pubDate>
-<description>はじめに 前回の記事の続きです。今回は、3つの Tool を MCP Server として公開し、Runtime からは MCP Client 経由で呼びます。 前回は State で取得済みを管理し、予定・天気・移動が揃ってから回答していました。 Step6の記事URL...</description>
-</item>
-<item>
-<title>【Qiita】 Agentic AIを学びたい(Step6：Stateで取得済みを管理する)</title>
-<link>https://qiita.com/koji0705/items/d4d878aadb744456ab51</link>
-<guid>e04175dffc6bbe0874f7382310e9d75005adb16b38b202371420376b8b865f28</guid>
-<pubDate>2026-10-07T21:21:52+09:00</pubDate>
-<description>はじめに 前回の記事の続きです。今回は、取得済みの情報を Agent の State に持たせます。 前回は while (true) で、tool_call なら Tool を実行し、final なら本文で終わっていました。 Agentic AIを学びたい(Step5：...</description>
-</item>
-<item>
-<title>【農業】 Study gives fresh impetus to reduce seabird bycatch in Southern Hemisphere fisheries</title>
-<link>https://www.fao.org/newsroom/detail/study-gives-fresh-impetus-to-reduce-seabird-bycatch-in-southern-hemisphere-fisheries/en</link>
-<guid>39ec7d49abf1653c7c6a11e70d308cb810ec747707eaf73bf2f524a630ed4d5d</guid>
+<title>【農業】 FAO Director-General honours Uzbekistan’s President with prize during visit to Tashkent</title>
+<link>https://www.fao.org/newsroom/detail/fao-director-general-honours-uzbekistan-s-president-with-prize-during-visit-to-tashkent/en</link>
+<guid>0164305c687418190c5776c5576cd4ab28d0cfa450b64ff8dfe71e6ef008c1aa</guid>
 <pubDate>Wed, 07 Oct 2026 12:00:00 Z</pubDate>
 <description></description>
 </item>
 <item>
-<title>【農業】 FAO calls for urgent investment to protect food production as crises deepen across the Near East and North Africa</title>
-<link>https://www.fao.org/newsroom/detail/fao-calls-for-urgent-investment-to-protect-food-production-as-crises-deepen-across-the-near-east-and-north-africa/en</link>
-<guid>52b14b5b3f9cde849616c2f00c0d617505486daa6af2fc446e6f8562a713984c</guid>
-<pubDate>Wed, 07 Oct 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【環境】 Making sense of loss and damage at the national level</title>
-<link>https://www.nature.com/articles/s41558-026-02768-w</link>
-<guid>599f174bbdb4bd45165b2458ab03826fe5f236d5440a7d4f62b8a2b5f7a4d75b</guid>
+<title>【自動自律実験】 Nobel Prizes 2026: brain switches, ‘ghost’ particle hunter, and &#x27;the chemistry of life&#x27;</title>
+<link>https://www.nature.com/articles/d41586-026-03208-7</link>
+<guid>d2d73c0292c7e2aec90e8e0336585f472740629b88a287e8ae71816ac23703ed</guid>
 <pubDate>2026-10-07</pubDate>
-<description>Climate change is already causing widespread losses and damages, and these impacts will intensify as human and natural systems exceed their capacity to adapt. Recent research allows us to understand if and how countries are prioritizing this issue in national policies.</description>
+<description>Nature rounds up the Nobel Prizes for science — plus, hints of the ancestral human gut microbiome.</description>
 </item>
 <item>
-<title>【自動自律実験】 A guide to Nature Index tables</title>
-<link>https://www.nature.com/articles/d41586-026-02999-z</link>
-<guid>bd8d85d9e2a9fad7e6f51d419580bd53cc2026dc461d561b8d75b679e2a15dd4</guid>
-<pubDate>2026-10-07</pubDate>
-<description>Information on the methodology used in the ranking for the 2026 Nature Spotlight: Infectious diseases.</description>
+<title>【Anthropic】 Introducing Claude Haiku 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>ad0983825d927714f7503ff5fe1289d894a9fa33f629b08398347fee76f2780b</guid>
+<pubDate>Wed, 07 Oct 2026 22:07:10 GMT</pubDate>
+<description>Our fastest, cheapest, and most capable small model yet. It’s designed for high-volume, cost-sensitive work.</description>
 </item>
 <item>
-<title>【自動自律実験】 How we ditched presentations and embraced silence in our lab meetings</title>
-<link>https://www.nature.com/articles/d41586-026-02836-3</link>
-<guid>1c01a547db56a8e7cd0bf555014a88501eb290c6589a10fc2e901a8d2fc5d676</guid>
-<pubDate>2026-10-07</pubDate>
-<description>Swapping to a system in which lab members read memos quietly before team discussions helped to create an open culture.</description>
-</item>
-<item>
-<title>【自動自律実験】 Blend</title>
-<link>https://www.nature.com/articles/d41586-026-02864-z</link>
-<guid>5399df885bdcd2762da8ab7d4c81c2690f55ab12cf6c91981e2ec5b6c803f484</guid>
-<pubDate>2026-10-07</pubDate>
-<description>Identity crisis.</description>
-</item>
-<item>
-<title>【自動自律実験】 Semiconductors pushed into insulator territory</title>
-<link>https://www.nature.com/articles/d41586-026-02968-6</link>
-<guid>eff5c28438d3b681e5a2fe2a51c5d182b948b1e18f793d5ebc1fb7ca82b66751</guid>
-<pubDate>2026-10-07</pubDate>
-<description>A material that was previously assumed to be an electrical insulator has been shown to be a semiconductor, with potential uses in electronics and optics.</description>
-</item>
-<item>
-<title>【自動自律実験】 Genome accessibility reveals disease risk that gene expression misses</title>
-<link>https://www.nature.com/articles/d41586-026-03072-5</link>
-<guid>d4fb6b502447035082dca19e55f3c81e31f532fe7958c194fc4cc5f02b6b32f9</guid>
-<pubDate>2026-10-07</pubDate>
-<description>Most disease-associated genetic alterations do not affect the genes themselves, but instead change how strongly they are expressed, often by modifying genome accessibility. Gene expression and accessibility have now been analysed simultaneously in 10 million immune cells from 1,108 people, linking disease-associated changes </description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>bbea08ce59247e9dd93f24b2994db1cfa48d288e99fe7d549874bf952326d4f9</guid>
-<pubDate>Wed, 07 Oct 2026 17:05:46 GMT</pubDate>
-<description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>7dde61fcd692b906eb68ef8ea393eb5d72cfb0df4543405be2eda9911e253aa3</guid>
-<pubDate>Wed, 07 Oct 2026 17:05:48 GMT</pubDate>
-<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
-</item>
-<item>
-<title>【U.S.】 Suggested Matches</title>
-<link>https://www.energy.gov/search?keywords=%22Genesis%20Mission%22</link>
-<guid>fba74dec01a1fe347a8a8bd1ed370cf66dca450b91892a0f4a6424fc81d6d4b8</guid>
-<pubDate>Wed, 07 Oct 2026 17:05:57 GMT</pubDate>
-<description>… Genesis Mission National labs, industry, and academia Unites partners …</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>f9bb64b8fa57142b09ff167d6e62665d11034f3ee4a294a80940d4cb0aa498a2</guid>
+<pubDate>Wed, 07 Oct 2026 22:07:43 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>86c3a491fd260fc5abcab24f87b9e6ad9eab42a1f618edb114d58e51ed15e3c8</guid>
-<pubDate>Wed, 07 Oct 2026 17:06:07 GMT</pubDate>
+<guid>09bf256a5a2c0d1a2e7d8104ff2cd6e478884f85e0672a2dac962d77d74b3108</guid>
+<pubDate>Wed, 07 Oct 2026 22:08:14 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>1858359104c5fe20433b5672e9894d4c69c72bab1441fab0cb8da57ee7e66af4</guid>
-<pubDate>Wed, 07 Oct 2026 17:06:08 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
-</item>
-<item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>9afd56449e3284810c4831b36b44f87fc73b621260b4a3e3f0041c3079f9b076</guid>
-<pubDate>Wed, 07 Oct 2026 17:06:14 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
