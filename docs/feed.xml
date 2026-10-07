@@ -4,70 +4,141 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 07 Oct 2026 02:33:11 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 09:32:46 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 相次ぐ情報漏えいから考える、溜まった脆弱性の減らし方</title>
-<link>https://qiita.com/SokoP/items/56c196a8097e5a971b6e</link>
-<guid>87651b61b2d130dc11e5c9daa2574a6a11421464aa41facbf2974b63453b82b0</guid>
-<pubDate>2026-10-07T11:28:49+09:00</pubDate>
-<description>漏えいの原因として公表された「使っていたソフトウェアの脆弱性」 9月末から10月初めにかけて、国内で個人情報漏えいの公表が相次ぎました。 多くは「不正アクセス」より先の手口がまだ公表されていません。一方で、原因が明示されたものには似た言葉が並びます。 10月5日公表の ...</description>
+<title>【Qiita】 2026年の情報漏洩を手口で分類してみた</title>
+<link>https://qiita.com/yama3133/items/071119dfea9ed24d0948?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>00e8c6bd6524d22dc0e6a3bac5e4168b63c775795d08c695456c409b2ac0a9eb</guid>
+<pubDate>2026-10-06T14:19:43+09:00</pubDate>
+<description>はじめに 2026年に入って、国内外で大きな情報漏洩が続いています。特に6月から10月初旬には、タイムズカー(約660万アカウント)、焼肉きんぐ(約1,079万件)、アフラック生命(約440万人)、デンマークの住民登録簿(約880万人)などが公表されました。 この記事では...</description>
 </item>
 <item>
-<title>【Qiita】 RailsアプリをA2A対応Agentとして公開する「a2a-rails」を作りました</title>
-<link>https://qiita.com/ccq1170/items/0852445745403c8e848b</link>
-<guid>f41cef28212947224720945905b4eb55664a9112f8c47c0f277d05951c37a74e</guid>
-<pubDate>2026-10-07T10:02:37+09:00</pubDate>
-<description>AI Agent同士が連携するためのオープンプロトコルとして、A2A（Agent2Agent Protocol があります。 今回、RailsアプリをA2A対応Agentとして公開しやすくするRuby Gem、 a2a-rails を作成し、v0.1.0を公開しました。 G...</description>
+<title>【Qiita】 Autonomous AI Lakehouseのデータを Ontologyでつないで Private Agent Factoryから NL2SQL＋RAG＋Knowledge Graphしてみてみた</title>
+<link>https://qiita.com/shirok/items/281689da5d9ee8c39540?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>6bc6d7f083869be64acdcfa6fab01d5eddbb5a319036ca29e3fee30353daf8bd</guid>
+<pubDate>2026-10-07T07:08:23+09:00</pubDate>
+<description>前回の音楽フェス運営Agent に、機材・製造Lot・Stage・Task・Documentの意味と関係を加えてみました。今回は、一つの障害から、ほかに確認すべき機材と、その対応の根拠までたどるところを試します。まず、実際に確認できた結果から見ていきます。 ■ Onto...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントの毎回「新人」になる問題の解決方法。MADRの正式な書き方と、AI開発チームでの回し方</title>
-<link>https://qiita.com/iostar/items/3eab538449b762bd8b9e</link>
-<guid>a5649fc4ce22e808f19532ad5360fabe991be9672332b4f2d79930f423132588</guid>
-<pubDate>2026-10-07T09:55:22+09:00</pubDate>
-<description>AIに「それは前にやめた案です」と説明した回数を、数えたことはありますか。 AIのコーディングエージェントは、セッションを始めるたびに、前の会話を知らない状態で仕事を始めます。先週一緒に検討して却下した案も知りません。一般論として良い案なら、素直にもう一度勧めてきます。そし...</description>
+<title>【Qiita】 【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか</title>
+<link>https://qiita.com/shinkai_/items/4c6c12324e115a125621?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>23ae6e2ae5d167272f5d4d26b86f9090839f62b1b834ccf8bd2774f1510ada12</guid>
+<pubDate>2026-10-07T08:02:40+09:00</pubDate>
+<description>はじめに 最近、個人情報漏えいのニュースが多すぎないでしょうか。 スマホを開くと、また誰でも知っている会社の名前が出ている。 そう感じているエンジニアも多いんじゃないかと思います。 ここ最近で特にインパクトが大きかったのがタイムズカーの件です。 運転免許証の画像まで漏えい...</description>
 </item>
 <item>
-<title>【Qiita】 源泉徴収の税額、式で出すと210円で、税額表だと250円だった【kurashi-skill Day 27】</title>
-<link>https://qiita.com/Ichiropen/items/1b65e4637574474d5cbc</link>
-<guid>db2a4dc58f16a67a0417e33ab39f7c1f89f1cc62ed5b442f68b541e4ef715581</guid>
-<pubDate>2026-10-07T09:29:58+09:00</pubDate>
-<description>給与明細の「所得税」の欄は、どうやって決まっているのか。国税庁の公式の計算例どおりに計算したら、公式の税額表の数字と合わなかった。社会保険料等控除後の月給175,000円、扶養2人で、式は210円、税額表は250円。どちらも国税庁が公表している正しい数字だ。 起: 月額表...</description>
+<title>【Qiita】 Quarkus CLI を理解しよう — インストールからコンテナイメージ作成まで</title>
+<link>https://qiita.com/mi-ta/items/394be44365801035717c</link>
+<guid>48ffe9c95e19ad404cf6f7228a9c704b6493b8e2c9488f4c5d4705abec6580ad</guid>
+<pubDate>2026-10-07T17:37:31+09:00</pubDate>
+<description>はじめに Quarkusで動かすアプリケーションを思い立ったとき、まず道具は何を準備すればいいのかな？と考えるでしょう。最低限JDKがあればOKなのですが、Quarkus CLIがあると何かと役に立ちます。 この記事では、Quarkus CLIの主要な機能を確認し、どのよ...</description>
 </item>
 <item>
-<title>【Qiita】 Codex の Auto-review が無料化、API キー認証では 404 で止まった</title>
-<link>https://qiita.com/kai_kou/items/5e836f81f21549eaec2d</link>
-<guid>3dba6e281eccc15b4d9c26dbf0d458f800cf97570a87ae57b2f3413c8ed51924</guid>
-<pubDate>2026-10-07T11:21:02+09:00</pubDate>
-<description>はじめに Codex の Auto-review が、ChatGPT アカウントでサインインしているすべてのユーザーに無料で提供されるようになりました。2026年10月6日に、OpenAI で Codex を率いる Thibault Sottiaux 氏が X で発表した...</description>
+<title>【Qiita】 SPSS ModelerからSnowflakeへ鍵ペア認証で接続する</title>
+<link>https://qiita.com/spssfun2017/items/90eb93a1edbc203ba445</link>
+<guid>fc4259027d2886731e769ad061bccc1b24019bda10899e10d0fd13e323887b32</guid>
+<pubDate>2026-10-07T17:22:32+09:00</pubDate>
+<description>SPSS ModelerからSnowflakeへ鍵ペア認証で接続する はじめに SPSS ModelerからSnowflakeへ接続する際、パスワードの代わりにRSA鍵ペアを利用した認証が求められることがあります。（パスワード認証の場合はこちら) 本記事では、Snowf...</description>
 </item>
 <item>
-<title>【Qiita】 Agentic AIを学びたい(Step5：Agent Loopで終わるまで繰り返す)</title>
-<link>https://qiita.com/koji0705/items/ef1f2b3c9d1a431d2672</link>
-<guid>817b9b19a85dd229d2aa9f20db4e2a96fcc6c3396927d2fd34b94becdc1689b6</guid>
-<pubDate>2026-10-07T10:32:42+09:00</pubDate>
-<description>はじめに 前回の記事の続きです。今回は、Tool の結果を戻して終わるまで繰り返す Agent Loop にします。 前回は getSchedule、getWeather、getRoute を順に呼び、18:20 に出ると答えました。繰り返しは、5 回までの for でし...</description>
+<title>【Qiita】 さわってみよう Db2 AI エディション #19 〜Db2 Genius CLI編 Part#1〜</title>
+<link>https://qiita.com/ibm_tk/items/6ae67d8e3fcb8f2751ca</link>
+<guid>c7e67a85a3cd93912bf955b5ae497873d581418ba3ea7108a6583777cc0af55a</guid>
+<pubDate>2026-10-07T15:36:54+09:00</pubDate>
+<description>Db2 AI エディション(Db2 AI Advanced, Db2 AI Standard)にはフル機能のDb2 Genius Hubがバンドルされています。 今回は、ターミナル・ベースでDb2 Genius HubへアクセスできるDb2 Genius CLI*1をご紹介...</description>
+</item>
+<item>
+<title>【Qiita】 CAPアプリをAIエージェント化して、BTPからローカルSAPのアドオン発注をチャットで承認するまで【概要編】</title>
+<link>https://qiita.com/asyoroa/items/a2cd9b2c1d6cec1e063a</link>
+<guid>df2ae24645bee41bba88f6a180201a03fdb2fb44ab94b1ca1446402038fe996d</guid>
+<pubDate>2026-10-07T17:47:47+09:00</pubDate>
+<description>CAPで作った簡易的な発注アプリを @cap-js/agents でAIエージェント化し、データの保存先をローカルのABAP環境のZテーブルにして、SAP BTP上で動かしました。Fiori Elementsの画面から発注を登録し、チャットで発注を検索して承認するところまで...</description>
+</item>
+<item>
+<title>【Qiita】 NocoBase を活用して既存の企業システムに AI を導入する方法</title>
+<link>https://qiita.com/TianqiYuan/items/d3f3880c870f47549374</link>
+<guid>f83c2e13af6986ea31212fa1b2c0e7fe62097444ccb3ea9c498593379f9242ce</guid>
+<pubDate>2026-10-07T17:16:14+09:00</pubDate>
+<description>AI の活用範囲は企業ソフトウェアのあらゆる部分へ広がっています。コード生成やデータ分析から、Agent、自動化、業務支援まで、既存システムの使い方そのものを見直す企業が増えています。以前の記事では、企業向けオープンソース AI Agent プラットフォーム 10 選を取り...</description>
+</item>
+<item>
+<title>【Qiita】 直接・間接プロンプトインジェクションの違い：間接型が入力フィルターで防げない理由を検証コードで確かめる</title>
+<link>https://qiita.com/shalXXXX/items/844ffd0a025232b336fb</link>
+<guid>38aad734935117e62e60e7cdd50a1de7a3b76aa097d726e89b7a9950105baba0</guid>
+<pubDate>2026-10-07T17:00:32+09:00</pubDate>
+<description>プロンプトインジェクションには、ユーザー本人がモデルへの指示を上書きしようとする直接型と、Web ページ・メール・文書などモデルが読み込むデータの中に指示が仕込まれる間接型があります。どちらも OWASP Top 10 for LLM の 1 位（LLM01）に含まれますが...</description>
+</item>
+<item>
+<title>【Qiita】 AIの「これ実行していい？」を別のAIに任せていい？｜Codex Auto-review</title>
+<link>https://qiita.com/kinamocchi_tech/items/7daf99e120f452e91c7a</link>
+<guid>339746228bf02d557189315cc878af26e5bbb80416879ac8e11405bee307369e</guid>
+<pubDate>2026-10-07T16:23:26+09:00</pubDate>
+<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → AIの「これ実行していい？」を別のAIに任せていい？｜Codex Auto-review 🐹🦜 この記事に登場する2匹 🐹 もっちー （ハムスター...</description>
+</item>
+<item>
+<title>【自動自律実験】 Can your brain grow new neurons? How researchers are solving a century-old puzzle</title>
+<link>https://www.nature.com/articles/d41586-026-03132-w</link>
+<guid>eb6df34bc0d696bcde2d240c2303026066faa75a4ddf28c1037fef7718c9e001</guid>
+<pubDate>2026-10-07</pubDate>
+<description>Scientists have debated for decades whether the human brain sprouts new neurons throughout life. What would it mean if it could — and how much evidence is enough?</description>
+</item>
+<item>
+<title>【Anthropic】 Introducing Claude Sonnet 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>3f7da65c15d77940e2e97a085bac67fba90eb4bc59f559453494840cfd5951b8</guid>
+<pubDate>Wed, 07 Oct 2026 09:31:51 GMT</pubDate>
+<description>A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>07b49ad7d0b0d101aff2ef69536a7e08b13dd2783cd85d24a4fe1726c3d91b64</guid>
-<pubDate>Wed, 07 Oct 2026 02:32:23 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>258784ce63649052e9b07be9665075a6ae643080526d1aa42639633387a66bad</guid>
+<pubDate>Wed, 07 Oct 2026 09:31:57 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>2b74bd4719d10dbe4d093d6162b4ec6916732a324aef70c195c7b47c02c6a814</guid>
-<pubDate>Wed, 07 Oct 2026 02:32:26 GMT</pubDate>
+<guid>40c14f70e3396f938749a3e4751eb390de9ed4d5ae92959aa09f614655f0c007</guid>
+<pubDate>Wed, 07 Oct 2026 09:32:00 GMT</pubDate>
 <description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Filter By:</title>
-<link>https://www.nature.com/articles/d41586-026-03136-6</link>
-<guid>5d2b74aec1ffda36a5f01f456aed885f0dda0d29685e26d70321fd3034e837cb</guid>
-<pubDate>Wed, 07 Oct 2026 02:32:32 GMT</pubDate>
-<description>Scientists are using cell-free transcription and translation systems to synthesize proteins, design biology-based sensors and develop synthetic cells.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/d41586-026-02994-4</link>
+<guid>88e9f38efdf93fa9ad04dc250bb0a0a2706c24120a29759c652fe8dd07e248e7</guid>
+<pubDate>Wed, 07 Oct 2026 09:32:02 GMT</pubDate>
+<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
+<guid>f8f3e5c10747cd572c4dd738e2e1fec589fd7e44e6254ea99b1cdae9cafa37b7</guid>
+<pubDate>Wed, 07 Oct 2026 09:32:05 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>c7b6b16f5f8beff9a97c3f6f58fe767e67afbb70d6d529886b76d3da60460b18</guid>
+<pubDate>Wed, 07 Oct 2026 09:32:21 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.jircas.go.jp/ja/release/2026/press202614</link>
+<guid>99b7844ebf22391cf09175bc462700a908951ee137e0a6237940a7bde4b52d3e</guid>
+<pubDate>Wed, 07 Oct 2026 09:32:27 GMT</pubDate>
+<description>研究所別一覧</description>
+</item>
+<item>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>09e264c4535c7d031d4ec66eea89218f41fbe0c3dfe51bd2486f3362b679a8a2</guid>
+<pubDate>Wed, 07 Oct 2026 09:32:32 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
