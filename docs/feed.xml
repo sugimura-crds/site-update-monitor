@@ -4,98 +4,113 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 08 Oct 2026 16:41:48 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 21:39:19 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 ⚡AI が PC の中でも動く時代へ⚡ 2026/10/07 の Windows イベントを整理した（Copilot・安全なエージェント・Surface Laptop Ultra）</title>
-<link>https://qiita.com/aktsmm/items/ad8d55525fe63c823598</link>
-<guid>dffd544f769956ca9b31d593f3faee267807d8d207179ba5e872445571e0a967</guid>
-<pubDate>2026-10-09T00:09:27+09:00</pubDate>
-<description>こんにちは、AI の利用料がじわじわ気になってきたアーキテクトのやまぱん！です 😅 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ 2026/10/07 に Microsoft が Windows と Surface のイ...</description>
+<title>【Qiita】 すでにWEBデザイナーの8割は不要である</title>
+<link>https://qiita.com/kotowazaman/items/74621592ace2ff968670?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>26f7340f9b60841acf07768bf3da4b0418238adf413e64c33ae665c47d8a9fce</guid>
+<pubDate>2026-10-07T23:19:19+09:00</pubDate>
+<description>はじめに タイトルは煽りではなく、ここ2〜3年の現場で私が実際に感じていることです。 この記事で言う「WEBデザイナー」は、FigmaやPhotoshopで画面を作る人全般を指します。業務システムのUIを作る人も、LPを作る人も、いったん同じ括りで話します。そのうえで、残...</description>
 </item>
 <item>
-<title>【Qiita】 Opus5.5 による「AI開発速度加速による人類の行く末」の議論 ~Claude Code - SendMessage 機能つかってみた~</title>
-<link>https://qiita.com/o0-sheeefk-0o/items/e0d76e8e0e52da9ceabb</link>
-<guid>35ba63e0cc900711b75cd7a803c316adf5061e23a7d17386e06868fc89e78db1</guid>
-<pubDate>2026-10-09T01:07:04+09:00</pubDate>
-<description>はじめに タスク管理用のリポジトリと実際に実装を行うリポジトリを分けて運用しています（あんまりこのようなシチュエーションはないかもしれないですが）。 リポジトリを横断的に参照しつつ、 タスク管理のエージェント設定と開発用のエージェント設定をコンテキストを分けて実装を進めた...</description>
+<title>【Qiita】 GitHub ActionsとAWSでM5StickS3のファームウェアを遠隔更新する</title>
+<link>https://qiita.com/chaochire/items/a9fbc052170d9748c9e8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>7b4372d14994d9e5fb83bebf4f2f2a4823c9bdb0335336194d0e956e7ecaf2c4</guid>
+<pubDate>2026-10-08T12:03:19+09:00</pubDate>
+<description>こんにちは ソーイ株式会社Webエンジニア2年目の村上です。 M5StickS3で開発を行うのは楽しいのですが、プログラムを更新するたびにM5StickS3をPCへ接続して書き込む必要があります。 出先で機器の状況がログ保存などで確認できても、それに伴う変更が必要な場合に実...</description>
 </item>
 <item>
-<title>【Qiita】 コードはあるのに画面に出ない ― AIエージェント開発で「実装済み」と言う前に確認すること</title>
-<link>https://qiita.com/Archie_notes/items/18c0086940fe117a5a04</link>
-<guid>30011a3904f08fca8a3a3383007dbb27059c8c2fea02896959393df762d46ea8</guid>
-<pubDate>2026-10-08T23:32:52+09:00</pubDate>
-<description>私は今、AIエージェントに実装やテスト、レビューを分担させながら、ソフトウェア開発を進めています。 作っているのは、利用者が情報を入力し、計算した結果を画面で確認する試作ツールです。 その開発で、「機能を実装した」と言う前に何を確かめればよいのか、考え直す出来事がありました...</description>
+<title>【Qiita】 Geminiに出題と採点を任せたら、ピボットもグラフも一言で作れるようになり、ついでにExcelを落とされた話</title>
+<link>https://qiita.com/shu15511551/items/7f16a3e6d63d9e778b6d</link>
+<guid>ededc842fd41fd9b9b0c4d4a2d82760f93153f914e4821291bb0d20f627b083e</guid>
+<pubDate>2026-10-09T06:06:40+09:00</pubDate>
+<description>はじめに 前回の記事は、こう締めました。次回は Gemini 出題編です、今度こそ表を作ってもらいます、と。 その出題編を、ゆうべから今朝にかけてやりました。やってみたら、出題編だけでは終わりませんでした。 Gemini に作ってもらったマクロ撃ちは、直すところがま...</description>
 </item>
 <item>
-<title>【Qiita】 Hermes Agentのマルチエージェント実行を整理する ― delegate_task / Kanban / Kanban Swarm / goal の使い分け</title>
-<link>https://qiita.com/Tadataka_Takahashi/items/fd6426814a9f37ceaf44</link>
-<guid>47e4821198b90b4a5b7fb7438603d33384f6440f7e33588784ab3eda14400699</guid>
-<pubDate>2026-10-08T23:24:00+09:00</pubDate>
-<description>はじめに Nous Research の Hermes Agent には、エージェントへ仕事を任せる仕組みが複数あります。 delegate_task（サブエージェント委譲） Kanban（マルチエージェントボード） Kanban Swarm（hermes kan...</description>
+<title>【Qiita】 経理業務をAIエージェントに任せるときの線引き：証憑・請求・照合と承認ゲート</title>
+<link>https://qiita.com/Xim2jp/items/e6dc5c099ff13cbbf402</link>
+<guid>3ac8e86a42e20af0cdeacc965bf0653838bba6217a63feb5deb51c0d041a4e8e</guid>
+<pubDate>2026-10-09T04:45:20+09:00</pubDate>
+<description>経理のAI化で止まりやすいのは「責任」の部分 PDFを読んで日付や金額を拾う処理は、言語モデルが得意とするところです。それでも経理の自動化が進みにくいのは、間違えたときに取り返せるかどうかが操作によって違うからです。 誤った仕訳：修正仕訳で直せる 誤った送金：相手の協力...</description>
 </item>
 <item>
-<title>【Qiita】 GitHub Copilotのトークン節約術10選｜VS CodeのAgentモードでAI利用コストを抑える</title>
-<link>https://qiita.com/Ito_110/items/55bf6ba80e19e1eefa2a</link>
-<guid>9319a055abf1775035b5913a2e4be9165aa18129da60f59f8e0ae7625fced1ca</guid>
-<pubDate>2026-10-08T23:00:16+09:00</pubDate>
-<description>対象読者：VS CodeでGitHub Copilot Chat・Agentモードを日常的に使う開発者 確認日：2026年10月8日 注意：料金・モデル・UIは変更されるため、最新の公式ドキュメントも確認してください。 はじめに GitHub CopilotのAgen...</description>
+<title>【農業】 FAO’s From Seeds to Foods exhibition opens at Rome’s historic Circo Massimo, showcasing global agrifood innovation</title>
+<link>https://www.fao.org/newsroom/detail/fao-s-from-seeds-to-foods-exhibition-opens-at-rome-s-historic-circo-massimo--showcasing-global-agrifood-innovation/en</link>
+<guid>f74c85cae1b3d4b7ea84c3cb83bee27e2a6795841daf61193f4768da3e48362d</guid>
+<pubDate>Thu, 08 Oct 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【農業】 Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity</title>
-<link>https://www.nature.com/articles/s43016-026-01432-y</link>
-<guid>c8124812d0e6473dbc80dc6a9d265d2998487d099d5d57f03b52fc3217e4e415</guid>
+<title>【自動自律実験】 Women are talking about menopause — health systems must listen</title>
+<link>https://www.nature.com/articles/d41586-026-03218-5</link>
+<guid>f8c3ff4b0ca890394b3bb2120ac8236548fed28b54c470c384b03e5e9f1cce73</guid>
 <pubDate>2026-10-08</pubDate>
-<description>Extreme weather events, including heatwaves, droughts and especially compound heatwave–drought events, increasingly threaten global wheat production, yet their impacts are often underestimated by existing models. Improved crop modelling enables more accurate simulations of yield losses and reveals that the effectiveness</description>
+<description>In the Arab world, lack of training, research and discussion about menopause is hampering care. Three changes can help.</description>
 </item>
 <item>
-<title>【自動自律実験】 Author Correction: Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity</title>
-<link>https://www.nature.com/articles/s41586-026-11266-0</link>
-<guid>695b53bb47a8ec58ac65926119379e1c4c20482b0497b39091a71a32ba92a7f8</guid>
+<title>【自動自律実験】 US proposes $100,000 charge for international students to do post-graduate work</title>
+<link>https://www.nature.com/articles/d41586-026-02921-7</link>
+<guid>a29162afb017377858070bf0c8208e93156dc7f14a6fee658fb365ac71690ffd</guid>
 <pubDate>2026-10-08</pubDate>
-<description>Author Correction: Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity</description>
+<description>Proposed rule would choke off a crucial STEM talent pipeline, policy specialists say</description>
 </item>
 <item>
-<title>【自動自律実験】 Editorial Expression of Concern: Maternal gut bacteria promote neurodevelopmental abnormalities in mouse offspring</title>
-<link>https://www.nature.com/articles/s41586-026-11070-w</link>
-<guid>b55cafdac434f1b77a6032aaee96c192d3593b16e655ad76c4346bbfbc428f6b</guid>
+<title>【自動自律実験】 How to build a mouse: embryo development captured in stunning detail</title>
+<link>https://www.nature.com/articles/d41586-026-03193-x</link>
+<guid>f1f65d409d83d9203f77c3f975dc674f8483bd895e001e29d7fca92d0dfeec98</guid>
 <pubDate>2026-10-08</pubDate>
-<description>Editorial Expression of Concern: Maternal gut bacteria promote neurodevelopmental abnormalities in mouse offspring</description>
+<description>Gene-editing technologies enabled researchers to trace the cell-by-cell development of a single fertilised mouse egg to a late-stage embryo.</description>
 </item>
 <item>
-<title>【自動自律実験】 UAE completes Arab world&#x27;s first solo space probe &lt;b&gt;– &lt;/b&gt;and sets course for an asteroid</title>
-<link>https://www.nature.com/articles/d41586-026-03154-4</link>
-<guid>aad30f456f2b016942ca28d06dca68710bac6e6479f28f33942ebf361daea82b</guid>
-<pubDate>2026-10-08</pubDate>
-<description>The device will be launched on a joint UAE-US-built craft. Some researchers say it could be the last mission constructed with outside help.</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/turboslice-reusing-quantized-codes-for-fast-jl-style-search/</link>
+<guid>1c2fc1e2fbc211c959f07349b8a3fc0bfadbffa79748ce50ea59dd66d757e390</guid>
+<pubDate>Thu, 08 Oct 2026 21:38:31 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>b1d90109cba7790e6b6e82bfe7825ef68868ae14210901c7edbf7082151b8170</guid>
-<pubDate>Thu, 08 Oct 2026 16:40:30 GMT</pubDate>
+<guid>383115179b4d1656116856e51cbaf002faa4b6080ec873d73a34863592bbc040</guid>
+<pubDate>Thu, 08 Oct 2026 21:38:33 GMT</pubDate>
 <description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>497302039aadd4236ea15c078b5230b967728f5f9f86e26d9c530d50120a9667</guid>
-<pubDate>Thu, 08 Oct 2026 16:40:32 GMT</pubDate>
+<guid>46aaa2eeaf4a7db913ccc64d61321148053e5d990596e71b7bd4f41637aa353d</guid>
+<pubDate>Thu, 08 Oct 2026 21:38:35 GMT</pubDate>
 <description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-03331-9</link>
-<guid>2a440a28b89be89039ec901134a172d1cdd9299b1811857982c6755190ea0ca2</guid>
-<pubDate>Thu, 08 Oct 2026 16:40:35 GMT</pubDate>
-<description>The development of semantic imaging signs is time-consuming and relies heavily on clinicians’ experiential knowledge, whereas the abundance of quantitative radiomic features often poses challenges in interpretability and clinical translation. We developed an agentic AI pipeline to autonomously translate quantitative morphological features into semantic signs. The pipeline autonomously performed end-to-end processing—from descriptive statistical profiling and semantic sign translation to visualization. In a development dataset of 106 supratentorial glioblastoma (GBM) cases, the pipeline generated eight candidate signs; the three most consistently proposed signs&amp;nbsp;were the&amp;nbsp;cauliflower, eggplant, and pancake signs. Two radiologists independently validated the cauliflower sign on an external cohort of 50 GBMs and 50 metastases, achieving AUCs of 0.73 (95% CI: 0.64–0.82) and 0.77 (95% CI: 0.69–0.85), respectively (mean 0.75) for tumor differentiation. These findings demonstrate that agentic AI can directly derive semantic imaging signs from quantitative features, offering a systematic and data-driven framework for sign discovery that may enhance the interpretability and clinical</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>e21a76ad8eaf89139d7ee7107e491ef27b54a72f01c6dac83c0d08083b66af5d</guid>
+<pubDate>Thu, 08 Oct 2026 21:38:36 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【U.S.】 Suggested Matches</title>
-<link>https://www.energy.gov/search?keywords=%22Genesis%20Mission%22</link>
-<guid>ffce1699d065805f7cc12eaac8e7ed26afd0200f709ad146b054cffd331c7f32</guid>
-<pubDate>Thu, 08 Oct 2026 16:40:55 GMT</pubDate>
-<description>… Quantum Genesis … Quantum Genesis Priorities … Explore the Genesis Mission … for Science Darío Gil serves as DOE’s director for the Genesis Mission . Subscribe to the office’s newsletter or follow Dr. … Part of the broader Genesis Mission , Quantum Genesis brings together DOE National …</description>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>69c3cd72ab6606e6cc346d6e991dd5dcef9eda32b5c890072a7ce0cfcf87b2ae</guid>
+<pubDate>Thu, 08 Oct 2026 21:38:39 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>a3614851e9179e130da467e9b46cfb60046e39faeb7015315d4a0b4928f57f9b</guid>
+<pubDate>Thu, 08 Oct 2026 21:39:01 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>785571406266152f72aef22ca151356c10cd18e8b9afea169dec0dc6f2377424</guid>
+<pubDate>Thu, 08 Oct 2026 21:39:03 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
