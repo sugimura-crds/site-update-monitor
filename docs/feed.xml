@@ -4,71 +4,92 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 07 Oct 2026 22:08:34 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 02:08:13 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Strands Deciderハンズオン！</title>
-<link>https://qiita.com/har1101/items/cf5e734358e09f2410d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>542bc59e182894b4b28400c2821f8749c3ff72fa459a90c7b2cd0f5cc3f5a5fb</guid>
-<pubDate>2026-10-07T14:25:40+09:00</pubDate>
-<description>このイベント用のハンズオン手順です。どなたでも好きなときに試せます！(環境構築を含めて1.5時間目安) 2026/10/1、AWSから発表されたStrands Deciderを動かすハンズオンです。 Strands Deciderは文章を生成せず、用意した選択肢...</description>
+<title>【Qiita】 Azure API Management の Content Safety ポリシーを使用</title>
+<link>https://qiita.com/FukuharaYohei/items/4df1e33ec62849cf466a</link>
+<guid>7f7b291c0107834f4ee21d0f076a6386eeb0d18845e79af68b91535ccb053678</guid>
+<pubDate>2026-10-08T09:33:00+09:00</pubDate>
+<description>Azure API Management で AI Content Safetyのポリシーllm-content-safetyを使う手順を記録しました。以下のコンテンツの内容です。 前提条件 Microsoft Foundry リソース作成済 モデルデプ...</description>
 </item>
 <item>
-<title>【Qiita】 Opus先生復活、Geminiが作ったマクロ撃ちを採点してもらった話</title>
-<link>https://qiita.com/shu15511551/items/1a184142f6b55947b62d</link>
-<guid>4f5d1a56cab9a324476a4052e4244359452d76eff50ce00612782eb14de0b1ba</guid>
-<pubDate>2026-10-08T05:36:41+09:00</pubDate>
-<description>はじめに 週の利用枠が戻って、Claude の Opus が帰ってきました。 留守のあいだ、私は Gemini と組んで「マクロ撃ち」を育てていました。指示文を書かずに、ボタン 1 回で表の汚れを片付ける機能です。前作では、自分で書いて、自分でコンパイルして、自分でテスト...</description>
+<title>【Qiita】 GitHubが「AIエージェント時代」を見据えて、Gitの基盤を再整備</title>
+<link>https://qiita.com/yoshioterada/items/e796d7255e0a4efdb9f9</link>
+<guid>799e470c00c294de218b4f8408bdde9200ed6e99a77163ae53fae8c55744d5a6</guid>
+<pubDate>2026-10-08T07:13:36+09:00</pubDate>
+<description>2026年10月7日 GitHubから、とても興味深い情報が公開されました。 Building Git infrastructure for agent-scale development 今回の話は、新しいAI機能が追加されたという話ではありません。 AIエージェン...</description>
 </item>
 <item>
-<title>【Qiita】 Smithery で人気の MCP サーバー 46 個を調べたら、7 割のツールが「いつ使うか」を書いていなかった</title>
-<link>https://qiita.com/nomunomu0504/items/b2eab1960a7aad38b59d</link>
-<guid>b2c268f8cc4e8e317905143980a4a257bd5383f31c637cbf7222755737fd5fb0</guid>
-<pubDate>2026-10-08T04:45:17+09:00</pubDate>
-<description>MCP サーバーのディレクトリ Smithery で利用回数の多いサーバーを 46 個選び、計 1,118 ツールの説明文を調べました。769 ツール（69%）が「いつ使うか」を書いていません。 「何を返すか」が説明文にないツールも 507 個（45%）ありました。似た説明...</description>
+<title>【Qiita】 2026年10月8日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/6f52d1e447168f83ae23</link>
+<guid>2965b7e43c7b6dc1a771bb4e18d2c6bea9939831e6b19c217671f411f53ecc9f</guid>
+<pubDate>2026-10-08T10:49:21+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 最近プロジェクトマネジメントで感じたこと ht...</description>
 </item>
 <item>
-<title>【Qiita】 AIモデレーターに別ルームを触らせない：読み取り専用＋Room固定PermitをPythonで実装する</title>
-<link>https://qiita.com/susie000720/items/c93bbda776369d6c4382</link>
-<guid>ace19167daa7cfd1217acf65dec4d886d0cf70c2574a739e5480dc5d8928643d</guid>
-<pubDate>2026-10-08T02:10:20+09:00</pubDate>
-<description>ライブ配信へAIモデレーターを追加すると、コメントの整理や対応候補の提示は自動化できます。一方で運営者が本当に不安なのは、AIの文章が自然かどうかより、別のルームや別の参加者へ操作が及ばないか、そして実行されていない処理を「対応済み」と表示しないかです。 プロンプトに「勝手...</description>
+<title>【Qiita】 【AWS AI League】Bedrock AgentCore でAIエージェントを作ってハマった6つのこと</title>
+<link>https://qiita.com/AyaKunisawa/items/4e1d87e075a3bae93f40</link>
+<guid>03263c41d0729903b21351ee09e6be76a14d59ef03345f325bab654780bffcbd</guid>
+<pubDate>2026-10-08T10:01:51+09:00</pubDate>
+<description>何をやったのか AWS がやっている「AWS AI League」の Agentic AI チャレンジに参加してきました。 参加したのは、DNPグループ会社向けにプライベート開催された回で、League開催期間は72時間でした。 ルール自体はめちゃくちゃシンプルで、自分...</description>
 </item>
 <item>
-<title>【農業】 FAO Director-General honours Uzbekistan’s President with prize during visit to Tashkent</title>
-<link>https://www.fao.org/newsroom/detail/fao-director-general-honours-uzbekistan-s-president-with-prize-during-visit-to-tashkent/en</link>
-<guid>0164305c687418190c5776c5576cd4ab28d0cfa450b64ff8dfe71e6ef008c1aa</guid>
-<pubDate>Wed, 07 Oct 2026 12:00:00 Z</pubDate>
-<description></description>
+<title>【Qiita】 `cd ~`の先はrootだった。ハーネスの作業ディレクトリには、同じリポジトリが先に置かれていた</title>
+<link>https://qiita.com/Hideki_Tamae/items/e1523df2cb58fe8073f7</link>
+<guid>2a5933aa5683deae8378642bef77de0b5eb9c0c9bb696da8eb565f312ce09aeb</guid>
+<pubDate>2026-10-08T09:47:30+09:00</pubDate>
+<description>はじめに 2。 これが今回の数字です。何の2かというと、今日このタスクを始めた時点で、zenn-contentリポジトリが実際に存在していた場所の数です。qiita-contentも同じく2か所でした。 この定期タスクの指示書は、作業対象を~/zenn-content・~...</description>
 </item>
 <item>
-<title>【自動自律実験】 Nobel Prizes 2026: brain switches, ‘ghost’ particle hunter, and &#x27;the chemistry of life&#x27;</title>
-<link>https://www.nature.com/articles/d41586-026-03208-7</link>
-<guid>d2d73c0292c7e2aec90e8e0336585f472740629b88a287e8ae71816ac23703ed</guid>
+<title>【Qiita】 「東京タワー」を住所検索したら、先頭は札幌市東区だった【kurashi-skill Day 28】</title>
+<link>https://qiita.com/Ichiropen/items/a20c5ad3e54872f94536</link>
+<guid>389d0cc8515b464954582ce32fde0da9bcfe11f0e0964345830611ee6934ee5f</guid>
+<pubDate>2026-10-08T09:33:32+09:00</pubDate>
+<description>東京タワーの緯度経度がほしくて、国土地理院の住所検索APIに「東京タワー」と投げた。先頭の結果は「北海道札幌市東区」だった。HTTP 200で、きれいなJSONで、何も間違っていない顔をして。 起: 住所から座標が、キーなしで取れる 国土地理院は、住所から緯度経度を返すA...</description>
+</item>
+<item>
+<title>【自動自律実験】 NASA releases trove of Moon data from historic Artemis II flight</title>
+<link>https://www.nature.com/articles/d41586-026-03197-7</link>
+<guid>f790a1a31688e3ca7541f7fc8cc07f169e0cbf5c9e2cfc0291a12405236e688b</guid>
 <pubDate>2026-10-07</pubDate>
-<description>Nature rounds up the Nobel Prizes for science — plus, hints of the ancestral human gut microbiome.</description>
-</item>
-<item>
-<title>【Anthropic】 Introducing Claude Haiku 5.5</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>ad0983825d927714f7503ff5fe1289d894a9fa33f629b08398347fee76f2780b</guid>
-<pubDate>Wed, 07 Oct 2026 22:07:10 GMT</pubDate>
-<description>Our fastest, cheapest, and most capable small model yet. It’s designed for high-volume, cost-sensitive work.</description>
+<description>Annotated images and more collected by the four astronauts could inform missions to the lunar surface.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>f9bb64b8fa57142b09ff167d6e62665d11034f3ee4a294a80940d4cb0aa498a2</guid>
-<pubDate>Wed, 07 Oct 2026 22:07:43 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>a04eb73d0db32b0bdcecab64dd7b623066aa268246d321f78fc720926593ecd7</guid>
+<pubDate>Thu, 08 Oct 2026 02:07:14 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-78268-4</link>
+<guid>838b0dbfa5a76f75c72fe54eef34fef2d185874789ff306989969929a7413fb0</guid>
+<pubDate>Thu, 08 Oct 2026 02:07:17 GMT</pubDate>
+<description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>658139a1d679a4924e8408dade26684e17065dcbbcda6d49eef991a3e575061f</guid>
+<pubDate>Thu, 08 Oct 2026 02:07:25 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>09bf256a5a2c0d1a2e7d8104ff2cd6e478884f85e0672a2dac962d77d74b3108</guid>
-<pubDate>Wed, 07 Oct 2026 22:08:14 GMT</pubDate>
+<guid>3ac8a776078347dd3f560d60216078dc6d688dd53247531b1291913265443c4c</guid>
+<pubDate>Thu, 08 Oct 2026 02:07:55 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>4f737bb3a21066c7cf7a996e6a0fca6096a2525dde91993a263bc2878616f18c</guid>
+<pubDate>Thu, 08 Oct 2026 02:07:56 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
