@@ -4,127 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 09 Oct 2026 15:25:29 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 20:11:35 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 OpenAI の Decisions API を触ってみた</title>
-<link>https://qiita.com/hiroshi_ito9854/items/ff26fe2e239e23305f26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>136a2252600affb392d358acb97bc64cb25775db33fcf359fe0cf8c6bb7749b4</guid>
-<pubDate>2026-10-08T20:23:41+09:00</pubDate>
-<description>はじめに 少し前に、TypeSafe AIのjevが話題になりました。文章を生成せず、決められた型の答えと確信度だけを返すモデルで、LLMより桁違いに速くて安いとうたわれています。 同じ発想のAPIとして、OpenAIが2026年10月6日、Decisions APIを全...</description>
+<title>【Qiita】 シンギュラリティはどこへ行くのか――ビッグヒストリーから考えるAIと人類の未来</title>
+<link>https://qiita.com/mhamadajp/items/7dacc9b839e5198c4884</link>
+<guid>b399a3b97879fc8c53628544be6ad9dfbb76d0bdbf931eb225c12a4119293400</guid>
+<pubDate>2026-10-10T04:59:58+09:00</pubDate>
+<description>生成AIは、文章を書き、画像を作り、プログラムを書く。試験問題にも答えられる。AIをめぐる話題では、こうした「いま何ができるか」や、ベンチマークの得点に注目が集まりやすい。 しかし、知能と文明のこれからを考える際には、別の見方もある。AIが人間の途中介入なしに、計画・実行・...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Bobと一緒に約75円でAzure BatchのPoCをやってみた</title>
-<link>https://qiita.com/takumiida1/items/0bbc471bd9a937f80413</link>
-<guid>df83a8ef999f44a05b141f283ff0c8b9f32375ce455234c636b36089452080b0</guid>
-<pubDate>2026-10-09T19:45:56+09:00</pubDate>
-<description>Summary Azure Batch の閉域コンテナ実行環境（Private Endpoint・Managed Identity・NFSv3 マウント）を Bicep で IaC 化し、4時間・約75円の検証コストですぐ立てすぐ消すことができた NFSv3 マウン...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Codeの引用・コードブロックにコピーボタンを付けるmod</title>
-<link>https://qiita.com/y-hirakaw/items/219becbf896009aba2ef</link>
-<guid>929f6ed71b9620490b2edef81f3310185fbd49235988941795215ae598ae3b86</guid>
-<pubDate>2026-10-09T23:39:57+09:00</pubDate>
-<description>Slackの返事をコピーするたびに、余計なものを消していました Slackに書く返事をClaudeに考えてもらうと、Claude Codeは返事の文面を&gt;の引用ブロックで出してくれます。これをそのままSlackに貼りたいのですが、ターミナルで選択してコピーすると、行頭に▎...</description>
-</item>
-<item>
-<title>【Qiita】 ACIとは？ AIエージェントが操作しやすいインターフェースを考える</title>
-<link>https://qiita.com/engchina/items/e00b2a65006caed1fd08</link>
-<guid>f1f8d254db4e052802901bb356c18584dcf1634678478066e1aab9da86d05608</guid>
-<pubDate>2026-10-09T21:42:29+09:00</pubDate>
-<description>初めに AIエージェントにツールを渡しても、期待どおりに動くとは限りません。 引数を間違える。必要な情報を見落とす。処理が成功したのに、失敗したと思って再実行する。 こうした問題を減らすために考えたいのが、**ACI（Agent-Computer Interface）**...</description>
-</item>
-<item>
-<title>【Qiita】 趣味のプログラミングならopencodeで十分かもしれない</title>
-<link>https://qiita.com/elm200/items/dbe3a5be64f4b493a5ce</link>
-<guid>b0c3d249188a40da8023e965d2dfe621a4ff3534cb2459edd32b8b96b8b9e2c7</guid>
-<pubDate>2026-10-09T21:12:07+09:00</pubDate>
-<description>仕事で大量のファイル操作が必要なら難しいとは思うが、趣味で小さなウェブアプリを作って運用する程度なら、OpenCodeの無料枠で実は十分コードが書けてしまうらしいことに最近気が付いた。 とりあえず Meta の出している Muse Spark 1.3 は良いと思う。賢いし速...</description>
-</item>
-<item>
-<title>【Qiita】 AIが報告しなかった問題を、どう見つけるか ── 評価器の手前にある「観測」の設計</title>
-<link>https://qiita.com/BugiAK/items/683f9f3c8f2476f943c8</link>
-<guid>736f95074beebce9484cd929611f8a54970f364755688b648d804309c9c80697</guid>
-<pubDate>2026-10-09T20:26:00+09:00</pubDate>
-<description>はじめに Jevシリーズも4本目です。 第二弾の最後で、 Jevは、AIというよりソフトウェアに埋め込める意味センサーである と書きました。 そして第三弾では、その意味センサーをどこに置くかを、公式Cookbookから見ました。 ただ、センサーには当たり前の制約があり...</description>
-</item>
-<item>
-<title>【環境】 Topographic variation shapes organismal responses across mountain landscapes</title>
-<link>https://www.nature.com/articles/s41558-026-02773-z</link>
-<guid>2aafffbbf4f9e83c9d322b61bc1b56cff2bd495675104c0b1bc863f32c29b42e</guid>
+<title>【自動自律実験】 Breaking down nerve-cell scaffold relieves chronic pain in mice</title>
+<link>https://www.nature.com/articles/d41586-026-03159-z</link>
+<guid>f4063da36721a3d1dfec24bb6e6e95ace9ae79e0b0110246c0869356ee6cf1ba</guid>
 <pubDate>2026-10-09</pubDate>
-<description>The authors developed simulations to examine the role of topographic variation in mediating species response to climate change. They show that topographic variation can reduce energy expenditure by up to 20.8% and increase buffering benefits of elevation shifts by 82.1% for a diurnal ectotherm.</description>
+<description>Results could help researchers to develop painkillers that are safer and more effective than existing treatments.</description>
 </item>
 <item>
-<title>【環境】 Limited agricultural gains but high flood risk from global wetland reclamation</title>
-<link>https://www.nature.com/articles/s41893-026-01965-x</link>
-<guid>ec6e2c20a6901faab2786f08661acdf03ecdbf93508b4ac364b5922b1ab2d582</guid>
+<title>【自動自律実験】 Watch this invisible tattoo appear under UV light</title>
+<link>https://www.nature.com/articles/d41586-026-03210-z</link>
+<guid>be957ae6f1d18bf3315f9f6120424b94f95d77f99d950004caeec7510c064f74</guid>
 <pubDate>2026-10-09</pubDate>
-<description>As food demand increases, global wetlands are being reclaimed as croplands; however, these reclaimed croplands are not only less productive, but also face substantially higher flood exposure. This dual vulnerability highlights the urgency of balancing food security with wetland conservation.</description>
-</item>
-<item>
-<title>【自動自律実験】 Briefing Chat: Top researchers are being misled by sham academic societies</title>
-<link>https://www.nature.com/articles/d41586-026-03216-7</link>
-<guid>a54a3bd43d63b37bac5c9e1499a53eef1e1941fec6ff3812f36d3ffd150e703e</guid>
-<pubDate>2026-10-09</pubDate>
-<description>Nature staff discuss a network of organizations that have been building their ranks through deceptive practices.</description>
-</item>
-<item>
-<title>【自動自律実験】 Chimp and gorilla brains resist weight loss with age — unlike human brains</title>
-<link>https://www.nature.com/articles/d41586-026-03158-0</link>
-<guid>fbdabb2aefbeb7eb5fce2b1d13d476537e955b2ab587b66bbed86ab33f1072e5</guid>
-<pubDate>2026-10-09</pubDate>
-<description>The relatively short lifespans of non-human great apes might explain why their brain mass is maintained in later life</description>
-</item>
-<item>
-<title>【自動自律実験】 The life of Darwin and the science of clouds: Books in brief</title>
-<link>https://www.nature.com/articles/d41586-026-03217-6</link>
-<guid>f5870d680bf3124854eb90d8ec54b84666d614a1cb6e46f950114fb3062d0086</guid>
-<pubDate>2026-10-09</pubDate>
-<description>Andrew Robinson reviews five of the best science picks.</description>
-</item>
-<item>
-<title>【自動自律実験】 An experiment to glimpse the future Amazon — in pictures</title>
-<link>https://www.nature.com/articles/d41586-026-02909-3</link>
-<guid>ce740de9ef6eafefcb0abe0e008fc49447d1e1c7c9974fc9e65d7452f7eec80f</guid>
-<pubDate>2026-10-09</pubDate>
-<description>David Lapola is testing a big climate-science unknown: how will the forest cope as atmospheric carbon dioxide continues to rise?</description>
-</item>
-<item>
-<title>【自動自律実験】 Publisher Correction: Sleep chart of biological ageing clocks in middle and late life</title>
-<link>https://www.nature.com/articles/s41586-026-11273-1</link>
-<guid>d8cf916137c750d877a39b0fca05b69d85695565fbdd1ac336b9b8b9654474c0</guid>
-<pubDate>2026-10-09</pubDate>
-<description>Publisher Correction: Sleep chart of biological ageing clocks in middle and late life</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>224dad83ab8c13d5eee480a8705fd357b3cfc1a397f757e65d2f952d5d6749ec</guid>
-<pubDate>Fri, 09 Oct 2026 15:24:02 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<description>The ink could be useful for medical tattooing, but more tests are needed before it is widely available.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>e6b3824b29cd9695484c292cbb524227f2408248da1d1503340b78e70cb402ad</guid>
-<pubDate>Fri, 09 Oct 2026 15:24:05 GMT</pubDate>
+<guid>23e11c9f29d8620d6442f8dc519f80409c4edd25ffa7e526df5d379b7f907caa</guid>
+<pubDate>Fri, 09 Oct 2026 20:10:30 GMT</pubDate>
 <description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>08a909fb7a818ab5b7177cd8c4b7bbd69a3f9687963a422dff58bcd6e7b756c7</guid>
-<pubDate>Fri, 09 Oct 2026 15:24:07 GMT</pubDate>
+<guid>99c2afe4462d8215724867dd81f84bd7fc17cdb2285de7a916c90ad67bb8ad87</guid>
+<pubDate>Fri, 09 Oct 2026 20:10:33 GMT</pubDate>
 <description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>35cdeafbc46394938118650d40e7a10e4c0bccfaff3e52bd755ce58940aef3f4</guid>
-<pubDate>Fri, 09 Oct 2026 15:25:10 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
+<link>https://www.eurohpc-ju.europa.eu/index_en</link>
+<guid>ee07401c562403a4784edd869fba5bd2d088c6f78543071a13d4ad258a7ce579</guid>
+<pubDate>Fri, 09 Oct 2026 20:10:46 GMT</pubDate>
+<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>654f32b535492e2c03c774e28cf18c7389ab19dc04d33eb09abc903a2c6ecbf8</guid>
+<pubDate>Fri, 09 Oct 2026 20:11:17 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
