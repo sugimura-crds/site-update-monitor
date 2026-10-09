@@ -4,113 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 08 Oct 2026 21:39:19 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 01:34:12 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 すでにWEBデザイナーの8割は不要である</title>
-<link>https://qiita.com/kotowazaman/items/74621592ace2ff968670?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>26f7340f9b60841acf07768bf3da4b0418238adf413e64c33ae665c47d8a9fce</guid>
-<pubDate>2026-10-07T23:19:19+09:00</pubDate>
-<description>はじめに タイトルは煽りではなく、ここ2〜3年の現場で私が実際に感じていることです。 この記事で言う「WEBデザイナー」は、FigmaやPhotoshopで画面を作る人全般を指します。業務システムのUIを作る人も、LPを作る人も、いったん同じ括りで話します。そのうえで、残...</description>
+<title>【Qiita】 `git status`はクリーンだと言った。`git checkout -B`は、2件とも「破壊的操作」として拒否された</title>
+<link>https://qiita.com/Hideki_Tamae/items/318cac43e2098e61c356</link>
+<guid>c47832ed09e3d9c4a61bd108ae279121b651927815dcb507082dca9fdf5711bd</guid>
+<pubDate>2026-10-09T09:47:21+09:00</pubDate>
+<description>はじめに 2。 これが今回の数字です。今回の定期タスクは、まずZenn用とQiita用、2つのリポジトリをそれぞれ最新のoriginに合わせる、というごく普通の準備作業から始まりました。手順はいつも同じで、git fetch originのあと、git statusで作業...</description>
 </item>
 <item>
-<title>【Qiita】 GitHub ActionsとAWSでM5StickS3のファームウェアを遠隔更新する</title>
-<link>https://qiita.com/chaochire/items/a9fbc052170d9748c9e8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>7b4372d14994d9e5fb83bebf4f2f2a4823c9bdb0335336194d0e956e7ecaf2c4</guid>
-<pubDate>2026-10-08T12:03:19+09:00</pubDate>
-<description>こんにちは ソーイ株式会社Webエンジニア2年目の村上です。 M5StickS3で開発を行うのは楽しいのですが、プログラムを更新するたびにM5StickS3をPCへ接続して書き込む必要があります。 出先で機器の状況がログ保存などで確認できても、それに伴う変更が必要な場合に実...</description>
+<title>【Qiita】 CIのWARN 7件を1件ずつ開いたら、壊れていたのは0件だった【kurashi-skill Day 29】</title>
+<link>https://qiita.com/Ichiropen/items/f5a706d43313a91d290c</link>
+<guid>95de984d284fb882143ecf0d772cf89c5cc192826c6a4fc66b5cd6f7f6c04f35</guid>
+<pubDate>2026-10-09T09:29:33+09:00</pubDate>
+<description>kurashi-skillを v1.0.0 にする前に、27スキルを全部点検した。CIは全部緑。でも緑は「問題なし」ではなく「問題を見つけられなかった」でしかない。だから、緑の中身を数えた。 起: 緑が何を見ているか 2026-10-05に、CIが走らせている検査をそのま...</description>
 </item>
 <item>
-<title>【Qiita】 Geminiに出題と採点を任せたら、ピボットもグラフも一言で作れるようになり、ついでにExcelを落とされた話</title>
-<link>https://qiita.com/shu15511551/items/7f16a3e6d63d9e778b6d</link>
-<guid>ededc842fd41fd9b9b0c4d4a2d82760f93153f914e4821291bb0d20f627b083e</guid>
-<pubDate>2026-10-09T06:06:40+09:00</pubDate>
-<description>はじめに 前回の記事は、こう締めました。次回は Gemini 出題編です、今度こそ表を作ってもらいます、と。 その出題編を、ゆうべから今朝にかけてやりました。やってみたら、出題編だけでは終わりませんでした。 Gemini に作ってもらったマクロ撃ちは、直すところがま...</description>
-</item>
-<item>
-<title>【Qiita】 経理業務をAIエージェントに任せるときの線引き：証憑・請求・照合と承認ゲート</title>
-<link>https://qiita.com/Xim2jp/items/e6dc5c099ff13cbbf402</link>
-<guid>3ac8e86a42e20af0cdeacc965bf0653838bba6217a63feb5deb51c0d041a4e8e</guid>
-<pubDate>2026-10-09T04:45:20+09:00</pubDate>
-<description>経理のAI化で止まりやすいのは「責任」の部分 PDFを読んで日付や金額を拾う処理は、言語モデルが得意とするところです。それでも経理の自動化が進みにくいのは、間違えたときに取り返せるかどうかが操作によって違うからです。 誤った仕訳：修正仕訳で直せる 誤った送金：相手の協力...</description>
-</item>
-<item>
-<title>【農業】 FAO’s From Seeds to Foods exhibition opens at Rome’s historic Circo Massimo, showcasing global agrifood innovation</title>
-<link>https://www.fao.org/newsroom/detail/fao-s-from-seeds-to-foods-exhibition-opens-at-rome-s-historic-circo-massimo--showcasing-global-agrifood-innovation/en</link>
-<guid>f74c85cae1b3d4b7ea84c3cb83bee27e2a6795841daf61193f4768da3e48362d</guid>
-<pubDate>Thu, 08 Oct 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【自動自律実験】 Women are talking about menopause — health systems must listen</title>
-<link>https://www.nature.com/articles/d41586-026-03218-5</link>
-<guid>f8c3ff4b0ca890394b3bb2120ac8236548fed28b54c470c384b03e5e9f1cce73</guid>
-<pubDate>2026-10-08</pubDate>
-<description>In the Arab world, lack of training, research and discussion about menopause is hampering care. Three changes can help.</description>
-</item>
-<item>
-<title>【自動自律実験】 US proposes $100,000 charge for international students to do post-graduate work</title>
-<link>https://www.nature.com/articles/d41586-026-02921-7</link>
-<guid>a29162afb017377858070bf0c8208e93156dc7f14a6fee658fb365ac71690ffd</guid>
-<pubDate>2026-10-08</pubDate>
-<description>Proposed rule would choke off a crucial STEM talent pipeline, policy specialists say</description>
-</item>
-<item>
-<title>【自動自律実験】 How to build a mouse: embryo development captured in stunning detail</title>
-<link>https://www.nature.com/articles/d41586-026-03193-x</link>
-<guid>f1f65d409d83d9203f77c3f975dc674f8483bd895e001e29d7fca92d0dfeec98</guid>
-<pubDate>2026-10-08</pubDate>
-<description>Gene-editing technologies enabled researchers to trace the cell-by-cell development of a single fertilised mouse egg to a late-stage embryo.</description>
+<title>【Qiita】 3人・月商250万円の会社がAI経営OS(CFO/COO/CMO)を作った記録</title>
+<link>https://qiita.com/sescore/items/6a5d162146a68c69cc46</link>
+<guid>0c1fbf6d791c9ea2b3437808311259a6dab5ceb2d68b0921ab9f1b13870e0444</guid>
+<pubDate>2026-10-09T08:08:54+09:00</pubDate>
+<description>3人で月商250万円、管理コストだけが膨らんでいく会社だった 前提を先に書く。うちは代表含めて3人の会社で、コンテンツ自動化やSES関連の受託を組み合わせて月商250万円前後で回している。人数が増えないまま案件が増えると、現場の手が止まる理由はコードではなく「誰が何を決め...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/turboslice-reusing-quantized-codes-for-fast-jl-style-search/</link>
-<guid>1c2fc1e2fbc211c959f07349b8a3fc0bfadbffa79748ce50ea59dd66d757e390</guid>
-<pubDate>Thu, 08 Oct 2026 21:38:31 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>ddd2c11d23cce4b1bea93ee2a9942384adf96ae74df577bd574993964f84eba5</guid>
+<pubDate>Fri, 09 Oct 2026 01:33:33 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>383115179b4d1656116856e51cbaf002faa4b6080ec873d73a34863592bbc040</guid>
-<pubDate>Thu, 08 Oct 2026 21:38:33 GMT</pubDate>
+<guid>a88d2c3f4c03d6a873427b67972b5b53d1c3463970fe158dfc7623024acb575a</guid>
+<pubDate>Fri, 09 Oct 2026 01:33:35 GMT</pubDate>
 <description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>46aaa2eeaf4a7db913ccc64d61321148053e5d990596e71b7bd4f41637aa353d</guid>
-<pubDate>Thu, 08 Oct 2026 21:38:35 GMT</pubDate>
+<guid>e9ac3eb5183c0770ccca682de057103afb610e033af1e5fe4060176ef7799a5c</guid>
+<pubDate>Fri, 09 Oct 2026 01:33:38 GMT</pubDate>
 <description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>e21a76ad8eaf89139d7ee7107e491ef27b54a72f01c6dac83c0d08083b66af5d</guid>
-<pubDate>Thu, 08 Oct 2026 21:38:36 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>69c3cd72ab6606e6cc346d6e991dd5dcef9eda32b5c890072a7ce0cfcf87b2ae</guid>
-<pubDate>Thu, 08 Oct 2026 21:38:39 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>a3614851e9179e130da467e9b46cfb60046e39faeb7015315d4a0b4928f57f9b</guid>
-<pubDate>Thu, 08 Oct 2026 21:39:01 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>785571406266152f72aef22ca151356c10cd18e8b9afea169dec0dc6f2377424</guid>
-<pubDate>Thu, 08 Oct 2026 21:39:03 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
