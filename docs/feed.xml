@@ -4,98 +4,126 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 09 Oct 2026 08:11:54 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 15:25:29 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM i のちいさな非互換発見</title>
-<link>https://qiita.com/gomAnomalocaris/items/b560b30132c32a25f982</link>
-<guid>5f3aea9775e3755d623e7369576c941661f0b648f6cce6cfe3d12057788966fd</guid>
-<pubDate>2026-10-09T15:39:52+09:00</pubDate>
-<description>小ネタです。 必要があり調べていましたら、 WRKDSKSTSコマンドのストレージ容量の単位がIBM i 7.3まではMB、7.4以降では7.6に変更されていました。 IBM i 7.3 のスクショが無いのでが探します‥ ** IBM i 7.4 のWRKDSKSTS 愛弟...</description>
+<title>【Qiita】 OpenAI の Decisions API を触ってみた</title>
+<link>https://qiita.com/hiroshi_ito9854/items/ff26fe2e239e23305f26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>136a2252600affb392d358acb97bc64cb25775db33fcf359fe0cf8c6bb7749b4</guid>
+<pubDate>2026-10-08T20:23:41+09:00</pubDate>
+<description>はじめに 少し前に、TypeSafe AIのjevが話題になりました。文章を生成せず、決められた型の答えと確信度だけを返すモデルで、LLMより桁違いに速くて安いとうたわれています。 同じ発想のAPIとして、OpenAIが2026年10月6日、Decisions APIを全...</description>
 </item>
 <item>
-<title>【Qiita】 HashiCorp Vault Transit と jsign で PowerShell にコード署名する - ソフトウェア鍵・SoftHSM（Managed Key）・ 自作PKCS#11ラッパーの3パターン検証</title>
-<link>https://qiita.com/fitz/items/dd7acf8dee51f59f13c0</link>
-<guid>dcf3fce04fd327de8c2a7abfb082c76b84b6825e58d796ef50b968e0bc0eefe0</guid>
-<pubDate>2026-10-09T14:29:41+09:00</pubDate>
-<description>1. はじめに コード署名とは、実行ファイルやスクリプトに発行者の電子署名を付与する仕組みです。WindowsではAuthenticodeという形式を使います。 署名があることで、「誰が作ったか」「配布後に改ざんされていないか」を利用側で確認できます。 署名には秘密鍵が...</description>
+<title>【Qiita】 IBM Bobと一緒に約75円でAzure BatchのPoCをやってみた</title>
+<link>https://qiita.com/takumiida1/items/0bbc471bd9a937f80413</link>
+<guid>df83a8ef999f44a05b141f283ff0c8b9f32375ce455234c636b36089452080b0</guid>
+<pubDate>2026-10-09T19:45:56+09:00</pubDate>
+<description>Summary Azure Batch の閉域コンテナ実行環境（Private Endpoint・Managed Identity・NFSv3 マウント）を Bicep で IaC 化し、4時間・約75円の検証コストですぐ立てすぐ消すことができた NFSv3 マウン...</description>
 </item>
 <item>
-<title>【Qiita】 「最大30日」と回答する前に、Amazon BedrockでOpenAIのモデルに送った文がどこに何日残るか確かめた話（2026年版）</title>
-<link>https://qiita.com/ntaka329/items/1ad9131353e51c5b99fd</link>
-<guid>7a505f5b6d4490e7ea27b6d6473f81dbd09322d6d28d5f7692af5f41d8a270d5</guid>
-<pubDate>2026-10-09T10:52:13+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 生成AIを使う機能のセキュリティ確認で、「AIの事業者に送った文は、不正利用の監視のために最大30日保存される」という回答案を確かめることになりました。OpenAI の API について、以前からよく聞く数字です。そのまま通してよいと...</description>
+<title>【Qiita】 Claude Codeの引用・コードブロックにコピーボタンを付けるmod</title>
+<link>https://qiita.com/y-hirakaw/items/219becbf896009aba2ef</link>
+<guid>929f6ed71b9620490b2edef81f3310185fbd49235988941795215ae598ae3b86</guid>
+<pubDate>2026-10-09T23:39:57+09:00</pubDate>
+<description>Slackの返事をコピーするたびに、余計なものを消していました Slackに書く返事をClaudeに考えてもらうと、Claude Codeは返事の文面を&gt;の引用ブロックで出してくれます。これをそのままSlackに貼りたいのですが、ターミナルで選択してコピーすると、行頭に▎...</description>
 </item>
 <item>
-<title>【Qiita】 【10月8日公開】Worker 3台のAI復旧実験。結果不明のツールを再実行しない理由と、Temporal・DBOS・Restateの選び方</title>
-<link>https://qiita.com/emi_ndk/items/9235f0fdb32ab6972287</link>
-<guid>5a3a442ba022268abfd7eccc75fb3db9eab76a46119ed48ce392c2647853dd5b</guid>
-<pubDate>2026-10-09T17:00:23+09:00</pubDate>
-<description>AIエージェントに外部APIやシェルを任せているなら、「落ちたら再試行」の一行を今日見直してほしい。 Workerは3台。停止を繰り返す間隔の設定は15〜40秒。それでも、タスクの投入は1回だけだ。 実行中のWorkerが落ちたら、別のWorkerが処理を引き継ぐ。 会話...</description>
+<title>【Qiita】 ACIとは？ AIエージェントが操作しやすいインターフェースを考える</title>
+<link>https://qiita.com/engchina/items/e00b2a65006caed1fd08</link>
+<guid>f1f8d254db4e052802901bb356c18584dcf1634678478066e1aab9da86d05608</guid>
+<pubDate>2026-10-09T21:42:29+09:00</pubDate>
+<description>初めに AIエージェントにツールを渡しても、期待どおりに動くとは限りません。 引数を間違える。必要な情報を見落とす。処理が成功したのに、失敗したと思って再実行する。 こうした問題を減らすために考えたいのが、**ACI（Agent-Computer Interface）**...</description>
 </item>
 <item>
-<title>【Qiita】 CodeRabbitでコーディングも。CodeRabbit Coding Agentの紹介</title>
-<link>https://qiita.com/goofmint/items/945586ff62811eb2eb3c</link>
-<guid>f2a3a34ce872ba043947bd70f93ee4f0ee7e017ec5e1f4e19a2fb2fd94f5a962</guid>
-<pubDate>2026-10-09T16:47:45+09:00</pubDate>
-<description>CodeRabbitはAI SDLCを安全かつ適切に推進・管理する基盤を提供します。AIコーディングエージェントが生成する大量のコードに対して、理解負債の解消、優先順位付け、そしてセキュアな状態を維持します。 これまでも、AutofixやFix CIといった機能において、C...</description>
+<title>【Qiita】 趣味のプログラミングならopencodeで十分かもしれない</title>
+<link>https://qiita.com/elm200/items/dbe3a5be64f4b493a5ce</link>
+<guid>b0c3d249188a40da8023e965d2dfe621a4ff3534cb2459edd32b8b96b8b9e2c7</guid>
+<pubDate>2026-10-09T21:12:07+09:00</pubDate>
+<description>仕事で大量のファイル操作が必要なら難しいとは思うが、趣味で小さなウェブアプリを作って運用する程度なら、OpenCodeの無料枠で実は十分コードが書けてしまうらしいことに最近気が付いた。 とりあえず Meta の出している Muse Spark 1.3 は良いと思う。賢いし速...</description>
 </item>
 <item>
-<title>【Qiita】 フォールバックモデルの設定を9/13に記事に書いた。10/9に同じ設定を読み直したら、2つのうち2つとも文字列が変わっていた</title>
-<link>https://qiita.com/Hideki_Tamae/items/edc92415855dd6e7f85e</link>
-<guid>6f331499774f0ee52bfdbdde719f8e658012f6c36effbc244d2f9dffaff45250</guid>
-<pubDate>2026-10-09T15:30:43+09:00</pubDate>
-<description>はじめに 2。 これが今回の数字です。何の2かというと、この記事投稿タスク自身の起動設定に書かれている「フォールバックモデル」2つのうち、9/13に自分が記事として書き残した文字列と、今日10/9に同じ設定を読み直した文字列が、一致しなくなっていた数です。2つとも、です。...</description>
+<title>【Qiita】 AIが報告しなかった問題を、どう見つけるか ── 評価器の手前にある「観測」の設計</title>
+<link>https://qiita.com/BugiAK/items/683f9f3c8f2476f943c8</link>
+<guid>736f95074beebce9484cd929611f8a54970f364755688b648d804309c9c80697</guid>
+<pubDate>2026-10-09T20:26:00+09:00</pubDate>
+<description>はじめに Jevシリーズも4本目です。 第二弾の最後で、 Jevは、AIというよりソフトウェアに埋め込める意味センサーである と書きました。 そして第三弾では、その意味センサーをどこに置くかを、公式Cookbookから見ました。 ただ、センサーには当たり前の制約があり...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントにAPIを売るには？ Skill・MCPサーバー・有料ケイパビリティの違い</title>
-<link>https://qiita.com/xnjiang/items/c4bb160d60d8365416c0</link>
-<guid>23e1e755511e24d31e7b16ec45bbdcea02974351c11d24772d265dff7e2cbc63</guid>
-<pubDate>2026-10-09T15:26:29+09:00</pubDate>
-<description>AI エージェントに役立つ API（スクレイパー、変換ツール、データ検索など）を持っているなら、よく「MCP サーバーで包めばいい」と言われます。これでインターフェースは解決します。でも、個人開発の API が収益にならない本当の理由は残ったままです。 ホスティングと発...</description>
+<title>【環境】 Topographic variation shapes organismal responses across mountain landscapes</title>
+<link>https://www.nature.com/articles/s41558-026-02773-z</link>
+<guid>2aafffbbf4f9e83c9d322b61bc1b56cff2bd495675104c0b1bc863f32c29b42e</guid>
+<pubDate>2026-10-09</pubDate>
+<description>The authors developed simulations to examine the role of topographic variation in mediating species response to climate change. They show that topographic variation can reduce energy expenditure by up to 20.8% and increase buffering benefits of elevation shifts by 82.1% for a diurnal ectotherm.</description>
+</item>
+<item>
+<title>【環境】 Limited agricultural gains but high flood risk from global wetland reclamation</title>
+<link>https://www.nature.com/articles/s41893-026-01965-x</link>
+<guid>ec6e2c20a6901faab2786f08661acdf03ecdbf93508b4ac364b5922b1ab2d582</guid>
+<pubDate>2026-10-09</pubDate>
+<description>As food demand increases, global wetlands are being reclaimed as croplands; however, these reclaimed croplands are not only less productive, but also face substantially higher flood exposure. This dual vulnerability highlights the urgency of balancing food security with wetland conservation.</description>
+</item>
+<item>
+<title>【自動自律実験】 Briefing Chat: Top researchers are being misled by sham academic societies</title>
+<link>https://www.nature.com/articles/d41586-026-03216-7</link>
+<guid>a54a3bd43d63b37bac5c9e1499a53eef1e1941fec6ff3812f36d3ffd150e703e</guid>
+<pubDate>2026-10-09</pubDate>
+<description>Nature staff discuss a network of organizations that have been building their ranks through deceptive practices.</description>
+</item>
+<item>
+<title>【自動自律実験】 Chimp and gorilla brains resist weight loss with age — unlike human brains</title>
+<link>https://www.nature.com/articles/d41586-026-03158-0</link>
+<guid>fbdabb2aefbeb7eb5fce2b1d13d476537e955b2ab587b66bbed86ab33f1072e5</guid>
+<pubDate>2026-10-09</pubDate>
+<description>The relatively short lifespans of non-human great apes might explain why their brain mass is maintained in later life</description>
+</item>
+<item>
+<title>【自動自律実験】 The life of Darwin and the science of clouds: Books in brief</title>
+<link>https://www.nature.com/articles/d41586-026-03217-6</link>
+<guid>f5870d680bf3124854eb90d8ec54b84666d614a1cb6e46f950114fb3062d0086</guid>
+<pubDate>2026-10-09</pubDate>
+<description>Andrew Robinson reviews five of the best science picks.</description>
+</item>
+<item>
+<title>【自動自律実験】 An experiment to glimpse the future Amazon — in pictures</title>
+<link>https://www.nature.com/articles/d41586-026-02909-3</link>
+<guid>ce740de9ef6eafefcb0abe0e008fc49447d1e1c7c9974fc9e65d7452f7eec80f</guid>
+<pubDate>2026-10-09</pubDate>
+<description>David Lapola is testing a big climate-science unknown: how will the forest cope as atmospheric carbon dioxide continues to rise?</description>
+</item>
+<item>
+<title>【自動自律実験】 Publisher Correction: Sleep chart of biological ageing clocks in middle and late life</title>
+<link>https://www.nature.com/articles/s41586-026-11273-1</link>
+<guid>d8cf916137c750d877a39b0fca05b69d85695565fbdd1ac336b9b8b9654474c0</guid>
+<pubDate>2026-10-09</pubDate>
+<description>Publisher Correction: Sleep chart of biological ageing clocks in middle and late life</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/turboslice-reusing-quantized-codes-for-fast-jl-style-search/</link>
-<guid>c7273e91cc9f71f561f069faad2f278c14ad556ca1a614458a9ce0a24e2dca00</guid>
-<pubDate>Fri, 09 Oct 2026 08:10:18 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>224dad83ab8c13d5eee480a8705fd357b3cfc1a397f757e65d2f952d5d6749ec</guid>
+<pubDate>Fri, 09 Oct 2026 15:24:02 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>2de2170c509dc93d5addced302978ffb4fa098dc4c416b16b6d2ed0361de9e3e</guid>
-<pubDate>Fri, 09 Oct 2026 08:10:23 GMT</pubDate>
-<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any gl</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>bdb1e08f8c778b724f0d717aa59c834d47b1fd79631793d9f2578d2e8b669f4f</guid>
-<pubDate>Fri, 09 Oct 2026 08:10:25 GMT</pubDate>
+<guid>e6b3824b29cd9695484c292cbb524227f2408248da1d1503340b78e70cb402ad</guid>
+<pubDate>Fri, 09 Oct 2026 15:24:05 GMT</pubDate>
 <description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43856-026-01961-4</link>
-<guid>2e72bdce5f627b2df1b1a9c02c35cfee6acc028ccf172a23baf43846464a2199</guid>
-<pubDate>Fri, 09 Oct 2026 08:10:28 GMT</pubDate>
-<description>While clinical guidelines remain essential for standardizing medical care, their utility decays as manual updating fails to keep pace with the exponential growth in medical evidence. To address this challenge, we developed a Multi-Agent Retrieval-Augmented Generation (MARG) system dedicated to clinical guideline development and maintenance. We employed a multi-phase evaluation framework to assess MARG’s performance across agent-agent interaction and human-AI collaboration tasks. The system was evaluated against seven 2025 liver disease guidelines, encompassing 137 clinical scenarios. Here we show MARG achieve 77.4% overall concordance with the guidelines, with consistency rates rising from 45.8% under weak consensus to 87.8% at full consensus. Domain-specific performance is 65.5% for diagnosis, 75.0% for prevention, and 81.0% for treatment. MARG also assists in evidence integration, outperforming manual review in recency (6.3% vs. 0.9%), reproducibility (25.5% vs. 7.5%), and quality (24.2% vs. 8.0% Level I evidence). Through four rounds of structured debate, the system resolves 95.8% of recommendation conflicts and achieves strong consensus (&amp;gt;85%) in 74.5% of final outputs. In a</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>af864a8cf94e83771d0d57dd1ed27e50a8cebdb1d1ed74e42f880762e75895e9</guid>
-<pubDate>Fri, 09 Oct 2026 08:10:37 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<link>https://www.nature.com/articles/d41586-026-02994-4</link>
+<guid>08a909fb7a818ab5b7177cd8c4b7bbd69a3f9687963a422dff58bcd6e7b756c7</guid>
+<pubDate>Fri, 09 Oct 2026 15:24:07 GMT</pubDate>
+<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>1f2e5533485333c289a35d9c76611bb660bb73439f2f2839086e51794d84adc6</guid>
-<pubDate>Fri, 09 Oct 2026 08:11:13 GMT</pubDate>
+<guid>35cdeafbc46394938118650d40e7a10e4c0bccfaff3e52bd755ce58940aef3f4</guid>
+<pubDate>Fri, 09 Oct 2026 15:25:10 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
