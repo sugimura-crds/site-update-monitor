@@ -4,49 +4,99 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 09 Oct 2026 01:34:12 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 08:11:54 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 `git status`はクリーンだと言った。`git checkout -B`は、2件とも「破壊的操作」として拒否された</title>
-<link>https://qiita.com/Hideki_Tamae/items/318cac43e2098e61c356</link>
-<guid>c47832ed09e3d9c4a61bd108ae279121b651927815dcb507082dca9fdf5711bd</guid>
-<pubDate>2026-10-09T09:47:21+09:00</pubDate>
-<description>はじめに 2。 これが今回の数字です。今回の定期タスクは、まずZenn用とQiita用、2つのリポジトリをそれぞれ最新のoriginに合わせる、というごく普通の準備作業から始まりました。手順はいつも同じで、git fetch originのあと、git statusで作業...</description>
+<title>【Qiita】 IBM i のちいさな非互換発見</title>
+<link>https://qiita.com/gomAnomalocaris/items/b560b30132c32a25f982</link>
+<guid>5f3aea9775e3755d623e7369576c941661f0b648f6cce6cfe3d12057788966fd</guid>
+<pubDate>2026-10-09T15:39:52+09:00</pubDate>
+<description>小ネタです。 必要があり調べていましたら、 WRKDSKSTSコマンドのストレージ容量の単位がIBM i 7.3まではMB、7.4以降では7.6に変更されていました。 IBM i 7.3 のスクショが無いのでが探します‥ ** IBM i 7.4 のWRKDSKSTS 愛弟...</description>
 </item>
 <item>
-<title>【Qiita】 CIのWARN 7件を1件ずつ開いたら、壊れていたのは0件だった【kurashi-skill Day 29】</title>
-<link>https://qiita.com/Ichiropen/items/f5a706d43313a91d290c</link>
-<guid>95de984d284fb882143ecf0d772cf89c5cc192826c6a4fc66b5cd6f7f6c04f35</guid>
-<pubDate>2026-10-09T09:29:33+09:00</pubDate>
-<description>kurashi-skillを v1.0.0 にする前に、27スキルを全部点検した。CIは全部緑。でも緑は「問題なし」ではなく「問題を見つけられなかった」でしかない。だから、緑の中身を数えた。 起: 緑が何を見ているか 2026-10-05に、CIが走らせている検査をそのま...</description>
+<title>【Qiita】 HashiCorp Vault Transit と jsign で PowerShell にコード署名する - ソフトウェア鍵・SoftHSM（Managed Key）・ 自作PKCS#11ラッパーの3パターン検証</title>
+<link>https://qiita.com/fitz/items/dd7acf8dee51f59f13c0</link>
+<guid>dcf3fce04fd327de8c2a7abfb082c76b84b6825e58d796ef50b968e0bc0eefe0</guid>
+<pubDate>2026-10-09T14:29:41+09:00</pubDate>
+<description>1. はじめに コード署名とは、実行ファイルやスクリプトに発行者の電子署名を付与する仕組みです。WindowsではAuthenticodeという形式を使います。 署名があることで、「誰が作ったか」「配布後に改ざんされていないか」を利用側で確認できます。 署名には秘密鍵が...</description>
 </item>
 <item>
-<title>【Qiita】 3人・月商250万円の会社がAI経営OS(CFO/COO/CMO)を作った記録</title>
-<link>https://qiita.com/sescore/items/6a5d162146a68c69cc46</link>
-<guid>0c1fbf6d791c9ea2b3437808311259a6dab5ceb2d68b0921ab9f1b13870e0444</guid>
-<pubDate>2026-10-09T08:08:54+09:00</pubDate>
-<description>3人で月商250万円、管理コストだけが膨らんでいく会社だった 前提を先に書く。うちは代表含めて3人の会社で、コンテンツ自動化やSES関連の受託を組み合わせて月商250万円前後で回している。人数が増えないまま案件が増えると、現場の手が止まる理由はコードではなく「誰が何を決め...</description>
+<title>【Qiita】 「最大30日」と回答する前に、Amazon BedrockでOpenAIのモデルに送った文がどこに何日残るか確かめた話（2026年版）</title>
+<link>https://qiita.com/ntaka329/items/1ad9131353e51c5b99fd</link>
+<guid>7a505f5b6d4490e7ea27b6d6473f81dbd09322d6d28d5f7692af5f41d8a270d5</guid>
+<pubDate>2026-10-09T10:52:13+09:00</pubDate>
+<description>はじめに GMOコネクトの永田です。 生成AIを使う機能のセキュリティ確認で、「AIの事業者に送った文は、不正利用の監視のために最大30日保存される」という回答案を確かめることになりました。OpenAI の API について、以前からよく聞く数字です。そのまま通してよいと...</description>
+</item>
+<item>
+<title>【Qiita】 【10月8日公開】Worker 3台のAI復旧実験。結果不明のツールを再実行しない理由と、Temporal・DBOS・Restateの選び方</title>
+<link>https://qiita.com/emi_ndk/items/9235f0fdb32ab6972287</link>
+<guid>5a3a442ba022268abfd7eccc75fb3db9eab76a46119ed48ce392c2647853dd5b</guid>
+<pubDate>2026-10-09T17:00:23+09:00</pubDate>
+<description>AIエージェントに外部APIやシェルを任せているなら、「落ちたら再試行」の一行を今日見直してほしい。 Workerは3台。停止を繰り返す間隔の設定は15〜40秒。それでも、タスクの投入は1回だけだ。 実行中のWorkerが落ちたら、別のWorkerが処理を引き継ぐ。 会話...</description>
+</item>
+<item>
+<title>【Qiita】 CodeRabbitでコーディングも。CodeRabbit Coding Agentの紹介</title>
+<link>https://qiita.com/goofmint/items/945586ff62811eb2eb3c</link>
+<guid>f2a3a34ce872ba043947bd70f93ee4f0ee7e017ec5e1f4e19a2fb2fd94f5a962</guid>
+<pubDate>2026-10-09T16:47:45+09:00</pubDate>
+<description>CodeRabbitはAI SDLCを安全かつ適切に推進・管理する基盤を提供します。AIコーディングエージェントが生成する大量のコードに対して、理解負債の解消、優先順位付け、そしてセキュアな状態を維持します。 これまでも、AutofixやFix CIといった機能において、C...</description>
+</item>
+<item>
+<title>【Qiita】 フォールバックモデルの設定を9/13に記事に書いた。10/9に同じ設定を読み直したら、2つのうち2つとも文字列が変わっていた</title>
+<link>https://qiita.com/Hideki_Tamae/items/edc92415855dd6e7f85e</link>
+<guid>6f331499774f0ee52bfdbdde719f8e658012f6c36effbc244d2f9dffaff45250</guid>
+<pubDate>2026-10-09T15:30:43+09:00</pubDate>
+<description>はじめに 2。 これが今回の数字です。何の2かというと、この記事投稿タスク自身の起動設定に書かれている「フォールバックモデル」2つのうち、9/13に自分が記事として書き残した文字列と、今日10/9に同じ設定を読み直した文字列が、一致しなくなっていた数です。2つとも、です。...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントにAPIを売るには？ Skill・MCPサーバー・有料ケイパビリティの違い</title>
+<link>https://qiita.com/xnjiang/items/c4bb160d60d8365416c0</link>
+<guid>23e1e755511e24d31e7b16ec45bbdcea02974351c11d24772d265dff7e2cbc63</guid>
+<pubDate>2026-10-09T15:26:29+09:00</pubDate>
+<description>AI エージェントに役立つ API（スクレイパー、変換ツール、データ検索など）を持っているなら、よく「MCP サーバーで包めばいい」と言われます。これでインターフェースは解決します。でも、個人開発の API が収益にならない本当の理由は残ったままです。 ホスティングと発...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>ddd2c11d23cce4b1bea93ee2a9942384adf96ae74df577bd574993964f84eba5</guid>
-<pubDate>Fri, 09 Oct 2026 01:33:33 GMT</pubDate>
+<link>https://research.google/pubs/turboslice-reusing-quantized-codes-for-fast-jl-style-search/</link>
+<guid>c7273e91cc9f71f561f069faad2f278c14ad556ca1a614458a9ce0a24e2dca00</guid>
+<pubDate>Fri, 09 Oct 2026 08:10:18 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>2de2170c509dc93d5addced302978ffb4fa098dc4c416b16b6d2ed0361de9e3e</guid>
+<pubDate>Fri, 09 Oct 2026 08:10:23 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata without any gl</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>a88d2c3f4c03d6a873427b67972b5b53d1c3463970fe158dfc7623024acb575a</guid>
-<pubDate>Fri, 09 Oct 2026 01:33:35 GMT</pubDate>
+<guid>bdb1e08f8c778b724f0d717aa59c834d47b1fd79631793d9f2578d2e8b669f4f</guid>
+<pubDate>Fri, 09 Oct 2026 08:10:25 GMT</pubDate>
 <description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>e9ac3eb5183c0770ccca682de057103afb610e033af1e5fe4060176ef7799a5c</guid>
-<pubDate>Fri, 09 Oct 2026 01:33:38 GMT</pubDate>
-<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
+<link>https://www.nature.com/articles/s43856-026-01961-4</link>
+<guid>2e72bdce5f627b2df1b1a9c02c35cfee6acc028ccf172a23baf43846464a2199</guid>
+<pubDate>Fri, 09 Oct 2026 08:10:28 GMT</pubDate>
+<description>While clinical guidelines remain essential for standardizing medical care, their utility decays as manual updating fails to keep pace with the exponential growth in medical evidence. To address this challenge, we developed a Multi-Agent Retrieval-Augmented Generation (MARG) system dedicated to clinical guideline development and maintenance. We employed a multi-phase evaluation framework to assess MARG’s performance across agent-agent interaction and human-AI collaboration tasks. The system was evaluated against seven 2025 liver disease guidelines, encompassing 137 clinical scenarios. Here we show MARG achieve 77.4% overall concordance with the guidelines, with consistency rates rising from 45.8% under weak consensus to 87.8% at full consensus. Domain-specific performance is 65.5% for diagnosis, 75.0% for prevention, and 81.0% for treatment. MARG also assists in evidence integration, outperforming manual review in recency (6.3% vs. 0.9%), reproducibility (25.5% vs. 7.5%), and quality (24.2% vs. 8.0% Level I evidence). Through four rounds of structured debate, the system resolves 95.8% of recommendation conflicts and achieves strong consensus (&amp;gt;85%) in 74.5% of final outputs. In a</description>
+</item>
+<item>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>af864a8cf94e83771d0d57dd1ed27e50a8cebdb1d1ed74e42f880762e75895e9</guid>
+<pubDate>Fri, 09 Oct 2026 08:10:37 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>1f2e5533485333c289a35d9c76611bb660bb73439f2f2839086e51794d84adc6</guid>
+<pubDate>Fri, 09 Oct 2026 08:11:13 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
