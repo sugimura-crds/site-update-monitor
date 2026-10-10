@@ -4,55 +4,55 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 10 Oct 2026 00:09:24 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 06:06:47 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 判断特化型GraphRAGをJevを使って構築してみた（ベクトル未使用）</title>
-<link>https://qiita.com/kikuziro/items/6191b5ad83520d181f38?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>f7eff316746d46f9c941b70968c38ac56fcd49d0c795289e5f530cbd99b6b1ff</guid>
-<pubDate>2026-10-09T02:49:14+09:00</pubDate>
-<description>この記事のチャンクデータには名探偵コナンのデータを登録しています（ほかにONE PIECEと名探偵プリキュア!も少し）。 名探偵コナンを知らない方はアニメまたは単行本全巻読破してからこの記事を読むことをおすすめします。 みなさんGraphRAGの判断を全部LLMにや...</description>
+<title>【Qiita】 Copilot Studio のスキルは接続エージェントの先まで届くか (1) 設計とキット</title>
+<link>https://qiita.com/tadanok/items/df45c82b3cb3348a94f3</link>
+<guid>298e235ebd53953ea7ba323ed8727f10350b7ae69127bc7d67d25922104ebe12</guid>
+<pubDate>2026-10-10T14:46:37+09:00</pubDate>
+<description>2026 年 10 月時点の情報です。 Microsoft Copilot Studio の画面と挙動は変わりやすく、この記事で扱う機能にはプレビュー段階のものが含まれます。 この回で確かめること この連載で確かめる問いと、合格の条件 問いを確かめるために組んだ...</description>
 </item>
 <item>
-<title>【Qiita】 攻撃者はWebアプリのどこを狙う？ 初心者でも今すぐできるセキュリティチェックリスト</title>
-<link>https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>3c119261cbbf105eeb965a53f8652bd41c7955f188f849710d3bfbde5940e360</guid>
-<pubDate>2026-10-09T07:11:35+09:00</pubDate>
-<description>こんにちは。コロンビア大学の博士課程でシステムセキュリティを研究しているKoukyosyumeiです。 ここ数日、セキュリティインシデントに関するニュースを目にする機会が増えています。こうしたニュースを見ると、「自分のWebサービスは大丈夫だろうか？」と考える方も多いのでは...</description>
+<title>【Qiita】 @cap-js/agentsをSAP AI CoreなしでBTP上で動かす（OpenAI版）【詳細編2】</title>
+<link>https://qiita.com/asyoroa/items/23f84fdba8c85e9a9e88</link>
+<guid>209cd70cbc96bed1a6ccebf16253213e1e9a9fbce71116b554d815b1ae326ad2</guid>
+<pubDate>2026-10-10T14:26:27+09:00</pubDate>
+<description>CAPのサービスを @cap-js/agents でAIエージェントにして、LLMをSAP AI CoreではなくOpenAIに差し替え、SAP BTP（Cloud Foundry）のトライアル上で動かしたときの記録です。「症状 → 原因 → 対処」で、コードを抜粋して書き...</description>
 </item>
 <item>
-<title>【Qiita】 SkillからMCPツールを呼ぶ設計：手順・依存関係・実行制御を分ける</title>
-<link>https://qiita.com/engchina/items/182cf1f45d3a12a245fc</link>
-<guid>d072cd1b5c538ead2f60503311d7540752cd7497958f925c42d9648df3a7ffdc</guid>
-<pubDate>2026-10-10T09:04:32+09:00</pubDate>
-<description>初めに Skillに「社内資料を検索する」と書くだけでは、検索ツールは使えるようになりません。 必要なのは、作業手順、ツールへの接続、実行条件の検証です。 今回は、Agent Skillsの仕様とPiの実装を参考に、SkillとMCPを組み合わせる設計を整理します。 1...</description>
+<title>【Qiita】 出荷チェックをAIに任せるとき、先に決めるのは「止まる条件」</title>
+<link>https://qiita.com/satoshimizuhara/items/35218d68efcd23805838</link>
+<guid>261adad850d641c39e82ccc26521e3aaa43691bc74064fbb0ecfbc68242420a9</guid>
+<pubDate>2026-10-10T12:33:32+09:00</pubDate>
+<description>はじめに 「ズレを探す作業」は、AIを試しやすい題材だ。伝票と実物の突合、配送指示とピッキングリストの照合、請求と入金の確認。目で拾っていた不一致を、AIが候補として浮かせてくれる可能性がある。 ただ、道具を用意する前に決めておくべきことがある。AIがズレを見つけたとき、...</description>
 </item>
 <item>
-<title>【Qiita】 OpenClaw×Claude Code連携実践|記憶と実行を分離するAI開発フロー</title>
-<link>https://qiita.com/sescore/items/1f5faa0bc45f4cbf5069</link>
-<guid>9a04cc5d516e97a29ddf8b1cee6c4a42507982b99e7735777ae162f38a081c0e</guid>
-<pubDate>2026-10-10T08:06:44+09:00</pubDate>
-<description>はじめに：なぜ「記憶」と「実行」を分けるのか Zennの日次トレンドを見ていたら、「俺のAIプログラミング手法(2026/10/05)」がいいね換算823という数字で上位に来ていた。AI駆動開発のやり方そのものが、個々のTips記事を超えてコンテンツとして成立する段階に来...</description>
+<title>【Qiita】 セキュリティ担当者が2026年にフォローしておくべきAIセキュリティ</title>
+<link>https://qiita.com/Ito_110/items/cb692f1d111f59fdd1d5</link>
+<guid>2c9dbaaefe6e93b293e73cbe0fd812aa4e6e72363e5e5b8ab71fcf9c0393fd8d</guid>
+<pubDate>2026-10-10T12:11:29+09:00</pubDate>
+<description>Executive Summary AIセキュリティで最も危険なのは「モデルが間違えること」だけではありません。 AI Agentがファイル、DB、Web、Git、SaaS、社内APIへ接続すると、Prompt Injectionが権限を持ったアプリケーションへの入力攻撃...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
 <link>https://research.google/pubs/turboslice-reusing-quantized-codes-for-fast-jl-style-search/</link>
-<guid>219220fb24abc2b01e2e0d5775d9bce318634fa5ba913964c710cefce88d9275</guid>
-<pubDate>Sat, 10 Oct 2026 00:08:11 GMT</pubDate>
+<guid>8ab8762becf5f172ce1dbf8aea708c770d5762bbe7b8e2a701da5d752bbffaa2</guid>
+<pubDate>Sat, 10 Oct 2026 06:06:04 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>68a25850d016f7b9c4dd38b99bb2a1d5f5a4c5b71ea71f7aaad72aeeb692f762</guid>
-<pubDate>Sat, 10 Oct 2026 00:08:13 GMT</pubDate>
+<guid>ddce455bb2538d05700e98c65a6f192cb4897022be874513a28ef45c866531af</guid>
+<pubDate>Sat, 10 Oct 2026 06:06:07 GMT</pubDate>
 <description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>a34fb5032d30a0e523ce89c67c335ba49cda42bd753421091f19f67df05f6255</guid>
-<pubDate>Sat, 10 Oct 2026 00:08:15 GMT</pubDate>
+<guid>138db8ebd18354892a65573b2e755d6b542515515427d1e756d16c339218d434</guid>
+<pubDate>Sat, 10 Oct 2026 06:06:09 GMT</pubDate>
 <description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
 </item>
 
