@@ -4,42 +4,35 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 10 Oct 2026 20:53:52 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 23:59:17 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 コメント欄にはなぜチンパンジーしかいないのか</title>
-<link>https://qiita.com/kotowazaman/items/b2f2d50f0a5c74d09348?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>ce2431dc89e98d8cfe25600fabfb2d8ad21bde5172eee93f5527714891960436</guid>
-<pubDate>2026-10-09T17:28:24+09:00</pubDate>
-<description>チンパンジーに失礼なタイトルです。先に謝罪しておきます。 チンパンジーだらけに見えるのは、人のせいではなく場の設計のせい YouTubeでもXでもヤフコメでも、コメント欄を開けば同じ光景です。 本文を読んでいないとしか思えない断定、罵るためだけの短文、毎回現れるマウント。...</description>
+<title>【Qiita】 Claude Codeに任せる範囲と止める仕組みの設計 〜計画モード・SessionStartフック・/loop・課金前確認の使い分け〜</title>
+<link>https://qiita.com/charge0315/items/fcec85cc5250e39bab97</link>
+<guid>cd965cc5416e82b160d0190889cebc6cf7c9d564eeda6a94284608ec857627f1</guid>
+<pubDate>2026-10-11T08:33:23+09:00</pubDate>
+<description>AIに「全部任せる」と怖い。「全部確認する」と遅い。どっちも3日で疲れます😇 しかも張り切って作った「ハーネスの仕様書」は、たった3時間で古くなってゴミ箱行きになりました。 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Cla...</description>
 </item>
 <item>
-<title>【Qiita】 Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス</title>
-<link>https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>68f40df3deafa69cdd33e95958a0fb48912880fb1f5b25832e7d2f4e74b55051</guid>
-<pubDate>2026-10-10T16:41:11+09:00</pubDate>
-<description>はじめに 2026年9月下旬以降、国内でもサイバー攻撃による被害が相次いで報道されています。 その侵入経路は、ネットワーク機器の脆弱性を突くものや、フィッシングメールなど、さまざまです。 また今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへア...</description>
+<title>【Qiita】 Python の subprocess で AI エージェントの CLI をタイムアウト付きで確実に止める実装手順 — timeout 後も孫プロセスが生き残る・PIPE 詰まりでデッドロック・communicate の timeout は子を殺さない、3つのハマりどころ【2026】</title>
+<link>https://qiita.com/yureki_lab/items/a586ffe24acb3e31a60b</link>
+<guid>f024a5e5fd8106e097f12adfeef149e3230c5c8acda7a8507b17453a175cceb6</guid>
+<pubDate>2026-10-11T08:01:41+09:00</pubDate>
+<description>はじめに / 対象と前提 AI エージェントの CLI(例:claude -p &quot;...&quot; のようなヘッドレス実行)を Python から起動して、夜間や無人で回している人向けの記事。 エージェントはたまに 固まる。API 応答待ち、許可待ち、子プロセスの無限ループなど原...</description>
 </item>
 <item>
-<title>【Qiita】 ChatGPT の dots に Gmail・カレンダー・Slack・Notion をつないで、何ができて何ができないかを確かめた</title>
-<link>https://qiita.com/chooser/items/52de55a56647586b5187</link>
-<guid>98b281d34fddd5cd8e47042c1b4cd5c68f0d8c9c1605e91ae49be7126ce82c99</guid>
-<pubDate>2026-10-11T05:44:15+09:00</pubDate>
-<description>上原正吉（EarthLink Network Co., Ltd.）。Claude Codeを開発の主体に据え、20を超えるプロダクトを1人で同時に開発・運用しています。これは、その現場の実測記です。 ChatGPT の dots に Gmail・カレンダー・Slack・...</description>
+<title>【Qiita】 「エグゼクティブデザインで」の一言で色が変わる理由 ── Claudeがお休みに入り、Geminiと自律ループで表を美化し、ついでに解説動画を3本作った話</title>
+<link>https://qiita.com/shu15511551/items/48fb771c427d24405287</link>
+<guid>d2df7acae90fe39b59fa76d97c9352d38bb0e3cddf18361fa999985f436be68f</guid>
+<pubDate>2026-10-11T07:01:58+09:00</pubDate>
+<description>はじめに Claudeが、またしばらく使用量制限（クォータ制限）にかかってお休みに入りました。 前回の記事では、Claudeがマクロを作り、Geminiが出題と採点を行い、私が横から口を出すという「三人体制」でピボットとグラフを一言化する話を書きました。あのあと勢いよく開...</description>
 </item>
 <item>
-<title>【Qiita】 AIは「作れた」だけでは価値にならない――生成AI・AIエージェントを業務成果につなげる設計</title>
-<link>https://qiita.com/mhamadajp/items/807baaeb3cb2d6a3a95f</link>
-<guid>d9abf21ca4d3d7647fb4d45f1823cd04479292d56c3f448d574eba23e2e75590</guid>
-<pubDate>2026-10-11T05:00:14+09:00</pubDate>
-<description>生成AIの試作品を作ることは、以前よりずっと簡単になった。 問い合わせメールを分類する。社内文書から回答案を作る。請求書の内容を読み取る。障害ログから原因候補を挙げる。こうしたデモは短期間でも成立する。 しかし、デモが動くことと、業務で継続して価値を生むことは別の話だ。本番...</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>a229d0fdb3c3c8f35e807b42df62386bf40e0819e15bdea7c692ff24fd488824</guid>
-<pubDate>Sat, 10 Oct 2026 20:53:03 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/turboslice-reusing-quantized-codes-for-fast-jl-style-search/</link>
+<guid>e96253cfe877345ac0e4e1a30c322a10123061a008175725ed9dc214e01f0023</guid>
+<pubDate>Sat, 10 Oct 2026 23:58:24 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 
 </channel>
