@@ -4,85 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 10 Oct 2026 12:47:44 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 17:32:46 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 コード検索で使える正規表現の基本メタ文字まとめ</title>
-<link>https://qiita.com/Yuzuki-ki/items/31b98cf32c1db2d561d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>73e0a25785e46173e28b087fa720ff3ff400284d09625881c4a8b2b45181fd1b</guid>
-<pubDate>2026-10-09T17:57:28+09:00</pubDate>
-<description>はじめに こんにちは！ソーイ株式会社の木寺です。 プログラムを書いているときに、「このメソッド、どこだっけ」と検索すると似た名前がずらっと並んで、結局どれか分からないといったことはありませんか？ 私自身似たような経験は業務中何度もありました。もちろん今もあります。 このよ...</description>
+<title>【Qiita】 【骨董品】NW測定器：SmartBitsを令和の時代に蘇らせましょう。まさかのWindowsXP（！） on ・・・Hyper-Vで。</title>
+<link>https://qiita.com/Heizo_Hasegawa/items/a484b9af584085d39f91</link>
+<guid>94bee4396c29b3a816e9fe8fece75887940720e36702db007d2114dfd038d569</guid>
+<pubDate>2026-10-10T23:19:00+09:00</pubDate>
+<description>●はじめに 前回のYAMAHA RTX1300のLAG検証 記事 の中で、 回線切り替え時のミリ秒単位の測定には専用の試験機が必要になると触れましたが、本件は塩漬けにしすぎましたね。 2026年は夏が過ぎた後、変な長雨が1か月も続く異常気象。除湿器や扇風機が活躍...</description>
 </item>
 <item>
-<title>【Qiita】 「国にお金がない」は本当か？ ― 通貨主権・学校教育・財政言説から考える国家レジリエンス : システム設計視点の行動経済学 (39)</title>
-<link>https://qiita.com/maskot1977/items/4ac81e4b11bf162de955?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>16822cc8580c1635e087c192ffb49ce29cf7373f6b96a62ad0a4e9ee56c6f37e</guid>
-<pubDate>2026-10-10T00:02:21+09:00</pubDate>
-<description>user: 「システム設計視点の行動経済学」、第39回を始めましょう。その前に、まず前回の復習として、 「沈黙の螺旋」は誰の利益を守るのか？ ― 経団連・政官財のインセンティブと「利益の私有化・コストの外部化」から考える国家レジリエンス : システム設計視点の行動経済学 ...</description>
+<title>【Qiita】 そのAIエージェント、別案件の資料を渡しても同じ答えを返していませんか ― 「仕事ができる」を陰性対照で測る</title>
+<link>https://qiita.com/mjof8673/items/617dbbb5170a5358f5c0</link>
+<guid>e4fc2d2c4df018a14806470ec051c14f7b809e8f4dfc7c88b24a63082482aebd</guid>
+<pubDate>2026-10-11T01:19:00+09:00</pubDate>
+<description>3行で AIエージェントの「仕事ができる」は、テスト通過率や生成行数には出ません。 出るのは、指示と成果物のあいだに残る痕跡です。 測り方の核は1つ。別案件の文脈にすり替えて、出力が変わるかを見る。変わらないなら、その出力は文脈を使っていません。 本稿ではこれを 仕...</description>
 </item>
 <item>
-<title>【Qiita】 侵入から管理者権限まで最短 5 分。AI を使った情報漏洩の今と AWS で見直すべき対策</title>
-<link>https://qiita.com/leomarokun/items/8c9c8d4924bf77d92fb2</link>
-<guid>2bc68381b178dfcca47e80083ff5885ebfe16fd48755e9ae4b4422c3cfefabf7</guid>
-<pubDate>2026-10-10T19:57:41+09:00</pubDate>
-<description>はじめに ある脆弱性を突いた攻撃で 開始 26 秒で 11 組織が侵入され、侵入から管理者権限の奪取まで最短 5 分 だったと報告されました。 攻撃を実行したのは人間ではなく、数百の AI エージェント だったと分析されています。 これまでも、攻撃者が AI でフィッシン...</description>
+<title>【Qiita】 風力×オフサイトPPA×データセンターの24/7（時間単位の再エネ一致）を、MCP経由でAIに評価させる</title>
+<link>https://qiita.com/jizou/items/6fb1278de51e3de2cc0a</link>
+<guid>bbff53ebd84c349b0abae8bf3e5d7861836186ba83d9ef000a7cb17065aef4ed</guid>
+<pubDate>2026-10-10T23:59:26+09:00</pubDate>
+<description>——太陽光と風力発電（オフサイトPPA）の組み合わせを、プロンプト1つで計算する 概要 産業用PV＋蓄電池シミュレーター（pv-sim-biz）は、MCPサーバーとして公開している。 AIエージェントに条件を渡すと、データセンターの需要に対して、 太陽光と風力発電（...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code・Codex・agy をスマホから一括操作する：headless Linux + Xvfb + Orca Relay</title>
-<link>https://qiita.com/pineame/items/1185e49b55a65cbe6d13</link>
-<guid>acc4c5c8f125ee6f7dd33ea8260a1477a1ae380e526aff2c22533a33013f213f</guid>
-<pubDate>2026-10-10T18:24:12+09:00</pubDate>
-<description>TL;DR リモートの headless Linux（GUI のない Linux）で、通常の Orca Desktop（Electron 製の GUI アプリ）を仮想ディスプレイ Xvfb 上に常駐させました。これにより、Claude Code・Codex CLI・A...</description>
+<title>【Qiita】 非エンジニアのAI業務自動化（ディベートとJev）/ディベートを50回回し優先順位付け | 結果・費用・つまずき</title>
+<link>https://qiita.com/horiken_chu2byo/items/691992e69db7ba8bcb8b</link>
+<guid>e4a57f15a6d625717d2b5778beac0e3a55224dac99f35d07ec2fa26048f1322c</guid>
+<pubDate>2026-10-10T23:20:52+09:00</pubDate>
+<description>前の記事で作ったディベートの仕組みを使って、私の作業の一覧にある未完了の24項目を、50回のディベートにかけました。 決めたのは私で、AIが作ったのは材料です。 この記事では、50回の結果、論者のモデルの差、Claudeの審判とまとめの作り、費用と時間、つまずいた所...</description>
 </item>
 <item>
-<title>【Qiita】 非エンジニアのAI業務自動化（ディベートとJev）/Jevに票を数えさせたらClaudeの審判とどこまで一致したか</title>
-<link>https://qiita.com/horiken_chu2byo/items/edb1e0168da0d034a3a3</link>
-<guid>1a0e939c0f3ff0b8d1b07ddb189575b346aeb78cb8b99514562a6754385026c1</guid>
-<pubDate>2026-10-10T17:08:26+09:00</pubDate>
-<description>Orcaをつかって作業の自動化をした話は、こちらで書きました 私、最初はJevって役に立たないと思ってたんです。 というのは、そもそも他のメジャーなLLMも、ざっくりいうと 膨大なデータの中から確率的にもっとも高いと思われる&quot;文字列を並べているだけ だからです。 Je...</description>
-</item>
-<item>
-<title>【Qiita】 Dual LLM と CaMeL の設計：計画を立てるモデルと信頼できない入力を読むモデルを分ける</title>
-<link>https://qiita.com/shalXXXX/items/f1554c8264001ca89502</link>
-<guid>c138df6a9c86d996d5de74ac0e39fb0e777abc742b55c41b8976c16841d23ba6</guid>
-<pubDate>2026-10-10T17:00:36+09:00</pubDate>
-<description>メールや Web ページを読んで作業する AI エージェントでは、読んだ文章に紛れ込んだ指示（間接プロンプトインジェクション）を、モデル自身に見分けさせる方法では防ぎきれません。そこで「指示を見分ける」のをやめて、ツールを使う権限を持つモデルに、信頼できない文章をそもそも見...</description>
-</item>
-<item>
-<title>【Anthropic】 Expanding the Cyber Verification Program</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>507a7ba47b3eaca8adf8cc5af97ce53058782bd4106353de3e778d7390b5a713</guid>
-<pubDate>Sat, 10 Oct 2026 12:46:44 GMT</pubDate>
-<description>We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.</description>
+<title>【Qiita】 AI に任せるときの見張りは 2 つ要る——沈黙は経過時間で表面化し、前面は奪わず・奪われたら戻し・人の操作は奪い返さない</title>
+<link>https://qiita.com/sumitsuke/items/c207639a06c4dd165335</link>
+<guid>2595c924d753d13eb06962ecf1a74bf39be9c6d80a47e7c797fe7d2a319aa4ce</guid>
+<pubDate>2026-10-10T22:20:10+09:00</pubDate>
+<description>エージェントに 20 分の作業を投げて、別の作業をしていた。完了通知は来ない。出力ファイルを覗くと 0 B のまま。止まっているのか、まだ走っているのか、どちらも分からない。 もう 1 つ。AI に自分の PC のアプリを操作させていて、様子を見ようとウィンドウをクリックし...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>4a9760924ab2d3e40d20636913c4141ee1f81c5e08c7a40a253510bf74232502</guid>
-<pubDate>Sat, 10 Oct 2026 12:46:48 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>e095e9ea2c940ac616954a946a1c1a16fc6874e0ba6d646e7f7c7ffa38165fb2</guid>
+<pubDate>Sat, 10 Oct 2026 17:31:54 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>d8e08e88f31d10349902c44203f97a056fa9dd4404220505bd7bf68bf2d885ab</guid>
-<pubDate>Sat, 10 Oct 2026 12:46:58 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-78268-4</link>
+<guid>e3083235ce1dd3018c02ff38f4c802dd6c90b345531f581d1150e440dc6b1d8e</guid>
+<pubDate>Sat, 10 Oct 2026 17:31:57 GMT</pubDate>
+<description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>4b6395e4ff7929476cfd19924a04d809241aeb0121f6b3333846ef70df2f52bc</guid>
-<pubDate>Sat, 10 Oct 2026 12:47:24 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【環境】 Talking Points</title>
-<link>https://www.reuters.com/sustainability/fatal-floods-hit-india-nepal-thailand-2026-09-29/</link>
-<guid>8184c87389c9c05acf649b390d18b9da2a6c0eca3adf0b0748f32117b5ddf421</guid>
-<pubDate>Sat, 10 Oct 2026 12:47:33 GMT</pubDate>
-<description>Hello, Disastrous storms have struck India, Nepal, Thailand and Mexico, killing 56 people in India, while in Nepal, 14 have died and 11 are missing as authorities warn that more flash floods are possible.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>d7e2419147224c8a8c346af0ce5e59c1a3353e403573bac36885aea5ca16be81</guid>
+<pubDate>Sat, 10 Oct 2026 17:32:26 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
