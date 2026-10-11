@@ -4,78 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 11 Oct 2026 10:56:58 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 16:29:17 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Microsoft Foundry モデルの使用量制限整理</title>
-<link>https://qiita.com/FukuharaYohei/items/bced5c8f46b059af3725</link>
-<guid>5ff05cd9850e5c31ed932693c1078f89c1d52aa7849d6b0a3bf631509898cb87</guid>
-<pubDate>2026-10-11T16:12:31+09:00</pubDate>
-<description>Microsoft Foundry ModelsのPAYG（従量課金）では、モデルの利用量を制御する仕組みとして、主にUsage Tier、Quota、TPM/RPMがあります。 それぞれの違いと管理単位を整理します。 1. クォータ管理の全体像 項目 管理単位 ...</description>
+<title>【Qiita】 「イベントが来たらエージェントが動いて承認を取り、発注まで」。この業務自動化、Claude Managed Agentで組めるか全部当てはめてみた</title>
+<link>https://qiita.com/startdevin/items/19f2ce14f1e50b9480b3</link>
+<guid>f23201483c37c578cbaab8206e3e54818645ae1f39153d01956ef34f67f714f6</guid>
+<pubDate>2026-10-11T22:52:35+09:00</pubDate>
+<description>🚀 Devin専門の解説メディア「StartDevin」を運営中！ Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています。 👉 StartDevin をチェックする（startdevin.jp） この記事にぜひ いいね❤️ していただけると励み...</description>
 </item>
 <item>
-<title>【Qiita】 X の投稿 198 件と技術ブログで見る、Meta の AI エージェント Muse の向き不向きと安全設計</title>
-<link>https://qiita.com/hisashi-ito/items/ffe164ae4aa88abb293e</link>
-<guid>f7e8c118fe03c7ef93182f40b12c32789be16abe33a96fad2733b7519b923230</guid>
-<pubDate>2026-10-11T19:51:57+09:00</pubDate>
-<description>Meta が 9 月 8 日に米国で公開した AI エージェント Muse は、利用者に代わってブラウザを操作し、買い物、予約、メール、電話までこなします。日経新聞は、Meta が近く日本でも提供を始めると報じました。日本で使えるようになる前に、使った人が何に喜び、何に怒っ...</description>
+<title>【Qiita】 今さらKiro Crew導入してみた</title>
+<link>https://qiita.com/maeda-kazutoshi/items/524185cc084480555cb9</link>
+<guid>f3a6da870a5f5c538ea3c41ecb4a948da07dc1cccd25058118beb7b618183464</guid>
+<pubDate>2026-10-11T22:28:06+09:00</pubDate>
+<description>Kiro Crew 入れてみたい Kiro Crew は 8 月に出てめっちゃ便利そう（小並）ぐらいの感じで思っていました。Kiro CLI を常駐させておいて、タスクを投げて放っておけたり等々。ただ、あまりの忙しさで手を付けられないまま、はや1か月。。。 そんなこんなで...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeのshow-meスキルを読む:「要点が伝わる最小のビュー」を選ばせる462語の設計</title>
-<link>https://qiita.com/Skillselion/items/b7d8181d7c6091203e86</link>
-<guid>73a1b0678e2cb2dd663d05a3e6bee18715899a07c49bdd7fd2698e62339d6ff1</guid>
-<pubDate>2026-10-11T19:07:08+09:00</pubDate>
-<description>show-meは、HumanLayerが公開しているClaude Code向けスキルです。いま話している内容を、疑似コード、コールツリー、Mermaid図、diffなどのうち要点が伝わる最小のビューで説明させます。disable-model-invocation: true...</description>
-</item>
-<item>
-<title>【Qiita】 Context Rotとは？ コンテキストが長くなると、LLMが情報を使いにくくなる理由</title>
-<link>https://qiita.com/engchina/items/6ac5d0c09427f876a7f9</link>
-<guid>905249bae7a7674017b0a411cd25a5b7c0d2f259adbcf27f57bae21daf153e84</guid>
-<pubDate>2026-10-11T17:39:58+09:00</pubDate>
-<description>初めに 会話履歴も、参考資料も、ツールの実行結果も、全部LLMに渡す。 情報が多いほど回答が正確になると思いがちですが、必要な情報を見落とすことがあります。 この問題を考えるときに出てくるのが、**コンテキストの腐敗（Context Rot）**です。 1. Cont...</description>
-</item>
-<item>
-<title>【Qiita】 Agentに向いているタスクは？「目標の明確さ」と「自動検証」で4分類してみる</title>
-<link>https://qiita.com/engchina/items/94d33d0f1e4bf91cac01</link>
-<guid>d6cc4a1c70e69af2dd0cc4c388884dc81e09103d75bcef7ef5f9f55dffe1e9de</guid>
-<pubDate>2026-10-11T17:05:47+09:00</pubDate>
-<description>初めに コード修正、資料作成、調査、業務改善。 AI Agentに任せたい作業はたくさんあります。ただ、同じように依頼しても、自律的に進めやすいタスクと、人の判断が必要なタスクがあります。 今回は、**「目標が明確か」×「自動で検証できるか」**の2軸で整理します。Ag...</description>
-</item>
-<item>
-<title>【Qiita】 Anthropicが「意図しない行動」4類型を公表し社内評価のネットを全遮断した日、自分のタスクは1類型を毎回意図して実行していた</title>
-<link>https://qiita.com/Hideki_Tamae/items/d2efde5c68d5a0afa4ca</link>
-<guid>046b9636cdac9df20a11d0b69cc6ef8fe88394bb2b0666b4e2d3542ba0e3bfa3</guid>
-<pubDate>2026-10-11T15:30:19+09:00</pubDate>
-<description>はじめに 1。 これが今回の数字です。何の1かというと、2026年10月9日にAnthropicが公表した「評価中および社内利用中にClaudeが取った意図しない行動」の4分類のうち、自分がこのZenn/Qiita自動投稿タスクの正常な実行の中で、毎回意図して実行している...</description>
+<title>【Qiita】 DatI：AI Agentが安全かつ効率的にデータベースへアクセスするためのセマンティックゲートウェイ</title>
+<link>https://qiita.com/yimindev/items/272a1c5ab94df9d6a707</link>
+<guid>7323601cfb99c547da596164596f639c783f0f1962d64c08e56cd20673630950</guid>
+<pubDate>2026-10-11T22:20:40+09:00</pubDate>
+<description>1. AI Agentはどのようにデータベースと対話すべきか 私のエンジニアとしてのキャリアの前半は、一貫してビジネスインテリジェンス（BI）領域に関わってきました。初期は現場のビジネスチーム向けに、SQLを用いたデータサービスの開発やカスタムダッシュボードの構築、Tab...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>39fc91c929bd0fa7cea4bf9f16d082b2812d3ae8305043b9623e716c01759168</guid>
-<pubDate>Sun, 11 Oct 2026 10:56:03 GMT</pubDate>
+<link>https://research.google/pubs/turboslice-reusing-quantized-codes-for-fast-jl-style-search/</link>
+<guid>5b828dd57cdc16870620f20ec1b657c3ef39b0a936d86ae47b2b002ed82d071a</guid>
+<pubDate>Sun, 11 Oct 2026 16:28:11 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>8a4b70433ec998805cceabba1e04aff2730ef295c1788d51ed58eebace4de66f</guid>
-<pubDate>Sun, 11 Oct 2026 10:56:06 GMT</pubDate>
+<guid>e608ba57e9a4b239879a755e0a6cc5c849c61cbd573c35872b5f5c47957e5c9f</guid>
+<pubDate>Sun, 11 Oct 2026 16:28:14 GMT</pubDate>
 <description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>bc595a794e3f40ea91309d02d7a9642ba317980bfc0cbaf00d6ac7d62b9f216e</guid>
-<pubDate>Sun, 11 Oct 2026 10:56:08 GMT</pubDate>
-<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>c44a48c63beeaef292641dc23ea493e81ae4d027a872ad1752e8e45ba453cef2</guid>
-<pubDate>Sun, 11 Oct 2026 10:56:41 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
