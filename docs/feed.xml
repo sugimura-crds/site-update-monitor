@@ -4,64 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 11 Oct 2026 20:29:24 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 23:50:24 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 サイバーセキュリティを勉強するなら今？おすすめリソース紹介</title>
-<link>https://qiita.com/leolui2004/items/226062f17e55202e8c47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>c292607854acc24fa4e13040cc4357104766c9973760942821cad7244dcc0b0c</guid>
-<pubDate>2026-10-11T15:13:37+09:00</pubDate>
-<description>概要 インシデントが毎日のように発生する時代になり、政府機関や銀行、クラウドプロバイダーですら避けられない状況になっています。「AIのせいで仕事がなくなる」と心配するより、このタイミングでサイバーセキュリティを勉強しておけば、絶対に仕事に困らないのではないでしょうか？ と...</description>
+<title>【Qiita】 HashiCorp Vault Transit（SoftHSM の鍵）と signtool のダイジェスト署名で .exe にコード署名する</title>
+<link>https://qiita.com/fitz/items/5406df01dd54e2cc17a1</link>
+<guid>03da3755c5656e4a6ca89dd5cc045a4b7963e2430d4eb677af4e815eada49e60</guid>
+<pubDate>2026-10-12T06:17:19+09:00</pubDate>
+<description>1. はじめに コード署名とは、実行ファイルやスクリプトに発行者の電子署名を付ける仕組みです。Windows では Authenticode という形式を使います。署名があると、利用する側で「誰が作ったか」「配布後に改ざんされていないか」を確かめられます。 署名には秘密鍵...</description>
 </item>
 <item>
-<title>【Qiita】 AI時代の開発費は「お客さんが自分でやったらいくら？」で決まる</title>
-<link>https://qiita.com/kotowazaman/items/3a82a47b39bacf7f02d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>5dc5a4770689270028f35f2558820de15db92b269c02a29ce9f2a1312f9ad669</guid>
-<pubDate>2026-10-10T21:16:28+09:00</pubDate>
-<description>人月見積もりで食べてきた皆さんは今、「AI時代に、この見積もり詐欺なんじゃないか？」と悩まされているのではないでしょうか。 実装も設計書の執筆もAIがやるようになると、人月で積み上げるものがなくなります。 では開発費は何で決まるのか。よく出てくるのは「顧客が得る利益の何%か...</description>
+<title>【Qiita】 AI時代に、自分の個人情報をどう守るか。被害を最小限にするために</title>
+<link>https://qiita.com/tech-nami/items/78f9cf1af3584f665dfd</link>
+<guid>651cc89c983cc880f1e74843d4c513f3c3d53df0b786321f33427a51e217a259</guid>
+<pubDate>2026-10-12T07:53:27+09:00</pubDate>
+<description>はじめに 2026年10月、国内外で企業へのサイバー攻撃や個人情報の漏洩が相次いでいます。 AIは、文章の作成やプログラミングを支援する便利な技術です。一方で、悪意を持った人間が利用すれば、攻撃対象の調査、フィッシングメールの作成、脆弱性の探索などを効率化する道具にもなり...</description>
 </item>
 <item>
-<title>【Qiita】 GitHub Actionsでよくある3つの『見えない』脆弱性を、自前の静的解析で検出してみた</title>
-<link>https://qiita.com/vakoya_village/items/f7a457e6f51ad9c8aa4c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>bb61b00b077fb3930da6c82aafee4e5345de98205ac60758a8402fbee542fbca</guid>
-<pubDate>2026-10-10T13:26:17+09:00</pubDate>
-<description>はじめに GitHub Actionsのワークフローは「動けばOK」で書かれがちですが、動いていても安全とは限りません。特に以下の3つは、レビューでも見落とされやすく、かつ実際のインシデント事例があるものです。 permissions を明示していない（＝既定値のGI...</description>
+<title>【Qiita】 AIエージェントが本当に速くなるのは「答え合わせ」ができる仕事だけでは？テストオラクルの作り方を整理してみた</title>
+<link>https://qiita.com/mattbusel/items/05593edcd8c2407908b5</link>
+<guid>7e8cb6f1c2887e04d59686fba278221f40efe45996e4b266232a32190c86c8d3</guid>
+<pubDate>2026-10-12T06:20:42+09:00</pubDate>
+<description>AIエージェントに仕事を任せると、同じツールなのに「驚くほど速い日」と「一日中こねくり回して何も進まない日」があります。 前者は、たいてい「正しいかどうかを機械が判定できる」タスクです。テストが赤から緑になる、出力が既存システムと一致する、ファイルがちゃんと開ける。後者は「...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>1bf4ddeab8fc2efef789c424600e88a18cffe41d92c1046a0928f03033cff522</guid>
-<pubDate>Sun, 11 Oct 2026 20:28:23 GMT</pubDate>
+<link>https://research.google/pubs/turboslice-reusing-quantized-codes-for-fast-jl-style-search/</link>
+<guid>5cee26a7977e9c2e56992d8c5ccfad3ad2f295b94cc1195367d91c974964b579</guid>
+<pubDate>Sun, 11 Oct 2026 23:49:42 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>7e62a59674fcb25f00700a1b7bcb21aad8547baf45c31d520ced6f8c929b5d3c</guid>
-<pubDate>Sun, 11 Oct 2026 20:28:26 GMT</pubDate>
-<description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>f69917551aa844219b1e352cf50b9acd303eebf8835fe6142aea427e7c9f2ef9</guid>
+<pubDate>Sun, 11 Oct 2026 23:49:42 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Automata with</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-03331-9</link>
-<guid>29860596ede3b7d3a26adaf54446a3c035c3e621c984e33b38137ffa4eb04dc3</guid>
-<pubDate>Sun, 11 Oct 2026 20:28:30 GMT</pubDate>
-<description>The development of semantic imaging signs is time-consuming and relies heavily on clinicians’ experiential knowledge, whereas the abundance of quantitative radiomic features often poses challenges in interpretability and clinical translation. We developed an agentic AI pipeline to autonomously translate quantitative morphological features into semantic signs. The pipeline autonomously performed end-to-end processing—from descriptive statistical profiling and semantic sign translation to visualization. In a development dataset of 106 supratentorial glioblastoma (GBM) cases, the pipeline generated eight candidate signs; the three most consistently proposed signs&amp;nbsp;were the&amp;nbsp;cauliflower, eggplant, and pancake signs. Two radiologists independently validated the cauliflower sign on an external cohort of 50 GBMs and 50 metastases, achieving AUCs of 0.73 (95% CI: 0.64–0.82) and 0.77 (95% CI: 0.69–0.85), respectively (mean 0.75) for tumor differentiation. These findings demonstrate that agentic AI can directly derive semantic imaging signs from quantitative features, offering a systematic and data-driven framework for sign discovery that may enhance the interpretability and clinical</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>03cee6864f2afad4a8176e6ea18e56bbea94fd30c0871d74da66e177b6ffe0f8</guid>
-<pubDate>Sun, 11 Oct 2026 20:29:05 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>6d43fd8aed396699c56d0f55a8730d7dfeca058e218234e2a29b0457a6291bf0</guid>
-<pubDate>Sun, 11 Oct 2026 20:29:07 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>d017358d07ec2cbcd5255b7f6ee27fa3f1c05d0b56eba5fd09b5b3d4f5e88d99</guid>
+<pubDate>Sun, 11 Oct 2026 23:49:48 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
