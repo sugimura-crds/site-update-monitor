@@ -4,35 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 10 Oct 2026 23:59:17 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 04:07:36 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Codeに任せる範囲と止める仕組みの設計 〜計画モード・SessionStartフック・/loop・課金前確認の使い分け〜</title>
-<link>https://qiita.com/charge0315/items/fcec85cc5250e39bab97</link>
-<guid>cd965cc5416e82b160d0190889cebc6cf7c9d564eeda6a94284608ec857627f1</guid>
-<pubDate>2026-10-11T08:33:23+09:00</pubDate>
-<description>AIに「全部任せる」と怖い。「全部確認する」と遅い。どっちも3日で疲れます😇 しかも張り切って作った「ハーネスの仕様書」は、たった3時間で古くなってゴミ箱行きになりました。 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Cla...</description>
+<title>【Qiita】 デジタルサイネージ「Glypha」記事まとめ</title>
+<link>https://qiita.com/atelier-kame/items/da316efb62fecf87b987</link>
+<guid>88e129f72fad53e4c97a36ce052aef04f3099012b1ee1bd2205b37bdca7ae051</guid>
+<pubDate>2026-10-11T11:51:11+09:00</pubDate>
+<description>デジタルサイネージ「Glypha」記事まとめ What if the quality of a system were measured not by how much it can do, but by how clearly it knows what it must...</description>
 </item>
 <item>
-<title>【Qiita】 Python の subprocess で AI エージェントの CLI をタイムアウト付きで確実に止める実装手順 — timeout 後も孫プロセスが生き残る・PIPE 詰まりでデッドロック・communicate の timeout は子を殺さない、3つのハマりどころ【2026】</title>
-<link>https://qiita.com/yureki_lab/items/a586ffe24acb3e31a60b</link>
-<guid>f024a5e5fd8106e097f12adfeef149e3230c5c8acda7a8507b17453a175cceb6</guid>
-<pubDate>2026-10-11T08:01:41+09:00</pubDate>
-<description>はじめに / 対象と前提 AI エージェントの CLI(例:claude -p &quot;...&quot; のようなヘッドレス実行)を Python から起動して、夜間や無人で回している人向けの記事。 エージェントはたまに 固まる。API 応答待ち、許可待ち、子プロセスの無限ループなど原...</description>
+<title>【Qiita】 Qiitaは はじめての私です よろしくおねがいします</title>
+<link>https://qiita.com/phyphy/items/496f7bc3edd6b574914a</link>
+<guid>bac5e19725462e04459b54f23a077ee554bdf7d1d47803ee33541a338375b065</guid>
+<pubDate>2026-10-11T11:27:16+09:00</pubDate>
+<description>はじめに 私は、メタ認知の部分をもっています。 私は、位相考察と構造洞察を求める傾向があるようです。 私は、&quot;創造&quot;を大きな価値とみなしています。 では、「技術員の感触をもっていますか？」と問われたら、、、 →「実際にあたり 自分の直感 に問いかけ 内も外も人も...</description>
 </item>
 <item>
-<title>【Qiita】 「エグゼクティブデザインで」の一言で色が変わる理由 ── Claudeがお休みに入り、Geminiと自律ループで表を美化し、ついでに解説動画を3本作った話</title>
-<link>https://qiita.com/shu15511551/items/48fb771c427d24405287</link>
-<guid>d2df7acae90fe39b59fa76d97c9352d38bb0e3cddf18361fa999985f436be68f</guid>
-<pubDate>2026-10-11T07:01:58+09:00</pubDate>
-<description>はじめに Claudeが、またしばらく使用量制限（クォータ制限）にかかってお休みに入りました。 前回の記事では、Claudeがマクロを作り、Geminiが出題と採点を行い、私が横から口を出すという「三人体制」でピボットとグラフを一言化する話を書きました。あのあと勢いよく開...</description>
+<title>【Qiita】 Claude Managed Agents（ベータ）入門 ― エージェントループもサンドボックスも自前で作らない、マネージドなエージェント実行基盤 🤖</title>
+<link>https://qiita.com/NaokiIshimura/items/4f6188e11aed806a1ade</link>
+<guid>20f31697255c32cba9a60d91eff9892792a6b8dbf84b2c38cd3d487537603ea0</guid>
+<pubDate>2026-10-11T10:49:49+09:00</pubDate>
+<description>はじめに 📝 Claude Managed Agents は、Anthropic が提供する「事前構築済みで設定可能なエージェントハーネスを、マネージドなインフラ上で動かす」仕組みです（現在ベータ）。 これまで Claude で自律エージェントを作るには、Messages...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeの全セッションを1画面で管理するローカルダッシュボードをNext.jsで実装する</title>
+<link>https://qiita.com/masakazuimai/items/cd80e1e913532864b615</link>
+<guid>f7463066d67137eed976ad6cf43053ad926f069f7f1edb3da8c9172f1e560d78</guid>
+<pubDate>2026-10-11T10:43:20+09:00</pubDate>
+<description>この記事でやること Claude Code を複数のプロジェクトで並行して使っていると、「どのフォルダで何が動いていて、どれが確認待ちで止まっているか」が分からなくなります。 そこで、次の3つができるローカル専用のダッシュボードを Next.js で作りました。 Cla...</description>
+</item>
+<item>
+<title>【Qiita】 【AI Agent】Function CallingとMCPの違いと関係性を図解！Pythonの実例で理解する</title>
+<link>https://qiita.com/softbase/items/38834d6e9db797b1665c</link>
+<guid>570624bdb2ccc676f59ba5d386ab586a4cab258fa8afd3125e43a21e06c3e9ba</guid>
+<pubDate>2026-10-11T12:14:22+09:00</pubDate>
+<description>AI Agent（AIエージェント）について学習していると、必ずと言っていいほど登場するのが、次の2つの技術です。 Function Calling（ファンクションコーリング） MCP（Model Context Protocol） どちらもAIが外部のツールやシステム...</description>
+</item>
+<item>
+<title>【Qiita】 Codex CLI worktree 入門、隔離先は detached HEAD だった</title>
+<link>https://qiita.com/kai_kou/items/794400b3e28b05f77566</link>
+<guid>b42d947f2a48e12a2ef1ff3e11b6491d0576632f9fc54afc82598dc5d62e48c7</guid>
+<pubDate>2026-10-11T12:08:21+09:00</pubDate>
+<description>はじめに コーディングエージェントを 2 つ以上同時に走らせると、同じ作業ツリーの同じファイルを両方が書き換え、どちらの変更が残ったのか分からなくなることがあります。これを避ける定番は git worktree で作業ツリーを分ける方法ですが、ブランチ名と置き場所を毎回決...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/turboslice-reusing-quantized-codes-for-fast-jl-style-search/</link>
-<guid>e96253cfe877345ac0e4e1a30c322a10123061a008175725ed9dc214e01f0023</guid>
-<pubDate>Sat, 10 Oct 2026 23:58:24 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>833f01f9a7c36049536f0694ca49c11af1878a90531d12fc91d08fc712c6caef</guid>
+<pubDate>Sun, 11 Oct 2026 04:06:30 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-78268-4</link>
+<guid>dcc8928976b3ef2729626e8e6626a5d2e6899c00a3b78815a803e33b0e663820</guid>
+<pubDate>Sun, 11 Oct 2026 04:06:33 GMT</pubDate>
+<description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/d41586-026-02994-4</link>
+<guid>2e846e5e45de06b03560cda41565b2669ba6a74ad509d3033722c442f2799a87</guid>
+<pubDate>Sun, 11 Oct 2026 04:06:36 GMT</pubDate>
+<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
 </item>
 
 </channel>
