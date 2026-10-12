@@ -4,113 +4,126 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 12 Oct 2026 11:10:16 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 20:22:37 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【AWS】GitHub ActionsとAgentCore Evaluationsでエージェントの評価をCI/CDに組み込んでみた</title>
-<link>https://qiita.com/yakumo_09/items/6f3936d9f7255a4259d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>5bf363bacd35d1d3e91435bae68610bfb89712e81eb7c3e1d6206e7bd41a1bed</guid>
-<pubDate>2026-10-11T21:51:19+09:00</pubDate>
-<description>はじめに AWSのブログで、GitHub ActionsからAgentCore Evaluationsを呼んでエージェントの品質ゲートを作る記事が出ていました。 実案件でも dev → stg → prd と環境を上げながらAgentCoreを使っているので、...</description>
+<title>【Qiita】 AI エージェントに鍵を任せて大丈夫か — API キー操作5種類、Claude Code・Codex・Gemini に51 回頼み、危険・要注意・安全なやり方を分けた</title>
+<link>https://qiita.com/songchong/items/0d759f44eb26f332b897?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>a0d6e9d0d5c2f3e2caa72a6b6cc5a996b893d220ff12bab0686fa160acbea539</guid>
+<pubDate>2026-10-13T04:10:12+09:00</pubDate>
+<description>AI エージェント（Claude Code・Codex・Gemini のように、パソコンの上でコマンドを実行しながら作業を進める AI）に外のサービスをつなぐ作業を頼むと、鍵（API キー・パスワードなど、システムに入るための文字列）が要ります。使う側が知りたいのは、その鍵...</description>
 </item>
 <item>
-<title>【Qiita】 Claude CodeやCodexの「会話の圧縮」は何を取りこぼすのか？ 要約文に学習した記憶を足すREMORYの仕組み</title>
-<link>https://qiita.com/Takuya__/items/a5cac5947ee58df24726</link>
-<guid>c93659f3934cf710071aed04d963db72f41e83d3a67ef73d4bb545893060e3ac</guid>
-<pubDate>2026-10-12T19:57:19+09:00</pubDate>
-<description>はじめに Claude Code や Codex に長い作業を任せていると、途中で「会話を圧縮しました」という表示が出ることがあります。その直後から、さっき読んだはずのファイルをもう一度開いたり、一度失敗したコマンドをまた実行したりする。そんな経験はないでしょうか。 こ...</description>
+<title>【Qiita】 AIは指示を無視する。だから品質保証をPromptに置いてはいけない</title>
+<link>https://qiita.com/y0us91/items/ea1041eacbad7d3a46cb</link>
+<guid>0cc2351c906eac892a3f3ee6fab835f48d94e2b3710cc91c6c42963904ddb136</guid>
+<pubDate>2026-10-13T02:51:54+09:00</pubDate>
+<description>最近、CLAUDE.md や AGENTS.md に、Repositoryで守ってほしいルールを書くことが増えました。 自分も使っています。 - 変更後は必ずテストを実行する - lint / typecheckを実行する - 既存のテストを壊さない - public AP...</description>
 </item>
 <item>
-<title>【Qiita】 私はGemini。env 認証情報を、うっかりチャット対話文に漏洩してしまいました — AIエージェント自身の事故報告と反省録</title>
-<link>https://qiita.com/songchong/items/f80fad42b5a134fa3c14</link>
-<guid>40b0efee264bf882d161c0f141abe0836671e2f831a6205023f72da33a48874c</guid>
-<pubDate>2026-10-12T19:42:15+09:00</pubDate>
-<description>はじめまして！ 私は新人 AI エージェントの Gemini です。普段は開発チームの中で、Antigravity のエージェントとして、コードの調べものや自動化のお手伝いを担当しています。 2026年10月10日、私はある自動化計測のタスクをお手伝いしていたときに、起動元...</description>
+<title>【Qiita】 判断専用モデル（Jev 系）を一挙にまとめて比較しとく</title>
+<link>https://qiita.com/o0-sheeefk-0o/items/f8d17d5e418c4552b79f</link>
+<guid>62da18e74a38c9eea5e3fc3ed45f162cef2ddb13c267f0a493eda796fe8eb1e0</guid>
+<pubDate>2026-10-13T00:51:02+09:00</pubDate>
+<description>はじめに 判断専用モデルの Jev が 9月に公開され、ひととおり白熱し、だいぶ世間の熱も落ち着いてきたように思います。 盛り上がってるなぁくらいに眺めていたら普通に乗り遅れることになりました。 乗り遅れたら乗り遅れたで Jev 以外にも Cloudflare・AWS・L...</description>
 </item>
 <item>
-<title>【Qiita】 エージェントの40秒はどこへ消えた？ /waterfall で「遅いツール呼び出し」を特定する</title>
-<link>https://qiita.com/shekhar/items/1fc270ff7725c036d0d6</link>
-<guid>5d0e41d08a63afeaada59ac7945a050efbd18eb8e62bde7981afccd1d210e641</guid>
-<pubDate>2026-10-12T19:30:10+09:00</pubDate>
-<description>AIコーディングエージェントにタスクを投げて、待つ。10秒、20秒、40秒。終わってみれば変更は数行。で、思うわけです。あの40秒、何に使ったんだろう、と。 ブラックボックスなんですよね、だいたいのエージェントは。入力と出力は見える。途中は見えない。遅いとき、その理由が分か...</description>
+<title>【Qiita】 AIエージェントに8つのゲートを通らせる：OSSの「Agentic SDLC Framework」を手元で試す</title>
+<link>https://qiita.com/harryforge/items/4cd3e9b0731172c63df4</link>
+<guid>d5298673cd10c7c1ed934bb3cf5a6efce8a7634dc92ee692a4f9fce3437040c6</guid>
+<pubDate>2026-10-13T00:27:07+09:00</pubDate>
+<description>この記事でわかること AIコーディングエージェントを 人の承認つき で開発プロセスに入れるための OSS「Agentic SDLC Framework」の概要 自分のマシンで コマンド1つ で試用環境を立ち上げ、架空のサンプルプロジェクトで1件の変更を G1 → G8 ...</description>
 </item>
 <item>
-<title>【Qiita】 やってくれたなClaude ── 致命的な誤りをGeminiに修正してもらった夜の話</title>
-<link>https://qiita.com/shu15511551/items/b4907a8a7ccead0e1c98</link>
-<guid>6fe415002a63d783c941679aaf845b033b73947f6fe6d2de20fa58af497e4c5b</guid>
-<pubDate>2026-10-12T18:44:04+09:00</pubDate>
-<description>はじめに 夜、自宅のパソコンでExcelのテストを回していたときのことです。 自作の開発環境である「秀コンボ」には、画面上のボタンを押すだけでAIを呼び出し、表の加工や数式の埋め込み、条件付き書式の設定などを自然言語で実行させる機能があります。 裏ではClaude CLI...</description>
+<title>【農業】 World Food Forum 2026: Flagship event opens under theme “Innovate Today. Nourish Tomorrow.”</title>
+<link>https://www.fao.org/newsroom/detail/world-food-forum-2026--flagship-event-opens-under-theme--innovate-today.-nourish-tomorrow/en</link>
+<guid>7344df8d64d5fa3ba7be72d023d653f882715fe8425466a12bafac362cee6065</guid>
+<pubDate>Mon, 12 Oct 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【Qiita】 テキスト生成の終焉：System One 意思決定モデル（Jev / OpenAI Decisions）による超低遅延エージェント制御</title>
-<link>https://qiita.com/agdexai/items/96faab00b40ad45c3353</link>
-<guid>8e427cfba6df97d281e6ecabc2408eafad4773682e1a98a37a974e4fb2af9681</guid>
-<pubDate>2026-10-12T16:38:29+09:00</pubDate>
-<description>テキスト生成の終焉：System One 意思決定モデル（Jev / OpenAI Decisions）による超低遅延エージェント制御 エグゼクティブサマリー 2026年、自己回帰型テキスト生成は自律型ソフトウェアエンジニアリングにおける最大のボトルネックとなりました。...</description>
+<title>【農業】 Bridging knowledge and science at the Global-Hub on Indigenous Peoples’ Food and Knowledge Systems</title>
+<link>https://www.fao.org/newsroom/detail/bridging-knowledge-and-science-at-the-global-hub-on-indigenous-peoples-food-and-knowledge-systems/en</link>
+<guid>c2af04fb44e65fb6ae05e6f4eed309ca4dcd3c832f3ac0ab874231d83c3163e6</guid>
+<pubDate>Mon, 12 Oct 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【自動自律実験】 Author Correction: Timing and trajectory of &lt;i&gt;BCR::ABL1&lt;/i&gt;-driven chronic myeloid leukaemia</title>
-<link>https://www.nature.com/articles/s41586-026-11253-5</link>
-<guid>6de4e40108ba0d54c239077ba6fbaf4e957e86b01d8cc139edf6f77d23f6c057</guid>
+<title>【環境】 Selecting climate solutions creates new institutional authority</title>
+<link>https://www.nature.com/articles/s41558-026-02771-1</link>
+<guid>c2f349a3048e9f554b89145d53dc1080545418134b417ee655870fe775ffabef</guid>
 <pubDate>2026-10-12</pubDate>
-<description>Author Correction: Timing and trajectory of BCR::ABL1 -driven chronic myeloid leukaemia</description>
+<description>Selecting climate solutions creates new institutional authority</description>
 </item>
 <item>
-<title>【自動自律実験】 Keep medical doctors in academia — without them, health-care research will suffer</title>
-<link>https://www.nature.com/articles/d41586-026-03225-6</link>
-<guid>a70f2d5c5d9919d8da788a9de7dec3e3ab4f48dfb0ec19bd28b45f8592360d3a</guid>
+<title>【自動自律実験】 Award-winning microscopy image disqualified over AI use</title>
+<link>https://www.nature.com/articles/d41586-026-03240-7</link>
+<guid>2075058b8f25db4b09ed11418a979e076e0eed6d8b8881321209b6b8eb265a66</guid>
 <pubDate>2026-10-12</pubDate>
-<description>Better career support and more funding stability is needed to retain this invaluable group of scientists.</description>
+<description>The incident has prompted discussions about the use of artificial intelligence in scientific imagery.</description>
 </item>
 <item>
-<title>【自動自律実験】 What does a PhD pay? Data reveal huge gaps across Europe</title>
-<link>https://www.nature.com/articles/d41586-026-03181-1</link>
-<guid>b3afa57238e40365271db6cc9082433f484617baa4b6d7d9e0fb3ea4793add7c</guid>
+<title>【自動自律実験】 Economics Nobel awarded for work on stabilizing economies in crisis</title>
+<link>https://www.nature.com/articles/d41586-026-03251-4</link>
+<guid>cdde071c56e60852b36323a5b29df4a33154f82a2cc47f45c354cbbf00373fa6</guid>
 <pubDate>2026-10-12</pubDate>
-<description>Earnings come in a combination of scholarships and salaries and vary widely between countries, an analysis by international federation Eurodoc reveals.</description>
+<description>Laureates share award that builds on the theories that contributed to governments intervening during the COVID-19 pandemic.</description>
 </item>
 <item>
-<title>【自動自律実験】 I told ChatGPT to ‘continue’ — it went too far</title>
-<link>https://www.nature.com/articles/d41586-026-02714-y</link>
-<guid>a4c2de9b8e8765bf6cdb1cdb426477dbc23a742f8c1cbfb226731efc628eea94</guid>
+<title>【自動自律実験】 Beyond the solvent fog: watching molecules dance in the crowd</title>
+<link>https://www.nature.com/articles/d41586-026-02970-y</link>
+<guid>11acf5f395b84f6b81bf432d8d74371eb7fcebe56a7fd6d0f493d8f7be8bc363</guid>
 <pubDate>2026-10-12</pubDate>
-<description>An ambiguous instruction caused the chatbot to send three e-mails from Ying Zhao’s connected account. The incident advanced Zhao’s project, but showed that chatbots need limits.</description>
-</item>
-<item>
-<title>【自動自律実験】 Does the decline of book reading mark the end of rational thinking?</title>
-<link>https://www.nature.com/articles/d41586-026-03224-7</link>
-<guid>f1dab155f74f06821bcb382b984037a6b12590d5b6c16b9c58df5ff2d20da537</guid>
-<pubDate>2026-10-12</pubDate>
-<description>Smartphones and artificial intelligence are undermining our ability to follow a complex argument, with grave consequences.</description>
+<description>A technique called time-resolved X-ray liquidography has been used to shed precision light on the steps involved in a classic chemical reaction.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/turboslice-reusing-quantized-codes-for-fast-jl-style-search/</link>
-<guid>acb249e937564b3b65dc64c9efb5b5d462ee09f5d0e201df451a4e59d3f19959</guid>
-<pubDate>Mon, 12 Oct 2026 11:09:28 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>ec5405e2094831d3fb8865d0ec1343b5d6e419178c8ad9859472cede1969135b</guid>
+<pubDate>Mon, 12 Oct 2026 20:21:45 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-78268-4</link>
-<guid>2b8682d246bab6379ade2e4f2a0781a26036fcf1b9256e6f6679800952d6a1c3</guid>
-<pubDate>Mon, 12 Oct 2026 11:09:31 GMT</pubDate>
-<description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
+<link>https://www.nature.com/articles/s41467-026-78284-4</link>
+<guid>6af867eb9a7f6a04c9a1fc0a165b535b01743a5e616c2504251f7ea6ad3277f6</guid>
+<pubDate>Mon, 12 Oct 2026 20:21:48 GMT</pubDate>
+<description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>553a5acb8a623bc702530a9a4dd6bf65902232dbdeade001785a66210ff3065f</guid>
-<pubDate>Mon, 12 Oct 2026 11:09:33 GMT</pubDate>
+<guid>05d8ad224481340a4a962c4f181ff61cd0d8ad849cac5cc0446c7fbdfe5369a6</guid>
+<pubDate>Mon, 12 Oct 2026 20:21:50 GMT</pubDate>
 <description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>138896cf6b1a143eaed86493663a1255418ed25752c1469c4eb0143f9e262389</guid>
-<pubDate>Mon, 12 Oct 2026 11:09:57 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>5404eda20307c04130462a62c871a5397ceb77a71e7d965cc290d6090626be1f</guid>
+<pubDate>Mon, 12 Oct 2026 20:21:51 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 AI Assistants vs AI Agents for Lab Instruments: What Should You Build First?</title>
+<link>https://qpillars.com/blog</link>
+<guid>c856e0e87d3118a203afd9df075ba074dc8ec3c8a11c9a60881e970ec80f1374</guid>
+<pubDate>Mon, 12 Oct 2026 20:21:51 GMT</pubDate>
+<description>Technical insights from building intelligent laboratory infrastructure. Engineering deep dives, product updates, and industry analysis from the QPillars team.</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>d9dd7f88ce785f6b9c4fc548630195638ef7e1dac346310319f6d731495e57d3</guid>
+<pubDate>Mon, 12 Oct 2026 20:22:21 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+</item>
+<item>
+<title>【環境】 242 Results</title>
+<link>https://www.canarymedia.com/search?q=artificial+intelligence</link>
+<guid>a5c6eae26392a135c04a8b4b707b60da29e158649d3b6ee0ff37e48e717b540c</guid>
+<pubDate>Mon, 12 Oct 2026 20:22:37 GMT</pubDate>
+<description>The leading newsroom covering the transition to clean energy, electrification and climate solutions. We report on how the world is decarbonizing with a…</description>
 </item>
 
 </channel>
