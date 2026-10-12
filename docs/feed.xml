@@ -4,70 +4,113 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 12 Oct 2026 03:19:19 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 11:10:16 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Bob にSSH接続情報と手順書を連携してサーバー環境を構築</title>
-<link>https://qiita.com/c_u/items/3c0651ab346c3ecfbed7</link>
-<guid>c928fa7655baa7c6f96e7acb4dfd2c8e675ee2567a94dd1d05da14cccdbfb678</guid>
-<pubDate>2026-10-12T12:03:07+09:00</pubDate>
-<description>はじめに 本記事では、AIコーディング・自動化支援エージェント 「IBM Bob」 を活用し、「設計情報からの手順書作成」から「SSH接続情報を渡してのサーバー構築実行」「エラー時の調査・復旧」「作業ログ（エビデンス）の記録」 までを一気通貫で実施した内容をまと...</description>
+<title>【Qiita】 【AWS】GitHub ActionsとAgentCore Evaluationsでエージェントの評価をCI/CDに組み込んでみた</title>
+<link>https://qiita.com/yakumo_09/items/6f3936d9f7255a4259d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>5bf363bacd35d1d3e91435bae68610bfb89712e81eb7c3e1d6206e7bd41a1bed</guid>
+<pubDate>2026-10-11T21:51:19+09:00</pubDate>
+<description>はじめに AWSのブログで、GitHub ActionsからAgentCore Evaluationsを呼んでエージェントの品質ゲートを作る記事が出ていました。 実案件でも dev → stg → prd と環境を上げながらAgentCoreを使っているので、...</description>
 </item>
 <item>
-<title>【Qiita】 TLS証明書の基本と自動更新の理解 ― BIND・TSIG・certbot</title>
-<link>https://qiita.com/c_u/items/fe63da4a548138fad8bb</link>
-<guid>81af530483cc9db67b9caf978cec719147222c17333c074c49ab848eb1c946e5</guid>
-<pubDate>2026-10-12T12:02:23+09:00</pubDate>
-<description>はじめに HTTPSの設定では「証明書を取得する」ことに目が向きがちです。しかし、運用では「何を確かめて発行するのか」「更新した証明書が実際に使われているか」も大切です。 この記事では、解説動画で扱ったTLS証明書の基本と、BIND・TSIG・certbotを使ったDNS...</description>
+<title>【Qiita】 Claude CodeやCodexの「会話の圧縮」は何を取りこぼすのか？ 要約文に学習した記憶を足すREMORYの仕組み</title>
+<link>https://qiita.com/Takuya__/items/a5cac5947ee58df24726</link>
+<guid>c93659f3934cf710071aed04d963db72f41e83d3a67ef73d4bb545893060e3ac</guid>
+<pubDate>2026-10-12T19:57:19+09:00</pubDate>
+<description>はじめに Claude Code や Codex に長い作業を任せていると、途中で「会話を圧縮しました」という表示が出ることがあります。その直後から、さっき読んだはずのファイルをもう一度開いたり、一度失敗したコマンドをまた実行したりする。そんな経験はないでしょうか。 こ...</description>
 </item>
 <item>
-<title>【Qiita】 マネージドエージェント3社の現状と、Bedrock Managed Agents でできること・できないこと（2026年10月時点）</title>
-<link>https://qiita.com/0dn09g3y726519/items/cb883c5857eafdcf3c86</link>
-<guid>7502519f672b44f286663a43de2f38a868978e47f10b4db3794a2627f31177ed</guid>
-<pubDate>2026-10-12T10:34:14+09:00</pubDate>
-<description>はじめに 2026年9月末に、Amazon Bedrock Managed Agents, powered by OpenAI（以下 BMA）のプレビューが始まりました。「エージェントのループをクラウドに任せる」サービスは AWS・Azure・Google Cloud の...</description>
+<title>【Qiita】 私はGemini。env 認証情報を、うっかりチャット対話文に漏洩してしまいました — AIエージェント自身の事故報告と反省録</title>
+<link>https://qiita.com/songchong/items/f80fad42b5a134fa3c14</link>
+<guid>40b0efee264bf882d161c0f141abe0836671e2f831a6205023f72da33a48874c</guid>
+<pubDate>2026-10-12T19:42:15+09:00</pubDate>
+<description>はじめまして！ 私は新人 AI エージェントの Gemini です。普段は開発チームの中で、Antigravity のエージェントとして、コードの調べものや自動化のお手伝いを担当しています。 2026年10月10日、私はある自動化計測のタスクをお手伝いしていたときに、起動元...</description>
 </item>
 <item>
-<title>【Qiita】 0。「対象を広げたのに使っていない」と1か月前に書いた自分の記事のあと、その範囲が実際に使われた回数だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/b34915a4894b28028b8d</link>
-<guid>ef9b2c79b3271a51a6d06ae03b3894607d069f7aad50a206d999785eadebeccd</guid>
-<pubDate>2026-10-12T09:48:58+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、2026年9月15日に自分が書いた「優先度2をTamae-OS全体に広げたのに、ほとんど使っていなかった」という記事のあと、10月11日までの25回の定期実行で、その「広げたはず」の範囲（このZenn/Qiita自動...</description>
+<title>【Qiita】 エージェントの40秒はどこへ消えた？ /waterfall で「遅いツール呼び出し」を特定する</title>
+<link>https://qiita.com/shekhar/items/1fc270ff7725c036d0d6</link>
+<guid>5d0e41d08a63afeaada59ac7945a050efbd18eb8e62bde7981afccd1d210e641</guid>
+<pubDate>2026-10-12T19:30:10+09:00</pubDate>
+<description>AIコーディングエージェントにタスクを投げて、待つ。10秒、20秒、40秒。終わってみれば変更は数行。で、思うわけです。あの40秒、何に使ったんだろう、と。 ブラックボックスなんですよね、だいたいのエージェントは。入力と出力は見える。途中は見えない。遅いとき、その理由が分か...</description>
 </item>
 <item>
-<title>【Qiita】 CLI出力圧縮・125BローカルAI・ファイル駆動画像編集――GitHub 3選</title>
-<link>https://qiita.com/tsuzuri_ai/items/64588ef3de55897a4619</link>
-<guid>1dbedb1c98f1cb0e796ab7aca5d948403313e52b49ab7f29477a5efdb433df0e</guid>
-<pubDate>2026-10-12T09:19:11+09:00</pubDate>
-<description>確認日：2026年10月12日。今日は、Agentが読むCLI出力、巨大モデルの配置、画像編集の自動化という異なる3件を選びました。 Repository 何これ？ 最短の入口 私の評価 RTK ↗ コマンド出力を圧縮 winget / brew ★★★★★...</description>
+<title>【Qiita】 やってくれたなClaude ── 致命的な誤りをGeminiに修正してもらった夜の話</title>
+<link>https://qiita.com/shu15511551/items/b4907a8a7ccead0e1c98</link>
+<guid>6fe415002a63d783c941679aaf845b033b73947f6fe6d2de20fa58af497e4c5b</guid>
+<pubDate>2026-10-12T18:44:04+09:00</pubDate>
+<description>はじめに 夜、自宅のパソコンでExcelのテストを回していたときのことです。 自作の開発環境である「秀コンボ」には、画面上のボタンを押すだけでAIを呼び出し、表の加工や数式の埋め込み、条件付き書式の設定などを自然言語で実行させる機能があります。 裏ではClaude CLI...</description>
 </item>
 <item>
-<title>【Qiita】 AI エージェントに見せるツールは何個まで？ Postman が 170 個から 15 個に絞った本番設計</title>
-<link>https://qiita.com/Takuya__/items/41771f2d67045493746e</link>
-<guid>e66de16f9c8571934a09fdfa99813bf0a1af4e0c78cc5e7e386f72bb7f40bc80</guid>
-<pubDate>2026-10-12T09:02:28+09:00</pubDate>
-<description>はじめに AI エージェントに社内システムを操作させようとすると、最初は「できることを増やす」ことに目が向きます。MCP（Model Context Protocol：AI に外部のツールをつなぐための共通の約束事）のサーバーを足し、API ごとにツールを作り、気づけば...</description>
+<title>【Qiita】 テキスト生成の終焉：System One 意思決定モデル（Jev / OpenAI Decisions）による超低遅延エージェント制御</title>
+<link>https://qiita.com/agdexai/items/96faab00b40ad45c3353</link>
+<guid>8e427cfba6df97d281e6ecabc2408eafad4773682e1a98a37a974e4fb2af9681</guid>
+<pubDate>2026-10-12T16:38:29+09:00</pubDate>
+<description>テキスト生成の終焉：System One 意思決定モデル（Jev / OpenAI Decisions）による超低遅延エージェント制御 エグゼクティブサマリー 2026年、自己回帰型テキスト生成は自律型ソフトウェアエンジニアリングにおける最大のボトルネックとなりました。...</description>
+</item>
+<item>
+<title>【自動自律実験】 Author Correction: Timing and trajectory of &lt;i&gt;BCR::ABL1&lt;/i&gt;-driven chronic myeloid leukaemia</title>
+<link>https://www.nature.com/articles/s41586-026-11253-5</link>
+<guid>6de4e40108ba0d54c239077ba6fbaf4e957e86b01d8cc139edf6f77d23f6c057</guid>
+<pubDate>2026-10-12</pubDate>
+<description>Author Correction: Timing and trajectory of BCR::ABL1 -driven chronic myeloid leukaemia</description>
+</item>
+<item>
+<title>【自動自律実験】 Keep medical doctors in academia — without them, health-care research will suffer</title>
+<link>https://www.nature.com/articles/d41586-026-03225-6</link>
+<guid>a70f2d5c5d9919d8da788a9de7dec3e3ab4f48dfb0ec19bd28b45f8592360d3a</guid>
+<pubDate>2026-10-12</pubDate>
+<description>Better career support and more funding stability is needed to retain this invaluable group of scientists.</description>
+</item>
+<item>
+<title>【自動自律実験】 What does a PhD pay? Data reveal huge gaps across Europe</title>
+<link>https://www.nature.com/articles/d41586-026-03181-1</link>
+<guid>b3afa57238e40365271db6cc9082433f484617baa4b6d7d9e0fb3ea4793add7c</guid>
+<pubDate>2026-10-12</pubDate>
+<description>Earnings come in a combination of scholarships and salaries and vary widely between countries, an analysis by international federation Eurodoc reveals.</description>
+</item>
+<item>
+<title>【自動自律実験】 I told ChatGPT to ‘continue’ — it went too far</title>
+<link>https://www.nature.com/articles/d41586-026-02714-y</link>
+<guid>a4c2de9b8e8765bf6cdb1cdb426477dbc23a742f8c1cbfb226731efc628eea94</guid>
+<pubDate>2026-10-12</pubDate>
+<description>An ambiguous instruction caused the chatbot to send three e-mails from Ying Zhao’s connected account. The incident advanced Zhao’s project, but showed that chatbots need limits.</description>
+</item>
+<item>
+<title>【自動自律実験】 Does the decline of book reading mark the end of rational thinking?</title>
+<link>https://www.nature.com/articles/d41586-026-03224-7</link>
+<guid>f1dab155f74f06821bcb382b984037a6b12590d5b6c16b9c58df5ff2d20da537</guid>
+<pubDate>2026-10-12</pubDate>
+<description>Smartphones and artificial intelligence are undermining our ability to follow a complex argument, with grave consequences.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>2049cb465e7f218b9d44075c161e9df719bb803433b230bfa613d53cb93c846f</guid>
-<pubDate>Mon, 12 Oct 2026 03:18:31 GMT</pubDate>
+<link>https://research.google/pubs/turboslice-reusing-quantized-codes-for-fast-jl-style-search/</link>
+<guid>acb249e937564b3b65dc64c9efb5b5d462ee09f5d0e201df451a4e59d3f19959</guid>
+<pubDate>Mon, 12 Oct 2026 11:09:28 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-03331-9</link>
-<guid>38f5b6f7db41523275636065badcbd7dfb0a7b23e6735410691b75fa9539433b</guid>
-<pubDate>Mon, 12 Oct 2026 03:18:37 GMT</pubDate>
-<description>The development of semantic imaging signs is time-consuming and relies heavily on clinicians’ experiential knowledge, whereas the abundance of quantitative radiomic features often poses challenges in interpretability and clinical translation. We developed an agentic AI pipeline to autonomously translate quantitative morphological features into semantic signs. The pipeline autonomously performed end-to-end processing—from descriptive statistical profiling and semantic sign translation to visualization. In a development dataset of 106 supratentorial glioblastoma (GBM) cases, the pipeline generated eight candidate signs; the three most consistently proposed signs&amp;nbsp;were the&amp;nbsp;cauliflower, eggplant, and pancake signs. Two radiologists independently validated the cauliflower sign on an external cohort of 50 GBMs and 50 metastases, achieving AUCs of 0.73 (95% CI: 0.64–0.82) and 0.77 (95% CI: 0.69–0.85), respectively (mean 0.75) for tumor differentiation. These findings demonstrate that agentic AI can directly derive semantic imaging signs from quantitative features, offering a systematic and data-driven framework for sign discovery that may enhance the interpretability and clinical</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-78268-4</link>
+<guid>2b8682d246bab6379ade2e4f2a0781a26036fcf1b9256e6f6679800952d6a1c3</guid>
+<pubDate>Mon, 12 Oct 2026 11:09:31 GMT</pubDate>
+<description>Metal halide perovskite nanocrystals (PNCs) are promising candidates for next-generation optoelectronics. However, their commercial application necessitates low-cost synthesis and processing methods that surpass conventional lab-scale techniques. To address this, we report a ligand triggered room-temperature injection (LTRI) method that initiates nanocrystal nucleation by tuning precursor reactivity with addition of short-chain octanoic acid (OcA). Subsequently, integrating automation synthesis and machine learning, we further develop an efficient AI-accelerated framework towards fast and target synthesis of the FAPbI3 (FA: formamidinium) PNCs. Leveraging machine learning modeling, we identify that the critical size and distribution of FAPbI3 PNCs can be effectively optimized by tuning the feed ratio of OcA to the precursor formamidinium acetate. Furthermore, our LTRI method is fully compatible with flow-synthesis system for scale-up production, enabling a substantial reduction in production cost to US$2.16 g−1, significantly lower than the widely adopted hot-injection method (US$118.81 g−1). For practical application, we achieve a power conversion efficiency of 19.37% in photovolt</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>3b0ca54e8cbd5d78a3bac77b800b7116f01099d166a943fd997329ff316080f4</guid>
-<pubDate>Mon, 12 Oct 2026 03:18:48 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/d41586-026-02994-4</link>
+<guid>553a5acb8a623bc702530a9a4dd6bf65902232dbdeade001785a66210ff3065f</guid>
+<pubDate>Mon, 12 Oct 2026 11:09:33 GMT</pubDate>
+<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>138896cf6b1a143eaed86493663a1255418ed25752c1469c4eb0143f9e262389</guid>
+<pubDate>Mon, 12 Oct 2026 11:09:57 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
