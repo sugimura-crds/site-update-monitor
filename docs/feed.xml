@@ -4,140 +4,106 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 13 Oct 2026 09:37:04 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 17:16:02 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 JS初心者が『非同期』を理解してみた</title>
-<link>https://qiita.com/koxrtx/items/184e06cd9744f94d4f3e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>89332bef9d1ae1e49fd7f17fa135958966f4efb7243bdc8473a5c2e09db18733</guid>
-<pubDate>2026-10-13T07:17:02+09:00</pubDate>
-<description>1. はじめに 非同期とはなんか裏で重たい処理をいい感じにしてくれてるくらいで非同期が何をしているかあまり理解できてませんでした。 「なんで非同期で書かないといけないの？」と聞かれても、「非同期じゃないと処理が終わるまで画面が表示されなくて、重くなるから」くらいしか答えら...</description>
+<title>【Qiita】 IBM Bobと一緒にリリースされたばかりの新機能 AWS Lambda Web Functions でPerlのWebアプリを動かしてみた（が、期待通りではなかった）</title>
+<link>https://qiita.com/takumiida1/items/d40052011b31be2fda9b</link>
+<guid>77f9a78acee9017c9f8489c690151784addf9bcd98e4f3c6fa85471fe4d98f44</guid>
+<pubDate>2026-10-13T20:18:34+09:00</pubDate>
+<description>Summary Fargate で常時起動していた「アクセスは少ないが RDB と密に連携する業務アプリ」を安くしたいという動機で、2026年10月にGAしたばかりの新機能 Lambda Web Functions を試した Bob に計画を作らせた段階で、Lamb...</description>
 </item>
 <item>
-<title>【Qiita】 抽象的なことを考える時、無意識に具体化しないためのメモ</title>
-<link>https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>66a5d791f6ecae1c0e5cca421ba019dd05630dee4eb94cf70af5fe9330db347a</guid>
-<pubDate>2026-10-11T05:02:27+09:00</pubDate>
-<description>はじめに Whyを問うているつもりでいつの間にか、具体的なことを考えている時があるので気をつけることをメモする 芯をくっていると楽 抽象度高いところがずれていないと楽 キャリアハック、ブラックハットSEO、グレーゾーンを攻めるなどは本質的な価値をあげず、具体を緻密...</description>
+<title>【Qiita】 2026年版 RAG・AI Agent・MCPを整理する</title>
+<link>https://qiita.com/Ito_110/items/cee736ba6cbdbce8f4c6</link>
+<guid>9c6d9e2c9f66d39188e3eb1d72013d70d447f2a5a9fa45dd39ed76931f4b962a</guid>
+<pubDate>2026-10-14T01:26:20+09:00</pubDate>
+<description>Executive Summary RAG、Agent、MCPは別物です。 RAG: 必要な情報を検索してモデルへ与える Agent: 目標達成のために推論・行動を繰り返す MCP: AIアプリケーションとデータ・ツール等を接続するProtocol この3つを混...</description>
 </item>
 <item>
-<title>【Qiita】 【IBM Concert】GitHubのURLからSBOM・CVE登録を自動で行うワークフロー</title>
-<link>https://qiita.com/YuKitamura_ibm/items/0cf70ecc5232f52dd678</link>
-<guid>071a3cf4391ddfab90eed627c3c8ef377e7f7922061abab2c423d29833e26d44</guid>
-<pubDate>2026-10-13T13:33:12+09:00</pubDate>
-<description>はじめに 本ワークフローは、GitHub上のdocker-compose.yamlからコンテナイメージを抽出し、SBOM生成、脆弱性スキャン、およびIBM Concertへのアプリケーション登録を自動化します。 IBM Concertを初めて利用する際の環境準備や、デモ環...</description>
+<title>【Qiita】 Haiku 5.5は本当に1/10なのか、自分のサブエージェント運用ログで検証した</title>
+<link>https://qiita.com/fuji1009_REBELL/items/c8cbf9f1e3f8271e7772</link>
+<guid>7dba06558c985f6a41295ac878dc213a38ad0e0235e2da22b47fe358cfa36f1d</guid>
+<pubDate>2026-10-14T00:31:07+09:00</pubDate>
+<description>私は個人でサブエージェントを何体も並行運用しており、タスクの性質に応じてどのモデルに割り振るかを定義ファイルの model フィールドで決めている。この構成を、ここ数日であらためて棚卸しした。きっかけは2026年10月7日にリリースされた Claude Haiku 5.5 ...</description>
 </item>
 <item>
-<title>【Qiita】 【2026年10月版】AI Model Chronicle</title>
-<link>https://qiita.com/ManabuYamamoto/items/ed9eb2fa5d7bf2c602ad</link>
-<guid>86e624f64839f744b02742e3c137a06e68bf36e4cfd0ff9184d9c20cf3fd91ef</guid>
-<pubDate>2026-10-13T16:43:15+09:00</pubDate>
-<description>2025年1月〜2026年10月の主要モデルの系譜とサービス対応状況です。文字が小さい場合は画像を拡大してご覧ください。 はじめに LLM（AI）モデルのアップデートにだんだん追いつけなくなってきたので、個人的な振り返りもかねて、モデルの系譜や価格を整理した図を作成して...</description>
+<title>【Qiita】 x402の「セトル済みなのに売れない」を防ぐ：マニフェストとライブ402のドリフトをCIで検出する</title>
+<link>https://qiita.com/payload-tools/items/e9e05565e77d2fb6b1c3</link>
+<guid>0cc9b08f575784eba8c1e91e247990734f713d6583b2f5526eff76e81d008ea1</guid>
+<pubDate>2026-10-13T23:57:18+09:00</pubDate>
+<description>問題：マニフェストと実際の402がズレると、エージェントから「見えない」 x402 で有料APIを公開するとき、売り手は2つの場所に価格と条件を書きます。 ライブの 402 レスポンス（ルート、価格、payTo） /.well-known/x402 のマニフェスト ...</description>
 </item>
 <item>
-<title>【Qiita】 Outlookの仕分けルールが破損した際の復旧手順</title>
-<link>https://qiita.com/kzmasa/items/825eb666ac0d5c65c27d</link>
-<guid>3021721a14d606c5b17e9f8282f132338b8ef44b86086dd915c6651fb17c33be</guid>
-<pubDate>2026-10-13T12:19:47+09:00</pubDate>
-<description>1. 概要 Outlook (classic) を起動したところ、以下のエラーが表示されるようになってしまいました。 サーバーから仕分けルールを読み取り中にエラーが発生しました。 サーバーのルール形式は認識できませんでした。 起動のたびに表示され、実際に仕分けルールも大...</description>
+<title>【Qiita】 Private Agent Factory 26.7 の Custom Flow を A2A（Agent2Agent） で呼び出してみた</title>
+<link>https://qiita.com/yuji-arakawa/items/ac606c89728cb4dc2454</link>
+<guid>ae16367c564946fdc6a8f8a3dd882dd1a31122fd85fe1a6a77e3556639feb9af</guid>
+<pubDate>2026-10-13T23:18:01+09:00</pubDate>
+<description>はじめに Private Agent Factory（以下、PAF）で作った Custom Flow は、A2A（Agent2Agent）プロトコルを使って別のエージェントから利用できます。ある PAF で用意した検索や業務処理を、同一の PAF 上の Custom Fl...</description>
 </item>
 <item>
-<title>【Qiita】 AIにssh先端末を操作させる</title>
-<link>https://qiita.com/kzmasa/items/d1e793705b50f00d9da4</link>
-<guid>6aaf5956a35a1bac1f34589f5b733ad087f056f51f4de98765a014c61628524e</guid>
-<pubDate>2026-10-13T12:16:59+09:00</pubDate>
-<description>0. 概要 私は殆どの場合、sshした先で作業するのですが、ssh先は商用環境やそのステージング環境なので、codexコマンドやclaudeコマンドをインストールすることができません。 これまでは、構築や調査でAIの支援を受けるときは、TeraTermのログを食わせていた...</description>
+<title>【農業】 World Food Forum 2026: FAO Director-General opens 5th Science and Innovation Forum</title>
+<link>https://www.fao.org/newsroom/detail/world-food-forum-2026--fao-director-general-opens-5th-science-and-innovation-forum/en</link>
+<guid>20a305b3ef0a14ce352fac35e4362b8c375ec80c2963d3f6e40c624275afa1bd</guid>
+<pubDate>Tue, 13 Oct 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【Qiita】 Mac mini M6を買ったら、自分専用のローカルAI開発環境をどう作るか</title>
-<link>https://qiita.com/ISISI007/items/16e5f7f7f45872f4c96b</link>
-<guid>8fd4dc6984476c40be50e6c885654986fbc31508aa5c9c1c88a02073c303898c</guid>
-<pubDate>2026-10-13T18:16:41+09:00</pubDate>
-<description>はじめに 最近、新しく発売されたMac mini M6が気になり、ローカルLLMの実行性能について調べてみました。 前回の記事では、公式情報やベンチマーク、SNSの実測報告を整理し、32GBモデルでも量子化した20〜35BクラスのMoEモデルが動作することを確認しました。...</description>
+<title>【農業】 World Food Forum 2026: FAO’s Hand-in-Hand Investment Forum opens with record $20.16 billion in proposed investments</title>
+<link>https://www.fao.org/newsroom/detail/world-food-forum-2026--fao-s-hand-in-hand-investment-forum-opens-with-record--20.16-billion-in-proposed-investments/en</link>
+<guid>50fb568343386db069b9f10ecede32431dc12ef2ca6f5cbb93b99e98a951319f</guid>
+<pubDate>Tue, 13 Oct 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントに勝手に書き込ませる前に確認している7つのこと（実際の失敗から）</title>
-<link>https://qiita.com/NeuralAlphaAI/items/cdf094697851487606da</link>
-<guid>bf0513dc0424b3398696914df60c7734bf7e586ff54b9fd282244926275ab607</guid>
-<pubDate>2026-10-13T17:21:52+09:00</pubDate>
-<description>Claude Code で小さな自動運用を作っています。予約したジョブが公式APIでXに投稿し、Gumroadでデジタル商品を販売し、夜中にスクリプトが記録を付ける、という規模のものです。大きなシステムではありませんが、寝ている間にお金を失ったり、恥をかいたりする可能性はど...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Codeのminimalist-uiスキルのモーション規則をCSSに起こす: 600ms、80ms、そして必須のprefers-reduced-motion</title>
-<link>https://qiita.com/Skillselion/items/c937703b8883c168c112</link>
-<guid>c1e6f240f72528f510d0fab801d62bd771587623566d1e34e09d6a42863ef32d</guid>
-<pubDate>2026-10-13T17:00:39+09:00</pubDate>
-<description>minimalist-uiは、Claude Codeに余白の多いエディトリアル調のUIを作らせるスキルです。SKILL.mdの第7節はモーションを数値で指定していて、スクロール時の出現は translateY(12px) と opacity: 0 から600ms、リストの出...</description>
-</item>
-<item>
-<title>【Qiita】 AI エージェントのツール権限設計：ユーザー権限での実行、タスク単位のスコープ、操作に結び付けた承認</title>
-<link>https://qiita.com/shalXXXX/items/49a6e3ea9cc924102a97</link>
-<guid>ca53ef7d0c9b5a60556d6f0788dc595508ec06a93f5d828fb852d1abec33465e</guid>
-<pubDate>2026-10-13T17:00:34+09:00</pubDate>
-<description>AI エージェントにツールを渡すとき、「どのツールを渡すか」と同じくらい重要なのが「誰の権限で、どの範囲まで、どんな確認を経て実行するか」です。プロンプトインジェクションを確実に防ぐ方法はまだないので、モデルがだまされたときに届く範囲は、権限の設計でしか決められません。 こ...</description>
-</item>
-<item>
-<title>【Qiita】 Gemini Deep Research API移行ガイド、旧IDは10月23日に停止</title>
-<link>https://qiita.com/kai_kou/items/7b57fc82efb537e39a06</link>
-<guid>ef3875fd0050cb4711d23f1b0499594b863d1d89285d5d7176de498d4e0a5968</guid>
-<pubDate>2026-10-13T12:07:52+09:00</pubDate>
-<description>はじめに Gemini API の Deep Research エージェントを組み込んだコードが、今日も問題なく動いているとします。それでも、agent に deep-research-pro-preview-12-2025 と書いてあるなら、そのコードには停止日が決まっ...</description>
-</item>
-<item>
-<title>【自動自律実験】 In the AI era, coding means thinking like a systems architect</title>
-<link>https://www.nature.com/articles/d41586-026-02715-x</link>
-<guid>b5be7cc9e6dbb84c54db5f8c44cd6018b4a2a4fca2dda023208a23707f376bde</guid>
+<title>【環境】 Enhancing fairness in climate action through policy packages</title>
+<link>https://www.nature.com/articles/s41558-026-02751-5</link>
+<guid>f12909d0e5806bab149f52b0b6f6f6e522c23de8f82825e7e789017407e8b488</guid>
 <pubDate>2026-10-13</pubDate>
-<description>Programming is still an essential skill, but how you do it needs to change, says Jacques Cornwell.</description>
+<description>Achieving climate neutrality requires policies perceived as fair, with equity both between and within income groups. Here researchers evaluate the equity implications of different European Union climate policy packages and show how a mixed policy design can balance trade-offs between two equity dimensions.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>7e242e9690c3d9397b38301f3f8eaedf80286333f43bdeeff73cc47641e4a42c</guid>
-<pubDate>Tue, 13 Oct 2026 09:36:18 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>839e0ae968a10ea19a21f6e212b938f28ab4b7108b50bc301d15c94d347cd70a</guid>
+<pubDate>Tue, 13 Oct 2026 17:14:47 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>9ca14a936baa23c0b29d5273cf73cb14a0dcda598759e3024e9e1a672bcbd92a</guid>
-<pubDate>Tue, 13 Oct 2026 09:36:22 GMT</pubDate>
+<guid>016adcdf239cc34d26c17902b9d97ea7af997efeca89df4d6554405a81640297</guid>
+<pubDate>Tue, 13 Oct 2026 17:14:51 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>1fdb45be1e6f3fba5c740f153d3e864bb01a955ce6d0a72f800fb408bb7edeee</guid>
-<pubDate>Tue, 13 Oct 2026 09:36:24 GMT</pubDate>
+<guid>30158b807731c1ffce924e062c662254d86a34eb7e696230c2b44e10b262c057</guid>
+<pubDate>Tue, 13 Oct 2026 17:14:53 GMT</pubDate>
 <description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41746-026-03331-9</link>
-<guid>8221fabb8e9e1f8f0b3a51c5ed25e70c10225a4c5484251a92164acb08e518d6</guid>
-<pubDate>Tue, 13 Oct 2026 09:36:27 GMT</pubDate>
+<guid>dd1d5cb1f87dd24b7d01cc5465a44fc2e1e71d7e60b814e66546875b906b8b96</guid>
+<pubDate>Tue, 13 Oct 2026 17:14:56 GMT</pubDate>
 <description>The development of semantic imaging signs is time-consuming and relies heavily on clinicians’ experiential knowledge, whereas the abundance of quantitative radiomic features often poses challenges in interpretability and clinical translation. We developed an agentic AI pipeline to autonomously translate quantitative morphological features into semantic signs. The pipeline autonomously performed end-to-end processing—from descriptive statistical profiling and semantic sign translation to visualization. In a development dataset of 106 supratentorial glioblastoma (GBM) cases, the pipeline generated eight candidate signs; the three most consistently proposed signs&amp;nbsp;were the&amp;nbsp;cauliflower, eggplant, and pancake signs. Two radiologists independently validated the cauliflower sign on an external cohort of 50 GBMs and 50 metastases, achieving AUCs of 0.73 (95% CI: 0.64–0.82) and 0.77 (95% CI: 0.69–0.85), respectively (mean 0.75) for tumor differentiation. These findings demonstrate that agentic AI can directly derive semantic imaging signs from quantitative features, offering a systematic and data-driven framework for sign discovery that may enhance the interpretability and clinical</description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>ec0f3d0178d80e97a704a0e715a67981337500020d83d911aaae788fd8c18767</guid>
-<pubDate>Tue, 13 Oct 2026 09:36:32 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>145b4aa967e1453cfdc21e6ae99a02f63c4ae25e9638d2dbce0d7c1794906b45</guid>
+<pubDate>Tue, 13 Oct 2026 17:15:42 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 <item>
 <title>【農業】 総合ランキング</title>
 <link>https://smartagri-jp.com/tag/AI</link>
-<guid>fe0591c02a80e8847fc37b29ed07731d04531addc5316621b275de2bb5afe0f0</guid>
-<pubDate>Tue, 13 Oct 2026 09:36:49 GMT</pubDate>
+<guid>0afcda374a5b65a7c122cb2c0a62c959b816a10a894839d498ccf412a2c08b97</guid>
+<pubDate>Tue, 13 Oct 2026 17:15:44 GMT</pubDate>
 <description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
-</item>
-<item>
-<title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.jircas.go.jp/ja/release/2026/press202614</link>
-<guid>2576a4f2b4e3ded697aa86f59a02993133eef23bb2e697515e618b20f186b6ec</guid>
-<pubDate>Tue, 13 Oct 2026 09:36:51 GMT</pubDate>
-<description>研究所別一覧</description>
 </item>
 
 </channel>
