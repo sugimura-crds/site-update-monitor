@@ -4,112 +4,85 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 14 Oct 2026 15:38:29 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 19:51:42 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Codeを外部ツールにつなぐ「裏口」と「表口」― コネクタとClaude in Chromeの使い分けと設定手順</title>
-<link>https://qiita.com/TOSHIMITSU_MIYACHI/items/6a2a11ad7cd84b21c8d3</link>
-<guid>eefa0409d66b466eb5fee3903dc58e2b68d8dcda1ac8b7024c67b95f1baea11b</guid>
-<pubDate>2026-10-14T20:07:22+09:00</pubDate>
-<description>Claude Codeに外部ツールの情報を使わせる方法は、大きく2つあります。ツールの裏側から直接つなぐ「裏口」と、人と同じように画面から入る「表口」です。Claudeのデスクトップアプリでは、裏口はコネクタで、表口はClaude in Chromeで用意できます。 私（株...</description>
+<title>【Qiita】 Claude Code に dev-orchestra を入れて、1文で開発を回してみた</title>
+<link>https://qiita.com/istb16/items/abb0c788c4f038b8f48d</link>
+<guid>c0f4d3e450cad37ea7377996e766f639495aa289b6ee1ba1d91109731a540172</guid>
+<pubDate>2026-10-15T02:09:56+09:00</pubDate>
+<description>この記事は tk3.biz のブログ からの転載です。 はじめに 前回は、dev-orchestra で何ができるかを紹介しました。今回は実際に、Claude Code だけの環境に入れて使ってみます。 読むのに 5 分、試すのに 10 分くらいを目安にしています ...</description>
 </item>
 <item>
-<title>【Qiita】 時計が巻き戻っても、過去の画面に戻さないスケジューラ</title>
-<link>https://qiita.com/atelier-kame/items/bc496299e0939d03f34f</link>
-<guid>49e068b31e221ef25fb1131f944e60bdcbb0101c17abe2993ce9c744496814b3</guid>
-<pubDate>2026-10-14T19:51:53+09:00</pubDate>
-<description>時計が巻き戻っても、過去の画面に戻さないスケジューラ 時計どおりに動かすだけでは足りない 店頭のサイネージを、10時に「営業中」、18時に「本日は終了しました」へ切り替えるとします。 単純に現在時刻だけから表示内容を決めると、時計が18時から15時へ戻ったとき、画面も「...</description>
+<title>【Qiita】 経理・財務のAIエージェントは「完全自律」より「制約付き自律」で設計せよ──アーキテクチャ・監査・運用の実装論</title>
+<link>https://qiita.com/ariefwara/items/6294d8c2e310dd6a0f7a</link>
+<guid>21b331a41b1ee0e9f9d19c2c180408777d2106eccffc66cfe03aca0c95935439</guid>
+<pubDate>2026-10-15T02:16:25+09:00</pubDate>
+<description>この記事で扱うこと 経理・財務領域におけるAIエージェントの適切な自律度（バウンデッド・オートノミー）の設計論 監査証跡・エビデンスパック・承認閾値の具体的な実装パターン 3つの実務ユースケース（月次決算・照合・請求書処理）のシステム構成 90日間のPoCロードマップと...</description>
 </item>
 <item>
-<title>【環境】 Assessing green-growth and degrowth pathways through institutional regime feasibility</title>
-<link>https://www.nature.com/articles/s41893-026-01951-3</link>
-<guid>2be479433e1a9318b1c28004f60548ac090fb3a099e33bd21295ee30122f2643</guid>
+<title>【自動自律実験】 Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds</title>
+<link>https://www.nature.com/articles/s41586-026-11242-8</link>
+<guid>456dc357ea9fb0d1746e7ba45e4f4eb7df8c5d6b352387c86776553f88fa8eb2</guid>
 <pubDate>2026-10-14</pubDate>
-<description>Choosing a feasible economic growth trajectory to mitigate climate change cannot hinge on only gross domestic product trends. This Perspective presents a framework to understand where each possible growth path places its heaviest burdens and shows that such understanding is critical to inform policy decisions.</description>
+<description>Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds</description>
 </item>
 <item>
-<title>【自動自律実験】 Biomedical engineering is growing rapidly, but will it help patients?</title>
-<link>https://www.nature.com/articles/d41586-026-03202-z</link>
-<guid>996190b31408fd4109ee6e5d9e9891bd1cbf76d162cb54307446ed2cefcaad91</guid>
+<title>【自動自律実験】 This is why butterflies are so hard to catch</title>
+<link>https://www.nature.com/articles/d41586-026-03301-x</link>
+<guid>d38cb32c8c8651d9f6dc7ee9380f3fc931872e9794930a4f89c2538da26aa491</guid>
 <pubDate>2026-10-14</pubDate>
-<description>Assimilating the latest technology into health systems is a key challenge facing the field.</description>
+<description>High-speed camera footage reveals the visual tricks butterflies use to evade predators.</description>
 </item>
 <item>
-<title>【自動自律実験】 Becoming real</title>
-<link>https://www.nature.com/articles/d41586-026-03114-y</link>
-<guid>b4fd608e669f2e6738a72934fd64ed4da41ba2299faa23c02919439af8d92e1e</guid>
+<title>【自動自律実験】 Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride</title>
+<link>https://www.nature.com/articles/s41586-026-11267-z</link>
+<guid>6cc6207b95a917839a416fbd886f2163dec4de7342182ab1d4462cd7e56e840f</guid>
 <pubDate>2026-10-14</pubDate>
-<description>An endless blessing.</description>
+<description>Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride</description>
 </item>
 <item>
-<title>【自動自律実験】 Will my lack of country-specific grants limit my chances of employment abroad?</title>
-<link>https://www.nature.com/articles/d41586-026-02442-3</link>
-<guid>a1fbfea7f5d7e2110fbe02679fe13c63bc8c60d4a150ffe4cf30b6a814b8ce86</guid>
+<title>【自動自律実験】 &lt;b&gt;The world is closer to a major conservation target than scientists thought&lt;/b&gt;</title>
+<link>https://www.nature.com/articles/d41586-026-03307-5</link>
+<guid>5a2e9fd3be51ebaa846e03dcccd08065678a00671956d3c93dd1a64c514d13ac</guid>
 <pubDate>2026-10-14</pubDate>
-<description>A researcher in Latin America seeks advice on the best way to present themselves when applying for faculty positions in Europe and North America.</description>
-</item>
-<item>
-<title>【自動自律実験】 A guide to the Nature Index</title>
-<link>https://www.nature.com/articles/d41586-026-03206-9</link>
-<guid>991d880be78f03f35f7be96ba459b6e4f08a286ebf25d0f57e293e8e0eb8d12d</guid>
-<pubDate>2026-10-14</pubDate>
-<description>A description of the terminology and methodology used in this supplement, and a guide to the functionality that is available free online at natureindex.com.</description>
-</item>
-<item>
-<title>【自動自律実験】 Nature Index reveals the four countries to watch in biomedical engineering</title>
-<link>https://www.nature.com/articles/d41586-026-03204-x</link>
-<guid>7e9f26cd822757f8ffe7037a2cd6c3673f3029b0fb8d0bacb8604510f79a686f</guid>
-<pubDate>2026-10-14</pubDate>
-<description>These nations are making their distinct mark in the field through specialization and collaboration.</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>41dddde87c70fce9746389911da3f82df1dd3d28024837117693f92bc624678d</guid>
-<pubDate>Wed, 14 Oct 2026 15:37:34 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>174beb26871d9453cc3d639b07bd7a9c6ad4d1051d48c592de36d8f0a0ba574f</guid>
-<pubDate>Wed, 14 Oct 2026 15:37:35 GMT</pubDate>
-<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Aut</description>
+<description>Analysis suggests number of protected areas is hugely underestimated but biodiversity is still in peril — plus, a huge study looking at the health effects of brown fat.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>031d2340db6e35863bbc82e47a9b50c148b347000c51b8839057cde5479c5855</guid>
-<pubDate>Wed, 14 Oct 2026 15:37:37 GMT</pubDate>
+<guid>05987c4a59908d77fc639d36e2cb6f8595658934628ea67d360ba3d980e19227</guid>
+<pubDate>Wed, 14 Oct 2026 19:50:37 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>a3bd23d159d4b4f64b88c6df54cdca534f3400ba44528a9f1fc0417375cb3c2e</guid>
-<pubDate>Wed, 14 Oct 2026 15:37:39 GMT</pubDate>
+<guid>4f9e008f917dd9e288827f6869d9b36ffded77856138d6d0d0a94a42c59ef3aa</guid>
+<pubDate>Wed, 14 Oct 2026 19:50:39 GMT</pubDate>
 <description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
 </item>
 <item>
-<title>【U.S.】 How Do Trace Gases Affect How Cloud Droplets Form?</title>
-<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
-<guid>8e02cd2cda5ef81e11acbb0d0f5516a94e9625e76a6c5112818043ad9d294892</guid>
-<pubDate>Wed, 14 Oct 2026 15:37:43 GMT</pubDate>
-<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>df991e0cf0cae4d6bd06fef0259c6d88b4ef90ed1a77dbf38567f42e310b9e0a</guid>
+<pubDate>Wed, 14 Oct 2026 19:50:51 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 <item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>b2481a8ecc448e6b957e603c7f885f581d64ab41d238e890043e26c229b0e569</guid>
-<pubDate>Wed, 14 Oct 2026 15:38:15 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>4d0f77b66e5e0a7c5cb277b5e8d9b5576b482961f11e7836cde0f2a54797d19d</guid>
+<pubDate>Wed, 14 Oct 2026 19:51:25 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 <item>
-<title>【環境】 243 Results</title>
-<link>https://www.canarymedia.com/search?q=artificial+intelligence</link>
-<guid>1881451f41ec13d64454c0c99bef8cbb75921c60f81e59215fe86cc200d4144b</guid>
-<pubDate>Wed, 14 Oct 2026 15:38:29 GMT</pubDate>
-<description>The leading newsroom covering the transition to clean energy, electrification and climate solutions. We report on how the world is decarbonizing with a…</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>63b52c2586f95a7e23473050bf2342fc5ef6bb2bda9e8490168e5becf66c7ae9</guid>
+<pubDate>Wed, 14 Oct 2026 19:51:26 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
