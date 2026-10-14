@@ -4,91 +4,112 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 14 Oct 2026 10:52:07 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 15:38:29 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 耳で聞く！Python で学ぶ マクロ経済学 入門 28</title>
-<link>https://qiita.com/maskot1977/items/fa75e8e9cd61a2f2a22f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>ebe50eddcfda97633977abaeacbf12f8f03bdcd790b5e38114441b7bb5806c62</guid>
-<pubDate>2026-10-14T00:07:13+09:00</pubDate>
-<description>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ソース動画のタイトルは、『人手不足なのに賃金が上がらない経済のバグ : Pythonで学ぶマクロ経済学入門 Podcast 28』（YouTubeチャンネル「Pytho...</description>
+<title>【Qiita】 Claude Codeを外部ツールにつなぐ「裏口」と「表口」― コネクタとClaude in Chromeの使い分けと設定手順</title>
+<link>https://qiita.com/TOSHIMITSU_MIYACHI/items/6a2a11ad7cd84b21c8d3</link>
+<guid>eefa0409d66b466eb5fee3903dc58e2b68d8dcda1ac8b7024c67b95f1baea11b</guid>
+<pubDate>2026-10-14T20:07:22+09:00</pubDate>
+<description>Claude Codeに外部ツールの情報を使わせる方法は、大きく2つあります。ツールの裏側から直接つなぐ「裏口」と、人と同じように画面から入る「表口」です。Claudeのデスクトップアプリでは、裏口はコネクタで、表口はClaude in Chromeで用意できます。 私（株...</description>
 </item>
 <item>
-<title>【Qiita】 Copilot Studio でエージェントを本番導入するとき、設計判断で迷った5つのポイント——大企業での運用経験から【構成v2】</title>
-<link>https://qiita.com/Sidejob/items/aeaa5bbe334c6efc12d7</link>
-<guid>6217b21b454178d6f4e161e77385e882b56a8de3bf1aaab4ca8270ae3cc18df7</guid>
-<pubDate>2026-10-14T19:30:03+09:00</pubDate>
-<description>この記事でわかること：Copilot Studio でエージェントを本番導入するとき、設計フェーズで判断が難しかった5点の整理。どこで詰まりやすいか・判断軸・実際に取ったアプローチを書く 本業で Copilot Studio を使って社内 AI エージェントの設計・展開...</description>
+<title>【Qiita】 時計が巻き戻っても、過去の画面に戻さないスケジューラ</title>
+<link>https://qiita.com/atelier-kame/items/bc496299e0939d03f34f</link>
+<guid>49e068b31e221ef25fb1131f944e60bdcbb0101c17abe2993ce9c744496814b3</guid>
+<pubDate>2026-10-14T19:51:53+09:00</pubDate>
+<description>時計が巻き戻っても、過去の画面に戻さないスケジューラ 時計どおりに動かすだけでは足りない 店頭のサイネージを、10時に「営業中」、18時に「本日は終了しました」へ切り替えるとします。 単純に現在時刻だけから表示内容を決めると、時計が18時から15時へ戻ったとき、画面も「...</description>
 </item>
 <item>
-<title>【Qiita】 Amazon ConnectのAIエージェントでFAQ自動応答の仕組みを作ってみた</title>
-<link>https://qiita.com/hirose0929/items/d059e00fe921831a4803</link>
-<guid>26684e93824d5eda3e519c90dff8070b68255d6f051841d80b1214bc7980924c</guid>
-<pubDate>2026-10-14T18:03:26+09:00</pubDate>
-<description>はじめに Amazon ConnectのAIエージェント機能を使い、「電話で質問 → AIがFAQを検索 → 音声で回答」をLambdaなどの自前実装なしで構築する手順をまとめました。 事前準備 AWSアカウントの作成 Amazon Connectインスタンスの作成(...</description>
-</item>
-<item>
-<title>【Qiita】 Grafana公式MCPは、適当に作ったIDだけで誰でもツールを実行できた</title>
-<link>https://qiita.com/kenimo49/items/d4274c52cee211b4caa0</link>
-<guid>0cfb915edcc377449280e5114329df436a348ab9df8965e76ee8dfc957a0c0d9</guid>
-<pubDate>2026-10-14T18:00:00+09:00</pubDate>
-<description>Grafana 公式の MCP サーバー、mcp-grafana。Docker Hub で190万回以上ダウンロードされているこのサーバーに、2026年8月、こんな弱点が報告されました。 自分で適当に作ったセッションIDを付けるだけで、ログインなしにツールを呼べた。 呼ばれ...</description>
-</item>
-<item>
-<title>【Qiita】 NocoBase で AI を企業経営分析に活用する方法：営業・在庫・購買・財務を横断して分析</title>
-<link>https://qiita.com/TianqiYuan/items/fb949c130a27e1dcc3a8</link>
-<guid>54b29ff01f2fba05b8c4401dc62f39b2de7c870ea596cac1b145b49db4794de1</guid>
-<pubDate>2026-10-14T17:12:07+09:00</pubDate>
-<description>これまでの記事では、AI と NocoBase を組み合わせた CRM 構築、IT 資産管理、チケット管理システムを順に紹介し、自然言語で表現した業務要件を AI が実際に使える企業アプリへ変換する流れを見てきました。 最近、Reddit の r/AI_Agents で、あ...</description>
-</item>
-<item>
-<title>【環境】 The ambitions and limitations of climate assemblies</title>
-<link>https://www.nature.com/articles/s41558-026-02764-0</link>
-<guid>49007dbef27cf0921eecfda7062dbdca2e33362087245241bd933df8ae449549</guid>
+<title>【環境】 Assessing green-growth and degrowth pathways through institutional regime feasibility</title>
+<link>https://www.nature.com/articles/s41893-026-01951-3</link>
+<guid>2be479433e1a9318b1c28004f60548ac090fb3a099e33bd21295ee30122f2643</guid>
 <pubDate>2026-10-14</pubDate>
-<description>Climate citizens’ assemblies are gaining traction worldwide as a way to involve the public in climate governance. Now a study demonstrates that although these assemblies propose more ambitious recommendations than existing climate policy, these recommendations vary across contexts and have limited impact on po</description>
+<description>Choosing a feasible economic growth trajectory to mitigate climate change cannot hinge on only gross domestic product trends. This Perspective presents a framework to understand where each possible growth path places its heaviest burdens and shows that such understanding is critical to inform policy decisions.</description>
 </item>
 <item>
-<title>【環境】 Strengthening Rio Convention implementation architecture through reciprocal learning</title>
-<link>https://www.nature.com/articles/s41558-026-02777-9</link>
-<guid>7bf8db65cb3e6dccf20a7d885eb1bbd70a463b5788a2ec0d2c26f5482f8944aa</guid>
+<title>【自動自律実験】 Biomedical engineering is growing rapidly, but will it help patients?</title>
+<link>https://www.nature.com/articles/d41586-026-03202-z</link>
+<guid>996190b31408fd4109ee6e5d9e9891bd1cbf76d162cb54307446ed2cefcaad91</guid>
 <pubDate>2026-10-14</pubDate>
-<description>As the Rio Conventions mature from negotiating commitments towards delivering them, strengthening implementation has become an urgent priority. We argue for greater cross-convention learning within the context of institutional architecture to accelerate progress on climate, biodiversity and land degradation.</description>
+<description>Assimilating the latest technology into health systems is a key challenge facing the field.</description>
 </item>
 <item>
-<title>【環境】 Species hybridization belongs on the climate change agenda</title>
-<link>https://www.nature.com/articles/s41558-026-02780-0</link>
-<guid>3306e2f243a03d37d5d627811d27cc814a83631b731f915deb07f3712c7bb664</guid>
+<title>【自動自律実験】 Becoming real</title>
+<link>https://www.nature.com/articles/d41586-026-03114-y</link>
+<guid>b4fd608e669f2e6738a72934fd64ed4da41ba2299faa23c02919439af8d92e1e</guid>
 <pubDate>2026-10-14</pubDate>
-<description>Species hybridization belongs on the climate change agenda</description>
+<description>An endless blessing.</description>
 </item>
 <item>
-<title>【環境】 Citizens’ assemblies propose ambitious climate policy but impacts remain limited</title>
-<link>https://www.nature.com/articles/s41558-026-02755-1</link>
-<guid>c0fb2290a2c03eeab6296fdf4184046ab9f39cae6cbdd25cd219008981cded05</guid>
+<title>【自動自律実験】 Will my lack of country-specific grants limit my chances of employment abroad?</title>
+<link>https://www.nature.com/articles/d41586-026-02442-3</link>
+<guid>a1fbfea7f5d7e2110fbe02679fe13c63bc8c60d4a150ffe4cf30b6a814b8ce86</guid>
 <pubDate>2026-10-14</pubDate>
-<description>Deliberative citizen participation, such as climate assemblies, has been promoted in climate governance. This study finds that, although assemblies proposed more ambitious recommendations than existing climate policy, these recommendations rarely translated into actual policy decisions.</description>
+<description>A researcher in Latin America seeks advice on the best way to present themselves when applying for faculty positions in Europe and North America.</description>
+</item>
+<item>
+<title>【自動自律実験】 A guide to the Nature Index</title>
+<link>https://www.nature.com/articles/d41586-026-03206-9</link>
+<guid>991d880be78f03f35f7be96ba459b6e4f08a286ebf25d0f57e293e8e0eb8d12d</guid>
+<pubDate>2026-10-14</pubDate>
+<description>A description of the terminology and methodology used in this supplement, and a guide to the functionality that is available free online at natureindex.com.</description>
+</item>
+<item>
+<title>【自動自律実験】 Nature Index reveals the four countries to watch in biomedical engineering</title>
+<link>https://www.nature.com/articles/d41586-026-03204-x</link>
+<guid>7e9f26cd822757f8ffe7037a2cd6c3673f3029b0fb8d0bacb8604510f79a686f</guid>
+<pubDate>2026-10-14</pubDate>
+<description>These nations are making their distinct mark in the field through specialization and collaboration.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>91d4a2684fe006c4fee49d41290c364a56e9541672ee5bb3ef6d70a6deccf53f</guid>
-<pubDate>Wed, 14 Oct 2026 10:51:03 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>41dddde87c70fce9746389911da3f82df1dd3d28024837117693f92bc624678d</guid>
+<pubDate>Wed, 14 Oct 2026 15:37:34 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>174beb26871d9453cc3d639b07bd7a9c6ad4d1051d48c592de36d8f0a0ba574f</guid>
+<pubDate>Wed, 14 Oct 2026 15:37:35 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Cellular Aut</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>d8c9068615392269b64b4e440eba961112b594f5ef0d226e0d184e33b1362584</guid>
-<pubDate>Wed, 14 Oct 2026 10:51:06 GMT</pubDate>
+<guid>031d2340db6e35863bbc82e47a9b50c148b347000c51b8839057cde5479c5855</guid>
+<pubDate>Wed, 14 Oct 2026 15:37:37 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>2b7655a3dc99fd3f0d3c79031fcaad1bba066564a8489f8b2ae851dbbe1468cc</guid>
-<pubDate>Wed, 14 Oct 2026 10:51:58 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/d41586-026-02994-4</link>
+<guid>a3bd23d159d4b4f64b88c6df54cdca534f3400ba44528a9f1fc0417375cb3c2e</guid>
+<pubDate>Wed, 14 Oct 2026 15:37:39 GMT</pubDate>
+<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
+</item>
+<item>
+<title>【U.S.】 How Do Trace Gases Affect How Cloud Droplets Form?</title>
+<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
+<guid>8e02cd2cda5ef81e11acbb0d0f5516a94e9625e76a6c5112818043ad9d294892</guid>
+<pubDate>Wed, 14 Oct 2026 15:37:43 GMT</pubDate>
+<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
+</item>
+<item>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>b2481a8ecc448e6b957e603c7f885f581d64ab41d238e890043e26c229b0e569</guid>
+<pubDate>Wed, 14 Oct 2026 15:38:15 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+</item>
+<item>
+<title>【環境】 243 Results</title>
+<link>https://www.canarymedia.com/search?q=artificial+intelligence</link>
+<guid>1881451f41ec13d64454c0c99bef8cbb75921c60f81e59215fe86cc200d4144b</guid>
+<pubDate>Wed, 14 Oct 2026 15:38:29 GMT</pubDate>
+<description>The leading newsroom covering the transition to clean energy, electrification and climate solutions. We report on how the world is decarbonizing with a…</description>
 </item>
 
 </channel>
