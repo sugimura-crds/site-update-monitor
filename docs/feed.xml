@@ -4,64 +4,92 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 14 Oct 2026 00:45:25 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 05:38:28 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 2026年10月14日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/e391cf5cb052cf432685</link>
-<guid>935290254eb5274c026c6876cd870d63dd797b71c54bfe618a32debf636675da</guid>
-<pubDate>2026-10-14T08:58:33+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 サイバーセキュリティを勉強するなら今？おすすめ...</description>
+<title>【Qiita】 Claude API と GitHub Copilot のダイナミックワークフローの違い｜比較表と公式に書かれていないこと</title>
+<link>https://qiita.com/kenji_harada/items/1c7ad5b475f9cf1f1382</link>
+<guid>3d1f97c536da019b394c383484dc06488aed2363241cb09409c79a3900a2c0dd</guid>
+<pubDate>2026-10-14T13:15:25+09:00</pubDate>
+<description>Claude API と GitHub Copilot は、2026 年 10 月に「ダイナミックワークフロー」という同じ名前の機能を相次いで公開しました。どちらも複数のエージェントを動かす処理をプログラムとして扱います。ただし、ワークフローを書く主体、プログラムの置き場所...</description>
 </item>
 <item>
-<title>【Qiita】 BlogでたどるSelect AI入門：多言語からAI Ready Data、SQL＋RAGまで整理してみてみた</title>
-<link>https://qiita.com/shirok/items/3661216f00cc9f5629cb</link>
-<guid>fe12cfa918cc515826a642c9419b8a6e0855ed152bbc1554d0f9e0164f795a46</guid>
-<pubDate>2026-10-14T08:23:07+09:00</pubDate>
-<description>Select AIを使うと、日本語などの自然言語からSQLを生成し、Oracle Databaseのデータを調べることができます。 ただ、実際に使ってみると、いろいろ気になってきます。 「日本語以外でも問い合わせできるのか？」 「AIは、どのテーブルを使うか、どの列でJ...</description>
+<title>【Qiita】 Claude で eval の設計と「どう改善を重ねるか」を自動化する `/claude-api build-eval` と `hillclimb` とは？「自分をだまさない」改善ループの原則</title>
+<link>https://qiita.com/y-morimatsu/items/33348f3b9653f2c2c60a</link>
+<guid>e43ccde1a32afa981e5ae4f544abfb130c3e135571901d7c5c77259fe6b3e22f</guid>
+<pubDate>2026-10-14T12:21:46+09:00</pubDate>
+<description>グラレコ 上のグラレコは、この記事で扱う内容を1枚にまとめたものです。よい eval の4条件、build-eval の流れ、採点方法の選び方、hillclimb のループ、過学習対策、停滞したときの分類までを並べています。本文で1つずつ見ていくので、まずは全体の地図と...</description>
 </item>
 <item>
-<title>【Qiita】 小さなClaudeが、安く速く強くなった——Claude Haiku 5.5が変える「AIチーム」の作り方</title>
-<link>https://qiita.com/sin-aiagent/items/6a3fb32be9ad5fb4f2e0</link>
-<guid>d2e12b8bd57043c51c77687fe8169daaac18e1d748b9f166460dfde59e9fd4fc</guid>
-<pubDate>2026-10-14T08:07:43+09:00</pubDate>
-<description>Anthropicは2026年10月7日、小型モデルの最新版「Claude Haiku 5.5」を発表しました。モデルIDは claude-haiku-5-5。すでにAnthropic API、AWS、Google Cloud、Microsoft Azureを含む各プラッ...</description>
+<title>【Qiita】 MCPって難しそう？ BobにDocplexを教えるMCPサーバーとSkillを作ってみた</title>
+<link>https://qiita.com/graziuya23/items/0870974255d4faa83938</link>
+<guid>2bb772e6ab28c9e4f12af92fed71735908dbc3488df659d40de4bc17ecb9f597</guid>
+<pubDate>2026-10-14T12:12:53+09:00</pubDate>
+<description>「MCPって難しそう…」と感じた方へ この記事を書いた筆者も、MCP実装を始めるまではMCPについてほぼ何も知りませんでした。 今回の実装はBob（IBM Bob）に自然言語で指示して作っており、コードをゼロから手書きしていません。「MCPを完全に理解してから実装しよう」...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントを無人で回す Python プロセスのログを取りこぼさない実装手順 — 複数プロセスのローテーションで前日分が消える・basicConfig が黙って無視される・スレッドの例外が残らない、3つのハマりどころ【2026】</title>
-<link>https://qiita.com/yureki_lab/items/1961c34b14c1b0fbe3f4</link>
-<guid>57ec97b7e765dbf7d9f841d918146fb73cb5cb6ee822a119a91655fa602fd269</guid>
-<pubDate>2026-10-14T08:01:38+09:00</pubDate>
-<description>はじめに / 対象と前提 AI エージェント（Claude Code のヘッドレス実行や、自作のエージェントループ）を夜間に無人で回していると、朝になって「何が起きたか」を追えるのはログだけになる。ところが自分の環境では、ログはちゃんと仕込んだつもりなのに、肝心の時間帯だ...</description>
+<title>【Qiita】 【2026年10月 最新版】AIモデル徹底比較 | GPT-6.1 Sol / Claude Opus 5.5 / Claude Sonnet 5.5 / Gemini 4 Argon</title>
+<link>https://qiita.com/nuco_d/items/9d4f86c185dda6fd24a7</link>
+<guid>69cc6ff4feb0ae9cc174d039efa0833b8b88251c41a30c0761c68b42f21f4f39</guid>
+<pubDate>2026-10-14T11:48:28+09:00</pubDate>
+<description>はじめに 本記事では、Gemini 4 Argon、GPT-6.1 Sol、Claude Opus 5.5、Claude Sonnet 5.5 の4モデルを、スペック・公式ベンチマーク・料金の3つの観点で比較します。 記載している数値は、すべて2026年10月13日時点の...</description>
 </item>
 <item>
-<title>【自動自律実験】 Lead-tainted teeth reveal medieval mines’ unequal toll</title>
-<link>https://www.nature.com/articles/d41586-026-03236-3</link>
-<guid>6376557c072f5c16d270da538d615bf60ce6bde5e6c8419c304c5c85bb58e887</guid>
-<pubDate>2026-10-13</pubDate>
-<description>Burials in the United Kingdom’s Peak District, one of Europe’s largest lead-production regions in centuries past, hint at social inequality.</description>
+<title>【自動自律実験】 China’s AI research is booming. Where is it headed?</title>
+<link>https://www.nature.com/articles/d41586-026-03223-8</link>
+<guid>e2e56e816377715bfc5eda03a61d0c22504e98f740dfe0c0617c583902883f6c</guid>
+<pubDate>2026-10-14</pubDate>
+<description>Nature speaks to analysts and researchers about what it’s like to work in AI in China.</description>
+</item>
+<item>
+<title>【自動自律実験】 China’s extraordinary rise in science and how it will change the world</title>
+<link>https://www.nature.com/articles/d41586-026-03222-9</link>
+<guid>d388bac1116ed673fd15ad6e0aefdf6b62cfed76dad10a02fa3a2085c0e55d11</guid>
+<pubDate>2026-10-14</pubDate>
+<description>The nation is on a trajectory to lead the world in science, a development that will reshape technological advancement, innovation and the balance of global power.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
 <link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>6c4f589fc134836fdf5fe6a54ec23b493a3ea522eb8a8596edf4343a68500604</guid>
-<pubDate>Wed, 14 Oct 2026 00:44:38 GMT</pubDate>
+<guid>be1583d70dc5a2716b9e71caea9f0298b8ff5e572bcfca0b9eb4b6b108a95338</guid>
+<pubDate>Wed, 14 Oct 2026 05:37:37 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>2e9d8b172a145746de2b04a8e525ca78cdbef64c609483aefbe501861bef3dd2</guid>
-<pubDate>Wed, 14 Oct 2026 00:44:41 GMT</pubDate>
+<guid>f35927a11f0c874f6bd52b54271e5f577fe3684b8f885fc5ffa252cbf49485c5</guid>
+<pubDate>Wed, 14 Oct 2026 05:37:40 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/d41586-026-02994-4</link>
+<guid>b91fda250a9fbd8aca3be9b44e2c713234cf3f074ced2053aa276d880db74463</guid>
+<pubDate>Wed, 14 Oct 2026 05:37:42 GMT</pubDate>
+<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>6d4053f295678a45346dcf7ce947bcf5a0b5cb1fa17fe13972f2e40c7fb30258</guid>
+<pubDate>Wed, 14 Oct 2026 05:37:45 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>7122522d2cc1332082d670ef86147d00436ea80bda3083765f659f7ed0b23105</guid>
-<pubDate>Wed, 14 Oct 2026 00:45:04 GMT</pubDate>
+<guid>5fa02683d645b9983037c665c49791944e0dc9157df5c668dddb6b0f68d41ff3</guid>
+<pubDate>Wed, 14 Oct 2026 05:38:09 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>ce396f72d906a39f0b61bf5ee7c00c97b73f69af1eba8be156e986007c28ac86</guid>
+<pubDate>Wed, 14 Oct 2026 05:38:16 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
