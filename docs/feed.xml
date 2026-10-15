@@ -4,140 +4,91 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 15 Oct 2026 11:49:37 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 15:59:37 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 重複率0%でも安心できない？Cucumberのステップ定義に潜む重複を見つける</title>
-<link>https://qiita.com/figueiredoluiz/items/6337f9c909fe0f60e7c2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>327845d0e154b05af6e7a3a8cc353033893ea8690ec45c6809b6851c07038a92</guid>
-<pubDate>2026-10-15T08:08:15+09:00</pubDate>
-<description>はじめに CukeDedupは、Cucumber/Gherkinプロジェクトのステップ定義を静的解析し、重複や曖昧さ、再利用の可能性、未使用の定義を見つける CLI ツールです。Rust で書いていて、MITライセンスで GitHub に公開しています。 設定ファイルは不...</description>
+<title>【Qiita】 IBM Cloud: Windows Server 2025におけるCredential Guard</title>
+<link>https://qiita.com/shiyasu/items/98d42c5872f28e83a684</link>
+<guid>2021e166abc40974ddb247d3525f78b2ec83a52dbfab8a8a369d4430b7e21b0f</guid>
+<pubDate>2026-10-15T21:08:32+09:00</pubDate>
+<description>1. Credential Guardとは 従来、Windows Serverでは LSASS（Local Security Authority Subsystem Service） がログイン認証やActive Directory認証を担当し、パスワードハッシュやKer...</description>
 </item>
 <item>
-<title>【Qiita】 底辺校1年生が2ヶ月(実質)で入茶しました</title>
-<link>https://qiita.com/ikneg/items/54abb56d67ffe3c830d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>955587b1b92bea9d4f406eefd3089145e128b6cb61452d705741e12bbab2180d</guid>
-<pubDate>2026-10-14T17:44:42+09:00</pubDate>
-<description>どうも、iknegです。 ほとんど1ヶ月前に正式に入茶したので、記事にします。 私のスペックについて 底辺校に通う高校1年生です。 国数英の中だと国数が得意です(どちらも8月の模試で45程度ですが...) なぜかjmoの予選くらいだと偏差値45のくせに3完できるし、都立...</description>
+<title>【Qiita】 【Claude Code】チケットURLを渡すだけ。iOS不具合を調べて報告まで行うAIチームの設計</title>
+<link>https://qiita.com/TakanobuSano/items/4b696164714c0bb58f3b</link>
+<guid>d2bb82372adb1e391e17c62fddd03f25961218c25092c512370731654f4521c9</guid>
+<pubDate>2026-10-15T23:32:58+09:00</pubDate>
+<description>この記事のゴール Redmine のチケット URL を 1 つ渡すと、Claude Code のエージェントチームが次の作業を続けて行う仕組みを作りました。 チケットを読み、報告された再現条件を整理する 症状から関連コードを探し、根本原因の仮説を立てる 別のエージェ...</description>
 </item>
 <item>
-<title>【Qiita】 FlinkやFlink SQLについてまとめてみよう</title>
-<link>https://qiita.com/yashibata/items/ad6fc57ae4d4266b0906</link>
-<guid>7bfe8bdf33d91b738e9bc014421b0ddac6f1fafa57c9618a2466fb022f20adcf</guid>
-<pubDate>2026-10-15T16:34:53+09:00</pubDate>
-<description>Flinkとは Apache Flink（以下、Flink）は、継続的に発生するデータをリアルタイムに処理するためのストリーム処理エンジンです。 Kafkaなどから流れてくるデータに対して、データをすべて蓄積してから処理するのではなく、流れている途中で加工・結合・集計など...</description>
+<title>【Qiita】 Claude Codeのclaude -pでREADMEを1回だけ読む — Statusを1語返す初回タスク</title>
+<link>https://qiita.com/akira_papa_AI/items/879ae6293235dea60799</link>
+<guid>1eedf92381e4c5e68aece45ea56233029cc582b9181699244354597d725458e4</guid>
+<pubDate>2026-10-15T22:17:48+09:00</pubDate>
+<description>Claude Codeをまだ動かしたことがなく、「まず1回だけファイルを読ませたい」人向けです。 この記事では練習用READMEを作り、claude -pの返答としてreadyを1語受け取ります。 前提はターミナルとClaude Codeを利用できるアカウントです。インスト...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeに.envを読ませない設定は settings.json の permissions.deny に書く</title>
-<link>https://qiita.com/supportapp3/items/b7901d10862db06ec663</link>
-<guid>c343faf0e793cda3b3e4e1f14dcea6c133e20824fd01a624068e39f471a52a93</guid>
-<pubDate>2026-10-15T18:23:57+09:00</pubDate>
-<description>結論 Claude Code に .env を読ませたくないなら、settings.json の permissions.deny に Read(./.env) と Read(./.env.*) を書きます。公式ドキュメントにこの例がそのまま載っています。 設定ファイル...</description>
+<title>【Qiita】 Grok Botを仕事の入口にする：Dots・Claude・CodexにつなぐUI/UXと運用設計</title>
+<link>https://qiita.com/noujiru/items/d56eacaf3e1e02be37b3</link>
+<guid>1f48227178887cb18e9c3a3676b39a1379542ea87aa9853687cdc83026d5f796</guid>
+<pubDate>2026-10-15T21:50:25+09:00</pubDate>
+<description>この画面、ちょっとLINEっぽくないですか。 出典：Grok Bot公式サイトの公開デモ。UIの説明のため画面部分を引用。2026年10月15日取得。筆者の環境や実際の会話ではありません。 左に相手の名前とアイコンが並んでいて、右には会話の吹き出し。 下には、選んだBot...</description>
 </item>
 <item>
-<title>【Qiita】 Claude・ChatGPT・Grok を1つのコマンドで使い分けたいなら ― OMO 入門：インストールから役割ごとのモデル設定まで</title>
-<link>https://qiita.com/nogataka/items/2c5b40ef0dd9ea15f427</link>
-<guid>3abcd283c85fe3c608bf635203ddd43c676becc20055dd603bd56a4dcdc6db51</guid>
-<pubDate>2026-10-15T17:56:21+09:00</pubDate>
-<description>はじめに ターミナルで動く AI コーディングエージェントは、選択肢が増えてきました。 Claude Code や Codex CLI が代表的です。 この記事では、その一つである OMO（oh-my-openagent）を取り上げます。 インストールから、日常的に使える...</description>
-</item>
-<item>
-<title>【Qiita】 手で動かすと動くのに、夜中の自動実行だけ落ちるPython（Windows・cp932）の確認リスト</title>
-<link>https://qiita.com/NeuralAlphaAI/items/3edfcf343417647968e3</link>
-<guid>8c4defc037c2e712982ff568cee3ae37c18e3dc853cb00b38177f600467be8e2</guid>
-<pubDate>2026-10-15T17:36:49+09:00</pubDate>
-<description>Claude Code で作った小さな自動運用（予約投稿・商品の集計・夜間のログ記録）を、Windows のタスクスケジューラで動かしています。 無人で動かしていた夜中のジョブが、UnicodeEncodeError で止まったことがあります。手で実行したときは毎回正常に動...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Code の i-have-adhd スキル導入手順と、10ルールが日本語の回答をどう変えるか</title>
-<link>https://qiita.com/Skillselion/items/8121eaa7b88a2732ad8c</link>
-<guid>23e52d7ac80653427dbe203a19c37733f6b52b4179706b0f48cd1f12eb258b59</guid>
-<pubDate>2026-10-15T17:12:41+09:00</pubDate>
-<description>結論 i-have-adhd は、Claude Code の回答の「形」を変えるスキルです（MIT ライセンス、作者は ayghri）。先頭に次の一手、複数の作業は番号付き、最後に2分以内でできる行動を1つ、という形にそろえます。導入後に /i-have-adhd と打つ...</description>
-</item>
-<item>
-<title>【農業】 World Food Forum 2026: FAO calls for smarter water governance to safeguard food security</title>
-<link>https://www.fao.org/newsroom/detail/world-food-forum-2026--fao-calls-for-smarter-water-governance-to-safeguard-food-security/en</link>
-<guid>c9ea3f7889c2b9b61fb1abcf4bbdd0e00149388118cbddcb6b4498bfcdcda385</guid>
+<title>【農業】 FAO honours 100 Women Heroes driving change across agrifood systems</title>
+<link>https://www.fao.org/newsroom/detail/fao-honours-100-women-heroes-driving-change-across-agrifood-systems/en</link>
+<guid>8f9adbb691b0d6c84c5936197581be1c6bdbb83541bee360e81eddb15b5de54f</guid>
 <pubDate>Thu, 15 Oct 2026 12:00:00 Z</pubDate>
 <description></description>
 </item>
 <item>
-<title>【環境】 Combining climate policy instruments for a just transition to a climate-neutral economy</title>
-<link>https://www.nature.com/articles/s41558-026-02757-z</link>
-<guid>231f1ae715f4731400ba9603c39e317d3daed1b40ccd31587ad2b8a8bb7103fe</guid>
+<title>【環境】 Quantifying assets for the geopolitics of climate change mitigation</title>
+<link>https://www.nature.com/articles/s41893-026-01971-z</link>
+<guid>c6f9db42fb074061b46b894002fc2bfe1c7f0631bc3c1cadec52d235a38cfd70</guid>
 <pubDate>2026-10-15</pubDate>
-<description>A distributional analysis of European Union climate policy pathways traces the costs of reducing carbon dioxide emissions to the level of households based on their spending and income patterns. We find that different equity considerations, including income inequality and within-group impact divergence, can sha</description>
+<description>Climate action reshapes who gains and loses from energy and environmental resources, raising new geopolitical questions. A study now quantifies four climate-related asset types across 169 countries and reveals uneven asset redistribution, with major powers often less affected.</description>
 </item>
 <item>
-<title>【環境】 Warming oceans hit the battlefield</title>
-<link>https://www.nature.com/articles/s41558-026-02782-y</link>
-<guid>afbef44e4534c1521a4d65d6d2a26a0ea67cce1d0c3907f5b7b586200a05b1e3</guid>
+<title>【環境】 Skill and spatial mismatches for sustainable development in Brazil</title>
+<link>https://www.nature.com/articles/s41893-026-01939-z</link>
+<guid>62cbf0eb125cab0417b7737d402aed18a71432e9e7d484f5c54454c16a96e6a8</guid>
 <pubDate>2026-10-15</pubDate>
-<description>Marine radar signal propagation is highly sensitive to fine-scale vertical changes in water vapour. Now research shows that long-term increases in sea surface temperatures are strengthening the frequency and intensity of the features that allow radar signals to travel further than expected.</description>
+<description>Deforestation-reducing development pathways may cut emissions, but it is unclear how workers can adapt given skill and geographic mobility constraints. Modelling job transitions in Brazil reveals that greener pathways benefit workers in high-skill occupations but increase low-skill unemployment, mitigated by m</description>
 </item>
 <item>
-<title>【環境】 Warming-driven lower-tropospheric stratification intensifies ducting over global oceans</title>
-<link>https://www.nature.com/articles/s41558-026-02774-y</link>
-<guid>a3f33e5324bea7a5c6d804098a5ba13b95c43016a01ad63ece9590f0d79223d0</guid>
+<title>【自動自律実験】 World&#x27;s timekeepers upend how they adjust time to avoid catastrophic &#x27;negative second&#x27;</title>
+<link>https://www.nature.com/articles/d41586-026-03329-z</link>
+<guid>73434c5192b1c4be4e7e9571831e88b335fc024bebee01de89a5e982ed8904cf</guid>
 <pubDate>2026-10-15</pubDate>
-<description>Atmospheric ducts are waveguides that affect electromagnetic propagation in the atmosphere, affecting radar and other technologies. Here the authors show that warming intensifies such ducting over mid- to low-latitude oceans.</description>
+<description>Governments have voted to abolish the leap second immediately and to replace it with a leap hour.</description>
 </item>
 <item>
-<title>【環境】 High wind speed reduces water use efficiency across terrestrial ecosystems</title>
-<link>https://www.nature.com/articles/s41558-026-02781-z</link>
-<guid>2c840d6e1a9c7e8a07e2fd348f98d42de3c5076cfbb1f9e5efc9a144bf479ca0</guid>
+<title>【自動自律実験】 Orangutan mothers arrange play dates for their babies</title>
+<link>https://www.nature.com/articles/d41586-026-03238-1</link>
+<guid>0acc2ff58bbf1ef58d0b43cc84c808c5ae499c4b4f755003c0019fb845eb3b74</guid>
 <pubDate>2026-10-15</pubDate>
-<description>The role of wind in ecosystem water use efficiency remains unclear. The authors show that water use efficiency declines with increasing wind speed, driven mainly by increases in evapotranspiration and secondarily by reductions in gross primary productivity.</description>
-</item>
-<item>
-<title>【環境】 Prioritizing demand-side use of clean hydrogen for cost-effective mitigation</title>
-<link>https://www.nature.com/articles/s41558-026-02763-1</link>
-<guid>0ab5c44196bad136526e7ae0499b946ff3129956a3ccf1ae396a2ebea6ecd1ec</guid>
-<pubDate>2026-10-15</pubDate>
-<description>Clean hydrogen is widely proposed for hard-to-abate sector decarbonization, but its limited supply requires prioritizing sectors with the highest value. This study evaluates ten sectors and identifies key no-regret uses, while highlighting the need for specific demand-side policies.</description>
-</item>
-<item>
-<title>【自動自律実験】 Give me the good news: four science stories to brighten your day</title>
-<link>https://www.nature.com/articles/d41586-026-03152-6</link>
-<guid>338146d0037919983fef2212e8f62ba2e16b28aacd1e6f40e98dacd7f0eda555</guid>
-<pubDate>2026-10-15</pubDate>
-<description>Drugs that can reverse multiple sclerosis in mice and a new species of penguin are just the beginning.</description>
-</item>
-<item>
-<title>【自動自律実験】 ArXiv versus AI slop: will capping preprint submissions work?</title>
-<link>https://www.nature.com/articles/d41586-026-03194-w</link>
-<guid>3849724b1762c75fd0d647cd87392c499c398227c4e27fd1f51ff79c46727893</guid>
-<pubDate>2026-10-15</pubDate>
-<description>Major preprint platform tightens its rules to curb a surge of submissions, including those generated by artificial-intelligence tools.</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>7c56e601d29b29acc4b623feff0d91708ced2e2aa948e11ab0d9289e23127711</guid>
-<pubDate>Thu, 15 Oct 2026 11:48:51 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<description>Solitary primates spend energy and time travelling to patches of forest for get-togethers.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>518c31032fe28f60724d4e527f3276f23c642ca0fda2eeabfb8a8e294ddc980c</guid>
-<pubDate>Thu, 15 Oct 2026 11:48:53 GMT</pubDate>
+<guid>59d635f39b694bf1c89a6103fedef65e969b51ce8101fd18fdc89e17d5d12ab4</guid>
+<pubDate>Thu, 15 Oct 2026 15:58:36 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=AI+agent&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>a889fe68d87544417c434ef1852fe8fff22f662a2de331f71543fdab54ac5bdc</guid>
-<pubDate>Thu, 15 Oct 2026 11:48:54 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/d41586-026-02994-4</link>
+<guid>77d4e7047143a799d6af786c0ef20228b2e0e1587b4b3068c387a42806212b17</guid>
+<pubDate>Thu, 15 Oct 2026 15:58:39 GMT</pubDate>
+<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>0720c521958ceac9687259538cf546d2e58ffff87f34591a19dca409d88a0d35</guid>
-<pubDate>Thu, 15 Oct 2026 11:49:18 GMT</pubDate>
+<guid>e72c131a7e11bfeb51bc501993f795f8b39c97d0980600bd94b810ccea02dec1</guid>
+<pubDate>Thu, 15 Oct 2026 15:59:17 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
