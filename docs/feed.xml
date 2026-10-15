@@ -4,56 +4,71 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 15 Oct 2026 01:06:43 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 06:03:30 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Microsoft セキュリティ更新プログラムリリース情報 - 2026 年 10 月</title>
-<link>https://qiita.com/niimim/items/4e95aaad4cbd4befd1da</link>
-<guid>4fa2584a4d306ea4b1dba7f74c47689c0d612668d390fae2c934bd086e334de5</guid>
-<pubDate>2026-10-15T08:01:22+09:00</pubDate>
-<description>Note: この記事は 2026年10月13日(太平洋標準時)に公開された Microsoft セキュリティ更新プログラムの概要をまとめたものです。 以下の製品群にフォーカスしたものとなっています。(主にデバイス管理者向け) ・各クライアントOS ( bitness は...</description>
+<title>【Qiita】 HPC用に、研究室で買えるGPUマシンがない</title>
+<link>https://qiita.com/takaokotani/items/5d52ca320881e16751b0</link>
+<guid>714e830200cd3818091d88d38777bf5081e5c6017c7efe087c28701a28c86363</guid>
+<pubDate>2026-10-15T12:54:52+09:00</pubDate>
+<description>数値計算、HPCにGPU使いましょう、という業界もある。AIがリファクタリングして実装をかなり手伝ってくれる。人間がコードをいじらなくていい。やってみると、実際に計算は高速化する。 そういうときに何を買ったらいいのか。以下に表をAIに作ってもらった。たいていGEMMで間に合...</description>
 </item>
 <item>
-<title>【Qiita】 どのコマンドが遅い・落ちる？を jq だけで見える化｜実行ログをJSONLに1行ずつ残すラッパー</title>
-<link>https://qiita.com/cauchye_asia/items/748c60dda1ec40c55893</link>
-<guid>9eac611d86d5b3c5ed9aec6e31dfa11ca0dd968fbfca37c30628cfcea95b55be</guid>
-<pubDate>2026-10-15T10:01:08+09:00</pubDate>
-<description>TL;DR エージェントや定期ジョブが「何を、何秒かけて、成功したか」を、ラッパー1本で JSONL に残します。 集計は jq -s だけ。外部サービスもDBも要りません。 bash 5.2 / jq 1.7 で動作確認済み。bc が無い環境でも動くよう、計算は jq...</description>
+<title>【Qiita】 Claude Code で「今、何が検索されているか」を調べる Skill を作った（Google トレンド＋サジェスト、APIキー不要）</title>
+<link>https://qiita.com/aibars/items/f4021a4e8eec8eb46e7a</link>
+<guid>f119440e15bfbd27d4cf31c42190ba8e14deaec288b112322a441d50ed0efa9b</guid>
+<pubDate>2026-10-15T12:54:09+09:00</pubDate>
+<description>はじめに 記事やプロダクトのネタを考えるとき、「いま実際に何が検索されているのか」を AI に聞くと、 学習データの記憶からそれっぽいキーワードが返ってくることがあります。 便利ですが、記憶なので「今日の」データではありません。 そこで、その場で取得した本物のデータだけで...</description>
 </item>
 <item>
-<title>【Qiita】 OpenClawの返事が再起動やタイムアウトで途中で切れるので、LLMを使わない見張りで拾い直して再開させる</title>
-<link>https://qiita.com/yousan/items/bcad728fce31f5b0206a</link>
-<guid>a9c15e9c88a489bda7e564ed4ddc46ad1657ac0a32ab7850cc6aaed008425fdf</guid>
-<pubDate>2026-10-15T09:40:03+09:00</pubDate>
-<description>3行でいうと OpenClaw の返事は、ゲートウェイの再起動やモデル呼び出しの時間切れで途中で切れることがあります。スレが多いと、切れたスレは埋もれて見落とします そこで、LLM を使わない Node.js スクリプトを cron で15分おきに動かし、セッショ...</description>
+<title>【Qiita】 AIエージェントを支える基盤技術⑤-2: Multi-Agent Coordination の仕組みと設計</title>
+<link>https://qiita.com/aimldl/items/719fc893c68cf03dd33b</link>
+<guid>d216e140ee131179430d797cfeca1ff15fabd93f9984b64680160267ad0f37dc</guid>
+<pubDate>2026-10-15T12:29:59+09:00</pubDate>
+<description>はじめに 本記事では、前回の 「AIエージェントを支える基盤技術: Agent Core が解決する5つの技術課題」 と 「AIエージェントを支える基盤技術⑤-1: Multi-Agent Coordination の仕組みと設計」 の続編です。 前回は、Multi-Ag...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントを業務に入れたいが、作り方も評価の仕方も分からない人へ。構成から開発、現場での評価と活用まで追える一冊</title>
-<link>https://qiita.com/yasu1109/items/a24920c4aee755b352a1</link>
-<guid>c568164c0e6d31f1f10b68b4106fcf69edca144e6538e222c485825788de244b</guid>
-<pubDate>2026-10-15T09:13:47+09:00</pubDate>
-<description>AIエージェントという言葉は毎日のように目にするのに、自分の業務に入れるとしたら何をどう作ればいいのか、できあがったものをどう評価すればいいのかが分からない。ここが曖昧なままだと、試作を作って終わりになり、現場の業務には使われない。『現場で活用するためのAIエージェント実践...</description>
+<title>【Qiita】 Claude Code・ChatGPT・OpenClaw・Paperclip、どれで何ができるか ── 製品名ではなく「何がきっかけで動くか」で分けた</title>
+<link>https://qiita.com/chooser/items/bc1611a42bc6bfe63b99</link>
+<guid>187f9cd8727deb958fecb63e530b5c5ba9c69340e38a939a907f40116faa957c</guid>
+<pubDate>2026-10-15T11:39:17+09:00</pubDate>
+<description>上原正吉（EarthLink Network Co., Ltd.）。Claude Codeを開発の主体に据え、20を超えるプロダクトを1人で同時に開発・運用しています。これは、その現場の実測記です。 Claude Code・ChatGPT・OpenClaw・Paperc...</description>
 </item>
 <item>
-<title>【Qiita】 dotとは何か ― 常時稼働AIエージェントでFortran・Python・Juliaの開発はどう変わるのか</title>
-<link>https://qiita.com/rino_yume/items/8bfed415b7025fc7d221</link>
-<guid>8350fa5c4e11ec1ff71b89429c0aeda1d4e0a011b4d920422c0b9dacd96a58b2</guid>
-<pubDate>2026-10-15T08:49:31+09:00</pubDate>
-<description>dotとは何か ― 常時稼働AIエージェントでFortran・Python・Juliaの開発はどう変わるのか 2026年10月14日時点のOpenAI公式情報を基に整理しました。機能、提供プラン、利用上限、設定画面は今後変更される可能性があります。後半の開発例は、公式に...</description>
+<title>【Qiita】 grill-with-forms</title>
+<link>https://qiita.com/masato_makino/items/3523bd0a502b1c397d9a</link>
+<guid>996fb9ba1e8ad79d1a96edf7090613505f9a3ac1adf87b874150aa30d2ba2eb3</guid>
+<pubDate>2026-10-15T11:24:37+09:00</pubDate>
+<description>この記事は2026年10月時点の情報に基づきます。Claude Code 2.1.296のArtifactツールで試しました。Artifactの公開範囲や承認の仕組みが変わると、この記事の手順は当てはまらなくなる可能性があります。 先に結論だけ grill-wit...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>6c7aac898cabfde4fef04d605872ac17ae02977d4aa88e6ce5c9e61be85db817</guid>
+<pubDate>Thu, 15 Oct 2026 06:02:49 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>9d5138566b58c5bb528082c8713909ac4c1ad6e1817b5fef9ec0896a2a7f4a9a</guid>
-<pubDate>Thu, 15 Oct 2026 01:06:06 GMT</pubDate>
+<guid>9ba6bb3b48c608d126f3ea9f8e8afb18109622d6e2a80285999dbcb0d64a7817</guid>
+<pubDate>Thu, 15 Oct 2026 06:02:51 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>d139ec93bfb35cb15113ce67a24276a3521469fba2d36eb4808ded071e3ef44b</guid>
-<pubDate>Thu, 15 Oct 2026 01:06:08 GMT</pubDate>
+<guid>b1913c572bb4d3fa04c2c21eccfb4566dc31a51de2cf198b0ac657a13e1cb736</guid>
+<pubDate>Thu, 15 Oct 2026 06:02:53 GMT</pubDate>
 <description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>e3fb47d27f7bc7af6e5b6cee1f2503794cf7811d4409053a8a5788d1bd74f5c2</guid>
+<pubDate>Thu, 15 Oct 2026 06:03:13 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
