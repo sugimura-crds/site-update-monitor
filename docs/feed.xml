@@ -4,92 +4,71 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 15 Oct 2026 15:59:37 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 19:42:48 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Cloud: Windows Server 2025におけるCredential Guard</title>
-<link>https://qiita.com/shiyasu/items/98d42c5872f28e83a684</link>
-<guid>2021e166abc40974ddb247d3525f78b2ec83a52dbfab8a8a369d4430b7e21b0f</guid>
-<pubDate>2026-10-15T21:08:32+09:00</pubDate>
-<description>1. Credential Guardとは 従来、Windows Serverでは LSASS（Local Security Authority Subsystem Service） がログイン認証やActive Directory認証を担当し、パスワードハッシュやKer...</description>
+<title>【Qiita】 Claude CodeとCodexを並列で動かすとき、どれが終わってどれが待っているかをMacの通知で知る(hooks)</title>
+<link>https://qiita.com/offrun/items/9292c9dda4cd4d45f9f0</link>
+<guid>f0fb0427a3ef64bbc5705b82265aad0f95c553da87d2bfda7401b60eef08b4fc</guid>
+<pubDate>2026-10-16T04:30:50+09:00</pubDate>
+<description>筆者はMacアプリ「Offrun」を開発しています。この記事の設定は、Claude CodeとCodexの標準機能(hooks)とmacOSに最初から入っているコマンドだけで動きます。Offrunの紹介は末尾に短く書きました。 何に困るのか git worktre...</description>
 </item>
 <item>
-<title>【Qiita】 【Claude Code】チケットURLを渡すだけ。iOS不具合を調べて報告まで行うAIチームの設計</title>
-<link>https://qiita.com/TakanobuSano/items/4b696164714c0bb58f3b</link>
-<guid>d2bb82372adb1e391e17c62fddd03f25961218c25092c512370731654f4521c9</guid>
-<pubDate>2026-10-15T23:32:58+09:00</pubDate>
-<description>この記事のゴール Redmine のチケット URL を 1 つ渡すと、Claude Code のエージェントチームが次の作業を続けて行う仕組みを作りました。 チケットを読み、報告された再現条件を整理する 症状から関連コードを探し、根本原因の仮説を立てる 別のエージェ...</description>
+<title>【Qiita】 Codex に dev-orchestra を入れて使ってみた</title>
+<link>https://qiita.com/istb16/items/2f4e1fd88127b2e21a2a</link>
+<guid>0f9ef6fba1af91b43045f8f212eb1f14f8ddc3f025a7e8d7fa2646161dd6705e</guid>
+<pubDate>2026-10-16T01:59:58+09:00</pubDate>
+<description>この記事は tk3.biz のブログ からの転載です。 はじめに 前回は、Claude Code だけの環境で dev-orchestra を使ってみました。今回は Codex に入れてみます。 結論から言うと、Codex だけでも動きます。でも、いちばんのおすすめは...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeのclaude -pでREADMEを1回だけ読む — Statusを1語返す初回タスク</title>
-<link>https://qiita.com/akira_papa_AI/items/879ae6293235dea60799</link>
-<guid>1eedf92381e4c5e68aece45ea56233029cc582b9181699244354597d725458e4</guid>
-<pubDate>2026-10-15T22:17:48+09:00</pubDate>
-<description>Claude Codeをまだ動かしたことがなく、「まず1回だけファイルを読ませたい」人向けです。 この記事では練習用READMEを作り、claude -pの返答としてreadyを1語受け取ります。 前提はターミナルとClaude Codeを利用できるアカウントです。インスト...</description>
+<title>【Qiita】 AIエージェントを育てる ：商談準備エージェントを作ってみた</title>
+<link>https://qiita.com/masato_y/items/fb348372070d7aed4c36</link>
+<guid>e3254b030c16fb2e1b286bc1f0ef3eb80e33df57865b5501de0ef47ebb40fae1</guid>
+<pubDate>2026-10-16T01:23:19+09:00</pubDate>
+<description>AIエージェントを育てる：商談準備エージェントを作ってみた はじめに 「AIエージェントを育てる」をテーマに、毎日少しずつエージェントに修正を加え、その結果を振り返ります。 今回は初回として、顧客情報を読み取り、商談に向けた仮説や質問を資料にまとめる「商談準備エージェン...</description>
 </item>
 <item>
-<title>【Qiita】 Grok Botを仕事の入口にする：Dots・Claude・CodexにつなぐUI/UXと運用設計</title>
-<link>https://qiita.com/noujiru/items/d56eacaf3e1e02be37b3</link>
-<guid>1f48227178887cb18e9c3a3676b39a1379542ea87aa9853687cdc83026d5f796</guid>
-<pubDate>2026-10-15T21:50:25+09:00</pubDate>
-<description>この画面、ちょっとLINEっぽくないですか。 出典：Grok Bot公式サイトの公開デモ。UIの説明のため画面部分を引用。2026年10月15日取得。筆者の環境や実際の会話ではありません。 左に相手の名前とアイコンが並んでいて、右には会話の吹き出し。 下には、選んだBot...</description>
-</item>
-<item>
-<title>【農業】 FAO honours 100 Women Heroes driving change across agrifood systems</title>
-<link>https://www.fao.org/newsroom/detail/fao-honours-100-women-heroes-driving-change-across-agrifood-systems/en</link>
-<guid>8f9adbb691b0d6c84c5936197581be1c6bdbb83541bee360e81eddb15b5de54f</guid>
-<pubDate>Thu, 15 Oct 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【環境】 Quantifying assets for the geopolitics of climate change mitigation</title>
-<link>https://www.nature.com/articles/s41893-026-01971-z</link>
-<guid>c6f9db42fb074061b46b894002fc2bfe1c7f0631bc3c1cadec52d235a38cfd70</guid>
+<title>【自動自律実験】 Is AI eroding PhD students’ critical thinking and analysis skills?</title>
+<link>https://www.nature.com/articles/d41586-026-03178-w</link>
+<guid>1d80406b14536129da7dc9c13f64cdf6ad30b755b0e37af57d6096cf6dcb7217</guid>
 <pubDate>2026-10-15</pubDate>
-<description>Climate action reshapes who gains and loses from energy and environmental resources, raising new geopolitical questions. A study now quantifies four climate-related asset types across 169 countries and reveals uneven asset redistribution, with major powers often less affected.</description>
+<description>An expert panel debates the impact of artificial intelligence on doctoral programmes.</description>
 </item>
 <item>
-<title>【環境】 Skill and spatial mismatches for sustainable development in Brazil</title>
-<link>https://www.nature.com/articles/s41893-026-01939-z</link>
-<guid>62cbf0eb125cab0417b7737d402aed18a71432e9e7d484f5c54454c16a96e6a8</guid>
+<title>【自動自律実験】 Nearly half of reef-building corals face elevated relative risk of extinction</title>
+<link>https://www.nature.com/articles/s41586-026-11263-3</link>
+<guid>d7dbc75e91eed1b9709cc57c9f25994b4e91e3521a358facb2c3beee88bd5dde</guid>
 <pubDate>2026-10-15</pubDate>
-<description>Deforestation-reducing development pathways may cut emissions, but it is unclear how workers can adapt given skill and geographic mobility constraints. Modelling job transitions in Brazil reveals that greener pathways benefit workers in high-skill occupations but increase low-skill unemployment, mitigated by m</description>
-</item>
-<item>
-<title>【自動自律実験】 World&#x27;s timekeepers upend how they adjust time to avoid catastrophic &#x27;negative second&#x27;</title>
-<link>https://www.nature.com/articles/d41586-026-03329-z</link>
-<guid>73434c5192b1c4be4e7e9571831e88b335fc024bebee01de89a5e982ed8904cf</guid>
-<pubDate>2026-10-15</pubDate>
-<description>Governments have voted to abolish the leap second immediately and to replace it with a leap hour.</description>
-</item>
-<item>
-<title>【自動自律実験】 Orangutan mothers arrange play dates for their babies</title>
-<link>https://www.nature.com/articles/d41586-026-03238-1</link>
-<guid>0acc2ff58bbf1ef58d0b43cc84c808c5ae499c4b4f755003c0019fb845eb3b74</guid>
-<pubDate>2026-10-15</pubDate>
-<description>Solitary primates spend energy and time travelling to patches of forest for get-togethers.</description>
+<description>Nearly half of reef-building corals face elevated relative risk of extinction</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>59d635f39b694bf1c89a6103fedef65e969b51ce8101fd18fdc89e17d5d12ab4</guid>
-<pubDate>Thu, 15 Oct 2026 15:58:36 GMT</pubDate>
+<guid>777649d6bd3b7f9657c95f09e9495fad034e9280aafeb6b235eddeb28f9b72e1</guid>
+<pubDate>Thu, 15 Oct 2026 19:41:59 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>77d4e7047143a799d6af786c0ef20228b2e0e1587b4b3068c387a42806212b17</guid>
-<pubDate>Thu, 15 Oct 2026 15:58:39 GMT</pubDate>
+<guid>f56dc0deba95718ce136d143afbc6a03231371995bedd8ce253dc445a399f1f3</guid>
+<pubDate>Thu, 15 Oct 2026 19:42:01 GMT</pubDate>
 <description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>e72c131a7e11bfeb51bc501993f795f8b39c97d0980600bd94b810ccea02dec1</guid>
-<pubDate>Thu, 15 Oct 2026 15:59:17 GMT</pubDate>
+<guid>f2c9aa28e1c84c7ad21c62741b182b8a3bb923dd63a0f1fbcc0bca055d0e27ec</guid>
+<pubDate>Thu, 15 Oct 2026 19:42:30 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>7a3614d949d71ff8a2007afdf184a9b1e45b2836e10aec524401d579c03f956a</guid>
+<pubDate>Thu, 15 Oct 2026 19:42:31 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
