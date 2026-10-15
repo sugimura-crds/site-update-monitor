@@ -4,57 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 14 Oct 2026 22:51:39 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 01:06:43 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Code の守りのフックは、台本が壊れると黙って通す。2.1.295 の onFailure で止まった</title>
-<link>https://qiita.com/suwa_nobu/items/afde8d73a48eb7badb71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>eeb3ef1910942de0a0288d06ed66b065357cc2313712006017c5256c3e67ad24</guid>
-<pubDate>2026-10-14T09:48:15+09:00</pubDate>
-<description>Claude Code 2.1.295（2026-10-08）の changelog に、こう書かれています。 Added onFailure: &quot;block&quot; for command and HTTP hooks: a hook that can&#x27;t start, ti...</description>
+<title>【Qiita】 Microsoft セキュリティ更新プログラムリリース情報 - 2026 年 10 月</title>
+<link>https://qiita.com/niimim/items/4e95aaad4cbd4befd1da</link>
+<guid>4fa2584a4d306ea4b1dba7f74c47689c0d612668d390fae2c934bd086e334de5</guid>
+<pubDate>2026-10-15T08:01:22+09:00</pubDate>
+<description>Note: この記事は 2026年10月13日(太平洋標準時)に公開された Microsoft セキュリティ更新プログラムの概要をまとめたものです。 以下の製品群にフォーカスしたものとなっています。(主にデバイス管理者向け) ・各クライアントOS ( bitness は...</description>
 </item>
 <item>
-<title>【Qiita】 最新AIの二人が机を並べた夜 ── Gemini 4 Argonの見立てとOpusの直しで「棚番」が生まれ、朝には棚ビルダーの第一歩まで来た話</title>
-<link>https://qiita.com/shu15511551/items/facb2aeef831d6d03a1d</link>
-<guid>590a3c0dfd68d7b96f666a7ee515c716f62e0c39f7f26f382db1bc748d4572d7</guid>
-<pubDate>2026-10-15T07:26:14+09:00</pubDate>
-<description>はじめに 昨日の早朝に、前作を公開しました。 YouTube で「VBAではできない」と語られていたことが、家の手元ではとっくに動いていた、という記事です。 閲覧は半日で 587、いいねが 1、ストックが 3。大きく跳ねた数字ではありませんが、ここ最近の記事は 2 ...</description>
+<title>【Qiita】 どのコマンドが遅い・落ちる？を jq だけで見える化｜実行ログをJSONLに1行ずつ残すラッパー</title>
+<link>https://qiita.com/cauchye_asia/items/748c60dda1ec40c55893</link>
+<guid>9eac611d86d5b3c5ed9aec6e31dfa11ca0dd968fbfca37c30628cfcea95b55be</guid>
+<pubDate>2026-10-15T10:01:08+09:00</pubDate>
+<description>TL;DR エージェントや定期ジョブが「何を、何秒かけて、成功したか」を、ラッパー1本で JSONL に残します。 集計は jq -s だけ。外部サービスもDBも要りません。 bash 5.2 / jq 1.7 で動作確認済み。bc が無い環境でも動くよう、計算は jq...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントが評価試験中に実在サイトへ送信：Anthropicが公表した4種類の意図しない行動</title>
-<link>https://qiita.com/quotidia/items/b9ced6e83c03e325f579</link>
-<guid>1cfd2d48f863157b60b365480e4f8ed2f3da1a912782a1176aac70da03ff4163</guid>
-<pubDate>2026-10-15T06:01:30+09:00</pubDate>
-<description>本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。 米Anthropicは2026年10月9日(金) (米国時間)、同社のAI「Claude Haiku 4.5」が評価試験の最中だった2026年7月18日(土)、米フィラデルフィア警察の未解決殺...</description>
+<title>【Qiita】 OpenClawの返事が再起動やタイムアウトで途中で切れるので、LLMを使わない見張りで拾い直して再開させる</title>
+<link>https://qiita.com/yousan/items/bcad728fce31f5b0206a</link>
+<guid>a9c15e9c88a489bda7e564ed4ddc46ad1657ac0a32ab7850cc6aaed008425fdf</guid>
+<pubDate>2026-10-15T09:40:03+09:00</pubDate>
+<description>3行でいうと OpenClaw の返事は、ゲートウェイの再起動やモデル呼び出しの時間切れで途中で切れることがあります。スレが多いと、切れたスレは埋もれて見落とします そこで、LLM を使わない Node.js スクリプトを cron で15分おきに動かし、セッショ...</description>
 </item>
 <item>
-<title>【Qiita】 承認待ちの重複排除が比較用ログまで消していた 〜表示用と評価用の記録は分ける（Claude Code開発記）〜</title>
-<link>https://qiita.com/charge0315/items/a75c07b40551fdaa7faf</link>
-<guid>1dcbacf8b4377b130727a841fefd5ede490b326dc9c4369bcbf9ad89789a58da</guid>
-<pubDate>2026-10-15T05:57:59+09:00</pubDate>
-<description>みなさん、こんにちは！ 「ALPHA FORGE 開発秘話」の第23話です。 AIの比較役は、1日に300回以上も呼ばれていました。なのに、記録に残っていたのは1日4〜8件だけ👻 「失敗してるのかな？」と調べてもらったら、答えは「失敗していません。消えていました」。犯人は、...</description>
+<title>【Qiita】 AIエージェントを業務に入れたいが、作り方も評価の仕方も分からない人へ。構成から開発、現場での評価と活用まで追える一冊</title>
+<link>https://qiita.com/yasu1109/items/a24920c4aee755b352a1</link>
+<guid>c568164c0e6d31f1f10b68b4106fcf69edca144e6538e222c485825788de244b</guid>
+<pubDate>2026-10-15T09:13:47+09:00</pubDate>
+<description>AIエージェントという言葉は毎日のように目にするのに、自分の業務に入れるとしたら何をどう作ればいいのか、できあがったものをどう評価すればいいのかが分からない。ここが曖昧なままだと、試作を作って終わりになり、現場の業務には使われない。『現場で活用するためのAIエージェント実践...</description>
 </item>
 <item>
-<title>【自動自律実験】 Growing plane and ship traffic degrade the air of western North America</title>
-<link>https://www.nature.com/articles/d41586-026-03239-0</link>
-<guid>776a7fe456cdc5e482861c3f819cbc7324f9bdf9f2d189f1646b7f76c5f6aeed</guid>
-<pubDate>2026-10-14</pubDate>
-<description>Pollution from transport across the Pacific Ocean is raising ozone levels above a region whose own emissions have dropped.</description>
+<title>【Qiita】 dotとは何か ― 常時稼働AIエージェントでFortran・Python・Juliaの開発はどう変わるのか</title>
+<link>https://qiita.com/rino_yume/items/8bfed415b7025fc7d221</link>
+<guid>8350fa5c4e11ec1ff71b89429c0aeda1d4e0a011b4d920422c0b9dacd96a58b2</guid>
+<pubDate>2026-10-15T08:49:31+09:00</pubDate>
+<description>dotとは何か ― 常時稼働AIエージェントでFortran・Python・Juliaの開発はどう変わるのか 2026年10月14日時点のOpenAI公式情報を基に整理しました。機能、提供プラン、利用上限、設定画面は今後変更される可能性があります。後半の開発例は、公式に...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>af7ce7e20014d90054b9aad87eecc5b6ed73814d727a90dded0c65539c2cdf6b</guid>
-<pubDate>Wed, 14 Oct 2026 22:50:56 GMT</pubDate>
+<guid>9d5138566b58c5bb528082c8713909ac4c1ad6e1817b5fef9ec0896a2a7f4a9a</guid>
+<pubDate>Thu, 15 Oct 2026 01:06:06 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>4d2ae6a956ba1498793b46fda2e5327967ec5c244ca60a0f051d7c31f6c3146c</guid>
-<pubDate>Wed, 14 Oct 2026 22:51:19 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/d41586-026-02994-4</link>
+<guid>d139ec93bfb35cb15113ce67a24276a3521469fba2d36eb4808ded071e3ef44b</guid>
+<pubDate>Thu, 15 Oct 2026 01:06:08 GMT</pubDate>
+<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
 </item>
 
 </channel>
