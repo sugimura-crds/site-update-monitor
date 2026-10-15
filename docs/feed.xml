@@ -4,71 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 15 Oct 2026 19:42:48 GMT</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 22:47:19 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude CodeとCodexを並列で動かすとき、どれが終わってどれが待っているかをMacの通知で知る(hooks)</title>
-<link>https://qiita.com/offrun/items/9292c9dda4cd4d45f9f0</link>
-<guid>f0fb0427a3ef64bbc5705b82265aad0f95c553da87d2bfda7401b60eef08b4fc</guid>
-<pubDate>2026-10-16T04:30:50+09:00</pubDate>
-<description>筆者はMacアプリ「Offrun」を開発しています。この記事の設定は、Claude CodeとCodexの標準機能(hooks)とmacOSに最初から入っているコマンドだけで動きます。Offrunの紹介は末尾に短く書きました。 何に困るのか git worktre...</description>
+<title>【Qiita】 Jevにウォーリーを探させたら0.4秒で見つけやがった!!</title>
+<link>https://qiita.com/kikuziro/items/c1b47d4bfaa64960ca18?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>60a52a36d0e1a7217f2d1cf4b417648d81d0004cbd19753166eeaa9c0a0e9e83</guid>
+<pubDate>2026-10-15T18:13:53+09:00</pubDate>
+<description>先にタイトル詐欺についてお詫び申し上げます。正確には&quot;ウォーリーを探せ&quot;ではなく&quot;ウォーリーを探せっぽい画像&quot;から探させた検証になります。実際の&quot;ウォーリーをさがせ&quot;はもっと難しいので同じ結果にはならないかもしれません 📸 Jevの画像対応 Jevで画像入力が使え...</description>
 </item>
 <item>
-<title>【Qiita】 Codex に dev-orchestra を入れて使ってみた</title>
-<link>https://qiita.com/istb16/items/2f4e1fd88127b2e21a2a</link>
-<guid>0f9ef6fba1af91b43045f8f212eb1f14f8ddc3f025a7e8d7fa2646161dd6705e</guid>
-<pubDate>2026-10-16T01:59:58+09:00</pubDate>
-<description>この記事は tk3.biz のブログ からの転載です。 はじめに 前回は、Claude Code だけの環境で dev-orchestra を使ってみました。今回は Codex に入れてみます。 結論から言うと、Codex だけでも動きます。でも、いちばんのおすすめは...</description>
+<title>【Qiita】 AI時代においてようやくプログラミング言語の格差は無くなった</title>
+<link>https://qiita.com/ikuosaito1989/items/63094edc3b4bb423f265?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>52e2e1342a4c9e6da09fa8a7d3a0af63ccd2c9c759ad1f0c7be10da8f180e68d</guid>
+<pubDate>2026-10-15T08:47:18+09:00</pubDate>
+<description>Rails World 2026にてDHH氏は 「実はRubyより好きなプログラミング言語があることに気づいた。それは英語だ。」 と発言した。 プログラマーの幸福を最大化するというコンセプトでフレームワークを作った人が、プログラミングはAIに置き換わって人間のやるべきことは...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントを育てる ：商談準備エージェントを作ってみた</title>
-<link>https://qiita.com/masato_y/items/fb348372070d7aed4c36</link>
-<guid>e3254b030c16fb2e1b286bc1f0ef3eb80e33df57865b5501de0ef47ebb40fae1</guid>
-<pubDate>2026-10-16T01:23:19+09:00</pubDate>
-<description>AIエージェントを育てる：商談準備エージェントを作ってみた はじめに 「AIエージェントを育てる」をテーマに、毎日少しずつエージェントに修正を加え、その結果を振り返ります。 今回は初回として、顧客情報を読み取り、商談に向けた仮説や質問を資料にまとめる「商談準備エージェン...</description>
+<title>【Qiita】 「AIに考えさせない道具」はどこまで出来上がったか ── 135本の棚、12本のレシピ、チーム「棚番組」と受け箱で回すExcel開発の現在地の話</title>
+<link>https://qiita.com/shu15511551/items/df2fb24f6a0bfec5bb13</link>
+<guid>f5dc59434aa3fb4ceff36a1cefb6a5b282e3d115316a6abfb12b32e3c21efbba</guid>
+<pubDate>2026-10-16T06:49:03+09:00</pubDate>
+<description>はじめに 昨日の朝、前作の記事を公開しました。 新しく登場した Gemini 4 Argon（通称ゴンちゃん）と、いつもの相棒である Claude Opus（番頭）、そして Antigravity で手を動かす Gemini 3.8 Flash（フラッシュ君）。 三...</description>
 </item>
 <item>
-<title>【自動自律実験】 Is AI eroding PhD students’ critical thinking and analysis skills?</title>
-<link>https://www.nature.com/articles/d41586-026-03178-w</link>
-<guid>1d80406b14536129da7dc9c13f64cdf6ad30b755b0e37af57d6096cf6dcb7217</guid>
-<pubDate>2026-10-15</pubDate>
-<description>An expert panel debates the impact of artificial intelligence on doctoral programmes.</description>
+<title>【Qiita】 Claude Codeの会話記録は ~/.claude/projects/ に平文で30日残る：保存期間の変え方と消し方</title>
+<link>https://qiita.com/supportapp3/items/9e342b2830bbf3af27e8</link>
+<guid>fb92f9b02acec9cc23c2233a3cefcdb5b38ba9240fda8f55dcdedc23c3f969a2</guid>
+<pubDate>2026-10-16T06:26:19+09:00</pubDate>
+<description>結論 Claude Code は、会話の記録（トランスクリプト）を手元のPCの ~/.claude/projects/ に平文で保存します。既定では30日残ります（公式 Data usage）。 記録には、メッセージだけでなくツールの呼び出しとその結果も入ります。ツール...</description>
 </item>
 <item>
-<title>【自動自律実験】 Nearly half of reef-building corals face elevated relative risk of extinction</title>
-<link>https://www.nature.com/articles/s41586-026-11263-3</link>
-<guid>d7dbc75e91eed1b9709cc57c9f25994b4e91e3521a358facb2c3beee88bd5dde</guid>
-<pubDate>2026-10-15</pubDate>
-<description>Nearly half of reef-building corals face elevated relative risk of extinction</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>65993aa9485efbdf9721d9ea11f963fd344e402147fdd28d9c8e89dd196ffba1</guid>
+<pubDate>Thu, 15 Oct 2026 22:46:26 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>777649d6bd3b7f9657c95f09e9495fad034e9280aafeb6b235eddeb28f9b72e1</guid>
-<pubDate>Thu, 15 Oct 2026 19:41:59 GMT</pubDate>
+<guid>54f600e8bf0a03cfa25a78b3220e9bbacbd24d0b5aade4fd199e4a198d58c5e9</guid>
+<pubDate>Thu, 15 Oct 2026 22:46:29 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>f56dc0deba95718ce136d143afbc6a03231371995bedd8ce253dc445a399f1f3</guid>
-<pubDate>Thu, 15 Oct 2026 19:42:01 GMT</pubDate>
-<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>f2c9aa28e1c84c7ad21c62741b182b8a3bb923dd63a0f1fbcc0bca055d0e27ec</guid>
-<pubDate>Thu, 15 Oct 2026 19:42:30 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>7a3614d949d71ff8a2007afdf184a9b1e45b2836e10aec524401d579c03f956a</guid>
-<pubDate>Thu, 15 Oct 2026 19:42:31 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
