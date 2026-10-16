@@ -4,84 +4,126 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 16 Oct 2026 10:00:46 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 14:37:44 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 個人開発で月17万稼いでみたので生々しいスクショとともに振り返る</title>
-<link>https://qiita.com/fuga-if/items/9fed3e53191b2b2604a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>da2b34ad296fa85728cc41b16cd1b03675723fdc690bcb7263d2fc86c3f7889d</guid>
-<pubDate>2026-10-14T04:41:55+09:00</pubDate>
-<description>はじめまして、都内でエンジニアを8年ほどやっているものです。 生成AIの台頭により、個人開発のハードルが極限まで下がったことで、新卒の頃からずっとやりたかった自分のサービスを持つことができました。 ついに自分のサービスで前月の収益で合計17万ほどを得ることができたので、どう...</description>
+<title>【Qiita】 AIに結合試験仕様書をレビューさせてみた。機能間・権限・状態遷移まで見られるのか</title>
+<link>https://qiita.com/Ito_110/items/08cbb91728719a62d00e</link>
+<guid>aa9c1c691da462d93909c6b5652dc0402b956a1b7ec38e465dcb40dc63a31047</guid>
+<pubDate>2026-10-16T22:35:29+09:00</pubDate>
+<description>はじめに 前の記事では、Excelで作成した試験仕様書をAIにレビューさせる方法を書きました。 ただ、結合試験になると話が少し変わります。 単純に、 入力 ↓ 処理 ↓ 期待結果 を確認するだけではありません。 結合試験では、 機能A ↓ 機能B ↓ 承認 ↓ 機...</description>
 </item>
 <item>
-<title>【Qiita】 Gemini 4 Argonでロボットアームを動かしてみた</title>
-<link>https://qiita.com/kentaro_kawamura/items/118144a5e0c707de12dd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>e574662a2aac4ce234c49f003070b8ac2a5d7a6bde385d317e6680d45a7cfa4d</guid>
-<pubDate>2026-10-15T16:32:23+09:00</pubDate>
-<description>はじめに 2026年10月13日、Googleから新たなAIモデル「Gemini 4 Argon」が発表されました。 Geminiといえば、テキストチャットやコード生成、マルチモーダルな画像・動画理解など、さまざまな用途で活用されています。 今回のGemini 4 Arg...</description>
+<title>【Qiita】 AIエージェントを育てる Day 2：受入基準を追加したら、商談準備資料はどう変わったか</title>
+<link>https://qiita.com/masato_y/items/65f2502f388035d2d6ec</link>
+<guid>22d77425dce1ea843d805f68cd042437d3b86fcd3ea87a58c321f99058d4ca42</guid>
+<pubDate>2026-10-16T21:15:54+09:00</pubDate>
+<description>AIエージェントを育てる：受入基準を追加したら、商談準備資料はどう変わったか 今回やったこと 前回は、顧客情報を読み、自動化の候補と初回商談の質問をまとめる「商談準備エージェント」を作りました。 今回は、会社として自動化案件を引き受けられるか判断するための資料を、sal...</description>
 </item>
 <item>
-<title>【Qiita】 【AWS】AWS Lambda Web Functionsから考えるAWS Lambdaとは何なのか</title>
-<link>https://qiita.com/ymd65536/items/3bc00ba77b87808bda9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>b7257897ec31de16a2364799d128584eecb08df6f079b706e78e8e94efeb84bc</guid>
-<pubDate>2026-10-15T10:52:51+09:00</pubDate>
-<description>記事のポイント AWS Lambdaはイベント駆動のFaaSとして登場し、AWSのサービス同士をつなぐコンポーネントとしても利用されてきた Lambda Web FunctionsやMicroVMsの登場により、AWS Lambdaは関数だけでなくHTTPサーバーや独立...</description>
+<title>【Qiita】 Mac miniでローカルLLM (2026/10版)</title>
+<link>https://qiita.com/Y-Shikase/items/6ae9a1ff583887058f1b</link>
+<guid>9d666153ee67200b589b6fe5c4f8252f5eb247d56fc1c00db73b90cb34d76779</guid>
+<pubDate>2026-10-16T20:25:47+09:00</pubDate>
+<description>はじめに 自宅のMacで使っているLLMサービス環境(日常会話AIエージェント用)の構築メモです。 前提 Mac mini M4 (RAM:32GB) LLMサーバ llama.cpp 公式インストーラを実行します。 curl -LsSf https://llam...</description>
 </item>
 <item>
-<title>【Qiita】 いつも一番に食べ終わるあなたへ：会話のロードバランシング入門</title>
-<link>https://qiita.com/redwings_a/items/d79b4f94f7244da2cb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>a3bd0335d06f9d71d3ac1d36598d405e95d45a914368e494df1601ad7b80120e</guid>
-<pubDate>2026-10-15T16:54:28+09:00</pubDate>
-<description>「みんな食べ終わるの遅いなぁ……」 飲み会、会食、ランチなど、複数人でテーブルを囲む場面は職場でもある程度あるかと思います。 そんな時、あなたは大体どのタイミングで食べ終わりますか？ 私は最後に食べ終わることが多いです。 咀嚼が特別遅いわけではありません。話題を振って、相...</description>
+<title>【農業】 World Food Day 2026: Make innovation inclusive and impactful for resilient agrifood systems</title>
+<link>https://www.fao.org/newsroom/detail/world-food-day-2026--make-innovation-inclusive-and-impactful-for-resilient-agrifood-systems/en</link>
+<guid>5a7971c6a16f7f37dcd58af73ca5d505d02d7b00a196c37acfa2ea31372e44c6</guid>
+<pubDate>Fri, 16 Oct 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントに小さなPRを任せるなら、まず「どこで止まるか」を書く</title>
-<link>https://qiita.com/heftykoo/items/7ed60a567c240e2ff96a</link>
-<guid>28d2f7e4d06501c5317daad92ee8fa324217d2b9bb8f85bd2e1fc2c22c4d3034</guid>
-<pubDate>2026-10-16T17:46:09+09:00</pubDate>
-<description>「送信後のエラーメッセージがフォームの下で見切れる」。Reactのコンポーネントを少し直せば済みそうな依頼です。でもエージェントに「直してPRを作って」とだけ渡すと、実装に加えてテストの書き換えや設定変更まで進んだとき、どこからが余計な作業か判定しづらい。 以下は架空のRe...</description>
+<title>【環境】 Biodiversity and the Conferences of the Parties</title>
+<link>https://www.nature.com/articles/s41558-026-02792-w</link>
+<guid>7be68bba8f2a49c7be82b57b26be167f81a01f15d5224cede133541c206dcb6b</guid>
+<pubDate>2026-10-16</pubDate>
+<description>In a year containing summits from the three United Nations environmental frameworks, we consider how cooperation across the Conferences of the Parties (COPs) can facilitate implementation and impact. Co-timed with the start of the biodiversity COP, we highlight the reciprocal relationship between climate chang</description>
 </item>
 <item>
-<title>【Qiita】 0。7日前に自分が書いた「安全な代替」を、今回実際に使った回数だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/e7b72118df0d511592b2</link>
-<guid>32f7d7e7d7ed37dc46d56cd7b82a2d34e0aa58872a72957aaf008198b40196fc</guid>
-<pubDate>2026-10-16T15:27:50+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、7日前(2026-10-09)の記事で「checkout -Bが拒否されたときの安全な代替」として自分が明記したgit checkout &amp;&amp; git merge --ff-only origin/...</description>
+<title>【環境】 Astrid Schomaker on biodiversity in a triple COP year</title>
+<link>https://www.nature.com/articles/s41558-026-02778-8</link>
+<guid>a0d647880a74e1b960293fffbb2afa2b20697820bf74f351ca8973330fec4a25</guid>
+<pubDate>2026-10-16</pubDate>
+<description>This year, all three major Rio Conventions — on biodiversity, climate and desertification — convene their respective Conference of the Parties (COP). In advance of the biodiversity COP17, Astrid Schomaker, the executive secretary of the Convention on Biological Diversity, discusses the irrefutable need to inte</description>
 </item>
 <item>
-<title>【Qiita】 AgentCore InstancesでGPU版Strands Decider 2Bを動かそうとしたら失敗した話</title>
-<link>https://qiita.com/na7na/items/d27b922a190486cd8ae4</link>
-<guid>a85a533b69d325ca0c29f38ec825f9f3c5bd661877021574279dd7454cf151f0</guid>
-<pubDate>2026-10-16T15:09:22+09:00</pubDate>
-<description>はじめに Jevをきっかけに高速に意思決定を行うモデルが注目を浴びてますね。 StrandsAgentsも独自モデルとしてStrands Deciderをリリースしました。 Strands Deciderを手元の端末ではなく、どうやってAWS上で動かすべきか、真っ先に頭に...</description>
+<title>【環境】 Climate choices and attention are shaped more by politics than weather</title>
+<link>https://www.nature.com/articles/s41558-026-02775-x</link>
+<guid>a1b1f130e67412475ba0606a384b45d8476507071bdef657b8fb03116ed1fb29</guid>
+<pubDate>2026-10-16</pubDate>
+<description>Climate change will further increase the frequency and intensity of extreme weather events. Subjective experience and attribution of extreme weather events to climate change, rather than objective exposure alone, are associated with greater climate-relevant attention and choices. Political affiliation influenc</description>
+</item>
+<item>
+<title>【環境】 Political affiliation impacts climate attention and choice beyond extreme weather exposure</title>
+<link>https://www.nature.com/articles/s41558-026-02765-z</link>
+<guid>3d9eefd392faf19970414cbba0167b5c1c64dea7c96918cf3452296a88d83be0</guid>
+<pubDate>2026-10-16</pubDate>
+<description>Mechanisms behind climate decision-making remain unclear. This study shows that political affiliation and subjective attribution shape attention allocation and climate-related choices, with subjective attribution moderating the effects of political affiliation and objective weather exposure.</description>
+</item>
+<item>
+<title>【環境】 Binding dissimilar biomaterials</title>
+<link>https://www.nature.com/articles/s41893-026-01962-0</link>
+<guid>6e5efcf0bcd07dffba66d2af662345dbd65736c6a6ab357770f3c8a7e0f8873e</guid>
+<pubDate>2026-10-16</pubDate>
+<description>Biopolymer composites offer a sustainable route to multifunctional materials, but integrating chemically distinct biopolymers remains challenging owing to mismatched interfacial interactions. Now, researchers report a small molecule strategy that modulates biomass networks, improving their structural integrati</description>
+</item>
+<item>
+<title>【環境】 Material circularity implications of battery degradation in shared electric mobility</title>
+<link>https://www.nature.com/articles/s41893-026-01969-7</link>
+<guid>2e5059deece55f9a8a3c5c2462781eb4cb1ac28a5f3728e6598d03c866d81026</guid>
+<pubDate>2026-10-16</pubDate>
+<description>Shared mobility aims to save materials, yet intensive use accelerates battery degradation and may alter these savings. This study assesses the implications of shared mobility by coupling fleet projections, battery degradation and dynamic material flow analysis in China.</description>
+</item>
+<item>
+<title>【環境】 Artificial intelligence for life-cycle-aware sustainable materials discovery</title>
+<link>https://www.nature.com/articles/s41893-026-01950-4</link>
+<guid>607a40668657c7209aba9b28e3c34f2599bd42be0c8362bb4579a647105a89cd</guid>
+<pubDate>2026-10-16</pubDate>
+<description>Materials discovery by artificial intelligence rarely considers scalability, environmental impacts or end-of-life management, prioritizing functional performance. This Perspective suggests a roadmap for embedding life-cycle considerations in the discovery process to design sustainable materials from the start.</description>
+</item>
+<item>
+<title>【環境】 Small-molecule-bound biopolymer networks for sustainable multifunctional composites</title>
+<link>https://www.nature.com/articles/s41893-026-01967-9</link>
+<guid>d287d730ead5c529118303295d319178c55f8541221c5ddf95f16c6745d02330</guid>
+<pubDate>2026-10-16</pubDate>
+<description>Combining biomaterials of different nature can yield sustainable composites with otherwise inaccessible properties. This study presents a strategy to overcome interfacial mismatch between individual components, enabling efficient structural integration within mechanically strong, multifunctional films.</description>
+</item>
+<item>
+<title>【自動自律実験】 The pianist who never played</title>
+<link>https://www.nature.com/articles/d41586-026-03112-0</link>
+<guid>5d2fe7b68699d293f63cc33d57cbf691aaaa5083070a1b53a687eba53ba997ca</guid>
+<pubDate>2026-10-16</pubDate>
+<description>A note to self.</description>
+</item>
+<item>
+<title>【自動自律実験】 Unprecedented atlas explores mitochondria across the tree of life</title>
+<link>https://www.nature.com/articles/d41586-026-03195-9</link>
+<guid>097a8e9109bcc51a3d8c891807e03c9e09235f244ab4f35a5f4f718e233385a8</guid>
+<pubDate>2026-10-16</pubDate>
+<description>The mitoproteomes of five parasites and a plant hold medical potential — and reignite the question of just when the mitochondrion evolved.</description>
+</item>
+<item>
+<title>【自動自律実験】 PhD students who write dissertation with AI less likely to stay in academia</title>
+<link>https://www.nature.com/articles/d41586-026-03253-2</link>
+<guid>61539b934cb27057160b3cdd5c42b83e346894ab941c7b3b9ec7a3eb7cf24db3</guid>
+<pubDate>2026-10-16</pubDate>
+<description>US PhD graduates who used artificial intelligence were more likely to work in industry.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>ec606b4a5e94edf5d1b273b27a07b87620c1ba2b3130d95de252fe920ba08886</guid>
-<pubDate>Fri, 16 Oct 2026 09:59:43 GMT</pubDate>
+<guid>8a4aaa3c21ea0c1aec6921b62158e168ab30d021b0ad70a6924e1f83f71ac4e7</guid>
+<pubDate>Fri, 16 Oct 2026 14:36:59 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>2d7f263fe57cbe488d570ace3ca87f5d64d7c856976069b8a65b20ae16ad91cb</guid>
-<pubDate>Fri, 16 Oct 2026 09:59:45 GMT</pubDate>
+<guid>37b58b131ff40f62033e18a236ec1d271c2f0953ed052c7ee6704c5afc96df67</guid>
+<pubDate>Fri, 16 Oct 2026 14:37:02 GMT</pubDate>
 <description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>5b5afa55a43be6eb81753a309b521eb95dffd54794b848c44ca9ab6a8851bad7</guid>
-<pubDate>Fri, 16 Oct 2026 09:59:46 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>2b9b1aa3c26d06d445af30edd9e1158313f33070397ba9e21fa02f266b1d64f6</guid>
-<pubDate>Fri, 16 Oct 2026 10:00:33 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
