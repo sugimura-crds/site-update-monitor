@@ -4,63 +4,85 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 16 Oct 2026 18:32:43 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 21:50:51 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 スキーマを変えるとプロンプトキャッシュが共有されなかったので、Bedrock の構造化出力をやめた話（2026年版）</title>
-<link>https://qiita.com/ntaka329/items/9ddba124de03b15166c4</link>
-<guid>2febdff2e8b1a000491008d230212c0fdb83f2bc5e978964bcbb06b0a2bfbe63</guid>
-<pubDate>2026-10-17T00:20:48+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 同じ長い資料を渡して、出力する JSON の形だけを変えながら Claude を何回か呼ぶ、というようなアプリを開発していました。プロンプトの前半（資料の部分）はどの呼び出しでも同じなので、プロンプトキャッシュが効いて、費用も待ち時間...</description>
+<title>【Qiita】 伸びる動画の特徴をAIに言語化させたら、リール作りが回り始めた話</title>
+<link>https://qiita.com/Eitaro_dotlog/items/c1e2f6d696ea88854186?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>265816869a3a83c12e50d565c3b5655670998911a9780b9ca47a7bfdfa7701df</guid>
+<pubDate>2026-10-16T14:47:27+09:00</pubDate>
+<description>はじめに 建設業界向けのInstagram「建設AIラボ（@kensetsu_ai_lab）」の運用などなどを担当しておりますEitaroです！縦型のリールなど様々なクリエイティブを作っています。 撮影はしていませんし、編集ソフトも開いていません。 写真も映像もナレーショ...</description>
 </item>
 <item>
-<title>【Qiita】 Antigravity で dev-orchestra を使ってみた</title>
-<link>https://qiita.com/istb16/items/6d9dd34c80c07108788a</link>
-<guid>23b174bbd0cafb4b21e4c669e5a26b1d21c3b7e9b8cc91cd6ebcf605cec39937</guid>
-<pubDate>2026-10-17T01:38:49+09:00</pubDate>
-<description>この記事は tk3.biz のブログ からの転載です。 はじめに 前回は Codex、その前は Claude Code で dev-orchestra を使ってみました。今回は Google の Antigravity です。 先に結論を書いておきます。 Anti...</description>
+<title>【Qiita】 エンジニアに情報漏えいは防げないのか？ ハッシュ化のコスト設計で「盗まれたあと」は変えられる</title>
+<link>https://qiita.com/shinkai_/items/aef2dec31922dbad3c0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>00666c428c429516d02fc67f0cf284de1e3d623eac8b0334f3b025e355d0ca3f</guid>
+<pubDate>2026-10-16T13:03:24+09:00</pubDate>
+<description>はじめに 情報漏えいのニュースで、「エンジニアは何をしていたんだ」という声を目にしました。 正直に言うと、侵入そのものを100%防ぐのは難しいと思います。 脆弱性を突かれることもあれば、委託先やソフトウェアの不具合が原因になることもあります。 ただ、盗まれたあとの被害の大...</description>
 </item>
 <item>
-<title>【自動自律実験】 Briefing Chat: An invisible tattoo that appears under UV light – and then disappears</title>
-<link>https://www.nature.com/articles/d41586-026-03341-3</link>
-<guid>6ac32ed6c70533d47bea00873cd4c22315c74ed5bc66bf03fc337c666fe6ae91</guid>
-<pubDate>2026-10-16</pubDate>
-<description>Nature staff discuss a new ink that could be useful for medical tattooing — plus, an insight into why small dogs live longer than big ones.</description>
+<title>【Qiita】 【無料で使えるうちに！】OpenCode 2.0でGLM・DeepSeek・Nemotronを使ってみよう！</title>
+<link>https://qiita.com/ISISI007/items/2368a15f676be6071596</link>
+<guid>9068199b510abac3e33f09d9e8c5997b9faf6a718d53983adc4f6dda53ffa5a0</guid>
+<pubDate>2026-10-17T06:12:53+09:00</pubDate>
+<description>1. はじめに 最近、CodexやClaude CodeなどのAIコーディングエージェントを使って、プログラムを開発する機会が増えていませんか？ 私も普段からCodexなどを利用してアプリ開発を進めています。 AIにコードの実装や修正を任せられるのは非常に便利ですが、気に...</description>
 </item>
 <item>
-<title>【自動自律実験】 IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential</title>
-<link>https://www.nature.com/articles/d41586-026-03308-4</link>
-<guid>2645d68146fb3c0ceaaf1d997b6c748fb8bc03b42af94b0c482f34d32d70c1ea</guid>
-<pubDate>2026-10-16</pubDate>
-<description>Building the Nobel-prizewinning neutrino experiment was a big risk. To continue its success, scientists — and funders — need to stay bold.</description>
+<title>【Qiita】 失敗したらそれっぽい値で埋める1行が、偽データを生んでいた 〜Claude Codeが別のAIへの指示書を書き、修正をレビューした話〜</title>
+<link>https://qiita.com/charge0315/items/fbf48ae483a337ea6ea6</link>
+<guid>0d284c96bd5354cc441fa085d1d7c67c47d4f844e7d3c1d36e3aa0e11523cb90</guid>
+<pubDate>2026-10-17T05:59:08+09:00</pubDate>
+<description>みなさん、こんにちは！ 「ALPHA FORGE 開発秘話」の第25話です。 ぜんぜん違う4つの大企業の株価指標が、小数点まで同じ。PERは12.5、PBRは1.1、配当利回りは2.8🤨 偶然なわけがありません。犯人は、ナレッジベースを作る別のプロジェクトに潜んでいた「失敗...</description>
 </item>
 <item>
-<title>【自動自律実験】 Memory stays strong in old age when this brain enzyme is active</title>
-<link>https://www.nature.com/articles/d41586-026-03303-9</link>
-<guid>f52421163cc44ca6c2d9ea2e6af344f4a032d3c2a7de125a3b7e1df7b4f3bc4d</guid>
-<pubDate>2026-10-16</pubDate>
-<description>Data from mouse brains and 13 human brains show a link between levels of a lipid-degrading and cognitive resilience.</description>
+<title>【Qiita】 自己改善AIを本番に入れる前に──RSIを変更管理・評価・停止設計として実装する</title>
+<link>https://qiita.com/mhamadajp/items/6ae57fdbad85220c8fb5</link>
+<guid>a34110ed57a4fa5e2b773f957d15d43d22c87283af5de1d5295e1e6416bf2a09</guid>
+<pubDate>2026-10-17T04:37:29+09:00</pubDate>
+<description>再帰的自己改善（Recursive Self-Improvement、RSI）という言葉を聞くと、「AIが自分を改良し続け、急速に賢くなる」という未来像を思い浮かべやすい。 しかし、IT技術者が今扱うべき問題は、AIが人間を超えるかどうかを予言することではない。すでに現れ始...</description>
+</item>
+<item>
+<title>【農業】 World Food Forum 2026 closes with renewed commitment to end hunger</title>
+<link>https://www.fao.org/newsroom/detail/world-food-forum-2026-closes-with-renewed-commitment-to-end-hunger/en</link>
+<guid>6a1dae76046c0187fc82f80fbe81c63cb8110085dc45de6b001eb35733db70c3</guid>
+<pubDate>Fri, 16 Oct 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>afa967bb9e06cf55340e94859d385cc73972199933aa3b30708e02cbcf6db1bc</guid>
-<pubDate>Fri, 16 Oct 2026 18:31:53 GMT</pubDate>
+<guid>56faeebf80aff909880d5b1f71ea27ab8bfd6ebbeaf051eeb5c9954762f3cdd2</guid>
+<pubDate>Fri, 16 Oct 2026 21:49:58 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>4d98f2235817dfc91ec985b2e71e5ad6f9de4ff6d3b951d91ba0612d3e54e5d3</guid>
-<pubDate>Fri, 16 Oct 2026 18:31:55 GMT</pubDate>
-<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
+<link>https://www.nature.com/articles/s41746-026-03331-9</link>
+<guid>df8d828d1780a421763c5bf74e3721fd5ec54c08916631a15ed086f0afc47bf3</guid>
+<pubDate>Fri, 16 Oct 2026 21:50:03 GMT</pubDate>
+<description>The development of semantic imaging signs is time-consuming and relies heavily on clinicians’ experiential knowledge, whereas the abundance of quantitative radiomic features often poses challenges in interpretability and clinical translation. We developed an agentic AI pipeline to autonomously translate quantitative morphological features into semantic signs. The pipeline autonomously performed end-to-end processing—from descriptive statistical profiling and semantic sign translation to visualization. In a development dataset of 106 supratentorial glioblastoma (GBM) cases, the pipeline generated eight candidate signs; the three most consistently proposed signs&amp;nbsp;were the&amp;nbsp;cauliflower, eggplant, and pancake signs. Two radiologists independently validated the cauliflower sign on an external cohort of 50 GBMs and 50 metastases, achieving AUCs of 0.73 (95% CI: 0.64–0.82) and 0.77 (95% CI: 0.69–0.85), respectively (mean 0.75) for tumor differentiation. These findings demonstrate that agentic AI can directly derive semantic imaging signs from quantitative features, offering a systematic and data-driven framework for sign discovery that may enhance the interpretability and clinical</description>
 </item>
 <item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>edaa0b0cf619ac37743d301d2d4c6592b18218343441faab8ebb7eabcb7588e8</guid>
-<pubDate>Fri, 16 Oct 2026 18:32:25 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【Self-driving laboratories】 Filter By:</title>
+<link>https://www.nature.com/articles/s44160-026-01194-2</link>
+<guid>f42b45a0883489335ac1c31b79917a9d0173e476609b1a1728477b7417ee8392</guid>
+<pubDate>Fri, 16 Oct 2026 21:50:07 GMT</pubDate>
+<description>In this issue, we focus on the development of self-driving laboratories for the autonomous synthesis of molecules and materials, with a particular focus on industrial considerations and applications.</description>
+</item>
+<item>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>a0f15cca0f665b80268daa1317961e8d81194cc36c4528d9644210bec667e6b7</guid>
+<pubDate>Fri, 16 Oct 2026 21:50:08 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>8a429a78217b9aa98fee334e7cd5038fbfbf6b2eeaedb3cedcc0d51120ae1c8d</guid>
+<pubDate>Fri, 16 Oct 2026 21:50:34 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
