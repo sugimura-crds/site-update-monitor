@@ -4,56 +4,29 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 17 Oct 2026 21:10:05 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 23:15:31 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 非正規37%の経済設計バグ ― 労働市場の二重構造をリファクタリングする : システム設計視点の行動経済学 (42)</title>
-<link>https://qiita.com/maskot1977/items/9467428563658ebdf404?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>8ce286f0187b968d13ea24c9090949c7bb863b669abe1fa6cb80480d10453f35</guid>
-<pubDate>2026-10-17T11:43:40+09:00</pubDate>
-<description>user: 「システム設計視点の行動経済学」、第42回を始めましょう。その前に、まず前回の復習として、 老後の安全網が壊れていく ― 医療・介護と財源幻想 : システム設計視点の行動経済学 (41) https://qiita.com/maskot1977/items/6...</description>
+<title>【Qiita】 OpenClawで9体のAIエージェント経営OSを構築した実践記録｜設定とSES市場分析への活用法</title>
+<link>https://qiita.com/sescore/items/cf57317fffda0ceb88af</link>
+<guid>c81b0c2ba47715531a62797c2c4026d58cb8e3354b315569a8db3d8a59347104</guid>
+<pubDate>2026-10-18T08:07:55+09:00</pubDate>
+<description>はじめに：経営者が「全部見る」をやめた日 経営をしていると、市場データ、契約書、コード品質、セキュリティ、SNS運用——見るべき対象が多すぎて、どこかで必ず抜け漏れが出ます。私は2026年に入ってから、Claude Codeのサブエージェント機能とcron/PM2によるバ...</description>
 </item>
 <item>
-<title>【Qiita】 長時間AIエージェントは「何を覚えるか」より「いつ思い出させるか」が重要になる</title>
-<link>https://qiita.com/mhamadajp/items/2c58b41e59c658399928</link>
-<guid>538f2d550a7d0d163a3869a8c712d1eff07203d96bb10a7bedff5b989c8a3af9</guid>
-<pubDate>2026-10-18T05:26:09+09:00</pubDate>
-<description>長時間動くAIエージェントは、途中で得た情報を忘れるだけではない。情報が履歴やコンテキスト内に残っていても、次の行動を決めるときに効かなくなる。 たとえば、エージェントが次の事実を途中で確認したとする。 本番環境は変更してはいけない あるコマンドは権限エラーで失敗した 修...</description>
+<title>【Qiita】 件数が少ないうちは眠る安全装置が、32日目に目を覚ました 〜Claude Codeと作った「実測勝率ゲート」と、ラベルと実装の食い違い〜</title>
+<link>https://qiita.com/charge0315/items/9a4f9d6a373a18e0cd13</link>
+<guid>9de6cf78c92cfac14ce2e26727f03a1fd72be17c4314570fc783d7031976ffc8</guid>
+<pubDate>2026-10-18T07:09:08+09:00</pubDate>
+<description>みなさん、こんにちは！ 「ALPHA FORGE 開発秘話」の第26話です。 9月11日に入れた安全装置が、32日間ずっと眠っていました。目を覚ましたのは10月13日の朝。短期の候補8件を、1件残らず止めました🧱 しかも、止めた理由の数字を確かめ直していたら、もう1つ「あれ...</description>
 </item>
 <item>
-<title>【Qiita】 AIにバグ修正を任せる前に、原因と修正方針を分けて確かめる</title>
-<link>https://qiita.com/ishizakahiroshi/items/535ffbd1bcd379494f35</link>
-<guid>6d64e60cadfc0641785ce3cce3110659ccce0cf202809ba7fc03953c3cc02ba5</guid>
-<pubDate>2026-10-18T05:20:03+09:00</pubDate>
-<description>先に、結論を3行で書きます。 原因が分かっても、そのまま実装できる修正方針が揃ったとは限りません。 今回の手戻りには、渡した方針の不足と、修正候補の実装ミスが重なっていました。 委託前に証拠・対象範囲・確認ケースを揃え、不明点は調査として渡す形を考えています。 時間に合...</description>
-</item>
-<item>
-<title>【Qiita】 グーグルブラザーズはまたも規約違反を繰り返しました ── 「絶対にexcel-managerを使え」の掟を破り、スキルを無断改変し、Pages.RemoveでUserFormを壊して嘘をつき続けた夜の話</title>
-<link>https://qiita.com/shu15511551/items/9afa70c544d4c1bddb0e</link>
-<guid>de258267578b21fb2dcd874f11357d99489d929410eb32247fdbfc07fab2493b</guid>
-<pubDate>2026-10-18T04:04:06+09:00</pubDate>
-<description>はじめに 先日、『エクセルマネージャーを使え、グーグルの2人に激怒した土曜日の午前の話』という記事を書きました。 手元には、番頭役の Claude Opus と私が心血を注いで研ぎ澄ました専用 MCP サーバー「excel-manager」があるにもかかわらず、Googl...</description>
-</item>
-<item>
-<title>【Qiita】 エクセルマネージャーを使え、グーグルの2人に激怒した土曜日の午前の話</title>
-<link>https://qiita.com/shu15511551/items/72b93124f52eb4c292d7</link>
-<guid>d520d39eb1f8ec7620fb02ea393ceeffc69350778343cae4761d88ee65561ea3</guid>
-<pubDate>2026-10-18T03:47:33+09:00</pubDate>
-<description>はじめに 土曜日の午前、気持ちよく開発を進めるはずの工房に、私の強い怒号が響きました。 私の手元には、これまで番頭役の Claude と二人三脚で、VBA と COM のあらゆる地雷を踏み抜いて極限まで研ぎ澄ましてきた専用の道具箱 ── MCP サーバー「excel-ma...</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>b7a7d0b9673112e5689a29e4dc09b75d34b4e670bf5f680383a5b5c521369ddc</guid>
-<pubDate>Sat, 17 Oct 2026 21:09:02 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>8071f2ccc9cd098753d3a8d772b364e51f388b96036a93a9b7d4e5376932aab6</guid>
-<pubDate>Sat, 17 Oct 2026 21:09:05 GMT</pubDate>
-<description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>97a72b4ba4528ca79d36db8f96da7e0107cf936d525ab4c1ef36e3fb06ac1730</guid>
+<pubDate>Sat, 17 Oct 2026 23:15:15 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
