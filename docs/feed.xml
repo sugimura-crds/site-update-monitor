@@ -4,91 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 17 Oct 2026 08:56:32 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 12:36:17 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性</title>
-<link>https://qiita.com/k2_naka/items/fa87685231377f15e7e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>ae3bf76d4d8a3e1640a334552c423acaa6bc6e883d2f8343d33a04f4bb3ee936</guid>
-<pubDate>2026-10-16T21:48:39+09:00</pubDate>
-<description>工程 担当 課題提示・取捨選択・内容チェック 筆者 原案作成・編成 Claude Fable 5.1 事実検証（検証メモ） GPT-6 Astra 一次資料照合・最終稿 Claude Fable 5.1 本稿は筆者個人の分析であり、所属組織や...</description>
+<title>【Qiita】 Claude Codeのフォルダ設計を手で組む ― ルートのCLAUDE.mdに「地図」、部署フォルダにルール、settings.jsonで読み取り禁止</title>
+<link>https://qiita.com/TOSHIMITSU_MIYACHI/items/78d6804881b98ba4c912</link>
+<guid>e3dc5bbbb5a14dc6dcd023322df8ff32d67fc8f699546c246a38f1850c68336c</guid>
+<pubDate>2026-10-17T20:09:12+09:00</pubDate>
+<description>会社の仕事をClaude Codeに任せるとき、私（株式会社AI Orchestraのみやっち🧑‍💻）は、会社の情報を「AIカンパニー」という1つのフォルダにまとめ、その中を組織図どおりに部署で分けています。Claude Codeを使うときは、毎回このフォルダを起点に選びま...</description>
 </item>
 <item>
-<title>【Qiita】 耳で聞く！Python で学ぶ マクロ経済学 入門 30</title>
-<link>https://qiita.com/maskot1977/items/4138e1d04b2c2865d592?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>79e803512904e0786a9192eea7533f621a2bb7f50c789d1f4eb38c114d79233d</guid>
-<pubDate>2026-10-17T10:46:50+09:00</pubDate>
-<description>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: 動画のタイトルおよび内容は以下の通りです。 ソース動画のタイトル 「消費税は財源ではなく罰金だ : Pythonで学ぶマクロ経済学入門 Podcast 30」 ...</description>
+<title>【Qiita】 hook で Claude Code に .env や鍵ファイルを消させない</title>
+<link>https://qiita.com/Oskra/items/da16b717fc931a6423e6</link>
+<guid>47be7ef76f4a6da6ba2948dd464871ffe29b90e246433eae3e30ba8d1084baa8</guid>
+<pubDate>2026-10-17T19:03:42+09:00</pubDate>
+<description>この記事で分かること AI に「このファイルは消さないで」と設定しても、コマンドの書き方しだいですり抜けること 反対に、消してよいファイルまで止めてしまうこと すり抜けを止める小さなプログラム（hook）の作り方。111 行の全文を載せます それでも止められない操作と、...</description>
 </item>
 <item>
-<title>【Qiita】 PowerVS IBM i 日記(116): Power11のオーダー時にはモデルではなく「 Power11」を選択．TOK04･OSA21ではS1122の制限を超えないように自分で管理</title>
-<link>https://qiita.com/6onoda/items/e08921d199cdf2f75fa9</link>
-<guid>81da9c50cb3db37b85595b2e15c7c9b6f5a1d682b2da7d3f07a7ab752ae61c9c</guid>
-<pubDate>2026-10-17T15:35:42+09:00</pubDate>
-<description>「Power Virtual Server のリリース・ノート」に「2026年10月1日」の更新が追記されました。 Power11 以降のシステムに導入されたVSI向けのインフラストラクチャ選択の簡素化 IBM Power 11 以降、 Power Virtual Ser...</description>
-</item>
-<item>
-<title>【Qiita】 セキュリティAIエージェント Hi AUDIT Agent に入門した</title>
-<link>https://qiita.com/ikkun1011/items/3bc5eae4de440a497731</link>
-<guid>4934859dd17684d3c1478ff14c9a4155c29924f00bc5107c2614bade9f07ad1e</guid>
-<pubDate>2026-10-17T16:41:25+09:00</pubDate>
-<description>Mythos 5超えのセキュリティAI「Hi AUDIT Agent」を使ってみた 晴れ時々エンジニアの いっくん です。 最近、AIの進化がすごいですね。 コードを書いてくれるAIはもちろん、コードのレビューやテストまでAIに任せることが当たり前になりつつあります。 そ...</description>
-</item>
-<item>
-<title>【Qiita】 Gemini 4 Argonの100万トークンは何がすごい？仕様・料金・制限を公式情報から整理してみた</title>
-<link>https://qiita.com/YuukiYoshida/items/78a045f37dd8a8a2870d</link>
-<guid>d8c82b8960b28bc14bedffbceb1dc2c81540d0edd2756dec74dad6855427e959</guid>
-<pubDate>2026-10-17T16:39:18+09:00</pubDate>
-<description>2026年10月13日、Googleが新しいAIモデル「Gemini 4 Argon」の一般提供を開始しました。 今回のモデルは、コーディングや複雑な推論、AIエージェントによる長時間のタスク処理などを想定した、Googleの新しいフラッグシップモデルです。 特に気になった...</description>
-</item>
-<item>
-<title>【Qiita】 VBAのユーザーフォームがGit差分管理・AIと共同編集可能な時代になりました</title>
-<link>https://qiita.com/harumiWeb/items/237938046bc94bd5c4b5</link>
-<guid>32e294936d10abf4aa15ec65ff64aa4098181acc9ea830090629c73ccf343906</guid>
-<pubDate>2026-10-17T15:59:04+09:00</pubDate>
-<description>前置き 私はExcelVBAをAIエージェントで完全自律開発するための開発ツールチェーン xlflow と、LSPなどによる入力補完などを提供する VSCode拡張機能 を開発しています。 今回は、ユーザーフォームをVSCode上でUI編集可能 にする大きめのアップデート...</description>
-</item>
-<item>
-<title>【Qiita】 2026年10月17日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/ddb56dacfd42bb5d6f28</link>
-<guid>3c2ced2c1142cc93cbd95778b593c75b5f4a6290c5b1ae960656cd8974299f50</guid>
-<pubDate>2026-10-17T14:10:06+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 AIで作ったらオリジナルじゃないらしい。んなわ...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Code 2.1.299入門、@参照の展開停止とplugin evalのAgent除外を実測</title>
-<link>https://qiita.com/kai_kou/items/fddc22860db626d4d672</link>
-<guid>5c767befe79acadbe8b17c6f92a66cd5514fd07fffd9765cd3c15eeca1697ee1</guid>
-<pubDate>2026-10-17T16:11:56+09:00</pubDate>
-<description>はじめに チャット欄で @config/.env.local のようにファイルを指したとき、その中身がどの時点でモデルに渡っているかを意識したことはあるでしょうか。@ メンションは手軽なぶん、指した時点でファイルの全文が会話に入ります。読ませるつもりのなかった行まで文脈に...</description>
+<title>【Qiita】 Entra ID で AI エージェントに ID を持たせよう！ ～ Foundry × Claude で検証（その1）</title>
+<link>https://qiita.com/shou-wordwright555501/items/b4e0ad709b882ed4ad44</link>
+<guid>c93c0391990cd148ff636f60a1100b7ccac0bb91da3940507f44165eac253c77</guid>
+<pubDate>2026-10-17T18:15:10+09:00</pubDate>
+<description>AI セキュリティの一環として、Entra ID にて AI エージェントに ID を割当て、権限を割り当てることを検証してみました。 ここではその検証内容をまとめます。なお、AI エージェントには Anthropic 社の Claude Sonnet 5.5 モデルを使...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>01a86fa6fc6b26e44503c8789f0f2c7a717cabf174e812074fee28122073bf1c</guid>
-<pubDate>Sat, 17 Oct 2026 08:55:46 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>c2ceba0c2524dc3b645206b66ae59fb5a6020e7ad35d95cc67058d27362d54df</guid>
+<pubDate>Sat, 17 Oct 2026 12:35:34 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>bdc6a218eaf7d87ec3479887c321e4018b83711d6969450f2cbcb5f87027014c</guid>
-<pubDate>Sat, 17 Oct 2026 08:55:49 GMT</pubDate>
+<guid>8d59d1d9dc1e171e659b6ffe04812d5a1a1d0ea2f7d8b9d23d14e05a9ac65bc7</guid>
+<pubDate>Sat, 17 Oct 2026 12:35:36 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>228fc7e989d96e4c56a488bb6325d1e24bb1ab1a30a189624c7d84eba88d0a77</guid>
-<pubDate>Sat, 17 Oct 2026 08:55:52 GMT</pubDate>
-<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>5bdf0e01075241930ecb168c539a3a4ee79bc6c091bd284712d4615a78881dca</guid>
+<pubDate>Sat, 17 Oct 2026 12:35:39 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-03331-9</link>
-<guid>b40484733ecf93c2b991ad3836c8ddf12580784d5a50d83201f891aa4c7aacc5</guid>
-<pubDate>Sat, 17 Oct 2026 08:55:54 GMT</pubDate>
-<description>The development of semantic imaging signs is time-consuming and relies heavily on clinicians’ experiential knowledge, whereas the abundance of quantitative radiomic features often poses challenges in interpretability and clinical translation. We developed an agentic AI pipeline to autonomously translate quantitative morphological features into semantic signs. The pipeline autonomously performed end-to-end processing—from descriptive statistical profiling and semantic sign translation to visualization. In a development dataset of 106 supratentorial glioblastoma (GBM) cases, the pipeline generated eight candidate signs; the three most consistently proposed signs&amp;nbsp;were the&amp;nbsp;cauliflower, eggplant, and pancake signs. Two radiologists independently validated the cauliflower sign on an external cohort of 50 GBMs and 50 metastases, achieving AUCs of 0.73 (95% CI: 0.64–0.82) and 0.77 (95% CI: 0.69–0.85), respectively (mean 0.75) for tumor differentiation. These findings demonstrate that agentic AI can directly derive semantic imaging signs from quantitative features, offering a systematic and data-driven framework for sign discovery that may enhance the interpretability and clinical</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>bb1c8a4190ab7dd9be6dd93555d8a53226e6d37e4d4011c77dca73a12b868c54</guid>
+<pubDate>Sat, 17 Oct 2026 12:35:59 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
