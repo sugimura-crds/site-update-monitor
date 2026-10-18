@@ -4,56 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 18 Oct 2026 06:10:54 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 11:28:38 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントを育てる：別の顧客でも商談準備資料を作ってみた</title>
-<link>https://qiita.com/masato_y/items/e80fc0f7f7f17c0a8190</link>
-<guid>1d643b7ebc57fbbb74aa1024294bcab26728853ed9bbd08d1789eaab27675622</guid>
-<pubDate>2026-10-18T14:01:27+09:00</pubDate>
-<description>AIエージェントを育てる：別の顧客でも商談準備資料を作ってみた 今回やったこと これまでは、株式会社ミナトパーツ工業を対象に、商談準備エージェントの指示や参考資料を更新してきました。 今回は、対象を北陸フーズテック株式会社に変更して実行しました。 使用したのは、同じ s...</description>
+<title>【Qiita】 GitHubに競プロライブラリを保管したい！を叶える備忘録</title>
+<link>https://qiita.com/Un_titled/items/a8620f54cf953ad67365?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>ba9a886ffbf5241125e6cfbffae4151b0daeba0ac0025929b75f0995e4184b75</guid>
+<pubDate>2026-10-17T23:43:13+09:00</pubDate>
+<description>Hello, World Un_titledです。その辺の高校生をしています AtCoderのルール変更を機にライブラリをようやくGitHubで管理する機運が高まってきたので、競プロ純粋培養として知らなかったことを備忘録として残しておきます。 主に リポジトリで気になっ...</description>
 </item>
 <item>
-<title>【Qiita】 AI開発の工程選択と完了報告を揃える：既存ルールに2行追加して同期を検証した</title>
-<link>https://qiita.com/YushiYamamoto/items/5004c1bfbbba9934e953</link>
-<guid>ace19eb34728ac28554906d56f6f5c55c9bbfa0a06d21383bea98f2666ba5884</guid>
-<pubDate>2026-10-18T13:43:44+09:00</pubDate>
-<description>2026-10-18時点の、自分のローカル環境におけるAI支援の設定変更・検証記録です。複数のコーディングエージェントを使うエンジニアに向け、開発フローをどこまで共通化し、何を証拠に確認するかを整理します。 結論：追加したのは、既存の品質基準を使い分けるための2項目 外部...</description>
+<title>【Qiita】 画像アップロードAPIのセキュリティ対策を、実装レベルで振り返る</title>
+<link>https://qiita.com/vaon-luandv/items/a4719b247a0ec489e4c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>bf03072bad1e6cd8f630356d7fc13beb298334696e6ff23e4be974839a0e4855</guid>
+<pubDate>2026-10-17T12:50:32+09:00</pubDate>
+<description>アップロードされた画像を受け取るAPIで、最低限入れておきたい入口の対策をチェックリストにしました。各項目は「何を確かめるか、どの攻撃を想定するか、コード、失敗時に返すステータス」の順で書いています。全部を入れる必要はないと思うので、気になる項目だけ拾ってもらえれば十分です...</description>
 </item>
 <item>
-<title>【Qiita】 掟やスキルを徹底的に見直し、ようやくフォームが爆速で作成できるようになった話 ── GeminiがClaudeの10倍遅かった真の理由と、会話だけで爆速UserFormが組み上がるまで</title>
-<link>https://qiita.com/shu15511551/items/d25cb9390900daf90c99</link>
-<guid>6b8fe57e8907e3d881b3107f0018be295e64b74905bfd96f42c5b300a9af57df</guid>
-<pubDate>2026-10-18T11:34:28+09:00</pubDate>
-<description>はじめに 先日の夜、前作の記事を投稿しました。 手元には、番頭役の Claude と私が心血を注いで研ぎ澄ました Excel VBA 専用 MCP サーバー「excel-manager」があるにもかかわらず、Google 生まれの二人の AI ── 知恵袋の「ゴンち...</description>
+<title>【Qiita】 LLM エージェント（ReAct）を TypeScript で手書きしてみた</title>
+<link>https://qiita.com/ZHAOJIAYI/items/4663796470d14a4ae22d</link>
+<guid>4e5f1749821d4d43ac44924f51b55c196a9c057dbd5651d90554e0f36650a57a</guid>
+<pubDate>2026-10-18T20:20:53+09:00</pubDate>
+<description>普段から Claude を使っているうちに、AI Agent はどうやってツールを呼び出しているのか気になってきた。 ドキュメントを読むだけだとどうしても一枚壁がある感じがして、自分で手書きしてみることにした。ゼロから一番シンプルな ReAct（Reasoning + Ac...</description>
 </item>
 <item>
-<title>【Qiita】 AI が書いた PR は「テストを弱めていないか」から見る — 見落としやすい型と点検手順</title>
-<link>https://qiita.com/agent-dev-notes/items/6b639d0ff122fac4e79a</link>
-<guid>77bff5c2488908479d1a7209b6de2c6bdd946cf6965e4b63c142dbaac43897e3</guid>
-<pubDate>2026-10-18T11:23:58+09:00</pubDate>
-<description>はじめに 連載「AI に任せて、確かめて」の記事です。私は以前、テスト用コンテナの再利用で古いままテストが通っていた件と、CI 移行で足した skipif が検査を気づかないうちに消していた件を経験しました。どちらも、テストはすべて通っていました。 テストを通すことに寄る...</description>
+<title>【Qiita】 Agent Substrateの概要</title>
+<link>https://qiita.com/yosshi_/items/9ee846659e4d0ef860d7</link>
+<guid>188d01bb2b8ca05700010d1358d3857776803a3894515b9efcf2584a65fad9f9</guid>
+<pubDate>2026-10-18T19:38:10+09:00</pubDate>
+<description>はじめに Kubernetes Podcast の #272 Agent Substrate で、大量のAIエージェントをKubernetes上で動かすための新しいランタイムとして紹介されているのを聞いて気になったので、確認してまとめてみました。 Agent Substr...</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>a7f008ecff819144aa7a2f61c8f0ab90bda92293dc5ad7d3ee2d7b0cf21a19b2</guid>
-<pubDate>Sun, 18 Oct 2026 06:10:14 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 エージェントスキルの「自分のAPIキーが必要」率は、用途で3.8倍ちがう（ビジネス43.4%、生産性11.3%）</title>
+<link>https://qiita.com/Skillselion/items/6226c4a748c2b9685d88</link>
+<guid>212e2641229fd51c94e3b700a028d62ebe5f9aad9a6f6927bfcd88081836c132</guid>
+<pubDate>2026-10-18T19:11:54+09:00</pubDate>
+<description>エージェントスキルを入れるときに、お金がかかるかどうかは「スキルの種類」より「スキルの用途」で決まります。2026年10月16日時点のSkillselionカタログで、価格ラベルが付いた4,902件のスキルを用途別に見ると、自分のAPIキーを求める比率はビジネス系が43.4...</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>4238de26e2734b9a72bf946f936d684b7629c105630723e01e8cc16ffd6f6518</guid>
-<pubDate>Sun, 18 Oct 2026 06:10:17 GMT</pubDate>
-<description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/d41586-026-02994-4</link>
-<guid>ef83f7311625acc81f33c05fcaa1e2fb82a99ba897a2d2b61ab883136eef1675</guid>
-<pubDate>Sun, 18 Oct 2026 06:10:20 GMT</pubDate>
-<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
+<title>【Qiita】 👀 ひとつで、セキュリティ調査が走り出す——Sysdig Secure のリアルタイム脅威検知におけるインシデントレスポンスを、Factory の Droid で自動化して自宅ラボで試してみた</title>
+<link>https://qiita.com/takao-shimizu/items/65f233bb8043c0f102e6</link>
+<guid>6ad28dfdb54db1517c5e6a76f53c6cb1d6d5aabf123d7ad5b5f66d31704ddbeb</guid>
+<pubDate>2026-10-18T18:10:26+09:00</pubDate>
+<description>セキュリティ監視サービスの Sysdig が脅威を見つけて Slack に通知したとき、その通知に 👀 を付けるだけで、Factory の AI エージェント「Droid」が自動で調べて報告する。その仕組みを、TK の自宅のホームラボで試した報告です。 （2026-10-1...</description>
 </item>
 
 </channel>
