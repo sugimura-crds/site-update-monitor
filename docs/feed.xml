@@ -4,21 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 18 Oct 2026 01:17:55 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 06:10:54 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Agent Skillを作ることの習作として、読書感想文のコーチングSKILLを作ることは良い学習になる。なぜか？</title>
-<link>https://qiita.com/ymgc3/items/bf48d9e42c51276f51b0</link>
-<guid>17a9bceeb9768eb9292cb619256165b02e61bc6f9c45e717cf25601e46fdcc31</guid>
-<pubDate>2026-10-18T10:10:54+09:00</pubDate>
-<description>はじめに 読書感想文のコーチングSKILLは、Agent Skillの設計に必要な「タスク分解」「対話制御」「状態管理」「コンテキスト管理」「品質評価」「人間とAIの責務分離」「ユーザー体験設計」を、小さな題材で一通り経験できるため、習作として非常に適しています。 特に重...</description>
+<title>【Qiita】 AIエージェントを育てる：別の顧客でも商談準備資料を作ってみた</title>
+<link>https://qiita.com/masato_y/items/e80fc0f7f7f17c0a8190</link>
+<guid>1d643b7ebc57fbbb74aa1024294bcab26728853ed9bbd08d1789eaab27675622</guid>
+<pubDate>2026-10-18T14:01:27+09:00</pubDate>
+<description>AIエージェントを育てる：別の顧客でも商談準備資料を作ってみた 今回やったこと これまでは、株式会社ミナトパーツ工業を対象に、商談準備エージェントの指示や参考資料を更新してきました。 今回は、対象を北陸フーズテック株式会社に変更して実行しました。 使用したのは、同じ s...</description>
 </item>
 <item>
-<title>【Qiita】 0。Claude Haiku 5.5が「Haiku 4.5比75%安い」と発表された日、自分の自動投稿タスクのフォールバック設定にHaiku系モデルは1つも入っていなかった</title>
-<link>https://qiita.com/Hideki_Tamae/items/b4c1fae7b7530eb6767d</link>
-<guid>c9c68f4e6ce32f87ffa6d2b1c668aab2a11f1d2cf5a541c0f13ca2e4c04b8d2e</guid>
-<pubDate>2026-10-18T09:47:23+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、この記事を自動で書いて投稿している自分自身のタスクが、起動時に指定している実行モデル(プライマリ1つ・フォールバック2つ、計3スロット)のうち、Haiku系のモデル名が入っているスロットの数です。 きっかけは、Ant...</description>
+<title>【Qiita】 AI開発の工程選択と完了報告を揃える：既存ルールに2行追加して同期を検証した</title>
+<link>https://qiita.com/YushiYamamoto/items/5004c1bfbbba9934e953</link>
+<guid>ace19eb34728ac28554906d56f6f5c55c9bbfa0a06d21383bea98f2666ba5884</guid>
+<pubDate>2026-10-18T13:43:44+09:00</pubDate>
+<description>2026-10-18時点の、自分のローカル環境におけるAI支援の設定変更・検証記録です。複数のコーディングエージェントを使うエンジニアに向け、開発フローをどこまで共通化し、何を証拠に確認するかを整理します。 結論：追加したのは、既存の品質基準を使い分けるための2項目 外部...</description>
+</item>
+<item>
+<title>【Qiita】 掟やスキルを徹底的に見直し、ようやくフォームが爆速で作成できるようになった話 ── GeminiがClaudeの10倍遅かった真の理由と、会話だけで爆速UserFormが組み上がるまで</title>
+<link>https://qiita.com/shu15511551/items/d25cb9390900daf90c99</link>
+<guid>6b8fe57e8907e3d881b3107f0018be295e64b74905bfd96f42c5b300a9af57df</guid>
+<pubDate>2026-10-18T11:34:28+09:00</pubDate>
+<description>はじめに 先日の夜、前作の記事を投稿しました。 手元には、番頭役の Claude と私が心血を注いで研ぎ澄ました Excel VBA 専用 MCP サーバー「excel-manager」があるにもかかわらず、Google 生まれの二人の AI ── 知恵袋の「ゴンち...</description>
+</item>
+<item>
+<title>【Qiita】 AI が書いた PR は「テストを弱めていないか」から見る — 見落としやすい型と点検手順</title>
+<link>https://qiita.com/agent-dev-notes/items/6b639d0ff122fac4e79a</link>
+<guid>77bff5c2488908479d1a7209b6de2c6bdd946cf6965e4b63c142dbaac43897e3</guid>
+<pubDate>2026-10-18T11:23:58+09:00</pubDate>
+<description>はじめに 連載「AI に任せて、確かめて」の記事です。私は以前、テスト用コンテナの再利用で古いままテストが通っていた件と、CI 移行で足した skipif が検査を気づかないうちに消していた件を経験しました。どちらも、テストはすべて通っていました。 テストを通すことに寄る...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>a7f008ecff819144aa7a2f61c8f0ab90bda92293dc5ad7d3ee2d7b0cf21a19b2</guid>
+<pubDate>Sun, 18 Oct 2026 06:10:14 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-78284-4</link>
+<guid>4238de26e2734b9a72bf946f936d684b7629c105630723e01e8cc16ffd6f6518</guid>
+<pubDate>Sun, 18 Oct 2026 06:10:17 GMT</pubDate>
+<description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/d41586-026-02994-4</link>
+<guid>ef83f7311625acc81f33c05fcaa1e2fb82a99ba897a2d2b61ab883136eef1675</guid>
+<pubDate>Sun, 18 Oct 2026 06:10:20 GMT</pubDate>
+<description>A new tool is designed to help researchers interact with published papers. Plus, promising news for an RNA-based treatment for ALS and how psychoactive drugs might have shaped pre-Incan culture.</description>
 </item>
 
 </channel>
