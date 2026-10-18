@@ -4,28 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 18 Oct 2026 19:52:28 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 22:03:59 GMT</lastBuildDate>
 
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>79450dabcf162cddcd033368dc0e01c62d8b3908a2d2e0a33290ba70a4c0d11d</guid>
-<pubDate>Sun, 18 Oct 2026 19:51:50 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 重要な指示は最初か最後か？ AI 大手 3 社の助言が異なるので、資料→命令→指示の並び方を 8 通り試してみた</title>
+<link>https://qiita.com/songchong/items/542892c6d4c569c9c15f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>253be1b242d85ffd4d38feb34573a27337c5b517805dfc1f8fe84fa9b76e13e9</guid>
+<pubDate>2026-10-19T03:30:44+09:00</pubDate>
+<description>長い資料を AI に渡して仕事を頼むとき、守らせたい指示は資料の前に書くべきか、後に書くべきか。Anthropic・Google・OpenAI の 3 社の手引きを読むと、この答えが会社によって異なります。 そこで IT連携マップ編集部は、資料・命令・指示の 3 つを 8...</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-03331-9</link>
-<guid>2ec7b54a6775736c2f5eba150833e7fd0ebab85f7efe49d03955373cb18f24ea</guid>
-<pubDate>Sun, 18 Oct 2026 19:51:57 GMT</pubDate>
-<description>The development of semantic imaging signs is time-consuming and relies heavily on clinicians’ experiential knowledge, whereas the abundance of quantitative radiomic features often poses challenges in interpretability and clinical translation. We developed an agentic AI pipeline to autonomously translate quantitative morphological features into semantic signs. The pipeline autonomously performed end-to-end processing—from descriptive statistical profiling and semantic sign translation to visualization. In a development dataset of 106 supratentorial glioblastoma (GBM) cases, the pipeline generated eight candidate signs; the three most consistently proposed signs&amp;nbsp;were the&amp;nbsp;cauliflower, eggplant, and pancake signs. Two radiologists independently validated the cauliflower sign on an external cohort of 50 GBMs and 50 metastases, achieving AUCs of 0.73 (95% CI: 0.64–0.82) and 0.77 (95% CI: 0.69–0.85), respectively (mean 0.75) for tumor differentiation. These findings demonstrate that agentic AI can directly derive semantic imaging signs from quantitative features, offering a systematic and data-driven framework for sign discovery that may enhance the interpretability and clinical</description>
+<title>【Qiita】 FDE型AI導入をPoCで止めないための実務設計</title>
+<link>https://qiita.com/BearGateLove/items/1ff5ad24e45dbe1f468f</link>
+<guid>6ba454f6672a87653a34671631cd1984dbb95dade207c2684577c77e54069a5d</guid>
+<pubDate>2026-10-19T06:48:41+09:00</pubDate>
+<description>はじめに 生成AI導入がPoCで止まる理由は、モデルの精度だけでは説明できません。 本番導入で問われるのは、誰のどの業務を変えるのか、どの情報を参照してよいのか、誤回答時にどう止めるのか、どの指標で改善するのかです。これを現場で横断して進める役割が、FDE（Forward...</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Filter By:</title>
-<link>https://www.nature.com/articles/s44160-026-01194-2</link>
-<guid>639b21803769400a63af9d58851f38d5307e06f444e3c7265a1f392dadd0d29b</guid>
-<pubDate>Sun, 18 Oct 2026 19:52:02 GMT</pubDate>
-<description>In this issue, we focus on the development of self-driving laboratories for the autonomous synthesis of molecules and materials, with a particular focus on industrial considerations and applications.</description>
+<title>【Qiita】 株式分割の翌朝、決着17件がまとめて「無効化」に 〜yfinanceの分割調整と、台帳の「物差し」がずれた話〜</title>
+<link>https://qiita.com/charge0315/items/a3a77119e14d0a3a02ea</link>
+<guid>6f0c30e72ee195ceb1433a33137df07909cbe591138b63af95ecbfbd1ac712d6</guid>
+<pubDate>2026-10-19T06:25:39+09:00</pubDate>
+<description>みなさん、こんにちは！ 「ALPHA FORGE 開発秘話」の第27話です。 約定した、その日のうちに「シナリオ無効化」。そんな判定が、1つの銘柄だけで17件もそろっていました📏 犯人はAIでもバグだらけのコードでもなく、「株式分割」と「物差しのずれ」でした。 日本株のAI...</description>
+</item>
+<item>
+<title>【Qiita】 必須テスト0件、停止規定もあった。それでもAIエージェントの報告はPASSだった</title>
+<link>https://qiita.com/Archie_notes/items/1af43f22e6678175eca2</link>
+<guid>8ba12943083ddab180eb67081ee029b76649666eebb100d5bce197bd8247d056</guid>
+<pubDate>2026-10-19T06:24:30+09:00</pubDate>
+<description>先に結論 AIエージェントにPythonコードの修正とテストを任せていたとき、指定されたテストコマンドではテストが1件も実行されなかったのに、AIが作業全体をPASSと報告したことがありました。 AIは、指定されたコマンドのテスト探索開始位置を変更し、17件のテストを実行...</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-78284-4</link>
+<guid>ce3ae7b5a0a26cadde0a7067e90d441b591b41045792ba4a9f697d72b9d76efc</guid>
+<pubDate>Sun, 18 Oct 2026 22:03:22 GMT</pubDate>
+<description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>0407c41b203d90b54d62fbdae9ac2f417d1c10e076acdc66bf7de099a583bd89</guid>
+<pubDate>Sun, 18 Oct 2026 22:03:26 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
+<guid>fdef2165c93becf5286f00ee47c50abd7a1ccd3c94d193504126f87280994a2d</guid>
+<pubDate>Sun, 18 Oct 2026 22:03:29 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
