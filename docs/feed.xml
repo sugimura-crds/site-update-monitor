@@ -4,56 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 18 Oct 2026 14:45:02 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 17:41:08 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 ハーネスを盛りすぎるとAIが迷うのはなぜか:削るのは指示、強制は残す</title>
-<link>https://qiita.com/y-hirakaw/items/77c83bdd74dab4245ab7</link>
-<guid>a11ada9e8de55c37a7cf69ca2902b9d3649cf6c17a43a22b3643ef81835e49c8</guid>
-<pubDate>2026-10-18T22:58:27+09:00</pubDate>
-<description>「ハーネスをやりすぎるとモデルが本来の力を出せなくなるので、ハーネスはやめた」という話を見かけて、少し不安になりました。自分もCLAUDE.mdやルールやスキルをかなり足してきたからです。 調べてみると、盛りすぎると逆効果だという報告はいくつもありました。ただ、ハーネスを全...</description>
+<title>【Qiita】 AIエージェントの「権限」と「封じ込め」を考える：2026年秋に読んでおきたい8本</title>
+<link>https://qiita.com/redreamality/items/c95b28474b2c594caebc</link>
+<guid>a7fda6acc9e1ab002ff6a7f3467c3c1f86614bfd38daa04fcfabf268e4897bd7</guid>
+<pubDate>2026-10-19T01:45:19+09:00</pubDate>
+<description>コーディングエージェントや常駐型のパーソナルエージェントが日常の道具になるにつれ、「どこまで任せていいのか」という問いが急に現実味を帯びてきました。サンドボックスを用意した、許可ダイアログも出した、プロンプトに禁止事項も書いた――それでも事故は起きます。ここでは、個人ブログ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeの--output-format jsonで回答をJSON化する — READMEの1行を10分で受け取る</title>
-<link>https://qiita.com/akira_papa_AI/items/636dcfdc562bd29ddf75</link>
-<guid>d90f4eb66f2458f262585158557d8b4332a02f57b58d3e82e986ee9e0cf3a670</guid>
-<pubDate>2026-10-18T22:23:49+09:00</pubDate>
-<description>Claude Codeの--output-format jsonで回答をJSON化する — READMEの1行を10分で受け取る Claude Codeをこれから動かす人が、練習用READMEのStatusを読み、その答えをJSONのresult欄で受け取るための手順です...</description>
+<title>【Qiita】 【2026年版】今日から使える AI との会話術 — Claude・Gemini・Codex に指示を守らせる 6 つの原則</title>
+<link>https://qiita.com/songchong/items/351a939e2e1b673c2929</link>
+<guid>91330fe38d268c18e115f1c439b6e96757e917d4371d78d2a606b703210208e8</guid>
+<pubDate>2026-10-19T00:40:28+09:00</pubDate>
+<description>はじめに：AI が指示を守らないのは、なぜか 「指示したはずのルールを、AI が途中で守らなくなる」 「細かい条件をたくさん渡したのに、半分も守ってくれない」 「会話を続けていたら、トークンが急に増えて、使用量制限に達してしまった」 Claude Code・Code...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeの.envを読ませない設定がどこまで効くのか試してみた</title>
-<link>https://qiita.com/yakumo_09/items/5a86ca330b449db0e6bc</link>
-<guid>0f33de54c372409793d278738f003bccfd6d71e5cc2f53b3200f82dfe09dc042</guid>
-<pubDate>2026-10-18T21:49:25+09:00</pubDate>
-<description>はじめに Claude Codeには、permissions.deny で .env を読ませない設定があります。ただ、公式ドキュメントを読むと「止まらないケースもある」と書いてあるんですよね。 じゃあ実際どこまで止まるのか、偽物のキーを置いて48回試してみました。 手...</description>
+<title>【Qiita】 Python で AI エージェントの履歴削減による情報欠落を検証する</title>
+<link>https://qiita.com/ynakayama/items/77aef8a8e4d78561f832</link>
+<guid>e8ae72967e89aab7f0e960aa358d1e747bfddf88b6a949a8bd3327b392eae77d</guid>
+<pubDate>2026-10-19T00:00:35+09:00</pubDate>
+<description>AI エージェントの実行履歴には、ユーザーの制約、変更対象、エラーの原因、テスト結果などが蓄積します。コンテキストの容量を制限するとき、古い履歴から削除する方法では、直近の操作記録を残しながら、作業を拘束する指示を失う場合があります。 この記事では、架空の実行履歴 12 件...</description>
 </item>
 <item>
-<title>【Qiita】 One 👀 starts a security investigation: automating incident response for Sysdig Secure real-time threat detection with Factory Droid, tested in a home lab</title>
-<link>https://qiita.com/takao-shimizu/items/333c1b37ea3319d90113</link>
-<guid>257b772780c5023626ac62bea1367ae03be15d436de5fb1b0c804369910c35eb</guid>
-<pubDate>2026-10-18T20:50:07+09:00</pubDate>
-<description>When Sysdig, a security monitoring service, detects a threat and alerts Slack, adding a single 👀 to that alert makes Factory&#x27;s AI agent &quot;...</description>
+<title>【Qiita】 AIエージェントは忙しそうに見えるが、本当に成果を出しているのか？ — 5次元スコアカードで測る実践的評価指標</title>
+<link>https://qiita.com/ariefwara/items/0531efb65feb037e41ef</link>
+<guid>b1e5240fa0aa9c1b234bd4d61a91bb6d4914b7951c9b6951499b800320c7b470</guid>
+<pubDate>2026-10-19T02:16:01+09:00</pubDate>
+<description>この記事で扱うこと AIエージェント（LLMベースの自律エージェント）を本番運用している組織でよく起こる問題——「エージェントは忙しそうに動いているが、本当にビジネス価値を生んでいるのか？」——に対して、従来のKPI（工数削減、スループット、SLA達成率）がなぜ誤解を生む...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>1054f4d81d637fbd774a8cc38a34b16fd8ce72519065fb430f43c81edbcc4f57</guid>
-<pubDate>Sun, 18 Oct 2026 14:43:57 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>6aefa30327de3904f55f0e2c3212d9f01267eb960d104f969c98b3df1e71e782</guid>
+<pubDate>Sun, 18 Oct 2026 17:40:18 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>0cccfcfd5a349b2c8de00a1b1cb3a481188f14bebfece1b695e96ae12c198ff2</guid>
-<pubDate>Sun, 18 Oct 2026 14:44:00 GMT</pubDate>
-<description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>2bd2a32c57f32339eeb3c976a94dccb11e7d181a481d9010cca0254085fefaa9</guid>
-<pubDate>Sun, 18 Oct 2026 14:44:54 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>246a883ea7294434b3488eab173700d94e9e0c316f59f66d634428aaf7178586</guid>
+<pubDate>Sun, 18 Oct 2026 17:40:52 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
