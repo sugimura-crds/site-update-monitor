@@ -4,56 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 18 Oct 2026 22:03:59 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 00:19:13 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 重要な指示は最初か最後か？ AI 大手 3 社の助言が異なるので、資料→命令→指示の並び方を 8 通り試してみた</title>
-<link>https://qiita.com/songchong/items/542892c6d4c569c9c15f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>253be1b242d85ffd4d38feb34573a27337c5b517805dfc1f8fe84fa9b76e13e9</guid>
-<pubDate>2026-10-19T03:30:44+09:00</pubDate>
-<description>長い資料を AI に渡して仕事を頼むとき、守らせたい指示は資料の前に書くべきか、後に書くべきか。Anthropic・Google・OpenAI の 3 社の手引きを読むと、この答えが会社によって異なります。 そこで IT連携マップ編集部は、資料・命令・指示の 3 つを 8...</description>
+<title>【Qiita】 Irodori-TTS を Cloud Run の L4 GPU で動かす ― 使うときだけ起動する自分専用の日本語 TTS API</title>
+<link>https://qiita.com/c_u/items/af76445d177515ed7903</link>
+<guid>ef08026d94e8ece37c29afee0f8bd690ff3952d86f4d272e8d9d864f40b82a8c</guid>
+<pubDate>2026-10-19T07:26:39+09:00</pubDate>
+<description>はじめに 日本語に特化したオープンな音声合成モデル Irodori-TTS を、Google Cloud の Cloud Run（NVIDIA L4 GPU） に載せて、自分のアカウントからだけ呼べる音声合成 API にしました。 無料の Google Colab や L...</description>
 </item>
 <item>
-<title>【Qiita】 FDE型AI導入をPoCで止めないための実務設計</title>
-<link>https://qiita.com/BearGateLove/items/1ff5ad24e45dbe1f468f</link>
-<guid>6ba454f6672a87653a34671631cd1984dbb95dade207c2684577c77e54069a5d</guid>
-<pubDate>2026-10-19T06:48:41+09:00</pubDate>
-<description>はじめに 生成AI導入がPoCで止まる理由は、モデルの精度だけでは説明できません。 本番導入で問われるのは、誰のどの業務を変えるのか、どの情報を参照してよいのか、誤回答時にどう止めるのか、どの指標で改善するのかです。これを現場で横断して進める役割が、FDE（Forward...</description>
+<title>【Qiita】 AIX のファイルセット更新：Apply・Commit・Reject の違いを整理する</title>
+<link>https://qiita.com/c_u/items/53b0e5cdfc006883b249</link>
+<guid>322113dfb8e1604c1fc00b725cfe18c8d2b6d506d20f2f2d8e9e05eded5d0143</guid>
+<pubDate>2026-10-19T07:26:23+09:00</pubDate>
+<description>はじめに AIX のファイルセット更新における Apply、Commit、Reject の違いを簡単に整理しました。 この記事では、以下の内容を扱います。 Apply・Commit・Reject の違いと、SP 更新の基本的な流れ smitty update_all ...</description>
 </item>
 <item>
-<title>【Qiita】 株式分割の翌朝、決着17件がまとめて「無効化」に 〜yfinanceの分割調整と、台帳の「物差し」がずれた話〜</title>
-<link>https://qiita.com/charge0315/items/a3a77119e14d0a3a02ea</link>
-<guid>6f0c30e72ee195ceb1433a33137df07909cbe591138b63af95ecbfbd1ac712d6</guid>
-<pubDate>2026-10-19T06:25:39+09:00</pubDate>
-<description>みなさん、こんにちは！ 「ALPHA FORGE 開発秘話」の第27話です。 約定した、その日のうちに「シナリオ無効化」。そんな判定が、1つの銘柄だけで17件もそろっていました📏 犯人はAIでもバグだらけのコードでもなく、「株式分割」と「物差しのずれ」でした。 日本株のAI...</description>
+<title>【Qiita】 Claude Code が上位モデルの週間枠を使い切って作業の途中で止まった。本体は Opus に固定し、上位モデルは副エージェントで使う形に変えた記録</title>
+<link>https://qiita.com/kaiyaku_iyada/items/d0015397f0ccd24f0f3e</link>
+<guid>a396046eb87facf03b95dfd03da14475c37f04d4c57095dfac19e0275db463a7</guid>
+<pubDate>2026-10-19T09:09:06+09:00</pubDate>
+<description>この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。Anthropic社とは無関係の個人の実験で、同社の公認や提携ではありません。書いてあるのは、2026年10月18日に私の環境で見えた挙動だけです。...</description>
 </item>
 <item>
-<title>【Qiita】 必須テスト0件、停止規定もあった。それでもAIエージェントの報告はPASSだった</title>
-<link>https://qiita.com/Archie_notes/items/1af43f22e6678175eca2</link>
-<guid>8ba12943083ddab180eb67081ee029b76649666eebb100d5bce197bd8247d056</guid>
-<pubDate>2026-10-19T06:24:30+09:00</pubDate>
-<description>先に結論 AIエージェントにPythonコードの修正とテストを任せていたとき、指定されたテストコマンドではテストが1件も実行されなかったのに、AIが作業全体をPASSと報告したことがありました。 AIは、指定されたコマンドのテスト探索開始位置を変更し、17件のテストを実行...</description>
+<title>【Qiita】 プライベートで雇った AI 秘書を、2 週間育ててみた</title>
+<link>https://qiita.com/araom/items/f59a75e188824dfdd16c</link>
+<guid>dc57925a969acef04db2b8f4a44478d9441471b7512eb6e2eab08ca69b7236a4</guid>
+<pubDate>2026-10-19T08:30:40+09:00</pubDate>
+<description>はじめに 本記事は、プライベートで雇った AI 秘書（Claude Code）を、前回の記事から 2 週間（2026-10-04〜10-17）かけて育てた記録です。 前回の記事「仕事が忙しいので、プライベートに AI 秘書を雇ってみた」の続編です。 前回は、エージェントに...</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>ce3ae7b5a0a26cadde0a7067e90d441b591b41045792ba4a9f697d72b9d76efc</guid>
-<pubDate>Sun, 18 Oct 2026 22:03:22 GMT</pubDate>
-<description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
+<title>【Qiita】 月商250万の3人会社がAI経営OSを作った話 CFOもCOOもAIエージェント</title>
+<link>https://qiita.com/sescore/items/a1b034368f5bf5fe2247</link>
+<guid>8351e7651881aa5b7df88f9e116d7026c21a8a295a442968c5393d0015639a9a</guid>
+<pubDate>2026-10-19T08:04:57+09:00</pubDate>
+<description>月商250万、社員3人。それでも「経営OS」を作った 2026年10月時点、うちの会社は社員3人、月商およそ250万円の小さなSES/受託の会社です。それでも今年、CFO・COO・CMO・CEOという名前をつけたAIエージェント群を社内に構築しました。 「3人しかいないの...</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>0407c41b203d90b54d62fbdae9ac2f417d1c10e076acdc66bf7de099a583bd89</guid>
-<pubDate>Sun, 18 Oct 2026 22:03:26 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【Qiita】 GitHub Copilot cloud agentはPRを自分で承認できない設計になっている</title>
+<link>https://qiita.com/caymezon/items/217f3e2d6cc4a199ee4c</link>
+<guid>59cea349ff14b719b05de25fd6b23789e29fb469801aae133064e797c08a4cac</guid>
+<pubDate>2026-10-19T07:51:35+09:00</pubDate>
+<description>背景 Issueを割り当てるだけでPull Requestまで自律的に作成するGitHub Copilot Coding Agent（現在の正式名称：cloud agent）を調べたところ、エージェントモードとは実行場所も動き方も全く別物であり、暴走を防ぐための技術的な制...</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>fdef2165c93becf5286f00ee47c50abd7a1ccd3c94d193504126f87280994a2d</guid>
-<pubDate>Sun, 18 Oct 2026 22:03:29 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>8f20b06ced883f5da54e3974417dc3be0ff48e9433c678b0fdc435e3e8b77ddb</guid>
+<pubDate>Mon, 19 Oct 2026 00:18:34 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
