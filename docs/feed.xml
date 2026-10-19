@@ -4,106 +4,84 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 19 Oct 2026 10:34:14 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 17:16:13 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Code × Figma MCP で作ったデザインを別のAIに検査させる — デザインのグラフエンジニアリング</title>
-<link>https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>260aaa00757c27043a49faaed2ad0912ab20c31c47e2f1eb1df545bae028ccfd</guid>
-<pubDate>2026-10-19T10:33:33+09:00</pubDate>
-<description>Claude Codeで完璧なFigmaを出力させたい Claude Codeに「この画面、Figmaに起こして」と頼むと、Figma上に数分でフレームが出てきます。 ただ、一見して完成品でもデザイナー的には未完成です。 配置や既存画面の情報設計を無視していることも多く、...</description>
+<title>【Qiita】 dev-orchestra のプリセット quality / standard / fast を比べてみた</title>
+<link>https://qiita.com/istb16/items/05c4037763cedb0d3c18</link>
+<guid>e79d713048d2c77179d667ac81d14fdfe9cd085c1c6f4f76cda9cd8a2e0a3841</guid>
+<pubDate>2026-10-20T01:34:52+09:00</pubDate>
+<description>この記事は tk3.biz のブログ からの転載です。 はじめに dev-orchestra を初めて使うと、プリセットを聞かれます。これまでの回（Claude Code・Codex・Antigravity）では「迷ったら standard」で済ませてきましたが、今回...</description>
 </item>
 <item>
-<title>【Qiita】 AIコーディングのモデル比較は、同じPR課題の「差分と権限」まで揃えてから</title>
-<link>https://qiita.com/heftykoo/items/4e2c98f6e0224cfbe9d5</link>
-<guid>99c9dcace5df444996d2fff7bb05675a190c5b96eb4f6d49abfdc8a4592690dc</guid>
-<pubDate>2026-10-19T18:05:11+09:00</pubDate>
-<description>モデル比較表で候補を絞っても、「このフォームの修正を任せられるか」はまだ分からない。Reactのエラー表示を直すだけの仕事でも、あとから差分を説明できるかが気になります。同じモデルでも、使うエージェントと実行場所が違えば、触れるファイルやネットワーク、承認の流れが変わります...</description>
+<title>【Qiita】 【12.4万サーバーを解析】MCPツールの98.5%には代わりがある。同じツールでも並べ方だけで合格率が最大12ポイント違う。入れる前に確認すべき4項目と探し場所6選</title>
+<link>https://qiita.com/emi_ndk/items/db02330e688f71fe23f1</link>
+<guid>50fa57db21dba6acd4676efe02d0a73a18e25fd3027388202d85cfab61e1a2bd</guid>
+<pubDate>2026-10-20T01:34:16+09:00</pubDate>
+<description>MCPサーバーを5個以上つないでいるなら、今すぐ読んでほしい。 MCPサーバーを並べたマーケットは、世界にいくつあるか。William &amp; Maryの研究者らが10月4日にarXivへ投稿した論文「MCPacific」は、そのうち17か所の掲載を丸ごと集め、ソースコードまで...</description>
 </item>
 <item>
-<title>【Qiita】 Codexでゲームを作っていたら、小さなAI開発組織を回す実験になった</title>
-<link>https://qiita.com/Masato_Iwasaki/items/7e5241176f3eead2a2f5</link>
-<guid>96cae1a8fef92f17f30c7b2bcd66af07024de0ac153041d71afa31489b560e2b</guid>
-<pubDate>2026-10-19T17:33:01+09:00</pubDate>
-<description>ゲームを作ってみようとCodexを使い始めたら、気付けばAIに役割を付け、Sprintまで回していました。ゲーム作りの横で、AIの仕事の割り振りまで試し始めています。 1. 最初は、Codexにゲームを一本作ってもらった ゲーム開発の苦労を味わってみたい、というところから...</description>
+<title>【Qiita】 AIエージェントを育てる：商談準備資料を4つの観点で評価した</title>
+<link>https://qiita.com/masato_y/items/49c4ebbeaf486a1e3c4d</link>
+<guid>c4dc2eb168c46bb686c4db3efe5b28ff2621a6a9b0fcaf668e3c977d0d08ae42</guid>
+<pubDate>2026-10-20T01:33:10+09:00</pubDate>
+<description>AIエージェントを育てる：商談準備資料を4つの観点で評価した 今回やったこと 前回は、同じエージェントを使って、ミナトパーツ工業と北陸フーズテックの商談準備資料を作成しました。 今回は、作成済みの資料を次の4つの観点で比較・評価します。 第一候補を選んだ理由が、顧客資...</description>
 </item>
 <item>
-<title>【Qiita】 Agent Sandboxの概要</title>
-<link>https://qiita.com/yosshi_/items/ad85800d86d2bdc90dca</link>
-<guid>7f82ef07648baf45a1e09434e6f5189430293963d993cd7ecf965199031ebb66</guid>
-<pubDate>2026-10-19T15:59:09+09:00</pubDate>
-<description>はじめに LeaderWorkerSetと同じくSIG Appsが管理するKubernetesサブプロジェクトに、Agent Sandboxがあります。LWSが「leader + workerの群れ」を扱うのに対し、Agent Sandboxは「安定したIDを持つ、長時間...</description>
+<title>【Qiita】 Claude Code × 自動実行ループ | 予算上限・Kill-Switch・サーキットブレーカーで暴走を止めるまで</title>
+<link>https://qiita.com/GYact/items/42ea4552795f58704377</link>
+<guid>3edbeed6ae34e0b572b384f8fe79e1972d1b7e95a08dd7d35a5ad096d01bccc5</guid>
+<pubDate>2026-10-20T00:23:51+09:00</pubDate>
+<description>「cron で claude -p を回しているけれど、失敗してリトライが重なって朝に請求を見るのが怖い」 ——この感覚は正しいです。 対話で使っている間は、人間が止められます。ところが claude -p をスケジューラから呼び始めると、止める人がいなくなります。失敗を検...</description>
 </item>
 <item>
-<title>【Qiita】 モデルを変えずに、AIエージェントが「仕事の仕組み」を育てる──Google ResearchのHarness²</title>
-<link>https://qiita.com/sin-aiagent/items/54ee8f8d95009f9cbb03</link>
-<guid>1c6f1f06497a647ac81fabecd82bab1889c74768bf57aaee567d29f9f45926fe</guid>
-<pubDate>2026-10-19T15:15:43+09:00</pubDate>
-<description>AIエージェントの性能は、モデルの賢さだけで決まりません。どんな指示を読み、どの道具を使い、何を覚え、どの役割へ委任するか。モデルの周囲にある「仕事の仕組み」でも大きく変わります。 Google Cloud AI Researchなどの研究者は2026年10月9日、モデル...</description>
-</item>
-<item>
-<title>【環境】 Rare diseases are an overlooked dimension in climate–health adaptation</title>
-<link>https://www.nature.com/articles/s41558-026-02770-2</link>
-<guid>3302829150a84bb39cdb67964481db038659df76f7178dcc8b385e16fd8d790d</guid>
-<pubDate>2026-10-19</pubDate>
-<description>A resilient society must prepare not only for common harms but also for uncommon vulnerabilities, such as rare disease where the consequences leave no room for failure. Ensuring that people with rare diseases have reliable access to essential care is crucial for fairness and safety in a changing climate.</description>
-</item>
-<item>
-<title>【自動自律実験】 Three reasons why AI is not conscious and perhaps never will be</title>
-<link>https://www.nature.com/articles/d41586-026-03313-7</link>
-<guid>bc7a2b3fb6a1b2ae5dbeaa7a31ad9f5e01078eff20bf8c61e92345852d1771cc</guid>
-<pubDate>2026-10-19</pubDate>
-<description>Large language models can mimic thought and feeling with uncanny skill. But evidence from neuroscience suggests that intelligence alone is not enough for subjective experience.</description>
-</item>
-<item>
-<title>【自動自律実験】 How to compare and strengthen research systems</title>
-<link>https://www.nature.com/articles/d41586-026-03309-3</link>
-<guid>574aa0410a0b587746497765e3bc1c9c0e12fd8f0e7936ea947de369161e3e33</guid>
-<pubDate>2026-10-19</pubDate>
-<description>Analysing national research systems by using open-access data and new methods can help countries to learn from each other.</description>
-</item>
-<item>
-<title>【自動自律実験】 Daily briefing: We’re close to reaching a 30% land-conservation target</title>
-<link>https://www.nature.com/articles/d41586-026-03348-w</link>
-<guid>4adcc98db37b53296a0ce4dc5f26cf406a551d78a18e160e6a36e446d04f9306</guid>
-<pubDate>2026-10-16</pubDate>
-<description>More land for conservation is positive, but doesn’t necessarily protect biodiversity, say researchers. Plus, say goodbye to the leap second and how the Inca empire lasted longer than we thought.</description>
+<title>【Qiita】 Private Agent Factoryで作るかんたんな業務エージェント</title>
+<link>https://qiita.com/k_kane/items/a2428f62732632a40b9e</link>
+<guid>0daafd04aff8c1bd7765ff3c4e96cde7d0e46f50c52c81c67b3565d018a070a1</guid>
+<pubDate>2026-10-19T23:25:13+09:00</pubDate>
+<description>はじめに Oracle AI Database Private Agent Factory (PAF) はOracle AI Databaseに付属のエージェント作成プラットフォームです。 Private Agent Factoryのご紹介: Oracle AI Data...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>3dc3f6898f286a2efa35cd1fa482cc1e1954e6fa57b5485386572deb1be7715e</guid>
-<pubDate>Mon, 19 Oct 2026 10:32:59 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>5db9d32802b9ebf2d6a00ca324593947d3d9af42fe1c975a8a1aeb78a6f1cc77</guid>
+<pubDate>Mon, 19 Oct 2026 17:15:18 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>a4830b11a6984a236f40df68c9a9970bbadd228b0ac9b90409acd42189a375bb</guid>
-<pubDate>Mon, 19 Oct 2026 10:33:10 GMT</pubDate>
+<guid>e2b71c1a7ad796590e34a32f7fb1205778a45b9aab46785d8db080dc0b794eb8</guid>
+<pubDate>Mon, 19 Oct 2026 17:15:20 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
-<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
-<link>https://www.eurohpc-ju.europa.eu/index_en</link>
-<guid>e8f57c4ae0becca2c2c35b7cee5d6e9155a30e336c8be7b7fb05fd2e0c9c6f5c</guid>
-<pubDate>Mon, 19 Oct 2026 10:33:28 GMT</pubDate>
-<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43856-026-01961-4</link>
+<guid>5b93855b76c525eadff17d25ede774fb392f680d240422e5dceb15a56da2893f</guid>
+<pubDate>Mon, 19 Oct 2026 17:15:24 GMT</pubDate>
+<description>While clinical guidelines remain essential for standardizing medical care, their utility decays as manual updating fails to keep pace with the exponential growth in medical evidence. To address this challenge, we developed a Multi-Agent Retrieval-Augmented Generation (MARG) system dedicated to clinical guideline development and maintenance. We employed a multi-phase evaluation framework to assess MARG’s performance across agent-agent interaction and human-AI collaboration tasks. The system was evaluated against seven 2025 liver disease guidelines, encompassing 137 clinical scenarios. Here we show MARG achieve 77.4% overall concordance with the guidelines, with consistency rates rising from 45.8% under weak consensus to 87.8% at full consensus. Domain-specific performance is 65.5% for diagnosis, 75.0% for prevention, and 81.0% for treatment. MARG also assists in evidence integration, outperforming manual review in recency (6.3% vs. 0.9%), reproducibility (25.5% vs. 7.5%), and quality (24.2% vs. 8.0% Level I evidence). Through four rounds of structured debate, the system resolves 95.8% of recommendation conflicts and achieves strong consensus (&amp;gt;85%) in 74.5% of final outputs. In a</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>81e2941c968f7c87a206b34360cfaf09b73f5e5bc29af2b370d5cdc4d1e57f57</guid>
-<pubDate>Mon, 19 Oct 2026 10:33:39 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41746-026-03331-9</link>
+<guid>7a255d9bd48ab14f518683d4ba65d8145dc2f28ae3d70e0aa48c5f7db2619666</guid>
+<pubDate>Mon, 19 Oct 2026 17:15:26 GMT</pubDate>
+<description>The development of semantic imaging signs is time-consuming and relies heavily on clinicians’ experiential knowledge, whereas the abundance of quantitative radiomic features often poses challenges in interpretability and clinical translation. We developed an agentic AI pipeline to autonomously translate quantitative morphological features into semantic signs. The pipeline autonomously performed end-to-end processing—from descriptive statistical profiling and semantic sign translation to visualization. In a development dataset of 106 supratentorial glioblastoma (GBM) cases, the pipeline generated eight candidate signs; the three most consistently proposed signs&amp;nbsp;were the&amp;nbsp;cauliflower, eggplant, and pancake signs. Two radiologists independently validated the cauliflower sign on an external cohort of 50 GBMs and 50 metastases, achieving AUCs of 0.73 (95% CI: 0.64–0.82) and 0.77 (95% CI: 0.69–0.85), respectively (mean 0.75) for tumor differentiation. These findings demonstrate that agentic AI can directly derive semantic imaging signs from quantitative features, offering a systematic and data-driven framework for sign discovery that may enhance the interpretability and clinical</description>
 </item>
 <item>
-<title>【環境】 244 Results</title>
-<link>https://www.canarymedia.com/search?q=artificial+intelligence</link>
-<guid>e034ac11e1c1fcacab160d5d012dedb3f5f962743bbfc5956b2bfc0bf600a433</guid>
-<pubDate>Mon, 19 Oct 2026 10:34:14 GMT</pubDate>
-<description>The leading newsroom covering the transition to clean energy, electrification and climate solutions. We report on how the world is decarbonizing with a…</description>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>2a34973187072a39e2c15c28e07bc76fd717c30351e81d32d98f79c414fcaa69</guid>
+<pubDate>Mon, 19 Oct 2026 17:15:32 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>73e2f534e9b521c01070f5dcc075422485671ced077e43380ae40bcb88e2d0dc</guid>
+<pubDate>Mon, 19 Oct 2026 17:15:54 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
