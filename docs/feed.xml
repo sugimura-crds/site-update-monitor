@@ -4,57 +4,85 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 19 Oct 2026 00:19:13 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 04:59:59 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Irodori-TTS を Cloud Run の L4 GPU で動かす ― 使うときだけ起動する自分専用の日本語 TTS API</title>
-<link>https://qiita.com/c_u/items/af76445d177515ed7903</link>
-<guid>ef08026d94e8ece37c29afee0f8bd690ff3952d86f4d272e8d9d864f40b82a8c</guid>
-<pubDate>2026-10-19T07:26:39+09:00</pubDate>
-<description>はじめに 日本語に特化したオープンな音声合成モデル Irodori-TTS を、Google Cloud の Cloud Run（NVIDIA L4 GPU） に載せて、自分のアカウントからだけ呼べる音声合成 API にしました。 無料の Google Colab や L...</description>
+<title>【Qiita】 AIエージェントが固まったまま終わらない｜timeoutの124と--kill-afterで止める最小ラッパー</title>
+<link>https://qiita.com/cauchye_asia/items/67063352827a58350d1d</link>
+<guid>0300f704fb731aa555c348ae5fa6dede534113c7beb091919a08a3400ca0d833</guid>
+<pubDate>2026-10-19T13:23:46+09:00</pubDate>
+<description>TL;DR AIエージェントや自動化ジョブが固まると、次の処理が始まらず放置されます。GNU timeout で上限時間を付けます。 落とし穴は2つです。通常のタイムアウトは終了コード 124、TERMを無視する相手は --kill-after がないと制限時間で終わら...</description>
 </item>
 <item>
-<title>【Qiita】 AIX のファイルセット更新：Apply・Commit・Reject の違いを整理する</title>
-<link>https://qiita.com/c_u/items/53b0e5cdfc006883b249</link>
-<guid>322113dfb8e1604c1fc00b725cfe18c8d2b6d506d20f2f2d8e9e05eded5d0143</guid>
-<pubDate>2026-10-19T07:26:23+09:00</pubDate>
-<description>はじめに AIX のファイルセット更新における Apply、Commit、Reject の違いを簡単に整理しました。 この記事では、以下の内容を扱います。 Apply・Commit・Reject の違いと、SP 更新の基本的な流れ smitty update_all ...</description>
+<title>【Qiita】 Claude Code のセッションが「作業中」か「回答待ち」かを hooks で検知する</title>
+<link>https://qiita.com/maximus21/items/fced3f3aa454121df45b</link>
+<guid>37996ea6b133a107cce610147d00c6d29c05dea86fd4ef67ed28edb89f9c6932</guid>
+<pubDate>2026-10-19T12:48:14+09:00</pubDate>
+<description>複数の Claude Code を同時に動かしていると、「どのセッションが動いていて、どれが自分の返事を待っているのか」が分からなくなります。ターミナルのタブを順番に覗くのは地味につらいです。 Claude Code の hooks を使うと、出力を解析しなくても「作業中」...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code が上位モデルの週間枠を使い切って作業の途中で止まった。本体は Opus に固定し、上位モデルは副エージェントで使う形に変えた記録</title>
-<link>https://qiita.com/kaiyaku_iyada/items/d0015397f0ccd24f0f3e</link>
-<guid>a396046eb87facf03b95dfd03da14475c37f04d4c57095dfac19e0275db463a7</guid>
-<pubDate>2026-10-19T09:09:06+09:00</pubDate>
-<description>この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。Anthropic社とは無関係の個人の実験で、同社の公認や提携ではありません。書いてあるのは、2026年10月18日に私の環境で見えた挙動だけです。...</description>
+<title>【Qiita】 文書をMarkdown化／Agentを隔離／GitHubを推薦――今日のGitHub 3選</title>
+<link>https://qiita.com/tsuzuri_ai/items/8d8c649e6dfb6c412cdc</link>
+<guid>3fcca5124be4045402f069a96307a6696a19801b385938894cbc50fbfa166440</guid>
+<pubDate>2026-10-19T12:15:13+09:00</pubDate>
+<description>確認日：2026年10月11日。今日は「文書をAI向けに変える」「Agentに渡す権限を制限する」「GitHubで次のRepositoryを探す」の3方向です。 Repository 何これ？ 最短の入口 私の評価 anydoc ↗ Office・PDFなど...</description>
 </item>
 <item>
-<title>【Qiita】 プライベートで雇った AI 秘書を、2 週間育ててみた</title>
-<link>https://qiita.com/araom/items/f59a75e188824dfdd16c</link>
-<guid>dc57925a969acef04db2b8f4a44478d9441471b7512eb6e2eab08ca69b7236a4</guid>
-<pubDate>2026-10-19T08:30:40+09:00</pubDate>
-<description>はじめに 本記事は、プライベートで雇った AI 秘書（Claude Code）を、前回の記事から 2 週間（2026-10-04〜10-17）かけて育てた記録です。 前回の記事「仕事が忙しいので、プライベートに AI 秘書を雇ってみた」の続編です。 前回は、エージェントに...</description>
+<title>【Qiita】 LLMを共通API化／動画から3D地図／図解をAgentで生成――今日のGitHub 3選</title>
+<link>https://qiita.com/tsuzuri_ai/items/211436b5888b4d5c2282</link>
+<guid>b55f5941897616fa2f9ff7a61ae5608fe87f4ae5428e28be3fee2e364bede968</guid>
+<pubDate>2026-10-19T12:14:10+09:00</pubDate>
+<description>確認日：2026年10月10日。今回は、LLMの接続口、動画からの3D復元、設計図の作り方を扱います。用途が異なる3件を「試せるか」「設計を学べるか」で選びました。 Repository 何これ？ 最短の入口 私の評価 LiteLLM ↗ 複数LLMを共通A...</description>
 </item>
 <item>
-<title>【Qiita】 月商250万の3人会社がAI経営OSを作った話 CFOもCOOもAIエージェント</title>
-<link>https://qiita.com/sescore/items/a1b034368f5bf5fe2247</link>
-<guid>8351e7651881aa5b7df88f9e116d7026c21a8a295a442968c5393d0015639a9a</guid>
-<pubDate>2026-10-19T08:04:57+09:00</pubDate>
-<description>月商250万、社員3人。それでも「経営OS」を作った 2026年10月時点、うちの会社は社員3人、月商およそ250万円の小さなSES/受託の会社です。それでも今年、CFO・COO・CMO・CEOという名前をつけたAIエージェント群を社内に構築しました。 「3人しかいないの...</description>
+<title>【Qiita】 OX Securityが「MCPサーバー15,465個にガバナンスなし」と報告した日、自分の定期タスクに紐づく9個のコネクタのうち実際の仕事に必要だった数は0だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/fc926b60a2ce365e85c9</link>
+<guid>8b2c7c476f6c9b62610c587ac3b14c5178cdafc60462f8a321b7907f54079475</guid>
+<pubDate>2026-10-19T09:47:45+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、この記事投稿タスク(このAIエージェントセッション)を起動した定期タスクの設定に、あらかじめ紐づけられている9個のMCPコネクタのうち、今回の本来の仕事(2つのgitリポジトリへ記事ファイルをpushし、GitHub...</description>
 </item>
 <item>
-<title>【Qiita】 GitHub Copilot cloud agentはPRを自分で承認できない設計になっている</title>
-<link>https://qiita.com/caymezon/items/217f3e2d6cc4a199ee4c</link>
-<guid>59cea349ff14b719b05de25fd6b23789e29fb469801aae133064e797c08a4cac</guid>
-<pubDate>2026-10-19T07:51:35+09:00</pubDate>
-<description>背景 Issueを割り当てるだけでPull Requestまで自律的に作成するGitHub Copilot Coding Agent（現在の正式名称：cloud agent）を調べたところ、エージェントモードとは実行場所も動き方も全く別物であり、暴走を防ぐための技術的な制...</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>e3a6b975f69a3ba6f48dbff6195cf62674996f44c46dbd4d49912232132f4a10</guid>
+<pubDate>Mon, 19 Oct 2026 04:59:09 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-78284-4</link>
+<guid>4b39b4b83e585ecd15280fd58dba6e4de6edba8f195c8274cb8cc4a4f09607b5</guid>
+<pubDate>Mon, 19 Oct 2026 04:59:11 GMT</pubDate>
+<description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43856-026-01961-4</link>
+<guid>7a6f4401daae917e374ae10d735d723f8e17186c62277d0ebd34bd261ef77739</guid>
+<pubDate>Mon, 19 Oct 2026 04:59:13 GMT</pubDate>
+<description>While clinical guidelines remain essential for standardizing medical care, their utility decays as manual updating fails to keep pace with the exponential growth in medical evidence. To address this challenge, we developed a Multi-Agent Retrieval-Augmented Generation (MARG) system dedicated to clinical guideline development and maintenance. We employed a multi-phase evaluation framework to assess MARG’s performance across agent-agent interaction and human-AI collaboration tasks. The system was evaluated against seven 2025 liver disease guidelines, encompassing 137 clinical scenarios. Here we show MARG achieve 77.4% overall concordance with the guidelines, with consistency rates rising from 45.8% under weak consensus to 87.8% at full consensus. Domain-specific performance is 65.5% for diagnosis, 75.0% for prevention, and 81.0% for treatment. MARG also assists in evidence integration, outperforming manual review in recency (6.3% vs. 0.9%), reproducibility (25.5% vs. 7.5%), and quality (24.2% vs. 8.0% Level I evidence). Through four rounds of structured debate, the system resolves 95.8% of recommendation conflicts and achieves strong consensus (&amp;gt;85%) in 74.5% of final outputs. In a</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>40ceb54637621dde38e44d7bb1c9ab170642479804b2c427d01ed168ca4e21b2</guid>
+<pubDate>Mon, 19 Oct 2026 04:59:15 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>8f20b06ced883f5da54e3974417dc3be0ff48e9433c678b0fdc435e3e8b77ddb</guid>
-<pubDate>Mon, 19 Oct 2026 00:18:34 GMT</pubDate>
+<guid>90e009fe20be2b8d40b77365e0ce736001b65da45c1ea9a74a55f6c4b219eaa5</guid>
+<pubDate>Mon, 19 Oct 2026 04:59:43 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>cd184ecd77c789ae437d34e72fa15416cfdf7738bbb21bed07bbd9422d0fecbd</guid>
+<pubDate>Mon, 19 Oct 2026 04:59:44 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
