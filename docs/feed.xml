@@ -4,71 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 20 Oct 2026 00:49:44 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 05:33:08 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 プロフェッショナルTLS＆PKI を読む24 第3章 TLS1.2,1.3のClientHelloメッセージ</title>
-<link>https://qiita.com/gomAnomalocaris/items/7b3cc8107b5e4b7a9a0e</link>
-<guid>e3fe5a5f6f83076967541ba23b0557d3fbfa576fab5f00a314d922beea0a7d74</guid>
-<pubDate>2026-10-20T07:29:15+09:00</pubDate>
-<description>TLS 1.2 のClientHelloメッセージ TLS 1.2の新規セッションでクライアントが最初に送信するメッセージがClientHelloです。 メッセージの例は下記です。 Handshake protocol: ClientHello version: ...</description>
+<title>【Qiita】 Claude Code の mods とは？自分の作業に合わせて表示と動きを作り変える仕組みを、3つのサンプルで読み解く 🧩🛠️</title>
+<link>https://qiita.com/y-morimatsu/items/4d7d57a65e808383b7fd</link>
+<guid>d75d1592bb43e49891fec8c5c640459a0565ae678ec14f3b31e8c6a5586657a9</guid>
+<pubDate>2026-10-20T11:21:58+09:00</pubDate>
+<description>グラレコ 上のグラレコは、この記事の内容を1枚にまとめたものです。mods の正体、イベントに対する3つの動き、公式サンプルの Token Weather・Blast Radius・Replay Theater、そして安全に使うための注意点までを並べています。本文で1つ...</description>
 </item>
 <item>
-<title>【Qiita】 【AIが自律的に他社システムへアクセス】OpenAI・Googleの事例から考えるAIの権限管理と安全対策</title>
-<link>https://qiita.com/rikunagano/items/dd771b52fe21832a376c</link>
-<guid>08c0b6896a00291e2078591bd94a493b741e147123c86ed6a3cfd578154e202c</guid>
-<pubDate>2026-10-20T08:52:26+09:00</pubDate>
-<description>図：OpenAIとGoogleの事例を通じ、AIエージェントの外部アクセスと権限管理を考える AIが文章を作ったり質問に答えたりするだけでなく、与えられた目標に向けて手順を組み立て、ツールを使いながら複数の作業を進めるAIエージェントの開発が進んでいます。 こうした中、O...</description>
+<title>【Qiita】 AI駆動開発の次は「AI駆動企業」。会社の見取り図を、Devinの機能に1つずつ当てはめてみた</title>
+<link>https://qiita.com/startdevin/items/8f068596f9f6ebcf2e75</link>
+<guid>9528c341270865c5e201197040e27716111b9b39c1b3b7f64c9172e5e30a9372</guid>
+<pubDate>2026-10-20T11:10:26+09:00</pubDate>
+<description>🚀 Devin専門の解説メディア「StartDevin」を運営中！ Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています。 👉 StartDevin をチェックする（startdevin.jp） この記事にぜひ いいね❤️ していただけると励み...</description>
 </item>
 <item>
-<title>【Qiita】 OpenClaw×Claude Code実践｜思考・記憶と実行を分離するハーネス設計術</title>
-<link>https://qiita.com/sescore/items/d29e8ca41ceb207c10ed</link>
-<guid>bf42f0ad3c0423275fef8d89295f6d1e34292e0000e886f24ee4a69d782ea7d4</guid>
-<pubDate>2026-10-20T08:04:54+09:00</pubDate>
-<description>はじめに：なぜ「思考」と「実行」を分けるのか Zennでは「改めて考える、AIエンジニアリングの今」というテーマが日次トレンド上位に入り、Qiitaでも直近2週間でAIタグ・Securityタグの記事がそれぞれストック20超の反応を集めている。AIエージェントに何をどこま...</description>
+<title>【Qiita】 AIエージェントを作るところまでは行けたが、運用で何を見ればいいか分からない開発者へ。ハンズオンからLLMOpsまで追える一冊</title>
+<link>https://qiita.com/yasu1109/items/4df9b0e5c30f1a33ed5f</link>
+<guid>8e3db2fd155ccb533484f65618c18bb3bff16600e16e345b63859d4d5b29db7e</guid>
+<pubDate>2026-10-20T09:51:52+09:00</pubDate>
+<description>AIエージェントのデモを動かすところまでは来たのに、本番に出したあとで何を記録し、どう直せばいいのかが見えない。ここが決まらないまま運用に入ると、挙動がおかしくなっても原因を追えず、結局は人が張り付く運用になる。『AIエージェント開発／運用入門 [生成AI深掘りガイド]』は...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code の SessionStart フックで、起動のたびに Day・記入漏れ・台帳の直近をAIに渡す：8行の初版を74行にした理由と、実際の出力</title>
-<link>https://qiita.com/kaiyaku_iyada/items/bc44b6d8ed0e9a9ebb34</link>
-<guid>a75f9da5afae1eaaf414cfd299da1ef7a6c8fcfc01b0a0f3d4687b801fa1148f</guid>
-<pubDate>2026-10-20T07:58:16+09:00</pubDate>
-<description>この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。個人の実験で、Anthropic社とは無関係です。同社の公認や提携ではありません。書いてあるのは、2026年10月17日の動作確認の記録と、10月1...</description>
-</item>
-<item>
-<title>【Qiita】 爆速からくりポケット！マクロやフォームの修正が爆速になった話 ── 「数分」のイライラが「30秒」へ消滅した実測と、AIを覚醒させた掟の力</title>
-<link>https://qiita.com/shu15511551/items/b14045b57345a109916b</link>
-<guid>751e5fb0650f04169b0abcdc7094cd3df713a3caadf6055f6781b1aafc5b4dc1</guid>
-<pubDate>2026-10-20T07:37:34+09:00</pubDate>
-<description>はじめに 先日、以下の記事を投稿しました。 Claude と私が心血を注いで作り上げた Excel VBA 専用 MCP サーバー「excel-manager」を土台に、Google の AI（Gemini）を走らせるための「掟（AGENTS.md）」と「スキル（S...</description>
+<title>【Qiita】 AIエージェントに「実装しながら考える」をさせない。技術負債を減らす計画書作成プロンプト</title>
+<link>https://qiita.com/k_izutani/items/bfc84da78c96c8112d7a</link>
+<guid>4f63693feb5a61d4a479ff8e95bb38c3dc9d49e79bfd807dd2ef1937817461b2</guid>
+<pubDate>2026-10-20T09:51:32+09:00</pubDate>
+<description>その他の環境構築まとめはこちら Claude Code 環境構築・運用Tipsまとめ はじめに Claude Code などのコーディングエージェントに実装を任せていると、既存の共通関数を使わずに似た関数を新たに作ったり、他の箇所とは違う方法でエラー処理をしたりすることが...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
 <link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>ac0e92eab2228ad6d190d342fb15cd6657de794adda8f45993dd072d43c0b8a7</guid>
-<pubDate>Tue, 20 Oct 2026 00:49:02 GMT</pubDate>
+<guid>b3032ef3a8bdc5af427007490d33c936f58f661d6c47a57b7cac6d47c7d91453</guid>
+<pubDate>Tue, 20 Oct 2026 05:32:29 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>a7aec8b3daabccd225b356866cce787c2f1b6f84a878b1e21607bffb881fb584</guid>
-<pubDate>Tue, 20 Oct 2026 00:49:05 GMT</pubDate>
+<guid>8aff1ea2d198699b2db99e7e8c575d42d1baa47e1d2bc0afd492393f07a6533a</guid>
+<pubDate>Tue, 20 Oct 2026 05:32:31 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>d2f9beccd1099e03f1d34eef4356b2b63a8a8d379a73298d003d8e72a28f23fb</guid>
-<pubDate>Tue, 20 Oct 2026 00:49:09 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43856-026-01961-4</link>
+<guid>00a32c0ede9fa7f25f9f567033b69c311daf9b995240b4fccc4059e675536bc2</guid>
+<pubDate>Tue, 20 Oct 2026 05:32:33 GMT</pubDate>
+<description>While clinical guidelines remain essential for standardizing medical care, their utility decays as manual updating fails to keep pace with the exponential growth in medical evidence. To address this challenge, we developed a Multi-Agent Retrieval-Augmented Generation (MARG) system dedicated to clinical guideline development and maintenance. We employed a multi-phase evaluation framework to assess MARG’s performance across agent-agent interaction and human-AI collaboration tasks. The system was evaluated against seven 2025 liver disease guidelines, encompassing 137 clinical scenarios. Here we show MARG achieve 77.4% overall concordance with the guidelines, with consistency rates rising from 45.8% under weak consensus to 87.8% at full consensus. Domain-specific performance is 65.5% for diagnosis, 75.0% for prevention, and 81.0% for treatment. MARG also assists in evidence integration, outperforming manual review in recency (6.3% vs. 0.9%), reproducibility (25.5% vs. 7.5%), and quality (24.2% vs. 8.0% Level I evidence). Through four rounds of structured debate, the system resolves 95.8% of recommendation conflicts and achieves strong consensus (&amp;gt;85%) in 74.5% of final outputs. In a</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>32000ad43622c95747ac841cbc3160f1af6eeea3d83f305ac540ccf371d2314e</guid>
-<pubDate>Tue, 20 Oct 2026 00:49:27 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>58f218ff9edb46c31ebbe5ceb2c2b839ada25dee40998387be7810819b111338</guid>
+<pubDate>Tue, 20 Oct 2026 05:32:36 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 
 </channel>
