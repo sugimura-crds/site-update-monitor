@@ -4,98 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 19 Oct 2026 21:38:21 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 00:49:44 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AWS初心者がエンジニアを辞めた話</title>
-<link>https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>7a08ace999a081c02ac7132fc5dcbcf0c1675bfa020a5913d35ae4eb96a2c842</guid>
-<pubDate>2026-10-19T18:42:28+09:00</pubDate>
-<description>はじめに こんにちは。Tsukasaです！ タイトルにある通りエンジニアを辞めました！ 今日は今までのキャリアの振り返りと何故エンジニアになったのか？そして何故辞めたのか？について振り返りたいと思います。 今までのキャリア 私は国際学部国際学科出身の正真正銘の文系です。...</description>
+<title>【Qiita】 プロフェッショナルTLS＆PKI を読む24 第3章 TLS1.2,1.3のClientHelloメッセージ</title>
+<link>https://qiita.com/gomAnomalocaris/items/7b3cc8107b5e4b7a9a0e</link>
+<guid>e3fe5a5f6f83076967541ba23b0557d3fbfa576fab5f00a314d922beea0a7d74</guid>
+<pubDate>2026-10-20T07:29:15+09:00</pubDate>
+<description>TLS 1.2 のClientHelloメッセージ TLS 1.2の新規セッションでクライアントが最初に送信するメッセージがClientHelloです。 メッセージの例は下記です。 Handshake protocol: ClientHello version: ...</description>
 </item>
 <item>
-<title>【Qiita】 テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた</title>
-<link>https://qiita.com/ebichan_88/items/f7c44c74e437875b1399?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>0580a58cbab14e84521e3e8c48496ce9da16390f35a8e2d3c20dbda348848588</guid>
-<pubDate>2026-10-17T18:15:15+09:00</pubDate>
-<description>はじめに テーブル定義書・ER図を自動生成し、AIにテーブル構造を答えさせるツール「dbxray」を作成したので紹介します。 業務であまり詳しくないサブシステムのテーブル構造をキャッチアップするため、過去に作成したテーブル定義書の出力ツールを改良しました。 以前【Po...</description>
+<title>【Qiita】 【AIが自律的に他社システムへアクセス】OpenAI・Googleの事例から考えるAIの権限管理と安全対策</title>
+<link>https://qiita.com/rikunagano/items/dd771b52fe21832a376c</link>
+<guid>08c0b6896a00291e2078591bd94a493b741e147123c86ed6a3cfd578154e202c</guid>
+<pubDate>2026-10-20T08:52:26+09:00</pubDate>
+<description>図：OpenAIとGoogleの事例を通じ、AIエージェントの外部アクセスと権限管理を考える AIが文章を作ったり質問に答えたりするだけでなく、与えられた目標に向けて手順を組み立て、ツールを使いながら複数の作業を進めるAIエージェントの開発が進んでいます。 こうした中、O...</description>
 </item>
 <item>
-<title>【Qiita】 API単価が同じでも、実効コストは違う——Grok 4.7を試す前に見る3つの指標</title>
-<link>https://qiita.com/mhamadajp/items/3dacb46399a6aa85f524</link>
-<guid>eca6a1377b9c39e180db53b14266883fe277e46a95eb87b5bba848f924d96c77</guid>
-<pubDate>2026-10-20T04:39:09+09:00</pubDate>
-<description>Cursorのモデル一覧に「Grok 4.7」が出たとき、次に何を疑うか たとえば、月曜の朝。Cursorのモデル一覧に Grok 4.7 が増えています。チームのチャットでは「4.6と同じ値段なら上げよう」「Artificial Analysisでも上位に入ったらしい」...</description>
+<title>【Qiita】 OpenClaw×Claude Code実践｜思考・記憶と実行を分離するハーネス設計術</title>
+<link>https://qiita.com/sescore/items/d29e8ca41ceb207c10ed</link>
+<guid>bf42f0ad3c0423275fef8d89295f6d1e34292e0000e886f24ee4a69d782ea7d4</guid>
+<pubDate>2026-10-20T08:04:54+09:00</pubDate>
+<description>はじめに：なぜ「思考」と「実行」を分けるのか Zennでは「改めて考える、AIエンジニアリングの今」というテーマが日次トレンド上位に入り、Qiitaでも直近2週間でAIタグ・Securityタグの記事がそれぞれストック20超の反応を集めている。AIエージェントに何をどこま...</description>
 </item>
 <item>
-<title>【Qiita】 AI Agentと業務自動化ツールの分業設計 ── Agentforce・Quick Automate・Copilot StudioがPower Automate・Salesforce Flow・PL/SQL・PL/pgSQLを呼び出す連携設計</title>
-<link>https://qiita.com/etale_cohomology/items/390d0515864c6f224b54</link>
-<guid>43bfd7f0cd96e388b6a923943a535537c7470c102f1693f92ca8e40c0dd163d6</guid>
-<pubDate>2026-10-20T03:30:33+09:00</pubDate>
-<description>本稿の読み方： 本稿は、入門者のタロウくんと専任講師の対話篇です。 Executive Summary に結論をまとめ、第1章から順に結論に至る理由を説明します。 本文の各所に、折り畳みの「【上級者向けコラム】」を置いています。 入門者の方は読み飛ばしてお読みいただいて差...</description>
+<title>【Qiita】 Claude Code の SessionStart フックで、起動のたびに Day・記入漏れ・台帳の直近をAIに渡す：8行の初版を74行にした理由と、実際の出力</title>
+<link>https://qiita.com/kaiyaku_iyada/items/bc44b6d8ed0e9a9ebb34</link>
+<guid>a75f9da5afae1eaaf414cfd299da1ef7a6c8fcfc01b0a0f3d4687b801fa1148f</guid>
+<pubDate>2026-10-20T07:58:16+09:00</pubDate>
+<description>この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。個人の実験で、Anthropic社とは無関係です。同社の公認や提携ではありません。書いてあるのは、2026年10月17日の動作確認の記録と、10月1...</description>
 </item>
 <item>
-<title>【Qiita】 LLM エージェントの可観測性：トレースとセッションで 10 の問題を再現</title>
-<link>https://qiita.com/Synthorai/items/e577c3417a8b6a89a476</link>
-<guid>e472e9a8a554c6db27439e0a1a7858d6b0aa5142e632f324cd3def91df8d5b88</guid>
-<pubDate>2026-10-20T02:41:57+09:00</pubDate>
-<description>この記事は Synthorai ブログの記事 LLM エージェントの可観測性：トレースとセッションで 10 の問題を再現 の転載です。原文（多言語対応）はリンク先をご覧ください。 LLM エージェントの可観測性は、モデル呼び出しを 2 つの単位でまとめるところから始ま...</description>
+<title>【Qiita】 爆速からくりポケット！マクロやフォームの修正が爆速になった話 ── 「数分」のイライラが「30秒」へ消滅した実測と、AIを覚醒させた掟の力</title>
+<link>https://qiita.com/shu15511551/items/b14045b57345a109916b</link>
+<guid>751e5fb0650f04169b0abcdc7094cd3df713a3caadf6055f6781b1aafc5b4dc1</guid>
+<pubDate>2026-10-20T07:37:34+09:00</pubDate>
+<description>はじめに 先日、以下の記事を投稿しました。 Claude と私が心血を注いで作り上げた Excel VBA 専用 MCP サーバー「excel-manager」を土台に、Google の AI（Gemini）を走らせるための「掟（AGENTS.md）」と「スキル（S...</description>
 </item>
 <item>
-<title>【自動自律実験】 Toxic chemicals in fentanyl revealed by speedy technique</title>
-<link>https://www.nature.com/articles/d41586-026-03317-3</link>
-<guid>cf5a2a830638d07420b69a0cea4d9e1208ad267b044112434ffa299dd5264f32</guid>
-<pubDate>2026-10-19</pubDate>
-<description>Chemical fingerprinting charts the rises and declines of specific adulterants in illicit supplies of the drug.</description>
-</item>
-<item>
-<title>【自動自律実験】 Light and mirrors move large quantum computers closer to reality</title>
-<link>https://www.nature.com/articles/d41586-026-03237-2</link>
-<guid>febc7da70dbe0657ab7cd43e7238dc06517017482c6c14d46ba3a8f655675c9d</guid>
-<pubDate>2026-10-19</pubDate>
-<description>Scientists improve photon-collecting device that could be used to connect multiple quantum-computing arrays.</description>
-</item>
-<item>
-<title>【自動自律実験】 Audio long read: How to stay smart in the age of AI — the science of critical thinking</title>
-<link>https://www.nature.com/articles/d41586-026-03228-3</link>
-<guid>3fe9378c9f368592ec4fd16fa50383e3bfa940289f877e743e3633e890358b40</guid>
-<pubDate>2026-10-19</pubDate>
-<description>Although worries are growing about AI&#x27;s potential to blunt reasoning skills, research has uncovered ways to keep the brain sharp.</description>
-</item>
-<item>
-<title>【自動自律実験】 US government probe into postdoc visas worries scientists</title>
-<link>https://www.nature.com/articles/d41586-026-03345-z</link>
-<guid>4105fd7bb2b049f8b111dab4b6779b04264c0400e316c0c00d8934c360535ae0</guid>
-<pubDate>2026-10-19</pubDate>
-<description>The administration says that the universities being investigated are using the visas to undercut wages for US nationals, but researchers say that restricting international applications could harm science.</description>
-</item>
-<item>
-<title>【自動自律実験】 Microdosing LSD shows some cognitive benefits — but only for women</title>
-<link>https://www.nature.com/articles/d41586-026-03265-y</link>
-<guid>3d136a0fd32c2d95cb73a10f4f3e115546180c9d7936c62249596e4e21e3de4b</guid>
-<pubDate>2026-10-19</pubDate>
-<description>Different effects of low-dose psychedelics on sustained attention in women and men deserve further investigation.</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>ac0e92eab2228ad6d190d342fb15cd6657de794adda8f45993dd072d43c0b8a7</guid>
+<pubDate>Tue, 20 Oct 2026 00:49:02 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>b43811faa73863d1ba362a8ee86c23605e1132bb1ab2e48fafb67b2564b7dc4c</guid>
-<pubDate>Mon, 19 Oct 2026 21:37:32 GMT</pubDate>
+<guid>a7aec8b3daabccd225b356866cce787c2f1b6f84a878b1e21607bffb881fb584</guid>
+<pubDate>Tue, 20 Oct 2026 00:49:05 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-03331-9</link>
-<guid>d8c8d774e1e340162234361a569a27468225b0cd44eb98c29a8a01ee7f6cc425</guid>
-<pubDate>Mon, 19 Oct 2026 21:37:36 GMT</pubDate>
-<description>The development of semantic imaging signs is time-consuming and relies heavily on clinicians’ experiential knowledge, whereas the abundance of quantitative radiomic features often poses challenges in interpretability and clinical translation. We developed an agentic AI pipeline to autonomously translate quantitative morphological features into semantic signs. The pipeline autonomously performed end-to-end processing—from descriptive statistical profiling and semantic sign translation to visualization. In a development dataset of 106 supratentorial glioblastoma (GBM) cases, the pipeline generated eight candidate signs; the three most consistently proposed signs&amp;nbsp;were the&amp;nbsp;cauliflower, eggplant, and pancake signs. Two radiologists independently validated the cauliflower sign on an external cohort of 50 GBMs and 50 metastases, achieving AUCs of 0.73 (95% CI: 0.64–0.82) and 0.77 (95% CI: 0.69–0.85), respectively (mean 0.75) for tumor differentiation. These findings demonstrate that agentic AI can directly derive semantic imaging signs from quantitative features, offering a systematic and data-driven framework for sign discovery that may enhance the interpretability and clinical</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>d2f9beccd1099e03f1d34eef4356b2b63a8a8d379a73298d003d8e72a28f23fb</guid>
+<pubDate>Tue, 20 Oct 2026 00:49:09 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>b9470837e242b44bcf80b0cd6d2709940c73b77718b2df1eba1dd9a78bc996f6</guid>
-<pubDate>Mon, 19 Oct 2026 21:38:05 GMT</pubDate>
+<guid>32000ad43622c95747ac841cbc3160f1af6eeea3d83f305ac540ccf371d2314e</guid>
+<pubDate>Tue, 20 Oct 2026 00:49:27 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
