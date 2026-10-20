@@ -4,126 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 20 Oct 2026 15:29:07 GMT</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 19:29:49 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 10/20 発表 : Microsoft Sovereign Cloud 最新発表のポイント</title>
-<link>https://qiita.com/yoshioterada/items/b55de2326e6125e87606</link>
-<guid>ad3ab1b23ec14ed432a536a90df675ae6242ffea4fa4a5d877aa5460d1f358b8</guid>
-<pubDate>2026-10-20T23:59:30+09:00</pubDate>
-<description>1. はじめに 2026年10月20日、Microsoft は Microsoft Sovereign Cloud に関する新しい発表を行いました。 今回の発表内容は、下記の Microsoft 公式ブログで紹介されています。 Advancing digital sov...</description>
+<title>【Qiita】 ChatGPT と Claude に自分の AI ボットを追加する：MCP コネクタの設定手順</title>
+<link>https://qiita.com/zackchew67/items/b4aa53149467402821e5</link>
+<guid>5fb65cd0485eeb3fc28dee61a814e2e1bf08fb82f39e1124f6d4c36096dd2d4d</guid>
+<pubDate>2026-10-21T01:42:28+09:00</pubDate>
+<description>ChatGPT で作業しているときに、「これは自分のボットにやらせたい」と思う場面があります。予定の確認、メモの追記、定例レポートの実行など、ボット側にしかない記憶やスキル、接続済みアプリを使う作業です。 MCP コネクタを使うと、ChatGPT や Claude の会話か...</description>
 </item>
 <item>
-<title>【Qiita】 AIに「タスク完了」を宣言させる——証拠必須の自動クローズと、事後に覆す監査の設計</title>
-<link>https://qiita.com/fuji1009_REBELL/items/134566440369bd0ef7c3</link>
-<guid>fbdeeee906935f4f929564930a6b31069d988f1ec43c6c3570699ea5c18f845f</guid>
-<pubDate>2026-10-20T23:19:12+09:00</pubDate>
-<description>「AIの完了報告は信用できない」。この結論で止まっている記事は多いのですが、私は逆側に倒しました。完了判定の権限をAIに渡し、人間は事後に覆す運用です。 タスク台帳の✅化を、私が毎回確認してから付ける方式をやめました。代わりに、証拠（コミットと成果物のパス）が実在するものだ...</description>
+<title>【Qiita】 2026年10月20日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/19da01cfd8b63abfd018</link>
+<guid>6e200c85a5b7211d01d8cca572ce4e2c4bc43c3347ddfe22892fd2a221fff9cb</guid>
+<pubDate>2026-10-21T00:39:24+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 CVE-2026-99999（PwnEscap...</description>
 </item>
 <item>
-<title>【Qiita】 【備忘録】Hermes AgentはなぜKanban方式を採用したのか？ ― マルチエージェントの設計経緯を追う</title>
-<link>https://qiita.com/Tadataka_Takahashi/items/3ad9f455ab3edc0bff54</link>
-<guid>98b157d348c3397122dd3f3baba97c2d219fa7783d0b2068330b1b53a4381a66</guid>
-<pubDate>2026-10-20T23:16:28+09:00</pubDate>
-<description>はじめに AIエージェントが別のエージェントに仕事を任せること自体は、珍しい仕組みではなくなりました。 それでも、Nous ResearchのHermes Agentには、複数のエージェントで仕事を管理するKanban（Multi-Agent Board）という仕組み...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントを育てる：「自動化できるか」から「AIを使う理由があるか」へ</title>
-<link>https://qiita.com/masato_y/items/fedf9826a3cabf0bb74f</link>
-<guid>6b33e62fabe58173d364a34a0e23ae2a2845c8e2151960fc7652edbeda8e8b9c</guid>
-<pubDate>2026-10-20T22:57:05+09:00</pubDate>
-<description>AIエージェントを育てる：「自動化できるか」から「AIを使う理由があるか」へ 今回改善したかったこと これまでの商談準備エージェントは、顧客資料から自動化できそうな作業を挙げ、安全・品質・実機適合・採算などの条件を整理していました。 ただ、出力を読むと「その作業を自動化...</description>
-</item>
-<item>
-<title>【Qiita】 アイソメ図スキル anatomy で Claude 4 モデルをくらべたら、Opus と Fable はアルクビエレ・ドライブを出してきた</title>
-<link>https://qiita.com/hisashi-ito/items/dec68de781a8c7a2ba63</link>
-<guid>5da6da16e729b27d655c0e7c9406da9fd381fe1476c65e21b789999c3ba172ec</guid>
-<pubDate>2026-10-20T22:43:09+09:00</pubDate>
-<description>この記事の調査、図の作成、文章の下書きは、Claude Code(Claude)で行いました。数値は、作った図の HTML とコードから私が測り直したものです。各エージェントの報告に書かれた内容は、報告として区別して書きます。 用語 語 この記事での意味 ア...</description>
-</item>
-<item>
-<title>【Qiita】 Aeon MCP サーバー: ChatGPT・Claude・Cursor から自律エージェントを操作する</title>
-<link>https://qiita.com/0xNurstar/items/0a8f05d34bc8090ef28e</link>
-<guid>75ae4d48738e2c4734db42d34502af9872fd0be73437df9e6f186a9f8446a87a</guid>
-<pubDate>2026-10-20T21:33:56+09:00</pubDate>
-<description>この記事について 本記事は、aeon 公式ブログの記事 Aeon MCP Server: Drive Your Agent from ChatGPT or Claude を日本語にしたものです。 訳者は aeon の Growth コントリビューターであり、利害関係がある...</description>
-</item>
-<item>
-<title>【環境】 Targeting high-value uses to unlock the mitigation potential of clean hydrogen</title>
-<link>https://www.nature.com/articles/s41558-026-02766-y</link>
-<guid>186c30fb5093e4665dc1162c98d12aba9f8830de1e870771d361c36b9cde801f</guid>
-<pubDate>2026-10-20</pubDate>
-<description>Clean hydrogen is a versatile decarbonization option, but given its energy-intensive production, high costs and limited near-term supply, uses with the greatest environmental and economic benefits must be prioritized. Analysis of ten end-use sectors identifies high-value applications and suggests that uniform </description>
-</item>
-<item>
-<title>【環境】 Increased southward swings of the South Indian convergence zone under greenhouse warming</title>
-<link>https://www.nature.com/articles/s41558-026-02767-x</link>
-<guid>c52320ea7b3b5e85b573f3fe87eb70247c610d0996fbcbdd4d720231860f5b0e</guid>
-<pubDate>2026-10-20</pubDate>
-<description>Extreme southward swings of the South Indian convergence zone can lead to severe rainfall and flooding in southern Africa. Here the authors show that climate change leads to an increase in the frequency and intensity of such swings.</description>
-</item>
-<item>
-<title>【環境】 Author Correction: Rice–fish co-culturing reduces schistosomiasis risk and increases yields and incomes</title>
-<link>https://www.nature.com/articles/s41893-026-01990-w</link>
-<guid>13bc433b9700518f3ffb56be1cc4cd102e584e476bcae3b27cd8f0e6537a196a</guid>
-<pubDate>2026-10-20</pubDate>
-<description>Author Correction: Rice–fish co-culturing reduces schistosomiasis risk and increases yields and incomes</description>
-</item>
-<item>
-<title>【自動自律実験】 Is it ‘moon-stroke’, or a chill?</title>
-<link>https://www.nature.com/articles/d41586-026-02975-7</link>
-<guid>6ecadf2968a2ef75a06f9dc16a1a0b9fd98805930ff6b25205d07f73326d8f3a</guid>
-<pubDate>2026-10-20</pubDate>
-<description>An explanation for the injurious effect of sleeping in the moonlight, and a proponent of all-electronic televisions, in this week’s pick from the Nature archive.</description>
+<title>【Anthropic】 Introducing Claude Opus 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>a2bc59dbcb0fb2fe4279c0b51f7568f8897e82877b121d3f15569e500954dc42</guid>
+<pubDate>Tue, 20 Oct 2026 19:28:39 GMT</pubDate>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>f1616678cb64cdb98fc81da7cdc2ef2c33a89a3189c8b921f6759c41c80c9079</guid>
-<pubDate>Tue, 20 Oct 2026 15:28:15 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>4dcb5f2ee9faa16b3ad81070170600506280df47b9f49e48aa72f981ca0461c6</guid>
+<pubDate>Tue, 20 Oct 2026 19:28:43 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>1cebd3dc1401a61f4dc17cb9594a51365b2a31635802c428e7f5b077cf28dae5</guid>
-<pubDate>Tue, 20 Oct 2026 15:28:16 GMT</pubDate>
-<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local Neural Ce</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>98701539216432665ed60b4fe28e61db68da62a3e617dcdbde6edf41a6597145</guid>
-<pubDate>Tue, 20 Oct 2026 15:28:18 GMT</pubDate>
+<guid>1ac7b1f52114c0268d50624846bee4be88336ceb00d9b283208d3a700dde0309</guid>
+<pubDate>Tue, 20 Oct 2026 19:28:46 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43856-026-01961-4</link>
-<guid>468c8a9084743fd899918935e1a47ec34b22d75a2e1fba84cfda7889973eb202</guid>
-<pubDate>Tue, 20 Oct 2026 15:28:21 GMT</pubDate>
-<description>While clinical guidelines remain essential for standardizing medical care, their utility decays as manual updating fails to keep pace with the exponential growth in medical evidence. To address this challenge, we developed a Multi-Agent Retrieval-Augmented Generation (MARG) system dedicated to clinical guideline development and maintenance. We employed a multi-phase evaluation framework to assess MARG’s performance across agent-agent interaction and human-AI collaboration tasks. The system was evaluated against seven 2025 liver disease guidelines, encompassing 137 clinical scenarios. Here we show MARG achieve 77.4% overall concordance with the guidelines, with consistency rates rising from 45.8% under weak consensus to 87.8% at full consensus. Domain-specific performance is 65.5% for diagnosis, 75.0% for prevention, and 81.0% for treatment. MARG also assists in evidence integration, outperforming manual review in recency (6.3% vs. 0.9%), reproducibility (25.5% vs. 7.5%), and quality (24.2% vs. 8.0% Level I evidence). Through four rounds of structured debate, the system resolves 95.8% of recommendation conflicts and achieves strong consensus (&amp;gt;85%) in 74.5% of final outputs. In a</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>878111ec819c7b46ac4324802350ec939a64e421abd6d21a04be83c3506a37ca</guid>
+<pubDate>Tue, 20 Oct 2026 19:28:49 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-03331-9</link>
-<guid>91cfe754e12fd68eaa864b9f4273648a5d55dd904b5f6eede3f7942e1c093ede</guid>
-<pubDate>Tue, 20 Oct 2026 15:28:23 GMT</pubDate>
-<description>The development of semantic imaging signs is time-consuming and relies heavily on clinicians’ experiential knowledge, whereas the abundance of quantitative radiomic features often poses challenges in interpretability and clinical translation. We developed an agentic AI pipeline to autonomously translate quantitative morphological features into semantic signs. The pipeline autonomously performed end-to-end processing—from descriptive statistical profiling and semantic sign translation to visualization. In a development dataset of 106 supratentorial glioblastoma (GBM) cases, the pipeline generated eight candidate signs; the three most consistently proposed signs&amp;nbsp;were the&amp;nbsp;cauliflower, eggplant, and pancake signs. Two radiologists independently validated the cauliflower sign on an external cohort of 50 GBMs and 50 metastases, achieving AUCs of 0.73 (95% CI: 0.64–0.82) and 0.77 (95% CI: 0.69–0.85), respectively (mean 0.75) for tumor differentiation. These findings demonstrate that agentic AI can directly derive semantic imaging signs from quantitative features, offering a systematic and data-driven framework for sign discovery that may enhance the interpretability and clinical</description>
+<title>【Self-driving laboratories】 Filter By:</title>
+<link>https://www.nature.com/articles/s44160-026-01194-2</link>
+<guid>148b1c3871d6502c1e8922897de48901ce71252d8932b3a0a71b6275bf1176e2</guid>
+<pubDate>Tue, 20 Oct 2026 19:28:57 GMT</pubDate>
+<description>In this issue, we focus on the development of self-driving laboratories for the autonomous synthesis of molecules and materials, with a particular focus on industrial considerations and applications.</description>
 </item>
 <item>
-<title>【U.S.】 Limiting Fuel Retention by Lithium in Future Fusion Devices</title>
-<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
-<guid>8e552122e9d56bce9f5303fc21565ad7bc6ed2d72e62163a7262583fea78636d</guid>
-<pubDate>Tue, 20 Oct 2026 15:28:27 GMT</pubDate>
-<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>5e9a5a5a7cbed790f2a2b11dfc4ead3ef52e74372e81e267a61852af4c432755</guid>
+<pubDate>Tue, 20 Oct 2026 19:29:33 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 <item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>c22c247c2ecfe35631bfb754ca0556dd16f78ffb804b1f5234a082fd003b768c</guid>
-<pubDate>Tue, 20 Oct 2026 15:28:55 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>036797f70436e987c4854ac4bb4e0140bb64069dcd6d40bd13cb31ccc5aeb19f</guid>
+<pubDate>Tue, 20 Oct 2026 19:29:37 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
