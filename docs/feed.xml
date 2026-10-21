@@ -4,78 +4,112 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 21 Oct 2026 10:50:27 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 15:45:11 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 パスワード管理ツールについて調べた（1Password・Bitwarden）</title>
-<link>https://qiita.com/kozakoza/items/534ca5aadd59bfd1f6b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>f48867a5bda85da983eb7b2179df2248a1c393702a42cbdb31e1090ad4291b35</guid>
-<pubDate>2026-10-21T08:08:58+09:00</pubDate>
-<description>はじめに パスワード管理ツールはなんとなく安全なんだろうなぐらいの認識だったので、どういう仕組みなのかを調べてみました。 この記事で扱うパスワード管理ツールは、1PasswordとBitwardenです。 パスワードを管理している仕組みや、Googleパスワードマネージャ...</description>
+<title>【Qiita】 飛行機をリアルタイムで追跡する データパイプラインを作ってみた</title>
+<link>https://qiita.com/Shumpei_Kubo/items/8bad3bfe1cf63efa3d3e</link>
+<guid>aa02c13a0b461e166e4672614a3b6e15ad8602d58d812f9d73891102f5c4e5f6</guid>
+<pubDate>2026-10-21T20:08:28+09:00</pubDate>
+<description>飛行機をリアルタイムで追跡するデータパイプラインを作ってみた — Confluent Platform × Apache Flink 同様のブログを、IBM Community Blogにも投稿しています。 https://community.ibm.com/com...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Cloud : Client VPN for VPCで接続・切断のログを取得する</title>
-<link>https://qiita.com/6onoda/items/b11009d8cd89de9d83ec</link>
-<guid>856f33f8f295c9e1eb95283de5738bc6fd596031e141cd8d1ba91a3404893787</guid>
-<pubDate>2026-10-21T16:20:20+09:00</pubDate>
-<description>Client VPN for VPCで接続・切断のログを取得したいとの話があり、手順を確認しました。 Client VPN for VPCで接続・切断のログはActivity Trackerの自動取得の対象 IBM Cloudでは、IBM Cloudのサービスの状態を変更...</description>
+<title>【Qiita】 対話とバックグラウンドジョブの同居をやめた——Claude Codeを「本番機/クライアント機」の2台に分けた判断基準</title>
+<link>https://qiita.com/fuji1009_REBELL/items/a058cd2405875f294887</link>
+<guid>c5a282f814c209622f6579ccf46003ae25b6d1b44d6469a3c405d67900e6f6a4</guid>
+<pubDate>2026-10-22T00:19:12+09:00</pubDate>
+<description>1台のPCでClaude Codeとの対話も、毎朝動くバッチも、常駐ジョブも全部まかなっていた時期があります。ある朝、手元でスリープに入れたら夜通し動くはずだったジョブが止まっていて、さらに別の日には、対話中にいじった設定ファイルが自律ジョブの挙動を黙って変えていました。こ...</description>
 </item>
 <item>
-<title>【Qiita】 AIに作らせたフォームUI、途中で止めてから再開できるか</title>
-<link>https://qiita.com/heftykoo/items/8f9c026aab30fd1aa32a</link>
-<guid>fa90f417175b82c93232fb65419dc7195e373932afcec0c56384256d186852cd</guid>
-<pubDate>2026-10-21T16:42:34+09:00</pubDate>
-<description>フォームのエラー表示をAIに直してもらうと、正常系の画面は案外すぐ整う。一方で、送信に失敗した直後の表示や再送信ボタンは、差分を見ないと抜け落ちたことに気づきにくい。そこで完成を待たず、途中で一度止めて画面の状態と変更ファイルを確かめたい。 最近のコーディングエージェントに...</description>
+<title>【Qiita】 AIエージェントを育てる：追加情報を渡したら、自動化候補の順位は変わるか</title>
+<link>https://qiita.com/masato_y/items/9c850dcc78c3171bcde2</link>
+<guid>0c51eeeb0f2b90bdbd0ddc07f0e653d2afa97ca7dcd39a2322cc524216d6b3d4</guid>
+<pubDate>2026-10-22T00:04:55+09:00</pubDate>
+<description>AIエージェントを育てる：追加情報を渡したら、自動化候補の順位は変わるか 今回試したかったこと 前回は、商談準備エージェントに「自動化できるか」だけでなく、AI・VLA・ヒューマノイドを使う理由も検討させるようにしました。 今回は、顧客確認や試験で新しい情報が得られた場...</description>
 </item>
 <item>
-<title>【Qiita】 はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～</title>
-<link>https://qiita.com/yuji-arakawa/items/1df29b844478f9df5960</link>
-<guid>b0831aeaee29748e6eaf838795362da6ede8b71b291465ba0aff1b6e0b48bbcb</guid>
-<pubDate>2026-10-21T16:34:12+09:00</pubDate>
-<description>はじめに この記事の内容は 2026/10/21 の Oracle AI Jam Session #41 はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～ にてご紹介させていただく内容をまとめたものです。 生成AIを業務で活用するには、社内ナ...</description>
+<title>【Qiita】 dev-orchestra のレビュアーとロールを組み替えてみた</title>
+<link>https://qiita.com/istb16/items/43716d22f2139d70f910</link>
+<guid>8049422982b27e0fde54f1dd40dead8d8556ccc794f46ce7570561df350adeaa</guid>
+<pubDate>2026-10-21T23:34:45+09:00</pubDate>
+<description>この記事は tk3.biz のブログ からの転載です。 はじめに 前回は、dev-orchestra のプリセットを比べました。プリセットは「マシン全体で、どこにお金をかけるか」をまとめて決めるものです。 今回は、その中身を自分で組み替える方法を書きます。 役（ロー...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code の長い会話は、閉じずに席を外したほうが安かった。1時間後に戻った費用は閉じた場合の1割</title>
-<link>https://qiita.com/suwa_nobu/items/bc2e80a8c1d61b0b2cfe</link>
-<guid>e927aceaf81d06b24cf55b9a99727c53a9150d5961313584a4cc25518ec02b86</guid>
-<pubDate>2026-10-21T16:01:56+09:00</pubDate>
-<description>Claude Code 2.1.299（2026-10-14）に、こういう変更が入りました。 Added idle compaction in the terminal: a 200K+ token conversation left idle for about 54 ...</description>
+<title>【Qiita】 NVIDIA GTC Berlin 2026 基調講演の発表まとめ</title>
+<link>https://qiita.com/hisashi-ito/items/6d74efd59d0957b337d0</link>
+<guid>e0d3b1fc5bb91d3db97e14429b1c90710dfad1145f5bba83bcb033088de731fb</guid>
+<pubDate>2026-10-21T22:23:13+09:00</pubDate>
+<description>この記事の調査と下書きは Claude Code(Claude)で行いました。講演の内容を整理したもので、数字や製品名は講演者の発言です。第三者による検証はしていません。名称の表記に確信が持てない箇所は、その旨を書き添えました。 用語 語 この記事での意味 ...</description>
 </item>
 <item>
-<title>【Qiita】 Kiro Memory✨ ─ セッションを超えてAIが”覚えていてくれる”世界</title>
-<link>https://qiita.com/665-dotdev/items/51d070d8e94809ad5204</link>
-<guid>7e8d22cd302f3e0157eab286c95d2222ece6aab092e8eb4f895afa7e06a71b7b</guid>
-<pubDate>2026-10-21T15:59:28+09:00</pubDate>
-<description>はじめに KiroのIDEでAIと一緒に開発していると、プロジェクトで共通するルールは Steering でルール化できますが、開発者ごとに個別に記録しておきたいことはありませんか？ 「このライブラリは自分はこう書く」「このバグは自分が前にハマって、原因はこれだった」とい...</description>
+<title>【自動自律実験】 &lt;i&gt;De novo&lt;/i&gt; design of enantioselective artificial metalloenzyme photocatalysts</title>
+<link>https://www.nature.com/articles/s41586-026-11317-6</link>
+<guid>0299763e901e72573b307a2e56b89a449f2dda83af0386fa252d444a80b9b495</guid>
+<pubDate>2026-10-21</pubDate>
+<description>De novo design of enantioselective artificial metalloenzyme photocatalysts</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code Projects 入門、コーディネーターと並列スレッドの使い方</title>
-<link>https://qiita.com/kai_kou/items/3be552ee1e80ef332c6e</link>
-<guid>bbb33219861ec3bec5f42bbf542cbbe087617746375ecacfd78e7cd12c94edf8</guid>
-<pubDate>2026-10-21T16:13:13+09:00</pubDate>
-<description>はじめに Claude Code で機能追加と調査とリファクタリングを同時に進めたいとき、これまではセッションを複数開いて指示を出し分け、どの作業をどこまで任せたかを自分で覚えておく必要がありました。並列にすること自体は難しくありません。負担として残るのは、「誰に何を振っ...</description>
+<title>【自動自律実験】 Scientists put a salt marsh in a giant wave-machine: here&#x27;s what they learned</title>
+<link>https://www.nature.com/articles/d41586-026-03376-6</link>
+<guid>21a95a7159571d76eef51708e64d145d8b6a16d288d0b1c5397ef0c50d6de579</guid>
+<pubDate>2026-10-21</pubDate>
+<description>Experiment shows how these ecosystems could protect coastlines from huge storms — plus, new evidence hints at what Denisovans might have looked like.</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>3d73a0bb113eda68d4ad30cc77e5f62171784527901f704602104e7ee26f38bf</guid>
-<pubDate>Wed, 21 Oct 2026 10:49:37 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【自動自律実験】 Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids</title>
+<link>https://www.nature.com/articles/s41586-026-11252-6</link>
+<guid>94ed3fcd4dd3771bb2686a8e47cf54cb561f0a8a245c048c49ce2262301eb364</guid>
+<pubDate>2026-10-21</pubDate>
+<description>Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids</description>
+</item>
+<item>
+<title>【自動自律実験】 An AI tool improves weather forecasts up to a month ahead</title>
+<link>https://www.nature.com/articles/d41586-026-03077-0</link>
+<guid>5d92240558fa4aefd9b9f4492a9c7fbb043eda7a020b6283b2492f5f40f4dc96</guid>
+<pubDate>2026-10-21</pubDate>
+<description>An innovative artificial-intelligence application enhances weather forecasting in the difficult subseasonal range, providing accurate forecasts of precipitation, temperature and pressure 3–5 weeks in advance. The tool refines both physics- and AI-based weather models and improves the early prediction of extremes of heat, col</description>
+</item>
+<item>
+<title>【自動自律実験】 Using AI to offer personalized health advice</title>
+<link>https://www.nature.com/articles/d41586-026-03065-4</link>
+<guid>aed0f4135c39e462df659962b870ee53159617c690a9d06d6791393ce357c90f</guid>
+<pubDate>2026-10-21</pubDate>
+<description>The use of artificial-intelligence tools in medicine is increasing. What types of technology might be on the horizon and how can such health-advice tools be tested?</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>da7115633e69294bc1b13fe157ae1f31f319bc3ed958ce6a604862838b547d6b</guid>
-<pubDate>Wed, 21 Oct 2026 10:49:40 GMT</pubDate>
+<guid>1451e062676801856a9d34f6dec08e9e595334ac1f6801f146c18996833e39d1</guid>
+<pubDate>Wed, 21 Oct 2026 15:44:32 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>ebaf26ebdb0bdfb54db704807d531ac56c708c23d12d800dc02bb051f7175c70</guid>
-<pubDate>Wed, 21 Oct 2026 10:50:10 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43856-026-01961-4</link>
+<guid>7f40f2cd6beb51872c8154a190c5deb491264026a52fc7e13fa7b22194e8e7d4</guid>
+<pubDate>Wed, 21 Oct 2026 15:44:34 GMT</pubDate>
+<description>While clinical guidelines remain essential for standardizing medical care, their utility decays as manual updating fails to keep pace with the exponential growth in medical evidence. To address this challenge, we developed a Multi-Agent Retrieval-Augmented Generation (MARG) system dedicated to clinical guideline development and maintenance. We employed a multi-phase evaluation framework to assess MARG’s performance across agent-agent interaction and human-AI collaboration tasks. The system was evaluated against seven 2025 liver disease guidelines, encompassing 137 clinical scenarios. Here we show MARG achieve 77.4% overall concordance with the guidelines, with consistency rates rising from 45.8% under weak consensus to 87.8% at full consensus. Domain-specific performance is 65.5% for diagnosis, 75.0% for prevention, and 81.0% for treatment. MARG also assists in evidence integration, outperforming manual review in recency (6.3% vs. 0.9%), reproducibility (25.5% vs. 7.5%), and quality (24.2% vs. 8.0% Level I evidence). Through four rounds of structured debate, the system resolves 95.8% of recommendation conflicts and achieves strong consensus (&amp;gt;85%) in 74.5% of final outputs. In a</description>
+</item>
+<item>
+<title>【U.S.】 Limiting Fuel Retention by Lithium in Future Fusion Devices</title>
+<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
+<guid>3d2ccfe059f965c2c0e767f6263f4a9170a359e05ac769ba3f1bf7b5b0a91c2b</guid>
+<pubDate>Wed, 21 Oct 2026 15:44:39 GMT</pubDate>
+<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
+</item>
+<item>
+<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
+<link>https://www.eurohpc-ju.europa.eu/index_en</link>
+<guid>13a01c6ee8c6e815f1fea27162a94938e69448cf9538d5da798de40a754a3237</guid>
+<pubDate>Wed, 21 Oct 2026 15:44:42 GMT</pubDate>
+<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
+</item>
+<item>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>4109f10af8ab234957a19516516856a2b2615b923516387f4740729a1c1f41cd</guid>
+<pubDate>Wed, 21 Oct 2026 15:44:57 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
