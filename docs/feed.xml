@@ -4,78 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 20 Oct 2026 22:31:06 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 00:48:44 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AI時代の開発プロセスとチームのあり方を考える</title>
-<link>https://qiita.com/kizuku_tabata/items/6d5b58ad0cb832d2a4c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>ebb24afc4c0832775e4e83ee0ea6cfdca5d3ed87c357a79f53f33db23079a005</guid>
-<pubDate>2026-10-20T13:15:47+09:00</pubDate>
-<description>はじめに 最近、Claude CodeやCodexといったAIコーディングツールを、ツール開発や提案用のPoC（概念実証）開発で活用する機会が増えてきました。 また、Google Apps Script（GAS）を使ったちょっとした業務改善などでも、AIを活用することがあ...</description>
+<title>【Qiita】 AI の「直しました」に証拠を付けさせろ！ pstack を Claude Code に入れてみた</title>
+<link>https://qiita.com/kobayashi-fuuki/items/a7fbba06bb158dae0e11</link>
+<guid>de8f20c5d863efb331db07eef813c36812d46ba6365ce9290b8d1576a0ad1cf8</guid>
+<pubDate>2026-10-21T09:45:54+09:00</pubDate>
+<description>こんにちは、小林です! 株式会社リンクアンドモチベーションでデータスチュワードをしています。個人開発では機械学習で米国株の押し目を推定して売買する機能を持ったアプリを作っていて、その開発で Claude Code を使い込んでいます。その環境に、Cursor の公式プラグイ...</description>
 </item>
 <item>
-<title>【Qiita】 棚マクロの100本ノック、44分で完成してそのうち5本を採用した話 ── AIに「3時間かけろ」と頼んだら10分で終わったので無茶振りを投げてみた</title>
-<link>https://qiita.com/shu15511551/items/a5175732c74b16326666</link>
-<guid>f76c1fca85fdc1a698b660e228f7d3220cd8c0288c0e20ed9d5cbea7cf4026ef</guid>
-<pubDate>2026-10-21T05:52:01+09:00</pubDate>
-<description>はじめに 先日、以下の記事を投稿しました。 Claude と私が心血を注いで作り上げた Excel VBA 専用 MCP サーバー「excel-manager」を土台に、Google の AI（Gemini）を走らせるための「掟（AGENTS.md）」を徹底的に研ぎ...</description>
+<title>【Qiita】 GembaBench - 企業サーバのセキュリティをローカルLLMのAIエージェント＋ハーネスに調査・対策する性能を測定する独自ベンチマークを作りました！</title>
+<link>https://qiita.com/nabe2030/items/f14c0fdd0c1535b9ab16</link>
+<guid>0f2276db9ae985a60063c7a215f70fc2388148bc98eaee6f6c859e659c80c36d</guid>
+<pubDate>2026-10-21T09:36:46+09:00</pubDate>
+<description>0. 要約 企業のサーバで「現状を調べ、侵入の痕跡を探し、更新を計画し、実施し、脆弱性を直す」までをローカル LLM のエージェントにやらせて、自動で採点する計器を作った。名前は GembaBench。試験の一式は GitHub で順次公開する。 同じ Qwen3.8-...</description>
 </item>
 <item>
-<title>【Qiita】 並列エージェントが遅く感じるとき——「親に全部戻す」以外の集め方</title>
-<link>https://qiita.com/mhamadajp/items/1074001e0f74e41f0399</link>
-<guid>65493cf6e08259f914e860c0a99525d4e63ceb90d99e1685b0a35d80ce4ce264</guid>
-<pubDate>2026-10-21T04:54:43+09:00</pubDate>
-<description>金曜の障害調査で、ワーカーは足りているのに待たされる たとえば、金曜の夜。本番の遅いAPIを切り分けるために、エージェントを並列で走らせます。ログ担当、メトリクス担当、最近のデプロイ差分担当——それぞれ別スレッドです。 子はそこそこ速く動いています。なのに全体が伸びる。理...</description>
+<title>【Qiita】 Claude Code に運用を任せるとき、計画を変える条件は「日付つきの判断ルール」で先に書く：10月19日にルールが発火して、計画を組み直した記録</title>
+<link>https://qiita.com/kaiyaku_iyada/items/339a7e78ba476ca1c810</link>
+<guid>b3afcbf53fdfe7873eda5068f1d13064f7408231078aa41609e50fbd9911eb3b</guid>
+<pubDate>2026-10-21T07:58:14+09:00</pubDate>
+<description>この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。Anthropic社とは無関係の個人の実験で、同社の公認や提携ではありません。書いてあるのは、2026年10月19日までの計画書・台帳・調査メモと、...</description>
 </item>
 <item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>e57c38bc26a98b4eb823e17eab0ddefe945ca1063895f778f0fd76755e875307</guid>
-<pubDate>Tue, 20 Oct 2026 22:30:13 GMT</pubDate>
-<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that run identical local</description>
+<title>【Anthropic】 Introducing Claude Opus 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>9f2546fae8ff70913a1ae600283974d782cd96816c0f5015d486889ebf69756a</guid>
+<pubDate>Wed, 21 Oct 2026 00:47:46 GMT</pubDate>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>71063ded6cd0ec3b23947a34d07156dab88a0d68a13e8ac657582bb6d20e2b6f</guid>
-<pubDate>Tue, 20 Oct 2026 22:30:16 GMT</pubDate>
+<guid>643b6f38ba63de395a561f7458115f2185797305ef9171b64aae6c05080ccec3</guid>
+<pubDate>Wed, 21 Oct 2026 00:47:53 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41746-026-03331-9</link>
-<guid>fd943ebd2ffcce1d632b9bddc742e576cb2529c238bc6d4e1afa72153e1565a0</guid>
-<pubDate>Tue, 20 Oct 2026 22:30:20 GMT</pubDate>
-<description>The development of semantic imaging signs is time-consuming and relies heavily on clinicians’ experiential knowledge, whereas the abundance of quantitative radiomic features often poses challenges in interpretability and clinical translation. We developed an agentic AI pipeline to autonomously translate quantitative morphological features into semantic signs. The pipeline autonomously performed end-to-end processing—from descriptive statistical profiling and semantic sign translation to visualization. In a development dataset of 106 supratentorial glioblastoma (GBM) cases, the pipeline generated eight candidate signs; the three most consistently proposed signs&amp;nbsp;were the&amp;nbsp;cauliflower, eggplant, and pancake signs. Two radiologists independently validated the cauliflower sign on an external cohort of 50 GBMs and 50 metastases, achieving AUCs of 0.73 (95% CI: 0.64–0.82) and 0.77 (95% CI: 0.69–0.85), respectively (mean 0.75) for tumor differentiation. These findings demonstrate that agentic AI can directly derive semantic imaging signs from quantitative features, offering a systematic and data-driven framework for sign discovery that may enhance the interpretability and clinical</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>f21cdbd1b745e7387bad7f771dfe5777ccf745a0688365ca2df8260495b20247</guid>
-<pubDate>Tue, 20 Oct 2026 22:30:24 GMT</pubDate>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>baa24a0635c925f7e04444a70fd7e71e1417cd55e868be64b2a1078211da40bc</guid>
+<pubDate>Wed, 21 Oct 2026 00:47:57 GMT</pubDate>
 <description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>8ce56ecf493d7c0fdf3a8bba22786bff4bc6868e95e04c23df2369a00832f1ce</guid>
-<pubDate>Tue, 20 Oct 2026 22:30:25 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>8f416ba3a09cf3cbfab78e5324e80d4cfa342fa0ae31a2271aa614c4a9fba149</guid>
-<pubDate>Tue, 20 Oct 2026 22:30:45 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 8664 search results</title>
-<link>https://www.cgiar.org/news?page=0</link>
-<guid>bfefe429aaf1485cf2d97743a941e80564652bb10323ac660ad00d3294b8974f</guid>
-<pubDate>Tue, 20 Oct 2026 22:30:52 GMT</pubDate>
-<description>IFPRI’s five decades of experience has shown that development policy research has a stronger likelihood of making an impact and meeting real-world needs when it is adapted to local contexts and created with national and local partners. The best bet for generating context-specific research is operating within beneficiary countries and communities. Building on this evidence, the new IFPRI Strategy 2026-2030 deepens an institutional commitment to decentralization.</description>
 </item>
 
 </channel>
