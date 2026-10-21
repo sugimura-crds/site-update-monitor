@@ -4,77 +4,78 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 21 Oct 2026 05:33:26 GMT</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 10:50:27 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Omnigent の omnigent agent add で GitHub のエージェントを登録して、更新の反映まで確かめた</title>
-<link>https://qiita.com/taka_yayoi/items/6ffffcc8d61062814c62</link>
-<guid>67cf32397f2cad94d317922a994b9db422ac5d0a3570ea50fd58e83eb84f17b4</guid>
-<pubDate>2026-10-21T13:37:13+09:00</pubDate>
-<description>はじめに Omnigent 0.18.0 (2026年10月13日リリース) で、omnigent agent add コマンドが追加されました。エージェントを自分用に登録して、新規セッションでいつでも選べるようにするコマンドです。GitHub のリポジトリを指定して、そ...</description>
+<title>【Qiita】 パスワード管理ツールについて調べた（1Password・Bitwarden）</title>
+<link>https://qiita.com/kozakoza/items/534ca5aadd59bfd1f6b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f48867a5bda85da983eb7b2179df2248a1c393702a42cbdb31e1090ad4291b35</guid>
+<pubDate>2026-10-21T08:08:58+09:00</pubDate>
+<description>はじめに パスワード管理ツールはなんとなく安全なんだろうなぐらいの認識だったので、どういう仕組みなのかを調べてみました。 この記事で扱うパスワード管理ツールは、1PasswordとBitwardenです。 パスワードを管理している仕組みや、Googleパスワードマネージャ...</description>
 </item>
 <item>
-<title>【Qiita】 AI Agentの実行ログを読んでみる①</title>
-<link>https://qiita.com/Yusg_6/items/6461726617e1dcd6cdd7</link>
-<guid>760f08013e19a60a9e86092e5e16e4d796782f6f204ea064a11b3b52f76e8557</guid>
-<pubDate>2026-10-21T13:00:04+09:00</pubDate>
-<description>はじめに 最近はAIエージェントの実装能力が向上し、多くの実装を任せられるようになりました。 その結果、自分でコードを考えたり書いたりする機会が減り、ただでさえ経験の浅いジュニアエンジニアとして、実装能力が成長しなくなるのではないかと感じるようになりました。 そこで思いつ...</description>
+<title>【Qiita】 IBM Cloud : Client VPN for VPCで接続・切断のログを取得する</title>
+<link>https://qiita.com/6onoda/items/b11009d8cd89de9d83ec</link>
+<guid>856f33f8f295c9e1eb95283de5738bc6fd596031e141cd8d1ba91a3404893787</guid>
+<pubDate>2026-10-21T16:20:20+09:00</pubDate>
+<description>Client VPN for VPCで接続・切断のログを取得したいとの話があり、手順を確認しました。 Client VPN for VPCで接続・切断のログはActivity Trackerの自動取得の対象 IBM Cloudでは、IBM Cloudのサービスの状態を変更...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeに「.envは読まないで」とお願いするのは、セキュリティではない ― 権限ルール・フック・サンドボックスで秘密情報を守る「スイスチーズ」設計</title>
-<link>https://qiita.com/zumiraku/items/a49daeab6c84c38cca97</link>
-<guid>054e29b871c4c909c423434cfbcd7f061004463fa3aa824554560785ed73120e</guid>
-<pubDate>2026-10-21T11:58:34+09:00</pubDate>
-<description>Claude Code に「.env は読まないでね」とお願いしたことはありますか。 自分はあります。CLAUDE.md にも書きました。「秘密情報が入っているファイルは開かないこと」。Claude はとても素直なので、たいていはちゃんと守ってくれます。 でも、「たいてい...</description>
+<title>【Qiita】 AIに作らせたフォームUI、途中で止めてから再開できるか</title>
+<link>https://qiita.com/heftykoo/items/8f9c026aab30fd1aa32a</link>
+<guid>fa90f417175b82c93232fb65419dc7195e373932afcec0c56384256d186852cd</guid>
+<pubDate>2026-10-21T16:42:34+09:00</pubDate>
+<description>フォームのエラー表示をAIに直してもらうと、正常系の画面は案外すぐ整う。一方で、送信に失敗した直後の表示や再送信ボタンは、差分を見ないと抜け落ちたことに気づきにくい。そこで完成を待たず、途中で一度止めて画面の状態と変更ファイルを確かめたい。 最近のコーディングエージェントに...</description>
 </item>
 <item>
-<title>【Qiita】 Git diffを監査する、引数経由のファイル上書き</title>
-<link>https://qiita.com/hironakamura_ai/items/3129a9b7aa3c6b07a966</link>
-<guid>7fd88f803884a12188a85de4cc478d21c165c63bce84cc478d1e7bfbd1e44899</guid>
-<pubDate>2026-10-21T11:22:48+09:00</pubDate>
-<description>差分を読むだけのGitツールに、ファイルを上書きする余地はある？ AIエージェント用のツールをgit diffに絞っても、引数の監査は外せない。Pythonのshell=Falseを使っていても、ファイル名のつもりの入力で出力先を変えられる。 ファイル名を1引数で渡したら...</description>
+<title>【Qiita】 はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～</title>
+<link>https://qiita.com/yuji-arakawa/items/1df29b844478f9df5960</link>
+<guid>b0831aeaee29748e6eaf838795362da6ede8b71b291465ba0aff1b6e0b48bbcb</guid>
+<pubDate>2026-10-21T16:34:12+09:00</pubDate>
+<description>はじめに この記事の内容は 2026/10/21 の Oracle AI Jam Session #41 はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～ にてご紹介させていただく内容をまとめたものです。 生成AIを業務で活用するには、社内ナ...</description>
 </item>
 <item>
-<title>【Qiita】 learn-claude-codeに見るエージェントとハーネスの切り分け方</title>
-<link>https://qiita.com/gitmeshi/items/cd9b2d3f83e5b2bfc0f8</link>
-<guid>bbb54b93302f722749344274ca01160b5523ea85bfd5a554a091e7b64cdd1aa2</guid>
-<pubDate>2026-10-21T12:30:37+09:00</pubDate>
-<description>業務課題 エージェント開発の現場では、ワークフロービルダーやプロンプト連鎖ツールで組んだ分岐処理を「エージェント」と呼んでしまい、期待した自律性が出ないまま改修を繰り返すケースが起きやすいです。shareAI-lab/learn-claude-codeのREADMEは、こ...</description>
+<title>【Qiita】 Claude Code の長い会話は、閉じずに席を外したほうが安かった。1時間後に戻った費用は閉じた場合の1割</title>
+<link>https://qiita.com/suwa_nobu/items/bc2e80a8c1d61b0b2cfe</link>
+<guid>e927aceaf81d06b24cf55b9a99727c53a9150d5961313584a4cc25518ec02b86</guid>
+<pubDate>2026-10-21T16:01:56+09:00</pubDate>
+<description>Claude Code 2.1.299（2026-10-14）に、こういう変更が入りました。 Added idle compaction in the terminal: a 200K+ token conversation left idle for about 54 ...</description>
 </item>
 <item>
-<title>【Qiita】 Astryx入門 — Meta製「AIエージェント可読」デザインシステムをCLIで動かす</title>
-<link>https://qiita.com/kai_kou/items/c910ae275f023dcd3911</link>
-<guid>231ccb2ad540df7cdf47734be99c130369f0fe3db545e7a30db8d0265fc9a635</guid>
-<pubDate>2026-10-21T12:12:28+09:00</pubDate>
-<description>はじめに AIエージェントにUIコードを書かせると、存在しないpropsを渡してくることがある。variant=&quot;danger&quot; のような、いかにもありそうで実際には定義されていない値を平然と使ってくる。Reactのデザインシステムを何十個も読み込んだ学習データから「ら...</description>
+<title>【Qiita】 Kiro Memory✨ ─ セッションを超えてAIが”覚えていてくれる”世界</title>
+<link>https://qiita.com/665-dotdev/items/51d070d8e94809ad5204</link>
+<guid>7e8d22cd302f3e0157eab286c95d2222ece6aab092e8eb4f895afa7e06a71b7b</guid>
+<pubDate>2026-10-21T15:59:28+09:00</pubDate>
+<description>はじめに KiroのIDEでAIと一緒に開発していると、プロジェクトで共通するルールは Steering でルール化できますが、開発者ごとに個別に記録しておきたいことはありませんか？ 「このライブラリは自分はこう書く」「このバグは自分が前にハマって、原因はこれだった」とい...</description>
 </item>
 <item>
-<title>【Qiita】 Agent Executorの概要</title>
-<link>https://qiita.com/yosshi_/items/0aafd51eaae9c387af4e</link>
-<guid>348d85050a9f880ca30a1908709b36b9bf153aea1475291fb8fbbd53a8bec7f8</guid>
-<pubDate>2026-10-21T10:45:32+09:00</pubDate>
-<description>はじめに Googleは2026年5月、Agent Substrateと同じ日に、エージェントの実行・再開・分散デプロイのためのオープンソースのランタイム標準としてAgent Executorを発表しました。以前、Agent Substrateの概要で整理したAgent ...</description>
+<title>【Qiita】 Claude Code Projects 入門、コーディネーターと並列スレッドの使い方</title>
+<link>https://qiita.com/kai_kou/items/3be552ee1e80ef332c6e</link>
+<guid>bbb33219861ec3bec5f42bbf542cbbe087617746375ecacfd78e7cd12c94edf8</guid>
+<pubDate>2026-10-21T16:13:13+09:00</pubDate>
+<description>はじめに Claude Code で機能追加と調査とリファクタリングを同時に進めたいとき、これまではセッションを複数開いて指示を出し分け、どの作業をどこまで任せたかを自分で覚えておく必要がありました。並列にすること自体は難しくありません。負担として残るのは、「誰に何を振っ...</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Opus 5.5</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>56451ee35155e82ca960e6fb21d36a91f19f0987cf9a854e1242dd777c0fcfd9</guid>
-<pubDate>Wed, 21 Oct 2026 05:32:31 GMT</pubDate>
-<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>3d73a0bb113eda68d4ad30cc77e5f62171784527901f704602104e7ee26f38bf</guid>
+<pubDate>Wed, 21 Oct 2026 10:49:37 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>0de87ed1a2cfdb6ba7b8d0ec9bfd463f3df2edce651b3b428f6c176a62ce8bbe</guid>
-<pubDate>Wed, 21 Oct 2026 05:32:40 GMT</pubDate>
+<guid>da7115633e69294bc1b13fe157ae1f31f319bc3ed958ce6a604862838b547d6b</guid>
+<pubDate>Wed, 21 Oct 2026 10:49:40 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43856-026-01961-4</link>
-<guid>ca2f24e99b5786a69fac22dfb8fb3c45cfdeda4b1993b1e59cd7dfc6c53723e3</guid>
-<pubDate>Wed, 21 Oct 2026 05:32:42 GMT</pubDate>
-<description>While clinical guidelines remain essential for standardizing medical care, their utility decays as manual updating fails to keep pace with the exponential growth in medical evidence. To address this challenge, we developed a Multi-Agent Retrieval-Augmented Generation (MARG) system dedicated to clinical guideline development and maintenance. We employed a multi-phase evaluation framework to assess MARG’s performance across agent-agent interaction and human-AI collaboration tasks. The system was evaluated against seven 2025 liver disease guidelines, encompassing 137 clinical scenarios. Here we show MARG achieve 77.4% overall concordance with the guidelines, with consistency rates rising from 45.8% under weak consensus to 87.8% at full consensus. Domain-specific performance is 65.5% for diagnosis, 75.0% for prevention, and 81.0% for treatment. MARG also assists in evidence integration, outperforming manual review in recency (6.3% vs. 0.9%), reproducibility (25.5% vs. 7.5%), and quality (24.2% vs. 8.0% Level I evidence). Through four rounds of structured debate, the system resolves 95.8% of recommendation conflicts and achieves strong consensus (&amp;gt;85%) in 74.5% of final outputs. In a</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>ebaf26ebdb0bdfb54db704807d531ac56c708c23d12d800dc02bb051f7175c70</guid>
+<pubDate>Wed, 21 Oct 2026 10:50:10 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
