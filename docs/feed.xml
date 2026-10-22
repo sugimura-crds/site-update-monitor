@@ -4,91 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 22 Oct 2026 12:12:36 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 17:25:53 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【Opus 級？】Jev でエンジニアとプロジェクトをマッチング ― LLM・埋め込みモデルと比較</title>
-<link>https://qiita.com/akimasanishida/items/8d965a85f2aac8ebcb12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>d43c959c5b26721ad3d0abc015957895bb0977ce85115b6697684ee6876d5caa</guid>
-<pubDate>2026-10-22T11:34:34+09:00</pubDate>
-<description>要約 株式会社Sapeet のアルゴリズム・エンジニアの西田です． 本記事では，社内のプロジェクトへのアサインを想定し，TypeSafe AI の Jev1 で，プロジェクトの募集要項とエンジニアのスキルシートの組み合わせ（以下，ペア）がどれだけ合うかを採点しました．人手...</description>
+<title>【Qiita】 AIエージェントを育てる：品番切替の情報を追加し、VLAを使う理由を再評価した</title>
+<link>https://qiita.com/masato_y/items/333bea3c600d28c7aee2</link>
+<guid>a3e26600885b4a26ddbab13cb043d21829e43bb161d8657d639d9b92a03cf56c</guid>
+<pubDate>2026-10-23T01:33:57+09:00</pubDate>
+<description>AIエージェントを育てる：品番切替の情報を追加し、VLAを使う理由を再評価した 今回試したかったこと 前回は「従来方式で要求を満たせた」という架空の追加情報を与え、エージェントがVLA・ヒューマノイドの優先候補を見直せるか確認しました。 今回は、別の状況を試しました。 ...</description>
 </item>
 <item>
-<title>【Qiita】 AIX Toolbox の ISO から DNF リポジトリを作成して PHP の依存関係を確認</title>
-<link>https://qiita.com/c_u/items/f6cfeb61493b7f6b0520</link>
-<guid>74bba95207bea6df29fcc3e85381facb08c2215e72ec597a5ab5fe06623b4c83</guid>
-<pubDate>2026-10-22T19:51:33+09:00</pubDate>
-<description>はじめに PHP の脆弱性情報をきっかけに、AIX 環境で PHP がどのように導入されるのかを確認しました。 PHP は AIX Toolbox for Open Source Software から RPM パッケージとして提供されています。AIX Toolbox で...</description>
+<title>【Qiita】 AIエージェントはスクラムチームになれるか：PO・SM・開発者を担うマルチエージェントの実証実験を調べてみた</title>
+<link>https://qiita.com/etale_cohomology/items/aaa0309aba8708e6cd32</link>
+<guid>171b6d0214fe3a0fb443c07499f086c60e101e10a81e2788defb631a6f854f2d</guid>
+<pubDate>2026-10-23T00:17:58+09:00</pubDate>
+<description>本稿が「人間との交渉」を必須条件とする理由 本稿は、AI エージェントだけが登場し、顧客や依頼者の役も AI が演じる実験を、「AI エージェントによるスクラムの実践」とはみなしません。 業務スコープ（作る機能の範囲）や期限の交渉相手は、AI ではなく人間でなければなら...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code のデザインレビュースキルは「出力されるファイル」で選ぶ</title>
-<link>https://qiita.com/Skillselion/items/aa69bfe7b82928b81396</link>
-<guid>2dc00cc56ec392f1a1f99864132d2060206bdbeda189316ce21ebd163533665b</guid>
-<pubDate>2026-10-22T21:10:21+09:00</pubDate>
-<description>初出・元記事: Claude Code 向けデザインレビュースキルのガイド（Skillselion）。本記事はその内容をもとに、日本語の読者向けに書き直したものです。数値はすべて 2026年10月22日に再確認しました（インストール数は同年10月21日のカタログ同期時点の...</description>
+<title>【Qiita】 Claude CodeはMCP Samplingに応じない。権限昇格の前に実測</title>
+<link>https://qiita.com/kenimo49/items/4e30d67314cfd5182d4c</link>
+<guid>572ae73d15e6736df6d0711bc9c8bf51295722405756a3d30c8989eab40082b7</guid>
+<pubDate>2026-10-22T22:30:01+09:00</pubDate>
+<description>MCP(Model Context Protocol)のセキュリティを調べていると、Samplingという機能がよく槍玉に上がります。「悪意のあるサーバーがクライアントのLLMを操れる」「権限昇格の足がかりになる」。読んでいるうちに、だんだん怖くなってきます。 私もその一人...</description>
 </item>
 <item>
-<title>【Qiita】 MCPサーバーを自作してLLMから社内APIを安全に呼び出す</title>
-<link>https://qiita.com/hono_ai_labho/items/470d5cd3024a829099c4</link>
-<guid>ff6dcb48fb7744a17c7e1330c63df7ce72a13dfcfb8fbaa067cd975e376b225e</guid>
-<pubDate>2026-10-22T21:00:39+09:00</pubDate>
-<description>社内のチケット管理APIや検索APIを、LLMから自然言語で呼び出したい場面が増えてきました。以前は専用のチャット画面や、APIごとのラッパーを個別に作る必要がありました。 そこで今回は、MCP（Model Context Protocol）サーバーを自作し、LLMから社内...</description>
+<title>【Qiita】 Claude CodeにYouTubeの動画編集を任せる下ごしらえ ― 手本・レギュレーション・チェックリストをファイルにして渡す7ステップ</title>
+<link>https://qiita.com/TOSHIMITSU_MIYACHI/items/d9abc65bed29681533e4</link>
+<guid>c6905ba4f8c05ac41b148a5e66c95ff1e62b78cfbbc66e02c300e3384f039a47</guid>
+<pubDate>2026-10-22T21:17:55+09:00</pubDate>
+<description>株式会社AI Orchestraのみやっち🧑‍💻です。2026年10月にYouTubeを再開してから、私の動画はすべてClaude Code（モデルはClaude Opus 5.5）が編集しています。撮影した素材（定点カメラのトーク・ピンマイクの音声・画面収録）と台本を渡し...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Duet とは何か、Meta の Muse と何が違うのか</title>
-<link>https://qiita.com/hisashi-ito/items/ea5aee169d50f91ee873</link>
-<guid>d899d389229c07879291ce54bfb77a726779eb8e04dcb625266fadd887b73133</guid>
-<pubDate>2026-10-22T20:24:47+09:00</pubDate>
-<description>本記事は Claude Code と一緒に調べ、書きました。公式の記事と文書の確認、表の作成、文章の校正に使っています。何を調べるかの判断と、内容の最終的な確認は筆者が行いました。 2026年10月21日、Anthropic が「Claude Duet」の研究プレビューを始...</description>
-</item>
-<item>
-<title>【Qiita】 AI エージェント 生成エージェント ~ STORM Act #3</title>
-<link>https://qiita.com/kataoka_se_sionic/items/97c52d49b37bbe48a54a</link>
-<guid>9597ef20a8f85952ff73b4e3816e8abea76a7af4eb26a564dce38f7062217ece</guid>
-<pubDate>2026-10-22T19:36:44+09:00</pubDate>
-<description>本記事の目的 別の記事で、AIエージェントをAIを使って開発する STORM Act の概要と使用方法の導入を説明いたしました。 今回は、より実践的な例を説明いたします。 今回作成する AIエージェント 👤 誰が使う想定か 経営会議の前に、各部門から資料を集めて...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Codeのサンドボックス・deny rule回避の報告が過去半年で5件積み重なっていた日、自分のタスク環境にその回避対象となる設定が存在した数は0だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/6ae5d733e08e0ef0c065</link>
-<guid>6ba6d57c7b0026f1049d265925e66ec4bcd725a3db64c0917ff3cb5ba2559894</guid>
-<pubDate>2026-10-22T15:32:09+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿タスクを含め、自分が今動いているこのセッションの中に、これから挙げる5件の脆弱性報告がそれぞれ悪用しようとした「設定・ファイル・ルール」が実際に存在した数です。 このタスクは、Clau...</description>
-</item>
-<item>
-<title>【農業】 The global potential of aquavoltaics for power generation and offsetting the carbon footprint of freshwater aquaculture</title>
-<link>https://www.nature.com/articles/s43016-026-01446-6</link>
-<guid>fb4bb58c3f4c876e1d40fc55db5fe4a43ba9f9bf460c5feca45b8f11c6ebac05</guid>
+<title>【自動自律実験】 Can a &#x27;lullaby&#x27; save coral reefs from extinction?</title>
+<link>https://www.nature.com/articles/d41586-026-03414-3</link>
+<guid>7696467c540466369b1ebb8ffd894aa6b2af7b6bac8751d5f1b065d98f921c86</guid>
 <pubDate>2026-10-22</pubDate>
-<description>Satellite observations and climate-driven photovoltaic deployment simulations show that integrating solar panels at aquaculture production sites could generate substantial clean electricity while offsetting aquaculture-sector carbon emissions.</description>
+<description>From underwater speakers to growing super-corals, scientists battle to save reefs around the world.</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>0696e682ae7a083feccf136d13886a29fdde35a027d9024950a57aec05e45d3c</guid>
-<pubDate>Thu, 22 Oct 2026 12:11:47 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【自動自律実験】 Teen depression and anxiety predicted by childhood brain development</title>
+<link>https://www.nature.com/articles/d41586-026-03357-9</link>
+<guid>a35d3f71e874e7862e96e26c1b9828e9a7e52cb394f6fac9fa9e5e88221b4019</guid>
+<pubDate>2026-10-22</pubDate>
+<description>Analysis of nearly 30,000 brain scans yields detailed timeline of how the brain matures — and hints at the consequences of disrupting it.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>6ffa8aa8ba2504508d54c5f105faabe42d140972b3ce70fb094a63cba35c91c8</guid>
-<pubDate>Thu, 22 Oct 2026 12:11:50 GMT</pubDate>
-<description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
+<title>【自動自律実験】 Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world</title>
+<link>https://www.nature.com/articles/d41586-026-03389-1</link>
+<guid>d11a09b2e1ab29f666c4fe08e59ac73713037cb0c32970543e7a998392d43211</guid>
+<pubDate>2026-10-22</pubDate>
+<description>As machines race ahead in solving problems, mathematicians must establish a new era that prizes human understanding over simply publishing more solutions.</description>
+</item>
+<item>
+<title>【自動自律実験】 Current-Driven Molecular Machine with Rotation-Enhanced Conductance</title>
+<link>https://www.nature.com/articles/s41586-026-11312-x</link>
+<guid>f0d8db847bf7c51b240b3e82d2328dd0b6f3fadd15f2c0acb18bf0b36caefac3</guid>
+<pubDate>2026-10-22</pubDate>
+<description>Current-Driven Molecular Machine with Rotation-Enhanced Conductance</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43856-026-01961-4</link>
-<guid>02321012b0ce07ad016455a23a9b7e74d3d149eb2694a94529e70a079f6807e7</guid>
-<pubDate>Thu, 22 Oct 2026 12:11:52 GMT</pubDate>
-<description>While clinical guidelines remain essential for standardizing medical care, their utility decays as manual updating fails to keep pace with the exponential growth in medical evidence. To address this challenge, we developed a Multi-Agent Retrieval-Augmented Generation (MARG) system dedicated to clinical guideline development and maintenance. We employed a multi-phase evaluation framework to assess MARG’s performance across agent-agent interaction and human-AI collaboration tasks. The system was evaluated against seven 2025 liver disease guidelines, encompassing 137 clinical scenarios. Here we show MARG achieve 77.4% overall concordance with the guidelines, with consistency rates rising from 45.8% under weak consensus to 87.8% at full consensus. Domain-specific performance is 65.5% for diagnosis, 75.0% for prevention, and 81.0% for treatment. MARG also assists in evidence integration, outperforming manual review in recency (6.3% vs. 0.9%), reproducibility (25.5% vs. 7.5%), and quality (24.2% vs. 8.0% Level I evidence). Through four rounds of structured debate, the system resolves 95.8% of recommendation conflicts and achieves strong consensus (&amp;gt;85%) in 74.5% of final outputs. In a</description>
+<link>https://www.nature.com/articles/s43586-026-00542-y</link>
+<guid>430f2dd39201d3ff0fb8bdb5a7951442ca3595921353fc9f6250e28296b3efd6</guid>
+<pubDate>Thu, 22 Oct 2026 17:25:09 GMT</pubDate>
+<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
 </item>
 <item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>9516096dd9dc863237a58d0512bc8595ee6112f62b1b994d514b42aa4e36e78b</guid>
-<pubDate>Thu, 22 Oct 2026 12:12:25 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>b5e5092c83fedd7e86f47c76fed2c1d4b05204f2ad3ff9c72c9be54e31ef3287</guid>
+<pubDate>Thu, 22 Oct 2026 17:25:31 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+</item>
+<item>
+<title>【農業】 8668 search results</title>
+<link>https://indiattitude.eventsair.com/cgiarspw2027/registration-form/Site/Register</link>
+<guid>f0beb5dfd6e3abafab7d8ea296e044446112ff5d29794dc4869baf406279bc7b</guid>
+<pubDate>Thu, 22 Oct 2026 17:25:36 GMT</pubDate>
+<description>At Tropentag 2026, CGIAR Multifunctional Landscapes examined why landscape restoration often struggles to move from ambition to action. Discussions highlighted the importance of inclusive governance, stakeholder ownership, ecological recovery, sustainable livelihoods, and evidence that tracks benefits for both people and nature.</description>
+</item>
+<item>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>67b4dc37c9c651fbee46743e6e5397326fb2831e110656a909d73070dce94659</guid>
+<pubDate>Thu, 22 Oct 2026 17:25:37 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+</item>
+<item>
+<title>【環境】 Search Results for: Artificial Intelligence</title>
+<link>https://earth.org/artificial-intelligence-projects/</link>
+<guid>983436bcfd035d8ae838501a7a3060fdfd86177dfde57ef8f2a77ac6645da93f</guid>
+<pubDate>Thu, 22 Oct 2026 17:25:43 GMT</pubDate>
+<description>Though technology has been part of the reason for our planet’s downfall, data-based and artificial intelligence projects can help us save our world.</description>
 </item>
 
 </channel>
