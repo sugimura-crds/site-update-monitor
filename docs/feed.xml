@@ -4,85 +4,91 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 22 Oct 2026 06:16:53 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 12:12:36 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Cloud: btrfsをrootファイルシステムに含むサーバー（OpenSUSE)のVSI for VPCへの移行メモ</title>
-<link>https://qiita.com/shiyasu/items/a0fe450ea75403ed3abb</link>
-<guid>fdb1fbdc78598f9a254bfe4e2893abb0dfc062a17b36696d979704a57a6d77f9</guid>
-<pubDate>2026-10-22T11:55:35+09:00</pubDate>
-<description>1. はじめに Rackwareは現在、SUSE + btrfsの移行をサポートしていないので、virt-v2vで移行できるかを確かめてみた。 ただ、SUSEそのものは持っていないので、OpenSUSEをVMWare上にインストールして検証している。手順のほとんどは、これ...</description>
+<title>【Qiita】 【Opus 級？】Jev でエンジニアとプロジェクトをマッチング ― LLM・埋め込みモデルと比較</title>
+<link>https://qiita.com/akimasanishida/items/8d965a85f2aac8ebcb12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>d43c959c5b26721ad3d0abc015957895bb0977ce85115b6697684ee6876d5caa</guid>
+<pubDate>2026-10-22T11:34:34+09:00</pubDate>
+<description>要約 株式会社Sapeet のアルゴリズム・エンジニアの西田です． 本記事では，社内のプロジェクトへのアサインを想定し，TypeSafe AI の Jev1 で，プロジェクトの募集要項とエンジニアのスキルシートの組み合わせ（以下，ペア）がどれだけ合うかを採点しました．人手...</description>
 </item>
 <item>
-<title>【Qiita】 【Oracle AI World 2026 ：from Las Vegas 現地レポート】</title>
-<link>https://qiita.com/eriko_ymg/items/9c2f1148e19bba56e2f3</link>
-<guid>c864aadd76881ff2bbfe558dd2e06c523d9c6e96a28d2aae6a51297c7b319253</guid>
-<pubDate>2026-10-22T13:52:13+09:00</pubDate>
-<description>ラスベガスで開催されるOracle AI World 2026に参加します！ 皆様こんにちは！ 現地時刻で2026/10/24～10/30で開催されているOracle AI World 2026に、 NTTD先端技術社のメンバーで参加します！ Oracle AI Worl...</description>
+<title>【Qiita】 AIX Toolbox の ISO から DNF リポジトリを作成して PHP の依存関係を確認</title>
+<link>https://qiita.com/c_u/items/f6cfeb61493b7f6b0520</link>
+<guid>74bba95207bea6df29fcc3e85381facb08c2215e72ec597a5ab5fe06623b4c83</guid>
+<pubDate>2026-10-22T19:51:33+09:00</pubDate>
+<description>はじめに PHP の脆弱性情報をきっかけに、AIX 環境で PHP がどのように導入されるのかを確認しました。 PHP は AIX Toolbox for Open Source Software から RPM パッケージとして提供されています。AIX Toolbox で...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Duet とは？ OpenAI dots との違いを公式発表から速報解説</title>
-<link>https://qiita.com/kinamocchi_tech/items/18bb3b66938e75024879</link>
-<guid>7e21c8a819fcb004424d7075ab33528ce6de921245662ab6d29e9f681c255203</guid>
-<pubDate>2026-10-22T14:02:32+09:00</pubDate>
-<description>:::message 🐹🦜 この記事に登場する2匹 🐹 もっちー （ハムスター）… AI はまだ勉強中。「それどういうこと？」と素朴に質問する生徒役 🦜 きなこ （セキセイインコ）… AI で調べものをこなす解説役。やさしく深掘りして教える先生役 この記事は2匹の掛け...</description>
+<title>【Qiita】 Claude Code のデザインレビュースキルは「出力されるファイル」で選ぶ</title>
+<link>https://qiita.com/Skillselion/items/aa69bfe7b82928b81396</link>
+<guid>2dc00cc56ec392f1a1f99864132d2060206bdbeda189316ce21ebd163533665b</guid>
+<pubDate>2026-10-22T21:10:21+09:00</pubDate>
+<description>初出・元記事: Claude Code 向けデザインレビュースキルのガイド（Skillselion）。本記事はその内容をもとに、日本語の読者向けに書き直したものです。数値はすべて 2026年10月22日に再確認しました（インストール数は同年10月21日のカタログ同期時点の...</description>
 </item>
 <item>
-<title>【Qiita】 MCPサーバーとは？ 仕組みの基本と、Firestore を AIエージェントから調べられるようにした話</title>
-<link>https://qiita.com/sugumura/items/d52a567f7450b5539665</link>
-<guid>085c03f09d8182394927e783cc6363c5886dcc5f2830f4a735eb2a9637f7a042</guid>
-<pubDate>2026-10-22T12:19:25+09:00</pubDate>
-<description>はじめに 業務で保守しているプロダクトに、Firestore を使っているアプリケーションがあります。保守ではログを出力したり、何か起きたときにデータを調べたりする作業が日常的に発生します。この調査を AIエージェントに手伝ってもらいたいと考えました。 CSV などにエク...</description>
+<title>【Qiita】 MCPサーバーを自作してLLMから社内APIを安全に呼び出す</title>
+<link>https://qiita.com/hono_ai_labho/items/470d5cd3024a829099c4</link>
+<guid>ff6dcb48fb7744a17c7e1330c63df7ce72a13dfcfb8fbaa067cd975e376b225e</guid>
+<pubDate>2026-10-22T21:00:39+09:00</pubDate>
+<description>社内のチケット管理APIや検索APIを、LLMから自然言語で呼び出したい場面が増えてきました。以前は専用のチャット画面や、APIごとのラッパーを個別に作る必要がありました。 そこで今回は、MCP（Model Context Protocol）サーバーを自作し、LLMから社内...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code と作った販売用ZIP、53ファイルのうち購入者向けは19個だけだった──出荷前に確認している5つのこと（実際の失敗から）</title>
-<link>https://qiita.com/NeuralAlphaAI/items/ec5bdc8637ee0a69c299</link>
-<guid>b11ccb2b6d0547553beb7027ea2b67544c1be3a80c52ab219ce94d9e41170d8d</guid>
-<pubDate>2026-10-22T12:18:49+09:00</pubDate>
-<description>Claude Code と一緒に作ったデジタル商品（監視用のテンプレート集）を Gumroad で売っています。 公開後に、購入者と同じ手順で自分の商品をテスト購入してみました。届いたZIPを開くと、ファイル53個のうち、購入者向けの中身は一部だけでした。残りは販売者側の資...</description>
+<title>【Qiita】 Claude Duet とは何か、Meta の Muse と何が違うのか</title>
+<link>https://qiita.com/hisashi-ito/items/ea5aee169d50f91ee873</link>
+<guid>d899d389229c07879291ce54bfb77a726779eb8e04dcb625266fadd887b73133</guid>
+<pubDate>2026-10-22T20:24:47+09:00</pubDate>
+<description>本記事は Claude Code と一緒に調べ、書きました。公式の記事と文書の確認、表の作成、文章の校正に使っています。何を調べるかの判断と、内容の最終的な確認は筆者が行いました。 2026年10月21日、Anthropic が「Claude Duet」の研究プレビューを始...</description>
 </item>
 <item>
-<title>【Qiita】 システム開発現場の変化 - AIコーディングエージェント以後</title>
-<link>https://qiita.com/kataoka_se_sionic/items/cd418bc9a44758185542</link>
-<guid>aed7ad3a1fc3ceec3f8c2192cc8133023b85b0648d22e5891bdf69e479df2fe4</guid>
-<pubDate>2026-10-22T12:15:03+09:00</pubDate>
-<description>本記事の目的 普段、AI Agent プラットフォームを提供している Sionic AI にて働いている私が、最近のシステム開発の現場の変化で感じたことを書いています。 AIコーディングエージェントによって、実装の進め方は大きく変わりつつあります。では、そのとき人間にはど...</description>
+<title>【Qiita】 AI エージェント 生成エージェント ~ STORM Act #3</title>
+<link>https://qiita.com/kataoka_se_sionic/items/97c52d49b37bbe48a54a</link>
+<guid>9597ef20a8f85952ff73b4e3816e8abea76a7af4eb26a564dce38f7062217ece</guid>
+<pubDate>2026-10-22T19:36:44+09:00</pubDate>
+<description>本記事の目的 別の記事で、AIエージェントをAIを使って開発する STORM Act の概要と使用方法の導入を説明いたしました。 今回は、より実践的な例を説明いたします。 今回作成する AIエージェント 👤 誰が使う想定か 経営会議の前に、各部門から資料を集めて...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Codeのサンドボックス・deny rule回避の報告が過去半年で5件積み重なっていた日、自分のタスク環境にその回避対象となる設定が存在した数は0だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/6ae5d733e08e0ef0c065</link>
+<guid>6ba6d57c7b0026f1049d265925e66ec4bcd725a3db64c0917ff3cb5ba2559894</guid>
+<pubDate>2026-10-22T15:32:09+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿タスクを含め、自分が今動いているこのセッションの中に、これから挙げる5件の脆弱性報告がそれぞれ悪用しようとした「設定・ファイル・ルール」が実際に存在した数です。 このタスクは、Clau...</description>
+</item>
+<item>
+<title>【農業】 The global potential of aquavoltaics for power generation and offsetting the carbon footprint of freshwater aquaculture</title>
+<link>https://www.nature.com/articles/s43016-026-01446-6</link>
+<guid>fb4bb58c3f4c876e1d40fc55db5fe4a43ba9f9bf460c5feca45b8f11c6ebac05</guid>
+<pubDate>2026-10-22</pubDate>
+<description>Satellite observations and climate-driven photovoltaic deployment simulations show that integrating solar panels at aquaculture production sites could generate substantial clean electricity while offsetting aquaculture-sector carbon emissions.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
 <link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>8d9c85e27c7aaa9650cb32058576ab60e995fd5f033b35ec51e940c78c2e2614</guid>
-<pubDate>Thu, 22 Oct 2026 06:16:01 GMT</pubDate>
+<guid>0696e682ae7a083feccf136d13886a29fdde35a027d9024950a57aec05e45d3c</guid>
+<pubDate>Thu, 22 Oct 2026 12:11:47 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>c3bbfc6acb2c3e0c329f6d502ee4b4fcf3c7ed89086e31e3f8d85d77713a9510</guid>
-<pubDate>Thu, 22 Oct 2026 06:16:03 GMT</pubDate>
+<guid>6ffa8aa8ba2504508d54c5f105faabe42d140972b3ce70fb094a63cba35c91c8</guid>
+<pubDate>Thu, 22 Oct 2026 12:11:50 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43856-026-01961-4</link>
-<guid>5260ed9789f6ee8a90d470d8eb5911edaf1036ffc564e00a1a8bd456288423ca</guid>
-<pubDate>Thu, 22 Oct 2026 06:16:06 GMT</pubDate>
+<guid>02321012b0ce07ad016455a23a9b7e74d3d149eb2694a94529e70a079f6807e7</guid>
+<pubDate>Thu, 22 Oct 2026 12:11:52 GMT</pubDate>
 <description>While clinical guidelines remain essential for standardizing medical care, their utility decays as manual updating fails to keep pace with the exponential growth in medical evidence. To address this challenge, we developed a Multi-Agent Retrieval-Augmented Generation (MARG) system dedicated to clinical guideline development and maintenance. We employed a multi-phase evaluation framework to assess MARG’s performance across agent-agent interaction and human-AI collaboration tasks. The system was evaluated against seven 2025 liver disease guidelines, encompassing 137 clinical scenarios. Here we show MARG achieve 77.4% overall concordance with the guidelines, with consistency rates rising from 45.8% under weak consensus to 87.8% at full consensus. Domain-specific performance is 65.5% for diagnosis, 75.0% for prevention, and 81.0% for treatment. MARG also assists in evidence integration, outperforming manual review in recency (6.3% vs. 0.9%), reproducibility (25.5% vs. 7.5%), and quality (24.2% vs. 8.0% Level I evidence). Through four rounds of structured debate, the system resolves 95.8% of recommendation conflicts and achieves strong consensus (&amp;gt;85%) in 74.5% of final outputs. In a</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>076c79f4c84854592be4a54e0281b31d45223067b21cadc57d6e3a6e39ec0840</guid>
-<pubDate>Thu, 22 Oct 2026 06:16:32 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>4976f7da839e3589c2ac92ae4c87d2f8a9d8fd3eb7515fd4d4eae8fb76dc2b85</guid>
-<pubDate>Thu, 22 Oct 2026 06:16:34 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>9516096dd9dc863237a58d0512bc8595ee6112f62b1b994d514b42aa4e36e78b</guid>
+<pubDate>Thu, 22 Oct 2026 12:12:25 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
