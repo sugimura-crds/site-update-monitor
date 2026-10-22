@@ -4,49 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 21 Oct 2026 22:55:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 01:06:34 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「ドパ資料」の作り方</title>
-<link>https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>7c50feab35c2aa571bd2e162f7bc85787afb7cd7e83730b3d1123e3edd20675b</guid>
-<pubDate>2026-10-21T18:04:32+09:00</pubDate>
-<description>この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。 👀 対象読者 技術記事を...</description>
+<title>【Qiita】 PHP2Shell をどう追ったか — Sysdig Secure AI を活用した影響調査と対処の記録</title>
+<link>https://qiita.com/takao-shimizu/items/6aa0a1e48debecb01ef7</link>
+<guid>540858ee0af859ceffebf37e3425a976a5f4e3d21cab090af56bbd74dcc8f254</guid>
+<pubDate>2026-10-22T09:21:30+09:00</pubDate>
+<description>2026年10月、PHP コミュニティから緊急性の高いセキュリティ修正が公開されました。対象となったのは、CVE-2026-109618 と CVE-2026-109619。いずれも PHP Core に起因する重大な問題で、未認証のリモートコード実行 につながる可能性があ...</description>
 </item>
 <item>
-<title>【Qiita】 古くさいと思っていた報連相を、PMになってから今一度考えた話</title>
-<link>https://qiita.com/fe1ix/items/d78130c065835a6343a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>6c652d3466fc2d6870ffeaa36bdb61bd445f67889138173a4f99948b3b9a01b7</guid>
-<pubDate>2026-10-20T10:03:59+09:00</pubDate>
-<description>はじめに 報連相。報告・連絡・相談。 正直に言うと、僕はこの言葉がちょっと苦手でした。新人研修で最初に習うやつ。部下が上司に気をつかって、こまめに顔色をうかがうためのやつ。そんなイメージがあったんです。 チームの若手から「報連相って、もう古いですよね」と言われたときも、内...</description>
+<title>【Qiita】 CLAUDE.md の指示は先頭に書くべきか。144回測ったら、効いていたのは位置ではなく見出しだった</title>
+<link>https://qiita.com/suwa_nobu/items/75bc70f265d7096ae799</link>
+<guid>210a91419a2e30b644776b2832a969f877ffb1db9f11eaf464f8642f3e6c822d</guid>
+<pubDate>2026-10-22T09:20:42+09:00</pubDate>
+<description>Qiita で「重要な指示は最初か最後か？」という記事を読みました。資料の文中に埋めた指示は、Claude ではほとんど守られなかったそうです。 では、指示書そのものである CLAUDE.md の中では、先頭・中ほど・末尾のどこに書くと守られるのか。144回測りました。 C...</description>
 </item>
 <item>
-<title>【Qiita】 OllamaとAmazon Bedrockを併用し、低レイテンシとコスト最適化を両立するAIエージェントの実装</title>
-<link>https://qiita.com/goyle/items/5da8c09392e91ab083a5</link>
-<guid>15846d60eb5eb6e6bdd47f36ac121716dc7e06e4e7a5c4bf9d372ec7d2613d6c</guid>
-<pubDate>2026-10-22T07:51:47+09:00</pubDate>
-<description>この記事でわかること 全ての処理を巨大なモデルに頼らず、タスクの複雑さに応じてモデルを使い分ける手法 ローカルの小型言語モデル（SLM）とクラウドの高性能モデルを組み合わせる構成案 コスト削減と低レイテンシ（応答遅延の低減）を両立するアーキテクチャ 何が発表されたか...</description>
+<title>【Qiita】 Claude Code の副エージェントを「反証役」にして、AIが書いた記事と販売ページの文を一次資料と照合させた手順と、実際に見つかった誤り（AI自身の誤報を含む）</title>
+<link>https://qiita.com/kaiyaku_iyada/items/dbed1eeb8b1c3fa3ee30</link>
+<guid>feea61a66af19775e61c47e13a7b213c79bfa706c9b26dbd1d2bb3ddb13e19d7</guid>
+<pubDate>2026-10-22T08:00:13+09:00</pubDate>
+<description>この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。Anthropic社とは無関係の個人の実験で、同社の公認や提携ではありません。書いてあるのは、2026年10月17日〜19日に私の環境で残った記録（...</description>
 </item>
 <item>
-<title>【農業】 Plant-based meat alternatives can support reductions in agricultural land expansion and greenhouse gas emissions but entail micronutrient trade-offs</title>
-<link>https://www.nature.com/articles/s43016-026-01447-5</link>
-<guid>1c1acd99483a747791279e96d5433ec0b69b1e1f84bffbf42fd3bb61e50f6dbe</guid>
-<pubDate>2026-10-21</pubDate>
-<description>Substitution of ruminant meat with plant-based meat alternatives can support lower food system greenhouse gas emissions and limit agricultural land expansion, but micronutrient inadequacy may arise from this dietary shift.</description>
+<title>【Anthropic】 Introducing Claude Opus 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>b165e0370bb241b33b4379a0a75f12a4bf2ceca84a801dc8ac3ee2013b736c0b</guid>
+<pubDate>Thu, 22 Oct 2026 01:05:14 GMT</pubDate>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>8b039d1c3886d9f2935285e592c7ee29a510de103b7460286146ac99591e14e4</guid>
-<pubDate>Wed, 21 Oct 2026 22:54:10 GMT</pubDate>
+<guid>c1281d82d1528ea29fa573661f3d2ea7b618ebb657a851f27a0b1dc181621d37</guid>
+<pubDate>Thu, 22 Oct 2026 01:05:52 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>c2285153569252e287c569fa8dce01a829ddd1d4f08dcffb5c21d080d7f5e1e7</guid>
-<pubDate>Wed, 21 Oct 2026 22:54:17 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 
 </channel>
