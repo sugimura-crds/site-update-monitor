@@ -4,104 +4,42 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 23 Oct 2026 18:02:19 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 21:34:08 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Haikuはどこからコーディングで失敗するのか：136回測って、本物のバグでやっと線が見えた</title>
-<link>https://qiita.com/yunany90/items/b0fa22097f7e9bcf8642</link>
-<guid>50888515d64e4bb41d248064847276342aea770615aebca78e4ce1919fdbef4d</guid>
-<pubDate>2026-10-24T01:12:43+09:00</pubDate>
-<description>「コーディングにはどのモデルを使うべきか」という問いの答えは、たいてい勘です。私は線を探したかった。安いモデル（Claude Haiku 5.5）が初めて失敗する点、つまりSonnetやOpusにお金を払うべき点です。 そこでWindowsノートPC1台で、コーディングエー...</description>
+<title>【Qiita】 Codexに「承認待ちをDiscordに通知してほしい」と相談して、通知ツールを作ってみた</title>
+<link>https://qiita.com/shota_hirano/items/5aa037294434003db2db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>c2fee41d4c8f15129a07274841665adf4bdd65f013d20d26670c3092af7b33db</guid>
+<pubDate>2026-10-23T14:03:31+09:00</pubDate>
+<description>はじめに Codexに作業をお願いしたあと、「今どこまで進んでいるかな？」と気になることはありませんか？ 特に知りたかったのが、承認待ちや入力待ちになったタイミングです。PCの前を離れていても、スマホで気づけるとうれしいですよね。 そこで今回は、Codexに相談しながら、...</description>
 </item>
 <item>
-<title>【Qiita】 超高解像度画像解析Agentを構築する（1）：WPFによるタイルビューアエンジン</title>
-<link>https://qiita.com/ZiYuCai1984/items/4abfa428c601e3d05e47</link>
-<guid>1ce0b760499a3daba2faafa503368fefba3f8babef0d9feafc1e3f741d1d5d75</guid>
-<pubDate>2026-10-24T01:04:58+09:00</pubDate>
-<description>100000 × 100000 ピクセルの画像を1ピクセルあたり4バイトでデコードすると、約40 GBのメモリが必要になる。しかし、ビューアが一度に表示するのは画像の一部分にすぎない。画像全体を読み込む方式では、表示に必要なデータ量と読み込みコストが大きく乖離する。 ZYC...</description>
-</item>
-<item>
-<title>【Qiita】 dev-orchestra に自作のエージェントを繋いでみた（ローカルLLM編）</title>
-<link>https://qiita.com/istb16/items/076d39eec03d02352da7</link>
-<guid>b6282b99a985e1443871db8787295ded8bbd50c175e516e1911727b5d1e8bb11</guid>
-<pubDate>2026-10-23T23:20:33+09:00</pubDate>
-<description>この記事は tk3.biz のブログ からの転載です。 はじめに 前回は、dev-orchestra のレビュアーとロールの組み替え方を書きました。今回は、Claude Code・Codex・Antigravity 以外の AI を、自分で書いたアダプタで繋ぐ方法です...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントを育てる：VLAで切替時間を短縮できた情報を追加した</title>
-<link>https://qiita.com/masato_y/items/c83d2650a0fc802ec694</link>
-<guid>c7c42fe68a1a94ad345125e0eaddc423e37b168807f3cf8ce0196b057cf5d7b0</guid>
-<pubDate>2026-10-23T23:09:12+09:00</pubDate>
-<description>AIエージェントを育てる：VLAで切替時間を短縮できた情報を追加した 今回試したかったこと 前回は、ミナトパーツ工業について「品質は満たすが、品番切替に時間がかかる」という架空情報を与えました。 その時点では、従来方式の改善案もVLA案も未試験でした。そのため、商談準備...</description>
-</item>
-<item>
-<title>【環境】 A thin carbon membrane to capture carbon</title>
-<link>https://www.nature.com/articles/s41893-026-01960-2</link>
-<guid>459641fb80cc306e784b0ae4ba9099d56dd88744a85c0f8684183f9fca67dcf7</guid>
-<pubDate>2026-10-23</pubDate>
-<description>Anthropogenic emissions are rapidly increasing atmospheric CO2 levels, with severe consequences for the global climate. Researchers have developed a carbon membrane as thin as only two molecular layers that sieves and captures CO2 with very high flux and selectivity, holding promise for climate change mitigati</description>
-</item>
-<item>
-<title>【環境】 Recyclable flow battery chemistry</title>
-<link>https://www.nature.com/articles/s41893-026-01979-5</link>
-<guid>2d88c4b1d161f35e39c0e3d8b14f3bea21be0254e16a940f95858a134d4fa42a</guid>
-<pubDate>2026-10-23</pubDate>
-<description>Turning water-based flow batteries into a truly sustainable technology hinges on recycling the organic molecules inside the battery. A redox-active organic molecule has now been developed that not only outperforms the industry-standard vanadium benchmark but also offers exceptional reusability.</description>
-</item>
-<item>
-<title>【環境】 A circular oligo(disulfide) anolyte enables practical aqueous redox flow batteries</title>
-<link>https://www.nature.com/articles/s41893-026-01970-0</link>
-<guid>d80570a1d640b8c2b5e49655e2d0e6e26cb83771ba111ad275dfc46a367d00e2</guid>
-<pubDate>2026-10-23</pubDate>
-<description>Aqueous flow batteries are ideal for grid storage but lack sustainable, high-capacity anolytes. Here the authors report a recyclable oligo(disulfide) design that combines closed-loop recyclability with good electrochemical performance.</description>
-</item>
-<item>
-<title>【環境】 Efficient carbon dioxide separation with molecularly thin bilayer carbon membranes</title>
-<link>https://www.nature.com/articles/s41893-026-01973-x</link>
-<guid>eaaac134b9021ecbd7d4ade286dbac2bc01b06a9dd91061495e40b9c687258de</guid>
-<pubDate>2026-10-23</pubDate>
-<description>Membrane-based separations offer a promising energy-efficient approach to mitigating CO2 emissions. Here the authors develop molecularly thin graphene–amorphous carbon membranes that simultaneously deliver sharp molecular sieving, high permeance and mechanical stability for selective CO2 separation.</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>ad7a2163e47420b4d4f41438cef31aba4bfcf572a900c5a2ce194b4d6481e31d</guid>
+<pubDate>Fri, 23 Oct 2026 21:33:03 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>a47b2a15fd2123a838a6f44bb5f00c22adc642d8fd8b4e8d00eccea91af9640a</guid>
-<pubDate>Fri, 23 Oct 2026 18:01:26 GMT</pubDate>
+<guid>c8b87cf021775998c016fe27fa7d164854c4fef4fd7c6355c5ab14619f072b4d</guid>
+<pubDate>Fri, 23 Oct 2026 21:33:06 GMT</pubDate>
 <description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43856-026-01961-4</link>
-<guid>d908a8bf98c2ebcb6ce07dea8fad9b1b8e3aeb3882bcb8c2810a31f74b296d97</guid>
-<pubDate>Fri, 23 Oct 2026 18:01:28 GMT</pubDate>
-<description>While clinical guidelines remain essential for standardizing medical care, their utility decays as manual updating fails to keep pace with the exponential growth in medical evidence. To address this challenge, we developed a Multi-Agent Retrieval-Augmented Generation (MARG) system dedicated to clinical guideline development and maintenance. We employed a multi-phase evaluation framework to assess MARG’s performance across agent-agent interaction and human-AI collaboration tasks. The system was evaluated against seven 2025 liver disease guidelines, encompassing 137 clinical scenarios. Here we show MARG achieve 77.4% overall concordance with the guidelines, with consistency rates rising from 45.8% under weak consensus to 87.8% at full consensus. Domain-specific performance is 65.5% for diagnosis, 75.0% for prevention, and 81.0% for treatment. MARG also assists in evidence integration, outperforming manual review in recency (6.3% vs. 0.9%), reproducibility (25.5% vs. 7.5%), and quality (24.2% vs. 8.0% Level I evidence). Through four rounds of structured debate, the system resolves 95.8% of recommendation conflicts and achieves strong consensus (&amp;gt;85%) in 74.5% of final outputs. In a</description>
-</item>
-<item>
-<title>【U.S.】 Beyond Simple Electrons: The Twist of Topological Quasiparticles in Matter</title>
-<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
-<guid>1e91e04fa8a7937a249aff1e68751adc08434dded2b14acd50d1c2424180eaa6</guid>
-<pubDate>Fri, 23 Oct 2026 18:01:34 GMT</pubDate>
-<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>9899e6db403717e97d635dbc20c0281f77d1fa0e0e6e56258bb195f47b3fb65c</guid>
-<pubDate>Fri, 23 Oct 2026 18:01:34 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>35655197df873a681cb640da5329b0d33f1046a5d62171b40d67112aecd5b8cb</guid>
-<pubDate>Fri, 23 Oct 2026 18:01:58 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>8a43229d54c836e18e565acb3f0f6517ace00ef6568d456360338c321edff128</guid>
+<pubDate>Fri, 23 Oct 2026 21:33:48 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 <item>
 <title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
 <link>https://grist.org/?s=AI</link>
-<guid>f76e907adac8a255d27c6fcda3b5dc190520c404d6f5a596a79769b078362bf6</guid>
-<pubDate>Fri, 23 Oct 2026 18:02:07 GMT</pubDate>
+<guid>ba7642dc24167dc0856cf07310bea563760abce593968c9b80723fb797228cd2</guid>
+<pubDate>Fri, 23 Oct 2026 21:33:59 GMT</pubDate>
 <description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 

@@ -30,9 +30,9 @@
   "site::https://research.google/research-areas/health-ai/": "7fc26187d0b2586be8e8af0da4552045daaddbb2a98c8c5cb09fd3c39762272c",
   "site::https://research.google/research-areas/google-earth-ai/": "d5818c29e86eb00964d7af3c60db2d1a8dd36362e24ea4c85441635cfc83f8f8",
   "site::https://research.google/research-areas/science-ai/": "e83ae3eb27f7a7bbf4c35dab9803eeb306b06fe1da9f57468d19e7b5bc147de8",
-  "site::https://research.google/pubs/": "346d3b296d37e0893c973e7b5d858fa900579ebe24de117f15ec1b27e9a45e84",
+  "site::https://research.google/pubs/": "72a334671fcc1dfca315e8547fb746f40222a5413acbe577f22c75e142eb5a1c",
   "site::https://sakana.ai/blog/": "15c48e676c0c48f056aa1fa640523fbc4c37b9f14f7a4ff0cabc31db9317eaab",
-  "site::https://www.nature.com/search?q=AI+for+Science&date_range=last_30_days&order=relevance": "5819fb45dff300fbd40856898e4c3bc18c44c31a42d5348f7c5b4f1599aec149",
+  "site::https://www.nature.com/search?q=AI+for+Science&date_range=last_30_days&order=relevance": "d160af3316b1d8be681ec457e74750cb3ee0919c222acb4044949dd2a8fb00ee",
   "site::https://www.nature.com/search?q=AI+agent&date_range=last_30_days&order=relevance": "9fc2f82fae3fec04414b4df82e1f2e7f165044376d7c1d5f055991854acfa5e8",
   "site::https://www.nature.com/search?q=agentic+AI": "6efe50f566f347feb59f6af92b5bc161b249554a64f999e7f7f4039163adb80f",
   "site::https://arxiv.org/search/?query=self-driving+laborator*&searchtype=all&abstracts=show&order=-announced_date_first&size=50": "6895ac373ace8547ed212cc1cae6fbfd133f074d296826c98c62835323392a15",
@@ -47,7 +47,7 @@
   "site::https://www.naro.go.jp/publicity_report/press/index.html": "32e702be3fb45641036c2cc3786b0824a4a7627f9223e992529c34036f47bc54",
   "site::https://www.cgiar.org/news": "7c7763b01669f03c57ad7dcada1a94f245e2368d268d6cf574002676517b60ed",
   "site::https://agfundernews.com/?filter-categories=artificial-intelligence": "f7a3fb093f448895fd7605d0aa92a5671e20161f6c8122effce7f91c28a7dc5e",
-  "site::https://grist.org/?s=AI": "f92bf9c23621768d109487fb80d634e2e678a7b147f8f9c274de2c057d66e478",
+  "site::https://grist.org/?s=AI": "1b16d390a9a022623339e9ff49b28d15f0cc8144cc09a4eaca53cc950d69d8b4",
   "site::https://earth.org/?s=Artificial+Intelligence&submit=Search": "ea753ccc70d25951b5eef42f4850d802a9c59736c9306b6eda7d61e9fd8b0cbe",
   "site::https://www.canarymedia.com/search?q=artificial+intelligence&orderBy=postDate+DESC": "f3f286ef439502792792b80981c01a2320b8e52294072885d9723c96cc51c6c1",
   "rss::tag:qiita.com,2005:PublicArticle/2212397": "2026-05-24T16:44:12+09:00",
@@ -707,7 +707,7 @@
   "rss::tag:qiita.com,2005:PublicArticle/2222485": "2026-06-12T12:04:05+09:00",
   "rss::tag:qiita.com,2005:PublicArticle/2222078": "2026-06-12T11:59:32+09:00",
   "rss::tag:qiita.com,2005:PublicArticle/2222442": "2026-06-12T10:50:22+09:00",
-  "site::https://www.msit.go.kr/eng/bbs/list.do?sCode=eng&mPid=2&mId=4": "dd3c117782037ff2d667898f23918287261d9d7e107c83b8a6b92a8947cf891f",
+  "site::https://www.msit.go.kr/eng/bbs/list.do?sCode=eng&mPid=2&mId=4": "e8c2ab6487cb002c8796d50ec8b3ac3f32b4c6d648f1a022ef59752a5053e6bd",
   "rss::tag:qiita.com,2005:PublicArticle/2222041": "2026-06-11T14:57:22+09:00",
   "rss::tag:qiita.com,2005:PublicArticle/2221809": "2026-06-11T01:01:48+09:00",
   "rss::tag:qiita.com,2005:PublicArticle/2222602": "2026-06-12T16:06:42+09:00",
@@ -5447,5 +5447,6 @@
   "rss::https://www.nature.com/articles/s41893-026-01960-2": "2026-10-23",
   "rss::https://www.nature.com/articles/s41893-026-01979-5": "2026-10-23",
   "rss::https://www.nature.com/articles/s41893-026-01970-0": "2026-10-23",
-  "rss::https://www.nature.com/articles/s41893-026-01973-x": "2026-10-23"
+  "rss::https://www.nature.com/articles/s41893-026-01973-x": "2026-10-23",
+  "rss::tag:qiita.com,2005:PublicArticle/2289968": "2026-10-23T14:03:31+09:00"
 }
