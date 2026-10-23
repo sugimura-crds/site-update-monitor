@@ -4,119 +4,105 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 23 Oct 2026 13:39:59 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 18:02:19 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「PHPなんて使ってるやつが悪い」と言っている輩が一番危ない</title>
-<link>https://qiita.com/kotowazaman/items/aab621d31a8501617eb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>f28a47f57a1b0b1f0418bae8309bf6a3d7d2a880fbd21bde9fe984ee91a557d6</guid>
-<pubDate>2026-10-22T12:50:13+09:00</pubDate>
-<description>PHPの緊急脆弱性（通称PHP2Shell、CVE-2026-109618 / CVE-2026-109619）について、仕組みと対応チェックリストをまとめた記事を書きました。 対応方法のまとめが主な内容だったのですが、その後も続いている反応の中で、気になる声がいくつも目に...</description>
+<title>【Qiita】 Claude Haikuはどこからコーディングで失敗するのか：136回測って、本物のバグでやっと線が見えた</title>
+<link>https://qiita.com/yunany90/items/b0fa22097f7e9bcf8642</link>
+<guid>50888515d64e4bb41d248064847276342aea770615aebca78e4ce1919fdbef4d</guid>
+<pubDate>2026-10-24T01:12:43+09:00</pubDate>
+<description>「コーディングにはどのモデルを使うべきか」という問いの答えは、たいてい勘です。私は線を探したかった。安いモデル（Claude Haiku 5.5）が初めて失敗する点、つまりSonnetやOpusにお金を払うべき点です。 そこでWindowsノートPC1台で、コーディングエー...</description>
 </item>
 <item>
-<title>【Qiita】 canvas上の文字にプロポーショナルメトリクスを適用したい！</title>
-<link>https://qiita.com/Kaitou/items/9746c5c262f994c1548c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>7ae5c4afcbf96f59eec996cfab5f6162081fffaa0a0cd81656fa2e2b16e82720</guid>
-<pubDate>2026-10-23T10:05:08+09:00</pubDate>
-<description>最初に結論 CSS の font-feature-settings: &quot;palt&quot; 1; を使うことによって、実現できる可能性があります。 canvas で字詰したくありませんか？ 最近はなかなか使う機会もありませんが、使うとやっぱり便利な局面もあるHTMLのc...</description>
+<title>【Qiita】 超高解像度画像解析Agentを構築する（1）：WPFによるタイルビューアエンジン</title>
+<link>https://qiita.com/ZiYuCai1984/items/4abfa428c601e3d05e47</link>
+<guid>1ce0b760499a3daba2faafa503368fefba3f8babef0d9feafc1e3f741d1d5d75</guid>
+<pubDate>2026-10-24T01:04:58+09:00</pubDate>
+<description>100000 × 100000 ピクセルの画像を1ピクセルあたり4バイトでデコードすると、約40 GBのメモリが必要になる。しかし、ビューアが一度に表示するのは画像の一部分にすぎない。画像全体を読み込む方式では、表示に必要なデータ量と読み込みコストが大きく乖離する。 ZYC...</description>
 </item>
 <item>
-<title>【Qiita】 「ハーネス」とは何か: Claude Code の裏側で起きていることから理解する</title>
-<link>https://qiita.com/taka_yayoi/items/3efc82120727a012c036</link>
-<guid>44b18ee4f34d0ec762c094795ad16154cca3d7816177c73b3a8e256efcf951ef</guid>
-<pubDate>2026-10-23T21:24:08+09:00</pubDate>
-<description>はじめに AIエージェントの話をしていると、「ハーネス」という言葉を目にする機会が増えました。Claude Code の公式ドキュメントでも、「次のステップ」の欄で「すべてのタスクのためのハーネス」という題のブログ記事が紹介されています。 Claude Code 概要 ...</description>
+<title>【Qiita】 dev-orchestra に自作のエージェントを繋いでみた（ローカルLLM編）</title>
+<link>https://qiita.com/istb16/items/076d39eec03d02352da7</link>
+<guid>b6282b99a985e1443871db8787295ded8bbd50c175e516e1911727b5d1e8bb11</guid>
+<pubDate>2026-10-23T23:20:33+09:00</pubDate>
+<description>この記事は tk3.biz のブログ からの転載です。 はじめに 前回は、dev-orchestra のレビュアーとロールの組み替え方を書きました。今回は、Claude Code・Codex・Antigravity 以外の AI を、自分で書いたアダプタで繋ぐ方法です...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code で書いた記事を、別のモデルに原文と照らさせたら言い過ぎが 7 か所あった ― 3 つの型</title>
-<link>https://qiita.com/zdna0x/items/efaee428947072032426</link>
-<guid>c749c03213f874fc7ba89bb116309e45524d7e7a7de8a70513591395dafb5531</guid>
-<pubDate>2026-10-23T21:09:48+09:00</pubDate>
-<description>先に結果 Claude（Opus）が書いた note の記事の下書きを、書いたのとは別のモデル（Fable）に原文と照らさせました。直す所は 7 か所。全部 1 行の直しで直りました。 言い過ぎには 3 つの型がありました。 書き手が組んだ手順を、私が自分でやった体験の...</description>
+<title>【Qiita】 AIエージェントを育てる：VLAで切替時間を短縮できた情報を追加した</title>
+<link>https://qiita.com/masato_y/items/c83d2650a0fc802ec694</link>
+<guid>c7c42fe68a1a94ad345125e0eaddc423e37b168807f3cf8ce0196b057cf5d7b0</guid>
+<pubDate>2026-10-23T23:09:12+09:00</pubDate>
+<description>AIエージェントを育てる：VLAで切替時間を短縮できた情報を追加した 今回試したかったこと 前回は、ミナトパーツ工業について「品質は満たすが、品番切替に時間がかかる」という架空情報を与えました。 その時点では、従来方式の改善案もVLA案も未試験でした。そのため、商談準備...</description>
 </item>
 <item>
-<title>【Qiita】 Google の Harness² を Mac で動かしてみた</title>
-<link>https://qiita.com/Takuya__/items/b0b47ae60780404b65c6</link>
-<guid>4a9e34a4c0901da8ee17655abe12533c4fa8ecbc411de57e4dfa3e82132103f1</guid>
-<pubDate>2026-10-23T19:50:49+09:00</pubDate>
-<description>はじめに Claude Code や Codex のような AI エージェントを仕事で使っていると、同じモデルなのに「指示文を1行足しただけで急にうまくいく」「スキルを1つ作ったら失敗が消えた」という経験をよくします。モデルの性能だけでなく、モデルの周りに置く道具立てが...</description>
-</item>
-<item>
-<title>【農業】 A holistic framework for enhancing the resilience of grassland-based farming systems to climate extremes</title>
-<link>https://www.nature.com/articles/s43016-026-01448-4</link>
-<guid>dffa73fd8bdac5c1c9fb9d262568a869b4486b7745c9141190b10ba2f3d4c259</guid>
+<title>【環境】 A thin carbon membrane to capture carbon</title>
+<link>https://www.nature.com/articles/s41893-026-01960-2</link>
+<guid>459641fb80cc306e784b0ae4ba9099d56dd88744a85c0f8684183f9fca67dcf7</guid>
 <pubDate>2026-10-23</pubDate>
-<description>Grassland-based farming systems face increasing climate challenges. This Perspective presents a holistic framework to assess resilience, identifying trade-offs and synergies among natural, social and formal insurance strategies to enhance adaptability.</description>
+<description>Anthropogenic emissions are rapidly increasing atmospheric CO2 levels, with severe consequences for the global climate. Researchers have developed a carbon membrane as thin as only two molecular layers that sieves and captures CO2 with very high flux and selectivity, holding promise for climate change mitigati</description>
 </item>
 <item>
-<title>【農業】 A call for equity and mycotoxin control in Africa</title>
-<link>https://www.nature.com/articles/s43016-026-01449-3</link>
-<guid>388d38fae136764dfb3a1fa68a502a658501a04c46241178b67273efc5b886df</guid>
+<title>【環境】 Recyclable flow battery chemistry</title>
+<link>https://www.nature.com/articles/s41893-026-01979-5</link>
+<guid>2d88c4b1d161f35e39c0e3d8b14f3bea21be0254e16a940f95858a134d4fa42a</guid>
 <pubDate>2026-10-23</pubDate>
-<description>Despite decades of research and surveillance, millions of Africans continue to be exposed to mycotoxin-contaminated food. Addressing this is a fundamental condition for public health, market fairness and development justice.</description>
+<description>Turning water-based flow batteries into a truly sustainable technology hinges on recycling the organic molecules inside the battery. A redox-active organic molecule has now been developed that not only outperforms the industry-standard vanadium benchmark but also offers exceptional reusability.</description>
 </item>
 <item>
-<title>【農業】 Coupling irrigation technology upgrades with targeted expansion enables water-efficient and climate-resilient cereal production in China</title>
-<link>https://www.nature.com/articles/s43016-026-01455-5</link>
-<guid>5a5d1b3736d2e92b4b9f62496d3fe4e6079e946ced1d438dccb9f563f22359bb</guid>
+<title>【環境】 A circular oligo(disulfide) anolyte enables practical aqueous redox flow batteries</title>
+<link>https://www.nature.com/articles/s41893-026-01970-0</link>
+<guid>d80570a1d640b8c2b5e49655e2d0e6e26cb83771ba111ad275dfc46a367d00e2</guid>
 <pubDate>2026-10-23</pubDate>
-<description>Using farmer surveys, meta-analyses and county-level data, this study develops a region-specific framework showing that targeted irrigation investments can improve water efficiency and sustain crop yields in China under future climate conditions.</description>
+<description>Aqueous flow batteries are ideal for grid storage but lack sustainable, high-capacity anolytes. Here the authors report a recyclable oligo(disulfide) design that combines closed-loop recyclability with good electrochemical performance.</description>
 </item>
 <item>
-<title>【環境】 Climate warming boosts frequency and intensity of southern Africa’s rainfall extremes</title>
-<link>https://www.nature.com/articles/s41558-026-02772-0</link>
-<guid>8c9c7e1bf18b3cdc1ab4d938612f13011f2b9e80ef57921563ea4d166d62542e</guid>
+<title>【環境】 Efficient carbon dioxide separation with molecularly thin bilayer carbon membranes</title>
+<link>https://www.nature.com/articles/s41893-026-01973-x</link>
+<guid>eaaac134b9021ecbd7d4ade286dbac2bc01b06a9dd91061495e40b9c687258de</guid>
 <pubDate>2026-10-23</pubDate>
-<description>Extreme southward swings of the South Indian convergence zone (a major source of rainfall across southern Africa) can trigger devastating floods. Climate-model projections indicate that these swings might occur twice as often in the twenty-first century as in the previous century and produce more intense rainf</description>
-</item>
-<item>
-<title>【自動自律実験】 Elusive snow leopards and evasive particles: Books in brief</title>
-<link>https://www.nature.com/articles/d41586-026-03395-3</link>
-<guid>65e6baedc8345fd3ad4d32f4c548ff1df38721056b5f3175d10bb2221a00fa71</guid>
-<pubDate>2026-10-23</pubDate>
-<description>Andrew Robinson reviews five of the best science picks.</description>
-</item>
-<item>
-<title>【自動自律実験】 Sleep declines in rural communities after electricity arrives</title>
-<link>https://www.nature.com/articles/d41586-026-03318-2</link>
-<guid>39743bae351431ece48d1d8a99ed2acd348fdcea0ac88efd332c290a7cde18ce</guid>
-<pubDate>2026-10-23</pubDate>
-<description>Scientists tracked the changing sleep patterns of Indigenous people in Argentina who gained access to mains electricity — and smart phones.</description>
-</item>
-<item>
-<title>【自動自律実験】 Rebody</title>
-<link>https://www.nature.com/articles/d41586-026-03108-w</link>
-<guid>db1d8f2031f5a0d87f4cb63b4d0371bc8947d319df6d309d8a61938e870dfc48</guid>
-<pubDate>2026-10-23</pubDate>
-<description>Fighting fit.</description>
-</item>
-<item>
-<title>【自動自律実験】 Moderna mRNA vaccine almost halves the risk of skin cancer returning</title>
-<link>https://www.nature.com/articles/d41586-026-03417-0</link>
-<guid>3658cb8e566641f6a482193daa5b435f33084bcb3921ad499169ea6322ca1cde</guid>
-<pubDate>2026-10-23</pubDate>
-<description>Long-awaited results from phase III trial show a huge benefit in treating treatment-resistant melanoma.</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>412d0d425b22a31da3213feec85610fd808bd9676d3a49898b47abecce115f9a</guid>
-<pubDate>Fri, 23 Oct 2026 13:39:10 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<description>Membrane-based separations offer a promising energy-efficient approach to mitigating CO2 emissions. Here the authors develop molecularly thin graphene–amorphous carbon membranes that simultaneously deliver sharp molecular sieving, high permeance and mechanical stability for selective CO2 separation.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>39499e3317055381631aa7b86a3e1f69cde1ba0a8b76578263fd3ef9b1f332e6</guid>
-<pubDate>Fri, 23 Oct 2026 13:39:13 GMT</pubDate>
-<description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
+<link>https://www.nature.com/articles/s41467-026-78842-w</link>
+<guid>a47b2a15fd2123a838a6f44bb5f00c22adc642d8fd8b4e8d00eccea91af9640a</guid>
+<pubDate>Fri, 23 Oct 2026 18:01:26 GMT</pubDate>
+<description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43856-026-01961-4</link>
-<guid>13943f7c841dd0cd9d2c8a26e7826d8c2e3d7eaebf4eaa83c52eae5a5c113cc6</guid>
-<pubDate>Fri, 23 Oct 2026 13:39:16 GMT</pubDate>
+<guid>d908a8bf98c2ebcb6ce07dea8fad9b1b8e3aeb3882bcb8c2810a31f74b296d97</guid>
+<pubDate>Fri, 23 Oct 2026 18:01:28 GMT</pubDate>
 <description>While clinical guidelines remain essential for standardizing medical care, their utility decays as manual updating fails to keep pace with the exponential growth in medical evidence. To address this challenge, we developed a Multi-Agent Retrieval-Augmented Generation (MARG) system dedicated to clinical guideline development and maintenance. We employed a multi-phase evaluation framework to assess MARG’s performance across agent-agent interaction and human-AI collaboration tasks. The system was evaluated against seven 2025 liver disease guidelines, encompassing 137 clinical scenarios. Here we show MARG achieve 77.4% overall concordance with the guidelines, with consistency rates rising from 45.8% under weak consensus to 87.8% at full consensus. Domain-specific performance is 65.5% for diagnosis, 75.0% for prevention, and 81.0% for treatment. MARG also assists in evidence integration, outperforming manual review in recency (6.3% vs. 0.9%), reproducibility (25.5% vs. 7.5%), and quality (24.2% vs. 8.0% Level I evidence). Through four rounds of structured debate, the system resolves 95.8% of recommendation conflicts and achieves strong consensus (&amp;gt;85%) in 74.5% of final outputs. In a</description>
+</item>
+<item>
+<title>【U.S.】 Beyond Simple Electrons: The Twist of Topological Quasiparticles in Matter</title>
+<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
+<guid>1e91e04fa8a7937a249aff1e68751adc08434dded2b14acd50d1c2424180eaa6</guid>
+<pubDate>Fri, 23 Oct 2026 18:01:34 GMT</pubDate>
+<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
+</item>
+<item>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>9899e6db403717e97d635dbc20c0281f77d1fa0e0e6e56258bb195f47b3fb65c</guid>
+<pubDate>Fri, 23 Oct 2026 18:01:34 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>35655197df873a681cb640da5329b0d33f1046a5d62171b40d67112aecd5b8cb</guid>
+<pubDate>Fri, 23 Oct 2026 18:01:58 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+</item>
+<item>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>f76e907adac8a255d27c6fcda3b5dc190520c404d6f5a596a79769b078362bf6</guid>
+<pubDate>Fri, 23 Oct 2026 18:02:07 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
