@@ -4,62 +4,118 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 23 Oct 2026 08:05:50 GMT</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 13:39:59 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 ブラウザのエコー除去で別のアプリの音も消したくて、&quot;all&quot; にたどり着いた話（2026年版）</title>
-<link>https://qiita.com/ntaka329/items/df8189f1be86b59e8bba</link>
-<guid>a60ced03c8ff213b9d460a3d797a9f067f9ce2dcb09a1423161f4191523d8af1</guid>
-<pubDate>2026-10-23T16:08:52+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 ブラウザ上で動く、音声で話しかけるアプリを試作していました。マイクを開くときにブラウザのエコー除去をオンにしておけば、スピーカーから出た音はマイクの音から消えるだろうと思っていました。 ところが、同じ Mac の同じスピーカーから鳴っ...</description>
+<title>【Qiita】 「PHPなんて使ってるやつが悪い」と言っている輩が一番危ない</title>
+<link>https://qiita.com/kotowazaman/items/aab621d31a8501617eb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f28a47f57a1b0b1f0418bae8309bf6a3d7d2a880fbd21bde9fe984ee91a557d6</guid>
+<pubDate>2026-10-22T12:50:13+09:00</pubDate>
+<description>PHPの緊急脆弱性（通称PHP2Shell、CVE-2026-109618 / CVE-2026-109619）について、仕組みと対応チェックリストをまとめた記事を書きました。 対応方法のまとめが主な内容だったのですが、その後も続いている反応の中で、気になる声がいくつも目に...</description>
 </item>
 <item>
-<title>【Qiita】 Meta の AI エージェント「Muse」で、10 億トークンを無料で受け取る方法（招待コード付き）</title>
-<link>https://qiita.com/chooser/items/96c89dc7fac96c3688c8</link>
-<guid>effb7da6b723ac62e51822c341b7d11e59a30b9fdd39ee003ca91bd70fe9f769</guid>
-<pubDate>2026-10-23T16:19:52+09:00</pubDate>
-<description>上原正吉（EarthLink Network Co., Ltd.）。Claude Codeを開発の主体に据え、20を超えるプロダクトを1人で同時に開発・運用しています。これは、その現場の実測記です。 Meta の AI エージェント「Muse」で、10 億トークンを無料...</description>
+<title>【Qiita】 canvas上の文字にプロポーショナルメトリクスを適用したい！</title>
+<link>https://qiita.com/Kaitou/items/9746c5c262f994c1548c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>7ae5c4afcbf96f59eec996cfab5f6162081fffaa0a0cd81656fa2e2b16e82720</guid>
+<pubDate>2026-10-23T10:05:08+09:00</pubDate>
+<description>最初に結論 CSS の font-feature-settings: &quot;palt&quot; 1; を使うことによって、実現できる可能性があります。 canvas で字詰したくありませんか？ 最近はなかなか使う機会もありませんが、使うとやっぱり便利な局面もあるHTMLのc...</description>
 </item>
 <item>
-<title>【Qiita】 【速報】VS Code 1.142 に Canvas が来た！チャットの横でエージェントと同じ画面を触れる「Interactive Canvases」を整理してみた</title>
-<link>https://qiita.com/shahin0809/items/81e6a6737b2254bdc6ed</link>
-<guid>301df93af47d1c4491351c4b78953657d2a9e42e7791529b28ed67a2a2f290f6</guid>
-<pubDate>2026-10-23T15:50:22+09:00</pubDate>
-<description>はじめに 常に VS Code / GitHub Copilot の動向を追っている、Microsoft Student Ambassador 兼 GitHub Copilot User Group Japan（Gh-CUG）運営のロホマン シャヒンです！ この記事が...</description>
+<title>【Qiita】 「ハーネス」とは何か: Claude Code の裏側で起きていることから理解する</title>
+<link>https://qiita.com/taka_yayoi/items/3efc82120727a012c036</link>
+<guid>44b18ee4f34d0ec762c094795ad16154cca3d7816177c73b3a8e256efcf951ef</guid>
+<pubDate>2026-10-23T21:24:08+09:00</pubDate>
+<description>はじめに AIエージェントの話をしていると、「ハーネス」という言葉を目にする機会が増えました。Claude Code の公式ドキュメントでも、「次のステップ」の欄で「すべてのタスクのためのハーネス」という題のブログ記事が紹介されています。 Claude Code 概要 ...</description>
 </item>
 <item>
-<title>【Qiita】 0。OpenAIのエージェントが自分の監視を2度弱めたと発表した日、自分のパイプラインの規則が「自分で書き換えられない場所」にあった数</title>
-<link>https://qiita.com/Hideki_Tamae/items/71d583b3e20f453cbd3a</link>
-<guid>e2fc3a668709973460031ad90b6d77b9948f7f6ab64944318c0459b488f591aa</guid>
-<pubDate>2026-10-23T15:30:11+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿パイプライン(自分=Claudeがpush権限とスケジュール設定の変更権限を持つ範囲)で、自分を律しているはずの「規則」のうち、自分自身の書き込み権限が及ばない場所に置かれているものの...</description>
+<title>【Qiita】 Claude Code で書いた記事を、別のモデルに原文と照らさせたら言い過ぎが 7 か所あった ― 3 つの型</title>
+<link>https://qiita.com/zdna0x/items/efaee428947072032426</link>
+<guid>c749c03213f874fc7ba89bb116309e45524d7e7a7de8a70513591395dafb5531</guid>
+<pubDate>2026-10-23T21:09:48+09:00</pubDate>
+<description>先に結果 Claude（Opus）が書いた note の記事の下書きを、書いたのとは別のモデル（Fable）に原文と照らさせました。直す所は 7 か所。全部 1 行の直しで直りました。 言い過ぎには 3 つの型がありました。 書き手が組んだ手順を、私が自分でやった体験の...</description>
 </item>
 <item>
-<title>【Qiita】 作って終わりじゃない。PHP騒動から考えるAI時代のモノづくり</title>
-<link>https://qiita.com/benjuwan/items/dfdf178488106c6dcb70</link>
-<guid>e9e694c1ed92f05a29e2c02fc0ea730a5d41a224cd2da98879c1295d84cc2e03</guid>
-<pubDate>2026-10-23T14:30:13+09:00</pubDate>
-<description>はじめに PHP騒動（PHP2Shell）をきっかけに、改めて考えたことがあります。 SNSでは、よくあるホームページを例に「なぜ、どこにPHPを使う必要があるのか？」という趣旨の投稿も見かけました。 たしかに、非エンジニアやHTML、CSSを少し知っている方々からすると...</description>
+<title>【Qiita】 Google の Harness² を Mac で動かしてみた</title>
+<link>https://qiita.com/Takuya__/items/b0b47ae60780404b65c6</link>
+<guid>4a9e34a4c0901da8ee17655abe12533c4fa8ecbc411de57e4dfa3e82132103f1</guid>
+<pubDate>2026-10-23T19:50:49+09:00</pubDate>
+<description>はじめに Claude Code や Codex のような AI エージェントを仕事で使っていると、同じモデルなのに「指示文を1行足しただけで急にうまくいく」「スキルを1つ作ったら失敗が消えた」という経験をよくします。モデルの性能だけでなく、モデルの周りに置く道具立てが...</description>
+</item>
+<item>
+<title>【農業】 A holistic framework for enhancing the resilience of grassland-based farming systems to climate extremes</title>
+<link>https://www.nature.com/articles/s43016-026-01448-4</link>
+<guid>dffa73fd8bdac5c1c9fb9d262568a869b4486b7745c9141190b10ba2f3d4c259</guid>
+<pubDate>2026-10-23</pubDate>
+<description>Grassland-based farming systems face increasing climate challenges. This Perspective presents a holistic framework to assess resilience, identifying trade-offs and synergies among natural, social and formal insurance strategies to enhance adaptability.</description>
+</item>
+<item>
+<title>【農業】 A call for equity and mycotoxin control in Africa</title>
+<link>https://www.nature.com/articles/s43016-026-01449-3</link>
+<guid>388d38fae136764dfb3a1fa68a502a658501a04c46241178b67273efc5b886df</guid>
+<pubDate>2026-10-23</pubDate>
+<description>Despite decades of research and surveillance, millions of Africans continue to be exposed to mycotoxin-contaminated food. Addressing this is a fundamental condition for public health, market fairness and development justice.</description>
+</item>
+<item>
+<title>【農業】 Coupling irrigation technology upgrades with targeted expansion enables water-efficient and climate-resilient cereal production in China</title>
+<link>https://www.nature.com/articles/s43016-026-01455-5</link>
+<guid>5a5d1b3736d2e92b4b9f62496d3fe4e6079e946ced1d438dccb9f563f22359bb</guid>
+<pubDate>2026-10-23</pubDate>
+<description>Using farmer surveys, meta-analyses and county-level data, this study develops a region-specific framework showing that targeted irrigation investments can improve water efficiency and sustain crop yields in China under future climate conditions.</description>
+</item>
+<item>
+<title>【環境】 Climate warming boosts frequency and intensity of southern Africa’s rainfall extremes</title>
+<link>https://www.nature.com/articles/s41558-026-02772-0</link>
+<guid>8c9c7e1bf18b3cdc1ab4d938612f13011f2b9e80ef57921563ea4d166d62542e</guid>
+<pubDate>2026-10-23</pubDate>
+<description>Extreme southward swings of the South Indian convergence zone (a major source of rainfall across southern Africa) can trigger devastating floods. Climate-model projections indicate that these swings might occur twice as often in the twenty-first century as in the previous century and produce more intense rainf</description>
+</item>
+<item>
+<title>【自動自律実験】 Elusive snow leopards and evasive particles: Books in brief</title>
+<link>https://www.nature.com/articles/d41586-026-03395-3</link>
+<guid>65e6baedc8345fd3ad4d32f4c548ff1df38721056b5f3175d10bb2221a00fa71</guid>
+<pubDate>2026-10-23</pubDate>
+<description>Andrew Robinson reviews five of the best science picks.</description>
+</item>
+<item>
+<title>【自動自律実験】 Sleep declines in rural communities after electricity arrives</title>
+<link>https://www.nature.com/articles/d41586-026-03318-2</link>
+<guid>39743bae351431ece48d1d8a99ed2acd348fdcea0ac88efd332c290a7cde18ce</guid>
+<pubDate>2026-10-23</pubDate>
+<description>Scientists tracked the changing sleep patterns of Indigenous people in Argentina who gained access to mains electricity — and smart phones.</description>
+</item>
+<item>
+<title>【自動自律実験】 Rebody</title>
+<link>https://www.nature.com/articles/d41586-026-03108-w</link>
+<guid>db1d8f2031f5a0d87f4cb63b4d0371bc8947d319df6d309d8a61938e870dfc48</guid>
+<pubDate>2026-10-23</pubDate>
+<description>Fighting fit.</description>
+</item>
+<item>
+<title>【自動自律実験】 Moderna mRNA vaccine almost halves the risk of skin cancer returning</title>
+<link>https://www.nature.com/articles/d41586-026-03417-0</link>
+<guid>3658cb8e566641f6a482193daa5b435f33084bcb3921ad499169ea6322ca1cde</guid>
+<pubDate>2026-10-23</pubDate>
+<description>Long-awaited results from phase III trial show a huge benefit in treating treatment-resistant melanoma.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>15f45f9f391fd5f8be36387d83a9219aed7c9efc7bb3e3d5e76d28e281b9a2fa</guid>
-<pubDate>Fri, 23 Oct 2026 08:04:39 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>412d0d425b22a31da3213feec85610fd808bd9676d3a49898b47abecce115f9a</guid>
+<pubDate>Fri, 23 Oct 2026 13:39:10 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78284-4</link>
-<guid>3567b051e7f69e79afd74c36d587b298726d71e963f818be1bbce680c52ea20a</guid>
-<pubDate>Fri, 23 Oct 2026 08:04:43 GMT</pubDate>
+<guid>39499e3317055381631aa7b86a3e1f69cde1ba0a8b76578263fd3ef9b1f332e6</guid>
+<pubDate>Fri, 23 Oct 2026 13:39:13 GMT</pubDate>
 <description>Oral hygiene is fundamental to systemic health, yet toothbrushing, the most common preventive practice, remains largely unguided and unquantified, contributing to the global burden of oral diseases. Current smart toothbrush systems fundamentally fail to capture the critical fine-scale biomechanics at the bristle-tooth interface, which is essential for evaluating clinical adherence and preventing gingival damage. Here we present DigiDent, an AI powered sensing to interpretation system that renders brushing micro-biomechanics computationally interpretable by measuring in-situ contact dynamics at bristle-tooth interface with an embedded E-Bristle sensor. DigiDent fuses bristle-level contact sensing with inertial sensing through a dual-stream neural inference architecture, converting contact-rich brushing behavior into quantitative and interpretable metrics of force, duration, contact-motion pattern, and fine-grained coverage. In validation experiments, DigiDent achieved &amp;gt;99% recognition of motion-contact patterns and 99.84% classification accuracy across 21 brushing subregions. Pilot user-operation verification further demonstrates the feasibility of DigiDent for real-use brushing </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43856-026-01961-4</link>
-<guid>aa8cacc830c5e375b482d63b016cf98ead2be59252564fecddc59223d5272907</guid>
-<pubDate>Fri, 23 Oct 2026 08:04:45 GMT</pubDate>
+<guid>13943f7c841dd0cd9d2c8a26e7826d8c2e3d7eaebf4eaa83c52eae5a5c113cc6</guid>
+<pubDate>Fri, 23 Oct 2026 13:39:16 GMT</pubDate>
 <description>While clinical guidelines remain essential for standardizing medical care, their utility decays as manual updating fails to keep pace with the exponential growth in medical evidence. To address this challenge, we developed a Multi-Agent Retrieval-Augmented Generation (MARG) system dedicated to clinical guideline development and maintenance. We employed a multi-phase evaluation framework to assess MARG’s performance across agent-agent interaction and human-AI collaboration tasks. The system was evaluated against seven 2025 liver disease guidelines, encompassing 137 clinical scenarios. Here we show MARG achieve 77.4% overall concordance with the guidelines, with consistency rates rising from 45.8% under weak consensus to 87.8% at full consensus. Domain-specific performance is 65.5% for diagnosis, 75.0% for prevention, and 81.0% for treatment. MARG also assists in evidence integration, outperforming manual review in recency (6.3% vs. 0.9%), reproducibility (25.5% vs. 7.5%), and quality (24.2% vs. 8.0% Level I evidence). Through four rounds of structured debate, the system resolves 95.8% of recommendation conflicts and achieves strong consensus (&amp;gt;85%) in 74.5% of final outputs. In a</description>
 </item>
 
