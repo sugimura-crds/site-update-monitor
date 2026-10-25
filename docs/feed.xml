@@ -4,49 +4,36 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 25 Oct 2026 16:55:18 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 19:24:00 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claudeの組織移行でClaude Codeのセッション引き継ぎはAIに頼むだけ【依頼文6つ】</title>
-<link>https://qiita.com/TakanobuSano/items/182b8b9f7b0e95b1867b</link>
-<guid>5eb57b1eefa0823e6e00f6c2c1c62ca5852037115c561ae63690a594ca00f48d</guid>
-<pubDate>2026-10-26T00:37:57+09:00</pubDate>
-<description>Claude の組織を移ったら Claude Code デスクトップのセッション一覧がほぼ空に。AI に頼むと旧組織の一覧を引き継げて、人間がしたのは引き継ぎに関する依頼 6 回と ⌘Q だけでした。実際の依頼文と移行前チェックリストをまとめます。 この記事の...</description>
+<title>【Qiita】 トークン代 9 割減？プロンプトキャッシュの仕組みと効果の実測 — 保持時間が過ぎるとコスト 11 倍に</title>
+<link>https://qiita.com/songchong/items/7144594b0ad9529a168b</link>
+<guid>ff061b3147257c89e10129cf910e4b6948820ced9c114af04959032aa561c4c7</guid>
+<pubDate>2026-10-26T04:00:26+09:00</pubDate>
+<description>AI エージェントの料金の話では、よく「プロンプトキャッシュで入力が 9 割安くなる」と言われます。上の図のとおり、キャッシュから読む料金は、Claude Sonnet 5.5 で通常の入力の 0.05 倍（95% 引き）、OpenAI の GPT-5.6 以降と Gem...</description>
 </item>
 <item>
-<title>【Qiita】 無料枠の Muse に日常タスクを任せた話 — Kaggle用エージェントは節約したい</title>
-<link>https://qiita.com/Kazeneko/items/ad1a06e3235879329652</link>
-<guid>fb917af5377db1f280ec084118a6634c5ea323ae6388c40ad84fafd8472b4903</guid>
-<pubDate>2026-10-25T23:41:59+09:00</pubDate>
-<description>はじめに AI エージェントは試したい。でも「有料版のおまけ」感が強いサービスは、つい傍観していました。 コードが必要なKaggle では Cursor などのエージェントをがっつり使うので、枠とコストは節約したい。一方でプライベートのちょっとした便利タスクは、任せたいタ...</description>
+<title>【Qiita】 AI に資料を毎回貼るな！ファイル・SKILL・AGENTS.md 活用でトークン課金最大 6 割減？ 6 つの方法を試してみた</title>
+<link>https://qiita.com/songchong/items/235bed0f8c72f268477e</link>
+<guid>182e22c79789f709db2e277150173961aca2b89656284de7ad9d14243193ac33</guid>
+<pubDate>2026-10-26T04:00:21+09:00</pubDate>
+<description>我々が運営する IT連携マップの技術ガイド（プロンプトキャッシュとは など）では、「前のやり取りと先頭が同じ部分はキャッシュから読まれ、料金が大きく下がる」という仕組みを解説してきました。プロンプトキャッシュは、AI エージェントと AI サービス側（Anthropic ...</description>
 </item>
 <item>
-<title>【Qiita】 AI Agentに頼んだら、ソースコードがなくてもリバースエンジニアリングでゲーム開発を継続でき、頓挫していた第2作目が完成した話</title>
-<link>https://qiita.com/miyabi_ver39/items/4bab3b71f4376acb3edd</link>
-<guid>049f00c2b618b9b08e6dcd33c85ab30670b1365bc42417396ceccaeca5e769da</guid>
-<pubDate>2026-10-25T22:45:57+09:00</pubDate>
-<description>はじめに 同人ゲームを作っていました。落ちものパズル(テトリス風)に東方Projectのキャラが登場する、サークル「無名地帯」名義の二次創作ゲームです。 その続編、第2作目は体験版(サンプル版)を出したところで止まっていました。 完成させられないまま時間が経ち、さらに致命...</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>cffc82aaff54bbb5b726a13d5ac29a6c68f0c8d7741437b04a6c638b95dc931b</guid>
+<pubDate>Sun, 25 Oct 2026 19:23:40 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 <item>
-<title>【Qiita】 頭の中では言葉を使わないAIエージェント「HybridAgent」を Mac で動かしてみた</title>
-<link>https://qiita.com/Takuya__/items/44a519482613ea204c15</link>
-<guid>2962beefddf3a1f774c2f990742b48654ac5ce23e5ae0363b58b17899fcebc4a</guid>
-<pubDate>2026-10-25T22:44:02+09:00</pubDate>
-<description>はじめに：AIエージェントは「考えごと」まで全部書き出している ChatGPT や Claude に難しい質問をすると、答えの前に長い「考える過程」が流れることがあります。AIエージェントも同じで、検索や Python を呼ぶ前後に、「まずこれを調べて」「この結果からす...</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>f5febbf2abba40966f1f1e2bcf0d16b24185493573f6d972280b16f57d4fbbb2</guid>
-<pubDate>Sun, 25 Oct 2026 16:54:36 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>318cc4cc4eabe023f3633217c1f25ddd1368614b186dcdb16c30348c2d0bf8bf</guid>
-<pubDate>Sun, 25 Oct 2026 16:54:39 GMT</pubDate>
-<description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>6260ac84cae4be6327aac315206cfd0ee78a893f82738448c9afdc1838887049</guid>
+<pubDate>Sun, 25 Oct 2026 19:23:41 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
