@@ -4,42 +4,50 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 24 Oct 2026 23:52:43 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 02:20:05 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 デザインの在りかをリポジトリに書くとAIエージェントがFigmaまで辿れる - 画面一覧表とFigma MCPでUI文言を画面単位でレビューする</title>
-<link>https://qiita.com/zucky-quest/items/d65e03e298c9e636160f</link>
-<guid>ee4b642c83e8e6dc1f7c849cdaf3d8f5e70dc677bf7b9ee1dc86bc5819d35de1</guid>
-<pubDate>2026-10-25T08:22:22+09:00</pubDate>
-<description>TL;DR 以前は、リポジトリからデザインデータ（Figma）へ辿る導線がありませんでした。どこにデザインがあるのかは、知っている人に聞くしかありませんでした そこで、リポジトリの画面一覧表に「仕様書・デザイン・テスト・実装」の列を並べ、各画面の Figma のセクショ...</description>
+<title>【Qiita】 コーディングエージェントの周辺道具メモ8本：CLAUDE.md、mcp2cli、mcp-agent、OpenCode、git worktree ほか</title>
+<link>https://qiita.com/redreamality/items/7dc4385b49fbb7204d6b</link>
+<guid>0d3ae1c666b49f2e5877acb8e7729b620a0345fe55932b43006289c7c06fae8f</guid>
+<pubDate>2026-10-25T11:08:46+09:00</pubDate>
+<description>コーディングエージェントを毎日使っていると、モデルそのものより「周りの道具」で体験が大きく変わることに気づきます。指示ファイルの書き方、MCP との付き合い方、作業ツリーの分け方、UI の仕上げ方。ここ最近ブックマークして読み返しているものを 8 本、自分用のメモとしてまと...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code の匿名運用でOSのユーザー名が録画に写った：探す名前を書かない検査</title>
-<link>https://qiita.com/kaiyaku_iyada/items/6b76e7acf2a20d7c4e9c</link>
-<guid>96176e7bd8b89812b89eba893f465464ba6eb8d441a6cdae8c7bfc363e330f49</guid>
-<pubDate>2026-10-25T07:58:27+09:00</pubDate>
-<description>この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。Anthropic社とは無関係の個人の実験で、同社の公認や提携ではありません。書いてあるのは、2026年10月16日〜22日に私の環境で残った記録（...</description>
+<title>【Qiita】 dev-orchestra をアップデートしてみた（Claude Code / Codex / Antigravity）</title>
+<link>https://qiita.com/istb16/items/4d405ba48e5c70f41514</link>
+<guid>cb3dfc56e39fcb45a6a464f9c0a1b823f6d16031a1cc896541bb08448b7eb1f7</guid>
+<pubDate>2026-10-25T10:48:01+09:00</pubDate>
+<description>この記事は tk3.biz のブログ からの転載です。 はじめに 前回は、dev-orchestra に自作のエージェントを繋ぎました。連載の最後は、dev-orchestra を新しい版に更新する方法です。 dev-orchestra は 1.0.0 のあと、1.1...</description>
 </item>
 <item>
-<title>【Qiita】 壊れた計算式を「AIなし」で直すマクロを作ってもらった話 ── #DIV/0! が 0.17秒で消えた朝</title>
-<link>https://qiita.com/shu15511551/items/686fbd8bf5366fc150f5</link>
-<guid>ba7472b3fbc3880bd3a43861820ad10ca6cdb255b48c9ca42fa91a10004ef1af</guid>
-<pubDate>2026-10-25T07:41:26+09:00</pubDate>
-<description>はじめに 前回の記事は、マクロのコードを読まなくなった私の机の上で、散らばっていた窓を一枚にまとめた「統合マクロフォーム」の話でした。 あの記事のあと、番頭役のオーパス先生（Claude Opus）がバリバリと働いてくれていたのですが……またまたやってきました、使用...</description>
+<title>【Qiita】 Agent Skillsが財団に寄贈された日、記事執筆タスクに業務無関係なスキルが4個積まれていた</title>
+<link>https://qiita.com/Hideki_Tamae/items/e533e4c8feef2630fe6b</link>
+<guid>220e46afff9a4aa63d9fe08744b4d46e8c04941c3e0e4baa9642bca5cc86074e</guid>
+<pubDate>2026-10-25T09:49:10+09:00</pubDate>
+<description>はじめに 4。 これが今回の数字です。何の数かというと、この記事投稿タスク(このAIエージェントセッション)が今回の実行で読み込んでいたスキル一覧のうち、田前個人の事業(経営戦略・LINE特典・ケア経済記事・文明OS構築)に直接紐づく、記事執筆とは無関係なカスタムスキルの...</description>
 </item>
 <item>
-<title>【Qiita】 LLMに記憶を持たせる【第5部】― 実装編</title>
-<link>https://qiita.com/EasyCording/items/144a792bcfc8ae671cff</link>
-<guid>9af03eb32e5f038c814b5930a786c7a63b18820a124a0525a1477f4a23cb6a37</guid>
-<pubDate>2026-10-25T07:06:50+09:00</pubDate>
-<description>はじめに 第4部で「最終回」と銘打ち、概念ID・経験ID・結合重みを用いた連想記憶の学習と想起までを解説した。 ベクトル検索（Embedding）に頼らず、SQLiteのシンプルなリレーショナルモデルとLLMだけで、過去の日記から「気分転換 ➔ 登山」という連想をたどり、...</description>
+<title>【Anthropic】 Introducing Claude Opus 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>e2a632fd2a3dcbf2693d49ecb90dbc322a592819a79e786d48faba71f49fea23</guid>
+<pubDate>Sun, 25 Oct 2026 02:19:10 GMT</pubDate>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43586-026-00542-y</link>
-<guid>82a3135bd52ed4b54b95d9076e9c841091812a9a0a9b73c2dd712317fff6b8b5</guid>
-<pubDate>Sat, 24 Oct 2026 23:52:04 GMT</pubDate>
-<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>6a5fd319ac28d7d29e4f7e23b430927a30bbffafa04d41b711c60241c577f2d8</guid>
+<pubDate>Sun, 25 Oct 2026 02:19:14 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>72f6d76b76980d598cc17126f3e006934171b4684bc897ed40487e394a748951</guid>
+<pubDate>Sun, 25 Oct 2026 02:19:46 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
