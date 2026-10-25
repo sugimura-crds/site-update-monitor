@@ -4,64 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 25 Oct 2026 12:52:04 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 16:55:18 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 eMudhra事件でWebアプリ開発者が点検すべきこと</title>
-<link>https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>b0fc2db85665ff11bf96f58783270813c1df91d575478aa4746231b77e653d57</guid>
-<pubDate>2026-10-25T01:45:38+09:00</pubDate>
-<description>2026年10月、認証局eMudhraの中間CA秘密鍵が極端に弱く、公開情報から復元できる問題が明らかになりました。復元した秘密鍵を用いて攻撃者が他人のドメインの証明書を偽造できるため、インターネットの信頼基盤が揺らぐ事件です。 ただし、この事件を正しく理解することはなかな...</description>
+<title>【Qiita】 Claudeの組織移行でClaude Codeのセッション引き継ぎはAIに頼むだけ【依頼文6つ】</title>
+<link>https://qiita.com/TakanobuSano/items/182b8b9f7b0e95b1867b</link>
+<guid>5eb57b1eefa0823e6e00f6c2c1c62ca5852037115c561ae63690a594ca00f48d</guid>
+<pubDate>2026-10-26T00:37:57+09:00</pubDate>
+<description>Claude の組織を移ったら Claude Code デスクトップのセッション一覧がほぼ空に。AI に頼むと旧組織の一覧を引き継げて、人間がしたのは引き継ぎに関する依頼 6 回と ⌘Q だけでした。実際の依頼文と移行前チェックリストをまとめます。 この記事の...</description>
 </item>
 <item>
-<title>【Qiita】 耳で聞く！Python で学ぶ マクロ経済学 入門 35</title>
-<link>https://qiita.com/maskot1977/items/6db42783901df1982d5d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>1a00e3e99aa05b4ea02348847e1f9b074bfd1ae4e1c253acbdf36b01613b1451</guid>
-<pubDate>2026-10-25T08:35:05+09:00</pubDate>
-<description>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: 動画のタイトル タイトル: 『PB黒字化目標が経済を自滅させる : Pythonで学ぶマクロ経済学入門 Podcast 35』 配信チャンネル: PythonEc...</description>
+<title>【Qiita】 無料枠の Muse に日常タスクを任せた話 — Kaggle用エージェントは節約したい</title>
+<link>https://qiita.com/Kazeneko/items/ad1a06e3235879329652</link>
+<guid>fb917af5377db1f280ec084118a6634c5ea323ae6388c40ad84fafd8472b4903</guid>
+<pubDate>2026-10-25T23:41:59+09:00</pubDate>
+<description>はじめに AI エージェントは試したい。でも「有料版のおまけ」感が強いサービスは、つい傍観していました。 コードが必要なKaggle では Cursor などのエージェントをがっつり使うので、枠とコストは節約したい。一方でプライベートのちょっとした便利タスクは、任せたいタ...</description>
 </item>
 <item>
-<title>【Qiita】 MetaのパーソナルAI「muse」を持ち歩けるポケットデバイスを作ってみた</title>
-<link>https://qiita.com/tantan21jp/items/ca0c169f216262d615f8</link>
-<guid>1911d7984111ffc2bb89cebd30260bb77469a1887f7c7d230c3715fe6dc29846</guid>
-<pubDate>2026-10-25T20:32:58+09:00</pubDate>
-<description>約4,000円のマイコン1本、はんだ付けなしで、Meta の AI「Muse」をポケットに入れて持ち歩けるようになりました。 ボタンを押して話しかけると、返事が画面に日本語で表示されます。 Meta のパーソナル AI「Muse」は、一昨日（2026年10月23日）から日...</description>
+<title>【Qiita】 AI Agentに頼んだら、ソースコードがなくてもリバースエンジニアリングでゲーム開発を継続でき、頓挫していた第2作目が完成した話</title>
+<link>https://qiita.com/miyabi_ver39/items/4bab3b71f4376acb3edd</link>
+<guid>049f00c2b618b9b08e6dcd33c85ab30670b1365bc42417396ceccaeca5e769da</guid>
+<pubDate>2026-10-25T22:45:57+09:00</pubDate>
+<description>はじめに 同人ゲームを作っていました。落ちものパズル(テトリス風)に東方Projectのキャラが登場する、サークル「無名地帯」名義の二次創作ゲームです。 その続編、第2作目は体験版(サンプル版)を出したところで止まっていました。 完成させられないまま時間が経ち、さらに致命...</description>
 </item>
 <item>
-<title>【Qiita】 Issueを立てるとAIが実装とレビューを回すファクトリーを個人で作って分かったこと</title>
-<link>https://qiita.com/y-hirakaw/items/4c9529c7f360de537e77</link>
-<guid>643d33b0ac703d48eb3a05f9be2435fe49b7251e5febd26d44a63bfac9178f73</guid>
-<pubDate>2026-10-25T20:32:12+09:00</pubDate>
-<description>個人でも作るものが多いので、Issueを立てたら自動で進んでくれる仕組みが欲しくなりました。仕事でもこういう仕組みを作っていますが、個人で一から作り直すと別の学びもありそうだったので、agentcellsという名前で作り始めています。 工場の機械を1つずつ定義して、そ...</description>
+<title>【Qiita】 頭の中では言葉を使わないAIエージェント「HybridAgent」を Mac で動かしてみた</title>
+<link>https://qiita.com/Takuya__/items/44a519482613ea204c15</link>
+<guid>2962beefddf3a1f774c2f990742b48654ac5ce23e5ae0363b58b17899fcebc4a</guid>
+<pubDate>2026-10-25T22:44:02+09:00</pubDate>
+<description>はじめに：AIエージェントは「考えごと」まで全部書き出している ChatGPT や Claude に難しい質問をすると、答えの前に長い「考える過程」が流れることがあります。AIエージェントも同じで、検索や Python を呼ぶ前後に、「まずこれを調べて」「この結果からす...</description>
 </item>
 <item>
-<title>【Qiita】 Databricks Agent Memory(MemCurrent)の中身と検索の挙動を確認してみる</title>
-<link>https://qiita.com/isanakamishiro2/items/f19e0d140e9366d34259</link>
-<guid>61394132ba743117420cd49f6f143ce0a2609a205e218cc36a83d2b2da5ef972</guid>
-<pubDate>2026-10-25T18:38:47+09:00</pubDate>
-<description>はじめに 先日、DatabricksからMemCurrentというエージェント向けメモリアーキテクチャが発表されました。 あわせて、Agent Bricks上でAgent Memoryという機能もBetaで公開されています。 私自身の理解を深めるためにAgent M...</description>
-</item>
-<item>
-<title>【Qiita】 エージェントとワークフローが混じってしまったので責務を分け直した</title>
-<link>https://qiita.com/Tachiuo/items/3c9a6bc9e1eb2b05a346</link>
-<guid>a6e9ae50927d51bd8743e94605c4e4789173913e20e961a2ad4dddd501f01f90</guid>
-<pubDate>2026-10-25T18:29:43+09:00</pubDate>
-<description>AIエージェントを使って、情報収集やポッドキャスト制作などを自動化しています。 最初は、仕事に必要な能力を作り、それらを順番につなげればよいと考えていました。ところが、安定して動かすために条件や検査を足していくうちに、エージェントとワークフローが混じってしまいました。 たと...</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>f5febbf2abba40966f1f1e2bcf0d16b24185493573f6d972280b16f57d4fbbb2</guid>
+<pubDate>Sun, 25 Oct 2026 16:54:36 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>2178602b43810b648486aefada2f4781258bb7df49f9f8184c334d7458ce5535</guid>
-<pubDate>Sun, 25 Oct 2026 12:51:20 GMT</pubDate>
+<guid>318cc4cc4eabe023f3633217c1f25ddd1368614b186dcdb16c30348c2d0bf8bf</guid>
+<pubDate>Sun, 25 Oct 2026 16:54:39 GMT</pubDate>
 <description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>86257dbc5c4e47fdcfa586d23eadd8003b3169b5abe6b25e40adbc5013496954</guid>
-<pubDate>Sun, 25 Oct 2026 12:51:45 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
