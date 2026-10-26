@@ -4,92 +4,112 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 26 Oct 2026 07:58:41 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 14:53:15 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 0。Microsoftがエージェントを「内部不正者」と呼び7層の継続監視を掲げた日、自分のパイプラインが継続的に見ている層の数</title>
-<link>https://qiita.com/Hideki_Tamae/items/4873682e890cba8dbddc</link>
-<guid>ae9f06111980d5d94f99122c795797d096c10bf098e0c3db8224e7602f1874d2</guid>
-<pubDate>2026-10-26T15:28:13+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、Microsoftが「継続的に監視すべき」と掲げた7つのレイヤーのうち、このZenn/Qiita自動投稿パイプライン(広くはTamae-OS)が実際に「継続的に」(24時間体制・リアルタイムで)見ているレイヤーの数で...</description>
+<title>【Qiita】 【解説】クリーンアーキテクチャとは何か？ 炎上議論はなぜ起きるのか？</title>
+<link>https://qiita.com/Sicut_study/items/3c1995d2a3f1695a18a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>b6e56940123f4423cd8c3926efe70c47a73625992d9d9c9dd807020dbc6a55cc</guid>
+<pubDate>2026-10-25T22:54:38+09:00</pubDate>
+<description>はじめに こんにちは、Watanabe Jin(@Sicut_study)です。 2026年8月末、クリーンアーキテクチャでコードが汚くなったというYouTube動画が投稿されました。 公開から間もなく2.3万回再生され、コメント欄には議論が集まりました。 Xでもそこか...</description>
 </item>
 <item>
-<title>【Qiita】 CAPとLLMはどういう関係？「誰が誰を呼ぶか」を図とコードで整理してみた</title>
-<link>https://qiita.com/asyoroa/items/cdbc36f3f11b2cf02051</link>
-<guid>b2e6a074ad4c3d6c5ec4e25d2c63274f94254d40c259db2a73f14bdaaa38a489</guid>
-<pubDate>2026-10-26T15:27:08+09:00</pubDate>
-<description>CAPのサービスをAIエージェントにして、いろいろ動かしてきました。ところが、いざ人に説明しようとすると「LLMがCAPを呼んでいるのか、CAPがLLMを呼んでいるのか」「関数を実行しているのはどっちなのか」が、自分でもあいまいなことに気づきました。 そこで、特定のアプリか...</description>
+<title>【Qiita】 AAP から Web サーバーへ SSH 接続する秘密鍵を IBM Vault (HashiCorp Vault) で管理する（KV v2 + AppRole）</title>
+<link>https://qiita.com/c_u/items/3d7d7b6aa5096bbbedc4</link>
+<guid>f610f69de056d89669ee463b53d0e6aa72cba7b4f9473868be155838ebaf27f1</guid>
+<pubDate>2026-10-26T19:29:45+09:00</pubDate>
+<description>はじめに この記事では、Ansible Automation Platform（AAP）から Web サーバー（ターゲットホスト）へ SSH 接続するための秘密鍵を、IBM Vault (HashiCorp Vault) の KV v2 に保管し、ジョブ実行時に Vaul...</description>
 </item>
 <item>
-<title>【Qiita】 AI エージェント用の検索エンジン「XERJ」を Mac で動かしてみた</title>
-<link>https://qiita.com/Takuya__/items/25153049d365e43bcc2a</link>
-<guid>13e6cdbec943c03b5025381cd8c74047bcb8b089a1d8ec8e632bc8c413f30879</guid>
-<pubDate>2026-10-26T14:50:53+09:00</pubDate>
-<description>はじめに Claude Code や Codex のようなコーディングエージェント（AI が自分でコマンドを打ちながら開発を進める道具）に「この処理はどこに書いてある？」と聞くと、多くの場合 grep や ripgrep（rg）でリポジトリ全体を文字列検索し、ヒットした...</description>
+<title>【Qiita】 AWS実務未経験の新卒一年目がAWS Solution Architect Professional(SAP-C02)を2週間で取得した話</title>
+<link>https://qiita.com/sakaish-intellilink/items/c6e45ccd44920417bf2e</link>
+<guid>e18a5ca385742e9b0c16b3f28d9ce4c3ceae2f205d6b6198825a6a54091b1a09</guid>
+<pubDate>2026-10-26T18:05:55+09:00</pubDate>
+<description>目次 はじめに AWS SAPとは 結果 受験時のスペック 使用した教材 スケジュール 勉強方法 試験を受けてみた感想 これから受験する方へ 最後に はじめに 初めまして。NTTデータ先端技術株式会社の新卒1年目、酒井と申します。 AWS実務未経験ながら、2週間の...</description>
 </item>
 <item>
-<title>【Qiita】 人間が画面を操作する前提では足りない。AIエージェントが使うWebの設計</title>
-<link>https://qiita.com/mhamadajp/items/8eab3e19af49f9eee96c</link>
-<guid>7256f4f51e8b0d67778935d62a755b0e55b07cb559ba5e06a998281cd9362bb9</guid>
-<pubDate>2026-10-26T14:38:45+09:00</pubDate>
-<description>予約を頼まれたAIが、サイトを開く たとえば、来週の大阪出張です。交通の便がよく、予算内で泊まれるホテルを探し、予約まで進めてほしい、とAIに頼みます。 これまでなら、人が予約サイトを開き、料金、立地、キャンセル条件を見比べていました。今は、条件を理解し、複数のサービスか...</description>
+<title>【Qiita】 AIエージェントを育てる：未達対策で必要個数を達成。それでも導入判断は保留になった</title>
+<link>https://qiita.com/masato_y/items/6a5010ae7eb798fb2b90</link>
+<guid>183960464ac859d30872d3e99ad53cb3c4b5e2cac12c0860076d44df97eb540d</guid>
+<pubDate>2026-10-26T23:01:07+09:00</pubDate>
+<description>AIエージェントを育てる：未達対策で必要個数を達成。それでも導入判断は保留になった 今回試したかったこと 前回は、従来改善案とVLA案をそれぞれ8時間運用したという情報を追加しました。 VLA案は切替時間や有人負担の試験条件を満たした一方、適合品数は2,350個で...</description>
+</item>
+<item>
+<title>【Qiita】 AIにReactのフォームを直させる前に、画面の「合格条件」を渡す</title>
+<link>https://qiita.com/heftykoo/items/94180ea0d4db4ec9dc9c</link>
+<guid>4721590e9338dfbd7df3d5efe319b883829d1a6711017648ad7bd0bf7d82058c</guid>
+<pubDate>2026-10-26T22:16:16+09:00</pubDate>
+<description>AIにフォームの送信ボタンを直してもらい、型チェックも通った。ところが通信を失敗させると、エラーが出たまま再送信できない。こういう変更は、差分だけ眺めていると見逃しやすい。 Android StudioがCanary previewで進めているBYOA（Bring Your...</description>
+</item>
+<item>
+<title>【Qiita】 AI に SNS の返信を任せる前に規約を読んだら、「相手に通知が行く自動のやり取り」はスパムだった ― Bluesky で 5 通の返信を送らずに止めた記録</title>
+<link>https://qiita.com/zdna0x/items/bc5f29ce34e8a92ab8b6</link>
+<guid>8021b1f5de8e3e023a9d010358b28be48e29eda4c013a984b84bc895aee4bbcb</guid>
+<pubDate>2026-10-26T21:09:03+09:00</pubDate>
+<description>先に結果 Bluesky で、AI（Claude Code）に、知らない人 5 人への返信を任せようとしました。送る前に規約を読んだところ、返信は 1 通も送らずに止めることにしました。理由は、規約の次の 1 行です。 Generating automated or b...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code のゲーム開発スキル、Unity・Godot・Web ゲームでどれを入れるか</title>
+<link>https://qiita.com/Skillselion/items/6234f517f15002b40733</link>
+<guid>295ae8ea6619a4fe65242662cca62dee3ea180e4ffb734819b84ad7ec2ee4ce0</guid>
+<pubDate>2026-10-26T20:13:46+09:00</pubDate>
+<description>Claude Code でゲームを作るなら、最初に入れるのは gamedev-skills/awesome-gamedev-agent-skills の router スキルです。project.godot や ProjectSettings/ProjectVersion....</description>
+</item>
+<item>
+<title>【農業】 Food-based dietary guidelines as policy instruments for safeguarding traditional African food systems</title>
+<link>https://www.nature.com/articles/s43016-026-01453-7</link>
+<guid>d1178ffa9517606660ccbf2911833c3d8f160cc5d730291ff30ca33fd7cd21d6</guid>
+<pubDate>2026-10-26</pubDate>
+<description>Debates about healthy and sustainable diets often overlook the diversity of African food systems. African food-based dietary guidelines can help to bring locally valued foods, dietary practices and ecological realities into nutrition policy. Used alongside agricultural and social policies, they can support dietary diver</description>
+</item>
+<item>
+<title>【自動自律実験】 Women might have invented language — but not alone</title>
+<link>https://www.nature.com/articles/d41586-026-03392-6</link>
+<guid>eeac70bb6685170f6b0af9cf51439c6394ec107a3f9709b37991d9fa30199465</guid>
+<pubDate>2026-10-26</pubDate>
+<description>An eloquent analysis of the origins of human speech suggests that social cohesion, not conflict, drove our use of words.</description>
+</item>
+<item>
+<title>【自動自律実験】 Are salaries getting worse? Many scientists think so</title>
+<link>https://www.nature.com/articles/d41586-026-03398-0</link>
+<guid>98111dc1e5fd57cbdb8d1f6f361bc762629fbfde2a06ce6a12b6d58cb3dc6865</guid>
+<pubDate>2026-10-26</pubDate>
+<description>Nature’s survey of almost 4,000 researchers shows that you’re not alone if you struggle to make ends meet or your last pay rise is a distant memory.</description>
+</item>
+<item>
+<title>【自動自律実験】 &lt;i&gt;The Selfish Gene&lt;/i&gt;, 50 years on — it’s time for an update</title>
+<link>https://www.nature.com/articles/d41586-026-03393-5</link>
+<guid>8a85f0abfc259243ec2ed06b6d64d27d0595b38e9343c61fe71fffe6df2d5ec2</guid>
+<pubDate>2026-10-26</pubDate>
+<description>A focus on the gene alone has become outdated. Books that capture the complexity of life deserve centre stage.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>055a5e3d0e52a5bdfeeb1fc9c4e538e7f88bce732c45eb26a00cd3f040285cf8</guid>
-<pubDate>Mon, 26 Oct 2026 07:57:54 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>4a6f9cb7c60fd047c69486dc2249937b815bf2b983035feb7ae54da86704ddae</guid>
+<pubDate>Mon, 26 Oct 2026 14:51:41 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>84387f37d7b25b78f64cb5d7ee61084956cea60c69d75d29b32a1811a3282865</guid>
-<pubDate>Mon, 26 Oct 2026 07:57:56 GMT</pubDate>
+<guid>a49a136a8fd7400c6a1b79f5d69d67344ca5a86edd855834669829e132f7b989</guid>
+<pubDate>Mon, 26 Oct 2026 14:51:44 GMT</pubDate>
 <description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43856-026-01961-4</link>
-<guid>5a60c57c29c07fd5eaeea6d0eb7ec20d58ff3881eb3fb3c4e9cc91ef0b61fa3e</guid>
-<pubDate>Mon, 26 Oct 2026 07:57:58 GMT</pubDate>
+<guid>949f77a5915bcc66ab641409a86697a1bf3611538b043abe80e11a6b814450a9</guid>
+<pubDate>Mon, 26 Oct 2026 14:51:46 GMT</pubDate>
 <description>While clinical guidelines remain essential for standardizing medical care, their utility decays as manual updating fails to keep pace with the exponential growth in medical evidence. To address this challenge, we developed a Multi-Agent Retrieval-Augmented Generation (MARG) system dedicated to clinical guideline development and maintenance. We employed a multi-phase evaluation framework to assess MARG’s performance across agent-agent interaction and human-AI collaboration tasks. The system was evaluated against seven 2025 liver disease guidelines, encompassing 137 clinical scenarios. Here we show MARG achieve 77.4% overall concordance with the guidelines, with consistency rates rising from 45.8% under weak consensus to 87.8% at full consensus. Domain-specific performance is 65.5% for diagnosis, 75.0% for prevention, and 81.0% for treatment. MARG also assists in evidence integration, outperforming manual review in recency (6.3% vs. 0.9%), reproducibility (25.5% vs. 7.5%), and quality (24.2% vs. 8.0% Level I evidence). Through four rounds of structured debate, the system resolves 95.8% of recommendation conflicts and achieves strong consensus (&amp;gt;85%) in 74.5% of final outputs. In a</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>a69ca49cc3e3b6e4798439642e7fdceac73aca8fe9b83973d3e206f7a05dfa7c</guid>
-<pubDate>Mon, 26 Oct 2026 07:57:59 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>631e99517524ac338a0804a43b1bc145e27bbc2a2e24c1a238c2a460fc8a430a</guid>
-<pubDate>Mon, 26 Oct 2026 07:58:03 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>c0ee133be4fdc4453eb437e588dc9d512f3e0a90d34ebef087f573dfdf026942</guid>
-<pubDate>Mon, 26 Oct 2026 07:58:04 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>0161e0364091ea587af7cf44163bda7bdb4abbeb2a01673bc9da86f73a19817f</guid>
-<pubDate>Mon, 26 Oct 2026 07:58:26 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>377bb53bfe7a49f18ca11cd9bbe1207904497c4e71e86ed64e61421b208fc13d</guid>
-<pubDate>Mon, 26 Oct 2026 07:58:33 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>e72e7a63082c92ee88e32c9c447f7b71f49296a625bb8030232e28cc0d48eb75</guid>
+<pubDate>Mon, 26 Oct 2026 14:53:04 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
