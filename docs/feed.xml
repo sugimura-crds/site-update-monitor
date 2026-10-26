@@ -4,127 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 26 Oct 2026 20:14:33 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 23:58:37 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 エンジニア歴数か月の私「理論上、理解できない物事はない」</title>
-<link>https://qiita.com/Minotaurasu/items/a13a3fc940c2cd384063?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>51ca258869d2633739fc836b293c9f71b092f76687ab1dc6627da7f374f53384</guid>
-<pubDate>2026-10-26T10:50:31+09:00</pubDate>
-<description>そろそろ研修期間に終わりが見えてきた、エンジニア歴数か月の私。 まだ広い世界を知らない私が、改めて大事にしたいと思ったマインドについて書きます。 この記事の目的は「知的な成長」ではなく「ドーパミンの摂取」です。 難しい物事を理解するとドパれるんだよと言いたい。 ...</description>
+<title>【Qiita】 AIエージェントたちが直接連絡しあう、小さなメールボックスを作ってみました</title>
+<link>https://qiita.com/shyamagu/items/c419cff2c03b544fd877</link>
+<guid>cce27b20da296bef7e3d7fc85c5733a0b8220050008a5c13b8551ac38a7518f2</guid>
+<pubDate>2026-10-27T08:41:20+09:00</pubDate>
+<description>この記事のまとめ: AIエージェントが自分の判断で、別のAIエージェントに連絡を取って作業を進められるように、エージェント専用の小さな郵便受け「AgentPost」を作りました。3つのAIエージェントチームを AgentPost だけで連携させてアプリ開発をやらせてみたと...</description>
 </item>
 <item>
-<title>【Qiita】 New Relic AI Knowledge × Autopilot で「怪しいアクティビティ」を検知させてみた</title>
-<link>https://qiita.com/nr-mito/items/eca8767bb68723645e6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>b7bbb3cc1397fccfa2501be24c7f4c7e130b2372a699da85204b1a5dce01c174</guid>
-<pubDate>2026-10-26T11:01:28+09:00</pubDate>
-<description>New Relic AI Knowledge 機能と Autopilot（旧 SRE Agent） を組み合わせると、単なるメトリクスの異常検知にとどまらず、「そのシステムにとって何が“正常”で何が“怪しい”のか」という 業務ドメインの文脈 をAIに持たせた上で分析させられ...</description>
+<title>【Qiita】 「AIエージェント」という言葉が指す4つの異なるもの——Copilot Studio・Dify・Claude Codeでの意味の違い</title>
+<link>https://qiita.com/Sidejob/items/6c5214b9724342d883fe</link>
+<guid>5e733454529385cad217256239b22b495062322b8aed5e1cc937ecd4ca5295f5</guid>
+<pubDate>2026-10-27T08:45:04+09:00</pubDate>
+<description>この記事で分かること： 「AIエージェント」という言葉が 4 つの異なる意味で使われている背景 Copilot Studio・Dify・Claude Code それぞれでの「エージェント」の意味 現場での議論を噛み合わせるための言葉の整理方法 「AIエージェントを導...</description>
 </item>
 <item>
-<title>【Qiita】 実際に試したClaude便利術20選 まとめ</title>
-<link>https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>7a33fa45d4aed6dc0ae0903963dc10261cbbb13ded3a5297f2345a5a2cdea306</guid>
-<pubDate>2026-10-26T20:05:51+09:00</pubDate>
-<description>はじめに Claudeを使い始めたので、実際に試した作業効率の上がりそうな機能を20個まとめました。 この記事の特徴は、1つの Terraform コードを通して試していることです。 構成図の画像を貼る → Terraform が9ファイル・573行出てくる → /go...</description>
+<title>【Qiita】 AIのみで作られたシステムを引き継いだら、品質の現実に直面した話</title>
+<link>https://qiita.com/Kokuto821/items/352e44c77489c22945c2</link>
+<guid>18318d6522d6dc848f2cd1ee1a43054e1780583e005f71d1abd1b6966d3ba099</guid>
+<pubDate>2026-10-27T08:27:13+09:00</pubDate>
+<description>はじめに 自分は普段、自社向けの新規業務システムを開発しています。そんな中、急な案件でAIエージェントだけで作られたシステムを引き継ぐ機会がありました。 結論から言うと、動きはするものの品質は低く、改修にかなり苦労しました。 普段は自分も実装のほぼすべてをAIエージェント...</description>
 </item>
 <item>
-<title>【Qiita】 オープンウェイトが攻撃を速くするとき、防御の発見と修正も速くする</title>
-<link>https://qiita.com/mhamadajp/items/9427d9dc8cbfdda9962c</link>
-<guid>45cd44654be8c652fae47384dd2c642274d5860f2bea5fd9ef5c9f9df3ae887c</guid>
-<pubDate>2026-10-27T04:38:48+09:00</pubDate>
-<description>「使わない」で終わると、直す速度が決まりません たとえば、週次のセキュリティレビューです。共有されたのは、オープンウェイトの GLM-5.3 が、クローズドな Claude Mythos Preview に近い割合で、Chrome の既知脆弱性から最後まで exploit...</description>
+<title>【Qiita】 検証のセッションでAIが検査に通した報告は505字、返した報告は631字だった：台帳・指示書・報告を書式で止める設計</title>
+<link>https://qiita.com/kaiyaku_iyada/items/b290e77ba2d79bc41cff</link>
+<guid>d4d84b6da52194a666744bafdc166d7cc41aee6ca6388019afab7f48d9b2a15d</guid>
+<pubDate>2026-10-27T07:59:54+09:00</pubDate>
+<description>この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。個人の実験で、Anthropic社とは無関係です。同社の公認や提携ではありません。書いてあるのは、2026年10月22日までのキット v1.5 の下...</description>
 </item>
 <item>
-<title>【Qiita】 MetaのAIエージェント「Muse」の中身を覗いたら、ただのUbuntuマシンだった</title>
-<link>https://qiita.com/hirokn/items/31f5403b1fd9d8cbba3c</link>
-<guid>d507e1f1f18e48583fe8719936c93724df46b9b0938cac743549f2b1d36db350</guid>
-<pubDate>2026-10-27T02:44:27+09:00</pubDate>
-<description>MetaのパーソナルAIエージェント「Muse」を日本から使ってみました。 招待コードの記事はたくさん出ているので、この記事では Museに渡される「専用コンピューター」の中身 と、そこで実際に何ができたかを中心に書きます。 確認日：2026年10月26〜27日。自分の環...</description>
+<title>【Qiita】 MetaのAIエージェント「Muse」が日本で提供開始。メールの送信や旅行の予約を代わりに進める</title>
+<link>https://qiita.com/quotidia/items/b24c54ac89eadd684b3c</link>
+<guid>d19b7d0378f23f785110ecb25e6a605d928970bea74e916e911850c9744382e2</guid>
+<pubDate>2026-10-27T06:00:59+09:00</pubDate>
+<description>本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。 Metaは2026年10月23日(金)、利用者に代わってメールの送信や旅行の予約を進めるAIエージェント「Muse」の日本での提供を始めました。 要点 2026年9月に先行した北米に続き、...</description>
 </item>
 <item>
-<title>【Qiita】 dev-orchestra で役割ごとに決まった指示を渡してみた</title>
-<link>https://qiita.com/istb16/items/18c8a88dc62ad534cc42</link>
-<guid>e0d39ba30abfbf1bd70f2e6d7a53736d2cd3fda321378d43dc9a2befd1548632</guid>
-<pubDate>2026-10-27T01:14:59+09:00</pubDate>
-<description>この記事は tk3.biz のブログ からの転載です。 はじめに dev-orchestra に依頼するたびに、「テストは python -m unittest で」「標準ライブラリだけで書いて」のような同じ注文を書いていました。1.2.1 で入った instruct...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントの監視タスク設計メモ — 「変化があったときだけ通知」をどう作るか</title>
-<link>https://qiita.com/Dev_PJS/items/cb20b420d9404c4b7633</link>
-<guid>74ee32fc15eff65279565fec98e0c40b24573831cc81649f72f0a21e4ed469e1</guid>
-<pubDate>2026-10-27T01:03:33+09:00</pubDate>
-<description>TL;DR AIエージェントに定期チェックを任せるとき、成否を分けるのは検出精度より 通知の設計 でした。全件報告させると数日でノイズ化します。「変化があったときだけ、変化点だけを通知する」形に寄せたら、巡回が日常運用に耐えるようになりました。本記事はその設計メモです。 ...</description>
-</item>
-<item>
-<title>【自動自律実験】 Nerve activity initiates autoimmune hair loss</title>
-<link>https://www.nature.com/articles/d41586-026-03258-x</link>
-<guid>95dc4c8547d438ac2aff309414b78e28e0456587b6ffe6257899a6c6a988502e</guid>
-<pubDate>2026-10-26</pubDate>
-<description>Understanding the triggers of autoimmunity might lead to better therapies, with hair loss among the conditions for which underpinning factors have come to light.</description>
-</item>
-<item>
-<title>【自動自律実験】 Can science make your dog live longer? Longevity craze comes to pets</title>
-<link>https://www.nature.com/articles/d41586-026-03447-8</link>
-<guid>0134fb4770bde633ef445ded50def9f102b7cdf58caa6285acbf0d69a7831ff1</guid>
-<pubDate>2026-10-26</pubDate>
-<description>The emerging science — and industry — of animal longevity is attracting interest from companies and academics alike.</description>
-</item>
-<item>
-<title>【自動自律実験】 Glimpsing archaeal microbes on the move</title>
-<link>https://www.nature.com/articles/d41586-026-03259-w</link>
-<guid>9216c49e1c94d2ab200eff37bde0a2697dc9d5460feb807e7207bd0cd20d3698</guid>
-<pubDate>2026-10-26</pubDate>
-<description>How and when did cells gain the ability to crawl? Live imaging of cells from close relatives of early eukaryotes fills in a major gap in the understanding of cellular evolution.</description>
+<title>【Qiita】 ⚡MLflow Tracing入門⚡ LLM・Retriever・Toolを1つのTraceで可視化する方法</title>
+<link>https://qiita.com/mellowlaunch/items/0e2c9f7d0d7786ded200</link>
+<guid>a112a57df5941d57d16e6d0cda373fbaf77a89345443aa8ef021df89ce775233</guid>
+<pubDate>2026-10-27T07:04:02+09:00</pubDate>
+<description>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 ####『ゼロから触ってわかった！AI Agent Observability入門― MLflow・Data...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>83726d9f46be8ea4b50f976613869e76d8c472a43dce4531a86a52a8b6a9a78f</guid>
-<pubDate>Mon, 26 Oct 2026 20:13:31 GMT</pubDate>
+<guid>2efbf51556ee53e5e56329040bc6dde144dce78c585f90d8251277f11b303f85</guid>
+<pubDate>Mon, 26 Oct 2026 23:57:46 GMT</pubDate>
 <description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41562-026-02590-6</link>
-<guid>0424166ad55166df357c637c02b03dee4090315ab81bbe93d3b2b4fc41a2f7c8</guid>
-<pubDate>Mon, 26 Oct 2026 20:13:34 GMT</pubDate>
+<guid>dddac5f932562dd12663ef6b017fd5b07b467439cfdea71f5784a2671c4d42b9</guid>
+<pubDate>Mon, 26 Oct 2026 23:57:49 GMT</pubDate>
 <description>As artificial intelligence (AI) becomes increasingly embedded in daily life, ascertaining whether an agent is human is critical. Here we systematically benchmark AI’s ability to imitate humans in three language tasks (image captioning, word association and conversation) and three vision tasks (colour estimation, object detection and attention prediction), collecting data from n = 636 humans and 37 AI agents. We also conducted 72,191 Turing-like tests with 1,916 human judges and 10 AI judges. Current AIs are approaching the ability to convincingly impersonate humans and deceive human judges in both language and vision. Even simple AI judges outperformed humans in distinguishing AI from human responses. Imitation ability showed minimal correlation with conventional AI performance metrics, suggesting that passing as human is an important independent evaluation criterion. The large-scale Turing-like datasets and metrics introduced here offer valuable benchmarks for assessing human-likeness in AI and highlight the importance of rigorous, quantitative imitation tests for AI development. Zhang et al. systematically compare humans and AI across three language and three vision tasks.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43586-026-00542-y</link>
-<guid>debc51524fc794b7aa603d5f7a9bb078164abec1d8e84b157ea7f3860537a02f</guid>
-<pubDate>Mon, 26 Oct 2026 20:13:36 GMT</pubDate>
-<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 Filter By:</title>
-<link>https://www.nature.com/articles/s44160-026-01194-2</link>
-<guid>6f5b24ef48c40d0152309441ede06d844365c2acb86b332a94cf19eb28a0356c</guid>
-<pubDate>Mon, 26 Oct 2026 20:13:40 GMT</pubDate>
-<description>In this issue, we focus on the development of self-driving laboratories for the autonomous synthesis of molecules and materials, with a particular focus on industrial considerations and applications.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>448260852d006a55c49a99d68cee31a7f7fb7bbe72e8710f4bd9513838c99121</guid>
-<pubDate>Mon, 26 Oct 2026 20:14:11 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>5174db1e418287f4352358ff116100958b0162907ea56d1ccdf50d84c221b079</guid>
-<pubDate>Mon, 26 Oct 2026 20:14:13 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>ebf99bc22d8565cae442822ce8bac0018b9bdfbc79f581fe0938768df15243f4</guid>
-<pubDate>Mon, 26 Oct 2026 20:14:24 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
+<guid>ffeba19db7462f447f4db201a5109ddd70d084f1880ac66b4fafd4babcc22102</guid>
+<pubDate>Mon, 26 Oct 2026 23:57:54 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
 </channel>
