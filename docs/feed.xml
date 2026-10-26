@@ -4,71 +4,92 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 26 Oct 2026 02:19:56 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 07:58:41 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM i のリモートOUTQの設定手順</title>
-<link>https://qiita.com/gomAnomalocaris/items/0b3b266cfabce1cac0c5</link>
-<guid>1ecb495768384d6ee674a79a2e59122cba374a04cd63382bdb3204acf3bd283d</guid>
-<pubDate>2026-10-26T08:58:42+09:00</pubDate>
-<description>IBM i のリモートOUTQとは ローカルのIBM i 上で作成したスプールファイルをリモートのIBM i やその他システムに転送する事が出来ます。IBM i 間の転送ではLPDを使用ます。 1. リモートシステムの設定 1-1. リモートOUTQの作成 これは通...</description>
+<title>【Qiita】 0。Microsoftがエージェントを「内部不正者」と呼び7層の継続監視を掲げた日、自分のパイプラインが継続的に見ている層の数</title>
+<link>https://qiita.com/Hideki_Tamae/items/4873682e890cba8dbddc</link>
+<guid>ae9f06111980d5d94f99122c795797d096c10bf098e0c3db8224e7602f1874d2</guid>
+<pubDate>2026-10-26T15:28:13+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、Microsoftが「継続的に監視すべき」と掲げた7つのレイヤーのうち、このZenn/Qiita自動投稿パイプライン(広くはTamae-OS)が実際に「継続的に」(24時間体制・リアルタイムで)見ているレイヤーの数で...</description>
 </item>
 <item>
-<title>【Qiita】 2026年10月26日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/9cb5cccbb3c9100b75a8</link>
-<guid>fbb219d3e944df9907f69ebd533eec30d6721e08a3f33883437fb08304d1d197</guid>
-<pubDate>2026-10-26T11:06:20+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 3KBしか使えない！奇妙で素敵なゲームエンジン...</description>
+<title>【Qiita】 CAPとLLMはどういう関係？「誰が誰を呼ぶか」を図とコードで整理してみた</title>
+<link>https://qiita.com/asyoroa/items/cdbc36f3f11b2cf02051</link>
+<guid>b2e6a074ad4c3d6c5ec4e25d2c63274f94254d40c259db2a73f14bdaaa38a489</guid>
+<pubDate>2026-10-26T15:27:08+09:00</pubDate>
+<description>CAPのサービスをAIエージェントにして、いろいろ動かしてきました。ところが、いざ人に説明しようとすると「LLMがCAPを呼んでいるのか、CAPがLLMを呼んでいるのか」「関数を実行しているのはどっちなのか」が、自分でもあいまいなことに気づきました。 そこで、特定のアプリか...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code の agent teams を tmux で分割表示してレビューさせたら、「読むだけ」の指示は守られなかった</title>
-<link>https://qiita.com/Nekorock/items/29d59923e2c52364c878</link>
-<guid>e728d3b98e6bc77ff33c5d1759a552f4b1e523b9dd9b4a20b92d5bb48988af5d</guid>
-<pubDate>2026-10-26T09:53:17+09:00</pubDate>
-<description>きっかけ Claude Code には、複数の Claude を「チーム」として並行で動かす agent teams という実験的な機能があります。tmux の中で起動すると、チームメイトが 1 人ずつペインに分かれて並ぶので、それぞれが何をしているかを横目で見ながら進め...</description>
+<title>【Qiita】 AI エージェント用の検索エンジン「XERJ」を Mac で動かしてみた</title>
+<link>https://qiita.com/Takuya__/items/25153049d365e43bcc2a</link>
+<guid>13e6cdbec943c03b5025381cd8c74047bcb8b089a1d8ec8e632bc8c413f30879</guid>
+<pubDate>2026-10-26T14:50:53+09:00</pubDate>
+<description>はじめに Claude Code や Codex のようなコーディングエージェント（AI が自分でコマンドを打ちながら開発を進める道具）に「この処理はどこに書いてある？」と聞くと、多くの場合 grep や ripgrep（rg）でリポジトリ全体を文字列検索し、ヒットした...</description>
 </item>
 <item>
-<title>【Qiita】 「所属未定の仕事」を作らない——AIエージェント組織に業務→担当の対応表を敷いた運用記録</title>
-<link>https://qiita.com/fuji1009_REBELL/items/566f132e6194e189f79b</link>
-<guid>472f522abec71989276d050f59c64326b5f23add42d2a4f911d6aea4c4308e6f</guid>
-<pubDate>2026-10-26T09:26:01+09:00</pubDate>
-<description>エージェントを役割別に分けたのに、「これ、誰の仕事？」と聞かれて答えられない業務が稼働中のまま残っていました。個人で運用しているAIエージェント組織で、2026年7月16日に棚卸しをしたときの話です。 この記事は、エージェントの作り方ではなく「仕事の持ち主の決め方」の記録で...</description>
+<title>【Qiita】 人間が画面を操作する前提では足りない。AIエージェントが使うWebの設計</title>
+<link>https://qiita.com/mhamadajp/items/8eab3e19af49f9eee96c</link>
+<guid>7256f4f51e8b0d67778935d62a755b0e55b07cb559ba5e06a998281cd9362bb9</guid>
+<pubDate>2026-10-26T14:38:45+09:00</pubDate>
+<description>予約を頼まれたAIが、サイトを開く たとえば、来週の大阪出張です。交通の便がよく、予算内で泊まれるホテルを探し、予約まで進めてほしい、とAIに頼みます。 これまでなら、人が予約サイトを開き、料金、立地、キャンセル条件を見比べていました。今は、条件を理解し、複数のサービスか...</description>
 </item>
 <item>
-<title>【Qiita】 AI実装を全部ダブルチェックしない — リスク4段階で「別モデルレビュー必須」の境界を引く</title>
-<link>https://qiita.com/fuji1009_REBELL/items/b3b1a2fb068159a9a002</link>
-<guid>9dcddd099360d71976c8807485f8cc17c6261ad1ca937d83a3ba670ea8267398</guid>
-<pubDate>2026-10-26T09:25:12+09:00</pubDate>
-<description>「AIが書いたコードは、書いたAIとは別のモデルにも読ませるべき」という話はよく見ます。私も賛成です。ただ、これを全変更に適用した結果、自分のところは一度詰まりました。 READMEの誤字1行を直すだけの変更が、別モデルによる複数周のレビュー待ちに並んでいたのです。レビュー...</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>055a5e3d0e52a5bdfeeb1fc9c4e538e7f88bce732c45eb26a00cd3f040285cf8</guid>
+<pubDate>Mon, 26 Oct 2026 07:57:54 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Opus 5.5</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>48066587dd8b505ac695516cd5f3e53aab77123f8b5a700fd28213fae613b5e4</guid>
-<pubDate>Mon, 26 Oct 2026 02:18:55 GMT</pubDate>
-<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-78842-w</link>
+<guid>84387f37d7b25b78f64cb5d7ee61084956cea60c69d75d29b32a1811a3282865</guid>
+<pubDate>Mon, 26 Oct 2026 07:57:56 GMT</pubDate>
+<description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43586-026-00542-y</link>
-<guid>e9af0cb381f72248f8a5ed2a675d2f8856c17ff47211d0e0c58727a3ee0c5195</guid>
-<pubDate>Mon, 26 Oct 2026 02:19:05 GMT</pubDate>
-<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
+<link>https://www.nature.com/articles/s43856-026-01961-4</link>
+<guid>5a60c57c29c07fd5eaeea6d0eb7ec20d58ff3881eb3fb3c4e9cc91ef0b61fa3e</guid>
+<pubDate>Mon, 26 Oct 2026 07:57:58 GMT</pubDate>
+<description>While clinical guidelines remain essential for standardizing medical care, their utility decays as manual updating fails to keep pace with the exponential growth in medical evidence. To address this challenge, we developed a Multi-Agent Retrieval-Augmented Generation (MARG) system dedicated to clinical guideline development and maintenance. We employed a multi-phase evaluation framework to assess MARG’s performance across agent-agent interaction and human-AI collaboration tasks. The system was evaluated against seven 2025 liver disease guidelines, encompassing 137 clinical scenarios. Here we show MARG achieve 77.4% overall concordance with the guidelines, with consistency rates rising from 45.8% under weak consensus to 87.8% at full consensus. Domain-specific performance is 65.5% for diagnosis, 75.0% for prevention, and 81.0% for treatment. MARG also assists in evidence integration, outperforming manual review in recency (6.3% vs. 0.9%), reproducibility (25.5% vs. 7.5%), and quality (24.2% vs. 8.0% Level I evidence). Through four rounds of structured debate, the system resolves 95.8% of recommendation conflicts and achieves strong consensus (&amp;gt;85%) in 74.5% of final outputs. In a</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Filter By:</title>
-<link>https://www.nature.com/articles/s44160-026-01194-2</link>
-<guid>136d8d6e89d9711bec1f6ccd8f47ec617272c9984182581a504b873d042e5741</guid>
-<pubDate>Mon, 26 Oct 2026 02:19:09 GMT</pubDate>
-<description>In this issue, we focus on the development of self-driving laboratories for the autonomous synthesis of molecules and materials, with a particular focus on industrial considerations and applications.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>a69ca49cc3e3b6e4798439642e7fdceac73aca8fe9b83973d3e206f7a05dfa7c</guid>
+<pubDate>Mon, 26 Oct 2026 07:57:59 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
+<guid>631e99517524ac338a0804a43b1bc145e27bbc2a2e24c1a238c2a460fc8a430a</guid>
+<pubDate>Mon, 26 Oct 2026 07:58:03 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>c0ee133be4fdc4453eb437e588dc9d512f3e0a90d34ebef087f573dfdf026942</guid>
+<pubDate>Mon, 26 Oct 2026 07:58:04 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>03d8474f47f22c7a93bc517e9409f4b8399ba083b15ca661b38c7fec6ecba64d</guid>
-<pubDate>Mon, 26 Oct 2026 02:19:35 GMT</pubDate>
+<guid>0161e0364091ea587af7cf44163bda7bdb4abbeb2a01673bc9da86f73a19817f</guid>
+<pubDate>Mon, 26 Oct 2026 07:58:26 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>377bb53bfe7a49f18ca11cd9bbe1207904497c4e71e86ed64e61421b208fc13d</guid>
+<pubDate>Mon, 26 Oct 2026 07:58:33 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
