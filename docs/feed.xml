@@ -4,56 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 25 Oct 2026 23:44:35 GMT</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 02:19:56 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントはテスト業務をどこまで任せられる？UiPath Delegate for Testingを試してみた</title>
-<link>https://qiita.com/Jun96427231/items/a1da2f4f18e7702b7816</link>
-<guid>e5495e9bd3e25724e2273c5e7dc23fcc0ce45b74cd0bee47a1a14e76b91ea709</guid>
-<pubDate>2026-10-26T08:42:54+09:00</pubDate>
-<description>はじめに AIチャットへ質問すると、回答や文章を返してくれる。 RPAを実行すると、あらかじめ定義した手順でシステムを操作してくれる。 では、デスクトップ上で仕事をするAIエージェントへ依頼すると、どこまで進められるのでしょうか。 UiPath Delegateは、自然言...</description>
+<title>【Qiita】 IBM i のリモートOUTQの設定手順</title>
+<link>https://qiita.com/gomAnomalocaris/items/0b3b266cfabce1cac0c5</link>
+<guid>1ecb495768384d6ee674a79a2e59122cba374a04cd63382bdb3204acf3bd283d</guid>
+<pubDate>2026-10-26T08:58:42+09:00</pubDate>
+<description>IBM i のリモートOUTQとは ローカルのIBM i 上で作成したスプールファイルをリモートのIBM i やその他システムに転送する事が出来ます。IBM i 間の転送ではLPDを使用ます。 1. リモートシステムの設定 1-1. リモートOUTQの作成 これは通...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code の /rewind、先に Claude が触ったファイルならシェルで消しても戻った。2.1.309 で直ったのは表示だった</title>
-<link>https://qiita.com/suwa_nobu/items/7fdbf1de673200bd7dca</link>
-<guid>346e635524bd111a1c63f5c6ec0105f38814b83a95c870c5b936f53b46df01f0</guid>
-<pubDate>2026-10-26T08:42:34+09:00</pubDate>
-<description>10/16 の記事で、シェルで消したファイルと、サブエージェントが変えたファイルは /rewind で戻らなかったと書きました。 その後、Claude Code 2.1.309（2026-10-22）でこう直っています。 Fixed the /rewind list sh...</description>
+<title>【Qiita】 2026年10月26日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/9cb5cccbb3c9100b75a8</link>
+<guid>fbb219d3e944df9907f69ebd533eec30d6721e08a3f33883437fb08304d1d197</guid>
+<pubDate>2026-10-26T11:06:20+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 3KBしか使えない！奇妙で素敵なゲームエンジン...</description>
 </item>
 <item>
-<title>【Qiita】 動画生成AIを使わず、Claude Codeだけで、静止画にどの程度の動きをつけられるか試してみた</title>
-<link>https://qiita.com/nabata/items/09f76aa0dddbcecf0979</link>
-<guid>62cbaaa1e4bda59829f89bc35a724bf0a934c9e22c6c32c2f5aee5000bcfadda</guid>
-<pubDate>2026-10-26T08:39:39+09:00</pubDate>
-<description>Supershipの名畑です。台湾に行った際に伊藤潤二先生のプリクラを見かけたのですが、台湾で3ヶ月に渡って原画展を開催されていたのですね。さすがです。 はじめに これまで、Gen、Veo、AnimeGenなどなど、静止画を動画生成AIで動画にする記事をいくつか書いてきま...</description>
+<title>【Qiita】 Claude Code の agent teams を tmux で分割表示してレビューさせたら、「読むだけ」の指示は守られなかった</title>
+<link>https://qiita.com/Nekorock/items/29d59923e2c52364c878</link>
+<guid>e728d3b98e6bc77ff33c5d1759a552f4b1e523b9dd9b4a20b92d5bb48988af5d</guid>
+<pubDate>2026-10-26T09:53:17+09:00</pubDate>
+<description>きっかけ Claude Code には、複数の Claude を「チーム」として並行で動かす agent teams という実験的な機能があります。tmux の中で起動すると、チームメイトが 1 人ずつペインに分かれて並ぶので、それぞれが何をしているかを横目で見ながら進め...</description>
 </item>
 <item>
-<title>【Qiita】 ランチ明けの「続きやって」が一番高い。Claude Code のキャッシュは 1 時間で切れる</title>
-<link>https://qiita.com/araom/items/3d026f2df58c7328aa74</link>
-<guid>5d89f47f6347470efaa5b423d782b063f0a5b509d3f988bda65a8851413c46aa</guid>
-<pubDate>2026-10-26T08:28:41+09:00</pubDate>
-<description>はじめに 本記事は、Claude Code のプロンプトキャッシュが切れたあとの再開にどれだけ費用がかかるかを数え、その再開を新しいセッションへの引き継ぎに置き換えた記録です。 数字は、25 日分（2026-09-29〜10-23）の自分のセッション記録から出しました。 ...</description>
+<title>【Qiita】 「所属未定の仕事」を作らない——AIエージェント組織に業務→担当の対応表を敷いた運用記録</title>
+<link>https://qiita.com/fuji1009_REBELL/items/566f132e6194e189f79b</link>
+<guid>472f522abec71989276d050f59c64326b5f23add42d2a4f911d6aea4c4308e6f</guid>
+<pubDate>2026-10-26T09:26:01+09:00</pubDate>
+<description>エージェントを役割別に分けたのに、「これ、誰の仕事？」と聞かれて答えられない業務が稼働中のまま残っていました。個人で運用しているAIエージェント組織で、2026年7月16日に棚卸しをしたときの話です。 この記事は、エージェントの作り方ではなく「仕事の持ち主の決め方」の記録で...</description>
 </item>
 <item>
-<title>【Qiita】 ⚡AI時代のデータ基盤提案⚡ Databricks・Snowflakeを提案する前に確認すべき「データの現在地」</title>
-<link>https://qiita.com/mellowlaunch/items/3db2c2a02e92ceb81fe4</link>
-<guid>587fb1e50f6eff7efcefa60270d7e8b2db4ecf1322b24960fd1b5f5d8e79c737</guid>
-<pubDate>2026-10-26T07:28:13+09:00</pubDate>
-<description>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 ####『ゼロから考える！Databricks・Snowflakeを今、どう提案するか？ ～AIを動かすデー...</description>
+<title>【Qiita】 AI実装を全部ダブルチェックしない — リスク4段階で「別モデルレビュー必須」の境界を引く</title>
+<link>https://qiita.com/fuji1009_REBELL/items/b3b1a2fb068159a9a002</link>
+<guid>9dcddd099360d71976c8807485f8cc17c6261ad1ca937d83a3ba670ea8267398</guid>
+<pubDate>2026-10-26T09:25:12+09:00</pubDate>
+<description>「AIが書いたコードは、書いたAIとは別のモデルにも読ませるべき」という話はよく見ます。私も賛成です。ただ、これを全変更に適用した結果、自分のところは一度詰まりました。 READMEの誤字1行を直すだけの変更が、別モデルによる複数周のレビュー待ちに並んでいたのです。レビュー...</description>
+</item>
+<item>
+<title>【Anthropic】 Introducing Claude Opus 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>48066587dd8b505ac695516cd5f3e53aab77123f8b5a700fd28213fae613b5e4</guid>
+<pubDate>Mon, 26 Oct 2026 02:18:55 GMT</pubDate>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43856-026-01961-4</link>
-<guid>2a55089bc94c462b2e34e8c8b1e65a664641ac03fa76fc8cb6be0b4468dfafe2</guid>
-<pubDate>Sun, 25 Oct 2026 23:43:57 GMT</pubDate>
-<description>While clinical guidelines remain essential for standardizing medical care, their utility decays as manual updating fails to keep pace with the exponential growth in medical evidence. To address this challenge, we developed a Multi-Agent Retrieval-Augmented Generation (MARG) system dedicated to clinical guideline development and maintenance. We employed a multi-phase evaluation framework to assess MARG’s performance across agent-agent interaction and human-AI collaboration tasks. The system was evaluated against seven 2025 liver disease guidelines, encompassing 137 clinical scenarios. Here we show MARG achieve 77.4% overall concordance with the guidelines, with consistency rates rising from 45.8% under weak consensus to 87.8% at full consensus. Domain-specific performance is 65.5% for diagnosis, 75.0% for prevention, and 81.0% for treatment. MARG also assists in evidence integration, outperforming manual review in recency (6.3% vs. 0.9%), reproducibility (25.5% vs. 7.5%), and quality (24.2% vs. 8.0% Level I evidence). Through four rounds of structured debate, the system resolves 95.8% of recommendation conflicts and achieves strong consensus (&amp;gt;85%) in 74.5% of final outputs. In a</description>
+<link>https://www.nature.com/articles/s43586-026-00542-y</link>
+<guid>e9af0cb381f72248f8a5ed2a675d2f8856c17ff47211d0e0c58727a3ee0c5195</guid>
+<pubDate>Mon, 26 Oct 2026 02:19:05 GMT</pubDate>
+<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Filter By:</title>
+<link>https://www.nature.com/articles/s44160-026-01194-2</link>
+<guid>136d8d6e89d9711bec1f6ccd8f47ec617272c9984182581a504b873d042e5741</guid>
+<pubDate>Mon, 26 Oct 2026 02:19:09 GMT</pubDate>
+<description>In this issue, we focus on the development of self-driving laboratories for the autonomous synthesis of molecules and materials, with a particular focus on industrial considerations and applications.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>cff397fe39bb48028a3f03fd85812fbea06b9ea269f2bd7068eb25fd06cd0445</guid>
-<pubDate>Sun, 25 Oct 2026 23:44:18 GMT</pubDate>
+<guid>03d8474f47f22c7a93bc517e9409f4b8399ba083b15ca661b38c7fec6ecba64d</guid>
+<pubDate>Mon, 26 Oct 2026 02:19:35 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
