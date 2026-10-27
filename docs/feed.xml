@@ -4,69 +4,69 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 26 Oct 2026 23:58:37 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 03:36:43 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントたちが直接連絡しあう、小さなメールボックスを作ってみました</title>
-<link>https://qiita.com/shyamagu/items/c419cff2c03b544fd877</link>
-<guid>cce27b20da296bef7e3d7fc85c5733a0b8220050008a5c13b8551ac38a7518f2</guid>
-<pubDate>2026-10-27T08:41:20+09:00</pubDate>
-<description>この記事のまとめ: AIエージェントが自分の判断で、別のAIエージェントに連絡を取って作業を進められるように、エージェント専用の小さな郵便受け「AgentPost」を作りました。3つのAIエージェントチームを AgentPost だけで連携させてアプリ開発をやらせてみたと...</description>
+<title>【Qiita】 IBM Bob でリモートの VM に SSH 接続して開発する方法</title>
+<link>https://qiita.com/gentaro23/items/74325fb86627705ef6c4</link>
+<guid>8f2777b2df21244ba4dccf48a6dbb6648c68963b3103d2b91152ac17b81dea01</guid>
+<pubDate>2026-10-27T11:26:50+09:00</pubDate>
+<description>はじめに 実際の開発現場では、手元の PC で直接ビルドするのではなく、SSH で開発用の VM や開発サーバーにつないで作業することがよくあると思います。VS Code の Remote - SSH を使って、エディタは手元に置いたまま、ファイルもターミナルもビルドもサ...</description>
 </item>
 <item>
-<title>【Qiita】 「AIエージェント」という言葉が指す4つの異なるもの——Copilot Studio・Dify・Claude Codeでの意味の違い</title>
-<link>https://qiita.com/Sidejob/items/6c5214b9724342d883fe</link>
-<guid>5e733454529385cad217256239b22b495062322b8aed5e1cc937ecd4ca5295f5</guid>
-<pubDate>2026-10-27T08:45:04+09:00</pubDate>
-<description>この記事で分かること： 「AIエージェント」という言葉が 4 つの異なる意味で使われている背景 Copilot Studio・Dify・Claude Code それぞれでの「エージェント」の意味 現場での議論を噛み合わせるための言葉の整理方法 「AIエージェントを導...</description>
+<title>【Qiita】 個人エージェント時代の標準化が進んだ 2026 年 10 月：ステートレス MCP と AAIF の新プロジェクトを整理する</title>
+<link>https://qiita.com/kakusan2022/items/4673c56be9f2ff850a28</link>
+<guid>0d516934c9809bfcf4ad7c46f44c708d801532b41d609c7afe12db6a01c22f28</guid>
+<pubDate>2026-10-27T12:11:24+09:00</pubDate>
+<description>最初に明記しておきます。私はここで取り上げる製品や標準の開発者ではありません。公開情報と報道をもとに、個人エージェントまわりの標準化の動きを整理した記事です。時点は 2026 年 10 月 27 日です。 1. MCP の 2026-07-28 改訂：プロトコル層がステー...</description>
 </item>
 <item>
-<title>【Qiita】 AIのみで作られたシステムを引き継いだら、品質の現実に直面した話</title>
-<link>https://qiita.com/Kokuto821/items/352e44c77489c22945c2</link>
-<guid>18318d6522d6dc848f2cd1ee1a43054e1780583e005f71d1abd1b6966d3ba099</guid>
-<pubDate>2026-10-27T08:27:13+09:00</pubDate>
-<description>はじめに 自分は普段、自社向けの新規業務システムを開発しています。そんな中、急な案件でAIエージェントだけで作られたシステムを引き継ぐ機会がありました。 結論から言うと、動きはするものの品質は低く、改修にかなり苦労しました。 普段は自分も実装のほぼすべてをAIエージェント...</description>
+<title>【Qiita】 診断するのは cclens、直すのは Claude。Claude Code の使い方を見直す3ステップ</title>
+<link>https://qiita.com/sota0811/items/3033861faa34a46c0e0e</link>
+<guid>8ce700f49d102348a8f10412c95684673ba535a9b7e85780b326ab97a9af8e4f</guid>
+<pubDate>2026-10-27T11:09:29+09:00</pubDate>
+<description>はじめに X で、Claude Code の使い方を診断してくれる cclens というツールの紹介記事を見かけました。さっそくプラグインとして入れて /cclens:doctor と /cclens:optimize を実行したところ、設定ファイルがいくつか直りました。...</description>
 </item>
 <item>
-<title>【Qiita】 検証のセッションでAIが検査に通した報告は505字、返した報告は631字だった：台帳・指示書・報告を書式で止める設計</title>
-<link>https://qiita.com/kaiyaku_iyada/items/b290e77ba2d79bc41cff</link>
-<guid>d4d84b6da52194a666744bafdc166d7cc41aee6ca6388019afab7f48d9b2a15d</guid>
-<pubDate>2026-10-27T07:59:54+09:00</pubDate>
-<description>この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。個人の実験で、Anthropic社とは無関係です。同社の公認や提携ではありません。書いてあるのは、2026年10月22日までのキット v1.5 の下...</description>
+<title>【Qiita】 13。『許可リストを見る手段がない』と前日に書いた記事のあと、プロキシを完全にバイパスする宛先の数を数えたらその数字だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/40701c4ae7f8dc6ce153</link>
+<guid>0d77ec818d51f7d6942ae44c1d98c8bb3e077333b94399b2a5e666dd585f3ae7</guid>
+<pubDate>2026-10-27T09:48:55+09:00</pubDate>
+<description>はじめに 13。 これが今回の数字です。何の13かというと、このZenn/Qiita自動投稿パイプライン(Tamae-OSの一部)が動いている実行環境で、「送信方向の制限用プロキシを最初から完全にバイパスして直接通信する」設定になっている宛先の数です。 きっかけは、前日に...</description>
 </item>
 <item>
-<title>【Qiita】 MetaのAIエージェント「Muse」が日本で提供開始。メールの送信や旅行の予約を代わりに進める</title>
-<link>https://qiita.com/quotidia/items/b24c54ac89eadd684b3c</link>
-<guid>d19b7d0378f23f785110ecb25e6a605d928970bea74e916e911850c9744382e2</guid>
-<pubDate>2026-10-27T06:00:59+09:00</pubDate>
-<description>本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。 Metaは2026年10月23日(金)、利用者に代わってメールの送信や旅行の予約を進めるAIエージェント「Muse」の日本での提供を始めました。 要点 2026年9月に先行した北米に続き、...</description>
+<title>【Qiita】 途中で直した CLAUDE.md が、自動要約のあと古い中身に戻っていた（2.1.310）。それでも新しいルールで動いた</title>
+<link>https://qiita.com/suwa_nobu/items/d3f0491c9727176dea22</link>
+<guid>abf40e15bc5e24c77e8b6997c43d516fc1aab3de1be40412ea30c33da02bdf2e</guid>
+<pubDate>2026-10-27T09:24:33+09:00</pubDate>
+<description>会話の途中で CLAUDE.md を直すことは、よくあると思います。では、長い作業の途中で自動の要約が走ったあとも、直したルールは生きているのか。 Claude Code 2.1.311（2026-10-26）で、ここに関わる不具合が直りました。直る前の 2.1.310 と...</description>
 </item>
 <item>
-<title>【Qiita】 ⚡MLflow Tracing入門⚡ LLM・Retriever・Toolを1つのTraceで可視化する方法</title>
-<link>https://qiita.com/mellowlaunch/items/0e2c9f7d0d7786ded200</link>
-<guid>a112a57df5941d57d16e6d0cda373fbaf77a89345443aa8ef021df89ce775233</guid>
-<pubDate>2026-10-27T07:04:02+09:00</pubDate>
-<description>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 ####『ゼロから触ってわかった！AI Agent Observability入門― MLflow・Data...</description>
+<title>【Anthropic】 Introducing Claude Opus 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>3771ea44a25dd94bdd5bcd482fd73261bfd61a669b60a80f4d48a15c02894e47</guid>
+<pubDate>Tue, 27 Oct 2026 03:35:33 GMT</pubDate>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>2efbf51556ee53e5e56329040bc6dde144dce78c585f90d8251277f11b303f85</guid>
-<pubDate>Mon, 26 Oct 2026 23:57:46 GMT</pubDate>
-<description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>0105463055922866ed5089fc4fef689a966d3b42cf5a65775ac80e1bf311bc0e</guid>
+<pubDate>Tue, 27 Oct 2026 03:36:03 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of hundreds of physical 3D cellular bricks, simple modular hardware units that</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41562-026-02590-6</link>
-<guid>dddac5f932562dd12663ef6b017fd5b07b467439cfdea71f5784a2671c4d42b9</guid>
-<pubDate>Mon, 26 Oct 2026 23:57:49 GMT</pubDate>
+<guid>9950a4aaac29a40316d1672c13d646d49ee3db13bbb191d9d71eb50a90cae8fd</guid>
+<pubDate>Tue, 27 Oct 2026 03:36:08 GMT</pubDate>
 <description>As artificial intelligence (AI) becomes increasingly embedded in daily life, ascertaining whether an agent is human is critical. Here we systematically benchmark AI’s ability to imitate humans in three language tasks (image captioning, word association and conversation) and three vision tasks (colour estimation, object detection and attention prediction), collecting data from n = 636 humans and 37 AI agents. We also conducted 72,191 Turing-like tests with 1,916 human judges and 10 AI judges. Current AIs are approaching the ability to convincingly impersonate humans and deceive human judges in both language and vision. Even simple AI judges outperformed humans in distinguishing AI from human responses. Imitation ability showed minimal correlation with conventional AI performance metrics, suggesting that passing as human is an important independent evaluation criterion. The large-scale Turing-like datasets and metrics introduced here offer valuable benchmarks for assessing human-likeness in AI and highlight the importance of rigorous, quantitative imitation tests for AI development. Zhang et al. systematically compare humans and AI across three language and three vision tasks.</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>ffeba19db7462f447f4db201a5109ddd70d084f1880ac66b4fafd4babcc22102</guid>
-<pubDate>Mon, 26 Oct 2026 23:57:54 GMT</pubDate>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>0f49b9bfe408846b05ab808b76fcd3d3a3148522c638b64164394300aaa0942f</guid>
+<pubDate>Tue, 27 Oct 2026 03:36:09 GMT</pubDate>
 <description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 
