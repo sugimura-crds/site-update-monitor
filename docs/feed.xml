@@ -4,98 +4,71 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 27 Oct 2026 15:28:49 GMT</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 20:10:47 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【AWS】【DevOps Agent】できることを画面で一通り見る（基礎編）</title>
-<link>https://qiita.com/yuki_1012_1101/items/9cdec7869bf3e3a1af6c</link>
-<guid>a5582529af6bf49ea690dd6e61a08e4a79688baa6ddc9add4b3199ea7f590043</guid>
-<pubDate>2026-10-28T00:04:16+09:00</pubDate>
-<description>変更履歴 2026-10-28：公開 初めに AWS DevOps Agent（障害の調査を支援する AWS のサービス）に、障害を調査させる検証を始めた。その結果を記事にする前に、DevOps Agent の基礎知識をまとめておく。 想定読者は、AWS で運用して...</description>
+<title>【Qiita】 手作業なら匙を投げたくなる UserForm のキー操作改善を、Gemini Flash との雑談だけで終わらせた話</title>
+<link>https://qiita.com/shu15511551/items/2e466e26c577b2f225f6</link>
+<guid>3bbe21102054f2a77c5f169528a2b890cf27a1079e44755b65d71652441df3fc</guid>
+<pubDate>2026-10-28T04:46:48+09:00</pubDate>
+<description>はじめに 今年の五月に、「会話するだけでマクロが直る」という記事を書きました。 あれから半年、マクロを新規に作るだけでなく、壊れた数式を直したり、アドインを束ねたりと、AI との付き合い方はどんどん進んできました。 そして今夜、またひとつ面白い体験をしました。Exc...</description>
 </item>
 <item>
-<title>【Qiita】 AIに日本語の名寄せをさせると毎回答えが変わるので、決まったルールで答えるMCPサーバーを作った</title>
-<link>https://qiita.com/nexus-tools/items/9ee831f9e66256d47115</link>
-<guid>20519838da2a8addc403bd33f21e810ce3f1b6b4eb0a4947d3eaa32a5ff63f21</guid>
-<pubDate>2026-10-28T00:02:08+09:00</pubDate>
-<description>困っていたこと ClaudeやChatGPTに顧客名簿を渡して「重複をまとめて」と頼むと、だいたいうまくいきます。ただ、こういうことが起きます。 同じ名簿でも、実行するたびに直し方が少しずつ違う 「さくら商事」と「さくら商会」を同じ会社としてまとめてしまう 「R6.3....</description>
+<title>【Qiita】 Interactive Liveを並列開発しても状態を壊さない：作業単位・イベント契約・AI停止線をTypeScriptで実装する</title>
+<link>https://qiita.com/susie000720/items/4fa996b7e06c638ca7b8</link>
+<guid>e5c83e440576435d2728a94a493a1965d2f3e8c4c719c4545d8a651995f770a8</guid>
+<pubDate>2026-10-28T02:10:59+09:00</pubDate>
+<description>ライブ配信機能を分担すると、UI、RTC接続、AIホスト、運営コンソールを並行して進められます。しかし、各ブランチがそれぞれ「配信中」「終了済み」「AIが発言可能」を判断し始めると、コードはマージできたのに、実行時の状態だけが食い違う問題が起きます。 特にAIホストを加える...</description>
 </item>
 <item>
-<title>【Qiita】 【宇宙最速書評】AWSでRAGとAIエージェントをがっつり業務実践できる名著「Amazon Bedrock実践ガイド」</title>
-<link>https://qiita.com/minorun365/items/84cd50fda97df62cff88</link>
-<guid>e189765d662622702d74cf7db24aa3151206173d844417997b81fa83f94edfa8</guid>
-<pubDate>2026-10-27T23:30:49+09:00</pubDate>
-<description>骨太のBedrock &amp; AgentCore本が出た！！ クラスメソッドの神野雄大さんが書かれた『Amazon Bedrock実践ガイド 〜RAGとAIエージェントで進める業務効率化』が、技術評論社から出版されます。 10月23日から都内の書店を中心に先行販売が始まってい...</description>
+<title>【Qiita】 dev-orchestra の作業単位で、計画を分けて並べて実装してみた</title>
+<link>https://qiita.com/istb16/items/41b2d98f75ac57acc7d8</link>
+<guid>1bb67dee9c0775c0f7991b446a7ab6e44a29c6acf9912265bbef8c5429fea9d5</guid>
+<pubDate>2026-10-28T00:29:29+09:00</pubDate>
+<description>この記事は tk3.biz のブログ からの転載です。 はじめに dev-orchestra 1.2.0 で、計画を作業単位に分けて実装できるようになりました。互いに関係しない作業単位は、それぞれ専用の git worktree で並べて走り、終わったものから作業ツリ...</description>
 </item>
 <item>
-<title>【Qiita】 【備忘録】Windows が「AIエージェントのプラットフォーム」を目指す話を整理する ― MXC・Get Started・ハイブリッド知能</title>
-<link>https://qiita.com/Tadataka_Takahashi/items/8b179aa3c265aa4f0fc5</link>
-<guid>fcb250e7bd8e46fbed1eb941f80ebfe8d99ec4c42a93f6c8b7e1fe02e1cafcff</guid>
-<pubDate>2026-10-27T23:20:34+09:00</pubDate>
-<description>はじめに 2026年10月7日に開催された Microsoft の Windows / Surface イベントで、Microsoft は Windows を 「AI エージェントにとって最も安全なプラットフォーム」 と位置づけ、OS レベルで安全な実行・識別・管理を支え...</description>
-</item>
-<item>
-<title>【Qiita】 Anthropic の Scion に学ぶソース管理設計、Git の前提はどこで崩れるか</title>
-<link>https://qiita.com/kai_kou/items/1e1800bb2d48c8fc3ea7</link>
-<guid>312acb3c7f3bbb85a00eeef393ea3d78b62b242eacd2762b83772d09f243752a</guid>
-<pubDate>2026-10-27T20:11:27+09:00</pubDate>
-<description>はじめに コーディングエージェントを CI やバッチジョブに組み込むと、リポジトリを取得するクライアントの数が人間の開発者数とは別の桁で増えていきます。そのとき最初に音を上げるのはどこなのでしょうか。 対象読者は、リードエンジニア・プラットフォーム担当、そして AI エー...</description>
-</item>
-<item>
-<title>【環境】 Adapting to the risk of Atlantic circulation change</title>
-<link>https://www.nature.com/articles/s41893-026-01961-1</link>
-<guid>7ed6ac201ab9c40aac5a04e233dc15feb2e03e7a0317fb08fef31d0504778b3d</guid>
+<title>【自動自律実験】 Author Correction: A chemical defence against phage infection</title>
+<link>https://www.nature.com/articles/s41586-026-11302-z</link>
+<guid>8a11ba0a6d688159a522c839639ca44e45666641877dc050e4b2846d98ff6a43</guid>
 <pubDate>2026-10-27</pubDate>
-<description>Weakening Atlantic circulation could shift temperatures and rainfall across continents, raise regional sea levels, disrupt food production and marine ecosystems, and erode the ocean carbon sink. Planning in the most exposed countries does not yet account for these risks; we propose five steps to close this bli</description>
+<description>Author Correction: A chemical defence against phage infection</description>
 </item>
 <item>
-<title>【自動自律実験】 The Nobel prize in economic science has a serious gender problem</title>
-<link>https://www.nature.com/articles/d41586-026-03404-5</link>
-<guid>44e71fad4ce695b06f020ff0c470feb4018c9b2d75311d83b4b0e7f12854207e</guid>
-<pubDate>2026-10-27</pubDate>
-<description>The Nobel prize in economic science has a serious gender problem</description>
-</item>
-<item>
-<title>【自動自律実験】 AI-hallucinated citations should be treated as research misconduct</title>
-<link>https://www.nature.com/articles/d41586-026-03407-2</link>
-<guid>7f2e0d41c2c7734825da2de2043a93ff51452c5c93d04f78ab806db2994d71c6</guid>
-<pubDate>2026-10-27</pubDate>
-<description>AI-hallucinated citations should be treated as research misconduct</description>
-</item>
-<item>
-<title>【自動自律実験】 Short-term academic visits to China could sustain ties</title>
-<link>https://www.nature.com/articles/d41586-026-03405-4</link>
-<guid>90cafb9f86c7b9da886a05dbb9728d6b6f571527786e283b8ef8e40db9e86059</guid>
-<pubDate>2026-10-27</pubDate>
-<description>Short-term academic visits to China could sustain ties</description>
-</item>
-<item>
-<title>【自動自律実験】 Making ‘mind pictures’ takes mental effort</title>
-<link>https://www.nature.com/articles/d41586-026-03276-9</link>
-<guid>1e05901368e77f4f2c75c674ed10a76113e29dc07c8b8494b21a78efb7b00361</guid>
-<pubDate>2026-10-27</pubDate>
-<description>How forming internal imagery is amusing but tiring, and the worry induced by lists of chemicals in foods, in this week’s pick from the Nature archive.</description>
-</item>
-<item>
-<title>【自動自律実験】 AI watermarking efforts must encourage independent public scrutiny</title>
-<link>https://www.nature.com/articles/d41586-026-03406-3</link>
-<guid>5f5f57c2a373f303d13ea300d15e4fc745a60525f752b0aa502609fff3cc900a</guid>
-<pubDate>2026-10-27</pubDate>
-<description>AI watermarking efforts must encourage independent public scrutiny</description>
+<title>【Anthropic】 Introducing Claude Opus 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>b8754f07d14705dd3fbd1c37e54dc0a3d9c4ed41229852bc161af4c8f2365239</guid>
+<pubDate>Tue, 27 Oct 2026 20:09:53 GMT</pubDate>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>4fa9be3be574b8f48fcdf93d3401839e612da2339a1c4aab4475f2cd99af618b</guid>
-<pubDate>Tue, 27 Oct 2026 15:28:03 GMT</pubDate>
+<guid>fd97ab437498b0e9bdd253f647732a64868e2373a0e8a13799557ab6df288929</guid>
+<pubDate>Tue, 27 Oct 2026 20:10:00 GMT</pubDate>
 <description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41562-026-02590-6</link>
-<guid>f06cab6f572aa5871deedb2e5c10aeabbe70130b722c33d5e8882a68393679d3</guid>
-<pubDate>Tue, 27 Oct 2026 15:28:06 GMT</pubDate>
+<guid>821808dfd94021cd1af2618cb11f44bc590567a66dd3c8a87200ae8a75588a9b</guid>
+<pubDate>Tue, 27 Oct 2026 20:10:02 GMT</pubDate>
 <description>As artificial intelligence (AI) becomes increasingly embedded in daily life, ascertaining whether an agent is human is critical. Here we systematically benchmark AI’s ability to imitate humans in three language tasks (image captioning, word association and conversation) and three vision tasks (colour estimation, object detection and attention prediction), collecting data from n = 636 humans and 37 AI agents. We also conducted 72,191 Turing-like tests with 1,916 human judges and 10 AI judges. Current AIs are approaching the ability to convincingly impersonate humans and deceive human judges in both language and vision. Even simple AI judges outperformed humans in distinguishing AI from human responses. Imitation ability showed minimal correlation with conventional AI performance metrics, suggesting that passing as human is an important independent evaluation criterion. The large-scale Turing-like datasets and metrics introduced here offer valuable benchmarks for assessing human-likeness in AI and highlight the importance of rigorous, quantitative imitation tests for AI development. Zhang et al. systematically compare humans and AI across three language and three vision tasks.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>a638accbfcbd7eb7053b02ac2968d569f6096d86a36d5f41490a4086405bca45</guid>
+<pubDate>Tue, 27 Oct 2026 20:10:29 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>1c8076d0681e28d0d4aa6915fb541621e026f48ff07a631fc8cd8bd4e4caf6ca</guid>
+<pubDate>Tue, 27 Oct 2026 20:10:30 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
