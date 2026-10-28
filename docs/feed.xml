@@ -4,126 +4,91 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 28 Oct 2026 16:22:49 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 21:13:40 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM Granite Speech を試してみた — RTX 3060 Ti 8GBでローカル音声認識</title>
-<link>https://qiita.com/oyahiroki/items/b9331dcb0c8ea565de71</link>
-<guid>2dfafcaa21429d8140af894661de3f5fdf57c2597a1cd819c5e8e02918cfc7b1</guid>
-<pubDate>2026-10-29T00:09:55+09:00</pubDate>
-<description>IBM Granite Speech を試してみた — RTX 3060 Ti 8GBでローカル音声認識 はじめに IBMが公開している音声認識モデル Granite Speech 5.0 2B をローカル環境で動かしてみました。 今回は、NVIDIA RTX 3060...</description>
+<title>【Qiita】 【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
+<link>https://qiita.com/rana_kualu/items/f5a44b09241bdb21907e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>533a35440069a2d922e9b31f4f3f50714dab46efddbff3fcbb77d96b838cb7de</guid>
+<pubDate>2026-10-26T20:58:55+09:00</pubDate>
+<description>先日大騒ぎになったPHP2Shellですが、修正版リリースの提供直後、PHP財団公式ブログ記事Today&#x27;s PHP Security Release, and How We&#x27;re Strengthening PHP Securityが公開されました。 そもそもどんな脆弱...</description>
 </item>
 <item>
-<title>【Qiita】 AI エージェント間の JSON 受け渡しで情報欠落を検出する</title>
-<link>https://qiita.com/ynakayama/items/ca625f0e444d27ec6279</link>
-<guid>813952309a75666e414130077481b6148037a16b8dbae3432560a53d5f9eb406</guid>
-<pubDate>2026-10-29T00:10:29+09:00</pubDate>
-<description>配送照会の結果を別の AI エージェントへ渡す場合、後続の返品判定には「配達済み」という結論に加えて、配送完了日が必要です。配送完了日が 2026-10-10、返品申請日が 2026-10-25 なら、経過日数は 15 日と計算できます。一方、「配達済み」という文字列だけで...</description>
+<title>【Qiita】 『人間の代替』をゴールにしない——アギーレ氏のBetter Pathを、AIエージェントの権限設計に落とす</title>
+<link>https://qiita.com/mhamadajp/items/78498d46479278e43661</link>
+<guid>7c00bc3ea2b12bcd2164190abe33a74a9ce19c27b9f582dee8fc376342626479</guid>
+<pubDate>2026-10-29T05:25:57+09:00</pubDate>
+<description>「禁止はプロンプトに書いてあります」で、レビューを通していませんか たとえば、社内のAIエージェントにブラウザ操作の権限を足すプルリクエストです。レビューで、こんな質問が出ます。 「フォーム送信は、人の承認なしでいいんですか」 「このエージェント、どこまで自分で判断するん...</description>
 </item>
 <item>
-<title>【Qiita】 「AIっぽいデザイン」はなぜ消えないのか ── Impeccableを読み解いて、同じ依頼で4通り作って比べた</title>
-<link>https://qiita.com/jinxin4869/items/0e72c0b925b75f1c28c9</link>
-<guid>675448f80adac90b3111e43c4dd03493f0cc6f6de39cc0d9df9a0aca33eebb33</guid>
-<pubDate>2026-10-28T23:53:27+09:00</pubDate>
-<description>はじめに 今のAIにランディングページのデザインを頼むと、数分で整ったページが出てきます。配色も余白も悪くない。でも、なんか見慣れた感じがする。そんな経験はないでしょうか。 この記事では、AIが作るデザインから「AIっぽさ」を取り除くためのスキルImpeccableを取り...</description>
+<title>【Qiita】 個人AIエージェントの引っ越しを1ファイルに収めるフォーマット「personal-agent-dossier」</title>
+<link>https://qiita.com/AidaShika/items/1cf26598f37621cab13f</link>
+<guid>492b15d0243ec80faf1131a182af35e4c2c4b46bdbab758936538b77c4613a18</guid>
+<pubDate>2026-10-29T04:09:35+09:00</pubDate>
+<description>リポジトリ: https://github.com/AidaShika/personal-agent-dossier はじめに：引っ越しで困るのはエージェントの中身である 私は東京でフロントエンド開発をしながら、個人用のエージェントを、Grok Botが出てからの2か月ほ...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントを育てる：実証結果の評価から、調査・追加実証を進める条件の整理へ</title>
-<link>https://qiita.com/masato_y/items/bef644cc61f64c52e239</link>
-<guid>2157bef93e6fbc10a544c4ad58b1f4b24b160d886db87dbe809d731f2b4aaf23</guid>
-<pubDate>2026-10-28T23:39:43+09:00</pubDate>
-<description>AIエージェントを育てる：実証結果の評価から、調査・追加実証を進める条件の整理へ 商談準備資料を作成するAIエージェントに、顧客情報や追加情報を与え、判断や資料がどう変わるかを確認しています。 今回は、調査・追加実証を進めるための合意事項を追加しました。これにより、...</description>
+<title>【環境】 ‘Forever chemicals’ are everywhere. Can new technologies get rid of them for good?</title>
+<link>https://www.science.org/content/article/forever-chemicals-are-everywhere-can-new-technologies-get-rid-them-good</link>
+<guid>b84f7a256363cd25107016943964c1822f5edbda7b06a043413fd8ccc3f8e647</guid>
+<pubDate>2026-10-28T04:45:00Z</pubDate>
+<description>From superheated water to sound waves, researchers are testing ways to destroy PFAS—and weighing the costs of cleanup</description>
 </item>
 <item>
-<title>【Qiita】 Aeon vs Claude Duet: 「聞いてから動く」エージェントと「黙って回る」エージェント</title>
-<link>https://qiita.com/0xNurstar/items/0275f6bcb71a3b4c0362</link>
-<guid>8d3b262f87694d69da5512f613e0867d2c94afcff548486394101315b1d74f46</guid>
-<pubDate>2026-10-28T23:39:16+09:00</pubDate>
-<description>この記事について 本記事は、aeon 公式ブログに掲載された英語記事 Aeon vs Claude Duet: the agent that asks, the one that runs（2026年10月26日）を日本語にしたものです。原文・訳文ともに筆者が書いています...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Codeの/fork、claude agents --jsonで覗いた</title>
-<link>https://qiita.com/kai_kou/items/73561042e729fbda6dff</link>
-<guid>fe01015f2138fd90daf15ac97ec14579cc137641500971c5b3eb816bc235e7e1</guid>
-<pubDate>2026-10-28T20:19:59+09:00</pubDate>
-<description>はじめに Claude Codeの週次ダイジェストに「/fork copies your conversation into a new background session while you keep working」という一文が載っていた。会話をバックグラウンドセ...</description>
-</item>
-<item>
-<title>【環境】 Closing the climate–economics communication gap</title>
-<link>https://www.nature.com/articles/s41558-026-02784-w</link>
-<guid>4c73c2f74aef15ee7ebad87a2c59eeeb34417142257e9dc999d1fba67c8e7f0c</guid>
+<title>【自動自律実験】 Switchable Chlorine Atom Transfer Radical Reactions</title>
+<link>https://www.nature.com/articles/s41586-026-11348-z</link>
+<guid>4612d36bc143d84222075f2488fb0d17a86997da793f83da9212a52819b00db5</guid>
 <pubDate>2026-10-28</pubDate>
-<description>As the IPCC is in its seventh assessment cycle, bridging the gap between physical climate science and economics has become more urgent. Estimating climate damages requires a rigorous translation of physical hazards into economic losses, highlighting the need for better communication between the disciplines.</description>
+<description>Switchable Chlorine Atom Transfer Radical Reactions</description>
 </item>
 <item>
-<title>【環境】 Reversal of Antarctic Intermediate Water trends triggered by sea ice decline</title>
-<link>https://www.nature.com/articles/s41558-026-02758-y</link>
-<guid>ebec177fb799029ca17eec5faeb2c567015bc7764f9cd23cc9c10b0a9205ca15</guid>
+<title>【自動自律実験】 Back-to-monomer depolymerization of silicones by deoxygenative chlorination</title>
+<link>https://www.nature.com/articles/s41586-026-11335-4</link>
+<guid>c8eb0349da34dd65c36bc95902c709cc5d5fcd9fc371d902ec2338dc4eda92b3</guid>
 <pubDate>2026-10-28</pubDate>
-<description>This work investigates the effect of the 2016 regime shift in Antarctic sea ice on Antarctic Intermediate Water (AAIW). The authors show that decreased sea ice and reduced freshwater subduction lead to saltier and denser AAIW, with implications for wide-scale water-mass properties.</description>
+<description>Back-to-monomer depolymerization of silicones by deoxygenative chlorination</description>
 </item>
 <item>
-<title>【自動自律実験】 What students think about my teaching doesn’t matter. Am I wrong?</title>
-<link>https://www.nature.com/articles/d41586-026-02202-3</link>
-<guid>63b60c0011602182adb8b1c50f7560c9876194d09e9f4294916c8dbd2af14485</guid>
+<title>【自動自律実験】 Why did ancient humans avoid this lush paradise</title>
+<link>https://www.nature.com/articles/d41586-026-03486-1</link>
+<guid>1cedebe8942143e378c3263341cf47c5254571d1135731a67b75d5dc3261a9eb</guid>
 <pubDate>2026-10-28</pubDate>
-<description>A jury weighs in on whether teaching assessments are popularity contests or an important tool.</description>
+<description>A new expedition into the Rub’ al Khali desert finds no evidence of ancient human settlement.</description>
 </item>
 <item>
-<title>【自動自律実験】 How personalization and psychedelics are revitalizing psychiatry</title>
-<link>https://www.nature.com/articles/d41586-026-03402-7</link>
-<guid>a7684cf050c5847ad4c705b12f008d102eb5c17b536802e8aa87edb8f96b738b</guid>
+<title>【自動自律実験】 This Arabian desert was once a lush paradise. Why did ancient humans avoid it?</title>
+<link>https://www.nature.com/articles/d41586-026-03484-3</link>
+<guid>f732ab29a7edef5f040778ed5a61e3c554fdfcb6e37f50a7d21f01fa9e6f1270</guid>
 <pubDate>2026-10-28</pubDate>
-<description>Fresh ideas are welcome in a discipline in which progress is rare — provided they are applied rigorously.</description>
+<description>Expedition revealed that water wasn’t enough for human settlement — plus, proposals to block sunlight get serious.</description>
 </item>
 <item>
-<title>【自動自律実験】 These three red flags could unmask dodgy journals</title>
-<link>https://www.nature.com/articles/d41586-026-03325-3</link>
-<guid>2ad8390e8a05224df2cd365683b878f32b31d72a8acffae440bd982427fe40e2</guid>
+<title>【自動自律実験】 Accounting of Africa’s water reveals a management gap</title>
+<link>https://www.nature.com/articles/d41586-026-03260-3</link>
+<guid>3f785f33743df252659ed4a80faf8d0352635a4722ccc643a0d3a7e182e46351</guid>
 <pubDate>2026-10-28</pubDate>
-<description>As poor publishing practices proliferate, scholarly databases are under pressure to ensure the titles they list are reputable.</description>
-</item>
-<item>
-<title>【自動自律実験】 Is research funding now a lottery? Elite funder ERC swamped by applications</title>
-<link>https://www.nature.com/articles/d41586-026-03476-3</link>
-<guid>019500a44731ff93a7a806f8fb91252e8f936a04e26d1e6dd63ec42ab583ec85</guid>
-<pubDate>2026-10-28</pubDate>
-<description>A marked rise in submissions for the European Research Council’s grants is pushing down success rates.</description>
+<description>A map of Africa’s water demand reveals that the scarcity of water is only part of the problem facing the continent — management is a separate challenge.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>cd2df04fb60eef9c0a6c9ed1aa6722a633536308b86728ed9a5c6e7f6a79c010</guid>
-<pubDate>Wed, 28 Oct 2026 16:21:42 GMT</pubDate>
+<guid>c964f1c819de9f6e04952394e9f88b2b72a24dda91ea3bde560c5ed90130e18f</guid>
+<pubDate>Wed, 28 Oct 2026 21:12:41 GMT</pubDate>
 <description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=AI+agent&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>7d3901c8f97106f8e1878232d0f1320062faec3a4f9ac44cf7ab8bf5e6442166</guid>
-<pubDate>Wed, 28 Oct 2026 16:21:43 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41562-026-02590-6</link>
+<guid>09c95f3c044ff2aa0abfee993e54765e4e2e903f36b19b84fced32280ac34c26</guid>
+<pubDate>Wed, 28 Oct 2026 21:12:43 GMT</pubDate>
+<description>As artificial intelligence (AI) becomes increasingly embedded in daily life, ascertaining whether an agent is human is critical. Here we systematically benchmark AI’s ability to imitate humans in three language tasks (image captioning, word association and conversation) and three vision tasks (colour estimation, object detection and attention prediction), collecting data from n = 636 humans and 37 AI agents. We also conducted 72,191 Turing-like tests with 1,916 human judges and 10 AI judges. Current AIs are approaching the ability to convincingly impersonate humans and deceive human judges in both language and vision. Even simple AI judges outperformed humans in distinguishing AI from human responses. Imitation ability showed minimal correlation with conventional AI performance metrics, suggesting that passing as human is an important independent evaluation criterion. The large-scale Turing-like datasets and metrics introduced here offer valuable benchmarks for assessing human-likeness in AI and highlight the importance of rigorous, quantitative imitation tests for AI development. Zhang et al. systematically compare humans and AI across three language and three vision tasks.</description>
 </item>
 <item>
-<title>【U.S.】 Using Fluorescent Proteins that are Sensitive to Magnetic Fields as Quantum Biosensors</title>
-<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
-<guid>a19885b4428240caee8c92a4a81aafea10b68367cdeb1b4035064826559197fa</guid>
-<pubDate>Wed, 28 Oct 2026 16:21:46 GMT</pubDate>
-<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>d20d47b535a145f66e563be3fd3beb4a7c379c837bbee6c93b52390f1b94146f</guid>
-<pubDate>Wed, 28 Oct 2026 16:21:48 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
-</item>
-<item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>06aa89346e58738342474a086a8e8c9c673b79f4a5a61085b10aa2c335186f0a</guid>
-<pubDate>Wed, 28 Oct 2026 16:22:36 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>b615305942d7639e541ae41699d927f5e54697a992bcc704591cb7e9ea707c7c</guid>
+<pubDate>Wed, 28 Oct 2026 21:13:19 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
