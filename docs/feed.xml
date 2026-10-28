@@ -4,99 +4,85 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 27 Oct 2026 23:53:42 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 03:04:28 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 先週の PHP 祭りから見えた、業務システムの「止まり方」の共通点と違い — 予防的な停止・障害・計画メンテを、日本・海外・AI の告知 751 件で比べた</title>
-<link>https://qiita.com/songchong/items/eb2e60b469a148c2fb8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>21c822e97d409ae4358a97b6c8ac10416ad05491102eabfeec8d4cdce3e60db4</guid>
-<pubDate>2026-10-27T07:51:42+09:00</pubDate>
-<description>2026 年 10 月 21 日の午後から 23 日にかけて、国内の業務システムが次々に止まりました。プログラミング言語 PHP に重大な脆弱性が見つかり、提供元が修正を当てて安全を確かめ終わるまで、自分からサービスを止めたからです（予防的な停止）。いわゆる「PHP 祭り」...</description>
+<title>【Qiita】 異種RDBの論理統合環境を実現するOracle Live AI Hub</title>
+<link>https://qiita.com/ksonoda/items/3604f18af47dd66ab652</link>
+<guid>761c193f36315444d6506488da1c3442228d42d4e73608d0270894146d873e46</guid>
+<pubDate>2026-10-28T12:02:36+09:00</pubDate>
+<description>AIエージェント時代のデータストアに求められること AIエージェントが正確に状況を認識し、適切に意思決定するには、必要なデータを正確に取得できることが不可欠です。 しかし、データが複数のシステムにサイロ化されている場合、データストアごとに異なるAPIを使い、その都度情報...</description>
 </item>
 <item>
-<title>【Qiita】 手書きメモからAIエージェントを作ってみた ~ STORM Act #4</title>
-<link>https://qiita.com/kataoka_se_sionic/items/8a8ed3ef27ac9ec424d4</link>
-<guid>cec89c0855135acf85f06ad8c233322d1a402991f115b9dddf1b458fbc2eaedd</guid>
-<pubDate>2026-10-28T08:16:44+09:00</pubDate>
-<description>本記事の目的 以前までの記事で、弊社 Sionic AI の STORM Act を使用して、AIエージェントを自然言語で開発する手法をご紹介しました。 今回は、ノートに描いた手書きメモをSTORM Actに渡し、パワポ資料を検索して質問に答えるAIエージェントを作...</description>
+<title>【Qiita】 AI に作業を任せるときの不安を減らす設計：Sakupa の「プレビュー→確認→実行」を読み解く</title>
+<link>https://qiita.com/kakusan2022/items/3f9352cb636d152bfedc</link>
+<guid>00638e63df635193cf89339f1d8a5f48468d36651b1278ed89211d51ec538a28</guid>
+<pubDate>2026-10-28T11:35:52+09:00</pubDate>
+<description>はじめに明記しておきます。私は Sakupa の開発者ではありません。MCP サーバーを調べていて見つけたサービスで、公式サイト・マニュアル・公開情報の範囲で整理した紹介記事です。実際に使った体験談ではありません。 なぜ「確認の設計」に注目したのか AI にホームページの...</description>
 </item>
 <item>
-<title>【Qiita】 X だけはAIに読ませず操作させない：費用の理由は文書と合わず、決め手は永久停止と返信の条件</title>
-<link>https://qiita.com/kaiyaku_iyada/items/b89c8fe73867bbb273ae</link>
-<guid>a0271df0368a7e825c42fb8060f249d082540f494779af91d32e211e8b1d1487</guid>
-<pubDate>2026-10-28T08:00:34+09:00</pubDate>
-<description>この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。Anthropic社ともX社とも無関係の個人の実験で、両社の公認や提携ではありません。X（旧Twitter）の決まりと API の条件は、主に、20...</description>
+<title>【Qiita】 ContextVarで履歴を分離、会話の混入が2件から0件に</title>
+<link>https://qiita.com/hironakamura_ai/items/f73ae8cfeddf7d26511d</link>
+<guid>18b1627bc0b222d08219459a4f2287f3b31749939d83f0d0d8c0740bf084f72f</guid>
+<pubDate>2026-10-28T11:28:46+09:00</pubDate>
+<description>ContextVarに会話履歴を入れたら、asyncioの別タスクには混ざらない？ リストにappend()する設計なら混ざる。自分は今日、2会話だけのコードで確かめていて、両方の履歴に相手の質問が入った。ContextVarを使っているだけで、履歴を分離できた扱いにするの...</description>
 </item>
 <item>
-<title>【Qiita】 ローカルのCLIからクラウドのGrok Botへ GitHubのissueで非同期に調べ物を頼む</title>
-<link>https://qiita.com/damin_chan/items/b648643e18b427016db5</link>
-<guid>eeeb123f1aaf6e6c7b550ac68a4d7798b8fd1d5df482a112b61a9f5751042ec7</guid>
-<pubDate>2026-10-28T07:04:34+09:00</pubDate>
-<description>2026年10月27日 日本時間2時時点の情報です。仕組みは自分の環境で動かしているもので、コマンドの説明は手元のスクリプトと README、GitHub CLI の公式マニュアルで、Grok Bot の説明は xAI の公式ドキュメントで確かめています。 3行ま...</description>
-</item>
-<item>
-<title>【Qiita】 頭脳、体…エージェント？</title>
-<link>https://qiita.com/DanArcherOnline/items/4cba78fd81d7ac902ca5</link>
-<guid>3696950ee6abeaec157da488a052ade0cf39bef83390ea7dda9b55876c27a8d6</guid>
-<pubDate>2026-10-28T08:11:02+09:00</pubDate>
-<description>この記事は https://danarcheronline.github.io/posts/mind-body-agent で最初に公開されました（originally published at https://danarcheronline.github.io/post...</description>
-</item>
-<item>
-<title>【Qiita】 ⚡Databricks AI Agent入門⚡ Unity Gatewayとは？LLM・MCPの接続を一元管理する仕組み</title>
-<link>https://qiita.com/mellowlaunch/items/5af4a1a104e64c525909</link>
-<guid>5cbc687ca41a3de4c1a8c56d1863d4005da29868f363668759bc449a29319b2b</guid>
-<pubDate>2026-10-28T06:49:27+09:00</pubDate>
-<description>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 『ゼロから触ってわかった！Databricks Agent Engineering実務入門 ～AI Gat...</description>
-</item>
-<item>
-<title>【自動自律実験】 Methane emissions remain flat even as biggest US oil region opens the tap</title>
-<link>https://www.nature.com/articles/d41586-026-03388-2</link>
-<guid>e697a3e1636b7470d017e3d4bf0c7e69aee1f256e31467fadf08142c4b9be039</guid>
-<pubDate>2026-10-27</pubDate>
-<description>Output of the greenhouse gas from the Permian Basin has remained near constant over a period during which oil and gas production tripled.</description>
+<title>【Qiita】 今週の PHP・LiteLLM の脆弱性を Claude Code に探させたら、Web 検索ありで6回中5回見つけた</title>
+<link>https://qiita.com/suwa_nobu/items/e6b2737d3eddb921e40d</link>
+<guid>563abdab8d5b2b6d2dabc8746fc21f14637ed71dc59931ea2c8a5fac212f533d</guid>
+<pubDate>2026-10-28T11:25:35+09:00</pubDate>
+<description>2026-10-21 に、PHP の重大な脆弱性2件の修正版と、LiteLLM の悪意のある版（1.107.0）が同じ日に出ました。Sonnet 5.5 は自分の知識を「2026年6月まで」と答えます。自分のプロジェクトが当たっているか、Claude Code に聞いたら分...</description>
 </item>
 <item>
 <title>【Anthropic】 Introducing Claude Opus 5.5</title>
 <link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>f1912b438a6d6df88b81e767a4df52105ebc70b79c994316c0f8f94de6f1c5e3</guid>
-<pubDate>Tue, 27 Oct 2026 23:52:39 GMT</pubDate>
+<guid>a70bad68e4545081837b68bbce199d114e2cbfb216917091799b9f5a496a5474</guid>
+<pubDate>Wed, 28 Oct 2026 03:03:18 GMT</pubDate>
 <description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>308efbbd8e922007ad88ae069c4beaed939e6b930dbacd2c7d7484a39ab886da</guid>
-<pubDate>Tue, 27 Oct 2026 23:52:47 GMT</pubDate>
+<guid>e048061006d49848fe0e0d9a1e0d5be8719547d387092b4eec467dad3d4528fd</guid>
+<pubDate>Wed, 28 Oct 2026 03:03:24 GMT</pubDate>
 <description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43586-026-00542-y</link>
-<guid>14370f70216732d8a307efbca611f07568f121a2eb1158035832eabfab8c6f4e</guid>
-<pubDate>Tue, 27 Oct 2026 23:52:51 GMT</pubDate>
-<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
+<link>https://www.nature.com/articles/s41562-026-02590-6</link>
+<guid>6cdaa96b7f013702128f2890cdfb5d4d20f1d80bfcd59639b7ff42b658320b77</guid>
+<pubDate>Wed, 28 Oct 2026 03:03:27 GMT</pubDate>
+<description>As artificial intelligence (AI) becomes increasingly embedded in daily life, ascertaining whether an agent is human is critical. Here we systematically benchmark AI’s ability to imitate humans in three language tasks (image captioning, word association and conversation) and three vision tasks (colour estimation, object detection and attention prediction), collecting data from n = 636 humans and 37 AI agents. We also conducted 72,191 Turing-like tests with 1,916 human judges and 10 AI judges. Current AIs are approaching the ability to convincingly impersonate humans and deceive human judges in both language and vision. Even simple AI judges outperformed humans in distinguishing AI from human responses. Imitation ability showed minimal correlation with conventional AI performance metrics, suggesting that passing as human is an important independent evaluation criterion. The large-scale Turing-like datasets and metrics introduced here offer valuable benchmarks for assessing human-likeness in AI and highlight the importance of rigorous, quantitative imitation tests for AI development. Zhang et al. systematically compare humans and AI across three language and three vision tasks.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>d3d5ab8d3b20283b2e20e32a23c8401abc41d66f9c9fcf60583fdbdb2fd4eb8b</guid>
+<pubDate>Wed, 28 Oct 2026 03:03:41 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Filter By:</title>
+<link>https://www.nature.com/articles/s44160-026-01194-2</link>
+<guid>1301f4dd58e4b9427353352018241767ea254bd422e393305800a28ae3f6169c</guid>
+<pubDate>Wed, 28 Oct 2026 03:03:44 GMT</pubDate>
+<description>In this issue, we focus on the development of self-driving laboratories for the autonomous synthesis of molecules and materials, with a particular focus on industrial considerations and applications.</description>
 </item>
 <item>
 <title>【U.S.】 Latest Press Releases</title>
 <link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>a040e2f8b69b513c33db97f54fa35f1f44ea9a92623334d28b73384f3ab538ff</guid>
-<pubDate>Tue, 27 Oct 2026 23:52:54 GMT</pubDate>
+<guid>6ddfb1c2b36fb021c3008faa219cb5e8ae43639f643d33f62309479e67dd531f</guid>
+<pubDate>Wed, 28 Oct 2026 03:03:47 GMT</pubDate>
 <description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>9c0b8c9edf4a48db289236c8fa37d063b05b5b44632782081d8bfa1d9bb76eca</guid>
-<pubDate>Tue, 27 Oct 2026 23:53:21 GMT</pubDate>
+<guid>6c1839bd33b3aedbc5a941d047ac0c02dbcfbbec6e8f755121a46be18c9465fd</guid>
+<pubDate>Wed, 28 Oct 2026 03:04:10 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>aeaf25b38542d4d765d23525e500795867d85ad767c2d2811426c474c81324ef</guid>
-<pubDate>Tue, 27 Oct 2026 23:53:29 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
