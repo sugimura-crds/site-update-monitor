@@ -4,98 +4,78 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 29 Oct 2026 19:58:40 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 23:47:13 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 1秒ずつ削ったら、50秒が5秒になった ― オーパス先生の改修の話</title>
-<link>https://qiita.com/shu15511551/items/307e3d3f9542da890655</link>
-<guid>916af5e4da644101d0df07eb778ea723d66e2a951dd8f76b833da4445dc3aa32</guid>
-<pubDate>2026-10-30T03:40:57+09:00</pubDate>
-<description>はじめに 前回の記事の最後に、こう書きました。焼く（アドインの更新登録）の待ちは、まだ測っていません。次に棚を直して焼くときに、内訳を測ります。 測りました。測ってみたら、前回の記事に書いた「約 20 秒」は、すでに縮み始めた後の数でした。その日の午前までは、焼くた...</description>
+<title>【Qiita】 AIはどれくらい動画編集ができるのか!? Claude CodeでYouTube動画編集した話</title>
+<link>https://qiita.com/tsukasa_japan/items/b8bca096170d087e271d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>6096fb2c3df15ab422691a27a7ff6a210460b1e95a7125804eecd7fc90e8321f</guid>
+<pubDate>2026-10-29T17:11:44+09:00</pubDate>
+<description>はじめに こんにちは！株式会社Sapeetでアルゴリズムエンジニアとして働いている堀ノ内です。 これまでSapeetではClaude DesignをテーマにYouTube Liveを行ったりしてきましたが、もっと世の中にSapeetのことを知ってもらいたい！という想いから...</description>
 </item>
 <item>
-<title>【Qiita】 【備忘録】Colab CLIの概要を確認する ― ターミナルからColabのGPU/TPUを扱うツールを整理</title>
-<link>https://qiita.com/Tadataka_Takahashi/items/736c7ef5572b64511612</link>
-<guid>ff3bfd455c477f21b213d1eb1f012f5b44dfd9d49e88456cbb0e32b584df1c1a</guid>
-<pubDate>2026-10-30T00:58:03+09:00</pubDate>
-<description>はじめに Google Colabは、ブラウザでNotebookを開いて使うものというイメージが強いです。 2026年6月5日、Google Developers Blogで Colab CLI が発表されました。ローカルのターミナルからColabのランタイム（CPU ...</description>
+<title>【Qiita】 忙しい人のための #GitHubUniverse 2026 新発表まとめ[簡易版]</title>
+<link>https://qiita.com/chomado/items/ce32e402cc4f14145a6c</link>
+<guid>1e8029281786ac59f3b6d4c66b9c149b81def862357f99b5c3d6c36b6cd827bb</guid>
+<pubDate>2026-10-30T05:00:10+09:00</pubDate>
+<description>サンフランシスコにて、GitHub 公式カンファレンス GitHub Universe が今年も開催されています！(oct27 - 30) 大きなメッセージとしては 「AI にコードを書いてもらう」から、 「複数のAIエージェントに開発全体を任せ、完成まで進める」 へ...</description>
 </item>
 <item>
-<title>【Qiita】 Orcaのハマりどころ：ワークツリーでディスクが埋まる理由と、Design Modeで画面を指さして直させる方法</title>
-<link>https://qiita.com/Xim2jp/items/6826993700879945a9f7</link>
-<guid>e764a08e6885931ddab8c2798ab71938e656facb086725434260271bb560605e</guid>
-<pubDate>2026-10-30T00:31:47+09:00</pubDate>
-<description>この記事でわかること Orca は、Claude Code や Codex などのCLIエージェントを、タスクごとに別々の git worktree で並べて動かすデスクトップアプリです（MIT、macOS・Windows・Linux）。手軽にタスクを増やせる反面、使い始...</description>
+<title>【Qiita】 Git stash pop後に古い変更が残る症状を4回目で確認して復旧</title>
+<link>https://qiita.com/orca-forge/items/e2b246bb8e1267b65e25</link>
+<guid>79f4e945123f457dab8426e9768bb9fbb36a4d3500c9e3abfa26e01124abc2df</guid>
+<pubDate>2026-10-30T08:16:32+09:00</pubDate>
+<description>📝 この記事は forge.workstyle.tech に掲載した記事の転載です。 共有の作業ツリーでは、20ファイル分の変更がステージされたまま残り、git diff --shortstatは56行追加、1,305行削除を示していました。内容を調べると、新しい編集で...</description>
 </item>
 <item>
-<title>【Qiita】 OCRが「令和」を「今和」と読む問題を、暦で確かめてから直す小さな道具を作った</title>
-<link>https://qiita.com/nexus-tools/items/a6c0bafe847db704abbd</link>
-<guid>26b9018e84f5644826d93cbfcf72cf0a6edea0a41d0937577e5301a2af273da6</guid>
-<pubDate>2026-10-30T00:23:18+09:00</pubDate>
-<description>困りごと 日本語のPDFや帳票をOCRに通してAIに読ませると、日付が崩れることがあります。 元号の「令」が「今」や「合」になる(今和6年3月15日) 「日」が「曰」や「目」になる、数字の0や1が O や l になる(2O24年l月5日) ある文書解析の道具を日本語...</description>
+<title>【Qiita】 WebMCPは何が新しいのか</title>
+<link>https://qiita.com/tamakiiii/items/b0502acefe741305bfab</link>
+<guid>ddb80b71aa922e7b9de8f5d9132b654247ea1d6d3c80d5b44a3c828019cb92c3</guid>
+<pubDate>2026-10-30T07:35:47+09:00</pubDate>
+<description>はじめに この記事では商品検索を例に、AIにWebサイトで商品を探してもらう方法を3つ比べます。AIが画面を見て入力欄やボタンを操作する方法、AIがサーバーの検索APIを呼ぶ方法、そしてWebMCPです。あわせて、名前の似たMCPとの違いも整理します。そのうえで、自分のサ...</description>
 </item>
 <item>
-<title>【自動自律実験】 Even stupendous black holes can’t explain dark matter</title>
-<link>https://www.nature.com/articles/d41586-026-03386-4</link>
-<guid>f6ee31b034df4d8a4f4c61c4f5be3a90ce4a3470b2769979f83e1ca8b8a11440</guid>
-<pubDate>2026-10-29</pubDate>
-<description>The theoretical objects would have left a larger imprint on cosmic radiation if they were a source of the invisible force pulling together the galaxies.</description>
-</item>
-<item>
-<title>【自動自律実験】 How the US mid-term elections could shake up science</title>
-<link>https://www.nature.com/articles/d41586-026-03479-0</link>
-<guid>c615027eeba2642ba591042b956844ad8ad945dc52d8e3f3728bb59adacb9069</guid>
-<pubDate>2026-10-29</pubDate>
-<description>A Democratic victory in Congress could halt the Trump administration’s controversial grant-review plan and curb some of its funding actions.</description>
-</item>
-<item>
-<title>【Google Research】 Featured blogs</title>
-<link>https://ai.google/earth-ai/</link>
-<guid>3cf680b9eac12f75d1215129b9b345c8b2f5ff301fc608c6a98a84f8fcb3bf53</guid>
-<pubDate>Thu, 29 Oct 2026 19:57:38 GMT</pubDate>
-<description>Earth AI unites Google&#x27;s decades of state-of-the-art geospatial models with actionable reasoning powered by Gemini, empowering everyone to tackle planet-scale challenges.</description>
+<title>【Qiita】 GitHub Copilotも使うCopilot harness、Foundryで試せる？12月課金</title>
+<link>https://qiita.com/kinamocchi_tech/items/85d0cb98688cd64dd5bc</link>
+<guid>11ef876b5f0772e9736db88b5074ce9c6c0d1934d95c34bf831797c02a551095</guid>
+<pubDate>2026-10-30T07:11:47+09:00</pubDate>
+<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → GitHub Copilotも使うCopilot harness、Foundryで試せる？12月課金 🐹🦜 この記事に登場する2匹 🐹 もっち...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
-<guid>50705e513fef4b21ec06f0f3382fa7cf6532f2fc66ad5079a5256bdfa465e565</guid>
-<pubDate>Thu, 29 Oct 2026 19:57:39 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>9df4a52ac6e44a3ec10d886857e06b9d5eeaae56f269540bdd9024f410dfaedb</guid>
+<pubDate>Thu, 29 Oct 2026 23:46:29 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>5522f6ca5b4e3f9d7eff17af3569091338871e9b08cea810836907db2e120036</guid>
-<pubDate>Thu, 29 Oct 2026 19:57:42 GMT</pubDate>
+<guid>e1ae2418a7d4ad277daae875e00f79c9e54cd66ac349cfc00ede36e86ced1f6a</guid>
+<pubDate>Thu, 29 Oct 2026 23:46:32 GMT</pubDate>
 <description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41562-026-02590-6</link>
-<guid>eac804c57c3f509cf2b62fd585305fb4abe28885a83f0dd7f9d805e6c4bfbb55</guid>
-<pubDate>Thu, 29 Oct 2026 19:57:45 GMT</pubDate>
-<description>As artificial intelligence (AI) becomes increasingly embedded in daily life, ascertaining whether an agent is human is critical. Here we systematically benchmark AI’s ability to imitate humans in three language tasks (image captioning, word association and conversation) and three vision tasks (colour estimation, object detection and attention prediction), collecting data from n = 636 humans and 37 AI agents. We also conducted 72,191 Turing-like tests with 1,916 human judges and 10 AI judges. Current AIs are approaching the ability to convincingly impersonate humans and deceive human judges in both language and vision. Even simple AI judges outperformed humans in distinguishing AI from human responses. Imitation ability showed minimal correlation with conventional AI performance metrics, suggesting that passing as human is an important independent evaluation criterion. The large-scale Turing-like datasets and metrics introduced here offer valuable benchmarks for assessing human-likeness in AI and highlight the importance of rigorous, quantitative imitation tests for AI development. Zhang et al. systematically compare humans and AI across three language and three vision tasks.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>135b51f708748c649fd8f6e8e9e4324a24246072aeed992852cf136db2f5eb41</guid>
+<pubDate>Thu, 29 Oct 2026 23:46:36 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43586-026-00542-y</link>
-<guid>69b72b05466aba7b285728d129e276ac53392e54d172e4759540160701ec2d9b</guid>
-<pubDate>Thu, 29 Oct 2026 19:57:49 GMT</pubDate>
-<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
+<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
+<guid>530c48355b943e54b5205ee78c33553f63f687cbd1c9c56748e07048cc6213da</guid>
+<pubDate>Thu, 29 Oct 2026 23:46:39 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Filter By:</title>
-<link>https://www.nature.com/articles/s44160-026-01194-2</link>
-<guid>905ac912d43d902241aedd00f2b4e3b84ed990fe8804c0013690a75d3d06ab15</guid>
-<pubDate>Thu, 29 Oct 2026 19:57:54 GMT</pubDate>
-<description>In this issue, we focus on the development of self-driving laboratories for the autonomous synthesis of molecules and materials, with a particular focus on industrial considerations and applications.</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>1d66646609e9529365f27ec36cf6b924053ff00de511d2e21fa4bb2fb16459a8</guid>
-<pubDate>Thu, 29 Oct 2026 19:58:22 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>10be3a3ff7bbbd70290366ef29182b850fa0a7f5eb2948f02860e0dd69914ddf</guid>
+<pubDate>Thu, 29 Oct 2026 23:46:54 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
