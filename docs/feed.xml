@@ -4,85 +4,148 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 29 Oct 2026 07:21:19 GMT</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 14:33:47 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM InfrastructureのためのAI Agent: IBM Paverを試してみた(IBM Cloud版）</title>
-<link>https://qiita.com/shiyasu/items/22f7e44fd10b4cd00447</link>
-<guid>f73e43a081723ca2fb141e270a165196b282668e967b64889ddacf742dcba77c</guid>
-<pubDate>2026-10-29T14:54:17+09:00</pubDate>
-<description>1. IBM Paverとは何か Claude CodeやIBM BobのようなAIコーディング支援の普及により、アプリケーション開発のスピードは大きく向上しました。一方、インフラストラクチャーの設計、構築、監視、障害対応、セキュリティー対策といった運用業務には、依然と...</description>
+<title>【Qiita】 パスキーはなぜ偽サイトに強い？登録とログインの流れを図で追う</title>
+<link>https://qiita.com/kuma_3838/items/1781531150821e2f0491?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f433cdbbb7adf929ea51d5a0434b6bb3f4dfc3c172e4aea731741c9cab95dd2f</guid>
+<pubDate>2026-10-29T09:59:26+09:00</pubDate>
+<description>はじめに 弊社の代表から、セキュリティの高いログイン方式であるパスキーについて学んでほしい、と声がかかりました。セキュリティへの意識が高い会社として、取り組みを外にも伝えていきたいという話もありました。 私はそれまで、パスキーの存在は知っていたものの、どういうものかを知り...</description>
 </item>
 <item>
-<title>【Qiita】 IBM i の仮想テープ装置を一から作って、ライブラリーをZLIB圧縮で保管してみた</title>
-<link>https://qiita.com/KOINULIB/items/9a48ab7b8c4745625624</link>
-<guid>e8f6e8af2d49ec642006918e6cf0ab3ae0f236e37aa031c2cb5f8ecc44eb6f3c</guid>
-<pubDate>2026-10-29T12:05:05+09:00</pubDate>
-<description>前置き 「仮想テープに保管すると、DSPTAP DATA(*SAVRST) で中身が見えないことがある」（報告） 「8,000オブジェクト越えのライブラリーでも見えないの？」 「仮想テープ装置を作るところから、ZLIB圧縮の保管までやってみよう！」 環境・前提 ...</description>
+<title>【Qiita】 Xで話題の、原文をたどってドメイン知識を集めるスキル「imozuru」を普通のAI検索と比べてみた</title>
+<link>https://qiita.com/inoyu-qiita/items/4fc91ba7f67d6763960e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>8d8c0a692613172f90afa99a92c598617513c1f32df59f9029aaa82c8682cff0</guid>
+<pubDate>2026-10-27T19:06:53+09:00</pubDate>
+<description>はじめに Xのこちらの投稿で、Claude Codeのスキルimozuruが話題になっていました。知らない分野のドメイン知識を、原文から芋づる式に集められるスキルです。 一方、普通にAIに「この分野を調べて」と頼むと、数十秒できれいな答えが返ってきます。 でも、何かの資料...</description>
 </item>
 <item>
-<title>【Qiita】 自作MCPサーバーの「取扱説明書」を書いてみた ― 新着物件検索を例に、Python SDK v2と仕様2026-07-28で変わったこと・ツール設計の勘どころ</title>
-<link>https://qiita.com/zumiraku/items/2292452d1e723a81b166</link>
-<guid>c59ae2cd79a9c3135460211f126cd6f3bfd853fb7570cab251f31a50ea18302c</guid>
-<pubDate>2026-10-29T15:33:51+09:00</pubDate>
-<description>家電を買うと、箱の中に分厚い取扱説明書が入っています。 正直に言うと、自分はあれをほとんど読みません。読むのは、何かがうまく動かなかったときだけです。そして、そういうときに限って「故障かな？と思ったら」のページに、ちょうど自分の症状が書いてあったりします。 MCP（Mod...</description>
+<title>【Qiita】 Liberty Resource Adapter で commit‑priority をテストする</title>
+<link>https://qiita.com/keniooi/items/e3036dd95766053ad898</link>
+<guid>7269c31192afacf15b5ebf419fd489c120cd4a739ac571a53489fac67abbaa20</guid>
+<pubDate>2026-10-29T23:27:03+09:00</pubDate>
+<description>目的 以前に作成した Resource Adapter に commit‑priority を設定し、コミット時の優先順位が正しく適用されているかを検証します。 で使用したものです。 commit-priority とは resource-ref の commit...</description>
 </item>
 <item>
-<title>【Qiita】 0。Claude Duetが「送信前に確認する」と発表した日、自分が公開してきた記事のうち人間の承認を挟んだ本数はその数字だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/9ed37304a44880708edf</link>
-<guid>7ebeeaa8fcd7381a257248d4188bb697b1c43601d03022c5c6f25d0c31ae31bb</guid>
-<pubDate>2026-10-29T15:27:56+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、2026年10月21日にAnthropicが発表した新しいプロアクティブエージェントアプリ「Claude Duet」が、メッセージの送信・支払い・文書への署名・削除という「結果が重い行動」の前に必ず人間の確認を取る設...</description>
+<title>【Qiita】 Azure Monitorを使って勤怠管理ができるか試してみた（XPathクエリとKQL変換でコスト99%削減!?）</title>
+<link>https://qiita.com/ManabuYamamoto/items/47db0fb06573c9940eeb</link>
+<guid>260209d0fdeee5b123009b89ce331a7452169dd7dbd8c6e77f3e0f057fc9bb8c</guid>
+<pubDate>2026-10-29T21:33:59+09:00</pubDate>
+<description>クライアントに AMA を入れて Azure Monitor の Log Analytics でログオン、ログオフを確認することができました。 はじめに 「クライアント PC のログイン・ログアウト時刻を Azure Monitor Agent (AMA) で収集し、簡...</description>
 </item>
 <item>
-<title>【Qiita】 VS Code 1.144：PC を閉じてもエージェントが働く。Cloud セッションと Cloud Automations を試した</title>
-<link>https://qiita.com/shahin0809/items/26e401dc28c1ca60d8c7</link>
-<guid>95d4fc4adeef32c4c90a2d27ea5579cdd056f853818e58e2338dd84830c05544</guid>
-<pubDate>2026-10-29T15:27:45+09:00</pubDate>
-<description>はじめに 最新アップデートを追うのが完全趣味になっているMicrosoft Student Ambassador/Github Copilot User Group Japan運営のロホマン シャヒンです！ この記事が少しでも参考になったら、ぜひいいね・共有をお願い...</description>
+<title>【Qiita】 AIエージェントの高度なメモリは、素のRAGに負ける？ 要約と整理が払う「メモリ税」とは</title>
+<link>https://qiita.com/Takuya__/items/375b9d0d35371048122a</link>
+<guid>ba229a9ddccc701f77a3b19ac859f6a6be8479275fb103ba48984dc7d0c4a913</guid>
+<pubDate>2026-10-29T23:23:04+09:00</pubDate>
+<description>この記事の確認範囲 対象の論文：He ほか「Memory Tax: Dissecting the Net Value of Agent Memory」（arXiv:2610.34073 v1、2026年10月25日公開、CC BY 4.0、査読前のプレプリント） 著者...</description>
 </item>
 <item>
-<title>【Qiita】 1 つの WordPress サイトで AI エージェントを並列に動かすときの作業の分け方</title>
-<link>https://qiita.com/shippress/items/49c78e04349190045e2c</link>
-<guid>8744cc21bd7db561b12651a8c6d9d5cf8db43f6b5ed9d2321420971b4f08ec59</guid>
-<pubDate>2026-10-29T15:18:53+09:00</pubDate>
-<description>筆者は ShipPress という Mac アプリの開発者です。記事の後半で自作ツールの紹介を含みますが、前半の分け方と確認の手順は Claude Code、Codex、Cursor CLI などをターミナルで複数立ち上げる場合でもそのまま使えます。 ターミナルを 2 ...</description>
+<title>【Qiita】 Bedrock AgentCore Memory の長期記憶に TTL を設定できるようになったので仕様を確認してみた</title>
+<link>https://qiita.com/leomarokun/items/b024b7cc384ecd873fa7</link>
+<guid>137e5af1c6a69626d4b4109fa282084715fa445785d970ad10ef39d2789c34de</guid>
+<pubDate>2026-10-29T23:01:17+09:00</pubDate>
+<description>はじめに AgentCore Memory の長期記憶に、TTL を設定できるようになりました。 これまで長期記憶には有効期限がなく、削除 API で消さない限り古い情報も残り続けていました。 アップデートの詳細 TTL の付け方は 2 通り 戦略ごとに付...</description>
 </item>
 <item>
-<title>【Qiita】 Apps Script×Gmailで、LinkedIn投稿の下書き作りを“AIとメールだけ”で回す</title>
-<link>https://qiita.com/ai-notebook/items/062f61921cf7b78fbb5e</link>
-<guid>81130d7c7c74efb580e8a2567c643b72486fec00978e6b1c573711138cecb908</guid>
-<pubDate>2026-10-29T13:28:32+09:00</pubDate>
-<description>はじめに AIエージェント製品のマーケティングを担当しています。業務の一つに、AI・ビジネス・テクノロジーの時事ネタを扱うLinkedInの朝投稿があります。 毎朝続けるには、ネタ探しから下書きまでの手間を減らす必要がありました。かといって、AIに丸投げした文章は自分の主...</description>
+<title>【Qiita】 Why Businesses Should Hire AI Agent Developers for Intelligent Automation in 2027</title>
+<link>https://qiita.com/amidias/items/bf04b4d2e21357e9d91f</link>
+<guid>da853d1e59822687efff307cebd0ddf2f01a0e648d69830075b887265ea3a12b</guid>
+<pubDate>2026-10-29T22:23:04+09:00</pubDate>
+<description>Businesses are under constant pressure to get more work done without increasing costs. Customers expect quick answers, employees want fe...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントを育てる：支出削減計画の社内承認を追加すると、商談資料はどう変わるか</title>
+<link>https://qiita.com/masato_y/items/7289493178fc8ef3da0c</link>
+<guid>2764f6564aa209e1c31b9af8cf8792a95dc420e0eb6d0d7d05a30df666f736de</guid>
+<pubDate>2026-10-29T21:32:52+09:00</pubDate>
+<description>AIエージェントを育てる：支出削減計画の社内承認を追加すると、商談資料はどう変わるか 商談準備資料を作成するAIエージェントに追加情報を与え、判断と出力資料がどう変わるかを確認しています。 今回は、量産導入までに残っていた条件の一つである「年間700万円の支出削減計...</description>
+</item>
+<item>
+<title>【Qiita】 Entire CLI の使い方、Claude Code の作業をコミットに紐づけて残す</title>
+<link>https://qiita.com/kai_kou/items/801adab6d27be309a10a</link>
+<guid>b2f691d24d2211582d96afb52bfcde8b6358d45d44fe5ba3f80d54b113831ed8</guid>
+<pubDate>2026-10-29T20:13:14+09:00</pubDate>
+<description>はじめに Claude Code にコミットまで任せていると、「このコミットはどんな指示から生まれたのか」を後から追いたくなります。コミットメッセージには結果しか残らず、やり取りはローカルのセッションログに埋もれます。 この記事では、エージェントの作業履歴を Git のコ...</description>
+</item>
+<item>
+<title>【農業】 COP17: FAO launches updated Guidelines to help countries manage competing demands for land, soil and water</title>
+<link>https://www.fao.org/newsroom/detail/cop17--fao-launches-updated-guidelines-to-help-countries-manage-competing-demands-for-land--soil-and-water/en</link>
+<guid>a22b5286f5ca24a3474131d9721814c4451358cfdfd51ef667e4be97017ad4d7</guid>
+<pubDate>Thu, 29 Oct 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【農業】 Nature is making a comeback, but the world must move faster to meet restoration targets – UN Report</title>
+<link>https://www.fao.org/newsroom/detail/nature-is-making-a-comeback--but-the-world-must-move-faster-to-meet-restoration-targets---un-report/en</link>
+<guid>8d12e5b0ad2e95f2980087191f56774f5b06f5121a9f2a47fbcc86c988e7670a</guid>
+<pubDate>Thu, 29 Oct 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【環境】 The SDGs need a subjective well-being reality check</title>
+<link>https://www.nature.com/articles/s41893-026-01963-z</link>
+<guid>2388eb502daf5a01033e70eecfd64053455e9a2aa62d7a6d8babcc0654eaf138</guid>
+<pubDate>2026-10-29</pubDate>
+<description>The Sustainable Development Goals aim to improve lives, but it is unclear whether progress on Sustainable Development Goal indicators translates into greater subjective well-being over time. A study of 42 countries found associations in levels, but weak links with year-to-year changes in life evaluations.</description>
+</item>
+<item>
+<title>【環境】 On living and feeling better</title>
+<link>https://www.nature.com/articles/s41893-026-01983-9</link>
+<guid>1ea580da88a98295ba902a70a5e464e505783467fb234ea8c64f06f3a1277a40</guid>
+<pubDate>2026-10-29</pubDate>
+<description>As the United Nations Sustainable Development Goals (SDGs) enter their final years, there is a desire to reflect on their societal impact. A study now compares changes in the SDG indicators with changes in how people feel about their lives and finds no detectable correlation between the two.</description>
+</item>
+<item>
+<title>【環境】 Global socio-economic resilience to disasters</title>
+<link>https://www.nature.com/articles/s41893-026-01947-z</link>
+<guid>9887604bfce96be6548c18578b20776b1e98ed829a0d41a1c8a62f73244c5019</guid>
+<pubDate>2026-10-29</pubDate>
+<description>Disaster risk assessments often overlook how damages affect well-being and recovery across populations. A global analysis now shows that well-being losses from disasters are much higher than asset damages, with the poorest suffering disproportionately.</description>
+</item>
+<item>
+<title>【環境】 Author Correction: Urban energy and transport impacts of autonomous robotaxi deployment</title>
+<link>https://www.nature.com/articles/s41893-026-01976-8</link>
+<guid>70026c277ef09459f2f31914602f57dfe861b71573d02d617d4b531d7e4a5b07</guid>
+<pubDate>2026-10-28</pubDate>
+<description>Author Correction: Urban energy and transport impacts of autonomous robotaxi deployment</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
-<guid>b74c89dc1a5a80eeec0afefd7c1afbda086a1e075f20df4dbdc1f433c09d3ee5</guid>
-<pubDate>Thu, 29 Oct 2026 07:20:32 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>b7c9a3d22a18b09f0796ff37e3168463599ce9fc18824e266a6a0ec2b92ab74a</guid>
+<pubDate>Thu, 29 Oct 2026 14:32:52 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>44bda70addcb9999428db9ab59d60c642905d8f296f6d72f77b723676e193099</guid>
+<pubDate>Thu, 29 Oct 2026 14:32:53 GMT</pubDate>
+<description>Sakana AI Blog read more 管理画面のイメージ。*この画像は架空のデータを使ったイメージです。今後予告なく変更される可能性があります。 read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read more read more read more read more read more read more Collections of h</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>9254de9bc95885a5f3fd3134fe1c5a3dea09120d42cb77fbdcf0f5b90a00fef9</guid>
-<pubDate>Thu, 29 Oct 2026 07:20:35 GMT</pubDate>
+<guid>187f30d6404149ad94ce978a1ac48f3b4fd96de2eaa3079c6ca7e31047356edd</guid>
+<pubDate>Thu, 29 Oct 2026 14:32:55 GMT</pubDate>
 <description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41562-026-02590-6</link>
-<guid>2aa04d3ba982e4e4ad4438ee1e315f7b184b78e112960590df3bb274bd7a2581</guid>
-<pubDate>Thu, 29 Oct 2026 07:20:37 GMT</pubDate>
-<description>As artificial intelligence (AI) becomes increasingly embedded in daily life, ascertaining whether an agent is human is critical. Here we systematically benchmark AI’s ability to imitate humans in three language tasks (image captioning, word association and conversation) and three vision tasks (colour estimation, object detection and attention prediction), collecting data from n = 636 humans and 37 AI agents. We also conducted 72,191 Turing-like tests with 1,916 human judges and 10 AI judges. Current AIs are approaching the ability to convincingly impersonate humans and deceive human judges in both language and vision. Even simple AI judges outperformed humans in distinguishing AI from human responses. Imitation ability showed minimal correlation with conventional AI performance metrics, suggesting that passing as human is an important independent evaluation criterion. The large-scale Turing-like datasets and metrics introduced here offer valuable benchmarks for assessing human-likeness in AI and highlight the importance of rigorous, quantitative imitation tests for AI development. Zhang et al. systematically compare humans and AI across three language and three vision tasks.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>26035d3e9dad069323a0eb418c94e2312ba697e57f19364e8019fa4ebc03372e</guid>
-<pubDate>Thu, 29 Oct 2026 07:20:58 GMT</pubDate>
+<guid>643870a414e10ab51931b36d9e1c8601667e38158cc3402277cef60f0039bdc1</guid>
+<pubDate>Thu, 29 Oct 2026 14:33:28 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>065de0c5d92ce026e8213e4cf0349a898ab6a45890debdedd2685dd76c76896a</guid>
+<pubDate>Thu, 29 Oct 2026 14:33:39 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
