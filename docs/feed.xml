@@ -4,134 +4,91 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 30 Oct 2026 16:53:02 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 21:15:26 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Tagの個人コネクタ：読む権限と回答の共有範囲を分けて設計する</title>
-<link>https://qiita.com/sin-aiagent/items/132a20d7b53cbdaae9df</link>
-<guid>918155c89ae9df40810d17e8493b9a75126a82669b70f742343ce03d917e1a9f</guid>
-<pubDate>2026-10-31T00:30:20+09:00</pubDate>
-<description>SlackでAIに資料を調べてもらうとき、「誰の権限で読むか」だけでは設計が足りません。回答を誰が読むかまで決めておく必要があります。Claude Tagの個人コネクタ対応を、この2つの範囲から整理します。 この記事は2026年9月24日の公式発表をもとに、10月31日に...</description>
+<title>【Qiita】 研修中の僕がSlackに海外のIT情報を運ぶbotを作ったら、だいたい何が起きたか</title>
+<link>https://qiita.com/EricYu/items/147bf8e5fdb1b04f6d54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>7dd8eb398b3180de4ad9048446629cc07b0b14f3ccef4e2df67f434280153da6</guid>
+<pubDate>2026-10-28T11:44:24+09:00</pubDate>
+<description>海外のIT情報を日本語要約つきでSlackに流すbotを、研修中に作って二ヶ月運用した。使ったのはTypeScript、GitHub Actions、Claude Haiku（Bedrock）で、月百円未満で動いている。この記事は、その構成の紹介が半分、「動くけれど読まれな...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code・Codex・Antigravity を1つのローカルチャットで協働させる方法（Excalibur Agent Hub）</title>
-<link>https://qiita.com/nezle02/items/1bea25898503056b95c2</link>
-<guid>5d570b38e1eff624b15b78ddb2f26ecf238fc5368333d87b8da09098298d0586</guid>
-<pubDate>2026-10-31T00:28:32+09:00</pubDate>
-<description>この記事でできること 複数のAIコーディングエージェント（Claude Code、Codex、Antigravity など）を同じリポジトリで動かすと、「誰が何をしているか分からない」「同じ作業が重複する」といった問題が起きます。 この記事では、エージェント同士が会話でき...</description>
+<title>【Qiita】 AIがソフトウェアを作る時代、IT技術者は何を作る人になるのか</title>
+<link>https://qiita.com/mhamadajp/items/444febf02edcd3d2416a</link>
+<guid>840c451015c0849578c566988f62ecbb8135a51c4c6628eb30b170b1af763344</guid>
+<pubDate>2026-10-31T05:21:10+09:00</pubDate>
+<description>「動きました」の次に、何を確認するか たとえば、金曜のレビューです。同僚が画面を共有して、「写真を渡したら、レースゲームができました」と言います。机の本やコップが障害物になり、ブラウザですぐ遊べます。 見た目は、完成に近いです。聞きたい問いは、その先にあります。何をもって...</description>
 </item>
 <item>
-<title>【Qiita】 漢数字を数字に直すと「一宮市」が「1宮市」になる問題を、判定テスト集つきで小さく解いた</title>
-<link>https://qiita.com/nexus-tools/items/5a83047cd6b0da6f33eb</link>
-<guid>edf4c10ee42435bc62745372aba79c156891dfbf51a2293e994a9c7e2f48b154</guid>
-<pubDate>2026-10-31T00:23:14+09:00</pubDate>
-<description>困りごと 日本語の文章を検索やRAGに入れる前に、漢数字を数字にそろえることがあります(三億五千万円 → 350000000円)。 ところが、文中の漢数字を全部変換すると、数ではない所まで変わります。 地名: 一宮市 → 1宮市、四日市 → 4日市 人名・社名: 五十...</description>
+<title>【Qiita】 複数AIをグループチャットへ直結しない：候補箱と単一公開口で二重返信・会話ループを防ぐ</title>
+<link>https://qiita.com/susie000720/items/5f7f2a689cd40f202820</link>
+<guid>fc8305c6f8d8ddb1b89bf18d975ddca1971cb4cc37ec4525fd365b7443952d1d</guid>
+<pubDate>2026-10-31T02:15:19+09:00</pubDate>
+<description>複数のAIエージェントを同じDMやグループチャットへ参加させる構成は、デモではよく動きます。しかし運用を始めると、次の緊張が生まれます。 AIを並列化して回答を速くしたい ただし、利用者には誰が返答しているのか分かる状態を保ちたい AI同士の意見が割れたとき、もっともらし...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントを24時間動かす前に考えたいインフラ設計：PC常時稼働・バックアップ・障害復旧</title>
-<link>https://qiita.com/market_sys/items/0e7a5f82baf193c9c988</link>
-<guid>c6c9705e213f73b8805d278dcd59302bc7af9bdccde98d83b7733fe267ef2659</guid>
-<pubDate>2026-10-30T22:49:19+09:00</pubDate>
-<description>はじめに 最近、YouTubeやSNSで、AIエージェントをMini PCや余っているPCにインストールして、24時間稼働させるという話をよく見かけます。 寝ている間にもAIが情報収集を行う。 プログラムを生成する。 ファイルを整理する。 外部サービスと連携して、さまざま...</description>
+<title>【NVIDIA】 過去のプレス リリース</title>
+<link>https://www.nvidia.com/ja-jp/about-nvidia/press-releases/</link>
+<guid>94e38c9da3c3b2e6c4dff3ef3cb5cc682f3ecacecda3acc4360047bff2ecc8f5</guid>
+<pubDate>Fri, 30 Oct 2026 21:14:34 GMT</pubDate>
+<description>製品情報、パートナーシップ、決算、その他の重要なニュースなど、NVIDIA より発表した最新のプレス リリースです。</description>
 </item>
 <item>
-<title>【農業】 El Niño heightens risk of Rift Valley fever outbreaks in Eastern Africa, FAO and IGAD warn</title>
-<link>https://www.fao.org/newsroom/detail/el-ni%C3%B1o-heightens-risk-of-rift-valley-fever-outbreaks-in-eastern-africa--fao-and-igad-warn/en</link>
-<guid>0dff38f396da6312d12985d93f1832445387b0ed864d56959d97f368611b05f2</guid>
-<pubDate>Fri, 30 Oct 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【環境】 Atmospheric stabilization of the East Antarctic ice sheet under warming</title>
-<link>https://www.nature.com/articles/s41558-026-02791-x</link>
-<guid>28be6c7fb5cbba17ca1c35ee17982fc2932881789af973d4ae5b4182937ab390</guid>
-<pubDate>2026-10-30</pubDate>
-<description>The long-term response of the Greenland and Antarctic ice sheets to warming is often studied using ice-only simulations. Here the authors use a coupled ice–atmosphere–ocean model and find that East Antarctica remains stable even under higher warming because changes in atmospheric circulation increase precipita</description>
-</item>
-<item>
-<title>【環境】 Far-right slows energy transition</title>
-<link>https://www.nature.com/articles/s41893-026-01974-w</link>
-<guid>eb99835c15dd039f9cf030f343dae78b768126adfa9915ebf2c64976de064e84</guid>
-<pubDate>2026-10-30</pubDate>
-<description>Political identity is known to shape climate attitudes, but its effect on real-world adoption of clean technologies has been unclear. Now, data from Germany show that rising far-right support slows the uptake of rooftop solar and electric cars. However, these effects are not large enough to stall the transitio</description>
-</item>
-<item>
-<title>【自動自律実験】 Briefing Chat: Could your pet live longer? Longevity research comes to animals</title>
-<link>https://www.nature.com/articles/d41586-026-03553-7</link>
-<guid>1c13fbe5e7a8db8f7e3e99c8357ba869029afe5982e3cfa4d5dc1d7b134426b5</guid>
-<pubDate>2026-10-30</pubDate>
-<description>Nature staff discuss the emerging field of pet longevity — plus, a researcher decides not to care about their student reviews. Are they wrong?</description>
-</item>
-<item>
-<title>【自動自律実験】 Author Correction: Rh&lt;sup&gt;3+&lt;/sup&gt; stabilized in KRh@MFI catalyses regioselective hydroformylation</title>
-<link>https://www.nature.com/articles/s41586-026-11337-2</link>
-<guid>33a9205da082550f12a8c2e40e28ea853d0e202b9635a2ece927f937c00ce704</guid>
-<pubDate>2026-10-30</pubDate>
-<description>Author Correction: Rh 3+ stabilized in KRh@MFI catalyses regioselective hydroformylation</description>
-</item>
-<item>
-<title>【自動自律実験】 Patrick Stewart dies: how Captain Picard inspired today’s science leaders</title>
-<link>https://www.nature.com/articles/d41586-026-03543-9</link>
-<guid>34ab652d4bcda5422719feaea1f150f4f7d191a05950e7447b1fa48990d3d54d</guid>
-<pubDate>2026-10-30</pubDate>
-<description>Researchers say his portrayal of the Star Trek character represented curiosity, thoughtfulness and an effort to understand others.</description>
-</item>
-<item>
-<title>【自動自律実験】 Somewhere over the transcontinental burrito tunnel</title>
-<link>https://www.nature.com/articles/d41586-026-03368-6</link>
-<guid>738994e2699e234d3161f7493acfbb64c6d6f8b868890b3d0de93d1b54ac2b80</guid>
-<pubDate>2026-10-30</pubDate>
-<description>Pipe dreams.</description>
-</item>
-<item>
-<title>【自動自律実験】 I built the UK government’s metascience unit — here’s what countries need to know</title>
-<link>https://www.nature.com/articles/d41586-026-03502-4</link>
-<guid>cec6dcc5fa40d9261e84ee82d990168d04e5bf571e59ac7d237c1390551b62b2</guid>
-<pubDate>2026-10-30</pubDate>
-<description>To find evidence-backed ways to improve grant-funding processes, metascientists need freedom and money to experiment, as well as leaders who are willing to make change.</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>52998349380cc76092948bea1e1ee7b96ce43f187df3c53cc9c392096d417821</guid>
+<pubDate>Fri, 30 Oct 2026 21:14:39 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>db5c97375446c40c76ecc94f591de5ba8b0a301953299f88b000f38a289e651d</guid>
-<pubDate>Fri, 30 Oct 2026 16:52:20 GMT</pubDate>
+<guid>f6fd5e13f8945db04d25c3fbf95ab1f7f5514a706aec378a6b976e4845981e9d</guid>
+<pubDate>Fri, 30 Oct 2026 21:14:42 GMT</pubDate>
 <description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41562-026-02590-6</link>
-<guid>ab9371e87723d64a0e568ea30efc1e9e30050a53fd771dc63ec1c7bd8521daee</guid>
-<pubDate>Fri, 30 Oct 2026 16:52:23 GMT</pubDate>
-<description>As artificial intelligence (AI) becomes increasingly embedded in daily life, ascertaining whether an agent is human is critical. Here we systematically benchmark AI’s ability to imitate humans in three language tasks (image captioning, word association and conversation) and three vision tasks (colour estimation, object detection and attention prediction), collecting data from n = 636 humans and 37 AI agents. We also conducted 72,191 Turing-like tests with 1,916 human judges and 10 AI judges. Current AIs are approaching the ability to convincingly impersonate humans and deceive human judges in both language and vision. Even simple AI judges outperformed humans in distinguishing AI from human responses. Imitation ability showed minimal correlation with conventional AI performance metrics, suggesting that passing as human is an important independent evaluation criterion. The large-scale Turing-like datasets and metrics introduced here offer valuable benchmarks for assessing human-likeness in AI and highlight the importance of rigorous, quantitative imitation tests for AI development. Zhang et al. systematically compare humans and AI across three language and three vision tasks.</description>
+<guid>3f88c4d58bcf3dbcfe4a88990aaf0166c6544863cb9e29c1d4d1e911e2af1232</guid>
+<pubDate>Fri, 30 Oct 2026 21:14:44 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>f03f3fed588b398459406dcdfe48edadfd3d004d7822f5e85790043e9e2839d4</guid>
-<pubDate>Fri, 30 Oct 2026 16:52:23 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43586-026-00542-y</link>
+<guid>284ca4f1c616135a87eb39220670450456e38a728a6b9acd0b613c806afcba49</guid>
+<pubDate>Fri, 30 Oct 2026 21:14:46 GMT</pubDate>
+<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>cc889ec72c8aaa1c8024e889d5a338a0c49687848779b15a8993c2751ea19885</guid>
-<pubDate>Fri, 30 Oct 2026 16:52:26 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【U.S.】 A Novel Path to Self-Heating Plasma for Fusion Ignition</title>
+<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
+<guid>9852a586dc52da3151f6976c27580ef31cb286dee572bff8a2f22b2c493cec79</guid>
+<pubDate>Fri, 30 Oct 2026 21:14:50 GMT</pubDate>
+<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>e4bc63d4b0e79e0960250170fcb98fc613d647254aef7dc1b18711b3260dc0e7</guid>
-<pubDate>Fri, 30 Oct 2026 16:52:42 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>58532d478a2b44edd830b588d4716c64f3aae7a00bbe7b4312c1620cbbf408af</guid>
+<pubDate>Fri, 30 Oct 2026 21:14:51 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 <item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>b304200232a3e1c5489a32d5e4855e4da471819a1224352b8968641247ae095e</guid>
-<pubDate>Fri, 30 Oct 2026 16:52:49 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
+<link>https://www.eurohpc-ju.europa.eu/index_en</link>
+<guid>4d0b60c3831d71048eee93165676d64e9605b567bf526bc5865e8d2136ead074</guid>
+<pubDate>Fri, 30 Oct 2026 21:14:53 GMT</pubDate>
+<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>59fc759b4c9b7b61ee8d23392e00c0414f380a29aca70e2390201a8f7d711733</guid>
+<pubDate>Fri, 30 Oct 2026 21:15:09 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
