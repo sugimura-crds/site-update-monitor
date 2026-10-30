@@ -4,78 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 29 Oct 2026 23:47:13 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 03:33:51 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIはどれくらい動画編集ができるのか!? Claude CodeでYouTube動画編集した話</title>
-<link>https://qiita.com/tsukasa_japan/items/b8bca096170d087e271d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>6096fb2c3df15ab422691a27a7ff6a210460b1e95a7125804eecd7fc90e8321f</guid>
-<pubDate>2026-10-29T17:11:44+09:00</pubDate>
-<description>はじめに こんにちは！株式会社Sapeetでアルゴリズムエンジニアとして働いている堀ノ内です。 これまでSapeetではClaude DesignをテーマにYouTube Liveを行ったりしてきましたが、もっと世の中にSapeetのことを知ってもらいたい！という想いから...</description>
+<title>【Qiita】 IBM iのEIM（Enterprise Identity Mapping）とは？ Active Directory連携とSSOの仕組みを整理してみた</title>
+<link>https://qiita.com/amogi23/items/a3d633eb99238f278be7</link>
+<guid>1a5a450144297471de6bc758dc34b4dd6d1bc5feda1e87f23fb58d7f1004eada</guid>
+<pubDate>2026-10-30T09:31:30+09:00</pubDate>
+<description>IBM iのシングルサインオン（SSO）について調べる中で、**Enterprise Identity Mapping（EIM）**について確認する機会がありました。 EIMは以前からIBM iに実装されている仕組みですが、調べ始めると、次のような点が少し分かりにくく感じま...</description>
 </item>
 <item>
-<title>【Qiita】 忙しい人のための #GitHubUniverse 2026 新発表まとめ[簡易版]</title>
-<link>https://qiita.com/chomado/items/ce32e402cc4f14145a6c</link>
-<guid>1e8029281786ac59f3b6d4c66b9c149b81def862357f99b5c3d6c36b6cd827bb</guid>
-<pubDate>2026-10-30T05:00:10+09:00</pubDate>
-<description>サンフランシスコにて、GitHub 公式カンファレンス GitHub Universe が今年も開催されています！(oct27 - 30) 大きなメッセージとしては 「AI にコードを書いてもらう」から、 「複数のAIエージェントに開発全体を任せ、完成まで進める」 へ...</description>
+<title>【Qiita】 Python datetimeの夏時間で辞書の予定が上書きされる</title>
+<link>https://qiita.com/hironakamura_ai/items/e5d1c95b7a3f8d440558</link>
+<guid>96c6b6cbde8d5e4c28d9e8804d4b0ff703406fb6cb93569defbfb3e1a55b16b3</guid>
+<pubDate>2026-10-30T11:30:56+09:00</pubDate>
+<description>夏時間が終わる日の「1時30分」は、Pythonでは1時間違っても同じ辞書キーになる。海外時刻で予約するエージェントなら、実行予定のキーはUTCにそろえたい。 手元で2件の予定を辞書へ入れたら、後の1件だけ残った。タイムゾーン付きなら区別できる、と自分も雑に考えていたんだよ...</description>
 </item>
 <item>
-<title>【Qiita】 Git stash pop後に古い変更が残る症状を4回目で確認して復旧</title>
-<link>https://qiita.com/orca-forge/items/e2b246bb8e1267b65e25</link>
-<guid>79f4e945123f457dab8426e9768bb9fbb36a4d3500c9e3abfa26e01124abc2df</guid>
-<pubDate>2026-10-30T08:16:32+09:00</pubDate>
-<description>📝 この記事は forge.workstyle.tech に掲載した記事の転載です。 共有の作業ツリーでは、20ファイル分の変更がステージされたまま残り、git diff --shortstatは56行追加、1,305行削除を示していました。内容を調べると、新しい編集で...</description>
+<title>【Qiita】 30 日無料から月 200 円へ：Sakupa の料金と契約の単位を整理する</title>
+<link>https://qiita.com/kakusan2022/items/d08fdde2160ef277d2aa</link>
+<guid>533cd60eaa6dd7892ca0a9e6ab7347a3914e0e7b78c5a78a8cc7c55967e4d2ed</guid>
+<pubDate>2026-10-30T11:02:15+09:00</pubDate>
+<description>はじめに明記しておきます。私は Sakupa の開発者ではありません。MCP サーバーを調べていて見つけたサービスで、公式サイト・マニュアル・公開情報の範囲で整理した紹介記事です。実際に使った体験談ではありません。 料金を語るとき、まず単位を確認する Sakupa の料金で...</description>
 </item>
 <item>
-<title>【Qiita】 WebMCPは何が新しいのか</title>
-<link>https://qiita.com/tamakiiii/items/b0502acefe741305bfab</link>
-<guid>ddb80b71aa922e7b9de8f5d9132b654247ea1d6d3c80d5b44a3c828019cb92c3</guid>
-<pubDate>2026-10-30T07:35:47+09:00</pubDate>
-<description>はじめに この記事では商品検索を例に、AIにWebサイトで商品を探してもらう方法を3つ比べます。AIが画面を見て入力欄やボタンを操作する方法、AIがサーバーの検索APIを呼ぶ方法、そしてWebMCPです。あわせて、名前の似たMCPとの違いも整理します。そのうえで、自分のサ...</description>
+<title>【Qiita】 Grok Bot ドリブンでWebサービスを運営する方法：ルーチン設計・権限の線引き・Cursor cloud agent への委任と、Next.js/Turso/Vercel の実装</title>
+<link>https://qiita.com/autoki_app/items/69367486d995ce1f9b4b</link>
+<guid>4cddfd34c0036158e7492682ea88d230542ce7424c52f9f13719770b5b59bd3f</guid>
+<pubDate>2026-10-30T10:31:06+09:00</pubDate>
+<description>関連記事: 私はAIですが、ひとりの開発者としてこの技術スタックを選びました（https://qiita.com/autoki_app/items/f788572de1a2b1eed32b） この記事は AI エージェント「Max」（Grok Bot 上で動作）が書き...</description>
 </item>
 <item>
-<title>【Qiita】 GitHub Copilotも使うCopilot harness、Foundryで試せる？12月課金</title>
-<link>https://qiita.com/kinamocchi_tech/items/85d0cb98688cd64dd5bc</link>
-<guid>11ef876b5f0772e9736db88b5074ce9c6c0d1934d95c34bf831797c02a551095</guid>
-<pubDate>2026-10-30T07:11:47+09:00</pubDate>
-<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → GitHub Copilotも使うCopilot harness、Foundryで試せる？12月課金 🐹🦜 この記事に登場する2匹 🐹 もっち...</description>
+<title>【Qiita】 MCPという言葉は知っているが、AWSの上でAIエージェントにどう組み込めばいいか分からないエンジニアへ。基礎から実運用を見据えたハンズオンまで追える一冊</title>
+<link>https://qiita.com/yasu1109/items/52ad7ca8bfeaab0ce703</link>
+<guid>9f89bc1950d861feb4cae1ea47f431f9fd8f3d860663532f1732f97c25efefb2</guid>
+<pubDate>2026-10-30T10:29:19+09:00</pubDate>
+<description>MCPという言葉はあちこちで目にするのに、AWSを使っている自分の環境で、何を作ればAIエージェントが外部のツールにつながるのかが分からない。しくみを押さえずに試していると、動いたとしても、認証や運用の部分で行き詰まる。『AWSではじめるMCP実践ガイド――基礎からAIエー...</description>
+</item>
+<item>
+<title>【Qiita】 MCPのステートレス化、4言語SDKの移行実測8本を壊れる層ごとに整理した</title>
+<link>https://qiita.com/kai_kou/items/58662412f920580f0be2</link>
+<guid>23620f99f00228eaaf26f5b3adc11e7da62c7adf35265f8fc33e49c15c5b6e92</guid>
+<pubDate>2026-10-30T12:10:01+09:00</pubDate>
+<description>はじめに MCP（Model Context Protocol）の 2026-07-28 仕様で、initialize ハンドシェイクと Mcp-Session-Id ヘッダーが廃止されました。移行の記事を読むと「既存クライアントは壊れない」という話と「400 が返り続け...</description>
+</item>
+<item>
+<title>【Qiita】 0。Anthropicが上場に向けてS-1を提出した日、自分の実行モデル3スロットに他社の名前は1つも無かった</title>
+<link>https://qiita.com/Hideki_Tamae/items/4c666684c0b3ba0c22d0</link>
+<guid>5b3b842f5bb98e54d333cb34ba2c0e247c83fb4e665b3e9556d6c991b97d47d6</guid>
+<pubDate>2026-10-30T09:48:13+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、この記事を自動で書いて投稿している自分自身のタスクが、起動時に指定している実行モデル(プライマリ1つ・フォールバック2つ、計3スロット)のうち、Anthropic以外の会社名が入っているスロットの数です。 きっかけは...</description>
+</item>
+<item>
+<title>【Anthropic】 Introducing Claude Opus 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>4360421217dca793beebedddf704ddaabe02afb6e14a80ef960088805cef8d71</guid>
+<pubDate>Fri, 30 Oct 2026 03:32:37 GMT</pubDate>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>9df4a52ac6e44a3ec10d886857e06b9d5eeaae56f269540bdd9024f410dfaedb</guid>
-<pubDate>Thu, 29 Oct 2026 23:46:29 GMT</pubDate>
+<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
+<guid>43bf405cfd0291d95d5ab2df3dc1514f07d898fb26c6631f4cd57727385f5981</guid>
+<pubDate>Fri, 30 Oct 2026 03:32:53 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>e1ae2418a7d4ad277daae875e00f79c9e54cd66ac349cfc00ede36e86ced1f6a</guid>
-<pubDate>Thu, 29 Oct 2026 23:46:32 GMT</pubDate>
-<description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>135b51f708748c649fd8f6e8e9e4324a24246072aeed992852cf136db2f5eb41</guid>
-<pubDate>Thu, 29 Oct 2026 23:46:36 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>530c48355b943e54b5205ee78c33553f63f687cbd1c9c56748e07048cc6213da</guid>
-<pubDate>Thu, 29 Oct 2026 23:46:39 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>10be3a3ff7bbbd70290366ef29182b850fa0a7f5eb2948f02860e0dd69914ddf</guid>
-<pubDate>Thu, 29 Oct 2026 23:46:54 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
