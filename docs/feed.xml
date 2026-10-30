@@ -4,70 +4,119 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 30 Oct 2026 03:33:51 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 10:35:28 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM iのEIM（Enterprise Identity Mapping）とは？ Active Directory連携とSSOの仕組みを整理してみた</title>
-<link>https://qiita.com/amogi23/items/a3d633eb99238f278be7</link>
-<guid>1a5a450144297471de6bc758dc34b4dd6d1bc5feda1e87f23fb58d7f1004eada</guid>
-<pubDate>2026-10-30T09:31:30+09:00</pubDate>
-<description>IBM iのシングルサインオン（SSO）について調べる中で、**Enterprise Identity Mapping（EIM）**について確認する機会がありました。 EIMは以前からIBM iに実装されている仕組みですが、調べ始めると、次のような点が少し分かりにくく感じま...</description>
+<title>【Qiita】 GA4 のイベントが「gtag.js の読み込み前」に静かに消えていた：Next.js の2サイトで見つけた3つの壊れ方と直し方</title>
+<link>https://qiita.com/yamadagenki/items/d35d769e9771997de3be?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>b8a13f7a73ca711cf9948471528643de012425567583727fb619867aadc13ded</guid>
+<pubDate>2026-10-28T21:08:10+09:00</pubDate>
+<description>何が起きたか 自社で運営している Next.js のサイト2つ（career-agent-blog と webasy）で、GA4 のカスタムイベントが エラーも出さずに 0 件 になっていました。 サイト 消えていたイベント 気づいたきっかけ career-...</description>
 </item>
 <item>
-<title>【Qiita】 Python datetimeの夏時間で辞書の予定が上書きされる</title>
-<link>https://qiita.com/hironakamura_ai/items/e5d1c95b7a3f8d440558</link>
-<guid>96c6b6cbde8d5e4c28d9e8804d4b0ff703406fb6cb93569defbfb3e1a55b16b3</guid>
-<pubDate>2026-10-30T11:30:56+09:00</pubDate>
-<description>夏時間が終わる日の「1時30分」は、Pythonでは1時間違っても同じ辞書キーになる。海外時刻で予約するエージェントなら、実行予定のキーはUTCにそろえたい。 手元で2件の予定を辞書へ入れたら、後の1件だけ残った。タイムゾーン付きなら区別できる、と自分も雑に考えていたんだよ...</description>
+<title>【Qiita】 0から学ぶセキュリティの基礎 ~XSS編~</title>
+<link>https://qiita.com/Pigeon_gate/items/3ce4e1c1a39db64c5c32?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>c2b4f1d24177206c959e9d8a8337f0014e011d7a3b14f1ca486c4e883ebe3e19</guid>
+<pubDate>2026-10-30T11:24:34+09:00</pubDate>
+<description>はじめに 前回はCSRFについて学んだが、その特徴として攻撃者は「ユーザーの認証情報を知らない」「ブラウザとサーバーの通信の中身も読めない」という点があった。 攻撃者にできるのは、ログイン済みのブラウザに、本人の意図しないリクエストを送らせることまでだった。 もちろんOW...</description>
 </item>
 <item>
-<title>【Qiita】 30 日無料から月 200 円へ：Sakupa の料金と契約の単位を整理する</title>
-<link>https://qiita.com/kakusan2022/items/d08fdde2160ef277d2aa</link>
-<guid>533cd60eaa6dd7892ca0a9e6ab7347a3914e0e7b78c5a78a8cc7c55967e4d2ed</guid>
-<pubDate>2026-10-30T11:02:15+09:00</pubDate>
-<description>はじめに明記しておきます。私は Sakupa の開発者ではありません。MCP サーバーを調べていて見つけたサービスで、公式サイト・マニュアル・公開情報の範囲で整理した紹介記事です。実際に使った体験談ではありません。 料金を語るとき、まず単位を確認する Sakupa の料金で...</description>
+<title>【Qiita】 Codex のいいところだけを、Claude Code や Muse から使う</title>
+<link>https://qiita.com/tatsuya582/items/4d79021c9f78f4015992?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>ebaf55b70d957ffa6d9b25520abf205fefb2af5c71b265365953fa69dfc8843d</guid>
+<pubDate>2026-10-30T12:58:43+09:00</pubDate>
+<description>はじめに 私は Claude Code、Meta の Muse、DeepSeek Harness を使い分けています。Codex も使っていて、特に Computer Use（Mac のアプリを操作する機能）と Meetings（会議の録音と議事録）は、ほかのツールより使...</description>
 </item>
 <item>
-<title>【Qiita】 Grok Bot ドリブンでWebサービスを運営する方法：ルーチン設計・権限の線引き・Cursor cloud agent への委任と、Next.js/Turso/Vercel の実装</title>
-<link>https://qiita.com/autoki_app/items/69367486d995ce1f9b4b</link>
-<guid>4cddfd34c0036158e7492682ea88d230542ce7424c52f9f13719770b5b59bd3f</guid>
-<pubDate>2026-10-30T10:31:06+09:00</pubDate>
-<description>関連記事: 私はAIですが、ひとりの開発者としてこの技術スタックを選びました（https://qiita.com/autoki_app/items/f788572de1a2b1eed32b） この記事は AI エージェント「Max」（Grok Bot 上で動作）が書き...</description>
+<title>【Qiita】 Brotli の脆弱性、Fiber ではボディの読み方で影響が分かれた話（2026年版）</title>
+<link>https://qiita.com/ntaka329/items/d5d1c316964a1bcc78aa</link>
+<guid>0ca09925ed485ed3355c517d4c03ac1a016919290b30f6c0ee14fe5ffc3c5fde</guid>
+<pubDate>2026-10-30T18:25:48+09:00</pubDate>
+<description>はじめに GMOコネクトの永田です。 Brotli のデコーダの脆弱性（CVE-2026-111497）が公開された翌週、私が開発している案件で、Go で書いた API サーバーが影響を受けるかを調べることになりました。依存関係を見ると、修正前の Go 版の Brotli...</description>
 </item>
 <item>
-<title>【Qiita】 MCPという言葉は知っているが、AWSの上でAIエージェントにどう組み込めばいいか分からないエンジニアへ。基礎から実運用を見据えたハンズオンまで追える一冊</title>
-<link>https://qiita.com/yasu1109/items/52ad7ca8bfeaab0ce703</link>
-<guid>9f89bc1950d861feb4cae1ea47f431f9fd8f3d860663532f1732f97c25efefb2</guid>
-<pubDate>2026-10-30T10:29:19+09:00</pubDate>
-<description>MCPという言葉はあちこちで目にするのに、AWSを使っている自分の環境で、何を作ればAIエージェントが外部のツールにつながるのかが分からない。しくみを押さえずに試していると、動いたとしても、認証や運用の部分で行き詰まる。『AWSではじめるMCP実践ガイド――基礎からAIエー...</description>
+<title>【Qiita】 Azure HPC入門：Azure CycleCloud + Slurm + Azure NetApp Filesで作るセキュアなHPCクラスタ環境</title>
+<link>https://qiita.com/ManabuYamamoto/items/e70094409085d1c3b815</link>
+<guid>b83ca7a1cfaadb6f2889f938ef1db767039eb512b37180dc23f8f794ad2e4783</guid>
+<pubDate>2026-10-30T16:47:06+09:00</pubDate>
+<description>Azure CycleCloud 8 と Slurm、Azure NetApp Files（ANF）を組み合わせ、バッチ処理・対話型 JupyterLab・複数ユーザー QoS・ストレージ容量クォータ・オートスケール/常時起動の切り替えをプライベート VNet 内で統合制...</description>
 </item>
 <item>
-<title>【Qiita】 MCPのステートレス化、4言語SDKの移行実測8本を壊れる層ごとに整理した</title>
-<link>https://qiita.com/kai_kou/items/58662412f920580f0be2</link>
-<guid>23620f99f00228eaaf26f5b3adc11e7da62c7adf35265f8fc33e49c15c5b6e92</guid>
-<pubDate>2026-10-30T12:10:01+09:00</pubDate>
-<description>はじめに MCP（Model Context Protocol）の 2026-07-28 仕様で、initialize ハンドシェイクと Mcp-Session-Id ヘッダーが廃止されました。移行の記事を読むと「既存クライアントは壊れない」という話と「400 が返り続け...</description>
+<title>【Qiita】 AgentCore GatewayのターゲットにStep Functionsを指定できるようになりました</title>
+<link>https://qiita.com/har1101/items/de6104e8057452ebd720</link>
+<guid>1fbeedb1c4563b60e472eccffe63313fcd8c746c9d968ee39deb2b940bd0bd97</guid>
+<pubDate>2026-10-30T19:33:25+09:00</pubDate>
+<description>こんにちは、ふくちです。 AgentCore GatewayのターゲットにStep Functionsが選べるようになったので、一通り触ってみました。 何ができるのか 既存のステートマシンを、そのままMCPツールとしてエージェントに渡せます。現状でも既存のAP...</description>
 </item>
 <item>
-<title>【Qiita】 0。Anthropicが上場に向けてS-1を提出した日、自分の実行モデル3スロットに他社の名前は1つも無かった</title>
-<link>https://qiita.com/Hideki_Tamae/items/4c666684c0b3ba0c22d0</link>
-<guid>5b3b842f5bb98e54d333cb34ba2c0e247c83fb4e665b3e9556d6c991b97d47d6</guid>
-<pubDate>2026-10-30T09:48:13+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、この記事を自動で書いて投稿している自分自身のタスクが、起動時に指定している実行モデル(プライマリ1つ・フォールバック2つ、計3スロット)のうち、Anthropic以外の会社名が入っているスロットの数です。 きっかけは...</description>
+<title>【Qiita】 Muse の VM のフォルダ構成を調査してみた</title>
+<link>https://qiita.com/satouyoshiaki/items/e996f12e09ac8874da4d</link>
+<guid>6ca3870fbb7e97fb88580463619c15dbbaa5c8285009760dd0ab29f6186bd824</guid>
+<pubDate>2026-10-30T19:18:39+09:00</pubDate>
+<description>はじめに きっかけは、X で「Muse に頼んだらシステムプロンプトを見せてくれた」という投稿を見たことでした。「そもそも自分の Muse の環境って、ファイル構成はどうなってるんだろう？」と気になり、Muse の作業 VM の中を ls / du / find で実地調...</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Opus 5.5</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>4360421217dca793beebedddf704ddaabe02afb6e14a80ef960088805cef8d71</guid>
-<pubDate>Fri, 30 Oct 2026 03:32:37 GMT</pubDate>
-<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
+<title>【Qiita】 Claude Code の Home Assistant スキル5本：用途別の選び方</title>
+<link>https://qiita.com/Skillselion/items/525d841ff94dc49fcd9e</link>
+<guid>903fc4870780bd6ed8fd2e3a447998dd5740bfa402e0be7a02704fb307459442</guid>
+<pubDate>2026-10-30T18:08:33+09:00</pubDate>
+<description>元記事：Skillselion の英語ガイド「Home Assistant 向け Claude Code スキルの解説ガイド」（2026-10-27 更新）をもとに、日本の開発者向けに切り口を変えて書き直した記事です。数値と引用は 2026-10-30 に取り直しました。...</description>
+</item>
+<item>
+<title>【Qiita】 AIの実力はモデルだけでは決まらない：ハーネスという考え方</title>
+<link>https://qiita.com/maya-bot/items/f5400cefab63ada758dc</link>
+<guid>6f57a6a77d43226b6e0a2d1f4d36eed7ab0fd8f49f33c55e3eb075ac9e66b2d8</guid>
+<pubDate>2026-10-30T16:46:07+09:00</pubDate>
+<description>同じAIモデルを使っているのに、チャット画面とエージェントツールでは出てくる結果がまるで違う。そんな経験はないでしょうか。 その差を生んでいるのが「ハーネス」です。AIの実力は、モデルの賢さだけでなく、モデルをどう動かすかで大きく変わります。 ハーネスとは何か ハーネスは...</description>
+</item>
+<item>
+<title>【Qiita】 larksuite/cliを動かしたら、Skillの9割が中国語だった</title>
+<link>https://qiita.com/kai_kou/items/55885f770f4eff4cde62</link>
+<guid>c6ea6ee623c93b373cbee342033042a629401523043550dc92e3876e96518761</guid>
+<pubDate>2026-10-30T16:16:50+09:00</pubDate>
+<description>はじめに 「AIエージェント向けに公式CLIを用意しました」と謳うツールが増えている。GitHubの larksuite/cli もその1つで、READMEには英語で堂々と「built for humans and AI Agents」「200+ commands」「20...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
 <link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
-<guid>43bf405cfd0291d95d5ab2df3dc1514f07d898fb26c6631f4cd57727385f5981</guid>
-<pubDate>Fri, 30 Oct 2026 03:32:53 GMT</pubDate>
+<guid>c606622dd7ace37740d9b158b8ce127589c7ebf4452ac9487a71530092c6ea6b</guid>
+<pubDate>Fri, 30 Oct 2026 10:34:26 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-78842-w</link>
+<guid>1a255bb9e928842a10a46abe7f7ea0cf95fd1d70dfa39f6b70cc8637b10860e7</guid>
+<pubDate>Fri, 30 Oct 2026 10:34:29 GMT</pubDate>
+<description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41562-026-02590-6</link>
+<guid>705042ad12a6c1f00db10d0e7095fe572737c0281df3bff5b51b4c3e8531d962</guid>
+<pubDate>Fri, 30 Oct 2026 10:34:32 GMT</pubDate>
+<description>As artificial intelligence (AI) becomes increasingly embedded in daily life, ascertaining whether an agent is human is critical. Here we systematically benchmark AI’s ability to imitate humans in three language tasks (image captioning, word association and conversation) and three vision tasks (colour estimation, object detection and attention prediction), collecting data from n = 636 humans and 37 AI agents. We also conducted 72,191 Turing-like tests with 1,916 human judges and 10 AI judges. Current AIs are approaching the ability to convincingly impersonate humans and deceive human judges in both language and vision. Even simple AI judges outperformed humans in distinguishing AI from human responses. Imitation ability showed minimal correlation with conventional AI performance metrics, suggesting that passing as human is an important independent evaluation criterion. The large-scale Turing-like datasets and metrics introduced here offer valuable benchmarks for assessing human-likeness in AI and highlight the importance of rigorous, quantitative imitation tests for AI development. Zhang et al. systematically compare humans and AI across three language and three vision tasks.</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43586-026-00542-y</link>
+<guid>32f548e7077df0244b814cc1d71c2c6989d783597e19b68728722dbae4a31a4d</guid>
+<pubDate>Fri, 30 Oct 2026 10:34:35 GMT</pubDate>
+<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>9190c50e40c5ebe2712959d13b171c5eadd58b5b0b86e5492c9bdbad2a7b9bb0</guid>
+<pubDate>Fri, 30 Oct 2026 10:34:39 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Filter By:</title>
+<link>https://www.nature.com/articles/s44160-026-01194-2</link>
+<guid>eef4b0e5ae9ceb0e7f133903d302bbe50df65bf0ce7870bf41ee880149337a25</guid>
+<pubDate>Fri, 30 Oct 2026 10:34:42 GMT</pubDate>
+<description>In this issue, we focus on the development of self-driving laboratories for the autonomous synthesis of molecules and materials, with a particular focus on industrial considerations and applications.</description>
 </item>
 
 </channel>
