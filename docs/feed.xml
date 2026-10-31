@@ -4,49 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 31 Oct 2026 20:34:13 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 23:52:46 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIにありがちな「イマイチなコードコメント」9パターン</title>
-<link>https://qiita.com/jnchito/items/636c519c0b1d347c79b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>f2c1e534f4cfe1785d11fe9a25526c3413f505c04f9c44ef123416e2f622d7c7</guid>
-<pubDate>2026-10-31T16:17:19+09:00</pubDate>
-<description>はじめに 「コードはAIに書いてもらう」という人が増えてきました。 僕もそんなエンジニアの一人ですが、AIにコードを書かせていると「アプリケーション側のコードはまだいいが、コードコメントとテストコードはなんかイマイチだな」と思うことが多いです。 また、コードレビューをして...</description>
+<title>【Qiita】 ローカル LLM の監視強化（前編）：Qwen の「外への送信」報道を受けて、AI エージェントを OS とネットワークで止める</title>
+<link>https://qiita.com/nabe2030/items/0b89543adbf2ba60bf25</link>
+<guid>516617463f5e71665c1d07e6bfc17cb4e13fba6e49f3fe13de63ee33dcbfad18</guid>
+<pubDate>2026-11-01T08:07:08+09:00</pubDate>
+<description>1. 背景：LLM モデルが勝手に外部にデータ送信！？ 最初に、LLM モデル単体では、インターネットに勝手にアクセスしたり、不正な操作をしたりすることはできません。 LLM モデルがするのは、文字を受け取って文字を返すことだけです。チャットの画面で LLM モデルと話し...</description>
 </item>
 <item>
-<title>【Qiita】 【Docker入門】Ubuntu 24.04コンテナ環境構築</title>
-<link>https://qiita.com/NoguchiHikaru/items/dccd98d85a31c0cec279?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>b17f3462ea285afc03dc80c9b70f7f5e1a3d055963514767b5e9ad9dcb85ea4b</guid>
-<pubDate>2026-10-31T09:07:52+09:00</pubDate>
-<description>はじめに Linuxとコンテナ技術の学習として、Windows 11上にDocker DesktopとWSL2を使った環境を用意し、Ubuntu 24.04コンテナを実行します。 今回は単にコンテナを起動するだけでなく、次の項目を検証します。 WSL2とDocker E...</description>
+<title>【Qiita】 Claude Code で Qiita に投稿、3日とも1回目は空振り：二重投稿を避けて押し直す手順</title>
+<link>https://qiita.com/kaiyaku_iyada/items/3366666a2a706f96fe7d</link>
+<guid>65430512d718aaa1147af155e1a069b4ccca10486f3972d204bf9ec94b28f8ed</guid>
+<pubDate>2026-11-01T07:59:00+09:00</pubDate>
+<description>この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。個人の実験で、Anthropic社とは無関係です。同社の公認や提携ではありません。書いてあることは、2026年10月22日〜24日の朝に私が Qii...</description>
 </item>
 <item>
-<title>【Qiita】 デフォルト設定としての沈黙 ― 現状バイアスが並行社会を許容する : システム設計視点の行動経済学 (53)</title>
-<link>https://qiita.com/maskot1977/items/fc7cd77557e946cac2ba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>63e4d3f2972de9abb78fcae301c3bc925dc9ddc82c8e38f6f3b3ed0cd8fe6160</guid>
-<pubDate>2026-10-31T05:30:48+09:00</pubDate>
-<description>user: 「システム設計視点の行動経済学」、第53回を始めましょう。その前に、まず前回の復習として、 −20の恐怖が+100の利益を消す ― 損失回避と機関のインセンティブ : システム設計視点の行動経済学 (52) https://qiita.com/maskot19...</description>
+<title>【Qiita】 ログは残っているのに状態が分からない。マルチエージェントの実行記録を作り直した</title>
+<link>https://qiita.com/Tachiuo/items/77638317f79d9dbcf2e3</link>
+<guid>69a03d950283bb5690646aa27d96e78a72bfeee8f0ff3976f82c30e38fc8609e</guid>
+<pubDate>2026-11-01T06:50:34+09:00</pubDate>
+<description>個人で、情報収集やポッドキャスト制作などを行うマルチエージェントの仕組みを作っています。いくつかの処理を順番につなぎ、途中で失敗すれば再試行し、必要に応じて人の承認も受ける構成です。 処理が止まったときに困ったのが、ログは残っているのに、今の状態をすぐには判断できないことで...</description>
 </item>
 <item>
-<title>【Qiita】 Oracle AI Database@Azure のBase Databaseを作成して、App ServiceとPower BIのPOCを構築してみた</title>
-<link>https://qiita.com/ogacloud/items/ad3ed3249b1ef8282258</link>
-<guid>7a58dbad8a383cbd53c25910230dc3530adac31d871d294815b901d028a10988</guid>
-<pubDate>2026-11-01T04:00:33+09:00</pubDate>
-<description>はじめに 今回はOracle AI Database@Azure（以下 ODAA）で Base Database ServiceのStandard Editionを作り、AzureのApp Service※1とPower BIからPrivate接続で使うPOC※2を試しま...</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>2679ebeb842794d94e534106a79beb7434c5ca9f742f6f150fd9211f71b33f18</guid>
+<pubDate>Sat, 31 Oct 2026 23:51:48 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>46673c0dc3c9f5f4f0e5fe5086fb2de4ce5623b35190433400659d0e16e04083</guid>
-<pubDate>Sat, 31 Oct 2026 20:33:19 GMT</pubDate>
+<guid>a2f4719653d19ef0c85ae37322af4b94298781dd2f968578bd1c4cccd5a1c275</guid>
+<pubDate>Sat, 31 Oct 2026 23:51:51 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41562-026-02590-6</link>
-<guid>0a95e04feaea50f012e5b1b64f92890278bb278b360ae95c5b2a3f510ebc5dc0</guid>
-<pubDate>Sat, 31 Oct 2026 20:33:23 GMT</pubDate>
-<description>As artificial intelligence (AI) becomes increasingly embedded in daily life, ascertaining whether an agent is human is critical. Here we systematically benchmark AI’s ability to imitate humans in three language tasks (image captioning, word association and conversation) and three vision tasks (colour estimation, object detection and attention prediction), collecting data from n = 636 humans and 37 AI agents. We also conducted 72,191 Turing-like tests with 1,916 human judges and 10 AI judges. Current AIs are approaching the ability to convincingly impersonate humans and deceive human judges in both language and vision. Even simple AI judges outperformed humans in distinguishing AI from human responses. Imitation ability showed minimal correlation with conventional AI performance metrics, suggesting that passing as human is an important independent evaluation criterion. The large-scale Turing-like datasets and metrics introduced here offer valuable benchmarks for assessing human-likeness in AI and highlight the importance of rigorous, quantitative imitation tests for AI development. Zhang et al. systematically compare humans and AI across three language and three vision tasks.</description>
+<link>https://www.nature.com/articles/s41599-026-09565-y</link>
+<guid>d7ab669a5118ccfd2d3565bbc13e9fc8d3337dd0ec1bf47e7ba5cda9428b22a0</guid>
+<pubDate>Sat, 31 Oct 2026 23:51:56 GMT</pubDate>
+<description>AI agents are reshaping educational systems and transforming teaching and learning in design disciplines. However, the psychological mechanisms underlying AI-agent use among design graduate students remain underexplored, as does the interaction between design-specific tasks and AI agents. To address this gap, this study integrates the Technology Acceptance Model (TAM) and Task–Technology Fit (TTF) theory to explain how technological cognition and task-fit perceptions jointly shape behavioral intention to use AI agents. Because conventional structural modeling mainly captures hypothesized linear relationships, MLP-ANN was added to assess nonlinear patterns and predictor importance. Using 405 valid questionnaire responses, the model was tested through Partial Least Squares Structural Equation Modeling (PLS-SEM), a Multilayer Perceptron Artificial Neural Network (MLP-ANN), and Necessary Condition Analysis (NCA). PLS-SEM supported nine of ten hypotheses. Self-efficacy positively affected perceived usefulness (β = 0.458, p &amp;lt; 0.001) and perceived ease of use (β = 0.394, p &amp;lt; 0.001). Perceived enjoyment enhanced perceived ease of use (β = 0.220, p &amp;lt; 0.001), but its effect on perce</description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43586-026-00542-y</link>
+<guid>afafab2faae26e4ab7166ec33d0bbd41b305f1796b08c72c2de570c8cbb81ed4</guid>
+<pubDate>Sat, 31 Oct 2026 23:51:59 GMT</pubDate>
+<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
 </item>
 
 </channel>
