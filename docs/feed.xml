@@ -4,98 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 31 Oct 2026 12:56:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 17:27:06 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 SSM Session Managerを使ってDBに接続する</title>
-<link>https://qiita.com/j-yasukawa/items/701554f14fe8b02ff34e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>630303588ea80686902bcf3ba3cca8dfb80a7f6ed76f91a80c835cf7a68c4c8b</guid>
-<pubDate>2026-10-30T15:39:46+09:00</pubDate>
-<description>はじめに プライベートサブネットにあるRDS/AuroraへローカルのDBクライアントから接続するとき、「パブリックサブネットに踏み台EC2を置き、22番ポートを開けてSSHトンネルで運用」していたのですが、現在はSession Managerを使用する運用が主流のような...</description>
+<title>【Qiita】 金欠エンジニアの味方、Museでできること：1週間使ってみて分かったこと</title>
+<link>https://qiita.com/yuuzin217/items/c489ab3a9cdf4a2a3d6c</link>
+<guid>0fb1d3e7ae4e27f27c092ecb75d536a1abc492ba79f6730f919259437073e238</guid>
+<pubDate>2026-11-01T00:43:28+09:00</pubDate>
+<description>はじめに Museを使い始めて、ちょうど1週間が経ちました。 AIエージェントはあんまり触ったことがなかったんですが、無料で使えるとのことで使ってみました。 そしたら思ったより色々なことができて便利だったので、その記録を雑多にまとめました。 本記事は筆者の利用体験に基...</description>
 </item>
 <item>
-<title>【Qiita】 人生初ライブラリunder-liquid-glassを公開しました！</title>
-<link>https://qiita.com/ocean6954/items/3e826fbb5b26aedbc887?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>545c8b32accbddbcca6299895dfdf2ce0ee4be4c3af39fe2eb8fbb574bd4942b</guid>
-<pubDate>2026-10-29T20:37:23+09:00</pubDate>
-<description>はじめに こちらのライブラリは別の記事でも紹介している通り、Safariのタブバーの裏にもコンテンツを描画することを可能にするためのものです。 人生で初めてライブラリというものを作り、かつそれをnpmに公開したのでその備忘録的なものでもあります。 依存ゼロ、フレームワーク...</description>
+<title>【Qiita】 AIに請求書を作らせると消費税が1円ずれる問題を、適格請求書の検査スキルで止める</title>
+<link>https://qiita.com/nexus-tools/items/6c357c90c60d0881bdd2</link>
+<guid>1ccac1c8e56c2692393b92356defea4fb49021161033570953b8b5df96e4272f</guid>
+<pubDate>2026-11-01T00:23:13+09:00</pubDate>
+<description>困りごと AIに請求書を作らせると、品目ごとに消費税を出して足すことがあります。 品目(税抜・10%) 金額 品目ごとの税(切捨て) コピー用紙 1,999 199 トナー 2,999 299 ボールペン 999 99 合計 5,997 597...</description>
 </item>
 <item>
-<title>【Qiita】 マルチタスクが苦手なので、Slack の返信と PR レビューを Claude Code に定時で下ごしらえさせている</title>
-<link>https://qiita.com/generoKoki/items/81ca4042e30c42ffe4a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>ebe5361a6cce433f7b012b114e0a90bb5736e207b12e08082fa729b8a00377f1</guid>
-<pubDate>2026-10-30T20:21:08+09:00</pubDate>
-<description>はじめに 作ったきっかけ 自分はシングルスレッドな人間で、マルチタスクが大の苦手です。 Slack の返信に、業務の時間のかなりの部分を取られている メンションがたくさん来ると、あとで返そうと思ったものを忘れてしまう そこで、「返し忘れを拾う」「返信の下書きを先に作...</description>
+<title>【Qiita】 X の公開投稿を AI に読ませるためのルールを仕様化した話</title>
+<link>https://qiita.com/satouyoshiaki/items/5e581582eee9a91034c3</link>
+<guid>08e33ae73128fcf1e3ada5997a7c81c09849a6d9a461416a1230752fedd9c151</guid>
+<pubDate>2026-10-31T23:45:41+09:00</pubDate>
+<description>困りごと：AIエージェントが X のリンクを読めない AIエージェントの Muse を日常的に使っていると、「この X の投稿、どういう内容？」とリンクを渡す場面が頻繁にあります。ところが、X 公式（x.com / twitter.com）は crawler が robo...</description>
 </item>
 <item>
-<title>【Qiita】 【論文解説】「RAG」で検索前に整理する！語彙衝突を防ぐ「KB Cataloging」アプローチと実運用の考察</title>
-<link>https://qiita.com/shun_hobby/items/b4471ec7ea20fbc4da4d</link>
-<guid>51fc9d232a439e6dd8a9f9a7f58cf65e9e57549beb7163199adf93067fa1cbd2</guid>
-<pubDate>2026-10-31T21:42:31+09:00</pubDate>
-<description>1. はじめに 近年、社内ドキュメントやコードから情報を引き出すために RAG（Retrieval-Augmented Generation） の導入が進んでいます。しかし、サービス規模が大きくなるにつれて「同じ単語（例：Offer）が複数のサービスで異なる意味で使われ、...</description>
-</item>
-<item>
-<title>【Qiita】 世界を「巨大なJSON」として捉えたら、人間関係のバグとAIのディストピアに気づいてゾッとした話</title>
-<link>https://qiita.com/nuhaha_2023/items/30d0bc3cc1149bca17b7</link>
-<guid>19256f5af6fca096f127b1df59e686099288bdf77a10b8db1224a5700be2bfeb</guid>
-<pubDate>2026-10-31T20:21:35+09:00</pubDate>
-<description>世界を「巨大なJSON」として捉えたら、人間関係のバグとAIのディストピアに気づいてゾッとした話 まえがき 人間関係のすれ違いって、要は「リクエストヘッダー（バイアス）の違い」と「モック相手にPR投げてコンフリクトしてる状態」じゃない？ そもそもJSでもオブジェクト同...</description>
-</item>
-<item>
-<title>【Qiita】 Databricks発のOSS Omnigentの解説書『Omnigentによるメタハーネス入門』が全3巻そろいました — エンタープライズ編の中身と、どの巻から読むか</title>
-<link>https://qiita.com/taka_yayoi/items/7767dbdfb9234560de1a</link>
-<guid>b35327989e40248e2a71b6e7317594b24cb6786ee1e9ed691aa35fd851f5c48a</guid>
-<pubDate>2026-10-31T19:22:52+09:00</pubDate>
-<description>はじめに 2026年10月30日に、『Omnigentによるメタハーネス入門』の第3巻 (3) エンタープライズ編が翔泳社電書部から刊行されました。9月30日に同時刊行された (1) 基礎編と (2) チーム運用編とあわせて、シリーズ全3巻がそろいました。私も著者の一人と...</description>
-</item>
-<item>
-<title>【Qiita】 スマホのChatGPTとローカルAIをつなぐ。MCP接続の先に必要だった、承認・起動・検証の設計</title>
-<link>https://qiita.com/ishizakahiroshi/items/8bfb324e9d8869303fe6</link>
-<guid>3840fe547d5827fd39efe974a4da82138dbeb6ba89da347abdc6ee72635b7a34</guid>
-<pubDate>2026-10-31T18:46:01+09:00</pubDate>
-<description>先に、結論を3行で書きます。 MCPへ接続できることと、承認された作業を別のAIへ渡し、継続実行させることは別です。 クラウド側のDesklyを作業と承認の正本、ローカルのmany-ai-cliをセッション実行の所有者に分け、PRを人間にも読める引き継ぎ場所にしました。...</description>
-</item>
-<item>
-<title>【Qiita】 Grok Botでマイルドディストピア生活を目指したら、デジタルストレスが体感1/6くらいになった</title>
-<link>https://qiita.com/ysk-ig/items/ac6b1e12155193960450</link>
-<guid>f79aedf9a3713b338dba91ab23cf8d1d613466e0e156c9510d1160179a64209f</guid>
-<pubDate>2026-10-31T20:29:50+09:00</pubDate>
-<description>この記事は筆者の私生活での使い方の紹介です。業務で使うPCやアカウントとは接続せず、どこまでbotに任せるかはリスクも含めてご自身の判断でお願いします。 何がストレスだったか AI全盛のこの時代、唐突にアイデアが溢れてやりたかったことにあれもこれも手をつけてしまい...</description>
+<title>【農業】 Publisher Correction: A holistic framework for enhancing the resilience of grassland-based farming systems to climate extremes</title>
+<link>https://www.nature.com/articles/s43016-026-01467-1</link>
+<guid>ec8b076d043d190530029d7eae7bb267d7f8e5082ed593ac14d87a77b497dc18</guid>
+<pubDate>2026-10-29</pubDate>
+<description>Publisher Correction: A holistic framework for enhancing the resilience of grassland-based farming systems to climate extremes</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>1b722f1e40862fd9b1255a06627cd19183c802ecc4329d3a579939513c8ac7be</guid>
-<pubDate>Sat, 31 Oct 2026 12:55:09 GMT</pubDate>
+<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
+<guid>14d7ea6043fb59c4043f8233b077531ead723aabdeb98001aa240bce9d1259cf</guid>
+<pubDate>Sat, 31 Oct 2026 17:26:26 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>0bf6d9736ccbdad29c1a5923d5f72089eb768c42edb09e8cec653f0be0625a0f</guid>
-<pubDate>Sat, 31 Oct 2026 12:55:12 GMT</pubDate>
+<guid>14e443c48eecf521a48f0bb904edc38d4baf02e4495365729f5b68373a982197</guid>
+<pubDate>Sat, 31 Oct 2026 17:26:29 GMT</pubDate>
 <description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41562-026-02590-6</link>
-<guid>d024a4b5d67afcc0e18197541d9964eaf32ebd72f002c40b196096bb9e197f34</guid>
-<pubDate>Sat, 31 Oct 2026 12:55:15 GMT</pubDate>
-<description>As artificial intelligence (AI) becomes increasingly embedded in daily life, ascertaining whether an agent is human is critical. Here we systematically benchmark AI’s ability to imitate humans in three language tasks (image captioning, word association and conversation) and three vision tasks (colour estimation, object detection and attention prediction), collecting data from n = 636 humans and 37 AI agents. We also conducted 72,191 Turing-like tests with 1,916 human judges and 10 AI judges. Current AIs are approaching the ability to convincingly impersonate humans and deceive human judges in both language and vision. Even simple AI judges outperformed humans in distinguishing AI from human responses. Imitation ability showed minimal correlation with conventional AI performance metrics, suggesting that passing as human is an important independent evaluation criterion. The large-scale Turing-like datasets and metrics introduced here offer valuable benchmarks for assessing human-likeness in AI and highlight the importance of rigorous, quantitative imitation tests for AI development. Zhang et al. systematically compare humans and AI across three language and three vision tasks.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=AI+agent&amp;date_range=last_30_days&amp;order=relevance</link>
+<guid>8232c0b91e9e33c4a7ca78d2c3f943946a07bfc496bc92245346f7a8ae4f2d50</guid>
+<pubDate>Sat, 31 Oct 2026 17:26:30 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43586-026-00542-y</link>
-<guid>ba09c67f48a568058533bf55cfe70d7ca4e127425ffa17375b2c8b3865ad1f9d</guid>
-<pubDate>Sat, 31 Oct 2026 12:55:17 GMT</pubDate>
-<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>e9ef4e809ee0c9bf379d5a2d896e0ba25487fc37030216368db9d3a72f415f11</guid>
+<pubDate>Sat, 31 Oct 2026 17:26:30 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>ffd104937b1980b75fca18d65f7c9f912bb50cddfe52064b7514f7be30533a1d</guid>
-<pubDate>Sat, 31 Oct 2026 12:55:56 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>55d92e8afee77d7ebafbb046a0ed2ea239dd46c36c0e522fa10f9230a65a1258</guid>
+<pubDate>Sat, 31 Oct 2026 17:26:48 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
