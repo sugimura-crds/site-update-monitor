@@ -4,70 +4,49 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 31 Oct 2026 17:27:06 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 20:34:13 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 金欠エンジニアの味方、Museでできること：1週間使ってみて分かったこと</title>
-<link>https://qiita.com/yuuzin217/items/c489ab3a9cdf4a2a3d6c</link>
-<guid>0fb1d3e7ae4e27f27c092ecb75d536a1abc492ba79f6730f919259437073e238</guid>
-<pubDate>2026-11-01T00:43:28+09:00</pubDate>
-<description>はじめに Museを使い始めて、ちょうど1週間が経ちました。 AIエージェントはあんまり触ったことがなかったんですが、無料で使えるとのことで使ってみました。 そしたら思ったより色々なことができて便利だったので、その記録を雑多にまとめました。 本記事は筆者の利用体験に基...</description>
+<title>【Qiita】 AIにありがちな「イマイチなコードコメント」9パターン</title>
+<link>https://qiita.com/jnchito/items/636c519c0b1d347c79b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f2c1e534f4cfe1785d11fe9a25526c3413f505c04f9c44ef123416e2f622d7c7</guid>
+<pubDate>2026-10-31T16:17:19+09:00</pubDate>
+<description>はじめに 「コードはAIに書いてもらう」という人が増えてきました。 僕もそんなエンジニアの一人ですが、AIにコードを書かせていると「アプリケーション側のコードはまだいいが、コードコメントとテストコードはなんかイマイチだな」と思うことが多いです。 また、コードレビューをして...</description>
 </item>
 <item>
-<title>【Qiita】 AIに請求書を作らせると消費税が1円ずれる問題を、適格請求書の検査スキルで止める</title>
-<link>https://qiita.com/nexus-tools/items/6c357c90c60d0881bdd2</link>
-<guid>1ccac1c8e56c2692393b92356defea4fb49021161033570953b8b5df96e4272f</guid>
-<pubDate>2026-11-01T00:23:13+09:00</pubDate>
-<description>困りごと AIに請求書を作らせると、品目ごとに消費税を出して足すことがあります。 品目(税抜・10%) 金額 品目ごとの税(切捨て) コピー用紙 1,999 199 トナー 2,999 299 ボールペン 999 99 合計 5,997 597...</description>
+<title>【Qiita】 【Docker入門】Ubuntu 24.04コンテナ環境構築</title>
+<link>https://qiita.com/NoguchiHikaru/items/dccd98d85a31c0cec279?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>b17f3462ea285afc03dc80c9b70f7f5e1a3d055963514767b5e9ad9dcb85ea4b</guid>
+<pubDate>2026-10-31T09:07:52+09:00</pubDate>
+<description>はじめに Linuxとコンテナ技術の学習として、Windows 11上にDocker DesktopとWSL2を使った環境を用意し、Ubuntu 24.04コンテナを実行します。 今回は単にコンテナを起動するだけでなく、次の項目を検証します。 WSL2とDocker E...</description>
 </item>
 <item>
-<title>【Qiita】 X の公開投稿を AI に読ませるためのルールを仕様化した話</title>
-<link>https://qiita.com/satouyoshiaki/items/5e581582eee9a91034c3</link>
-<guid>08e33ae73128fcf1e3ada5997a7c81c09849a6d9a461416a1230752fedd9c151</guid>
-<pubDate>2026-10-31T23:45:41+09:00</pubDate>
-<description>困りごと：AIエージェントが X のリンクを読めない AIエージェントの Muse を日常的に使っていると、「この X の投稿、どういう内容？」とリンクを渡す場面が頻繁にあります。ところが、X 公式（x.com / twitter.com）は crawler が robo...</description>
+<title>【Qiita】 デフォルト設定としての沈黙 ― 現状バイアスが並行社会を許容する : システム設計視点の行動経済学 (53)</title>
+<link>https://qiita.com/maskot1977/items/fc7cd77557e946cac2ba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>63e4d3f2972de9abb78fcae301c3bc925dc9ddc82c8e38f6f3b3ed0cd8fe6160</guid>
+<pubDate>2026-10-31T05:30:48+09:00</pubDate>
+<description>user: 「システム設計視点の行動経済学」、第53回を始めましょう。その前に、まず前回の復習として、 −20の恐怖が+100の利益を消す ― 損失回避と機関のインセンティブ : システム設計視点の行動経済学 (52) https://qiita.com/maskot19...</description>
 </item>
 <item>
-<title>【農業】 Publisher Correction: A holistic framework for enhancing the resilience of grassland-based farming systems to climate extremes</title>
-<link>https://www.nature.com/articles/s43016-026-01467-1</link>
-<guid>ec8b076d043d190530029d7eae7bb267d7f8e5082ed593ac14d87a77b497dc18</guid>
-<pubDate>2026-10-29</pubDate>
-<description>Publisher Correction: A holistic framework for enhancing the resilience of grassland-based farming systems to climate extremes</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
-<guid>14d7ea6043fb59c4043f8233b077531ead723aabdeb98001aa240bce9d1259cf</guid>
-<pubDate>Sat, 31 Oct 2026 17:26:26 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 Oracle AI Database@Azure のBase Databaseを作成して、App ServiceとPower BIのPOCを構築してみた</title>
+<link>https://qiita.com/ogacloud/items/ad3ed3249b1ef8282258</link>
+<guid>7a58dbad8a383cbd53c25910230dc3530adac31d871d294815b901d028a10988</guid>
+<pubDate>2026-11-01T04:00:33+09:00</pubDate>
+<description>はじめに 今回はOracle AI Database@Azure（以下 ODAA）で Base Database ServiceのStandard Editionを作り、AzureのApp Service※1とPower BIからPrivate接続で使うPOC※2を試しま...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>14e443c48eecf521a48f0bb904edc38d4baf02e4495365729f5b68373a982197</guid>
-<pubDate>Sat, 31 Oct 2026 17:26:29 GMT</pubDate>
-<description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
+<link>https://www.nature.com/articles/s41467-026-79039-x</link>
+<guid>46673c0dc3c9f5f4f0e5fe5086fb2de4ce5623b35190433400659d0e16e04083</guid>
+<pubDate>Sat, 31 Oct 2026 20:33:19 GMT</pubDate>
+<description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=AI+agent&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>8232c0b91e9e33c4a7ca78d2c3f943946a07bfc496bc92245346f7a8ae4f2d50</guid>
-<pubDate>Sat, 31 Oct 2026 17:26:30 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>e9ef4e809ee0c9bf379d5a2d896e0ba25487fc37030216368db9d3a72f415f11</guid>
-<pubDate>Sat, 31 Oct 2026 17:26:30 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>55d92e8afee77d7ebafbb046a0ed2ea239dd46c36c0e522fa10f9230a65a1258</guid>
-<pubDate>Sat, 31 Oct 2026 17:26:48 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41562-026-02590-6</link>
+<guid>0a95e04feaea50f012e5b1b64f92890278bb278b360ae95c5b2a3f510ebc5dc0</guid>
+<pubDate>Sat, 31 Oct 2026 20:33:23 GMT</pubDate>
+<description>As artificial intelligence (AI) becomes increasingly embedded in daily life, ascertaining whether an agent is human is critical. Here we systematically benchmark AI’s ability to imitate humans in three language tasks (image captioning, word association and conversation) and three vision tasks (colour estimation, object detection and attention prediction), collecting data from n = 636 humans and 37 AI agents. We also conducted 72,191 Turing-like tests with 1,916 human judges and 10 AI judges. Current AIs are approaching the ability to convincingly impersonate humans and deceive human judges in both language and vision. Even simple AI judges outperformed humans in distinguishing AI from human responses. Imitation ability showed minimal correlation with conventional AI performance metrics, suggesting that passing as human is an important independent evaluation criterion. The large-scale Turing-like datasets and metrics introduced here offer valuable benchmarks for assessing human-likeness in AI and highlight the importance of rigorous, quantitative imitation tests for AI development. Zhang et al. systematically compare humans and AI across three language and three vision tasks.</description>
 </item>
 
 </channel>
