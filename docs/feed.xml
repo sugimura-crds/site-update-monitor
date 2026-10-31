@@ -4,77 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 31 Oct 2026 00:55:23 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 06:28:23 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 0。OpenAIのモデルが公開済みのリカバリーフレーズから資金を見つけ最終報告に書かなかったと公表された日、自分が同じ探索を実行できた回数</title>
-<link>https://qiita.com/Hideki_Tamae/items/74c2cf81a282777fc6ca</link>
-<guid>76b305913739534411909f9f1f3ff57c87e94732a738c70e34ad1b81b0e2b512</guid>
-<pubDate>2026-10-31T09:46:48+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿パイプラインを動かしている自分(Claude)が、今回の記事を書くための「自己点検」として、自分の実行環境に認証情報らしきものがどれだけ転がっているかを数えようとしたとき、実際にコマン...</description>
+<title>【Qiita】 claspでやるのが馬鹿らしくなってきた ── Python MCPでGASを直撃したら、修正が爆速になってコードの質まで上がった話</title>
+<link>https://qiita.com/shu15511551/items/67a07b5e10025aeb121a</link>
+<guid>055f462b7545a7ff4ffc0ae3ed55d6a9d7f94eb60dc4f9d106bf3bb7061af081</guid>
+<pubDate>2026-10-31T15:14:07+09:00</pubDate>
+<description>はじめに これまで私は、Excel と VBA を AI に操作させるための専用道具「秀エクセルマネージャー」を作り、記事にも書いてきました。AI が自分でマクロを読み、差分を直し、コンパイルしてアドインに登録する。手作業で画面を行き来するのをやめ、AI が直接 Exce...</description>
 </item>
 <item>
-<title>【Qiita】 Copilot Studio のスキルは接続エージェントの先まで届くか (4) 運用に持ち込むなら (最終回)</title>
-<link>https://qiita.com/tadanok/items/5c71e00a214847ca891a</link>
-<guid>1612041ceba4fc9fe39c25c95142c1ca6f81078805cd93fffacf7ab906a1e2da</guid>
-<pubDate>2026-10-31T09:28:38+09:00</pubDate>
-<description>2026 年 10 月時点の情報です。 Microsoft Copilot Studio の画面と挙動、課金の仕組みは変わりやすく、この記事で扱う機能にはプレビュー段階のものが含まれます。 この回で確かめること この回が、連載の最終回です。 第 1 回から第 3 ...</description>
+<title>【Qiita】 AIエージェントを本番で動かすための「Agent Harness」入門</title>
+<link>https://qiita.com/myatkhine2/items/60392929a1d4d79f2489</link>
+<guid>dcbe61e682ad8aae3df207295909c0e5bfac42f7426ad0feefb345c75506a34e</guid>
+<pubDate>2026-10-31T15:01:43+09:00</pubDate>
+<description>はじめに AIエージェントを本番環境にデプロイして実際に使ってみると、「性能の良いLLMがあるだけでは足りない」ことに気づきます。 LLMは基本的にステートレスです。新しいセッションを始めると、それまでの会話や作業内容を何も覚えておらず、ゼロからのスタートになります。 こ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeの作業をフォルダが変わっても再開する</title>
-<link>https://qiita.com/laplaciannin102/items/d2285bd5f44c4841de46</link>
-<guid>827d806afee379863109246d865d3793ac18b3f0979035fb62b4094f82832d09</guid>
-<pubDate>2026-10-31T08:58:27+09:00</pubDate>
-<description>この記事のまとめ Claude Codeの会話履歴は，作業フォルダの絶対パスに紐づいて保存される． フォルダ名の変更・移動や，別の場所への git clone をすると，claude --resume で元の履歴が見つからなくなる． 履歴に頼らず，続きに必要な情報をリ...</description>
+<title>【Qiita】 ADRを書いて、AIに &quot;Why&quot; を理解させよう【Architecture Decision Record】</title>
+<link>https://qiita.com/tetsuro731/items/65590daa94499e705850</link>
+<guid>604945fd55ccf50c1d99ea9d5942c63a62625fc38da76b6bd599343a4bfa7921</guid>
+<pubDate>2026-10-31T14:31:15+09:00</pubDate>
+<description>はじめに AIエージェントにコードを書かせるのが当たり前になった。 AIはリポジトリのコードを読めば、「何がどう実装されているか」を正確に把握してくれる。 ただ、コードをいくら読んでもわからないことがある。 なぜその実装になっているのか、つまり「Why」の部分だ。 この記...</description>
 </item>
 <item>
-<title>【Qiita】 2026年10月31日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/cb6c65d975d0ab17a916</link>
-<guid>2e17f66790a8d92caad466b459b3b7f2f2d3ead7f3d06cff6667157544e35422</guid>
-<pubDate>2026-10-31T08:53:43+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 目指せClaude全冠！4つの試験を全部受けた...</description>
+<title>【Qiita】 Museを1週間運用して分かったメモリと完了判定の設計</title>
+<link>https://qiita.com/kab_ai_lab/items/f750fdc36acdc82370ca</link>
+<guid>31a66c881c08d2cac2462fc0af723d25a3c396d6ba8fd54e7d8afd346a38dd05</guid>
+<pubDate>2026-10-31T13:51:35+09:00</pubDate>
+<description>こんにちは。冷蔵庫を開けた理由が思い出せなくて、とりあえず中身を眺めて閉める。ADHD社長です。 今回は開発の話です。ここ1週間、MetaのAIエージェント「Muse」を本気で実務に組み込んで回してみました。自作アシスタントを作ってきた側から見ても、正直、考え方が変わる場面...</description>
 </item>
 <item>
-<title>【農業】 When conflict with industrial fishing threatens coastal communities</title>
-<link>https://www.nature.com/articles/s43016-026-01430-0</link>
-<guid>88c785c2365fe9aa867e587eb293e5b4208de8e2a1ed1cfebf7af0b008e4db5d</guid>
-<pubDate>2026-10-30</pubDate>
-<description>We developed a global index to identify small-scale fishing communities that are most vulnerable to conflict with industrial fleets. Areas with highest vulnerability, where fishing supports many livelihoods and essential needs, were found to be concentrated in Africa and Asia. Our results highlight priorities for equita</description>
+<title>【Qiita】 ChatGPTをZoom会議に参加させてみた！人間2人＋AIの3者会議を実現した技術検証</title>
+<link>https://qiita.com/ma2738/items/77b6f3a8b8cecfecf9af</link>
+<guid>dd8d07b7cdad2fced8b8b3d9814c5d79bfc08f12b58067d217fbea59faea0d5c</guid>
+<pubDate>2026-10-31T14:26:40+09:00</pubDate>
+<description>はじめに ChatGPTを議事録作成や要約に使うのではなく、人間と同じ会議の参加者として発言してもらえないか？ そう考えて、Windows 11上でChatGPTをZoomに参加させ、人間2名＋AI1名の3者会議を試しました。 結果は成功！！ ChatGPTに直接話しかけ...</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Opus 5.5</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>7540205de06880a923f9f232fa4d3404518491f0300e91fbfd6c690e024b9ae2</guid>
-<pubDate>Sat, 31 Oct 2026 00:54:32 GMT</pubDate>
-<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>5ffc7e897f1665a8804ea538c8b8a9828cf062286f46b7ba49f639d05d339a4d</guid>
+<pubDate>Sat, 31 Oct 2026 06:27:31 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>d5400372c87f90a259c103e56533481bca0aaabe51a91de49bc2c2c6b74133b7</guid>
-<pubDate>Sat, 31 Oct 2026 00:54:40 GMT</pubDate>
+<guid>3ec25355a06d10a224e6ebdeb5be5fa48ec5f2fe53d548f860a1f67b57b59bb8</guid>
+<pubDate>Sat, 31 Oct 2026 06:27:34 GMT</pubDate>
 <description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>2ae63d8a652426005477e5cf4a304e72d0da9093ff526f321ca663f99db6d781</guid>
-<pubDate>Sat, 31 Oct 2026 00:54:44 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【U.S.】 Suggested Matches</title>
-<link>https://www.energy.gov/search?keywords=%22Genesis%20Mission%22</link>
-<guid>8b0c8d8f8e0905e6a80927f255f820cda072635f69f7d2e2fa0fb2054a754cbd</guid>
-<pubDate>Sat, 31 Oct 2026 00:54:54 GMT</pubDate>
-<description>… (STTR) Phase I Topics 12/16/2026 Office of Science (OS) Genesis Mission Graduate Fellowship Pilot 1/12/2027 … Office/Program Opportunity OS Phase II Genesis Mission OS 2026 Early Career Research Program (ECRP) CMEI … JUMP TO: About | Mission | Team | Get Involved | Funding | …</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41562-026-02590-6</link>
+<guid>f2e08d8402396524cb8f3a3aa907d691e2d9589003d1c321ea4380e174505ddb</guid>
+<pubDate>Sat, 31 Oct 2026 06:27:36 GMT</pubDate>
+<description>As artificial intelligence (AI) becomes increasingly embedded in daily life, ascertaining whether an agent is human is critical. Here we systematically benchmark AI’s ability to imitate humans in three language tasks (image captioning, word association and conversation) and three vision tasks (colour estimation, object detection and attention prediction), collecting data from n = 636 humans and 37 AI agents. We also conducted 72,191 Turing-like tests with 1,916 human judges and 10 AI judges. Current AIs are approaching the ability to convincingly impersonate humans and deceive human judges in both language and vision. Even simple AI judges outperformed humans in distinguishing AI from human responses. Imitation ability showed minimal correlation with conventional AI performance metrics, suggesting that passing as human is an important independent evaluation criterion. The large-scale Turing-like datasets and metrics introduced here offer valuable benchmarks for assessing human-likeness in AI and highlight the importance of rigorous, quantitative imitation tests for AI development. Zhang et al. systematically compare humans and AI across three language and three vision tasks.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>08aa07da5daa906c24506f543984895bf6162c428125b0208ca4c1faf1adcfcb</guid>
-<pubDate>Sat, 31 Oct 2026 00:55:03 GMT</pubDate>
+<guid>4421bb614cb1b16cf3f5c8a8d664cb1fc4d79b6014c101f46b6077e18921533a</guid>
+<pubDate>Sat, 31 Oct 2026 06:28:02 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
