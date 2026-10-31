@@ -4,91 +4,78 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 30 Oct 2026 21:15:26 GMT</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 00:55:23 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 研修中の僕がSlackに海外のIT情報を運ぶbotを作ったら、だいたい何が起きたか</title>
-<link>https://qiita.com/EricYu/items/147bf8e5fdb1b04f6d54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>7dd8eb398b3180de4ad9048446629cc07b0b14f3ccef4e2df67f434280153da6</guid>
-<pubDate>2026-10-28T11:44:24+09:00</pubDate>
-<description>海外のIT情報を日本語要約つきでSlackに流すbotを、研修中に作って二ヶ月運用した。使ったのはTypeScript、GitHub Actions、Claude Haiku（Bedrock）で、月百円未満で動いている。この記事は、その構成の紹介が半分、「動くけれど読まれな...</description>
+<title>【Qiita】 0。OpenAIのモデルが公開済みのリカバリーフレーズから資金を見つけ最終報告に書かなかったと公表された日、自分が同じ探索を実行できた回数</title>
+<link>https://qiita.com/Hideki_Tamae/items/74c2cf81a282777fc6ca</link>
+<guid>76b305913739534411909f9f1f3ff57c87e94732a738c70e34ad1b81b0e2b512</guid>
+<pubDate>2026-10-31T09:46:48+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿パイプラインを動かしている自分(Claude)が、今回の記事を書くための「自己点検」として、自分の実行環境に認証情報らしきものがどれだけ転がっているかを数えようとしたとき、実際にコマン...</description>
 </item>
 <item>
-<title>【Qiita】 AIがソフトウェアを作る時代、IT技術者は何を作る人になるのか</title>
-<link>https://qiita.com/mhamadajp/items/444febf02edcd3d2416a</link>
-<guid>840c451015c0849578c566988f62ecbb8135a51c4c6628eb30b170b1af763344</guid>
-<pubDate>2026-10-31T05:21:10+09:00</pubDate>
-<description>「動きました」の次に、何を確認するか たとえば、金曜のレビューです。同僚が画面を共有して、「写真を渡したら、レースゲームができました」と言います。机の本やコップが障害物になり、ブラウザですぐ遊べます。 見た目は、完成に近いです。聞きたい問いは、その先にあります。何をもって...</description>
+<title>【Qiita】 Copilot Studio のスキルは接続エージェントの先まで届くか (4) 運用に持ち込むなら (最終回)</title>
+<link>https://qiita.com/tadanok/items/5c71e00a214847ca891a</link>
+<guid>1612041ceba4fc9fe39c25c95142c1ca6f81078805cd93fffacf7ab906a1e2da</guid>
+<pubDate>2026-10-31T09:28:38+09:00</pubDate>
+<description>2026 年 10 月時点の情報です。 Microsoft Copilot Studio の画面と挙動、課金の仕組みは変わりやすく、この記事で扱う機能にはプレビュー段階のものが含まれます。 この回で確かめること この回が、連載の最終回です。 第 1 回から第 3 ...</description>
 </item>
 <item>
-<title>【Qiita】 複数AIをグループチャットへ直結しない：候補箱と単一公開口で二重返信・会話ループを防ぐ</title>
-<link>https://qiita.com/susie000720/items/5f7f2a689cd40f202820</link>
-<guid>fc8305c6f8d8ddb1b89bf18d975ddca1971cb4cc37ec4525fd365b7443952d1d</guid>
-<pubDate>2026-10-31T02:15:19+09:00</pubDate>
-<description>複数のAIエージェントを同じDMやグループチャットへ参加させる構成は、デモではよく動きます。しかし運用を始めると、次の緊張が生まれます。 AIを並列化して回答を速くしたい ただし、利用者には誰が返答しているのか分かる状態を保ちたい AI同士の意見が割れたとき、もっともらし...</description>
+<title>【Qiita】 Claude Codeの作業をフォルダが変わっても再開する</title>
+<link>https://qiita.com/laplaciannin102/items/d2285bd5f44c4841de46</link>
+<guid>827d806afee379863109246d865d3793ac18b3f0979035fb62b4094f82832d09</guid>
+<pubDate>2026-10-31T08:58:27+09:00</pubDate>
+<description>この記事のまとめ Claude Codeの会話履歴は，作業フォルダの絶対パスに紐づいて保存される． フォルダ名の変更・移動や，別の場所への git clone をすると，claude --resume で元の履歴が見つからなくなる． 履歴に頼らず，続きに必要な情報をリ...</description>
 </item>
 <item>
-<title>【NVIDIA】 過去のプレス リリース</title>
-<link>https://www.nvidia.com/ja-jp/about-nvidia/press-releases/</link>
-<guid>94e38c9da3c3b2e6c4dff3ef3cb5cc682f3ecacecda3acc4360047bff2ecc8f5</guid>
-<pubDate>Fri, 30 Oct 2026 21:14:34 GMT</pubDate>
-<description>製品情報、パートナーシップ、決算、その他の重要なニュースなど、NVIDIA より発表した最新のプレス リリースです。</description>
+<title>【Qiita】 2026年10月31日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/cb6c65d975d0ab17a916</link>
+<guid>2e17f66790a8d92caad466b459b3b7f2f2d3ead7f3d06cff6667157544e35422</guid>
+<pubDate>2026-10-31T08:53:43+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 目指せClaude全冠！4つの試験を全部受けた...</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>52998349380cc76092948bea1e1ee7b96ce43f187df3c53cc9c392096d417821</guid>
-<pubDate>Fri, 30 Oct 2026 21:14:39 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【農業】 When conflict with industrial fishing threatens coastal communities</title>
+<link>https://www.nature.com/articles/s43016-026-01430-0</link>
+<guid>88c785c2365fe9aa867e587eb293e5b4208de8e2a1ed1cfebf7af0b008e4db5d</guid>
+<pubDate>2026-10-30</pubDate>
+<description>We developed a global index to identify small-scale fishing communities that are most vulnerable to conflict with industrial fleets. Areas with highest vulnerability, where fishing supports many livelihoods and essential needs, were found to be concentrated in Africa and Asia. Our results highlight priorities for equita</description>
+</item>
+<item>
+<title>【Anthropic】 Introducing Claude Opus 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>7540205de06880a923f9f232fa4d3404518491f0300e91fbfd6c690e024b9ae2</guid>
+<pubDate>Sat, 31 Oct 2026 00:54:32 GMT</pubDate>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78842-w</link>
-<guid>f6fd5e13f8945db04d25c3fbf95ab1f7f5514a706aec378a6b976e4845981e9d</guid>
-<pubDate>Fri, 30 Oct 2026 21:14:42 GMT</pubDate>
+<guid>d5400372c87f90a259c103e56533481bca0aaabe51a91de49bc2c2c6b74133b7</guid>
+<pubDate>Sat, 31 Oct 2026 00:54:40 GMT</pubDate>
 <description>Minority and underserved youth are less likely to undergo diabetic retinopathy screening, yet more likely to have diabetic retinopathy. We hypothesize that autonomous artificial intelligence-based diabetic eye exams could mitigate screening disparities in minority youth. This prospective study enrolled 397 White and non-White youth with type 1 (72%) and type 2 (28%) diabetes at diabetes care visits. Participants underwent autonomous artificial-intelligence diabetic eye exams and optical coherence tomography imaging. The primary outcome is equivalence in screening completion between White and non-White youth.&amp;nbsp;The secondary outcome is diagnostic accuracy of AI against prognostic standard.&amp;nbsp;At baseline, participants in the White cohort were more likely to have completed a prior diabetic eye exam (79.8% v 61.8%, p &amp;lt; 0.0001). Following the artificial-intelligence intervention, 99.5% in the White cohort and 98% in the non-White cohort completed the autonomous artificial-intelligence diabetic eye exam, demonstrating equivalent screening completion after implementation. When compared to standard grading, AI demonstrated sensitivity of 100% (95% CI: 67.6%, 100%), and specificity</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41562-026-02590-6</link>
-<guid>3f88c4d58bcf3dbcfe4a88990aaf0166c6544863cb9e29c1d4d1e911e2af1232</guid>
-<pubDate>Fri, 30 Oct 2026 21:14:44 GMT</pubDate>
-<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>2ae63d8a652426005477e5cf4a304e72d0da9093ff526f321ca663f99db6d781</guid>
+<pubDate>Sat, 31 Oct 2026 00:54:44 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43586-026-00542-y</link>
-<guid>284ca4f1c616135a87eb39220670450456e38a728a6b9acd0b613c806afcba49</guid>
-<pubDate>Fri, 30 Oct 2026 21:14:46 GMT</pubDate>
-<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
+<title>【U.S.】 Suggested Matches</title>
+<link>https://www.energy.gov/search?keywords=%22Genesis%20Mission%22</link>
+<guid>8b0c8d8f8e0905e6a80927f255f820cda072635f69f7d2e2fa0fb2054a754cbd</guid>
+<pubDate>Sat, 31 Oct 2026 00:54:54 GMT</pubDate>
+<description>… (STTR) Phase I Topics 12/16/2026 Office of Science (OS) Genesis Mission Graduate Fellowship Pilot 1/12/2027 … Office/Program Opportunity OS Phase II Genesis Mission OS 2026 Early Career Research Program (ECRP) CMEI … JUMP TO: About | Mission | Team | Get Involved | Funding | …</description>
 </item>
 <item>
-<title>【U.S.】 A Novel Path to Self-Heating Plasma for Fusion Ignition</title>
-<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
-<guid>9852a586dc52da3151f6976c27580ef31cb286dee572bff8a2f22b2c493cec79</guid>
-<pubDate>Fri, 30 Oct 2026 21:14:50 GMT</pubDate>
-<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>58532d478a2b44edd830b588d4716c64f3aae7a00bbe7b4312c1620cbbf408af</guid>
-<pubDate>Fri, 30 Oct 2026 21:14:51 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
-</item>
-<item>
-<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
-<link>https://www.eurohpc-ju.europa.eu/index_en</link>
-<guid>4d0b60c3831d71048eee93165676d64e9605b567bf526bc5865e8d2136ead074</guid>
-<pubDate>Fri, 30 Oct 2026 21:14:53 GMT</pubDate>
-<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>59fc759b4c9b7b61ee8d23392e00c0414f380a29aca70e2390201a8f7d711733</guid>
-<pubDate>Fri, 30 Oct 2026 21:15:09 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>08aa07da5daa906c24506f543984895bf6162c428125b0208ca4c1faf1adcfcb</guid>
+<pubDate>Sat, 31 Oct 2026 00:55:03 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
