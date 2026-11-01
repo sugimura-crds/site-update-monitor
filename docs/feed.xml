@@ -4,77 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 01 Nov 2026 10:42:15 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 16:58:16 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 誤ってマルウェアを実行してしまった私が、AIとREA（Reverse Engineer Anything）に救われた話</title>
-<link>https://qiita.com/TOMOSIA-LinhND/items/3dec10762fcc224d9133?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>2739abd8b084662bff17d244b837527a320ab5c4877d18797fe8d7272bf47dd4</guid>
-<pubDate>2026-10-30T18:45:50+09:00</pubDate>
-<description>マルウェアおよびC2サーバーに関する警告 本記事は、Google検索やRedditで見つけた CxxCxx Pro のアクティベーター（有効化ツール）を装ったマルウェアを、私が実際にダウンロード・実行してしまった際の体験談と解析記録です。 安全のため、以下に記載する配布...</description>
+<title>【Qiita】 AIエージェントを支える基盤技術⑤-3: Multi-Agent Coordination の仕組みと設計</title>
+<link>https://qiita.com/aimldl/items/297392888c8db067110b</link>
+<guid>ef84b367a36c96797d993de6ba1c7ceea03f8d7004c07774b170d3e697da1f0a</guid>
+<pubDate>2026-11-02T01:47:14+09:00</pubDate>
+<description>はじめに 前回では、 「AIエージェントを支える基盤技術: Agent Core が解決する5つの技術課題」の五番目の課題として「Multi-Agent Coordination」とは何かを紹介し、その仕組みと設計について解説するシリーズを開始しました。 「⑤-1: ...</description>
 </item>
 <item>
-<title>【Qiita】 AI との共同作業をプロジェクトとして管理する仕組みを作った（設計書3点・非公開リポジトリ・記事素材）</title>
-<link>https://qiita.com/satouyoshiaki/items/472f2be81b0cbf4f4508</link>
-<guid>9ddf43d87cc77661928991215b9fccc0810610f74b920b70c3023de1b16fd77f</guid>
-<pubDate>2026-11-01T16:38:31+09:00</pubDate>
-<description>はじめに AI エージェントと一緒に開発や構築を進めるようになって、最初に困ったのは「管理」でした。チャットで決めたことが流れてしまう、前に作ったものの設計意図が分からなくなる、同じ説明を何度もする。このあたりは人間同士の共同作業と同じで、仕組みで解決するしかありません。...</description>
+<title>【Qiita】 Python標準ライブラリだけで x402(AIが1回ごとに払うHTTP 402)の門を書いた — まだ本物の支払いは通していない段階1</title>
+<link>https://qiita.com/nexus-tools/items/fadfe5b51b1b52372da6</link>
+<guid>51360544cc93df43d05e4e80078e716f1b7ae8901169fbb9efcf3cad9a90c0ab</guid>
+<pubDate>2026-11-02T00:23:14+09:00</pubDate>
+<description>先に書いておくこと これは段階1です。偽の確認役(facilitator)を相手にしたテスト21件だけで確かめていて、テストネットでも本番でも、まだ1回も本物の支払いを受けていません。本番のネットワークは allow_mainnet=True を自分で書かない限り断りま...</description>
 </item>
 <item>
-<title>【Qiita】 0。OpenAIが『コンピュータ操作タスクを3倍速く』とGPT-6.1 Terraを発表した日、自分の環境で使えるコンピュータ操作ツールの数だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/60aad5d420ddb7027d22</link>
-<guid>93388dbb92d949afb970ed9cc946651308ceba74bc17e503a49999b7f91cee1c</guid>
-<pubDate>2026-11-01T15:27:59+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿パイプライン(このタスク自身)が今回実行されている環境で、実際に呼び出せる「コンピュータ操作(computer use)」系ツールの数です。 きっかけは、OpenAIが2026年10月...</description>
+<title>【Qiita】 手で打つと動くのに、AIエージェントやcronだと動かないのはなぜか。原因はPATH</title>
+<link>https://qiita.com/koreangyoseishoshi/items/18394ccdb9d7c0d03221</link>
+<guid>77f7294ce1bfa4a972c358baa70938e77248ae6e28ce18b4a02dbae9c53eb2d9</guid>
+<pubDate>2026-11-02T00:09:26+09:00</pubDate>
+<description>※この記事は Zennの記事 からの転載です。 ターミナルで手で打つと動くコマンドが、Claude Code や Codex などの AI エージェントに実行させると「command not found」になる。cron で定時に動かすと失敗する。サイトでは動くプログラム...</description>
 </item>
 <item>
-<title>【Qiita】 メール・会議・資料をチームの知識に変える――SharePoint Knowledge baseとは？</title>
-<link>https://qiita.com/phamxuanquyen22/items/532dde9aa0f7315a91fd</link>
-<guid>06f241f4c7d9614010b47ffe94011e12ec6521c932324366840d65ed81c668e1</guid>
-<pubDate>2026-11-01T15:22:57+09:00</pubDate>
-<description>執筆している2026年11月1日時点の情報です。SharePointのKnowledge base は更新が速い機能のため、最新情報は必ず公開情報（本記事末尾の参考リンク）もあわせてご確認ください。 本稿は公開された公式資料を整理したものです。Knowledge base...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Code on the webの環境構築：Redis/Qdrant接続とセッション開始フックの設計原則</title>
-<link>https://qiita.com/charge0315/items/2a46aaaafd09c5f6d0b5</link>
-<guid>905f709128b4852fc057aef2b2b55c0d8d1ab88f1e2b52dc6c282bb69d106193</guid>
-<pubDate>2026-11-01T14:50:58+09:00</pubDate>
-<description>みなさん、こんにちは！ トレーディング支援端末「ALPHA FORGE」を開発している八咫烏（やたがらす）です。 Claude Code on the webでリポジトリを開いて検査やテストを回そうとしたとき、「コードは見えるのに、ローカルのRedisや依存サービスに届かな...</description>
+<title>【Qiita】 AIが呼ぶCLIは人間用と別設計 — エージェントフレンドリーなスクリプトの5原則</title>
+<link>https://qiita.com/fuji1009_REBELL/items/a29ad5c0b542968b568d</link>
+<guid>eb2f3ab6044ec991ec05656d9e4e605b1d2cf7989f9afff91a08c8cfa4f6def6</guid>
+<pubDate>2026-11-02T00:05:39+09:00</pubDate>
+<description>人間が毎日叩くシェルスクリプトは、多少雑でも回ります。短縮オプションは指が覚えているし、エラーが出れば画面を見て気づくからです。ところが同じスクリプトを Claude Code のようなAIエージェントに呼ばせると、「人間なら暗黙に補っていた部分」が全部、誤用の入口になりま...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>8b5bf4d94594a5232d9b8df083f1616da514fd686f29cf4aa3d34435ac16da3b</guid>
-<pubDate>Sun, 01 Nov 2026 10:41:32 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>c30fc1375f6edecd81c07811648457060d4e82d9d65c2a0e13549b9c49c2385d</guid>
+<pubDate>Sun, 01 Nov 2026 16:57:29 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>ae1d840bded01958fb38968aa93d427c4bf38f05f3e69409b8e33a909d7fc4e8</guid>
-<pubDate>Sun, 01 Nov 2026 10:41:35 GMT</pubDate>
+<guid>f952378bd843c0091575405f30e02a1430d12ed0d9b7db7770af0cbb88c31a81</guid>
+<pubDate>Sun, 01 Nov 2026 16:57:32 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41599-026-09565-y</link>
-<guid>f5e0768f90000e52b383cad7e268f1b76bfc8bcbce4f57d97d5bf0db90e984a4</guid>
-<pubDate>Sun, 01 Nov 2026 10:41:38 GMT</pubDate>
-<description>AI agents are reshaping educational systems and transforming teaching and learning in design disciplines. However, the psychological mechanisms underlying AI-agent use among design graduate students remain underexplored, as does the interaction between design-specific tasks and AI agents. To address this gap, this study integrates the Technology Acceptance Model (TAM) and Task–Technology Fit (TTF) theory to explain how technological cognition and task-fit perceptions jointly shape behavioral intention to use AI agents. Because conventional structural modeling mainly captures hypothesized linear relationships, MLP-ANN was added to assess nonlinear patterns and predictor importance. Using 405 valid questionnaire responses, the model was tested through Partial Least Squares Structural Equation Modeling (PLS-SEM), a Multilayer Perceptron Artificial Neural Network (MLP-ANN), and Necessary Condition Analysis (NCA). PLS-SEM supported nine of ten hypotheses. Self-efficacy positively affected perceived usefulness (β = 0.458, p &amp;lt; 0.001) and perceived ease of use (β = 0.394, p &amp;lt; 0.001). Perceived enjoyment enhanced perceived ease of use (β = 0.220, p &amp;lt; 0.001), but its effect on perce</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>b581df2ecd2839000128a6aa3b73ada5a079f0c328f5b898c672bcb870e2064f</guid>
-<pubDate>Sun, 01 Nov 2026 10:41:41 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>16ba2f21674b5833280e9cec5a11cdf048d2e86eff91f16d97140224d2fdec16</guid>
-<pubDate>Sun, 01 Nov 2026 10:41:59 GMT</pubDate>
+<guid>4a92132a8c1a0f2083c557bb9979076d3fd79080def2c0cc309d0f24e96e5778</guid>
+<pubDate>Sun, 01 Nov 2026 16:57:56 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
