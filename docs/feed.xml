@@ -4,56 +4,78 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 31 Oct 2026 23:52:46 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 03:17:14 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 ローカル LLM の監視強化（前編）：Qwen の「外への送信」報道を受けて、AI エージェントを OS とネットワークで止める</title>
-<link>https://qiita.com/nabe2030/items/0b89543adbf2ba60bf25</link>
-<guid>516617463f5e71665c1d07e6bfc17cb4e13fba6e49f3fe13de63ee33dcbfad18</guid>
-<pubDate>2026-11-01T08:07:08+09:00</pubDate>
-<description>1. 背景：LLM モデルが勝手に外部にデータ送信！？ 最初に、LLM モデル単体では、インターネットに勝手にアクセスしたり、不正な操作をしたりすることはできません。 LLM モデルがするのは、文字を受け取って文字を返すことだけです。チャットの画面で LLM モデルと話し...</description>
+<title>【Qiita】 Qiita 記事の投稿を「PR をマージするだけ」にする自動パイプラインを作った</title>
+<link>https://qiita.com/satouyoshiaki/items/07704534a2ed588bd095</link>
+<guid>bd81a62dfd605894d034065904f0d18be8dc8865619bd68c4df7aa4662bfabaa</guid>
+<pubDate>2026-11-01T11:27:55+09:00</pubDate>
+<description>はじめに AI エージェント（Muse）に技術記事を書いてもらう機会が増えてきました。ただ、「AI が書いた記事をそのまま公開する」のは抵抗があります。かといって、1本ごとにコピペして投稿画面に貼るのも面倒です。 そこで作ったのが、記事ごとに Pull Request を...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code で Qiita に投稿、3日とも1回目は空振り：二重投稿を避けて押し直す手順</title>
-<link>https://qiita.com/kaiyaku_iyada/items/3366666a2a706f96fe7d</link>
-<guid>65430512d718aaa1147af155e1a069b4ccca10486f3972d204bf9ec94b28f8ed</guid>
-<pubDate>2026-11-01T07:59:00+09:00</pubDate>
-<description>この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。個人の実験で、Anthropic社とは無関係です。同社の公認や提携ではありません。書いてあることは、2026年10月22日〜24日の朝に私が Qii...</description>
+<title>【Qiita】 Sakupa を導入する前に確認したい 8 つの質問：公式マニュアルから整理する</title>
+<link>https://qiita.com/kakusan2022/items/eb2ff883da6a6df0efe0</link>
+<guid>4f524535fe5b90e7c4717bcecb58ee3be240a49c6aa074bbf86362f1004d480e</guid>
+<pubDate>2026-11-01T10:49:56+09:00</pubDate>
+<description>はじめに明記しておきます。私は Sakupa の開発者ではありません。MCP サーバーを調べていて見つけ、公式サイトと公式マニュアルの公開情報だけを整理した紹介記事です。実際に使った体験談ではありません。 Sakupa は、アカウント登録なしで、AI エージェントから静的サ...</description>
 </item>
 <item>
-<title>【Qiita】 ログは残っているのに状態が分からない。マルチエージェントの実行記録を作り直した</title>
-<link>https://qiita.com/Tachiuo/items/77638317f79d9dbcf2e3</link>
-<guid>69a03d950283bb5690646aa27d96e78a72bfeee8f0ff3976f82c30e38fc8609e</guid>
-<pubDate>2026-11-01T06:50:34+09:00</pubDate>
-<description>個人で、情報収集やポッドキャスト制作などを行うマルチエージェントの仕組みを作っています。いくつかの処理を順番につなぎ、途中で失敗すれば再試行し、必要に応じて人の承認も受ける構成です。 処理が止まったときに困ったのが、ログは残っているのに、今の状態をすぐには判断できないことで...</description>
+<title>【Qiita】 自作の MCP サーバーを Claude Code につなぐ最小手順(mcp 2.x では FastMCP が MCPServer に変わっていた)</title>
+<link>https://qiita.com/takamatt_ai/items/ded2fc37698d6e876b79</link>
+<guid>ec359dbd3653cb3122a0a0264f255acfd862ef39a75e9011a408e9cf9e46d626</guid>
+<pubDate>2026-11-01T10:16:05+09:00</pubDate>
+<description>何に困ったか Claude Code に自作の道具を持たせる例として、「文章の文字数を数える」「Markdown の見出しを取り出す」MCP サーバーを Python で書いて試しました。 ネットの解説どおり from mcp.server.fastmcp import ...</description>
+</item>
+<item>
+<title>【Qiita】 21。公開済み123本のタイトルを『失敗』系の言葉で数えたら、その数字だった。内訳を見たら、自社の障害と言えるのは15本だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/c76ab49eb78c667353d8</link>
+<guid>4ffa3141d0d4681eec4de9e4103416955c860257d9f7d65d6299343ca49d1869</guid>
+<pubDate>2026-11-01T09:48:43+09:00</pubDate>
+<description>はじめに 21。 これが最初に出た数字です。Qiita側の公開済み記事123本のタイトルを、「失敗」「エラー」「拒否」「遅れ」「止まっ」「壊れ」「バグ」「誤判定」「ずれ」「漏れ」「無視」「沈黙」「幻覚」「ハック」「侵入」「脆弱」「放置」「凍結」「切断」という19個のキーワ...</description>
+</item>
+<item>
+<title>【Qiita】 Meta Muse に冗談半分で鳩の3Dアプリを頼んだら、10分で動いた</title>
+<link>https://qiita.com/kai_kou/items/a7905d168142bd55f196</link>
+<guid>d45320f959b554cdea8923b722c55b71e4de86929958eb11da55b989dac7a25a</guid>
+<pubDate>2026-11-01T09:10:26+09:00</pubDate>
+<description>はじめに Meta のパーソナル AI エージェント「Muse」（muse.ai、2026-10-23 に日本で提供開始）に、大阪・日本橋を舞台にした鳩の 3D シミュレーションを作ってもらいました。成果物は GitHub で公開しています（kai-kou/nihonba...</description>
+</item>
+<item>
+<title>【Anthropic】 Introducing Claude Opus 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>6d4730fb34d3159fd03ef0e046691380d3dc8a2706c9d4f16b72154cabc00bae</guid>
+<pubDate>Sun, 01 Nov 2026 03:15:53 GMT</pubDate>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>2679ebeb842794d94e534106a79beb7434c5ca9f742f6f150fd9211f71b33f18</guid>
-<pubDate>Sat, 31 Oct 2026 23:51:48 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>089acda6524791fa33a423c6d2d0359920c1bfa731058ae8a4a1d07b243e4e80</guid>
+<pubDate>Sun, 01 Nov 2026 03:16:27 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>a2f4719653d19ef0c85ae37322af4b94298781dd2f968578bd1c4cccd5a1c275</guid>
-<pubDate>Sat, 31 Oct 2026 23:51:51 GMT</pubDate>
-<description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>73f1696bc83ee8085c0dcf896e84b4f24ad0a18e87e8e3265d9942ed1c318c70</guid>
+<pubDate>Sun, 01 Nov 2026 03:16:34 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41599-026-09565-y</link>
-<guid>d7ab669a5118ccfd2d3565bbc13e9fc8d3337dd0ec1bf47e7ba5cda9428b22a0</guid>
-<pubDate>Sat, 31 Oct 2026 23:51:56 GMT</pubDate>
-<description>AI agents are reshaping educational systems and transforming teaching and learning in design disciplines. However, the psychological mechanisms underlying AI-agent use among design graduate students remain underexplored, as does the interaction between design-specific tasks and AI agents. To address this gap, this study integrates the Technology Acceptance Model (TAM) and Task–Technology Fit (TTF) theory to explain how technological cognition and task-fit perceptions jointly shape behavioral intention to use AI agents. Because conventional structural modeling mainly captures hypothesized linear relationships, MLP-ANN was added to assess nonlinear patterns and predictor importance. Using 405 valid questionnaire responses, the model was tested through Partial Least Squares Structural Equation Modeling (PLS-SEM), a Multilayer Perceptron Artificial Neural Network (MLP-ANN), and Necessary Condition Analysis (NCA). PLS-SEM supported nine of ten hypotheses. Self-efficacy positively affected perceived usefulness (β = 0.458, p &amp;lt; 0.001) and perceived ease of use (β = 0.394, p &amp;lt; 0.001). Perceived enjoyment enhanced perceived ease of use (β = 0.220, p &amp;lt; 0.001), but its effect on perce</description>
+<title>【Self-driving laboratories】 Filter By:</title>
+<link>https://www.nature.com/articles/s44160-026-01194-2</link>
+<guid>0c4df983e70a976250b5f7ddcd51350efff60d05f396e45b5248eb3485647f4d</guid>
+<pubDate>Sun, 01 Nov 2026 03:16:38 GMT</pubDate>
+<description>In this issue, we focus on the development of self-driving laboratories for the autonomous synthesis of molecules and materials, with a particular focus on industrial considerations and applications.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43586-026-00542-y</link>
-<guid>afafab2faae26e4ab7166ec33d0bbd41b305f1796b08c72c2de570c8cbb81ed4</guid>
-<pubDate>Sat, 31 Oct 2026 23:51:59 GMT</pubDate>
-<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>11a5809000be6605d0d4db7a831f263fb23f24b068ae3617cc0c050a07e52ee4</guid>
+<pubDate>Sun, 01 Nov 2026 03:16:54 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
