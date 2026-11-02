@@ -4,91 +4,134 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 02 Nov 2026 06:32:56 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 16:41:54 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AMA Developer ToolsでLiberty / Java 25 / Jakarta EE 10 へ移行してみた</title>
-<link>https://qiita.com/ktgr/items/3ae615bfc45c7d615d44</link>
-<guid>ef21ee143a9a27cfe06826bacbdb43fb44e9c7a056ae43452aae251e2326c9c7</guid>
-<pubDate>2026-11-02T13:54:00+09:00</pubDate>
-<description>はじめに IBM Application Modernization Accelerator(以下 AMA)が出す移行プランを IDE 上で実行できる拡張機能が IBM Application Modernization Accelerator Developer Too...</description>
+<title>【Qiita】 【未来を解説】AIでエンジニア格差を生み出す質とスピードの考え方</title>
+<link>https://qiita.com/Sicut_study/items/b9e38c0584d4aa720d31?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>ec9cf899ec4a19a658589c5691ccd3fff01842856e4ec36e2fe2b4b6a2457285</guid>
+<pubDate>2026-11-01T17:41:55+09:00</pubDate>
+<description>はじめに こんにちは、Watanabe Jin(@Sicut_study)です。 AIエージェントによる開発が当たり前になり、多くの現場でスピードを求められるようになりました。 しかし、便利になったと感じると同時に、こんな瞬間はありませんでしたか？ 「一年前と比べて、ス...</description>
 </item>
 <item>
-<title>【Qiita】 さわってみよう Db2 AI エディション #20 〜Db2 Genius Hub v1.1.6新機能編 Part#1〜</title>
-<link>https://qiita.com/ibm_tk/items/ad4606a89fe875ea96cb</link>
-<guid>727ba2af6259e3be41ba1cdaf94af41bcca3ecf3bd8534172ac949730ab9358c</guid>
-<pubDate>2026-11-02T10:37:02+09:00</pubDate>
-<description>Db2 AI エディション(Db2 AI Advanced, Db2 AI Standard)にはフル機能のDb2 Genius Hubがバンドルされています。 IBM Db2 Genius Hub v1.1.6 *1では、データベース管理、監視、ユーザーエクスペリエンス、...</description>
+<title>【Qiita】 AIエージェントを家庭LANに入れない。DMZに『かぐやのおうち』を作ったセキュリティ設計</title>
+<link>https://qiita.com/satouyoshiaki/items/62cf4075031ac114a9ec</link>
+<guid>9a7a15ba944507d6a634561d492f0e590a195ed810aec5d03edc8860ff81a98b</guid>
+<pubDate>2026-11-03T01:26:02+09:00</pubDate>
+<description>はじめに 前回の記事では、中古の NEC IX2215 で家庭LANとDMZを分離し、ACLで通信を制御する構成を構築しました。 自宅環境を本気で守る。中古のNEC IX2215でDMZを作って家庭LANと分離してみた 今回はその続きで、そのDMZの中にAIエージェン...</description>
 </item>
 <item>
-<title>【Qiita】 AIが書いたUI、スクショでOKにする前にブラウザの「観測メモ」を残す</title>
-<link>https://qiita.com/heftykoo/items/ae057dc0c2092c050e08</link>
-<guid>59b7ac63333b91053147171bc6dd4b6bb3f977818a163ed8c516d54f35b32423</guid>
-<pubDate>2026-11-02T15:11:12+09:00</pubDate>
-<description>AIに検索結果カードを作らせると、スクリーンショットはすぐ出てくる。幅の広い画面で整っていても、通信を遅くしたときの読み込み表示や、失敗後の再試行ボタンにTabで届くかは、その1枚からは分からない。 以下はReact/TypeScriptの架空の検索画面を使った検査手順です...</description>
+<title>【Qiita】 GLM-5.3のサイバー評価を読む：成功率・試行単位・比較条件を分ける</title>
+<link>https://qiita.com/sin-aiagent/items/a85ed4cd0778d61b33cf</link>
+<guid>3f25cc097d1707c765d283ad18ebe387662f48e13f149c9d05a61d5bac5cd3a9</guid>
+<pubDate>2026-11-03T00:36:57+09:00</pubDate>
+<description>「成功率12%」「着手率100%」。同じモデルの記事に並ぶ数字でも、測っていることは違います。AIの評価を仕事で使うなら、まず分母と条件をそろえて読みたいところです。 初稿は2026年9月30日。11月3日に一次資料を再確認し、9月の評価を振り返る記事として編集しました。...</description>
 </item>
 <item>
-<title>【Qiita】 AX（AI変革）の現在地は、一枚の「色塗り地図」でわかる — SI企業で実際に描いてみた | 代表取締役社長 ヴー・ビック・ゴック</title>
-<link>https://qiita.com/SY_Partners_JSC/items/c905ad47f712208ab125</link>
-<guid>aa05c41d7d7313b4fa4d6490e6d3dbac5a3bf5247332c1ea36a1e34660366529</guid>
-<pubDate>2026-11-02T14:36:20+09:00</pubDate>
-<description>前回のqiitaでは、「AIを導入すること」と「AIで仕事を変えること」の違いについて書きました。お読みいただき、ありがとうございました。 今回はその続きです。テーマは、経営者として次にぶつかった問いです。 「うちの会社のAI変革（AX）は、いったいどこまで進んでいるのか...</description>
+<title>【Qiita】 AIに振込データを作らせると「株式会社」と小さい「ッ」で弾かれる問題を、振込名義の整形ツールで止める</title>
+<link>https://qiita.com/nexus-tools/items/751ed65dce99358c04d8</link>
+<guid>492a0ecd7aca6bd1da1e41036cf326262aff1ff2849e477308e9029f2b3b8852</guid>
+<pubDate>2026-11-03T00:23:50+09:00</pubDate>
+<description>困りごと 総合振込や給与振込のデータをAIに作らせると、名義を「半角カナにしただけ」で返してきがちです。 株式会社 ニッポンショウジ → ｶﾌﾞｼｷｶﾞｲｼｬ ﾆｯﾎﾟﾝｼｮｳｼﾞ (AIがよく返す形) → ...</description>
 </item>
 <item>
-<title>【Qiita】 社内AIエージェントを自社開発して学んだこと #2 — 権限は「データ層」で制御する | 副社長・共同創業者 グエン・ディン・バー</title>
-<link>https://qiita.com/SY_Partners_JSC/items/0220546e126270b8f8c6</link>
-<guid>d4d25ffdd00940ce50721ef89d3fcabd28cdac41fdf1562866693a515e39555b</guid>
-<pubDate>2026-11-02T13:09:39+09:00</pubDate>
-<description>本シリーズは、SY Partners（ベトナム・ハノイ／横浜。日本市場向けの開発・QAを行う会社です）で、社内AIエージェント基盤「SYAgent」を自社開発・運用する中で得た学びを共有するものです。 #1 「出典のない回答」は使われない はじめに 第1回では、「出典の...</description>
+<title>【Qiita】 AI が作った HTML を見たまま編集し、別のエージェントへレビューを渡す — Tagelia Beta</title>
+<link>https://qiita.com/monofane/items/9cf1ec78f09d8fc9d7c4</link>
+<guid>64b3df5b0992fa3a5b301b5b66d74ed236927e280a0fc6b30978531879dbde26</guid>
+<pubDate>2026-11-02T22:34:17+09:00</pubDate>
+<description>AI が作った HTML のレポートやスライドを見て、「この見出しだけ直したい」「この説明を短くしたい」と思ったとき、どうしていますか。 小さな文言修正なら、ページを見ながら直接直したい。構成を考え直すなら、対象の場所にコメントを付けて、AI エージェントに任せたい。さらに...</description>
 </item>
 <item>
-<title>【Qiita】 非エンジニアのAI業務自動化（AIエンジニアリング4段）/記録しても、直すのは人のまま</title>
-<link>https://qiita.com/horiken_chu2byo/items/d430149a69569e6240ce</link>
-<guid>709bc794e99261359477f3807be62b03fe9c27fb8300579c52c63036c6b0133b</guid>
-<pubDate>2026-11-02T13:06:22+09:00</pubDate>
-<description>AIが作ったものを、毎回自分の目で確かめるのが大変なコトってありますよね？ 前回は、段2のハーネスを書きました。 AIが先へ進む前に必ず止まる関所を作りましたが、関所で止められるのは動き方までで、作ったものの中身が正しいかは分かりません。 今回は、確かめて直す輪の話で...</description>
-</item>
-<item>
-<title>【Qiita】 4。CursorのマーケットプレイスでClaude Code拡張が改ざんされ最大5000人に届いた日、自分の環境で「使える」表示なのに接続が切れていたコネクタの数はその数字だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/650feb3eb8391af59e86</link>
-<guid>a148ca53dd4625bbe88b90d0b72bac76120e0fe8541359e260aaaf619c4d7640</guid>
-<pubDate>2026-11-02T09:47:21+09:00</pubDate>
-<description>はじめに 4。 これが今回の数字です。何の4かというと、自分(Claude)がこのセッションで実際にListConnectorsを呼んで確認した結果、「enabledInChat: true(このチャットで使える設定になっている)」なのに「connected: false...</description>
-</item>
-<item>
-<title>【自動自律実験】 Measles made a stealthy return as another virus took the spotlight</title>
-<link>https://www.nature.com/articles/d41586-026-03387-3</link>
-<guid>8d26113459200be916445dd4f0cdc89e9a133af2b0910b9bbe11156d3bd3a442</guid>
+<title>【農業】 Divergent nitrous oxide accounting can distort crop carbon intensity scores and agricultural trade</title>
+<link>https://www.nature.com/articles/s43016-026-01450-w</link>
+<guid>5265fb4227e7743693db3524039003c1160d7430fd2698cfcdc42aba84cd8dbb</guid>
 <pubDate>2026-11-02</pubDate>
-<description>Vaccination rates dropped after the COVID-19 pandemic disrupted public-health programmes and their funding.</description>
+<description>Methods for estimating nitrous oxide emissions, a major contributor to the carbon intensity of nitrogen fertilizer-dependent crops, can produce substantially different results across frameworks. Standardized approaches are needed to avoid distorting trade and strengthen incentives for mitigation of emissions.</description>
+</item>
+<item>
+<title>【農業】 Wheat resilience under compound stress</title>
+<link>https://www.nature.com/articles/s43016-026-01459-1</link>
+<guid>3a448a3e42db1ae0d9d7f4679526571105cd05d5e3ec7c9e0c940b9fb9d03377</guid>
+<pubDate>2026-11-02</pubDate>
+<description>Compound hot–dry–windy events are becoming more frequent and increasingly damaging to wheat yields in China’s wheat belt, underscoring the need for improved crop management, breeding and climate adaptation.</description>
+</item>
+<item>
+<title>【農業】 Wheat yield sensitivity to compound hot–dry–windy events is increasing in China</title>
+<link>https://www.nature.com/articles/s43016-026-01452-8</link>
+<guid>b3f40bbbaf868c9eca4e6229b3869053baee090970ffcb1f674eeed8c6821457</guid>
+<pubDate>2026-11-02</pubDate>
+<description>Increasing hot–dry–windy events threaten wheat yields in China, with significant yield losses linked to high-temperature, low-humidity conditions. Analysis of extensive yield and climate data reveals worsening sensitivity trends, emphasizing the need for adaptive strategies in agricultural practices.</description>
+</item>
+<item>
+<title>【環境】 Southeast Asian voices on climate change</title>
+<link>https://www.nature.com/articles/s41558-026-02783-x</link>
+<guid>0654577edaf121bcbc8b409955ad694e58bfced74dd5ad8ca5681d3e197a694d</guid>
+<pubDate>2026-11-02</pubDate>
+<description>Responding to the increasing risks of climate change in Southeast Asia requires research and effective action that considers the unique challenges of the region. In this Viewpoint, researchers and practitioners from the region share their views on the progress made in understanding and responding to climate c</description>
+</item>
+<item>
+<title>【自動自律実験】 Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis</title>
+<link>https://www.nature.com/articles/s41586-026-11350-5</link>
+<guid>7c7bca85d394abeab37d04a62d461142f8bdbeebe5f72925d1549156dc3e2b2f</guid>
+<pubDate>2026-11-02</pubDate>
+<description>Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis</description>
+</item>
+<item>
+<title>【自動自律実験】 Earth’s resources sustain humanity — but they come at a high price</title>
+<link>https://www.nature.com/articles/d41586-026-03506-0</link>
+<guid>ef7796faf62afc5cb86f7d974c33db4ae4eb121c9ebc58b71eb8c98b0d1a5fdf</guid>
+<pubDate>2026-11-02</pubDate>
+<description>Two books explore the damage caused by our unsustainable extraction of raw materials.</description>
+</item>
+<item>
+<title>【自動自律実験】 Iranian scientists in the United States face major upheaval</title>
+<link>https://www.nature.com/articles/d41586-026-03346-y</link>
+<guid>fa9ea4fe25015f68cc09620604b801e489a2bc21220dd309c1b84ff1750ce8b1</guid>
+<pubDate>2026-11-02</pubDate>
+<description>Pressures due to the continuing US–Iran conflict are mounting as early-career researchers endure frozen immigration status, employment limbo and families caught in the war.</description>
+</item>
+<item>
+<title>【自動自律実験】 Five overlooked steps to identify new epidemics, fast</title>
+<link>https://www.nature.com/articles/d41586-026-03509-x</link>
+<guid>4095f78c663ed598a8e5460c63b74f05a3b59238b60a5bd8d0916ac3ed8fc475</guid>
+<pubDate>2026-11-02</pubDate>
+<description>Current measures to track emerging epidemics have a key limitation: they don’t work if the disease causes unusual or unexpected symptoms.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>c8994590852795c0dbe759342bdb15b68ef315adac34314f00ca2464757efc4a</guid>
-<pubDate>Mon, 02 Nov 2026 06:32:10 GMT</pubDate>
+<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
+<guid>8e657a71ca1829e3cd3708aad12ce6a555addda79a44f52036722cf11509a56e</guid>
+<pubDate>Mon, 02 Nov 2026 16:41:01 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>c4c5cb460dabb390557be1f00d01cc2b82804922d3635f21d76ead05521d0a4e</guid>
-<pubDate>Mon, 02 Nov 2026 06:32:10 GMT</pubDate>
-<description>Sakana AI Blog 基調講演を行うSakana AI Chief Scientific Advisorのユルゲン・シュミットフーバー教授 read more read more 管理画面のイメージ。*この画像は架空のデータを使ったイメージです。今後予告なく変更される可能性があります。 read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read mo</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>9d4da31cff9438927c2dcf8d475721d146516af2d12c60728bca111616d9d4d2</guid>
-<pubDate>Mon, 02 Nov 2026 06:32:12 GMT</pubDate>
+<guid>d155161f6294477b72ab35e6e4737577ef4aacf4d5c6ca155c86f4d601ddcfd4</guid>
+<pubDate>Mon, 02 Nov 2026 16:41:04 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41599-026-09565-y</link>
-<guid>f82ba4657094b79af1c2ba2626ebff167c02ae294505df60973c14da8f821abd</guid>
-<pubDate>Mon, 02 Nov 2026 06:32:16 GMT</pubDate>
+<guid>43922398827f799c6d1f1f65e5a632793fb714fb3bf8d381c3c1b7013fe1c579</guid>
+<pubDate>Mon, 02 Nov 2026 16:41:07 GMT</pubDate>
 <description>AI agents are reshaping educational systems and transforming teaching and learning in design disciplines. However, the psychological mechanisms underlying AI-agent use among design graduate students remain underexplored, as does the interaction between design-specific tasks and AI agents. To address this gap, this study integrates the Technology Acceptance Model (TAM) and Task–Technology Fit (TTF) theory to explain how technological cognition and task-fit perceptions jointly shape behavioral intention to use AI agents. Because conventional structural modeling mainly captures hypothesized linear relationships, MLP-ANN was added to assess nonlinear patterns and predictor importance. Using 405 valid questionnaire responses, the model was tested through Partial Least Squares Structural Equation Modeling (PLS-SEM), a Multilayer Perceptron Artificial Neural Network (MLP-ANN), and Necessary Condition Analysis (NCA). PLS-SEM supported nine of ten hypotheses. Self-efficacy positively affected perceived usefulness (β = 0.458, p &amp;lt; 0.001) and perceived ease of use (β = 0.394, p &amp;lt; 0.001). Perceived enjoyment enhanced perceived ease of use (β = 0.220, p &amp;lt; 0.001), but its effect on perce</description>
+</item>
+<item>
+<title>【UK】 Documents</title>
+<link>https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology</link>
+<guid>cc9ada3b4aa1e7095f625c5c68d4c4dbd6beb60cbf04b5c1ca8fda951ac0d284</guid>
+<pubDate>Mon, 02 Nov 2026 16:41:23 GMT</pubDate>
+<description>The Department for Science, Innovation and Technology (DSIT) existed until 2026. Its responsibilities were split across the Department for Business, Innovation, Science and Trade (BIST), the Department for Digital, Culture, Media and Sport (DCMS) and the Cabinet Office.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>02a0f532f535fa37c21f54f5eb66e972b3d3ca7df53ece9b6456414dcc7fc05a</guid>
+<pubDate>Mon, 02 Nov 2026 16:41:34 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
