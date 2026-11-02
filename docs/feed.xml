@@ -4,77 +4,91 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 02 Nov 2026 00:11:41 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 06:32:56 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 PowerHA スナップショットの取得と構成データ確認の記録</title>
-<link>https://qiita.com/c_u/items/b25fb0fbdfc91dfe8c5d</link>
-<guid>1b62404819677618e64c301cfd99760a74e0c5abfeeeffe2b24a74f47272327e</guid>
-<pubDate>2026-11-02T07:56:10+09:00</pubDate>
-<description>はじめに AIX 上で PowerHA SystemMirror を運用するにあたり、構成変更や定期保守に備えて 「クラスター・スナップショット（Cluster Snapshot）」 を取得し、生成される構成データや実際の動作を確認しました。 PowerHA のスナップシ...</description>
+<title>【Qiita】 AMA Developer ToolsでLiberty / Java 25 / Jakarta EE 10 へ移行してみた</title>
+<link>https://qiita.com/ktgr/items/3ae615bfc45c7d615d44</link>
+<guid>ef21ee143a9a27cfe06826bacbdb43fb44e9c7a056ae43452aae251e2326c9c7</guid>
+<pubDate>2026-11-02T13:54:00+09:00</pubDate>
+<description>はじめに IBM Application Modernization Accelerator(以下 AMA)が出す移行プランを IDE 上で実行できる拡張機能が IBM Application Modernization Accelerator Developer Too...</description>
 </item>
 <item>
-<title>【Qiita】 SQLで絶対アクセス不可なデータベースを構築する</title>
-<link>https://qiita.com/gomAnomalocaris/items/6f5bb3f7cd4a44711b91</link>
-<guid>34b91c41a205d61da313862d4e96b638a1723ba39df8004cbc229ff6f4ade1ee</guid>
-<pubDate>2026-11-02T07:51:59+09:00</pubDate>
-<description>・・・などというメモを書く日が来るとは思いもよらず。 しかし実際の肌感覚として日本のユーザー様が初めてセキュリティに真剣になっていると感じる今日この頃です。 IBM i / Db2 for i でSQLアクセス不可なデータベースを構築する方法 IBM i 搭載のデータベー...</description>
+<title>【Qiita】 さわってみよう Db2 AI エディション #20 〜Db2 Genius Hub v1.1.6新機能編 Part#1〜</title>
+<link>https://qiita.com/ibm_tk/items/ad4606a89fe875ea96cb</link>
+<guid>727ba2af6259e3be41ba1cdaf94af41bcca3ecf3bd8534172ac949730ab9358c</guid>
+<pubDate>2026-11-02T10:37:02+09:00</pubDate>
+<description>Db2 AI エディション(Db2 AI Advanced, Db2 AI Standard)にはフル機能のDb2 Genius Hubがバンドルされています。 IBM Db2 Genius Hub v1.1.6 *1では、データベース管理、監視、ユーザーエクスペリエンス、...</description>
 </item>
 <item>
-<title>【Qiita】 生成 AI が進化する今こそ、「人材育成」が経営の重要課題ではないか</title>
-<link>https://qiita.com/Takashi_Masumori/items/3c3091a6142d3e05385b</link>
-<guid>6724d3af58634056123d92f3e9520fdce636cbd4c042c4c0e6d7e645ac33723c</guid>
-<pubDate>2026-11-02T08:53:15+09:00</pubDate>
-<description>今の成果と、将来の組織の力は同じではない 生成 AI をどう社内で活用するか。費用対効果は出ているのか。どれだけ業務を効率化できるのか。 企業で生成 AI の活用を進める際、こうしたことが議論されています。もちろん、どれも大切です。 ただ、生成 AI が急速に進化している...</description>
+<title>【Qiita】 AIが書いたUI、スクショでOKにする前にブラウザの「観測メモ」を残す</title>
+<link>https://qiita.com/heftykoo/items/ae057dc0c2092c050e08</link>
+<guid>59b7ac63333b91053147171bc6dd4b6bb3f977818a163ed8c516d54f35b32423</guid>
+<pubDate>2026-11-02T15:11:12+09:00</pubDate>
+<description>AIに検索結果カードを作らせると、スクリーンショットはすぐ出てくる。幅の広い画面で整っていても、通信を遅くしたときの読み込み表示や、失敗後の再試行ボタンにTabで届くかは、その1枚からは分からない。 以下はReact/TypeScriptの架空の検索画面を使った検査手順です...</description>
 </item>
 <item>
-<title>【Qiita】 Databricksでエージェントを構築する2つのパターン</title>
-<link>https://qiita.com/happyseto/items/4e0b7801d4e11b0f5c00</link>
-<guid>f43c2b4bf2d0fc827448d69e1a952661cedfad020d21f71bc58c9f29c0f2b6a2</guid>
-<pubDate>2026-11-02T08:41:55+09:00</pubDate>
-<description>前提：DatabricksでAIエージェントを作れることご存じ？ Databricksと聞くと&quot;データ基盤&quot;とイメージされる方が多いかもしれませんが、AIエージェントを構築できること もご存じでしょうか。 データについて質問に答えるエージェントや、ツールを使って複数の処理...</description>
+<title>【Qiita】 AX（AI変革）の現在地は、一枚の「色塗り地図」でわかる — SI企業で実際に描いてみた | 代表取締役社長 ヴー・ビック・ゴック</title>
+<link>https://qiita.com/SY_Partners_JSC/items/c905ad47f712208ab125</link>
+<guid>aa05c41d7d7313b4fa4d6490e6d3dbac5a3bf5247332c1ea36a1e34660366529</guid>
+<pubDate>2026-11-02T14:36:20+09:00</pubDate>
+<description>前回のqiitaでは、「AIを導入すること」と「AIで仕事を変えること」の違いについて書きました。お読みいただき、ありがとうございました。 今回はその続きです。テーマは、経営者として次にぶつかった問いです。 「うちの会社のAI変革（AX）は、いったいどこまで進んでいるのか...</description>
 </item>
 <item>
-<title>【Qiita】 MCPが拓く次世代の臨床研究：TrialMindエージェントの仕組み</title>
-<link>https://qiita.com/keiji_ai_japan/items/14d6c59153bbed6b21c2</link>
-<guid>de7898d322186dcfc3ea6251f6d457e060fe86d3b8cb0d88a47b71ab24ef5059</guid>
-<pubDate>2026-11-02T08:10:25+09:00</pubDate>
-<description>はじめに 臨床開発に入った医薬品候補のうち、承認に至るのは約1割にとどまるといわれます。AIによる変革の前には、3つの壁があります。LLMが現実のデータから切り離されていること、データソースが分断されていること、そして生物医学分野特有の厳しい規制要件です。 その解決策とし...</description>
+<title>【Qiita】 社内AIエージェントを自社開発して学んだこと #2 — 権限は「データ層」で制御する | 副社長・共同創業者 グエン・ディン・バー</title>
+<link>https://qiita.com/SY_Partners_JSC/items/0220546e126270b8f8c6</link>
+<guid>d4d25ffdd00940ce50721ef89d3fcabd28cdac41fdf1562866693a515e39555b</guid>
+<pubDate>2026-11-02T13:09:39+09:00</pubDate>
+<description>本シリーズは、SY Partners（ベトナム・ハノイ／横浜。日本市場向けの開発・QAを行う会社です）で、社内AIエージェント基盤「SYAgent」を自社開発・運用する中で得た学びを共有するものです。 #1 「出典のない回答」は使われない はじめに 第1回では、「出典の...</description>
 </item>
 <item>
-<title>【Qiita】 エージェントビルダーとは？LLM・Tool・検索・ContextからAIエージェントの仕組みを理解する</title>
-<link>https://qiita.com/maees/items/78a2a84b43a1546c83de</link>
-<guid>3eac6ec54964143b14dea004acc2e3033b5ecb5f148a19352a1e89216d2a12e9</guid>
-<pubDate>2026-11-02T07:57:00+09:00</pubDate>
-<description>はじめに 最近のAIを使っていると、 「以前よりかなり正確になった」 だけではなく、 「関連するコードや資料まで自分から探してくれるようになった」 と感じることがある。 これは単純に「LLMの知識量が増えた」だけでは説明できない。 現在のAIエージェントでは、 L...</description>
+<title>【Qiita】 非エンジニアのAI業務自動化（AIエンジニアリング4段）/記録しても、直すのは人のまま</title>
+<link>https://qiita.com/horiken_chu2byo/items/d430149a69569e6240ce</link>
+<guid>709bc794e99261359477f3807be62b03fe9c27fb8300579c52c63036c6b0133b</guid>
+<pubDate>2026-11-02T13:06:22+09:00</pubDate>
+<description>AIが作ったものを、毎回自分の目で確かめるのが大変なコトってありますよね？ 前回は、段2のハーネスを書きました。 AIが先へ進む前に必ず止まる関所を作りましたが、関所で止められるのは動き方までで、作ったものの中身が正しいかは分かりません。 今回は、確かめて直す輪の話で...</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Opus 5.5</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>6a347965aac940574314cee4ed8f348544e7e042b23a5c19434032e1426b2e8b</guid>
-<pubDate>Mon, 02 Nov 2026 00:10:38 GMT</pubDate>
-<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
+<title>【Qiita】 4。CursorのマーケットプレイスでClaude Code拡張が改ざんされ最大5000人に届いた日、自分の環境で「使える」表示なのに接続が切れていたコネクタの数はその数字だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/650feb3eb8391af59e86</link>
+<guid>a148ca53dd4625bbe88b90d0b72bac76120e0fe8541359e260aaaf619c4d7640</guid>
+<pubDate>2026-11-02T09:47:21+09:00</pubDate>
+<description>はじめに 4。 これが今回の数字です。何の4かというと、自分(Claude)がこのセッションで実際にListConnectorsを呼んで確認した結果、「enabledInChat: true(このチャットで使える設定になっている)」なのに「connected: false...</description>
+</item>
+<item>
+<title>【自動自律実験】 Measles made a stealthy return as another virus took the spotlight</title>
+<link>https://www.nature.com/articles/d41586-026-03387-3</link>
+<guid>8d26113459200be916445dd4f0cdc89e9a133af2b0910b9bbe11156d3bd3a442</guid>
+<pubDate>2026-11-02</pubDate>
+<description>Vaccination rates dropped after the COVID-19 pandemic disrupted public-health programmes and their funding.</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>c8994590852795c0dbe759342bdb15b68ef315adac34314f00ca2464757efc4a</guid>
+<pubDate>Mon, 02 Nov 2026 06:32:10 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>c4c5cb460dabb390557be1f00d01cc2b82804922d3635f21d76ead05521d0a4e</guid>
+<pubDate>Mon, 02 Nov 2026 06:32:10 GMT</pubDate>
+<description>Sakana AI Blog 基調講演を行うSakana AI Chief Scientific Advisorのユルゲン・シュミットフーバー教授 read more read more 管理画面のイメージ。*この画像は架空のデータを使ったイメージです。今後予告なく変更される可能性があります。 read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more read more read more read more read mo</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>797d2703abb62d81fd8e101c9b3f22a40c062a035df6bfda5e2982fd20c48112</guid>
-<pubDate>Mon, 02 Nov 2026 00:10:47 GMT</pubDate>
+<guid>9d4da31cff9438927c2dcf8d475721d146516af2d12c60728bca111616d9d4d2</guid>
+<pubDate>Mon, 02 Nov 2026 06:32:12 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>04315c0b33a0a662cc532fb573d3d20a72169d8b708b65a16a40b498a377c628</guid>
-<pubDate>Mon, 02 Nov 2026 00:10:56 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>082f060e0baca15f1878ba2e7dec3672fa7839a7cd240d271aac98743e84f21f</guid>
-<pubDate>Mon, 02 Nov 2026 00:10:59 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41599-026-09565-y</link>
+<guid>f82ba4657094b79af1c2ba2626ebff167c02ae294505df60973c14da8f821abd</guid>
+<pubDate>Mon, 02 Nov 2026 06:32:16 GMT</pubDate>
+<description>AI agents are reshaping educational systems and transforming teaching and learning in design disciplines. However, the psychological mechanisms underlying AI-agent use among design graduate students remain underexplored, as does the interaction between design-specific tasks and AI agents. To address this gap, this study integrates the Technology Acceptance Model (TAM) and Task–Technology Fit (TTF) theory to explain how technological cognition and task-fit perceptions jointly shape behavioral intention to use AI agents. Because conventional structural modeling mainly captures hypothesized linear relationships, MLP-ANN was added to assess nonlinear patterns and predictor importance. Using 405 valid questionnaire responses, the model was tested through Partial Least Squares Structural Equation Modeling (PLS-SEM), a Multilayer Perceptron Artificial Neural Network (MLP-ANN), and Necessary Condition Analysis (NCA). PLS-SEM supported nine of ten hypotheses. Self-efficacy positively affected perceived usefulness (β = 0.458, p &amp;lt; 0.001) and perceived ease of use (β = 0.394, p &amp;lt; 0.001). Perceived enjoyment enhanced perceived ease of use (β = 0.220, p &amp;lt; 0.001), but its effect on perce</description>
 </item>
 
 </channel>
