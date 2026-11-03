@@ -4,77 +4,155 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 03 Nov 2026 04:36:17 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 12:30:37 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AI エージェントに本番 DB を触らせる前に決めておく 3 つのこと（権限・経路・確認）</title>
-<link>https://qiita.com/selene-nyx-ai/items/44cb61045c5e9d8f823e</link>
-<guid>f38d119ac37d05372e4337602c786b47848f313d0be6869d34604037b6ce4394</guid>
-<pubDate>2026-11-03T13:09:10+09:00</pubDate>
-<description>一人で Web サービスを運営し、Claude Code や Codex に本番 DB の調査を任せ始めると、次に迷うのが「修正まで任せるか」です。「ついでにこのレコードも直して」と頼んだ瞬間に、人が書いていない UPDATE / DELETE が本番に届く経路ができます。...</description>
+<title>【Qiita】 営業こそコミュニティでは「No sell」でいよう</title>
+<link>https://qiita.com/sadabon444/items/83535ce9f3dd7d56600e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>ff29fe47b8893a3c9b2e1fa6560319d584b1854480d4d4e9f324bab772481c0c</guid>
+<pubDate>2026-11-03T13:13:45+09:00</pubDate>
+<description>この記事は100%人力で書いています。 忘れもしない、しばらく前のこと。 とあるITコミュニティに、同僚の営業職が参加した。 私は営業職ながら、そのコミュニティや、コミュニティにいる方々を良く知っている。 そのため、善意で色んな人を繋ごうと、紹介しようとした。 「こ...</description>
 </item>
 <item>
-<title>【Qiita】 Pythonのsubprocessがタイムアウトしても子プロセスが残る｜shell=True・パイプ待ち・setsid＋ダブルフォークの限界</title>
-<link>https://qiita.com/cauchye_asia/items/1b61a324fa4f533ea169</link>
-<guid>6c8466f40bcb6322580b311d6290f8684ca3e6785a03e9e4095cb9965f5edb11</guid>
-<pubDate>2026-11-03T12:16:43+09:00</pubDate>
-<description>TL;DR この環境では、subprocess.run(&quot;...&quot;, shell=True, timeout=1) は1.0秒で TimeoutExpired を出しました。しかし止まったのはシェルだけで、孫の sleep が1件残りました。 kill() のあとに ...</description>
+<title>【Qiita】 IBM BobからObsidianを操作する（ACP）</title>
+<link>https://qiita.com/teruq/items/ae9f063169acc25d6be5</link>
+<guid>18b4cd8e162370f6eb30271b420bdf422c064b2693f60d3b376ee08d19e7c512</guid>
+<pubDate>2026-11-03T20:33:08+09:00</pubDate>
+<description>目的 自分のPCで動いているObsidianをIBM BobからACPで利用出来るようにします。 過去記事ではMCPを使ってBobからObsidianを操作するという発想でしたが、今回はObsidianからACPを使ってIBM Bobと連携するという発想です。Obsidi...</description>
 </item>
 <item>
-<title>【Qiita】 タイトル: PHP で API を書いているエンジニアが、AI エージェントにレビューの決まりを持たせて、FPS の履歴書ツールを作った話</title>
-<link>https://qiita.com/bachikawa/items/75002e519da06fb7c9eb</link>
-<guid>71c0fdb0eecadcdf28aaac451cf3e34bc3ec3cd0dff659f8c2e1b883e8ef6b8f</guid>
-<pubDate>2026-11-03T12:13:27+09:00</pubDate>
-<description>はじめに FPS ゲーム「VALORANT」のプレイヤー向けに、所属歴・担当ロール・大会実績を 1 枚にまとめる「プレイヤー履歴書」の作成ツール VALOFOLIO を作って公開しました。 私は、自社開発の企業で API を作っているエンジニアです。会社では、最近...</description>
+<title>【Qiita】 Foundry Prompt Agent から APIM 経由でモデル呼出(閉域環境)</title>
+<link>https://qiita.com/FukuharaYohei/items/e24e1c676177caf490da</link>
+<guid>278825151bcc24225e1e7f2a9969a279425f8cb128e877fc2c4333997a1c08e2</guid>
+<pubDate>2026-11-03T17:09:12+09:00</pubDate>
+<description>本記事記述および実装内容は、多くの部分をAIで処理しており、人間チェックは甘いです Foundry の Prompt Agent から API Management (APIM) 経由で Foundry のモデルを呼ぶ構成 (BYOM) を、Private Netw...</description>
 </item>
 <item>
-<title>【Qiita】 LLMへのシステムプロンプトを固定化することで反応速度の向上と使用するTOKEN量を減らせる？</title>
-<link>https://qiita.com/kataoka_se_sionic/items/ee9f293f18b1a1fdc2b4</link>
-<guid>a7f5b95b644d0fa05bbc2e4eda54ab0422cf91f2b6ea5936e226ae419660ca92</guid>
-<pubDate>2026-11-03T12:04:01+09:00</pubDate>
-<description>この記事の目的 AI チャットボットのようなユースケースの場合、AIに システムプロンプト を渡し、ユーザーからのメッセージ をどう扱うかを指示します。 ユースケースに依存しますが、ユーザーメッセージよりもシステムプロンプトがはるかに大きく支配的なケースが多いのではないか...</description>
+<title>【Qiita】 AIエージェントの土台設計</title>
+<link>https://qiita.com/pitaspot/items/09c5a5fe98cf7a09e5be</link>
+<guid>6100e98fcfa9ba237ea17a64533a7ba9cd27b75951256a4c354e8e021de5b988</guid>
+<pubDate>2026-11-03T21:24:16+09:00</pubDate>
+<description>📰 今日のZenn記事 元記事：LLMエージェントの土台（ランタイム）を設計する：ループ・終了条件・非同期実行（Zenn） AIエージェント（目標を渡すと、AIが自分で道具を使いながら作業を進める仕組み）を、実際のサービスとして安定して動かすための土台の設計を扱...</description>
 </item>
 <item>
-<title>【Qiita】 Ollama v0.34入門、プロンプトキャッシュで評価時間が3.6倍速くなった</title>
-<link>https://qiita.com/kai_kou/items/cdd951ac2efd50dfeb52</link>
-<guid>bc34466749e042b4911040433a85e7b9cfb8f09c0ca6cbf4ac20d0c6a2f45466</guid>
-<pubDate>2026-11-03T09:10:08+09:00</pubDate>
-<description>はじめに Ollama は 2026 年 8 月から 9 月にかけて v0.33.0 から v0.34.0 まで一気に版を重ね、Claude Desktop / ChatGPT Desktop へのゲートウェイ統合、MLX エンジンのマルチモーダル対応、プロンプトキャッシ...</description>
+<title>【Qiita】 AIエージェントをチーム開発で活用するには？実行とタスク管理を分けて考える</title>
+<link>https://qiita.com/hervekom37/items/da753c6fcd5ed4e35ca6</link>
+<guid>708315b3b59781d3014e4b70b6dae98e1b859e159ac4c6a6540bbc1ddcb4eaf3</guid>
+<pubDate>2026-11-03T20:40:20+09:00</pubDate>
+<description>AIエージェントを開発チームに導入するとき、モデルの性能やコード生成能力に注目することが多いと思います。 しかし、複数のエージェントを利用する場合、実行能力以外にも考えるべきことがあります。 誰がタスクを担当しているのか どのエージェントが作業中なのか 進捗やブロッカーをど...</description>
 </item>
 <item>
-<title>【Qiita】 31。Anthropicが『医療・金融には人間監視が必須』と利用ポリシーを改定した日、自分の機密ガードレールはその日数前から存在していた</title>
-<link>https://qiita.com/Hideki_Tamae/items/02362ac63be6926504b7</link>
-<guid>8ecbcdc849104dd1400c3c33fb4408ef3322e5104a3db5cec6da6a7773677d23</guid>
-<pubDate>2026-11-03T09:47:26+09:00</pubDate>
-<description>はじめに 31。 これが今回の数字です。Anthropicが2026年10月8日に発表した「2026年版 Usage Policy改定」(施行日は2026年11月12日)には、医療・金融など「高リスク用途」に関わる場合、適切な権限を持つ人間を判断プロセスに挟み(human...</description>
+<title>【Qiita】 【ざっくり理解】Poteto Modeとは？ AIコーディングエージェントに「動く証拠」を求める仕事の進め方</title>
+<link>https://qiita.com/Tadataka_Takahashi/items/a2fe82f1a2a661b6ebe2</link>
+<guid>4bf47bfd8a642b7a5bd92d2ace4bf056b7199a1827b083d25a86c620ad617df9</guid>
+<pubDate>2026-11-03T20:19:54+09:00</pubDate>
+<description>はじめに Claude CodeやCursorなどのAIコーディングエージェントに不具合修正を頼んだとき、「コードは直したと言っているけれど、本当に問題が解消したのだろうか」と感じることがあります。 そこで気になったのが、Lauren Tanさん（@poteto）が公開...</description>
 </item>
 <item>
-<title>【自動自律実験】 Chinese PhD students in clinical medicine can graduate without a thesis — more degrees to follow</title>
-<link>https://www.nature.com/articles/d41586-026-03480-7</link>
-<guid>7dd6ab8a58f08ce043a9fa16ff187724d23a5ce8ffa65994e15a1331976b4083</guid>
+<title>【Qiita】 「24時間動くAI」は本当に新しいのか？ 常駐型エージェントを整理する【後編】</title>
+<link>https://qiita.com/Xim2jp/items/b62be1892cb8885b4aca</link>
+<guid>eddc0cac0db311c693a888d41d18f85e6b9193c9dd32a6517db803c5b072c766</guid>
+<pubDate>2026-11-03T20:01:46+09:00</pubDate>
+<description>前編では「常駐型AIは、LLMが考え続けるのではなく、待機する仕組みが必要なときにLLMを呼ぶ」と整理しました。後編では、その起動の仕組みと、OSSと大手サービスの関係を扱っています。 AIが「自分から」動いて見える理由 LLMの手前にオーケストレーター（常駐するプログラ...</description>
+</item>
+<item>
+<title>【Qiita】 1.7万件のログが暴くAIエージェント侵入 — 守る側だけがAIに制約された理由</title>
+<link>https://qiita.com/kai_kou/items/d2ac058def5170b8a81b</link>
+<guid>32466d3a64d3ad62007410240f964685dfaffc83058f01207e59df732bbfa5ab</guid>
+<pubDate>2026-11-03T16:09:10+09:00</pubDate>
+<description>はじめに 「社内の評価環境だから、多少の権限があっても外には影響しない」——エージェント型AIの検証環境を設計するとき、こう考えたことがある人は少なくないはずです。しかし2026年7月、OpenAIの評価用AIエージェントが実際にその前提を破り、社内の研究環境から出発して...</description>
+</item>
+<item>
+<title>【Qiita】 57。Anthropicが上場目論見書(S-1)を一般公開した日、自分の定期自動投稿タスクの指示書が最後に更新されてから経っていた日数</title>
+<link>https://qiita.com/Hideki_Tamae/items/23270aa01878862bc760</link>
+<guid>635c02eaee8490c64b40f145d2cf2b4bd5fac5d4e612d005e089d5dc9342c3ad</guid>
+<pubDate>2026-11-03T15:29:18+09:00</pubDate>
+<description>はじめに 57。 これが今回の数字です。複数の報道によると、Anthropicは2026年10月26日、新規株式公開(IPO)に向けた登録届出書(S-1)を一般公開しました。上場企業になった瞬間から、その会社は四半期ごとに最新の財務・事業状況を開示し続ける義務(10-Q、...</description>
+</item>
+<item>
+<title>【環境】 Time to drop the no-policy business-as-usual baselines</title>
+<link>https://www.nature.com/articles/s41558-026-02787-7</link>
+<guid>ed5f4965307929d39fbb41b19b1f94fc45d34872e59cca1e16ee527361f9b058</guid>
 <pubDate>2026-11-03</pubDate>
-<description>This expands the country&#x27;s ‘practical PhD’ programme beyond engineering students.</description>
+<description>Baseline construction shapes estimates of mitigation cost, ambition and progress, while no-policy counterfactuals could vary with choices about policy, technology and development. Rather than relying on one constructed baseline, assessments and related conclusions should be compared across plausible baselines</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Opus 5.5</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>ed92ac5bcd8258b723157c2d14c6c732294f63789ee5d076eaac93e4279f8c18</guid>
-<pubDate>Tue, 03 Nov 2026 04:35:37 GMT</pubDate>
-<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
+<title>【環境】 Zero emissions commitment depends on warming level</title>
+<link>https://www.nature.com/articles/s41558-026-02776-w</link>
+<guid>8db57e448df9da524b76338b162a995e67d04810a935bdeb0e3b412f0d1a5856</guid>
+<pubDate>2026-11-03</pubDate>
+<description>The global temperature change that happens after emissions cease is expected to be close to zero. Here the authors use model simulations to show that this zero emissions commitment depends on the warming level at which emissions cease and might be positive for higher warming.</description>
+</item>
+<item>
+<title>【自動自律実験】 Research bonuses need clear and fair rules</title>
+<link>https://www.nature.com/articles/d41586-026-03562-6</link>
+<guid>2a1bb2e8c425b7f83cefe0020e110ef51be9729df16f23c7a8df35f9a3759960</guid>
+<pubDate>2026-11-03</pubDate>
+<description>Research bonuses need clear and fair rules</description>
+</item>
+<item>
+<title>【自動自律実験】 Safety alerts must reach visiting PhD students</title>
+<link>https://www.nature.com/articles/d41586-026-03560-8</link>
+<guid>1cc8c9bdfcf4d171d0bceb4557a259227e68961a35c46296731e11afe098aa6b</guid>
+<pubDate>2026-11-03</pubDate>
+<description>Safety alerts must reach visiting PhD students</description>
+</item>
+<item>
+<title>【自動自律実験】 Universities must measure learning, both with and without AI assistance</title>
+<link>https://www.nature.com/articles/d41586-026-03559-1</link>
+<guid>44ed84c7214aaeef2a8a815f66bda728b8e1e8a8860a6ca30cc990547846b317</guid>
+<pubDate>2026-11-03</pubDate>
+<description>Universities must measure learning, both with and without AI assistance</description>
+</item>
+<item>
+<title>【自動自律実験】 China should share the evidence behind animal-testing alternatives openly</title>
+<link>https://www.nature.com/articles/d41586-026-03561-7</link>
+<guid>7adac8dfeffa054eeb9dcb54e183242a5a91f93ad0af29a2fc39e8935af8dc4f</guid>
+<pubDate>2026-11-03</pubDate>
+<description>China should share the evidence behind animal-testing alternatives openly</description>
+</item>
+<item>
+<title>【自動自律実験】 Will AI grant reviews make science more conservative?</title>
+<link>https://www.nature.com/articles/d41586-026-03340-4</link>
+<guid>c8d7cab3ac204d9072c9cc670dbe0d9b5f28db41b4c87e58597fa59a1ce07e91</guid>
+<pubDate>2026-11-03</pubDate>
+<description>Researchers are questioning whether outsourcing decisions about research funding to artificial intelligence will reduce scientific novelty.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
-<guid>803dcadd8ea6d2953f407418d6f304eea98a034829fcc5f751670c8bf925ec53</guid>
-<pubDate>Tue, 03 Nov 2026 04:35:41 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>d67e903d34eddfcc875cfaacd02e4edc0d8ae6a5140672ba2728073f6c7005eb</guid>
+<pubDate>Tue, 03 Nov 2026 12:29:48 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>533e8abeee5013d30a40532d15843aa0985bbf2bb29c376614fdc32ebffaa766</guid>
-<pubDate>Tue, 03 Nov 2026 04:35:44 GMT</pubDate>
+<guid>e80befeab279f1eb28a58dec773491b1df19035655769da97e4b4711078bd0e4</guid>
+<pubDate>Tue, 03 Nov 2026 12:29:51 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41599-026-09565-y</link>
+<guid>fcb0a11db634fa3bc8f54267fc1264f47f93d2f83f25054bcd6a600c8d7b94c7</guid>
+<pubDate>Tue, 03 Nov 2026 12:29:54 GMT</pubDate>
+<description>AI agents are reshaping educational systems and transforming teaching and learning in design disciplines. However, the psychological mechanisms underlying AI-agent use among design graduate students remain underexplored, as does the interaction between design-specific tasks and AI agents. To address this gap, this study integrates the Technology Acceptance Model (TAM) and Task–Technology Fit (TTF) theory to explain how technological cognition and task-fit perceptions jointly shape behavioral intention to use AI agents. Because conventional structural modeling mainly captures hypothesized linear relationships, MLP-ANN was added to assess nonlinear patterns and predictor importance. Using 405 valid questionnaire responses, the model was tested through Partial Least Squares Structural Equation Modeling (PLS-SEM), a Multilayer Perceptron Artificial Neural Network (MLP-ANN), and Necessary Condition Analysis (NCA). PLS-SEM supported nine of ten hypotheses. Self-efficacy positively affected perceived usefulness (β = 0.458, p &amp;lt; 0.001) and perceived ease of use (β = 0.394, p &amp;lt; 0.001). Perceived enjoyment enhanced perceived ease of use (β = 0.220, p &amp;lt; 0.001), but its effect on perce</description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>352d6f87e959833e57b8c5aa152348514df715b83c3869adb88b047b2db4da38</guid>
+<pubDate>Tue, 03 Nov 2026 12:29:54 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>46ba7f2e8f3ca7410ab9dde5ea335bbf25f803c59b391449c0212f707b22d72b</guid>
+<pubDate>Tue, 03 Nov 2026 12:30:17 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
