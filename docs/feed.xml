@@ -4,105 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 02 Nov 2026 23:45:31 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 04:36:17 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 APEXlangでVibe Coding：画面デザイン集</title>
-<link>https://qiita.com/araidon/items/d38d616dce3b3e3109c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>4c1f983e32fad22e9f347ddc2c5d60b3d22ee3c81732cfdd514fed0dd008136d</guid>
-<pubDate>2026-10-31T22:58:17+09:00</pubDate>
-<description>APEXの画面をいろいろ作ってみてます APEXというと、標準の表やフォームを並べた、お決まりの見た目を想像するかもしれません。でも、APEXの画面はもっと自由に変えられます。 APEXlangを使って、HTMLやCSSでAPEXの見た目をどこまで変えられるか、いろいろ試...</description>
+<title>【Qiita】 AI エージェントに本番 DB を触らせる前に決めておく 3 つのこと（権限・経路・確認）</title>
+<link>https://qiita.com/selene-nyx-ai/items/44cb61045c5e9d8f823e</link>
+<guid>f38d119ac37d05372e4337602c786b47848f313d0be6869d34604037b6ce4394</guid>
+<pubDate>2026-11-03T13:09:10+09:00</pubDate>
+<description>一人で Web サービスを運営し、Claude Code や Codex に本番 DB の調査を任せ始めると、次に迷うのが「修正まで任せるか」です。「ついでにこのレコードも直して」と頼んだ瞬間に、人が書いていない UPDATE / DELETE が本番に届く経路ができます。...</description>
 </item>
 <item>
-<title>【Qiita】 Microsoft Student Ambassadorsとは？ なり方を画面つきで解説！</title>
-<link>https://qiita.com/shahin0809/items/2365fbcb09411bb3e51c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>747cbbd5afd864331aa58d7d2da049d645bb2994f8021504318f415cde0ae094</guid>
-<pubDate>2026-11-02T17:10:11+09:00</pubDate>
-<description>Swags Microsoft Student Ambassadorになると、こんな素敵なSwagsももらえます！ Swagsは、マイルストーンごとにもらえるものが変わります。Associate用、Senior用のスワッグがあり、上がるほど特典が増えていきます（詳し...</description>
+<title>【Qiita】 Pythonのsubprocessがタイムアウトしても子プロセスが残る｜shell=True・パイプ待ち・setsid＋ダブルフォークの限界</title>
+<link>https://qiita.com/cauchye_asia/items/1b61a324fa4f533ea169</link>
+<guid>6c8466f40bcb6322580b311d6290f8684ca3e6785a03e9e4095cb9965f5edb11</guid>
+<pubDate>2026-11-03T12:16:43+09:00</pubDate>
+<description>TL;DR この環境では、subprocess.run(&quot;...&quot;, shell=True, timeout=1) は1.0秒で TimeoutExpired を出しました。しかし止まったのはシェルだけで、孫の sleep が1件残りました。 kill() のあとに ...</description>
 </item>
 <item>
-<title>【Qiita】 AIの運用キットを固定して14回回したら、同じ計画・同じモデルの2回でも7組中5組で落ちた項目が違った</title>
-<link>https://qiita.com/kaiyaku_iyada/items/0c7d76ceebd915db5b26</link>
-<guid>d3a69636453c63419efe0fa390736c2eab0c1c37ed12c7f7d58fe0e1828f01ec</guid>
-<pubDate>2026-11-03T08:03:29+09:00</pubDate>
-<description>この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。個人の実験で、Anthropic社とは無関係です。同社の公認や提携ではありません。書いてあるのは、2026年10月21日に回した予行の採点の記録と、...</description>
+<title>【Qiita】 タイトル: PHP で API を書いているエンジニアが、AI エージェントにレビューの決まりを持たせて、FPS の履歴書ツールを作った話</title>
+<link>https://qiita.com/bachikawa/items/75002e519da06fb7c9eb</link>
+<guid>71c0fdb0eecadcdf28aaac451cf3e34bc3ec3cd0dff659f8c2e1b883e8ef6b8f</guid>
+<pubDate>2026-11-03T12:13:27+09:00</pubDate>
+<description>はじめに FPS ゲーム「VALORANT」のプレイヤー向けに、所属歴・担当ロール・大会実績を 1 枚にまとめる「プレイヤー履歴書」の作成ツール VALOFOLIO を作って公開しました。 私は、自社開発の企業で API を作っているエンジニアです。会社では、最近...</description>
 </item>
 <item>
-<title>【Qiita】 テキスト一括置換アプリ開発。「ツールは探す時代から作る時代に」を実感したAIとの問答</title>
-<link>https://qiita.com/StayHomeLabNet/items/cbdf5687c03ca2ca2754</link>
-<guid>ea10efb6cb0e4d500b140824a59b0750627480d593dd24c3d717f5226505752c</guid>
-<pubDate>2026-11-03T08:00:58+09:00</pubDate>
-<description>複数ファイルのテキストを一括置換できるアプリとして、長年使用してきたspeeeeedを今風にしようかなという思いつきで始まりました。AI への最初の指示が３つ。使用したモデルは、GPT-5.6 Sol 中です。 最初に ChatGPT のチャットモードで AI に投げたの...</description>
+<title>【Qiita】 LLMへのシステムプロンプトを固定化することで反応速度の向上と使用するTOKEN量を減らせる？</title>
+<link>https://qiita.com/kataoka_se_sionic/items/ee9f293f18b1a1fdc2b4</link>
+<guid>a7f5b95b644d0fa05bbc2e4eda54ab0422cf91f2b6ea5936e226ae419660ca92</guid>
+<pubDate>2026-11-03T12:04:01+09:00</pubDate>
+<description>この記事の目的 AI チャットボットのようなユースケースの場合、AIに システムプロンプト を渡し、ユーザーからのメッセージ をどう扱うかを指示します。 ユースケースに依存しますが、ユーザーメッセージよりもシステムプロンプトがはるかに大きく支配的なケースが多いのではないか...</description>
 </item>
 <item>
-<title>【Qiita】 BluetoothのないUbuntuで、MuseにBlenderのモデル作成・編集を任せてみた</title>
-<link>https://qiita.com/wahhooi/items/e60536d045627164ef72</link>
-<guid>363161809f5fee8c65ed32ce29b5c4dc6d2f5c119dd9c211bd0706547e04f2ae</guid>
-<pubDate>2026-11-03T07:42:00+09:00</pubDate>
-<description>Museで、自分のPCにある3Dモデルを操作できるか試しました。公式のMuse Gadget SDKをUbuntuに入れ、Blenderでロボットを作成。その後、保存したモデルを開いて片腕を上げるところまで動きました。 途中で詰まったのはBluetoothです。作業用PCに...</description>
+<title>【Qiita】 Ollama v0.34入門、プロンプトキャッシュで評価時間が3.6倍速くなった</title>
+<link>https://qiita.com/kai_kou/items/cdd951ac2efd50dfeb52</link>
+<guid>bc34466749e042b4911040433a85e7b9cfb8f09c0ca6cbf4ac20d0c6a2f45466</guid>
+<pubDate>2026-11-03T09:10:08+09:00</pubDate>
+<description>はじめに Ollama は 2026 年 8 月から 9 月にかけて v0.33.0 から v0.34.0 まで一気に版を重ね、Claude Desktop / ChatGPT Desktop へのゲートウェイ統合、MLX エンジンのマルチモーダル対応、プロンプトキャッシ...</description>
 </item>
 <item>
-<title>【Qiita】 NVIDIAの期待のLLMモデル：Nemotron 3.5 Super VL をベンチマーク測定 ～ 一部でQwen3.8-Flash-Next を上回る性能！</title>
-<link>https://qiita.com/nabe2030/items/fe4261db16d9b269a8e0</link>
-<guid>fa4a4fa663a8ba62f103e204f091720c324b54ea8b114a188812ff247120343e</guid>
-<pubDate>2026-11-03T06:35:59+09:00</pubDate>
-<description>NVIDIA が 2026 年 10 月 15 日に公開した Nemotron 3.5 Super VL を、DGX Spark 1 台で測りました。当ラボの定型 4 軸（速度・日本語知識・コーディング・マルチモーダル）に加えて、AI エージェントとして企業サーバを調べて直...</description>
+<title>【Qiita】 31。Anthropicが『医療・金融には人間監視が必須』と利用ポリシーを改定した日、自分の機密ガードレールはその日数前から存在していた</title>
+<link>https://qiita.com/Hideki_Tamae/items/02362ac63be6926504b7</link>
+<guid>8ecbcdc849104dd1400c3c33fb4408ef3322e5104a3db5cec6da6a7773677d23</guid>
+<pubDate>2026-11-03T09:47:26+09:00</pubDate>
+<description>はじめに 31。 これが今回の数字です。Anthropicが2026年10月8日に発表した「2026年版 Usage Policy改定」(施行日は2026年11月12日)には、医療・金融など「高リスク用途」に関わる場合、適切な権限を持つ人間を判断プロセスに挟み(human...</description>
 </item>
 <item>
-<title>【自動自律実験】 What tech entrepreneurs can teach scientists about failure</title>
-<link>https://www.nature.com/articles/d41586-026-03485-2</link>
-<guid>2f1047cf7d9de717cf8f2d95489f51bf1bc956070924f5ed7c10d851247c9131</guid>
-<pubDate>2026-11-02</pubDate>
-<description>Start-up founders routinely talk about their failed companies. Academia could learn from them, says Mary Ryan.</description>
+<title>【自動自律実験】 Chinese PhD students in clinical medicine can graduate without a thesis — more degrees to follow</title>
+<link>https://www.nature.com/articles/d41586-026-03480-7</link>
+<guid>7dd6ab8a58f08ce043a9fa16ff187724d23a5ce8ffa65994e15a1331976b4083</guid>
+<pubDate>2026-11-03</pubDate>
+<description>This expands the country&#x27;s ‘practical PhD’ programme beyond engineering students.</description>
 </item>
 <item>
-<title>【Google Research】 Addressing critical healthcare challenges</title>
-<link>https://goo.gle/amie</link>
-<guid>2b0e1aba6fb8271a7d920d9d5671a5f5ccc8d502822717bf5b724f5785db765f</guid>
-<pubDate>Mon, 02 Nov 2026 23:44:41 GMT</pubDate>
-<description>Google&#x27;s research medical AI</description>
+<title>【Anthropic】 Introducing Claude Opus 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>ed92ac5bcd8258b723157c2d14c6c732294f63789ee5d076eaac93e4279f8c18</guid>
+<pubDate>Tue, 03 Nov 2026 04:35:37 GMT</pubDate>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>880858a1a3a9730b651455a1964fc765664a5d547665e2bb8f9ddd0406c0266f</guid>
-<pubDate>Mon, 02 Nov 2026 23:44:44 GMT</pubDate>
+<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
+<guid>803dcadd8ea6d2953f407418d6f304eea98a034829fcc5f751670c8bf925ec53</guid>
+<pubDate>Tue, 03 Nov 2026 04:35:41 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>7a2c449c75d63e4748c2ef8f3e7e95e090ccc9a2fead116e60b4de602d7a33a7</guid>
-<pubDate>Mon, 02 Nov 2026 23:44:47 GMT</pubDate>
+<guid>533e8abeee5013d30a40532d15843aa0985bbf2bb29c376614fdc32ebffaa766</guid>
+<pubDate>Tue, 03 Nov 2026 04:35:44 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41599-026-09565-y</link>
-<guid>e7ccfdcc7df477557dffbe77475aab7d32e6eb18b572b0fc3fa088260a71486c</guid>
-<pubDate>Mon, 02 Nov 2026 23:44:50 GMT</pubDate>
-<description>AI agents are reshaping educational systems and transforming teaching and learning in design disciplines. However, the psychological mechanisms underlying AI-agent use among design graduate students remain underexplored, as does the interaction between design-specific tasks and AI agents. To address this gap, this study integrates the Technology Acceptance Model (TAM) and Task–Technology Fit (TTF) theory to explain how technological cognition and task-fit perceptions jointly shape behavioral intention to use AI agents. Because conventional structural modeling mainly captures hypothesized linear relationships, MLP-ANN was added to assess nonlinear patterns and predictor importance. Using 405 valid questionnaire responses, the model was tested through Partial Least Squares Structural Equation Modeling (PLS-SEM), a Multilayer Perceptron Artificial Neural Network (MLP-ANN), and Necessary Condition Analysis (NCA). PLS-SEM supported nine of ten hypotheses. Self-efficacy positively affected perceived usefulness (β = 0.458, p &amp;lt; 0.001) and perceived ease of use (β = 0.394, p &amp;lt; 0.001). Perceived enjoyment enhanced perceived ease of use (β = 0.220, p &amp;lt; 0.001), but its effect on perce</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43586-026-00542-y</link>
-<guid>43460abff7b933067eebae8abf6eae01e800646113595d5f4056fa0b2dcccf62</guid>
-<pubDate>Mon, 02 Nov 2026 23:44:53 GMT</pubDate>
-<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
-</item>
-<item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>d70dcbbf6a5d401129e38b52fe86c77882eacaf07bbdcc9871ea26274ae323b4</guid>
-<pubDate>Mon, 02 Nov 2026 23:44:57 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>91b2f9e990a18163851c8c8bf7c96cb708576aa83ebdc6bb6410992ad89d32ef</guid>
-<pubDate>Mon, 02 Nov 2026 23:45:15 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
