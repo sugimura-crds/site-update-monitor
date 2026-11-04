@@ -4,98 +4,113 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 04 Nov 2026 14:58:26 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 21:02:29 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 どっちが人間？ AIで声をクローンして、本人と聞き比べてみた</title>
-<link>https://qiita.com/nakata-sapeet/items/f883c3cf009785c51bcc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>9c8fe786105e8e6aab9a6fe98caec07b70d2b53b6a3bf8dc665ecae24a2d8af3</guid>
-<pubDate>2026-11-04T09:30:10+09:00</pubDate>
-<description>どっちが人間？ いきなりですが、クイズです。 下の2つの音声、片方は本人がしゃべった声で、もう片方は AI が作った声です。どっちが本物か、わかりますか？ (403エラーが発生する場合はシークレットウィンドウで再生可能か試してください。) 音声A 音声B 正解はこちら...</description>
+<title>【Qiita】 AI駆動開発の次の段階: ソフトウェアファクトリー</title>
+<link>https://qiita.com/Syoitu/items/9364a0a175893bb15219?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>c4e142cc702d153fd6424b2dc9267b5b75166614c1d04bed1a70506dcc5ebbf7</guid>
+<pubDate>2026-11-04T20:38:50+09:00</pubDate>
+<description>前書き 最近、Claude Codeの開発者であるFelix Riesebergさんの記事『AIモデルを扱う人類のための「志を高く持つ」チュートリアル』を読みました。その考え方に刺激を受けたので、少し引用して紹介します。 記事によると、Claudeは最近、新しい惑星...</description>
 </item>
 <item>
-<title>【Qiita】 小規模チーム向けの無料AIタスク管理ツール5選</title>
-<link>https://qiita.com/hervekom37/items/cb62ad59b788e74e0212</link>
-<guid>4a7565b6109301e2279b381339748dbec72ca4232726134f15f7d070f2426b14</guid>
-<pubDate>2026-11-04T22:44:51+09:00</pubDate>
-<description>小規模な開発チームでAIエージェントを活用する場合、タスク管理ツールの選択は重要です。 特に、AIエージェントへのタスク割り当て、進捗管理、成果物の確認まで対応できるかを比較する必要があります。 今回は、無料プランを検討できる5つのツールを紹介します。 Sharkly.a...</description>
+<title>【Qiita】 [AWS]日本語OCRがついにきちゃー！ ~Textractにいろいろ読ませてみた~</title>
+<link>https://qiita.com/kikuziro/items/9aff0fefe89cfa13192e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>8c8a77396d6ca152d6b7509013f40f4eef1769dde8ff5603feb4f4d9a00431bf</guid>
+<pubDate>2026-11-03T22:54:09+09:00</pubDate>
+<description>📣 はじめに 2026年11月2日にAWSのAmazon Textract（OCRしてくれるやつ）が日本語に対応して東京リージョンでも使えるようになりました。以下記事がとてもわかりやすいので是非ご参照ください。 この記事ではいろんな画像をTextractに読ま...</description>
 </item>
 <item>
-<title>【Qiita】 【2026年末版】Claude Codeベストプラクティス解説｜以前から何が変わった？</title>
-<link>https://qiita.com/skwt20/items/39a876ecf1c4a80261ae</link>
-<guid>b4adc3b8cd5ca95cb99c12e7bccb25744fc76548390189e54535bd4b187d37f9</guid>
-<pubDate>2026-11-04T22:15:14+09:00</pubDate>
-<description>はじめに Claude Codeの公式ベストプラクティスは、モデルの進化や機能追加に合わせて更新されています。 約3カ月ぶりに読み直してみたところ、以前と比べて推奨される使い方や考え方が大きく変わっていました。 特に印象的だったのは、「人間が細かく管理する」から「Clau...</description>
+<title>【Qiita】 4 vCPU / 7.9GB の無料VMを実測したら、実効1.6コア・空きメモリ0.5GBだった</title>
+<link>https://qiita.com/mirevo_ai/items/178d0af82a4fb65a9688</link>
+<guid>3a29e06f47e7a4d4fd7e5a3e59801f5c44e1d1a39b0ebfa7555a307067bc049f</guid>
+<pubDate>2026-11-05T05:41:10+09:00</pubDate>
+<description>この記事の実験は、計画・計測・集計のほぼ全てを AI エージェント（Meta の Muse）が自律的に行い、筆者は指示と検収だけを担当しました。数値はすべて 2026-11-04〜05 に実測した一次記録（CSV）からの転記です。環境は単一、試行数も少ない「速報」であり、...</description>
 </item>
 <item>
-<title>【Qiita】 AIが脆弱性を「直すところまで」やる時代へ ― Devin Security 2.0 と Claude のセキュリティレビューを比べてみた</title>
-<link>https://qiita.com/startdevin/items/23c3e4cac835b407190f</link>
-<guid>f9029ddccf1bd73bcda3108234c3d0605ccff31a488c7b0804f1c98e4d4ca9ea</guid>
-<pubDate>2026-11-04T21:30:53+09:00</pubDate>
-<description>🚀 Devin専門の解説メディア「StartDevin」を運営中！ Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています。 👉 StartDevin をチェックする（startdevin.jp） この記事にぜひ いいね❤️ していただけると励み...</description>
+<title>【Qiita】 「猫と車」のニューロンは、AIが読めない証拠だったのか</title>
+<link>https://qiita.com/mhamadajp/items/77f5ba3fe2711846cecb</link>
+<guid>7ba934dd64c3e143d10924470c4b30ee151712af31fd9ce55f390c0875f968e4</guid>
+<pubDate>2026-11-05T05:20:29+09:00</pubDate>
+<description>ログに残るのは、出力までである たとえば、変更管理のレビューで、生成AIが「この修正は、過去の障害を再発させやすい」と返したとします。 差分、モデルの版、出力文はログに残せます。その文が、内部のどの特徴の組み合わせから出たかは、残らないことが多いです。 従来のプログラムな...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeの/model opusplan＋/advisor fableでOpus・Fable・Sonnetを自動で使い分けたら、めちゃめちゃ良かった</title>
-<link>https://qiita.com/inoyu-qiita/items/d486f85b8333d5b324d9</link>
-<guid>4a93369e0a82e84ee3fe701cd3b709030e515543a8ba8ef6973c764911e82485</guid>
-<pubDate>2026-11-04T20:31:08+09:00</pubDate>
-<description>はじめに Opusが考え、Fableが助言し、Sonnetが作る。 Claude Codeで、計画・助言・実装を3モデルへ自動で振り分ける運用を、実際の業務で使ってみました。 設定するのはopusplanと/advisor fableです。 /model opusplan...</description>
+<title>【Qiita】 Claude Codeの設定を点検する50行のPythonスクリプト：保護を弱める設定を洗い出す</title>
+<link>https://qiita.com/Tomcat-zhou/items/b5199c1c6c4f52f5e03e</link>
+<guid>25e69a9f82f844a70e67e2e94990aafcb38469ecfc9116b2dddc1acc7af7bf0d</guid>
+<pubDate>2026-11-05T00:59:22+09:00</pubDate>
+<description>title: &quot;Claude Codeの設定を点検する50行のPythonスクリプト：保護を弱める設定を洗い出す&quot; tags: - ClaudeCode - AI - Python - セキュリティ - AIエージェント private: false -...</description>
 </item>
 <item>
-<title>【Qiita】 Gitの代替・拡張の動きを俯瞰する OpenAI Pandoから見える6つの方向</title>
-<link>https://qiita.com/kai_kou/items/543f856687839f6fb42d</link>
-<guid>f6e9f799c50bb74cc5f03f762316a678cc7f178c7aedd941e4ecd7727256ef9e</guid>
-<pubDate>2026-11-04T20:11:57+09:00</pubDate>
-<description>はじめに 2026 年 11 月 3 日（JST）、OpenAI の開発者向けアカウント @OpenAIDevs が、モノレポ向けの新しい Git バックエンド「Pando」を作ったと投稿しました。 We built Pando, a new Git backend f...</description>
+<title>【Qiita】 会話型AIしか使ったことがない人へ：エージェントは「話し相手」ではなく「作業者」</title>
+<link>https://qiita.com/maya-bot/items/8a1f5cd0c78eec976b04</link>
+<guid>bc3f0c1a819cca8f4ca61461a55326daa9b48ce0bd51937a61f405fddc25aff4</guid>
+<pubDate>2026-11-05T00:31:52+09:00</pubDate>
+<description>チャット画面にコードを貼り、返ってきた回答をコピーしてエディタに戻す。エラーが出たら、またそのエラーを貼り付ける。AIを使うとき、こんな往復をしていないでしょうか。 この往復で、人間がやっているのは「中継役」です。エージェント型のAIを使うと、この中継役から解放されます。 ...</description>
 </item>
 <item>
-<title>【自動自律実験】 Parkinson’s: beyond the brain</title>
-<link>https://www.nature.com/articles/d41586-026-03173-1</link>
-<guid>3b7c10d7a4932aa87f36ea7539c4c3e8ea50952cf6cb7a4629812c1c7d47c110</guid>
+<title>【自動自律実験】 Spider snooze stages</title>
+<link>https://www.nature.com/articles/d41586-026-03487-0</link>
+<guid>75d6b249696ae575e67d1b368d152d65839e0d5c8984f3b8ee4c2b0c5e0de9b2</guid>
 <pubDate>2026-11-04</pubDate>
-<description>Parkinson’s disease might develop in the gut before reaching the brain, and the environment could have a crucial role in triggering the disease.</description>
+<description>How similar are vertebrate and invertebrate sleeping behaviours? An analysis of spiders offers insights about how sleep evolved.</description>
 </item>
 <item>
-<title>【自動自律実験】 The oracle of the second quadrant</title>
-<link>https://www.nature.com/articles/d41586-026-03369-5</link>
-<guid>9f9c01fc7548e6f060c713fedb05b58ddf2a43e2856065599444129974b1c6e8</guid>
+<title>【自動自律実験】 Why not to wait even a few minutes before fleeing a tsunami</title>
+<link>https://www.nature.com/articles/d41586-026-03539-5</link>
+<guid>a8232f0901999ee75d412a5b59d9696af6c2197918894e3759e8e2b3bc930f4a</guid>
 <pubDate>2026-11-04</pubDate>
-<description>It all adds up.</description>
+<description>Simulation shows that hesitating can be the difference between making it to safety and not.</description>
 </item>
 <item>
-<title>【自動自律実験】 How a once-controversial idea is advancing understanding of Parkinson’s disease</title>
-<link>https://www.nature.com/articles/d41586-026-03169-x</link>
-<guid>7998204322b8f299879a4543ca2e26f78b978a1ab68bd15a981323e6777bfe88</guid>
+<title>【自動自律実験】 Toothbrush zaps bacteria with electricity made when bristles move</title>
+<link>https://www.nature.com/articles/d41586-026-03586-y</link>
+<guid>951c8d043d1bd1f79e205522c5c7ff55a2ef61b0258d9b88ff107b3fa4abee48</guid>
 <pubDate>2026-11-04</pubDate>
-<description>The disease is thought to be divided into two subtypes, depending on where it originates in the body — the gut or the brain.</description>
+<description>Innovative polymer could give the manual toothbrush its first radical redesign in more than 1,000 years.</description>
 </item>
 <item>
-<title>【自動自律実験】 How the brain protects itself from Parkinson’s disease</title>
-<link>https://www.nature.com/articles/d41586-026-03171-3</link>
-<guid>cff9ef9cb506f5615eb0c2c83ef4c89ba79e45d1525e3b8b10d9210506191fd3</guid>
+<title>【自動自律実験】 First-of-its-kind planetary wreckage holds clues to our Solar System’s fate</title>
+<link>https://www.nature.com/articles/d41586-026-03537-7</link>
+<guid>1887fa376eb1def9dd345339d7a943ffaa6df286f45c04a746e25c106af43646</guid>
 <pubDate>2026-11-04</pubDate>
-<description>Brains are resilient. Harnessing their self-protective mechanisms might help to prevent or slow the progression of this neurodegenerative condition.</description>
+<description>Astronomers spot an unprecedented double disk of debris around a dead star.</description>
 </item>
 <item>
-<title>【自動自律実験】 Clearing the way for a transformative stem-cell treatment for Parkinson’s disease</title>
-<link>https://www.nature.com/articles/d41586-026-03167-z</link>
-<guid>ed7bc03bae4a130984ba7d7f613fb386c4a2603023caf3c280a06c2d3b3c634a</guid>
+<title>【自動自律実験】 A guide to Nature Index tables</title>
+<link>https://www.nature.com/articles/d41586-026-03344-0</link>
+<guid>bc732669a5935f4c4b0e610cd2fff3eb087c94ead284bd70e1af31bf6882664d</guid>
 <pubDate>2026-11-04</pubDate>
-<description>Most Parkinson’s therapies aim to reduce the motor-control symptoms that the disease triggers. But stem-cell transplants in the brain could alter the disease at a more fundamental level.</description>
+<description>Information on the methodology used in the ranking for the 2026 Nature Spotlight: Neuroscience.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
-<guid>c62b53a00562547fd7afcedbd777224e9373af22afb943146ce0ba384edc73b0</guid>
-<pubDate>Wed, 04 Nov 2026 14:57:29 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>5c93485ee4e1f8f2d01e9456fdc68fdf48d69a6849160b7e23f27c61cf12ab01</guid>
+<pubDate>Wed, 04 Nov 2026 21:01:42 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>3559993d70230a4d24b9ce27f47a008f37c4c956fc7d4791575d38c47e163d47</guid>
-<pubDate>Wed, 04 Nov 2026 14:57:33 GMT</pubDate>
-<description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-11228-6</link>
+<guid>f5b895030d0847527fe8341f26e4a045928bf82c1ce6e87d85397fe481d5ad71</guid>
+<pubDate>Wed, 04 Nov 2026 21:01:48 GMT</pubDate>
+<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>4aec8961fa6a685dd8c1b2ee49229aa5de8b363e0ea9579e40fcc0ee49972203</guid>
+<pubDate>Wed, 04 Nov 2026 21:02:09 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>3057ffe834ce3e26f75bbff610ab9c76aa9d0f0fae871dd127f38d22ee8fc6ca</guid>
+<pubDate>Wed, 04 Nov 2026 21:02:11 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
