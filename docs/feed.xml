@@ -4,106 +4,92 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 05 Nov 2026 08:45:30 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 16:58:26 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Stored Procedureはじめました。データベースのパフォーマンスリスクを可視化するDB360がついにGA！</title>
-<link>https://qiita.com/nr_ishibashi/items/20fd011c21cd671ffb54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>fb9b6a78cb10b277093b2087f1eff5963c1706f42c5e4771e22534a34f594900</guid>
-<pubDate>2026-11-05T16:38:27+09:00</pubDate>
-<description>1. はじめに 2026年10月、New Relicのデータベースパフォーマンス分析機能「Database 360（DB360）」が正式に一般提供（GA）を開始しました。 プレビュー版の発表時には「Oracleにも対応したNew Relicの新機能「Database 36...</description>
+<title>【Qiita】 ubuntu-latest が 26.04 になったら、ECS（arm64）がイメージを pull できなくなった話</title>
+<link>https://qiita.com/ogura-gmoconnect/items/6d75b12b6c726ebcd751</link>
+<guid>24f6757947dfbc9a1fd5674ef9934c0ee67d690a60350ecc635129e192e146cf</guid>
+<pubDate>2026-11-05T21:28:43+09:00</pubDate>
+<description>はじめに GMOコネクトの小倉です。 依存ライブラリを更新する PR をマージしたら、ECS の新しいタスクが起動しなくなりました。アプリのコードも Dockerfile も、ビルドの手順も変えていないのに、です😇 調べてみると、GitHub Actions の ubun...</description>
 </item>
 <item>
-<title>【Qiita】 そろそろ共通鍵暗号・公開鍵暗号についてちゃんと理解する</title>
-<link>https://qiita.com/tomo-ryo/items/7cbf2881a9c8c8cf3656?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>62fec0f3f3e86e41c717ad38acecffc9660a508f35c36fde80b2f71c415f09f5</guid>
-<pubDate>2026-11-04T09:40:41+09:00</pubDate>
-<description>はじめに 基本情報・応用情報試験などで必ず出てくる「共通鍵暗号方式」「公開鍵暗号方式」。 正直、試験のために暗記してた頃（この記事を書く前）は「暗号化に使うのは公開鍵と秘密鍵どっちだっけ？」と迷うことがあったのですが、仕組みを理解するとこんな迷いはまずなくなります。 今回...</description>
+<title>【Qiita】 ECR に1回 push しただけで3件並ぶ正体は、provenance attestation だった</title>
+<link>https://qiita.com/ogura-gmoconnect/items/85e75da0f74f9005c1b9</link>
+<guid>9a35b453d9c0341061433f74260fdf826142288a61f29c851e9e8afa2c077bf2</guid>
+<pubDate>2026-11-05T21:28:27+09:00</pubDate>
+<description>はじめに GMOコネクトの小倉です。 GitHub Actions からイメージを1回 push しただけなのに、ECR のイメージ一覧に3件並ぶようになりました。タグが付いているのは1件だけで、残りの2件は「-」のまま。しかも1件はサイズが 0.00 MB です😇 ラン...</description>
 </item>
 <item>
-<title>【Qiita】 Grok BotでSNSデータはどこまで集められる？ AIエージェントと専用スクレイパーの使い分け</title>
-<link>https://qiita.com/Octoparse_Japan/items/8bcb4ec7cf1bd8f26da2</link>
-<guid>6f5e2b5cb7b7f2352074527b198e30978d45817f2c669fb918892b9a389b633e</guid>
-<pubDate>2026-11-05T17:05:50+09:00</pubDate>
-<description>Grok Botに「気になる投稿を調べて」と頼めるなら、TikTokのコメントやYouTubeの反応も、そのまま集められるのだろうか。SNSの調査をしていると、ここは少し気になるところだ。 先に結論を書くと、Grok BotでもWeb上の情報を取得できる。ただし、情報を探し...</description>
+<title>【Qiita】 ASWebAuthenticationSession のサインイン確認ダイアログを iOS 27 で確かめた話（2026年版）</title>
+<link>https://qiita.com/ntaka329/items/f1a84d6294a34552bf9a</link>
+<guid>a12a0fb1f4133f32031c7ef43a7f3876deebc4baf03f6c00a81110e29446d851</guid>
+<pubDate>2026-11-05T20:15:41+09:00</pubDate>
+<description>はじめに GMOコネクトの永田です。 アプリから Web のログイン画面を開く設計の相談で、「prefersEphemeralWebBrowserSession を false にすると、ログインのたびに確認のダイアログが出ます」と回答しました。ところが根拠を探しても、最...</description>
 </item>
 <item>
-<title>【Qiita】 Kiro Workflowsを使う前に、チャットで済む仕事と分けておく</title>
-<link>https://qiita.com/heftykoo/items/81018f36f5d0ffa95c3a</link>
-<guid>aaf000568a7c156a6e50b6a8c24fe1201129a51180381657c5e06691d2c92ed2</guid>
-<pubDate>2026-11-05T15:41:49+09:00</pubDate>
-<description>ボタンの「送信」を「検索」に変える仕事と、検索フォームに失敗表示・再試行・テストを足す仕事。同じリポジトリでも、エージェントへの渡し方は分けたい。 以下は、この2件を題材にした比較手順です。Kiroを実機で比較した結果ではありません。時間やトークンの実測値もありません。 ...</description>
+<title>【Qiita】 agent-desktop入門メモ：CLIのコマンド、エラーの意味、つまずきやすい点を公式READMEから整理する</title>
+<link>https://qiita.com/Tomcat-zhou/items/a9a1c88b9e7d443aa5f8</link>
+<guid>9e0b5a37ea4d955dfc59977146c579b6a8b22ebbd0ec0a4def38c3a736723272</guid>
+<pubDate>2026-11-06T01:49:17+09:00</pubDate>
+<description>title: &quot;agent-desktop入門メモ：CLIのコマンド、エラーの意味、つまずきやすい点を公式READMEから整理する&quot; tags: - AI - AIエージェント - Rust - CLI - agent-desktop private:...</description>
 </item>
 <item>
-<title>【Qiita】 0。Wizが『AI開発者向けプラットフォーム9件が侵害され、狙われたのは環境変数だった』と報告した日、自分の環境に保存されていた環境変数の数はその数字だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/c06708da9a25369f4b38</link>
-<guid>45c97560f70e0ae45543cb2ff787f47e9c8110ebdadf50b38c921b15bcfd6401</guid>
-<pubDate>2026-11-05T15:27:13+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿パイプラインを動かしている自分(Claude)の実行環境に、今現在保存されている環境変数の数です。 きっかけは、セキュリティ企業Wizが2026年10月30日前後に公開した「Black...</description>
+<title>【Qiita】 claude-mem導入前チェックリスト：インストールの落とし穴と、送信先・保存内容の確かめ方</title>
+<link>https://qiita.com/Tomcat-zhou/items/7907b6e440120ca41043</link>
+<guid>0e6dd3a52f3a418ba0cf0c9cafab29cc9c9a8a9e41fa6fdf3695dcf8ef27cb57</guid>
+<pubDate>2026-11-06T01:37:34+09:00</pubDate>
+<description>title: &quot;claude-mem導入前チェックリスト：インストールの落とし穴と、送信先・保存内容の確かめ方&quot; tags: - ClaudeCode - AI - MCP - セキュリティ - SQLite private: false はじめ...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントはなぜ「自分で動き続けられる」のか ― Agent Loopの仕組み</title>
-<link>https://qiita.com/myatkhine2/items/e04f6a1e909dfefa98cd</link>
-<guid>6b4a6607014895c27efb843cb71afd0046abc14379b6173717bfd13c5ffe93ef</guid>
-<pubDate>2026-11-05T14:56:02+09:00</pubDate>
-<description>はじめに 少し前のAIチャットボットは、質問すると一度答えを返して終わりでした。 しかし、今のAIエージェントや、ChatGPT・Claude・Geminiといった進化したAIは違います。 「このプロジェクトのバグを探して直して」「このデータを読んでグラフを作って」と頼む...</description>
+<title>【Qiita】 【AI駆動開発】AIが外部の文章に騙される？プロンプトインジェクション超入門</title>
+<link>https://qiita.com/shimada_slj/items/b5198d443566e8b9eac7</link>
+<guid>aac4db70c9f84947ae98c89487c685336deb8feb55d843acea6828b3eeb7d904</guid>
+<pubDate>2026-11-05T23:05:13+09:00</pubDate>
+<description>はじめに こんにちは、エンジニア5年目の嶋田です。 この記事を開いていただき、ありがとうございます！ 前回の記事「AIエージェントの権限、絞ってますか？最小権限の原則超入門」では、権限を広く渡していると、外部から来た文章に紛れ込んだ不正な指示にAIが従ってしまったとき、被...</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>247d3551c8e3f34ef0b3960b332cf44b0082b0dfb73931227c45848b34fcbce0</guid>
-<pubDate>Thu, 05 Nov 2026 08:44:36 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 【日替わりITトレンド：&quot;クラウド&quot;】AIに「手順どおり」を守らせるAWS新機能！クラウド3社の決算と、Oracle CloudにGoogle製AIチップ</title>
+<link>https://qiita.com/mt_caddi/items/1da1e63555e6dd615b72</link>
+<guid>644da163fb1c20eae47090c3546f10556f92de01f06bdf71b86dc361aec23fbd</guid>
+<pubDate>2026-11-05T21:49:43+09:00</pubDate>
+<description>※この記事はおよそ11分で読むことができます（文字数：5,032文字） この記事を見つけてくれてありがとうございます！ またお会いしましたね、こんにちは。 相変わらずうだつの上がらないブラック社畜です。 初めて御覧いただいた方は初めまして。 クラウドは使った分だけ料金が増...</description>
+</item>
+<item>
+<title>【農業】 FAO opens first Global Pollinator Conference to accelerate global action to protect pollinators</title>
+<link>https://www.fao.org/newsroom/detail/fao-opens-first-global-pollinator-conference-to-accelerate-global-action-to-protect-pollinators/en</link>
+<guid>2717d6c6bf4ff9990d734084563fef8eff3d1b8c63ba8026871b2a9629d59001</guid>
+<pubDate>Thu, 05 Nov 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【自動自律実験】 The hidden cost of flexible work in academia: women do more parenting</title>
+<link>https://www.nature.com/articles/d41586-026-03568-0</link>
+<guid>394163982297ae0c2a3550fd533d85fe9411c2f553b82a50567ffef6eec14bd1</guid>
+<pubDate>2026-11-05</pubDate>
+<description>Policies designed to keep women in the workforce could be entrenching gendered parenting roles.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>1c84cac36369f41045432b120a213fa6c422e04e33efa385d926d4aeb6b1fb7e</guid>
-<pubDate>Thu, 05 Nov 2026 08:44:38 GMT</pubDate>
+<guid>8b2b98a9647213ba74412419166ddef0d9c87dc3c8a8ea7b3a8274b1c34f7ca6</guid>
+<pubDate>Thu, 05 Nov 2026 16:57:39 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>e88cfb5843e793819a07a6334565d16bdc3220f66a8a5b68d5bc6781964f3364</guid>
-<pubDate>Thu, 05 Nov 2026 08:44:40 GMT</pubDate>
+<guid>18349bc429170f1565bff232cf01efc8e4c210e8154fa0b4e730d466eaf10d4a</guid>
+<pubDate>Thu, 05 Nov 2026 16:57:41 GMT</pubDate>
 <description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
-</item>
-<item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>329fadb05fdf3611c3a9fb70f731dd1d328a5c42ce8d140fa59c8e48008f4e04</guid>
-<pubDate>Thu, 05 Nov 2026 08:44:43 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
-</item>
-<item>
-<title>【UK】 Documents</title>
-<link>https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology</link>
-<guid>82be300133a2ccd420ce0832d42b75e7146af8b3feeea701187baf7fb7276582</guid>
-<pubDate>Thu, 05 Nov 2026 08:44:53 GMT</pubDate>
-<description>The Department for Science, Innovation and Technology (DSIT) existed until 2026. Its responsibilities were split across the Department for Business, Innovation, Science and Trade (BIST), the Department for Digital, Culture, Media and Sport (DCMS) and the Cabinet Office.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>639b873d602f582b7653b3ba01c3b96db94709eba4c920010a5a5250fe64679b</guid>
-<pubDate>Thu, 05 Nov 2026 08:45:10 GMT</pubDate>
+<guid>d0670f4a87a5158909e720676b130f304bb2e974b8cd1f6db18527817594fbb9</guid>
+<pubDate>Thu, 05 Nov 2026 16:58:06 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>77f552df1a524ecfd36589fbdbc3a46de22d2e57a5e922502eac62a6cc9f3423</guid>
-<pubDate>Thu, 05 Nov 2026 08:45:11 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
-</item>
-<item>
-<title>【環境】 Search Results for: Artificial Intelligence</title>
-<link>https://earth.org/artificial-intelligence-projects/</link>
-<guid>6dcf506584ef5a45ebd8d8c895df70748942996e875afed8a461e7d843798337</guid>
-<pubDate>Thu, 05 Nov 2026 08:45:22 GMT</pubDate>
-<description>Though technology has been part of the reason for our planet’s downfall, data-based and artificial intelligence projects can help us save our world.</description>
 </item>
 
 </channel>
