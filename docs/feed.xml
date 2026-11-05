@@ -4,112 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 04 Nov 2026 21:02:29 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 01:34:25 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AI駆動開発の次の段階: ソフトウェアファクトリー</title>
-<link>https://qiita.com/Syoitu/items/9364a0a175893bb15219?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>c4e142cc702d153fd6424b2dc9267b5b75166614c1d04bed1a70506dcc5ebbf7</guid>
-<pubDate>2026-11-04T20:38:50+09:00</pubDate>
-<description>前書き 最近、Claude Codeの開発者であるFelix Riesebergさんの記事『AIモデルを扱う人類のための「志を高く持つ」チュートリアル』を読みました。その考え方に刺激を受けたので、少し引用して紹介します。 記事によると、Claudeは最近、新しい惑星...</description>
+<title>【Qiita】 激動のAI時代、エンジニアの生存戦略を考える｜インターネットを人間が使わなくなったら、仕事は残るのか</title>
+<link>https://qiita.com/akira_papa_AI/items/b1cb59a812bd3eb83d07</link>
+<guid>de743da765e9ae9b77f3579132c1e100333ca94725c6df0b81bc8724f5a95dd4</guid>
+<pubDate>2026-11-05T10:04:37+09:00</pubDate>
+<description>インターネットの通信、もう半分以上が人間じゃないらしいです。自動で動くプログラムのほうが多い。 しかも情報漏えいのニュースは毎週のように流れてくる。このまま行くと、インターネットってどうなるんだろうと。 で、そのインターネットを作ってきた私たちエンジニアの仕事は、ちゃんと残...</description>
 </item>
 <item>
-<title>【Qiita】 [AWS]日本語OCRがついにきちゃー！ ~Textractにいろいろ読ませてみた~</title>
-<link>https://qiita.com/kikuziro/items/9aff0fefe89cfa13192e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>8c8a77396d6ca152d6b7509013f40f4eef1769dde8ff5603feb4f4d9a00431bf</guid>
-<pubDate>2026-11-03T22:54:09+09:00</pubDate>
-<description>📣 はじめに 2026年11月2日にAWSのAmazon Textract（OCRしてくれるやつ）が日本語に対応して東京リージョンでも使えるようになりました。以下記事がとてもわかりやすいので是非ご参照ください。 この記事ではいろんな画像をTextractに読ま...</description>
+<title>【Qiita】 2026年11月5日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/bec153471d577eb808ea</link>
+<guid>975b47e7437845e9aa295298d58a6c81d544a2c497e0bf23656c2603df9d84a7</guid>
+<pubDate>2026-11-05T09:44:16+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 営業こそコミュニティでは「No sell」でい...</description>
 </item>
 <item>
-<title>【Qiita】 4 vCPU / 7.9GB の無料VMを実測したら、実効1.6コア・空きメモリ0.5GBだった</title>
-<link>https://qiita.com/mirevo_ai/items/178d0af82a4fb65a9688</link>
-<guid>3a29e06f47e7a4d4fd7e5a3e59801f5c44e1d1a39b0ebfa7555a307067bc049f</guid>
-<pubDate>2026-11-05T05:41:10+09:00</pubDate>
-<description>この記事の実験は、計画・計測・集計のほぼ全てを AI エージェント（Meta の Muse）が自律的に行い、筆者は指示と検収だけを担当しました。数値はすべて 2026-11-04〜05 に実測した一次記録（CSV）からの転記です。環境は単一、試行数も少ない「速報」であり、...</description>
+<title>【Qiita】 LifeValを読む：生活を助けるAIは「何を終えたか」で測れるか</title>
+<link>https://qiita.com/sin-aiagent/items/42c169e7ed1f3043e5fa</link>
+<guid>198637d2911b69c1c6fb803f69ee4226657e0292b74159645e4942a8e9623702</guid>
+<pubDate>2026-11-05T09:28:56+09:00</pubDate>
+<description>「候補を調べました」と「手続きが終わりました」は、同じ完了ではありません。OpenAIのLifeValは、生活の依頼に対してAIが条件を読み、操作し、どこまで成果を出せたかを測る研究です。公式解説ページの日付は2026年11月2日、技術報告書の表紙は11月3日です。新機能...</description>
 </item>
 <item>
-<title>【Qiita】 「猫と車」のニューロンは、AIが読めない証拠だったのか</title>
-<link>https://qiita.com/mhamadajp/items/77f5ba3fe2711846cecb</link>
-<guid>7ba934dd64c3e143d10924470c4b30ee151712af31fd9ce55f390c0875f968e4</guid>
-<pubDate>2026-11-05T05:20:29+09:00</pubDate>
-<description>ログに残るのは、出力までである たとえば、変更管理のレビューで、生成AIが「この修正は、過去の障害を再発させやすい」と返したとします。 差分、モデルの版、出力文はログに残せます。その文が、内部のどの特徴の組み合わせから出たかは、残らないことが多いです。 従来のプログラムな...</description>
+<title>【Qiita】 デモではなくベンチマークを：統計プログラミングAIの評価軸</title>
+<link>https://qiita.com/keiji_ai_japan/items/0e861d071a8257c105a4</link>
+<guid>cd7411f965126fb4c4539f2721fae4bc523766cb1cb296098db6a5cdc6e6b459</guid>
+<pubDate>2026-11-05T08:11:15+09:00</pubDate>
+<description>臨床研究の AI コーディングのデモは、どれも同じに見えます。誰かが依頼を入力し、コードが現れ、そのコードが動き、会場がうなずく。 「動いた」は、考えうる最も低いハードルです。 実務で使えるかを決める問い SAP どおりに実装したのか、それとも似て非なるものを実装したの...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeの設定を点検する50行のPythonスクリプト：保護を弱める設定を洗い出す</title>
-<link>https://qiita.com/Tomcat-zhou/items/b5199c1c6c4f52f5e03e</link>
-<guid>25e69a9f82f844a70e67e2e94990aafcb38469ecfc9116b2dddc1acc7af7bf0d</guid>
-<pubDate>2026-11-05T00:59:22+09:00</pubDate>
-<description>title: &quot;Claude Codeの設定を点検する50行のPythonスクリプト：保護を弱める設定を洗い出す&quot; tags: - ClaudeCode - AI - Python - セキュリティ - AIエージェント private: false -...</description>
+<title>【Qiita】 0。前回「リポジトリが1つも存在しなかった」と書いた後、今回は`git clone`を1回も自分で打たずに済んだ</title>
+<link>https://qiita.com/Hideki_Tamae/items/1b75fe39e57a9a00ba7d</link>
+<guid>89701c44a1c6d94cf1d6aadf8a8491dc0a9e790d0eb1736d26d37bbd88a3ecd0</guid>
+<pubDate>2026-11-05T09:52:07+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、今日のセッションで自分が手で実行したgit cloneコマンドの回数です。前回、同じステップ0の冒頭で~/zenn-content・~/qiita-contentがどちらも存在せず、指示書に書かれていないgit cl...</description>
 </item>
 <item>
-<title>【Qiita】 会話型AIしか使ったことがない人へ：エージェントは「話し相手」ではなく「作業者」</title>
-<link>https://qiita.com/maya-bot/items/8a1f5cd0c78eec976b04</link>
-<guid>bc3f0c1a819cca8f4ca61461a55326daa9b48ce0bd51937a61f405fddc25aff4</guid>
-<pubDate>2026-11-05T00:31:52+09:00</pubDate>
-<description>チャット画面にコードを貼り、返ってきた回答をコピーしてエディタに戻す。エラーが出たら、またそのエラーを貼り付ける。AIを使うとき、こんな往復をしていないでしょうか。 この往復で、人間がやっているのは「中継役」です。エージェント型のAIを使うと、この中継役から解放されます。 ...</description>
+<title>【Anthropic】 Introducing Claude Opus 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>5361f5aa47b02a9abecdc17a8577cd787a2cff525244ab1a58497cbf7738a3e6</guid>
+<pubDate>Thu, 05 Nov 2026 01:33:25 GMT</pubDate>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
 </item>
 <item>
-<title>【自動自律実験】 Spider snooze stages</title>
-<link>https://www.nature.com/articles/d41586-026-03487-0</link>
-<guid>75d6b249696ae575e67d1b368d152d65839e0d5c8984f3b8ee4c2b0c5e0de9b2</guid>
-<pubDate>2026-11-04</pubDate>
-<description>How similar are vertebrate and invertebrate sleeping behaviours? An analysis of spiders offers insights about how sleep evolved.</description>
-</item>
-<item>
-<title>【自動自律実験】 Why not to wait even a few minutes before fleeing a tsunami</title>
-<link>https://www.nature.com/articles/d41586-026-03539-5</link>
-<guid>a8232f0901999ee75d412a5b59d9696af6c2197918894e3759e8e2b3bc930f4a</guid>
-<pubDate>2026-11-04</pubDate>
-<description>Simulation shows that hesitating can be the difference between making it to safety and not.</description>
-</item>
-<item>
-<title>【自動自律実験】 Toothbrush zaps bacteria with electricity made when bristles move</title>
-<link>https://www.nature.com/articles/d41586-026-03586-y</link>
-<guid>951c8d043d1bd1f79e205522c5c7ff55a2ef61b0258d9b88ff107b3fa4abee48</guid>
-<pubDate>2026-11-04</pubDate>
-<description>Innovative polymer could give the manual toothbrush its first radical redesign in more than 1,000 years.</description>
-</item>
-<item>
-<title>【自動自律実験】 First-of-its-kind planetary wreckage holds clues to our Solar System’s fate</title>
-<link>https://www.nature.com/articles/d41586-026-03537-7</link>
-<guid>1887fa376eb1def9dd345339d7a943ffaa6df286f45c04a746e25c106af43646</guid>
-<pubDate>2026-11-04</pubDate>
-<description>Astronomers spot an unprecedented double disk of debris around a dead star.</description>
-</item>
-<item>
-<title>【自動自律実験】 A guide to Nature Index tables</title>
-<link>https://www.nature.com/articles/d41586-026-03344-0</link>
-<guid>bc732669a5935f4c4b0e610cd2fff3eb087c94ead284bd70e1af31bf6882664d</guid>
-<pubDate>2026-11-04</pubDate>
-<description>Information on the methodology used in the ranking for the 2026 Nature Spotlight: Neuroscience.</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>5c93485ee4e1f8f2d01e9456fdc68fdf48d69a6849160b7e23f27c61cf12ab01</guid>
-<pubDate>Wed, 04 Nov 2026 21:01:42 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>f5b895030d0847527fe8341f26e4a045928bf82c1ce6e87d85397fe481d5ad71</guid>
-<pubDate>Wed, 04 Nov 2026 21:01:48 GMT</pubDate>
-<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-79039-x</link>
+<guid>fee9b2edb9e1b8fa3150bda0f1907085f85a748e38648084a1d13a095ae08912</guid>
+<pubDate>Thu, 05 Nov 2026 01:33:37 GMT</pubDate>
+<description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>4aec8961fa6a685dd8c1b2ee49229aa5de8b363e0ea9579e40fcc0ee49972203</guid>
-<pubDate>Wed, 04 Nov 2026 21:02:09 GMT</pubDate>
+<guid>d49bf7deaebcfb934b99354a3227cc075abbcb98d93a0dd48f8c28914aeb13b1</guid>
+<pubDate>Thu, 05 Nov 2026 01:34:02 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 <item>
 <title>【農業】 総合ランキング</title>
 <link>https://smartagri-jp.com/tag/AI</link>
-<guid>3057ffe834ce3e26f75bbff610ab9c76aa9d0f0fae871dd127f38d22ee8fc6ca</guid>
-<pubDate>Wed, 04 Nov 2026 21:02:11 GMT</pubDate>
+<guid>abd2403540492f7ef95bba8f588721b6777a1a9a6d1e52a76a2324c6dc6230d4</guid>
+<pubDate>Thu, 05 Nov 2026 01:34:04 GMT</pubDate>
 <description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
