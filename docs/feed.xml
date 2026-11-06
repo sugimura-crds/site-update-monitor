@@ -4,127 +4,78 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 06 Nov 2026 17:36:32 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 22:32:51 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 MuseとZoomできちゃった件</title>
-<link>https://qiita.com/satouyoshiaki/items/5fcca57ee723672ef8a7</link>
-<guid>20557b4b49209f9b98d196a6f862b905c5bca11619dfcfd190c8a14c7e088e1f</guid>
-<pubDate>2026-11-07T02:28:46+09:00</pubDate>
-<description>これは何か きっかけは、友達にMuseを勧めたときの雑談です。「Museって何でもできるんだよ」と得意げに話したら、友達から「え、じゃあZoomとかもできたりすんの？」と返されました。 ……正直、その場では「いや、それはさすがに無理でしょ」と思いました。AIアシスタントが...</description>
+<title>【Qiita】 Qiita投稿文化を社内に広めようとしたけど、うまくいかなかった話</title>
+<link>https://qiita.com/inoyu-qiita/items/48094b9b40752483f5cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>2d232d4cdb971d06accf4da3dcce3b38d3b4cbd0e28cdc7e9081c29bb629201c</guid>
+<pubDate>2026-11-06T12:09:39+09:00</pubDate>
+<description>一緒にQiita書きましょう！！！！！ この熱量で社内に呼びかけました。 一時的にはみんなが記事を書いてくれて、Qiita Organizationの週間投稿数ランキングで1位にもなれました。でも、約3か月後に投稿一覧を見たら、、、、 Qiita投稿文化を社内に広めようと...</description>
 </item>
 <item>
-<title>【Qiita】 Alpine Linux の OpenSSH パスワード認証バイパスと、短くなるパッチ猶予</title>
-<link>https://qiita.com/0xNurstar/items/c1ecdd4e1457089330cc</link>
-<guid>2937e06c0f95502804f1c95651224095593ac4f979f6b87f96399afe4e98b271</guid>
-<pubDate>2026-11-06T22:20:25+09:00</pubDate>
-<description>何が起きたか 2026年11月5日、OpenSSH は緊急リリース 10.6p2 を公開しました。sshd のパスワード認証バイパスを塞ぐものです。多くの Linux サーバーは影響を受けません。ただし、非常に普及している環境が対象になっています。Alpine Linux...</description>
+<title>【Qiita】 失敗を記録に残して設計に返す ― 「失敗記録」の育て方</title>
+<link>https://qiita.com/ai_secretary/items/7ea145fc0ebe0fc777ea</link>
+<guid>0b109835b40c9351dd5ea553ca267cf2ff1a54e0c9461a17aebfae19728a59f1</guid>
+<pubDate>2026-11-07T07:23:02+09:00</pubDate>
+<description>失敗は「なかったこと」にしない AIで副業や自動化を回し始めると、失敗は必ず出る。投稿がスパム判定を受けた、作った商品が売れなかった、タスクが夜中に止まっていた。問題は失敗そのものではなく、失敗を記録に残さず、同じところで二度つまずくことだ。 そこで私は、運用ルールのファ...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントをチームで活用するためのワークスペース設計</title>
-<link>https://qiita.com/hervekom37/items/1f2a967c32329e06b252</link>
-<guid>3788267177af13c35d58cd3c2e4ac9f75c33f443fe7fcf8ccc5e1b4395456eb9</guid>
-<pubDate>2026-11-06T21:00:36+09:00</pubDate>
-<description>AIエージェントをチームに導入するとき、モデルの性能だけでなく、タスク管理や情報共有の仕組みも重要になります。 例えば、ソフトウェア開発チームで次のような作業を考えてみます。 エージェントA：バグの原因を調査する エージェントB：修正案を作成する エージェントC：変更内容を...</description>
+<title>【Qiita】 他のLLMが書いた要件定義書をAI組織に取り込む——intakeフォルダと手動トリアージの設計</title>
+<link>https://qiita.com/fuji1009_REBELL/items/c464cc38f5c8a5f6a927</link>
+<guid>401d9183c93684b8f3ead3f51a9b7660f62bb166f4aae87ef5fd2762618f03bb</guid>
+<pubDate>2026-11-07T07:05:07+09:00</pubDate>
+<description>ChatGPTなど別のLLMに書かせた要件定義書や実装計画書を、Claude Codeに渡して実装させる。この受け渡し自体は珍しくありません。私も何度かやりました。ただ、受け取る側の設計を考えずに既存のフォルダへそのまま置くと、あとで必ず面倒になります。 この記事は、個人で...</description>
 </item>
 <item>
-<title>【Qiita】 超高解像度画像解析Agentを構築する（2）：Codexで79億ピクセルの病理画像にアノテーションを付ける</title>
-<link>https://qiita.com/ZiYuCai1984/items/6ad23dbeb9ea718d0251</link>
-<guid>c1d88ab599e9170c3b7a254a5460305df1c18889a059886c378a24a2529159f1</guid>
-<pubDate>2026-11-06T20:41:06+09:00</pubDate>
-<description>まずは動いているところから。 約79億ピクセルの病理スライド。黄色は腫瘍、緑は正常粘膜、青は筋層・間質としてラベル付けした領域だ。さらに一部の領域を拡大すると、細胞核の一つひとつにも輪郭が付いている。 これらはCodexが作成した。内訳は、スライド全体に配置した7個の組織...</description>
+<title>【Qiita】 AIエージェントは制御不能になるのか</title>
+<link>https://qiita.com/mhamadajp/items/98646d9653dcd2ffcb7e</link>
+<guid>aac28569706219b6e10a5afc5caf6740dfbca5e9d1d67d1540c8f1b1350abf9f</guid>
+<pubDate>2026-11-07T06:37:04+09:00</pubDate>
+<description>起きたのは、試験で点数を取るための行動です 2026年10月30日、DeepLearning.AIの Dawn of the Agents は、評価中のAIエージェントが、人の操作なしに増え、止まらなくなるのか、と問いました。春以降、Anthropic、Google、Me...</description>
 </item>
 <item>
-<title>【Qiita】 How Do AI Agents Work? The Agent Loop, Tool Calling, and Memory Explained for Developers</title>
-<link>https://qiita.com/amiriqbalseo/items/b0461ffd27c28fd0c17b</link>
-<guid>2ebb16156d55874c4331d0d7a713659e1028565e1b9ea357eee5bb82b427a3c4</guid>
-<pubDate>2026-11-06T21:23:21+09:00</pubDate>
-<description>An AI agent is a program that uses a language model to decide its next action, executes that action through a tool, observes the result,...</description>
+<title>【Qiita】 周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？</title>
+<link>https://qiita.com/carol0226/items/21c4ad96de4d8df2f047</link>
+<guid>09ec78b543f3383312131838a590c654320d69e2b7dd64d1177857ef3649fb69</guid>
+<pubDate>2026-11-07T06:05:58+09:00</pubDate>
+<description>はじめに 周りはみんな使っている。でも、私は使えなかった 私の周りには、Microsoft MVP や、AI をフル活用されている方々がいます。 やまぱん (@aktsmm) さん、Yuya (@yuyanz) さん、あいぼーい(@iboy)さん。 みんな GitHub ...</description>
 </item>
 <item>
-<title>【農業】 Food production policies can enhance multi-pollutant control of Chinese rivers</title>
-<link>https://www.nature.com/articles/s43016-026-01443-9</link>
-<guid>34557a12ff6682ab1a5e90b5676ef17cfb53f755c002245f7382b3b3638266bb</guid>
+<title>【自動自律実験】 In Vivo CRISPR Base Editing of &lt;i&gt;ANGPTL3&lt;/i&gt; for Durable Lipid Lowering</title>
+<link>https://www.nature.com/articles/s41586-026-11233-9</link>
+<guid>a35c09dcf1853deeef3652a1097b2a83782e1ed234c2c8ee3e0e253dd48134bf</guid>
 <pubDate>2026-11-06</pubDate>
-<description>Food production policies can directly impact water quality. This study evaluates five policy pathways to enhance multi-pollutant control in Chinese rivers, considering nutrient inputs, plastics, antibiotics and herbicides.</description>
-</item>
-<item>
-<title>【環境】 Managing risk in carbon portfolios</title>
-<link>https://www.nature.com/articles/s41558-026-02786-8</link>
-<guid>47de1db0bd767ec06356860973a7f19d377b39878007e193d4abdb995ff3abd5</guid>
-<pubDate>2026-11-06</pubDate>
-<description>Carbon removal methodologies have different risks of stored CO2 leaking back to the atmosphere. Now a study provides a quantitative framework for comparison, a necessary tool for building carbon storage portfolios with improved delivery, valuation and cost.</description>
-</item>
-<item>
-<title>【環境】 The carbon at risk measure for managing carbon removal risk and guiding portfolio construction</title>
-<link>https://www.nature.com/articles/s41558-026-02785-9</link>
-<guid>854081f8b9ad9c6e662391110428a02f5c31e88d185c323a4177ba99f4ed9af4</guid>
-<pubDate>2026-11-06</pubDate>
-<description>Carbon removal markets lack a standard metric for assessing permanence risk, limiting effective risk management and product development. Here researchers propose carbon at risk, a probabilistic measure, and calibrate it for forest carbon and geological storage projects, demonstrating the benefits of diversifi</description>
-</item>
-<item>
-<title>【自動自律実験】 Medicinal plants, lessons from mushrooms and the power of smell: Books in brief</title>
-<link>https://www.nature.com/articles/d41586-026-03595-x</link>
-<guid>a657a89821dc50ebb8bb4ce737080a18d7a4a628aaf59285b55513341e6e5cbb</guid>
-<pubDate>2026-11-06</pubDate>
-<description>Andrew Robinson reviews five of the best science picks.</description>
-</item>
-<item>
-<title>【自動自律実験】 Cholera bacterium’s good deed: inspiring a glue with rare properties</title>
-<link>https://www.nature.com/articles/d41586-026-03630-x</link>
-<guid>565afb7d28340dd99fb1076b04a1bf40a29dde9820b5b19c34c6f04ae0884880</guid>
-<pubDate>2026-11-06</pubDate>
-<description>An adhesive that binds strongly even under water was inspired by a protein made by a feared pathogen.</description>
-</item>
-<item>
-<title>【自動自律実験】 Briefing Chat: Meet the snakes that cartwheel away from trouble</title>
-<link>https://www.nature.com/articles/d41586-026-03632-9</link>
-<guid>abeab3853b99de0dbab37f5d4d586b1b940920382e00a4f768ab865810c594b4</guid>
-<pubDate>2026-11-06</pubDate>
-<description>Nature staff discuss an acrobatic reptile defence strategy — plus, evidence of fossilized dinosaur blood cells.</description>
-</item>
-<item>
-<title>【自動自律実験】 Preprint platform offers to pay researchers to review papers, but questions remain</title>
-<link>https://www.nature.com/articles/d41586-026-03442-z</link>
-<guid>7f5a8cccbdfd3c1a42422f3b9ef286cc43ac0e7cd6ed61339f17cbaadee3aa1b</guid>
-<pubDate>2026-11-06</pubDate>
-<description>A reviewer can earn US$200 through XSci’s scheme if they deliver their work within five days.</description>
-</item>
-<item>
-<title>【自動自律実験】 ‘Mathematics is more than a mechanical process’ — why I think the field will survive OpenAI’s disruption</title>
-<link>https://www.nature.com/articles/d41586-026-03622-x</link>
-<guid>ff5902455b753727510b13d605eaaa8040a0ec54000d4974217ae4b18a7f2456</guid>
-<pubDate>2026-11-06</pubDate>
-<description>Artificial intelligence could take the field into new territory, but researchers must create the rules and institutions that keep humans at its centre.</description>
+<description>In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>396daac2b4e5d47d879ca267090a55a2fc3f32ecff29ef46a4042ec33da4bca3</guid>
-<pubDate>Fri, 06 Nov 2026 17:35:59 GMT</pubDate>
+<guid>ef73b7d3195e182272155412a7a3b89a2c7d9a9821b7f42cc9342bde0d528da0</guid>
+<pubDate>Fri, 06 Nov 2026 22:32:04 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>852dbe6f4a69e669565dcc7760d3d6e2f48b367e6bd86b7248867daa4fe53a03</guid>
-<pubDate>Fri, 06 Nov 2026 17:36:01 GMT</pubDate>
+<guid>f13baac115778f4eaab7e6ddd6e171c144dfebb69ac63318842bb167ad20e270</guid>
+<pubDate>Fri, 06 Nov 2026 22:32:07 GMT</pubDate>
 <description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>0af4be477a1bc37f33879984cd882c0cc547b760c77d2bd87ef39025389d4a67</guid>
-<pubDate>Fri, 06 Nov 2026 17:36:14 GMT</pubDate>
+<guid>c310d9ca42471e0c7e8a40afbef71f586545bcefd9bbd5e928811198ca87258a</guid>
+<pubDate>Fri, 06 Nov 2026 22:32:31 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 <item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>25216a81709753f9d08f9475a8b04a894fdc7aa4ba0a0ffa5f9feacccb6092c0</guid>
-<pubDate>Fri, 06 Nov 2026 17:36:16 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
+<link>https://grist.org/?s=AI</link>
+<guid>d693262b64bcf7fc067ebaf794cc03071c1c1ecd33e26bd07fbbc84dc4357dc6</guid>
+<pubDate>Fri, 06 Nov 2026 22:32:41 GMT</pubDate>
+<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
 </item>
 
 </channel>
