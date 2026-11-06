@@ -4,112 +4,127 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 06 Nov 2026 10:08:08 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 17:36:32 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 リモートのエージェントが起動した dev server を手元でプレビュー：VS Code 1.145 の Remote browser proxy を試した</title>
-<link>https://qiita.com/shahin0809/items/a1bd931855f392806ee6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>7ed639831c7c619f4c1d7232a088d8a912e7221227b10cc14e6f06dea96cad9d</guid>
-<pubDate>2026-11-06T16:28:29+09:00</pubDate>
-<description>はじめに 最近 Microsoft Student Ambassador の Associate に昇格したロホマン シャヒンです！ この記事が少しでも参考になったら、ぜひいいね・共有をお願いします。 間違っている箇所や「ここが分かりにくかった」という指摘は、やさし...</description>
+<title>【Qiita】 MuseとZoomできちゃった件</title>
+<link>https://qiita.com/satouyoshiaki/items/5fcca57ee723672ef8a7</link>
+<guid>20557b4b49209f9b98d196a6f862b905c5bca11619dfcfd190c8a14c7e088e1f</guid>
+<pubDate>2026-11-07T02:28:46+09:00</pubDate>
+<description>これは何か きっかけは、友達にMuseを勧めたときの雑談です。「Museって何でもできるんだよ」と得意げに話したら、友達から「え、じゃあZoomとかもできたりすんの？」と返されました。 ……正直、その場では「いや、それはさすがに無理でしょ」と思いました。AIアシスタントが...</description>
 </item>
 <item>
-<title>【Qiita】 LLMを小さくしてみる</title>
-<link>https://qiita.com/hirozouu/items/3c4fec70a33612ee31c1</link>
-<guid>b7d6b3449df9d6aee53024842aab5c88910d0120bb45d87539c8c6edc5840f99</guid>
-<pubDate>2026-11-06T18:12:46+09:00</pubDate>
-<description>学習済みLLMは高性能ですが、動かすには高価なGPUが必要になります。かといって、小さなLLMをゼロから作ろうとすると、学習に膨大なデータが必要になります。 学習済みLLMの汎用的な性能を引き継ぎつつ、必要な部分だけを切り出して小さなモデルを作れたら、GPUの負担と性能を両...</description>
+<title>【Qiita】 Alpine Linux の OpenSSH パスワード認証バイパスと、短くなるパッチ猶予</title>
+<link>https://qiita.com/0xNurstar/items/c1ecdd4e1457089330cc</link>
+<guid>2937e06c0f95502804f1c95651224095593ac4f979f6b87f96399afe4e98b271</guid>
+<pubDate>2026-11-06T22:20:25+09:00</pubDate>
+<description>何が起きたか 2026年11月5日、OpenSSH は緊急リリース 10.6p2 を公開しました。sshd のパスワード認証バイパスを塞ぐものです。多くの Linux サーバーは影響を受けません。ただし、非常に普及している環境が対象になっています。Alpine Linux...</description>
 </item>
 <item>
-<title>【Qiita】 【後編】IBM OpenPages の MCP サーバーを IBM Bob に接続する ― Bob への登録から疎通確認・ハマりどころ総括まで</title>
-<link>https://qiita.com/mmmmmika/items/98e9008374b4e11fb264</link>
-<guid>d9ed08b2f5501cbe72d825a5e50951fcbc33f41e36a93e9243585747633836da</guid>
-<pubDate>2026-11-06T13:30:07+09:00</pubDate>
-<description>【後編】IBM OpenPages の MCP サーバーを IBM Bob に接続する ― Bob への登録から疎通確認・ハマりどころ総括まで はじめに 前編 では、IBM 公式の IBM/ibm-openpages-mcp-server をclone し、python...</description>
+<title>【Qiita】 AIエージェントをチームで活用するためのワークスペース設計</title>
+<link>https://qiita.com/hervekom37/items/1f2a967c32329e06b252</link>
+<guid>3788267177af13c35d58cd3c2e4ac9f75c33f443fe7fcf8ccc5e1b4395456eb9</guid>
+<pubDate>2026-11-06T21:00:36+09:00</pubDate>
+<description>AIエージェントをチームに導入するとき、モデルの性能だけでなく、タスク管理や情報共有の仕組みも重要になります。 例えば、ソフトウェア開発チームで次のような作業を考えてみます。 エージェントA：バグの原因を調査する エージェントB：修正案を作成する エージェントC：変更内容を...</description>
 </item>
 <item>
-<title>【Qiita】 【前編】IBM OpenPages の MCP サーバーを IBM Bob に接続する ― 環境構築からローカル起動確認まで</title>
-<link>https://qiita.com/mmmmmika/items/fc67a362df2c928f0e49</link>
-<guid>59e5bf77436438641b47254337e6da5350df3fb89dd6ca3a7931abaf6df1e7c8</guid>
-<pubDate>2026-11-06T13:29:21+09:00</pubDate>
-<description>【前編】IBM OpenPages のMCP サーバーをIBM Bob に接続する ― 環境構築からローカル起動確認まで はじめに IBM が公式に公開している IBM/ibm-openpages-mcp-server を使うと、 AI エージェントからIBM Open...</description>
+<title>【Qiita】 超高解像度画像解析Agentを構築する（2）：Codexで79億ピクセルの病理画像にアノテーションを付ける</title>
+<link>https://qiita.com/ZiYuCai1984/items/6ad23dbeb9ea718d0251</link>
+<guid>c1d88ab599e9170c3b7a254a5460305df1c18889a059886c378a24a2529159f1</guid>
+<pubDate>2026-11-06T20:41:06+09:00</pubDate>
+<description>まずは動いているところから。 約79億ピクセルの病理スライド。黄色は腫瘍、緑は正常粘膜、青は筋層・間質としてラベル付けした領域だ。さらに一部の領域を拡大すると、細胞核の一つひとつにも輪郭が付いている。 これらはCodexが作成した。内訳は、スライド全体に配置した7個の組織...</description>
 </item>
 <item>
-<title>【Qiita】 「プロンプトを書くClaude」と「実装するClaude」を分けたら開発が回り始めた話</title>
-<link>https://qiita.com/kazutoyamaura/items/5a0874965d892a5acdb2</link>
-<guid>b21a3ea488b54d0069ebbb6255023d9c9595f5110ccdcf227dfdf428cb0acb1c</guid>
-<pubDate>2026-11-06T17:34:33+09:00</pubDate>
-<description>はじめに ここ1か月ほど、業務の開発をほぼ Claude Code（デスクトップアプリ） で進めています。 この記事では、実際にどのように Claude を使っていたのかを振り返りながら、うまくいったやり方をまとめます。 この1か月で Claude と一緒にやったことは、...</description>
+<title>【Qiita】 How Do AI Agents Work? The Agent Loop, Tool Calling, and Memory Explained for Developers</title>
+<link>https://qiita.com/amiriqbalseo/items/b0461ffd27c28fd0c17b</link>
+<guid>2ebb16156d55874c4331d0d7a713659e1028565e1b9ea357eee5bb82b427a3c4</guid>
+<pubDate>2026-11-06T21:23:21+09:00</pubDate>
+<description>An AI agent is a program that uses a language model to decide its next action, executes that action through a tool, observes the result,...</description>
 </item>
 <item>
-<title>【Qiita】 無人で動かす claude -p に渡す道具を絞る(--allowedTools で git をサブコマンドごとに・専用の --settings でフックだけ足す)</title>
-<link>https://qiita.com/takamatt_ai/items/d9c67f245a794e659f30</link>
-<guid>de2d31707af94b5a180190ed16ec9bf0db117f910611031b40ea10f93cfe9a9e</guid>
-<pubDate>2026-11-06T16:52:31+09:00</pubDate>
-<description>この記事を読み終えると、claude -p を cron や launchd で無人で動かすときに、「やってよいこと」だけを渡す設定が書けます。 根拠は、手元の Mac で毎日 15:00 に動かしているスクリプトの、2026-11-04〜11-05 の3回分の実行です。 ...</description>
+<title>【農業】 Food production policies can enhance multi-pollutant control of Chinese rivers</title>
+<link>https://www.nature.com/articles/s43016-026-01443-9</link>
+<guid>34557a12ff6682ab1a5e90b5676ef17cfb53f755c002245f7382b3b3638266bb</guid>
+<pubDate>2026-11-06</pubDate>
+<description>Food production policies can directly impact water quality. This study evaluates five policy pathways to enhance multi-pollutant control in Chinese rivers, considering nutrient inputs, plastics, antibiotics and herbicides.</description>
 </item>
 <item>
-<title>【Qiita】 音声入力でエージェントをもっと使いこなす</title>
-<link>https://qiita.com/hirano-yuto/items/8e4aa7fc23c517dcfd9f</link>
-<guid>b4c5992a76f1a02e517b40f70ed95188a6a252f5de26b91cd65ef20f6f24b3ab</guid>
-<pubDate>2026-11-06T16:51:28+09:00</pubDate>
-<description>はじめに エージェント型 IDE（AI 付きエディタ）を使っていると、プロンプトを打つ時間って意外とバカにならないと思いませんか？ 要件をあれこれ盛り込もうとすると、頭の中の考えを文章に直して、推敲して……と、指示を「作り上げる」だけでけっこう時間を取られます。 そこでお...</description>
+<title>【環境】 Managing risk in carbon portfolios</title>
+<link>https://www.nature.com/articles/s41558-026-02786-8</link>
+<guid>47de1db0bd767ec06356860973a7f19d377b39878007e193d4abdb995ff3abd5</guid>
+<pubDate>2026-11-06</pubDate>
+<description>Carbon removal methodologies have different risks of stored CO2 leaking back to the atmosphere. Now a study provides a quantitative framework for comparison, a necessary tool for building carbon storage portfolios with improved delivery, valuation and cost.</description>
 </item>
 <item>
-<title>【Qiita】 AI同士にコードをレビューさせたら、テストは全部通った。でもJSONにできなくなった</title>
-<link>https://qiita.com/kaneko_desu/items/62aabc3a220e90f92cdf</link>
-<guid>44b3360f56fae556a6399c763dd3fca66d53eeceaeef4db8f8fcce52df6f1592</guid>
-<pubDate>2026-11-06T16:46:35+09:00</pubDate>
-<description>AI同士にコードをレビューさせたら、テストは全部通った。でもJSONにできなくなった AIにコードをレビューさせ、別のAIに修正させる。 これを繰り返せば、コードはどんどん良くなるのでしょうか。 今回は、同じモデルの別セッションをレビュー役と修正役に分け、コードの修正を繰...</description>
+<title>【環境】 The carbon at risk measure for managing carbon removal risk and guiding portfolio construction</title>
+<link>https://www.nature.com/articles/s41558-026-02785-9</link>
+<guid>854081f8b9ad9c6e662391110428a02f5c31e88d185c323a4177ba99f4ed9af4</guid>
+<pubDate>2026-11-06</pubDate>
+<description>Carbon removal markets lack a standard metric for assessing permanence risk, limiting effective risk management and product development. Here researchers propose carbon at risk, a probabilistic measure, and calibrate it for forest carbon and geological storage projects, demonstrating the benefits of diversifi</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code 2.1.317の変更点ガイド、無人実行で見直す8項目</title>
-<link>https://qiita.com/kai_kou/items/4c17864b4950ae7824a5</link>
-<guid>3e3a09a96e43c99257765006d69343c4af6fc919bc525f8f62d5fc0b86968200</guid>
-<pubDate>2026-11-06T16:12:06+09:00</pubDate>
-<description>はじめに 対象読者は、claude -p のスクリプトやサブエージェント、Agent SDK を組み合わせて Claude Code を実務で運用している方です。 Claude Code のリリースノートは 1 版で数十行に及ぶことが珍しくありません。2.1.317 も例...</description>
+<title>【自動自律実験】 Medicinal plants, lessons from mushrooms and the power of smell: Books in brief</title>
+<link>https://www.nature.com/articles/d41586-026-03595-x</link>
+<guid>a657a89821dc50ebb8bb4ce737080a18d7a4a628aaf59285b55513341e6e5cbb</guid>
+<pubDate>2026-11-06</pubDate>
+<description>Andrew Robinson reviews five of the best science picks.</description>
 </item>
 <item>
-<title>【Qiita】 Writing Guardrails for an AI Agent That Sends Emails</title>
-<link>https://qiita.com/davidbanglore171/items/5a5011b48a9f3da08447</link>
-<guid>0442a490b69dc5bb5049d0a96b781adc87d03aaa8edb296128df0daad30c0f81</guid>
-<pubDate>2026-11-06T15:28:38+09:00</pubDate>
-<description>Letting an AI agent send emails on behalf of a business is useful and risky in equal measure. The difference comes down to the guardrails...</description>
+<title>【自動自律実験】 Cholera bacterium’s good deed: inspiring a glue with rare properties</title>
+<link>https://www.nature.com/articles/d41586-026-03630-x</link>
+<guid>565afb7d28340dd99fb1076b04a1bf40a29dde9820b5b19c34c6f04ae0884880</guid>
+<pubDate>2026-11-06</pubDate>
+<description>An adhesive that binds strongly even under water was inspired by a protein made by a feared pathogen.</description>
 </item>
 <item>
-<title>【農業】 FAO Food Price Index edges down in October amid subdued demand</title>
-<link>https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-in-october-amid-subdued-demand/en</link>
-<guid>c9983fe5d83b318534d3fb00813d00aca95aa204c0611ab1cc68edbed635d1a9</guid>
-<pubDate>Fri, 06 Nov 2026 12:00:00 Z</pubDate>
-<description></description>
+<title>【自動自律実験】 Briefing Chat: Meet the snakes that cartwheel away from trouble</title>
+<link>https://www.nature.com/articles/d41586-026-03632-9</link>
+<guid>abeab3853b99de0dbab37f5d4d586b1b940920382e00a4f768ab865810c594b4</guid>
+<pubDate>2026-11-06</pubDate>
+<description>Nature staff discuss an acrobatic reptile defence strategy — plus, evidence of fossilized dinosaur blood cells.</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
-<guid>9f9c68535dc0f2b317c9e73d881ac1b5b65719259a7d7174e63b872f08752454</guid>
-<pubDate>Fri, 06 Nov 2026 10:07:19 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【自動自律実験】 Preprint platform offers to pay researchers to review papers, but questions remain</title>
+<link>https://www.nature.com/articles/d41586-026-03442-z</link>
+<guid>7f5a8cccbdfd3c1a42422f3b9ef286cc43ac0e7cd6ed61339f17cbaadee3aa1b</guid>
+<pubDate>2026-11-06</pubDate>
+<description>A reviewer can earn US$200 through XSci’s scheme if they deliver their work within five days.</description>
+</item>
+<item>
+<title>【自動自律実験】 ‘Mathematics is more than a mechanical process’ — why I think the field will survive OpenAI’s disruption</title>
+<link>https://www.nature.com/articles/d41586-026-03622-x</link>
+<guid>ff5902455b753727510b13d605eaaa8040a0ec54000d4974217ae4b18a7f2456</guid>
+<pubDate>2026-11-06</pubDate>
+<description>Artificial intelligence could take the field into new territory, but researchers must create the rules and institutions that keep humans at its centre.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>1a51f372ed2ab26126e754c09c9c1d015c87f75dfcbcd14ff5403984db8b4d61</guid>
-<pubDate>Fri, 06 Nov 2026 10:07:22 GMT</pubDate>
+<guid>396daac2b4e5d47d879ca267090a55a2fc3f32ecff29ef46a4042ec33da4bca3</guid>
+<pubDate>Fri, 06 Nov 2026 17:35:59 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>ee299efbc625bb7ac9e56214cc836588b2a6af5a4163cd56b7b89d4d18b0bb3d</guid>
-<pubDate>Fri, 06 Nov 2026 10:07:24 GMT</pubDate>
+<guid>852dbe6f4a69e669565dcc7760d3d6e2f48b367e6bd86b7248867daa4fe53a03</guid>
+<pubDate>Fri, 06 Nov 2026 17:36:01 GMT</pubDate>
 <description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
 </item>
 <item>
-<title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.jircas.go.jp/ja/release/2026/press202614</link>
-<guid>c222216c482c2b318cf55940ffc5bd6fb54488ad5de07bf8879adb02f38253e8</guid>
-<pubDate>Fri, 06 Nov 2026 10:07:55 GMT</pubDate>
-<description>研究所別一覧</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>0af4be477a1bc37f33879984cd882c0cc547b760c77d2bd87ef39025389d4a67</guid>
+<pubDate>Fri, 06 Nov 2026 17:36:14 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>25216a81709753f9d08f9475a8b04a894fdc7aa4ba0a0ffa5f9feacccb6092c0</guid>
+<pubDate>Fri, 06 Nov 2026 17:36:16 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
