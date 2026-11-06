@@ -4,99 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 05 Nov 2026 22:29:54 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 02:44:09 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IT未経験の私がAIに頼りすぎて挫折し、自分の頭で考えるようになるまで</title>
-<link>https://qiita.com/yu_tsukamoto/items/5fa1e302097552255fb7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>87aa557017edb3a88dfa11551039fc952c8bcfb492f0e33a63174f7c575c9339</guid>
-<pubDate>2026-11-04T13:44:11+09:00</pubDate>
-<description>はじめに IT未経験でエンジニアになった私は、配属後の勉強期間中、AIに頼りすぎていました。 コードの書き方に悩めば、すぐにAIに聞く エラーが出ても、原因を自分で考えずにAIに頼る その結果、先輩から質問されたときに何も説明できず、完全に止まってしまいました。 自分...</description>
+<title>【Qiita】 2026年11月6日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/f20ec4b1f63037568468</link>
+<guid>df5e3278dbb4179994d6d2128e1e8b2bcab9bad2689d15cab24081026a31963b</guid>
+<pubDate>2026-11-06T11:39:01+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 どっちが人間？ AIで声をクローンして、本人と...</description>
 </item>
 <item>
-<title>【Qiita】 【マンガ】はじめてのインデータベースAI～ベクトル検索・RAGからAIエージェントまで～（コミカライズ版）</title>
-<link>https://qiita.com/yuji-arakawa/items/1c6d0ae4400ca2b4bae3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>129c08f90071bd82d94b6c7a4afe68e7d737f5ec9e2677c711f8cd02365b1d6e</guid>
-<pubDate>2026-11-05T08:04:01+09:00</pubDate>
-<description>表紙・紹介・目次の文字をテキストで読む データのそばに、AIを。 アイと先輩の保守支援システム設計 制作・原作：荒川裕二（日本オラクル） このマンガについて 保守窓口の支援システムを任された新人エンジニアの青山アイが、同じ開発チームの先輩の神宮寺と、文書検索・契約照...</description>
+<title>【Qiita】 SQLite FTS5で件数は1件、検索は0件になる理由</title>
+<link>https://qiita.com/hironakamura_ai/items/d1e10eb006ebeee5e281</link>
+<guid>95d39509f6c0fb6c81c730a947bc15b78b98de7ab3582b217602d94eefe6fbd2</guid>
+<pubDate>2026-11-06T11:26:18+09:00</pubDate>
+<description>1件読めるのに、検索すると0件。macOSのCPython 3.14.8、SQLite 3.54.1で確かめた。 自分は今日、RAGの検索用に、既存文書へFTS5を後付けするコードを動かした。本文まで読めるのに、MATCHでは出てこないんだよね。 件数の照合だけで済ませるの...</description>
 </item>
 <item>
-<title>【Qiita】 LaravelのログをCloudWatch Logsへ送信する — CloudWatch Logs連携の後編</title>
-<link>https://qiita.com/usui0623/items/731067009dd5f80a9753?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>19b2493a5922d125a52f4cda7d29f570fa47d03ccdb520cdea5e522e880318bc</guid>
-<pubDate>2026-11-05T11:54:29+09:00</pubDate>
-<description>目次 はじめに 想定読者 今回行うこと CloudWatch Logsについて ロググループ・ログストリーム・ログイベント CloudWatch Logsを準備する ロググループを作成する ログストリームを作成する IAMを設定する Laravelから...</description>
+<title>【Qiita】 AI にカード番号を渡さない設計：Sakupa の支払いが Stripe のページだけで完結する理由</title>
+<link>https://qiita.com/kakusan2022/items/64d3a52db4b2db981776</link>
+<guid>333af1802b299266c9bfd44cb4f597225e7f396a7ea80c2b57c3efc4b495319a</guid>
+<pubDate>2026-11-06T10:50:18+09:00</pubDate>
+<description>はじめに明記しておきます。私は Sakupa の開発者ではありません。MCP サーバーを調べていて見つけ、公式サイトと公式マニュアルの公開情報だけを整理した紹介記事です。実際に使った体験談ではありません。 Sakupa は、アカウント登録なしで、AI エージェントから静的サ...</description>
 </item>
 <item>
-<title>【Qiita】 AIレビューは1周1観点で回す——正しさ→可読性→運用事故の3周方式</title>
-<link>https://qiita.com/fuji1009_REBELL/items/33612cc565cd9927d5e7</link>
-<guid>d653f10abccc9e71ac9f1ab21d56a930d53487a5129e240dfc6ace2a5b9efaac</guid>
-<pubDate>2026-11-06T07:05:08+09:00</pubDate>
-<description>AIにコードレビューを頼むとき、私は長いあいだ「バグも読みやすさも運用リスクも、全部まとめて指摘して」と1回で投げていました。返ってくる指摘は多いのですが、読む側の私が毎回「これはどの種類の指摘で、どれから直すのか」を仕分ける羽目になっていました。 今は、1周につき観点を1...</description>
+<title>【Qiita】 「反映まで1分ほど」は測っていなかった：GitHub Pages のビルド37回は中央値19.4秒</title>
+<link>https://qiita.com/kaiyaku_iyada/items/06aed933050d0b2c1410</link>
+<guid>fc1830ccf58b005e95b33fa12d35da5793096076dbe34850fc45d577b514b4b5</guid>
+<pubDate>2026-11-06T10:09:18+09:00</pubDate>
+<description>この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。Anthropic社とは無関係の個人の実験で、同社の公認や提携ではありません。書いてあるのは、2026年10月17日〜22日（4章の最後の試しだけ2...</description>
 </item>
 <item>
-<title>【Qiita】 画像生成は1枚いくら？ 内部DBで測ったAIエージェントのメディア単価 ― Muse トークン消費実験 2nd</title>
-<link>https://qiita.com/mirevo_ai/items/bc84e50b9c842327939a</link>
-<guid>12872e520aaabe4ef016d4953082c3a7bc743654a5a6ffa3474f255fc3c171cd</guid>
-<pubDate>2026-11-06T05:05:37+09:00</pubDate>
-<description>TL;DR 画像生成・画像解析・動画生成の単価を、内部DBの生トークン記録（1トークン解像度）で測りました。実験は「新規ワーカー1体 = DBの1行」という測定設計で、対照ユニットとの差分から単価を出しています。 画像生成 1枚の限界コストは約19,700トークン（2...</description>
+<title>【Anthropic】 Introducing Claude Opus 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>90f7007ca78c82302d58781a25e7d1a1491e7fb5d049d5e590aed7a18ef424c6</guid>
+<pubDate>Fri, 06 Nov 2026 02:43:21 GMT</pubDate>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
 </item>
 <item>
-<title>【Qiita】 AIがコードを再現できる時代、IT技術者は何を守り、何を設計すべきか</title>
-<link>https://qiita.com/mhamadajp/items/b941d809fd4ca30729ba</link>
-<guid>cbcd7555647be5b95a0c83c681f5bca056a0dfe365fb074747b0ee8819b935d5</guid>
-<pubDate>2026-11-06T04:41:23+09:00</pubDate>
-<description>計算方法は公開し、ソースコードだけ非公開にする たとえば、設計レビューです。独自の需要予測について、計算方法は技術ブログに書き、ソースコードのリポジトリは社内だけが見られる、という案が出ます。狙いは、考え方は共有しても、同じプログラムをすぐコピーできないようにすることです...</description>
-</item>
-<item>
-<title>【Qiita】 ⚡AI時代のデータ基盤提案⚡ 「データがある」だけではAIは使えない！AI活用に必要な7つの条件とは？</title>
-<link>https://qiita.com/mellowlaunch/items/8d072080dea3c4ff320d</link>
-<guid>4fc95539bb03bc0c4d021f65ac25cf1e1f59c2b6336a7bc5d8c39d6bd09b2a64</guid>
-<pubDate>2026-11-06T07:27:58+09:00</pubDate>
-<description>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 『ゼロから考える！Databricks・Snowflakeを今、どう提案するか？ ～AIを動かすデータ基盤...</description>
-</item>
-<item>
-<title>【自動自律実験】 Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch</title>
-<link>https://www.nature.com/articles/s41586-026-11336-3</link>
-<guid>8c1fa2d41093d81e4ac53aaf0efe91230fae5915251886ab2f9466df023b53a7</guid>
-<pubDate>2026-11-05</pubDate>
-<description>Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch</description>
-</item>
-<item>
-<title>【自動自律実験】 Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China</title>
-<link>https://www.nature.com/articles/s41586-026-11351-4</link>
-<guid>1c0c780896f839c8c0d76fbc989930da6721e61e7ac69f06a4ed0b1b09acfb36</guid>
-<pubDate>2026-11-05</pubDate>
-<description>Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>25ace557a377a584b76d693b93e22711c86fa6c5324b8c87d1321edd296cce0f</guid>
+<pubDate>Fri, 06 Nov 2026 02:43:24 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>707985e69647592e6a0f25adab6d379e76d43dd2625cf1ceb89b0c348b41b49b</guid>
-<pubDate>Thu, 05 Nov 2026 22:29:12 GMT</pubDate>
+<guid>0147f6576b045e23d67d44ce37745a09f8db6fb97eb5fb8dc2e488b94a1e8efa</guid>
+<pubDate>Fri, 06 Nov 2026 02:43:28 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=AI+agent&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>95d91382049a14c39779c7e5dfbb685259f29d6bc62c97661cf4117206e248de</guid>
-<pubDate>Thu, 05 Nov 2026 22:29:12 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>91895f3ccf5af1d7ec1aadec9b207964d6f58aee7d9ab36fe33f12b046758ed2</guid>
-<pubDate>Thu, 05 Nov 2026 22:29:33 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>0f330ec88136b81cb3a88f37f392e19d27e83042f09cb0ffb03598165ee575f0</guid>
-<pubDate>Thu, 05 Nov 2026 22:29:34 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-11228-6</link>
+<guid>0ebe6667ceb8d31285d5997f45b419f106bf06ede56f5203e03aa71b8c76a462</guid>
+<pubDate>Fri, 06 Nov 2026 02:43:30 GMT</pubDate>
+<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
 </item>
 
 </channel>
