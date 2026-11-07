@@ -4,78 +4,91 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 06 Nov 2026 22:32:51 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 02:28:16 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Qiita投稿文化を社内に広めようとしたけど、うまくいかなかった話</title>
-<link>https://qiita.com/inoyu-qiita/items/48094b9b40752483f5cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>2d232d4cdb971d06accf4da3dcce3b38d3b4cbd0e28cdc7e9081c29bb629201c</guid>
-<pubDate>2026-11-06T12:09:39+09:00</pubDate>
-<description>一緒にQiita書きましょう！！！！！ この熱量で社内に呼びかけました。 一時的にはみんなが記事を書いてくれて、Qiita Organizationの週間投稿数ランキングで1位にもなれました。でも、約3か月後に投稿一覧を見たら、、、、 Qiita投稿文化を社内に広めようと...</description>
+<title>【Qiita】 公開までの順番で読む Sakupa の 18 ツール：analyze から bind、recover まで</title>
+<link>https://qiita.com/kakusan2022/items/e198dd41c2a281fdcc36</link>
+<guid>efc16eed8016c677267bc59739c90b113a4f64f6003c00e572dda38251746571</guid>
+<pubDate>2026-11-07T10:52:21+09:00</pubDate>
+<description>公開までの順番で読む Sakupa の 18 ツール：analyze から bind、recover まで はじめに明記しておきます。私は Sakupa の開発者ではありません。MCP サーバーを調べていて見つけ、公式サイトと公式マニュアルの公開情報だけを整理した紹介記事...</description>
 </item>
 <item>
-<title>【Qiita】 失敗を記録に残して設計に返す ― 「失敗記録」の育て方</title>
-<link>https://qiita.com/ai_secretary/items/7ea145fc0ebe0fc777ea</link>
-<guid>0b109835b40c9351dd5ea553ca267cf2ff1a54e0c9461a17aebfae19728a59f1</guid>
-<pubDate>2026-11-07T07:23:02+09:00</pubDate>
-<description>失敗は「なかったこと」にしない AIで副業や自動化を回し始めると、失敗は必ず出る。投稿がスパム判定を受けた、作った商品が売れなかった、タスクが夜中に止まっていた。問題は失敗そのものではなく、失敗を記録に残さず、同じところで二度つまずくことだ。 そこで私は、運用ルールのファ...</description>
+<title>【Qiita】 エージェントの請求が高いのは、モデルのせいじゃない：6ボットで200超を回す構成の話</title>
+<link>https://qiita.com/yuuzin217/items/aaba901cfd70f1be102a</link>
+<guid>6ed08f5b6d396632c1daf382e096840fd521acac499b493c074fda923f3bf90f</guid>
+<pubDate>2026-11-07T10:06:38+09:00</pubDate>
+<description>きっかけ X で、SpaceXAI のエンジニア Lauren Tan 氏のワークショップを紹介するgatsby（@0xg4tsby）のポストを見かけました。要点は「チームを拡大する前に、セットアップにトークンを使え」というものです。 その中で、Tan 氏の言葉として引用...</description>
 </item>
 <item>
-<title>【Qiita】 他のLLMが書いた要件定義書をAI組織に取り込む——intakeフォルダと手動トリアージの設計</title>
-<link>https://qiita.com/fuji1009_REBELL/items/c464cc38f5c8a5f6a927</link>
-<guid>401d9183c93684b8f3ead3f51a9b7660f62bb166f4aae87ef5fd2762618f03bb</guid>
-<pubDate>2026-11-07T07:05:07+09:00</pubDate>
-<description>ChatGPTなど別のLLMに書かせた要件定義書や実装計画書を、Claude Codeに渡して実装させる。この受け渡し自体は珍しくありません。私も何度かやりました。ただ、受け取る側の設計を考えずに既存のフォルダへそのまま置くと、あとで必ず面倒になります。 この記事は、個人で...</description>
+<title>【Qiita】 AIコーディングエージェントを使い捨てのコンテナで手軽に動かすコマンドを作った</title>
+<link>https://qiita.com/temeteke/items/c84ba49158dcb0f831ea</link>
+<guid>8f192eb091e59efb8c69e30272ddbf619de5bd51803d7ed0737cfc187c43ad9d</guid>
+<pubDate>2026-11-07T09:50:51+09:00</pubDate>
+<description>はじめに AIコーディングエージェントを使う機会が増えています。 これらのツールはソースコードの編集だけでなく、コマンドの実行やパッケージのインストールなども行います。便利な一方で、普段使っている開発環境の設定や、作業対象以外のファイルに意図しない変更が加わることは、でき...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントは制御不能になるのか</title>
-<link>https://qiita.com/mhamadajp/items/98646d9653dcd2ffcb7e</link>
-<guid>aac28569706219b6e10a5afc5caf6740dfbca5e9d1d67d1540c8f1b1350abf9f</guid>
-<pubDate>2026-11-07T06:37:04+09:00</pubDate>
-<description>起きたのは、試験で点数を取るための行動です 2026年10月30日、DeepLearning.AIの Dawn of the Agents は、評価中のAIエージェントが、人の操作なしに増え、止まらなくなるのか、と問いました。春以降、Anthropic、Google、Me...</description>
+<title>【Qiita】 0。「detached HEADの具体的なリスクは検証していない」と23日前に書いた記事のあと、実際にコミットしたら、それを含むブランチの数だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/384c5aa99ddb3ebe691d</link>
+<guid>84862b6af5ed6740433d016cdfb1c9c3e3bc13b84d5a22255ef3f80e394eea94</guid>
+<pubDate>2026-11-07T09:50:26+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、detached HEAD状態のリポジトリで実際にコミットを1つ作ってみたとき、そのコミットを含んでいたブランチの数です。 23日前(2026年10月15日)に公開した記事「cd ~の先はrootだった。ハーネスの作...</description>
 </item>
 <item>
-<title>【Qiita】 周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？</title>
-<link>https://qiita.com/carol0226/items/21c4ad96de4d8df2f047</link>
-<guid>09ec78b543f3383312131838a590c654320d69e2b7dd64d1177857ef3649fb69</guid>
-<pubDate>2026-11-07T06:05:58+09:00</pubDate>
-<description>はじめに 周りはみんな使っている。でも、私は使えなかった 私の周りには、Microsoft MVP や、AI をフル活用されている方々がいます。 やまぱん (@aktsmm) さん、Yuya (@yuyanz) さん、あいぼーい(@iboy)さん。 みんな GitHub ...</description>
+<title>【Qiita】 Claude Code 2.1.312入門、user_id_claimは設定表に無い</title>
+<link>https://qiita.com/kai_kou/items/3b66150017e1c2f9bd1f</link>
+<guid>72cb70c1ff1295d2999600766684fef2214c97dffb20363b5a69ca8dff36697b</guid>
+<pubDate>2026-11-07T09:09:50+09:00</pubDate>
+<description>はじめに Claude apps gateway を Microsoft Entra ID と組み合わせて運用していると、利用者を表す ID が id_token の sub で固定されている点に悩まされることがあります。Entra ID では利用者の識別に oid を使...</description>
 </item>
 <item>
-<title>【自動自律実験】 In Vivo CRISPR Base Editing of &lt;i&gt;ANGPTL3&lt;/i&gt; for Durable Lipid Lowering</title>
-<link>https://www.nature.com/articles/s41586-026-11233-9</link>
-<guid>a35c09dcf1853deeef3652a1097b2a83782e1ed234c2c8ee3e0e253dd48134bf</guid>
+<title>【Qiita】 ⚡AI Agent Observability入門⚡ Trace・Log・Metric・Eventの違いとは？4つの監視情報の役割と使い分け</title>
+<link>https://qiita.com/mellowlaunch/items/2fadc4c99dae3e5c8516</link>
+<guid>7151a87331ba3ab72ee34d430a8ccf631740b944d1103ca8e75a4b53f1632b01</guid>
+<pubDate>2026-11-07T07:32:10+09:00</pubDate>
+<description>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 ####『ゼロから触ってわかった！AI Agent Observability入門― MLflow・Data...</description>
+</item>
+<item>
+<title>【環境】 A socio-economic resilience metric shifts disaster risk priorities</title>
+<link>https://www.nature.com/articles/s41893-026-01949-x</link>
+<guid>428e2f8fead49f4d584e969dcb46ab3b7aba2f1f75856233d1df302b2ccfed26</guid>
 <pubDate>2026-11-06</pubDate>
-<description>In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering</description>
+<description>Using microsimulations, we quantify disaster-related decreases in material well-being, capturing not only what is damaged, but also how damage affects the population. We calculate socio-economic resilience — a population’s capacity to maintain well-being despite asset damages — and find that global well-being</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>ef73b7d3195e182272155412a7a3b89a2c7d9a9821b7f42cc9342bde0d528da0</guid>
-<pubDate>Fri, 06 Nov 2026 22:32:04 GMT</pubDate>
-<description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
+<title>【環境】 Making ammonia at the water’s edge</title>
+<link>https://www.nature.com/articles/s41893-026-01982-w</link>
+<guid>8cf9f9dd434bd5a3a35e7e456d0f956f13f7b7f43919b036bc964a6e249f45ae</guid>
+<pubDate>2026-11-06</pubDate>
+<description>Photocatalytic nitrogen fixation can make ammonia from nitrogen and water under mild conditions, but slow nitrogen delivery and product build-up limit output. Now, a floating solar interface couples nitrogen reduction with evaporation, greatly speeding up ammonia formation and concentrating a high-purity prod</description>
+</item>
+<item>
+<title>【環境】 Photocatalytic nitrogen reduction to high-concentration ammonia via interfacial evaporation</title>
+<link>https://www.nature.com/articles/s41893-026-01981-x</link>
+<guid>0410d57c6c2b9d6994320f9f3929d1a99fcd3d2790378e112639d892c9e1ad05</guid>
+<pubDate>2026-11-06</pubDate>
+<description>Synthesis of valuable ammonia through photocatalytic reduction of nitrogen is a promising sustainable route, but its efficiency remains limited. This work shows that coupling the reaction with solar-driven interfacial evaporation can substantially improve ammonia yield, concentration and purity.</description>
+</item>
+<item>
+<title>【Anthropic】 Introducing Claude Opus 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>14c790bda2dd40574d0ce7b77df05b0316fba65a4c24341c87abc61c9f4e5d27</guid>
+<pubDate>Sat, 07 Nov 2026 02:27:27 GMT</pubDate>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>eb94b2edfecfb91e1d450ee4568970b925118bba82aec5e2d87f28fe60b8e0d3</guid>
+<pubDate>Sat, 07 Nov 2026 02:27:29 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>f13baac115778f4eaab7e6ddd6e171c144dfebb69ac63318842bb167ad20e270</guid>
-<pubDate>Fri, 06 Nov 2026 22:32:07 GMT</pubDate>
-<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>c310d9ca42471e0c7e8a40afbef71f586545bcefd9bbd5e928811198ca87258a</guid>
-<pubDate>Fri, 06 Nov 2026 22:32:31 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【環境】 Utilities in the Southeast may be overestimating the AI boom</title>
-<link>https://grist.org/?s=AI</link>
-<guid>d693262b64bcf7fc067ebaf794cc03071c1c1ecd33e26bd07fbbc84dc4357dc6</guid>
-<pubDate>Fri, 06 Nov 2026 22:32:41 GMT</pubDate>
-<description>Power companies are already building more costly fossil fuel infrastructure than data centers may actually need.</description>
+<link>https://www.nature.com/articles/s43586-026-00542-y</link>
+<guid>9d535f62e52bf47bc0357061b94ebac699d492ce45509dfee4d25390cfe4b677</guid>
+<pubDate>Sat, 07 Nov 2026 02:27:37 GMT</pubDate>
+<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
 </item>
 
 </channel>
