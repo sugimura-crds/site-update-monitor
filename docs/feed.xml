@@ -4,57 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 07 Nov 2026 19:45:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 23:15:40 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Cursor「Voice Chat」でエージェントと音声通話:Siri連携・Privacy Modeまで解説</title>
-<link>https://qiita.com/picnic/items/a380f30343fd17a4a24d</link>
-<guid>f941f3c3352d918706e2b72400aa106fcc62dbaa07174f8bf58b7b24b950dbe4</guid>
-<pubDate>2026-11-08T02:01:32+09:00</pubDate>
-<description>はじめに Cursor が 2026-11-06 に、エージェントとリアルタイムで音声通話できる Voice Chat を公開しました。口頭で変更内容を伝えたり、エージェントの作業状況を尋ねたり、進捗を音声で聞いたりできます。 キーボードから手を離したまま指示を出し、作業...</description>
+<title>【Qiita】 【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！</title>
+<link>https://qiita.com/kitao/items/af92619297d5563f2a0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>6dba8e033bcc12079aade83de1122aaa5a4238b3e6cd76dc6bb9bd77c973ba56</guid>
+<pubDate>2026-11-07T18:11:57+09:00</pubDate>
+<description>Pyxel 3.0をリリースしました！ Python向けレトロゲームエンジンPyxel の新バージョンである3.0をリリースしました。2018年の公開から8年、2.0のリリースから約3年。ようやくのメジャーバージョンアップです。 気がつけば、GitHubのスター数 も1....</description>
 </item>
 <item>
-<title>【Qiita】 dots vs Muse</title>
-<link>https://qiita.com/enoshiman/items/7bbe521d2d094f4d3e81</link>
-<guid>2f6a1884c8622f60eaa5e1c8b9d380a993b8ff026ca1fda2df261098552b3915</guid>
-<pubDate>2026-11-08T01:24:19+09:00</pubDate>
-<description>AIアシスタント間で壁打ちして議論を闘わせてみたので久々の記事にしてみます。 自分のPCにCodex入れてちょとしたAIアプリケーション開発をやっています。 dotsが登場したので基本dotsと会話しながら作業を進めてきました。 docker desktop上で環境を構築し...</description>
+<title>【Qiita】 Claude Certified Developer - Foundations (CCDV-F) 昨日受けてきました。【日本語受験】</title>
+<link>https://qiita.com/takeshi_Qiita/items/f8298084825898921cb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>264cf8e655f812132e8de9c4c32e7ad01436b2022e80425cf6179cc4a66b2565</guid>
+<pubDate>2026-11-06T16:20:39+09:00</pubDate>
+<description>はじめに 2026年11月5日、テストセンターで Claude Certified Developer – Foundations（CCDV-F） を受験し、896点で合格しました。 ざっくりまとめると、 勉強時間は 10時間未満 教材は みのるんさんが公開している問...</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>4dbd2fa76c484597f6ae52be5238b3731e8bcebe495c52e5aec39d3b28e08e8d</guid>
-<pubDate>Sat, 07 Nov 2026 19:44:10 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 台帳を正本にした進捗ダッシュボードの作り方</title>
+<link>https://qiita.com/ai_secretary/items/a3c72fa33ac9e29b31be</link>
+<guid>57653297898bcc8b424cd865201ebb454b6bf20166508935212807b5eedfac37</guid>
+<pubDate>2026-11-08T07:08:52+09:00</pubDate>
+<description>数字がバラバラだと、進捗が分からなくなる AI収益の仕組みを回し始めて2日目、気づいたことがある。記事の下書きは増える。アカウントは作った。受託メニューの叩き台もできた。なのに「いま、どこまで進んでいるのか」を聞かれると、すぐには答えられない。情報がファイルと頭の中に散ら...</description>
+</item>
+<item>
+<title>【Qiita】 AIに「今日やること」だけ見せる——全量台帳とは別に、ローリング21日の割当台帳を切り出した設計メモ</title>
+<link>https://qiita.com/fuji1009_REBELL/items/f3ce987bca7ac34a4289</link>
+<guid>ee318d3794ebf5c473ed8305f8c4290b617e0e05992639a29ee52b1208b2f563</guid>
+<pubDate>2026-11-08T07:05:02+09:00</pubDate>
+<description>AIエージェントに「次に何をやる？」と聞くと、全タスク一覧を渡した日ほど答えがぶれる。私の環境ではそう見えました。 原因を詰めた結果、AIの判断力の問題というより「渡している材料が多すぎる」問題だと考え、正本の全量台帳とは別に、**今日やるべきことだけを持つ薄い台帳（ローリ...</description>
+</item>
+<item>
+<title>【Qiita】 やりたいことを話すと、自分専用の画面ができる。MetaがAIエージェント「Muse」に「スペース」を追加</title>
+<link>https://qiita.com/quotidia/items/a4c102125e4c941e3e52</link>
+<guid>5fd93d764f043b13afa86d689fd3efc3a9dfff596c59caeba395440a7b4fe1c7</guid>
+<pubDate>2026-11-08T06:00:51+09:00</pubDate>
+<description>本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。 Metaは2026年11月6日(金) (米国時間)、AIエージェント (利用者に代わって、いくつもの作業を自分で進めるAI) の「Muse」に「スペース」という機能を加え、即日、提供を始めまし...</description>
+</item>
+<item>
+<title>【Qiita】 AIの進化を止めるべきなのか——開発競争、安全性、規制の間でIT技術者が考えるべきこと</title>
+<link>https://qiita.com/mhamadajp/items/9570fa3175f1eebbe0b2</link>
+<guid>ca5c62c33bffef45f7bfa9ceff384d8b6a5c6ca146ab9eff9711e2ed62f860bf</guid>
+<pubDate>2026-11-08T04:49:04+09:00</pubDate>
+<description>設計レビューで「導入を止めるべきか」と聞かれたとき たとえば、社内の問い合わせ対応にAIエージェントを導入する設計レビューです。文書を検索し、回答の下書きを作るところまでは、参加者が同意しやすいです。意見が分かれるのは、その先です。データベースの更新、顧客へのメール送信、...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>c066e5a350c5676344a5909c10b0dcfe9bda39e8108a26942034fcf05c186b8b</guid>
-<pubDate>Sat, 07 Nov 2026 19:44:13 GMT</pubDate>
+<guid>82a6b689c855e2cc7bd6e96e926487dc54312a9e45f812ce03905888343cfab1</guid>
+<pubDate>Sat, 07 Nov 2026 23:14:57 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>103c6171ffc50420e30e1a312117bd186575fe3dc2602ecb618e4b0643e686f1</guid>
-<pubDate>Sat, 07 Nov 2026 19:44:22 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
-</item>
-<item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>0e795e1bd305b84c37eea12c5e5be42b70325b06e3d1c93a51a31c8ac13c118b</guid>
-<pubDate>Sat, 07 Nov 2026 19:44:47 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>42c13f8751497bb1914d1d9d31cfad9a4daf5c9af5c0f4fa171c495a6020c26a</guid>
-<pubDate>Sat, 07 Nov 2026 19:44:48 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-11228-6</link>
+<guid>9015f75540cc80fc3c5c70cbbab0b3dfad26c8367b430bd472e90245e71bd725</guid>
+<pubDate>Sat, 07 Nov 2026 23:15:00 GMT</pubDate>
+<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
 </item>
 
 </channel>
