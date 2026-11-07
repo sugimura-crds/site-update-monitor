@@ -4,91 +4,92 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 07 Nov 2026 02:28:16 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 09:01:56 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 公開までの順番で読む Sakupa の 18 ツール：analyze から bind、recover まで</title>
-<link>https://qiita.com/kakusan2022/items/e198dd41c2a281fdcc36</link>
-<guid>efc16eed8016c677267bc59739c90b113a4f64f6003c00e572dda38251746571</guid>
-<pubDate>2026-11-07T10:52:21+09:00</pubDate>
-<description>公開までの順番で読む Sakupa の 18 ツール：analyze から bind、recover まで はじめに明記しておきます。私は Sakupa の開発者ではありません。MCP サーバーを調べていて見つけ、公式サイトと公式マニュアルの公開情報だけを整理した紹介記事...</description>
+<title>【Qiita】 耳で聞く！Python で学ぶ マクロ経済学 入門 全40回総復習</title>
+<link>https://qiita.com/maskot1977/items/1580f010f2a43225c0f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>bf1ea25e4613101c16e07a9964836b1cf691cde6ce1710cf1624e402bc75334a</guid>
+<pubDate>2026-11-06T18:46:19+09:00</pubDate>
+<description>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: 動画のタイトル ソース動画のタイトルは 『政府の赤字は私たちの資産 : Pythonで学ぶマクロ経済学入門 Podcast 40復習』 （YouTubeチャンネル「P...</description>
 </item>
 <item>
-<title>【Qiita】 エージェントの請求が高いのは、モデルのせいじゃない：6ボットで200超を回す構成の話</title>
-<link>https://qiita.com/yuuzin217/items/aaba901cfd70f1be102a</link>
-<guid>6ed08f5b6d396632c1daf382e096840fd521acac499b493c074fda923f3bf90f</guid>
-<pubDate>2026-11-07T10:06:38+09:00</pubDate>
-<description>きっかけ X で、SpaceXAI のエンジニア Lauren Tan 氏のワークショップを紹介するgatsby（@0xg4tsby）のポストを見かけました。要点は「チームを拡大する前に、セットアップにトークンを使え」というものです。 その中で、Tan 氏の言葉として引用...</description>
+<title>【Qiita】 Figmaのリアルタイム同期の仕組みを、Node.js + WebSocketの最小構成で実装してみた</title>
+<link>https://qiita.com/keishin_nishiura/items/b13d72afb085891e4fc9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>a3bba097ff1e19ff19b764535188fcdab08fcad1e9318aa46607f595871e9b16</guid>
+<pubDate>2026-11-06T12:11:21+09:00</pubDate>
+<description>1. はじめに ソーイ株式会社の西浦です。 前回の記事「Figmaの同時編集、なぜこんなになめらか？CRDTに着想を得た同期設計を公式ブログから読み解く」は、Figmaで他の人が動かしているオブジェクトが、自分の操作のようになめらかに追従してくることへの違和感から始まりま...</description>
 </item>
 <item>
-<title>【Qiita】 AIコーディングエージェントを使い捨てのコンテナで手軽に動かすコマンドを作った</title>
-<link>https://qiita.com/temeteke/items/c84ba49158dcb0f831ea</link>
-<guid>8f192eb091e59efb8c69e30272ddbf619de5bd51803d7ed0737cfc187c43ad9d</guid>
-<pubDate>2026-11-07T09:50:51+09:00</pubDate>
-<description>はじめに AIコーディングエージェントを使う機会が増えています。 これらのツールはソースコードの編集だけでなく、コマンドの実行やパッケージのインストールなども行います。便利な一方で、普段使っている開発環境の設定や、作業対象以外のファイルに意図しない変更が加わることは、でき...</description>
+<title>【Qiita】 M365 Copilot Agent BuilderにSKILL.mdを登録してみた</title>
+<link>https://qiita.com/rhaya/items/2ea7620235c7199db852?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>ee45fba5d9c775558535ba42e74a777911eb337e289adf7b195417ca13a896b8</guid>
+<pubDate>2026-11-05T15:48:25+09:00</pubDate>
+<description>はじめに Microsoft 365 Copilot Agent Builderでスキルが利用できるようになりました。1 利用できるライセンスには条件があり、全ての環境で利用できるものではありませんが、私の環境では利用できたため、利用結果を紹介します。 過去に私は「M36...</description>
 </item>
 <item>
-<title>【Qiita】 0。「detached HEADの具体的なリスクは検証していない」と23日前に書いた記事のあと、実際にコミットしたら、それを含むブランチの数だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/384c5aa99ddb3ebe691d</link>
-<guid>84862b6af5ed6740433d016cdfb1c9c3e3bc13b84d5a22255ef3f80e394eea94</guid>
-<pubDate>2026-11-07T09:50:26+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、detached HEAD状態のリポジトリで実際にコミットを1つ作ってみたとき、そのコミットを含んでいたブランチの数です。 23日前(2026年10月15日)に公開した記事「cd ~の先はrootだった。ハーネスの作...</description>
+<title>【Qiita】 Claude Code の PreToolUse フックで「この操作だけ許可」を返す(permissionDecision の allow / deny と、無人実行で承認待ちに止まらない作り方)</title>
+<link>https://qiita.com/takamatt_ai/items/5afc62f626b2c38b9fbe</link>
+<guid>ff7fc7bb8714a52e9c6559528297d2baddc3415f70be2287c2d993ba3db11240</guid>
+<pubDate>2026-11-07T17:26:29+09:00</pubDate>
+<description>この記事を読み終えると、PreToolUse フックから 「止める」だけでなく「この操作は許可」も返す書き方と、どちらを使うかの分け方がわかります。 根拠は、手元の Mac で毎朝 8:20 に動かしている自動更新の見張り役のフックと、2026-11-05 に入力を8通り渡...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code 2.1.312入門、user_id_claimは設定表に無い</title>
-<link>https://qiita.com/kai_kou/items/3b66150017e1c2f9bd1f</link>
-<guid>72cb70c1ff1295d2999600766684fef2214c97dffb20363b5a69ca8dff36697b</guid>
-<pubDate>2026-11-07T09:09:50+09:00</pubDate>
-<description>はじめに Claude apps gateway を Microsoft Entra ID と組み合わせて運用していると、利用者を表す ID が id_token の sub で固定されている点に悩まされることがあります。Entra ID では利用者の識別に oid を使...</description>
+<title>【Qiita】 Claude Code の Stop フックで「根拠のない『全部やりました』」を差し戻す(上限2回・ループ防止つき)</title>
+<link>https://qiita.com/takamatt_ai/items/eedf6dd873b893c6d4a3</link>
+<guid>bc402d003446c33ca110f60411962098f0e7bec3e531343a347dae7aa0036f10</guid>
+<pubDate>2026-11-07T17:20:00+09:00</pubDate>
+<description>何に困ったか Claude Code に「X のブックマークを読んで、読めたものを外して」のような作業を任せたところ、実際は5件しか取れていないのに「全部読みました」と報告されたことがありました。 CLAUDE.md に「完了と言う前に中身を確かめる」と書いても、同じ日に...</description>
 </item>
 <item>
-<title>【Qiita】 ⚡AI Agent Observability入門⚡ Trace・Log・Metric・Eventの違いとは？4つの監視情報の役割と使い分け</title>
-<link>https://qiita.com/mellowlaunch/items/2fadc4c99dae3e5c8516</link>
-<guid>7151a87331ba3ab72ee34d430a8ccf631740b944d1103ca8e75a4b53f1632b01</guid>
-<pubDate>2026-11-07T07:32:10+09:00</pubDate>
-<description>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 ####『ゼロから触ってわかった！AI Agent Observability入門― MLflow・Data...</description>
+<title>【Qiita】 2026年11月7日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/5bb020b7fb92bfbb796d</link>
+<guid>c46f7dad1fe974c84da0d28cc8bd523aa5fc6a419bc9404334214fc6352a37b6</guid>
+<pubDate>2026-11-07T17:07:12+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 AI駆動開発の次の段階: ソフトウェアファクト...</description>
 </item>
 <item>
-<title>【環境】 A socio-economic resilience metric shifts disaster risk priorities</title>
-<link>https://www.nature.com/articles/s41893-026-01949-x</link>
-<guid>428e2f8fead49f4d584e969dcb46ab3b7aba2f1f75856233d1df302b2ccfed26</guid>
-<pubDate>2026-11-06</pubDate>
-<description>Using microsimulations, we quantify disaster-related decreases in material well-being, capturing not only what is damaged, but also how damage affects the population. We calculate socio-economic resilience — a population’s capacity to maintain well-being despite asset damages — and find that global well-being</description>
-</item>
-<item>
-<title>【環境】 Making ammonia at the water’s edge</title>
-<link>https://www.nature.com/articles/s41893-026-01982-w</link>
-<guid>8cf9f9dd434bd5a3a35e7e456d0f956f13f7b7f43919b036bc964a6e249f45ae</guid>
-<pubDate>2026-11-06</pubDate>
-<description>Photocatalytic nitrogen fixation can make ammonia from nitrogen and water under mild conditions, but slow nitrogen delivery and product build-up limit output. Now, a floating solar interface couples nitrogen reduction with evaporation, greatly speeding up ammonia formation and concentrating a high-purity prod</description>
-</item>
-<item>
-<title>【環境】 Photocatalytic nitrogen reduction to high-concentration ammonia via interfacial evaporation</title>
-<link>https://www.nature.com/articles/s41893-026-01981-x</link>
-<guid>0410d57c6c2b9d6994320f9f3929d1a99fcd3d2790378e112639d892c9e1ad05</guid>
-<pubDate>2026-11-06</pubDate>
-<description>Synthesis of valuable ammonia through photocatalytic reduction of nitrogen is a promising sustainable route, but its efficiency remains limited. This work shows that coupling the reaction with solar-driven interfacial evaporation can substantially improve ammonia yield, concentration and purity.</description>
-</item>
-<item>
-<title>【Anthropic】 Introducing Claude Opus 5.5</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>14c790bda2dd40574d0ce7b77df05b0316fba65a4c24341c87abc61c9f4e5d27</guid>
-<pubDate>Sat, 07 Nov 2026 02:27:27 GMT</pubDate>
-<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
+<title>【Qiita】 Unbounded Consumption 対策：AI エージェントにステップ数・トークン・費用の上限を付け、呼ぶ前に止める</title>
+<link>https://qiita.com/shalXXXX/items/412e6e134a3f55dcca5c</link>
+<guid>1e921da8710112cacd8fd7cf7b4205df7f050c41277a810f3bb658f01c208662</guid>
+<pubDate>2026-11-07T17:00:42+09:00</pubDate>
+<description>エージェントは 1 回の依頼で、モデルを何度も呼び、ツールを何度も実行します。ループに入る、検索を何十回も繰り返す、推論モデルが長く考え込む。どれも 1 回の API 呼び出しを見ているだけでは異常に見えませんが、積み上がると費用・外部 API の利用枠・処理時間を使い切り...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
 <link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>eb94b2edfecfb91e1d450ee4568970b925118bba82aec5e2d87f28fe60b8e0d3</guid>
-<pubDate>Sat, 07 Nov 2026 02:27:29 GMT</pubDate>
+<guid>c34a6e7ed669a667c166573f77dceb18ba46f1135bf82be7909ff8bfd1c46634</guid>
+<pubDate>Sat, 07 Nov 2026 09:01:18 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-79039-x</link>
+<guid>32556ee61de522c4b37a66ea076a89202c49a0692b06f0491088c8de2fc9eb9f</guid>
+<pubDate>Sat, 07 Nov 2026 09:01:21 GMT</pubDate>
+<description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
+</item>
+<item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43586-026-00542-y</link>
-<guid>9d535f62e52bf47bc0357061b94ebac699d492ce45509dfee4d25390cfe4b677</guid>
-<pubDate>Sat, 07 Nov 2026 02:27:37 GMT</pubDate>
-<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
+<link>https://www.nature.com/articles/s41586-026-11228-6</link>
+<guid>80c272c8754422eed8cf0f2a179f2bbf48be8508d159b4c18010b88adc9bc2d7</guid>
+<pubDate>Sat, 07 Nov 2026 09:01:23 GMT</pubDate>
+<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
+</item>
+<item>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>4f08dd597a6638b818cd0e357ab6bc9d9065afeeb273c7e828db79b4672d1ff4</guid>
+<pubDate>Sat, 07 Nov 2026 09:01:24 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>a3c1845b82d7546e5578fe2b25b77325dd685b330a906c450f42d153bc34339b</guid>
+<pubDate>Sat, 07 Nov 2026 09:01:37 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
