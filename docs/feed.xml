@@ -4,42 +4,57 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 07 Nov 2026 15:49:01 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 19:45:08 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 osFoundryからClaudeのチャットに渡したタスクを状態ごとに見ていく</title>
-<link>https://qiita.com/bestai/items/0f2300f0d63e054fa0e7</link>
-<guid>60f4f1aa3d9caf8604ff161c4b17120629e752992ea2267e3a2e2be73345c7dc</guid>
-<pubDate>2026-11-07T23:14:19+09:00</pubDate>
-<description>この記事でやること osFoundryのリンク済みチャットに割り当てたタスクを、6つの状態ごとに「いま何が起きていて、次に何をするか」で整理する Claudeのチャットに貼ってそのまま使える依頼文を、場面ごとに用意する 上限値と、運用でよく出る疑問をまとめる 接続の...</description>
+<title>【Qiita】 Cursor「Voice Chat」でエージェントと音声通話:Siri連携・Privacy Modeまで解説</title>
+<link>https://qiita.com/picnic/items/a380f30343fd17a4a24d</link>
+<guid>f941f3c3352d918706e2b72400aa106fcc62dbaa07174f8bf58b7b24b950dbe4</guid>
+<pubDate>2026-11-08T02:01:32+09:00</pubDate>
+<description>はじめに Cursor が 2026-11-06 に、エージェントとリアルタイムで音声通話できる Voice Chat を公開しました。口頭で変更内容を伝えたり、エージェントの作業状況を尋ねたり、進捗を音声で聞いたりできます。 キーボードから手を離したまま指示を出し、作業...</description>
 </item>
 <item>
-<title>【Qiita】 osFoundryの外部エージェント画面でClaude Codeの過去セッションを探すときの確認ポイント</title>
-<link>https://qiita.com/bestai/items/144c045dcc916e04eb22</link>
-<guid>5db0cd2c88d17873e5f4fc3ff8dd985a298296f9c968383a1f0d621b6fedc733</guid>
-<pubDate>2026-11-07T23:10:02+09:00</pubDate>
-<description>この記事でやること osFoundryのデスクトップアプリの「外部エージェント」画面で、Claude Codeの過去のセッションを狙って探す 目当てのセッションが一覧で見当たらないときに、手元のファイルをターミナルで確かめる 「ターミナルで開く」の前後で、フォルダ・ブ...</description>
+<title>【Qiita】 dots vs Muse</title>
+<link>https://qiita.com/enoshiman/items/7bbe521d2d094f4d3e81</link>
+<guid>2f6a1884c8622f60eaa5e1c8b9d380a993b8ff026ca1fda2df261098552b3915</guid>
+<pubDate>2026-11-08T01:24:19+09:00</pubDate>
+<description>AIアシスタント間で壁打ちして議論を闘わせてみたので久々の記事にしてみます。 自分のPCにCodex入れてちょとしたAIアプリケーション開発をやっています。 dotsが登場したので基本dotsと会話しながら作業を進めてきました。 docker desktop上で環境を構築し...</description>
 </item>
 <item>
-<title>【Qiita】 AIがお金を使う前にスマホで聞いてくれる「AIの財布番」を作りました</title>
-<link>https://qiita.com/ut181749ut/items/e20ad50829549f674f03</link>
-<guid>258e00b817adc1f36004743327171ef8acc05269ab402d789b9128559df20dba</guid>
-<pubDate>2026-11-07T23:05:33+09:00</pubDate>
-<description>AIにいろいろ任せるようになって、「これ、AIが勝手に課金したら止められないな」と思ったのがきっかけです。 これからはAIが買い物をしたり、サービスに申し込んだりするのも普通になっていくと思います。そうなる前に、AIのお金の使い方を自分で管理できるものが欲しくて作りました。...</description>
-</item>
-<item>
-<title>【Qiita】 Codex CLIをosFoundryのワーカーにする前に手元で確かめておくこと</title>
-<link>https://qiita.com/bestai/items/29557573c15b6eb833f5</link>
-<guid>1fa80a9f209f60b361955742884e387060c4c8bfeed4b94df8a8effcdacc652d</guid>
-<pubDate>2026-11-07T23:03:42+09:00</pubDate>
-<description>この記事でやること osFoundryのエージェントに cli:codex:agent を付ける前に、Codex CLIの状態をターミナルで確認する osFoundryの「サインインを確認」と同じコマンドを自分で叩き、出てくるイベントを読んでみる 実行ログの各行が何を...</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>4dbd2fa76c484597f6ae52be5238b3731e8bcebe495c52e5aec39d3b28e08e8d</guid>
+<pubDate>Sat, 07 Nov 2026 19:44:10 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>86ad8474fb7b3d83709e42b88013a7407bdedb34bae46e5ac06ba72e473ae36f</guid>
-<pubDate>Sat, 07 Nov 2026 15:48:20 GMT</pubDate>
+<guid>c066e5a350c5676344a5909c10b0dcfe9bda39e8108a26942034fcf05c186b8b</guid>
+<pubDate>Sat, 07 Nov 2026 19:44:13 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
+</item>
+<item>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>103c6171ffc50420e30e1a312117bd186575fe3dc2602ecb618e4b0643e686f1</guid>
+<pubDate>Sat, 07 Nov 2026 19:44:22 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>0e795e1bd305b84c37eea12c5e5be42b70325b06e3d1c93a51a31c8ac13c118b</guid>
+<pubDate>Sat, 07 Nov 2026 19:44:47 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>42c13f8751497bb1914d1d9d31cfad9a4daf5c9af5c0f4fa171c495a6020c26a</guid>
+<pubDate>Sat, 07 Nov 2026 19:44:48 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
