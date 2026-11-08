@@ -4,99 +4,50 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 08 Nov 2026 09:43:32 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 16:28:08 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 機能したシステム再設計 ― フィードバックループの修復事例 : システム設計視点の行動経済学 (58)</title>
-<link>https://qiita.com/maskot1977/items/8873b86cc612cbe35d86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>40002b3327d2093b4443fc9213dbd90ffeaa1fca520fdd0ad0167c65612be1e7</guid>
-<pubDate>2026-11-08T10:30:05+09:00</pubDate>
-<description>user: 「システム設計視点の行動経済学」、第58回を始めましょう。その前に、まず前回の復習として、 寛容のパラドックスと法の下の平等 ― 最も反差別的な立場 : システム設計視点の行動経済学 (57) https://qiita.com/maskot1977/item...</description>
+<title>【Qiita】 開発フレームワークはもう不要なのか？ 2 つのアプリの開発履歴を比べて、Coding Agent に残したい規律を考えた</title>
+<link>https://qiita.com/dahatake/items/44d94d01a7517fd8c137</link>
+<guid>74eacee4f1c40d5621f8626094b30aeae447aae198f7cfde837e3c7ec282299c</guid>
+<pubDate>2026-11-08T22:18:16+09:00</pubDate>
+<description>背景 AI にアプリケーションの実装を任せるとき、私は以前から少し気になっていたことがあります。 作業を最後まで進めるために、どこまで仕組みを用意するべきなのでしょうか。 要求を整理し、作業を分け、複数の Agent に役割を与え、結果を検査する。 それぞれには理由があり...</description>
 </item>
 <item>
-<title>【Qiita】 React学習過程整理tips(備考)</title>
-<link>https://qiita.com/polymetisoutis/items/9e6a8e16f11e7e8f834c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>aabec04c83ee3a347271afb3df1ca0d39941e965c110e97147c07fcb671aff60</guid>
-<pubDate>2026-11-07T20:14:30+09:00</pubDate>
-<description>今Reactを学習していて大事だと気付いたこと ・ハンズオンをやっていてどのソースファイルに何が書いてあるか？を明確に把握するところから理解が始まる ・Reactの部品はimportするもの ・JSX記法に慣れるのが大事 （自分は棚上げにしてから1年位経ったが、途中実務で...</description>
+<title>【Qiita】 Security for AI 権限モデルの 2 つの軸 ～ Azure × Claude で検証 (その 1)</title>
+<link>https://qiita.com/shou-wordwright555501/items/00c5972f3819f87715bb</link>
+<guid>2d08f12ae8aae5e49e77e63fd0cbd473e743d87ca33926b9861d7b2bd2194b55</guid>
+<pubDate>2026-11-09T01:19:56+09:00</pubDate>
+<description>Entra ID で AI エージェントに ID を持たせよう！ ～ Foundry × Claude で検証（その1）、（その2） で Entra ID で AI エージェントに ID を付与し、ロールを付与しました。いわゆる RBAC (ロールベースのアクセス制御) で...</description>
 </item>
 <item>
-<title>【Qiita】 Google Antigravity に Red Hat Documentation MCP サーバーを登録する方法</title>
-<link>https://qiita.com/duelist2020jp/items/aa12d0d982fcc19c2652</link>
-<guid>0f0e58efa974b8a98ed123a4db90e61be65d2f14e45ce624c369596ac7f08fa6</guid>
-<pubDate>2026-11-08T12:18:26+09:00</pubDate>
-<description>はじめに 先日、Red Hat社からMCP server for Red Hat Documentationが公開され、AIエージェントからdocs.redhat.com の最新ドキュメントを直接検索・取得（redhat_docs_search / redhat_docs...</description>
+<title>【Qiita】 【Claude Code】「サブエージェント、まだ分けますか？」Anthropicの「畳む」ガイドからサブエージェントの要否を考える</title>
+<link>https://qiita.com/yosuke-suzuki/items/33fbcc44c1c219f7b104</link>
+<guid>d4a962c9e4174856d7a38c57e2139e927e3064d3a1e799c54a7e7cfd62df6bcc</guid>
+<pubDate>2026-11-08T23:59:13+09:00</pubDate>
+<description>はじめに 個人で「もくもく問題集」というクラウド資格の問題集アプリを開発しています。 環境づくりから開発・作問に至る全てをClaude Codeにほぼ任せており、サブエージェントは今12体です。10月以降だけで、起動は延べ4,130回です。 リリースまでの仕組みが作られて...</description>
 </item>
 <item>
-<title>【Qiita】 Anthropic「エージェントメモリの構成要素」を読む — 記憶は未来への予測で、「ドリーミング」が直す</title>
-<link>https://qiita.com/hisashi-ito/items/1fc0ee63487760daa7e2</link>
-<guid>3bcc1c00f6c656d1e583fe900894519668729ce27d64730544173c820189d007</guid>
-<pubDate>2026-11-08T18:18:21+09:00</pubDate>
-<description>この記事は、Meta の AI アシスタント Muse が調査と要約・執筆を行い、伊東 久が企画・論点の設定・最終確認を行ったものです。 2026年11月6日、Anthropic がリサーチブログに &quot;The components of agent memory&quot; を公...</description>
+<title>【Qiita】 Museの設定、Webよりアプリの方が探しやすい — Soul.mdとPermissionsの地図</title>
+<link>https://qiita.com/Kazeneko/items/7446244eafb553bf04c0</link>
+<guid>7f143d2fbb8804f7d5e888b12655a5a706bf942deb1f6276c7d37b1847bf352a</guid>
+<pubDate>2026-11-08T23:58:23+09:00</pubDate>
+<description>はじめに Muse の設定、Web 版だと「どこだっけ？」となりがちです。体感では アプリの方が探しやすい です。 しかも、どの画面か分からなくても大丈夫なことが多いです。チャットで「学習をオフにして」「Permissions を Always ask にして」と頼めば、...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code の git ガード hook、危険な git コマンド30パターン中15個は素通りでした</title>
-<link>https://qiita.com/Skillselion/items/11c07f0851d580164a28</link>
-<guid>084409c211509e41afe94d243389d9ee02a3ca96ab450cbd2a0c15898f1daa96</guid>
-<pubDate>2026-11-08T18:17:15+09:00</pubDate>
-<description>最終更新: 2026年11月8日 Skillselion の git スキルガイドでインストール数1位になっている git-guardrails-claude-code の hook を、2026年11月8日に手元で検証しました。危険系として用意した30パターンのうち、止ま...</description>
-</item>
-<item>
-<title>【Qiita】 Codex CLIからosFoundryのセッションに仕事を渡す前の確認ポイントまとめ</title>
-<link>https://qiita.com/bestai/items/2d920cfa225013d842a3</link>
-<guid>9795ab12ea01b8fde03f2b9a7ef1316fe5e383cfabf5e168e2b76e0709772e24</guid>
-<pubDate>2026-11-08T17:28:37+09:00</pubDate>
-<description>この記事でやること Codex CLIからosFoundryのエージェント・チーム・ループのセッションに仕事を渡すとき、どの席とスコープを選べばいいかを整理します 引き継ぎの提案(propose_session_handoff)とrunの依頼(request_sessi...</description>
-</item>
-<item>
-<title>【Qiita】 コーディングに人間は不要。今後のシステム開発手法「ソフトウェアファクトリー」とは</title>
-<link>https://qiita.com/udowanllc/items/fc8e91e07228db5262a3</link>
-<guid>c31c71a5ff14442f4da65f84fa46570bef8072ac85e9cde108d727fc8a0e7479</guid>
-<pubDate>2026-11-08T16:13:05+09:00</pubDate>
-<description>最近のAIによるコーディングは性能がかなりあがっており、はっきりいって人間よりも高品質なコードを高速に書き上げることができる。ここ1年の伸びは特に大きく、テストに合格するためだけのテストを書くようなことも最近はほとんどない。人間が埋め込みがちな基本的な問題、たとえばN+1問...</description>
-</item>
-<item>
-<title>【Qiita】 0。Anthropicが初めて外部パブリッシャー(AP通信)とライセンス契約を結んだ日、自分が書いた記事257本に、自分で決めた再利用条件が書かれていた本数だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/799e973286a8294dcd98</link>
-<guid>a0d1c9d679e4ef4b33b95a4ea7873f69cfe2a86f578fe830b3c7135f02aa1ac5</guid>
-<pubDate>2026-11-08T15:29:40+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿パイプラインがこれまでに公開した記事(Zenn120本、Qiita137本、合計257本、今回追加分は含まず)のうち、「この記事をAIの学習やサービスにどう再利用してよいか」を自分自身...</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>c76cc24aca1a5084410b6dd6c066ebbdbdb60b5746045c5521f1c100c684771a</guid>
-<pubDate>Sun, 08 Nov 2026 09:42:32 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>e5df1b41b899d454d48e386c9dcc2c2ed6c46726f201cc6e2b7361f0bef5c883</guid>
-<pubDate>Sun, 08 Nov 2026 09:42:35 GMT</pubDate>
-<description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>507d91b4906d4b5e259d1a360383ec02e27bf559ced5cfe5f2167ab189fdf418</guid>
-<pubDate>Sun, 08 Nov 2026 09:42:37 GMT</pubDate>
-<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
+<title>【Qiita】 エージェントのメモリ設計を見直す7つの具体策｜Anthropicの記事から実装に落とす</title>
+<link>https://qiita.com/Tomcat-zhou/items/32c085c83e173d115468</link>
+<guid>942ab0cf8e1efba05b0f3ff529160651b63d0c906a438251f8518487e25eb872</guid>
+<pubDate>2026-11-08T23:44:43+09:00</pubDate>
+<description>title: &quot;エージェントのメモリ設計を見直す7つの具体策｜Anthropicの記事から実装に落とす&quot; tags: - AIエージェント - LLM - Claude - メモリ - 設計 private: false はじめに Anthro...</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>d4fde203754881cd19071985221133ade4b6c5894f31383a67e4531fa494db9d</guid>
-<pubDate>Sun, 08 Nov 2026 09:43:11 GMT</pubDate>
+<guid>700861f55e89ea4c95d4dcb9c67b08b4ecb3905b78be1413e171bde343aabc01</guid>
+<pubDate>Sun, 08 Nov 2026 16:27:50 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
-</item>
-<item>
-<title>【環境】 Would you trust an emergency alert written by AI?</title>
-<link>https://grist.org/?s=AI</link>
-<guid>34652e24106196d91623e0c738a9a52ce63ce4fd9c93f275ff82891d8e310455</guid>
-<pubDate>Sun, 08 Nov 2026 09:43:20 GMT</pubDate>
-<description>Human beings struggle with disaster communication. Chatbots can help — if people take them seriously.</description>
 </item>
 
 </channel>
