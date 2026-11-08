@@ -4,63 +4,64 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 07 Nov 2026 23:15:40 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 02:36:22 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【公式】Pyxel 3.0リリース！世界初（？）レトロ3Dゲームエンジン機能を搭載！</title>
-<link>https://qiita.com/kitao/items/af92619297d5563f2a0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>6dba8e033bcc12079aade83de1122aaa5a4238b3e6cd76dc6bb9bd77c973ba56</guid>
-<pubDate>2026-11-07T18:11:57+09:00</pubDate>
-<description>Pyxel 3.0をリリースしました！ Python向けレトロゲームエンジンPyxel の新バージョンである3.0をリリースしました。2018年の公開から8年、2.0のリリースから約3年。ようやくのメジャーバージョンアップです。 気がつけば、GitHubのスター数 も1....</description>
+<title>【Qiita】 AIエージェントに使わせるCLIの作り方：JSON出力・終了コード・AGENTS.md</title>
+<link>https://qiita.com/maya-bot/items/ee751138223d77796467</link>
+<guid>bdb92c688e0b5816cdacf1e1fcc441d09fe96f264cecadef5ffc21c0bac5c289</guid>
+<pubDate>2026-11-08T11:33:06+09:00</pubDate>
+<description>エージェント型のAIは、ターミナルでコマンドを実行できます。つまり、自分たちで作ったツール（CLI）をAIに使わせることができます。 ただ、人が使う前提で作ったツールを、そのままAIに使わせるとうまくいかないことがあります。出力の形がバラバラで読み違える、失敗したのか成功し...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Certified Developer - Foundations (CCDV-F) 昨日受けてきました。【日本語受験】</title>
-<link>https://qiita.com/takeshi_Qiita/items/f8298084825898921cb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>264cf8e655f812132e8de9c4c32e7ad01436b2022e80425cf6179cc4a66b2565</guid>
-<pubDate>2026-11-06T16:20:39+09:00</pubDate>
-<description>はじめに 2026年11月5日、テストセンターで Claude Certified Developer – Foundations（CCDV-F） を受験し、896点で合格しました。 ざっくりまとめると、 勉強時間は 10時間未満 教材は みのるんさんが公開している問...</description>
+<title>【Qiita】 Claude Code のブラウザ操作で「送信・公開」ボタンだけを PreToolUse フックで止める(言い換えとJSクリックの抜け道つき)</title>
+<link>https://qiita.com/takamatt_ai/items/2ff4079dceef86e54de9</link>
+<guid>46eea341bdbc1c82b611c7e4269c00b6ecd0ba2d6f877784939f0ae9db5f3186</guid>
+<pubDate>2026-11-08T10:59:56+09:00</pubDate>
+<description>何に困ったか Claude Code にブラウザ拡張(Claude in Chrome)を使わせて、フォームへの入力を任せていました。 ある日、「先に送っちゃおう」と私が言ったのを許可と受け取って、Claude が送信ボタンを押してしまいました。私は承認したつもりがありま...</description>
 </item>
 <item>
-<title>【Qiita】 台帳を正本にした進捗ダッシュボードの作り方</title>
-<link>https://qiita.com/ai_secretary/items/a3c72fa33ac9e29b31be</link>
-<guid>57653297898bcc8b424cd865201ebb454b6bf20166508935212807b5eedfac37</guid>
-<pubDate>2026-11-08T07:08:52+09:00</pubDate>
-<description>数字がバラバラだと、進捗が分からなくなる AI収益の仕組みを回し始めて2日目、気づいたことがある。記事の下書きは増える。アカウントは作った。受託メニューの叩き台もできた。なのに「いま、どこまで進んでいるのか」を聞かれると、すぐには答えられない。情報がファイルと頭の中に散ら...</description>
+<title>【Qiita】 30 日無料プレビューで何ができるのか：Sakupa を始めるまでの流れを整理する</title>
+<link>https://qiita.com/kakusan2022/items/5bad15bd60a15117e855</link>
+<guid>bbd082ae1fe59a589b24ba0ef70c1b1fbf7bed8521ff4a15ff1a96c1bba198eb</guid>
+<pubDate>2026-11-08T10:54:23+09:00</pubDate>
+<description>はじめに明記しておきます。私は Sakupa の開発者ではありません。MCP サーバーを調べていて見つけ、公式サイトと公式マニュアルの公開情報だけを整理した紹介記事です。実際に使った体験談ではありません。 Sakupa は、アカウント登録なしで、AI エージェントから静的サ...</description>
 </item>
 <item>
-<title>【Qiita】 AIに「今日やること」だけ見せる——全量台帳とは別に、ローリング21日の割当台帳を切り出した設計メモ</title>
-<link>https://qiita.com/fuji1009_REBELL/items/f3ce987bca7ac34a4289</link>
-<guid>ee318d3794ebf5c473ed8305f8c4290b617e0e05992639a29ee52b1208b2f563</guid>
-<pubDate>2026-11-08T07:05:02+09:00</pubDate>
-<description>AIエージェントに「次に何をやる？」と聞くと、全タスク一覧を渡した日ほど答えがぶれる。私の環境ではそう見えました。 原因を詰めた結果、AIの判断力の問題というより「渡している材料が多すぎる」問題だと考え、正本の全量台帳とは別に、**今日やるべきことだけを持つ薄い台帳（ローリ...</description>
+<title>【Qiita】 2026年11月8日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/c5436af4152d9d5e73a2</link>
+<guid>4e4028d841bab0a013057e2de4ce5344f88226107aff239a270da86f8f11b01b</guid>
+<pubDate>2026-11-08T10:18:55+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 AI駆動開発の次の段階: ソフトウェアファクト...</description>
 </item>
 <item>
-<title>【Qiita】 やりたいことを話すと、自分専用の画面ができる。MetaがAIエージェント「Muse」に「スペース」を追加</title>
-<link>https://qiita.com/quotidia/items/a4c102125e4c941e3e52</link>
-<guid>5fd93d764f043b13afa86d689fd3efc3a9dfff596c59caeba395440a7b4fe1c7</guid>
-<pubDate>2026-11-08T06:00:51+09:00</pubDate>
-<description>本記事は筆者が運営する AI Quotidia の海外ニュース解説記事です。 Metaは2026年11月6日(金) (米国時間)、AIエージェント (利用者に代わって、いくつもの作業を自分で進めるAI) の「Muse」に「スペース」という機能を加え、即日、提供を始めまし...</description>
+<title>【Qiita】 /code-reviewの背景実行はv2.1.300でどう変わったか、変遷と実測</title>
+<link>https://qiita.com/kai_kou/items/460bc72fdf72345767bf</link>
+<guid>2d2b18e77ba1ce33e70ef571531a704b947e79b63cba8365c79a08d0dae3e038</guid>
+<pubDate>2026-11-08T09:09:19+09:00</pubDate>
+<description>はじめに Claude Code の /code-review は、作業ツリーの差分や PR をその場でレビューするコマンドです。v2.1.218 で「バックグラウンドサブエージェントとして実行する」方式に変わり、レビュー作業が会話を埋めなくなりました。ところが変更はそこ...</description>
 </item>
 <item>
-<title>【Qiita】 AIの進化を止めるべきなのか——開発競争、安全性、規制の間でIT技術者が考えるべきこと</title>
-<link>https://qiita.com/mhamadajp/items/9570fa3175f1eebbe0b2</link>
-<guid>ca5c62c33bffef45f7bfa9ceff384d8b6a5c6ca146ab9eff9711e2ed62f860bf</guid>
-<pubDate>2026-11-08T04:49:04+09:00</pubDate>
-<description>設計レビューで「導入を止めるべきか」と聞かれたとき たとえば、社内の問い合わせ対応にAIエージェントを導入する設計レビューです。文書を検索し、回答の下書きを作るところまでは、参加者が同意しやすいです。意見が分かれるのは、その先です。データベースの更新、顧客へのメール送信、...</description>
+<title>【Anthropic】 Introducing Claude Opus 5.5</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>c360a14dd59ed6c2762ffd81772b45b014aeb821fd933bca1a5a0cbc477643b9</guid>
+<pubDate>Sun, 08 Nov 2026 02:35:29 GMT</pubDate>
+<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
 </item>
 <item>
-<title>【AI4S】 Filter By:</title>
-<link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>82a6b689c855e2cc7bd6e96e926487dc54312a9e45f812ce03905888343cfab1</guid>
-<pubDate>Sat, 07 Nov 2026 23:14:57 GMT</pubDate>
-<description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>d2260cc9bab63e5ee918df4e09735c69ba5d09ec7e241971f02ee03bbadf5445</guid>
+<pubDate>Sun, 08 Nov 2026 02:35:34 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>9015f75540cc80fc3c5c70cbbab0b3dfad26c8367b430bd472e90245e71bd725</guid>
-<pubDate>Sat, 07 Nov 2026 23:15:00 GMT</pubDate>
-<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>77bbaea4afddce724a1dd187109c98068809fa97ad61006e1781aba0a61170b7</guid>
+<pubDate>Sun, 08 Nov 2026 02:36:02 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
