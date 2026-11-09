@@ -4,63 +4,92 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 09 Nov 2026 00:19:50 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 06:58:05 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AAP の設定登録を IBM Bob と相談して Python で自動化した（ジョブテンプレート 11 個とワークフローを 1 コマンドで登録）</title>
-<link>https://qiita.com/c_u/items/3015fef7d944c4526466</link>
-<guid>fc50bbaa940e101686e735197a0f99ed7e3807edc3fbc63aaea6e6a7d6c30d82</guid>
-<pubDate>2026-11-09T08:08:44+09:00</pubDate>
-<description>はじめに AAP (Ansible Automation Platform) では、プロジェクト、インベントリ、ジョブテンプレート、ワークフローなどの設定を、手動または Configuration as Code で登録できます。 今回は、その中から IBM Bob と相...</description>
+<title>【Qiita】 IBM i 7.6 TR3 の概要（発表レターの内容） 2026.10.27</title>
+<link>https://qiita.com/gomAnomalocaris/items/b1da49957b4a2eb794d0</link>
+<guid>6b720d4305f85c02e4b9c6304eb65f78b8aaba05005d844527709d12792c8978</guid>
+<pubDate>2026-11-09T10:52:00+09:00</pubDate>
+<description>IBM i 7.6 TR3 と 7.5 TR9が発表されました。 原典：IBM adds new capabilities and enhancements with IBM i 7.6 Technology Refresh 3 IBM i 7.6 TR3 出荷開始予定日...</description>
 </item>
 <item>
-<title>【Qiita】 動画作成で使用するFFmpeg、コーデックのライセンス調査</title>
-<link>https://qiita.com/c_u/items/413c638f31c5f73face8</link>
-<guid>3af9f1419eb4ba3b15d12f04724ead6fca6ac1f2d45acae7ac3a335c03282e2e</guid>
-<pubDate>2026-11-09T08:08:14+09:00</pubDate>
-<description>はじめに 普段、Mac で動画や音声を変換する際に、FFmpeg も利用しています。スライド画像と読み上げ音声を組み合わせて、ナレーション付きの MP4 動画を作ることもあります。 FFmpeg やコーデックには、利用や配布の条件があることを知りました。 気になったのが、...</description>
+<title>【Qiita】 ClaudeにosFoundryのナレッジベースを引かせるときの確認ポイントまとめ</title>
+<link>https://qiita.com/bestai/items/7378d297787664e24858</link>
+<guid>502b46cc5643c07121e38dc689ff927dea3206efd1f13aa9c49e6a481a79271a</guid>
+<pubDate>2026-11-09T15:10:31+09:00</pubDate>
+<description>この記事でやること ナレッジベース用のMCPツールが何を必須にしているかを、curlとjqで確かめる Claudeが「記事が見つからない」「出典が付かない」と言うときに、どこを順に見ればいいかを整理する 出典付きで答えさせ、あとで古くなった回答を洗い出すためのプロンプト...</description>
 </item>
 <item>
-<title>【Qiita】 MCP・MCP Apps・WebMCPは何が違うのか？どう使い分けるかを整理する</title>
-<link>https://qiita.com/tamakiiii/items/e646041d87869de59b8d</link>
-<guid>88e370dc0ddc9b34999b7163815b5a790e03f6397e220f200b55cc6dc7d3b393</guid>
-<pubDate>2026-11-09T08:21:41+09:00</pubDate>
-<description>はじめに 名前に「MCP」がつく技術に、MCP、MCP Apps、WebMCPの3つがあります。どれも、AIと外部のサービスやWebページを連携させるための技術です。名前が似ているこの3つは、どんな場面で使い分ければよいのでしょうか。 この記事では2026年11月5日時点...</description>
+<title>【Qiita】 AIの「正しそうな技術判断」に、製品の意味が紛れていた――Questionsで試した権限境界の検証</title>
+<link>https://qiita.com/kayowa/items/ccba83d68748c2dfed76</link>
+<guid>79e0e2afb287515cf0b8aed8a30cc3bc6f383ade419fbe5dd49fd29a8ab8971d</guid>
+<pubDate>2026-11-09T14:06:37+09:00</pubDate>
+<description>はじめに 家計簿アプリを考えていたら、AIがこんなルールを置いていました。 解析・取込したデータは、人間が確定するまで月次の集計に入れない。 安全そうです。むしろ慎重で、いい設計に見えます。 でも、その確認操作を必須にすることは、誰が決めたのでしょうか。 今回扱うのは...</description>
 </item>
 <item>
-<title>【Qiita】 【魔法少女マンガ】データのそばに、AIを！ ～ベクトル検索からエージェントまで～</title>
-<link>https://qiita.com/yuji-arakawa/items/0c98326c8ffdfc6260a2</link>
-<guid>f19cfcdc96c460027e8a881a10e4311e43d74fa749dc5eabeea10daafa079446</guid>
-<pubDate>2026-11-09T08:11:01+09:00</pubDate>
-<description>魔法少女アイ ～データのそばに、魔法を。～ 「このマンガについて」をテキストで読む このマンガについて 本作は、ベクトル検索からRAG（検索拡張生成）、AIエージェントといった話題を「データのそばに、AIを」という考え方を中心に魔法の世界に例えて解説したファンタジー...</description>
+<title>【Qiita】 【連載2/5】「SaaS is Dead」とは何だったのか？ ── 2026年2月、市場で何が起きたか</title>
+<link>https://qiita.com/keiichik_kk/items/8e208897a62170f939d9</link>
+<guid>61e1b693d4795919dc48da3a54c73c478d03f85ad9f2b3c926e039db674fcfbb</guid>
+<pubDate>2026-11-09T13:17:32+09:00</pubDate>
+<description>この回の結論 2026年2月、AIエージェント製品の発表をきっかけにソフトウェア株が急落した（通称 SaaSpocalypse） 売られ方は一様ではなく、「AIに代替されやすそうか」で二極化した 株価は市場の期待を映すもので、SaaSの利用実態がその日に変わったわけで...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeで株式投資のバックテストを自動化した【Yahoo Finance MCP × Notion】</title>
-<link>https://qiita.com/okikusan-public/items/f468381c5a2c21311bda</link>
-<guid>9a88a57d9196c90496ecf2cb45a6b3671d7892ab733904c5c4eb0190c0b7c0cf</guid>
-<pubDate>2026-11-09T07:23:19+09:00</pubDate>
-<description>はじめに AIに株を分析してもらっても、最後は自分が迷っている。 「今は買っていいのか」「下がったけれど売るべきか」「もう少し待った方がいいのか」。 これまでClaude Codeでスクリーニングや分析を自動化してきましたが、分析が詳しくなっても、日々の判断にかかる負担は...</description>
+<title>【Qiita】 Claude Code への「指示の技術」【連載：Claude Code で環境構築 2】</title>
+<link>https://qiita.com/dsol_y_matsuda/items/3b9d896c5643aa925278</link>
+<guid>016213ec5e7c88e759f397d10d8996a07eaf1aa9e4780710d864f49a4a8e129d</guid>
+<pubDate>2026-11-09T13:01:22+09:00</pubDate>
+<description>はじめに NTT ドコモソリューションズの松田と申します。 本連載「Claude Code で環境構築」では、実際に使用するサーバの環境構築を Claude Code を活用して自動化する中で得られた気付きやノウハウをまとめていきます。 AI エージェントに環境構築を任せ...</description>
 </item>
 <item>
-<title>【Qiita】 ⚡Databricks Agent Engineering入門⚡ Unity Catalog Connectionとは？外部DB・API・MCPへの安全な接続設計</title>
-<link>https://qiita.com/mellowlaunch/items/c0e84ffee7d526c71eef</link>
-<guid>e13cdaab4c3ae2ceab3b8b4dab3b0a79cd0c7096e731a80ac1169b596cce5c7c</guid>
-<pubDate>2026-11-09T08:00:54+09:00</pubDate>
-<description>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 ####『ゼロから触ってわかった！AI Agent Observability入門― MLflow・Data...</description>
+<title>【自動自律実験】 COP31 kicks off as planet faces imminent overshoot of 1.5°C climate target</title>
+<link>https://www.nature.com/articles/d41586-026-03631-w</link>
+<guid>a8905b0d904e2316e62de5cb894e741ee93e4a64f9881c91ff2a009bc7672e2f</guid>
+<pubDate>2026-11-09</pubDate>
+<description>Scientists say governments must commit to carbon dioxide removal if world is to bring temperatures back down to safer limits.</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Opus 5.5</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>787ce6759ef4d82b7b084a049bf5a9c7d1fe90872bf6eeba72d8a2f024a055a4</guid>
-<pubDate>Mon, 09 Nov 2026 00:19:01 GMT</pubDate>
-<description>Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.</description>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>f8311a9aab70fd5abcfa764914ddc99151a0d74d88659f43587df86291d5bd50</guid>
+<pubDate>Mon, 09 Nov 2026 06:57:16 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>db8460a62af2f45028df5d2a1a35363add9ecd0e7ed04f8f7bf4b7b791288731</guid>
-<pubDate>Mon, 09 Nov 2026 00:19:10 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-79039-x</link>
+<guid>117dcc5dace3232743bacab64dc62b8155730bb16a14765375efea75fbab4ddf</guid>
+<pubDate>Mon, 09 Nov 2026 06:57:19 GMT</pubDate>
+<description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-11228-6</link>
+<guid>8888e8f1a5cf21b2ef355abba02416998c857dd3cad214063123708f123ace05</guid>
+<pubDate>Mon, 09 Nov 2026 06:57:22 GMT</pubDate>
+<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43586-026-00542-y</link>
+<guid>abf238c2da1f29c55e52f0d4abad9ec970cc87f859a4113c8134f9f1cc99a67b</guid>
+<pubDate>Mon, 09 Nov 2026 06:57:25 GMT</pubDate>
+<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
+</item>
+<item>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>c06f8036532fbcf0a426cc082281e4c7204bd99b66a18baafb6ea583ff876681</guid>
+<pubDate>Mon, 09 Nov 2026 06:57:46 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>f1315843e754609557ac481f6040c36a6dd63b3fb9ba127662fa2779f5e9a1f3</guid>
+<pubDate>Mon, 09 Nov 2026 06:57:47 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
