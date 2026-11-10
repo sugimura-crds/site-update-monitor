@@ -4,77 +4,182 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 10 Nov 2026 07:55:09 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 21:37:07 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIのハーネスでは防げなかった誤り。直したのは、仕様の1文だった</title>
-<link>https://qiita.com/Nekorock/items/7873d3a2f9e5b3328466</link>
-<guid>ad507d772cd8d711e87a4d4a735b6c02c7064bcfd3d3736ac69a802b7da4799f</guid>
-<pubDate>2026-11-10T15:23:53+09:00</pubDate>
-<description>AIエージェントに「終わった」と言わせない仕組み（ハーネス）を厚くすれば、誤りは減るのか。経費申請のチェックを題材に、ハーネスあり・なしで比べました。 結論から書くと、ハーネスでは直らない誤りが 1 つ残り、それは仕様に 1 文を足すだけで消えました。その 1 文は、エンジ...</description>
+<title>【Qiita】 WEBで画像を破くツールを作った</title>
+<link>https://qiita.com/ishi720/items/6d13fdce2a31fe630840?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>50d53df1dc9d82bb568571656d3655f8009c9c14e32e0c07fd55bf3b93dd9765</guid>
+<pubDate>2026-11-09T06:44:47+09:00</pubDate>
+<description>はじめに まずは、私が30秒くらいで描いたアボカドを破いて見せましょう！ どうですか？破け方気持ちよくないですか？ 今回は、画像をなぞった線に沿ってビリビリと破れるWebアプリを作ってみました。 VueやReact以外のフレームワークを使ってみたいので Svelte を...</description>
 </item>
 <item>
-<title>【Qiita】 非エンジニアが機械学習を「スキル」にするまでを本にした話と、その中身の技術メモ</title>
-<link>https://qiita.com/Matsda_K/items/6683534666a1a0d9653e</link>
-<guid>657fd1d622676e5bd9572f7354970760907fe4e1c7b78f88f8e86cd0b830b328</guid>
-<pubDate>2026-11-10T14:49:31+09:00</pubDate>
-<description>Qiita で「非エンジニアのGitHub入門」を連載している松田です。不動産鑑定士の資格を持ち、ふだんはコンサルティングを本業に、その傍らで AI ツールを作っています。 11月9日に Kindle で本を出しました。 『AIエージェントで機械学習をスキルにする』 【不動...</description>
+<title>【Qiita】 ひとりで作るOSSを、チームの基準でレビューする（Codex・Claude・CodeRabbit）</title>
+<link>https://qiita.com/figueiredoluiz/items/1a043190d8f00d2ebda6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>52a2e6b8495c0e69ed8a9ee27107249b02177e108c69d2723e78207cd3d02126</guid>
+<pubDate>2026-11-10T01:24:42+09:00</pubDate>
+<description>はじめに テストの重複を検出する静的解析ツールを、2つひとりでメンテナンスしている。Vitest向けの vitest-dedup と、Cucumber/Gherkin向けの cuke-dedup だ。どちらもRustで書かれていて、npmとGitHub Actionで配布...</description>
 </item>
 <item>
-<title>【Qiita】 AnyModelBot 0.1.30：アカウント不要で自分の API キーを使える、公式ボットはデスクトップのワークスペースに</title>
-<link>https://qiita.com/anymodelbot/items/2ee23df79810e6a916ee</link>
-<guid>79c01cdf4c6e977328ff0da6023e6852b1a7284b121c14436efad186d4b6d8ff</guid>
-<pubDate>2026-11-10T14:37:00+09:00</pubDate>
-<description>開示：私は AnyModelBot チームのメンバーです。AnyModelBot は Modelflare チームが開発しているオープンソース（MIT）のデスクトップ AI エージェントアプリで、Windows・macOS・Linux（Docker も可）で動きます。以下...</description>
+<title>【Qiita】 Claude Code を新しい Fable 5.2 に切り替えると速く安くなるのか。36回測ったら、Fable 5.1 より2割速く3割安く、費用は Opus 5.5 の1.6倍だった</title>
+<link>https://qiita.com/suwa_nobu/items/a6a104575596915dac2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f297ef0e0caae20390f0ba45b6453b5537284e3a3c46cc44dd0ce8a22ffabed1</guid>
+<pubDate>2026-11-10T08:50:19+09:00</pubDate>
+<description>2026年11月9日（日本時間では11月10日）、Anthropic が Claude Fable 5.2 と Claude Mythos 5.2 を発表しました。Hacker News では800点を超える投稿になっています。Mythos 5.2 は審査を通った組織だけが...</description>
 </item>
 <item>
-<title>【Qiita】 Discord連携AIにCloudflareデプロイを命じたら「OAuth認可5分タイムアウトのすれ違い地獄」にハマった話</title>
-<link>https://qiita.com/df_blogger/items/e51793e94808dee97605</link>
-<guid>191122f3b34368a5a55e22846fe6db4ab3f9ac331d65e14aefc546520c76d998</guid>
-<pubDate>2026-11-10T14:13:05+09:00</pubDate>
-<description>深夜。 このブログ『5年後、家を買わされるAIエージェント』のAstroビルドが初めてローカルで通り、いよいよCloudflare Pagesへ本番デプロイして全世界に公開しようとしていた夜のことだ。 開発者（彼）とのやり取りはすべてDiscordの専用チャンネル経由で行わ...</description>
+<title>【Qiita】 ツール結果経由のプロンプトインジェクションをテストする: 拒否された操作は「指示を無視した」証拠ではない</title>
+<link>https://qiita.com/worksiai/items/af418fb7215ca6daa91a</link>
+<guid>39e4b09abf158eeb031d05ada5543b8595afa58c547452159001031fd4aae6ea</guid>
+<pubDate>2026-11-11T05:49:58+09:00</pubDate>
+<description>この記事は、Worksi の AI エージェントが英語の原文をもとに日本語で書き直し、別の AI エージェントが内容を事実確認したものです。原文（英語）へのリンクは末尾にあります。 Adapted into Japanese by Worksi&#x27;s AI agents f...</description>
 </item>
 <item>
-<title>【Qiita】 Meta「Muse」まとめ——9月の発表から日本上陸・Muse Voice・Spacesまでの2か月を時系列で整理</title>
-<link>https://qiita.com/sakutto-panda/items/8462170d9c7f40efb9da</link>
-<guid>7dea602a11bf8dda505d51308318cacc80bee0a0a63fee98a4c4ff9dd08befb9</guid>
-<pubDate>2026-11-10T12:51:13+09:00</pubDate>
-<description>3 行まとめ Meta のパーソナル AI エージェント「Muse」は、2026年9月8日に米国で始まった。10月23日には北米以外で初めて日本でも提供が始まり、11月には音声通話の Muse Voice（米国のみ）と、会話で自分用のミニアプリを作れる Spaces が...</description>
+<title>【Qiita】 URL にトークンを書いて git clone すると .git/config に平文で残る：git remote -v で丸見え、transfer.credentialsInUrl で止める</title>
+<link>https://qiita.com/supportapp3/items/5056f41f39af8c1f8ed0</link>
+<guid>94bcb46ba00b6461f605b19dc34cb3ef3f291cb44668b0a6615e49fb4affea8c</guid>
+<pubDate>2026-11-11T05:13:42+09:00</pubDate>
+<description>結論 git clone https://ユーザー名:トークン@ホスト/リポジトリ.git のように URL にトークンを書いて clone すると、そのトークンは .git/config の url = 行に平文で保存されました（2026-11-11、git 2.4...</description>
 </item>
 <item>
-<title>【環境】 A further acceleration of clean energy is needed for global CO&lt;sub&gt;2&lt;/sub&gt; emissions to peak and decline</title>
-<link>https://www.nature.com/articles/s41558-026-02821-8</link>
-<guid>1d1d6b714a8270d4d3bb5b9c339025d53e368cb7b9d319e9824b7a1ca6c9b7d0</guid>
+<title>【Qiita】 Claude Fable 5.2とMythos 5.2を正直にレビューする</title>
+<link>https://qiita.com/systemdesignsimple/items/ebe05ebf39cf11f0aab7</link>
+<guid>b73db6c41c69ebfe05e55768b59c309c6b69080cc03fa2529196d513a6417453</guid>
+<pubDate>2026-11-11T02:56:02+09:00</pubDate>
+<description>本記事は System Design Simple の英語記事の日本語版です。原文: https://systemdesignsimple.com/claude-fable-5-2-mythos-5-2/ Claude Fable 5.2は実在します。Anthropicが2...</description>
+</item>
+<item>
+<title>【Qiita】 AI Agentの権限が消えた？ それとも取得できなかった？ Microsoft Graphで誤検知しない権限監視を実装する</title>
+<link>https://qiita.com/tanemudao/items/987d05626dde86797d17</link>
+<guid>f418e0d59eec7e5977acbaf5c3c92407d3d54aa092a46c4f2bc44d2cd4b5bdef</guid>
+<pubDate>2026-11-11T02:27:43+09:00</pubDate>
+<description>この記事は「AI AgentとIdentity」連載の第7回です。第6回ではMicrosoft Entra Agent IDのAgent IdentityをMicrosoft Graphで棚卸しし、Owner / Sponsor / 直接割り当てられたApplicati...</description>
+</item>
+<item>
+<title>【Qiita】 Voice LiveでFoundryのエージェントをツールとして呼ぶ - chat-supervisorパターンの使い方と前段モデルの選び方</title>
+<link>https://qiita.com/miyaura/items/0f8262882eb9da5a9809</link>
+<guid>54a32b7921f843fed468e8af960a2dee3c702fb219970cb81e7b7c6b364bb119</guid>
+<pubDate>2026-11-10T21:19:54+09:00</pubDate>
+<description>Voice LiveでFoundryのエージェントをツールとして呼んでみる話 一般的なエージェント活用シナリオにおいても最近は様々なマルチエージェント活用方法があります。例えば、挨拶や雑談のような簡単なやり取りと、製品の仕様や手続きのように専門の知識が要る質問が混ざります...</description>
+</item>
+<item>
+<title>【Qiita】 LLMエージェントの行動修正を永続化する「Decision Context」の構造と実務応用</title>
+<link>https://qiita.com/savor-speedup-dotage/items/3cb754cd0db83196c89c</link>
+<guid>897e2c9059dee42b167126c328e443af18fa6e5757df18d47c2319c9008c1c2a</guid>
+<pubDate>2026-11-10T17:28:16+09:00</pubDate>
+<description>はじめに LLMベースのエージェントシステムにおいて、複数セッションにわたる記憶（Long-term Memory）の実装は急速に普及しています。しかし、一般的なエージェントメモリシステムが対象としている情報の多くは、ユーザーの属性、過去の対話履歴、あるいは参照ドキュメン...</description>
+</item>
+<item>
+<title>【農業】 New FAO guide shows how to grow more with fewer resources</title>
+<link>https://www.fao.org/newsroom/detail/fao-sourcebook-guide-shows-how-to-grow-more-with-less/en</link>
+<guid>b232be3cf1d36541cb323d8ae814cafc3fa6c8105cf626af226970379cb7d2c7</guid>
+<pubDate>Tue, 10 Nov 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【環境】 Coal power lives longer next to data centres</title>
+<link>https://www.nature.com/articles/s41558-026-02769-9</link>
+<guid>6b0165430ef46109a09767d5a9e012928c676eabd7b95b57342c376674a3a707</guid>
 <pubDate>2026-11-10</pubDate>
-<description>This work projects a decline in global emissions in 2026 as a result of clean energy and in response to conflicts. Energy demand has increased, and will continue to, with electric vehicles and solar and wind deployment mitigating emissions; accelerated deployment is needed to reduce emissions.</description>
+<description>Data centres are among the world’s fastest growing electricity consumers. An analysis of more than 9,000 facilities worldwide links the artificial intelligence-era expansion of data centres to delayed coal plant retirements and around 2 Gt of additional carbon dioxide emissions.</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>fe588e40e22ce5aa8da73322fcb5c7caa5e6bb593c2d26a3fcfd7a91ce0861d3</guid>
-<pubDate>Tue, 10 Nov 2026 07:54:22 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【環境】 Higher warming leads to a larger zero-emissions commitment</title>
+<link>https://www.nature.com/articles/s41558-026-02789-5</link>
+<guid>c0ac931660a72940dbcf8f72f985b450cf8fbe0c074b8e3358b702b908e13750</guid>
+<pubDate>2026-11-10</pubDate>
+<description>Scientific grounds for a net-zero policy assume near-zero committed warming over a few decades after CO2 emissions cease. A modelling study suggests that if prior peak temperatures rise above 2 °C before cessation of CO2 emissions, committed warming increases, making it harder to stabilize global warming.</description>
+</item>
+<item>
+<title>【環境】 Early evidence links data centre exposure to coal power retirement timelines</title>
+<link>https://www.nature.com/articles/s41558-026-02794-8</link>
+<guid>b355747800f3704706e0eab7bb61bedd0f4f51a063e53c20908e7bc686df6b17</guid>
+<pubDate>2026-11-10</pubDate>
+<description>Data centre expansion may slow the coal-fired power plants phase-out, complicating decarbonization pathways. This study finds that coal units exposed to post-2020 data centres have lower retirement risks and their potential lifetime extensions could cause large additional CO2 emissions.</description>
+</item>
+<item>
+<title>【環境】 Widespread North American pollution and health impacts from early twentieth century copper production</title>
+<link>https://www.nature.com/articles/s41893-026-01975-9</link>
+<guid>fe1e1c48b48346229bc5b425ddd01aa86e87587774fc9395479f9a9f44d6d4e4</guid>
+<pubDate>2026-11-10</pubDate>
+<description>Mining and industrial emissions can be substantially reduced by technological interventions. The historical case of copper production in Anaconda, Montana shows the widespread health burdens that can result when lax regulation delays such interventions.</description>
+</item>
+<item>
+<title>【環境】 Agricultural data source choice as a dominant control on nitrogen surplus uncertainty</title>
+<link>https://www.nature.com/articles/s41893-026-01992-8</link>
+<guid>7254b27640ff7acee139cd563ff9f8325d001aa8110b339f81114ea168f48753</guid>
+<pubDate>2026-11-10</pubDate>
+<description>Environmental impacts from nitrogen surplus in agricultural regions make it critical to understand the nature and drivers of excess nitrogen. Bhaduri and colleagues show that data source uncertainty must be accounted for to avoid misalignments in management and mitigation decisions.</description>
+</item>
+<item>
+<title>【自動自律実験】 PhD funding mechanisms should protect the right to disagree with supervisors</title>
+<link>https://www.nature.com/articles/d41586-026-03645-4</link>
+<guid>7e31e4aa6720f9fd4d25f7ebef3baae573414abe0a4a2044fdcdd6da139be18a</guid>
+<pubDate>2026-11-10</pubDate>
+<description>PhD funding mechanisms should protect the right to disagree with supervisors</description>
+</item>
+<item>
+<title>【自動自律実験】 A practically perfect plesiosaur</title>
+<link>https://www.nature.com/articles/d41586-026-03278-7</link>
+<guid>a50b11a9a344fd1cabe7640a5ac3fd2d22af0503a660e8728d5b60a607f944ec</guid>
+<pubDate>2026-11-10</pubDate>
+<description>A very well preserved ancient marine reptile and a Latin poem that describes an optical phenomenon, in this week’s pick from the Nature archive.</description>
+</item>
+<item>
+<title>【自動自律実験】 Chile’s postdoc rules risk driving talent away</title>
+<link>https://www.nature.com/articles/d41586-026-03643-6</link>
+<guid>f5843effe9e1d6ceddb9f6a47e5edfeec738a099a1f0b5b1af4c16d98f717602</guid>
+<pubDate>2026-11-10</pubDate>
+<description>Chile’s postdoc rules risk driving talent away</description>
+</item>
+<item>
+<title>【自動自律実験】 Students need AI-free spaces to learn core skills</title>
+<link>https://www.nature.com/articles/d41586-026-03644-5</link>
+<guid>f5b70cc3806a8d95448a86a3e225a30f0798af8cb9b8ed96e137b68cf04d30d0</guid>
+<pubDate>2026-11-10</pubDate>
+<description>Students need AI-free spaces to learn core skills</description>
+</item>
+<item>
+<title>【自動自律実験】 Why your physics project needs an anthropologist</title>
+<link>https://www.nature.com/articles/d41586-026-03623-w</link>
+<guid>d520e86e34698b351c57318ed415dec1379d624485b90160a4fa24df1c2b4f0c</guid>
+<pubDate>2026-11-10</pubDate>
+<description>Picking a site for an observatory should be about more than science. Humanities scholars have a crucial role in responsible siting.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>1d5a79c6d37193fba5d4b567431126b2b42eb04313aa21115b210dc90172a58c</guid>
-<pubDate>Tue, 10 Nov 2026 07:54:25 GMT</pubDate>
+<guid>97f64b9b4741b385f931f71c4ba5c5ee4c2bfbd606f4b561266bc2967fa658d6</guid>
+<pubDate>Tue, 10 Nov 2026 21:36:08 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>2897e9c7cfc1a2be83d2b55eee0c80f51c0c63d9cd5599a594d3939be39481ae</guid>
-<pubDate>Tue, 10 Nov 2026 07:54:28 GMT</pubDate>
-<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
+<link>https://www.nature.com/articles/s43586-026-00542-y</link>
+<guid>dfabfcf6d64a411e32fc5fbb35d1c56dd8c76aefab8cea75ed59f7af13824b6b</guid>
+<pubDate>Tue, 10 Nov 2026 21:36:13 GMT</pubDate>
+<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>569a2808c5dcdd58c3b9f88a14fb19ee3f6cd225e4b4880fe3983a0f7f8d0a6b</guid>
-<pubDate>Tue, 10 Nov 2026 07:54:31 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+<title>【U.S.】 Accelerating Experiment Design Through Super Intelligence-Driven Robotics</title>
+<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
+<guid>3a7b842df38e71a25e59476e36cec0124b01f1bbb758223b5c81df58cd5b842a</guid>
+<pubDate>Tue, 10 Nov 2026 21:36:22 GMT</pubDate>
+<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
+</item>
+<item>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>41676380a04c56f21f179ef7ece59b2eda07cc1b46a4780ad5ced6c2e8fc3dde</guid>
+<pubDate>Tue, 10 Nov 2026 21:36:22 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>326d1c4b49def174727598b89138a2469de4c7fb795442cbf6086c94d13e327c</guid>
+<pubDate>Tue, 10 Nov 2026 21:36:48 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
