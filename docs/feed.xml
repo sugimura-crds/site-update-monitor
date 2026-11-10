@@ -4,92 +4,162 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 09 Nov 2026 06:58:05 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 00:47:23 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IBM i 7.6 TR3 の概要（発表レターの内容） 2026.10.27</title>
-<link>https://qiita.com/gomAnomalocaris/items/b1da49957b4a2eb794d0</link>
-<guid>6b720d4305f85c02e4b9c6304eb65f78b8aaba05005d844527709d12792c8978</guid>
-<pubDate>2026-11-09T10:52:00+09:00</pubDate>
-<description>IBM i 7.6 TR3 と 7.5 TR9が発表されました。 原典：IBM adds new capabilities and enhancements with IBM i 7.6 Technology Refresh 3 IBM i 7.6 TR3 出荷開始予定日...</description>
+<title>【Qiita】 AI「テスト通りました」← これ､本当？ Stryker でテストの穴を塞いだ話</title>
+<link>https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>bd72f9121203e99f264575a956423a5aca8dce1badc2cc05d842d380a461589b</guid>
+<pubDate>2026-11-09T16:45:09+09:00</pubDate>
+<description>AI にテストを書いてもらって、「すべてのテストが通りました」と返ってくる。最近はこれが日常になりました。ただ、そのテストが 本当に何かを確かめているのか と聞かれると、正直、自信を持って答えられない。緑のチェックが並んでいるだけで、壊れても気づかないテストかもしれないから...</description>
 </item>
 <item>
-<title>【Qiita】 ClaudeにosFoundryのナレッジベースを引かせるときの確認ポイントまとめ</title>
-<link>https://qiita.com/bestai/items/7378d297787664e24858</link>
-<guid>502b46cc5643c07121e38dc689ff927dea3206efd1f13aa9c49e6a481a79271a</guid>
-<pubDate>2026-11-09T15:10:31+09:00</pubDate>
-<description>この記事でやること ナレッジベース用のMCPツールが何を必須にしているかを、curlとjqで確かめる Claudeが「記事が見つからない」「出典が付かない」と言うときに、どこを順に見ればいいかを整理する 出典付きで答えさせ、あとで古くなった回答を洗い出すためのプロンプト...</description>
+<title>【Qiita】 集中力散漫＆過集中持ちエンジニアがAWS DEAを突破した「過集中スイッチ」の入れ方</title>
+<link>https://qiita.com/kohYoung_I/items/cce40cb5b9cdfc1f8787?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>23f98b20e8bf1dbb202a5b1c2ac17feb8588d53cb1b90bac3fb86ffc7d9701ad</guid>
+<pubDate>2026-11-09T08:21:58+09:00</pubDate>
+<description>1. はじめに（自己紹介） どうも！最近ゴルフにハマっている注意力散漫＆過集中持ちのエンジニアです。 普段はシステムエンジニアとして働いており、これまで約4年間、データベース関連の開発に携わってきました。 そんな私が今回挑戦し、無事に合格できたのが、AWS Certifi...</description>
 </item>
 <item>
-<title>【Qiita】 AIの「正しそうな技術判断」に、製品の意味が紛れていた――Questionsで試した権限境界の検証</title>
-<link>https://qiita.com/kayowa/items/ccba83d68748c2dfed76</link>
-<guid>79e0e2afb287515cf0b8aed8a30cc3bc6f383ade419fbe5dd49fd29a8ab8971d</guid>
-<pubDate>2026-11-09T14:06:37+09:00</pubDate>
-<description>はじめに 家計簿アプリを考えていたら、AIがこんなルールを置いていました。 解析・取込したデータは、人間が確定するまで月次の集計に入れない。 安全そうです。むしろ慎重で、いい設計に見えます。 でも、その確認操作を必須にすることは、誰が決めたのでしょうか。 今回扱うのは...</description>
+<title>【Qiita】 Bobに「実環境を調べてから計画する」専用モードを作らせた〜Plan と Agent の間を埋めるカスタムモード〜</title>
+<link>https://qiita.com/takumiida1/items/22db33b9092a51570585</link>
+<guid>d38e31ce4bc4d55c33ef99475b36eebdc58d6dc200d248260f3588c204d1b66c</guid>
+<pubDate>2026-11-10T00:54:02+09:00</pubDate>
+<description>Summary Plan にコマンド実行を足した「実環境を調べてから計画する」カスタムモード inspect を Bob 自身に設計・実装させ、実際に Kubernetes クラスターのヘルスチェックを読み取り系コマンドだけで完遂できた コマンドの読み取り専用化はモ...</description>
 </item>
 <item>
-<title>【Qiita】 【連載2/5】「SaaS is Dead」とは何だったのか？ ── 2026年2月、市場で何が起きたか</title>
-<link>https://qiita.com/keiichik_kk/items/8e208897a62170f939d9</link>
-<guid>61e1b693d4795919dc48da3a54c73c478d03f85ad9f2b3c926e039db674fcfbb</guid>
-<pubDate>2026-11-09T13:17:32+09:00</pubDate>
-<description>この回の結論 2026年2月、AIエージェント製品の発表をきっかけにソフトウェア株が急落した（通称 SaaSpocalypse） 売られ方は一様ではなく、「AIに代替されやすそうか」で二極化した 株価は市場の期待を映すもので、SaaSの利用実態がその日に変わったわけで...</description>
+<title>【Qiita】 【2026年11月版】AI Model Chronicle</title>
+<link>https://qiita.com/ManabuYamamoto/items/7b05e77c82648ef3a2f1</link>
+<guid>911a907e08c7b6df945312d6280d2a7fddd7c5c35a12da3a7f5f463693e9e691</guid>
+<pubDate>2026-11-10T09:35:30+09:00</pubDate>
+<description>2025年1月〜2026年11月の主要モデルの系譜とサービス対応状況です。文字が小さい場合は画像を拡大してご覧ください。 はじめに LLM（AI）モデルのアップデートにだんだん追いつけなくなってきたので、個人的な振り返りもかねて、モデルの系譜や価格を整理した図を作成して...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code への「指示の技術」【連載：Claude Code で環境構築 2】</title>
-<link>https://qiita.com/dsol_y_matsuda/items/3b9d896c5643aa925278</link>
-<guid>016213ec5e7c88e759f397d10d8996a07eaf1aa9e4780710d864f49a4a8e129d</guid>
-<pubDate>2026-11-09T13:01:22+09:00</pubDate>
-<description>はじめに NTT ドコモソリューションズの松田と申します。 本連載「Claude Code で環境構築」では、実際に使用するサーバの環境構築を Claude Code を活用して自動化する中で得られた気付きやノウハウをまとめていきます。 AI エージェントに環境構築を任せ...</description>
+<title>【Qiita】 GitHub Copilot app で「自分の文脈」を管理してみる。me.md を作って常に参照させるまで</title>
+<link>https://qiita.com/carol0226/items/3e52fd2570c246b6cf0c</link>
+<guid>47547d8d9cdd3fd6a14bc17e6cdd744feaca1d3c0f213a9cfdd92db9b0644ef0</guid>
+<pubDate>2026-11-08T14:47:37+09:00</pubDate>
+<description>はじめに 私は、昨日、以下の記事を書きました。 この記事では、今まで GitHub Copilot を使わなかった理由から GitHub Copilot app を使うことを決意するところまでポエムを記載していました。 周回遅れ？インフラエンジニア、今さら GitHub ...</description>
 </item>
 <item>
-<title>【自動自律実験】 COP31 kicks off as planet faces imminent overshoot of 1.5°C climate target</title>
-<link>https://www.nature.com/articles/d41586-026-03631-w</link>
-<guid>a8905b0d904e2316e62de5cb894e741ee93e4a64f9881c91ff2a009bc7672e2f</guid>
+<title>【Qiita】 Copilot Studioで社内AIエージェントを作ったら権限まわりでハマった話</title>
+<link>https://qiita.com/keiichik_kk/items/6481699fd401a3eaf938</link>
+<guid>cc1661aa40269e3ffe019cd0b8c85a702085b4bcc90072ca8fecc9aee2cda1bd</guid>
+<pubDate>2026-11-10T09:44:24+09:00</pubDate>
+<description>はじめに Copilot Studioを使って、社内のSharePointやMicrosoft 365の情報を参照できる「社内AIエージェント」を作ろうとしました。 やりたいこと自体はシンプルです。 SharePointの社内資料を検索する Teamsからエージェントを...</description>
+</item>
+<item>
+<title>【Qiita】 コードを1行も書かずに5か月：Agentic Codingの基本ループ</title>
+<link>https://qiita.com/tntetsu/items/ecdbcafdfb553224dbda</link>
+<guid>8d35c43aeee55ff93103d280dbbc793a0da1be03a5d2d432d56e89c1e62aad38</guid>
+<pubDate>2026-11-10T09:22:43+09:00</pubDate>
+<description>この記事の要点 JavaScriptの実行を可視化するツールを、Claude Codeへの指示だけで5か月作り続けました。私はコードを1行も書いていません 基本は「新しい機能は大枠だけ任せる → 使って違和感があれば、詳しく指示し直す」の繰り返しです。却下は、プランを...</description>
+</item>
+<item>
+<title>【Qiita】 【要約】Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku ― タスク別のモデル選びとエフォート調整の実践ガイド 🧭</title>
+<link>https://qiita.com/NaokiIshimura/items/290561d12736aa67219b</link>
+<guid>ecedddc87ad067655a1826a728616e688c3a37fe8c0d6f21dbe2048b44dc76cb</guid>
+<pubDate>2026-11-10T08:54:38+09:00</pubDate>
+<description>はじめに 📝 2026年11月9日に claude.dev ブログで公開された記事 「Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku」（著者: Addy Osmani、Play...</description>
+</item>
+<item>
+<title>【Qiita】 【要約】Safely scaling multi-agent teams with Claude Fable 5.2 ― 1,000エージェントがフェルマーの最終定理のLean証明を再現した実験と、3層の安全設計 🛡️</title>
+<link>https://qiita.com/NaokiIshimura/items/b4a702c76facc9d09949</link>
+<guid>9da6c5b1d1044921d678c07bb2513599e2eeb7a1061227288c775a72e2d9dea3</guid>
+<pubDate>2026-11-10T08:54:36+09:00</pubDate>
+<description>はじめに 📝 2026年11月9日に claude.dev ブログで公開された記事 「Safely scaling multi-agent teams with Claude Fable 5.2」（著者: Barry Zhang、Tianyi Peng、Elle Najt...</description>
+</item>
+<item>
+<title>【環境】 Regional climate change approaches Paris limits</title>
+<link>https://www.nature.com/articles/s41558-026-02797-5</link>
+<guid>e50974a76d1d09da991102d6b2b6ca588fdfb7f0e7dafec3c318062c93a40cc1</guid>
 <pubDate>2026-11-09</pubDate>
-<description>Scientists say governments must commit to carbon dioxide removal if world is to bring temperatures back down to safer limits.</description>
+<description>It has been surprisingly difficult to calculate how much warming different regions of the Earth have experienced since pre-industrial times. Now, research shows that in most land regions, the temperature thresholds that governments agreed to in Paris to keep below are already dangerously close.</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>f8311a9aab70fd5abcfa764914ddc99151a0d74d88659f43587df86291d5bd50</guid>
-<pubDate>Mon, 09 Nov 2026 06:57:16 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【環境】 All IPCC AR6 regions are close to their 1.5 °C- and 2 °C-equivalent warming limits</title>
+<link>https://www.nature.com/articles/s41558-026-02790-y</link>
+<guid>b615691ebd903f3b9dc7be7b759c5764ca06d81da552b710c43280cbccdae11d</guid>
+<pubDate>2026-11-09</pubDate>
+<description>Climate targets are set for global temperatures, but what they mean regionally is less clear. Here the authors quantify the amount of human-induced warming in individual IPCC regions and find that, by 2025, they had reached 90–94% (65–76%) of their expected warming levels at the 1.5 °C (2 °C) global warming t</description>
+</item>
+<item>
+<title>【自動自律実験】 He spent a year on ‘Mars’: NASA science officer emerges from mock mission</title>
+<link>https://www.nature.com/articles/d41586-026-03588-w</link>
+<guid>c1e65b8d8de8aa155eed0ef74572a364edcf14809e8cf7c86c5c3193917bbbca</guid>
+<pubDate>2026-11-09</pubDate>
+<description>Engineer Matthew Montgomery, who just finished a 378-day simulated Mars mission, talks about what it was like to be out of contact with the rest of humanity for a two-week blackout.</description>
+</item>
+<item>
+<title>【自動自律実験】 The super El Niño is more than a climate shock – it’s a health one, too</title>
+<link>https://www.nature.com/articles/d41586-026-03628-5</link>
+<guid>42908a33ce6de8aab03db4c864e84329c2476052ec4ef154f8d6b2f2cc7cfd73</guid>
+<pubDate>2026-11-09</pubDate>
+<description>Food shortages and disease outbreaks are to be expected and need to be addressed together.</description>
+</item>
+<item>
+<title>【自動自律実験】 How to make failure your friend and teacher in science</title>
+<link>https://www.nature.com/articles/d41586-026-03654-3</link>
+<guid>638d28c448573d67b9b0c0e6a76e90fb3655d4c44b30b13c11390d4fa05d9d00</guid>
+<pubDate>2026-11-09</pubDate>
+<description>Apprentices develop expertise after doing monotonous tasks repeatedly and learning from their mistakes. Scientists are no different, argues Ruth Morgan.</description>
+</item>
+<item>
+<title>【自動自律実験】 Carlo Rovelli says fundamental physics is overrated</title>
+<link>https://www.nature.com/articles/d41586-026-03626-7</link>
+<guid>79399a82bb0c6f6f42cbba5acf78b2576b318a6480b7eaae740f8bf3de9ac33c</guid>
+<pubDate>2026-11-09</pubDate>
+<description>The theoretical physicist unpacks the need for more humility in science and whether artificial intelligence could ever become conscious.</description>
+</item>
+<item>
+<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
+<link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+<guid>449a0eaf466eef0d298a567bd7db588b3ecaadb681e61e052140283a8c0e92d9</guid>
+<pubDate>Tue, 10 Nov 2026 00:46:15 GMT</pubDate>
+<description>Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>117dcc5dace3232743bacab64dc62b8155730bb16a14765375efea75fbab4ddf</guid>
-<pubDate>Mon, 09 Nov 2026 06:57:19 GMT</pubDate>
+<guid>75d2a6173aaf2ca2687781d1c13823eb7a1b62690094e946583b17062e2fdd63</guid>
+<pubDate>Tue, 10 Nov 2026 00:46:26 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>8888e8f1a5cf21b2ef355abba02416998c857dd3cad214063123708f123ace05</guid>
-<pubDate>Mon, 09 Nov 2026 06:57:22 GMT</pubDate>
+<guid>e49fb9b21a813ec5c6a6d578fb8c70e310da59b1bc13aebefafc11df68e70d8b</guid>
+<pubDate>Tue, 10 Nov 2026 00:46:29 GMT</pubDate>
 <description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43586-026-00542-y</link>
-<guid>abf238c2da1f29c55e52f0d4abad9ec970cc87f859a4113c8134f9f1cc99a67b</guid>
-<pubDate>Mon, 09 Nov 2026 06:57:25 GMT</pubDate>
-<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>6b0560e691a6b3ded354b2bfe504dbd4d6bf77b4bc30fa621ab3b137ee89209c</guid>
+<pubDate>Tue, 10 Nov 2026 00:46:31 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
 <title>【Korea】 News &amp; Notice</title>
 <link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
 </link>
-<guid>c06f8036532fbcf0a426cc082281e4c7204bd99b66a18baafb6ea583ff876681</guid>
-<pubDate>Mon, 09 Nov 2026 06:57:46 GMT</pubDate>
+<guid>e3153d39547e2ffb917a8a5eb564a2067e9d4d5fe008328c26fd617f16f24a7a</guid>
+<pubDate>Tue, 10 Nov 2026 00:47:04 GMT</pubDate>
 <description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 <item>
 <title>【農業】 総合ランキング</title>
 <link>https://smartagri-jp.com/tag/AI</link>
-<guid>f1315843e754609557ac481f6040c36a6dd63b3fb9ba127662fa2779f5e9a1f3</guid>
-<pubDate>Mon, 09 Nov 2026 06:57:47 GMT</pubDate>
+<guid>cfb804e081722b91296969dada8433afed55514c622e8fc21a8a68fa70205b65</guid>
+<pubDate>Tue, 10 Nov 2026 00:47:06 GMT</pubDate>
 <description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+</item>
+<item>
+<title>【環境】 Would you trust an emergency alert written by AI?</title>
+<link>https://grist.org/?s=AI</link>
+<guid>175b95d0862d886632d0dcc8a302c1b62db0517d2d5b453514b8e47edcf5cc05</guid>
+<pubDate>Tue, 10 Nov 2026 00:47:13 GMT</pubDate>
+<description>Human beings struggle with disaster communication. Chatbots can help — if people take them seriously.</description>
 </item>
 
 </channel>
