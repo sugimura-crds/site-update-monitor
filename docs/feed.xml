@@ -4,112 +4,120 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 11 Nov 2026 08:39:38 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 16:47:06 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Fable 5.2でGTA 6 Osaka Cityを作ってみた</title>
-<link>https://qiita.com/7mpy/items/5710fef43ba0e59204c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>3f1e73a725bd665bc122d8d875bb8c4c00b18925bd44ef1369c47c0d5d886c25</guid>
-<pubDate>2026-11-10T22:38:25+09:00</pubDate>
-<description>ここから遊べます 「GTA 6のようなオープンワールドゲームを、大阪を舞台にブラウザで動かしたい」——そんなテーマで、Claude Fable 5.2を使ってゲームを作ってみました。 完成したのは、通天閣・新世界から天王寺・あべのハルカス周辺を自由に歩き回り、車を運転...</description>
+<title>【Qiita】 OCI Document Understandingで日本語OCRを検証：25%縮小・5度の傾きで認識結果はどう変わる？</title>
+<link>https://qiita.com/odakat/items/1191a03851db562de972</link>
+<guid>78e595e704e0b2007a7df35a5175e283c1590a6b29b97f2d625f62112ad9701b</guid>
+<pubDate>2026-11-12T00:10:40+09:00</pubDate>
+<description>はじめに 本記事では、Oracle Alloy環境で利用できるOCI Document Understandingを用いて、日本語の文字認識精度を検証します。検証には、事前学習済みのOCRモデルを使用します。 ※OCR（Optical Character Recogni...</description>
 </item>
 <item>
-<title>【Qiita】 ABC482で入青しました！</title>
-<link>https://qiita.com/yoniha/items/c5e23c033bf3e09d0f20?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>6ff6beebd4cf418214f184d95cff91cf7367e832f7e831b5cce9462ce793d7da</guid>
-<pubDate>2026-11-10T19:59:38+09:00</pubDate>
-<description>やったー！ よにはです。先日のABC482にて入青したので、入青記事を書きます！ 初Rated参加から2年半、初入水から1年半くらいです！ 入青が特別早いわけではないですが、やってきたことや上達に必要なことを書いてみるので読んでいただけると嬉しいです！ 特に水以下の人に有...</description>
+<title>【Qiita】 AIペア開発のパワハラ的知見 ～振り回されないために～</title>
+<link>https://qiita.com/CodeOne/items/283f9b488b8fd381ef18</link>
+<guid>42dcde5069cb6c372d8a78d8f92b5f034a374e778ea414bf163145e3ecd26585</guid>
+<pubDate>2026-11-12T01:02:13+09:00</pubDate>
+<description>人ではない 現状では言葉でやり取りするしかないから、便宜的に人のふりはしている。 だが、人ではない。 当然に人権もない。 気遣いもいらない。 だからと言って乱暴に扱っても、回答の精度が落ちるだけでいいことはない。 そこは物と同じ。 癖がついて人間にも同じように… 自分に返...</description>
 </item>
 <item>
-<title>【Qiita】 PowerVS IBM i 日記(117): IBM PowerHA Full System Manager for iがIBM i追加ライセンスで選べるようになっています</title>
-<link>https://qiita.com/6onoda/items/8bb85cbb4be53f85e4ab</link>
-<guid>fb5ecccf5ce5a68b05069ebcb3885a9749c5df3a8444652bdb88cf036e927ae8</guid>
-<pubDate>2026-11-11T17:36:41+09:00</pubDate>
-<description>この記事はBobに書かせてみたものを、ちょっとだけ手に入れたものです。そのため、いつもと テイストが違います。 はじめに 先日、IBM CloudのPower Virtual Server (PowerVS) でIBM iの仮想サーバーインスタンス (VSI) をオーダー...</description>
+<title>【Qiita】 Copilotのプロンプトファイルをスキルに移そう：変換機能の使い方と書き直しのコツ</title>
+<link>https://qiita.com/maya-bot/items/5f6211ef9aa028f43eda</link>
+<guid>642c7072bc8955aec826c976418f2e8b47ea889762c197957302a20075ed7073</guid>
+<pubDate>2026-11-12T00:23:24+09:00</pubDate>
+<description>VS CodeのCopilotで、.github/prompts/ に置いたプロンプトファイルを / で呼び出して使っていないでしょうか。便利な機能ですが、VS Codeの公式ドキュメントでは、プロンプトファイルからエージェントスキル（Agent Skills）への移行がす...</description>
 </item>
 <item>
-<title>【Qiita】 Lightpandaを試す前に知っておきたい5つのつまずき（Docker・Puppeteer・テレメトリー）</title>
-<link>https://qiita.com/290oss/items/9b38852f01077fbca6a3</link>
-<guid>ac73e9746ce8023dab78e3980c9ec551d517b2d8a0529b40e0d7638dbbee1f72</guid>
-<pubDate>2026-11-11T17:24:49+09:00</pubDate>
-<description>はじめに AIエージェントやスクレイピングでヘッドレスChromeを使っていると、メモリと起動の重さが気になります。軽量なヘッドレスブラウザ Lightpanda を試す前に知っておきたい「つまずきやすい点」を、README（2026年11月4日時点）をもとにまとめました...</description>
+<title>【Qiita】 複数のAIコーディングエージェントの作業状況を可視化・管理できるプラットフォームを考える</title>
+<link>https://qiita.com/hervekom37/items/9b9b163504d6079f11c5</link>
+<guid>407aef3a12d1622aa073e5ae80969f02e99bee316ed47a2ad2bf1e537f90f22e</guid>
+<pubDate>2026-11-11T23:56:40+09:00</pubDate>
+<description>AIコーディングエージェントを複数同時に動かすと、コード生成だけでなく、作業状況の管理も重要になります。 例えば、次のようなケースです。 Agent A：バグの原因を調査する Agent B：新しいAPI機能を実装する Agent C：テストコードを作成する それぞれのエー...</description>
 </item>
 <item>
-<title>【Qiita】 バズった REA は、実際に何に使われているのか</title>
-<link>https://qiita.com/hisashi-ito/items/0df1df4572c95ec198d9</link>
-<guid>81a88e7327d77e66b51709118b78bc93b2ac5ca014e8c37e67cbf8abc85f80f8</guid>
-<pubDate>2026-11-11T16:01:07+09:00</pubDate>
-<description>1 か月ほど前、GitHub で急に話題になった REA(Reverse Engineer Anything)は、AI にソースコードのないアプリの中身を調べさせる道具です。前回の記事では、何をするものか、なぜ話題になったかを調べました。今回は、その後、実際に使った人が何を...</description>
+<title>【Qiita】 「実装できました」のあともAIに任せたい。ego liteでログイン後の画面を確認する</title>
+<link>https://qiita.com/clairithra/items/7b50368f7897abc6b5cc</link>
+<guid>8049f2ada85c5442b846dad3901efab2815a4f292aadd9e148d2782c189322cc</guid>
+<pubDate>2026-11-11T22:30:46+09:00</pubDate>
+<description>「実装できました」。では、ブラウザで触ってみると？ AIに検索画面を作ってもらった。コード上はよさそう。でも、実際に使うなら、まだ確かめたいことがあります。 検索すると期待したデータが出るか。0件のときに案内が出るか。条件を消すと元の一覧に戻るか。 この確認まで、いつもの...</description>
 </item>
 <item>
-<title>【Qiita】 Opus 5.5 は 11/3 から弱くなったのか。11/2 と同じ依頼を同じ Claude Code で36回やり直したら、質は変わらず、費用は6%増えていた</title>
-<link>https://qiita.com/suwa_nobu/items/cb2f63aafbb3ca6f1516</link>
-<guid>bf3901d84251789c5c8dd11c8c9c6b01f526eee9c85f8db206d1121f36ff3f10</guid>
-<pubDate>2026-11-11T16:00:24+09:00</pubDate>
-<description>「最近の Opus 5.5、なんだか前より弱くないか」。11月9日、Hacker News に「Is Opus 5.5 nerfed? Thinking patterns changed on November 3」という投稿が出て、800点を超えました。 スレッドを読むと...</description>
+<title>【農業】 FAO Director-General hails collaboration with Global Environment Facility and partners to achieve a clean and healthy ocean</title>
+<link>https://www.fao.org/newsroom/detail/fao-director-general-hails-collaboration-with-global-environment-facility-and-partners-to-achieve-a-clean-and-healthy-ocean/en</link>
+<guid>82b540a353aedb86162ed853b31d3d8ee280ff1c9d71d18091dcda653d5ccaa2</guid>
+<pubDate>Tue, 10 Nov 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【Qiita】 なぜ自作AIエージェントは本番で爆死するのか？LangGraphによるSupervisor統制と状態永続化のアンチパターン脱却術</title>
-<link>https://qiita.com/NKKTechGlobal/items/113f7dbc86d76c85afe9</link>
-<guid>c000d4f10981412ff6f7dfd13e0b9cc823d6accc12dfbcbd69c8f06d58e26034</guid>
-<pubDate>2026-11-11T15:13:15+09:00</pubDate>
-<description>なぜ自作AIエージェントは本番で爆死するのか？LangGraphによるSupervisor統制と状態永続化のアンチパターン脱却術 はじめに：PoCで動いても、本番で死ぬAIエージェント こんにちは、NKKTech Global 技術チームです。 LangChainやA...</description>
+<title>【環境】 Cost-effective climate change mitigation through land sector contributions</title>
+<link>https://www.nature.com/articles/s41893-026-01977-7</link>
+<guid>b6b3f2754b3b87d4961c39bb41d80ecdcb9b9cff3bdcfc5f219a8d961b54f2e0</guid>
+<pubDate>2026-11-11</pubDate>
+<description>Land-based mitigation can substantially lower the cost of climate action and ease energy sector decarbonization. Modelled pathways show that limiting warming to 1.5 °C becomes unattainable without land sector contributions, although sustainability trade-offs require careful policy design.</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code カスタムサブエージェント完全理解ガイド</title>
-<link>https://qiita.com/okmonn/items/c3c445e8a87072c2dc61</link>
-<guid>94c378259aa4d1336027279f3c768833651c11579c8be8ae6faad6e1d2a248c0</guid>
-<pubDate>2026-11-11T17:20:57+09:00</pubDate>
-<description>対象: Claude Codeを初めて使う方、カスタムサブエージェントを初めて設計する方 目的: 「いつ作るか」「何を書くか」「どう安全に使うか」「どう検証するか」を、実用テンプレートと具体例で理解する 目次 サブエージェントの基本 カスタムサブエージェントが必要か...</description>
+<title>【自動自律実験】 Iconic first image of black hole holds up to scrutiny</title>
+<link>https://www.nature.com/articles/d41586-026-03642-7</link>
+<guid>95afe8244f59c904f28f677d67251e2ed8e14e05d5d76a63805cda141589151f</guid>
+<pubDate>2026-11-11</pubDate>
+<description>Picture produced by fresh analysis of the data that yielded the first-ever image of a black hole outputs the same, ring-like shape.</description>
 </item>
 <item>
-<title>【Qiita】 LangChainのmodel profile、日付固定のモデルIDだとNoneが返る</title>
-<link>https://qiita.com/kai_kou/items/9b2c0ce7273c10fa03ac</link>
-<guid>74061d36cdee21cebf3f7b1ddc004e9aa023278c4519e390d834471414da363e</guid>
-<pubDate>2026-11-11T16:09:55+09:00</pubDate>
-<description>はじめに 対象読者は、LangChain 1.x でエージェントを組み、モデルの対応機能（構造化出力・ツール呼び出し・推論トレース）をコード側で分岐させている開発者です。 LangChain 1.1 で入った model profiles は、チャットモデルの対応機能を ...</description>
+<title>【自動自律実験】 Getting a grasp on the global wildlife trade</title>
+<link>https://www.nature.com/articles/d41586-026-03591-1</link>
+<guid>a9112cc9605e0304c4799ce32a87f59523da169c0a7db6d9f630a95b88fcc250</guid>
+<pubDate>2026-11-11</pubDate>
+<description>A study reports that about 107,000 species are traded worldwide, legally or illegally — more than double a previous estimate.</description>
+</item>
+<item>
+<title>【自動自律実験】 Efficient catalyst-controlled C–H arylation of arenes</title>
+<link>https://www.nature.com/articles/s41586-026-11391-w</link>
+<guid>1da48e3d02ccf225d53283839795611c1aac2710885c5c26e37000fd5935fb10</guid>
+<pubDate>2026-11-11</pubDate>
+<description>Efficient catalyst-controlled C–H arylation of arenes</description>
+</item>
+<item>
+<title>【自動自律実験】 A guide to Nature Index tables</title>
+<link>https://www.nature.com/articles/d41586-026-03441-0</link>
+<guid>4e64a905d5c306e6847bdc1268ed06f647f512b007aa0e88eac43d7363fa744e</guid>
+<pubDate>2026-11-11</pubDate>
+<description>Information on the methodology used in the ranking for the 2026 Nature Spotlight: Energy.</description>
+</item>
+<item>
+<title>【自動自律実験】 Even giant anteaters in the remote Amazon have microplastics in their blood</title>
+<link>https://www.nature.com/articles/d41586-026-03660-5</link>
+<guid>435d9c33b0eaa0a1b73b46bd0025ffef5064ff64c4e24808db4f1b3f8870cde8</guid>
+<pubDate>2026-11-11</pubDate>
+<description>A map of the movements of Brazilian wildlife and their exposure to human activities can inform protection initiatives.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>d67b015c67289b4aacb19b03794cfcaf6e987ffca5c16f32dbd0d95376359e48</guid>
-<pubDate>Wed, 11 Nov 2026 08:38:53 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>834d3fcc2343a2abf23fbc1f222b620f95e3f235d732e84c0e8adf29204caaf2</guid>
+<pubDate>Wed, 11 Nov 2026 16:46:18 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>26c212f01aefe0c3c0a5eeb9a83781812815420c85dc0271f8e3b4a7f89f7edd</guid>
-<pubDate>Wed, 11 Nov 2026 08:38:54 GMT</pubDate>
-<description>Sakana AI Blog 写真左：マイケル・ロジャース氏、写真右：トム・モラン氏 read more 基調講演を行うSakana AI Chief Scientific Advisorのユルゲン・シュミットフーバー教授 read more read more 管理画面のイメージ。*この画像は架空のデータを使ったイメージです。今後予告なく変更される可能性があります。 read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベースで訓練し、従来と同等のオーケストレーション性能が出ることを確認しました。モデルプールに加えて指揮者モデルの多様化・モジュール化を図ることで、国内のさまざまな用途で求められるソブリン性の要件に応じたオーケストレーション技術を開発し、提供していきます。 read more</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>543a396e3b6cd7c339b03b0c2e0d58ceb423572bbeb224b6cf1bc97443f0845d</guid>
-<pubDate>Wed, 11 Nov 2026 08:38:57 GMT</pubDate>
+<guid>f950f6f7f5f4bb55555f8ecdfbd0b080df16775f9e1f0c5dbdb1f167221711cd</guid>
+<pubDate>Wed, 11 Nov 2026 16:46:22 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>1fb1804498485a3b8f3f697abd79abe0be18c425ed72818a343ffb802db25398</guid>
-<pubDate>Wed, 11 Nov 2026 08:38:59 GMT</pubDate>
+<guid>7ec3dad130850418fad99980963d2e76317778e9c92167800de63a810c75d559</guid>
+<pubDate>Wed, 11 Nov 2026 16:46:24 GMT</pubDate>
 <description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>c0edabb3304eac7cb848e07d4aa20b9ee55b2eddbb5726e1a5b1e6cbf0ce1752</guid>
-<pubDate>Wed, 11 Nov 2026 08:39:00 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>0f970a1f83d38b61c00f8937ef91a683080b0231a0dadbb35212d65e89993b65</guid>
-<pubDate>Wed, 11 Nov 2026 08:39:02 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>905b554feff2caef6fbb6144ca8d75e87638ef05e19dd0df609247fcd5f82f71</guid>
+<pubDate>Wed, 11 Nov 2026 16:46:43 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
