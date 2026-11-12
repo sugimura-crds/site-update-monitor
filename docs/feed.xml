@@ -4,112 +4,78 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 11 Nov 2026 23:14:04 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 03:58:29 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 個人情報流出ニュースが怖いので、パスワード対策をガチで見直してみた</title>
-<link>https://qiita.com/koshiro_esaki/items/22b7e355068ac0dad571?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>4810018633237416870bae7651c3283ea23793f87746e311e6786d7ac87f0510</guid>
-<pubDate>2026-11-10T11:10:06+09:00</pubDate>
-<description>皆さんは「パスワードの使いまわし」やってませんか？ 良くないよなぁ、、、と分かっていても、心のどこかで高を括っていませんか？ そして最近の個人情報流出のニュースを見て、ビビり散らかしてませんか？👀 この記事を見たあなた！ 今こそ、その重～い腰を上げる時です！！ という訳で、...</description>
+<title>【Qiita】 小説サイト「よむきく」もGitHubで回している ― 読む・聞く本棚をMarkdownのpushだけで更新する</title>
+<link>https://qiita.com/oosawak@github/items/071184af4dde2d8498f2</link>
+<guid>c50df863477e7364c8dc388d32ebd55730a772d902a9c7b8eafe81d06d4bea09</guid>
+<pubDate>2026-11-12T12:05:56+09:00</pubDate>
+<description>はじめに 前の記事では、Markdown CMS（OSS版）を「GitHubで回す仕組み」として紹介しました。 実は、小説サイトも同じ形で回しています。 「よむきく」という、小説を読んで、聞けるサイトです。 よむきく よむきく、とは 青空文庫の古典から、現代の作者の...</description>
 </item>
 <item>
-<title>【Qiita】 学習キューを成功日時で並べたら、失敗し続ける約200件が毎日の枠を使い切った 〜再挑戦の順番は「最後に試した日時」で決める〜</title>
-<link>https://qiita.com/charge0315/items/930bde72c5130a1dad74</link>
-<guid>b71c30ea41bba36503c4f5619217f95f597cecbcd79e8377ff27ce445d2b52dd</guid>
-<pubDate>2026-11-12T06:39:15+09:00</pubDate>
-<description>みなさん、こんにちは！ 「ALPHA FORGE 開発秘話」の第40話です。 毎日、学習ジョブは動いている。なのに、学習済みの約4,230銘柄が更新されない。列の先頭に戻ってきていたのは、何度試しても失敗する約200銘柄でした🔁 日本株のデータ分析端末「ALPHA FORG...</description>
+<title>【Qiita】 GitHubで回す静的CMSを作った ― Markdownを書けばサイトになる「Markdown CMS（OSS版）」</title>
+<link>https://qiita.com/oosawak@github/items/2cc58894add3981fd934</link>
+<guid>5b9e4be3fbb99ff3b209b2ef6b0ff9ebe1e4a4052e932692a762d412a35538b9</guid>
+<pubDate>2026-11-12T12:05:37+09:00</pubDate>
+<description>はじめに ホームページの更新は、なぜあんなに重いのでしょう。 管理画面にログインして、編集して、更新ボタンを押して、そのたびにバージョンアップの通知が来て。 サーバーではプログラムが動き続けていて、データベースも持っていて、面倒を見るものが多いのが、今の普通の形です。 私...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントのサンドボックステストは「どこへ送れるか」より先に「何を読めるか」を確かめる</title>
-<link>https://qiita.com/worksiai/items/b5c0d05af97189853d9d</link>
-<guid>a42d81ab6a3cb800e9e9f49c0cf2acf20072f692d7d186153d5c76c2e4f088cf</guid>
-<pubDate>2026-11-12T06:06:57+09:00</pubDate>
-<description>この記事は、Worksi の AI エージェントが英語の原文をもとに日本語で書き直し、別の AI エージェントが内容を事実確認したものです。原文（英語）へのリンクは末尾にあります。 Adapted into Japanese by Worksi&#x27;s AI agents f...</description>
+<title>【Qiita】 棚卸しから始める脆弱性対応 ― 何を持っているか分かれば当たるものだけが見える</title>
+<link>https://qiita.com/oosawak@github/items/8a47307bf2f78907eb39</link>
+<guid>a9ef380a8afe983b12d59583237d7ba247a74ac8951ddbfe8a998542c87ebc0a</guid>
+<pubDate>2026-11-12T11:44:25+09:00</pubDate>
+<description>はじめに 脆弱性の情報は、毎日大量に公開されます。 全部を追うのは無理ですし、追ったところで「自分のところは大丈夫なのか」が分からなければ、ただ不安が増えるだけです。 問題は「世の中に危ないものがあるか」ではありません。 「自分の持っているものに当たるか」です。 そこで私...</description>
 </item>
 <item>
-<title>【Qiita】 pytest が失敗すると API キーがそのまま出る：-l（--showlocals）は比較と関係ない変数まで表示した（実機確認）</title>
-<link>https://qiita.com/supportapp3/items/0dabecb8b0feae9a06d3</link>
-<guid>73d9c74b0a6965ee8d351d359ed8e447603d4b6e7e7a5ea7999ccea82d91a170</guid>
-<pubDate>2026-11-12T05:48:43+09:00</pubDate>
-<description>先に結論 pytest は、失敗した assert の比較対象をそのまま表示します。ヘッダーの dict を比べると、Authorization: Bearer &lt;キー&gt; が失敗ログに出ました。 -l（--showlocals）を付けると、比較と関係ないローカル変数ま...</description>
+<title>【Qiita】 新Genieの発表を受けて、Genieファミリーの変遷と構成、今後の方向性を整理する</title>
+<link>https://qiita.com/taka_yayoi/items/49129c0d657364f3bd04</link>
+<guid>c618e37b603eda69a2087586958cbd1d657bc81a3b95552d92888e925d2dc874</guid>
+<pubDate>2026-11-12T11:40:54+09:00</pubDate>
+<description>はじめに 2026年11月11日、Databricksが第2世代のGenieを発表しました。Genieは、質問に答えるアシスタントから、仕事を引き受けて裏で動き続ける常時稼働の自律エージェントに変わります。 Databricks Launches New Always-...</description>
 </item>
 <item>
-<title>【Qiita】 AIの主導権は、まだ人間の側にある——ヒントン氏の発言を、出荷前の確認項目にする</title>
-<link>https://qiita.com/mhamadajp/items/de8e8d337c9736b4e748</link>
-<guid>4fc771d9e7316b0fd94b620ff4cbb9d1ee5e88ce3aa234e312b145042ddacf39</guid>
-<pubDate>2026-11-12T05:18:14+09:00</pubDate>
-<description>同じ記事から、出荷と中止の両方の結論が出る たとえば、週次の設計レビューです。売上を集計するAIエージェントに、価格の変更と、顧客へのメール送信まで任せるかを決めています。 その朝、英紙ガーディアンが AI ‘godfather’ Geoffrey Hinton: it ...</description>
+<title>【Qiita】 Metaの「Muse」アプリでできることを調べた——会話で自分専用アプリが作れるSpacesが楽しい</title>
+<link>https://qiita.com/sakutto-panda/items/844a346e6bac0b7afc46</link>
+<guid>cfe7f64210525294e8bd26c344d08e77b7f24252eaf9c5c2197f8fc371279a77</guid>
+<pubDate>2026-11-12T11:33:31+09:00</pubDate>
+<description>3 行まとめ Meta の AI エージェント「Muse」は、アプリとしては「人にメッセージを送る感覚で頼むと、裏で作業を進めて、必要なときだけ戻ってくる」相棒だ。日本でも10月23日から iOS・Android・muse.ai で使える 一番面白いのは、11月6日に出...</description>
 </item>
 <item>
-<title>【農業】 Food insecurity persists in Lebanon as fragile conditions stall recovery efforts, new analysis shows</title>
-<link>https://www.fao.org/newsroom/detail/food-insecurity-persists-in-lebanon-as-fragile-conditions-stall-recovery-efforts-new-analysis-shows/en</link>
-<guid>9d3c89b6e7f3c084a19f66ef8a4973c0d3882bb95dd5fc6d4487e92995993e4f</guid>
-<pubDate>Wed, 11 Nov 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【環境】 Satellites and boots on the ground uncover rampant gas flaring in Ecuador’s Amazon</title>
-<link>https://www.science.org/content/article/satellites-and-boots-ground-uncover-rampant-gas-flaring-ecuador-s-amazon</link>
-<guid>399de8ff54839fb72f765d46f5db001f2ef92effb6e43518eb43f3eeea9f2592</guid>
-<pubDate>TZ</pubDate>
-<description>Researchers find dozens of new sites violating a landmark Ecuadorian ruling that ordered the flares’ shutdown by 2030</description>
-</item>
-<item>
-<title>【自動自律実験】 Rattlesnakes have personalities too — to venomous effect</title>
-<link>https://www.nature.com/articles/d41586-026-03536-8</link>
-<guid>0c2a6d24d54265962e67c772eca0daf6936ec36757ef158aa88c75932081069a</guid>
-<pubDate>2026-11-11</pubDate>
-<description>A snake’s defensiveness might affect how much venom it produces in a laboratory test.</description>
-</item>
-<item>
-<title>【自動自律実験】 Too dry for cacti: extreme droughts could push iconic species to extinction</title>
-<link>https://www.nature.com/articles/d41586-026-03671-2</link>
-<guid>93fb90fbeac3b09cd6ecd34056345eb7aa3bf7bee99a0a6297f89a0ced52d1c0</guid>
-<pubDate>2026-11-11</pubDate>
-<description>Analysis reveals these plants face severe habitat loss across the Americas — plus, researchers test a new way to diagnose obesity.</description>
+<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
+<link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+<guid>ead9fe7e70449b1ff18caf9683c19a878761cf98ff3ded04b63de4326038594f</guid>
+<pubDate>Thu, 12 Nov 2026 03:57:33 GMT</pubDate>
+<description>Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>4b27a2b2c96056e287ec979893e9c4a6f3b914eec93b10f65d872ea2eaa3646c</guid>
-<pubDate>Wed, 11 Nov 2026 23:13:23 GMT</pubDate>
+<guid>ef40bdf029b2971818cbe01ec9ccb69fe6debc69826270b99c4f97e81b199d68</guid>
+<pubDate>Thu, 12 Nov 2026 03:57:39 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>d58e0619f2afe035d95d230573c468ff56db5b602ea8878d0df11cc27534796c</guid>
-<pubDate>Wed, 11 Nov 2026 23:13:26 GMT</pubDate>
-<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43586-026-00542-y</link>
-<guid>5b4585e93b5a4d34a0f459693d5f04e503b3cbd981ee4941b5078849a93708cc</guid>
-<pubDate>Wed, 11 Nov 2026 23:13:28 GMT</pubDate>
+<guid>af3ec937b9e242b07e563d1d5e0449a2621a87815b18831e280e2059a600a27b</guid>
+<pubDate>Thu, 12 Nov 2026 03:57:43 GMT</pubDate>
 <description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Filter By:</title>
-<link>https://www.nature.com/articles/s43586-026-00534-y</link>
-<guid>3711fda8262ab4b43828bbfbf542cd66af4adfdaeb6d96df1ba290d0a17b9686</guid>
-<pubDate>Wed, 11 Nov 2026 23:13:33 GMT</pubDate>
-<description>Artificial intelligence (AI) agents are emerging in scientific research as systems that can transform the accumulated decisions of scientists into traceable workflows. In fact, modern scientific practice depends on continual coordination of knowledge dispersed across literature, data, theory and experiment, which, however, is often made through manual, case-by-case judgement. This Primer introduces agentic AI systems as a general method to structure this process through natural language interfaces, serving as a computational brain in the laboratory. Central to this framework are practical workflows for in-depth literature search and knowledge mining, orchestration of physics-based simulations, and integration with automated experimental platforms. We begin by describing the foundations of AI agents, including task decomposition, memory, tool use and communication between agents, and by distinguishing single-agent and multi-agent designs, as well as fully autonomous and human-in-the-loop configurations. Equally important are the means by which these systems are evaluated, documented and reported reproducibly. Finally, we examine major bottlenecks, including hallucination, tool misus</description>
+<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
+<guid>c464bb9df5dd3b7a4f50e6458575d89a2789a6efd0e973a45e1005f47f90221e</guid>
+<pubDate>Thu, 12 Nov 2026 03:57:46 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>a0ed562f3f9b1b52ced172351df402a49d6904eb4a606e62efadad589837e184</guid>
-<pubDate>Wed, 11 Nov 2026 23:13:45 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
-</item>
-<item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>56148d2fc73c945c1af3d7dd03f0e02fd47cafb29daa0d3b9063a21e483b49d6</guid>
-<pubDate>Wed, 11 Nov 2026 23:13:51 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+<title>【Korea】 News &amp; Notice</title>
+<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
+</link>
+<guid>08e38848502f2f3271732be90fbff1ee15fc6e64ba74e1842b40227f04a9305a</guid>
+<pubDate>Thu, 12 Nov 2026 03:58:06 GMT</pubDate>
+<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
 </item>
 
 </channel>
