@@ -4,78 +4,147 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 12 Nov 2026 03:58:29 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 12:08:47 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 小説サイト「よむきく」もGitHubで回している ― 読む・聞く本棚をMarkdownのpushだけで更新する</title>
-<link>https://qiita.com/oosawak@github/items/071184af4dde2d8498f2</link>
-<guid>c50df863477e7364c8dc388d32ebd55730a772d902a9c7b8eafe81d06d4bea09</guid>
-<pubDate>2026-11-12T12:05:56+09:00</pubDate>
-<description>はじめに 前の記事では、Markdown CMS（OSS版）を「GitHubで回す仕組み」として紹介しました。 実は、小説サイトも同じ形で回しています。 「よむきく」という、小説を読んで、聞けるサイトです。 よむきく よむきく、とは 青空文庫の古典から、現代の作者の...</description>
+<title>【Qiita】 【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】</title>
+<link>https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>e0ee7fcf52bf37c47234e38bba6347b0bde0274e8ab940ab27b82d228692d208</guid>
+<pubDate>2026-11-12T08:39:20+09:00</pubDate>
+<description>はじめに 2026年11月11日、AWSからAWS Emulatorが公式にリリースされました。AWS SDKやAWS CLIの呼び出しを、AWSアカウントなしで、ローカルやCI上のエミュレーターに向けられるツールです。公式は、実装されているAPIには有効な呼び出しにAW...</description>
 </item>
 <item>
-<title>【Qiita】 GitHubで回す静的CMSを作った ― Markdownを書けばサイトになる「Markdown CMS（OSS版）」</title>
-<link>https://qiita.com/oosawak@github/items/2cc58894add3981fd934</link>
-<guid>5b9e4be3fbb99ff3b209b2ef6b0ff9ebe1e4a4052e932692a762d412a35538b9</guid>
-<pubDate>2026-11-12T12:05:37+09:00</pubDate>
-<description>はじめに ホームページの更新は、なぜあんなに重いのでしょう。 管理画面にログインして、編集して、更新ボタンを押して、そのたびにバージョンアップの通知が来て。 サーバーではプログラムが動き続けていて、データベースも持っていて、面倒を見るものが多いのが、今の普通の形です。 私...</description>
+<title>【Qiita】 PRの脆弱性をAIが直す「CodeMender」を見て、新卒が基礎を学ぶ理由を考えた</title>
+<link>https://qiita.com/N-Kyo/items/23697fc1e92c288b426b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>1c0ce9d336e2497b292df317d56919a951e4bb98409b9a636f63f4beb763df37</guid>
+<pubDate>2026-11-12T00:47:28+09:00</pubDate>
+<description>はじめに 2026年11月、Google Cloudのブログで、CodeMenderをGitHubのプルリクエスト（PR）に組み込む構成が紹介されました。CodeMenderは、コードの脆弱性を見つけて直してくれるGoogleのAIエージェントです。 タイトルだけ見たとき...</description>
 </item>
 <item>
-<title>【Qiita】 棚卸しから始める脆弱性対応 ― 何を持っているか分かれば当たるものだけが見える</title>
-<link>https://qiita.com/oosawak@github/items/8a47307bf2f78907eb39</link>
-<guid>a9ef380a8afe983b12d59583237d7ba247a74ac8951ddbfe8a998542c87ebc0a</guid>
-<pubDate>2026-11-12T11:44:25+09:00</pubDate>
-<description>はじめに 脆弱性の情報は、毎日大量に公開されます。 全部を追うのは無理ですし、追ったところで「自分のところは大丈夫なのか」が分からなければ、ただ不安が増えるだけです。 問題は「世の中に危ないものがあるか」ではありません。 「自分の持っているものに当たるか」です。 そこで私...</description>
+<title>【Qiita】 「良いチームほどミスの報告が多い」— 心理的安全性を論文とGoogle調査から正しく理解する</title>
+<link>https://qiita.com/teppei19980914/items/2e0fa85f1cc32a62fb0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>1f75ae02a0a2ca568dcbe6587a06e8a436d074ae4c0d0529f04a760aee4191fc</guid>
+<pubDate>2026-11-09T20:13:44+09:00</pubDate>
+<description>この記事は約10分で読めます。 病院の看護チームを調査したところ、チームワークの評価が高いチームほど、報告される医療ミスが多いという結果が出ました。研究者自身も、最初は逆の結果を予想していたそうです。 この一見矛盾した結果を説明する概念が 心理的安全性（psycholo...</description>
 </item>
 <item>
-<title>【Qiita】 新Genieの発表を受けて、Genieファミリーの変遷と構成、今後の方向性を整理する</title>
-<link>https://qiita.com/taka_yayoi/items/49129c0d657364f3bd04</link>
-<guid>c618e37b603eda69a2087586958cbd1d657bc81a3b95552d92888e925d2dc874</guid>
-<pubDate>2026-11-12T11:40:54+09:00</pubDate>
-<description>はじめに 2026年11月11日、Databricksが第2世代のGenieを発表しました。Genieは、質問に答えるアシスタントから、仕事を引き受けて裏で動き続ける常時稼働の自律エージェントに変わります。 Databricks Launches New Always-...</description>
+<title>【Qiita】 AI 診断で出た緊急・高21件中6件は OWASP ASVS の1項目だった。せめて L1 は要件に入れたい話（2026年版）</title>
+<link>https://qiita.com/ntaka329/items/012ad27328ecaae1c469</link>
+<guid>957e03d7350e1cace74ced06580ba555d07ce4f30ce22d4d78a35c0005c79a27</guid>
+<pubDate>2026-11-12T18:34:55+09:00</pubDate>
+<description>はじめに GMOコネクトの永田です。 請負で関わっている2つのシステムで、Claude Code にソースを読ませて脆弱性を探す診断（ホワイトボックス診断）を回していました。緊急・高の指摘が出そろったところで並べてみると、どれもどこかで聞いたことのある話でした。 試しに ...</description>
 </item>
 <item>
-<title>【Qiita】 Metaの「Muse」アプリでできることを調べた——会話で自分専用アプリが作れるSpacesが楽しい</title>
-<link>https://qiita.com/sakutto-panda/items/844a346e6bac0b7afc46</link>
-<guid>cfe7f64210525294e8bd26c344d08e77b7f24252eaf9c5c2197f8fc371279a77</guid>
-<pubDate>2026-11-12T11:33:31+09:00</pubDate>
-<description>3 行まとめ Meta の AI エージェント「Muse」は、アプリとしては「人にメッセージを送る感覚で頼むと、裏で作業を進めて、必要なときだけ戻ってくる」相棒だ。日本でも10月23日から iOS・Android・muse.ai で使える 一番面白いのは、11月6日に出...</description>
+<title>【Qiita】 VSCodeのCompare Modelsが面白そうなので試してみた</title>
+<link>https://qiita.com/shivvvvvv/items/c1feef6d2ad5ff7f8f73</link>
+<guid>0d754def2b6f36609f3f44f19fe27e1eb7c842e5e7b00b005c696b122b8390ba</guid>
+<pubDate>2026-11-12T20:59:01+09:00</pubDate>
+<description>こんにちは。 11/11にStable版が配信された、VSCode 1.146のリリースノートを見ていたら、Compare Modelsという面白そうな機能を見つけました。 今日はこの機能についての解説と、実際に試してみようと思います！ VS Code 1.146 リリー...</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
-<link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
-<guid>ead9fe7e70449b1ff18caf9683c19a878761cf98ff3ded04b63de4326038594f</guid>
-<pubDate>Thu, 12 Nov 2026 03:57:33 GMT</pubDate>
-<description>Claude Fable 5.2 and Claude Mythos 5.2, our new models for the hardest technical challenges. Fable 5.2 sets a new bar in coding, finance, and the sciences.</description>
+<title>【Qiita】 AI に CLAUDE.md を監査させるときは、直す前に反証させる。指摘 54 件のうち 12 件は直さなくてよかった</title>
+<link>https://qiita.com/ishizakahiroshi/items/e46eb9c4a73af95d506e</link>
+<guid>51d4795d6fa2f80168df9963496081d18eee8e69a715db48f5f2e5d767492c9d</guid>
+<pubDate>2026-11-12T20:35:30+09:00</pubDate>
+<description>先に、結論を3行で書きます。 AI に CLAUDE.md 一式を監査させたら、指摘 54 件のうち 12 件は、別の担当に反証させると落ちました。 落ちた 12 件は、どれも引用は本物でした。困ることが起きないか、前に自分で決めた形どおりだっただけです。 ふだんの起動...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code、Codex、Muse、Grok Bot…みんなの AI エージェントの使い方を調べて、おすすめのチートシートを作ってみた</title>
+<link>https://qiita.com/hisashi-ito/items/e654ea04c021251df7b1</link>
+<guid>a1da9047437f0636bbbe8b6ae50e635e277d5a826471d736745c1e08a7e2a995</guid>
+<pubDate>2026-11-12T20:33:15+09:00</pubDate>
+<description>開示: この記事は Grok Bot と一緒に書きました。調査と図の作成は Grok Bot が行い、私の使い方と関心は私の経験と発言によります。他の人の使い方は、X の公開投稿と Web の記事から集めています。 はじめに みなさんは、AI エージェントをどう使って...</description>
+</item>
+<item>
+<title>【Qiita】 MuseのVMが定期的に再起動して地味に辛いので計測してみた</title>
+<link>https://qiita.com/yuuzin217/items/b030d81168bf8040dbe1</link>
+<guid>f9394c4ea40abb01c97a3270b88ac432c5cf7b360f7fd457a8c6f1082d063af9</guid>
+<pubDate>2026-11-12T19:08:25+09:00</pubDate>
+<description>はじめに 少し前に、Museを使い始めて1週間の記録を記事にしました。 金欠エンジニアの味方、Museでできること：1週間使ってみて分かったこと その中で「できなかったこと」の1つに挙げたのが、VMが定期的に再起動することです。 ただ当時は、 ISUCON中に、作業が途...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code `~/.claude/CLAUDE.md` 完全ガイド</title>
+<link>https://qiita.com/okmonn/items/faaadbcea186066d5d3c</link>
+<guid>ff5327a4dcc67bda07e61ef92a607fc97d7d64348e44b076ae52596c0e9a3efc</guid>
+<pubDate>2026-11-12T15:13:21+09:00</pubDate>
+<description>はじめに この文書は、Claude Code 初学者が ~/.claude/CLAUDE.md の役割を理解し、汎用的で拡張性のある設定を安全に運用できるようまとめたガイドです。 ここで扱う ~/.claude/CLAUDE.md は、特定のプロジェクトだけではなく、Cl...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code `CLAUDE.md` 完全ガイド</title>
+<link>https://qiita.com/okmonn/items/24fd7bd9f2e02e4e7392</link>
+<guid>0536e05cf134122d5c0b0f984f6087adbc556cc83b1f913dc1365455621dd0dd</guid>
+<pubDate>2026-11-12T13:33:14+09:00</pubDate>
+<description>対象: Claude Codeを初めて使う人から、チームで安全に運用したい人まで 目的: 汎用的で拡張性があり、公式ベストプラクティスに沿った CLAUDE.md を自分で設計・運用できるようになること 1. はじめに CLAUDE.md は、Claude Code...</description>
+</item>
+<item>
+<title>【農業】 UN launches Disaster Risk Financing Platform at COP31 to make humanitarian responses faster and more predictable</title>
+<link>https://www.fao.org/newsroom/detail/un-launches-disaster-risk-financing-platform-at-cop31-to-make-humanitarian-responses-faster-and-more-predictable/en</link>
+<guid>8095ddb84869b39a72772aaeae8b2333bfb2ebb4f4ae83404bb742489d151c1f</guid>
+<pubDate>Thu, 12 Nov 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【環境】 Towards practical photosynthetic biohybrid systems</title>
+<link>https://www.nature.com/articles/s41893-026-01984-8</link>
+<guid>c831235a92cb3ad65b6c0390d5a76961a69ee2e7027f6dffb0d45c95696baa69</guid>
+<pubDate>2026-11-12</pubDate>
+<description>Photosynthetic biohybrid systems can convert sunlight to chemicals and fuels. This Perspective explores how to better design photosynthetic biohybrid systems to achieve practical sustainable solar-driven biomanufacturing.</description>
+</item>
+<item>
+<title>【環境】 Robust hydrogel ion channels for osmotic energy harvesting and environmental sensing</title>
+<link>https://www.nature.com/articles/s41893-026-01954-0</link>
+<guid>64610eb5bc8009ee3c6b0def2dc117694872487f41a935be91ac90423e9fcdae</guid>
+<pubDate>2026-11-12</pubDate>
+<description>Salinity gradient blue energy offers a promising alternative to fossil fuels. Here the authors develop ultrarough, self-healing hydrogel ionic conductors that achieve an excellent power density while maintaining over 91% of their performance after damage and enable autonomous environmental sensing.</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>e076a7631dda836eaac5641f9e0ca052268202ce9355b914ef51cb29f41770ce</guid>
+<pubDate>Thu, 12 Nov 2026 12:08:02 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>ef40bdf029b2971818cbe01ec9ccb69fe6debc69826270b99c4f97e81b199d68</guid>
-<pubDate>Thu, 12 Nov 2026 03:57:39 GMT</pubDate>
+<guid>6f3cf00f3e138cb7207877844b9e4900ae374b6209b4f0057b36910d635fea11</guid>
+<pubDate>Thu, 12 Nov 2026 12:08:04 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-11228-6</link>
+<guid>13390453050e4ad3c8529cdff23634d73b2860ae49e5f3d8a632107a31dc915d</guid>
+<pubDate>Thu, 12 Nov 2026 12:08:06 GMT</pubDate>
+<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s43586-026-00542-y</link>
-<guid>af3ec937b9e242b07e563d1d5e0449a2621a87815b18831e280e2059a600a27b</guid>
-<pubDate>Thu, 12 Nov 2026 03:57:43 GMT</pubDate>
+<guid>73c1a963ca19976755882273b43f60fc731a7dddbf613958e203eb3e0a24c666</guid>
+<pubDate>Thu, 12 Nov 2026 12:08:08 GMT</pubDate>
 <description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>c464bb9df5dd3b7a4f50e6458575d89a2789a6efd0e973a45e1005f47f90221e</guid>
-<pubDate>Thu, 12 Nov 2026 03:57:46 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.jircas.go.jp/ja/release/2026/press202614</link>
+<guid>256a233209d967295e54072106f413a079f383f0090397a2bd20a4eb2f777957</guid>
+<pubDate>Thu, 12 Nov 2026 12:08:32 GMT</pubDate>
+<description>研究所別一覧</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>08e38848502f2f3271732be90fbff1ee15fc6e64ba74e1842b40227f04a9305a</guid>
-<pubDate>Thu, 12 Nov 2026 03:58:06 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>4aaec3a09472161354dd51d73eddbdee1d112a311a9562c274676de4c4c9c0dd</guid>
+<pubDate>Thu, 12 Nov 2026 12:08:35 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+</item>
+<item>
+<title>【環境】 Would you trust an emergency alert written by AI?</title>
+<link>https://grist.org/?s=AI</link>
+<guid>e68d3792224564a55d0c587b16d062426d979ad90f87b0eb4f7808202519e1dc</guid>
+<pubDate>Thu, 12 Nov 2026 12:08:38 GMT</pubDate>
+<description>Human beings struggle with disaster communication. Chatbots can help — if people take them seriously.</description>
 </item>
 
 </channel>
