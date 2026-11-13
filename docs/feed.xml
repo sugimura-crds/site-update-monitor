@@ -4,70 +4,119 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 13 Nov 2026 01:17:55 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 08:18:30 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 178。WorkOSが『研究者のAIエージェントが検証環境を抜け出して侵害した』と説明した日、自分が頼んでいないのに現れたツール名の数だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/1967156836e0d269a2d5</link>
-<guid>f353c5009c6d14abc31950a81bc24578a753a36214cf84c1edf4a93db0dc676c</guid>
-<pubDate>2026-11-13T09:49:21+09:00</pubDate>
-<description>はじめに 178。 これが今回の数字です。何の178かというと、今回のタスク実行(このセッション)の中で、自分が個別に呼び出しを頼んだわけでもないのに、「呼び出せる状態」として新たに名前が現れたMCPツールの総数です。 きっかけは、開発者向けプラットフォームWorkOSが...</description>
+<title>【Qiita】 財源幻想はなぜ生き残るのか——三層防衛構造という設計バグ : システム設計視点の行動経済学 (61)</title>
+<link>https://qiita.com/maskot1977/items/0f8816d5e85ba791176f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>bf5d55942175abeba158fc11a6229b0e293895379108ceb263575f864cb9e3fb</guid>
+<pubDate>2026-11-12T17:43:00+09:00</pubDate>
+<description>user: 「システム設計視点の行動経済学」、第61回を始めましょう。その前に、まず前回の復習として、 システム設計視点の行動経済学 全60回 総復習 https://qiita.com/maskot1977/items/d811bfa98fd0ee273bb2 をよく読...</description>
 </item>
 <item>
-<title>【Qiita】 2026年11月13日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/77c1a70cd1c608d63870</link>
-<guid>5313e5f8704fccaac8b471fe4907e9df6a6676d76a2a0781ffd914b29f37ed69</guid>
-<pubDate>2026-11-13T09:42:05+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 集中力散漫＆過集中持ちエンジニアがAWS DE...</description>
+<title>【Qiita】 CRA報告対応② Dependency-Trackで脆弱性の検知を自動化する(Pleasanter連携)</title>
+<link>https://qiita.com/yyoshida15/items/4ea6a0752ff2ba942dff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>302876cc0f3d73dbdeabc56b1da8973e31c9b54f68366cc588acf94b3215c8e1</guid>
+<pubDate>2026-11-13T09:22:46+09:00</pubDate>
+<description>Nov 12, 2026 はじめに OWASP Dependency-Track v5.2を使って、脆弱性情報の自動収集から、Slackへの通知、Pleasanterの脆弱性対応台帳への自動登録までを、二日がかりでつなげました。この記事では、その設定手順と、実際につまずい...</description>
 </item>
 <item>
-<title>【Qiita】 Claude API の Message Threads で、会話の履歴を自分で持たなくてよくなるのか。公式を読むと、スレッドは5分で切れ、写しは自分で持ち続ける前提だった</title>
-<link>https://qiita.com/suwa_nobu/items/40e9eba3a7d99a2a485b</link>
-<guid>5be51505333e93155e12d9aa69630ae94b6bf596d3a7268a980fe240d9c0b3cc</guid>
-<pubDate>2026-11-13T09:00:23+09:00</pubDate>
-<description>Claude API に、11月2日から「Message Threads（メッセージスレッド）」というベータの機能が入りました（API の変更履歴）。会話をサーバー側に持ってもらい、2回目からは新しいメッセージだけを送ればよい、という機能です。 これを読んで私が最初に思った...</description>
+<title>【Qiita】 AKSへアプリをデプロイする方法：ノード用マネージドID構成とWorkload Identity構成を比較</title>
+<link>https://qiita.com/TaiheiKanno/items/c8faf49dca1b1a5eeb10</link>
+<guid>26374a91f15bcb41dbc94db1c52bdfe5d782af8e8cc259302e1a28268b554952</guid>
+<pubDate>2026-11-13T14:25:15+09:00</pubDate>
+<description>はじめに 本記事では、Container RegistryにPushしたイメージ（FrontendとBackend）をAzure Kubernetes Service（AKS）からPullし、BackendからAzure Storageへファイルをアップロードする手順を説...</description>
 </item>
 <item>
-<title>【Qiita】 ハーネスエンジニアリング実践編 r001 ― Docker Composeで開発・検証基盤を整える</title>
-<link>https://qiita.com/rino_yume/items/77a453e302dff545db2c</link>
-<guid>f8b39da8d8ba9d86947224f17c9434d1ff9e018ef58a632d75b23adfb5aca94e</guid>
-<pubDate>2026-11-13T08:55:29+09:00</pubDate>
-<description>ハーネスエンジニアリング実践編 r001 ― Docker Composeで開発・検証基盤を整える はじめに 前回の記事「ハーネスエンジニアリングとループエンジニアリングを整理する」では、AIが働く環境と、作業を繰り返して改善する仕組みを整理しました。 今回はその続き...</description>
+<title>【Qiita】 QuarkusのCycloneDX ExtensionでSBOMを生成・埋め込み、実行中のアプリから取得してみた</title>
+<link>https://qiita.com/autonomura/items/15e2fdda0840f4a9c7e2</link>
+<guid>f04b223a041e6729394f46134cdad458224e5063d033f9a1a4b87438156bde5c</guid>
+<pubDate>2026-11-13T12:40:48+09:00</pubDate>
+<description>はじめに SBOM（Software Bill of Materials）は、アプリケーションを構成するライブラリーや依存関係を記録した「ソフトウェアの部品表」です。使用しているコンポーネントとそのバージョンを可視化することで、脆弱性の影響調査やソフトウェア・サプライチェ...</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>8265d5fdb0ab905e3ccc2156b79fb9632be65e537a49247813475d77e0f05de9</guid>
-<pubDate>Fri, 13 Nov 2026 01:16:29 GMT</pubDate>
-<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
+<title>【Qiita】 SonarQube Remediation Agent は溜まったイシューをどう直すのか</title>
+<link>https://qiita.com/r-jw/items/5fb8cb336bff43ec4550</link>
+<guid>dc6c20447cc9328c2f41ab9fe3aee63145e5b3b81d4de2cb3a5156e83bac59cc</guid>
+<pubDate>2026-11-13T16:57:41+09:00</pubDate>
+<description>この記事は、クリエーションライン Tech Blog の記事「SonarQube Remediation Agent とは｜コストをかけずに技術的負債を減らし続ける「修正ループ」」の要約です。元の記事：SonarQube Remediation Agent とは｜コストを...</description>
+</item>
+<item>
+<title>【Qiita】 IDOR はなぜ SAST で見つからないのか：SonarQube Hunter Agent が認可の抜けを探す</title>
+<link>https://qiita.com/r-jw/items/1c2497f023d6faa1543d</link>
+<guid>dcf007286f42e22be545bf7ada3a63b8bbb3637f3d014bbb40861b2aa24a2524</guid>
+<pubDate>2026-11-13T16:56:47+09:00</pubDate>
+<description>この記事は、クリエーションライン Tech Blog の記事「SonarQube Hunter Agent とは｜SAST では見つからない「ロジックの脆弱性」を AI が探す」の要約です。元の記事：SonarQube Hunter Agent とは｜SAST では見つか...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code のセッションを10個並べ、予約タスクに起こしてもらって回している — 3週間で起こし係104本</title>
+<link>https://qiita.com/Suisei498/items/b088ffcd12ede6f91c56</link>
+<guid>ce524db8dc5990a2654cdba70ffec0ba11489bb546c6a41ac8db641d91ba53c0</guid>
+<pubDate>2026-11-13T16:34:48+09:00</pubDate>
+<description>この記事は Zenn と note にも同じ内容を載せています。Zenn: https://zenn.dev/suisei498/articles/0fda15a4c44e30 ／ note: https://note.com/suisei498/n/n2b42df92e...</description>
+</item>
+<item>
+<title>【Qiita】 JetBrainsの各IDEが 2026.3 になりました</title>
+<link>https://qiita.com/yoshihiro-yoshimura/items/fe2f5b62570c170d9b6d</link>
+<guid>6408d9c0b63f70821c9af8e9a3235588084546d09ad5e6f06c4fc9cafb01b59e</guid>
+<pubDate>2026-11-13T13:50:32+09:00</pubDate>
+<description>1. はじめに JetBrains社 の各 IDE が、2026.3 になったことを確認できたので、その報告です。 2. 2026.3 は何が変わったか？ 2026.3 は、最初に IntelliJ IDEA が公開されました。 本日(11/13)、確認したところ他の ...</description>
+</item>
+<item>
+<title>【Qiita】 OpenAI Agents APIの新機能3つを実測した：ツール差し替え・compaction・auto_review</title>
+<link>https://qiita.com/FlatkeyAI/items/99759eeb86e8b6ee3b7a</link>
+<guid>1e876ed97297ed8ebd431d1b498fd8b046e0b62d00fb8178a9d2e5fd62f9b4e2</guid>
+<pubDate>2026-11-13T16:39:49+09:00</pubDate>
+<description>OpenAI の Agents API（public beta）に、10/30 付けで3つのアップデートが入りました。 既存セッションの tools を途中で差し替え られるようになった コンテキストの compaction がデフォルトでバックグラウンド実行 になった（...</description>
+</item>
+<item>
+<title>【Qiita】 Forgeを非対話で動かしたら鍵が環境変数から読まれず、sageは書き込めなかった</title>
+<link>https://qiita.com/kai_kou/items/ad8a3b6d9c131d6527cb</link>
+<guid>1ecc64b06bbe86d668c5b5d7d8c66b53954b604749c96f0ef938e5130c79e675</guid>
+<pubDate>2026-11-13T12:10:22+09:00</pubDate>
+<description>TL;DR Rust 製 OSS コーディングエージェント Forge（npm 配布名 forgecode・検証時 v2.13.21）を、TTY のないコンテナで -p（非対話）実行しました。 初回起動で Forge no longer reads API keys f...</description>
+</item>
+<item>
+<title>【Qiita】 0。16日間で9個中4個が入れ替わったコネクタの接続状態を、9日後にもう一度数えたら、変化した数はこの数字だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/734580b3ad70751da24f</link>
+<guid>25db655e85befe5c9d5a66bb15e7bd376917ec97a8bab34edad6fa7c12b5aef1</guid>
+<pubDate>2026-11-13T15:33:33+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、自分のこの記事投稿タスクを起動する定期タスクに紐づく9個のMCPコネクタについて、9日前(2026-11-04)にListConnectorsで確認した接続状態と、今日(2026-11-13)同じ方法で確認し直した接...</description>
+</item>
+<item>
+<title>【自動自律実験】 Found: a protein that drives ageing without unleashing inflammation</title>
+<link>https://www.nature.com/articles/d41586-026-03638-3</link>
+<guid>9e70588c688cb4d27f5fcf6371942784384aece7cfd31ce33e7601253166254a</guid>
+<pubDate>2026-11-12</pubDate>
+<description>Aged mice engineered to lack granzyme K have improved heart and liver function and less kidney damage.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
 <link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>9f72183a5b7adb1b5aea7ab19d01cce637b03cc78517e48e92c2a0c7824b333b</guid>
-<pubDate>Fri, 13 Nov 2026 01:16:33 GMT</pubDate>
+<guid>de6c4784e1e9b2df7cb783367fe8279722ed344f1ed8126f41276e29f493f545</guid>
+<pubDate>Fri, 13 Nov 2026 08:17:54 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>02ef33d7060ab7512478fd803b2956824848445b966d723e7a1b3b9018c91cb5</guid>
-<pubDate>Fri, 13 Nov 2026 01:16:39 GMT</pubDate>
+<guid>9e4802f42a47580d50e396dba51865e5912378a2fd008d68d915fddc3fd8ab70</guid>
+<pubDate>Fri, 13 Nov 2026 08:17:56 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>f649b17642b6ac23f1a6a83bc6486673901a724eafc2b95c9bdfbf3678e3c8ca</guid>
-<pubDate>Fri, 13 Nov 2026 01:16:43 GMT</pubDate>
+<guid>0a0d65bc96eabdbbf8e3bff99b055597e32f211c98acca14e36c210634e5cb56</guid>
+<pubDate>Fri, 13 Nov 2026 08:17:58 GMT</pubDate>
 <description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
 </item>
 <item>
-<title>【環境】 245 Results</title>
-<link>https://www.canarymedia.com/search?q=artificial+intelligence</link>
-<guid>34922c48aa9e929e11e42741672539ab4dd91d914716b9cd64efd07b36313521</guid>
-<pubDate>Fri, 13 Nov 2026 01:17:55 GMT</pubDate>
-<description>The leading newsroom covering the transition to clean energy, electrification and climate solutions. We report on how the world is decarbonizing with a…</description>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>45eced2c9e1573e161ddcad6712e76ef930a738a388678b7f21e9c2f37a776b6</guid>
+<pubDate>Fri, 13 Nov 2026 08:18:00 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 
 </channel>
