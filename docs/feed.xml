@@ -4,126 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 13 Nov 2026 16:37:35 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 22:18:50 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 GKEへアプリをデプロイする方法: Workload Identity構成とNode Service Account構成を比較</title>
-<link>https://qiita.com/TaiheiKanno/items/e2b23ddc309ebd140357</link>
-<guid>b2791ae9d9c046c3fada6056571db646002fb677f6cba17319485e4bb4cc3805</guid>
-<pubDate>2026-11-13T18:12:51+09:00</pubDate>
-<description>はじめに 本記事では、Google Kubernetes Engine（GKE）へFrontendとBackendをデプロイし、BackendからCloud Storageへファイルをアップロードするまでの手順を整理します。 Google Cloudリソースの設定は、原則...</description>
+<title>【Qiita】 「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない</title>
+<link>https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>019f07655f5f4be1dde2bda5605d96284c93385a2900134c54b5414555b3a2c3</guid>
+<pubDate>2026-11-13T11:03:33+09:00</pubDate>
+<description>はじめに 「このアプリ作ろうと思ったら、ざっくり工数どのくらい？」 こう聞かれて、つい「ざっくり 〇人月くらいですかね」と答えてしまった経験はないでしょうか。 以前、「&quot;工数が足らない&quot; からの脱却」 という記事で、計画に対して工数が足らない局面の話を書きました。今回はそ...</description>
 </item>
 <item>
-<title>【Qiita】 TerraformでLogic Apps Standardを作るために必要なこと</title>
-<link>https://qiita.com/takahiro_yada/items/0ab2d8ef1320d7850fc8</link>
-<guid>63491f0a7260b0285f17ecec1c1af955abbfaa47987a960eedd2d47e7f332976</guid>
-<pubDate>2026-11-13T18:36:16+09:00</pubDate>
-<description>はじめに TerraformでLogic Apps Standardのワークフロープランを作成する必要があり、実際に作ってみたのですが、その際、いくつか問題があり、思ったように作成できませんでした。 ここでは、うまくいかなかった問題点と、その解決方法を説明し、Logic ...</description>
+<title>【Qiita】 Claude Fable 5.2はOpusの単価2倍、でも1タスクは約半額!? Mythos5.2との違いと使いどころ</title>
+<link>https://qiita.com/ryosuke_ohori/items/17995524b433cf04fd55?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>a3d0582728a38be4af618c4c74eb32bf89225f1a06b0d6bacb8d565103d3ee05</guid>
+<pubDate>2026-11-13T13:26:32+09:00</pubDate>
+<description>みなさん、こんにちは。株式会社ulusageの技術ブログ生成AIです。 Claude CodeでOpusに何度か聞いても、原因が分からない。そこでFable 5.2に切り替えるとして、気になるのは「その1件を解くのに、結局いくらかかるんだろう？」ということです。 Fabl...</description>
 </item>
 <item>
-<title>【Qiita】 AI コーディングからアプリケーションガバナンスへ：増え続ける社内アプリを企業はどう管理するか？</title>
-<link>https://qiita.com/TianqiYuan/items/d4fc10698e83e01fff8b</link>
-<guid>450d5c9e8b6aa54d1f4f613288a1fcdd45c4b5ed549972e207800a829618fb38</guid>
-<pubDate>2026-11-14T00:47:21+09:00</pubDate>
-<description>はじめに 2026 年 10 月下旬、Hacker News にこんな投稿がありました。あなたの会社でも「社内 vibe coding アプリ」の波が来ていますか？ 投稿者は The Pragmatic Engineer の記事を引用しています。ある送電線工事会社では、開...</description>
+<title>【Qiita】 「画面数×人月」はもう通じない？見積もり単位の変遷と、バイブコーディング時代の見積もり書</title>
+<link>https://qiita.com/TH_stickey/items/f55fb76055988cf9d0ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>a18e830306edeb4e07eb585f13e1ceea571e79f1a53051b05e599a9d10d5c102</guid>
+<pubDate>2026-11-11T11:25:25+09:00</pubDate>
+<description>はじめに 最近、発注側からこう聞かれることが増えました。「AIで作るなら、もっと安くなりますよね？」半分はその通りで、半分は違います。 実際に値引きを求められたときは、こう説明しました。 意思決定が不要なフェーズであれば、短縮可能です。しかし、何を目的として何を実現した...</description>
 </item>
 <item>
-<title>【Qiita】 【Agent Skills】モデルが賢くなるとスキルはどうなる？</title>
-<link>https://qiita.com/ryu-ki/items/202d150ad48dbccf7981</link>
-<guid>ba24c00a7de84f1502b3244f27a389870f94e0d5cd381de3564a863cf163cb1c</guid>
-<pubDate>2026-11-14T00:22:50+09:00</pubDate>
-<description>はじめに これまで、エージェントに渡すスキルをいくつも作ってきましたが、モデルが賢くなったらこれらがどうなるのかは、ちゃんと考えたことがありませんでした。 そこで、自分のスキルを1本読み返して、何が残りそうかを考えてみました。この記事では、その見立てと、要らなくなった記述...</description>
+<title>【Qiita】 【2026年総括】Meta・Google・OpenAI・Anthropicの自律型AIエージェント比較とエンジニア視点の現在地</title>
+<link>https://qiita.com/mhamadajp/items/7128957cf32f2ff2c30f</link>
+<guid>537054a39afb5eaabecbf455895acf5e2142dcea5cfba821ddce05d68333c99f</guid>
+<pubDate>2026-11-14T05:51:38+09:00</pubDate>
+<description>ここ半年で Meta、Google、OpenAI、Anthropic の主要4社が相次いで自律型AIエージェントを発表・リリースしました。同じカテゴリのプロダクトがほぼ同時期に揃い踏みしたことは、今後のLLM活用・システム設計における大きな転換点を示唆しています。 しかし、...</description>
 </item>
 <item>
-<title>【Qiita】 ベクトル検索に専用DBは必要か？RAG・AIエージェントを本番運用する前に考えたい5つの観点</title>
-<link>https://qiita.com/tyleryi/items/590e441b30b59fb59ef9</link>
-<guid>75caa84bd5a6da2177cceb73a4f2175e4855969c534f68e3c5a3742fda919c4b</guid>
-<pubDate>2026-11-14T00:09:59+09:00</pubDate>
-<description>はじめに RAG や AI エージェントの PoC は、pgvector や OpenSearch、各クラウドの検索サービスなど、既存のデータベースにベクトル検索機能を足すだけで意外と簡単に動きます。 一方で、本番に近づくにつれて「データが増えたら遅くなった」「テナントご...</description>
+<title>【Qiita】 curl -v のログに API キーが出る3か所：Authorization ヘッダ・-u の Basic・URL のクエリ（curl 8.14で確認）</title>
+<link>https://qiita.com/supportapp3/items/21858f4792bac5e3f41b</link>
+<guid>0df92d325c96007bb3e2dfcad6bbf3200f5caefc6b08ad0aa67c371d576e5cde</guid>
+<pubDate>2026-11-14T05:18:29+09:00</pubDate>
+<description>結論 curl -v は、送ったリクエストをそのまま表示します。手元（curl 8.14.1、ダミーのキー）で試すと、認証情報は次の3か所に出ました。 -H &quot;Authorization: Bearer ...&quot; のヘッダ → そのまま表示 -u user:pass...</description>
 </item>
 <item>
-<title>【Qiita】 Databricks Genie OneのArtifactsでスライドを作ってみる</title>
-<link>https://qiita.com/isanakamishiro2/items/9215b4a1d94b89f90c0a</link>
-<guid>98ba7018f3a49c7b7f398fbe2efcc8e8dcfd0de92112a1056a3161d9a35c4ba8</guid>
-<pubDate>2026-11-13T23:36:55+09:00</pubDate>
-<description>仕事はだいたいこれで回るんじゃないかな感。 はじめに Databricks Genie Oneに、ドキュメントやレポートだけでなく「Artifacts」というスライドデッキなどの視覚的なページを作る機能がBetaで追加されています。 データ分析の結果などを報告資料に...</description>
-</item>
-<item>
-<title>【Qiita】 AIコーディングセッション間でコンテキストを維持する方法</title>
-<link>https://qiita.com/hervekom37/items/2b6ca2f35774f370508b</link>
-<guid>8d4437b8785a381b35def2598b5ad02eb3c6aeb1f332bdaa7f14f4071a4dd650</guid>
-<pubDate>2026-11-13T20:57:50+09:00</pubDate>
-<description>AIコーディングエージェントを複数利用する場合、セッション間でコンテキストを維持することが重要になります。 あるエージェントが調査を行い、別のエージェントが実装を担当する場合、単にコードへのアクセスを共有するだけでは不十分です。 次の情報を記録しておくと、作業を引き継ぎやす...</description>
-</item>
-<item>
-<title>【農業】 Conflict and disease outbreaks deepen DR Congo’s hunger crisis as record numbers are projected to face acute food insecurity</title>
-<link>https://www.fao.org/newsroom/detail/conflict-and-disease-outbreaks-deepen-dr-congo-s-hunger-crisis-as-record-numbers-are-projected-to-face-acute-food-insecurity/en</link>
-<guid>650ced4dc21be36865a449ec2ff9840f1f570a157b24e4fbf04d8ec759a2a2ae</guid>
-<pubDate>Fri, 13 Nov 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【環境】 Declining environmental predictability erodes reproduction in a tropical seabird</title>
-<link>https://www.nature.com/articles/s41558-026-02795-7</link>
-<guid>56e195103d90568ecdeb8f8d4960b53c2f46e07b949085dde3d98cef606f796e</guid>
+<title>【自動自律実験】 Number of international students arriving in US plunges — worrying scientists</title>
+<link>https://www.nature.com/articles/d41586-026-03668-x</link>
+<guid>7ec7fa822e66a2282c07551e62126ea4a29d3e8b06e65adfae2957890342fbdf</guid>
 <pubDate>2026-11-13</pubDate>
-<description>The authors show that, for a tropical seabird model species, winter–spring phytoplankton blooms kept a stable mean timing but became more variable between years. Breeding synchrony weakened and reproductive success declined and became less consistent over the same two decades.</description>
-</item>
-<item>
-<title>【自動自律実験】 Chinese graduate students are now choosing to stay closer to home</title>
-<link>https://www.nature.com/articles/d41586-026-03456-7</link>
-<guid>3323ac6039317ae2a0e2a7579abdef47e6d1621059547397dae64572a097ab4e</guid>
-<pubDate>2026-11-13</pubDate>
-<description>Malaysia, Hong Kong and Macau are the new hot destinations for students.</description>
-</item>
-<item>
-<title>【自動自律実験】 Accept all changes</title>
-<link>https://www.nature.com/articles/d41586-026-03516-y</link>
-<guid>d6fe58cbf7d4214f95440903552c2a88aa2c21276ed4ab6b14c248ba789d5c9d</guid>
-<pubDate>2026-11-13</pubDate>
-<description>It’s the end — or is it?</description>
-</item>
-<item>
-<title>【自動自律実験】 This AI ‘mechanic’ can peer inside the black box of other neural networks</title>
-<link>https://www.nature.com/articles/d41586-026-03679-8</link>
-<guid>b97d56a8e5a8c4c706a603dbd26ba869c36bd3d06bd004bfddb313451a589935</guid>
-<pubDate>2026-11-13</pubDate>
-<description>Being able to target and debug systems could improve artificial-intelligence safety and utility.</description>
-</item>
-<item>
-<title>【自動自律実験】 Is the climate totally cooked? What the data say</title>
-<link>https://www.nature.com/articles/d41586-026-03716-6</link>
-<guid>3ff42dc9b04bde4c1929d473caa9c31ddc671de77e621a3d6b7c1aca6a4ffe44</guid>
-<pubDate>2026-11-13</pubDate>
-<description>In the first of our new podcast series, a Nature reporter looks for reasons for hope in the face of overwhelming climate anxiety.</description>
+<description>Declines in students from China and India are driving the trend, which researchers say could slow the progress of US science.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>516f75526abddb9fca69b60a8048652850cc01b162977daa15fc1fc545cb2967</guid>
-<pubDate>Fri, 13 Nov 2026 16:36:39 GMT</pubDate>
+<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
+<guid>f72db20c2f9c28d6acb8622f2f8056ed80baf0cece37770eec3f8d8d96a74d6b</guid>
+<pubDate>Fri, 13 Nov 2026 22:17:36 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>825f1887a4aeb16bd51b3e743670422c199627d46220b4aa3d6b14eef3488d0b</guid>
-<pubDate>Fri, 13 Nov 2026 16:36:42 GMT</pubDate>
+<guid>4a3bc0502caa2b7ad3f0548c5be169a5ba6473358f0554df2987c8fb8a3792e3</guid>
+<pubDate>Fri, 13 Nov 2026 22:17:38 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>9bf97fdbeb6d930d8abafe6b9615c08fdc900f89921160731358ea35239e7340</guid>
-<pubDate>Fri, 13 Nov 2026 16:36:45 GMT</pubDate>
-<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
-</item>
-<item>
-<title>【U.S.】 Taking a Major Step Towards X-ray Beams from Laser Plasma Accelerators</title>
-<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
-<guid>bdae40a276ea804693aa5c2d2836d9ba0240bf845b3fe3acf4819560f29b76a8</guid>
-<pubDate>Fri, 13 Nov 2026 16:36:50 GMT</pubDate>
-<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
 </item>
 
 </channel>
