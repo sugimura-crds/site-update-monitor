@@ -4,119 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 12 Nov 2026 20:13:49 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 01:17:55 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIに書かせる時代だからこそ、コード1行を読む</title>
-<link>https://qiita.com/yukegineer/items/e8fa851317846aa24de6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>e4238c18b99773f4afe5b0a570393d3c73bec947e886db7782e5af02052fa019</guid>
-<pubDate>2026-11-10T09:38:48+09:00</pubDate>
-<description>はじめに 最近はAIを使ってアプリの修正をすることが増えました。指示を出せば、それなりに動くコードがすぐに出てきます。 その一方で、「動いたからOK」とソースの中身を理解しないまま作業を終えてしまうことが、自分にもありました。 だからこそ私は、AIにコードを書かせる時代だ...</description>
+<title>【Qiita】 178。WorkOSが『研究者のAIエージェントが検証環境を抜け出して侵害した』と説明した日、自分が頼んでいないのに現れたツール名の数だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/1967156836e0d269a2d5</link>
+<guid>f353c5009c6d14abc31950a81bc24578a753a36214cf84c1edf4a93db0dc676c</guid>
+<pubDate>2026-11-13T09:49:21+09:00</pubDate>
+<description>はじめに 178。 これが今回の数字です。何の178かというと、今回のタスク実行(このセッション)の中で、自分が個別に呼び出しを頼んだわけでもないのに、「呼び出せる状態」として新たに名前が現れたMCPツールの総数です。 きっかけは、開発者向けプラットフォームWorkOSが...</description>
 </item>
 <item>
-<title>【Qiita】 VS Code の Local harness は2027年2月に削除：Copilot harness へ移行する手順とつまずきポイント</title>
-<link>https://qiita.com/shahin0809/items/ccb8a8ddf11d6cb4113d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>e97cc244b0cc13eeb5af5c6c803389255c190e130d5a2a44ffb0dbb74c212b33</guid>
-<pubDate>2026-11-12T16:50:38+09:00</pubDate>
-<description>はじめに こんにちは！VSCode/GitHubオタクのMicrosoft Student Ambassador/GitHub Copilot User Group Japan運営のロホマン シャヒンです！ この記事が少しでも参考になったら、ぜひいいね・共有をお願い...</description>
+<title>【Qiita】 2026年11月13日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/77c1a70cd1c608d63870</link>
+<guid>5313e5f8704fccaac8b471fe4907e9df6a6676d76a2a0781ffd914b29f37ed69</guid>
+<pubDate>2026-11-13T09:42:05+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 集中力散漫＆過集中持ちエンジニアがAWS DE...</description>
 </item>
 <item>
-<title>【Qiita】 「いま何が起きているか」から「次にどうするか」へ。Confluentで人の判断の手前までつないでみた</title>
-<link>https://qiita.com/Harukichi1212/items/2a71599d22f690fe4de4</link>
-<guid>d46d0c35a52ed8fe965f0b9e260f38290d05837cbfadd6439804f47f7f9f945e</guid>
-<pubDate>2026-11-12T23:08:19+09:00</pubDate>
-<description>今回、取り組んでみたこと 「この状況なら対応を検討した方がよい」というAIの解釈・提案を、一連のデータの流れとしてつなげられないか 前回12の投稿では、「需要シグナル」（閲覧やカート投入など、需要の変化を示唆するイベント）と、SoR（在庫などの確定情報）を組み合わせ、AI...</description>
+<title>【Qiita】 Claude API の Message Threads で、会話の履歴を自分で持たなくてよくなるのか。公式を読むと、スレッドは5分で切れ、写しは自分で持ち続ける前提だった</title>
+<link>https://qiita.com/suwa_nobu/items/40e9eba3a7d99a2a485b</link>
+<guid>5be51505333e93155e12d9aa69630ae94b6bf596d3a7268a980fe240d9c0b3cc</guid>
+<pubDate>2026-11-13T09:00:23+09:00</pubDate>
+<description>Claude API に、11月2日から「Message Threads（メッセージスレッド）」というベータの機能が入りました（API の変更履歴）。会話をサーバー側に持ってもらい、2回目からは新しいメッセージだけを送ればよい、という機能です。 これを読んで私が最初に思った...</description>
 </item>
 <item>
-<title>【Qiita】 CodeRabbitはGitHubとCLI、結局どっちで使うのがいいのか（どちらでもいい）</title>
-<link>https://qiita.com/Sin9_Ha/items/06c430fccce0c17c4194</link>
-<guid>ac8965d4e1bc7858ad16cd4ef259b34db82b1f1766521f9b2d24f0264e686b36</guid>
-<pubDate>2026-11-13T01:03:06+09:00</pubDate>
-<description>以前、CodeRabbitを使ってコードレビューを試した記事を書きましたが、今も個人開発で使っています。 GitHub上でレビューしてもらう使い方に加えて、CLIでも使うようになりました。 両方使ってみて、結局どっちがいいの？っていうのと どちらが便利だったかを書いてみます...</description>
+<title>【Qiita】 ハーネスエンジニアリング実践編 r001 ― Docker Composeで開発・検証基盤を整える</title>
+<link>https://qiita.com/rino_yume/items/77a453e302dff545db2c</link>
+<guid>f8b39da8d8ba9d86947224f17c9434d1ff9e018ef58a632d75b23adfb5aca94e</guid>
+<pubDate>2026-11-13T08:55:29+09:00</pubDate>
+<description>ハーネスエンジニアリング実践編 r001 ― Docker Composeで開発・検証基盤を整える はじめに 前回の記事「ハーネスエンジニアリングとループエンジニアリングを整理する」では、AIが働く環境と、作業を繰り返して改善する仕組みを整理しました。 今回はその続き...</description>
 </item>
 <item>
-<title>【Qiita】 MuseとCodexの利用量を確認できるウィジェットを作った話</title>
-<link>https://qiita.com/satouyoshiaki/items/73987257a1d001c9fe66</link>
-<guid>154a807edcd667e75248c7ba922a461fa7da19646e0158b7835d4171afa0a7ac</guid>
-<pubDate>2026-11-12T22:11:34+09:00</pubDate>
-<description>はじめに MuseとCodexを毎日使っていると、週間制限の残りが気になる。アプリを開いて確認するのは手間だ。そこで、スマホのホーム画面に置く自作ウィジェットを作った。 当初はKWGTの利用も検討した。ただ、720円を払いたくなかったので、最終的には自作のAndroidア...</description>
-</item>
-<item>
-<title>【Qiita】 許可リストは340件まで増えて、止める側は4件のままだった</title>
-<link>https://qiita.com/securoi_koyama/items/919fa96d262e337611b2</link>
-<guid>0afc52d2060a3a1147539aa249dee6378b1ff6d826790db9278be9929b7258ca</guid>
-<pubDate>2026-11-12T21:16:11+09:00</pubDate>
-<description>許可リストは340件まで増えて、止める側は4件のままだった この記事は、2026年11月6日（金）に出したプレスリリースの技術側です。 AI に渡している指示の骨組みを公開していて、その中に「AI に任せない5つの操作」があります。 5つは、公開する／外へ送る／本番...</description>
-</item>
-<item>
-<title>【自動自律実験】 This little brown mushroom is laced with a hallucinogen — and lethal toxins</title>
-<link>https://www.nature.com/articles/d41586-026-03639-2</link>
-<guid>7ff804ddf07c9fa5eb543bcdc27692bddf40ad0667faa5664cd7d191d76cbf34</guid>
-<pubDate>2026-11-12</pubDate>
-<description>A Florida fungus might combine the psychedelic compound psilocybin with deadly chemicals to defend itself against hungry animals.</description>
-</item>
-<item>
-<title>【自動自律実験】 Who needs sex? Kelp reproduce asexually when no mate is nearby</title>
-<link>https://www.nature.com/articles/d41586-026-03665-0</link>
-<guid>2cc524e9942fbe4d3ed63bde1968051cc68fef605eb7fa7817351c9e71196251</guid>
-<pubDate>2026-11-12</pubDate>
-<description>Insights into the reproductive modes of brown algae could help in the fight to protect them in warming climate.</description>
-</item>
-<item>
-<title>【自動自律実験】 Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer</title>
-<link>https://www.nature.com/articles/s41586-026-11409-3</link>
-<guid>33805d99404c2528b76d5edcff5189e7db221ab2d0423b9881a5543308cfb056</guid>
-<pubDate>2026-11-12</pubDate>
-<description>Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer</description>
-</item>
-<item>
-<title>【自動自律実験】 Record-breaking Ebola outbreak: phone data reconstruct first weeks of spread</title>
-<link>https://www.nature.com/articles/d41586-026-03666-z</link>
-<guid>fe2e87cae9b8be83fd07503324e670c193a5c1cccf4d9a661fe0ca88a57860c3</guid>
-<pubDate>2026-11-12</pubDate>
-<description>The Bundibugyo virus strain was circulating for weeks before its detection in May, but was missed owing to surveillance failures, testing gaps and funding cuts, researchers say.</description>
-</item>
-<item>
-<title>【自動自律実験】 Massive atlas of brain region linked to a host of diseases is the most detailed yet</title>
-<link>https://www.nature.com/articles/d41586-026-03565-3</link>
-<guid>667b9f7775b0a9199ecafc225f0daa96307e8dbe04c221bb2a35e40b7c3717c2</guid>
-<pubDate>2026-11-12</pubDate>
-<description>A global team profiled nearly 26 million brain cells from the basal ganglia to build a cross-species reference database that will help to understand conditions from Parkinson’s disease to addiction.</description>
+<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>8265d5fdb0ab905e3ccc2156b79fb9632be65e537a49247813475d77e0f05de9</guid>
+<pubDate>Fri, 13 Nov 2026 01:16:29 GMT</pubDate>
+<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
-<guid>d19868658b770c3c682044896fadb6c45e1bc96114a3c6ecf2f0c211841f70d4</guid>
-<pubDate>Thu, 12 Nov 2026 20:13:00 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>9f72183a5b7adb1b5aea7ab19d01cce637b03cc78517e48e92c2a0c7824b333b</guid>
+<pubDate>Fri, 13 Nov 2026 01:16:33 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>c568a51b6c809d636dd8a3c448d6b87b03038968af175b7c24ace36c8043edcc</guid>
-<pubDate>Thu, 12 Nov 2026 20:13:02 GMT</pubDate>
+<guid>02ef33d7060ab7512478fd803b2956824848445b966d723e7a1b3b9018c91cb5</guid>
+<pubDate>Fri, 13 Nov 2026 01:16:39 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>a20ac168236b9189229655df2b9b8e3f76e1bb68732c7640e4f59e0eccb3463d</guid>
-<pubDate>Thu, 12 Nov 2026 20:13:05 GMT</pubDate>
+<guid>f649b17642b6ac23f1a6a83bc6486673901a724eafc2b95c9bdfbf3678e3c8ca</guid>
+<pubDate>Fri, 13 Nov 2026 01:16:43 GMT</pubDate>
 <description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>c3fc8369f6371c3cd32ae737656c2c0c38f6b5aa99426699a935924e7218ce3c</guid>
-<pubDate>Thu, 12 Nov 2026 20:13:06 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>311fcceb5929274d235881f47c02d9d46838a8d1b70333f47b9e51d28ae59b8f</guid>
-<pubDate>Thu, 12 Nov 2026 20:13:27 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【環境】 245 Results</title>
+<link>https://www.canarymedia.com/search?q=artificial+intelligence</link>
+<guid>34922c48aa9e929e11e42741672539ab4dd91d914716b9cd64efd07b36313521</guid>
+<pubDate>Fri, 13 Nov 2026 01:17:55 GMT</pubDate>
+<description>The leading newsroom covering the transition to clean energy, electrification and climate solutions. We report on how the world is decarbonizing with a…</description>
 </item>
 
 </channel>
