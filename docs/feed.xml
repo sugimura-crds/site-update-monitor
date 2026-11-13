@@ -4,119 +4,126 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 13 Nov 2026 08:18:30 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 16:37:35 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 財源幻想はなぜ生き残るのか——三層防衛構造という設計バグ : システム設計視点の行動経済学 (61)</title>
-<link>https://qiita.com/maskot1977/items/0f8816d5e85ba791176f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>bf5d55942175abeba158fc11a6229b0e293895379108ceb263575f864cb9e3fb</guid>
-<pubDate>2026-11-12T17:43:00+09:00</pubDate>
-<description>user: 「システム設計視点の行動経済学」、第61回を始めましょう。その前に、まず前回の復習として、 システム設計視点の行動経済学 全60回 総復習 https://qiita.com/maskot1977/items/d811bfa98fd0ee273bb2 をよく読...</description>
+<title>【Qiita】 GKEへアプリをデプロイする方法: Workload Identity構成とNode Service Account構成を比較</title>
+<link>https://qiita.com/TaiheiKanno/items/e2b23ddc309ebd140357</link>
+<guid>b2791ae9d9c046c3fada6056571db646002fb677f6cba17319485e4bb4cc3805</guid>
+<pubDate>2026-11-13T18:12:51+09:00</pubDate>
+<description>はじめに 本記事では、Google Kubernetes Engine（GKE）へFrontendとBackendをデプロイし、BackendからCloud Storageへファイルをアップロードするまでの手順を整理します。 Google Cloudリソースの設定は、原則...</description>
 </item>
 <item>
-<title>【Qiita】 CRA報告対応② Dependency-Trackで脆弱性の検知を自動化する(Pleasanter連携)</title>
-<link>https://qiita.com/yyoshida15/items/4ea6a0752ff2ba942dff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>302876cc0f3d73dbdeabc56b1da8973e31c9b54f68366cc588acf94b3215c8e1</guid>
-<pubDate>2026-11-13T09:22:46+09:00</pubDate>
-<description>Nov 12, 2026 はじめに OWASP Dependency-Track v5.2を使って、脆弱性情報の自動収集から、Slackへの通知、Pleasanterの脆弱性対応台帳への自動登録までを、二日がかりでつなげました。この記事では、その設定手順と、実際につまずい...</description>
+<title>【Qiita】 TerraformでLogic Apps Standardを作るために必要なこと</title>
+<link>https://qiita.com/takahiro_yada/items/0ab2d8ef1320d7850fc8</link>
+<guid>63491f0a7260b0285f17ecec1c1af955abbfaa47987a960eedd2d47e7f332976</guid>
+<pubDate>2026-11-13T18:36:16+09:00</pubDate>
+<description>はじめに TerraformでLogic Apps Standardのワークフロープランを作成する必要があり、実際に作ってみたのですが、その際、いくつか問題があり、思ったように作成できませんでした。 ここでは、うまくいかなかった問題点と、その解決方法を説明し、Logic ...</description>
 </item>
 <item>
-<title>【Qiita】 AKSへアプリをデプロイする方法：ノード用マネージドID構成とWorkload Identity構成を比較</title>
-<link>https://qiita.com/TaiheiKanno/items/c8faf49dca1b1a5eeb10</link>
-<guid>26374a91f15bcb41dbc94db1c52bdfe5d782af8e8cc259302e1a28268b554952</guid>
-<pubDate>2026-11-13T14:25:15+09:00</pubDate>
-<description>はじめに 本記事では、Container RegistryにPushしたイメージ（FrontendとBackend）をAzure Kubernetes Service（AKS）からPullし、BackendからAzure Storageへファイルをアップロードする手順を説...</description>
+<title>【Qiita】 AI コーディングからアプリケーションガバナンスへ：増え続ける社内アプリを企業はどう管理するか？</title>
+<link>https://qiita.com/TianqiYuan/items/d4fc10698e83e01fff8b</link>
+<guid>450d5c9e8b6aa54d1f4f613288a1fcdd45c4b5ed549972e207800a829618fb38</guid>
+<pubDate>2026-11-14T00:47:21+09:00</pubDate>
+<description>はじめに 2026 年 10 月下旬、Hacker News にこんな投稿がありました。あなたの会社でも「社内 vibe coding アプリ」の波が来ていますか？ 投稿者は The Pragmatic Engineer の記事を引用しています。ある送電線工事会社では、開...</description>
 </item>
 <item>
-<title>【Qiita】 QuarkusのCycloneDX ExtensionでSBOMを生成・埋め込み、実行中のアプリから取得してみた</title>
-<link>https://qiita.com/autonomura/items/15e2fdda0840f4a9c7e2</link>
-<guid>f04b223a041e6729394f46134cdad458224e5063d033f9a1a4b87438156bde5c</guid>
-<pubDate>2026-11-13T12:40:48+09:00</pubDate>
-<description>はじめに SBOM（Software Bill of Materials）は、アプリケーションを構成するライブラリーや依存関係を記録した「ソフトウェアの部品表」です。使用しているコンポーネントとそのバージョンを可視化することで、脆弱性の影響調査やソフトウェア・サプライチェ...</description>
+<title>【Qiita】 【Agent Skills】モデルが賢くなるとスキルはどうなる？</title>
+<link>https://qiita.com/ryu-ki/items/202d150ad48dbccf7981</link>
+<guid>ba24c00a7de84f1502b3244f27a389870f94e0d5cd381de3564a863cf163cb1c</guid>
+<pubDate>2026-11-14T00:22:50+09:00</pubDate>
+<description>はじめに これまで、エージェントに渡すスキルをいくつも作ってきましたが、モデルが賢くなったらこれらがどうなるのかは、ちゃんと考えたことがありませんでした。 そこで、自分のスキルを1本読み返して、何が残りそうかを考えてみました。この記事では、その見立てと、要らなくなった記述...</description>
 </item>
 <item>
-<title>【Qiita】 SonarQube Remediation Agent は溜まったイシューをどう直すのか</title>
-<link>https://qiita.com/r-jw/items/5fb8cb336bff43ec4550</link>
-<guid>dc6c20447cc9328c2f41ab9fe3aee63145e5b3b81d4de2cb3a5156e83bac59cc</guid>
-<pubDate>2026-11-13T16:57:41+09:00</pubDate>
-<description>この記事は、クリエーションライン Tech Blog の記事「SonarQube Remediation Agent とは｜コストをかけずに技術的負債を減らし続ける「修正ループ」」の要約です。元の記事：SonarQube Remediation Agent とは｜コストを...</description>
+<title>【Qiita】 ベクトル検索に専用DBは必要か？RAG・AIエージェントを本番運用する前に考えたい5つの観点</title>
+<link>https://qiita.com/tyleryi/items/590e441b30b59fb59ef9</link>
+<guid>75caa84bd5a6da2177cceb73a4f2175e4855969c534f68e3c5a3742fda919c4b</guid>
+<pubDate>2026-11-14T00:09:59+09:00</pubDate>
+<description>はじめに RAG や AI エージェントの PoC は、pgvector や OpenSearch、各クラウドの検索サービスなど、既存のデータベースにベクトル検索機能を足すだけで意外と簡単に動きます。 一方で、本番に近づくにつれて「データが増えたら遅くなった」「テナントご...</description>
 </item>
 <item>
-<title>【Qiita】 IDOR はなぜ SAST で見つからないのか：SonarQube Hunter Agent が認可の抜けを探す</title>
-<link>https://qiita.com/r-jw/items/1c2497f023d6faa1543d</link>
-<guid>dcf007286f42e22be545bf7ada3a63b8bbb3637f3d014bbb40861b2aa24a2524</guid>
-<pubDate>2026-11-13T16:56:47+09:00</pubDate>
-<description>この記事は、クリエーションライン Tech Blog の記事「SonarQube Hunter Agent とは｜SAST では見つからない「ロジックの脆弱性」を AI が探す」の要約です。元の記事：SonarQube Hunter Agent とは｜SAST では見つか...</description>
+<title>【Qiita】 Databricks Genie OneのArtifactsでスライドを作ってみる</title>
+<link>https://qiita.com/isanakamishiro2/items/9215b4a1d94b89f90c0a</link>
+<guid>98ba7018f3a49c7b7f398fbe2efcc8e8dcfd0de92112a1056a3161d9a35c4ba8</guid>
+<pubDate>2026-11-13T23:36:55+09:00</pubDate>
+<description>仕事はだいたいこれで回るんじゃないかな感。 はじめに Databricks Genie Oneに、ドキュメントやレポートだけでなく「Artifacts」というスライドデッキなどの視覚的なページを作る機能がBetaで追加されています。 データ分析の結果などを報告資料に...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code のセッションを10個並べ、予約タスクに起こしてもらって回している — 3週間で起こし係104本</title>
-<link>https://qiita.com/Suisei498/items/b088ffcd12ede6f91c56</link>
-<guid>ce524db8dc5990a2654cdba70ffec0ba11489bb546c6a41ac8db641d91ba53c0</guid>
-<pubDate>2026-11-13T16:34:48+09:00</pubDate>
-<description>この記事は Zenn と note にも同じ内容を載せています。Zenn: https://zenn.dev/suisei498/articles/0fda15a4c44e30 ／ note: https://note.com/suisei498/n/n2b42df92e...</description>
+<title>【Qiita】 AIコーディングセッション間でコンテキストを維持する方法</title>
+<link>https://qiita.com/hervekom37/items/2b6ca2f35774f370508b</link>
+<guid>8d4437b8785a381b35def2598b5ad02eb3c6aeb1f332bdaa7f14f4071a4dd650</guid>
+<pubDate>2026-11-13T20:57:50+09:00</pubDate>
+<description>AIコーディングエージェントを複数利用する場合、セッション間でコンテキストを維持することが重要になります。 あるエージェントが調査を行い、別のエージェントが実装を担当する場合、単にコードへのアクセスを共有するだけでは不十分です。 次の情報を記録しておくと、作業を引き継ぎやす...</description>
 </item>
 <item>
-<title>【Qiita】 JetBrainsの各IDEが 2026.3 になりました</title>
-<link>https://qiita.com/yoshihiro-yoshimura/items/fe2f5b62570c170d9b6d</link>
-<guid>6408d9c0b63f70821c9af8e9a3235588084546d09ad5e6f06c4fc9cafb01b59e</guid>
-<pubDate>2026-11-13T13:50:32+09:00</pubDate>
-<description>1. はじめに JetBrains社 の各 IDE が、2026.3 になったことを確認できたので、その報告です。 2. 2026.3 は何が変わったか？ 2026.3 は、最初に IntelliJ IDEA が公開されました。 本日(11/13)、確認したところ他の ...</description>
+<title>【農業】 Conflict and disease outbreaks deepen DR Congo’s hunger crisis as record numbers are projected to face acute food insecurity</title>
+<link>https://www.fao.org/newsroom/detail/conflict-and-disease-outbreaks-deepen-dr-congo-s-hunger-crisis-as-record-numbers-are-projected-to-face-acute-food-insecurity/en</link>
+<guid>650ced4dc21be36865a449ec2ff9840f1f570a157b24e4fbf04d8ec759a2a2ae</guid>
+<pubDate>Fri, 13 Nov 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【Qiita】 OpenAI Agents APIの新機能3つを実測した：ツール差し替え・compaction・auto_review</title>
-<link>https://qiita.com/FlatkeyAI/items/99759eeb86e8b6ee3b7a</link>
-<guid>1e876ed97297ed8ebd431d1b498fd8b046e0b62d00fb8178a9d2e5fd62f9b4e2</guid>
-<pubDate>2026-11-13T16:39:49+09:00</pubDate>
-<description>OpenAI の Agents API（public beta）に、10/30 付けで3つのアップデートが入りました。 既存セッションの tools を途中で差し替え られるようになった コンテキストの compaction がデフォルトでバックグラウンド実行 になった（...</description>
+<title>【環境】 Declining environmental predictability erodes reproduction in a tropical seabird</title>
+<link>https://www.nature.com/articles/s41558-026-02795-7</link>
+<guid>56e195103d90568ecdeb8f8d4960b53c2f46e07b949085dde3d98cef606f796e</guid>
+<pubDate>2026-11-13</pubDate>
+<description>The authors show that, for a tropical seabird model species, winter–spring phytoplankton blooms kept a stable mean timing but became more variable between years. Breeding synchrony weakened and reproductive success declined and became less consistent over the same two decades.</description>
 </item>
 <item>
-<title>【Qiita】 Forgeを非対話で動かしたら鍵が環境変数から読まれず、sageは書き込めなかった</title>
-<link>https://qiita.com/kai_kou/items/ad8a3b6d9c131d6527cb</link>
-<guid>1ecc64b06bbe86d668c5b5d7d8c66b53954b604749c96f0ef938e5130c79e675</guid>
-<pubDate>2026-11-13T12:10:22+09:00</pubDate>
-<description>TL;DR Rust 製 OSS コーディングエージェント Forge（npm 配布名 forgecode・検証時 v2.13.21）を、TTY のないコンテナで -p（非対話）実行しました。 初回起動で Forge no longer reads API keys f...</description>
+<title>【自動自律実験】 Chinese graduate students are now choosing to stay closer to home</title>
+<link>https://www.nature.com/articles/d41586-026-03456-7</link>
+<guid>3323ac6039317ae2a0e2a7579abdef47e6d1621059547397dae64572a097ab4e</guid>
+<pubDate>2026-11-13</pubDate>
+<description>Malaysia, Hong Kong and Macau are the new hot destinations for students.</description>
 </item>
 <item>
-<title>【Qiita】 0。16日間で9個中4個が入れ替わったコネクタの接続状態を、9日後にもう一度数えたら、変化した数はこの数字だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/734580b3ad70751da24f</link>
-<guid>25db655e85befe5c9d5a66bb15e7bd376917ec97a8bab34edad6fa7c12b5aef1</guid>
-<pubDate>2026-11-13T15:33:33+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、自分のこの記事投稿タスクを起動する定期タスクに紐づく9個のMCPコネクタについて、9日前(2026-11-04)にListConnectorsで確認した接続状態と、今日(2026-11-13)同じ方法で確認し直した接...</description>
+<title>【自動自律実験】 Accept all changes</title>
+<link>https://www.nature.com/articles/d41586-026-03516-y</link>
+<guid>d6fe58cbf7d4214f95440903552c2a88aa2c21276ed4ab6b14c248ba789d5c9d</guid>
+<pubDate>2026-11-13</pubDate>
+<description>It’s the end — or is it?</description>
 </item>
 <item>
-<title>【自動自律実験】 Found: a protein that drives ageing without unleashing inflammation</title>
-<link>https://www.nature.com/articles/d41586-026-03638-3</link>
-<guid>9e70588c688cb4d27f5fcf6371942784384aece7cfd31ce33e7601253166254a</guid>
-<pubDate>2026-11-12</pubDate>
-<description>Aged mice engineered to lack granzyme K have improved heart and liver function and less kidney damage.</description>
+<title>【自動自律実験】 This AI ‘mechanic’ can peer inside the black box of other neural networks</title>
+<link>https://www.nature.com/articles/d41586-026-03679-8</link>
+<guid>b97d56a8e5a8c4c706a603dbd26ba869c36bd3d06bd004bfddb313451a589935</guid>
+<pubDate>2026-11-13</pubDate>
+<description>Being able to target and debug systems could improve artificial-intelligence safety and utility.</description>
+</item>
+<item>
+<title>【自動自律実験】 Is the climate totally cooked? What the data say</title>
+<link>https://www.nature.com/articles/d41586-026-03716-6</link>
+<guid>3ff42dc9b04bde4c1929d473caa9c31ddc671de77e621a3d6b7c1aca6a4ffe44</guid>
+<pubDate>2026-11-13</pubDate>
+<description>In the first of our new podcast series, a Nature reporter looks for reasons for hope in the face of overwhelming climate anxiety.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>de6c4784e1e9b2df7cb783367fe8279722ed344f1ed8126f41276e29f493f545</guid>
-<pubDate>Fri, 13 Nov 2026 08:17:54 GMT</pubDate>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>516f75526abddb9fca69b60a8048652850cc01b162977daa15fc1fc545cb2967</guid>
+<pubDate>Fri, 13 Nov 2026 16:36:39 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>9e4802f42a47580d50e396dba51865e5912378a2fd008d68d915fddc3fd8ab70</guid>
-<pubDate>Fri, 13 Nov 2026 08:17:56 GMT</pubDate>
+<guid>825f1887a4aeb16bd51b3e743670422c199627d46220b4aa3d6b14eef3488d0b</guid>
+<pubDate>Fri, 13 Nov 2026 16:36:42 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>0a0d65bc96eabdbbf8e3bff99b055597e32f211c98acca14e36c210634e5cb56</guid>
-<pubDate>Fri, 13 Nov 2026 08:17:58 GMT</pubDate>
+<guid>9bf97fdbeb6d930d8abafe6b9615c08fdc900f89921160731358ea35239e7340</guid>
+<pubDate>Fri, 13 Nov 2026 16:36:45 GMT</pubDate>
 <description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>45eced2c9e1573e161ddcad6712e76ef930a738a388678b7f21e9c2f37a776b6</guid>
-<pubDate>Fri, 13 Nov 2026 08:18:00 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+<title>【U.S.】 Taking a Major Step Towards X-ray Beams from Laser Plasma Accelerators</title>
+<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
+<guid>bdae40a276ea804693aa5c2d2836d9ba0240bf845b3fe3acf4819560f29b76a8</guid>
+<pubDate>Fri, 13 Nov 2026 16:36:50 GMT</pubDate>
+<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
 </item>
 
 </channel>
