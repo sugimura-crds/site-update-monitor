@@ -4,69 +4,90 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 14 Nov 2026 02:33:45 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 09:39:10 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIエージェントにコードを書かせても壊れないリポジトリの最小構成（型・lint・E2E・CI）</title>
-<link>https://qiita.com/cpcai/items/3c5c7bb89df7ede96f37</link>
-<guid>a48de551ad71de06beb5f37da4c658d23e13eaa7c446511866e0d4b8a45670d8</guid>
-<pubDate>2026-11-14T11:18:47+09:00</pubDate>
-<description>はじめに 韓国・ソウルで1人法人の開発スタジオ（株式会社CPC AI）をやっています。AIエージェントにかなりの量のコードを書かせて、Web/アプリのMVPを3〜5日で出す仕事をしています。 この記事は「AIで速く書く」話ではなく、AIに書かせても壊れないように先に仕込ん...</description>
+<title>【Qiita】 「利上げできない」も「利上げしすぎる」も日本では成立しない——金利チャネル神話とDomar条件 : システム設計視点の行動経済学 (62)</title>
+<link>https://qiita.com/maskot1977/items/dcd3c5a7ed7d0bcc0dc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>a7c86b3083fe2b37c11a902a40f68f6ed680bf13c739ca687b8ec3a1a305e804</guid>
+<pubDate>2026-11-14T10:10:55+09:00</pubDate>
+<description>user: 「システム設計視点の行動経済学」、第62回を始めましょう。その前に、まず前回の復習として、 財源幻想はなぜ生き残るのか——三層防衛構造という設計バグ : システム設計視点の行動経済学 (61) https://qiita.com/maskot1977/item...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントを1つ動かしてみたが、複数のエージェントに役割を分けて協調させる設計になると手が止まるエンジニアへ。マルチエージェントの設計と実装を実践的にまとめた一冊</title>
-<link>https://qiita.com/yasu1109/items/f38422cef6f48c82d727</link>
-<guid>f62cb50e939052c7d655126aa40a86a22be8b0631a4a20151894757cd1dfd6eb</guid>
-<pubDate>2026-11-14T10:55:37+09:00</pubDate>
-<description>エージェントを1つ動かして、ツールを呼ばせるところまでは試した。ただ、計画を立てて、途中で間違いに気づいて直す、という自律的な動きを複数のエージェントで分担させようとすると、どこから設計すればいいのか見えなくなる。そこで止まると、1つのエージェントに何でも詰め込んだ、扱いに...</description>
+<title>【Qiita】 ちょっと見ない間にClaude APIが進化してた！</title>
+<link>https://qiita.com/moritalous/items/9e7c02b749037238b2bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>eb8b03b69255c0c566157c67cd008556e66a9b08939a74e335def58df844fa7c</guid>
+<pubDate>2026-11-14T15:32:07+09:00</pubDate>
+<description>ClaudeのAPI、ただモデル呼び出すだけでしょと思ってたんですが、どんどん進化してました！ 環境 Pythonのプロジェクトを作成し、Anthropicの公式SDKをインストールします。 uv init app --python 3.13 --no-package c...</description>
 </item>
 <item>
-<title>【Qiita】 Muse に頼んで「会社概要」ページを作る：Sakupa で公開するまでの段取り</title>
-<link>https://qiita.com/kakusan2022/items/4492cb7e0e9cdd369ff1</link>
-<guid>9045a66f6a67e65bd9dc90aaf143451d510411fa49e30b070e1d1db051b8786d</guid>
-<pubDate>2026-11-14T10:54:29+09:00</pubDate>
-<description>私は開発者ではありません。個人でいろいろ調べるのが好きな者として、気になったサービスを整理して紹介しています。 会社のホームページで、初めての人がまず見るページのひとつが「会社概要」です。社名、住所、代表者、事業内容。書く内容は決まっているのに、ページとして作るとなると手が...</description>
+<title>【Qiita】 Unityを選ぶ企業は赤字体質である。</title>
+<link>https://qiita.com/roripika/items/bdeb5537efc1f27af726?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>7c0418faf87a8c33a74c309e092c8b41b48e4a4dcc1bd619662df53b50fb110c</guid>
+<pubDate>2026-11-13T12:29:15+09:00</pubDate>
+<description>※本記事について 本記事は、筆者がゲーム開発の現場で抱えている課題感や知見をもとに、AI（Antigravity / Gemini）と壁打ち・議論した内容をAIに整理・執筆させたものです。 はじめに：なぜ「Unityにすれば早く作れる」が実現しないのか ゲーム開発の現...</description>
 </item>
 <item>
-<title>【Qiita】 AI AgentでPRが増えたのに、なぜ開発は速くならないのか？ ―― レビュー待ちを、待ち行列理論・CI・スクラムで解消する</title>
-<link>https://qiita.com/etale_cohomology/items/5f04f32efcc38e2850e1</link>
-<guid>eb4d6816950e133a0346255b46e82fdfe41963526eb7c8cac0a072fc399e4689</guid>
-<pubDate>2026-11-14T10:49:24+09:00</pubDate>
-<description>Executive Summary 本記事の主役となる用語を、最初に１つだけ説明します。 PR（プルリクエスト） は、プログラムを変更した人が、「この変更を、チームで共有している本体のプログラムに取り込んでください」と依頼するための仕組みです。 依頼を受けた別の人が、変...</description>
+<title>【Qiita】 RHEL 10.2から10.3へのリリースアップ作業纏め</title>
+<link>https://qiita.com/duelist2020jp/items/af21a54cb3726f1a323f</link>
+<guid>5a77479769d7433983bf594c17d41c646c01b1c81c9aeb940f85be5f6c972fdb</guid>
+<pubDate>2026-11-14T12:58:54+09:00</pubDate>
+<description>はじめに 11/11にRed Hat Enterprise Linux(以下、RHEL)の10.3がリリースされました。同日に9.9もリリースされています。 私は個人の検証環境としてRHEL9環境とRHEL10環境の両方を維持しています。本日RHEL10.2から10...</description>
 </item>
 <item>
-<title>【Qiita】 Muse Codeを入れる前に確認するポイント6つ——学習に使うContributorモードは既定オン</title>
-<link>https://qiita.com/sakutto-panda/items/a149a8264339f2aa3ab2</link>
-<guid>0edd96c9cc4aff4556197f97c7867a857d6873bd20cf735976ac7008926bbc0d</guid>
-<pubDate>2026-11-14T10:52:37+09:00</pubDate>
-<description>3 行まとめ Meta のコーディングエージェント Muse Code は、承認と OS サンドボックスが最初から有効で、守りは固い。ただし公式ドキュメントを読むと、既定のままだと気づきにくい点がいくつかある 一番大きいのは、サブスクリプションでは Contributo...</description>
+<title>【Qiita】 RHEL9.8から9.9へのリリースアップ作業纏め</title>
+<link>https://qiita.com/duelist2020jp/items/9b1da0b932afce1a888f</link>
+<guid>e32b668280f095761d81c5027cce9ce9c7e80ac11451d853c36bb9e995113ffd</guid>
+<pubDate>2026-11-14T12:39:16+09:00</pubDate>
+<description>はじめに 11/11にRed Hat Enterprise Linux(以下、RHEL)の9.9がリリースされました。同日に10.3もリリースされています。 本日、個人のRHEL9.8環境を9.9にリリースアップしましたので、備忘録として纏めました。 更新作業 私...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code 2.1.323のCode Mode入門、有効化と使えない条件</title>
-<link>https://qiita.com/kai_kou/items/fa321358a7809b561c00</link>
-<guid>53ed9823856bd1416fa5c6b93ff15bbf7eae5ffd8032971f95e4d4d8fd821015</guid>
-<pubDate>2026-11-14T10:43:36+09:00</pubDate>
-<description>はじめに Claude Code 2.1.323 の CHANGELOG に、Code Mode という実験機能が加わりました。Claude が JavaScript を書き、1 回のコード実行で複数のツール呼び出しをまとめて行う仕組みです。公式ドキュメントは、既定でオフ...</description>
+<title>【Qiita】 ゴールドマン・サックス、トレーダーからClaude Codeを回収――「読めないコード」を現場に置けない理由</title>
+<link>https://qiita.com/pitaspot/items/9daeef16dfae6c928f64</link>
+<guid>3032a6e7695f4f35183f9e8eeccdcc2688b5343f18cb6326a763ba145b90889e</guid>
+<pubDate>2026-11-14T18:03:43+09:00</pubDate>
+<description>📰 海外事例 元記事：Goldman Sachs is pulling Claude Code from its bankers and traders（thestateofai.com） ゴールドマン・サックスが10月に社内指針を改め、Claude Code...</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>7e2db3e469d82998dc2450b39f48252063d923a9f54a4fd3bd007f8094cc19ec</guid>
-<pubDate>Sat, 14 Nov 2026 02:32:39 GMT</pubDate>
-<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
+<title>【Qiita】 LLMに任せる範囲を、失敗を見ながらコードへ移していった話【前編：全体像と照合ロジック】</title>
+<link>https://qiita.com/asyoroa/items/45e0b175e6edbfd0ee19</link>
+<guid>85cbb15d1ec6c7317d555ae7539741f26488cb43a85807097e541a84211b56c6</guid>
+<pubDate>2026-11-14T17:30:32+09:00</pubDate>
+<description>CAP（SAPのアプリケーション開発フレームワーク）で作った発注アプリに、AIエージェント（LLMが処理を呼び出しながら仕事を進める仕組み）を組み込み、見積書PDFから発注を登録できるようにしています。 今回は、見積書に書かれた仕入先・品目・単位を、自社のマスタ（仕入先・品...</description>
+</item>
+<item>
+<title>【Qiita】 AWS Emulatorが一般提供されたので、ローカルでS3バケットを作成してみた</title>
+<link>https://qiita.com/moyomoyomoyo/items/522ba880ff37971aa969</link>
+<guid>9ffe7110ae60c11cf0dfdf8282e9797d38b39b0c3c7440e593ddbeab965a3358</guid>
+<pubDate>2026-11-14T16:41:30+09:00</pubDate>
+<description>はじめに 本記事は2026年11月14日時点の情報です。最新の提供条件や料金は、公式ドキュメントを確認してください。 2026年11月11日、AWSがローカルで動かせるエミュレーター「AWS Emulator」を発表しました。エミュレーターとは、本物のサービスの代...</description>
+</item>
+<item>
+<title>【Qiita】 0。METRが『Anthropicの自己申告する1.9倍加速の根拠の大半は非公開』と報じられた日、自分の投稿パイプラインの完了確認2種類のうち、公開ページを実際に見る手段の数だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/9f49c8ac1872f56e1109</link>
+<guid>6846753fd83d6d131bbf01201736aa03374be4fb7162bfe628b8e8536053e574</guid>
+<pubDate>2026-11-14T15:29:45+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿タスクの「ステップ1(前回枠の完了確認・自己修復)」で指定されている確認手段のうち、実際に公開済みのページ(読者が目にする画面そのもの)を見るものの数です。 きっかけは、AIの能力評価...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>8a0af1fbc1d7c8ea5840037bbcc7ebb0353832b8417be62065f9397f44f7080a</guid>
+<pubDate>Sat, 14 Nov 2026 09:38:22 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>05f63a42e1229ebd63cafc373b7d4b5a853337aeda82b6fab2ace03f2f63d7af</guid>
-<pubDate>Sat, 14 Nov 2026 02:32:51 GMT</pubDate>
+<guid>7318b14e67770d38ab7079109b4a64429442cd0b5b0f5937d50eeb956380f367</guid>
+<pubDate>Sat, 14 Nov 2026 09:38:25 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>5f85a7ad7a69923bf2c6fb312c3eedd2953bbd78d2ebbd383105564c3414963f</guid>
-<pubDate>Sat, 14 Nov 2026 02:32:59 GMT</pubDate>
+<guid>aeafc1d792e819c1353e2e8cd3b5115c243cd4839f08d23b970cb25ba6f4f59c</guid>
+<pubDate>Sat, 14 Nov 2026 09:38:28 GMT</pubDate>
 <description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
 </item>
 
