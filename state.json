@@ -24,7 +24,7 @@
   "rss::https://www.nature.com/articles/d41586-026-01087-6": "2026-05-22",
   "rss::https://www.nature.com/articles/d41586-026-01651-0": "2026-05-22",
   "rss::https://www.nature.com/articles/d41586-026-01392-0": "2026-05-22",
-  "site::https://www.anthropic.com/news": "7e48fc8f7f414b519ed69981d4461d0f7f2307ca3732f9a04038f6dea9570971",
+  "site::https://www.anthropic.com/news": "dd54a822d131475bc194a6e9ed3c3536d91b8552cb1047d2e5ecd7baefdee620",
   "site::https://www.nvidia.com/ja-jp/about-nvidia/news/press-release/": "43c973c4e85bbb3855b6a21c8d125e4e2af14248e2db251e3d72437d146a511a",
   "site::https://research.google/research-areas/sustainability-crisis-resilience/": "be9d113c5493820da3db5de9835625b11604d55f112e47c85401767a595173fa",
   "site::https://research.google/research-areas/health-ai/": "503b0884c62aaa7709d32d32fa34a91b4495df8318f77237080611cf4d28242d",
@@ -32,8 +32,8 @@
   "site::https://research.google/research-areas/science-ai/": "e83ae3eb27f7a7bbf4c35dab9803eeb306b06fe1da9f57468d19e7b5bc147de8",
   "site::https://research.google/pubs/": "b4b044735c4c73226c5d0ef36b67b32c4f3c2ad28dd5f152d74f2bfad7e889c0",
   "site::https://sakana.ai/blog/": "8cd9056aa1a20f7060773baed8a4b78f87f64070f2aa911dd2c5ff7a5c61d609",
-  "site::https://www.nature.com/search?q=AI+for+Science&date_range=last_30_days&order=relevance": "d7ca12372df2c127305197f142a6aed5e3e3986b53c7b3a12c24eeb89806db84",
-  "site::https://www.nature.com/search?q=AI+agent&date_range=last_30_days&order=relevance": "1d7b5f05ca592e1ef7d22a0d9e64024b48b019fad5aad024b020b56a8e1d6942",
+  "site::https://www.nature.com/search?q=AI+for+Science&date_range=last_30_days&order=relevance": "6c7b77747edf8f648062afab51e34be03021c35e0ab875b45915b8ab5a66c5a3",
+  "site::https://www.nature.com/search?q=AI+agent&date_range=last_30_days&order=relevance": "82a0bdfa7b070dfe63f55353b01857f9dd9613241f2efba18bfec502f6b4a7e0",
   "site::https://www.nature.com/search?q=agentic+AI": "6efe50f566f347feb59f6af92b5bc161b249554a64f999e7f7f4039163adb80f",
   "site::https://arxiv.org/search/?query=self-driving+laborator*&searchtype=all&abstracts=show&order=-announced_date_first&size=50": "cd9ee436c9dde91a3720fdd139e2d236f0790844d23a24a8df39d75245ef385d",
   "site::https://www.nature.com/search?q=Self-driving+laboratories&date_range=last_30_days&order=relevance": "a66e17f9a69c1aa2b41bcb0e8f1bebd0d377ae639ba43cf7227a445b3b67d24e",
@@ -6096,5 +6096,11 @@
   "rss::tag:qiita.com,2005:PublicArticle/2299702": "2026-11-11T11:25:25+09:00",
   "rss::tag:qiita.com,2005:PublicArticle/2303646": "2026-11-14T05:51:38+09:00",
   "rss::tag:qiita.com,2005:PublicArticle/2303644": "2026-11-14T05:18:29+09:00",
-  "rss::https://www.nature.com/articles/d41586-026-03668-x": "2026-11-13"
+  "rss::https://www.nature.com/articles/d41586-026-03668-x": "2026-11-13",
+  "rss::tag:qiita.com,2005:PublicArticle/2303760": "2026-11-14T11:18:47+09:00",
+  "rss::tag:qiita.com,2005:PublicArticle/2303753": "2026-11-14T10:55:37+09:00",
+  "rss::tag:qiita.com,2005:PublicArticle/2303752": "2026-11-14T10:54:29+09:00",
+  "rss::tag:qiita.com,2005:PublicArticle/2303750": "2026-11-14T10:49:24+09:00",
+  "rss::tag:qiita.com,2005:PublicArticle/2303751": "2026-11-14T10:52:37+09:00",
+  "rss::tag:qiita.com,2005:PublicArticle/2303748": "2026-11-14T10:43:36+09:00"
 }

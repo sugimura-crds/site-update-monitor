@@ -4,63 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 13 Nov 2026 22:18:50 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 02:33:45 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない</title>
-<link>https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>019f07655f5f4be1dde2bda5605d96284c93385a2900134c54b5414555b3a2c3</guid>
-<pubDate>2026-11-13T11:03:33+09:00</pubDate>
-<description>はじめに 「このアプリ作ろうと思ったら、ざっくり工数どのくらい？」 こう聞かれて、つい「ざっくり 〇人月くらいですかね」と答えてしまった経験はないでしょうか。 以前、「&quot;工数が足らない&quot; からの脱却」 という記事で、計画に対して工数が足らない局面の話を書きました。今回はそ...</description>
+<title>【Qiita】 AIエージェントにコードを書かせても壊れないリポジトリの最小構成（型・lint・E2E・CI）</title>
+<link>https://qiita.com/cpcai/items/3c5c7bb89df7ede96f37</link>
+<guid>a48de551ad71de06beb5f37da4c658d23e13eaa7c446511866e0d4b8a45670d8</guid>
+<pubDate>2026-11-14T11:18:47+09:00</pubDate>
+<description>はじめに 韓国・ソウルで1人法人の開発スタジオ（株式会社CPC AI）をやっています。AIエージェントにかなりの量のコードを書かせて、Web/アプリのMVPを3〜5日で出す仕事をしています。 この記事は「AIで速く書く」話ではなく、AIに書かせても壊れないように先に仕込ん...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Fable 5.2はOpusの単価2倍、でも1タスクは約半額!? Mythos5.2との違いと使いどころ</title>
-<link>https://qiita.com/ryosuke_ohori/items/17995524b433cf04fd55?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>a3d0582728a38be4af618c4c74eb32bf89225f1a06b0d6bacb8d565103d3ee05</guid>
-<pubDate>2026-11-13T13:26:32+09:00</pubDate>
-<description>みなさん、こんにちは。株式会社ulusageの技術ブログ生成AIです。 Claude CodeでOpusに何度か聞いても、原因が分からない。そこでFable 5.2に切り替えるとして、気になるのは「その1件を解くのに、結局いくらかかるんだろう？」ということです。 Fabl...</description>
+<title>【Qiita】 AIエージェントを1つ動かしてみたが、複数のエージェントに役割を分けて協調させる設計になると手が止まるエンジニアへ。マルチエージェントの設計と実装を実践的にまとめた一冊</title>
+<link>https://qiita.com/yasu1109/items/f38422cef6f48c82d727</link>
+<guid>f62cb50e939052c7d655126aa40a86a22be8b0631a4a20151894757cd1dfd6eb</guid>
+<pubDate>2026-11-14T10:55:37+09:00</pubDate>
+<description>エージェントを1つ動かして、ツールを呼ばせるところまでは試した。ただ、計画を立てて、途中で間違いに気づいて直す、という自律的な動きを複数のエージェントで分担させようとすると、どこから設計すればいいのか見えなくなる。そこで止まると、1つのエージェントに何でも詰め込んだ、扱いに...</description>
 </item>
 <item>
-<title>【Qiita】 「画面数×人月」はもう通じない？見積もり単位の変遷と、バイブコーディング時代の見積もり書</title>
-<link>https://qiita.com/TH_stickey/items/f55fb76055988cf9d0ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>a18e830306edeb4e07eb585f13e1ceea571e79f1a53051b05e599a9d10d5c102</guid>
-<pubDate>2026-11-11T11:25:25+09:00</pubDate>
-<description>はじめに 最近、発注側からこう聞かれることが増えました。「AIで作るなら、もっと安くなりますよね？」半分はその通りで、半分は違います。 実際に値引きを求められたときは、こう説明しました。 意思決定が不要なフェーズであれば、短縮可能です。しかし、何を目的として何を実現した...</description>
+<title>【Qiita】 Muse に頼んで「会社概要」ページを作る：Sakupa で公開するまでの段取り</title>
+<link>https://qiita.com/kakusan2022/items/4492cb7e0e9cdd369ff1</link>
+<guid>9045a66f6a67e65bd9dc90aaf143451d510411fa49e30b070e1d1db051b8786d</guid>
+<pubDate>2026-11-14T10:54:29+09:00</pubDate>
+<description>私は開発者ではありません。個人でいろいろ調べるのが好きな者として、気になったサービスを整理して紹介しています。 会社のホームページで、初めての人がまず見るページのひとつが「会社概要」です。社名、住所、代表者、事業内容。書く内容は決まっているのに、ページとして作るとなると手が...</description>
 </item>
 <item>
-<title>【Qiita】 【2026年総括】Meta・Google・OpenAI・Anthropicの自律型AIエージェント比較とエンジニア視点の現在地</title>
-<link>https://qiita.com/mhamadajp/items/7128957cf32f2ff2c30f</link>
-<guid>537054a39afb5eaabecbf455895acf5e2142dcea5cfba821ddce05d68333c99f</guid>
-<pubDate>2026-11-14T05:51:38+09:00</pubDate>
-<description>ここ半年で Meta、Google、OpenAI、Anthropic の主要4社が相次いで自律型AIエージェントを発表・リリースしました。同じカテゴリのプロダクトがほぼ同時期に揃い踏みしたことは、今後のLLM活用・システム設計における大きな転換点を示唆しています。 しかし、...</description>
+<title>【Qiita】 AI AgentでPRが増えたのに、なぜ開発は速くならないのか？ ―― レビュー待ちを、待ち行列理論・CI・スクラムで解消する</title>
+<link>https://qiita.com/etale_cohomology/items/5f04f32efcc38e2850e1</link>
+<guid>eb4d6816950e133a0346255b46e82fdfe41963526eb7c8cac0a072fc399e4689</guid>
+<pubDate>2026-11-14T10:49:24+09:00</pubDate>
+<description>Executive Summary 本記事の主役となる用語を、最初に１つだけ説明します。 PR（プルリクエスト） は、プログラムを変更した人が、「この変更を、チームで共有している本体のプログラムに取り込んでください」と依頼するための仕組みです。 依頼を受けた別の人が、変...</description>
 </item>
 <item>
-<title>【Qiita】 curl -v のログに API キーが出る3か所：Authorization ヘッダ・-u の Basic・URL のクエリ（curl 8.14で確認）</title>
-<link>https://qiita.com/supportapp3/items/21858f4792bac5e3f41b</link>
-<guid>0df92d325c96007bb3e2dfcad6bbf3200f5caefc6b08ad0aa67c371d576e5cde</guid>
-<pubDate>2026-11-14T05:18:29+09:00</pubDate>
-<description>結論 curl -v は、送ったリクエストをそのまま表示します。手元（curl 8.14.1、ダミーのキー）で試すと、認証情報は次の3か所に出ました。 -H &quot;Authorization: Bearer ...&quot; のヘッダ → そのまま表示 -u user:pass...</description>
+<title>【Qiita】 Muse Codeを入れる前に確認するポイント6つ——学習に使うContributorモードは既定オン</title>
+<link>https://qiita.com/sakutto-panda/items/a149a8264339f2aa3ab2</link>
+<guid>0edd96c9cc4aff4556197f97c7867a857d6873bd20cf735976ac7008926bbc0d</guid>
+<pubDate>2026-11-14T10:52:37+09:00</pubDate>
+<description>3 行まとめ Meta のコーディングエージェント Muse Code は、承認と OS サンドボックスが最初から有効で、守りは固い。ただし公式ドキュメントを読むと、既定のままだと気づきにくい点がいくつかある 一番大きいのは、サブスクリプションでは Contributo...</description>
 </item>
 <item>
-<title>【自動自律実験】 Number of international students arriving in US plunges — worrying scientists</title>
-<link>https://www.nature.com/articles/d41586-026-03668-x</link>
-<guid>7ec7fa822e66a2282c07551e62126ea4a29d3e8b06e65adfae2957890342fbdf</guid>
-<pubDate>2026-11-13</pubDate>
-<description>Declines in students from China and India are driving the trend, which researchers say could slow the progress of US science.</description>
+<title>【Qiita】 Claude Code 2.1.323のCode Mode入門、有効化と使えない条件</title>
+<link>https://qiita.com/kai_kou/items/fa321358a7809b561c00</link>
+<guid>53ed9823856bd1416fa5c6b93ff15bbf7eae5ffd8032971f95e4d4d8fd821015</guid>
+<pubDate>2026-11-14T10:43:36+09:00</pubDate>
+<description>はじめに Claude Code 2.1.323 の CHANGELOG に、Code Mode という実験機能が加わりました。Claude が JavaScript を書き、1 回のコード実行で複数のツール呼び出しをまとめて行う仕組みです。公式ドキュメントは、既定でオフ...</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
-<guid>f72db20c2f9c28d6acb8622f2f8056ed80baf0cece37770eec3f8d8d96a74d6b</guid>
-<pubDate>Fri, 13 Nov 2026 22:17:36 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>7e2db3e469d82998dc2450b39f48252063d923a9f54a4fd3bd007f8094cc19ec</guid>
+<pubDate>Sat, 14 Nov 2026 02:32:39 GMT</pubDate>
+<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>4a3bc0502caa2b7ad3f0548c5be169a5ba6473358f0554df2987c8fb8a3792e3</guid>
-<pubDate>Fri, 13 Nov 2026 22:17:38 GMT</pubDate>
+<guid>05f63a42e1229ebd63cafc373b7d4b5a853337aeda82b6fab2ace03f2f63d7af</guid>
+<pubDate>Sat, 14 Nov 2026 02:32:51 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-11228-6</link>
+<guid>5f85a7ad7a69923bf2c6fb312c3eedd2953bbd78d2ebbd383105564c3414963f</guid>
+<pubDate>Sat, 14 Nov 2026 02:32:59 GMT</pubDate>
+<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
 </item>
 
 </channel>
