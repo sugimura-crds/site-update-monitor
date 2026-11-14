@@ -4,70 +4,56 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 14 Nov 2026 16:16:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 20:50:37 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 JAWS FESTAに参加するメリット、私が感じる意義、FESTAの魅力</title>
-<link>https://qiita.com/kiwi-dev/items/aa5c64022c3bca3c0efe</link>
-<guid>145cb1d4b8cd813a42f1383b23f5e30d0b780228bedf0106ff2412eacad848a2</guid>
-<pubDate>2026-11-14T21:03:43+09:00</pubDate>
-<description>今年もJAWS FESTAに行ってきました！今年は秋田での開催でした。 私は2024広島、2025金沢に続いて3回目の参加です。 JAWS FESTAは毎年趣向を凝らしたノベルティやセッション、お祭りトラック、懇親会でマンネリなんて言葉が無縁で毎年新鮮な気持ちで楽しめていま...</description>
+<title>【Qiita】 AWSでゼロトラスト構成を作る手順を5つのパートに分けて整理してみた</title>
+<link>https://qiita.com/yama3133/items/11a360fc97ed3ec09742?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>8e84a46f2a90403e0d5ebfea9e1a3f18f46ae4658b0963d41b40a1dbb007d0ba</guid>
+<pubDate>2026-11-14T01:43:26+09:00</pubDate>
+<description>はじめに ゼロトラストは「社内ネットワークの中にいるから信頼する」という前提を置かず、アクセスのたびに身元と権限を確認する考え方です。 この記事では、AWSでどのサービスのどのリソースを作れば形になるのかに絞って整理します。構成を5つのパートに分け、それぞれで作るリソース...</description>
 </item>
 <item>
-<title>【Qiita】 AlphaProof Codeにみる形式検証とLLMの融合：Leanを用いた暗号実装の自動証明</title>
-<link>https://qiita.com/savor-speedup-dotage/items/cf626424b0151ab32710</link>
-<guid>bb9d83cc8c0119ad69997566ac74692199878ad6580ef5f2123170d028173bd8</guid>
-<pubDate>2026-11-15T00:50:48+09:00</pubDate>
-<description>はじめに Google DeepMindから、ソフトウェアの形式検証（Formal Verification）をLLMエージェントによってスケールさせるアプローチ「AlphaProof Code」が発表されました（参照: Google DeepMind Blog）。発表に...</description>
+<title>【Qiita】 Muse の組み込みブラウザで撮ったスクリーンショットをファイルとして回収する方法</title>
+<link>https://qiita.com/tkhshiq/items/c06b4c5af750d30bb855</link>
+<guid>f0b1ef39971776c048c0ba52c79dac0395874f5ec46078cff0295e6597e80301</guid>
+<pubDate>2026-11-15T05:40:48+09:00</pubDate>
+<description>はじめに Muse にブラウザ作業を頼むと、途中の画面をスクリーンショットで見せてくれます。 ところが、その画像をファイルとして手元に残そうとすると詰まります。資料に貼りたい、他の人に渡したい、作業の記録として残したい——そう思っても、取り出す経路が見当たらないのです。 ...</description>
 </item>
 <item>
-<title>【Qiita】 社長の一言は重い。RAGにも忖度させてみた（重み付け検索）</title>
-<link>https://qiita.com/kikuziro/items/43b360420d0cdcbf190c</link>
-<guid>170569dd1952749495e120cc7e853d33a59d749891fd914811f88426b2b5fa33</guid>
-<pubDate>2026-11-15T00:30:41+09:00</pubDate>
-<description>はじめに 皆さんこんな経験ありませんか？ 新人の頃に正しいことを言っても誰も賛同してくれないのに、同じことを社長が言うと全員が賛同する。理不尽ですよねー人間は「誰が言ったか」で情報に重みを付けています。じゃあRAGはどうか？チャンクは全部平等で社長の決定事項も新人のつぶ...</description>
-</item>
-<item>
-<title>【Qiita】 AI並列開発を自動で行おうとしたけど失敗した話</title>
-<link>https://qiita.com/yukurust/items/d18aad7dd4c4ad1b1191</link>
-<guid>d4ee4d498cb6cbe2bad0a2048c3360afd3c9b7748f558b4058b2eca63da1388b</guid>
-<pubDate>2026-11-15T00:10:24+09:00</pubDate>
-<description>はじめに 複数の作業を AI に並列で進めさせるため、入口となるエージェントを立てて、そこから全自動で開発が回る仕組みを作ろうとしました。結論から言うと、その自動化は失敗でした。 今は Linear と Orca だけのミニマルな構成に落ち着いていて、やりたかった並列開発...</description>
-</item>
-<item>
-<title>【Qiita】 【超簡単】Sakana AIのAPIでHermes Agentを使う方法</title>
-<link>https://qiita.com/TechTW/items/1fde7df15e829aad7d12</link>
-<guid>92e7bfb244ed9c105cc6924723d48fbed266e33aebc94fddfe4be12a3744fc56</guid>
-<pubDate>2026-11-14T23:26:57+09:00</pubDate>
-<description>はじめに Sakana AIが提供するFuguシリーズは、複数のAIモデルを裏側でオーケストレーション（指揮・統合）して、1つのモデルとして使えるマルチエージェントシステムです。特にFugu Maxは、雑なタスクを複数のモデルに振り分けて解決する高性能モデルとして注目を集...</description>
-</item>
-<item>
-<title>【Qiita】 agentgatewayで始めるMCP管理</title>
-<link>https://qiita.com/licux/items/cd639f2ae807b35b6697</link>
-<guid>f77df56a0b6eff9f4c51bf2a0ee49164045f2dbfb4f1cc003f59386fc9981da8</guid>
-<pubDate>2026-11-14T19:49:51+09:00</pubDate>
-<description>agentgateway AIエージェントが様々なタスクをこなすためには、様々なMCPサーバーやAIエージェントと接続して機能を拡張する必要があります。数が少なければ、MCPサーバーやAIエージェントとの通信の監視やトラフィックを制御できますが、接続数が増えると管理が煩雑...</description>
-</item>
-<item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
-<guid>eb04284ce5eb57d17a57bf7f003aea5b426e90a58556ea44de5d18fddfeb48df</guid>
-<pubDate>Sat, 14 Nov 2026 16:15:21 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 外部コマンドが失敗すると例外メッセージに API キーが出る：Python の CalledProcessError と Node の Command failed（実機確認）</title>
+<link>https://qiita.com/supportapp3/items/88600cdaef86f1221fb4</link>
+<guid>b4633e0f556521e0510eb49617f4132697524fb21b528857faa59729b4b8573b</guid>
+<pubDate>2026-11-15T05:11:10+09:00</pubDate>
+<description>結論 API キーをコマンドの引数に入れて外部コマンドを呼ぶと、そのコマンドが失敗したときの例外メッセージにキーがそのまま入りました（ダミーのキーで確認）。 Python 3.13：subprocess.run(..., check=True) の CalledProc...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>d14d71253fbd6fbe63c786fa2119abf5fdb5ebfbfbd14d39211f9acbef283797</guid>
-<pubDate>Sat, 14 Nov 2026 16:15:24 GMT</pubDate>
+<guid>f427651059d80fe663e5b4bc73143513a9645ee867af0c8c12f49125417f42ba</guid>
+<pubDate>Sat, 14 Nov 2026 20:50:03 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>9999a4d1c956de1c0602a34ab4a8744e2408ab455041b9d9a493bb3f3c4ba338</guid>
-<pubDate>Sat, 14 Nov 2026 16:15:27 GMT</pubDate>
+<guid>274a7b6788c98b769c67946045ba731337a2db39f5163d8e9a77c631f212df08</guid>
+<pubDate>Sat, 14 Nov 2026 20:50:05 GMT</pubDate>
 <description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s43586-026-00542-y</link>
+<guid>5f0d6a940b94bcab73e24da0c81e51815cc0e24a8ac3647436f95adad5af4129</guid>
+<pubDate>Sat, 14 Nov 2026 20:50:08 GMT</pubDate>
+<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>2c3109814d08bbd20689191a22f96d62f03c95e6fd0a00bd7f031b2c1e5c397f</guid>
+<pubDate>Sat, 14 Nov 2026 20:50:22 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
