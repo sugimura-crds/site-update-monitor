@@ -4,70 +4,77 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 15 Nov 2026 00:32:19 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 07:21:55 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 IETF 127 San Francisco BoF 事前調査 ― 5件のうち3件は、第三者の裏付けを検証する仕組み</title>
-<link>https://qiita.com/satokan3/items/99b0b9f766c1d14b1951</link>
-<guid>eb2b0da3fb7e23f53a3b63902a4275256168c44c165e906aaf0425a1d3fc7552</guid>
-<pubDate>2026-11-15T07:46:29+09:00</pubDate>
-<description>こんにちは！？ GMOコネクト株式会社 執行役員CTO / GMOインターネットグループ株式会社 共同研究推進グループ 主席研究員 菅野哲（かんの さとる）でございます。 皆さん、IETF で新しいワーキンググループ（WG）が生まれる手前の会合、のぞいたことはありますか？ ...</description>
+<title>【Qiita】 Claude Codeの手順書は、指定しても読まれない——教訓を「読ませる」から「貼る」「止める」へ変えた3か月の記録</title>
+<link>https://qiita.com/saitoko/items/09cade7427ba20d475fd</link>
+<guid>b3edc8b49a5f1eefe1f42fdf3a63f7bba61e56ab351fe91f8b3c8f9952ac03bd</guid>
+<pubDate>2026-11-15T16:03:51+09:00</pubDate>
+<description>この記事の要点: Claude Codeでエージェント組織を運用していると、教訓を「書き残す」仕組みは自然に増えていく。だが書いた教訓が「読み出される」かどうかは、置き場所ごとにまったく違う。2026年8月6日、私は自分の環境で、作業種別ごとの手順書（Playbook）が「...</description>
 </item>
 <item>
-<title>【Qiita】 【最新動向】IETF 127 San Francisco Side Meeting 分析 ― 41件中20件がAI、その半数はエージェントの認証・委任・証跡</title>
-<link>https://qiita.com/satokan3/items/df0a3229bcc8b62e7b72</link>
-<guid>0ee23057ccbef058c451d13972eebc3acebaefe1c683a955c322bfe52f4d3ab8</guid>
-<pubDate>2026-11-15T07:25:00+09:00</pubDate>
-<description>こんにちは！ GMOコネクト株式会社 執行役員CTO / GMOインターネットグループ株式会社 共同研究推進グループ 主席研究員 菅野哲（かんの さとる）でございます。 皆さん、IETF のサイドミーティング、のぞいたことはありますか？ 公式の WG や BoF とは別に、...</description>
+<title>【Qiita】 2026年版 AI・SNS動画の透かし除去ツールおすすめ比較：出所から選ぶガイド</title>
+<link>https://qiita.com/kanekoyuu931/items/f9b90514bf2a4f850162</link>
+<guid>14e650443c6aa4c2f4610e50eb724bfcbfe392ec8f387b05da49518cf60a4e98</guid>
+<pubDate>2026-11-15T15:37:16+09:00</pubDate>
+<description>その動画はどの生成ツールで作られたか。透かしはどこにあるか。フレームと一緒に動くか。そして、自分に編集する権利があるか。この四つで、どの除去ツールが使えるかがほぼ決まります。2026年の今、「どのモデルが最強か」と尋ねるより、こちらを先に確認するほうがよほど役に立ちます。A...</description>
 </item>
 <item>
-<title>【Qiita】 AIが書いたコードは使って確かめる ― 舞台アプリ開発のレビュー記録</title>
-<link>https://qiita.com/oosawak@github/items/a93703112834983bc1f1</link>
-<guid>e0291a12e984d179bc294961713b6ef64cb763e72e6a58912b7a25a8b565865a</guid>
-<pubDate>2026-11-15T08:01:56+09:00</pubDate>
-<description>AIが書いたコードは使って確かめる ― 舞台アプリ開発のレビュー記録 私の環境では、コードを書くのはAIがほとんどです。 ゲームは Claude Code、サーバーやサイトのプログラムは Codex、GitHub の内側の作業は Copilot、そして日常の開発相手はミュ...</description>
+<title>【Qiita】 IBM BobでPDF・Markdown・Officeをキー1つで開き分ける【ショートカットキーのカスタム方法】</title>
+<link>https://qiita.com/YokeSin/items/2d45aeb0914a7bd8e4c7</link>
+<guid>7d9ff60bb6f1377ebb43251b9c7a39be91ca9f5d2e2e38197e2b3f1db5ab8b9b</guid>
+<pubDate>2026-11-15T15:25:21+09:00</pubDate>
+<description>■ はじめに 直近のアップデートで、IBM BobはWord・Excel・PowerPointのファイルを読み書きできるようになったり、試験的ではありますがWeb検索使えるようになりました。 こうした機能が増えて、IBM Bobのような開発環境で良く使われるHTMLやMa...</description>
 </item>
 <item>
-<title>【Qiita】 返事を読み上げる舞台アプリを作った ― muse-stageの開発記録</title>
-<link>https://qiita.com/oosawak@github/items/f3b47572473ad34a35bc</link>
-<guid>81ab536a77dc7d9af790d9c9ce38a9b63722af5a1b98bebc1d1b2d81591608fb</guid>
-<pubDate>2026-11-15T07:36:09+09:00</pubDate>
-<description>返事を読み上げる舞台アプリを作った ― muse-stageの開発記録 プレゼンで、ミューズさんと一緒に発表したいと思いました。 そこで、ミューズさんの返事を画面の中のキャラクターが声に出して読む、舞台アプリを作りました。 名前は muse-stage です。 作りは T...</description>
+<title>【Qiita】 Raspberry Pi上のAIエージェントにTwitterAPI.io（MCP）をつないで、Xの情報収集を毎朝自動化した</title>
+<link>https://qiita.com/mikionakajima/items/23a3128e5d6a5b5efca6</link>
+<guid>b1fd30262b2f1a714759fc61d9899fbc73257154d6df83580c493de15bf368ab</guid>
+<pubDate>2026-11-15T15:23:30+09:00</pubDate>
+<description>やりたかったこと SpaceXの打ち上げ情報やAI関連の発表は、公式サイトやニュースより先にX（旧Twitter）に出ることがよくあります。一次情報が速いのは魅力ですが、毎朝自分で検索して、関係ない投稿をよけながら読むのは正直かなり面倒でした。 欲しかったのは「毎朝、決ま...</description>
 </item>
 <item>
-<title>【Qiita】 プロセスは生きているのに定期処理が止まる 〜監視画面を本体から分け、生存と完了時刻を別々に見る設計〜</title>
-<link>https://qiita.com/charge0315/items/734ed9d4c72daa2638d2</link>
-<guid>bd7ba57d1bcc70c4b95e046684b6b6330730b6889b00c49a44bc9b740119e79d</guid>
-<pubDate>2026-11-15T06:41:05+09:00</pubDate>
-<description>みなさん、こんにちは！ 「ALPHA FORGE 開発秘話」の第41話です。 プロセスは動いている。でも、定期処理が進んでいるとは限らない。その違いを見たいから、運用画面をもう1つ作ることにしました🔎 日本株のデータ分析端末「ALPHA FORGE（アルファフォージ）」を、...</description>
+<title>【Qiita】 DeepSeek Harnessのプラグイン差し替えを実測、1キー書いたら既定値が消えた</title>
+<link>https://qiita.com/kai_kou/items/2c4fbb8728129d2f1b30</link>
+<guid>e7e94eadb1bc4eb4c8299551f9b147edaa2d740249cc4c0cb1c1b904705b9720</guid>
+<pubDate>2026-11-15T16:09:16+09:00</pubDate>
+<description>TL;DR DeepSeek AI が 2026 年 8 月 13 日に developer preview として公開した OSS のエージェントハーネス DeepSeek Harness（dsh・MIT ライセンス）を、npm install @deepseek-a...</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>3ad9458306009ca5be03ac46703515bfca1569c6e0253fca4bf044cf514e43fc</guid>
-<pubDate>Sun, 15 Nov 2026 00:31:32 GMT</pubDate>
-<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
+<title>【Qiita】 Qwen Code CLI入門、承認モード5種とヘッドレス実行の既定はautoだった</title>
+<link>https://qiita.com/kai_kou/items/2d37ed5edd12594f5843</link>
+<guid>5fdb822cc0552c7d885e6bdb1543d0df9bfd05a3eb66330626124fc666afb14e</guid>
+<pubDate>2026-11-15T12:09:42+09:00</pubDate>
+<description>はじめに ターミナルで動く AI コーディングエージェントを CI に組み込むとき、最初に気になるのは「何も指定しなかったら、ファイル編集やシェル実行をどこまで勝手にやるのか」という点ではないでしょうか。Qwen Code CLI の公式ドキュメントを読むと、この問いへの...</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
+<guid>ac1b1504608fa8366d81d29d46c2d2eb39bbe7b38f1953c484831c73cd7381e4</guid>
+<pubDate>Sun, 15 Nov 2026 07:21:08 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>8d0c64ec434d92f95e7bd5ef5b23660e832c41abe9bf41dbdc009845d20a4ca1</guid>
-<pubDate>Sun, 15 Nov 2026 00:31:37 GMT</pubDate>
+<guid>530ec8b1a8fbe81b4439040fb05187a7721e8dd70b0179764d72787491334231</guid>
+<pubDate>Sun, 15 Nov 2026 07:21:11 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>8b1edfd5e4e80089e6e4605e04895a84554c5aea7892a1d4b5d6accf7da78f61</guid>
-<pubDate>Sun, 15 Nov 2026 00:31:42 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-11228-6</link>
+<guid>4e1739855f644322ce780811cbc29ecda59a3f406f8964eef2ba3b204b53ae85</guid>
+<pubDate>Sun, 15 Nov 2026 07:21:14 GMT</pubDate>
+<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>c879dcc2f14bf1170c295ad1fd9253ee1497ffdd7ec7aac8d5b5d2db92bf4065</guid>
-<pubDate>Sun, 15 Nov 2026 00:31:53 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【UK】 Documents</title>
+<link>https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology</link>
+<guid>de2294d84c9a84c63a5dc7aa6a5d3e7b3e104aab4c2ae06484885ea8e7d67ebc</guid>
+<pubDate>Sun, 15 Nov 2026 07:21:28 GMT</pubDate>
+<description>The Department for Science, Innovation and Technology (DSIT) existed until 2026. Its responsibilities were split across the Department for Business, Innovation, Science and Trade (BIST), the Department for Digital, Culture, Media and Sport (DCMS) and the Cabinet Office.</description>
 </item>
 
 </channel>
