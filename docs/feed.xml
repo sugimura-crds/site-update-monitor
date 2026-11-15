@@ -4,56 +4,70 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 14 Nov 2026 20:50:37 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 00:32:19 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AWSでゼロトラスト構成を作る手順を5つのパートに分けて整理してみた</title>
-<link>https://qiita.com/yama3133/items/11a360fc97ed3ec09742?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>8e84a46f2a90403e0d5ebfea9e1a3f18f46ae4658b0963d41b40a1dbb007d0ba</guid>
-<pubDate>2026-11-14T01:43:26+09:00</pubDate>
-<description>はじめに ゼロトラストは「社内ネットワークの中にいるから信頼する」という前提を置かず、アクセスのたびに身元と権限を確認する考え方です。 この記事では、AWSでどのサービスのどのリソースを作れば形になるのかに絞って整理します。構成を5つのパートに分け、それぞれで作るリソース...</description>
+<title>【Qiita】 IETF 127 San Francisco BoF 事前調査 ― 5件のうち3件は、第三者の裏付けを検証する仕組み</title>
+<link>https://qiita.com/satokan3/items/99b0b9f766c1d14b1951</link>
+<guid>eb2b0da3fb7e23f53a3b63902a4275256168c44c165e906aaf0425a1d3fc7552</guid>
+<pubDate>2026-11-15T07:46:29+09:00</pubDate>
+<description>こんにちは！？ GMOコネクト株式会社 執行役員CTO / GMOインターネットグループ株式会社 共同研究推進グループ 主席研究員 菅野哲（かんの さとる）でございます。 皆さん、IETF で新しいワーキンググループ（WG）が生まれる手前の会合、のぞいたことはありますか？ ...</description>
 </item>
 <item>
-<title>【Qiita】 Muse の組み込みブラウザで撮ったスクリーンショットをファイルとして回収する方法</title>
-<link>https://qiita.com/tkhshiq/items/c06b4c5af750d30bb855</link>
-<guid>f0b1ef39971776c048c0ba52c79dac0395874f5ec46078cff0295e6597e80301</guid>
-<pubDate>2026-11-15T05:40:48+09:00</pubDate>
-<description>はじめに Muse にブラウザ作業を頼むと、途中の画面をスクリーンショットで見せてくれます。 ところが、その画像をファイルとして手元に残そうとすると詰まります。資料に貼りたい、他の人に渡したい、作業の記録として残したい——そう思っても、取り出す経路が見当たらないのです。 ...</description>
+<title>【Qiita】 【最新動向】IETF 127 San Francisco Side Meeting 分析 ― 41件中20件がAI、その半数はエージェントの認証・委任・証跡</title>
+<link>https://qiita.com/satokan3/items/df0a3229bcc8b62e7b72</link>
+<guid>0ee23057ccbef058c451d13972eebc3acebaefe1c683a955c322bfe52f4d3ab8</guid>
+<pubDate>2026-11-15T07:25:00+09:00</pubDate>
+<description>こんにちは！ GMOコネクト株式会社 執行役員CTO / GMOインターネットグループ株式会社 共同研究推進グループ 主席研究員 菅野哲（かんの さとる）でございます。 皆さん、IETF のサイドミーティング、のぞいたことはありますか？ 公式の WG や BoF とは別に、...</description>
 </item>
 <item>
-<title>【Qiita】 外部コマンドが失敗すると例外メッセージに API キーが出る：Python の CalledProcessError と Node の Command failed（実機確認）</title>
-<link>https://qiita.com/supportapp3/items/88600cdaef86f1221fb4</link>
-<guid>b4633e0f556521e0510eb49617f4132697524fb21b528857faa59729b4b8573b</guid>
-<pubDate>2026-11-15T05:11:10+09:00</pubDate>
-<description>結論 API キーをコマンドの引数に入れて外部コマンドを呼ぶと、そのコマンドが失敗したときの例外メッセージにキーがそのまま入りました（ダミーのキーで確認）。 Python 3.13：subprocess.run(..., check=True) の CalledProc...</description>
+<title>【Qiita】 AIが書いたコードは使って確かめる ― 舞台アプリ開発のレビュー記録</title>
+<link>https://qiita.com/oosawak@github/items/a93703112834983bc1f1</link>
+<guid>e0291a12e984d179bc294961713b6ef64cb763e72e6a58912b7a25a8b565865a</guid>
+<pubDate>2026-11-15T08:01:56+09:00</pubDate>
+<description>AIが書いたコードは使って確かめる ― 舞台アプリ開発のレビュー記録 私の環境では、コードを書くのはAIがほとんどです。 ゲームは Claude Code、サーバーやサイトのプログラムは Codex、GitHub の内側の作業は Copilot、そして日常の開発相手はミュ...</description>
+</item>
+<item>
+<title>【Qiita】 返事を読み上げる舞台アプリを作った ― muse-stageの開発記録</title>
+<link>https://qiita.com/oosawak@github/items/f3b47572473ad34a35bc</link>
+<guid>81ab536a77dc7d9af790d9c9ce38a9b63722af5a1b98bebc1d1b2d81591608fb</guid>
+<pubDate>2026-11-15T07:36:09+09:00</pubDate>
+<description>返事を読み上げる舞台アプリを作った ― muse-stageの開発記録 プレゼンで、ミューズさんと一緒に発表したいと思いました。 そこで、ミューズさんの返事を画面の中のキャラクターが声に出して読む、舞台アプリを作りました。 名前は muse-stage です。 作りは T...</description>
+</item>
+<item>
+<title>【Qiita】 プロセスは生きているのに定期処理が止まる 〜監視画面を本体から分け、生存と完了時刻を別々に見る設計〜</title>
+<link>https://qiita.com/charge0315/items/734ed9d4c72daa2638d2</link>
+<guid>bd7ba57d1bcc70c4b95e046684b6b6330730b6889b00c49a44bc9b740119e79d</guid>
+<pubDate>2026-11-15T06:41:05+09:00</pubDate>
+<description>みなさん、こんにちは！ 「ALPHA FORGE 開発秘話」の第41話です。 プロセスは動いている。でも、定期処理が進んでいるとは限らない。その違いを見たいから、運用画面をもう1つ作ることにしました🔎 日本株のデータ分析端末「ALPHA FORGE（アルファフォージ）」を、...</description>
+</item>
+<item>
+<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>3ad9458306009ca5be03ac46703515bfca1569c6e0253fca4bf044cf514e43fc</guid>
+<pubDate>Sun, 15 Nov 2026 00:31:32 GMT</pubDate>
+<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>f427651059d80fe663e5b4bc73143513a9645ee867af0c8c12f49125417f42ba</guid>
-<pubDate>Sat, 14 Nov 2026 20:50:03 GMT</pubDate>
+<guid>8d0c64ec434d92f95e7bd5ef5b23660e832c41abe9bf41dbdc009845d20a4ca1</guid>
+<pubDate>Sun, 15 Nov 2026 00:31:37 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>274a7b6788c98b769c67946045ba731337a2db39f5163d8e9a77c631f212df08</guid>
-<pubDate>Sat, 14 Nov 2026 20:50:05 GMT</pubDate>
-<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>8b1edfd5e4e80089e6e4605e04895a84554c5aea7892a1d4b5d6accf7da78f61</guid>
+<pubDate>Sun, 15 Nov 2026 00:31:42 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s43586-026-00542-y</link>
-<guid>5f0d6a940b94bcab73e24da0c81e51815cc0e24a8ac3647436f95adad5af4129</guid>
-<pubDate>Sat, 14 Nov 2026 20:50:08 GMT</pubDate>
-<description>This PrimeView highlights the challenges and opportunities that come with implementing agentic AI systems in the laboratory.</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>2c3109814d08bbd20689191a22f96d62f03c95e6fd0a00bd7f031b2c1e5c397f</guid>
-<pubDate>Sat, 14 Nov 2026 20:50:22 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>c879dcc2f14bf1170c295ad1fd9253ee1497ffdd7ec7aac8d5b5d2db92bf4065</guid>
+<pubDate>Sun, 15 Nov 2026 00:31:53 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 
 </channel>
