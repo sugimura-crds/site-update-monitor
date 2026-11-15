@@ -4,77 +4,63 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 15 Nov 2026 07:21:55 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 14:53:42 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Claude Codeの手順書は、指定しても読まれない——教訓を「読ませる」から「貼る」「止める」へ変えた3か月の記録</title>
-<link>https://qiita.com/saitoko/items/09cade7427ba20d475fd</link>
-<guid>b3edc8b49a5f1eefe1f42fdf3a63f7bba61e56ab351fe91f8b3c8f9952ac03bd</guid>
-<pubDate>2026-11-15T16:03:51+09:00</pubDate>
-<description>この記事の要点: Claude Codeでエージェント組織を運用していると、教訓を「書き残す」仕組みは自然に増えていく。だが書いた教訓が「読み出される」かどうかは、置き場所ごとにまったく違う。2026年8月6日、私は自分の環境で、作業種別ごとの手順書（Playbook）が「...</description>
+<title>【Qiita】 Claude Codeに同じ調査を繰り返させないためのメモの残し方</title>
+<link>https://qiita.com/kentasatomi/items/06ccfbf7f6a2a24883ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>3cf2fd352058b4cac7864bc4b131ff255ee5d4b15ba3716c1937f96c1bce2342</guid>
+<pubDate>2026-11-13T11:34:48+09:00</pubDate>
+<description>Claude Codeに同じ調査を繰り返させないためのメモの残し方 Anthropicは2026年11月6日、AIエージェントが作業で得た知識を次のセッションへ残す仕組みについて、技術解説「The components of agent memory」を公開しました。会話...</description>
 </item>
 <item>
-<title>【Qiita】 2026年版 AI・SNS動画の透かし除去ツールおすすめ比較：出所から選ぶガイド</title>
-<link>https://qiita.com/kanekoyuu931/items/f9b90514bf2a4f850162</link>
-<guid>14e650443c6aa4c2f4610e50eb724bfcbfe392ec8f387b05da49518cf60a4e98</guid>
-<pubDate>2026-11-15T15:37:16+09:00</pubDate>
-<description>その動画はどの生成ツールで作られたか。透かしはどこにあるか。フレームと一緒に動くか。そして、自分に編集する権利があるか。この四つで、どの除去ツールが使えるかがほぼ決まります。2026年の今、「どのモデルが最強か」と尋ねるより、こちらを先に確認するほうがよほど役に立ちます。A...</description>
+<title>【Qiita】 Museのトークンが減る話 — URLを投げてメモリ圧縮Skillにした</title>
+<link>https://qiita.com/Kazeneko/items/d0dd809a68b066c06620</link>
+<guid>87c1e7c6324ecb14d8777427f97a3afc1357bc6fc88c17fd78f78f9b915b5103</guid>
+<pubDate>2026-11-15T23:51:14+09:00</pubDate>
+<description>はじめに Muse を使っていると、会話の「返事」より、裏側の読み直しで枠が減っていく感じがあります。 今週は コンテキスト（メモリ）圧縮 と Skills に絞った話です。設定マップ編の続きとして書いています。 きっかけは、次の2本です。この URL をそのまま ...</description>
 </item>
 <item>
-<title>【Qiita】 IBM BobでPDF・Markdown・Officeをキー1つで開き分ける【ショートカットキーのカスタム方法】</title>
-<link>https://qiita.com/YokeSin/items/2d45aeb0914a7bd8e4c7</link>
-<guid>7d9ff60bb6f1377ebb43251b9c7a39be91ca9f5d2e2e38197e2b3f1db5ab8b9b</guid>
-<pubDate>2026-11-15T15:25:21+09:00</pubDate>
-<description>■ はじめに 直近のアップデートで、IBM BobはWord・Excel・PowerPointのファイルを読み書きできるようになったり、試験的ではありますがWeb検索使えるようになりました。 こうした機能が増えて、IBM Bobのような開発環境で良く使われるHTMLやMa...</description>
+<title>【Qiita】 AIに画面操作を任せる前に：computer useを安全に始める手順</title>
+<link>https://qiita.com/maya-bot/items/b34caedff4ca063b47c5</link>
+<guid>a97dd8a8ee3ef52cdfe1ac015f6622e5dbd05f32d645096dc7a649810e84a759</guid>
+<pubDate>2026-11-15T23:50:00+09:00</pubDate>
+<description>AIに「この画面のボタンを押して、表に入力しておいて」と頼めるようになってきました。GitHub Copilotでも、デスクトップアプリを操作する「computer use」がプレビューで使えるようになりました。 便利な反面、AIがマウスとキーボードを持つことになります。こ...</description>
 </item>
 <item>
-<title>【Qiita】 Raspberry Pi上のAIエージェントにTwitterAPI.io（MCP）をつないで、Xの情報収集を毎朝自動化した</title>
-<link>https://qiita.com/mikionakajima/items/23a3128e5d6a5b5efca6</link>
-<guid>b1fd30262b2f1a714759fc61d9899fbc73257154d6df83580c493de15bf368ab</guid>
-<pubDate>2026-11-15T15:23:30+09:00</pubDate>
-<description>やりたかったこと SpaceXの打ち上げ情報やAI関連の発表は、公式サイトやニュースより先にX（旧Twitter）に出ることがよくあります。一次情報が速いのは魅力ですが、毎朝自分で検索して、関係ない投稿をよけながら読むのは正直かなり面倒でした。 欲しかったのは「毎朝、決ま...</description>
+<title>【Qiita】 ドキュメント確認の時間と費用を改善するスキルを作った</title>
+<link>https://qiita.com/w3pe8xmk/items/f4c39fc1ea61c27681df</link>
+<guid>d2d69188936bbc002643d4434a76340c75bacbd3a2ceb07325ad130f4f8c725e</guid>
+<pubDate>2026-11-15T23:47:18+09:00</pubDate>
+<description>本記事は、文章の構成と推敲に生成AIを使用しています。 はじめに Claude Code で外部ライブラリの API や設定項目を確認するときは、WebFetch や WebSearch でドキュメントを取得します。読んだ内容の要約を、出典 URL と取得日を付け...</description>
 </item>
 <item>
-<title>【Qiita】 DeepSeek Harnessのプラグイン差し替えを実測、1キー書いたら既定値が消えた</title>
-<link>https://qiita.com/kai_kou/items/2c4fbb8728129d2f1b30</link>
-<guid>e7e94eadb1bc4eb4c8299551f9b147edaa2d740249cc4c0cb1c1b904705b9720</guid>
-<pubDate>2026-11-15T16:09:16+09:00</pubDate>
-<description>TL;DR DeepSeek AI が 2026 年 8 月 13 日に developer preview として公開した OSS のエージェントハーネス DeepSeek Harness（dsh・MIT ライセンス）を、npm install @deepseek-a...</description>
+<title>【Qiita】 【AWS】Cognitoのトークン交換を活用したRAGにおける権限管理について</title>
+<link>https://qiita.com/yakumo_09/items/d6e092dbb566decee632</link>
+<guid>335cf28e49d40722da04afa7bc406cc01c9cbfd0c42564ea610d6436fa7cce9a</guid>
+<pubDate>2026-11-15T23:18:25+09:00</pubDate>
+<description>はじめに Amazon Cognito に OAuth 2.0 のトークン交換 が来たーというアプデについて エージェントが「誰の代わりに」動いているかをトークンで表せるようになるので、AgentCore Gateway と Managed Knowledge Ba...</description>
 </item>
 <item>
-<title>【Qiita】 Qwen Code CLI入門、承認モード5種とヘッドレス実行の既定はautoだった</title>
-<link>https://qiita.com/kai_kou/items/2d37ed5edd12594f5843</link>
-<guid>5fdb822cc0552c7d885e6bdb1543d0df9bfd05a3eb66330626124fc666afb14e</guid>
-<pubDate>2026-11-15T12:09:42+09:00</pubDate>
-<description>はじめに ターミナルで動く AI コーディングエージェントを CI に組み込むとき、最初に気になるのは「何も指定しなかったら、ファイル編集やシェル実行をどこまで勝手にやるのか」という点ではないでしょうか。Qwen Code CLI の公式ドキュメントを読むと、この問いへの...</description>
+<title>【Qiita】 2026年におすすめの複数話者リップシンク／AIポッドキャスト動画ツール7選｜2人の声を、それぞれの口へ正しく振り分ける</title>
+<link>https://qiita.com/kanekoyuu931/items/63978c89bc5a85e77ba4</link>
+<guid>908bbef2bc900b713f29e9af0e70ab6cec67b5ff02b107cb9885573bb5fb3151</guid>
+<pubDate>2026-11-15T21:34:03+09:00</pubDate>
+<description>先に結論から。1枚の写真から2人掛けのトーク、対話シーン、デュエットを作りたいなら、2026年の最適解は FreeLipSync です。2つの顔にセリフと声を個別に割り当て、おのおのの口を独立して同期できるので、写真1枚から2人組のポッドキャスト動画まで組み立てられます。長...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>ac1b1504608fa8366d81d29d46c2d2eb39bbe7b38f1953c484831c73cd7381e4</guid>
-<pubDate>Sun, 15 Nov 2026 07:21:08 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>65376b0b3447176edca843fd8b235cc3cc2c5da9a9ca1f8cb76a61b89189a9bd</guid>
+<pubDate>Sun, 15 Nov 2026 14:53:03 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>530ec8b1a8fbe81b4439040fb05187a7721e8dd70b0179764d72787491334231</guid>
-<pubDate>Sun, 15 Nov 2026 07:21:11 GMT</pubDate>
+<guid>aedd57080d6e3682b2f48aab8b1248093794fcbb3f429b7b01be491465b99c4f</guid>
+<pubDate>Sun, 15 Nov 2026 14:53:06 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
-</item>
-<item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>4e1739855f644322ce780811cbc29ecda59a3f406f8964eef2ba3b204b53ae85</guid>
-<pubDate>Sun, 15 Nov 2026 07:21:14 GMT</pubDate>
-<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
-</item>
-<item>
-<title>【UK】 Documents</title>
-<link>https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology</link>
-<guid>de2294d84c9a84c63a5dc7aa6a5d3e7b3e104aab4c2ae06484885ea8e7d67ebc</guid>
-<pubDate>Sun, 15 Nov 2026 07:21:28 GMT</pubDate>
-<description>The Department for Science, Innovation and Technology (DSIT) existed until 2026. Its responsibilities were split across the Department for Business, Innovation, Science and Trade (BIST), the Department for Digital, Culture, Media and Sport (DCMS) and the Cabinet Office.</description>
 </item>
 
 </channel>
