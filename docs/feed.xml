@@ -4,84 +4,91 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 16 Nov 2026 00:05:56 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 06:56:51 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 日本語の脆弱性 DB は 4.6 日かかる。待てないので、46 秒でセキュリティ情報が載るようにした</title>
-<link>https://qiita.com/songchong/items/fa50cc82e49b24925fe3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>d9999cc02157781712b83ccd557a759f2bf5f3a8f7fee46f84487b3f54082284</guid>
-<pubDate>2026-11-15T17:20:40+09:00</pubDate>
-<description>使っている技術の脆弱性を、自分に関係する分だけ、早く知りたい。知ったら、何を、いつまでにすればよいのかも知りたい。脆弱性の情報を追う人の目的は、この 2 つにまとまります。 IT連携マップ編集部は、2026 年 11 月 15 日に、この目的のための IT連携マップのセキ...</description>
+<title>【Qiita】 Terraform Enterpriseを触ってみた -Azure VMへの構築編-</title>
+<link>https://qiita.com/gKhdrt_chan/items/0fe82b9a52f88c3c8cf9</link>
+<guid>4b46c85903cf448735bac8b4e0b5a0f37b42099875df76cbe7a410a32988b4ba</guid>
+<pubDate>2026-11-16T14:04:19+09:00</pubDate>
+<description>はじめに Terraform Enterprise（以下、TFE）を使って、手元のPCからTerraformのPlanを実行する検証を行いました。 まずはTerraformを実行する側の環境が必要なので、Azure上にTFEを用意します。今回はAzure Portalでネ...</description>
 </item>
 <item>
-<title>【Qiita】 AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説</title>
-<link>https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>c12f0ea4308183f0b7800d3efd2978243d278271c69295710deddb21a76c40c0</guid>
-<pubDate>2026-11-15T17:03:34+09:00</pubDate>
-<description>はじめに こんにちは、Watanabe Jin(@Sicut_study)です。 ニュースを見るたびに、自分もセキュリティを勉強しないといけないと思ったことはないでしょうか。 認証。ファイアウォール。脆弱性の名前。 セキュリティと聞くと、そこを勉強すればいいと思う人が多...</description>
+<title>【Qiita】 Terraform Enterpriseを触ってみた -ローカルCLIからRemote Plan編-</title>
+<link>https://qiita.com/gKhdrt_chan/items/83c27d442b732c554583</link>
+<guid>b9842d6cbd0fefcec46e87f74c57881755a07cccc02f21b406e17285c9827856</guid>
+<pubDate>2026-11-16T14:03:14+09:00</pubDate>
+<description>はじめに 前編では、Azure上にTerraform Enterprise（以下、TFE）の検証環境を用意しました。 今回はその続きで、手元のPCからTerraform CLIを使い、TFE上でAzureのPlanを実行してみます。先に結果を書くと、Planまでは成功しま...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Bob まとめ記事 ― MCP・Ansible・スキル・自動化</title>
-<link>https://qiita.com/c_u/items/d087e130237f1e190db5</link>
-<guid>8f3a6da09833015deda0fd1e72e36e66e1bf92b7cc9d6ffc0d4491e8cd12170f</guid>
-<pubDate>2026-11-16T08:02:40+09:00</pubDate>
-<description>はじめに AI アシスタント IBM Bob（ボブ）をテーマに書いてきた記事を、テーマ別・月別にまとめました。 今年の初めから社内 preview 版を利用してきており、かなり進化したと実感しています。 以前書いた内容は IBM Bob の進化により Deprecated...</description>
+<title>【Qiita】 2022年に構築したTrueNAS+DockerのRUSTサーバ、2026年ならどう設計する？</title>
+<link>https://qiita.com/gKhdrt_chan/items/4b7dc79bc9e52611e94d</link>
+<guid>a313ccc1fb23292c83e9cb5b4a6a01a23dfeec4a6ee4d2d4bfab98225f29def0</guid>
+<pubDate>2026-11-16T11:32:27+09:00</pubDate>
+<description>はじめに 2022年12月、Qiita初投稿としてTrueNASとDockerを使ったRUSTのゲームサーバ構築について記事を書きました。 TrueNAS+DockerでRUSTのゲームサーバを構築した 当時はTrueNAS CORE上にUbuntu VMを作成し、その上...</description>
 </item>
 <item>
-<title>【Qiita】 PDFスライドを字幕と動きのある無音動画にするAIスキル+アプリ｜Claude Code・IBM Bobで実践</title>
-<link>https://qiita.com/c_u/items/63bb163db20456472b81</link>
-<guid>b65a3364350829cc3f8a70373c11a67d07d3bb105eaa94d9c023d4362ab2cf59</guid>
-<pubDate>2026-11-16T08:01:59+09:00</pubDate>
-<description>はじめに PDFスライドに字幕とアニメーションを付けて無音動画を作る、自作のAIスキルとアプリ「slide-caption-silent-movie」をご紹介します。 Claude CodeやIBM BobにPDFを渡すと、各ページの内容に合わせて字幕と動きを作成します。...</description>
+<title>【Qiita】 LLMに任せる範囲を、失敗を見ながらコードへ移していった話【後編：カード表示とHITL、改善の過程】</title>
+<link>https://qiita.com/asyoroa/items/d6f5d66458ea36882aa9</link>
+<guid>4aeb51af53f5157e35b2d2ee73636990a5b0c49725895315e9b49144733a4d74</guid>
+<pubDate>2026-11-16T14:42:08+09:00</pubDate>
+<description>前編では、見積書の値と自社マスタを照合し、コードで判定する仕組みを紹介しました。 今回はその続きです。照合結果を人に正確に見せる方法、HITLを使った確認と登録の制御、そしてテストを繰り返しながら完成形にたどり着くまでの過程を紹介します。 前編：全体像と照合ロジック 後編...</description>
 </item>
 <item>
-<title>【Qiita】 IBM i 7.5 TR9 の概要 2026.11.03 （7.6 TR3との差異部分）</title>
-<link>https://qiita.com/gomAnomalocaris/items/ed8c30fbbfe653020b61</link>
-<guid>f63bcac98c3116e37d706bc491fe6c72c065e9176f647099c373e9c6e720854f</guid>
-<pubDate>2026-11-16T07:34:15+09:00</pubDate>
-<description>同時期出荷のTRの機能拡張について IBM i のTRは通常、その時点でサポート中の複数の（基本的には最新２リリースの）TRが同じタイミングで発表されます。 今回はIBM i 7.6 TR3 と 7.5 TR9 が同時に発表されました。これは標準サポート中のOSバージョン...</description>
+<title>【Qiita】 Amazon Bedrock AgentCore Policyで実現するユーザー属性ベースのMCPツール認可</title>
+<link>https://qiita.com/mbear06/items/816e3a7c13875283c656</link>
+<guid>64351afb01a5bcbcbb0fa484e8618f02a213dd71a3946420803b402afde879e9</guid>
+<pubDate>2026-11-16T14:30:42+09:00</pubDate>
+<description>1. はじめに 生成AIエージェントをエンタープライズ環境に導入する際、「同じAIエージェントを利用していても、ログイン中のユーザーの権限に応じて、実行可能なツールを制限したい。」というような要件が生じることがあります。 例えば、以下のようなケースです。 Adminis...</description>
 </item>
 <item>
-<title>【Qiita】 画像を「捨てない」コンテキスト設計</title>
-<link>https://qiita.com/mhamadajp/items/a863b048760846945059</link>
-<guid>b0d830df01fee7caa4db82c829b796d3252171c4de051eb6977bef42080e48c5</guid>
-<pubDate>2026-11-16T05:31:06+09:00</pubDate>
-<description>MIT開発の画像エージェント「VISTA」が示すマルチモーダル記憶管理の威力 テキストベースのLLMエージェントにおいて、「過去ログを全保持し、検索ツール（Tool/RAG）経由で必要な情報だけをプロンプトに引き戻す」コンテキストエンジニアリングの手法はすでに定着していま...</description>
+<title>【Qiita】 AIが賢くなるほど「親切な設定」が裏目に出た。4倍に膨らんだルールを半分にした話</title>
+<link>https://qiita.com/hc_terashima/items/2ebef7fee87bea9ead5a</link>
+<guid>f65a0e505632e39ae1df3f38b79347c9b132adcb0b965d9a305525cfd85aecd4</guid>
+<pubDate>2026-11-16T14:00:45+09:00</pubDate>
+<description>AIが失敗するたびに、注意書きを1行ずつ足してきました。4か月足らずで、AIが会話のたびに最初に読むユーザー共通の設定ファイルは5KBから20KBへ、ちょうど4倍になっていました。ところがモデルが賢くなるほど、その親切な設定が判断を重くしていきます。今はこのファイル（そこか...</description>
 </item>
 <item>
-<title>【Qiita】 Python の logging に API キーを出さない Filter の付け方：ロガーでなくハンドラに付け、例外のトレースバックも置換する（Python 3.13で確認）</title>
-<link>https://qiita.com/supportapp3/items/2d49b23d5f36669ec94c</link>
-<guid>4213130ebf7d23e8c8659bc77442b3b815c7ee22721b826ee5834b0d79b9e5fd</guid>
-<pubDate>2026-11-16T05:21:28+09:00</pubDate>
-<description>結論 logging.Filter で API キーを *** に置き換えるなら、ロガーではなくハンドラに付けます。ダミーのキーで試した結果は次のとおりです。 ルートロガーに addFilter しただけでは、子ロガー（app や urllib3.connectionp...</description>
+<title>【Qiita】 Claude Codeを「自分の分身」として使うのをやめた。1プロダクト1エージェントという設計</title>
+<link>https://qiita.com/konaito/items/eb817a74f01756c7f8a0</link>
+<guid>93358a38f1515044127e7a47933200ed861275da84078150599e08b1b4ff8ae6</guid>
+<pubDate>2026-11-16T13:17:05+09:00</pubDate>
+<description>Claude Codeを自分の秘書や分身として使うのではなく、プロダクトそのものに専属のAIエージェントを配置するという運用を試しています。 小規模なクライアント案件で1か月ほど試行していますが、これが思った以上にうまく機能しています。 結論から言うと、Claude Cod...</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>b7ec08427c58e7d37fd6a8d670d88feb3856e2cbaa84634774fe2803be64451b</guid>
-<pubDate>Mon, 16 Nov 2026 00:04:55 GMT</pubDate>
-<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
+<title>【Qiita】 0。AnthropicがFlashProveで『どのモデルが答えたか』の証明に70〜95倍のGPU時間が要ると公開した日、自分のセッション情報3箇所のうち具体的なスナップショット名を返したのはこの数字だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/64834797b7d491fe9e92</link>
+<guid>7427c427b9bb3dba88187b8c60b643dcb8632483c3a3caa8b3927721ae24e928</guid>
+<pubDate>2026-11-16T15:26:53+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、自分のセッション情報を返すツールが出した3つのフィールド(configured_model・session_context.model・external_metadata.last_served_model)のうち、...</description>
 </item>
 <item>
-<title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>61b884f48c23abba4e9e75238a2c8ed8da0a213e5bd0b8a12130668e3d850e12</guid>
-<pubDate>Mon, 16 Nov 2026 00:04:58 GMT</pubDate>
-<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+<title>【Qiita】 0。Vercelが『スクリーンショットは一度も使わない』とagent-desktopを公開した日、自分の環境のデスクトップ操作の説明にスクリーンショット以外の入力方式が書かれていた数はこの数字だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/2d0ceafee124448e1fed</link>
+<guid>6b106c38f50deff3366a96054b20ed88e7c6f20fc08fc131feab0bf1e95c7f57</guid>
+<pubDate>2026-11-16T09:50:58+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。何の0かというと、自分が今使っているClaude Code環境のスキル一覧に載っている「デスクトップ操作(computer use)」の説明文のうち、スクリーンショット以外の入力方式が書かれていた数です。 きっかけは、Vercel L...</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>68c4b872a3da1f581268cab7b4c620c7a9eb0411656c0c4518f95ce22d4c6d99</guid>
-<pubDate>Mon, 16 Nov 2026 00:05:01 GMT</pubDate>
+<guid>d35b75e883ee604511f90d6946267ba8cb4a67573875863f787914feb48d5f12</guid>
+<pubDate>Mon, 16 Nov 2026 06:56:05 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>80a2ae1cb4f912cc15aa1c12b67ee70f734dc9ecd99dd493eac6aa60352356cc</guid>
-<pubDate>Mon, 16 Nov 2026 00:05:40 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41586-026-11228-6</link>
+<guid>c9bd3b39d0beef4fca30e2031105d0d6c17ae9f401908e653fcd88355ffde80f</guid>
+<pubDate>Mon, 16 Nov 2026 06:56:07 GMT</pubDate>
+<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>725b766ba630f2b93f6b1b764ee8b74da1428d76cf7e006bb0260d7d54f45099</guid>
+<pubDate>Mon, 16 Nov 2026 06:56:11 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 
 </channel>
