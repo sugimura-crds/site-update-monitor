@@ -4,182 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 16 Nov 2026 16:40:07 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 00:35:21 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 はじめてのAPIログ設計 — 「ログはあるのに調べられない」を防ぐには？</title>
-<link>https://qiita.com/masashige0904/items/22f2836485ecc25ee527?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>9e4893391897b44aaf2f6d8a10c319bc40f022f4324f9164b4f36179a025bde3</guid>
-<pubDate>2026-11-16T09:37:01+09:00</pubDate>
-<description>この記事はこんな人におすすめ APIログを見直したいが、何を残すべきか迷っている方 CloudWatch Logsにログはあるものの、調査に必要な記録を探しにくいと感じている方 ログレベルやJSON形式、ログライブラリの役割を整理したい方 この記事で得られること ...</description>
+<title>【Qiita】 もういい加減&quot;技術勉強会&quot;やめませんか？</title>
+<link>https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>8e9de7253ced49101567cb085e459b4990d970a1d82df67dd48eb9f6075959f8</guid>
+<pubDate>2026-11-16T15:26:17+09:00</pubDate>
+<description>毎週水曜の15時、普段残業続きで目が真っ赤なメンバーが会議室に10人が集められる。 誰かがAIで作った綺麗なスライドを持ってきて、それを読み上げる。 「いまさら聞けないKubernetesの基本」 残りの9人は、うなずきながら手元でSlackを返している。 説明が終わるなり...</description>
 </item>
 <item>
-<title>【Qiita】 日報mdをどの画面からもワンボタン表示！ Raycast × Obsidian</title>
-<link>https://qiita.com/kuma_3838/items/e8a11dd95f319a1545d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>93389d4e965e1644db90f80efd55b450c3a64fef2fd5b8e8dbc24c9c9a62c1a8</guid>
-<pubDate>2026-11-16T08:34:57+09:00</pubDate>
-<description>はじめに 日報は Obsidian に書いていて、ToDo も日報の md ファイルに書いています。 Raycast の Obsidian 拡張機能にある「Daily Note」コマンドをホットキーに割り当て、ワンボタンで今日の日報を開けるようにしていました。 ただ、この...</description>
+<title>【Qiita】 最初の一歩はCLAUDE.mdだった：プロジェクトの始め方</title>
+<link>https://qiita.com/tntetsu/items/c1dff0a7f6b77fe9df07</link>
+<guid>45971014df072186296a712cfd2389504d7d9f581dc7b12c84e9ae2c52a7111a</guid>
+<pubDate>2026-11-17T09:01:21+09:00</pubDate>
+<description>この記事の要点 「まず何をすればいいのか」。空のディレクトリから始めた3つのプロジェクトでは、最初の一歩はどれもCLAUDE.mdでした 初版の作り方は3通りありました。要件を約4時間かけて書く、空のディレクトリで/initを実行して4問に答える、Claudeに任せる...</description>
 </item>
 <item>
-<title>【Qiita】 『なぜ、あなたの仕事は終わらないのか』で学んだ目的意識と時間の使い方</title>
-<link>https://qiita.com/kuma_3838/items/a5145ee73f86646c64ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>6c4d5983bfa9223b3d0ea73675f019c7d29d3361e22fa6479c396f82ebb734ea</guid>
-<pubDate>2026-11-16T08:34:43+09:00</pubDate>
-<description>はじめに 社内勉強会で、同僚が中島聡さんの『なぜ、あなたの仕事は終わらないのか スピードは最強の武器である』を紹介していました。 著者は、米 Microsoft 本社で Windows95 などの設計を担当したエンジニアです。 最近の私は、時間の使い方を正直うまくできてい...</description>
+<title>【Qiita】 【要約】How the Claude Code team thinks about verification ― エージェントに「証拠で検証」させるためのテスト戦略と運用ルール 🔍</title>
+<link>https://qiita.com/NaokiIshimura/items/78f086ee825d60f84b53</link>
+<guid>07ac6c5d8514814e83aeb200691f5a8f313a8587c67d98c0bcb249c129e2a23b</guid>
+<pubDate>2026-11-17T08:54:27+09:00</pubDate>
+<description>はじめに 📝 2026年11月16日に claude.dev ブログで公開された記事 「How the Claude Code team thinks about verification」（著者: Addy Osmani、カテゴリ: Engineering）の内容を、日...</description>
 </item>
 <item>
-<title>【Qiita】 【予習特集】IETF 127 高機能暗号・新しい暗号利用 分析 ― ゼロ知識証明の部品が CFRG に揃う</title>
-<link>https://qiita.com/satokan3/items/a3ec7c3b031afbc78796</link>
-<guid>4a99d742c78e0361296ee6d345a100205aed0ced66170d1c26096f24577a86c5</guid>
-<pubDate>2026-11-16T16:47:23+09:00</pubDate>
-<description>こんにちは！ GMOコネクト株式会社 執行役員CTO / GMOインターネットグループ株式会社 共同研究推進グループ 主席研究員 菅野哲（かんの さとる）でございます。 皆さん、ゼロ知識証明や匿名クレデンシャル、気になっていますか？ 研究の世界の暗号だったものが、トークンや...</description>
+<title>【Qiita】 最新テック活用事例 AIエージェント LLM AgentSkills MCP</title>
+<link>https://qiita.com/Yushi88/items/789ff8c4bf4700a784f5</link>
+<guid>0fcfa005d71979378b7a6871d877862a6708c033a801c9fb0bd97fd5d4a0d3ef</guid>
+<pubDate>2026-11-17T08:40:04+09:00</pubDate>
+<description>AIエージェントに「この申込書はこう処理する」という業務手順を覚えさせたい。そのための仕組みが、Markdownファイル1枚とフォルダ1つで足りる規格になった。軽量なオープン規格「 Agent Skills 」(エージェントスキル)だ。2025年10月にAnthropicが...</description>
 </item>
 <item>
-<title>【Qiita】 【会期に向けた予習】IETF 127 PQC 関連セッション分析 ― composite 署名は RFC に、焦点は鍵と署名の大きさへ</title>
-<link>https://qiita.com/satokan3/items/09bc16527f6fac360ae3</link>
-<guid>f75afe2bafb35e2143c6b79e0a9f903a14e826685cd884dceb0ee2c6a3f4633b</guid>
-<pubDate>2026-11-16T16:25:58+09:00</pubDate>
-<description>こんにちは！ GMOコネクト株式会社 執行役員CTO / GMOインターネットグループ株式会社 共同研究推進グループ 主席研究員 菅野哲（かんの さとる）でございます。 皆さん、PQC（耐量子計算機暗号）への移行、進んでいますか？ ML-KEM や ML-DSA は NIS...</description>
+<title>【Qiita】 AIエージェント向け障害注入ツール、この1年半で7つ出ていた</title>
+<link>https://qiita.com/kenimo49/items/da3fcc7a3317ef9822bb</link>
+<guid>8f41907df2f9a51b53e2fc58aa3bd09dd9fead654dc8784828b35621b6b9963e</guid>
+<pubDate>2026-11-17T06:16:53+09:00</pubDate>
+<description>AIエージェント向けの障害注入ツールを調べたら、この1年半で少なくとも7つ見つかりました。しかも、設計思想がそれぞれ違います。 きっかけは、kenimoto.devに書いた「Stuntman」というOSSの紹介記事でした。AIエージェントが呼び出す外部サービス（決済、メール...</description>
 </item>
 <item>
-<title>【Qiita】 dev-orchestra のレビューだけを使って、手元の変更を複数のAIに見せてみた</title>
-<link>https://qiita.com/istb16/items/26df644dc0140588cd7b</link>
-<guid>4000471eea096462a3e1ac34188366601c664f4d51424cd83705ee9c84137f4d</guid>
-<pubDate>2026-11-17T01:10:14+09:00</pubDate>
-<description>はじめに 前回は、最後に変更全体をもう一度レビューさせました。 dev-orchestra は、1 文の依頼から設計・実装・テスト・複数の AI によるレビュー・修正までを回す、Claude Code / Codex / Antigravity のプラグインです。 ただ、...</description>
+<title>【Qiita】 ⚡AIデータ基盤入門⚡ AI時代に扱うデータはどう変わる？構造化データから文書・ログ・画像・音声まで</title>
+<link>https://qiita.com/mellowlaunch/items/cf7e763125e76330d16e</link>
+<guid>a6f95809a7a5e5a14baa9db4cebfc9d7a4a70cfbb9f3887f81a91e36cc16bdc6</guid>
+<pubDate>2026-11-17T08:05:11+09:00</pubDate>
+<description>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 『ゼロから考える！Databricks・Snowflakeを今、どう提案するか？ ～AIを動かすデータ基盤...</description>
 </item>
 <item>
-<title>【Qiita】 MetaのMuseにGmail整理とAWS re:Inventの出張計画を頼んでみた ― Amazon Bedrock AgentCoreで考える任せ方</title>
-<link>https://qiita.com/austinnnn/items/e08f2ed7a6a0461bd628</link>
-<guid>63773e56875befd9265efc216e6e56245355729309494e3bc566520e63517e99</guid>
-<pubDate>2026-11-16T23:09:53+09:00</pubDate>
-<description>Image: Meta はじめに みなさんは、外出先で「スマホから頼んで、あとで要点だけ確認できたらいいのに」と思ったことはありませんか？ 私は普段、ChatGPTやCodex、Claudeを便利に使っています。それでも、スマホで相談を始めたものの、手元のファイルや開発...</description>
-</item>
-<item>
-<title>【Qiita】 【備忘録】ChatGPT Walletをざっくり理解 ― 「AIに財布を預ける」を、おつかいのルールで考える</title>
-<link>https://qiita.com/Tadataka_Takahashi/items/f5762113dd622af913a2</link>
-<guid>b12e35cad98b37ec8317cd748bfc2f5d6d3c3e3a396d6ac034804daf1a9fe749</guid>
-<pubDate>2026-11-16T23:01:53+09:00</pubDate>
-<description>はじめに OpenAIが2026年11月13日（米国時間）、AIエージェントが商品を探して支払いまで進める「ChatGPT Wallet」を発表しました。 「AIに財布を預ける」と聞くと少し身構えてしまいますが、仕組みを追ってみると、子どもにおつかいを頼むときのルール（予...</description>
-</item>
-<item>
-<title>【Qiita】 AG2 v1.3.2 で複数の判定を1回の API 呼び出しにまとめてみた</title>
-<link>https://qiita.com/Takuya__/items/161d56182fafaa2fd3f3</link>
-<guid>d14bda6174ed46b0522946f390ebfe9efee18e0e0f1c873b34b2e17962f9f820</guid>
-<pubDate>2026-11-16T21:15:19+09:00</pubDate>
-<description>この記事の確認範囲 対象：AG2 v1.3.2（2026年11月15日公開）。比較のため v1.3.1 も同じ Mac に入れて実行しました 判定モデル：OpenAI Decisions API（gpt-6-luna）と TypeSafe Jev（jev-latest）...</description>
-</item>
-<item>
-<title>【Qiita】 Claude Code 2.1.321 入門、絶対パスの cp と mv が deny を抜けた件</title>
-<link>https://qiita.com/kai_kou/items/06b378064c544e590f6d</link>
-<guid>160a3f0d08fdd5f695e11d44be6e27a189fb279f5dbd8c1f7320a3004e6ece0c</guid>
-<pubDate>2026-11-16T16:11:31+09:00</pubDate>
-<description>はじめに 対象読者は、Claude Code の permissions（allow / deny）を使って claude -p やスケジュール実行のルーティンを無人で回している開発者です。 deny に Edit(./secret/**) と書いておけば、secret/...</description>
-</item>
-<item>
-<title>【農業】 COP31: FAO welcomes endorsement of Antalya Action Plan on Integrated Fire Management</title>
-<link>https://www.fao.org/newsroom/detail/cop31-fao-welcomes-endorsement-of-antalya-action-plan-on-integrated-fire-management/en</link>
-<guid>4f0cbe39fb3eebd6aabfa2f7989b7dd8c7141d94a7e3d1d0044f1920571aea69</guid>
-<pubDate>Mon, 16 Nov 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【農業】 Parliamentarians urged to turn hunger commitments into action as global summit opens in Kenya</title>
-<link>https://www.fao.org/newsroom/detail/parliamentarians-urged-to-turn-hunger-commitments-into-action-as-global-summit-opens-in-kenya/en</link>
-<guid>decc18d6b64eb192fc1a3c01742428766ff41c5216100c742c98a5716c0adc88</guid>
-<pubDate>Mon, 16 Nov 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【環境】 Hazardous glacial lakes need reservoir governance</title>
-<link>https://www.nature.com/articles/s41558-026-02796-6</link>
-<guid>977a3c4b36d14502d66c9d2bc152de12f79a01ee9b099be8dbef1142a68d8ad8</guid>
+<title>【自動自律実験】 Secrets of the vampires: genomes reveal how these bats live off blood alone</title>
+<link>https://www.nature.com/articles/d41586-026-03706-8</link>
+<guid>56645bbc06826ed1c472f92b79d5b280fb9a69a0d6ed5b07dbfce842a5cc7382</guid>
 <pubDate>2026-11-16</pubDate>
-<description>Climate warming is expanding thousands of glacial lakes with unstable natural dams, yet high-risk lakes remain outside formal safety oversight despite their potential for downstream harm. These lakes need consequence-based governance analogous to engineered dams and reservoirs, beginning with risk-tiered moni</description>
+<description>Expandable stomachs allow these flying mammals to gulp large amounts of blood, and fluid-handling genes help them to fly home after all that liquid.</description>
 </item>
 <item>
-<title>【環境】 Holistic evaluation for deployment</title>
-<link>https://www.nature.com/articles/s41893-026-01968-8</link>
-<guid>e68970290ac0664a43643029704a0b9ef05e9ff916bf0bf6c66b5c1680ae5e7e</guid>
-<pubDate>2026-11-16</pubDate>
-<description>Thermoelectric technologies can convert waste heat directly into clean electricity, but high laboratory efficiency does not necessarily translate into practical deployment. By revisiting the long-neglected material zinc antimonide, researchers now show that strong thermoelectric performance can go hand in han</description>
-</item>
-<item>
-<title>【環境】 Assessing the carbon emissions and energy consumption of US hyperscale data centres</title>
-<link>https://www.nature.com/articles/s41893-026-01985-7</link>
-<guid>b5b1e084fcb2f21abe4f8e2f4e822a14923f3c0bcae695f734e258f6190b5006</guid>
-<pubDate>2026-11-16</pubDate>
-<description>The growing number of hyperscale data centres raises concerns about their environmental impacts. This study presents a facility-resolved attributional framework to assess the carbon footprint of hyperscale data centres in the USA using plant-level electricity-generation and emissions data.</description>
-</item>
-<item>
-<title>【環境】 Unlocking sustainable thermoelectric generation with zinc antimonide</title>
-<link>https://www.nature.com/articles/s41893-026-01986-6</link>
-<guid>017f576fe1e50a8d7cf271c2aec223aa0f3ba87bb0e82ab0559baf1968e6d7d5</guid>
-<pubDate>2026-11-16</pubDate>
-<description>Thermoelectric technologies must balance conversion efficiency with resource sustainability. Here the authors demonstrate that eco-friendly zinc antimonide (ZnSb) is a viable materials choice, delivering ~8% efficiency alongside exceptional cost-effectiveness.</description>
-</item>
-<item>
-<title>【自動自律実験】 &lt;b&gt;The climate is in &lt;/b&gt;&lt;b&gt;crisis&lt;/b&gt;&lt;b&gt; — here’s four things we can do&lt;/b&gt;</title>
-<link>https://www.nature.com/articles/d41586-026-03760-2</link>
-<guid>e9713692376f7dd98d5e2d0c7594b18c8e2cfc50e28ea8b5dc8f185617c00769</guid>
-<pubDate>2026-11-16</pubDate>
-<description>More needs to be done to combat climate change, but what? We discuss some big ideas to rein in emissions.</description>
-</item>
-<item>
-<title>【自動自律実験】 Architecture of a portal complex embedded in the poxvirus core</title>
-<link>https://www.nature.com/articles/s41586-026-11399-2</link>
-<guid>36c4664a3fba81326e2ace43371a507e2d5f6c2096e3219b51fd622f26521052</guid>
-<pubDate>2026-11-16</pubDate>
-<description>Architecture of a portal complex embedded in the poxvirus core</description>
-</item>
-<item>
-<title>【自動自律実験】 As El Niño builds, studies of extreme marine heatwaves must start now</title>
-<link>https://www.nature.com/articles/d41586-026-03715-7</link>
-<guid>f85cdbbb9e9ab01bf40fd1a25bf1b03bff7b1fc9789a302c81265d148842ea03</guid>
-<pubDate>2026-11-16</pubDate>
-<description>Researchers must track warming oceans and use the knowledge gained to inform strategies for sustaining fisheries and communities that depend on them.</description>
-</item>
-<item>
-<title>【自動自律実験】 The psychology of imaginary friends — and why they are good for kids</title>
-<link>https://www.nature.com/articles/d41586-026-03713-9</link>
-<guid>bc28a2e3c6b5c669f6db4371d934d36875b2da8269eb079869e811c448ab8fec</guid>
-<pubDate>2026-11-16</pubDate>
-<description>Children often conjure up invisible pals to keep them company. A psychologist delves into the reasons why.</description>
-</item>
-<item>
-<title>【自動自律実験】 Is the sixth great extinction imminent? Scientists must draw on natural history for clues</title>
-<link>https://www.nature.com/articles/d41586-026-03712-w</link>
-<guid>0524049d1cea98bab2e02a26e822d98bbe892fb26c6f1b5e47bdd69d86a60c7c</guid>
-<pubDate>2026-11-16</pubDate>
-<description>A lack of crosstalk between research disciplines is hampering scholars’ ability to fully examine how people have altered Earth’s biodiversity.</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>03a78c3b99397faad1e72fbc85e05fa7e490f9db9f099926e9dcebf983b4a4ae</guid>
-<pubDate>Mon, 16 Nov 2026 16:39:16 GMT</pubDate>
-<description>Sakana AI Blog 図：Sakana AIが開発した日本語金融ベンチマーク「JFinBench」の全体スコアと1問あたりのコスト（ツールなし設定）。主要ベンチマークでプロプライエタリモデルに肩を並べつつあるオープンウェイトモデルも、JFinBenchでは大きな差がある。 read more 写真左：マイケル・ロジャース氏、写真右：トム・モラン氏 read more 基調講演を行うSakana AI Chief Scientific Advisorのユルゲン・シュミットフーバー教授 read more read more 管理画面のイメージ。*この画像は架空のデータを使ったイメージです。今後予告なく変更される可能性があります。 read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデルをGemma 4ベ</description>
+<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>937a2c58fb423fce8877c8511c5550a56ca5cf7448096e50649c5d2cce18f666</guid>
+<pubDate>Tue, 17 Nov 2026 00:34:04 GMT</pubDate>
+<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-79039-x</link>
-<guid>42df4d0853ca02341b3717f6237550eebc541eb6ac10c4d102d73eb45b2c988d</guid>
-<pubDate>Mon, 16 Nov 2026 16:39:19 GMT</pubDate>
+<guid>24b7d961f949aee63fb7e72783e3bac8a796e8017f7eef554c1d99ea17a71c07</guid>
+<pubDate>Tue, 17 Nov 2026 00:34:41 GMT</pubDate>
 <description>Safe and effective gene delivery remains a central challenge for therapeutic applications. While non-viral and viral vectors have enabled substantial progress, their reliance on non-human components often triggers immune responses, limiting their use in chronic treatments. Here, we develop DeepDelivery, an artificial intelligence-driven platform to identify human proteins with scaffold potential for mRNA delivery. Proteome-scale screening nominated 512 candidates, and experimental validation show that 12 of 15 selected human proteins functioned as scaffold components that facilitated particle formation and mRNA delivery within a modular engineering framework. Notably, several tripartite motif (TRIM) family proteins, typically linked to antiviral responses, exhibit strong assembly and delivery activity. Model interpretability and perturbation analyses identify TRIM domain features that influenced prediction scores and guide TRIM25-specific domain engineering to improve delivery. Together, these results establish a framework for mining the human proteome for scaffold components of programmable mRNA delivery systems and for further exploring the design space of human-derived delivery </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>18224c7eeba9005c82ec089521e96157dc0971e15a242d68c9ca9371de8b2f79</guid>
-<pubDate>Mon, 16 Nov 2026 16:39:22 GMT</pubDate>
+<guid>e14aec392e379f5138e3a794383e651358d06e390814244843861893abdb66c2</guid>
+<pubDate>Tue, 17 Nov 2026 00:34:44 GMT</pubDate>
 <description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
 </item>
 <item>
-<title>【U.S.】 Suggested Matches</title>
-<link>https://www.energy.gov/search?keywords=%22Genesis%20Mission%22</link>
-<guid>d122596c703e66b7a04b565264c747c031a5da31427e2573d84b1a0a6af96a09</guid>
-<pubDate>Mon, 16 Nov 2026 16:39:36 GMT</pubDate>
-<description>… Labs are leading many of the projects aligned with the Genesis Mission to address science and technology challenges of … access to experimental data, and a critical national mission to effectively address this challenge. These …</description>
+<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
+<link>https://www.eurohpc-ju.europa.eu/index_en</link>
+<guid>c919f6e8b7b7465ca6b289ce47930c95071c191d47ead0e6447b60cc7e154987</guid>
+<pubDate>Tue, 17 Nov 2026 00:34:56 GMT</pubDate>
+<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>b0818dfd48b5c0a7c2ebe071389e03b8f5a7fc6f7d1058ad3ffe33d5be04cb9b</guid>
+<pubDate>Tue, 17 Nov 2026 00:35:04 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+</item>
+<item>
+<title>【環境】 Would you trust an emergency alert written by AI?</title>
+<link>https://grist.org/?s=AI</link>
+<guid>ddb6ac2c4354c73a58c624d39087815086ac1f47b069c8c5602c1f1292e2d804</guid>
+<pubDate>Tue, 17 Nov 2026 00:35:11 GMT</pubDate>
+<description>Human beings struggle with disaster communication. Chatbots can help — if people take them seriously.</description>
 </item>
 
 </channel>
