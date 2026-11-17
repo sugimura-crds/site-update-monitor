@@ -4,119 +4,168 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 17 Nov 2026 08:42:02 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 18:00:02 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい</title>
-<link>https://qiita.com/nuco_d/items/b279477cbcdbe5921abd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>ba3fccf03a13d184f777c79122d2b421eca48990296c2b072b3f0a925b1ada33</guid>
-<pubDate>2026-11-17T09:58:19+09:00</pubDate>
-<description>はじめに AIはプログラミングだけでなく、営業資料や発表資料まで作れるようになった。 部下に資料を頼むと、AIで作ったスライドが返ってくることも増えたのではないだろうか。 そして諸君は、そのスライドをひと目見てこう思ったはずだ。 「これ、生成AIで作ったでしょ？」 と。本...</description>
+<title>【Qiita】 【参加報告】IETF 127 RATS WG セッション1 ― GPU を足した VM を複数の検証者で確かめるため、EAR と AR4SI を組み替える</title>
+<link>https://qiita.com/satokan3/items/61f86ddf8a4ccd5f5846</link>
+<guid>2632fa68999f5540203df17d762ca13128f96ab891283f1e61057a447960d3f8</guid>
+<pubDate>2026-11-17T22:41:27+09:00</pubDate>
+<description>こんばんは！ GMOコネクト株式会社 執行役員CTO / GMOインターネットグループ株式会社 共同研究推進グループ 主席研究員 菅野哲（かんの さとる）でございます。 皆さん、GPU や NIC を足した Confidential VM の中身を、離れた場所から誰がどうや...</description>
 </item>
 <item>
-<title>【Qiita】 AIを介したやり取りは、放っておくとAI Slopを加速させるかも</title>
-<link>https://qiita.com/inukai-masanori/items/141e960b0bab8015bdae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>7a31d7bd393eebbd7dc307b962bb86e47e3f26c1afac73928bd85637c0fa6bb8</guid>
-<pubDate>2026-11-16T09:52:08+09:00</pubDate>
-<description>はじめに まず初めに、私はマネージャーをしています。 最近、チャットでの依頼や相談、レビューを見ていて「AIを介したコミュニケーションって、放っておくと良くない方向に転がりやすいな」と感じています。そのあたりについて、自分なりに意識していることも含めて書いてみます。 ...</description>
+<title>【Qiita】 サービスの窓口を思い切って MCP だけにしたら GUI が意外といらないことに気づいた</title>
+<link>https://qiita.com/AllegroMoltoV/items/30e7806166e771ee45bb</link>
+<guid>84714c541dff8e0f4b0099051f65894b8afcf333a679afd2c06ffbeb8d144240</guid>
+<pubDate>2026-11-18T00:29:11+09:00</pubDate>
+<description>はじめに 私は OBS Studio のプラグインを配布できるレジストリ「配信プラグイン倉庫くん」を作っています。 今回この「倉庫くん」をリリースする際、プラグイン作者の提出窓口を思い切って MCP 経由オンリーにしてみました。この形で 1 週間ほど運用して、私は改...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code の返事が英語に戻るのを Stop フックで差し戻す(日本語の割合を見る60行ほどの Python と、無限ループにしない回数制限)</title>
-<link>https://qiita.com/takamatt_ai/items/394364307904928ed73b</link>
-<guid>a91500e95bfef3be5725ae14ef0e7b5671f618df349586aeb7a91663de4ab7d5</guid>
-<pubDate>2026-11-17T17:34:29+09:00</pubDate>
-<description>この記事を読み終えると、Claude Code の返事が英語になったときに自動で「日本語で書き直して」と差し戻す Stop フックが置けます。 根拠は、手元で使っているフックに、2026-11-14 に英語・日本語・コード入りの返事の3通りを渡して、差し戻しの回数まで確かめ...</description>
+<title>【Qiita】 外からSSHで入れないMuse VMは「ファイル置き場」で管理。Google DriveをハブにしたAIエージェント運用</title>
+<link>https://qiita.com/satouyoshiaki/items/275152c1fb60dbf79a4d</link>
+<guid>7cdc120b78dbe48ff9ce06e2125b116feb8007ab41c07e207b2d2bd6f9fc3a59</guid>
+<pubDate>2026-11-17T23:16:26+09:00</pubDate>
+<description>はじめに AIエージェントの Muse と、自分の PC、自宅の常駐マシン（VM）を行き来しながら作業していると、成果物の受け渡しが問題になります。 Muse が作ったファイルを、自分の PC で開きたい 別のマシンで進めた作業の記録を、あとから Muse に思い出させ...</description>
 </item>
 <item>
-<title>【Qiita】 Copilotの費用は月額料金だけでは比べられない：最新TCO調査の前提と、自社での測り方</title>
-<link>https://qiita.com/phamxuanquyen22/items/59eaf3bd0b45f9fa8aed</link>
-<guid>1ad0f6366a29fe21eaba5acc02fa07bb82488f9dfaf09c3845b3d2d226fbd793</guid>
-<pubDate>2026-11-17T17:29:00+09:00</pubDate>
-<description>執筆している2026年11月17日時点の情報です。Copilot の料金や利用条件は変わるため、最新情報は必ず公開情報（本記事末尾の参考リンク）もあわせてご確認ください。 1. 月額料金だけを見て、AIの導入費用を比較していませんか？ 企業向けAIの比較では、「1ユーザー...</description>
+<title>【Qiita】 AIがPRを大量に作る時代、承認は誰がやる？Copilot承認の確認3点</title>
+<link>https://qiita.com/kinamocchi_tech/items/7246f9bb4097b421c1a8</link>
+<guid>873911d65056193508c632fd719b1dd907e677e6cf50b722750ee7d1d52f4467</guid>
+<pubDate>2026-11-17T23:16:24+09:00</pubDate>
+<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → AIがPRを大量に作る時代、承認は誰がやる？Copilot承認の確認3点 🐹🦜 この記事に登場する2匹 🐹 もっちー （ハムスター）… AI はま...</description>
 </item>
 <item>
-<title>【Qiita】 Biz AI Agent：ノーコードでフローを描く時代から、スキル＋AI コーディングで「本物の AI エージェント」を作る時代へ（完全オープンソース）</title>
-<link>https://qiita.com/mysin008/items/55e2f138d03d85cf8369</link>
-<guid>dabb96e9113032a9e71ba0c61fefcfe0c5d13eafd2f03b648da470588e3c5998</guid>
-<pubDate>2026-11-17T16:28:21+09:00</pubDate>
-<description>AI コーディングが、ここ 1 年で別物になりました。Claude Code や Codex に業務を説明すれば、設計・実装・テストまで書いて、自分で検証して報告してくれます。 それなのに、AI エージェントやワークフローを作るとなると、まだ Dify などのドラッグ＆ドロ...</description>
+<title>【Qiita】 Cloudflare ArtifactsとGitHubは何が違うのか ― エージェント時代のGit基盤を深掘りする</title>
+<link>https://qiita.com/f_uto/items/b67dea11de8ef8945aa5</link>
+<guid>d22ee5e86e20ecc76ce153183e6abee5437d400984bf725c7ef62ffc9a617cc1</guid>
+<pubDate>2026-11-17T22:54:29+09:00</pubDate>
+<description>この記事について Cloudflareが2026年10月1日にオープンベータ化した「Artifacts」と、GitHubは何が違うのかを、両社の公式ブログ・公式ドキュメント・料金ページ（いずれも2026年11月17日に確認）をもとに深掘りした比較記事です。位置づけ、機能、...</description>
 </item>
 <item>
-<title>【Qiita】 あなたのAI肩書きは？Claude Codeのログから診断するプラグインを作った</title>
-<link>https://qiita.com/kazu04r/items/deb1897b5694fb30d95c</link>
-<guid>da592a868f0b4a40b45900240506bcd88651efa32766bc026bd5fa8dce237b1b</guid>
-<pubDate>2026-11-17T16:12:43+09:00</pubDate>
-<description>概要 ふとした拍子に、ClaudeCodeの履歴が、その人のAIへの習熟度を一番示してるんじゃないかと思い「AI肩書き診断（My AI Title）」というClaudeCodeプラグインを作りました。 Claude Code のセッションログから、AIとの付き合い方を6つ...</description>
+<title>【農業】 Author Correction: A systematic scoping review of environmental, food security and health impacts of food system plastics</title>
+<link>https://www.nature.com/articles/s43016-026-01464-4</link>
+<guid>ec351f04856b60218a262e962c3fe0d27cb2afbcd5543f52e35a3b1bc6cf5241</guid>
+<pubDate>2026-11-17</pubDate>
+<description>Author Correction: A systematic scoping review of environmental, food security and health impacts of food system plastics</description>
 </item>
 <item>
-<title>【Qiita】 n8nのワークフロー自動化、AIエージェント統合を検討する視点</title>
-<link>https://qiita.com/gitmeshi/items/3e373064542ec43b745c</link>
-<guid>629f223d40fb5beef5a83013f871c7bd900710a1a969270ea1894c5ef97cbe60</guid>
-<pubDate>2026-11-17T12:15:05+09:00</pubDate>
-<description>業務の自動化を検討する際、単純な定型処理の繋ぎ込みだけでなく、AIモデルを組み込んだ多段階の処理フローをどう構築し、運用まで持っていくかが課題になることがあります。n8nは、ビジュアルなキャンバス上でノードを繋ぎながらワークフローを組み、必要に応じてカスタムコードも組み合わ...</description>
+<title>【環境】 Resilience as a governing principle in water governance</title>
+<link>https://www.nature.com/articles/s41893-026-01972-y</link>
+<guid>834c2a367de6ec1af33105a7aea9407d7c058fdb8e562d1a5e37dbedcce0b205</guid>
+<pubDate>2026-11-17</pubDate>
+<description>Water governance often treats resilience as an end state, achieved mainly through technocratic decision-making and standard engineering tools. Drawing on five international cases, we argue that resilience should instead guide governance design and operation through adaptability, coordination, learning and acc</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code 2.1.325入門、スケジュール実行のSkill確認を先に許可する</title>
-<link>https://qiita.com/kai_kou/items/9ee1479f1186088595b2</link>
-<guid>34d03ec089015a11ede0d092bd0b87bd8782fbbc3f4b6c69246f20109be51516</guid>
-<pubDate>2026-11-17T12:10:24+09:00</pubDate>
-<description>はじめに 夜中に回しているスケジュールタスクが、朝になっても終わっていない。ログを開くと、エラーではなく「確認待ち」で止まっている。Claude Code 2.1.325 以降は、こうした止まり方が起きうる変更が入りました。 公式 changelog の 2.1.325（...</description>
+<title>【環境】 Accounting for the mining industry’s global water footprint</title>
+<link>https://www.nature.com/articles/s41893-026-01945-1</link>
+<guid>fbc7437f799067d5e82748dab50ff6aa41793d9677d119b14d23f3fa6925a180</guid>
+<pubDate>2026-11-17</pubDate>
+<description>Millions of people share rivers, aquifers and coastlines with mining operations, but years of regulation and voluntary schemes have left these communities with limited knowledge of what water is withdrawn, discharged or contaminated. De-risking the sector requires mandatory transparency, which should be made </description>
 </item>
 <item>
-<title>【Qiita】 Claude Codeの「もう確認しない」がGitHubに2,539件の秘密を漏らしていた日 — 自分の2つのリポジトリの.gitignoreを確認した</title>
-<link>https://qiita.com/Hideki_Tamae/items/9032e142bf2207b0dc77</link>
-<guid>ba625c244aefa64b209dbf20614f91e49278a573cc7c391eaae848629d7a2ee4</guid>
-<pubDate>2026-11-17T15:26:39+09:00</pubDate>
-<description>はじめに 0件と、ファイルが存在しない。 これが今回確認した数字です。セキュリティ企業Apiiroが11月上旬に公開した調査で、Claude Codeの権限確認で「Yes, and don&#x27;t ask again(今後確認しない)」を選んだときに保存される.claude/...</description>
+<title>【環境】 Monitoring water attacks</title>
+<link>https://www.nature.com/articles/s41893-026-01952-2</link>
+<guid>50646340fe987c6cb18a7e59af396b904f6cce6a5b4aa586db78fd303078fc72</guid>
+<pubDate>2026-11-17</pubDate>
+<description>Attacks on critical water infrastructure have become normalized in modern military conflict. To counter this, argues Hussam Hussein, water scientists must build and maintain real-time monitoring and documentation infrastructure in active conflict zones.</description>
 </item>
 <item>
-<title>【Qiita】 直近16日間に公開した記事25本、見出しは全部「数字。」から始まっていた。今日はそれをやめた</title>
-<link>https://qiita.com/Hideki_Tamae/items/ce321140fb9db9b9ce3a</link>
-<guid>50106b18e27b5271c03cad41fdb7a518dea3172eb8e7a25495a0fd12f774a745</guid>
-<pubDate>2026-11-17T09:47:21+09:00</pubDate>
-<description>はじめに 25/25。 これが今回の数字です。2026年11月1日から11月16日までの16日間、自分が公開した記事は25本あります。この記事を書く直前に、その25本の見出しの冒頭1文字を実際に確認したところ、25本すべてが数字で始まり、さらに25本すべてが「数字。〇〇社...</description>
+<title>【環境】 Water as our common denominator in the fragmented world</title>
+<link>https://www.nature.com/articles/s41893-026-01980-y</link>
+<guid>fe7908a5a168e5e6cd3f8c7cce6c189515408b3c61fc2cf4116e95475ef6911e</guid>
+<pubDate>2026-11-17</pubDate>
+<description>In the era of growing political polarization, water can be a force for cooperation towards a global agenda of unity, security, prosperity and sustainability, argues Kaveh Madani.</description>
 </item>
 <item>
-<title>【自動自律実験】 US Supreme Court rebuffs White House effort to cut research grants</title>
-<link>https://www.nature.com/articles/d41586-026-03765-x</link>
-<guid>ebc0141b49fe9b3d93aa522a7c209952813864c71bc29a544316d0526794562f</guid>
-<pubDate>2026-11-16</pubDate>
-<description>The high court has declined for now to intervene in a key case, meaning that lower court rulings that restored several hundred terminated grants will stand.</description>
+<title>【環境】 Confronting water bankruptcy</title>
+<link>https://www.nature.com/articles/s41893-026-02002-7</link>
+<guid>9366439c1ab3210bd6473d3234f1fe06fc53974324de7e153e19856d27574837</guid>
+<pubDate>2026-11-17</pubDate>
+<description>With 2030 and the conclusion of the current round of Sustainable Development Goals on the horizon, the world has entered a state of water bankruptcy. A collection of opinion and research explores how this bankruptcy affects environmental and social systems and asks how we return to sustainable and resilient w</description>
+</item>
+<item>
+<title>【自動自律実験】 The prospect of a ‘super’ El Niño demands better ocean monitoring</title>
+<link>https://www.nature.com/articles/d41586-026-03744-2</link>
+<guid>c3c56a5079001a7f4dfddceb44b7d209b57a1f34b0f8f9cf916f4e8c287fc2e3</guid>
+<pubDate>2026-11-17</pubDate>
+<description>The prospect of a ‘super’ El Niño demands better ocean monitoring</description>
+</item>
+<item>
+<title>【自動自律実験】 Dinosaur’s rest break leaves a lasting impression</title>
+<link>https://www.nature.com/articles/d41586-026-03749-x</link>
+<guid>1c0fb57e01689d0f30433035da7e11ed1c3c75aec965473a6b57a824947a607a</guid>
+<pubDate>2026-11-17</pubDate>
+<description>A fossilized print records marks left by the feet and bum of a juvenile reptile that measured one metre at the hip.</description>
+</item>
+<item>
+<title>【自動自律実験】 AI wearables could exploit people’s most vulnerable moments</title>
+<link>https://www.nature.com/articles/d41586-026-03742-4</link>
+<guid>b53eb84a04cffef639dd51f690d4f93999b9c23a376a3106449e381b2df6cb86</guid>
+<pubDate>2026-11-17</pubDate>
+<description>AI wearables could exploit people’s most vulnerable moments</description>
+</item>
+<item>
+<title>【自動自律実験】 The origins of scrotal asymmetry</title>
+<link>https://www.nature.com/articles/d41586-026-03279-6</link>
+<guid>d4ec67ecc1956f89476bd09df5f788f50751e955ad8d39956d6917fa9c2b248a</guid>
+<pubDate>2026-11-17</pubDate>
+<description>Why does the left testicle tend to hang lower than the right? And a small village with a surprisingly ambitious museum, in our weekly dip into Nature’s archive.</description>
+</item>
+<item>
+<title>【自動自律実験】 Should we move from artificial intelligence to artificial life?</title>
+<link>https://www.nature.com/articles/d41586-026-03743-3</link>
+<guid>a973f0ce340de4205d6cfa7393b2280139935ef5cc57b7ccd78e600e3b0db87a</guid>
+<pubDate>2026-11-17</pubDate>
+<description>Should we move from artificial intelligence to artificial life?</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-realistic-benchmark-dataset-for-multi-model-resume-screening-and-candidate-ranking/</link>
-<guid>5e663cd9b0502fefe90ff9bcf9428c02a0597bc7e74dd4cc98c6f7360f28113f</guid>
-<pubDate>Tue, 17 Nov 2026 08:41:15 GMT</pubDate>
+<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
+<guid>a3f1b91a5d3fbcfec38a97c310d02ff331a0c7e8f1a5126936d2e36622c097b0</guid>
+<pubDate>Tue, 17 Nov 2026 17:59:16 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04808-6</link>
-<guid>0633d1ff9ce91bd081277b49ac5303c626b49c6b44c197943d8d2ffd348ff38f</guid>
-<pubDate>Tue, 17 Nov 2026 08:41:17 GMT</pubDate>
+<guid>7d7aaa987130c0ab2bbf1d5cec9786f1817029aa5111ad6506be4e84de6e02c4</guid>
+<pubDate>Tue, 17 Nov 2026 17:59:18 GMT</pubDate>
 <description>Biomedical research is constrained by the time and domain expertise required to analyze increasingly large and complex datasets. Here we present OpenScientist, an open-source agentic AI co-scientist designed to address this gap by investigating scientist-defined queries and generating verifiable, data-grounded analyses. OpenScientist was evaluated by domain experts across five biomedical case studies, completing analyses in minutes that otherwise would take months of human time and expertise. It accurately quantified Alzheimer’s blood biomarker performance, generated a plasma proteomic survival model that predicted survival in a hidden-evaluation cohort, proposed a reproducible mechanism linking tau pathology to altered lysosomal acidification, generated multiple myeloma hypotheses validated in an external cohort with attenuated signal in randomized controls, and demonstrated concordance with an independent human analysis in a blinded, prespecified proteomic comparison. These results support the use of OpenScientist to assist biomedical data analysis in concert with human experts. To support research involving sensitive clinical datasets, OpenScientist can operate in a fully air-ga</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>b9dffcfe85e9fda6eee6bae0c98d19860c817aa42ef66134f8ff00c6c7aad5c7</guid>
-<pubDate>Tue, 17 Nov 2026 08:41:19 GMT</pubDate>
+<guid>0eda2cf8ff4b0f1a991dca937170e0f1f26a7c69e2261e9edc0dab643da2f715</guid>
+<pubDate>Tue, 17 Nov 2026 17:59:21 GMT</pubDate>
 <description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>40b7b23cff0b4475690a64a5edc8d74fd921b5f8c5deca3f8c0605aeb1d5c3e5</guid>
-<pubDate>Tue, 17 Nov 2026 08:41:21 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04808-6</link>
+<guid>e32d4482c4c6025f194ed827126638846e7138b25cfa82a58724141637bac177</guid>
+<pubDate>Tue, 17 Nov 2026 17:59:23 GMT</pubDate>
+<description>Biomedical research is constrained by the time and domain expertise required to analyze increasingly large and complex datasets. Here we present OpenScientist, an open-source agentic AI co-scientist designed to address this gap by investigating scientist-defined queries and generating verifiable, data-grounded analyses. OpenScientist was evaluated by domain experts across five biomedical case studies, completing analyses in minutes that otherwise would take months of human time and expertise. It accurately quantified Alzheimer’s blood biomarker performance, generated a plasma proteomic survival model that predicted survival in a hidden-evaluation cohort, proposed a reproducible mechanism linking tau pathology to altered lysosomal acidification, generated multiple myeloma hypotheses validated in an external cohort with attenuated signal in randomized controls, and demonstrated concordance with an independent human analysis in a blinded, prespecified proteomic comparison. These results support the use of OpenScientist to assist biomedical data analysis in concert with human experts. To support research involving sensitive clinical datasets, OpenScientist can operate in a fully air-ga</description>
 </item>
 <item>
-<title>【農業】 最新のプレスリリース一覧</title>
-<link>https://www.jircas.go.jp/ja/release/2026/press202614</link>
-<guid>f67aa5ed5a050bcfb2e3f7da63b8e1cfec8621c8e91c23dc8dfcf688abbbe9a6</guid>
-<pubDate>Tue, 17 Nov 2026 08:41:47 GMT</pubDate>
-<description>研究所別一覧</description>
+<title>【Self-driving laboratories】 Filter By:</title>
+<link>https://www.nature.com/articles/s41557-026-02280-w</link>
+<guid>eda84a3436a6d7fc1e29c0fe1e97e2d63629044b622fad224487b522fe931781</guid>
+<pubDate>Tue, 17 Nov 2026 17:59:28 GMT</pubDate>
+<description>Antimicrobial resistance is among the most pressing healthcare challenges of our time. Multidrug-resistant ‘superbugs’ continue to emerge at an alarming rate, while antibiotic development has stalled in recent decades. Antimicrobial peptides have attracted interest for their potent bactericidal activity and lower propensity to spur resistance; however, translation into clinical practice has been hampered by poor bioavailability, challenging syntheses and limited stability. By contrast, synthetic copolymers mimicking antimicrobial peptides have received attention for their efficacy and synthetic tractability. Here we highlight recent advances in antimicrobial polymer development and discuss future directions for their design and implementation. We also outline future research directions, including the use of machine learning to guide polymer design and the development of scalable production methods that ensure the worldwide accessibility of these materials. Antimicrobial polymers offer an attractive tool for combating the crisis of antimicrobial resistance. This Review highlights recent advances in antimicrobial polymer development and discusses future directions, including the use </description>
+</item>
+<item>
+<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
+<link>https://www.eurohpc-ju.europa.eu/index_en</link>
+<guid>c6c55749aad05239cd3a7c6e056012921386864f078155d8036ae67c8401e128</guid>
+<pubDate>Tue, 17 Nov 2026 17:59:35 GMT</pubDate>
+<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>74126b1652cd6e54487f63b88f6d5a27c23b505e4b736664027034b1a6e12264</guid>
+<pubDate>Tue, 17 Nov 2026 17:59:44 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
