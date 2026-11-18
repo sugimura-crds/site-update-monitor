@@ -4,168 +4,105 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 17 Nov 2026 18:00:02 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 00:39:40 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【参加報告】IETF 127 RATS WG セッション1 ― GPU を足した VM を複数の検証者で確かめるため、EAR と AR4SI を組み替える</title>
-<link>https://qiita.com/satokan3/items/61f86ddf8a4ccd5f5846</link>
-<guid>2632fa68999f5540203df17d762ca13128f96ab891283f1e61057a447960d3f8</guid>
-<pubDate>2026-11-17T22:41:27+09:00</pubDate>
-<description>こんばんは！ GMOコネクト株式会社 執行役員CTO / GMOインターネットグループ株式会社 共同研究推進グループ 主席研究員 菅野哲（かんの さとる）でございます。 皆さん、GPU や NIC を足した Confidential VM の中身を、離れた場所から誰がどうや...</description>
+<title>【Qiita】 dbt + DuckDBでSQL集計をローカルで動かしてみる</title>
+<link>https://qiita.com/take-yoda/items/e24e62ba5a4ad4d84c0f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>8e7c7b8c7b6ceb9dbdde646cf5b9edf64ac148570065fe3e4468f9e1acd8f965</guid>
+<pubDate>2026-11-17T13:09:18+09:00</pubDate>
+<description>株式会社ブレインパッドプロダクトユニットでRtoaster GenAIの開発をしている依田です。 今回はローカル環境だけで完結するdbt入門です。 はじめに dbtは「SQLをモデルとして管理するツール」です。 普段SQLを書いている方なら、新しい言語を覚える必要はありま...</description>
 </item>
 <item>
-<title>【Qiita】 サービスの窓口を思い切って MCP だけにしたら GUI が意外といらないことに気づいた</title>
-<link>https://qiita.com/AllegroMoltoV/items/30e7806166e771ee45bb</link>
-<guid>84714c541dff8e0f4b0099051f65894b8afcf333a679afd2c06ffbeb8d144240</guid>
-<pubDate>2026-11-18T00:29:11+09:00</pubDate>
-<description>はじめに 私は OBS Studio のプラグインを配布できるレジストリ「配信プラグイン倉庫くん」を作っています。 今回この「倉庫くん」をリリースする際、プラグイン作者の提出窓口を思い切って MCP 経由オンリーにしてみました。この形で 1 週間ほど運用して、私は改...</description>
+<title>【Qiita】 【Power Automate】Teamsのプライベートチャネルの既存スレッドへ、タグメンション付きで定期返信する</title>
+<link>https://qiita.com/valpasucucci43/items/681dfa6537bf13dfd075</link>
+<guid>f5f059779a96f07c25263b9913f98c11e392441423cb0d4b4dcfbcaf390175e6</guid>
+<pubDate>2026-11-18T08:57:46+09:00</pubDate>
+<description>はじめに Microsoft Teams（以下、Teams）のプライベートチャネルで、次のような定期リマインドを自動化したい場面がありました。 毎週決まった日時に投稿する プライベートチャネル内のタグをメンションする 新しいスレッドを毎回作らず、既存スレッドへ返信する ...</description>
 </item>
 <item>
-<title>【Qiita】 外からSSHで入れないMuse VMは「ファイル置き場」で管理。Google DriveをハブにしたAIエージェント運用</title>
-<link>https://qiita.com/satouyoshiaki/items/275152c1fb60dbf79a4d</link>
-<guid>7cdc120b78dbe48ff9ce06e2125b116feb8007ab41c07e207b2d2bd6f9fc3a59</guid>
-<pubDate>2026-11-17T23:16:26+09:00</pubDate>
-<description>はじめに AIエージェントの Muse と、自分の PC、自宅の常駐マシン（VM）を行き来しながら作業していると、成果物の受け渡しが問題になります。 Muse が作ったファイルを、自分の PC で開きたい 別のマシンで進めた作業の記録を、あとから Muse に思い出させ...</description>
+<title>【Qiita】 非同期で働きたいマネージャーが、Claude Code に一日中話しかけて育てている</title>
+<link>https://qiita.com/mibushi/items/5f4acb4ac313d58df847</link>
+<guid>b0c1d53a70e1456b0f35fed2d40e353954cdd7dd16d551f8aa904c7d1183fe9d</guid>
+<pubDate>2026-11-18T09:35:21+09:00</pubDate>
+<description>はじめに 11/12(木)の Findy AI Meetup in Fukuoka #8 で 5 分の LT をしてきました。 テーマは「AI × 並列開発」。 スライドは Docswell に置いています。 5 分では話しきれなかったことと、当日いただいた質問への...</description>
 </item>
 <item>
-<title>【Qiita】 AIがPRを大量に作る時代、承認は誰がやる？Copilot承認の確認3点</title>
-<link>https://qiita.com/kinamocchi_tech/items/7246f9bb4097b421c1a8</link>
-<guid>873911d65056193508c632fd719b1dd907e677e6cf50b722750ee7d1d52f4467</guid>
-<pubDate>2026-11-17T23:16:24+09:00</pubDate>
-<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → AIがPRを大量に作る時代、承認は誰がやる？Copilot承認の確認3点 🐹🦜 この記事に登場する2匹 🐹 もっちー （ハムスター）… AI はま...</description>
+<title>【Qiita】 AIエージェントにテストを足させる条件を規約に書く ─ 足さない変更の線引きと、減らすときに残すテスト</title>
+<link>https://qiita.com/itaraiguma/items/f1c47c4269609481d80e</link>
+<guid>d8fd56de5cd4b9db55704d93c1f925f5d3355c9d21b37f28f72c78ed9aa7a80e</guid>
+<pubDate>2026-11-18T08:38:41+09:00</pubDate>
+<description>この記事でできること AIエージェントに実装を任せていると、変更のたびにテストが足されていきます。1件ずつは筋が通っていても、まとめて見ると増える一方で、減ることがほとんどありません。テストが増えればCIも手元の確認も遅くなり、エージェントが読むファイルも大きくなります。...</description>
 </item>
 <item>
-<title>【Qiita】 Cloudflare ArtifactsとGitHubは何が違うのか ― エージェント時代のGit基盤を深掘りする</title>
-<link>https://qiita.com/f_uto/items/b67dea11de8ef8945aa5</link>
-<guid>d22ee5e86e20ecc76ce153183e6abee5437d400984bf725c7ef62ffc9a617cc1</guid>
-<pubDate>2026-11-17T22:54:29+09:00</pubDate>
-<description>この記事について Cloudflareが2026年10月1日にオープンベータ化した「Artifacts」と、GitHubは何が違うのかを、両社の公式ブログ・公式ドキュメント・料金ページ（いずれも2026年11月17日に確認）をもとに深掘りした比較記事です。位置づけ、機能、...</description>
+<title>【Qiita】 【AWS】AgentCore Memoryのセッション全体要約とチャンクの違いを検証【AgentCore】</title>
+<link>https://qiita.com/Nana_777/items/13df4ab402129246becd</link>
+<guid>dc5a7785e5f3383cb956de24bce40d5f110aff5095b8700f145d3705815a33b3</guid>
+<pubDate>2026-11-18T08:30:27+09:00</pubDate>
+<description>はじめに AIエージェントに長い会話の文脈を持ち越させたい場面は多いです。全履歴をそのまま渡すと入力が膨らみ、要約を使うと詳細が落ちます。 Amazon Bedrock AgentCore Memory の summary strategy は、これまで会話を「チャンク」...</description>
 </item>
 <item>
-<title>【農業】 Author Correction: A systematic scoping review of environmental, food security and health impacts of food system plastics</title>
-<link>https://www.nature.com/articles/s43016-026-01464-4</link>
-<guid>ec351f04856b60218a262e962c3fe0d27cb2afbcd5543f52e35a3b1bc6cf5241</guid>
+<title>【Qiita】 AIエージェントの承認で穴を見落とす症状と検算の理由</title>
+<link>https://qiita.com/orca-forge/items/3cb54acd8fdfa25dcbb7</link>
+<guid>a5b7eef56b4e69b7065d32b8692ca3d1c612ff3b1f6cf0e3098719b1ba54b7bf</guid>
+<pubDate>2026-11-18T08:22:29+09:00</pubDate>
+<description>📝 この記事は forge.workstyle.tech に掲載した記事の転載です。 複数のAIセッションが並行する開発環境で、私は中継された手順を読み、承認しました。手順は検証されておらず、読んで承認した側は全員が穴を見落としました。&amp;&amp;を条件に加えても安全を確かめら...</description>
+</item>
+<item>
+<title>【自動自律実験】 Meet the ‘celestial bodies of fathomless powerful darkness’</title>
+<link>https://www.nature.com/articles/d41586-026-03750-4</link>
+<guid>1cf545ca9c423322c854ec4294c2a9483096229ef00c31185e98fefd31e9413d</guid>
 <pubDate>2026-11-17</pubDate>
-<description>Author Correction: A systematic scoping review of environmental, food security and health impacts of food system plastics</description>
+<description>Astronomers report a rare pair of extremely bright black holes that were gobbling gas less than one billion years after the Big Bang.</description>
 </item>
 <item>
-<title>【環境】 Resilience as a governing principle in water governance</title>
-<link>https://www.nature.com/articles/s41893-026-01972-y</link>
-<guid>834c2a367de6ec1af33105a7aea9407d7c058fdb8e562d1a5e37dbedcce0b205</guid>
-<pubDate>2026-11-17</pubDate>
-<description>Water governance often treats resilience as an end state, achieved mainly through technocratic decision-making and standard engineering tools. Drawing on five international cases, we argue that resilience should instead guide governance design and operation through adaptability, coordination, learning and acc</description>
-</item>
-<item>
-<title>【環境】 Accounting for the mining industry’s global water footprint</title>
-<link>https://www.nature.com/articles/s41893-026-01945-1</link>
-<guid>fbc7437f799067d5e82748dab50ff6aa41793d9677d119b14d23f3fa6925a180</guid>
-<pubDate>2026-11-17</pubDate>
-<description>Millions of people share rivers, aquifers and coastlines with mining operations, but years of regulation and voluntary schemes have left these communities with limited knowledge of what water is withdrawn, discharged or contaminated. De-risking the sector requires mandatory transparency, which should be made </description>
-</item>
-<item>
-<title>【環境】 Monitoring water attacks</title>
-<link>https://www.nature.com/articles/s41893-026-01952-2</link>
-<guid>50646340fe987c6cb18a7e59af396b904f6cce6a5b4aa586db78fd303078fc72</guid>
-<pubDate>2026-11-17</pubDate>
-<description>Attacks on critical water infrastructure have become normalized in modern military conflict. To counter this, argues Hussam Hussein, water scientists must build and maintain real-time monitoring and documentation infrastructure in active conflict zones.</description>
-</item>
-<item>
-<title>【環境】 Water as our common denominator in the fragmented world</title>
-<link>https://www.nature.com/articles/s41893-026-01980-y</link>
-<guid>fe7908a5a168e5e6cd3f8c7cce6c189515408b3c61fc2cf4116e95475ef6911e</guid>
-<pubDate>2026-11-17</pubDate>
-<description>In the era of growing political polarization, water can be a force for cooperation towards a global agenda of unity, security, prosperity and sustainability, argues Kaveh Madani.</description>
-</item>
-<item>
-<title>【環境】 Confronting water bankruptcy</title>
-<link>https://www.nature.com/articles/s41893-026-02002-7</link>
-<guid>9366439c1ab3210bd6473d3234f1fe06fc53974324de7e153e19856d27574837</guid>
-<pubDate>2026-11-17</pubDate>
-<description>With 2030 and the conclusion of the current round of Sustainable Development Goals on the horizon, the world has entered a state of water bankruptcy. A collection of opinion and research explores how this bankruptcy affects environmental and social systems and asks how we return to sustainable and resilient w</description>
-</item>
-<item>
-<title>【自動自律実験】 The prospect of a ‘super’ El Niño demands better ocean monitoring</title>
-<link>https://www.nature.com/articles/d41586-026-03744-2</link>
-<guid>c3c56a5079001a7f4dfddceb44b7d209b57a1f34b0f8f9cf916f4e8c287fc2e3</guid>
-<pubDate>2026-11-17</pubDate>
-<description>The prospect of a ‘super’ El Niño demands better ocean monitoring</description>
-</item>
-<item>
-<title>【自動自律実験】 Dinosaur’s rest break leaves a lasting impression</title>
-<link>https://www.nature.com/articles/d41586-026-03749-x</link>
-<guid>1c0fb57e01689d0f30433035da7e11ed1c3c75aec965473a6b57a824947a607a</guid>
-<pubDate>2026-11-17</pubDate>
-<description>A fossilized print records marks left by the feet and bum of a juvenile reptile that measured one metre at the hip.</description>
-</item>
-<item>
-<title>【自動自律実験】 AI wearables could exploit people’s most vulnerable moments</title>
-<link>https://www.nature.com/articles/d41586-026-03742-4</link>
-<guid>b53eb84a04cffef639dd51f690d4f93999b9c23a376a3106449e381b2df6cb86</guid>
-<pubDate>2026-11-17</pubDate>
-<description>AI wearables could exploit people’s most vulnerable moments</description>
-</item>
-<item>
-<title>【自動自律実験】 The origins of scrotal asymmetry</title>
-<link>https://www.nature.com/articles/d41586-026-03279-6</link>
-<guid>d4ec67ecc1956f89476bd09df5f788f50751e955ad8d39956d6917fa9c2b248a</guid>
-<pubDate>2026-11-17</pubDate>
-<description>Why does the left testicle tend to hang lower than the right? And a small village with a surprisingly ambitious museum, in our weekly dip into Nature’s archive.</description>
-</item>
-<item>
-<title>【自動自律実験】 Should we move from artificial intelligence to artificial life?</title>
-<link>https://www.nature.com/articles/d41586-026-03743-3</link>
-<guid>a973f0ce340de4205d6cfa7393b2280139935ef5cc57b7ccd78e600e3b0db87a</guid>
-<pubDate>2026-11-17</pubDate>
-<description>Should we move from artificial intelligence to artificial life?</description>
+<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>a2e5d408c4afcd89c31977789f4c1414d0e368dba700471b84a8d1966910642e</guid>
+<pubDate>Wed, 18 Nov 2026 00:38:49 GMT</pubDate>
+<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
-<guid>a3f1b91a5d3fbcfec38a97c310d02ff331a0c7e8f1a5126936d2e36622c097b0</guid>
-<pubDate>Tue, 17 Nov 2026 17:59:16 GMT</pubDate>
+<link>https://research.google/pubs/whos-doing-the-thinking-now-reflexivity-and-oversight-in-genai-mediated-decision-making/</link>
+<guid>0b1ed018d5700e2d7fb8abeef6e063a00b4ac89e66c3dc1b8ccfad52b4642f6f</guid>
+<pubDate>Wed, 18 Nov 2026 00:38:53 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04808-6</link>
-<guid>7d7aaa987130c0ab2bbf1d5cec9786f1817029aa5111ad6506be4e84de6e02c4</guid>
-<pubDate>Tue, 17 Nov 2026 17:59:18 GMT</pubDate>
+<guid>16006ab7710f4d65ef2e7220ec817616d6dcf68f6cbd9714a6b6ee579350e3cc</guid>
+<pubDate>Wed, 18 Nov 2026 00:38:56 GMT</pubDate>
 <description>Biomedical research is constrained by the time and domain expertise required to analyze increasingly large and complex datasets. Here we present OpenScientist, an open-source agentic AI co-scientist designed to address this gap by investigating scientist-defined queries and generating verifiable, data-grounded analyses. OpenScientist was evaluated by domain experts across five biomedical case studies, completing analyses in minutes that otherwise would take months of human time and expertise. It accurately quantified Alzheimer’s blood biomarker performance, generated a plasma proteomic survival model that predicted survival in a hidden-evaluation cohort, proposed a reproducible mechanism linking tau pathology to altered lysosomal acidification, generated multiple myeloma hypotheses validated in an external cohort with attenuated signal in randomized controls, and demonstrated concordance with an independent human analysis in a blinded, prespecified proteomic comparison. These results support the use of OpenScientist to assist biomedical data analysis in concert with human experts. To support research involving sensitive clinical datasets, OpenScientist can operate in a fully air-ga</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid>0eda2cf8ff4b0f1a991dca937170e0f1f26a7c69e2261e9edc0dab643da2f715</guid>
-<pubDate>Tue, 17 Nov 2026 17:59:21 GMT</pubDate>
-<description>Developing artificial intelligence (AI)-native experimental laboratories for autonomous scientific exploration with minimal human intervention represents a long-standing goal. Although autonomous experimental systems are emerging1–4, especially in chemical and materials science, they remain largely confined to domains with singular objectives, well-defined workflows and simple instrumentation. This limitation may reflect an ‘add-on’ architecture that uses AI as a task-specific tool rather than providing it with a global understanding of experiments, especially under engineering-oriented circumstances. Here we present AutoDNA, an AI-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments. Through the co-design of models, experiments and instruments, AutoDNA realizes the co-evolution of AI and the automation system within an end-to-end multi-user framework. The system autonomously orchestrates over 20 types of instruments across more than 11,000 steps to execute core nucleic acid operations including synthesis, transcription, amplification and sequencing, while human intervention is limited to hardware maintenance tasks, </description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>5bcc345549e0f67036c83249dd0548fd9e0d5ffbad5310f949808a5845a9af45</guid>
+<pubDate>Wed, 18 Nov 2026 00:39:01 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04808-6</link>
-<guid>e32d4482c4c6025f194ed827126638846e7138b25cfa82a58724141637bac177</guid>
-<pubDate>Tue, 17 Nov 2026 17:59:23 GMT</pubDate>
-<description>Biomedical research is constrained by the time and domain expertise required to analyze increasingly large and complex datasets. Here we present OpenScientist, an open-source agentic AI co-scientist designed to address this gap by investigating scientist-defined queries and generating verifiable, data-grounded analyses. OpenScientist was evaluated by domain experts across five biomedical case studies, completing analyses in minutes that otherwise would take months of human time and expertise. It accurately quantified Alzheimer’s blood biomarker performance, generated a plasma proteomic survival model that predicted survival in a hidden-evaluation cohort, proposed a reproducible mechanism linking tau pathology to altered lysosomal acidification, generated multiple myeloma hypotheses validated in an external cohort with attenuated signal in randomized controls, and demonstrated concordance with an independent human analysis in a blinded, prespecified proteomic comparison. These results support the use of OpenScientist to assist biomedical data analysis in concert with human experts. To support research involving sensitive clinical datasets, OpenScientist can operate in a fully air-ga</description>
+<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
+<guid>a72eb1e63fbbb8f073affe576a9e54b45e234e7426d8b54fd6e573af3373792d</guid>
+<pubDate>Wed, 18 Nov 2026 00:39:08 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Filter By:</title>
-<link>https://www.nature.com/articles/s41557-026-02280-w</link>
-<guid>eda84a3436a6d7fc1e29c0fe1e97e2d63629044b622fad224487b522fe931781</guid>
-<pubDate>Tue, 17 Nov 2026 17:59:28 GMT</pubDate>
-<description>Antimicrobial resistance is among the most pressing healthcare challenges of our time. Multidrug-resistant ‘superbugs’ continue to emerge at an alarming rate, while antibiotic development has stalled in recent decades. Antimicrobial peptides have attracted interest for their potent bactericidal activity and lower propensity to spur resistance; however, translation into clinical practice has been hampered by poor bioavailability, challenging syntheses and limited stability. By contrast, synthetic copolymers mimicking antimicrobial peptides have received attention for their efficacy and synthetic tractability. Here we highlight recent advances in antimicrobial polymer development and discuss future directions for their design and implementation. We also outline future research directions, including the use of machine learning to guide polymer design and the development of scalable production methods that ensure the worldwide accessibility of these materials. Antimicrobial polymers offer an attractive tool for combating the crisis of antimicrobial resistance. This Review highlights recent advances in antimicrobial polymer development and discusses future directions, including the use </description>
+<title>【U.S.】 Scientists Discover New Twist in Nuclear Decay Rules</title>
+<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
+<guid>7e6768f877f728fe691626b5770e00eafac24e00f0793f0d0e061871146b389c</guid>
+<pubDate>Wed, 18 Nov 2026 00:39:09 GMT</pubDate>
+<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
 </item>
 <item>
-<title>【EU】 EuroHPC JU - Leading the Way in European Supercomputing</title>
-<link>https://www.eurohpc-ju.europa.eu/index_en</link>
-<guid>c6c55749aad05239cd3a7c6e056012921386864f078155d8036ae67c8401e128</guid>
-<pubDate>Tue, 17 Nov 2026 17:59:35 GMT</pubDate>
-<description>The European High Performance Computing Joint Undertaking (EuroHPC JU) is a joint initiative between the EU, European countries and private partners to develop a World Class Supercomputing Ecosystem in Europe.</description>
-</item>
-<item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>74126b1652cd6e54487f63b88f6d5a27c23b505e4b736664027034b1a6e12264</guid>
-<pubDate>Tue, 17 Nov 2026 17:59:44 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>6a434813f43659db35128dd6c4947f7a4ffc3da37582e4de2d3b6816ed470d8c</guid>
+<pubDate>Wed, 18 Nov 2026 00:39:09 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
 </item>
 
 </channel>
