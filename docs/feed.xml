@@ -4,77 +4,119 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 19 Nov 2026 04:22:31 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 13:39:51 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 GitHub CopilotのAIチームは、FoundryのCopilot harnessで動くのか</title>
-<link>https://qiita.com/shyamagu/items/8a796c4a36a8db5cdb28</link>
-<guid>a7ed5ed8ff81530693f229aa5ea850b3a7e7562fed16bf8590872dff68b31ace</guid>
-<pubDate>2026-11-19T08:44:28+09:00</pubDate>
-<description>この記事のまとめ: GitHub CopilotのAIチーム（スキル＋カスタムエージェント＋MCP）は、FoundryのCopilot harnessでほぼ動きました。ただし、カスタムエージェントは「組み込みサブエージェント＋スキル」に、playwright-cliのよう...</description>
+<title>【Qiita】 【AI × PDF】 紙派だった私が、技術書を電子で買うようになった理由</title>
+<link>https://qiita.com/Dingu-suke/items/7d474c38cd597869049e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>d01aa2adcafe4e3a5d307fb02b2fc3544bddbca3dd39a789e428f5643510f065</guid>
+<pubDate>2026-11-19T09:53:00+09:00</pubDate>
+<description>この記事を読む前に（著作権についての注意） この記事では、技術書の内容を AI に渡しながら読む方法を紹介します。書籍には著者や出版社の権利があるので、筆者は次のルールを守って使っていま す。この記事を参考にする場合も、同じルールを守るようにしてください。 AI...</description>
 </item>
 <item>
-<title>【Qiita】 【徹底解説】サブエージェントはいつ「畳む」べきか？ Anthropic公式ガイドから学ぶ「単一エージェントループ＋スキル」設計</title>
-<link>https://qiita.com/Simon_Zhang/items/006e23fc40d4dad6edcd</link>
-<guid>3eb212ff98f980d4d66f9cc99eeb257b913fade283105743be7067211daaee70</guid>
-<pubDate>2026-11-19T11:55:51+09:00</pubDate>
-<description>本記事は、Anthropic が 2026年10月22日に公開した記事 「Building agents: When to fold subagents into your main agent loop」（著者: Diane Sarkis / Applied AI チ...</description>
+<title>【Qiita】 人間がボトルネックになった時代のAIエージェント設計</title>
+<link>https://qiita.com/Syoitu/items/5bb47c01a8513e52d1b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>ac4c0b3a6057f2db1e7346dd6cf052fc599738fbb1893964b1490de84bf3ec20</guid>
+<pubDate>2026-11-18T14:37:05+09:00</pubDate>
+<description>前書き この 1 年でモデルがずいぶんと賢くなり、AI エージェントは、コードの修正やテストの実行くらいなら、1 つのタスクを人間が逐一指示しなくても進められるようになりました。 ところが、エージェントを何本も並べて使い始めると、思ったほど仕事が速くなりません。詰まってい...</description>
 </item>
 <item>
-<title>【Qiita】 使っているAIモデルは安全か?無料スキャナーで約1分、A〜Fのセキュリティ評価を出す(ViKernel Scanner)</title>
-<link>https://qiita.com/vidraft/items/e1f676d024a2b7d6e190</link>
-<guid>493767ae9ca3a3dd3ea0ad0c74cb32d230d058bebc5ba34a2146e099652c6219</guid>
-<pubDate>2026-11-19T11:55:11+09:00</pubDate>
-<description>要約 VIDRAFTは、AIモデルのセキュリティ水準を約1分で確認できる無料ツール ViKernel Scanner を Hugging Face と GitHub で公開しました。モデルに8種類の模擬ツールを持たせ、攻撃指示100件と通常業務20件を送り、モデルが何を「...</description>
+<title>【Qiita】 Azure Update Microsoft Ignite 2026 特別版</title>
+<link>https://qiita.com/ManabuYamamoto/items/c490114278eface070a4</link>
+<guid>b88b45beb7e3d5524ad5cc731e08d83ca4a55050f82c475cbee05aeeccd9b7a7</guid>
+<pubDate>2026-11-19T21:14:31+09:00</pubDate>
+<description>Microsoft Ignite 2026 の基調講演で Satya Nadella が紹介した「The world&#x27;s computer」。（講演録） Azure は 80以上のリージョン、Microsoft のデータセンターは 500以上 に広がっています。基調講演で...</description>
 </item>
 <item>
-<title>【Qiita】 AI Agentの実行はどこまで追える？ Langfuse・OpenTelemetry・Prometheusで検証してみた【前編】</title>
-<link>https://qiita.com/tishida734/items/ae11c0f9c44d1ae05cd7</link>
-<guid>223ab218d32f9b0faa19ac3c8ee008eb14d3a650521ba16883bb1133bcc7e182</guid>
-<pubDate>2026-11-19T11:48:15+09:00</pubDate>
-<description>はじめに AI AgentにToolを接続すると、外部システムの状態確認だけでなく、サーバの再起動のような操作まで行えるようになります。 ただ、こうしたAgentを実際に運用するとしたら、どう管理すればよいのでしょうか。 例えば、Agentがサーバを再起動して正常に復旧で...</description>
+<title>【Qiita】 Muse の VM は約2時間で入れ替わる（実測と対策）</title>
+<link>https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44</link>
+<guid>eb3b609a5136421b99e748ae1dbe323f0959813b1fcfff92290314d60d2cbf6f</guid>
+<pubDate>2026-11-19T21:47:20+09:00</pubDate>
+<description>生成AIと人間が協働して記事を書くシリーズです。 パーソナルAIエージェントのMuseとの対話が大分慣れてきたので、github repoの引用？の仕方と画像を置くのとこのInfo以外はMuseに書いてもらってます。 Museに聞いたら、タグってちゃんと効果あるみたいで...</description>
 </item>
 <item>
-<title>【Qiita】 私の私による私のための Claude Code</title>
-<link>https://qiita.com/fantatchi/items/abe2abe269ca29f3a36f</link>
-<guid>ff36a6bcd3fd1aa6d8d4220b338ed1daf88b969fcc369bda4b7422f5d111d190</guid>
-<pubDate>2026-11-19T11:42:00+09:00</pubDate>
-<description>この記事は個人ブログ fantatchi&#x27;s notes からの転載です。 前回の記事「Claude Code を陳腐化させないためにやっていること」の最後に、環境の組み方は反響があれば別の記事で書く、と書いた。反響があったかどうかは、ここでは問わないことにする。問うと...</description>
+<title>【Qiita】 Claude Codeチームのコードレビュー：読む作業を機械に移し、人の時間を危ない所に使う</title>
+<link>https://qiita.com/pitaspot/items/9ae99d32e3acc10329fa</link>
+<guid>793ce5d62537656b6411ecddfda6dc02fabca32f7d623b4803db22bd25165bac</guid>
+<pubDate>2026-11-19T20:15:38+09:00</pubDate>
+<description>📰 海外事例 元記事：How the Claude Code team does code review（claude.dev） AnthropicのClaude Codeチーム自身が、AIの書くコードをどうレビューしているかを紹介した公式ブログの記事です（著...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code 2.1.323入門、enginesはgit配布でだけ弾く</title>
-<link>https://qiita.com/kai_kou/items/4c44527172ec054f9934</link>
-<guid>c24b99775fa363b4213f1dcec0b92bfcd7645585ba97ab45236b728ac4236ee2</guid>
-<pubDate>2026-11-19T12:09:23+09:00</pubDate>
-<description>はじめに Claude Code 2.1.323 の CHANGELOG には、plugin.json に engines[&quot;claude-code&quot;] を書けるようになったと載っています。「指定した Claude Code のバージョン範囲の外では、プラグインのインスト...</description>
+<title>【Qiita】 AI Nativeな開発ワークスペースとは？チーム・プロジェクト・AIコーディングエージェントを一元管理する方法</title>
+<link>https://qiita.com/hervekom37/items/a73de65bbe650e5eb00d</link>
+<guid>be7e06c56e15ba24303d9cdb629fad9925864f4baf880e7de70261142a082df6</guid>
+<pubDate>2026-11-19T19:58:45+09:00</pubDate>
+<description>はじめに AIコーディングエージェントの進化によって、ソフトウェア開発の進め方は大きく変わり始めています。 以前は、開発者が自分でコードを書き、タスクを管理し、チームメンバーと進捗を共有することが一般的でした。 しかし現在では、AIエージェントに実装作業やコード調査、ドキ...</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>38515f3704d5b1fa92e812d0d9024e73c95c7067601c7070c51e9b3d098ff932</guid>
-<pubDate>Thu, 19 Nov 2026 04:21:02 GMT</pubDate>
-<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
+<title>【Qiita】 Claude Codeの「/remote-control」で、ディズニーの長い待ち時間中も開発したい</title>
+<link>https://qiita.com/inoyu-qiita/items/f7cdc72b8673a7d94fa5</link>
+<guid>5208a0273bc7b1f3cb322837488e7dfd10f185715d8b1bc75e0ec1304daff0d1</guid>
+<pubDate>2026-11-19T19:37:22+09:00</pubDate>
+<description>はじめに ディズニーの長い待ち時間、スマホをただ眺めるだけじゃなくてAI駆動開発も進めたい、、！ 今回はそんな願いを叶えるClaude Codeの「/remote-control」とCodexのRemoteを紹介します。 どちらもPC上の開発作業をスマホから続けられます。...</description>
+</item>
+<item>
+<title>【農業】 FAO Food Outlook: Global food commodity supplies remain generally ample, but risks are mounting</title>
+<link>https://www.fao.org/newsroom/detail/fao-food-outlook--global-food-commodity-supplies-remain-generally-ample--but-risks-are-mounting/en</link>
+<guid>171f2ab551493319c18e49ad9f836681a601ba0da9f6645e4e001bbb31f3fa73</guid>
+<pubDate>Thu, 19 Nov 2026 12:00:00 Z</pubDate>
+<description></description>
+</item>
+<item>
+<title>【自動自律実験】 Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale</title>
+<link>https://www.nature.com/articles/s41586-026-11388-5</link>
+<guid>ad50546ee31c4ef169f4b8454145dc13fcd77eade12b80aa4cea570bafa1ee2f</guid>
+<pubDate>2026-11-19</pubDate>
+<description>Retraction Note: Detection of anisotropic cosmic structures on a gigaparsec scale</description>
+</item>
+<item>
+<title>【自動自律実験】 Sore throat? The brain has surprising control over how ill you feel</title>
+<link>https://www.nature.com/articles/d41586-026-03774-w</link>
+<guid>839ad5e7ae66ba4062dcb1d2d7e6e64222792d094f8187ba9ee1791dd498d40e</guid>
+<pubDate>2026-11-19</pubDate>
+<description>The brain might decode pathogens, store memories of previous illnesses and prepare the body for future threats.</description>
+</item>
+<item>
+<title>【自動自律実験】 AI is ditching hallucinated references — and other bad habits</title>
+<link>https://www.nature.com/articles/d41586-026-03753-1</link>
+<guid>bd5fb6aa58d586e30a8a4760bf3b6034ddbaea20307042f4bbfc0c37c0aea0e9</guid>
+<pubDate>2026-11-19</pubDate>
+<description>An analysis finds that many undesirable LLM behaviours dissipate after about 16 months.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/when-android-apps-request-location-with-a-reason-a-developer-study-and-user-behavior-experiment/</link>
-<guid>ed6b0979c56d1d17f6fd835a033d38e7114832ca01d88df45b9871692960a973</guid>
-<pubDate>Thu, 19 Nov 2026 04:21:38 GMT</pubDate>
+<link>https://research.google/pubs/the-decision-accountability-gap-symbolic-oversight-theory-and-pivot-to-human-in-the-accountability-loop-hial/</link>
+<guid>adcad4e12d8e94c7b3586b9d6869d34a48b9db2e26695ea80733fbbe573a30ce</guid>
+<pubDate>Thu, 19 Nov 2026 13:39:11 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41591-026-04808-6</link>
-<guid>dbda158b18862613a297ab52e8cc125d66fb3078251a3a3487c06dc1fa14b442</guid>
-<pubDate>Thu, 19 Nov 2026 04:21:41 GMT</pubDate>
+<guid>c7f00718aa470a6e3c97e89443526c2acf2f63689cb86080ff48f2460c900088</guid>
+<pubDate>Thu, 19 Nov 2026 13:39:13 GMT</pubDate>
 <description>Biomedical research is constrained by the time and domain expertise required to analyze increasingly large and complex datasets. Here we present OpenScientist, an open-source agentic AI co-scientist designed to address this gap by investigating scientist-defined queries and generating verifiable, data-grounded analyses. OpenScientist was evaluated by domain experts across five biomedical case studies, completing analyses in minutes that otherwise would take months of human time and expertise. It accurately quantified Alzheimer’s blood biomarker performance, generated a plasma proteomic survival model that predicted survival in a hidden-evaluation cohort, proposed a reproducible mechanism linking tau pathology to altered lysosomal acidification, generated multiple myeloma hypotheses validated in an external cohort with attenuated signal in randomized controls, and demonstrated concordance with an independent human analysis in a blinded, prespecified proteomic comparison. These results support the use of OpenScientist to assist biomedical data analysis in concert with human experts. To support research involving sensitive clinical datasets, OpenScientist can operate in a fully air-ga</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-80974-4</link>
-<guid>1f98c6e4fac1c9bb8d64084d0188ce35845bb832da9c7b5b1a45f8b25cb7def5</guid>
-<pubDate>Thu, 19 Nov 2026 04:21:43 GMT</pubDate>
+<guid>2e8af15fb58ac2cabe8db87aff416dcb68a3c3afc477c6aa6a9087a26a8f8c32</guid>
+<pubDate>Thu, 19 Nov 2026 13:39:15 GMT</pubDate>
 <description>Emergency department disposition decisions integrate measurements, narratives and contextual risk. We developed SMARTriage AI, a multi-agent system combining role-specialized language-model agents with deterministic rules, intended as safety gates, to recommend admission or discharge. In a retrospective, single-center development study of 469 valid-label adult internal medicine and geriatric encounters from one 24-h period (468 analyzed; 154 admitted), prompts and rules were refined over about 30 cycles on the same cohort, without a held-out set. Apparent accuracy was 88.2% (95% CI, 85.0–90.9%) and admission recall 96.1%. Accuracy was 97.2% with physician summary or recommendations text (n = 248) and 78.2% without it (n = 220); with the text withheld it was 65.0%. After peer review, a redesigned system (v2), evaluated on all 469 encounters under a protocol locked before the runs, discriminated worse than a single language-model agent (Setting A AUC 0.794 vs. 0.821–0.823). At the pre-specified thresholds, accuracy was 76.3% for v2 versus 67.0% for discharging everyone. The multi-agent design did not outperform a single agent, and apparent performance was optimistically biased by dev</description>
+</item>
+<item>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>d77c214d2d6a756cc1132fdafa159254ea545c6578f1b73c227ea28899b259bb</guid>
+<pubDate>Thu, 19 Nov 2026 13:39:20 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+</item>
+<item>
+<title>【環境】 Even the ‘good guys’ of AI are locking in fossil fuels</title>
+<link>https://grist.org/?s=AI</link>
+<guid>5fbbe49e58392c9e91a4f7a49afe9bd27ce54ff82e89e615e486f51de70874be</guid>
+<pubDate>Thu, 19 Nov 2026 13:39:43 GMT</pubDate>
+<description>Anthropic claims to be developing AI safely. Why doesn’t its own climate impact make the cut?</description>
 </item>
 
 </channel>
