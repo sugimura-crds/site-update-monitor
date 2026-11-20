@@ -4,133 +4,154 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 20 Nov 2026 10:44:31 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 18:55:39 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【朗報】Microsoft 365 CopilotがOneDriveのファイルを直接編集できるようになってた！CoworkなしでGitHub Copilotみたいに使える件</title>
-<link>https://qiita.com/yuyanz/items/c3bb4801c105d96fa79d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>c584643e5a4606349d13cc6a52d796242ba6da3271c5f2682ddd0638bab632bf</guid>
-<pubDate>2026-11-19T12:56:02+09:00</pubDate>
-<description>はじめに Microsoft 365 Copilotくん、いつの間にかめちゃくちゃ進化していました。 以前、Copilotのカスタム指示とOneDriveを組み合わせて、AIに自分専用の知識を蓄積させる仕組みを考えていました。 ただ、当時はファイルの保存先や既存ファイルの...</description>
+<title>【Qiita】 【IBM Bob × ZABBIX接続】公式MCPサーバーを導入して監視情報を会話で見る</title>
+<link>https://qiita.com/TSA2019/items/f8bfcabc29d4176c501a</link>
+<guid>82693cc3bbcb3af5cd29fabe194a9669f6749407d731fddd3cc38772d8700c13</guid>
+<pubDate>2026-11-20T23:34:12+09:00</pubDate>
+<description>IBM Bob と Zabbix を、Zabbix 8.0 公式の MCP サーバーで接続する Zabbix の画面を開かなくても、「いま障害になっているホストは？」「このホストグループに何がある？」と IBM Bob に聞けるようにします。Zabbix サーバーとフロ...</description>
 </item>
 <item>
-<title>【Qiita】 【Gemini 4 Hydrogen】「とりあえず一番上」から卒業！Agent Studioで試す手順</title>
-<link>https://qiita.com/N-Kyo/items/80ac96fd59b08b1a879a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>6c88a660b0a61ad2c2191a5a8fe13bc69b4007ec5cd2b4753ccdeac998c230f1</guid>
-<pubDate>2026-11-19T20:09:07+09:00</pubDate>
-<description>はじめに 2026年11月12日、Gemini 4の新しいモデル「Gemini 4 Hydrogen」が出ました。 Google Cloudでは、Agent Platform（旧Vertex AI）からGA（一般提供。本番で使ってよい段階）として使えます。 Gemini ...</description>
+<title>【Qiita】 AKS, GKEにアプリをデプロイした際の使用感の比較</title>
+<link>https://qiita.com/TaiheiKanno/items/16cc7d78dafd59394f3e</link>
+<guid>b5e874082a964e395344c076d076e6e0b7f32a581396c16e48b34f746ff9d0c2</guid>
+<pubDate>2026-11-20T20:38:05+09:00</pubDate>
+<description>はじめに 最近、AzureとGoogle Cloudを利用する機会があり、それぞれAKSとGKEにアプリケーションをデプロイしPaaSへ接続する構成を構築しました。 本記事では、その際に実際に確認した構成や手順をもとにAKSとGKEの導入方法、Workload Ident...</description>
 </item>
 <item>
-<title>【Qiita】 【実験】Direct Connectの片系を落とすと、実際どれくらいで切り替わり、行きと戻りはどの回線を通るのか</title>
-<link>https://qiita.com/sh_fukatsu/items/5a069f9fce99a86efb05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>85f866f44c55fed716a18216acc83f5b2daf7721863c624ad3ad1869f67f0db1</guid>
-<pubDate>2026-11-18T22:42:33+09:00</pubDate>
-<description>1. はじめに 先日、NW-JAWS DAYで「AWS Direct Connect Resiliency Workshop」に参加し、オンプレミス側のルーター2台とDirect Connect 2回線による冗長構成をハンズオンで構築してきました。 ワークショップの...</description>
+<title>【Qiita】 AI で6つのシステムを診断して OWASP ASVS に当てはめたら、繰り返していたのは設計で決める規則の指摘だった話（2026年版）</title>
+<link>https://qiita.com/ntaka329/items/3f9405a4e2bb7e0add3f</link>
+<guid>025ea8a71abd0f6f04d534ed56d36731bad66eada5a81e259e38b682c7e53207</guid>
+<pubDate>2026-11-20T21:03:06+09:00</pubDate>
+<description>はじめに GMOコネクトの永田です。 前回、2つのシステムで AI 診断（Claude Code にソースを読ませるホワイトボックス診断）を回し、緊急・高の21件を OWASP ASVS 5.0 に当てはめました。そのときは「せめて L1 は要件に入れたい」と書いています...</description>
 </item>
 <item>
-<title>【Qiita】 Codex と GitHub Copilot の GPT-6.2 比較｜公式 changelog から言えること・言えないこと</title>
-<link>https://qiita.com/kenji_harada/items/cccde7e95d86eabb6eb2</link>
-<guid>df03e6e05bde228297b6d6b75e9c2ac9e4071473a70e2a5a457d492bba46662b</guid>
-<pubDate>2026-11-20T19:15:28+09:00</pubDate>
-<description>GPT-6.2 Astra と GPT-6.2 Sol は、OpenAI のエージェントコーディング向けのモデルです。2026-11-17 に、ChatGPT Work・Codex と GitHub Copilot で提供が発表されました。2 つの製品はそれぞれ公式の ch...</description>
+<title>【Qiita】 ⚡ Microsoft 365 Copilot ライセンスで GitHub Copilot CLI が使えるように!!</title>
+<link>https://qiita.com/aktsmm/items/855dbec6f06587a26287</link>
+<guid>fa6bfab4932e82f1293bf9035f6ea2f5896e3cfeb138b805819128b14459c165</guid>
+<pubDate>2026-11-20T23:45:23+09:00</pubDate>
+<description>こんにちは、Copilot が増えるたびに「どの Copilot の話?」となるアーキテクトのやまぱん！です。 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ Microsoft Ignite 2026、やってますね! 現...</description>
 </item>
 <item>
-<title>【Qiita】 評価駆動開発の大人数・多数のエージェントへの拡張 — OpenAI、Anthropic、SpaceX の公開資料から</title>
-<link>https://qiita.com/hisashi-ito/items/914454bfb6652afcbe79</link>
-<guid>ed9db3203a37864cfd1e23a27fb345b7607467fae55a60d1ea09be662b48af17</guid>
-<pubDate>2026-11-20T19:00:48+09:00</pubDate>
-<description>前回の記事で、評価を先に固め、それを満たすまで AI に実装を作り直させる評価駆動開発(EDD)を紹介しました。一人なら、この進め方はとても回しやすいです。評価を書くのも、通らない項目を切り分けるのも、採用を決めるのも、同じ一人だからです。では、複雑なシステムを大人数で作る...</description>
+<title>【Qiita】 AI開発ツール費削減テンプレを予約販売テストしたら、推定1,000PV露出で申込ゼロだった</title>
+<link>https://qiita.com/DevMasatoman/items/e4ae6512a2f9b1663866</link>
+<guid>e50b345ed54339d4fa503d22699e87d90852f1e3084cca2ac3f8107fd0ce7f84</guid>
+<pubDate>2026-11-21T02:14:07+09:00</pubDate>
+<description>AI開発ツール費を削減するテンプレートキット（仮称）を「作る前に売る」戦略で予約販売テストした。結果は推定1,000PV露出で申込ゼロ。この記事では、失敗の原因と有料化前に需要を確認するための判断基準を整理する。 環境・前提 対象: AI開発ツール費削減テンプレートキッ...</description>
 </item>
 <item>
-<title>【Qiita】 エージェントの請求額の大半は、答えではなく「読み直したコンテキスト」である</title>
-<link>https://qiita.com/fabienc/items/0670ff09bc752d356cc8</link>
-<guid>9a64e3e75cd5529774b8aafa19b2e827df559fea0f49a01c5eea472d664b2118</guid>
-<pubDate>2026-11-20T17:53:52+09:00</pubDate>
-<description>あるエージェントが、ライブラリのデフォルトタイムアウトが変わったことを確かめるために、同じ40個のファイルを読む。翌日、別のエージェントが同じことをする。互いに教えることはない。請求書だけが届く。 上の場面はイメージです。実測ではありません。ただ、いまのエージェントの静かな...</description>
+<title>【Qiita】 Gemini APIのツール定義は後から読める。Tool Retrieval（preview）解説</title>
+<link>https://qiita.com/kinamocchi_tech/items/a49bff9d1db17ed07cdf</link>
+<guid>2299da3a1c486142ddccb28c9cb572c7d7986e365605e8561fc6fca882dee310</guid>
+<pubDate>2026-11-21T00:05:16+09:00</pubDate>
+<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → Gemini APIのツール定義は後から読める。Tool Retrieval（preview）解説 🐹🦜 この記事に登場する2匹 🐹 もっちー （...</description>
 </item>
 <item>
-<title>【Qiita】 「画面を奪わずにスマホ実アプリを動かす」個人AIエージェントの設計メモ（コネクタ型・クラウドブラウザ型との比較）</title>
-<link>https://qiita.com/mateohq/items/980dd24ede7f8bf38b7c</link>
-<guid>86ea0146eb48809249838fb52aa33e4d18445a42aa9e479367dfd0a8e61885c6</guid>
-<pubDate>2026-11-20T17:41:58+09:00</pubDate>
-<description>チャットで手順を教えてくれるAIは増えましたが、実際の日常タスク（不要なサブスク解約、返品手続き、飲食店の予約や比較、配送の手配など）を最後まで終わらせようとすると、どの実行方式を選んでも実運用上の壁に当たります。 個人向けAIエージェント Mateo を開発する中で比較し...</description>
+<title>【Qiita】 Xcode MCP によるシミュレータ操作（DeviceInteraction）の手引き</title>
+<link>https://qiita.com/BlueEventHorizon/items/9b32423b6896f3c96dad</link>
+<guid>58ec7121de4a653e6d90a6b9edfdf43db808d83e1e41a10280702cd451bdbe96</guid>
+<pubDate>2026-11-20T22:46:19+09:00</pubDate>
+<description>Xcode MCP には、AI エージェントがシミュレータ上のアプリを操作するためのツール群（DeviceInteraction）がある。 本稿は、AI に操作させるときにアプリの側で備えておくことと、実際に動かして分かった挙動をまとめる。 確かめた環境: Xcode 2...</description>
 </item>
 <item>
-<title>【Qiita】 オンプレミス環境でAIエージェントのERP二重更新を防ぐPostgreSQL 12状態ステップリースとOPA承認ゲート設計</title>
-<link>https://qiita.com/derekwang8866/items/97de50d0440e14da89f4</link>
-<guid>6b366d72608639acc1902a32b2b442aa53ca473c6da8adda22df9a457f5a1552</guid>
-<pubDate>2026-11-20T19:38:02+09:00</pubDate>
-<description>自社サーバー上で自律型AIエージェントを業務システムやERPと連携させようとすると、真っ先に直面するのが「モデル精度」ではなく「分散実行の安全性」です。特にネットワーク瞬断やタイムアウト後の再試行による 二重発注・二重在庫引当 は、一度起きると現場の信頼を一瞬で失います。 ...</description>
+<title>【Qiita】 Xcode 同梱の Apple 公式スキル: 評価と使いどころ</title>
+<link>https://qiita.com/BlueEventHorizon/items/e2874980d3c9c416adc5</link>
+<guid>cc81e4dcd984218581272f49541dc6bf008906a524ca8d515e91d11d5aabb88b</guid>
+<pubDate>2026-11-20T22:40:57+09:00</pubDate>
+<description>Xcode は、AI エージェント向けの「スキル」（使い方をまとめた文書と補助スクリプト）を同梱している。 本稿は、そのうち 7 つを実際のアプリ開発で使い、何を提供し、どの場面で役に立つかをまとめる。 確かめた環境: Xcode 27.2、Claude Code 評価の...</description>
 </item>
 <item>
-<title>【Qiita】 オンプレミスAIエージェントの二重実行と記憶劣化を防ぐ：ZeroOS（PostgreSQL 12状態リース）と LongMemOS（約3.1MB）の設計</title>
-<link>https://qiita.com/derekwang8866/items/533681c013a98058359e</link>
-<guid>edee511d8bb73779bee880988af368b397e7c18af5c88eac6519bea6c239cc8c</guid>
-<pubDate>2026-11-20T16:52:21+09:00</pubDate>
-<description>1. 業務バッチ処理におけるAIエージェントの課題 受発注データ照合や多店舗の夜間在庫補充といった業務自動化において、メモリ内だけのワークフローエンジンでは「プロセス再起動時の外部API二重呼び出し」や「環境変数経由の認証情報露出」が運用上のリスクとなります。また、長期記...</description>
+<title>【Qiita】 社内マニュアル・保守記録のAI検索で「型番誤認と根拠不明」を防ぐハイブリッド検索とO13原文エビデンス再生</title>
+<link>https://qiita.com/derekwang8866/items/5bebe1af87d58c3fe4cd</link>
+<guid>3466aaed2f58c691ef9516ae1df47953af6f524667218ec4430a41ae25afd6a5</guid>
+<pubDate>2026-11-21T01:59:31+09:00</pubDate>
+<description>製造業や設備保守の現場で、過去の修理報告書・部品表・PDFマニュアルを社内向けAI検索に組み込むプロジェクトが増えています。ところが、一般的なクラウド型ベクトルDB＋埋め込みRAG構成をそのまま適用すると、PoC段階から次の3つの壁にぶつかりがちです。 型番・規格コード...</description>
 </item>
 <item>
-<title>【Qiita】 Muse Code導入、Claude Codeのスキルを自動検出していた</title>
-<link>https://qiita.com/kai_kou/items/26a88189083e4807199e</link>
-<guid>4640713498b46fe413fc94d6f2888911d7d1bb008a982910e835d4e36d1b71b4</guid>
-<pubDate>2026-11-20T12:09:12+09:00</pubDate>
-<description>はじめに Metaが2026年8月5日にリリースしたターミナル向けコーディングエージェント「Muse Code」を、Claude Codeのクラウド実行環境にインストールして動かしてみました。対象読者は、複数のコーディングエージェントCLIを併用していて、それぞれの設定...</description>
+<title>【Qiita】 【概要編】Microsoft Ignite 2026 データ・AI 関連の主な発表</title>
+<link>https://qiita.com/sakiyama12/items/351166a9403df67cae28</link>
+<guid>e9f736691a1a256877ed1d9d47226d62a3df35cbc3662b3f77f898a8c4e3fb79</guid>
+<pubDate>2026-11-21T01:15:27+09:00</pubDate>
+<description>掲載している発表内容は、Microsoft が一般に公開している資料に基づいています。 本記事は生成AIを利用して執筆しています。発表内容は公式資料と照合していますが、誤りが含まれる可能性があります。最新の情報は公式ドキュメントをご確認ください。 本記事は筆者個人の見...</description>
 </item>
 <item>
-<title>【Qiita】 0。OpenAIがGPT-6 Cyberに「SSO・MFA・管理対象デバイス・FIDO2・IPアローリスト」の5層を課した日、自分の自動投稿パイプラインで確認できた層の数だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/9a46a42bfac205227dff</link>
-<guid>bf8651f37e737868999a5a0725771a8fee3b988045009f4f4a33ab4eed1492c7</guid>
-<pubDate>2026-11-20T15:26:49+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、OpenAIが2026年11月5日に発表した「GPT-6 Cyber」(脆弱性調査用の特別モデル)にかけている5種類のアクセス制御のうち、自分がこのZenn/Qiita自動投稿パイプライン(以下、このパイプライン)で...</description>
-</item>
-<item>
-<title>【自動自律実験】 Lifting weights reduces muscle loss from obesity drugs</title>
-<link>https://www.nature.com/articles/d41586-026-03751-3</link>
-<guid>5c297f3affc1c1edc65b4f195c22b5c40e2debdd3583f2e552796a617295d06e</guid>
+<title>【環境】 Concurrent atmospheric phenomena amplify precipitation extremes under anthropogenic climate change</title>
+<link>https://www.nature.com/articles/s41558-026-02805-8</link>
+<guid>c3421126b4a04b343a13a1561412ba9b3e69974a42e08d0b8b9e48cfa4c55e16</guid>
 <pubDate>2026-11-20</pubDate>
-<description>Resistance exercise could help middle-aged and older individuals to maintain muscle mass and strength during weight-loss treatment.</description>
+<description>Extreme precipitation events are increasing in many regions. Here the authors discuss how the increasing concurrence of atmospheric phenomena could contribute to these trends under anthropogenic warming.</description>
+</item>
+<item>
+<title>【環境】 Climate and glacier geometry dominate global glacier–lake interactions</title>
+<link>https://www.nature.com/articles/s41558-026-02808-5</link>
+<guid>f7f4a01a3762be6272db269db27cf6bd1f308487730cd37a1eedb7c5033b3766</guid>
+<pubDate>2026-11-20</pubDate>
+<description>The contribution of glacial lakes to glacier mass loss is unclear. This work maps global glacial lakes in 2000 and 2020 to quantify changes in number, volume and area, showing that they explain 11 ± 7% of lake-terminating glacier loss, with climate forcing and glacier geometry the dominant factors.</description>
+</item>
+<item>
+<title>【自動自律実験】 How AI is affecting science careers</title>
+<link>https://www.nature.com/articles/d41586-026-03680-1</link>
+<guid>a89195fa5aa05ff3afa24f7e51d64d2798256b194122969ba49892be2e8d525e</guid>
+<pubDate>2026-11-20</pubDate>
+<description>Join a free webinar to discuss how the technology is changing researchers&#x27; roles, their skills and job security.</description>
+</item>
+<item>
+<title>【自動自律実験】 Briefing Chat: Voyager 1 is now one ‘light day’ from Earth — setting a cosmic record</title>
+<link>https://www.nature.com/articles/d41586-026-03806-5</link>
+<guid>c2af821a738dc36adad5b14eb42743ebb4f801d76b9a4954211d0eb3e6184455</guid>
+<pubDate>2026-11-20</pubDate>
+<description>Nature staff discuss the probe’s epic journey — plus, how vampire bats survive on a blood-only diet.</description>
+</item>
+<item>
+<title>【自動自律実験】 Fraud helps little fire ants to survive and conquer</title>
+<link>https://www.nature.com/articles/d41586-026-03776-8</link>
+<guid>d85ac17db2ffdd58deb7ab201d2ed6ac95f4533ac22c5791d23edb292bf0b43e</guid>
+<pubDate>2026-11-20</pubDate>
+<description>Invasive ants in China overcome larger rivals with a crafty stratagem and vigorous attack.</description>
+</item>
+<item>
+<title>【自動自律実験】 ‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery</title>
+<link>https://www.nature.com/articles/d41586-026-03590-2</link>
+<guid>c525bd7f7594cb6bdcdd21bcd7d1e862c9768f8025dde70dfc62e54e9c15cc8f</guid>
+<pubDate>2026-11-20</pubDate>
+<description>Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped their science.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-data-driven-biophotonic-skin-model-for-wearable-sensing/</link>
-<guid>2ad99f0f92d6f40962c8820cdd537800601369ddf3ad6a42816ec1f3e5ede0b5</guid>
-<pubDate>Fri, 20 Nov 2026 10:43:49 GMT</pubDate>
+<link>https://research.google/pubs/ai-driven-high-risk-implementation-prediction-for-enterprise-digital-transformation-governance-using-machine-learning/</link>
+<guid>4a806051adaac0d53795565939a1b16010706e95b7f8e1d6fec1c882201358bd</guid>
+<pubDate>Fri, 20 Nov 2026 18:54:54 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78715-2</link>
-<guid>4149ed0f87ffa938a9434522c5ec95dcd08e3e144d438eca105b521c774bcd64</guid>
-<pubDate>Fri, 20 Nov 2026 10:43:51 GMT</pubDate>
+<guid>22b77edc763127a7957fd8ca6228f87d59efb7ebe0a401156ff3050dce7ee6d4</guid>
+<pubDate>Fri, 20 Nov 2026 18:54:56 GMT</pubDate>
 <description>Artificial intelligence for combinatorial optimization depends on high-quality, structured training data, yet transforming ambiguous natural-language descriptions into precise, executable formal models remains a major bottleneck, traditionally requiring extensive manual effort and domain expertise. We develop CPAM-LLM, an automated constraint-programming modeling framework based on large language models that converts unstructured problem specifications into validated and executable formal models. The framework integrates retrieval-augmented generation grounded in formal concept analysis for structural validation, chaos-mapping-based data augmentation to enhance cross-domain generalization, and dynamic constraint adaptation to accommodate evolving problem settings. We demonstrate its effectiveness across five scenarios, including DNA sequence design, reconfigurable energy storage systems, and unmanned vehicle logistics. The results show that the framework can automate the data-to-model pipeline while adapting reliably to changing requirements, providing a practical approach to automated data formalization and indicating the importance of accessible, high-quality structured data for </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-80974-4</link>
-<guid>02ef01ec4b59b59d5408cae9eda64a1c5d50b31c6c4923f277b8aab4e2d60eaf</guid>
-<pubDate>Fri, 20 Nov 2026 10:43:53 GMT</pubDate>
+<guid>664aa75000d3377e4f1c884de17b55b67cc004b05d96fc49e6ca7360df76096a</guid>
+<pubDate>Fri, 20 Nov 2026 18:54:59 GMT</pubDate>
 <description>Emergency department disposition decisions integrate measurements, narratives and contextual risk. We developed SMARTriage AI, a multi-agent system combining role-specialized language-model agents with deterministic rules, intended as safety gates, to recommend admission or discharge. In a retrospective, single-center development study of 469 valid-label adult internal medicine and geriatric encounters from one 24-h period (468 analyzed; 154 admitted), prompts and rules were refined over about 30 cycles on the same cohort, without a held-out set. Apparent accuracy was 88.2% (95% CI, 85.0–90.9%) and admission recall 96.1%. Accuracy was 97.2% with physician summary or recommendations text (n = 248) and 78.2% without it (n = 220); with the text withheld it was 65.0%. After peer review, a redesigned system (v2), evaluated on all 469 encounters under a protocol locked before the runs, discriminated worse than a single language-model agent (Setting A AUC 0.794 vs. 0.821–0.823). At the pre-specified thresholds, accuracy was 76.3% for v2 versus 67.0% for discharging everyone. The multi-agent design did not outperform a single agent, and apparent performance was optimistically biased by dev</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>2d080f2e162dcbf4f91cdbf8a7f2a480c88f908a2033e04703e109f737ed0890</guid>
-<pubDate>Fri, 20 Nov 2026 10:43:54 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>f3cb2fcb45d040a04a841e3779c9215056531178ce848160dd73d276b96babf1</guid>
+<pubDate>Fri, 20 Nov 2026 18:55:22 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>ba96507c5ce28591f825017cdbea022dfe6ebb9910f0be8bef6b6c902f9be7cf</guid>
-<pubDate>Fri, 20 Nov 2026 10:44:01 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
-</item>
-<item>
-<title>【環境】 Even the ‘good guys’ of AI are locking in fossil fuels</title>
-<link>https://grist.org/?s=AI</link>
-<guid>0615755eb8265cbef81ab474e4a3ebe5b938c27342969d244cc6bd034073cbb0</guid>
-<pubDate>Fri, 20 Nov 2026 10:44:23 GMT</pubDate>
-<description>Anthropic claims to be developing AI safely. Why doesn’t its own climate impact make the cut?</description>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>4c45de08d6fcd1aba5b39b3f5fb47b993a597bc0cb2a48b1e7404bfb154f469f</guid>
+<pubDate>Fri, 20 Nov 2026 18:55:28 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
