@@ -4,119 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 19 Nov 2026 21:55:58 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 02:46:23 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIトークノミクスは観測から始めよう - AIコーディングのコスト・無駄・成果を測る</title>
-<link>https://qiita.com/kobadain/items/7ff26c584cd9b83f7a5a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>580e4e6465d030c33a7ed7ff8411d1bdbf9f64c30b897e4654d117ac6b77dd56</guid>
-<pubDate>2026-11-19T10:40:19+09:00</pubDate>
-<description>AIコーディングのコストを測っていても、成果を定量的に説明できる人は少ないのではないでしょうか。今回はAIコーディング環境のさまざまな情報を観測できるPreflightについて紹介します。 はじめに AIエージェントにいくら払い、どれだけの価値が本当に出たのか、この問いに...</description>
+<title>【Qiita】 Azure AI Search is now Foundry IQ を試してみる</title>
+<link>https://qiita.com/komiyasa/items/541b9f751b2280786494</link>
+<guid>5f3f097dc4e61611cd52e9dbfba4aa9dab44ef3af3be78c8233243549946a5f6</guid>
+<pubDate>2026-11-20T09:49:53+09:00</pubDate>
+<description>はじめに Microsoft Ignite 2026 で、Azure AI Search は Foundry IQ という名前になりました。Microsoft Learn のドキュメントも「Foundry IQ (Azure AI Search)」という表記に変わり、冒...</description>
 </item>
 <item>
-<title>【Qiita】 【随時更新】Microsoft Ignite 2026 現地参加レポート（技術情報少なめ・画像多め）</title>
-<link>https://qiita.com/katohiro_fi/items/0f03ceb4cf0aa4ecbc03</link>
-<guid>f38baf026e6c452f3261b7e371ea1354c13e742b90861401a05b13bc3d1c2bce</guid>
-<pubDate>2026-11-20T06:38:12+09:00</pubDate>
-<description>はじめに この記事は技術情報が少なく、Igniteに現地参加するときの動き方や会場の様子を、写真つきで紹介する旅日記に近い内容です。発表されたアップデート情報の詳細は別の記事「Microsoft Ignite 2026 アップデートまとめ」で整理しようと思っています（...</description>
+<title>【Qiita】 コーディングエージェントの運用で読んだ8本：クォータ、拡張スタック、実行環境、MCPの増えすぎ、ハード予算上限ほか</title>
+<link>https://qiita.com/redreamality/items/72e6c41ba0a0f3b263cf</link>
+<guid>d390618fa018872630bbb1056ede478ec1aefb4879b3452ea275c35201082bd6</guid>
+<pubDate>2026-11-20T11:20:58+09:00</pubDate>
+<description>コーディングエージェントを毎日使うようになって、モデルの賢さより先に気になりはじめたのが「運用」の話でした。クォータはどこで減っているのか、拡張機能は何から足すべきか、エージェントの“手”はどのマシンで動いているのか、夜中に暴走したデモの請求は誰が止めるのか。 この秋、re...</description>
 </item>
 <item>
-<title>【Qiita】 「JSONを書かせる」のをやめるとき</title>
-<link>https://qiita.com/mhamadajp/items/665798d3900833300f91</link>
-<guid>3f6c4370d04542d89e1e70c1d9b8f076a0fcd7868b944f03118f0c202b570c83</guid>
-<pubDate>2026-11-20T05:29:49+09:00</pubDate>
-<description>Gemini Decision 1で、自分のシステムの判断を棚卸しする 2026年11月11日、Googleは判断に特化したモデル Gemini Decision 1 と、それを呼ぶ Gemini Decisions API を公開しました。公式ブログは Gemini D...</description>
+<title>【Qiita】 Muse に頼んでサイトのタイトルと説明文を整える：検索で見つけてもらうための書き方</title>
+<link>https://qiita.com/kakusan2022/items/5cadee0feff4fbfd8e4d</link>
+<guid>63632291e1b4f62a39d694ae8f71941c06f38c49a703cfbf13bdfa15a195dd87</guid>
+<pubDate>2026-11-20T10:52:09+09:00</pubDate>
+<description>Muse に頼んでサイトのタイトルと説明文を整える：検索で見つけてもらうための書き方 私は開発者ではありません。個人でいろいろ調べるのが好きな者として、気になったサービスを整理して紹介しています。 お店のホームページは、作ったあとに「タイトルと説明文を整えたい」と思うこと...</description>
 </item>
 <item>
-<title>【Qiita】 API キーは Python の HTTP ログに出るのか、3つのライブラリで比べた：httpx は INFO で URL ごと出し、requests は DEBUG だけ、OpenAI SDK は DEBUG でも出なかった（httpx 0.28で確認）</title>
-<link>https://qiita.com/supportapp3/items/8eb7646421915b4b6d81</link>
-<guid>786b2ea7830fe46bbd3185f18ec55ddcf03486c5e8d34d17b18cd054c0287bae</guid>
-<pubDate>2026-11-20T05:20:07+09:00</pubDate>
-<description>結論 logging.basicConfig(level=logging.INFO) を入れただけのスクリプトで、API キーをダミーにして3つのライブラリを比べました。 ライブラリ キーをURLのクエリに入れた キーを Authorization ヘッダに入れた ...</description>
+<title>【Qiita】 2026年11月20日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/2367588703fbee1cf6bb</link>
+<guid>11fb930ec6ad9650bcb6e16cd756f3fe3794046348264c404fbc13d259363c1a</guid>
+<pubDate>2026-11-20T10:43:58+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 部下がClaudeっぽいスライドしか出してこな...</description>
 </item>
 <item>
-<title>【Qiita】 スライドのスキル5つに同じ原稿を渡したら、角丸の箱が0個から100個に分かれた</title>
-<link>https://qiita.com/Nekorock/items/f7a62fe85e2bd07bd8ae</link>
-<guid>54c8db11261aa813673035d81d1f8e13f7147864928948da6d0572da0f0ab4ec</guid>
-<pubDate>2026-11-20T03:36:36+09:00</pubDate>
-<description>同じ原稿・同じ依頼文・同じ答えで、スライドを作るスキル 5 つにデッキを作らせ、1 枚あたりの文字数と「角丸か影の付いた箱」の数を数えました。箱は 0 個のスキルが 3 つ、19 個が 1 つ、100 個が 1 つでした。「話しながら見せる」と答えたのに、1 枚の文字数の中...</description>
+<title>【Qiita】 Pythonのloggingで踏みやすい5つの落とし穴｜basicConfigが効かない・二重出力・lastResort・レベルの継承・QueueHandler</title>
+<link>https://qiita.com/cauchye_asia/items/4a79cc16182793346896</link>
+<guid>53ddd632ab8668e27a36ad5714c0ac4f2a14356af6af3ae74b31cf57d04099cc</guid>
+<pubDate>2026-11-20T10:16:00+09:00</pubDate>
+<description>TL;DR 設定の前に logging.info() などのモジュール関数を1回でも呼ぶと、root に暗黙の basicConfig() が入ります。そのあとの basicConfig(level=DEBUG) は無視されます。force=True を付けるか、設定を...</description>
 </item>
 <item>
-<title>【Qiita】 HyperFrames と Remotion、エージェントに動画を書かせるならまずライセンスを確認する</title>
-<link>https://qiita.com/Skillselion/items/c83e123ba9a8c2ac14d4</link>
-<guid>9739b5d71b6d5e2353a2d223299c091bd1455123de1e8802099d30577cd97f93</guid>
-<pubDate>2026-11-20T03:11:30+09:00</pubDate>
-<description>開示: 筆者は Skillselion(Claude Code・Codex・Cursor 向け拡張機能の独立ディレクトリ)の運営に関わっています。HeyGen、Remotion、Anthropic とは提携していません。本記事は AI の補助を受けて作成し、引用はすべてリン...</description>
+<title>【Qiita】 ⚡Databricks AI Agent入門⚡ MCP・Tool・Connectionの違いとは？外部システムの機能をAgentへ公開する仕組み</title>
+<link>https://qiita.com/mellowlaunch/items/a325909428fbd9136d9a</link>
+<guid>825e72b3fae627ba335c5ca307de75ddc7354cc73b5752c8731515dce77b9b82</guid>
+<pubDate>2026-11-20T07:50:05+09:00</pubDate>
+<description>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 『ゼロから触ってわかった！Databricks Agent Engineering実務入門 ～AI Gat...</description>
 </item>
 <item>
-<title>【農業】 MED-Dialogues 2026: FAO calls for stronger diplomatic action on conflict-driven food crises</title>
-<link>https://www.fao.org/newsroom/detail/med-dialogues-2026--fao-calls-for-stronger-diplomatic-action-on-conflict-driven-food-crises/en</link>
-<guid>6dd3d881c73406c8d740417a0eda38365c3a28140e91f2f1261d8dc66828541c</guid>
-<pubDate>Thu, 19 Nov 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【農業】 FAO urges job creation and coordinated action to tackle hunger and poverty</title>
-<link>https://www.fao.org/newsroom/detail/fao-urges-job-creation-and-coordinated-action-to-tackle-hunger-and-poverty/en</link>
-<guid>e8eaf53056da345f8f19bb582ecfa25f171a97b766d6479ab12eb2ca9c6ee008</guid>
-<pubDate>Thu, 19 Nov 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【自動自律実験】 Calcium catalysed nucleophilic fluorination</title>
-<link>https://www.nature.com/articles/s41586-026-11445-z</link>
-<guid>34518adaef48c7329343e134639d5946004547318e45d7fca899b609dc5807f8</guid>
-<pubDate>2026-11-19</pubDate>
-<description>Calcium catalysed nucleophilic fluorination</description>
-</item>
-<item>
-<title>【自動自律実験】 More tropical cyclones hit peak fury at the worst possible time</title>
-<link>https://www.nature.com/articles/d41586-026-03748-y</link>
-<guid>d00953e7bb5dd05228d7004b78919b690c7109ef52c0c95f23bb6a6f1e0ebdeb</guid>
-<pubDate>2026-11-19</pubDate>
-<description>Climate change is creating conditions that pump up the intensity of hurricanes and typhoons just as the storms reach the coast.</description>
-</item>
-<item>
-<title>【自動自律実験】 People entering old age now have better memory than their parents did</title>
-<link>https://www.nature.com/articles/d41586-026-03783-9</link>
-<guid>8d0e6445dc7d8fe50d748accd48a338b531b37a6518e6a314fd863c01465fb34</guid>
-<pubDate>2026-11-19</pubDate>
-<description>Older people today maintain memory function for longer than previous generations did, according to a study of 219,000 adults.</description>
-</item>
-<item>
-<title>【自動自律実験】 University students are biggest spreaders of COVID</title>
-<link>https://www.nature.com/articles/d41586-026-03746-0</link>
-<guid>acef6a773becf755c31050381f26fd9b447003b80f17de2773519a9a3f93a29f</guid>
-<pubDate>2026-11-19</pubDate>
-<description>Undergraduates were the first group to spread genetic variants of SARS-CoV-2 during the pandemic, mega-analysis finds.</description>
+<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>d47ac6709dda654b2c0ec531c71a52f506e79da04a91b5d9918c59d92eab3c73</guid>
+<pubDate>Fri, 20 Nov 2026 02:45:18 GMT</pubDate>
+<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-realistic-benchmark-dataset-for-multi-model-resume-screening-and-candidate-ranking/</link>
-<guid>453921c68a2196a755badcc957265a7faa8273e78a7ee612f6d33e91fc1380d1</guid>
-<pubDate>Thu, 19 Nov 2026 21:55:13 GMT</pubDate>
+<link>https://research.google/pubs/the-decision-accountability-gap-symbolic-oversight-theory-and-pivot-to-human-in-the-accountability-loop-hial/</link>
+<guid>df73fa1d4a142c341e80218b1397f5da8f78417771b6636b0f9c6b2bdad59c2a</guid>
+<pubDate>Fri, 20 Nov 2026 02:45:23 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>f112f5e18594cb1b6e48a9e1bef20d5a3c3be3ee568daa347506a139bd462216</guid>
+<pubDate>Fri, 20 Nov 2026 02:45:23 GMT</pubDate>
+<description>Sakana AI Blog read more 図：Sakana AIが開発した日本語金融ベンチマーク「JFinBench」の全体スコアと1問あたりのコスト（ツールなし設定）。主要ベンチマークでプロプライエタリモデルに肩を並べつつあるオープンウェイトモデルも、JFinBenchでは大きな差がある。 read more 写真左：マイケル・ロジャース氏、写真右：トム・モラン氏 read more 基調講演を行うSakana AI Chief Scientific Advisorのユルゲン・シュミットフーバー教授 read more read more 管理画面のイメージ。*この画像は架空のデータを使ったイメージです。今後予告なく変更される可能性があります。 read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana Fuguの指揮者モデ</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78715-2</link>
-<guid>c524606c28c41d8b1a75fd51e45816a5a9351553f174bbbf736527bd985e6ccc</guid>
-<pubDate>Thu, 19 Nov 2026 21:55:16 GMT</pubDate>
+<guid>0d304e7c4cfcaf93a0605f91f087c8206ce97f9c033be1504d176a2d275117b7</guid>
+<pubDate>Fri, 20 Nov 2026 02:45:26 GMT</pubDate>
 <description>Artificial intelligence for combinatorial optimization depends on high-quality, structured training data, yet transforming ambiguous natural-language descriptions into precise, executable formal models remains a major bottleneck, traditionally requiring extensive manual effort and domain expertise. We develop CPAM-LLM, an automated constraint-programming modeling framework based on large language models that converts unstructured problem specifications into validated and executable formal models. The framework integrates retrieval-augmented generation grounded in formal concept analysis for structural validation, chaos-mapping-based data augmentation to enhance cross-domain generalization, and dynamic constraint adaptation to accommodate evolving problem settings. We demonstrate its effectiveness across five scenarios, including DNA sequence design, reconfigurable energy storage systems, and unmanned vehicle logistics. The results show that the framework can automate the data-to-model pipeline while adapting reliably to changing requirements, providing a practical approach to automated data formalization and indicating the importance of accessible, high-quality structured data for </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-80974-4</link>
-<guid>59d738d44ceb763645ff9d0ee3c0925ecffb681672392c0bc361c15358fdf64f</guid>
-<pubDate>Thu, 19 Nov 2026 21:55:18 GMT</pubDate>
+<guid>d917a884e91d03a4584039563873b4ecc9f03a489c7fd6a848191bb3d1439580</guid>
+<pubDate>Fri, 20 Nov 2026 02:45:30 GMT</pubDate>
 <description>Emergency department disposition decisions integrate measurements, narratives and contextual risk. We developed SMARTriage AI, a multi-agent system combining role-specialized language-model agents with deterministic rules, intended as safety gates, to recommend admission or discharge. In a retrospective, single-center development study of 469 valid-label adult internal medicine and geriatric encounters from one 24-h period (468 analyzed; 154 admitted), prompts and rules were refined over about 30 cycles on the same cohort, without a held-out set. Apparent accuracy was 88.2% (95% CI, 85.0–90.9%) and admission recall 96.1%. Accuracy was 97.2% with physician summary or recommendations text (n = 248) and 78.2% without it (n = 220); with the text withheld it was 65.0%. After peer review, a redesigned system (v2), evaluated on all 469 encounters under a protocol locked before the runs, discriminated worse than a single language-model agent (Setting A AUC 0.794 vs. 0.821–0.823). At the pre-specified thresholds, accuracy was 76.3% for v2 versus 67.0% for discharging everyone. The multi-agent design did not outperform a single agent, and apparent performance was optimistically biased by dev</description>
 </item>
 <item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>1420c16ca8e2aa665e17973df7204299d1598594a0897d318f76a8db8f231103</guid>
-<pubDate>Thu, 19 Nov 2026 21:55:38 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04808-6</link>
+<guid>2baeac648cd8ac8d05eec54ffa6069fb328b92ac93b25e20eac3ecb8f8261c13</guid>
+<pubDate>Fri, 20 Nov 2026 02:45:33 GMT</pubDate>
+<description>Biomedical research is constrained by the time and domain expertise required to analyze increasingly large and complex datasets. Here we present OpenScientist, an open-source agentic AI co-scientist designed to address this gap by investigating scientist-defined queries and generating verifiable, data-grounded analyses. OpenScientist was evaluated by domain experts across five biomedical case studies, completing analyses in minutes that otherwise would take months of human time and expertise. It accurately quantified Alzheimer’s blood biomarker performance, generated a plasma proteomic survival model that predicted survival in a hidden-evaluation cohort, proposed a reproducible mechanism linking tau pathology to altered lysosomal acidification, generated multiple myeloma hypotheses validated in an external cohort with attenuated signal in randomized controls, and demonstrated concordance with an independent human analysis in a blinded, prespecified proteomic comparison. These results support the use of OpenScientist to assist biomedical data analysis in concert with human experts. To support research involving sensitive clinical datasets, OpenScientist can operate in a fully air-ga</description>
+</item>
+<item>
+<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
+<link>https://github.com/arXiv/arxiv-search/releases</link>
+<guid>eb0c424cc54e9a5fa9f1aac523cdc9f618d2274193b58df5664845fccc1d6be3</guid>
+<pubDate>Fri, 20 Nov 2026 02:45:35 GMT</pubDate>
+<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
 </item>
 
 </channel>
