@@ -4,154 +4,84 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 20 Nov 2026 18:55:39 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 00:30:47 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【IBM Bob × ZABBIX接続】公式MCPサーバーを導入して監視情報を会話で見る</title>
-<link>https://qiita.com/TSA2019/items/f8bfcabc29d4176c501a</link>
-<guid>82693cc3bbcb3af5cd29fabe194a9669f6749407d731fddd3cc38772d8700c13</guid>
-<pubDate>2026-11-20T23:34:12+09:00</pubDate>
-<description>IBM Bob と Zabbix を、Zabbix 8.0 公式の MCP サーバーで接続する Zabbix の画面を開かなくても、「いま障害になっているホストは？」「このホストグループに何がある？」と IBM Bob に聞けるようにします。Zabbix サーバーとフロ...</description>
+<title>【Qiita】 2026年11月21日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+<link>https://qiita.com/ennagara128/items/641b9fa0de921b0ab8ba</link>
+<guid>ce45a7b1ab7dc310d9c3d14c4d11921adb3bb85d01d21cbe4ea858b2beec7c3e</guid>
+<pubDate>2026-11-21T09:28:57+09:00</pubDate>
+<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 部下がClaudeっぽいスライドしか出してこな...</description>
 </item>
 <item>
-<title>【Qiita】 AKS, GKEにアプリをデプロイした際の使用感の比較</title>
-<link>https://qiita.com/TaiheiKanno/items/16cc7d78dafd59394f3e</link>
-<guid>b5e874082a964e395344c076d076e6e0b7f32a581396c16e48b34f746ff9d0c2</guid>
-<pubDate>2026-11-20T20:38:05+09:00</pubDate>
-<description>はじめに 最近、AzureとGoogle Cloudを利用する機会があり、それぞれAKSとGKEにアプリケーションをデプロイしPaaSへ接続する構成を構築しました。 本記事では、その際に実際に確認した構成や手順をもとにAKSとGKEの導入方法、Workload Ident...</description>
+<title>【Qiita】 AIのセキュリティスキャンを本番のCloudflare Workersアプリに回してみた ― 検出3件を直してPRするまでの実録</title>
+<link>https://qiita.com/startdevin/items/f086d58707ee47b30395</link>
+<guid>f23682eb44ef12185179ef632fc754f123e50c6d7bf6f7cdcbeeba82ce0e8bf8</guid>
+<pubDate>2026-11-21T09:05:00+09:00</pubDate>
+<description>はじめに 前回の記事では、Devin Security 2.0 と Claude Code の security review を公式ドキュメントベースで比較しました。「見つけて・検証して・直し切る」という思想は分かったものの、やはり気になるのは 「自分の本番アプリに回し...</description>
 </item>
 <item>
-<title>【Qiita】 AI で6つのシステムを診断して OWASP ASVS に当てはめたら、繰り返していたのは設計で決める規則の指摘だった話（2026年版）</title>
-<link>https://qiita.com/ntaka329/items/3f9405a4e2bb7e0add3f</link>
-<guid>025ea8a71abd0f6f04d534ed56d36731bad66eada5a81e259e38b682c7e53207</guid>
-<pubDate>2026-11-20T21:03:06+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 前回、2つのシステムで AI 診断（Claude Code にソースを読ませるホワイトボックス診断）を回し、緊急・高の21件を OWASP ASVS 5.0 に当てはめました。そのときは「せめて L1 は要件に入れたい」と書いています...</description>
+<title>【Qiita】 Databricksの新資格 Context Engineer とは？範囲と勉強法</title>
+<link>https://qiita.com/y0shidahr/items/bfa890be24af74e5ba43</link>
+<guid>c7f131755807abed4523789b6cdaea45e4cef44cd1038362830a8d4fdf2e9036</guid>
+<pubDate>2026-11-21T08:57:55+09:00</pubDate>
+<description>先に答え Databricks に、Context Engineer Associate という新しい認定試験ができました。公式の試験ガイドによると、公開は2026年7月29日です。AI エージェントが推論するときに受け取る情報（コンテキスト）を、Databricks の...</description>
 </item>
 <item>
-<title>【Qiita】 ⚡ Microsoft 365 Copilot ライセンスで GitHub Copilot CLI が使えるように!!</title>
-<link>https://qiita.com/aktsmm/items/855dbec6f06587a26287</link>
-<guid>fa6bfab4932e82f1293bf9035f6ea2f5896e3cfeb138b805819128b14459c165</guid>
-<pubDate>2026-11-20T23:45:23+09:00</pubDate>
-<description>こんにちは、Copilot が増えるたびに「どの Copilot の話?」となるアーキテクトのやまぱん！です。 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ Microsoft Ignite 2026、やってますね! 現...</description>
+<title>【Qiita】 Claude CodeのAutoCompactをやめて、引き継ぎ書で/clearすることにした</title>
+<link>https://qiita.com/phibi-soon/items/0a3452f1d81f57281187</link>
+<guid>a78cdcf88c3d318ce3611093819d5da98f3fcb33bf8d21eeed97ff1d84f1b076</guid>
+<pubDate>2026-11-21T08:48:29+09:00</pubDate>
+<description>こんにちは、もんすんです。 Claude Code の AutoCompact をオフにして、コンテキストの使用率 50% を基準に、引き継ぎ書を書いてから /clear する形にしました。 AutoCompact より、引き継ぎ書を書いてセッションをクリアした方が良い、と...</description>
 </item>
 <item>
-<title>【Qiita】 AI開発ツール費削減テンプレを予約販売テストしたら、推定1,000PV露出で申込ゼロだった</title>
-<link>https://qiita.com/DevMasatoman/items/e4ae6512a2f9b1663866</link>
-<guid>e50b345ed54339d4fa503d22699e87d90852f1e3084cca2ac3f8107fd0ce7f84</guid>
-<pubDate>2026-11-21T02:14:07+09:00</pubDate>
-<description>AI開発ツール費を削減するテンプレートキット（仮称）を「作る前に売る」戦略で予約販売テストした。結果は推定1,000PV露出で申込ゼロ。この記事では、失敗の原因と有料化前に需要を確認するための判断基準を整理する。 環境・前提 対象: AI開発ツール費削減テンプレートキッ...</description>
-</item>
-<item>
-<title>【Qiita】 Gemini APIのツール定義は後から読める。Tool Retrieval（preview）解説</title>
-<link>https://qiita.com/kinamocchi_tech/items/a49bff9d1db17ed07cdf</link>
-<guid>2299da3a1c486142ddccb28c9cb572c7d7986e365605e8561fc6fca882dee310</guid>
-<pubDate>2026-11-21T00:05:16+09:00</pubDate>
-<description>📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → Gemini APIのツール定義は後から読める。Tool Retrieval（preview）解説 🐹🦜 この記事に登場する2匹 🐹 もっちー （...</description>
-</item>
-<item>
-<title>【Qiita】 Xcode MCP によるシミュレータ操作（DeviceInteraction）の手引き</title>
-<link>https://qiita.com/BlueEventHorizon/items/9b32423b6896f3c96dad</link>
-<guid>58ec7121de4a653e6d90a6b9edfdf43db808d83e1e41a10280702cd451bdbe96</guid>
-<pubDate>2026-11-20T22:46:19+09:00</pubDate>
-<description>Xcode MCP には、AI エージェントがシミュレータ上のアプリを操作するためのツール群（DeviceInteraction）がある。 本稿は、AI に操作させるときにアプリの側で備えておくことと、実際に動かして分かった挙動をまとめる。 確かめた環境: Xcode 2...</description>
-</item>
-<item>
-<title>【Qiita】 Xcode 同梱の Apple 公式スキル: 評価と使いどころ</title>
-<link>https://qiita.com/BlueEventHorizon/items/e2874980d3c9c416adc5</link>
-<guid>cc81e4dcd984218581272f49541dc6bf008906a524ca8d515e91d11d5aabb88b</guid>
-<pubDate>2026-11-20T22:40:57+09:00</pubDate>
-<description>Xcode は、AI エージェント向けの「スキル」（使い方をまとめた文書と補助スクリプト）を同梱している。 本稿は、そのうち 7 つを実際のアプリ開発で使い、何を提供し、どの場面で役に立つかをまとめる。 確かめた環境: Xcode 27.2、Claude Code 評価の...</description>
-</item>
-<item>
-<title>【Qiita】 社内マニュアル・保守記録のAI検索で「型番誤認と根拠不明」を防ぐハイブリッド検索とO13原文エビデンス再生</title>
-<link>https://qiita.com/derekwang8866/items/5bebe1af87d58c3fe4cd</link>
-<guid>3466aaed2f58c691ef9516ae1df47953af6f524667218ec4430a41ae25afd6a5</guid>
-<pubDate>2026-11-21T01:59:31+09:00</pubDate>
-<description>製造業や設備保守の現場で、過去の修理報告書・部品表・PDFマニュアルを社内向けAI検索に組み込むプロジェクトが増えています。ところが、一般的なクラウド型ベクトルDB＋埋め込みRAG構成をそのまま適用すると、PoC段階から次の3つの壁にぶつかりがちです。 型番・規格コード...</description>
-</item>
-<item>
-<title>【Qiita】 【概要編】Microsoft Ignite 2026 データ・AI 関連の主な発表</title>
-<link>https://qiita.com/sakiyama12/items/351166a9403df67cae28</link>
-<guid>e9f736691a1a256877ed1d9d47226d62a3df35cbc3662b3f77f898a8c4e3fb79</guid>
-<pubDate>2026-11-21T01:15:27+09:00</pubDate>
-<description>掲載している発表内容は、Microsoft が一般に公開している資料に基づいています。 本記事は生成AIを利用して執筆しています。発表内容は公式資料と照合していますが、誤りが含まれる可能性があります。最新の情報は公式ドキュメントをご確認ください。 本記事は筆者個人の見...</description>
-</item>
-<item>
-<title>【環境】 Concurrent atmospheric phenomena amplify precipitation extremes under anthropogenic climate change</title>
-<link>https://www.nature.com/articles/s41558-026-02805-8</link>
-<guid>c3421126b4a04b343a13a1561412ba9b3e69974a42e08d0b8b9e48cfa4c55e16</guid>
+<title>【環境】 O6-type layered oxides for sustainable high-energy battery cathodes</title>
+<link>https://www.nature.com/articles/s41893-026-01987-5</link>
+<guid>9256c6ef9a33137d8f9d386f93789dbee1c6f8c7cacd013c971bec9083e50068</guid>
 <pubDate>2026-11-20</pubDate>
-<description>Extreme precipitation events are increasing in many regions. Here the authors discuss how the increasing concurrence of atmospheric phenomena could contribute to these trends under anthropogenic warming.</description>
+<description>Cobalt-free cathodes are vital for green energy but suffer from structural instability. Here the authors report a unique O6-type framework that stabilizes oxygen redox for exceptional cycling durability.</description>
 </item>
 <item>
-<title>【環境】 Climate and glacier geometry dominate global glacier–lake interactions</title>
-<link>https://www.nature.com/articles/s41558-026-02808-5</link>
-<guid>f7f4a01a3762be6272db269db27cf6bd1f308487730cd37a1eedb7c5033b3766</guid>
+<title>【環境】 Plant-derived photocatalytic carbon dots for crop disease management</title>
+<link>https://www.nature.com/articles/s41893-026-01978-6</link>
+<guid>cd7bec521b6bdaa7e8e61dc2aa13d3ac89d5b97cef405a46287bd73e6876be22</guid>
 <pubDate>2026-11-20</pubDate>
-<description>The contribution of glacial lakes to glacier mass loss is unclear. This work maps global glacial lakes in 2000 and 2020 to quantify changes in number, volume and area, showing that they explain 11 ± 7% of lake-terminating glacier loss, with climate forcing and glacier geometry the dominant factors.</description>
+<description>Plant fungal pathogens in crops can lead to substantial economic losses and pose a severe threat to food security. To tackle wheat Fusarium head blight, a devastating disease infecting wheat crops, an effective antifungal strategy using plant-derived photocatalytic carbon dots has been developed.</description>
 </item>
 <item>
-<title>【自動自律実験】 How AI is affecting science careers</title>
-<link>https://www.nature.com/articles/d41586-026-03680-1</link>
-<guid>a89195fa5aa05ff3afa24f7e51d64d2798256b194122969ba49892be2e8d525e</guid>
-<pubDate>2026-11-20</pubDate>
-<description>Join a free webinar to discuss how the technology is changing researchers&#x27; roles, their skills and job security.</description>
-</item>
-<item>
-<title>【自動自律実験】 Briefing Chat: Voyager 1 is now one ‘light day’ from Earth — setting a cosmic record</title>
-<link>https://www.nature.com/articles/d41586-026-03806-5</link>
-<guid>c2af821a738dc36adad5b14eb42743ebb4f801d76b9a4954211d0eb3e6184455</guid>
-<pubDate>2026-11-20</pubDate>
-<description>Nature staff discuss the probe’s epic journey — plus, how vampire bats survive on a blood-only diet.</description>
-</item>
-<item>
-<title>【自動自律実験】 Fraud helps little fire ants to survive and conquer</title>
-<link>https://www.nature.com/articles/d41586-026-03776-8</link>
-<guid>d85ac17db2ffdd58deb7ab201d2ed6ac95f4533ac22c5791d23edb292bf0b43e</guid>
-<pubDate>2026-11-20</pubDate>
-<description>Invasive ants in China overcome larger rivals with a crafty stratagem and vigorous attack.</description>
-</item>
-<item>
-<title>【自動自律実験】 ‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery</title>
-<link>https://www.nature.com/articles/d41586-026-03590-2</link>
-<guid>c525bd7f7594cb6bdcdd21bcd7d1e862c9768f8025dde70dfc62e54e9c15cc8f</guid>
-<pubDate>2026-11-20</pubDate>
-<description>Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped their science.</description>
+<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>2b4e462b684d0e36e08e4ce9cd16009b532ddac92f95aa5da705ba084268b4be</guid>
+<pubDate>Sat, 21 Nov 2026 00:29:46 GMT</pubDate>
+<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/ai-driven-high-risk-implementation-prediction-for-enterprise-digital-transformation-governance-using-machine-learning/</link>
-<guid>4a806051adaac0d53795565939a1b16010706e95b7f8e1d6fec1c882201358bd</guid>
-<pubDate>Fri, 20 Nov 2026 18:54:54 GMT</pubDate>
+<link>https://research.google/pubs/whos-doing-the-thinking-now-reflexivity-and-oversight-in-genai-mediated-decision-making/</link>
+<guid>711b9168ce8bea9f6705ce423cbbc5b853776d72395eb1fac63d915641e7b325</guid>
+<pubDate>Sat, 21 Nov 2026 00:29:50 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78715-2</link>
-<guid>22b77edc763127a7957fd8ca6228f87d59efb7ebe0a401156ff3050dce7ee6d4</guid>
-<pubDate>Fri, 20 Nov 2026 18:54:56 GMT</pubDate>
-<description>Artificial intelligence for combinatorial optimization depends on high-quality, structured training data, yet transforming ambiguous natural-language descriptions into precise, executable formal models remains a major bottleneck, traditionally requiring extensive manual effort and domain expertise. We develop CPAM-LLM, an automated constraint-programming modeling framework based on large language models that converts unstructured problem specifications into validated and executable formal models. The framework integrates retrieval-augmented generation grounded in formal concept analysis for structural validation, chaos-mapping-based data augmentation to enhance cross-domain generalization, and dynamic constraint adaptation to accommodate evolving problem settings. We demonstrate its effectiveness across five scenarios, including DNA sequence design, reconfigurable energy storage systems, and unmanned vehicle logistics. The results show that the framework can automate the data-to-model pipeline while adapting reliably to changing requirements, providing a practical approach to automated data formalization and indicating the importance of accessible, high-quality structured data for </description>
+<guid>f708500d954625ccfda2356655c650e9732b440b4c0ff77bb458639e43e2ad65</guid>
+<pubDate>Sat, 21 Nov 2026 00:29:53 GMT</pubDate>
+<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-80974-4</link>
-<guid>664aa75000d3377e4f1c884de17b55b67cc004b05d96fc49e6ca7360df76096a</guid>
-<pubDate>Fri, 20 Nov 2026 18:54:59 GMT</pubDate>
+<guid>6f52246d0c69ae1112d8fb89f8dfdb1a0c54e68fe73dce65fc70f99af4fdf790</guid>
+<pubDate>Sat, 21 Nov 2026 00:29:55 GMT</pubDate>
 <description>Emergency department disposition decisions integrate measurements, narratives and contextual risk. We developed SMARTriage AI, a multi-agent system combining role-specialized language-model agents with deterministic rules, intended as safety gates, to recommend admission or discharge. In a retrospective, single-center development study of 469 valid-label adult internal medicine and geriatric encounters from one 24-h period (468 analyzed; 154 admitted), prompts and rules were refined over about 30 cycles on the same cohort, without a held-out set. Apparent accuracy was 88.2% (95% CI, 85.0–90.9%) and admission recall 96.1%. Accuracy was 97.2% with physician summary or recommendations text (n = 248) and 78.2% without it (n = 220); with the text withheld it was 65.0%. After peer review, a redesigned system (v2), evaluated on all 469 encounters under a protocol locked before the runs, discriminated worse than a single language-model agent (Setting A AUC 0.794 vs. 0.821–0.823). At the pre-specified thresholds, accuracy was 76.3% for v2 versus 67.0% for discharging everyone. The multi-agent design did not outperform a single agent, and apparent performance was optimistically biased by dev</description>
 </item>
 <item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>f3cb2fcb45d040a04a841e3779c9215056531178ce848160dd73d276b96babf1</guid>
-<pubDate>Fri, 20 Nov 2026 18:55:22 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
-</item>
-<item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>4c45de08d6fcd1aba5b39b3f5fb47b993a597bc0cb2a48b1e7404bfb154f469f</guid>
-<pubDate>Fri, 20 Nov 2026 18:55:28 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+<title>【U.S.】 Scientists Discover New Twist in Nuclear Decay Rules</title>
+<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
+<guid>bdc886ee95366796aa9611917bc749823856bfbb0f530b2aa5059211c858c9b2</guid>
+<pubDate>Sat, 21 Nov 2026 00:30:00 GMT</pubDate>
+<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
 </item>
 
 </channel>
