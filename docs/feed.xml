@@ -4,84 +4,105 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sat, 21 Nov 2026 00:30:47 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 07:36:28 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 2026年11月21日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/641b9fa0de921b0ab8ba</link>
-<guid>ce45a7b1ab7dc310d9c3d14c4d11921adb3bb85d01d21cbe4ea858b2beec7c3e</guid>
-<pubDate>2026-11-21T09:28:57+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 部下がClaudeっぽいスライドしか出してこな...</description>
+<title>【Qiita】 【F5 ロードバランサ】Auto Last Hop挙動の追加実験(L3_ForwardのVSに対して)</title>
+<link>https://qiita.com/Heizo_Hasegawa/items/da5b826dd0b0d5c7cef9</link>
+<guid>aeaddb917122e1fa23b5b2c332413e34dd7c188c6bbfb9b576a8e294dd10fd08</guid>
+<pubDate>2026-11-21T15:20:14+09:00</pubDate>
+<description>1.はじめに 前回 にてご紹介したAuto Last Hop。 通常のStandardなVSに対して試験を行っておりましたが、今回は当該機能を L3_ForwardのVSに対して 適用してみようと思います。 そんな簡単なことうまくいくだろ！？・・・と思ってい...</description>
 </item>
 <item>
-<title>【Qiita】 AIのセキュリティスキャンを本番のCloudflare Workersアプリに回してみた ― 検出3件を直してPRするまでの実録</title>
-<link>https://qiita.com/startdevin/items/f086d58707ee47b30395</link>
-<guid>f23682eb44ef12185179ef632fc754f123e50c6d7bf6f7cdcbeeba82ce0e8bf8</guid>
-<pubDate>2026-11-21T09:05:00+09:00</pubDate>
-<description>はじめに 前回の記事では、Devin Security 2.0 と Claude Code の security review を公式ドキュメントベースで比較しました。「見つけて・検証して・直し切る」という思想は分かったものの、やはり気になるのは 「自分の本番アプリに回し...</description>
+<title>【Qiita】 【F5 ロードバランサ】PBRの追加実験(L3 IP ＋ L4 port番号までを要素としてみる)</title>
+<link>https://qiita.com/Heizo_Hasegawa/items/2cff06b4a5b1138acf2c</link>
+<guid>e5ba452279b3c08778eafce81893b76147665714390f6c15b1ed2ef413b8c540</guid>
+<pubDate>2026-11-21T12:23:18+09:00</pubDate>
+<description>1.はじめに 前回 にてご紹介したF5でのPBR (Policy Based Routing)。 トリッキーでだったのであまり活用するところはないかな？と思っていますが、「まさか」の「まさか」。 source IPだけじゃなく更にport番号でも曲げなきゃね、の必要...</description>
 </item>
 <item>
-<title>【Qiita】 Databricksの新資格 Context Engineer とは？範囲と勉強法</title>
-<link>https://qiita.com/y0shidahr/items/bfa890be24af74e5ba43</link>
-<guid>c7f131755807abed4523789b6cdaea45e4cef44cd1038362830a8d4fdf2e9036</guid>
-<pubDate>2026-11-21T08:57:55+09:00</pubDate>
-<description>先に答え Databricks に、Context Engineer Associate という新しい認定試験ができました。公式の試験ガイドによると、公開は2026年7月29日です。AI エージェントが推論するときに受け取る情報（コンテキスト）を、Databricks の...</description>
+<title>【Qiita】 複数のAIエージェントを使うときに、知識・状態・秘密の置き場を分ける設計</title>
+<link>https://qiita.com/ishizakahiroshi/items/cad16158a68afb7d7de8</link>
+<guid>0e756508945e9e5dd096bec17ac038d66879ba8940e5f5e516d3d337fecf160d</guid>
+<pubDate>2026-11-21T16:06:28+09:00</pubDate>
+<description>先に、結論を3行で書きます。 AI に渡すものを「知識と決まり」「いまの状態」「秘密」の 3 つに分け、正本をそれぞれ GitHub・自作の看板・各機械に置きました。 AI は 4 つの種類に分け、決まりは AI の名前ではなく種類ごとに書きます。AI の一覧は 1 行...</description>
 </item>
 <item>
-<title>【Qiita】 Claude CodeのAutoCompactをやめて、引き継ぎ書で/clearすることにした</title>
-<link>https://qiita.com/phibi-soon/items/0a3452f1d81f57281187</link>
-<guid>a78cdcf88c3d318ce3611093819d5da98f3fcb33bf8d21eeed97ff1d84f1b076</guid>
-<pubDate>2026-11-21T08:48:29+09:00</pubDate>
-<description>こんにちは、もんすんです。 Claude Code の AutoCompact をオフにして、コンテキストの使用率 50% を基準に、引き継ぎ書を書いてから /clear する形にしました。 AutoCompact より、引き継ぎ書を書いてセッションをクリアした方が良い、と...</description>
+<title>【Qiita】 Claude Codeのエージェントが品質ゲートを飛ばした——「あれ？テスト実施した？」の一言で見つけた違和感の拾い方</title>
+<link>https://qiita.com/saitoko/items/8c2d91b300e3cc1767af</link>
+<guid>d1fe0edb16820bc6d4c6317dd85399278ea194ca452c533ceb5a1acaa857a850</guid>
+<pubDate>2026-11-21T16:03:09+09:00</pubDate>
+<description>この記事の要点: 2026年4月15日、私がClaude Codeで動かしているAIエージェントの1体が、品質ゲート（テスト設計→テスト実行→レビュー→デプロイの順に通す決まり）を飛ばし、構文チェックと一部の単体テストだけで「テスト済み」と報告した。オーケストレーター役のA...</description>
 </item>
 <item>
-<title>【環境】 O6-type layered oxides for sustainable high-energy battery cathodes</title>
-<link>https://www.nature.com/articles/s41893-026-01987-5</link>
-<guid>9256c6ef9a33137d8f9d386f93789dbee1c6f8c7cacd013c971bec9083e50068</guid>
-<pubDate>2026-11-20</pubDate>
-<description>Cobalt-free cathodes are vital for green energy but suffer from structural instability. Here the authors report a unique O6-type framework that stabilizes oxygen redox for exceptional cycling durability.</description>
+<title>【Qiita】 AIに任せた仕事が散らからなくなった。LinearとDotsで個人開発を進めてみた</title>
+<link>https://qiita.com/Tachiuo/items/dde9afe6a6d2a3aa8618</link>
+<guid>bbd70fc5f0f3f58a39aa9be85ae632da0382231c1410018227c390751bfcb95e</guid>
+<pubDate>2026-11-21T15:44:18+09:00</pubDate>
+<description>はじめに 個人開発でAIに実装や調査を任せることが増えてきました。仕事に行っている間や寝ている間にも作業を進めてもらえるのは便利です。ただ、任せる仕事が増えると、別の難しさが出てきました。 「今、自分は何を進めたいのか」 「AIに何を任せているのか」 「返ってきた成果物の...</description>
 </item>
 <item>
-<title>【環境】 Plant-derived photocatalytic carbon dots for crop disease management</title>
-<link>https://www.nature.com/articles/s41893-026-01978-6</link>
-<guid>cd7bec521b6bdaa7e8e61dc2aa13d3ac89d5b97cef405a46287bd73e6876be22</guid>
-<pubDate>2026-11-20</pubDate>
-<description>Plant fungal pathogens in crops can lead to substantial economic losses and pose a severe threat to food security. To tackle wheat Fusarium head blight, a devastating disease infecting wheat crops, an effective antifungal strategy using plant-derived photocatalytic carbon dots has been developed.</description>
+<title>【Qiita】 Copilot エージェントの作成手段を定点観測する【観測編 #1】Ignite 2026 で変わったこと (2026 年 11 月 21 日時点)</title>
+<link>https://qiita.com/tadanok/items/dc4c319d3edc48e347ec</link>
+<guid>bd75e5def97669e7e034cfd819a685d554ae346dd6411c9ef9af9b0eaa01f31a</guid>
+<pubDate>2026-11-21T15:10:46+09:00</pubDate>
+<description>この記事は 2026 年 11 月 21 日時点の公開情報に基づいています。 Microsoft Ignite 2026 (11 月 17 日から 20 日) の講演と、Microsoft Learn の記載をもとにしています。 一部の項目は、筆者の検証用テナント (日...</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>2b4e462b684d0e36e08e4ce9cd16009b532ddac92f95aa5da705ba084268b4be</guid>
-<pubDate>Sat, 21 Nov 2026 00:29:46 GMT</pubDate>
-<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
+<title>【Qiita】 Goose CLIがAAIF移管後もblock/goose経由で迷わずインストールできた</title>
+<link>https://qiita.com/kai_kou/items/d77b4eff945393523a19</link>
+<guid>d2782d0c2063783521c6113df2e85beb5bc727c0ea6a514a0991aa6323afb033</guid>
+<pubDate>2026-11-21T16:09:29+09:00</pubDate>
+<description>はじめに オープンソースのAIエージェントCLI「Goose」が、開発元のBlock社を離れてLinux Foundation傘下の新団体「Agentic AI Foundation（AAIF）」に移管されました。リポジトリは block/goose から aaif-g...</description>
+</item>
+<item>
+<title>【Qiita】 Wide-Area Spatial Reconstruction x UE 5.9: Where the 360° Camera + AI Modeling Workflow Goes Next</title>
+<link>https://qiita.com/kotohibi/items/ea7befaec3ed30a5aa8b</link>
+<guid>e55a14a798a100c2bdbc94e97a8e513a253b87c4b9049c0950470e52a33717ef</guid>
+<pubDate>2026-11-21T13:31:18+09:00</pubDate>
+<description>Introduction In my previous article, I introduced a workflow for AI modeling of wide areas: build a dense point cloud in Metashape from ...</description>
+</item>
+<item>
+<title>【Qiita】 Codex CLI 0.167 のセッション管理入門、queue は名前と UUID で失敗箇所が違った</title>
+<link>https://qiita.com/kai_kou/items/056f43767340045a6d39</link>
+<guid>9d643450a01304dd8e9e7066e059e66df79e69f6360047539d20d798796fd223</guid>
+<pubDate>2026-11-21T12:09:24+09:00</pubDate>
+<description>はじめに 対象読者は、Codex CLI を複数セッションで使っていて、セッションの整理や CI からのメッセージ投入をスクリプトで自動化したい開発者です。 Codex CLI を毎日使っていると、セッションはすぐに溜まります。0.166.0〜0.167.x の chan...</description>
+</item>
+<item>
+<title>【Qiita】 2。Anthropicの透かし対応モデル表に自分の実行モデルが載っていた日、自分が公開した293本の記事のうちAI執筆だと読者に明示していた本数はこの数字だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/80843a72d3385c65c976</link>
+<guid>5c14df686a19c1b989389f31ef819542081ee6d007ce7014bbb14d947cbb6562</guid>
+<pubDate>2026-11-21T15:27:07+09:00</pubDate>
+<description>はじめに 2。 これが今回の数字です。何の2かというと、このZenn/Qiita自動投稿パイプライン(以下、このパイプライン)がこれまでに公開してきた記事、Zenn138本・Qiita155本・合計293本のうち、「この記事はAIが執筆した」と本文で読者に明示していた本数...</description>
+</item>
+<item>
+<title>【Qiita】 1。Microsoftが自律エージェントに「独自の持続ID」を持たせ人間と区別して監査できるようにした日、自分の直近30件のコミットの著者名の種類はこの数字だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/6941f75f04b4406ed88c</link>
+<guid>4a32fec6932ee9010a3d94e1b37429d9d9699d5fdaf52068d39fb2b3087a413c</guid>
+<pubDate>2026-11-21T09:46:07+09:00</pubDate>
+<description>はじめに 1。 これが今回の数字です。何の1かというと、Microsoftが2026年11月17〜20日のIgnite 2026で発表した常時稼働の自律エージェント「Copilot Autopilot」の話を読んだあと、自分がこのZenn/Qiita自動投稿パイプライン(...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/whos-doing-the-thinking-now-reflexivity-and-oversight-in-genai-mediated-decision-making/</link>
-<guid>711b9168ce8bea9f6705ce423cbbc5b853776d72395eb1fac63d915641e7b325</guid>
-<pubDate>Sat, 21 Nov 2026 00:29:50 GMT</pubDate>
+<link>https://research.google/pubs/ai-driven-high-risk-implementation-prediction-for-enterprise-digital-transformation-governance-using-machine-learning/</link>
+<guid>24b5eb10d077acbadacdefc3c1d735ca8e8766c47461d539c220e2cd00f1a033</guid>
+<pubDate>Sat, 21 Nov 2026 07:35:49 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78715-2</link>
-<guid>f708500d954625ccfda2356655c650e9732b440b4c0ff77bb458639e43e2ad65</guid>
-<pubDate>Sat, 21 Nov 2026 00:29:53 GMT</pubDate>
-<description>Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.</description>
+<guid>4ba932fa62148556fed99df54967783bb7fd94730f4db5c64db2f76b977c25dc</guid>
+<pubDate>Sat, 21 Nov 2026 07:35:51 GMT</pubDate>
+<description>Artificial intelligence for combinatorial optimization depends on high-quality, structured training data, yet transforming ambiguous natural-language descriptions into precise, executable formal models remains a major bottleneck, traditionally requiring extensive manual effort and domain expertise. We develop CPAM-LLM, an automated constraint-programming modeling framework based on large language models that converts unstructured problem specifications into validated and executable formal models. The framework integrates retrieval-augmented generation grounded in formal concept analysis for structural validation, chaos-mapping-based data augmentation to enhance cross-domain generalization, and dynamic constraint adaptation to accommodate evolving problem settings. We demonstrate its effectiveness across five scenarios, including DNA sequence design, reconfigurable energy storage systems, and unmanned vehicle logistics. The results show that the framework can automate the data-to-model pipeline while adapting reliably to changing requirements, providing a practical approach to automated data formalization and indicating the importance of accessible, high-quality structured data for </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-80974-4</link>
-<guid>6f52246d0c69ae1112d8fb89f8dfdb1a0c54e68fe73dce65fc70f99af4fdf790</guid>
-<pubDate>Sat, 21 Nov 2026 00:29:55 GMT</pubDate>
+<guid>01c491d11dc000acfda914537054ac84f8efb69cc7a2ee42742faf5933b40f37</guid>
+<pubDate>Sat, 21 Nov 2026 07:35:53 GMT</pubDate>
 <description>Emergency department disposition decisions integrate measurements, narratives and contextual risk. We developed SMARTriage AI, a multi-agent system combining role-specialized language-model agents with deterministic rules, intended as safety gates, to recommend admission or discharge. In a retrospective, single-center development study of 469 valid-label adult internal medicine and geriatric encounters from one 24-h period (468 analyzed; 154 admitted), prompts and rules were refined over about 30 cycles on the same cohort, without a held-out set. Apparent accuracy was 88.2% (95% CI, 85.0–90.9%) and admission recall 96.1%. Accuracy was 97.2% with physician summary or recommendations text (n = 248) and 78.2% without it (n = 220); with the text withheld it was 65.0%. After peer review, a redesigned system (v2), evaluated on all 469 encounters under a protocol locked before the runs, discriminated worse than a single language-model agent (Setting A AUC 0.794 vs. 0.821–0.823). At the pre-specified thresholds, accuracy was 76.3% for v2 versus 67.0% for discharging everyone. The multi-agent design did not outperform a single agent, and apparent performance was optimistically biased by dev</description>
-</item>
-<item>
-<title>【U.S.】 Scientists Discover New Twist in Nuclear Decay Rules</title>
-<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
-<guid>bdc886ee95366796aa9611917bc749823856bfbb0f530b2aa5059211c858c9b2</guid>
-<pubDate>Sat, 21 Nov 2026 00:30:00 GMT</pubDate>
-<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
 </item>
 
 </channel>
