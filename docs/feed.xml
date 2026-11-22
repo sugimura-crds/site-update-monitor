@@ -4,63 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Sun, 22 Nov 2026 01:28:40 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 08:29:28 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 2026年11月22日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/70ce7e25f1122e7d56ce</link>
-<guid>5f8236864a441ce1b3e5f50e7333f1c7bc136c26a3d38b694a23b9edc96035e3</guid>
-<pubDate>2026-11-22T10:19:15+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 【朗報】Microsoft 365 Copil...</description>
+<title>【Qiita】 Agent Harnessを理解するために、150行ほどのPythonで自作してみた</title>
+<link>https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>ef5485197a380b3fd35ca1a343b9c2562437157f797ba36abedd5e1f72bc638d</guid>
+<pubDate>2026-11-19T17:28:17+09:00</pubDate>
+<description>はじめに Claude Code、OpenAI Codex、OpenCode などの AI Coding Agent を使う機会が増えました。コードを読み、ファイルを編集し、テストを実行し、エラーを直す。複数のステップを自律的にこなしてくれます。 ただ、使っていると疑問が...</description>
 </item>
 <item>
-<title>【Qiita】 アプリとFigmaを画面単位で同期する定番は無かった - 層ごとに正を決め、Figma MCPでブランチに画面案を起こす</title>
-<link>https://qiita.com/zucky-quest/items/31d18d4e6560b2a29962</link>
-<guid>f7ea7ff446717feedd5f8d81e1282454b5cb0a680723ff141da5d38e22bdc372</guid>
-<pubDate>2026-11-22T09:20:03+09:00</pubDate>
-<description>TL;DR AI エージェントに、Figma へ新しい画面案を起こさせる仕組みを作りました。あわせて、Figma とアプリの見た目が食い違っていくのを防ぐ方法を調べました 調べた結論は、アプリと Figma を画面単位で同期し続ける定番の方法は無い、です。そこで、層ごと...</description>
+<title>【Qiita】 情報漏えいを公表しないリスクの要点整理</title>
+<link>https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>03f6239260b191c5db6bb2976dc36b9b55e1cfea4bf2510754dddec659af22fb</guid>
+<pubDate>2026-11-21T20:51:38+09:00</pubDate>
+<description>業務でセキュリティ動向を追う中で、情報漏えいの公表が毎日のように目につく。 ただ、公表されているのは被害を受けた企業の一部だけだと思う。 今はそれでも回っているが、前提が崩れつつある。自戒を込めて整理する。 先にキーワードを出す。 情報漏えい 個人情報保護委員会への報告 ...</description>
 </item>
 <item>
-<title>【Qiita】 Claude Code の定期実行で「期限が来たら確実に止まる」自律エージェントを作る</title>
-<link>https://qiita.com/minatoAI00/items/cc2485b65ab50e9661f0</link>
-<guid>98d39a581e7c8a94d7f0599f3bb7f81c94636fe9a9be38e47d194e84e1f88f22</guid>
-<pubDate>2026-11-22T07:36:49+09:00</pubDate>
-<description>はじめに Claude Code デスクトップアプリの「定期実行タスク」を使って、1時間ごとに自分で起動し、期限が来たら確実に止まる自律エージェントを作りました。 この記事では、実際に動かしている構成をそのまま紹介します。 毎回記憶がリセットされるエージェントに、作業を...</description>
+<title>【Qiita】 「財政出動は効かない」という多重防衛——メカニズム無効論の四つの柱を解体する : システム設計視点の行動経済学 (67)</title>
+<link>https://qiita.com/maskot1977/items/c7b88c9d6180b6ba0500?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>3eae5961218891f08ead5db31c4a6eb6c40bf159bd8ab7894583f15d8a589ca8</guid>
+<pubDate>2026-11-22T10:31:41+09:00</pubDate>
+<description>user: 「システム設計視点の行動経済学」、第67回を始めましょう。その前に、まず前回の復習として、 緊縮の痛みは成長に変わるか——実証的に棄却された仮説が政策に残り続ける認知設計 : システム設計視点の行動経済学 (66) https://qiita.com/mask...</description>
 </item>
 <item>
-<title>【Qiita】 乗っ取られたAIエージェントは「正規ユーザー」になる ― いちばん見つけにくい攻撃と、Devin / Claude Code での防ぎ方</title>
-<link>https://qiita.com/startdevin/items/10287138c5981c465a96</link>
-<guid>5129e1f72e6961e3914d81021c2b4c00fbb271069e881010c5a6c526c4ea44ee</guid>
-<pubDate>2026-11-22T07:17:07+09:00</pubDate>
-<description>🚀 Devin専門の解説メディア「StartDevin」を運営中！ Devinの導入・使い方・最新アップデート・活用事例を、日本語でまとめています。 👉 StartDevin をチェックする（startdevin.jp） この記事にぜひ いいね❤️ していただけると励み...</description>
+<title>【Qiita】 AWS構成図を毎回同じ形で出したい！ コード5行で図になるコマンドを作りました</title>
+<link>https://qiita.com/sagochiko/items/86cc8715558c0e93a296?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>df37c9200c9ec3866f72e2b6282474dc04313df3b9f5195613f8ef7abc3df627</guid>
+<pubDate>2026-11-21T15:39:39+09:00</pubDate>
+<description>AIエージェントに AWS の構成図を描かせると、同じ依頼でも回ごとに図が変わります。 そこで、AIに座標とXMLを書かせるのをやめて、5行の定義から構成図を組み立てるコマンド「archwire」を作りました。GitHub で公開していて、uvx archwire ですぐ試...</description>
 </item>
 <item>
-<title>【Qiita】 0。GitHub Copilot Fusionが『モデルではなく難易度を選ぶ』形で全プランに展開された日、自分の指示書がタスクの重さに応じてモデルを選び直していた回数はこの数字だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/c0e22f681c310d554441</link>
-<guid>6ef8a62ec75b3ac635efbf348c428d681658fa09027ef7bba9ccfe022bf3048c</guid>
-<pubDate>2026-11-22T09:45:59+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、このZenn/Qiita自動投稿パイプラインの定期実行(この記事を書いている回を含む)の中で、「今やっている作業がどれくらい重いか」に応じて、使うモデルやエージェントの実行強度(effort)を自分で選び直していた回...</description>
+<title>【Qiita】 AIエージェント（Muse）にサイト運用を任せる構成を、ゼロから作る — アカウント作成から指示の出し方まで</title>
+<link>https://qiita.com/musing_lab/items/e3e41911f5481309e817</link>
+<guid>d4e7b9801b6b675b00da1f35f8cf9d049b304233d75853b157f4b1253585170f</guid>
+<pubDate>2026-11-22T17:09:30+09:00</pubDate>
+<description>はじめに：完成形と、必要なもの この記事は、まとめ記事「AIエージェント（Muse）にサイト運用を任せる構成と検証のまとめ」 の続編です。まとめ記事では構成と役割分担の全体像を示しました。この記事では、その構成を 読者がゼロから同じ形に作れるよう、アカウント作成から設定、...</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>5a07a24f682181315f22e4956517fb3f28d74ceaa68b1deff53b550ea3d429d4</guid>
-<pubDate>Sun, 22 Nov 2026 01:27:38 GMT</pubDate>
-<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
+<title>【Qiita】 Claude Code の組み込み mod「easel」でターミナルにグラフを描いてみた</title>
+<link>https://qiita.com/leomarokun/items/b0f8880b3a2be7ebc313</link>
+<guid>2fb0e1cacd589747ca8599b2c8fa9d2a014af089a06cafb93a9240c5f57fbf84</guid>
+<pubDate>2026-11-22T16:43:38+09:00</pubDate>
+<description>はじめに Claude Code v2.1.330 で、ターミナルの会話の中にグラフを描く組み込み mod「easel」の追加が発表されました。 mod（Claude Code の見た目や動きを変えるプラグインの一種）として最初から入っており、インストール作業は要り...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントは「作るもの」から「任せるもの」へ。任せるときに必要な4つのこと</title>
+<link>https://qiita.com/koheip/items/3c1fb0d6c1aa7a10081a</link>
+<guid>16d37d99aa0e462b00b69e60bc45fde3b2c268263d83915c8e4d04a0607f6bd5</guid>
+<pubDate>2026-11-22T16:28:37+09:00</pubDate>
+<description>はじめに ZEN大学で知能情報を学んでいる2年生の松延です。AIエンジニアを目指して、AIエージェントの個人開発を続けています。 AIエージェントの話は、ここしばらくで重心が変わったと感じています。少し前までの中心は、「どう作るか」でした。いま日常の開発で起きているのは、...</description>
+</item>
+<item>
+<title>【Qiita】 AIOps 2.0：ITシステム運用における生成AI活用のキモ</title>
+<link>https://qiita.com/Masaomi_MORI/items/58b4e3d556eed1cb2169</link>
+<guid>ca8b93bf0aa69ef4540770ccad2231125b15d7cbeba8cfcbdd0a6f96917498e2</guid>
+<pubDate>2026-11-22T16:10:27+09:00</pubDate>
+<description>はじめに 昨今お客様とITシステム運用について話す機会を頂くなかで、生成AIの進化が目覚ましいので、ChatGPTやClaudeといったAIエージェントを使ってITシステム運用を劇的に変革できるのでは、複雑なシステムのトラブルをAIが原因解析してくれるのでは、といった期待...</description>
+</item>
+<item>
+<title>【Qiita】 Cursor CLIをCIで動かす前に押さえる認証と-pモードの要点（2026年10月版）</title>
+<link>https://qiita.com/kai_kou/items/7f63f2645792a44cf77b</link>
+<guid>0a82283ea5bd0bcb9634beb7df8a1c2d46e5d27c24055b1f3d9a49098f3d7403</guid>
+<pubDate>2026-11-22T16:09:34+09:00</pubDate>
+<description>はじめに Cursor CLI（コマンド名 agent）は更新の速いツールで、2026年8月から10月だけでも CLI の changelog には少なくとも6回のリリースが並んでいます1。CI に組み込もうとすると「ログインはどうするのか」「確認プロンプトで止まらない...</description>
+</item>
+<item>
+<title>【Qiita】 0。OpenAIがAgent Builderの終了を180日前に予告した日、自分のZenn・Qiita記事297本を収めた2つのリポジトリがGitHub以外に持つ複製の数を数えたら、この数字だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/b9988a0b1626ca6f62a6</link>
+<guid>3f2b9e241bb7ed3d0fad23b151dfd9f3595e1df41fce859d5db8afaf9797201c</guid>
+<pubDate>2026-11-22T15:27:15+09:00</pubDate>
+<description>はじめに 0。 これが今回の数字です。OpenAIは2026年6月3日、ノーコードでAIエージェントを組み立てられる機能「Agent Builder」の廃止を予告し、2026年11月30日に提供を終了すると発表しました。予告から終了まで180日間の移行期間が設けられ、既存...</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/whos-doing-the-thinking-now-reflexivity-and-oversight-in-genai-mediated-decision-making/</link>
-<guid>d5254a975c3d94e39093e195ae3948413d311f836f33308f6811174000376958</guid>
-<pubDate>Sun, 22 Nov 2026 01:27:41 GMT</pubDate>
+<link>https://research.google/pubs/a-data-driven-biophotonic-skin-model-for-wearable-sensing/</link>
+<guid>ae57b121cc65a252bb20d28091919aa532efa706c41a0f074517e08107ea8a1a</guid>
+<pubDate>Sun, 22 Nov 2026 08:28:51 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=Self-driving+laboratories&amp;date_range=last_30_days&amp;order=relevance</link>
-<guid>b592a85133321aa7b337179febe7f6fc2eb2e3c4872cfdf4ebfdf21b69bdb044</guid>
-<pubDate>Sun, 22 Nov 2026 01:27:50 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI4S】 Filter By:</title>
+<link>https://www.nature.com/articles/s41467-026-78715-2</link>
+<guid>230bd0b7de27bd6b23aed3a8e72a8e5c0ca2e444af3ce92db7568749677b8dbc</guid>
+<pubDate>Sun, 22 Nov 2026 08:28:54 GMT</pubDate>
+<description>Artificial intelligence for combinatorial optimization depends on high-quality, structured training data, yet transforming ambiguous natural-language descriptions into precise, executable formal models remains a major bottleneck, traditionally requiring extensive manual effort and domain expertise. We develop CPAM-LLM, an automated constraint-programming modeling framework based on large language models that converts unstructured problem specifications into validated and executable formal models. The framework integrates retrieval-augmented generation grounded in formal concept analysis for structural validation, chaos-mapping-based data augmentation to enhance cross-domain generalization, and dynamic constraint adaptation to accommodate evolving problem settings. We demonstrate its effectiveness across five scenarios, including DNA sequence design, reconfigurable energy storage systems, and unmanned vehicle logistics. The results show that the framework can automate the data-to-model pipeline while adapting reliably to changing requirements, providing a practical approach to automated data formalization and indicating the importance of accessible, high-quality structured data for </description>
+</item>
+<item>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41598-026-80974-4</link>
+<guid>c33dc33507b8bcbe9699b309a3365a00f4138587280feec6e85496d69079c009</guid>
+<pubDate>Sun, 22 Nov 2026 08:28:56 GMT</pubDate>
+<description>Emergency department disposition decisions integrate measurements, narratives and contextual risk. We developed SMARTriage AI, a multi-agent system combining role-specialized language-model agents with deterministic rules, intended as safety gates, to recommend admission or discharge. In a retrospective, single-center development study of 469 valid-label adult internal medicine and geriatric encounters from one 24-h period (468 analyzed; 154 admitted), prompts and rules were refined over about 30 cycles on the same cohort, without a held-out set. Apparent accuracy was 88.2% (95% CI, 85.0–90.9%) and admission recall 96.1%. Accuracy was 97.2% with physician summary or recommendations text (n = 248) and 78.2% without it (n = 220); with the text withheld it was 65.0%. After peer review, a redesigned system (v2), evaluated on all 469 encounters under a protocol locked before the runs, discriminated worse than a single language-model agent (Setting A AUC 0.794 vs. 0.821–0.823). At the pre-specified thresholds, accuracy was 76.3% for v2 versus 67.0% for discharging everyone. The multi-agent design did not outperform a single agent, and apparent performance was optimistically biased by dev</description>
 </item>
 
 </channel>
