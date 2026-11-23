@@ -4,84 +4,154 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Mon, 23 Nov 2026 11:32:45 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 23:04:40 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Microsoft Ignite 2026 速報：Intune がサーバー管理、アプリ自動更新、AI エージェント管理へ拡大</title>
-<link>https://qiita.com/carol0226/items/6fda71a853b6e77d6b5e</link>
-<guid>b0b8911761542c95b4bbd2e3a4a2cf8f26af60ac43d1c141190f59e72e7d10d8</guid>
-<pubDate>2026-11-18T20:03:37+09:00</pubDate>
-<description>はじめに Microsoft Ignite 2026 に現地参加しています。 今回は、Intune のセッション 「What’s New in Intune: Secure, Patch, and Scale」（BRK404） に参加しました。 45分のセッションで...</description>
+<title>【Qiita】 セキュリティ情報 406 件を「脆弱性-手口-被害-対策」の1枚の分類図にまとめてから読めたこと</title>
+<link>https://qiita.com/songchong/items/4ad36f1857ba2b4ee4f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>d7ea3cea85f1723e489eb3bb80c60d2a4619ec7c7593b9d3e9611dfd4bc47893</guid>
+<pubDate>2026-11-23T07:01:05+09:00</pubDate>
+<description>分類図は IT連携マップで操作できます → https://renkeimap.jp/security/map 上の図は、分類図の全体を 1 枚の画像にした一例です。サイトの分類図では、分類を押すと、つながる前後の分類だけが残り、その分類に入った件の一覧が出ます。上の...</description>
 </item>
 <item>
-<title>【Qiita】 週次チェックをAIエージェント（Muse）に任せる構成 — チェックと計画案の提示までを自動化する</title>
-<link>https://qiita.com/musing_lab/items/138220053075bad57e07</link>
-<guid>fbe70137bccd34a54b5490feeb865383f5c0deceedd302eecf88aa316fefd47a</guid>
-<pubDate>2026-11-23T20:13:16+09:00</pubDate>
-<description>はじめに AIエージェントにサイト運用を任せる構成については、まとめ記事 と ゼロから作る再現手順 で書きました。この記事では、その先の話として 「週に一度の振り返り（チェック）と、次の一手の提案」までをエージェントに任せる構成 を紹介します。 ポイントは線引きです。週次...</description>
+<title>【Qiita】 登壇時、画面共有時にモザイクをかける方法について</title>
+<link>https://qiita.com/Takashi_Masumori/items/ffaa4a7e8008481a1d14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>74909ba6823f17e0a716fa970d707148d00a31cdf84cc737ddb2d903cc4b0992</guid>
+<pubDate>2026-11-23T07:20:58+09:00</pubDate>
+<description>はじめに 画面共有や登壇をしている際に、よく、そのモザイクどうやってかけているんですか？と聞かれることがあります。 今回は、私が普段使っているツールに関して、方法に関して紹介をしたいと思います。 ※紹介するツールを利用するかどうかは、ご自身の責任でご判断ください。 Te...</description>
 </item>
 <item>
-<title>【Qiita】 ChatGPTを使うのとどう違う？ 2つの軸でわかるAIエージェントのつくり方</title>
-<link>https://qiita.com/mi-ta/items/6f5f452dc268d78ef34e</link>
-<guid>db97da603e495c3650ef3f6ac548f45453d9e81845d2fb1a85b2a90f71680bc0</guid>
-<pubDate>2026-11-23T20:11:52+09:00</pubDate>
-<description>はじめに 「うちもAIエージェントをつくろう」と言われたとき、こんな疑問が浮かびませんか？ そもそも「AIエージェントをつくる」とは、どのような構造を目指すことなのか？ ChatGPTやClaudeをそのまま使う場合と何が違うのか？ どうやったらつくれるのか？ 目指す...</description>
+<title>【Qiita】 IBM i 7.6 PTF SJ11502適用 で 5400,5577/5579の直接接続,PCOMM経由で印刷不能になる件</title>
+<link>https://qiita.com/gomAnomalocaris/items/bbb5573f0e53e6652255</link>
+<guid>87561397980162fe7fcbe8eddadb54e3d8e473abf5c78d25a9dfbe0d5f3dee2f</guid>
+<pubDate>2026-11-24T07:36:34+09:00</pubDate>
+<description>IBM 発表レター情報 Telnetプリンタセッションの権限変更 https://www.ibm.com/docs/ja/i/7.6.0?topic=changes-authority-telnet-printer-sessions JBCC社発表 TN5250プリンター...</description>
 </item>
 <item>
-<title>【Qiita】 【備忘録】Windows 365 for AgentsとMicrosoft Dev Boxの違いを整理する ― 「誰が使うCloud PCか」で見分ける</title>
-<link>https://qiita.com/Tadataka_Takahashi/items/2a22c2798abb8ea3d360</link>
-<guid>3ae5ff6827cb61375aa8d14a7d78251cf5c6c242fd94ed9fbd7571eccc8074c8</guid>
-<pubDate>2026-11-23T19:32:24+09:00</pubDate>
-<description>はじめに Windows 365 for Agents と Microsoft Dev Box は、どちらもクラウド上に作業環境を用意するサービスです。どちらもMicrosoft Entra IDとMicrosoft Intuneで管理し、説明に「プール」という言葉が出...</description>
+<title>【Qiita】 IBM i 7.6でMFAを有効化</title>
+<link>https://qiita.com/Jun__Saito/items/f6e1e4455fa7c513e8b7</link>
+<guid>f986faac50cca226398fc877fe0a645cd44d245fc1d8b13a41d0400ae86964ed</guid>
+<pubDate>2026-11-23T22:11:37+09:00</pubDate>
+<description>はじめに この記事では、IBM i 7.6 で多要素認証（MFA）を有効化し、Google Authenticator で生成した TOTP 値を使ってログインするまでの設定をした作業メモです。 IBM i 7.6 では、パスワードに加えて TOTP（Time-based...</description>
 </item>
 <item>
-<title>【Qiita】 Jev を試してみたけど、結局入れなかった話</title>
-<link>https://qiita.com/asyoroa/items/3c34eb6af6f4a5f9e83a</link>
-<guid>3ab2158448c2609d6ce3401aed221727ff0ba945a6eda91962c563bf1af028e2</guid>
-<pubDate>2026-11-23T17:46:55+09:00</pubDate>
-<description>はじめに (前回の記事の appendix として) この記事は、「LLMに任せる範囲を、失敗を見ながらコードへ移していった話」のおまけです。 前編：全体像と照合ロジック 後編：カード表示とHITL、改善の過程 前回は、見積書の値と自社マスタを照合する処理を、LLM ...</description>
+<title>【Qiita】 🧠Work IQ・Fabric IQ・Foundry IQ・Web IQ って何だっけ？ Microsoft IQ の 4 つを 1 本で整理する</title>
+<link>https://qiita.com/aktsmm/items/1a1ef35ee48d7ef665ba</link>
+<guid>b2d1818c4bc3e768d917ccf8c70fbf26557d4e6744e3339211217e75057bfe0c</guid>
+<pubDate>2026-11-24T01:17:27+09:00</pubDate>
+<description>こんにちは、IQ が増えすぎて「Fabric IQ ってなんだっけ？ Foundry IQ は？ Web IQ は？」と毎回なるアーキテクトのやまぱん！です 😅 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ Micros...</description>
 </item>
 <item>
-<title>【農業】 Biodiversity footprints of food consumption decouple from economic growth at high income levels</title>
-<link>https://www.nature.com/articles/s43016-026-01465-3</link>
-<guid>e4d61d6fbdcb2827e485714922ec4ec9c93cfab850369d2685f227d87692a725</guid>
+<title>【Qiita】 なぜモデルを替えたらCLAUDE.mdを削るのか：公式ドキュメントから見る3つの理由と置き場所の選び方</title>
+<link>https://qiita.com/YujiNaramoto/items/065b72bc642ccb1d0e80</link>
+<guid>9f30e6d9fc49557709a08034d85cf45d6bd6cf6e9328ef14a3019322870d4a7c</guid>
+<pubDate>2026-11-24T06:58:53+09:00</pubDate>
+<description>この記事は モデルを替えたらCLAUDE.mdは削る：残す行・消す行の判断基準とAIへの仕分けの頼み方 からの転載です。 この記事で分かること モデルを替えたあとに、CLAUDE.md の行が効かなくなる、または逆効果になる理由 「消す / hook / rule...</description>
+</item>
+<item>
+<title>【Qiita】 AIエージェントの記憶は、毎回top_kで取らない。MemConで検索・再利用・削除を選ぶ</title>
+<link>https://qiita.com/mhamadajp/items/d495cf61a29b7c0856dc</link>
+<guid>2cdccab1259f627d020cf0fcaca486d64f713ce5d10d778d68dc04344af97cc2</guid>
+<pubDate>2026-11-24T05:03:03+09:00</pubDate>
+<description>似た障害が3件あっても、今回の直し方とは限らない たとえば、運用を手伝うエージェントが、過去の障害対応を見ながら切り分けを手伝うとします。 「Webサーバーの応答が遅い。」 記憶はまだ10件ほどです。検索は3件を返します。データベースの接続が増えて遅れた件。ネットワーク機...</description>
+</item>
+<item>
+<title>【Qiita】 Claude Code にテストを回させるとトークンが溶けるので、エージェント実行時だけログを絞る Java ロガーを作った</title>
+<link>https://qiita.com/_alexander_a_/items/f3a792b1105af0919141</link>
+<guid>298e960b7d388db3691b3d1b03d5bd0c0e169185d926984bdeddd2c78ab014a1</guid>
+<pubDate>2026-11-24T03:40:01+09:00</pubDate>
+<description>エージェントはログを全部は読まない Claude Code に mvn -q test を実行させると、その出力はコマンドの実行結果としてエージェントに返されます。200 件の注文を処理するバッチが 150 件目で落ちるテストで測ってみたら、出力は 558 行、39,35...</description>
+</item>
+<item>
+<title>【Qiita】 AI エージェントとは？仕組みから Agent Skills までわかりやすく解説</title>
+<link>https://qiita.com/CHEN98/items/c8bb47f0b0aabcffdb92</link>
+<guid>4785cc7f10e4679ff771692242448b994fe2b70c684b9a30c4b989c3c284b033</guid>
+<pubDate>2026-11-24T01:29:03+09:00</pubDate>
+<description>1. AI エージェントとは何か AI エージェント（以下、エージェント）とは、LLM がツールを使いながら、次に何をするかを自分で決め、タスクが終わるまで処理を続けるシステムです。一問一答のチャットアプリケーションが受け取るのは質問ですが、エージェントが受け取るのは目標...</description>
+</item>
+<item>
+<title>【自動自律実験】 Hexa-substituted benzene synthesis with non-classical carbocations</title>
+<link>https://www.nature.com/articles/s41586-026-11449-9</link>
+<guid>83baaa1022851738b6d8a9cbaa46a419b8d36a9b6cf9df26b25425263cc76e74</guid>
 <pubDate>2026-11-23</pubDate>
-<description>An analysis of 158 countries over 25 years shows that biodiversity footprints of food consumption are more likely to decouple from economic growth at higher income levels, with stronger decoupling for plant-based foods than for animal-based foods, especially ruminant meat.</description>
+<description>Hexa-substituted benzene synthesis with non-classical carbocations</description>
 </item>
 <item>
-<title>【農業】 El Niño amplified food insecurity in early modern Europe from 1500 to 1800</title>
-<link>https://www.nature.com/articles/s43016-026-01460-8</link>
-<guid>cd94cd1531803167e3338c0a929463d1b95db33de310627862114ba21809f103</guid>
+<title>【自動自律実験】 Continuous N-to-C Peptide Synthesis</title>
+<link>https://www.nature.com/articles/s41586-026-11448-w</link>
+<guid>904a06ba4314e158eaca93b7c7382fd7c723337cd8db0b3e1bac0dee9fdf2a5c</guid>
 <pubDate>2026-11-23</pubDate>
-<description>The El Niño/Southern Oscillation is a dominant source of global interannual climate variability, yet its influence on historical food security in Europe remains underexplored. Drawing on a dataset of 160 European famine episodes, this study shows the association between El Niño events and the onset and duration of fami</description>
+<description>Continuous N-to-C Peptide Synthesis</description>
 </item>
 <item>
-<title>【自動自律実験】 Build for the future climate — or waste trillions of dollars</title>
-<link>https://www.nature.com/articles/d41586-026-03722-8</link>
-<guid>ea4b7f4ac628f5dfe60d80795e88534154f6a2f8f70a0dde788656593de0fa52</guid>
+<title>【自動自律実験】 Architecture of the poxvirus early-transcription machinery and portal complex</title>
+<link>https://www.nature.com/articles/s41586-026-11458-8</link>
+<guid>326e50d34a3eb56bef58ff72f034edee40baec5a9a47d320c65b5976e60c8c1f</guid>
 <pubDate>2026-11-23</pubDate>
-<description>Development planning needs a permanent system that connects climate projections to the decisions that shape what infrastructure gets built.</description>
+<description>Architecture of the poxvirus early-transcription machinery and portal complex</description>
+</item>
+<item>
+<title>【自動自律実験】 ‘Mozart of maths’ Terence Tao is your guide to what underpins reality</title>
+<link>https://www.nature.com/articles/d41586-026-03720-w</link>
+<guid>a1840c6ff7516213550002b883e592cfce7f0116b3308178ee479f774145be71</guid>
+<pubDate>2026-11-23</pubDate>
+<description>A Fields Medallist reveals how curiosity about numbers can lead to solutions in the real world.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
-<guid>87fa49731c409c54914971da82e8f6c620d6d6424c84c020727a42fdb52238e7</guid>
-<pubDate>Mon, 23 Nov 2026 11:31:52 GMT</pubDate>
+<link>https://research.google/pubs/the-decision-accountability-gap-symbolic-oversight-theory-and-pivot-to-human-in-the-accountability-loop-hial/</link>
+<guid>1c85326785115093e21ebf4913c0517960977bf3116c044675c7187892874d72</guid>
+<pubDate>Mon, 23 Nov 2026 23:03:44 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78715-2</link>
-<guid>c7938199f124d831a24a260e688c5b395786f7c3913e0a33c7e0fa6a61d733a7</guid>
-<pubDate>Mon, 23 Nov 2026 11:31:55 GMT</pubDate>
+<guid>121e9994f63228a50ca2c20998af02c1b854f3a35a1485fb5b67327a5dd0e0f1</guid>
+<pubDate>Mon, 23 Nov 2026 23:03:47 GMT</pubDate>
 <description>Artificial intelligence for combinatorial optimization depends on high-quality, structured training data, yet transforming ambiguous natural-language descriptions into precise, executable formal models remains a major bottleneck, traditionally requiring extensive manual effort and domain expertise. We develop CPAM-LLM, an automated constraint-programming modeling framework based on large language models that converts unstructured problem specifications into validated and executable formal models. The framework integrates retrieval-augmented generation grounded in formal concept analysis for structural validation, chaos-mapping-based data augmentation to enhance cross-domain generalization, and dynamic constraint adaptation to accommodate evolving problem settings. We demonstrate its effectiveness across five scenarios, including DNA sequence design, reconfigurable energy storage systems, and unmanned vehicle logistics. The results show that the framework can automate the data-to-model pipeline while adapting reliably to changing requirements, providing a practical approach to automated data formalization and indicating the importance of accessible, high-quality structured data for </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-80974-4</link>
-<guid>12a826f1b55f03f38ff15d883133f4968afd26b0daeb8e03c6e90e8ed48200dd</guid>
-<pubDate>Mon, 23 Nov 2026 11:31:57 GMT</pubDate>
+<guid>c29717ebd50046cef83fec2181c2df80fdca3a84605e8c9b5bb708d0d723fbf8</guid>
+<pubDate>Mon, 23 Nov 2026 23:03:50 GMT</pubDate>
 <description>Emergency department disposition decisions integrate measurements, narratives and contextual risk. We developed SMARTriage AI, a multi-agent system combining role-specialized language-model agents with deterministic rules, intended as safety gates, to recommend admission or discharge. In a retrospective, single-center development study of 469 valid-label adult internal medicine and geriatric encounters from one 24-h period (468 analyzed; 154 admitted), prompts and rules were refined over about 30 cycles on the same cohort, without a held-out set. Apparent accuracy was 88.2% (95% CI, 85.0–90.9%) and admission recall 96.1%. Accuracy was 97.2% with physician summary or recommendations text (n = 248) and 78.2% without it (n = 220); with the text withheld it was 65.0%. After peer review, a redesigned system (v2), evaluated on all 469 encounters under a protocol locked before the runs, discriminated worse than a single language-model agent (Setting A AUC 0.794 vs. 0.821–0.823). At the pre-specified thresholds, accuracy was 76.3% for v2 versus 67.0% for discharging everyone. The multi-agent design did not outperform a single agent, and apparent performance was optimistically biased by dev</description>
+</item>
+<item>
+<title>【U.S.】 Trapping Xenon Atoms in Nanocages</title>
+<link>https://public.govdelivery.com/accounts/USDOEOS/subscriber/new?topic_id=USDOEOS_204</link>
+<guid>0708b16d355a605e07144dda82c8a96faa5da55b2d9e9fa5ea9be6dd0b49e0cd</guid>
+<pubDate>Mon, 23 Nov 2026 23:03:54 GMT</pubDate>
+<description>Office of Science Advisory Committee (SCAC) Contact SCAC: scac@doe.gov Mailing List: Click to subscribe Designated Federal Officer: Dr. Linda Horton Committee Manager: Katie Runkles The SCAC provides advice to DOE on a variety of complex scientific and technical issues that arise in the planning, management, and implementation of DOE’s Office of Science (SC) research programs. SCAC’s advice includes establishing research and facilities priorities; determining program balance among disciplines; and identifying opportunities for inter-laboratory collaboration, program integration, and industrial</description>
+</item>
+<item>
+<title>【U.S.】 Latest Press Releases</title>
+<link>https://www.energy.gov/pa/office-public-affairs</link>
+<guid>b6e3c1ee12f417ce78d2072e4bb59780d9f524b6c05149ac14c0b344a4329541</guid>
+<pubDate>Mon, 23 Nov 2026 23:03:56 GMT</pubDate>
+<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+</item>
+<item>
+<title>【U.S.】 Suggested Matches</title>
+<link>https://www.energy.gov/search?keywords=%22Genesis%20Mission%22</link>
+<guid>4d84dfbffb8234753c69a1c5504aa521b27bb94894fb32a929e9110a05bf1db8</guid>
+<pubDate>Mon, 23 Nov 2026 23:04:06 GMT</pubDate>
+<description>… Genesis Mission … Genesis Mission is building a new instrument for discovery, uniting …</description>
+</item>
+<item>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>7874c3800aedc49c409bf60645efbd4d2506145336a6daa9de1e507150403948</guid>
+<pubDate>Mon, 23 Nov 2026 23:04:23 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+</item>
+<item>
+<title>【環境】 Even the ‘good guys’ of AI are locking in fossil fuels</title>
+<link>https://grist.org/?s=AI</link>
+<guid>c69df12fb9d1faff5f5de57abfac92051e72e87e8129d7cbaf8505bf58bea2f5</guid>
+<pubDate>Mon, 23 Nov 2026 23:04:31 GMT</pubDate>
+<description>Anthropic claims to be developing AI safely. Why doesn’t its own climate impact make the cut?</description>
 </item>
 
 </channel>
