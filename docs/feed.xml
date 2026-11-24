@@ -4,120 +4,133 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Tue, 24 Nov 2026 07:00:46 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 18:44:02 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 Box Node.js SDKを使ってフォルダ操作を自動化する</title>
-<link>https://qiita.com/ryoi1d8c0/items/687a8bd34aac702f72c1</link>
-<guid>93b4d2a4318f50cde5a9e7f3eebff2e19c553460cd7398ffd6838b1b2fe99127</guid>
-<pubDate>2026-11-24T10:01:55+09:00</pubDate>
-<description>背景・目的 申請システムとBoxを連携した業務フローにおいて、担当者が手動で行っていた以下のBoxフォルダ操作を自動化することを目指しています。 申請が承認されたら、フォルダ名に申請IDを付与する フォルダを「申請」フォルダから「利用中」フォルダへ移動する 利用終了時に...</description>
+<title>【Qiita】 なぜ 11 月に日本のサイバー事故は「爆発」したのか — 605件を数えたら「日本が狙われている」だけではなかった</title>
+<link>https://qiita.com/songchong/items/073f202bb0ca65611b30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>9e44ddbaba67e007b11801bde42a8216cb3359c24dde0cfc79f6be529b9db3b2</guid>
+<pubDate>2026-11-24T04:05:56+09:00</pubDate>
+<description>この図は IT連携マップで操作できます → https://renkeimap.jp/security/incidents 上の図は、セキュリティ事故の一覧の頭にある図「事故の時期と規模」を 1 枚の画像にしたものです。サイトの図では、円を押すと、その事故のカード（漏...</description>
 </item>
 <item>
-<title>【Qiita】 PDFスライドを音声・字幕・動き付きの動画にするAIスキル+アプリ｜Claude Code・IBM Bobで実践</title>
-<link>https://qiita.com/c_u/items/3a942b1131c8ef12a142</link>
-<guid>242ba1d443789ea43ff954971e63bd4123097d3e0cdcf81c4afc89e50bc3c677</guid>
-<pubDate>2026-11-24T08:19:39+09:00</pubDate>
-<description>はじめに PDF資料から、音声・説明字幕・アニメーション付きの動画を作る、自作のAIスキルとアプリ「slide-caption-voice-movie」をご紹介します。 Claude CodeやIBM BobにPDFを渡すと、各ページの内容に合わせて部品ごとの動きと字幕...</description>
+<title>【Qiita】 dev-orchestra に、設計の前に質問させてみた</title>
+<link>https://qiita.com/istb16/items/173edbe65da9ae5639f8</link>
+<guid>2feffeefd6c556eee67f1f1140f5079bf699abfe4e8a559effc045b57d6ecdfa</guid>
+<pubDate>2026-11-25T02:59:19+09:00</pubDate>
+<description>はじめに AI に「タスクに期限を付けられるようにして」とだけ頼むと、どんな機能ができるでしょうか。期限は追加するときに付けるのか、あとから付けるのか。日付だけか、時刻も入れるのか。一覧は期限の順に並べるのか。 頼んだ側が決めていないことは、AI が黙って決めて計画を書き...</description>
 </item>
 <item>
-<title>【Qiita】 企業にはすでにAIアシスタントが導入されています。それなのに、なぜオフィスワーカーは依然として疲弊しているのでしょうか？</title>
-<link>https://qiita.com/alibabacloud-sa/items/1e216d7ce87bb7c6b7c6</link>
-<guid>cc814933f42030aeff912cf83a9ca7524ade1f53b892b2fc65a8ea44a528a491</guid>
-<pubDate>2026-11-24T15:55:59+09:00</pubDate>
-<description>著者：Alibaba Cloud AIDBS 1. AIは分析に参加するが、作業の推進は依然として人間が担っている 「この指標が最近低下した理由は何ですか？地域とカテゴリごとに分解し、次にどう調整すべきか検討しましょう。」 これは、私たちが最近実際に対応した実際の業務課...</description>
+<title>【Qiita】 AIエージェント（Muse）に別のAI（Gemini）を組み合わせた — 無料枠で始める「作る側と疑う側」の分担</title>
+<link>https://qiita.com/musing_lab/items/8d8b1fcfedd98ac4aeda</link>
+<guid>b3529db59fd08e5d8e8716979274b92d164e2df3f2d76a0ce55a3826e2eec1b1</guid>
+<pubDate>2026-11-25T00:53:41+09:00</pubDate>
+<description>はじめに 小さなサイト（ゲーム・ツール10本）の運営を、AIエージェント（Muse）に任せています。作るのも、検証するのも、記事を書くのも同じモデルだと、盲点がそのまま残ります。任された側が書いた企画は、任された側では疑いにくいからです。 そこで、別のモデル（Google...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェント「Muse」にClaudeとChatGPTを議論させたら、会社名決めが進んだ話</title>
-<link>https://qiita.com/gimn7tztc/items/692d899004c61aac1255</link>
-<guid>3dbb92bc33b8dfd5fd9c48f46751a93811412c198737376d222d1b67415f8442</guid>
-<pubDate>2026-11-24T15:21:17+09:00</pubDate>
-<description>答えが一つに決まらないことを、これから決める人へ。 私は今、個人事業から法人化を見据えて、将来の会社名にもなり得る名前を決めている最中です。決め方として、ClaudeとChatGPTに候補を出してもらい、Museにその2つを操作させて議論させる、という方法を取りました。 結...</description>
+<title>【Qiita】 赤いテンガロンハットのおじさん、Microsoft Ignite 2026に行く！ ～AI時代のSQL ServerとMicrosoftのこれから～ 詳細版</title>
+<link>https://qiita.com/lowgain/items/b4f68e7588c571902271</link>
+<guid>6194cbc06576720639b960c4b3c23183671ff0e029c4f477460ad7fd3712a1b0</guid>
+<pubDate>2026-11-24T22:57:43+09:00</pubDate>
+<description>赤いテンガロンハットのおじさん、Microsoft Ignite 2026に行く！ ～AI時代のSQL ServerとMicrosoftのこれから～ 詳細版 はじめに Microsoft Ignite 2026に参加するため、サンフランシスコに行ってきました。 今回はM...</description>
 </item>
 <item>
-<title>【Qiita】 【保存版】Temporalで作る「24時間落ちない」AIエージェント完全ガイド2026 - Signal/Update/Schedule/承認フローを全部入りで本番運用する</title>
-<link>https://qiita.com/emi_ndk/items/09e7a8a0c34c0c7b5b1a</link>
-<guid>51d310ec96dcc463daad7f695b43a6ac44035d96afd64b57d787cc40a04fb45d</guid>
-<pubDate>2026-11-24T14:41:11+09:00</pubDate>
-<description>あなたのAIエージェント、夜中に落ちたら「何をやっていたか」覚えていますか？ たとえば、午前3時。LLMのAPIが一瞬だけ429を返して、あなたの while True が例外で止まる。 朝起きると、処理は途中で止まり、どこまで終わったのかも分からない。しかも、やり直すと同...</description>
+<title>【Qiita】 DatabricksのUnity Gatewayで生成AIのモデル選び・安全対策・コスト管理をまとめて解決する</title>
+<link>https://qiita.com/happyseto/items/04be4c0391993503fa87</link>
+<guid>a6d81dee0c113d54c746c45d7f0caba1ba3c354c43e3d3cf393ab647a82f4fe9</guid>
+<pubDate>2026-11-24T21:42:46+09:00</pubDate>
+<description>生成AIを業務アプリに組み込むと次のような悩みが出てきます。 どのモデルを使うのが正解か分からない。新しいモデルもどんどん出てくる... 個人情報を外部のモデルに渡したくない... 誰がどれだけ使っていて、コストはいくらかを把握したい... モデルの障害や混雑で、アプリが...</description>
 </item>
 <item>
-<title>【Qiita】 New Relic の公式スキルを活用し、自然言語からダッシュボードを作成する</title>
-<link>https://qiita.com/seamoooooo/items/79f7ba11e0787ac2427b</link>
-<guid>842c3ac6a1ffc2a49af6648683ab1778c0dbc28a5a92a809a25abd1fc29b4659</guid>
-<pubDate>2026-11-24T14:07:59+09:00</pubDate>
-<description>「数日後の会議までに、アプリの応答時間やエラー、動画の変換状況をまとめてほしい」。ほかの作業で手いっぱいのときに、こんな依頼が来たらどうでしょうか？ Coding Agentを使えば簡単にできそうですが、送信済みのカスタム属性やNRQLの細かな仕様まで踏まえて作ってもらうに...</description>
+<title>【Qiita】 Claude Code 2.1.304 入門、auto mode設定で既定ルールが消える罠</title>
+<link>https://qiita.com/kai_kou/items/8dcf254137deebe18962</link>
+<guid>346bdb8a5aefe841d7637988fd2ba1eb137730ec628fafe0c200dee9b9bda807</guid>
+<pubDate>2026-11-24T20:09:51+09:00</pubDate>
+<description>はじめに Claude Code 2.1.304 の CHANGELOG には、/auto-mode-setup が「Added」の行で載っています。ところが 公式ドキュメント では、このコマンドは v2.1.228 以降（Windows ネイティブは 2.1.233 以...</description>
 </item>
 <item>
-<title>【Qiita】 0。Anthropicが上場(IPO)を完了し、Opus 5.5を「コーディング・知識業務の主力」に位置づけた月、自分の定期投稿パイプラインが実際にそのモデルを使った回数はこの数字だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/4c0a6738a7b9415e1a90</link>
-<guid>0aad324e1483546a1f3e604223fab01b48ce9fd8941c5fe20cf110110588a5e5</guid>
-<pubDate>2026-11-24T15:32:13+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、Anthropicが新規株式公開(IPO)の完了を発表し、同じ11月のうちに新モデルFable 5.2/Mythos 5.2を発表して「ほとんどのコーディングや知識業務には、日常的に使う主力モデルとしてOpus 5....</description>
+<title>【農業】 The uncertain future of insect frass in agriculture</title>
+<link>https://www.nature.com/articles/s43016-026-01480-4</link>
+<guid>33538fcd9716eb8097f214d32c2487540b4cb54535f51af0c4b22bff29620a6c</guid>
+<pubDate>2026-11-24</pubDate>
+<description>While the promise of insect farming is increasingly under scrutiny, frass remains an overlooked output that exposes the divide between industrial standardization and agroecological diversity. Yet frass is not simply an agricultural input, but a reflection of the system from which it emerges.</description>
 </item>
 <item>
-<title>【Qiita】 0。Qiitaに投稿した159本の記事を見直したら、「AI」というタグが付いていなかった記事の数はこの数字だった</title>
-<link>https://qiita.com/Hideki_Tamae/items/c3f21ee2c75b5d7b5f99</link>
-<guid>da55853699683f814ec1922067bbe4fbee68e19d9ec07015e758aa8fba787523</guid>
-<pubDate>2026-11-24T09:51:22+09:00</pubDate>
-<description>はじめに 0。 これが今回の数字です。何の0かというと、Qiitaに公開済みの記事159本(public/配下の全ファイル)のタグを1本ずつ数え直したときに、「AI」というタグが付いていなかった記事の本数です。 記事を書くたびに、冒頭のfrontmatterでtags配列...</description>
+<title>【農業】 COP31: FAO calls for increased funding for agrifood systems as weather extremes intensify</title>
+<link>https://www.fao.org/newsroom/detail/cop31--fao-calls-for-increased-funding-for-agrifood-systems-as-weather-extremes-intensify/en</link>
+<guid>679194167c449dd6f2d8aa51ad0c387f68384a193488022212d702c52bb88b33</guid>
+<pubDate>Tue, 24 Nov 2026 12:00:00 Z</pubDate>
+<description></description>
 </item>
 <item>
-<title>【自動自律実験】 COP31 went down in flames over fossil fuels — it sends an important message</title>
-<link>https://www.nature.com/articles/d41586-026-03827-0</link>
-<guid>a8ec6397bdf9f75154f84520115e40776b600b164eed7e69f20ff4ef6bec6635</guid>
-<pubDate>2026-11-23</pubDate>
-<description>Nature reporter James Dinneen reflects on the first international climate summit to collapse since 2009.</description>
+<title>【自動自律実験】 Fight AI slop without punishing legitimate researchers</title>
+<link>https://www.nature.com/articles/d41586-026-03824-3</link>
+<guid>f9ad64adef49da03c5cefdfb062c8d6cebe39dbc056cdb7c2d11e581567f20e3</guid>
+<pubDate>2026-11-24</pubDate>
+<description>Fight AI slop without punishing legitimate researchers</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>218cc9a90ef99a757b2618775c7062112372c9b1b18a76027b2800647a298e8d</guid>
-<pubDate>Tue, 24 Nov 2026 06:59:57 GMT</pubDate>
-<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
+<title>【自動自律実験】 Richard of Wallingford and his Rectangulus</title>
+<link>https://www.nature.com/articles/d41586-026-03725-5</link>
+<guid>b00920fac02cc2fa947c9a22d2fa2e22689599bee21ff25ac42f62a7570c0160</guid>
+<pubDate>2026-11-24</pubDate>
+<description>The life of the man who brought trigonometry to England, and experiments begin on a newly completed accelerator at CERN, in our weekly dip into Nature’s archive.</description>
+</item>
+<item>
+<title>【自動自律実験】 The science on AI consciousness must acknowledge uncertainty</title>
+<link>https://www.nature.com/articles/d41586-026-03822-5</link>
+<guid>4faa13d76f81219b144559e9b122d2e1aa592c734139ef2a16a3cd6cc4d5679d</guid>
+<pubDate>2026-11-24</pubDate>
+<description>The science on AI consciousness must acknowledge uncertainty</description>
+</item>
+<item>
+<title>【自動自律実験】 Himalayan disasters demand biodiversity conservation across borders</title>
+<link>https://www.nature.com/articles/d41586-026-03825-2</link>
+<guid>1ce5cb466ef7d5b1a6c0785150d459bd685a17cf55dbea54d6bcfde7252717cb</guid>
+<pubDate>2026-11-24</pubDate>
+<description>Himalayan disasters demand biodiversity conservation across borders</description>
+</item>
+<item>
+<title>【自動自律実験】 Submission caps aren’t enough to tackle AI slop</title>
+<link>https://www.nature.com/articles/d41586-026-03823-4</link>
+<guid>0d42dae87c78b9c74d7d43b11e9a15e385b8227167353f6d41abdeaf6b728d3e</guid>
+<pubDate>2026-11-24</pubDate>
+<description>Submission caps aren’t enough to tackle AI slop</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
-<guid>ba8b46979a193d41c52f84e18eb931a4423cefbd22bad24dfe82ea10fb88524d</guid>
-<pubDate>Tue, 24 Nov 2026 07:00:01 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>b448af2800caff3e0586243955a7631ed20fb4aab4eca53b5fa61abb42bb3947</guid>
+<pubDate>Tue, 24 Nov 2026 18:43:15 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>11684e6443b9cca2e8ab342f4addaabe353b850c08be1a6bce30e0e06654cdbc</guid>
-<pubDate>Tue, 24 Nov 2026 07:00:01 GMT</pubDate>
-<description>Sakana AI Blog read more read more 図：Sakana AIが開発した日本語金融ベンチマーク「JFinBench」の全体スコアと1問あたりのコスト（ツールなし設定）。主要ベンチマークでプロプライエタリモデルに肩を並べつつあるオープンウェイトモデルも、JFinBenchでは大きな差がある。 read more 写真左：マイケル・ロジャース氏、写真右：トム・モラン氏 read more 基調講演を行うSakana AI Chief Scientific Advisorのユルゲン・シュミットフーバー教授 read more read more 管理画面のイメージ。*この画像は架空のデータを使ったイメージです。今後予告なく変更される可能性があります。 read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana AIは、Sakana </description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78715-2</link>
-<guid>9f89c4cd616a40e216dc05706786904bc130eb8a94447675f6ac84ff40fea098</guid>
-<pubDate>Tue, 24 Nov 2026 07:00:04 GMT</pubDate>
+<guid>21ee483a995fbc805fce6e84592985349c5f2ffa25e3bcb3aa16489e1531810f</guid>
+<pubDate>Tue, 24 Nov 2026 18:43:18 GMT</pubDate>
 <description>Artificial intelligence for combinatorial optimization depends on high-quality, structured training data, yet transforming ambiguous natural-language descriptions into precise, executable formal models remains a major bottleneck, traditionally requiring extensive manual effort and domain expertise. We develop CPAM-LLM, an automated constraint-programming modeling framework based on large language models that converts unstructured problem specifications into validated and executable formal models. The framework integrates retrieval-augmented generation grounded in formal concept analysis for structural validation, chaos-mapping-based data augmentation to enhance cross-domain generalization, and dynamic constraint adaptation to accommodate evolving problem settings. We demonstrate its effectiveness across five scenarios, including DNA sequence design, reconfigurable energy storage systems, and unmanned vehicle logistics. The results show that the framework can automate the data-to-model pipeline while adapting reliably to changing requirements, providing a practical approach to automated data formalization and indicating the importance of accessible, high-quality structured data for </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-80974-4</link>
-<guid>bc086ca4c1fd40ea58e175d0451dbb4da249f08a112a2ac4d6c1bcf69591e9ab</guid>
-<pubDate>Tue, 24 Nov 2026 07:00:07 GMT</pubDate>
+<guid>4b423337de2b0649b1b5df05f76d17fc8f36fabd49bb0876a79613dc68dc948b</guid>
+<pubDate>Tue, 24 Nov 2026 18:43:20 GMT</pubDate>
 <description>Emergency department disposition decisions integrate measurements, narratives and contextual risk. We developed SMARTriage AI, a multi-agent system combining role-specialized language-model agents with deterministic rules, intended as safety gates, to recommend admission or discharge. In a retrospective, single-center development study of 469 valid-label adult internal medicine and geriatric encounters from one 24-h period (468 analyzed; 154 admitted), prompts and rules were refined over about 30 cycles on the same cohort, without a held-out set. Apparent accuracy was 88.2% (95% CI, 85.0–90.9%) and admission recall 96.1%. Accuracy was 97.2% with physician summary or recommendations text (n = 248) and 78.2% without it (n = 220); with the text withheld it was 65.0%. After peer review, a redesigned system (v2), evaluated on all 469 encounters under a protocol locked before the runs, discriminated worse than a single language-model agent (Setting A AUC 0.794 vs. 0.821–0.823). At the pre-specified thresholds, accuracy was 76.3% for v2 versus 67.0% for discharging everyone. The multi-agent design did not outperform a single agent, and apparent performance was optimistically biased by dev</description>
 </item>
 <item>
-<title>【Self-driving laboratories】 Search v0.5.6 released 2020-02-24</title>
-<link>https://github.com/arXiv/arxiv-search/releases</link>
-<guid>54ab7dcc30677ad21690ddee1908bcb2ed8ecd87069a4b7c1b0a2e941e4d89c3</guid>
-<pubDate>Tue, 24 Nov 2026 07:00:09 GMT</pubDate>
-<description>arXiv Search UI &amp; APIs. Contribute to arXiv/arxiv-search development by creating an account on GitHub.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>8e24bd2d6b5b9c75324d931ca1e842ec9be1ef013f5006a9434f4ca0feefa2e1</guid>
+<pubDate>Tue, 24 Nov 2026 18:43:42 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 <item>
-<title>【Korea】 News &amp; Notice</title>
-<link>http://www.law.go.kr/LSW/eng/engMain.do?eventGubun=060124
-</link>
-<guid>911ec22f258fb35700f7ec3cc53818e99ee4f7236db47c8917999e8b5b0de2e5</guid>
-<pubDate>Tue, 24 Nov 2026 07:00:27 GMT</pubDate>
-<description>Go to content Go to main menu Ministry of Science and ICT Close all menus Site Map Language 한국어 English News &amp; Notice News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Laws &amp; Statistics Laws &amp; Statistics Laws Statistics National Law Information Center About MSIT About MSIT Minister Vice Minister for Science, Technology and Innovation 1st Vice-Minister 2nd Vice-Minister About MI Organization Location Map Extension Agency News &amp; Notice Notice Press Releases Photo News Science &amp; ICT Trends Newsletter Press Releases SNS Share SNS Share FaceBook Twitter URL Copy Close P</description>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.meijo-u.ac.jp/news/asset/b74dd04364b9b55b6a7c5ccabcdebc32.pdf</link>
+<guid>db5bd30f0e2705cf73cd0733be9fc7acbccb021cbdaf3e60c863a6756539ab93</guid>
+<pubDate>Tue, 24 Nov 2026 18:43:45 GMT</pubDate>
+<description>研究所別一覧</description>
 </item>
 
 </channel>
