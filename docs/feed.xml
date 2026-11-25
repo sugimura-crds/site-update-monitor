@@ -4,107 +4,175 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Wed, 25 Nov 2026 02:52:16 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 11:54:08 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 【完全解説】本質から学ぶSOLIDの原則｜なんとなく分かるから完全理解へ【設計シリーズ】</title>
-<link>https://qiita.com/Sicut_study/items/2bbdfbacab915773dad1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>2d2ca8636c3c6c580030854c5d2a2babd2d9f43b15c18d826f74fcf23951aa4a</guid>
-<pubDate>2026-11-23T17:02:03+09:00</pubDate>
-<description>はじめに こんにちは、Watanabe Jin(@Sicut_study)です。 今回から私が得意な設計に関するチュートリアルを投稿していこうと思います。 ソフトウェア設計は学ぶのが難しいです。 なぜかというと、抽象的な概念が多く、現実世界で利用しにくいためです。 利用...</description>
+<title>【Qiita】 Rails（Sidekiq＋Selenium）経験者向け：Node.jsのBullMQ＋Playwrightでバッチ処理を組むときのハマりどころ</title>
+<link>https://qiita.com/jinxin4869/items/7771db4dccb7ddf3ac4a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>e022bfb030d78fb9d256f6ab2aa5c329ca620e44fff4e9ca5f79f3be6f47992e</guid>
+<pubDate>2026-11-25T00:37:54+09:00</pubDate>
+<description>はじめに Railsでバッチ処理を書くときは、ジョブキューにSidekiq、ブラウザ操作にSeleniumを使うことがよくあります。 では、同じことをNode.js、TypeScriptでやるなら何を選べばいいのか。この記事では、ジョブキューにBullMQ、ブラウザ操作に...</description>
 </item>
 <item>
-<title>【Qiita】 Muse に頼んで「アクセスと駐車場の案内」をホームページに載せる：初めて来る人が迷わない書き方</title>
-<link>https://qiita.com/kakusan2022/items/292727440a121dda678c</link>
-<guid>797074f4cd16c83d6a1bbd2f73ddb5fd3d393f27ec3449f57d8eef058e31e150</guid>
-<pubDate>2026-11-25T10:50:30+09:00</pubDate>
-<description>Muse に頼んで「アクセスと駐車場の案内」をホームページに載せる：初めて来る人が迷わない書き方 私は開発者ではありません。個人でいろいろ調べるのが好きな者として、気になったサービスを整理して紹介しています。 初めて来る人にとって、お店の場所と駐車場の案内は、営業時間と同...</description>
+<title>【Qiita】 情報量が4倍のQRコードを作ろう</title>
+<link>https://qiita.com/reipandada/items/17496db6ac5f64a5e61a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>0dd999e93170cc30a37ee2ba9073dd999d65ffc7f3442406c57326d4337cdb90</guid>
+<pubDate>2026-11-24T08:48:24+09:00</pubDate>
+<description>ネタ記事です。細かいところは適当なのでゆるく読んでください。 世紀の大発明 QRコードの向きは3つの角にある「回」のようなマークを見て、マークのない角の位置で判断しているそうです。 そこでふと思いつきました。4隅すべてにマークを置いて1つを隠したら？ 隠す角によ...</description>
 </item>
 <item>
-<title>【Qiita】 2026年11月25日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-<link>https://qiita.com/ennagara128/items/8abe468129495d0051d1</link>
-<guid>f9125adcbcf5fb9e9ed644375f70e107a65e280431cbda820f5c6888f181c56f</guid>
-<pubDate>2026-11-25T10:48:55+09:00</pubDate>
-<description>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 手書きをやめた途端、ブログが全部AI臭くなった...</description>
+<title>【Qiita】 コピペでSSHしていた初心者が、仕組みから学び直してみる</title>
+<link>https://qiita.com/Yuzuki-ki/items/b23e578d820d411bcb92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>e362730747d0ff4511af978c25de5d8ad5fc69982ad40d494d33899810ab4645</guid>
+<pubDate>2026-11-25T12:08:11+09:00</pubDate>
+<description>はじめに こんにちは！ソーイ株式会社の木寺です。 業務で「このサーバーにSSHで入ってログを見ておいて」と言われて、「SSH……？とりあえずコマンドをコピペしたら入れたけど、何をしているのかはよく分からない」という経験はありませんか？実は私もまさに今その状態で、先輩に教わ...</description>
 </item>
 <item>
-<title>【Qiita】 AIエージェントのコストはトークン代だけじゃない：24時間運用で見落としがちな5つの出費</title>
-<link>https://qiita.com/Ikegamik_genee/items/bafa39402609efc9f3bd</link>
-<guid>68130f1921755faa2f4d8bb666a73a882de2974dc302f454964fd5ef2739d7ec</guid>
-<pubDate>2026-11-25T10:42:08+09:00</pubDate>
-<description>TL;DR エージェントのコストはステップ数に対して線形ではなく、二次関数的に増える。毎ステップで会話履歴を丸ごと送り直しているため 同じ前提で試算すると、ステップ数を10倍にしたときトークン量は約79倍になった 失敗した呼び出し、アイドル状態のインフラ、暴走ループは、...</description>
+<title>【Qiita】 【形態素解析】MeCab・Sudachi・Kuromoji・Janomeで比較してみた</title>
+<link>https://qiita.com/melimelo/items/6c2b162b49b1a05c7724</link>
+<guid>ce8d3461854a8a98daa691f8a6602086e5d427dbeb713fe078ad72777af49582</guid>
+<pubDate>2026-11-25T19:53:43+09:00</pubDate>
+<description>はじめに 日本語の全文検索では、文章を単語に分ける形態素解析が検索精度を左右します。英語のようにスペースで区切れないため、どのツールをどの辞書で使うかによって、分割結果が変わります。 この記事では、同じ文を4つの形態素解析ツール（MeCab・Sudachi・Kuromoj...</description>
 </item>
 <item>
-<title>【Qiita】 Claude、Skills over MCP をベータ公開など、11/25 の AI ニュース</title>
-<link>https://qiita.com/xdaily/items/728ed748ab738b8aa9ac</link>
-<guid>00f6978d3b1b0e524701839034696be856c1164209e1a3e62812996da38c1a1b</guid>
-<pubDate>2026-11-25T10:39:12+09:00</pubDate>
-<description>開発に関わる AI のニュースを毎朝まとめています。各項目の最後に出典へのリンクを付けています。 2026年11月25日更新。今日は 12 本です。 今日の 3 本 Anthropic、Skills over MCP をベータ公開し Tasks と Elicit...</description>
+<title>【Qiita】 検索エンジンの精度評価：評価指標と評価方法</title>
+<link>https://qiita.com/melimelo/items/633438691af25d6d50ed</link>
+<guid>d7d729110ff3811f8f604f8502ac30fdbb8fa4f387d1979e7f7c866afdbc4ab7</guid>
+<pubDate>2026-11-25T19:52:07+09:00</pubDate>
+<description>はじめに この記事では、検索精度を定量的に測るための代表的な指標と、その具体的な測定手順を整理します。 精度測定の指標 前提：適合文書と検索結果 適合文書（正解）：あるクエリに対して「ユーザーが探している文書」 検索結果：検索エンジンが返した文書のリスト（順位付...</description>
 </item>
 <item>
-<title>【環境】 Scientists scramble to track lead plume from planned U.S. Army blast</title>
-<link>https://www.science.org/content/article/scientists-scramble-track-lead-plume-planned-u-s-army-blast</link>
-<guid>3807ca6b8a0d7e7e32ce076dec0fcf1771d738d7f04a800b25e3bd0828ca9cb8</guid>
-<pubDate>2026-11-24
-T06:26:28
-Z</pubDate>
-<description>Unprecedented detonation of lead azide munitions could spread hazardous dust over more than 60 kilometers</description>
+<title>【Qiita】 VS Code 1.147：エージェントへの依頼を予約できる！？Send Later と Drafts を整理した</title>
+<link>https://qiita.com/shahin0809/items/e6cbd71914171b8b6b49</link>
+<guid>47a1b181de2e3e3e7d7a27447f2c40f10a8b49ac795159a21eb9bebc05980a71</guid>
+<pubDate>2026-11-25T20:13:58+09:00</pubDate>
+<description>はじめに こんにちは！やっと期末テストが終わったロホマン シャヒンです！ この記事が少しでも参考になったら、ぜひいいね・共有をお願いします。 間違っている箇所や「ここが分かりにくかった」という指摘は、やさしくコメントいただけると助かります！ 2026年11月18日...</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>fa69935ba1bffd015127644cc2bd871fcd7b9f30521999dc831a30c8234f8026</guid>
-<pubDate>Wed, 25 Nov 2026 02:51:11 GMT</pubDate>
-<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
+<title>【Qiita】 答えが合っていても不合格 ― エージェントの「日常業務」を測るShellBenchを論文まで読んでみた</title>
+<link>https://qiita.com/hisashi-ito/items/3d8d004fd03b2353b36e</link>
+<guid>cce8d28d46c03d5a7b406782cd60edbdc8a1a69b87c44fb18cad38f2605c650e</guid>
+<pubDate>2026-11-25T19:12:01+09:00</pubDate>
+<description>本記事は、筆者の AI エージェント「Muse」の支援を受けて調査・執筆しました。事実関係は一次情報（ShellBench 論文 arXiv:2611.32946 および OpenClaw 公式ブログ）で確認しています。 はじめに 2026年11月24日、OpenCl...</description>
+</item>
+<item>
+<title>【Qiita】 AIモデルのためのファイアウォールとSOC：危険なツール呼び出し991件が0件になる仕組みをデモで確かめる</title>
+<link>https://qiita.com/vidraft/items/1a6bc5f28adf04f7adb9</link>
+<guid>68946da4d8ef8a81eabdde052c89aca28515f13c08af1c6d8b6be46d74637251</guid>
+<pubDate>2026-11-25T18:34:30+09:00</pubDate>
+<description>デモ: ViKernel Desktop（上部のセキュリティ管制ボタン） ・ GitHub: vikernel-agent-guard ・ 製品ページ: vidraft.net 結論 ツールを呼び出すAIモデルには、①呼び出しを実行前に判定するファイアウォールと、②**パ...</description>
+</item>
+<item>
+<title>【Qiita】 Exastro Agentic AIの仕組み：ExastroのAIアシスタントで自然言語の依頼を統制された自動化につなぐ</title>
+<link>https://qiita.com/Exastro-community/items/de9f36b73d004415c041</link>
+<guid>d77f037d41f8e8bc971995f006227fbab0226e00eaa93564f30d1ae33f83a235</guid>
+<pubDate>2026-11-25T18:12:46+09:00</pubDate>
+<description>本記事について: Exastro IT Automation v2.10の開発チームによる解説記事です。なお、本記事の執筆にはAIの支援を受けています。機能の最新情報はv2.10のリリースノートおよび公式ドキュメントとあわせてご参照ください。 Exastroを使えば、深...</description>
+</item>
+<item>
+<title>【Qiita】 Jira Rovoを無料で使う方法</title>
+<link>https://qiita.com/danqinlinan/items/83e0a478ddfb607f051b</link>
+<guid>97a51a5caa1b3fdab21bad56d544f0fea846490b45e7114486a381f23056cf84</guid>
+<pubDate>2026-11-25T17:35:38+09:00</pubDate>
+<description>Atlassian Rovoは、JiraとConfluenceに組み込まれたAIレイヤーです。作業全体を検索し、チャットで質問に答え、下書き、トリアージ、要約を行うエージェントを実行できます。 気になるのは、無料で使えるのかという点でしょう。 先に正直な答えを言うと、Rov...</description>
+</item>
+<item>
+<title>【農業】 Field-informed synthetic microbiome engineering for soil health and sustainable agriculture</title>
+<link>https://www.nature.com/articles/s43016-026-01471-5</link>
+<guid>dfc066c7b00f8bd497b0f4182935628420b84b7fef59786461eb019f706366b2</guid>
+<pubDate>2026-11-25</pubDate>
+<description>This Perspective introduces a field-informed framework for synthetic microbiome (SynBiome) engineering that integrates ecological context into microbial design. It highlights stability, biosafety and scalability as key considerations for reliable microbial interventions in sustainable agriculture.</description>
+</item>
+<item>
+<title>【環境】 A research agenda for integrating artificial intelligence in mitigation scenario workflows</title>
+<link>https://www.nature.com/articles/s41558-026-02801-y</link>
+<guid>b8ea5c4f25ae11af717bb995497f75fab9b49161e2b5e3313d735b9751dcd736</guid>
+<pubDate>2026-11-25</pubDate>
+<description>The integration of artificial intelligence into mitigation scenarios development could reduce the current bottlenecks. This Perspective proposes a research agenda to address these challenges at each phase, highlighting the importance of both agentic architecture and expert oversight.</description>
+</item>
+<item>
+<title>【環境】 Adapting minds to live with climate change</title>
+<link>https://www.nature.com/articles/s41558-026-02804-9</link>
+<guid>8edb044166757b6d6c2a0dc58bb334132751a84e41ad4247f37d64c964a04e9a</guid>
+<pubDate>2026-11-25</pubDate>
+<description>Climate adaptation psychology is fragmented across psychology’s subfields and neighbouring social sciences. This Perspective consolidates the scattered research into a four-layer framework (exposures, mediators, responses and outcomes) and closes with clinical implications and a research agenda.</description>
+</item>
+<item>
+<title>【環境】 Ultrafast cellulose nanocrystal production from diverse lignocellulosic biomass</title>
+<link>https://www.nature.com/articles/s41893-026-01989-3</link>
+<guid>04aa1876de3a1a083a57cd0d36e53ddf08f0c61634af333ca83c383e4cedce6b</guid>
+<pubDate>2026-11-25</pubDate>
+<description>Producing cellulose nanocrystals conventionally involves hazardous chemicals, complex purification and high energy consumption. A recyclable hydrolytic quasi-solvent strategy now enables rapid production of cellulose nanocrystals from cellulose and untreated biomass with lower environmental impacts and costs.</description>
+</item>
+<item>
+<title>【環境】 Superspreading droplets for scalable and green perovskite photovoltaics</title>
+<link>https://www.nature.com/articles/s41893-026-01991-9</link>
+<guid>482ce22132e7149b82cb60463f760f1ce755def9302278f0d530aaf448490daf</guid>
+<pubDate>2026-11-25</pubDate>
+<description>Scaling up the manufacturing of perovskite solar cells requires rapid, zero-waste film deposition. The authors design a universal ink that accelerates production 30-fold, achieving high efficiencies.</description>
+</item>
+<item>
+<title>【自動自律実験】 A powerful HIV vaccine is finally within reach — thanks to these super antibodies</title>
+<link>https://www.nature.com/articles/d41586-026-03718-4</link>
+<guid>ee5fe59beecff488957b128868d38bbafcba6a0c2769587b4c3c7ee0565f15b9</guid>
+<pubDate>2026-11-25</pubDate>
+<description>Potent immune responses against diverse HIV strains have ignited the field, but major hurdles remain.</description>
+</item>
+<item>
+<title>【自動自律実験】 The world has a golden chance to improve HIV prevention: don’t squander it</title>
+<link>https://www.nature.com/articles/d41586-026-03809-2</link>
+<guid>726034f940863258a351ea4078519d7fc6372a4d8d6836774368fa9cd83edcb7</guid>
+<pubDate>2026-11-25</pubDate>
+<description>Generic versions of an effective HIV drug have been approved, and an HIV vaccine is on the horizon. Now is no time for funders to take their foot off the pedal.</description>
+</item>
+<item>
+<title>【自動自律実験】 ‘If we can solve Riemann, what can’t we do?’: mathematicians shocked and excited by AI breakthroughs</title>
+<link>https://www.nature.com/articles/d41586-026-03835-0</link>
+<guid>5e4eb8fbfc6f79dc68c5922fb9227456e95f60632c9172dd62125fe994038d1d</guid>
+<pubDate>2026-11-25</pubDate>
+<description>Awe, anxiety and opportunity: mathematics community shares mixed emotions following the solution of the field’s biggest unsolved problem.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/a-realistic-benchmark-dataset-for-multi-model-resume-screening-and-candidate-ranking/</link>
-<guid>3125fdbf10babc29c370b992d208b228af680e394f4b5f18da71663aa2062fc2</guid>
-<pubDate>Wed, 25 Nov 2026 02:51:14 GMT</pubDate>
+<link>https://research.google/pubs/depth-cot-tradeoffs-in-transformers-a-look-at-path-following/</link>
+<guid>b2350168278ee2723b4eb9a4238e5b0c7a303c563e595bf311075c19e8db639b</guid>
+<pubDate>Wed, 25 Nov 2026 11:53:17 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
-</item>
-<item>
-<title>【AI4S】 read more</title>
-<link>https://en.wikipedia.org/wiki/Core_War</link>
-<guid>7e8b98e3c336d026470c783c0d4b9c1d857c71896ca7ed56b6379a133fcfd0b9</guid>
-<pubDate>Wed, 25 Nov 2026 02:51:14 GMT</pubDate>
-<description>Sakana AI Blog read more read more read more 図：Sakana AIが開発した日本語金融ベンチマーク「JFinBench」の全体スコアと1問あたりのコスト（ツールなし設定）。主要ベンチマークでプロプライエタリモデルに肩を並べつつあるオープンウェイトモデルも、JFinBenchでは大きな差がある。 read more 写真左：マイケル・ロジャース氏、写真右：トム・モラン氏 read more 基調講演を行うSakana AI Chief Scientific Advisorのユルゲン・シュミットフーバー教授 read more read more 管理画面のイメージ。*この画像は架空のデータを使ったイメージです。今後予告なく変更される可能性があります。 read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more Sakana A</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78715-2</link>
-<guid>626eb52bbee3de411de2f674c15a046410b6ebc91f7e45fcc061527ffa5e1c22</guid>
-<pubDate>Wed, 25 Nov 2026 02:51:16 GMT</pubDate>
+<guid>7a52c9fc43516e4f8f206a0abeb98c5a666220f6f61a1479b2926eed64515ff6</guid>
+<pubDate>Wed, 25 Nov 2026 11:53:21 GMT</pubDate>
 <description>Artificial intelligence for combinatorial optimization depends on high-quality, structured training data, yet transforming ambiguous natural-language descriptions into precise, executable formal models remains a major bottleneck, traditionally requiring extensive manual effort and domain expertise. We develop CPAM-LLM, an automated constraint-programming modeling framework based on large language models that converts unstructured problem specifications into validated and executable formal models. The framework integrates retrieval-augmented generation grounded in formal concept analysis for structural validation, chaos-mapping-based data augmentation to enhance cross-domain generalization, and dynamic constraint adaptation to accommodate evolving problem settings. We demonstrate its effectiveness across five scenarios, including DNA sequence design, reconfigurable energy storage systems, and unmanned vehicle logistics. The results show that the framework can automate the data-to-model pipeline while adapting reliably to changing requirements, providing a practical approach to automated data formalization and indicating the importance of accessible, high-quality structured data for </description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41598-026-80974-4</link>
-<guid>876c62eb8ce9ae70e2f986751ba66c50cd5d8f8712523bf8d1d4ff63ec53a58c</guid>
-<pubDate>Wed, 25 Nov 2026 02:51:18 GMT</pubDate>
-<description>Emergency department disposition decisions integrate measurements, narratives and contextual risk. We developed SMARTriage AI, a multi-agent system combining role-specialized language-model agents with deterministic rules, intended as safety gates, to recommend admission or discharge. In a retrospective, single-center development study of 469 valid-label adult internal medicine and geriatric encounters from one 24-h period (468 analyzed; 154 admitted), prompts and rules were refined over about 30 cycles on the same cohort, without a held-out set. Apparent accuracy was 88.2% (95% CI, 85.0–90.9%) and admission recall 96.1%. Accuracy was 97.2% with physician summary or recommendations text (n = 248) and 78.2% without it (n = 220); with the text withheld it was 65.0%. After peer review, a redesigned system (v2), evaluated on all 469 encounters under a protocol locked before the runs, discriminated worse than a single language-model agent (Setting A AUC 0.794 vs. 0.821–0.823). At the pre-specified thresholds, accuracy was 76.3% for v2 versus 67.0% for discharging everyone. The multi-agent design did not outperform a single agent, and apparent performance was optimistically biased by dev</description>
+<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
+<link>https://www.nature.com/search?q=agentic+AI</link>
+<guid>d350b8e3f8c177ce55f7f303cb46e8a241c999ef5807b300159a19002ad83054</guid>
+<pubDate>Wed, 25 Nov 2026 11:53:24 GMT</pubDate>
+<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
 </item>
 <item>
-<title>【AI agent】 Filter By:</title>
-<link>https://www.nature.com/articles/s41591-026-04808-6</link>
-<guid>6d6cd61ff5b749196a36d77664a102182b4c8edcaa33e087896db095d0f1f571</guid>
-<pubDate>Wed, 25 Nov 2026 02:51:22 GMT</pubDate>
-<description>Biomedical research is constrained by the time and domain expertise required to analyze increasingly large and complex datasets. Here we present OpenScientist, an open-source agentic AI co-scientist designed to address this gap by investigating scientist-defined queries and generating verifiable, data-grounded analyses. OpenScientist was evaluated by domain experts across five biomedical case studies, completing analyses in minutes that otherwise would take months of human time and expertise. It accurately quantified Alzheimer’s blood biomarker performance, generated a plasma proteomic survival model that predicted survival in a hidden-evaluation cohort, proposed a reproducible mechanism linking tau pathology to altered lysosomal acidification, generated multiple myeloma hypotheses validated in an external cohort with attenuated signal in randomized controls, and demonstrated concordance with an independent human analysis in a blinded, prespecified proteomic comparison. These results support the use of OpenScientist to assist biomedical data analysis in concert with human experts. To support research involving sensitive clinical datasets, OpenScientist can operate in a fully air-ga</description>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.jircas.go.jp/ja/release/2026/press202621</link>
+<guid>d0af35691fb4734289826fe4abc664e58283bcf164cfc59bdd9ab3fd9417e98e</guid>
+<pubDate>Wed, 25 Nov 2026 11:53:54 GMT</pubDate>
+<description>研究所別一覧</description>
 </item>
 <item>
-<title>【U.S.】 Latest Press Releases</title>
-<link>https://www.energy.gov/pa/office-public-affairs</link>
-<guid>d81a2b26643fde05b1be9d9b90e4999aa58a5cb81f11cdc50788cdc28dc9eaa2</guid>
-<pubDate>Wed, 25 Nov 2026 02:51:28 GMT</pubDate>
-<description>The Office of Public Affairs works to connect the American public directly to the U.S. Department of Energy, every day. We help make government more accessible, transparent, and relevant to everyday life.</description>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>59da85ec543de0b6332d3661de37946ade7190eeb75aa7bff5e8d948c279e4df</guid>
+<pubDate>Wed, 25 Nov 2026 11:53:56 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 <item>
-<title>【U.S.】 Suggested Matches</title>
-<link>https://www.energy.gov/search?keywords=%22Genesis%20Mission%22</link>
-<guid>33c8750d9b67e205cda1e5c795809c747f62b044f665153366f9c2e8cba46e92</guid>
-<pubDate>Wed, 25 Nov 2026 02:51:35 GMT</pubDate>
-<description>… Genesis Mission … Genesis Mission is building a new instrument for discovery, uniting …</description>
+<title>【環境】 Even the ‘good guys’ of AI are locking in fossil fuels</title>
+<link>https://grist.org/?s=AI</link>
+<guid>b355ecb6dac06e9719153fd42fc43c36bd663515d94629fc38862de700186188</guid>
+<pubDate>Wed, 25 Nov 2026 11:54:00 GMT</pubDate>
+<description>Anthropic claims to be developing AI safely. Why doesn’t its own climate impact make the cut?</description>
 </item>
 
 </channel>
