@@ -4,105 +4,126 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 26 Nov 2026 03:18:05 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 12:57:42 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 [AIX] syslog出力ファイルのNULLクリア後にスパースファイルが作成される事象について</title>
-<link>https://qiita.com/kmh/items/323ee1b5fbe029c5f532</link>
-<guid>cdafcfd03b36528d4e0f35dd64d4f4f861c68b964796c557f5a94c14e13a96b4</guid>
-<pubDate>2026-11-26T11:07:54+09:00</pubDate>
-<description>[AIX] syslog出力ファイルのNULLクリア後にスパースファイルが作成される事象について 確認した事象: syslogの出力ファイルに/dev/nullコピーを行っても、次の書き込み時にファイルサイズが戻る場合があります。 NULLクリア前のファイルサイズを確...</description>
+<title>【Qiita】 【技術書典21】Claudeと作った同人誌で初出展しました。部数の決め方と当日の売れ方の記録</title>
+<link>https://qiita.com/minorun365/items/4416bd940ca0cd3aaabc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>184b615054e6098ced7cffdb1e6c06e29b6265c09445d0a412bf23b1efb77546</guid>
+<pubDate>2026-11-25T20:57:51+09:00</pubDate>
+<description>技術書典に初出展しました！ 技術書典21、おつかれさまでした！ 初めての出展で、Claude と一緒に作った同人誌を300部刷り、紙の本はおかげさまで全部お届けできました。 お待ちしてます！#技術書典 pic.twitter.com/tOZ1NwRlsr— 🍊❄️ (@...</description>
 </item>
 <item>
-<title>【Qiita】 [AIX] TE設定のサンプル</title>
-<link>https://qiita.com/kmh/items/c4eecee73337f3260ecc</link>
-<guid>92cf5b672d0337685a8cb05cdd0c67d5e73cdf472c95d483d3e4540a8d0b0aaf</guid>
-<pubDate>2026-11-26T11:07:42+09:00</pubDate>
-<description>[AIX] TE設定のサンプル TEを設定することで信頼性のないモジュールの実行を抑止することができます。 詳しい設定項目はマニュアルを参照ください。 実行例: TEはtrustchkコマンドで設定できます。 # trustchk -p TE=ON CHKEXEC=ON...</description>
+<title>【Qiita】 【個人開発】AIでバトルロイヤルゲームを作ってみた</title>
+<link>https://qiita.com/yangon/items/4b0e3752764eb13f15be?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>969551a514039aab3ff3370ea366b6b0b393877f1ce17fb369dd0dda0cdebc9e</guid>
+<pubDate>2026-11-25T17:14:14+09:00</pubDate>
+<description>はじめに 「荒野行動みたいなバトロワを、ブラウザで、three.js なしで作って」 そう AI に頼んだら、2日後にはこうなっていました。 ブラウザで動く30人バトルロイヤル（オンライン対戦 / ボット戦） Rust → WebAssembly のゲームコア、生...</description>
 </item>
 <item>
-<title>【Qiita】 [AIX] 作成したモジュールをtrustchk管理に追加する方法</title>
-<link>https://qiita.com/kmh/items/2dcae6337170bb07db71</link>
-<guid>7eafa6ab20ec916dacad00a9dce8912f2e12b595239e001f6283e9de8d61fe51</guid>
-<pubDate>2026-11-26T11:07:29+09:00</pubDate>
-<description>[AIX] 作成したモジュールをtrustchk管理に追加する方法 以下の手順で自分で作成したモジュールをtrustchk管理に追加することができます。 ※鍵や証明書の作成オプションはopensslのマニュアル等を参照しながら要件にあうものに変更してください。 1. 秘...</description>
+<title>【Qiita】 心理的安全性を現場で育てる ― 「なんで？」をやめただけで2チーム統合リーダーの現場が変わった話</title>
+<link>https://qiita.com/teppei19980914/items/205353ed847956c45dd2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
+<guid>f5a4988a81cff98e27bb8eb258d313fb616fd63c2f004d396a6e5335790062e8</guid>
+<pubDate>2026-11-25T19:03:41+09:00</pubDate>
+<description>この記事は約12分で読めます。 心理的安全性は、制度を1つ導入すれば手に入るものではありません。2026年9月、私は自社の2チームを統合するリーダーとしてアサインされました。現場はお客様から「稼働負荷を下げてほしい」と要望され、成果物の品質も安定していませんでした。そこ...</description>
 </item>
 <item>
-<title>【Qiita】 [AIX] summツールの紹介</title>
-<link>https://qiita.com/kmh/items/331a2030c5d30f7f48f6</link>
-<guid>dd1e803808ca33d35ee3b147879460a0bb0d76e46fe298096b78a41287c293d0</guid>
-<pubDate>2026-11-26T11:07:13+09:00</pubDate>
-<description>[AIX] summツールの紹介 errptのセンスデータ等を解析し、管理者が解読できるように整形するツールがあります。 IBM AIX Diagnostic Tool &quot;summ&quot;: A Summarized System Error log and Report Ge...</description>
+<title>【Qiita】 AIで数理最適化モデルを改善する：数式が変わっていないのに、結果が良くなった</title>
+<link>https://qiita.com/Archie_notes/items/fd4b400d23b2800b60b8</link>
+<guid>f057bb167cb019ba009ab76c3756fef26bd882be477f86fb52ee53a048292ada</guid>
+<pubDate>2026-11-26T21:44:30+09:00</pubDate>
+<description>概要：15秒でわかる AIに数理最適化モデルを改善させる実験の第2回です。 前回の実験で得たモデルをさらに見直すと、12条件のうち11条件で、以前から使っていた基準モデルより平均的に良い結果になりました。残る1条件では、同じ条件で3回計算して3回とも約36％悪くなりました...</description>
 </item>
 <item>
-<title>【Qiita】 AI Agentとの[契約]に最適化したPromptの書き方。「Task Contract Prompt」 爆誕!</title>
-<link>https://qiita.com/dahatake/items/148acecf049b45a56b47</link>
-<guid>de8946acbd6628f2caaef59c101be6942cbb193178b85310f036c741e74bbf55</guid>
-<pubDate>2026-11-26T09:13:59+09:00</pubDate>
-<description>背景 AI Agent に、少し大きめの仕事を任せることが増えました。 便利です。 ただ、任せる仕事が大きくなるほど、依頼文に書いていない判断も増えます。 月の区切りは日本時間なのか、UTC なのか。 金額は税込なのか、税抜なのか。 データがない月は、0 として出すのか、...</description>
+<title>【Qiita】 Postgres MCP Server を IAM DB 認証でパスワードなしの読み取り専用ユーザーとして Aurora に繋ぐ</title>
+<link>https://qiita.com/asahide/items/90a744d9cdf33401256e</link>
+<guid>a43661aa502aaf85bee4bddb8665b0b3e1baa595c5075376d825097984578731</guid>
+<pubDate>2026-11-26T21:42:34+09:00</pubDate>
+<description>1. はじめに この記事は AWS Builder Center に英語で公開した記事1の日本語版です。 Aurora PostgreSQL のデータを AI エージェントに読ませたい。売上を集計させたり、障害のときに表の中身を調べさせたりしたい。ただし、書き込みだけは何...</description>
 </item>
 <item>
-<title>【Qiita】 【Day 6】Claude Code に最初に話しかける言葉。「このPCを説明して」から始めよう</title>
-<link>https://qiita.com/FPT_Oshima/items/e326f29caa7a54eae673</link>
-<guid>067ceac8613fb251d7f46b26d92af2c6237b8b7e011eb05c81a4d75c83c51b74</guid>
-<pubDate>2026-11-26T12:09:30+09:00</pubDate>
-<description>連載「インフラ一筋23年、実務でコードを書いたことがない私が Claude Code で社内業務を“自動運転”にするまで」第6回 〜 show run は指が覚えているのに、Linux と Python には苦手意識しかないエンジニアの40日間 〜 最初の5分、何を...</description>
+<title>【Qiita】 Claude Code × Next.js で積算自動システムを作って気づいたこと——AI読み取り・マルチテナント・本番デプロイの実録</title>
+<link>https://qiita.com/sorabcjanne1/items/e0b3599258128170401d</link>
+<guid>3cc733a957e91eb14b6f51ddf6e7676eb52209eaba790ff2e41e06a6339aedff</guid>
+<pubDate>2026-11-26T18:00:23+09:00</pubDate>
+<description>Claude Code × Next.js で積算自動システムを作って気づいたこと——AI読み取り・マルチテナント・本番デプロイの実録 はじめに 建設業の積算業務を自動化するSaaS「ハカリエ」を、Claude Code（Opus系モデル）をエージェントとして使いながら...</description>
 </item>
 <item>
-<title>【Qiita】 仕様書、指示ファイル、そして「完了」の中身：OpenSpec、AGENTS.md、Ralph ループ、pstack をめぐる9本</title>
-<link>https://qiita.com/redreamality/items/d5f62e48b32eac372618</link>
-<guid>148c38bdda2978aff733e87647d2373d88ea44f5bdaee3f0b5ba7f1999c7028f</guid>
-<pubDate>2026-11-26T11:20:18+09:00</pubDate>
-<description>コーディングエージェントとの仕事で手間がかかる場所は、ここ半年でチャット欄からリポジトリの中のファイルへ移ってきました。エージェントが作業の拠り所にする仕様書、プロジェクトの流儀を伝える AGENTS.md や CLAUDE.md、そしてスクリプトで確かめられる「完了」の定...</description>
+<title>【Qiita】 AIベンチマークの変遷（とAIベンチマーク解いてみたかった話）</title>
+<link>https://qiita.com/amoyris/items/7b7bd74110f2982ebe87</link>
+<guid>16b77aa49db80c1cee1e5b1a4dfc492b30159191cecbb69396a2588192448b5e</guid>
+<pubDate>2026-11-26T17:40:04+09:00</pubDate>
+<description>はじめに AIベンチマークは多くの種類があるけど中身を知らないな、と思ったので。 ほとんどの調査はClaude Fable 5.2に任せた。 ざっくり言うと、ベンチマークの歴史は「作る → 数年で解かれる → もっと難しいものを作る」の繰り返しである。 測る対象も「画像の...</description>
 </item>
 <item>
-<title>【Qiita】 Muse に頼んでサイトの「パンくずリスト」を整える：今どのページにいるか分かる表示の頼み方</title>
-<link>https://qiita.com/kakusan2022/items/feea6873f7283ca77f0a</link>
-<guid>d5472c738b2467f0f14609b03ee02b993cad28aca39d6480fec71dc0f2eb20b5</guid>
-<pubDate>2026-11-26T10:54:13+09:00</pubDate>
-<description>私は開発者ではありません。個人でいろいろ調べるのが好きな者として、気になったサービスを整理して紹介しています。 ページが増えてきたホームページで、見る人が「今どのページにいるのか」「一つ上に戻るにはどうすればいいのか」と迷うことがあります。たとえば「トップページ &gt; 商品紹...</description>
+<title>【農業】 Nationally determined contributions that threaten African pastoral livelihoods will be ineffective for climate change mitigation</title>
+<link>https://www.nature.com/articles/s43016-026-01481-3</link>
+<guid>e80acbe7cfed27d5206ac55df1f5f629b3cafbe361fc7d69408b9297a4f9da96</guid>
+<pubDate>2026-11-26</pubDate>
+<description>Nationally determined contributions that threaten African pastoral livelihoods will be ineffective for climate change mitigation</description>
 </item>
 <item>
-<title>【Qiita】 Anthropic が Messages API の CPU 消費を 70% 削減など、11/26 の AI ニュース</title>
-<link>https://qiita.com/xdaily/items/c201a3e58448c6e57837</link>
-<guid>a85f55d24e46db8cab0f0dbe15d30126e6cd33f38e67c26843ddf624447f76c6</guid>
-<pubDate>2026-11-26T10:36:58+09:00</pubDate>
-<description>開発に関わる AI のニュースを毎朝まとめています。各項目の最後に出典へのリンクを付けています。 2026年11月26日更新。今日は 9 本です。 今日の 3 本 Anthropic が Messages API を Rust に移行し CPU 消費を 70% ...</description>
+<title>【農業】 Within-country income inequality alters the quantity and composition of projected global food demand</title>
+<link>https://www.nature.com/articles/s43016-026-01469-z</link>
+<guid>d12fa07b525126628dbbe34da2157542a300da861b06f5a99644fe44436bbe21</guid>
+<pubDate>2026-11-26</pubDate>
+<description>While income distribution is a key determinant of food demand, it is not fully captured in current global food and land-use models. By embedding estimates of future intranational inequality into scenario analysis, this study quantifies the combined effects of income distribution, socioeconomic development and climate c</description>
 </item>
 <item>
-<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
-<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
-<guid>d7cfa9a1fc2ab77200b4d4118c3b4d7720fe258498e6b204a535bc504bae8c3a</guid>
-<pubDate>Thu, 26 Nov 2026 03:17:09 GMT</pubDate>
-<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
+<title>【自動自律実験】 Navigating grief in academia: ways to find balance</title>
+<link>https://www.nature.com/articles/d41586-026-02752-6</link>
+<guid>c9f2b9dc71c719bdb338b8dac5bbe363ce5f05cf4c452ddfe14213c3d42fddbb</guid>
+<pubDate>2026-11-26</pubDate>
+<description>Pamela Yeh found it hard to manage grief and the demands of her work. Here are some steps that helped her to ease the burden.</description>
+</item>
+<item>
+<title>【自動自律実験】 Orangutans face bleak future after Indonesia’s devastating wildfires</title>
+<link>https://www.nature.com/articles/d41586-026-03828-z</link>
+<guid>aeda44d4f8f37bd2746de01c016ac1e056b98b1691b821ead7b789bd624c98b1</guid>
+<pubDate>2026-11-26</pubDate>
+<description>The super El Niño intensified Indonesian fires, which ravaged the habitat of the critically endangered Bornean orangutan.</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/hadwigers-covering-conjecture-in-three-dimensions/</link>
-<guid>1c362f8a9138ea8cf16329a5da273b8204b781898ba117a58891d70a6f3c4e28</guid>
-<pubDate>Thu, 26 Nov 2026 03:17:12 GMT</pubDate>
+<link>https://research.google/pubs/a-3d-scene-graphs-survey-open-challenges-and-future-directions/</link>
+<guid>c8483d403cdcc4a7649226bee2efd87a93d2fd8e53e636040a88b75d05e0269d</guid>
+<pubDate>Thu, 26 Nov 2026 12:56:42 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
+</item>
+<item>
+<title>【AI4S】 read more</title>
+<link>https://en.wikipedia.org/wiki/Core_War</link>
+<guid>839ab34bdf5263eb9c833f9b7c2a594082464543290308d3641743538b692c3d</guid>
+<pubDate>Thu, 26 Nov 2026 12:56:42 GMT</pubDate>
+<description>Sakana AI Blog read more read more read more read more 図：Sakana AIが開発した日本語金融ベンチマーク「JFinBench」の全体スコアと1問あたりのコスト（ツールなし設定）。主要ベンチマークでプロプライエタリモデルに肩を並べつつあるオープンウェイトモデルも、JFinBenchでは大きな差がある。 read more 写真左：マイケル・ロジャース氏、写真右：トム・モラン氏 read more 基調講演を行うSakana AI Chief Scientific Advisorのユルゲン・シュミットフーバー教授 read more read more 管理画面のイメージ。*この画像は架空のデータを使ったイメージです。今後予告なく変更される可能性があります。 read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read more read mor</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78715-2</link>
-<guid>5884f47b934546b862615d7ecac1b2422dd35c35b28dfbf56ab44c9d41c94912</guid>
-<pubDate>Thu, 26 Nov 2026 03:17:16 GMT</pubDate>
+<guid>e2cbf33faa3e242ca670eea40c21ade8b6a703561e22387658f8494906407759</guid>
+<pubDate>Thu, 26 Nov 2026 12:56:44 GMT</pubDate>
 <description>Artificial intelligence for combinatorial optimization depends on high-quality, structured training data, yet transforming ambiguous natural-language descriptions into precise, executable formal models remains a major bottleneck, traditionally requiring extensive manual effort and domain expertise. We develop CPAM-LLM, an automated constraint-programming modeling framework based on large language models that converts unstructured problem specifications into validated and executable formal models. The framework integrates retrieval-augmented generation grounded in formal concept analysis for structural validation, chaos-mapping-based data augmentation to enhance cross-domain generalization, and dynamic constraint adaptation to accommodate evolving problem settings. We demonstrate its effectiveness across five scenarios, including DNA sequence design, reconfigurable energy storage systems, and unmanned vehicle logistics. The results show that the framework can automate the data-to-model pipeline while adapting reliably to changing requirements, providing a practical approach to automated data formalization and indicating the importance of accessible, high-quality structured data for </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-80974-4</link>
-<guid>fe85606ef40c9df8ff8a878918ce52e74ea5c1b4fe4d3d7f54f09d204304447c</guid>
-<pubDate>Thu, 26 Nov 2026 03:17:18 GMT</pubDate>
+<guid>362562a69ff34eb1e42ab7acdd3785e8b33068a4e4bcf66b9b017ab3e22e3de7</guid>
+<pubDate>Thu, 26 Nov 2026 12:56:47 GMT</pubDate>
 <description>Emergency department disposition decisions integrate measurements, narratives and contextual risk. We developed SMARTriage AI, a multi-agent system combining role-specialized language-model agents with deterministic rules, intended as safety gates, to recommend admission or discharge. In a retrospective, single-center development study of 469 valid-label adult internal medicine and geriatric encounters from one 24-h period (468 analyzed; 154 admitted), prompts and rules were refined over about 30 cycles on the same cohort, without a held-out set. Apparent accuracy was 88.2% (95% CI, 85.0–90.9%) and admission recall 96.1%. Accuracy was 97.2% with physician summary or recommendations text (n = 248) and 78.2% without it (n = 220); with the text withheld it was 65.0%. After peer review, a redesigned system (v2), evaluated on all 469 encounters under a protocol locked before the runs, discriminated worse than a single language-model agent (Setting A AUC 0.794 vs. 0.821–0.823). At the pre-specified thresholds, accuracy was 76.3% for v2 versus 67.0% for discharging everyone. The multi-agent design did not outperform a single agent, and apparent performance was optimistically biased by dev</description>
 </item>
 <item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>343c19de419a98148c4de3c5cd7ac3490dc48a3a3ef46475ae343a0921c8972e</guid>
-<pubDate>Thu, 26 Nov 2026 03:17:49 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【農業】 最新のプレスリリース一覧</title>
+<link>https://www.kobe-u.ac.jp/ja/news/article/20261120-68461/</link>
+<guid>8ad682ba9a78590eb4490345975ef4a1696169af847f3fe20cb4d6e9ecc0058c</guid>
+<pubDate>Thu, 26 Nov 2026 12:57:26 GMT</pubDate>
+<description>土壌中に潜む植物寄生性線虫は、多くの作物の収量や品質に深刻な影響を与えることから、農業現場ではその防除が大きな課題となっています。中でもジャガイモやトマトなどのナス属作物に寄生するジャガイモシストセンチュウは、国際的な検疫対象にも指定されており、持続的な対策が求められています。ジャガイモシストセンチュウは、ジャガイモやトマトの根から分泌される物質「ソラノエクレピン」を孵化の合図として利用しています。しかし、ソラノエクレピンは極めて複雑な化学構造を持ち、植物がどのようにしてこの物質を作り出しているのかは長年</description>
+</item>
+<item>
+<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
+<link>https://agfundernews.com</link>
+<guid>61ad552ee883571c8af8eed755dd17ee53d262689e795a1eea25014075c64fce</guid>
+<pubDate>Thu, 26 Nov 2026 12:57:29 GMT</pubDate>
+<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
 </item>
 
 </channel>
