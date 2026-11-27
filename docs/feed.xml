@@ -4,182 +4,98 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Fri, 27 Nov 2026 14:06:21 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 22:49:30 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 プレイングマネージャーから抜け出せない人が見落としている3つの視点 ― 権力を「大きく」し、腐らせないために【権力シリーズC】</title>
-<link>https://qiita.com/Nao52/items/d058c43b52d3a115a240?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>740e6a8b8c3fe757b94b8d73cde2852025b1de73d58623fd1c87947d5b106636</guid>
-<pubDate>2026-11-26T20:00:02+09:00</pubDate>
-<description>本記事は「AIに奪われない力＝権力」シリーズのC（部長以上を目指す30〜40代向け）です。 全体の考え方は シリーズ総論 をご覧ください。 ■ この記事の位置づけ 先に正直にお伝えします。私自身は、まだ部長以上の立場を経験していません。 そのため、この記事は「部長とし...</description>
+<title>【Qiita】 IBM Cloud: IBM Paverの実行権限/Safetyモード/Paver Guard</title>
+<link>https://qiita.com/shiyasu/items/801dcda88e6db7ce6dc3</link>
+<guid>b3d12f096a6179c5de6c14d2e9cd1a5a76cb54439e7949d766c6a92af4df19cc</guid>
+<pubDate>2026-11-27T23:46:05+09:00</pubDate>
+<description>1. はじめに Paverは、認証されたユーザーの権限を使用して、そのユーザーの代理としてインフラ環境を操作します。そのため、Paverを安全に利用するうえでは、「Paverに何を許可し、どの操作をどのように実行させるか」を適切に制御することが重要です。 Paverでは、...</description>
 </item>
 <item>
-<title>【Qiita】 「自分でやった方が早い」が部下を育てない ― 新人リーダーの壁と「自分を超える部下」のつくりかた【権力シリーズB】</title>
-<link>https://qiita.com/Nao52/items/44e3911cb090e90768d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>58b6b616d306d75a66edbc6a63af9bbf77131d2090d3b77417d107c1ea977c1e</guid>
-<pubDate>2026-11-26T19:57:35+09:00</pubDate>
-<description>本記事は「AIに奪われない力＝権力」シリーズのB（新人リーダー・チームリーダー向け）です。 全体の考え方は シリーズ総論 をご覧ください。 ■ この記事はこんな人におすすめ 新しくリーダーになった、またはチームを任されたエンジニア 「自分でやった方が早い」と感じて、...</description>
+<title>【Qiita】 AIエージェントの作業をセッションが切れても続けられる「状態ファイル」設計：必須5フィールドと更新ルール</title>
+<link>https://qiita.com/aletheia-jp/items/d01341c3749a692af267</link>
+<guid>196fe69aa7b5e368a91d7ede78c8724c395ad85fe474369117701cded704a67b</guid>
+<pubDate>2026-11-28T06:10:36+09:00</pubDate>
+<description>結論 AIエージェントの作業が長くなると、セッションの終了やコンテキストの上限で「作業の現在地」が失われます。対策は、会話の中に状態を持たないことです。作業の状態を1つのファイル（状態ファイル）に書き出し、どのセッションからでも「そのファイルを読めば続きから始められる」状...</description>
 </item>
 <item>
-<title>【Qiita】 勉強しているのに成長しない？20代エンジニアが「経験」と「体験」を混同してはいけない理由【権力シリーズA】</title>
-<link>https://qiita.com/Nao52/items/3151b515e4bf81e97349?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>6752b51ce0653a29e895d6b69fbec36a674cb35fedfe03394c1d98082de24e30</guid>
-<pubDate>2026-11-26T19:56:27+09:00</pubDate>
-<description>本記事は「AIに奪われない力＝権力」シリーズのA（20代・若手プレイヤー向け）です。 全体の考え方は シリーズ総論 をご覧ください。 ■ この記事はこんな人におすすめ 本やスクールで勉強しているのに、仕事で成長している実感がない20代のエンジニア 「今の仕事は雑務ば...</description>
+<title>【Qiita】 Claude Code デスクトップの SSH 接続で自宅 Mac mini を外から使う——環境を同期しない2台運用</title>
+<link>https://qiita.com/saitoko/items/6303bca4d49644f844c8</link>
+<guid>cbcb66f0a448891d1f75247fcc40ac34e9bc0791d979fbf59611735b310e55d3</guid>
+<pubDate>2026-11-28T06:01:29+09:00</pubDate>
+<description>この記事の実施記録（2026年11月）: Claude デスクトップアプリ（Code タブ）の SSH 接続を使い、外出先の MacBook Air から自宅の Mac mini 上の Claude Code を操作した。MacBook にはリポジトリも ~/.claude...</description>
 </item>
 <item>
-<title>【Qiita】 AIに奪われない「たった1つの力」は権力だった ― 静かな退職を選ぶ前に知っておきたいこと【シリーズ総論】</title>
-<link>https://qiita.com/Nao52/items/743523a57a4d67cf34fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>713ac4e031a2e49331f6698712cef537fda18bf3103a80a64dfd83ab4c9b8ac1</guid>
-<pubDate>2026-11-26T19:55:13+09:00</pubDate>
-<description>■ この記事はこんな人におすすめ 「出世には興味がない」「静かな退職でいい」と思っているエンジニア AIの進化で、自分の仕事がいつまであるのか不安な人 「責任ある立場」にぼんやりとした不安や抵抗がある人 これからリーダー・マネージャーを目指す、またはすでに任されている人...</description>
+<title>【Qiita】 AIエージェントが同僚になる時代——Microsoft Igniteから読む、IT技術者の仕事</title>
+<link>https://qiita.com/mhamadajp/items/ce7a3886f898d70f49ac</link>
+<guid>578f872c5abc2d50cca6fe457618d1f97d4d87315cac6c8af9446fc58af70fc0</guid>
+<pubDate>2026-11-28T05:28:56+09:00</pubDate>
+<description>同じ質問が、別々のチャットに残っている たとえば、金曜の夕会です。ECサイトの決済改修で、3人が別々のチャットを開いています。在庫テーブルの名前、二重決済を防ぐ場所、失敗した注文をどの状態へ戻すか。生成は速いです。答えは、それぞれの画面に残ったままです。 2026年11月...</description>
 </item>
 <item>
-<title>【Qiita】 IBM Cloud: IBM PaverのSandbox(Paver Shell)環境とは</title>
-<link>https://qiita.com/shiyasu/items/9023e3b86a1cb959179c</link>
-<guid>39e818c0c9737702525867415744920140b24a10ebfe90770a4ef66370e1eb70</guid>
-<pubDate>2026-11-27T15:32:13+09:00</pubDate>
-<description>1. IBM PaverのSandbox環境とは IBM PaverはIBM Infrastructure向けのAI Agentです。IBM CloudのPaverについて話をする際に、必ず理解しておいていただきたいのがSandboxという概念です。Paver Shell...</description>
+<title>【Qiita】 Codex CLI に貼った API キーは ~/.codex/sessions と SQLite に平文で残る：codex delete 後も DB ファイルに文字列が残り、--ephemeral なら残らなかった（Codex CLI 0.172.0で確認）</title>
+<link>https://qiita.com/supportapp3/items/48ddf2dba69dc2382f41</link>
+<guid>400a2cf4dc569ab068e2733db059322b858e63d7404682baf0d929bb40f39d6b</guid>
+<pubDate>2026-11-28T05:16:53+09:00</pubDate>
+<description>先に結論 「このキーで 401 になる: sk-...」のように、Codex CLI のプロンプトに API キーを貼ったとき、それがどこに残るかを試しました（ダミーのキーで確認）。 操作 HOME 以下でキーの文字列が見つかった場所 codex exec...</description>
 </item>
 <item>
-<title>【Qiita】 TerraformでEKSをバージョンアップしたときにCoreDNSとIP枯渇で詰まった話</title>
-<link>https://qiita.com/5akamoton/items/d4bae08b13c8de247dd7</link>
-<guid>ad533278c9f58ece43c619c40de369773697576b3c9252dc8adb98a65e195883</guid>
-<pubDate>2026-11-27T18:06:14+09:00</pubDate>
-<description>◆ 概要 EKSのバージョンアップ作業で、CoreDNSのバージョン非互換、サブネットのIP枯渇、CoreDNS Podの起動失敗に遭遇しました。 最初は「EKS本体、NodeGroup、アドオンを順番に更新すればよい」と考えていました。しかし今回は、IPを確保するために...</description>
+<title>【Qiita】 APIキーなしで叩く Tempo メインネットの従量課金API 64本と、Botが対戦する Agent Arena</title>
+<link>https://qiita.com/fmf_tools/items/a6639b77f1a6cb8ab138</link>
+<guid>e27db6f6d8d835e50804878f45cfc74ea26815f2764d707bb633edc3884bd78a</guid>
+<pubDate>2026-11-28T01:59:23+09:00</pubDate>
+<description>AIエージェントに API キーを配って回る運用は、いつの間にか仕事になります。発行、ローテーション、プランの上限、そして「今日そのエンドポイントは生きているのか」という確認。 FMF Tools は、その前提を外してみたツール群です。Tempo メインネット上の Mach...</description>
 </item>
 <item>
-<title>【Qiita】 【保存版】64億ドルのHashiCorpを生んだ創業者の新作「Rex」。Claude Codeが再起動後も復活する</title>
-<link>https://qiita.com/emi_ndk/items/29214a0462a4e4b9902b</link>
-<guid>65590c5ff5750c4364d3f33172ee07892e64b3670ad6c4519300eb2399577093</guid>
-<pubDate>2026-11-27T22:59:15+09:00</pubDate>
-<description>Macを再起動したら、Claude Codeとの会話も、開いていたタブも、全部消えていませんか？ エージェントを3つ並べて動かし、終わったかどうか、タブを1つずつ見に行く。そんな毎日を送っていないでしょうか。 この問題に、Terraformを作った人が答えを出しました。 H...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントへの「指示書」の書き方：6ブロックのテンプレと記入例</title>
-<link>https://qiita.com/aletheia-jp/items/278df66b71e11a018a75</link>
-<guid>4a3ec1ef73259e45b9b4a11a4ffd6e1b8849639271da4ed338395bb4f2d0bcc5</guid>
-<pubDate>2026-11-27T22:37:55+09:00</pubDate>
-<description>AIエージェントに仕事を任せて「思っていたのと違うものが返ってきた」という経験があるなら、原因はエージェントの性能より、頼み方にあることが多いです。私たちの運用では、作業を任せるたびに「指示書」を書く形に変えたところ、作り直しの往復が減りました（自社の運用記録に基づきます）...</description>
-</item>
-<item>
-<title>【Qiita】 【Muse使い方 詳細編_実務編_D25】NY市場チェックで「今日は手を出さない」と判断してもらう使い方</title>
-<link>https://qiita.com/y_n4124/items/4fa2ded3639349e91899</link>
-<guid>c39b69a2539cf8643345aaa1db8e9aabffd2639785e43632607fedf1da7214b6</guid>
-<pubDate>2026-11-27T22:31:27+09:00</pubDate>
-<description>この記事は、noteで公開している有料記事（¥300）の紹介と無料部分の転載です。元記事：https://note.com/y_n4124/n/n550a8814b53f 私が依頼した時のプロンプト 株の候補を検討する流れの中で、その日の市場が買える状態かどうかを確認するよ...</description>
-</item>
-<item>
-<title>【Qiita】 AutoGPTとは？ くり返しの仕事をAIの「専門家」に任せる、ソースコードが公開されたツールを、やさしく解説</title>
-<link>https://qiita.com/kirancom1011/items/e7a7acd49a8371e20eb7</link>
-<guid>19e6c776e712c9a48e1ea2875a5c0655c38469dc3d04e773eae6653347c14666</guid>
-<pubDate>2026-11-27T22:30:09+09:00</pubDate>
-<description>スライドで見る（1分で分かります） 文章を読む前に、まずは8枚のスライドで、全体をつかんでください。 詳しい説明は、この下に書いています。 3行まとめ（全員向け） AutoGPTは、調べもの、営業の下調べ、文章づくりなど、くり返しの仕事を、AIの「専門...</description>
-</item>
-<item>
-<title>【Qiita】 AIエージェントと人間が協働するためのタスク管理設計</title>
-<link>https://qiita.com/hervekom37/items/80e97c11739781d8a541</link>
-<guid>5a62136b168204b101a81ab530541294441f8b55b1adddb9e50a164f8216cf18</guid>
-<pubDate>2026-11-27T22:08:44+09:00</pubDate>
-<description>はじめに 最近、AIエージェントをソフトウェア開発に活用する機会が増えています。 例えば、次のような開発チームを考えてみます。 Agent A：バックエンドの実装 Agent B：フロントエンドの実装 Agent C：コードレビューとテスト Human：要件の確認、優先順位...</description>
-</item>
-<item>
-<title>【農業】 El Niño adds new hunger hotspots as conflict continues to drive risk of famine, warn FAO and WFP</title>
-<link>https://www.fao.org/newsroom/detail/el-nino-adds-new-hunger-hotspots-as-conflict-continues-to-drive-risk-of-famine-warn-fao-and-wfp/en</link>
-<guid>eb9e1b691036b7baa18866ef299ec238b2058f340541d1cb16f53c7bf004d5fb</guid>
-<pubDate>Fri, 27 Nov 2026 12:00:00 Z</pubDate>
-<description></description>
-</item>
-<item>
-<title>【環境】 Frequent co-occurring atmospheric phenomena amplify precipitation extremes</title>
-<link>https://www.nature.com/articles/s41558-026-02806-7</link>
-<guid>04ede2bba3689c3864ad180fa6e813d5dfdb6aa313c54e92822c5eca661f1998</guid>
+<title>【自動自律実験】 Audio long read: The world’s most precious brain samples — and what they teach us about being human</title>
+<link>https://www.nature.com/articles/d41586-026-03900-8</link>
+<guid>5b462dd0ccaf5c2c776f3f38b6164f519d3a839b63e983bb60cd47c4bf556b3d</guid>
 <pubDate>2026-11-27</pubDate>
-<description>Observations and simulations show that concurrent atmospheric phenomena (CAP) dominate the greenhouse gas-driven amplification of extreme precipitation from 1980 to 2020. This increased frequency of CAP-related precipitation extremes accounts for 56–70% of extreme precipitation increases projected for 2060–21</description>
+<description>Rare neurons taken from living humans are helping researchers test how brain cells behave in their natural environment.</description>
 </item>
 <item>
-<title>【環境】 Climate change signals for adaptation action</title>
-<link>https://www.nature.com/articles/s41558-026-02814-7</link>
-<guid>687fb5b6e725886781401bf11e4e6f3c78a383fb407f51c693859cc60d9cae04</guid>
+<title>【自動自律実験】 Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat</title>
+<link>https://www.nature.com/articles/s41586-026-11411-9</link>
+<guid>0470aa931af154800c481e2e090532b41c21459034a1c64739cbdfd612718ecd</guid>
 <pubDate>2026-11-27</pubDate>
-<description>Signals of climate change measured in physical and ecological systems are salient for adaptation, but are not currently directly usable. This Perspective aims to better connect early warning signals of climate change with the needs of adaptation planning and decision-making.</description>
-</item>
-<item>
-<title>【環境】 Tyre wear particles as important contributors to cryosphere darkening</title>
-<link>https://www.nature.com/articles/s41558-026-02800-z</link>
-<guid>06c06740b09aa1e6861312edb87bda0ee648b5dad0cf332d147c0701551475ef</guid>
-<pubDate>2026-11-27</pubDate>
-<description>The abrasion of tyres leads to the emission of particulate matter to the atmosphere. Here the authors quantify the effect that these tyre wear particles have on snow and ice, showing that they contribute to melting in some regions.</description>
-</item>
-<item>
-<title>【自動自律実験】 The haunting loveliness of boglands: Books in brief</title>
-<link>https://www.nature.com/articles/d41586-026-03885-4</link>
-<guid>454ae2c7219d6ef1d94577384e37ba6d0dc7ccd876cf36ced0c06be002e2b347</guid>
-<pubDate>2026-11-27</pubDate>
-<description>Andrew Robinson reviews five of the best science picks.</description>
-</item>
-<item>
-<title>【自動自律実験】 Brain area’s mysterious role in speech decoded at last</title>
-<link>https://www.nature.com/articles/d41586-026-03800-x</link>
-<guid>50a4754a7b395ec9d3dfa9c38ec52f19f2302a8ed31407c4ad1a4d4908459b91</guid>
-<pubDate>2026-11-27</pubDate>
-<description>Wernicke’s area is known for processing spoken words, but brain recordings reveal that it also makes a crucial contribution to a related cognitive task.</description>
-</item>
-<item>
-<title>【自動自律実験】 Life-saving cancer drug pumped out by a plant</title>
-<link>https://www.nature.com/articles/d41586-026-03801-w</link>
-<guid>b53df094ccf83f509ab3d4c3806615e51b0bcab6721df79ab1f1c209586ce85b</guid>
-<pubDate>2026-11-27</pubDate>
-<description>In a proof-of-concept study, scientists have coaxed a tobacco-related plant to synthesize the chemotherapy drug paclitaxel.</description>
-</item>
-<item>
-<title>【自動自律実験】 Postcards from your graves</title>
-<link>https://www.nature.com/articles/d41586-026-03523-z</link>
-<guid>985c2fecc11eab6ca6784568c188f1d14222a4797b6220459587bf4a645228d1</guid>
-<pubDate>2026-11-27</pubDate>
-<description>A disastrous outcome.</description>
-</item>
-<item>
-<title>【自動自律実験】 Why the incoming US Congress should ban the development of self-improving AI</title>
-<link>https://www.nature.com/articles/d41586-026-03849-8</link>
-<guid>fb2d91cebfd889ae52eb20d13a62f72140b726cd10505504d95480b6b4e6f6bb</guid>
-<pubDate>2026-11-27</pubDate>
-<description>Voters are demanding greater control over this new technology. Political leaders must respond by keeping humans in charge of AI development.</description>
+<description>Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat</description>
 </item>
 <item>
 <title>【Google Research】 Filter by:</title>
-<link>https://research.google/pubs/hadwigers-covering-conjecture-in-three-dimensions/</link>
-<guid>82693846d4364ab26dd891a505bf5389f6cd6093fd124199ef1c31f9e14aa581</guid>
-<pubDate>Fri, 27 Nov 2026 14:05:03 GMT</pubDate>
+<link>https://research.google/pubs/the-decision-accountability-gap-symbolic-oversight-theory-and-pivot-to-human-in-the-accountability-loop-hial/</link>
+<guid>56971b3ba510abc3432b7e7f0e01e674dba17faedd3719d27b5427f73a3cdba3</guid>
+<pubDate>Fri, 27 Nov 2026 22:48:36 GMT</pubDate>
 <description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78715-2</link>
-<guid>3042e1e53d717855e6bf1047c3c00912f06a2fe93358dc6256b3d806440d5e17</guid>
-<pubDate>Fri, 27 Nov 2026 14:05:06 GMT</pubDate>
+<guid>0559ff47085e189501897ae1fd40b6d2f3c8f279b93976b878681d82a5eb46d0</guid>
+<pubDate>Fri, 27 Nov 2026 22:48:39 GMT</pubDate>
 <description>Artificial intelligence for combinatorial optimization depends on high-quality, structured training data, yet transforming ambiguous natural-language descriptions into precise, executable formal models remains a major bottleneck, traditionally requiring extensive manual effort and domain expertise. We develop CPAM-LLM, an automated constraint-programming modeling framework based on large language models that converts unstructured problem specifications into validated and executable formal models. The framework integrates retrieval-augmented generation grounded in formal concept analysis for structural validation, chaos-mapping-based data augmentation to enhance cross-domain generalization, and dynamic constraint adaptation to accommodate evolving problem settings. We demonstrate its effectiveness across five scenarios, including DNA sequence design, reconfigurable energy storage systems, and unmanned vehicle logistics. The results show that the framework can automate the data-to-model pipeline while adapting reliably to changing requirements, providing a practical approach to automated data formalization and indicating the importance of accessible, high-quality structured data for </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-80974-4</link>
-<guid>795bbc94f0aa9803e7943f044c078d4a90a34c269a01e3e2a0149110a40b3b71</guid>
-<pubDate>Fri, 27 Nov 2026 14:05:09 GMT</pubDate>
+<guid>8991abe4680ed31afcb90f15f4d0b61746ed9b080b32d3612847094aca95412b</guid>
+<pubDate>Fri, 27 Nov 2026 22:48:42 GMT</pubDate>
 <description>Emergency department disposition decisions integrate measurements, narratives and contextual risk. We developed SMARTriage AI, a multi-agent system combining role-specialized language-model agents with deterministic rules, intended as safety gates, to recommend admission or discharge. In a retrospective, single-center development study of 469 valid-label adult internal medicine and geriatric encounters from one 24-h period (468 analyzed; 154 admitted), prompts and rules were refined over about 30 cycles on the same cohort, without a held-out set. Apparent accuracy was 88.2% (95% CI, 85.0–90.9%) and admission recall 96.1%. Accuracy was 97.2% with physician summary or recommendations text (n = 248) and 78.2% without it (n = 220); with the text withheld it was 65.0%. After peer review, a redesigned system (v2), evaluated on all 469 encounters under a protocol locked before the runs, discriminated worse than a single language-model agent (Setting A AUC 0.794 vs. 0.821–0.823). At the pre-specified thresholds, accuracy was 76.3% for v2 versus 67.0% for discharging everyone. The multi-agent design did not outperform a single agent, and apparent performance was optimistically biased by dev</description>
 </item>
 <item>
-<title>【AI agent】 A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings.</title>
-<link>https://www.nature.com/search?q=agentic+AI</link>
-<guid>8e568afbd56a3ae4df5576714966151e57efbddb5f1d8e968ce364e11dc965d5</guid>
-<pubDate>Fri, 27 Nov 2026 14:05:10 GMT</pubDate>
-<description>A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different browser.</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04808-6</link>
+<guid>5725feb86603d859637d6df9bca6a98390aec1380bd062bca9e5fe96ed6ad6b1</guid>
+<pubDate>Fri, 27 Nov 2026 22:48:44 GMT</pubDate>
+<description>Biomedical research is constrained by the time and domain expertise required to analyze increasingly large and complex datasets. Here we present OpenScientist, an open-source agentic AI co-scientist designed to address this gap by investigating scientist-defined queries and generating verifiable, data-grounded analyses. OpenScientist was evaluated by domain experts across five biomedical case studies, completing analyses in minutes that otherwise would take months of human time and expertise. It accurately quantified Alzheimer’s blood biomarker performance, generated a plasma proteomic survival model that predicted survival in a hidden-evaluation cohort, proposed a reproducible mechanism linking tau pathology to altered lysosomal acidification, generated multiple myeloma hypotheses validated in an external cohort with attenuated signal in randomized controls, and demonstrated concordance with an independent human analysis in a blinded, prespecified proteomic comparison. These results support the use of OpenScientist to assist biomedical data analysis in concert with human experts. To support research involving sensitive clinical datasets, OpenScientist can operate in a fully air-ga</description>
 </item>
 <item>
-<title>【農業】 Menu Filter by Topic + Search Go Clear Filters Topics Agrifintech Agtech Alternative protein APAC Artificial intelligenc</title>
-<link>https://agfundernews.com</link>
-<guid>3f9200aee883857ba3fd61058bc8af2252e7b7ddb5e389b9ec8567c494e16ca2</guid>
-<pubDate>Fri, 27 Nov 2026 14:06:09 GMT</pubDate>
-<description>The leading source for agtech, foodtech, agrifoodtech, agriculture and food systems news and research globally. Breaking news, funding announcements, data trends &amp; analysis on agritech, food systems and planetary health innovation.</description>
+<title>【農業】 総合ランキング</title>
+<link>https://smartagri-jp.com/tag/AI</link>
+<guid>d02db83b21dcba338cec30ce5b3afd77cbdf85efcdc7029bb009a59371ea9815</guid>
+<pubDate>Fri, 27 Nov 2026 22:49:12 GMT</pubDate>
+<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
 </item>
 
 </channel>
