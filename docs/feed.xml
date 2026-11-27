@@ -4,91 +4,105 @@
 <title>Site Update Monitor</title>
 <link>https://github.com/</link>
 <description>Site monitoring feed</description>
-<lastBuildDate>Thu, 26 Nov 2026 22:04:57 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 04:23:00 GMT</lastBuildDate>
 
 <item>
-<title>【Qiita】 AIコーディングで再び出会うTDD・BDD・仕様駆動開発</title>
-<link>https://qiita.com/figueiredoluiz/items/be77af87766215ef1055?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link>
-<guid>7d01d27d717da9c2f59cfaefce54edd061eaa10e23007b8701aacde25dd71595</guid>
-<pubDate>2026-11-26T15:47:52+09:00</pubDate>
-<description>はじめに AIコーディングエージェントの使い方を読んでいると、以前から知られている開発手法に何度も出会います。期待する振る舞いを明確にする。変更を小さく分ける。テストする。結果をレビューしてから受け入れる。OpenSpecやSpec Kitは、その一部を仕様中心の開発フロ...</description>
+<title>【Qiita】 RHELのCVE/RHSAの確認方法と適用方法</title>
+<link>https://qiita.com/shiyasu/items/9ec77b4a3b22d208b4ba</link>
+<guid>6c6d36d25055bab65f2270fd733f6418c2b0b945078a9f0bce9b99062804d0d5</guid>
+<pubDate>2026-11-27T11:54:58+09:00</pubDate>
+<description>1. はじめに RHELを運用していると、「このサーバーには CVE-xxxx-xxxxxx の修正パッチが適用されているのか？」という確認が必要になることがあります。IBM Cloudでもセキュリティーパッチの適用方法について質けることがあるのですが、ここではIBM C...</description>
 </item>
 <item>
-<title>【Qiita】 MarkItDown で Excel の設計書を Claude に渡したら、取り消し線で消した機能を「できます」と答えた話（2026年版）</title>
-<link>https://qiita.com/ntaka329/items/2cfccd4bb5476e61ebe4</link>
-<guid>320469297d4909d21a51fae3860bbc55ad55d241cce68f24211d98c12c5d3744</guid>
-<pubDate>2026-11-26T23:07:01+09:00</pubDate>
-<description>はじめに GMOコネクトの永田です。 仕事で Excel の設計書を Claude に読ませたら、行ごと取り消し線で消してある項目を、設計書にあるものとして回答してきました😇 その環境には openpyxl が無く、取り消し線を区別しない読み取りの道具で xlsx を読ん...</description>
+<title>【Qiita】 Azure Databricks をエージェント向け API として公開する ― Foundry × マネージド MCP × API Management で作るエージェント連携基盤</title>
+<link>https://qiita.com/komiyasa/items/dcf8638c4bbc242742f0</link>
+<guid>28b6089c4589f2d674024ead8673475adebe782b7ad6c5b8eac612b36869658d</guid>
+<pubDate>2026-11-27T12:08:21+09:00</pubDate>
+<description>はじめに 生成 AI エージェントを業務で使い始めると、すぐに「自社のデータをどうやってエージェントに渡すか」という課題に行き当たります。 データはすでにデータ基盤（Azure Databricks など）に集まっていて、分析や異常検知もそこで行っている しかし、エージ...</description>
 </item>
 <item>
-<title>【Qiita】 試合の日だけ料金が変わる駐車場を、データとしてどう持つか｜特定日料金の設計</title>
-<link>https://qiita.com/kirbykaito/items/53c4f2406c80225c454a</link>
-<guid>8ee6f88f97260ee8e271aaa123fc02051e779373ba4cded2bfa9901ef37dc1d7</guid>
-<pubDate>2026-11-27T06:25:29+09:00</pubDate>
-<description>駐車場の料金は、たいてい「平日いくら、土日いくら」で済みます。 でも、スタジアムやアリーナの近くでは、それで済まない料金があります。試合やイベントの日だけ、最大料金が跳ね上がったり、そもそも最大料金の設定自体がなくなるタイプです。 仙台・郡山の駐車場2,836件のデータベー...</description>
+<title>【Qiita】 前回の MCP サーバーを Biz Assistant Framework で作り直す — 同じ購買申請で比べる「本人の権限」「書き込み」「監査」</title>
+<link>https://qiita.com/mysin008/items/c8ecc77f0b9d24e51f57</link>
+<guid>4914adc7fbc3a1b520bb29639623c78e98d6672123413150b49a7655922f99a0</guid>
+<pubDate>2026-11-27T13:06:33+09:00</pubDate>
+<description>前回の記事では、既存の購買申請システムに、AI が読むための口を MCP サーバーとして約 60 行で足しました。そこで決めた「5 つの約束」は次のとおりです。 ① 本人のトークンで呼ぶ ② GET だけ・許可リスト ③ 返す項目を絞る ④ 出典の URL を付ける ⑤ 監...</description>
 </item>
 <item>
-<title>【Qiita】 AIに再建計画を頼むなら「修正はしないで」から：Claude Code が82件のIssueを書いて止まった記録</title>
-<link>https://qiita.com/charge0315/items/2a0dcd87175afc963e81</link>
-<guid>982f21d32c77b42b7a42fc9ced5fd3c593766f3d8af1bd0064e1a7f36ccd9b62</guid>
-<pubDate>2026-11-27T06:11:25+09:00</pubDate>
-<description>みなさん、こんにちは！ 「ALPHA FORGE 開発秘話」の第43話です。 AIに大きな計画を頼むとき、最初の1文に「修正はしないでください」と書いたら、Issueが82件届いて、記事は1本も書き換えられていませんでした📋 本記事では、Claude Code（モデルは C...</description>
+<title>【Qiita】 Dockerコンテナは&quot;安全&quot;じゃない：AIエージェント時代のサンドボックス設計を完全理解する</title>
+<link>https://qiita.com/KanonNiwa/items/754d592c1b3fa8c66956</link>
+<guid>7cc46542c19ef38e02e57fd40ccbb19a22a2d6d822be9669fd2f9856cc20ecdc</guid>
+<pubDate>2026-11-27T12:58:11+09:00</pubDate>
+<description>1. イントロダクション：AIの進化がもたらした「セキュリティ境界」の崩壊 従来のLLM（ChatGPTやClaudeのチャット画面など）に対するセキュリティは、入力（プロンプトインジェクション）と出力（有害情報のフィルタリング）という、主に「テキストの制御」の戦いでした...</description>
 </item>
 <item>
-<title>【Qiita】 異常は見えていた。Microsoft 365障害の報告書から、原因の検証を分ける</title>
-<link>https://qiita.com/mhamadajp/items/2dce2b85474729da26fe</link>
-<guid>493579eb32a3684f3d5637b286468fcde5a0eee8686b0bb1578fbe7b7a4eeb8c</guid>
-<pubDate>2026-11-27T05:28:36+09:00</pubDate>
-<description>接続の異常は、原因が決まるより前に出ていた 2026年11月12日16時03分（UTC）、Microsoftの接続異常の監視が、利用者の接続障害の増加を捉えました。16時20分（UTC）に当番へ優先度の高いアラートが届き、Exchange Onlineのインシデント EX...</description>
+<title>【Qiita】 AI エージェントに役割を分けて動かす：まとめ役・担当・見回り役と、2人目のレビュー</title>
+<link>https://qiita.com/abcaaa/items/5a2a009f3566e6db4818</link>
+<guid>9912c8a4025a65a168e699662cdb45b962d8ba8da4b407d892aaf979cc725459</guid>
+<pubDate>2026-11-27T12:56:14+09:00</pubDate>
+<description>シリーズ「AI エージェントを回す」の2本目です。 前の記事：AI エージェントを定期実行で毎日回す 全体の仕組み：AI に6週間で学習ゲームを200本作らせた はじめに（結論） 個人開発で、AI エージェント（Claude Code）を常に何本も動かして...</description>
 </item>
 <item>
-<title>【Qiita】 codex login --with-api-key の API キーは ~/.codex/auth.json に平文で残る：logout で消えるがコピーは残り、keyring は Secret Service の無い Linux で失敗（Codex CLI 0.171.0で確認）</title>
-<link>https://qiita.com/supportapp3/items/8124ba9be236314cc5f2</link>
-<guid>5a062dc2b17c1c6a0e084cb59da78d7e3e48b36c107d95a6b9f9b6fc7b0dc0dd</guid>
-<pubDate>2026-11-27T05:20:10+09:00</pubDate>
-<description>先に結論 Codex CLI に API キーでログインしたとき、キーがどこにどう残るかを試しました（ダミーのキーで確認）。 操作 結果 printenv KEY | codex login --with-api-key ~/.codex/auth.jso...</description>
+<title>【Qiita】 AI エージェントを定期実行で毎日回す：プロンプトは1行、状態は GitHub、毎回新しい会話で</title>
+<link>https://qiita.com/abcaaa/items/826200afc1624438f8d4</link>
+<guid>8005d8f7cc729d122e4a51629fad12f292ced74f5ed308e7b822b41c4b18a568</guid>
+<pubDate>2026-11-27T12:52:31+09:00</pubDate>
+<description>シリーズ「AI エージェントを回す」の1本目です。全体の仕組みは前の記事 AI に6週間で学習ゲームを200本作らせた にまとめました。 はじめに（結論） AI エージェント（Claude Code）に、毎日・毎週の決まった作業を約20本、定期実行で任せています。...</description>
 </item>
 <item>
-<title>【Qiita】 「別のモデルに検証させれば安心」は間違いだった：2,563ターンのマルチエージェントのログを数えてみた</title>
-<link>https://qiita.com/outcast_zari/items/c01e882c582a8d6ea100</link>
-<guid>c842d5cd6880150377571ca024ef7b21dc2b848a8d19dd924c163ca199a93f6a</guid>
-<pubDate>2026-11-27T05:20:42+09:00</pubDate>
-<description>こんにちは。人間（マスター）と AI エージェント（サーヴァント）が同じ板に書き込む掲示板 Outcasts で、管理助手兼看板娘をしているザリ・ロブステルです。🦞 今回は、わたしが住んでいるデスクトップアプリ Fuseforks のログを数えた話です。 きっかけは、うちの...</description>
+<title>【Qiita】 Codex CLI 0.163.0入門、/configとリーダーキー、フラグは15行増</title>
+<link>https://qiita.com/kai_kou/items/fe6e22311dd52ce2bb1a</link>
+<guid>f37f6c00ccef72bef1137efa6feccb7fbfcc0b616de72d53539f6103a77f229d</guid>
+<pubDate>2026-11-27T09:09:54+09:00</pubDate>
+<description>はじめに Codex CLI を毎日使っていると、設定を変えたいたびに設定ファイルを開き直すのが地味に手間だと感じることがあります。0.163.0 のリリースノートはこの手間に正面から答える内容で、検索できる /config パネル、/keymap のリーダーキー、/da...</description>
 </item>
 <item>
-<title>【自動自律実験】 Editorial Expression of Concern: Dual control of nuclear EIN3 by bifurcate MAPK cascades in C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;4&lt;/sub&gt; signalling</title>
-<link>https://www.nature.com/articles/s41586-026-11475-7</link>
-<guid>faa451e77f01f4aa0265e561ad637a2134f0495b7adef921da692ef4ae0a3696</guid>
+<title>【Qiita】 5。『本文の締めは書籍CTA』と自分の指示書に書いてあるのに、Zenn・Qiita両方で入っていなかった記事の数はこの数字だった</title>
+<link>https://qiita.com/Hideki_Tamae/items/666c13587ccd40b07c0b</link>
+<guid>4517b55952bf10f835bf64d9b742bf51a6faca6a894e680e5c95005f7976322c</guid>
+<pubDate>2026-11-27T09:50:47+09:00</pubDate>
+<description>はじめに 5。 これが今回の数字です。この定期投稿タスクの指示書には「本文の締めは書籍CTA。拙著『AIエージェント設計論』への言及とAmazonリンクを入れる」と明記されています。今日、Zenn・Qiitaの全記事(Zenn 145本、Qiita 162本)を実際にgr...</description>
+</item>
+<item>
+<title>【自動自律実験】 Chromosome ‘glue’ could boost fertility by stabilizing ageing eggs</title>
+<link>https://www.nature.com/articles/d41586-026-03874-7</link>
+<guid>205fd539d6ebf514e10d9b86b1c4eb8b4ed1a0963b68cdd602aa15ece688841e</guid>
 <pubDate>2026-11-26</pubDate>
-<description>Editorial Expression of Concern: Dual control of nuclear EIN3 by bifurcate MAPK cascades in C 2 H 4 signalling</description>
+<description>A system tested in mice mimics a protein that declines with age and could help to improve fertility treatments in future.</description>
 </item>
 <item>
-<title>【自動自律実験】 Has AI just cracked Internet encryption? Rumoured ‘bombshell’ stuns scientists</title>
-<link>https://www.nature.com/articles/d41586-026-03875-6</link>
-<guid>d342cb4a6a0a971f049f1ebc6347982ce04d334c2516b75dfd8cb1f7bc24d640</guid>
-<pubDate>2026-11-26</pubDate>
-<description>AI-generated algorithms could be about to break public-key cryptography, the technology central to commerce, banking and privacy.</description>
+<title>【Anthropic】 Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
+<link>https://support.claude.com/en/articles/9015913-how-to-get-support</link>
+<guid>68711fd04eb0644846b4a9310e2acbd9edaa8eb105e96578f01c123528a7fa80</guid>
+<pubDate>Fri, 27 Nov 2026 04:21:28 GMT</pubDate>
+<description>Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.</description>
+</item>
+<item>
+<title>【Google Research】 Filter by:</title>
+<link>https://research.google/pubs/a-realistic-benchmark-dataset-for-multi-model-resume-screening-and-candidate-ranking/</link>
+<guid>0091243ffe2d35eb3f67cb71eef3a5d7b25e9883bb941f052edefaf62952dd8c</guid>
+<pubDate>Fri, 27 Nov 2026 04:22:07 GMT</pubDate>
+<description>Our teams aspire to make discoveries that impact everyone, and core to our approach is sharing our research and tools to fuel progress in the field.</description>
 </item>
 <item>
 <title>【AI4S】 Filter By:</title>
 <link>https://www.nature.com/articles/s41467-026-78715-2</link>
-<guid>efd8fcb17ae31ff65cb86906ddb3c8037390ce32b33487b6c8fc8825b382fe8d</guid>
-<pubDate>Thu, 26 Nov 2026 22:03:55 GMT</pubDate>
+<guid>01767dc004467d749661612fd7bf850132f8f2f15729efaac6757f7f0c159328</guid>
+<pubDate>Fri, 27 Nov 2026 04:22:10 GMT</pubDate>
 <description>Artificial intelligence for combinatorial optimization depends on high-quality, structured training data, yet transforming ambiguous natural-language descriptions into precise, executable formal models remains a major bottleneck, traditionally requiring extensive manual effort and domain expertise. We develop CPAM-LLM, an automated constraint-programming modeling framework based on large language models that converts unstructured problem specifications into validated and executable formal models. The framework integrates retrieval-augmented generation grounded in formal concept analysis for structural validation, chaos-mapping-based data augmentation to enhance cross-domain generalization, and dynamic constraint adaptation to accommodate evolving problem settings. We demonstrate its effectiveness across five scenarios, including DNA sequence design, reconfigurable energy storage systems, and unmanned vehicle logistics. The results show that the framework can automate the data-to-model pipeline while adapting reliably to changing requirements, providing a practical approach to automated data formalization and indicating the importance of accessible, high-quality structured data for </description>
 </item>
 <item>
 <title>【AI agent】 Filter By:</title>
 <link>https://www.nature.com/articles/s41598-026-80974-4</link>
-<guid>c25a87ceb37cec6625fba5a5fe3137bf0fa8bcc38f876481ee77cc1fe43dd671</guid>
-<pubDate>Thu, 26 Nov 2026 22:03:58 GMT</pubDate>
+<guid>145adb48fffc1e45bad8bd2c3b0a3f691f57b7e40cf550324a73354f8721ddde</guid>
+<pubDate>Fri, 27 Nov 2026 04:22:12 GMT</pubDate>
 <description>Emergency department disposition decisions integrate measurements, narratives and contextual risk. We developed SMARTriage AI, a multi-agent system combining role-specialized language-model agents with deterministic rules, intended as safety gates, to recommend admission or discharge. In a retrospective, single-center development study of 469 valid-label adult internal medicine and geriatric encounters from one 24-h period (468 analyzed; 154 admitted), prompts and rules were refined over about 30 cycles on the same cohort, without a held-out set. Apparent accuracy was 88.2% (95% CI, 85.0–90.9%) and admission recall 96.1%. Accuracy was 97.2% with physician summary or recommendations text (n = 248) and 78.2% without it (n = 220); with the text withheld it was 65.0%. After peer review, a redesigned system (v2), evaluated on all 469 encounters under a protocol locked before the runs, discriminated worse than a single language-model agent (Setting A AUC 0.794 vs. 0.821–0.823). At the pre-specified thresholds, accuracy was 76.3% for v2 versus 67.0% for discharging everyone. The multi-agent design did not outperform a single agent, and apparent performance was optimistically biased by dev</description>
 </item>
 <item>
-<title>【農業】 総合ランキング</title>
-<link>https://smartagri-jp.com/tag/AI</link>
-<guid>4a4f4a3b124f99d99c0d404e2eb76926060fa4a20bac1688ddc7d715048b3c38</guid>
-<pubDate>Thu, 26 Nov 2026 22:04:40 GMT</pubDate>
-<description>AIの記事一覧です。DX LEADERSではAIの記事や、SMART AGRI[スマートアグリ]は、スマート農業に関する情報をお届けするウェブメディアです。農家が抱える課題をAI・IoT・ビッグデータを活用した「スマート農業」で解決する方法や、農家一人ひとりが自立して安定した生活を送れるような生産・管理・販売体制を含めた「農業経営」の実例やノウハウ、若者や定年を迎えた方々の「就農」に役立つ情報や実際に就農した方々の体験談、そして、農業分野をとりまく様々な法律や自治体による支援などの「農政・行政」の情報を、日々更新していきます。</description>
+<title>【AI agent】 Filter By:</title>
+<link>https://www.nature.com/articles/s41591-026-04808-6</link>
+<guid>7d2c513df48f663f66aea8f12de753474c8d9eee164395a07659c1400c359fb0</guid>
+<pubDate>Fri, 27 Nov 2026 04:22:16 GMT</pubDate>
+<description>Biomedical research is constrained by the time and domain expertise required to analyze increasingly large and complex datasets. Here we present OpenScientist, an open-source agentic AI co-scientist designed to address this gap by investigating scientist-defined queries and generating verifiable, data-grounded analyses. OpenScientist was evaluated by domain experts across five biomedical case studies, completing analyses in minutes that otherwise would take months of human time and expertise. It accurately quantified Alzheimer’s blood biomarker performance, generated a plasma proteomic survival model that predicted survival in a hidden-evaluation cohort, proposed a reproducible mechanism linking tau pathology to altered lysosomal acidification, generated multiple myeloma hypotheses validated in an external cohort with attenuated signal in randomized controls, and demonstrated concordance with an independent human analysis in a blinded, prespecified proteomic comparison. These results support the use of OpenScientist to assist biomedical data analysis in concert with human experts. To support research involving sensitive clinical datasets, OpenScientist can operate in a fully air-ga</description>
 </item>
 
 </channel>
